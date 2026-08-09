@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+*.egg-info/
+.pytest_cache/
+
+# Salida del scraper (datos descargados, no van al repo)
+/jurisprudencia/
+*.sqlite
+*.sqlite3
+
+# Secretos
+.env
