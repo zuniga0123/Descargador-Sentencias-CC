@@ -26,7 +26,7 @@ class Titulacion:
 
 
 def parsear_titulaciones(html: str) -> list[Titulacion]:
-    soup = BeautifulSoup(html, "lxml")
+    soup = BeautifulSoup(html, "html.parser")
     tabla = soup.find("table", id="tablet_titulaciones")
     if tabla is None:
         return []

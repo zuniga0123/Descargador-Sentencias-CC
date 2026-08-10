@@ -67,7 +67,7 @@ def _extraer_tema_resumen(celda) -> tuple[str | None, str | None]:
 
 
 def parsear_resultados(html: str) -> list[ResultadoBusqueda]:
-    soup = BeautifulSoup(html, "lxml")
+    soup = BeautifulSoup(html, "html.parser")
     tabla = soup.find("table", id="tablet_results")
     if tabla is None:
         return []

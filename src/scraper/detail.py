@@ -76,7 +76,7 @@ def _extraer_prov_id(soup: BeautifulSoup) -> str | None:
 
 
 def parsear_detalle(html: str) -> DetalleProvidencia | None:
-    soup = BeautifulSoup(html, "lxml")
+    soup = BeautifulSoup(html, "html.parser")
     div_detalle = soup.find("div", id="div_detalle")
     if div_detalle is None:
         return None
