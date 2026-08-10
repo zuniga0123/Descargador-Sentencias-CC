@@ -129,3 +129,56 @@ def buscar(
     resultados = parsear_resultados(response.text)
     logger.info("Se encontraron %d resultado(s)", len(resultados))
     return resultados
+
+
+# Tipos de providencia oficiales del buscador (facetas del panel lateral,
+# ver aggs_prov_tipo[] en la página de resultados). No incluye "Auto" a
+# propósito: ese valor sí existe en el buscador pero se deja fuera de este
+# mapa porque el caso de uso principal es traer solo sentencias.
+TIPOS_PROVIDENCIA = {
+    "T": "Tutela",
+    "SU": "Sentencia de unificación",
+    "C": "Constitucionalidad",
+    "AUTO": "Auto",
+}
+
+
+def buscar_por_tipo_y_anio(
+    client: RateLimitedClient,
+    tipo: str,
+    anio: int,
+    finicio: str = "1992-01-01",
+    ffin: str | None = None,
+    search_option: str = "texto",
+    cant_providencias: int = config.MAX_CANT_PROVIDENCIAS,
+) -> list[ResultadoBusqueda]:
+    """Busca providencias por tipo (ver TIPOS_PROVIDENCIA) y año de sentencia,
+    usando los filtros ("facetas") del panel lateral del buscador.
+
+    IMPORTANTE: el WAF del sitio bloquea (HTTP 500) cualquier solicitud que
+    repita el mismo nombre de campo más de una vez en el POST (parameter
+    pollution). Por eso esta función solo admite UN tipo y UN año a la vez;
+    para combinar varios tipos/años hay que hacer una solicitud por cada
+    combinación (ver pipeline.ejecutar_por_tipos_y_anios).
+    """
+    tipo_label = TIPOS_PROVIDENCIA.get(tipo.upper(), tipo)
+    cant_providencias = min(cant_providencias, config.MAX_CANT_PROVIDENCIAS)
+    data = {
+        "searchOption": search_option,
+        "buscar_por": "",
+        "finicio": finicio,
+        "ffin": ffin or f"{anio}-12-31",
+        "ver_formulario": "si",
+        "volver_a": "relatoria",
+        "OrderbyOption": config.DEFAULT_ORDER_BY,
+        "cant_providencias": cant_providencias,
+        "maxprov": cant_providencias,
+        "accion": "searchByAggs",
+        "aggs_prov_tipo[]": f"prov_tipo|{tipo_label}|0",
+        "aggs_prov_f_sentencia[]": f"prov_f_sentencia|{anio}|0",
+    }
+    logger.info("Buscando por facetas: tipo=%s año=%s", tipo_label, anio)
+    response = client.post(config.BUSCADOR_INDEX, data=data)
+    resultados = parsear_resultados(response.text)
+    logger.info("tipo=%s año=%s -> %d resultado(s)", tipo_label, anio, len(resultados))
+    return resultados

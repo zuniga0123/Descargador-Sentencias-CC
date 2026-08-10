@@ -79,21 +79,40 @@ python -m src.cli --buscar-por "T-" --incremental
 
 # Desactivar la clasificación por IA (solo reglas)
 python -m src.cli --buscar-por "T-388 DE 2019" --no-ia
+
+# Todas las sentencias de Tutela, Constitucionalidad y Unificación de los últimos 7 años
+python -m src.cli --tipos T,SU,C --ultimos-anios 7
 ```
 
 Argumentos principales (ver `python -m src.cli --help` para todos):
 
 | Argumento | Descripción |
 |---|---|
-| `--buscar-por` | Término de búsqueda (número de providencia, tema, etc.) |
-| `--finicio` / `--ffin` | Rango de fechas `YYYY-MM-DD` (por defecto `1992-01-01` a hoy) |
+| `--buscar-por` | Término de búsqueda (número de providencia, tema, etc.). No se combina con `--tipos`. |
+| `--finicio` / `--ffin` | Rango de fechas `YYYY-MM-DD` (por defecto `1992-01-01` a hoy). Solo aplica con `--buscar-por`. |
 | `--search-option` | Modo de búsqueda del buscador (por defecto `prov_sentencia`; solo ese valor fue confirmado manualmente — pruebe otros en el navegador antes de usarlos) |
-| `--cant-providencias` | Máximo de resultados por consulta (tope 5000 según el buscador) |
-| `--incremental` | Solo descarga providencias nuevas desde la última `fecha_publicacion` en el índice |
+| `--tipos` | Alternativa a `--buscar-por`: trae **todas** las providencias de uno o más tipos (`T`, `SU`, `C`, `AUTO`), separados por coma. Ej. `T,SU,C` para tutelas + unificación + constitucionalidad, sin Autos. Requiere `--anios` o `--ultimos-anios`. |
+| `--anios` / `--ultimos-anios` | Años de sentencia a traer con `--tipos` (lista explícita, o atajo "últimos N años incluyendo el actual"). |
+| `--cant-providencias` | Máximo de resultados por consulta (tope 5000 según el buscador). Solo aplica con `--buscar-por`; con `--tipos` cada combinación tipo+año ya trae el máximo disponible. |
+| `--incremental` | Solo descarga providencias nuevas desde la última `fecha_publicacion` en el índice. Solo aplica con `--buscar-por`. |
 | `--forzar-reprocesar` | Vuelve a descargar/clasificar providencias ya indexadas |
 | `--no-ia` | Desactiva el clasificador de IA (solo reglas) |
 | `--dry-run` | Consulta el buscador pero no descarga HTML ni escribe en disco/DB |
 | `--rate-limit` | Segundos mínimos entre solicitudes (por defecto 1.5) |
+
+### Cómo funciona `--tipos`/`--anios` (filtros del panel lateral)
+
+El buscador ofrece filtros ("facetas") de tipo de providencia y año de
+sentencia en el panel lateral de resultados. Se usan internamente vía el
+endpoint `accion=searchByAggs`. **El WAF del sitio bloquea (HTTP 500)
+cualquier solicitud que repita el mismo campo de filtro más de una vez**
+(protección contra "parameter pollution"), así que el programa hace **una
+solicitud por cada combinación tipo+año** en vez de combinarlas todas en una
+sola consulta. Para `--tipos T,SU,C --ultimos-anios 7` eso son 21 solicitudes
+(3 tipos × 7 años), cada una con el límite de tasa configurado (`--rate-limit`,
+1.5s por defecto) — puede tardar varios minutos en total, y bastante más si
+hay muchas providencias por descargar (cada una implica además una consulta
+de ficha y otra de titulaciones).
 
 ## Automatización (cron externo)
 

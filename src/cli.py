@@ -4,17 +4,22 @@ Ejemplos:
     python -m src.cli --buscar-por "T-388 DE 2019" --finicio 2019-01-01 --ffin 2019-12-31
     python -m src.cli --buscar-por "LIBERTAD DE EXPRESION" --incremental
     python -m src.cli --buscar-por "T-388 DE 2019" --dry-run --no-ia
+
+    # Todas las sentencias de Tutela, Constitucionalidad y Unificación de los últimos 7 años:
+    python -m src.cli --tipos T,SU,C --ultimos-anios 7
 """
 
 from __future__ import annotations
 
 import argparse
+import datetime as dt
 import logging
 import sys
 from pathlib import Path
 
 from src import config
-from src.pipeline import ejecutar
+from src.pipeline import ejecutar, ejecutar_por_tipos_y_anios
+from src.scraper.search import TIPOS_PROVIDENCIA
 
 
 def _parsear_argumentos(argv: list[str] | None = None) -> argparse.Namespace:
@@ -24,15 +29,34 @@ def _parsear_argumentos(argv: list[str] | None = None) -> argparse.Namespace:
     )
     parser.add_argument(
         "--buscar-por",
-        required=True,
-        help="Término de búsqueda (ej. 'T-388 DE 2019', un tema, o vacío '' para rango de fechas amplio).",
+        default=None,
+        help="Término de búsqueda (ej. 'T-388 DE 2019', un tema, o vacío '' para rango de fechas amplio). "
+        "No se usa junto con --tipos/--anios.",
     )
     parser.add_argument("--finicio", default=None, help="Fecha inicial YYYY-MM-DD (por defecto 1992-01-01).")
     parser.add_argument("--ffin", default=None, help="Fecha final YYYY-MM-DD (por defecto hoy).")
     parser.add_argument(
         "--search-option",
         default=config.DEFAULT_SEARCH_OPTION,
-        help=f"Modo de búsqueda del buscador (por defecto {config.DEFAULT_SEARCH_OPTION}).",
+        help=f"Modo de búsqueda del buscador (por defecto {config.DEFAULT_SEARCH_OPTION}). Solo aplica con --buscar-por.",
+    )
+    parser.add_argument(
+        "--tipos",
+        default=None,
+        help="Alternativa a --buscar-por: trae TODAS las providencias de uno o más tipos, separados por "
+        f"coma. Valores válidos: {', '.join(TIPOS_PROVIDENCIA)} (ej. 'T,SU,C' para tutelas, sentencias de "
+        "unificación y de constitucionalidad, sin incluir Autos). Requiere --anios o --ultimos-anios.",
+    )
+    parser.add_argument(
+        "--anios",
+        default=None,
+        help="Años de sentencia a traer con --tipos, separados por coma (ej. '2019,2020,2021').",
+    )
+    parser.add_argument(
+        "--ultimos-anios",
+        type=int,
+        default=None,
+        help="Alternativa a --anios: los últimos N años (incluyendo el actual). Ej. --ultimos-anios 7.",
     )
     parser.add_argument(
         "--cant-providencias",
@@ -75,6 +99,15 @@ def _parsear_argumentos(argv: list[str] | None = None) -> argparse.Namespace:
     return parser.parse_args(argv)
 
 
+def _resolver_anios(args: argparse.Namespace) -> list[int]:
+    if args.ultimos_anios is not None:
+        anio_actual = dt.date.today().year
+        return list(range(anio_actual - args.ultimos_anios + 1, anio_actual + 1))
+    if args.anios:
+        return [int(a.strip()) for a in args.anios.split(",") if a.strip()]
+    raise SystemExit("--tipos requiere --anios o --ultimos-anios.")
+
+
 def main(argv: list[str] | None = None) -> int:
     args = _parsear_argumentos(argv)
 
@@ -83,21 +116,47 @@ def main(argv: list[str] | None = None) -> int:
         format="%(asctime)s %(levelname)s %(name)s: %(message)s",
     )
 
-    resumen = ejecutar(
-        buscar_por=args.buscar_por,
-        finicio=args.finicio,
-        ffin=args.ffin,
-        search_option=args.search_option,
-        cant_providencias=args.cant_providencias,
-        output_dir=args.output_dir,
-        db_path=args.db_path,
-        incremental=args.incremental,
-        usar_ia=not args.no_ia,
-        max_resultados=args.max_resultados,
-        rate_limit_seconds=args.rate_limit,
-        dry_run=args.dry_run,
-        forzar_reprocesar=args.forzar_reprocesar,
-    )
+    if args.tipos and args.buscar_por:
+        raise SystemExit("Use --buscar-por o --tipos/--anios, no ambos a la vez.")
+
+    if args.tipos:
+        tipos = [t.strip().upper() for t in args.tipos.split(",") if t.strip()]
+        desconocidos = [t for t in tipos if t not in TIPOS_PROVIDENCIA]
+        if desconocidos:
+            raise SystemExit(
+                f"Tipo(s) no reconocido(s): {', '.join(desconocidos)}. "
+                f"Valores válidos: {', '.join(TIPOS_PROVIDENCIA)}."
+            )
+        anios = _resolver_anios(args)
+        resumen = ejecutar_por_tipos_y_anios(
+            tipos=tipos,
+            anios=anios,
+            output_dir=args.output_dir,
+            db_path=args.db_path,
+            usar_ia=not args.no_ia,
+            max_resultados=args.max_resultados,
+            rate_limit_seconds=args.rate_limit,
+            dry_run=args.dry_run,
+            forzar_reprocesar=args.forzar_reprocesar,
+        )
+    elif args.buscar_por is not None:
+        resumen = ejecutar(
+            buscar_por=args.buscar_por,
+            finicio=args.finicio,
+            ffin=args.ffin,
+            search_option=args.search_option,
+            cant_providencias=args.cant_providencias,
+            output_dir=args.output_dir,
+            db_path=args.db_path,
+            incremental=args.incremental,
+            usar_ia=not args.no_ia,
+            max_resultados=args.max_resultados,
+            rate_limit_seconds=args.rate_limit,
+            dry_run=args.dry_run,
+            forzar_reprocesar=args.forzar_reprocesar,
+        )
+    else:
+        raise SystemExit("Debe indicar --buscar-por, o bien --tipos junto con --anios/--ultimos-anios.")
 
     print(
         f"\nResumen: {resumen.encontradas} encontradas | "
