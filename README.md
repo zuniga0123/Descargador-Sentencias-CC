@@ -114,41 +114,63 @@ sola consulta. Para `--tipos T,SU,C --ultimos-anios 7` eso son 21 solicitudes
 hay muchas providencias por descargar (cada una implica además una consulta
 de ficha y otra de titulaciones).
 
-## Exportar a Microsoft 365 Copilot (agente con base de conocimiento propia)
+## Exportar para Google Drive / Gemini (base de conocimiento propia)
 
-`src/export_copilot.py` convierte lo ya descargado en `jurisprudencia/` (HTML +
-`metadata.json`) a Markdown (o texto plano), un archivo por providencia, con
-los metadatos como encabezado y el **texto íntegro** de la sentencia debajo.
-No hace ninguna solicitud de red — solo reprocesa archivos locales, así que se
-puede correr las veces que haga falta sin volver a tocar el sitio de la Corte.
+`src/export_markdown.py` convierte lo ya descargado en `jurisprudencia/` (HTML
++ `metadata.json`) a Markdown (o texto plano), con los metadatos como
+encabezado y el **texto íntegro** de la sentencia debajo. No hace ninguna
+solicitud de red — solo reprocesa archivos locales, así que se puede correr
+las veces que haga falta sin volver a tocar el sitio de la Corte.
 
 Se usa Markdown/texto en vez de PDF a propósito: evita depender de una
 librería de generación de PDF con fuentes Unicode (más riesgo de fallar al
-instalar en Windows, como ya pasó con `lxml`), y SharePoint/Copilot indexa
-igual de bien el texto completo en `.md`/`.txt`.
+instalar en Windows, como ya pasó con `lxml`), y Drive/Gemini indexa igual de
+bien el texto completo en `.md`/`.txt`.
 
 ```bash
-python -m src.export_copilot
-# genera jurisprudencia_copilot/ (misma estructura de carpetas área/tema)
+python -m src.export_markdown
+# genera jurisprudencia_md/ (un archivo por providencia, misma estructura área/tema)
 
 # o en texto plano en vez de markdown:
-python -m src.export_copilot --formato txt
+python -m src.export_markdown --formato txt
+
+# agrupar varias providencias en menos archivos (ver más abajo por qué):
+python -m src.export_markdown --consolidar anio
+python -m src.export_markdown --consolidar area
+python -m src.export_markdown --consolidar todo
 ```
 
-Pasos para crear el agente en Microsoft 365 Copilot (requiere cuenta de
-trabajo/organización con licencia de Copilot; el Copilot personal no tiene
-esta función):
+### Pasos para un Gem personalizado de Gemini
 
-1. Corra `python -m src.export_copilot` para generar `jurisprudencia_copilot/`.
-2. Suba esa carpeta completa a una biblioteca de documentos de SharePoint (o a
-   su OneDrive del trabajo), conservando la estructura de subcarpetas.
-3. Espere a que SharePoint indexe los archivos (puede tardar, sobre todo con
-   muchos miles de documentos).
-4. En la biblioteca, use la opción de crear un **agente de Copilot** apuntando
-   a esa biblioteca/carpeta como fuente de conocimiento (en Copilot Studio, o
-   desde el botón de "Crear agente" de la biblioteca de SharePoint, según lo
-   que tenga habilitado su organización).
-5. Pruebe el agente haciendo preguntas sobre las sentencias cargadas.
+Los Gems de Gemini permiten adjuntar archivos (propios o de Google Drive)
+como "conocimiento" de referencia, pero suelen tener un **límite bajo de
+cantidad de archivos** por Gem (muy distinto a SharePoint) — con miles de
+sentencias, un archivo por providencia casi seguro no cabe. Por eso existe
+`--consolidar`: agrupa varias providencias en un solo archivo sin perder nada
+de texto, solo cambia cómo se reparten en archivos.
+
+1. Corra `python -m src.export_markdown --consolidar anio` (o `area`, o
+   `todo` si con `anio` sigue habiendo demasiados archivos) para generar
+   `jurisprudencia_md/`.
+2. Suba esa carpeta a su Google Drive (arrastrando desde el Explorador de
+   Windows a la carpeta de Drive, o con la app de sincronización de Drive).
+3. Vaya a [gemini.google.com](https://gemini.google.com) → **Gems** → **Crear
+   un Gem**. Póngale nombre e instrucciones (ej. "Eres un asistente que
+   responde preguntas de jurisprudencia constitucional colombiana basándote
+   únicamente en las sentencias que te adjunto").
+4. En la sección de conocimiento/archivos del Gem, agregue los archivos desde
+   Google Drive (o súbalos directamente). Si el Gem rechaza la cantidad de
+   archivos, use una consolidación más agresiva (`area` o `todo`) o cargue
+   solo los años/áreas que más le interesen.
+5. Pruebe el Gem haciendo preguntas sobre las sentencias cargadas — pídale
+   que cite el número de providencia de donde sacó cada respuesta.
+
+Si el volumen sigue sin caber ni consolidando, otra opción a considerar es
+**NotebookLM** (notebooklm.google.com): funciona con cuenta de Google normal
+(sin licencia especial), organiza el contenido en "cuadernos" con fuentes y
+responde citando de qué sentencia sacó cada dato — pero también tiene su
+propio límite de cantidad de fuentes por cuaderno, así que aplica la misma
+lógica de `--consolidar` para repartir las sentencias en menos archivos.
 
 ## Automatización (cron externo)
 

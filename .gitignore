@@ -7,7 +7,7 @@ venv/
 
 # Salida del scraper (providencias descargadas e índice)
 /jurisprudencia/
-/jurisprudencia_copilot/
+/jurisprudencia_md/
 /data/*.sqlite
 /data/*.sqlite-journal
 
