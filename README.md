@@ -114,6 +114,42 @@ sola consulta. Para `--tipos T,SU,C --ultimos-anios 7` eso son 21 solicitudes
 hay muchas providencias por descargar (cada una implica además una consulta
 de ficha y otra de titulaciones).
 
+## Exportar a Microsoft 365 Copilot (agente con base de conocimiento propia)
+
+`src/export_copilot.py` convierte lo ya descargado en `jurisprudencia/` (HTML +
+`metadata.json`) a Markdown (o texto plano), un archivo por providencia, con
+los metadatos como encabezado y el **texto íntegro** de la sentencia debajo.
+No hace ninguna solicitud de red — solo reprocesa archivos locales, así que se
+puede correr las veces que haga falta sin volver a tocar el sitio de la Corte.
+
+Se usa Markdown/texto en vez de PDF a propósito: evita depender de una
+librería de generación de PDF con fuentes Unicode (más riesgo de fallar al
+instalar en Windows, como ya pasó con `lxml`), y SharePoint/Copilot indexa
+igual de bien el texto completo en `.md`/`.txt`.
+
+```bash
+python -m src.export_copilot
+# genera jurisprudencia_copilot/ (misma estructura de carpetas área/tema)
+
+# o en texto plano en vez de markdown:
+python -m src.export_copilot --formato txt
+```
+
+Pasos para crear el agente en Microsoft 365 Copilot (requiere cuenta de
+trabajo/organización con licencia de Copilot; el Copilot personal no tiene
+esta función):
+
+1. Corra `python -m src.export_copilot` para generar `jurisprudencia_copilot/`.
+2. Suba esa carpeta completa a una biblioteca de documentos de SharePoint (o a
+   su OneDrive del trabajo), conservando la estructura de subcarpetas.
+3. Espere a que SharePoint indexe los archivos (puede tardar, sobre todo con
+   muchos miles de documentos).
+4. En la biblioteca, use la opción de crear un **agente de Copilot** apuntando
+   a esa biblioteca/carpeta como fuente de conocimiento (en Copilot Studio, o
+   desde el botón de "Crear agente" de la biblioteca de SharePoint, según lo
+   que tenga habilitado su organización).
+5. Pruebe el agente haciendo preguntas sobre las sentencias cargadas.
+
 ## Automatización (cron externo)
 
 El script no trae scheduler interno por diseño. Para correr periódicamente,
