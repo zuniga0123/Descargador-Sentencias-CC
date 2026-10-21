@@ -1,0 +1,52 @@
+{
+  "radicado": "T-119-17",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2017,
+  "fecha_creacion": "2017-02-27",
+  "magistrado_ponente": "Luis Ernesto Vargas Silva",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "DERECHO FUNDAMENTAL AL DEBIDO PROCESO ADMINISTRATIVO",
+  "subtema": "Orden a Universidad adoptar un protocolo de gestión de peticiones",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto Ley 2591 de 1991",
+    "Ley 1755 de 2015",
+    "Ley 1437 de 2011",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2017/T-119-17.htm",
+  "fecha_descarga": "2026-10-21T11:16:47.919535+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2017-02-27",
+  "fecha_publicacion": null,
+  "numero": "T-119/17",
+  "tipo_cc": "T",
+  "prov_id": "10010",
+  "tema_relatoria": "DERECHO DE PETICION. VULNERACION POR NEGATIVA DE ENTIDAD UNIVERSITARIA DE ENTREGAR DOCUMENTOS, BAJO EL ARGUMENTO DE ESTAR CUBIERTOS POR RESERVA DEL SUMARIO.",
+  "resumen": "La accionante fue contratista de la Universidad Distrital Francisco José de Caldas y en el desarrollo de sus obligaciones entró en controversias con el entonces Jefe de la Oficina Asesora de Asuntos Disciplinarios del claustro, quien interpuso denuncias en su contra y solicitó información sobre ella en otras dependencias de la entidad. La actora solicitó a dichas oficinas que le fueran entregados los oficios radicados por el mencionado jefe de oficina, así como otros documentos relacionados con su período de servicios en la institución. Estos últimos le fueron entregados, más no los primeros, supuestamente por hacer parte de investigaciones judiciales y, por tanto, estar cubiertos por la reserva del sumario. Se aborda temática relacionada al mecanismo judicial contemplado en la Ley 1755 de 2015, su relación con el principio de subsidiariedad y el derecho fundamental al debido proceso. Al no cumplirse el requisito de subsidiariedad de la acción de tutela, la Corte decide no acceder a la solicitud de amparo respecto del derecho fundamental de petición. No obstante, se tutela el derecho al debido proceso administrativo de la actora, vulnerado por el hecho de que varias de las solicitudes elevadas por ella fueron resueltas por el Jefe de la Oficina de Asuntos Disciplinarios, quien era al mismo tiempo el denunciante y denunciado en los procesos adelantados en contra y por la propia tutelante, lo cual genera dudas sobre la imparcialidad del funcionario.",
+  "titulaciones": [
+    {
+      "tema": "DERECHO FUNDAMENTAL AL DEBIDO PROCESO ADMINISTRATIVO",
+      "subtema": "Orden a Universidad adoptar un protocolo de gestión de peticiones"
+    },
+    {
+      "tema": "DERECHO FUNDAMENTAL AL DEBIDO PROCESO ADMINISTRATIVO",
+      "subtema": "Vulneración por negativa de autoridades universitarias de entregar documentos, bajo el argumento de que estos estaban cubiertos por la reserva del sumario"
+    },
+    {
+      "tema": "LEY ESTATUTARIA DEL DERECHO DE PETICION",
+      "subtema": "Regulación de la información sometida a reserva"
+    },
+    {
+      "tema": "DERECHO FUNDAMENTAL AL DEBIDO PROCESO ADMINISTRATIVO",
+      "subtema": "Alcance y contenido"
+    },
+    {
+      "tema": "DERECHO DE PETICIÓN",
+      "subtema": "Reserva legal como excepción del acceso a la información y documentos"
+    }
+  ]
+}

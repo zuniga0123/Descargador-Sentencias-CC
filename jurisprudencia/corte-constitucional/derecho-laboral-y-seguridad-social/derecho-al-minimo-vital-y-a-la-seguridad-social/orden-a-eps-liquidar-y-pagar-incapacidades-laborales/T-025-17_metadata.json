@@ -1,0 +1,61 @@
+{
+  "radicado": "T-025-17",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2017,
+  "fecha_creacion": "2017-01-23",
+  "magistrado_ponente": "Aquiles Arrieta Gómez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "DERECHO AL MINIMO VITAL Y A LA SEGURIDAD SOCIAL",
+  "subtema": "Orden a EPS liquidar y pagar incapacidades laborales",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 1804 de 1999",
+    "Ley 100 de 1993",
+    "Decreto Ley 2591 de 1991",
+    "Decreto 2591 de 1991",
+    "Ley 1438 de 2011"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2017/T-025-17.htm",
+  "fecha_descarga": "2026-10-21T11:10:33.212496+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2017-01-23",
+  "fecha_publicacion": null,
+  "numero": "T-025/17",
+  "tipo_cc": "T",
+  "prov_id": "9839",
+  "tema_relatoria": "INCAPACIDAD LABORAL. VULNERACION DEL MINIMO VITAL POR NO PAGO POR E.P.S. BAJO ARGUMENTO DEL PAGO ATRASADO DE COTIZACIONES DEL SISTEMA",
+  "resumen": "Se atribuye a la E.P.S. Sanitas la vulneración de derechos fundamentales del actor, como consecuencia de negar el reconocimiento y pago de la incapacidad por 40 días continuos que le otorgó su médico tratante, por presentar pagos extemporáneos en sus aportes a salud. La Corte recuerda que, aun cuando un trabajador independiente haya efectuado el pago de los aportes al Sistema de Seguridad Social en Salud de manera tardía, si la E.P.S. de manera previa no realizó las gestiones necesarias para cobrar o atender ese retraso, se entiende que se allanó a la mora y, por tanto, se encuentra obligada a pagar los períodos de incapacidad demostrados. Se CONCEDE el amparo solicitado y se ordena el pago de la prestación reclamada.",
+  "titulaciones": [
+    {
+      "tema": "DERECHO AL MINIMO VITAL Y A LA SEGURIDAD SOCIAL",
+      "subtema": "Orden a EPS liquidar y pagar incapacidades laborales"
+    },
+    {
+      "tema": "TRABAJADOR INDEPENDIENTE",
+      "subtema": "Requisitos para el pago de la licencia por enfermedad general"
+    },
+    {
+      "tema": "DERECHO AL MINIMO VITAL Y A LA SEGURIDAD SOCIAL",
+      "subtema": "Vulneración por parte de EPS al negarse a reconocer el pago de incapacidades invocando el pago atrasado de las cotizaciones al Sistema de Seguridad Social de Salud"
+    },
+    {
+      "tema": "DERECHO AL PAGO DE INCAPACIDAD LABORAL",
+      "subtema": "Procedencia de tutela cuando afecta mínimo vital del trabajador y su familia"
+    },
+    {
+      "tema": "RECONOCIMIENTO Y PAGO DE INCAPACIDADES LABORALES",
+      "subtema": "Teoría del allanamiento a la mora"
+    },
+    {
+      "tema": "INCAPACIDAD LABORAL",
+      "subtema": "Pago por allanamiento a la mora por EPS"
+    },
+    {
+      "tema": "RECONOCIMIENTO Y PAGO DE INCAPACIDADES LABORALES",
+      "subtema": "Reglas jurisprudenciales"
+    }
+  ]
+}

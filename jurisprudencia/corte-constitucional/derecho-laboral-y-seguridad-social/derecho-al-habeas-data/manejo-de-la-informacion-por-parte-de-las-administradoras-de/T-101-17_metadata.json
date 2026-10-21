@@ -1,0 +1,57 @@
+{
+  "radicado": "T-101-17",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2017,
+  "fecha_creacion": "2017-02-17",
+  "magistrado_ponente": "Alberto Rojas Ríos",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "DERECHO AL HABEAS DATA",
+  "subtema": "Manejo de la información por parte de las administradoras de fondos de pensiones",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Decreto 2591 de 1991",
+    "Ley 1437 de 2011",
+    "Decreto 2633 de 1994",
+    "Acto Legislativo 1 de 2005",
+    "Ley 33 de 1985",
+    "Ley 71 de 1988",
+    "Decreto 758 de 1990",
+    "Ley 1581 de 2012"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2017/T-101-17.htm",
+  "fecha_descarga": "2026-10-21T11:07:59.539779+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2017-02-17",
+  "fecha_publicacion": "2017-03-23",
+  "numero": "T-101/17",
+  "tipo_cc": "T",
+  "prov_id": "9975",
+  "tema_relatoria": "CARENCIA ACTUAL DE OBJETO POR HECHO SUPERADO. SE RECONOCIO PENSION DE VEJEZ.",
+  "resumen": "La accionante pretende que el juez constitucional ampare sus derechos fundamentales y, en consecuencia, ordene a Colpensiones reconocer y pagar la pensión de vejez que reclamó, al tiempo que revoque el acto administrativo mediante el cual le concedió la indemnización sustitutiva. La peticionaria aduce que la accionada no tuvo en cuenta varios períodos laborados, como tampoco realizó el seguimiento a los pagos que debía efectuar su empleadora. En sede de revisión la Sala se enteró de que a la actora se le reconoció la prestación solicitada. No obstante, se pronunció sobre la siguiente temática: 1º. La importancia de la obligación de pago de cotizaciones para acceder al derecho de la pensión de vejez. 2º. El régimen de transición pensional en la Ley 100 de 1993. 3º. El derecho al habeas data y el manejo de la información por parte de las administradoras de fondos de pensiones. Se declara la carencia actual de objeto por HECHO SUPERADO y se previene a la entidad para que en lo sucesivo se abstenga de realizar conductas que llevan a negar el justo reconocimiento y pago de prestaciones económicas del Sistema General de Seguridad Social Integral.",
+  "titulaciones": [
+    {
+      "tema": "DERECHO AL HABEAS DATA",
+      "subtema": "Manejo de la información por parte de las administradoras de fondos de pensiones"
+    },
+    {
+      "tema": "CARENCIA ACTUAL DE OBJETO",
+      "subtema": "Fenómeno que puede presentarse a partir de dos eventos que a su vez sugieren consecuencias distintas: hecho superado y daño consumado"
+    },
+    {
+      "tema": "DERECHO AL REGIMEN DE TRANSICION EN MATERIA PENSIONAL",
+      "subtema": "Desarrollo legal, artículo 36 de la Ley 100 de 1993"
+    },
+    {
+      "tema": "CARENCIA ACTUAL DE OBJETO POR HECHO SUPERADO",
+      "subtema": "Se reconoció pensión de vejez"
+    },
+    {
+      "tema": "DERECHO A LA PENSION DE VEJEZ",
+      "subtema": "Obligación de pago de cotizaciones"
+    }
+  ]
+}

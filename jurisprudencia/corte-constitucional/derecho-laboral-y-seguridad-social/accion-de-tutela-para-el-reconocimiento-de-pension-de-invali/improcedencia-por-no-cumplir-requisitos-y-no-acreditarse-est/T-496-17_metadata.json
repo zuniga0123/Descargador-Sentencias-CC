@@ -1,0 +1,51 @@
+{
+  "radicado": "T-496-17",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2017,
+  "fecha_creacion": "2017-08-03",
+  "magistrado_ponente": "Alejandro Linares Cantillo",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "ACCIÓN DE TUTELA PARA EL RECONOCIMIENTO DE PENSIÓN DE INVALIDEZ",
+  "subtema": "Improcedencia por no cumplir requisitos y no acreditarse estar en el supuesto de una enfermedad crónica, congénita y degenerativa",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Ley 860 de 2003",
+    "Decreto 2591 de 1991",
+    "Acto Legislativo 1 de 2015",
+    "Ley 1346 de 2009",
+    "Ley 319 de 1996",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2017/T-496-17.htm",
+  "fecha_descarga": "2026-10-21T11:10:51.895300+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2017-08-03",
+  "fecha_publicacion": null,
+  "numero": "T-496/17",
+  "tipo_cc": "T",
+  "prov_id": "10615",
+  "tema_relatoria": "ACCION DE TUTELA PARA RECONOCIMIENTO DE PENSION DE INVALIDEZ. IMPROCEDENCIA POR NO CUMPLIR REQUISITOS",
+  "resumen": "El Fondo de Pensiones y Cesantías Protección le negó al actor el reconocimiento de la pensión de invalidez que reclamó, por no acreditar 50 semanas de cotización dentro de los tres años anteriores a la fecha de estructuración de la enfermedad. Así mismo, porque las patologías presentadas tuvieron su origen en un accidente de tránsito ocurrido en una fecha cierta. Se reiteran las reglas jurisprudenciales relativas al marco constitucional y legal de la pensión de invalidez y, la posibilidad de computar semanas cotizadas después de la fecha de estructuración de la pérdida de capacidad laboral en el caso de enfermedades congénitas, crónicas y degenerativas. Se DENIEGA el amparo constitucional invocado.",
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA PARA EL RECONOCIMIENTO DE PENSIÓN DE INVALIDEZ",
+      "subtema": "Improcedencia por no cumplir requisitos y no acreditarse estar en el supuesto de una enfermedad crónica, congénita y degenerativa"
+    },
+    {
+      "tema": "PENSION DE INVALIDEZ DE PERSONA CON ENFERMEDAD CRONICA, DEGENERATIVA O CONGENITA",
+      "subtema": "Fecha de estructuración de la invalidez desde el momento de la pérdida permanente y definitiva de la capacidad laboral"
+    },
+    {
+      "tema": "ACCION DE TUTELA PARA EL RECONOCIMIENTO DE ACREENCIAS PENSIONALES",
+      "subtema": "Improcedencia general"
+    },
+    {
+      "tema": "PENSIÓN DE INVALIDEZ",
+      "subtema": "Fundamento constitucional y legal"
+    }
+  ]
+}

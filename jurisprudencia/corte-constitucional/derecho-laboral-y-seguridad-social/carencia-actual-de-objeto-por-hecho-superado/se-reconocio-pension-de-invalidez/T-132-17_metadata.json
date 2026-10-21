@@ -1,0 +1,57 @@
+{
+  "radicado": "T-132-17",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2017,
+  "fecha_creacion": "2017-02-28",
+  "magistrado_ponente": "Aquiles Arrieta Gómez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "CARENCIA ACTUAL DE OBJETO POR HECHO SUPERADO",
+  "subtema": "Se reconoció pensión de invalidez",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 100 de 1993",
+    "Decreto Ley 2591 de 1991",
+    "Ley 860 de 2003",
+    "Decreto 3041 de 1996",
+    "Decreto 758 de 1990",
+    "Decreto 917 de 1999",
+    "Decreto 692 de 1995",
+    "Decreto 2463 de 2001"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2017/T-132-17.htm",
+  "fecha_descarga": "2026-10-21T11:19:59.475183+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2017-02-28",
+  "fecha_publicacion": null,
+  "numero": "T-132/17",
+  "tipo_cc": "T",
+  "prov_id": "10022",
+  "tema_relatoria": "PENSION DE INVALIDEZ DE PERSONA CON ENFERMEDAD CRONICA, DEGENERATIVA O CONGENITA. FECHA DE ESTRUCTURACION.",
+  "resumen": "En tres acciones de tutela formuladas de manera independiente se presenta como hecho común el que las entidades demandadas negaron a los actores el reconocimiento y pago de la pensión de invalidez que reclamaron, argumentando el incumplimiento del requisito de semanas cotizadas anteriores a la fecha de estructuración de la invalidez. Ninguna de las accionadas tuvo en cuenta que posterior a dicha fecha se realizaron aportes al Sistema. La Sala de Revisión reitera que un Fondo de Pensiones viola los derechos a un mínimo vital en dignidad, a la vida y a la seguridad social de una persona, cuando debe establecer la fecha de estructuración de pérdida de su capacidad laboral con el fin de adjudicar una pensión de invalidez, sin tener en consideración que padece una enfermedad crónica, degenerativa o congénita que no le impide ejercer actividades laborales remuneradas durante ciertos períodos de tiempo. Es decir, que la referida fecha corresponde a aquella en que el afiliado ve disminuidas sus destrezas físicas y mentales en tal grado que le impide desarrollar cualquier actividad económicamente productiva y no, la fecha en que tal proceso inició.",
+  "titulaciones": [
+    {
+      "tema": "CARENCIA ACTUAL DE OBJETO POR HECHO SUPERADO",
+      "subtema": "Se reconoció pensión de invalidez"
+    },
+    {
+      "tema": "PENSIÓN DE INVALIDEZ",
+      "subtema": "Derecho por pérdida del 50% o más de la capacidad laboral"
+    },
+    {
+      "tema": "PENSION DE INVALIDEZ DE PERSONA CON ENFERMEDAD CRONICA, DEGENERATIVA O CONGENITA",
+      "subtema": "Fecha de estructuración de la invalidez desde el momento de la pérdida permanente y definitiva de la capacidad laboral"
+    },
+    {
+      "tema": "PENSION DE INVALIDEZ DE PERSONA CON ENFERMEDAD CRONICA, DEGENERATIVA O CONGENITA",
+      "subtema": "Orden a Fondo de Pensiones reconocer y pagar pensión de invalidez"
+    },
+    {
+      "tema": "PENSIÓN DE INVALIDEZ",
+      "subtema": "Reglas establecidas por la Corte Constitucional para determinar la fecha de estructuración de la invalidez en los casos de enfermedad degenerativa, crónica o congénita"
+    }
+  ]
+}

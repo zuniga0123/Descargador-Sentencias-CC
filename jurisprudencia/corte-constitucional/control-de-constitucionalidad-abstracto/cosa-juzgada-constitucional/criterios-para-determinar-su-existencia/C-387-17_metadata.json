@@ -1,0 +1,53 @@
+{
+  "radicado": "C-387-17",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2017,
+  "fecha_creacion": "2017-06-14",
+  "magistrado_ponente": "Gloria Stella Ortiz Delgado",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "COSA JUZGADA CONSTITUCIONAL",
+  "subtema": "Criterios para determinar su existencia",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 497 de 1999",
+    "Decreto 2067 de 1991",
+    "Ley 906 de 2004",
+    "Ley 600 de 2000",
+    "Ley 270 de 1996"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2017/C-387-17.htm",
+  "fecha_descarga": "2026-10-21T11:24:38.438212+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2017-06-14",
+  "fecha_publicacion": "2017-06-16",
+  "numero": "C-387/17",
+  "tipo_cc": "C",
+  "prov_id": "10423",
+  "tema_relatoria": "JUECES DE PAZ. NI PUEDE POSTULARSE NI SER ELEGIDO JUEZ DE PAZ QUIEN HAYA SIDO OBJETO DE RESOLUCIÓN ACUSATORIA POR CUALQUIER DELITO QUE ATENTE CONTRA LA ADMINISTRACIÓN PÚBLICA O LA JUSTICIA",
+  "resumen": "Demanda de inconstitucionalidad contra el literal e) del artículo 15 de la Ley 497 de 1999, por la cual se crean los jueces de paz y se reglamenta su organización y funcionamiento. Consideran los demandantes que la inhabilidad cuestionada desconoce la presunción de inocencia como elemento integrante del debido proceso, ya que toma como referente la resolución de la acusación a pesar de que se trata de un acto del proceso penal en el que no se ha establecido la responsabilidad del sujeto. Luego de comprobar que en el presente caso operó el fenómeno de la cosa juzgada constitucional absoluta, en virtud de la emisión de una providencia previa de la Corporación mediante la cual se resolvió declarar inexequible la misma disposición atacada en esta oportunidad, la Sala Plena decidió ESTARSE A LO RESUELTO en la sentencia C-176/17.",
+  "titulaciones": [
+    {
+      "tema": "COSA JUZGADA CONSTITUCIONAL",
+      "subtema": "Criterios para determinar su existencia"
+    },
+    {
+      "tema": "COSA JUZGADA ABSOLUTA Y COSA JUZGADA RELATIVA",
+      "subtema": "Conceptos"
+    },
+    {
+      "tema": "COSA JUZGADA CONSTITUCIONAL",
+      "subtema": "Función negativa y positiva"
+    },
+    {
+      "tema": "COSA JUZGADA FORMAL Y COSA JUZGADA MATERIAL",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "INHABILIDAD CONTENIDA EN NORMA SOBRE CREACION DE JUECES DE PAZ",
+      "subtema": "Cosa juzgada constitucional en relación con la expresión “Haber sido dictada en su contra resolución acusatoria por cualquier delito que atente contra la administración pública o de justicia”"
+    }
+  ]
+}

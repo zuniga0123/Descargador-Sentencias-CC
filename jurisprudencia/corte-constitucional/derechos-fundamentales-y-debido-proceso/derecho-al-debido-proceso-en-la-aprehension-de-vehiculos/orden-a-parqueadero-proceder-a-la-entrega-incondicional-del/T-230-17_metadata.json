@@ -1,0 +1,54 @@
+{
+  "radicado": "T-230-17",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2017,
+  "fecha_creacion": "2017-04-20",
+  "magistrado_ponente": "María Victoria Calle Correa",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "DERECHO AL DEBIDO PROCESO EN LA APREHENSION DE VEHICULOS",
+  "subtema": "Orden a parqueadero proceder a la entrega incondicional del vehículo de propiedad del tutelante",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 906 de 2004",
+    "Decreto 2591 de 1991",
+    "Ley 769 de 2002",
+    "Ley 600 de 2000",
+    "Ley 1564 de 2012",
+    "Ley 794 de 2003"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2017/T-230-17.htm",
+  "fecha_descarga": "2026-10-21T11:05:44.224866+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2017-04-20",
+  "fecha_publicacion": "2017-06-01",
+  "numero": "T-230/17",
+  "tipo_cc": "T",
+  "prov_id": "10210",
+  "tema_relatoria": "DEBIDO PROCESO EN LA APREHENSIÓN DE VEHICULOS POR ORDEN DE AUTORIDAD JUDICIAL.",
+  "resumen": "La vulneración de derechos fundamentales se atribuye a hechos relacionados con la aprehensión material de un automotor propiedad del accionante, en el marco de un proceso ejecutivo mixto iniciado en su contra. Según criterio del peticionario, en dicha actuación no se siguió el procedimiento legal, en tanto que el juzgado que adelantaba el proceso no profirió la orden de secuestro del vehículo y las autoridades que intervinieron en el operativo de inmovilización no comunicaron la realización de dicha diligencia a la autoridad judicial que presuntamente la ordenó. La Sala realiza el análisis de procedencia de la acción de tutela formulada y se pronuncia respecto al tema del debido proceso en la aprehensión de vehículos por orden de autoridad judicial. Se CONCEDE la tutela y se ordena la entrega incondicional del vehículo referido.",
+  "titulaciones": [
+    {
+      "tema": "DERECHO AL DEBIDO PROCESO EN LA APREHENSION DE VEHICULOS",
+      "subtema": "Orden a parqueadero proceder a la entrega incondicional del vehículo de propiedad del tutelante"
+    },
+    {
+      "tema": "EMBARGO Y SECUESTRO DE BIENES",
+      "subtema": null
+    },
+    {
+      "tema": "APREHENSION DE VEHICULOS POR ORDEN DE AUTORIDAD JUDICIAL",
+      "subtema": "Caso en que se solicita devolución de automotor por ilegalidad en el procedimiento de aprehensión del mismo"
+    },
+    {
+      "tema": "SECUESTRO DE BIENES MUEBLES",
+      "subtema": null
+    },
+    {
+      "tema": "DEBIDO PROCESO EN LA APREHENSION DE VEHICULOS POR ORDEN DE AUTORIDAD JUDICIAL",
+      "subtema": "Vulneración por cuanto no existía el título jurídico para aprehender vehículo y ponerlo bajo custodia de un depositario"
+    }
+  ]
+}

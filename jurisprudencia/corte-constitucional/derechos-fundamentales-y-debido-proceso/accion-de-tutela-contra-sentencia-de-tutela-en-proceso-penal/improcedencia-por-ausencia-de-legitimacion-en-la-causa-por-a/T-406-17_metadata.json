@@ -1,0 +1,53 @@
+{
+  "radicado": "T-406-17",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2017,
+  "fecha_creacion": "2017-06-27",
+  "magistrado_ponente": "Iván Humberto Escrucería Mayolo",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCION DE TUTELA CONTRA SENTENCIA DE TUTELA EN PROCESO PENAL",
+  "subtema": "Improcedencia por ausencia de legitimación en la causa por activa, existencia de un medio judicial para resolver la controversia e imposibilidad de contrariar fallos de tutela en firme",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 599 de 2000",
+    "Decreto 2591 de 1991",
+    "Ley 906 de 2004",
+    "Ley 1453 de 2011",
+    "Ley 1787 de 2016"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2017/T-406-17.htm",
+  "fecha_descarga": "2026-10-21T11:13:03.365805+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2017-06-27",
+  "fecha_publicacion": null,
+  "numero": "T-406/17",
+  "tipo_cc": "T",
+  "prov_id": "10455",
+  "tema_relatoria": "ACCION DE TUTELA CONTRA ACCION DE TUTELA. IMPROCEDENCIA GENERAL.",
+  "resumen": "La accionante actúa en representación de su compañero permanente, quien se encuentra privado de la libertad por la condena que le fue impuesta por el delito de tráfico, fabricación o porte de estupefacientes. Aduce, que el Juzgado de Conocimiento demandado incurrió en un defecto fáctico, en tanto profirió sentencia sin existir material probatorio que permitiera responsabilizar a su pareja del delito por el cual se le condenó. Considera la Sala que los requisitos para la configuración de la agencia oficiosa no convergen en el presente asunto, lo cual deviene en que no se pueda conocer el fondo de la solicitud de amparo formulada, por ausencia de las exigencias legales establecidas para ello, como es la legitimación por activa. Igualmente, por no cumplir con el requisito de subsidiariedad, ante la existencia de un medio judicial para resolver la controversia. IMPROCEDENTE.",
+  "titulaciones": [
+    {
+      "tema": "ACCION DE TUTELA CONTRA SENTENCIA DE TUTELA EN PROCESO PENAL",
+      "subtema": "Improcedencia por ausencia de legitimación en la causa por activa, existencia de un medio judicial para resolver la controversia e imposibilidad de contrariar fallos de tutela en firme"
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA SENTENCIA DE TUTELA",
+      "subtema": "Improcedencia general"
+    },
+    {
+      "tema": "AGENCIA OFICIOSA EN TUTELA",
+      "subtema": "Se pueden agenciar derechos ajenos cuando el titular de los mismos no esté en condiciones de promover su propia defensa"
+    },
+    {
+      "tema": "LEGITIMACIÓN POR ACTIVA EN TUTELA",
+      "subtema": "Improcedencia por no estar acreditados los requisitos de la agencia oficiosa"
+    },
+    {
+      "tema": "LEGITIMACION EN LA CAUSA POR ACTIVA Y AGENCIA OFICIOSA EN LA ACCION DE TUTELA",
+      "subtema": "Requisitos"
+    }
+  ]
+}

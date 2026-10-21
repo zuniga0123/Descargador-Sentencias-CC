@@ -1,0 +1,52 @@
+{
+  "radicado": "T-620-17",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2017,
+  "fecha_creacion": "2017-10-04",
+  "magistrado_ponente": "Gloria Stella Ortiz Delgado",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "PRINCIPIO DE PRIMACIA DE LA REALIDAD SOBRE LAS FORMAS",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 361 de 1997",
+    "Ley 50 de 1990",
+    "Decreto 2251 de 2012"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2017/T-620-17.htm",
+  "fecha_descarga": "2026-10-21T11:18:44.106398+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2017-10-04",
+  "fecha_publicacion": null,
+  "numero": "T-620/17",
+  "tipo_cc": "T",
+  "prov_id": "10807",
+  "tema_relatoria": "ACCION DE TUTELA PARA OBTENER REINTEGRO LABORAL. IMPROCEDENCIA POR CUANTO NO SE DEMOSTRO LA PRESTACION PERSONAL DEL SERVICIO.",
+  "resumen": "Se atribuye a la Compañía Hotel del Prado S.A. en liquidación la vulneración de derechos fundamentales de la actora, por su omisión de realizar los aportes correspondientes a salud y pensiones con ocasión de la prestación personal de sus servicios, al igual que por no volverla a contratar a pesar de presentar un diagnóstico de enfermedad cerebrovascular. Se estudian los siguientes temas: 1º. La subsidiariedad como presupuesto de procedencia de la acción de tutela. 2º. La legitimación en la causa por pasiva cuando la acción de tutela se interpone contra un particular. 3º. El principio de primacía de la realidad sobre las formas y, 4º. La necesidad de probar los hechos materia de tutela. Por no satisfacer el presupuesto de legitimación pasiva, al no demostrarse la prestación personal de servicios alegada, la Corte decide confirmar las decisiones de instancia que declararon IMPROCEDENTE la acción de tutela promovida.",
+  "titulaciones": [
+    {
+      "tema": "PRINCIPIO DE PRIMACIA DE LA REALIDAD SOBRE LAS FORMAS",
+      "subtema": null
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA PARTICULARES",
+      "subtema": "Subordinación o indefensión frente al particular accionado"
+    },
+    {
+      "tema": "ACCION DE TUTELA PARA OBTENER REINTEGRO LABORAL",
+      "subtema": "Improcedencia por cuanto no se demostró la prestación personal del servicio"
+    },
+    {
+      "tema": "ACCION DE TUTELA FRENTE A CONTROVERSIAS LABORALES",
+      "subtema": "Reiteración de jurisprudencia sobre procedencia"
+    },
+    {
+      "tema": "CARGA DE LA PRUEBA EN MATERIA DE TUTELA",
+      "subtema": "Corresponde a quien instaure la acción"
+    }
+  ]
+}

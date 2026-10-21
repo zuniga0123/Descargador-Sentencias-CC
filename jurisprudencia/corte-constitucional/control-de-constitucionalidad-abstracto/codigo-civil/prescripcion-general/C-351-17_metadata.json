@@ -1,0 +1,56 @@
+{
+  "radicado": "C-351-17",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2017,
+  "fecha_creacion": "2017-05-25",
+  "magistrado_ponente": "Antonio José Lizarazo Ocampo",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "CODIGO CIVIL",
+  "subtema": "Prescripción general",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2067 de 1991",
+    "Ley 1564 de 2012",
+    "Ley 791 de 2002",
+    "Ley 2158 de 1948"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2017/C-351-17.htm",
+  "fecha_descarga": "2026-10-21T11:28:31.422485+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2017-05-25",
+  "fecha_publicacion": null,
+  "numero": "C-351/17",
+  "tipo_cc": "C",
+  "prov_id": "10356",
+  "tema_relatoria": "PRESCRIPCIÓN. EL JUEZ NO PUEDE DECLARARLA DE OFICIO, SINO QUE DEBE SER ALEGADA",
+  "resumen": "Demanda de inconstitucionalidad contra el inciso primero del artículo 2513 del Código Civil y el artículo 282 (parcial) del Código General del Proceso. A juicio de la entidad demandante las disposiciones acusadas trasgreden el preámbulo y los artículos 1, 2, 48 y 229 de la Constitución, en cuanto no autorizan al juez para declarar oficiosamente la excepción de prescripción. La Corporación considera que la demandante no cumplió con el requisito de claridad, a lo que se sumó la ausencia de pertinencia en la construcción de la censura, pues la jurisdicción constitucional no es la sede para resolver contingencias procesales originadas en la eventual negligencia o dolo de los apoderados de las entidades estatales. Respecto al cargo por violación al principio de la tutela judicial efectiva concluye la Sala Plena, que también se evidencia la carencia de aptitud por incumplimiento de los requisitos de especificidad, pertinencia y suficiencia. La Corte se INHIBE de emitir pronunciamiento alguno, por la ineptitud sustantiva de la demanda.",
+  "titulaciones": [
+    {
+      "tema": "CODIGO CIVIL",
+      "subtema": "Prescripción general"
+    },
+    {
+      "tema": "CODIGO GENERAL DEL PROCESO",
+      "subtema": "Resolución oficiosa sobre excepciones en cualquier proceso, salvo las de prescripción, compensación y nulidad relativa"
+    },
+    {
+      "tema": "INHIBICION DE LA CORTE CONSTITUCIONAL",
+      "subtema": "Inexistencia de cosa juzgada"
+    },
+    {
+      "tema": "PRESCRIPCION EXTINTIVA Y PRESCRIPCION ADQUISITIVA",
+      "subtema": "Instituciones jurídicas con tratamiento e implicaciones diferentes"
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "Razones claras, ciertas, específicas, pertinentes y suficientes"
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "Requisitos mínimos"
+    }
+  ]
+}
