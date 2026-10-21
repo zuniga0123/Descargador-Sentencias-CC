@@ -1,0 +1,49 @@
+{
+  "radicado": "T-517-15",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2015,
+  "fecha_creacion": "2015-08-11",
+  "magistrado_ponente": "Myriam Ávila Roldán",
+  "area": "Derecho a la Salud",
+  "tema": "DERECHO A LA SALUD",
+  "subtema": "Protección según reglas establecidas por esta Corporación",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 806 de 1998",
+    "Ley 100 de 1993",
+    "Decreto 1406 de 1999",
+    "Decreto 2591 de 1991",
+    "Ley 383 de 1997"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2015/T-517-15.htm",
+  "fecha_descarga": "2026-10-21T12:51:11.556926+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2015-08-11",
+  "fecha_publicacion": null,
+  "numero": "T-517/15",
+  "tipo_cc": "T",
+  "prov_id": "7962",
+  "tema_relatoria": "DERECHO A LA CONTINUIDAD EN EL SERVICIO DE SALUD. DEBER DE E.P.S. DE GARANTIZAR CONTINUIDAD DE SERVICIO AUN SI SE PRESENTA MORA EN EL PAGO DE LOS APORTES.",
+  "resumen": "Se aduce que las entidades accionadas vulneraron el derecho fundamental a la salud del accionante, al suspender los servicios médicos que requiere para el manejo de sus patologías, bajo el argumento de que el empleador incurrió en mora en el pago de los aportes al Sistema de Seguridad Social en Salud. Se reiteran las reglas jurisprudenciales relativas al carácter fundamental al derecho a la salud y el deber de las E.P.S. de garantizar la continuidad de la prestación del servicio de salud, aun si se presenta mora en el pago de los aportes. Se CONCEDE el amparo del derecho fundamental invocado. Se ordena a la E.P.S. Coomeva restablecer la prestación de los servicios médicos al actor, hasta que se produzca la recuperación del paciente o la estabilidad de la enfermedad que presenta o, hasta que se vincule al régimen de seguridad social en salud a través de unos de sus regímenes contributivo o subsidiado.",
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Protección según reglas establecidas por esta Corporación"
+    },
+    {
+      "tema": "PRINCIPIO DE CONTINUIDAD EN EL SERVICIO DE SALUD",
+      "subtema": "Reglas que deben observar las entidades promotoras de salud"
+    },
+    {
+      "tema": "CONTINUIDAD EN EL SERVICIO DE SALUD POR PARTE DE EPS",
+      "subtema": "No se puede suspender aun cuando el empleador se encuentre en mora en el pago de los aportes"
+    },
+    {
+      "tema": "PRINCIPIO DE CONTINUIDAD EN EL SERVICIO DE SALUD",
+      "subtema": "Mora en el pago de los aportes al sistema de seguridad social no es razón para negar atención en salud"
+    }
+  ]
+}

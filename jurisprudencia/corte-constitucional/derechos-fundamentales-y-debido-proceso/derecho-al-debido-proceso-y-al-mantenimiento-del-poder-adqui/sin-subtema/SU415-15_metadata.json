@@ -1,0 +1,63 @@
+{
+  "radicado": "SU415-15",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2015,
+  "fecha_creacion": "2015-07-02",
+  "magistrado_ponente": "María Victoria Calle Correa",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "DERECHO AL DEBIDO PROCESO Y AL MANTENIMIENTO DEL PODER ADQUISITIVO DE LAS PENSIONES Y EL MINIMO VITAL DEL ACCIONANTE",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 171 de 1961",
+    "Decreto 2591 de 1991",
+    "Ley 100 de 1993",
+    "Ley 1285 de 2009",
+    "Decreto Ley 2591 de 1991",
+    "Ley 270 de 1996",
+    "Decreto 3687 de 1981",
+    "Ley 906 de 2004",
+    "Ley 797 de 2003",
+    "Ley 1395 de 2010",
+    "Ley 1564 de 2012"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2015/SU415-15.htm",
+  "fecha_descarga": "2026-10-21T13:07:24.672149+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2015-07-02",
+  "fecha_publicacion": "2015-08-03",
+  "numero": "SU.415/15",
+  "tipo_cc": "SU",
+  "prov_id": "7797",
+  "tema_relatoria": "DERECHO A LA INDEXACION DE LA MESADA PENSIONAL INCLUSIVE A QUIENES CAUSARON SU DERECHO ANTES DE LA CONSTITUCION DE 1991.",
+  "resumen": "Solicita dejar sin efecto decisiones judiciales en proceso ordinario laboral que negó indexación de la primera mesada pensional bajo el argumento que fue reconocida antes de la Constitución de 1991 y acusa de inconstitucional decisión de la Corte Suprema de Justicia por no seleccionar a trámite demanda de casación. Temas a tratar: Procedibilidad de la acción de tutela contra providencias judiciales, reconocimiento de la indexación del salario base de liquidación, contabilización del término de prescripción de las mesadas pensionales, defecto por violación directa de la Constitución al negar actualización de las mesadas en primera y segunda instancia en proceso ordinario, trámite del recurso de casación, facultad de selección y motivación para excluir demandas de casación. Se ordena a Sofasa S.A. reconocer de manera directa la indexación del salario base de liquidación al accionante.",
+  "titulaciones": [
+    {
+      "tema": "DERECHO AL DEBIDO PROCESO Y AL MANTENIMIENTO DEL PODER ADQUISITIVO DE LAS PENSIONES Y EL MINIMO VITAL DEL ACCIONANTE",
+      "subtema": null
+    },
+    {
+      "tema": "DERECHO A LA INDEXACION DE LA PRIMERA MESADA PENSIONAL",
+      "subtema": "Comprende inclusive a quienes causaron su derecho antes de la Constitución Política de 1991"
+    },
+    {
+      "tema": "INDEXACION DEL SALARIO BASE DE LIQUIDACION Y CONTABILIZACION DEL TERMINO DE PRESCRIPCION",
+      "subtema": null
+    },
+    {
+      "tema": "ACCION DE TUELA CONTRA PROVIDENCIAS JUDICIALES E INDEXACION",
+      "subtema": "Cuando injustificadamente se niega la indexación del salario base de liquidación se incurre en un defecto por violación directa de la Constitución Política"
+    },
+    {
+      "tema": "INDEXACION DEL SALARIO BASE DE LIQUIDACION",
+      "subtema": "Se reconoce a todos los pensionados por igual inclusive a quienes causaron su derecho antes de la Constitución Política de 1991"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": null
+    }
+  ]
+}

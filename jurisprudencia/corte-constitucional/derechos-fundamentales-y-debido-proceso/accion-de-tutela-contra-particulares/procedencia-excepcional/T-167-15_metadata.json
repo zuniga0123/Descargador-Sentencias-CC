@@ -1,0 +1,64 @@
+{
+  "radicado": "T-167-15",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2015,
+  "fecha_creacion": "2015-04-15",
+  "magistrado_ponente": "Jorge Ignacio Pretelt Chaljub",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCION DE TUTELA CONTRA PARTICULARES",
+  "subtema": "Procedencia excepcional",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Decreto 2241 de 1986",
+    "Ley 1581 de 2012",
+    "Ley 599 de 2000"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2015/T-167-15.htm",
+  "fecha_descarga": "2026-10-21T12:48:55.711797+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2015-04-15",
+  "fecha_publicacion": null,
+  "numero": "T-167/15",
+  "tipo_cc": "T",
+  "prov_id": "7424",
+  "tema_relatoria": null,
+  "resumen": "Se solicita al juez constitucional proteger los derechos fundamentales a la igualdad, al buen nombre, a la honra y a la personalidad jurídica, presuntamente vulnerados por el Centro de Información Financiera –CIFIN- y el Banco Sudameris, en tanto el primero incluyó un reporte negativo del actor en su base de datos referente a la suspensión de los derechos políticos y, el segundo, negó el refinanciamiento o extensión de un crédito previamente otorgado, argumentando para ello el reporte ante las centrales de riesgo financiero. Se abordan los siguientes temas: 1º. La procedencia de la acción de tutela contra particulares. 2º. El carácter autónomo de las garantías constitucionales al buen nombre y al habeas data. 3º. Los principios y reglas que debe seguir el administrador de base de datos. 4º. La función de las bases de datos de información financiera. 5º. La dimensión subjetiva del derecho al habeas y la facultad del titular de la información de exigir la supresión de ésta de las bases de datos y 6º. La inhabilitación en el ejercicio de derechos y funciones públicas para personas condenadas en el curso de un proceso penal. La Corte considera que el CIFIN, al incluir información no relacionada con temas comerciales y financieros en su base de datos incurrió en un motivo de reproche, puesto que constitucional, legal y jurisprudencialmente, las bases de datos tienen la función específica de recaudar la información concerniente a las personas naturales y jurídicas dentro del ámbito de su competencia. Se CONCEDE el amparo de los derechos fundamentales al habeas data y al buen nombre del accionante, en relación con el Centro de Información Financiera. Se le ordena a esta entidad retirar de sus bases de datos cualquier tipo de información negativa resultado de la pérdida o suspensión de derechos políticos del peticionario.",
+  "titulaciones": [
+    {
+      "tema": "ACCION DE TUTELA CONTRA PARTICULARES",
+      "subtema": "Procedencia excepcional"
+    },
+    {
+      "tema": "INHABILIDADES EN EL EJERCICIO DE DERECHOS Y FUNCIONES PUBLICAS DE PERSONAS CONDENADAS EN PROCESO PENAL",
+      "subtema": "Reglas para penas accesorias"
+    },
+    {
+      "tema": "PRINCIPIOS QUE DEBE SEGUIR EL ADMINISTRADOR DE BASES DE DATOS",
+      "subtema": "Finalidad, necesidad, utilidad y circulación restringida"
+    },
+    {
+      "tema": "BASES DE DATOS DE INFORMACION FINANCIERA",
+      "subtema": "Funciones"
+    },
+    {
+      "tema": "DERECHO AL BUEN NOMBRE Y AL HABEAS DATA",
+      "subtema": "Orden a la Asociación Bancaria de Entidades Financieras de Colombia, retirar de sus bases de datos cualquier tipo de información negativa resultado de la pérdida o suspensión de derechos políticos del accionante"
+    },
+    {
+      "tema": "DERECHO AL BUEN NOMBRE Y AL HABEAS DATA",
+      "subtema": "Fundamental"
+    },
+    {
+      "tema": "DERECHO AL BUEN NOMBRE Y AL HABEAS DATA",
+      "subtema": "Carácter autónomo"
+    },
+    {
+      "tema": "DERECHO AL HABEAS DATA",
+      "subtema": "Dimensión subjetiva y facultad del titular de la información de exigir la supresión de ésta de las bases de datos"
+    }
+  ]
+}

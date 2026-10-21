@@ -1,0 +1,58 @@
+{
+  "radicado": "C-220-15",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2015,
+  "fecha_creacion": "2015-04-22",
+  "magistrado_ponente": null,
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "ACCION PUBLICA DE INCONSTITUCIONALIDAD",
+  "subtema": "Necesidad de un mínimo de argumentación",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 1437 de 2011",
+    "Decreto 2067 de 1991",
+    "Ley 393 de 1997",
+    "Decreto 1010 de 2000",
+    "Ley 1427 de 2011",
+    "Acto Legislativo 1 de 2009"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2015/C-220-15.htm",
+  "fecha_descarga": "2026-10-21T13:03:34.423891+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2015-04-22",
+  "fecha_publicacion": null,
+  "numero": "C-220/15",
+  "tipo_cc": "C",
+  "prov_id": "7477",
+  "tema_relatoria": "FALLO INHIBITORIO POR INEPTITUD SUSTANTIVA DE LA DEMANDA DE INCONSTITUCIONALIDAD CONTRA NORMA DEL CÓDIGO CONTENCIOSO ADMINISTRATIVO RELATIVA A CAUSALES DE NULIDAD DE ACTOS ELECTORALES.",
+  "resumen": "Demanda de inconstitucionalidad contra el artículo 161 (parcial) de la Ley 1437 de 2011, por la cual se expide el Código de Procedimiento Administrativo y de lo Contencioso Administrativo. La actora considera que la disposición acusada desconoce el artículo 152 de la Constitución Política, por cuanto el legislador ordinario no podía regular aspecto alguno atinente a funciones electorales, en este caso, al requisito constitucional de procedibilidad de la acción de nulidad electoral, puesto que tales funciones tiene reserva de ley estatutaria. La Sala Plena encuentra que en la demanda no se aportaron elementos de juicio específicos y suficientes sobre las razones que constituirían el concepto de la violación de la norma acusada, lo que implica el incumplimiento de tercero de los requisitos establecidos en el artículo 2º Decreto 2067 de 1991, que impide que la Corte profiera un fallo de fondo sobre su constitucionalidad. La Corte se INHIBE de proferir un pronunciamiento de fondo, por ineptitud sustantiva de la demanda.",
+  "titulaciones": [
+    {
+      "tema": "ACCION PUBLICA DE INCONSTITUCIONALIDAD",
+      "subtema": "Necesidad de un mínimo de argumentación"
+    },
+    {
+      "tema": "DEMANDA CONTRA CODIGO CONTENCIOSO ADMINISTRATIVO SOBRE CAUSALES DE NULIDAD DE ACTOS ELECTORALES",
+      "subtema": "Se debió aplicar principio pro actione para realizar estudio de fondo"
+    },
+    {
+      "tema": "DEMANDA CONTRA CODIGO CONTENCIOSO ADMINISTRATIVO SOBRE CAUSALES DE NULIDAD DE ACTOS ELECTORALES",
+      "subtema": "Contenía elementos mínimos para realizar estudio de fondo"
+    },
+    {
+      "tema": "NORMA DEL CODIGO CONTENCIOSO ADMINISTRATIVO RELATIVA A CAUSALES DE NULIDAD DE ACTOS ELECTORALES",
+      "subtema": "Inhibición para decidir por ineptitud sustantiva de la demanda"
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "Razones claras, ciertas, específicas, pertinentes y suficientes"
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "Requisitos mínimos"
+    }
+  ]
+}

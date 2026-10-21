@@ -1,0 +1,50 @@
+{
+  "radicado": "T-430-15",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2015,
+  "fecha_creacion": "2015-07-08",
+  "magistrado_ponente": "Mauricio González Cuervo",
+  "area": "Derecho a la Salud",
+  "tema": "DERECHO FUNDAMENTAL A LA SALUD Y ORDEN DE REALIZAR CIRUGIA",
+  "subtema": "Caso en que la patología no quedó establecida como preexistencia en la póliza de salud",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 100 de 1993",
+    "Decreto 806 de 1998",
+    "Decreto 1570 de 1993",
+    "Decreto 1468 de 1994",
+    "Decreto 1222 de 1994"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2015/T-430-15.htm",
+  "fecha_descarga": "2026-10-21T12:50:52.747448+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2015-07-08",
+  "fecha_publicacion": null,
+  "numero": "T-430/15",
+  "tipo_cc": "T",
+  "prov_id": "7823",
+  "tema_relatoria": "CONTRATO DE MEDICINA PREPAGADA Y POLIZA DE SEGUROS. DIFERENCIAS. DERECHO A LA SALUD. ORDEN DE CIRUGIA",
+  "resumen": "El actor, beneficiario de una póliza Medicall Gold, suscrita con la entidad aseguradora accionada, aduce que sus derechos fundamentales fueron vulnerados en razón a la negativa de la entidad de autorizar la realización de una cirugía de resección de tumor nervioso en pie derecho, argumentando que dicho procedimiento está contemplado como una exclusión en la póliza de seguro. Se aborda la siguiente temática. 1º. Las preexistencias en contratos de salud y medicina prepagada. 2º. La obligación de realizar exámenes médicos antes de la celebración del contrato de salud o de medicina prepagada, a fin de determinar las preexistencias y, 3º. Las diferencias entre el contrato de medicina prepagada y la póliza de seguros. Al encontrar que el peticionario no incurrió en reticencia, la Sala de Revisión decide CONCEDER la tutela del derecho fundamental a la salud.",
+  "titulaciones": [
+    {
+      "tema": "DERECHO FUNDAMENTAL A LA SALUD Y ORDEN DE REALIZAR CIRUGIA",
+      "subtema": "Caso en que la patología no quedó establecida como preexistencia en la póliza de salud"
+    },
+    {
+      "tema": "CONTRATO DE MEDICINA PREPAGADA Y POLIZA DE SEGUROS",
+      "subtema": "Diferencias"
+    },
+    {
+      "tema": "CONTRATO DE SALUD Y MEDICINA PREPAGADA",
+      "subtema": "Obligación de realizar exámenes médicos antes de la celebración a fin de determinar las preexistencias"
+    },
+    {
+      "tema": "CONTRATO DE SALUD Y MEDICINA PREPAGADA",
+      "subtema": "Preexistencias"
+    }
+  ]
+}

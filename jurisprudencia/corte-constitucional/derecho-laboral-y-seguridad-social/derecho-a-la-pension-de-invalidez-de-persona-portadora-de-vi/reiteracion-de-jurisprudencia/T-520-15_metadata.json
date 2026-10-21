@@ -1,0 +1,49 @@
+{
+  "radicado": "T-520-15",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2015,
+  "fecha_creacion": "2015-08-13",
+  "magistrado_ponente": "Gabriel Eduardo Mendoza Martelo",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "DERECHO A LA PENSION DE INVALIDEZ DE PERSONA PORTADORA DE VIH/SIDA",
+  "subtema": "Reiteración de jurisprudencia",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 1406 de 1999",
+    "Ley 860 de 2003",
+    "Decreto 2591 de 1991",
+    "Ley 100 de 1993",
+    "Decreto 917 de 1999"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2015/T-520-15.htm",
+  "fecha_descarga": "2026-10-21T12:51:19.024263+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2015-08-13",
+  "fecha_publicacion": null,
+  "numero": "T-520/15",
+  "tipo_cc": "T",
+  "prov_id": "7971",
+  "tema_relatoria": "PENSION DE INVALIDEZ DE ENFERMO DE VIH/SIDA.",
+  "resumen": "Solicita protección al negar reconocimiento y pago de pensión de invalidez bajo argumento de que a la fecha de estructuración del estado de invalidez se encontraba afiliado a otro fondo de Pensiones y Cesantías. Temas a tratar: Procedibilidad de la acción de tutela, Legitimación por activa, Procedencia de la acción de tutela para solicitar reconocimiento y pago de pensión de invalidez de personas portadoras de VIH/SIDA, Derecho a pensión de invalidez por pérdida de capacidad laboral paulatina generada por enfermedad de carácter progresivo o degenerativo. Se ordena reconocer pensión de invalidez y pagar mesadas causadas y no prescritas",
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA PENSION DE INVALIDEZ DE PERSONA PORTADORA DE VIH/SIDA",
+      "subtema": "Reiteración de jurisprudencia"
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA EL FONDO DE PENSIONES PORVENIR",
+      "subtema": "Procedencia para el reconocimiento y pago de la pensión de invalidez de persona enferma de VIH/SIDA"
+    },
+    {
+      "tema": "DERECHO A LA PENSION DE INVALIDEZ DE ENFERMO DE VIH/SIDA",
+      "subtema": "Orden a fondo reconocer y pagar pensión de invalidez"
+    },
+    {
+      "tema": "PENSIÓN DE INVALIDEZ",
+      "subtema": "Reglas establecidas por la Corte Constitucional para determinar la fecha de estructuración de la invalidez en los casos de enfermedad degenerativa, crónica o congénita"
+    }
+  ]
+}

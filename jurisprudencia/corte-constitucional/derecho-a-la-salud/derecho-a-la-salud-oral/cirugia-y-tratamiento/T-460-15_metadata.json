@@ -1,0 +1,58 @@
+{
+  "radicado": "T-460-15",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2015,
+  "fecha_creacion": "2015-07-21",
+  "magistrado_ponente": null,
+  "area": "Derecho a la Salud",
+  "tema": "DERECHO A LA SALUD ORAL",
+  "subtema": "Cirugía y tratamiento",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 1751 de 2015"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2015/T-460-15.htm",
+  "fecha_descarga": "2026-10-21T12:49:59.957873+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2015-07-21",
+  "fecha_publicacion": null,
+  "numero": "T-460/15",
+  "tipo_cc": "T",
+  "prov_id": "7863",
+  "tema_relatoria": "DERECHO A LA SALUD ORAL. CIRUGIA RECONSTRUCTIVA DE ARTICULACION MANDIBULAR Y TRATAMIENTO.",
+  "resumen": "Solicita cirugía reconstructiva de articulación mandibular prescrita por médico tratante no adscrito al servicio de salud del SENA y cubrimiento integral de servicios médicos incluido desplazamientos a Bogotá y de acompañante. Temas a tratar: Goce efectivo del derecho a la salud, Entidad encargada de garantizar el derecho a la salud sólo puede desconocer concepto de médico reconocido no adscrito a su red de prestadores cuando su posición se funda en razones médicas especializadas, Discrepancia de conceptos médicos según artículo 16 de la Ley 1751 de 2015. Controversias sobre diagnósticos y/o alternativas terapéuticas serán dirimidas por juntas médicas de prestadores de servicios de salud o por juntas médicas de la red de prestadores de servicios de salud según ley estatutaria de la salud. Se ordena convocar junta médica para determinar pertinencia y necesidad de cirugía reconstructiva de articulación temporo mandibular y en caso de consentimiento informado garantizar servicios médicos y tratamiento integral.",
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA SALUD ORAL",
+      "subtema": "Cirugía y tratamiento"
+    },
+    {
+      "tema": "LEY 1751 DE 2015 ARTICULO 16",
+      "subtema": null
+    },
+    {
+      "tema": "LEY ESTATUTARIA DE SALUD Y PROCEDIMIENTO DE RESOLUCION DE CONFLICTOS POR PARTE DE PROFESIONALES DE LA SALUD",
+      "subtema": null
+    },
+    {
+      "tema": "CONFLICTOS MEDICOS",
+      "subtema": "Discrepancias"
+    },
+    {
+      "tema": "EPS ANTE CONCEPTO MEDICO DE PROFESIONAL NO ADSCRITO A SU RED DE PRESTADORES",
+      "subtema": "Caso de joven a la que entidad demandada no le ha respondido sobre realización de cirugía de reconstrucción de articulación mandibular"
+    },
+    {
+      "tema": "SERVICIO MEDICO DEL SENA",
+      "subtema": "Orden a servicio de salud convocar Junta Médica para determinar pertinencia y necesidad de cirugía reconstructiva odontológica"
+    },
+    {
+      "tema": "SERVICIO MEDICO DEL SENA",
+      "subtema": "Orden para suministrarlo"
+    }
+  ]
+}

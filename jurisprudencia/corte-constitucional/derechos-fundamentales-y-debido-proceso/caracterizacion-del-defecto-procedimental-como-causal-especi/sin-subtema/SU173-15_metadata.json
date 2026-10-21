@@ -1,0 +1,95 @@
+{
+  "radicado": "SU173-15",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2015,
+  "fecha_creacion": "2015-04-16",
+  "magistrado_ponente": "Gabriel Eduardo Mendoza Martelo",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "CARACTERIZACION DEL DEFECTO PROCEDIMENTAL COMO CAUSAL ESPECIFICA DE PROCEDIBILIDAD DE LA ACCION DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Decreto 1818 de 1998",
+    "Ley 80 de 1993",
+    "Ley 472 de 1998",
+    "Ley 5 de 1992",
+    "Ley 1150 de 2007",
+    "Ley 906 de 2004",
+    "Decreto 2279 de 1989",
+    "Ley 105 de 1993",
+    "Ley 446 de 1998",
+    "Ley 1437 de 2011"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2015/SU173-15.htm",
+  "fecha_descarga": "2026-10-21T13:08:30.511193+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2015-04-16",
+  "fecha_publicacion": null,
+  "numero": "SU.173/15",
+  "tipo_cc": "SU",
+  "prov_id": "7438",
+  "tema_relatoria": null,
+  "resumen": "Debido proceso, acceso a la administración de justicia. Tutela contra providencia judicial. Sentencia de Unificación. Se presenta la acción de tutela en contra de la decisión adoptada por la Sección Tercera del Consejo de Estado, de anular el laudo arbitral dictado para dirimir controversias existentes entre el municipio de Neiva y la Unión Temporal DISELECSA LTDA, como resultado del contrato de concesión celebrado entre ambos para el mantenimiento y la operación del servicio de alumbrado público en ese municipio, el cual incluía el suministro de luminarias y accesorios necesarios para la prestación de ese servicio. A través del referido laudo arbitral y de un auto complementario expedido días después, se adoptaron distintas decisiones, algunas de ellas favorables al municipio de Neiva y adversas a la unión temporal convocada, a partir de la cual ésta solicitó a la autoridad judicial la anulación de tal decisión. La accionada aprobó lo pedido y ordenó la anulación de este laudo en su totalidad, siendo una de las principales razones de su decisión, el hecho de que en una de sus órdenes el Tribunal de Arbitramento habría fallado en equidad y no en derecho, como las partes lo habían estipulado. Se aborda la siguiente temática: 1º. La procedencia genérica de la acción de tutela contra providencias judiciales. Reiteración de jurisprudencia. 2º. Los defectos orgánico y procedimental como causales del amparo contra providencias judiciales. 3º. Alcances del recurso extraordinario de anulación 4º. La causal 2ª del artículo 72 de la Ley 80 de 1993 – subrogada por el artículo 22 de la Ley 1150 de 2007- y las facultades del juez de anulación para determinar su existencia. 5º. Características de un fallo en equidad y de un fallo en derecho en términos de la jurisprudencia contenciosa y arbitral. Se CONCEDE el amparo solicitado y se deja sin efecto la anulación ordenada por la providencia cuestionada. Se ordena la devolución del expediente al Consejo de Estado para que la Sección referida proceda a absolver los cargos restantes y pronunciarse sobre la solicitud de nulidad por el cuestionamiento contra la decisión arbitral y su providencia complementaria, relacionados con la causal de anulación establecida en el numeral 2 del artículo 72 de la ley 80 de 1993, atendiendo los límites propios de su competencia y las pautas indicada en este fallo.",
+  "titulaciones": [
+    {
+      "tema": "CARACTERIZACION DEL DEFECTO PROCEDIMENTAL COMO CAUSAL ESPECIFICA DE PROCEDIBILIDAD DE LA ACCION DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": null
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Procedencia por defecto procedimental por cuanto el Consejo de Estado adelantó un trámite no autorizado por el ordenamiento jurídico que además se encuentra proscrito dentro de proceso de anulación de laudo"
+    },
+    {
+      "tema": "FALTA DE LEGITIMACION EN LA CAUSA POR ACTIVA EN TUTELA",
+      "subtema": "Tutela interpuesta por Senador de la República en representación de los ciudadanos que lo eligieron por voto popular"
+    },
+    {
+      "tema": "FALLO EN DERECHO",
+      "subtema": "Características en términos de la jurisprudencia contenciosa y arbitral"
+    },
+    {
+      "tema": "FALTA DE LEGITIMACION EN LA CAUSA POR ACTIVA EN TUTELA",
+      "subtema": "El accionante actúa en condición de Senador, carece de habilitación legal para actuar como “parte” actora en una acción de tutela como agente oficioso o representante judicial de sus electores"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Procedencia por defecto orgánico, por cuanto Consejo de Estado asumió competencias que no le correspondían dentro de proceso de anulación de laudo arbitral"
+    },
+    {
+      "tema": "CARACTERIZACION DEL DEFECTO ORGANICO COMO CAUSAL ESPECIFICA DE PROCEDIBILIDAD DE LA ACCION DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": null
+    },
+    {
+      "tema": "FALLO EN EQUIDAD",
+      "subtema": "Características en términos de la jurisprudencia contenciosa y arbitral"
+    },
+    {
+      "tema": "RECURSO EXTRAORDINARIO DE ANULACION EN JUSTICIA ARBITRAL",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "LEGITIMACION POR ACTIVA EN TUTELA Y AGENCIA OFICIOSA",
+      "subtema": "Si del escrito de tutela se desprende la imposibilidad del titular del derecho de acudir en su propio nombre para su defensa, el juez puede hacer la interpretación que se acude como agente oficioso"
+    },
+    {
+      "tema": "RECURSO DE ANULACION CONTRA LAUDO ARBITRAL",
+      "subtema": "Límite de las facultades del Juez"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Requisitos generales y especiales de procedibilidad"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Reiteración de jurisprudencia sobre procedencia excepcional"
+    },
+    {
+      "tema": "LEGITIMACION EN LA CAUSA POR ACTIVA Y AGENCIA OFICIOSA EN LA ACCION DE TUTELA",
+      "subtema": "Requisitos"
+    }
+  ]
+}

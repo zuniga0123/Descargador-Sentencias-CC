@@ -1,0 +1,66 @@
+{
+  "radicado": "T-536-15",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2015,
+  "fecha_creacion": "2015-08-20",
+  "magistrado_ponente": "Myriam Ávila Roldán",
+  "area": "Derecho a la Salud",
+  "tema": "DERECHO A LA SALUD DE PERSONAS PRIVADAS DE LA LIBERTAD",
+  "subtema": "Orden suministro de medicamentos y tratamiento integral a interno",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Decreto Ley 2591 de 1991",
+    "Decreto 2496 de 2012",
+    "Ley 1122 de 2007",
+    "Decreto 1141 de 2009",
+    "Decreto 2777 de 2010",
+    "Ley 65 de 1993",
+    "Ley 1709 de 2014",
+    "Ley 599 de 2000",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2015/T-536-15.htm",
+  "fecha_descarga": "2026-10-21T12:50:22.566389+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2015-08-20",
+  "fecha_publicacion": null,
+  "numero": "T-536/15",
+  "tipo_cc": "T",
+  "prov_id": "8001",
+  "tema_relatoria": "DERECHO A LA SALUD DE PERSONAS PRIVADAS DE LA LIBERTAD. SUMINISTRO DE MEDICAMENTOS YTRATAMIENTO INTEGRAL.",
+  "resumen": "El accionante se encuentra privado de la libertad e instaura la acción de tutela para que le protejan sus derechos fundamentales de petición y a la salud, los cuales considera vulnerados porque no le han suministrado oportunamente los tratamientos médicos que le han sido prescritos para el manejo de las diferentes patologías que presenta y, porque no se le ha dado respuesta positiva a su solicitud de ser cobijado con la medida de prisión domiciliaria. Se reitera jurisprudencia relacionada con: 1º. La salud como servicio público y como derecho fundamental. Principios rectores del servicio público de salud. 2º. Derecho a la salud de la población reclusa y, 3º. Trámite que debe dársele a la solicitud de prisión domiciliaria por estado de salud incompatible con la reclusión formal en centro penitenciario o carcelario. Se CONCEDE.",
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA SALUD DE PERSONAS PRIVADAS DE LA LIBERTAD",
+      "subtema": "Orden suministro de medicamentos y tratamiento integral a interno"
+    },
+    {
+      "tema": "DERECHO A LA SALUD DE PERSONAS PRIVADAS DE LA LIBERTAD",
+      "subtema": "Marco normativo"
+    },
+    {
+      "tema": "DERECHO FUNDAMENTAL A LA SALUD",
+      "subtema": "Principios rectores"
+    },
+    {
+      "tema": "DERECHO A LA SALUD DE PERSONAS PRIVADAS DE LA LIBERTAD",
+      "subtema": "Suministro de medicamentos y tratamiento integral"
+    },
+    {
+      "tema": "DERECHOS FUNDAMENTALES DE PERSONAS PRIVADAS DE LA LIBERTAD",
+      "subtema": "Clasificación en tres grupos: derechos suspendidos, derechos intocables y derechos restringidos o limitados"
+    },
+    {
+      "tema": "DERECHO A LA SALUD DE PERSONAS PRIVADAS DE LA LIBERTAD",
+      "subtema": "Solicitud de prisión domiciliaria por enfermedad grave incompatible con la reclusión formal en centro penitenciario o carcelario"
+    },
+    {
+      "tema": "ACCION DE TUTELA PARA SOLICITAR MEDIDA DE PRISION DOMICILIARIA POR ESTADO DE SALUD INCOMPATIBLE CON RECLUSION EN CENTRO PENITENCIARIO O CARCELARIO",
+      "subtema": "Requisitos de procedibilidad"
+    }
+  ]
+}

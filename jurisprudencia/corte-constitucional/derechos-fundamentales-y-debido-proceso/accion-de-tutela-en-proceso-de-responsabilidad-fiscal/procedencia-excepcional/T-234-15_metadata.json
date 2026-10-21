@@ -1,0 +1,47 @@
+{
+  "radicado": "T-234-15",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2015,
+  "fecha_creacion": "2015-04-30",
+  "magistrado_ponente": null,
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCION DE TUTELA EN PROCESO DE RESPONSABILIDAD FISCAL",
+  "subtema": "Procedencia excepcional",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Decreto 2067 de 1991",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2015/T-234-15.htm",
+  "fecha_descarga": "2026-10-21T12:49:29.593724+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2015-04-30",
+  "fecha_publicacion": null,
+  "numero": "T-234/15",
+  "tipo_cc": "T",
+  "prov_id": "7522",
+  "tema_relatoria": null,
+  "resumen": "Debido proceso. La vulneración de derechos se le atribuye al Ministerio de Ambiente, Vivienda y Desarrollo Territorial y a la Contraloría General de la República, en su orden, por revocar de manera directa y sin consentimiento del actor, el acto administrativo proferido por el INURBE para reconocer el pago de la pensión restringida de jubilación y; por abrir un proceso de responsabilidad fiscal que culminó con la condena al pago más de 25 millones de pesos. La Sala se pronuncia sobre los siguientes tópicos: 1º. La procedibilidad de la acción de tutela en contra de actos administrativos. 2º. La improcedencia, como regla general, cuando se trata de actos administrativos proferidos al término de un proceso por responsabilidad fiscal y, 3º. El derecho fundamental al debido proceso en la revocatoria de actos administrativos y concretos que reconocen pensiones. La Sala concluyó, que sí existió la vulneración de derechos alegada, de un lado, porque en el otorgamiento de la pensión no se vislumbró la comisión de delito alguno y por ende, el Ministerio no estaba autorizado para proceder a la revocatoria unilateral del acto administrativo y, por el otro, porque el proceso de responsabilidad fiscal que se adelantó en contra del peticionario carecería de todo sustento legal. Se confirma el fallo que CONCEDIO el amparo solicitado.",
+  "titulaciones": [
+    {
+      "tema": "ACCION DE TUTELA EN PROCESO DE RESPONSABILIDAD FISCAL",
+      "subtema": "Procedencia excepcional"
+    },
+    {
+      "tema": "REVOCATORIA DE ACTO ADMINISTRATIVO DE RECONOCIMIENTO DE PENSION",
+      "subtema": "Caso en que se vulnera el derecho al debido proceso y a la seguridad social en pensiones, por cuanto se revoca sin el consentimiento del actor resolución que reconocía pensión restringida de"
+    },
+    {
+      "tema": "ACTOS ADMINISTRATIVOS DE CONTENIDO PARTICULAR",
+      "subtema": "Revocatoria de pensiones reconocidas irregularmente según Ley 797/03"
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA ACTOS ADMINISTRATIVOS",
+      "subtema": "Reiteración de jurisprudencia sobre procedencia excepcional"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "radicado": "T-133-15",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2015,
+  "fecha_creacion": "2015-03-27",
+  "magistrado_ponente": null,
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCION DE TUTELA CONTRA SENTENCIA DE TUTELA",
+  "subtema": "Prohibición",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Decreto 2691 de 1991",
+    "Ley 906 de 2004"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2015/T-133-15.htm",
+  "fecha_descarga": "2026-10-21T12:47:18.117609+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2015-03-27",
+  "fecha_publicacion": null,
+  "numero": "T-133/15",
+  "tipo_cc": "T",
+  "prov_id": "7367",
+  "tema_relatoria": null,
+  "resumen": "Debido proceso, defensa, igualdad, trabajo, vivienda digna. Tutela contra providencia judicial. La acción de tutela se interpone en contra de fallos judiciales adoptados al interior de un proceso ordinario reivindicatorio propuesto por el Banco Davivienda en contra del actor y de la Fundación discapacidad y discapacitados por el conflicto armado en Colombia “Sin Fronteras”, los cuales resultaron adversos a los intereses del accionante. Se reitera jurisprudencia relacionada con la procedencia excepcional de la acción de tutela contra providencias judiciales y, al no encontrar satisfechos los requisitos de procedencia y procedibilidad requeridos, se confirman las decisiones de instancia que negaron por IMPROCEDENTE el amparo solicitado.",
+  "titulaciones": [
+    {
+      "tema": "ACCION DE TUTELA CONTRA SENTENCIA DE TUTELA",
+      "subtema": "Prohibición"
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA SENTENCIA DE TUTELA",
+      "subtema": "Improcedencia para controvertir decisiones que se adoptan en procesos de esta naturaleza"
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA SENTENCIA DE TUTELA",
+      "subtema": "Requisitos para la procedencia excepcional"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Requisitos generales y especiales de procedibilidad"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Reiteración de jurisprudencia sobre procedencia excepcional"
+    }
+  ]
+}

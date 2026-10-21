@@ -1,0 +1,53 @@
+{
+  "radicado": "T-512-15",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2015,
+  "fecha_creacion": "2015-08-11",
+  "magistrado_ponente": "Maria Victoria Calle Correa",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "JUECES DE INSTANCIA Y CORTE CONSTITUCIONAL",
+  "subtema": "Demostración del hecho superado",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 100 de 1993",
+    "Ley 860 de 2003",
+    "Decreto 917 de 1999",
+    "Ley 1346 de 2009"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2015/T-512-15.htm",
+  "fecha_descarga": "2026-10-21T12:51:07.844943+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2015-08-11",
+  "fecha_publicacion": null,
+  "numero": "T-512/15",
+  "tipo_cc": "T",
+  "prov_id": "7959",
+  "tema_relatoria": "RECONOCIMIENTO PENSION DE INVALIDEZ. CARENCIA ACTUAL DE OBJETO POR HECHO SUPERADO.",
+  "resumen": "Demandante que padece de enfermedad congénita estima vulneración por no reconocimiento de pensión de invalidez bajo argumento que no se cotizó las 50 semanas exigidas con anterioridad a la fecha de estructuración de la invalidez pues dictamen de pérdida de capacidad laboral fijó como fecha el día de nacimiento. Temas a tratar: Derecho a pensión de invalidez por pérdida de capacidad laboral paulatina en razón a enfermedad crónica, degenerativa o congénita",
+  "titulaciones": [
+    {
+      "tema": "JUECES DE INSTANCIA Y CORTE CONSTITUCIONAL",
+      "subtema": "Demostración del hecho superado"
+    },
+    {
+      "tema": "HECHO SUPERADO",
+      "subtema": "Posibles escenarios para su ocurrencia"
+    },
+    {
+      "tema": "PENSIÓN DE INVALIDEZ",
+      "subtema": "Reglas establecidas por la Corte Constitucional para determinar la fecha de estructuración de la invalidez en los casos de enfermedad degenerativa, crónica o congénita"
+    },
+    {
+      "tema": "CARENCIA ACTUAL DE OBJETO POR HECHO SUPERADO",
+      "subtema": "Se reconoció pensión de invalidez"
+    },
+    {
+      "tema": "CARENCIA ACTUAL DE OBJETO POR HECHO SUPERADO",
+      "subtema": "Configuración"
+    }
+  ]
+}

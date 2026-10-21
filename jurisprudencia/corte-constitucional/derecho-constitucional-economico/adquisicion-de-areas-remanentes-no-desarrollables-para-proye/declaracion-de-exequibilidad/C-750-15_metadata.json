@@ -1,0 +1,812 @@
+{
+  "radicado": "C-750-15",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2015,
+  "fecha_creacion": "2015-12-10",
+  "magistrado_ponente": null,
+  "area": "Derecho Constitucional Económico",
+  "tema": "ADQUISICION DE AREAS REMANENTES NO DESARROLLABLES PARA PROYECTOS DE INFRAESTRUCTURA DE TRANSPORTE",
+  "subtema": "Declaración de exequibilidad",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 1742 de 2014",
+    "Ley 1564 de 2012",
+    "Ley 1682 de 2013",
+    "Ley 1682 de 2014",
+    "Decreto 2067 de 1991",
+    "Ley 1683 de 2013",
+    "Ley 1673 de 2013",
+    "Ley 388 de 1997",
+    "Ley 1682 de 2012",
+    "Ley 1742 de 2015",
+    "Ley 1654 de 2012",
+    "Ley 1684 de 2012",
+    "Ley 1183 de 2008",
+    "Ley 791 de 2002",
+    "Ley 74 de 1968",
+    "Acto Legislativo 1 de 1999",
+    "Ley 1472 de 2014",
+    "Ley 1742 de 2004",
+    "Ley 9 de 1989",
+    "Ley 1437 de 2011"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2015/C-750-15.htm",
+  "fecha_descarga": "2026-10-21T12:57:02.516965+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2015-12-10",
+  "fecha_publicacion": "2016-01-22",
+  "numero": "C-750/15",
+  "tipo_cc": "C",
+  "prov_id": "8446",
+  "tema_relatoria": "NORMAS SOBRE PROYECTOS DE INFRAESTRUCTURA DE TRANSPORTE. CÓDIGO GENERAL DEL PROCESO. REGLAS SOBRE PROCESO DE EXPROPIACIÓN, CUANTIFICACIÓN DEL PRECIO",
+  "resumen": "Demanda de inconstitucionalidad contra los artículos 4 y 6 (parciales) de la Ley 1742 de 2014, 399 (parcial) de la Ley 1564 de 2014 y 33 (parcial) de la Ley 1682 de 2013. La Corte reiteró los parámetros constitucionales sobre la indemnización justa en caso de expropiación por motivos de utilidad pública. Precisó, que la notificación de la oferta de compra únicamente al poseedor inscrito se justifica desde la perspectiva constitucional por las finalidades que persigue y, que el límite a la tasación del daño por lucro cesante es inconstitucional. Se declara INHIBIDA para pronunciarse sobre la demanda presentada respecto de los incisos 3 y 4 del artículo 6º de la Ley 1742 de 2014, por ineptitud sustantiva de la demanda y declaró la EXEQUIBILIDAD de los apartes demandados del artículo 4 de la misma norma, por los cargos analizados. Respecto al inciso 5º del artículo 69 ibídem, declara su EXEQUIBILIDAD CONDICIONADA, en el entendido que cuando se cuantifique la indemnización en la etapa de expropiación, el cálculo de resarcimiento debe tener en cuenta los daños generados y probados con posterioridad a la oferta de compra del bien. También se declara EXEQUIBLE el parágrafo del artículo 399 de la Ley 1564 de 2012, por los cargos examinados, salvo el apartado “hasta por un período máximo de seis (6) meses, que se declara INEXEQUIBLE. Por último, se declara EXEQUIBLE el artículo 33 de la Ley 1682 de 2013.",
+  "titulaciones": [
+    {
+      "tema": "ADQUISICION DE AREAS REMANENTES NO DESARROLLABLES PARA PROYECTOS DE INFRAESTRUCTURA DE TRANSPORTE",
+      "subtema": "Declaración de exequibilidad"
+    },
+    {
+      "tema": "ADQUISICION DE PREDIO EN PROCESO DE EXPROPIACION",
+      "subtema": "No es un proceso judicial que genere derechos al poseedor material"
+    },
+    {
+      "tema": "ADQUISICION DE AREAS MAYORES A LAS NECESARIAS PARA ADELANTAR PROYECTOS DE INFRAESTRUCTURA DE TRANSPORTE",
+      "subtema": "No constituye confiscación"
+    },
+    {
+      "tema": "ANIMUS",
+      "subtema": "Concepto"
+    },
+    {
+      "tema": "CONFISCACION",
+      "subtema": "Definición"
+    },
+    {
+      "tema": "DAÑO EMERGENTE",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "CALCULO DE INDEMNIZACION EN PROCESO DE EXPROPIACION",
+      "subtema": "Declaración de exequibilidad condicionada"
+    },
+    {
+      "tema": "CALCULO DE INDEMNIZACION EN PROCESO DE EXPROPIACION",
+      "subtema": "No impide que el afectado obtenga una indemnización justa"
+    },
+    {
+      "tema": "EXPROPIACION O ADQUISICION DE DOMINIO",
+      "subtema": "Deberes"
+    },
+    {
+      "tema": "EXPROPIACION",
+      "subtema": "Características de la indemnización"
+    },
+    {
+      "tema": "EXPROPIACION",
+      "subtema": "Indemnización elimina el carácter confiscatorio de la privación del derecho de propiedad"
+    },
+    {
+      "tema": "EXPROPIACION",
+      "subtema": "Interés público como factor que permite limitar la propiedad"
+    },
+    {
+      "tema": "EXPROPIACION",
+      "subtema": "Manifestación de la soberanía del Estado"
+    },
+    {
+      "tema": "ENAJENACION VOLUNTARIA Y VALOR COMERCIAL DEL BIEN",
+      "subtema": "Aval de preferir negociación a proceso judicial de expropiación ha generado asimetría que obra en detrimento de la etapa de negociación"
+    },
+    {
+      "tema": "ENAJENACIONES FORZADAS",
+      "subtema": "Clases"
+    },
+    {
+      "tema": "NORMA SOBRE PRECIO DE ADQUISICION DE BIEN INMUEBLE EN ETAPA DE ENAJENACION VOLUNTARIA, DAÑO EMERGENTE Y LUCRO CESANTE",
+      "subtema": "Interpretación razonable que generaba duda constitucional"
+    },
+    {
+      "tema": "NOTIFICACION DE LA OFERTA DE COMPRA AL POSEEDOR NO INSCRITO",
+      "subtema": "No riñe con la agilidad del proceso de adquisición de bienes por parte del Estado"
+    },
+    {
+      "tema": "NOTIFICACION DE LA OFERTA DE COMPRA DE INMUEBLE A POSEEDORES INSCRITOS Y NO INSCRITOS EN FOLIO DE MATRICULA INMOBILIARIA",
+      "subtema": "Desarrolla principios de celeridad y eficacia"
+    },
+    {
+      "tema": "NOTIFICACION DE OFERTA DE COMPRA A POSEEDOR INSCRITO EN FOLIO DE MATRICULA DE INMUEBLE OBJETO DE EXPROPIACION",
+      "subtema": "Declaración de exequibilidad"
+    },
+    {
+      "tema": "OFERTA Y NEGOCIACION EN ETAPA DE ENAJENACION VOLUNTARIA",
+      "subtema": "Reglas para calcular daño emergente y lucro cesante se aplican en etapa de expropiación"
+    },
+    {
+      "tema": "POSEEDORES REGULARES NO INSCRITOS EN FOLIO DE MATRICULA INMOBILIARIA",
+      "subtema": "Corte debió declarar inexequibilidad de la expresión “inscrito” para superar diferenciación injustificada y así conminar a la administración a notificar la oferta de compra a poseedores"
+    },
+    {
+      "tema": "POSESION DE BIENES",
+      "subtema": "Concepto según la Corte Suprema de Justicia"
+    },
+    {
+      "tema": "POSESION DE BIENES",
+      "subtema": "Diferenciación con la propiedad"
+    },
+    {
+      "tema": "POSESION DE BIENES",
+      "subtema": "Caracterización"
+    },
+    {
+      "tema": "LIMITE MAXIMO PARA RECONOCIMIENTO DEL LUCRO CESANTE",
+      "subtema": "No impide el reconocimiento del perjuicio"
+    },
+    {
+      "tema": "LIMITE MAXIMO PARA RECONOCIMIENTO DEL LUCRO CESANTE",
+      "subtema": "Utilidad y pertinencia para resolver problemas jurídicos en relación con la definición de la indemnización justa"
+    },
+    {
+      "tema": "LIBERTAD DE CONFIGURACION LEGISLATIVA FRENTE AL LIMITE TEMPORAL MAXIMO AL RECONOCIMIENTO DEL LUCRO CESANTE",
+      "subtema": "Ponderación razonable de los intereses jurídicos y fiscales"
+    },
+    {
+      "tema": "REALIDAD FACTICA DE LA CONSTITUCIONALIDAD DE UNA MEDIDA",
+      "subtema": "Debe tener en cuenta la situación en que se hallan sus destinatarios y evaluar los impactos de la normativa"
+    },
+    {
+      "tema": "ENAJENACION VOLUNTARIA",
+      "subtema": "Medida de pago previo es proporcional y razonable por cuanto intenta incentivar la etapa de arreglo directo"
+    },
+    {
+      "tema": "ENAJENACION VOLUNTARIA O EXPROPIACION",
+      "subtema": "Acceso a bienes necesarios para el desarrollo de las funciones del Estado"
+    },
+    {
+      "tema": "ENAJENACION VOLUNTARIA",
+      "subtema": "Parámetro de precio correspondiente al avalúo catastral al ser optativo no afecta la propiedad privada"
+    },
+    {
+      "tema": "ENAJENACION VOLUNTARIA",
+      "subtema": "Previo pago del predio teniendo en cuenta avalúo catastral e indemnización calculada en etapa de expropiación judicial o administrativa resarciendo daños generados y probados con posterioridad a la oferta de compra del bien"
+    },
+    {
+      "tema": "DERECHO A LA PROPIEDAD PRIVADA",
+      "subtema": "Indemnización del bien en la enajenación voluntaria no debe corresponder siempre a la restitutio in integrum"
+    },
+    {
+      "tema": "DERECHO A LA PROPIEDAD",
+      "subtema": "Límites"
+    },
+    {
+      "tema": "DERECHO A LA PROPIEDAD PRIVADA",
+      "subtema": "Reconocimiento constitucional"
+    },
+    {
+      "tema": "DERECHO A LA IGUALDAD Y PRINCIPIO DE RAZONABILIDAD",
+      "subtema": "Consecuencias"
+    },
+    {
+      "tema": "DERECHO A LA IGUALDAD Y PROPIEDAD PRIVADA",
+      "subtema": "Transgresión al notificar oferta de compra al titular de derechos reales o poseedor regular inscritos en folio de matrícula de inmueble objeto de expropiación"
+    },
+    {
+      "tema": "DERECHO A LA NOTIFICACION",
+      "subtema": "Importancia"
+    },
+    {
+      "tema": "DERECHO A LA PROPIEDAD PRIVADA",
+      "subtema": "Jurisprudencia Constitucional"
+    },
+    {
+      "tema": "DERECHO A LA PROPIEDAD",
+      "subtema": "Artículo 58 de la Constitución exige que indemnización consulte el interés de los afectados y la comunidad"
+    },
+    {
+      "tema": "DAÑO EMERGENTE Y LUCRO CESANTE EN ENAJENACION VOLUNTARIA",
+      "subtema": "En la práctica internacional el reconocimiento corresponde a la indemnización que se aplica en expropiaciones ilegales o que infringen el derecho internacional"
+    },
+    {
+      "tema": "DERECHO DE PROPIEDAD",
+      "subtema": "Pago de indemnización a través de reparación directa por daño antijurídico al ocupar bienes por vías de hecho"
+    },
+    {
+      "tema": "DERECHO DE PROPIEDAD PRIVADA Y PRINCIPIO DE SOLIDARIDAD",
+      "subtema": "Conexión"
+    },
+    {
+      "tema": "DERECHO DE PROPIEDAD",
+      "subtema": "Requisitos que deben respetar las autoridades estatales cuando privan de la titularidad a una persona contra su voluntad"
+    },
+    {
+      "tema": "DERECHO DE PROPIEDAD PRIVADA",
+      "subtema": "Atributos"
+    },
+    {
+      "tema": "DERECHO DE PROPIEDAD",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "DERECHO DE PROPIEDAD",
+      "subtema": "Límites por utilidad pública e interés social"
+    },
+    {
+      "tema": "EXPROPIACION POR VIA ADMINISTRATIVA Y VIA JUDICIAL",
+      "subtema": "Condiciones diferentes"
+    },
+    {
+      "tema": "EXPROPIACION",
+      "subtema": "Competencia del legislador"
+    },
+    {
+      "tema": "EXPROPIACION",
+      "subtema": "Concepto según la Corte Suprema de Justicia"
+    },
+    {
+      "tema": "EXPROPIACION",
+      "subtema": "Derecho del particular cede ante el interés general"
+    },
+    {
+      "tema": "EXPROPIACION",
+      "subtema": "Fijación de la medida del lucro cesante en el equivalente de rentas dejadas de percibir hasta por seis meses contribuye a materializar las finalidades del legislador"
+    },
+    {
+      "tema": "EXPROPIACION",
+      "subtema": "No se puede identificar como confiscación"
+    },
+    {
+      "tema": "INDEMNIZACION EN PROCESOS DE EXPROPIACION DE BIENES INMUEBLES",
+      "subtema": "Pago posterior en casos de guerra"
+    },
+    {
+      "tema": "INDEMNIZACION EN PROCESOS DE EXPROPIACION DE BIENES INMUEBLES",
+      "subtema": "Debe evaluarse si afecta derechos u otras posiciones jurídicas de sujetos de especial protección constitucional"
+    },
+    {
+      "tema": "INDEMNIZACION EN PROCESOS DE EXPROPIACION DE BIENES INMUEBLES",
+      "subtema": "Fijación de un estándar de reparación era viable debido a que determinación del precio y del daño emergente son ámbitos donde prima un amplio margen de apreciación judicial"
+    },
+    {
+      "tema": "INDEMNIZACION EN PROCESOS DE EXPROPIACION DE BIENES INMUEBLES",
+      "subtema": "Medios de control excluyentes y reparación de perjuicios distinta"
+    },
+    {
+      "tema": "INDEMNIZACION EN PROCESOS DE EXPROPIACION DE BIENES INMUEBLES",
+      "subtema": "Norma declarada inexequible operaba como límite sobre juridicidad del daño derivado de la expropiación en cuanto al lucro cesante"
+    },
+    {
+      "tema": "INDEMNIZACION EN PROCESOS DE EXPROPIACION DE BIENES INMUEBLES",
+      "subtema": "Requisitos"
+    },
+    {
+      "tema": "JUICIO INTEGRADO DE IGUALDAD",
+      "subtema": "Proporcionalidad y niveles de intensidad"
+    },
+    {
+      "tema": "JUICIO DE IGUALDAD",
+      "subtema": "Condición de poseedores y relación material con el bien inmueble objeto de expropiación"
+    },
+    {
+      "tema": "INDEMNIZACION EN PROCESOS DE EXPROPIACION DE BIENES INMUEBLES",
+      "subtema": "Aplicación del principio de razonabilidad y proporcionalidad"
+    },
+    {
+      "tema": "INDEMNIZACION EN PROCESOS DE EXPROPIACION DE BIENES INMUEBLES",
+      "subtema": "Legislador busca evitar que reconocimiento del lucro cesante sea indefinido en el tiempo en perjuicio de la protección de los recursos públicos y con un criterio de sostenibilidad fiscal"
+    },
+    {
+      "tema": "INDEMNIZACION EN PROCESOS DE EXPROPIACION DE BIENES INMUEBLES",
+      "subtema": "Reiteración de jurisprudencia"
+    },
+    {
+      "tema": "INDEMNIZACION EN PROCESOS DE EXPROPIACION DE BIENES INMUEBLES",
+      "subtema": "Debe ser pagada antes del traspaso del dominio del bien"
+    },
+    {
+      "tema": "INDEMNIZACION EN PROCESOS DE EXPROPIACION DE BIENES INMUEBLES",
+      "subtema": "Naturaleza compensatoria"
+    },
+    {
+      "tema": "INDEMNIZACION EN PROCESOS DE EXPROPIACION DE BIENES INMUEBLES",
+      "subtema": "Pago de perjuicios materiales por lucro cesante y daño emergente frente a perjuicios causados con la cesión del predio"
+    },
+    {
+      "tema": "INDEMNIZACION EN PROCESOS DE EXPROPIACION DE BIENES INMUEBLES",
+      "subtema": "Responsabilidad del Estado por ocurrencia de daño antijurídico"
+    },
+    {
+      "tema": "INDEMNIZACION JUSTA EN PROCESO DE EXPROPIACION",
+      "subtema": "Carácter de reparadora"
+    },
+    {
+      "tema": "EXPROPIACION O ADQUISICION DE BIENES",
+      "subtema": "No tienen carácter confiscatorio"
+    },
+    {
+      "tema": "OFERTA DE COMPRA A POSEEDOR NO INSCRITO EN FOLIO DE MATRICULA DE INMUEBLE OBJETO DE EXPROPIACION",
+      "subtema": "Privación del acto de notificación"
+    },
+    {
+      "tema": "NORMA SOBRE PRECIO DE ADQUISICION DE BIEN INMUEBLE EN ETAPA DE ENAJENACION VOLUNTARIA, DAÑO EMERGENTE Y LUCRO CESANTE",
+      "subtema": "Inhibición por ineptitud sustantiva de la demanda"
+    },
+    {
+      "tema": "NOTIFICACION DE LA OFERTA DE COMPRA DE INMUEBLE A POSEEDORES INSCRITOS EN FOLIO DE MATRICULA INMOBILIARIA",
+      "subtema": "Trato diferente"
+    },
+    {
+      "tema": "NOTIFICACION DE OFERTA DE COMPRA A POSEEDOR INSCRITO EN FOLIO DE MATRICULA DE INMUEBLE OBJETO DE EXPROPIACION",
+      "subtema": "Se debió declarar inconstitucional el aparte demandado por contrariar el derecho a la igualdad y propiedad privada"
+    },
+    {
+      "tema": "NOTIFICACION DE OFERTA DE COMPRA A POSEEDOR INSCRITO EN FOLIO DE MATRICULA DE INMUEBLE OBJETO DE EXPROPIACION",
+      "subtema": "Objetivo"
+    },
+    {
+      "tema": "PRINCIPIO A LA IGUALDAD Y JUICIO DE IGUALDAD",
+      "subtema": "Reconocimiento constitucional"
+    },
+    {
+      "tema": "POSESION DE BIENES",
+      "subtema": "Ejercicio"
+    },
+    {
+      "tema": "POSESION INSCRITA",
+      "subtema": "Inexistencia"
+    },
+    {
+      "tema": "POSESION DE BIENES",
+      "subtema": "Especies"
+    },
+    {
+      "tema": "PROPIEDAD PRIVADA",
+      "subtema": "Violación por restricción a seis meses en la tasación del daño por lucro cesante"
+    },
+    {
+      "tema": "PROPIEDAD",
+      "subtema": "Función social"
+    },
+    {
+      "tema": "PROPIEDAD PRIVADA",
+      "subtema": "No tiene carácter absoluto"
+    },
+    {
+      "tema": "PROPIEDAD Y DOMINIO",
+      "subtema": "Concepto"
+    },
+    {
+      "tema": "PROCESO DE EXPROPIACION",
+      "subtema": "Fijación abstracta de perjuicios"
+    },
+    {
+      "tema": "PROCESO DE EXPROPIACION",
+      "subtema": "Restricción en el valor del lucro cesante que no constituye una exclusión"
+    },
+    {
+      "tema": "PROCESO DE EXPROPIACION",
+      "subtema": "Cálculo del valor de indemnización por lucro cesante hasta por seis meses"
+    },
+    {
+      "tema": "PROCESO DE EXPROPIACION",
+      "subtema": "No resulta cierto que se impida al juez su labor de ponderación en la búsqueda de establecer una indemnización justa en favor del expropiado"
+    },
+    {
+      "tema": "PROCESOS DE EXPROPIACION DE BIENES INMUEBLES",
+      "subtema": "Administración y jueces cuentan con la obligación de calcular indemnización que atienda el principio de razonabilidad"
+    },
+    {
+      "tema": "PROCESO DE EXPROPIACION",
+      "subtema": "Adquisición de áreas mayores a las necesarias para adelantar proyectos de infraestructura de transporte"
+    },
+    {
+      "tema": "REGISTRO DE PREDIOS EN OFICINA DE INSTRUMENTOS PUBLICOS",
+      "subtema": "Carece de efectos posesorios"
+    },
+    {
+      "tema": "TOPE DE SEIS MESES PARA CALCULAR LUCRO CESANTE EN FASE DE NEGOCIACION Y TOPE EN ETAPA DE EXPROPIACION JUDICIAL",
+      "subtema": "Condiciones diferentes"
+    },
+    {
+      "tema": "TOPE DE SEIS MESES PARA CALCULAR LUCRO CESANTE POR EXPROPIACION",
+      "subtema": "Ley puede fijar límites que vinculen la administración de justicia, siempre que sean proporcionales"
+    },
+    {
+      "tema": "ADQUISICION DE AREAS MAYORES A LAS NECESARIAS PARA ADELANTAR PROYECTOS DE INFRAESTRUCTURA DE TRANSPORTE",
+      "subtema": "Requisitos"
+    },
+    {
+      "tema": "ADQUISICION DE AREAS MAYORES A LAS NECESARIAS PARA ADELANTAR PROYECTOS DE INFRAESTRUCTURA DE TRANSPORTE",
+      "subtema": "No quebranta el derecho de propiedad"
+    },
+    {
+      "tema": "CONDICIONAMIENTO DE CUANTIFICACION DE INDEMNIZACION POR EXPROPIACION",
+      "subtema": "Instituye deber del juez de incorporar en la dosificación de la indemnización los daños generados y probados con posterioridad a la oferta del bien"
+    },
+    {
+      "tema": "CONFISCACION",
+      "subtema": "Reconocimiento de la acción de extinción de dominio"
+    },
+    {
+      "tema": "CONFISCACION Y EXPROPIACION",
+      "subtema": "Restringen el derecho de propiedad"
+    },
+    {
+      "tema": "ACCION DE REPARACION DIRECTA",
+      "subtema": "Solo cubre el daño antijurídico en los términos del artículo 90 de la Constitución Política"
+    },
+    {
+      "tema": "CUANTIFICACION DE INDEMNIZACION JUSTA EN PROCESO DE EXPROPIACION",
+      "subtema": "Autoridades expropiadoras tienen obligación de consultar intereses de la comunidad y del particular afectado"
+    },
+    {
+      "tema": "CORPUS",
+      "subtema": "Concepto"
+    },
+    {
+      "tema": "INDEMNIZACION EN PROCESOS DE EXPROPIACION DE BIENES INMUEBLES",
+      "subtema": "Debe conciliar los derechos de los particulares e intereses de la comunidad"
+    },
+    {
+      "tema": "INDEMNIZACION EN PROCESOS DE EXPROPIACION DE BIENES INMUEBLES",
+      "subtema": "El hecho que se permita al juez fijar los diferentes componentes y solo se limite el lucro cesante se deriva que la indemnización resulte justa"
+    },
+    {
+      "tema": "INDEMNIZACION EN PROCESOS DE EXPROPIACION DE BIENES INMUEBLES",
+      "subtema": "No se agota en el precio del bien perdido"
+    },
+    {
+      "tema": "INDEMNIZACION POR EXPROPIACION",
+      "subtema": "Legítimamente limitada por el Legislador"
+    },
+    {
+      "tema": "JUICIO INTEGRADO DE IGUALDAD",
+      "subtema": "Etapas"
+    },
+    {
+      "tema": "NOTIFICACION DE LA OFERTA DE COMPRA AL POSEEDOR NO INSCRITO",
+      "subtema": "Disposición acusada relega por omisión al de expropiación"
+    },
+    {
+      "tema": "NOTIFICACION DE LA OFERTA DE COMPRA DE INMUEBLE A POSEEDORES INSCRITOS EN FOLIO DE MATRICULA INMOBILIARIA",
+      "subtema": "Juicio de igualdad leve"
+    },
+    {
+      "tema": "EXPROPIACION ILICITA",
+      "subtema": "Procedencia de la restitutio in integrum"
+    },
+    {
+      "tema": "EXPROPIACION",
+      "subtema": "Libertad de configuración legislativa para fijar indemnización y modos de pago"
+    },
+    {
+      "tema": "EXPROPIACION",
+      "subtema": "Modalidad de cesión del derecho de dominio en pro del bienestar de la colectividad"
+    },
+    {
+      "tema": "INDEMNIZACION EN PROCESOS DE EXPROPIACION DE BIENES INMUEBLES",
+      "subtema": "Ambito internacional"
+    },
+    {
+      "tema": "INDEMNIZACION EN PROCESOS DE EXPROPIACION DE BIENES INMUEBLES",
+      "subtema": "Carácter previo"
+    },
+    {
+      "tema": "INDEMNIZACION EN PROCESOS DE EXPROPIACION DE BIENES INMUEBLES",
+      "subtema": "Función restitutiva o restauradora"
+    },
+    {
+      "tema": "INDEMNIZACION",
+      "subtema": "Función reparatoria"
+    },
+    {
+      "tema": "ENAJENACION VOLUNTARIA",
+      "subtema": "Indemnización no corresponde al resarcimiento de todos los intereses del afectado"
+    },
+    {
+      "tema": "EXPROPIACION ADMINISTRATIVA Y PERDIDA DEL DERECHO DE PROPIEDAD",
+      "subtema": "Particular puede acudir ante jurisdicción contenciosa a través de nulidad y restablecimiento del derecho"
+    },
+    {
+      "tema": "EXPROPIACION JUDICIAL Y PERDIDA DEL DERECHO DE PROPIEDAD",
+      "subtema": "Particular puede acudir a través de nulidad y restablecimiento del derecho por yerros en el procedimiento ante jurisdicción contenciosa y civil"
+    },
+    {
+      "tema": "EXPROPIACION",
+      "subtema": "Indemnización compensatoria"
+    },
+    {
+      "tema": "EXPROPIACION",
+      "subtema": "No puede existir sin indemnización previa"
+    },
+    {
+      "tema": "EXPROPIACION",
+      "subtema": "Ponderación"
+    },
+    {
+      "tema": "NORMA SOBRE PRECIO DE ADQUISICION DE BIEN INMUEBLE EN ETAPA DE ENAJENACION VOLUNTARIA",
+      "subtema": "Procedencia de indemnización que incluye daño emergente y lucro cesante"
+    },
+    {
+      "tema": "NOTIFICACION DE LA OFERTA DE COMPRA DE INMUEBLE A POSEEDORES INSCRITOS EN FOLIO DE MATRICULA INMOBILIARIA",
+      "subtema": "Amplía libertad de configuración legislativa en materia de regulación de procesos de adquisición de bienes del Estado"
+    },
+    {
+      "tema": "NOTIFICACION DE OFERTA DE COMPRA A POSEEDOR INSCRITO EN FOLIO DE MATRICULA DE INMUEBLE OBJETO DE EXPROPIACION",
+      "subtema": "Diferencia creada por legislador carece de justificación puesto que poseedores inscritos y no registrados tienen los mismos derechos y acciones"
+    },
+    {
+      "tema": "LUCRO CESANTE Y DAÑO EMERGENTE POR EXPROPIACION",
+      "subtema": "Restricción legal"
+    },
+    {
+      "tema": "NOTIFICACION DE OFERTA DE COMPRA A POSEEDOR NO INSCRITO EN FOLIO DE MATRICULA DE INMUEBLE OBJETO DE EXPROPIACION",
+      "subtema": "Se invirtió de manera desproporcionada la carga procesal"
+    },
+    {
+      "tema": "POSEEDORES REGULARES INSCRITOS Y NO INSCRITOS EN FOLIO DE MATRICULA INMOBILIARIA",
+      "subtema": "Distinción para efectos de notificación por el Estado de oferta de compra en proceso de adquisición de inmuebles"
+    },
+    {
+      "tema": "POSESION DE BIENES REGULAR",
+      "subtema": "Registro de la declaración"
+    },
+    {
+      "tema": "POSESION DE BIENES",
+      "subtema": "Corpus y animus como aspectos centrales"
+    },
+    {
+      "tema": "POSESION DE BIENES",
+      "subtema": "Jurisprudencia Constitucional"
+    },
+    {
+      "tema": "PRINCIPIO DE PREVALENCIA DEL INTERES GENERAL Y DERECHO DE PROPIEDAD PRIVADA",
+      "subtema": "Tensión se resuelve con la cesión del derecho individual a cambio de una indemnización justa"
+    },
+    {
+      "tema": "POSEEDORES INSCRITOS EN FOLIO DE MATRICULA INMOBILIARIA FRENTE AL DERECHO A LA IGUALDAD Y PROPIEDAD",
+      "subtema": "Notificación de la oferta de compra del inmueble"
+    },
+    {
+      "tema": "POSESION DE BIENES REGULAR",
+      "subtema": "Justo título y buena fe"
+    },
+    {
+      "tema": "POSESION DE BIENES",
+      "subtema": "Característica"
+    },
+    {
+      "tema": "POSESION DE BIENES",
+      "subtema": "Consecuencias jurídicas"
+    },
+    {
+      "tema": "POSESION DE BIENES",
+      "subtema": "Subordinación fáctica y de hecho"
+    },
+    {
+      "tema": "PRINCIPIO DE SOBERANIA ESTATAL, ESTADO SOCIAL DE DERECHO E INTERES GENERAL",
+      "subtema": "Riesgos por reconocimiento de indemnizaciones desmedidas"
+    },
+    {
+      "tema": "PROCESO DE EXPROPIACION",
+      "subtema": "Funcionario judicial conserva margen de apreciación para definir valor del inmueble y daño emergente"
+    },
+    {
+      "tema": "PROCESO DE EXPROPIACION",
+      "subtema": "Tope de seis meses para calcular valor de indemnización por lucro cesante"
+    },
+    {
+      "tema": "PROCESO DE EXPROPIACION",
+      "subtema": "Debe existir indemnización previa"
+    },
+    {
+      "tema": "PROCESO DE EXPROPIACION",
+      "subtema": "Trámite expedito"
+    },
+    {
+      "tema": "LUCRO CESANTE",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "LIMITE MAXIMO PARA RECONOCIMIENTO DEL LUCRO CESANTE",
+      "subtema": "Negar el lucro cesante más allá de los seis meses generaría un nuevo daño antijurídico y desproporcionado"
+    },
+    {
+      "tema": "LIMITE MAXIMO PARA RECONOCIMIENTO DEL LUCRO CESANTE",
+      "subtema": "Medio adecuado para ponderar intereses en conflicto"
+    },
+    {
+      "tema": "LIMITE MAXIMO PARA RECONOCIMIENTO DEL LUCRO CESANTE",
+      "subtema": "No es acertado considerar que el lucro cesante debidamente comprobado y que exceda el plazo de seis meses no pueda ser reclamado judicialmente"
+    },
+    {
+      "tema": "LIMITE MAXIMO PARA RECONOCIMIENTO DEL LUCRO CESANTE",
+      "subtema": "No afecta desproporcionadamente el derecho del afectado a recibir una indemnización justa"
+    },
+    {
+      "tema": "LIMITE MAXIMO PARA RECONOCIMIENTO DEL LUCRO CESANTE",
+      "subtema": "Compatible con un trato deferente respecto de la eficacia de los derechos de sujetos de especial protección"
+    },
+    {
+      "tema": "LIMITE MAXIMO PARA RECONOCIMIENTO DEL LUCRO CESANTE",
+      "subtema": "No afecta desproporcionadamente el margen de apreciación judicial"
+    },
+    {
+      "tema": "MERA TENENCIA",
+      "subtema": "Concepto"
+    },
+    {
+      "tema": "PROPIEDAD PRIVADA",
+      "subtema": "Derecho subjetivo"
+    },
+    {
+      "tema": "ENAJENACION VOLUNTARIA E INDEMNIZACION EN FASE DE NEGOCIACION Y EXPROPIACION ADMINISTRATIVA",
+      "subtema": "Mantiene el tope para el lucro cesante mientras que en la fase de expropiación se elimina por vía judicial"
+    },
+    {
+      "tema": "ENAJENACION VOLUNTARIA Y VALOR COMERCIAL DEL BIEN",
+      "subtema": "Ley incorporara mecanismo destinado a hacer más atractiva opción de preferir negociación a proceso judicial de expropiación"
+    },
+    {
+      "tema": "ENAJENACION VOLUNTARIA",
+      "subtema": "Etapa que conduce a la expropiación precedida de la declaración de utilidad pública e interés social"
+    },
+    {
+      "tema": "ENAJENACION VOLUNTARIA Y EXPROPIACION",
+      "subtema": "Integración de unidad normativa"
+    },
+    {
+      "tema": "ENAJENACION VOLUNTARIA",
+      "subtema": "Impertinencia de condicionamiento"
+    },
+    {
+      "tema": "DERECHO A LA PROPIEDAD PRIVADA",
+      "subtema": "Contenido y límites"
+    },
+    {
+      "tema": "DERECHO DE PROPIEDAD PRIVADA",
+      "subtema": "Respeto por autoridades públicas"
+    },
+    {
+      "tema": "DERECHO DE PROPIEDAD",
+      "subtema": "Características"
+    },
+    {
+      "tema": "DERECHO DE DOMINIO",
+      "subtema": "Límites"
+    },
+    {
+      "tema": "EXPROPIACION LEGAL",
+      "subtema": "Tiene su fuente en una causa expropiandi precisa e inequívoca por razones de utilidad pública o interés social que garantiza el derecho de propiedad del particular"
+    },
+    {
+      "tema": "EXPROPIACION",
+      "subtema": "Indemnización debe ser justa"
+    },
+    {
+      "tema": "EXPROPIACION",
+      "subtema": "Legislador no puede limitar la valoración del perjuicio que en cada caso particular corresponde efectuar al juez"
+    },
+    {
+      "tema": "INDEMNIZACION EN PROCESOS DE EXPROPIACION DE BIENES INMUEBLES",
+      "subtema": "Amplia libertad de configuración legislativa"
+    },
+    {
+      "tema": "INDEMNIZACION EN PROCESOS DE EXPROPIACION DE BIENES INMUEBLES",
+      "subtema": "Condiciones"
+    },
+    {
+      "tema": "INDEMNIZACION EN PROCESOS DE EXPROPIACION DE BIENES INMUEBLES",
+      "subtema": "Discrecionalidad en la tasación corresponde con el arbitrio iuris"
+    },
+    {
+      "tema": "INDEMNIZACION EN PROCESOS DE EXPROPIACION DE BIENES INMUEBLES",
+      "subtema": "Funciones según el caso concreto"
+    },
+    {
+      "tema": "INDEMNIZACION EN PROCESOS DE EXPROPIACION DE BIENES INMUEBLES",
+      "subtema": "Naturaleza reparatoria"
+    },
+    {
+      "tema": "INDEMNIZACION EN PROCESOS DE EXPROPIACION DE BIENES INMUEBLES",
+      "subtema": "Tasación debe estar marcada por la ponderación de los intereses del particular y la sociedad"
+    },
+    {
+      "tema": "INDEMNIZACION JUSTA EN PROCESO DE EXPROPIACION",
+      "subtema": "Violación de la propiedad privada al imponer un tiempo abstracto y fijo para tasar el daño por lucro cesante"
+    },
+    {
+      "tema": "INDEMNIZACION EN PROCESOS DE EXPROPIACION DE BIENES INMUEBLES",
+      "subtema": "Carácter integral que incluye daños morales y materiales por lucro cesante y daño emergente"
+    },
+    {
+      "tema": "INDEMNIZACION",
+      "subtema": "Función compensatoria"
+    },
+    {
+      "tema": "JUICIO DE IGUALDAD ENTRE POSEEDORES Y PROCESOS DE ADQUISICION DE BIENES",
+      "subtema": "Medida discriminatoria hacia poseedores regulares no inscritos"
+    },
+    {
+      "tema": "POSESION DE BIENES",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "POSESION DE BIENES",
+      "subtema": "No se considera como tal la inscripción del título que demuestra la subordinación física de un predio frente a una persona"
+    },
+    {
+      "tema": "POSESION",
+      "subtema": "Agilización de trámites de adquisición predial no justifica trato disímil entre poseedores fundado en el registro del bien por privar al poseedor regular no inscrito de la etapa de negociación directa"
+    },
+    {
+      "tema": "POSEEDOR INSCRITO EN FOLIO DE MATRICULA DE INMUEBLE OBJETO DE EXPROPIACION",
+      "subtema": "Notificación de oferta de compra"
+    },
+    {
+      "tema": "POSESION DE BIENES REGULAR E IRREGULAR",
+      "subtema": "Diferencia"
+    },
+    {
+      "tema": "POSESION DE BIENES",
+      "subtema": "Carácter factico"
+    },
+    {
+      "tema": "POSESION DE BIENES",
+      "subtema": "Conceptos en el derecho civil"
+    },
+    {
+      "tema": "POSESION DE BIENES",
+      "subtema": "Protegida por ser expresión del derecho de propiedad y su vínculo con el dominio"
+    },
+    {
+      "tema": "POSESION",
+      "subtema": "Registro puede provocar desprotección de poseedores no inscritos quienes deben ser rodeados de garantías sustanciales y no sólo formales"
+    },
+    {
+      "tema": "PROCESO DE EXPROPIACION",
+      "subtema": "Desembolso de indemnización debe ocurrir antes del traspaso del dominio del bien del privado al Estado"
+    },
+    {
+      "tema": "PROCESO DE EXPROPIACION",
+      "subtema": "Restricción al juez en el cálculo del lucro cesante a seis meses"
+    },
+    {
+      "tema": "PROCESO DE EXPROPIACION",
+      "subtema": "Vía judicial y administrativa"
+    },
+    {
+      "tema": "PROCESO DE EXPROPIACION",
+      "subtema": "Adquisición de remanentes es una medida que respeta el derecho de propiedad"
+    },
+    {
+      "tema": "TOPE DE SEIS MESES PARA CALCULAR LUCRO CESANTE POR EXPROPIACION",
+      "subtema": "Incompatibilidad con la Constitución"
+    },
+    {
+      "tema": "TOPE DE SEIS MESES PARA CALCULAR LUCRO CESANTE POR EXPROPIACION",
+      "subtema": "Declaración de inexequibilidad"
+    },
+    {
+      "tema": "TOPE DE SEIS MESES PARA CALCULAR LUCRO CESANTE POR EXPROPIACION",
+      "subtema": "Resulta legítimo imponer restricciones a la indemnización cuando sean razonables y proporcionadas"
+    },
+    {
+      "tema": "TOPE DE SEIS MESES PARA CALCULAR LUCRO CESANTE EN FASE DE NEGOCIACION POR EXPROPIACION",
+      "subtema": "Inexistencia de ponderación"
+    },
+    {
+      "tema": "TOPE DE SEIS MESES PARA CALCULAR LUCRO CESANTE POR EXPROPIACION",
+      "subtema": "Legislador quebranta criterios de razonabilidad y proporcionalidad al fijar los conceptos de la indemnización"
+    },
+    {
+      "tema": "PROPIEDAD PRIVADA",
+      "subtema": "Constituyente le atribuyó características que la involucran en la satisfacción de intereses privados del titular y la comprometen en la realización de cometidos sociales"
+    },
+    {
+      "tema": "PROPIEDAD PRIVADA",
+      "subtema": "Naturaleza"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "radicado": "T-305-14",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2014,
+  "fecha_creacion": "2014-05-28",
+  "magistrado_ponente": "Gabriel Eduardo Mendoza Martelo",
+  "area": "Derechos Étnicos y Consulta Previa",
+  "tema": "CIRCUNSCRIPCION ESPECIAL DE MINORIAS ETNICAS",
+  "subtema": "Postulación de candidatos al Congreso por agrupaciones políticas de carácter minoritario",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 649 de 2001",
+    "Ley 1475 de 2011",
+    "Decreto 2591 de 1991",
+    "Ley 649 de 2011",
+    "Ley 21 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2014/T-305-14.htm",
+  "fecha_descarga": "2026-10-21T13:09:43.289202+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2014-05-28",
+  "fecha_publicacion": "2015-08-19",
+  "numero": "T-305/14",
+  "tipo_cc": "T",
+  "prov_id": "6223",
+  "tema_relatoria": "DERECHO DE LAS COMUNIDADES INDIGENAS A PARTICIPAR EN POLITICA",
+  "resumen": "Se solicita la protección de los derechos vulnerados al exigir requisitos adicionales para la inscripción de candidatos de minorías étnicas a curules en el Congreso de la República. Los temas abordados son: derecho de las comunidades indígenas a participar en política, derecho a elegir y ser elegido, estudio de constitucionalidad adelantado en la sentencia C-490/11 sobre reglas de organización y funcionamiento de los partidos y movimientos políticos y de los procesos electorales. No existe inscripción de la organización demandante. Se confirma decisión del Tribunal Administrativo de Cundinamarca y se deniega el amparo alegado.",
+  "titulaciones": [
+    {
+      "tema": "CIRCUNSCRIPCION ESPECIAL DE MINORIAS ETNICAS",
+      "subtema": "Postulación de candidatos al Congreso por agrupaciones políticas de carácter minoritario"
+    },
+    {
+      "tema": "LEGITIMACION POR ACTIVA EN TUTELA DE COMUNIDAD INDIGENA",
+      "subtema": "En representación de miembros de la comunidad"
+    },
+    {
+      "tema": "LEGITIMACION POR PASIVA EN TUTELA",
+      "subtema": "Entidad pública"
+    },
+    {
+      "tema": "ACCION DE TUTELA FRENTE A ACTOS PROFERIDOS POR AUTORIDAD ELECTORAL",
+      "subtema": "Procedencia excepcional cuando vulnera derecho a elegir y ser elegido"
+    },
+    {
+      "tema": "PARTICIPACION DE GRUPO ETNICO, MINORIA POLITICA Y RESIDENTES EN EL EXTERIOR",
+      "subtema": "Requisitos de candidatos en circunscripción especial"
+    },
+    {
+      "tema": "DERECHO A LA PARTICIPACION EN POLITICA DE COMUNIDAD INDIGENA",
+      "subtema": "Improcedencia por cuanto la organización demandante en ningún momento realizó solicitud de inscripción como aspirante de algún miembro de minorías étnicas"
+    },
+    {
+      "tema": "PROYECTO DE LEY ESTATUTARIA DE REFORMA POLITICA SOBRE ORGANIZACION Y FUNCIONAMIENTO DE PARTIDOS Y MOVIMIENTOS POLITICOS Y PROCESOS ELECTORALES",
+      "subtema": "Sentencia C-490 de 2011"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "radicado": "T-502-15",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2015,
+  "fecha_creacion": "2015-08-06",
+  "magistrado_ponente": "Gabriel Eduardo Mendoza Martelo",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+  "subtema": "Aplicar estrictamente presupuesto de subsidiariedad, sin tener en cuenta las particularidades del caso, aumenta la vulneración de derechos fundamentales del accionante, quien solicita pensión de vejez",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2015/T-502-15.htm",
+  "fecha_descarga": "2026-10-21T12:50:33.935775+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2015-08-06",
+  "fecha_publicacion": null,
+  "numero": "T-502/15",
+  "tipo_cc": "T",
+  "prov_id": "7947",
+  "tema_relatoria": "ACCION DE TUTELA CONTRA PROVIDENCIAS JUDICIALES. RECURSO EXTRAORDINARIO DE CASACION PARA OBTENER PENSION DE VEJEZ.",
+  "resumen": "Solicita protección al determinar que no cumplía con número de semanas cotizadas exigidas por Acuerdo 049 de 1990 y negar reconocimiento y pago de pensión de vejez en proceso ordinario laboral. Temas a tratar: Requisitos generales de procedibilidad de la acción de tutela, Principios de inmediatez y subsidiariedad. Improcedencia por carecer del requisito de subsidiariedad, no existir perjuicio irremediable y encontrarse en trámite Recurso de Extraordinario de Casación",
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Aplicar estrictamente presupuesto de subsidiariedad, sin tener en cuenta las particularidades del caso, aumenta la vulneración de derechos fundamentales del accionante, quien solicita pensión de vejez"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Improcedencia por cuanto se encuentra en trámite el recurso extraordinario de casación para obtener pensión de vejez"
+    },
+    {
+      "tema": "ACCION DE TUTELA EN MATERIA DE INTERRUPCION VOLUNTARIA DEL EMBARAZO",
+      "subtema": "Negar solicitudes de nulidad de sentencia T-841/11"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Requisitos generales y especiales de procedibilidad"
+    }
+  ]
+}

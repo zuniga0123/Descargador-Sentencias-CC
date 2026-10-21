@@ -1,0 +1,49 @@
+{
+  "radicado": "T-245-15",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2015,
+  "fecha_creacion": "2015-04-30",
+  "magistrado_ponente": "Jorge Iván Palacio Palacio",
+  "area": "Derecho a la Salud",
+  "tema": "PAGO DE INCAPACIDAD LABORAL SUPERIOR A 180 DIAS",
+  "subtema": "Está a cargo de la Administradora de Fondos de Pensiones a la cual se encuentra afiliado el trabajador",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2463 de 2001",
+    "Ley 100 de 1993",
+    "Decreto Ley 19 de 2012",
+    "Decreto 2591 de 1991",
+    "Ley 361 de 1997",
+    "Ley 1295 de 1994",
+    "Decreto 2943 de 2013",
+    "Decreto 1406 de 1999",
+    "Decreto 47 de 2000"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2015/T-245-15.htm",
+  "fecha_descarga": "2026-10-21T12:52:08.127541+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2015-04-30",
+  "fecha_publicacion": null,
+  "numero": "T-245/15",
+  "tipo_cc": "T",
+  "prov_id": "7529",
+  "tema_relatoria": null,
+  "resumen": "Se alega que SURA EPS vulneró derechos fundamentales de la actora, al negarle el pago de las incapacidades mayores a 180 días con el argumento de que la competencia recaía en el fondo de pensiones al cual se encontraba afiliada. Se aborda el tema de la procedencia excepcional de la acción de tutela para obtener el reconocimiento de incapacidades laborales y el referente al reconocimiento de las mismas cuando son de origen común y superiores a 180 días. Al encontrar que la accionada no vulneró derecho fundamental alguno, la Sala decide confirmar parcialmente la decisión de instancia que negó el amparo solicitado. Pese a lo anterior, y ante la posible carencia de medios económicos de la peticionaria para suplir las necesidades básicas y garantizar su subsistencia, se solicita la intervención de la Defensoría del Pueblo para que la asesore y acompañe en el trámite de obtener la pensión de jubilación o la respectiva indemnización sustitutiva, así como la inscripción en programas especiales del Estado.",
+  "titulaciones": [
+    {
+      "tema": "PAGO DE INCAPACIDAD LABORAL SUPERIOR A 180 DIAS",
+      "subtema": "Está a cargo de la Administradora de Fondos de Pensiones a la cual se encuentra afiliado el trabajador"
+    },
+    {
+      "tema": "ACCION DE TUTELA PARA RECLAMAR PAGO DE INCAPACIDAD LABORAL",
+      "subtema": "Se niega el amparo por cuanto la EPS accionada dejo de cancelar las incapacidades superiores a 180 días, con fundamento en las normas que rigen la materia"
+    },
+    {
+      "tema": "RECONOCIMIENTO Y PAGO DE INCAPACIDADES LABORALES",
+      "subtema": "Reglas jurisprudenciales"
+    }
+  ]
+}

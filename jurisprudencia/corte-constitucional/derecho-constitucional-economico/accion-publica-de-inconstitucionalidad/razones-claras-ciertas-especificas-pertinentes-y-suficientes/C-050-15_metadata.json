@@ -1,0 +1,50 @@
+{
+  "radicado": "C-050-15",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2015,
+  "fecha_creacion": "2015-02-11",
+  "magistrado_ponente": "Luis Ernesto Vargas Silva",
+  "area": "Derecho Constitucional Económico",
+  "tema": "ACCION PUBLICA DE INCONSTITUCIONALIDAD",
+  "subtema": "Razones claras, ciertas, específicas, pertinentes y suficientes",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 1508 de 2012",
+    "Decreto Ley 2067 de 1991",
+    "Decreto 2067 de 1991",
+    "Ley 80 de 1993",
+    "Ley 1150 de 2007",
+    "Ley 1474 de 2011"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2015/C-050-15.htm",
+  "fecha_descarga": "2026-10-21T13:05:50.427199+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2015-02-11",
+  "fecha_publicacion": null,
+  "numero": "C-050/15",
+  "tipo_cc": "C",
+  "prov_id": "7212",
+  "tema_relatoria": "FALLO INHIBITORIO POR INEPTITUD SUSTANTIVA DE LA DEMANDA CONTRA NORMA QUE REGULA LA PARTICIPACIÓN EN LA CONFORMACIÓN DE ASOCIACIONES PÚBLICO PRIVADAS DE ENTIDADES DE NATURALEZA PÚBLICA O MIXTA.",
+  "resumen": "Demanda de inconstitucionalidad contra el parágrafo del artículo 8 de la Ley 1508 de 2012, por la cual se establece el régimen jurídico de las Asociaciones Público Privadas, se dictan normas orgánicas de presupuesto y se dictan otras disposiciones. Para el actor, la norma acusada, al establecer una exclusión del ámbito de aplicación de esta ley, en lo relativo a la participación de las sociedades de economía mixta y de las demás empresas allí referidas vulnera los principios de igualdad, libre competencia económica, régimen de los servicios públicos y la cláusula del Estado Social de Derecho,. La Sala encontró que los cargos formulados en este caso no cumplían los requisitos que la jurisprudencia ha establecido como necesarios para que pueda dictarse un fallo de mérito, entre ellos, la certeza y la suficiencia de las acusaciones planteadas. Para la Corte, el asunto es una controversia interpretativa en relación con los alcances de la norma, lo que excede el propósito de la acción pública de inconstitucionalidad. La Sala se declara INHIBIDA para emitir pronunciamiento de fondo, por ineptitud sustantiva de la demanda.",
+  "titulaciones": [
+    {
+      "tema": "ACCION PUBLICA DE INCONSTITUCIONALIDAD",
+      "subtema": "Razones claras, ciertas, específicas, pertinentes y suficientes"
+    },
+    {
+      "tema": "PARTICIPACION EN LA CONFORMACION DE ASOCIACIONES PUBLICO PRIVADAS DE ENTIDADES DE NATURALEZA PUBLICA O MIXTA",
+      "subtema": "Inhibición por ineptitud sustantiva de la demanda"
+    },
+    {
+      "tema": "ACCION PUBLICA DE INCONSTITUCIONALIDAD",
+      "subtema": "Requisitos"
+    },
+    {
+      "tema": "REGIMEN JURIDICO DE LAS ASOCIACIONES PUBLICO PRIVADAS Y NORMAS ORGANICAS DE PRESUPUESTO",
+      "subtema": "Exclusión del ámbito de aplicación"
+    }
+  ]
+}

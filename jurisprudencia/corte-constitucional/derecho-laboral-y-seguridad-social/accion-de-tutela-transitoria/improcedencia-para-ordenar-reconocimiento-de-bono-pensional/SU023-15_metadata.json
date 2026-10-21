@@ -1,0 +1,57 @@
+{
+  "radicado": "SU023-15",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2015,
+  "fecha_creacion": "2015-01-22",
+  "magistrado_ponente": null,
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "ACCION DE TUTELA TRANSITORIA",
+  "subtema": "Improcedencia para ordenar reconocimiento de bono pensional por cuanto no se demostró perjuicio irremediable",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Decreto 2591 de 1991",
+    "Decreto 3041 de 1966",
+    "Ley 712 de 2001",
+    "Ley 90 de 1946"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2015/SU023-15.htm",
+  "fecha_descarga": "2026-10-21T13:09:05.433348+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2015-01-22",
+  "fecha_publicacion": null,
+  "numero": "SU.023/15",
+  "tipo_cc": "SU",
+  "prov_id": "7165",
+  "tema_relatoria": null,
+  "resumen": "Sentencia de Unificación. La Sala Plena decidió la acción de tutela presentada por un ex trabajador de la Federación Nacional de Cafeteros, a propósito de la negativa de esa entidad de expedir un bono pensional por las semanas cotizadas al Sistema de Seguridad Social, durante el tiempo en que laboró en municipios en los que el ISS no tenía cobertura. A juicio del actor, tal actuación vulnera sus derechos fundamentales a la vida digna, al mínimo vital, a la seguridad social y a los derechos de las personas de la tercera edad. Para resolver el asunto, la Corte reiteró su jurisprudencia sobre la general improcedencia de la acción de tutela para ordenar el reconocimiento de una pensión de vejez y los eventos en que esta regla puede ser excepcionada. Concluyó, que en este caso la acción de tutela es de aquellos cuya decisión corresponde a la justicia ordinaria laboral, mecanismo que el interesado se abstuvo de intentar. De igual manera señaló, que no concurren las circunstancias que puedan catalogarse como configurativas de un perjuicio irremediable, de tal manera que el ejercicio de la acción constitucional pueda ser viable, aún en presencia de un medio de defensa judicial adecuado para la protección de los derechos invocados. Con base en lo anterior, la Sala Plena decidió declarar la IMPROCEDENCIA del amparo solicitado.",
+  "titulaciones": [
+    {
+      "tema": "ACCION DE TUTELA TRANSITORIA",
+      "subtema": "Improcedencia para ordenar reconocimiento de bono pensional por cuanto no se demostró perjuicio irremediable"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA PARA EL RECONOCIMIENTO DE PENSIÓN DE VEJEZ",
+      "subtema": "Procedencia cuando se vulneran derechos a la seguridad social en pensiones y al mínimo vital del actor"
+    },
+    {
+      "tema": "PRINCIPIO DE SUBSIDIARIEDAD DE LA ACCION DE TUTELA PARA RECONOCIMIENTO DE PENSION DE VEJEZ",
+      "subtema": "Procedencia por cuanto medios de defensa ordinarios no son efectivos"
+    },
+    {
+      "tema": "DERECHOS FUNDAMENTALES",
+      "subtema": "Facetas prestacionales"
+    },
+    {
+      "tema": "DERECHO FUNDAMENTAL A LA SEGURIDAD SOCIAL Y PROTECCION POR MEDIO DE ACCION DE TUTELA",
+      "subtema": "Procedencia excepcional"
+    },
+    {
+      "tema": "RESPONSABILIDAD DEL EMPLEADOR FRENTE A PAGO DE COTIZACIONES AL REGIMEN DE SEGURIDAD SOCIAL EN PENSIONES",
+      "subtema": "Casos en que en algunos lugares no existía cobertura por parte del ISS"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "radicado": "T-490-15",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2015,
+  "fecha_creacion": "2015-08-05",
+  "magistrado_ponente": "Jorge Iván Palacio Palacio",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "DERECHO FUNDAMENTAL A LA SEGURIDAD SOCIAL",
+  "subtema": "Protección constitucional",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 806 de 1998",
+    "Decreto 1804 de 1999",
+    "Decreto Ley 19 de 2012",
+    "Decreto 783 de 2000",
+    "Ley 100 de 1993",
+    "Decreto 1406 de 1999",
+    "Decreto 2943 de 2013",
+    "Decreto 47 de 2000",
+    "Ley 19 de 2012",
+    "Ley 962 de 2005",
+    "Decreto 2463 de 2001"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2015/T-490-15.htm",
+  "fecha_descarga": "2026-10-21T12:51:04.134151+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2015-08-05",
+  "fecha_publicacion": null,
+  "numero": "T-490/15",
+  "tipo_cc": "T",
+  "prov_id": "7942",
+  "tema_relatoria": "PROCEDENCIA EXCEPCIONAL DE LA ACCION DE TUTELA PARA ORDENAR RECONOCIMIENTO DE INCAPACIDAD LABORAL.",
+  "resumen": "Trabajador que tan solo llevaba 10 días de haber iniciado actividades laborales solicita pago de incapacidades por incidente que le produjo paraplejia. Temas a tratar: Procedencia excepcional de la acción de tutela para reconocimiento y pago de incapacidades laborales, Seguridad social como derecho constitucional fundamental y protección por medio de la acción de tutela, Allanamiento a la mora por Empresa Promotora de Salud, Normatividad aplicable a incapacidades de origen común y profesional y procedimientos a seguir para reclamar el pago, Principio de interpretación de la norma conforme a la Constitución, Principio de solidaridad. Excepción de inconstitucionalidad e inaplicación de Decretos 1804 de 1999 artículo 21 y 783 de 2000 artículo 9 sobre tiempos de cotización requeridos para reconocimiento y pago de prestaciones económicas por enfermedad general de accionante como sujeto de especial protección constitucional por encontrarse en situación de debilidad manifiesta. Se ordena pagar incapacidades que superen los 180 días prescritas por médicos adscritos y si es del caso, calificar pérdida de capacidad laboral para iniciar trámite de pensión de invalidez",
+  "titulaciones": [
+    {
+      "tema": "DERECHO FUNDAMENTAL A LA SEGURIDAD SOCIAL",
+      "subtema": "Protección constitucional"
+    },
+    {
+      "tema": "DERECHO AL MINIMO VITAL DE PERSONA EN ESTADO DE DEBILIDAD MANIFIESTA",
+      "subtema": "Pago de incapacidad laboral"
+    },
+    {
+      "tema": "DERECHO AL PAGO DE INCAPACIDAD LABORAL",
+      "subtema": "Procedencia de tutela cuando afecta mínimo vital del trabajador y su familia"
+    },
+    {
+      "tema": "RECONOCIMIENTO Y PAGO DE INCAPACIDADES LABORALES",
+      "subtema": "Teoría del allanamiento a la mora"
+    },
+    {
+      "tema": "INCAPACIDAD LABORAL DE ORIGEN PROFESIONAL Y DE ORIGEN COMUN",
+      "subtema": "Normatividad aplicable"
+    },
+    {
+      "tema": "INCAPACIDAD LABORAL POR ENFERMEDAD COMUN",
+      "subtema": "Si la incapacidad es igual o menor a tres días será asumida directamente por el empleador"
+    }
+  ]
+}
