@@ -1,0 +1,51 @@
+{
+  "radicado": "T-107-11",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2011,
+  "fecha_creacion": "2011-02-23",
+  "magistrado_ponente": "Nilson Pinilla Pinilla",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "PERMISO SINDICAL PERMANENTE",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Decreto 2164 de 1959",
+    "Ley 712 de 2001"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2011/T-107-11.htm",
+  "fecha_descarga": "2026-10-21T16:41:28.507180+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2011-02-23",
+  "fecha_publicacion": null,
+  "numero": "T-107/11",
+  "tipo_cc": "T",
+  "prov_id": "1961",
+  "tema_relatoria": null,
+  "resumen": "Debido proceso. El accionante fue despedido del cargo que desempeñaba en la DRUMMOND LTDA, supuestamente por haber participado activamente en un cese de actividades que se produjo en la mencionada empresa y que fue declarado ilegal por las autoridades judiciales respectivas. Para el actor, la accionada violó su derecho al debido proceso al no agotar adecuadamente un procedimiento previo, como es la diligencia de descargos previsto en la convención colectiva de trabajo, antes de desvincularlo del cargo que venía desempeñando en la empresa desde varios años atrás. Para la Sala, es claro que se vulneró el derecho al debido proceso al no agotarse adecuadamente el procedimiento para el despido del actor y, la orden de reintegro se encaminó directamente a la restitución de este derecho. Concedida",
+  "titulaciones": [
+    {
+      "tema": "PERMISO SINDICAL PERMANENTE",
+      "subtema": null
+    },
+    {
+      "tema": "ACCION DE TUTELA Y DEBIDO PROCESO DE TRABAJADOR SINDICALIZADO",
+      "subtema": null
+    },
+    {
+      "tema": "ACCION DE REINTEGRO EN CASO DE FUERO SINDICAL",
+      "subtema": "Violación al debido proceso"
+    },
+    {
+      "tema": "DERECHO DE ASOCIACION SINDICAL Y FUERO SINDICAL",
+      "subtema": null
+    },
+    {
+      "tema": "DEBIDO PROCESO Y DECLARACION DE ILEGALIDAD DE UN CESE DE ACTIVIDADES POR LA AUTORIDAD COMPETENTE",
+      "subtema": null
+    }
+  ]
+}

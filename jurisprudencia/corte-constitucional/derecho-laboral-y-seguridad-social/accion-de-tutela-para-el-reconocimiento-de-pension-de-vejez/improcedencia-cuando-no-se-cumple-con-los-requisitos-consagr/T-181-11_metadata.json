@@ -1,0 +1,48 @@
+{
+  "radicado": "T-181-11",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2011,
+  "fecha_creacion": "2011-03-15",
+  "magistrado_ponente": "Mauricio Gonzalez Cuervo",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "ACCIÓN DE TUTELA PARA EL RECONOCIMIENTO DE PENSIÓN DE VEJEZ",
+  "subtema": "Improcedencia cuando no se cumple con los requisitos consagrados en la ley",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 33 de 1985",
+    "Ley 1000 de 1993",
+    "Decreto 2591 de 1991",
+    "Ley 48 de 1993",
+    "Acto Legislativo 1 de 2005",
+    "Decreto 758 de 1990",
+    "Ley 100 de 1993",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2011/T-181-11.htm",
+  "fecha_descarga": "2026-10-21T16:42:06.067678+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2011-03-15",
+  "fecha_publicacion": null,
+  "numero": "T-181/11",
+  "tipo_cc": "T",
+  "prov_id": "2040",
+  "tema_relatoria": null,
+  "resumen": "Seguridad social. El demandante solicitó al ISS el reconocimiento de su derecho pensional, porque a su parecer, de acuerdo a la Ley 33 de 1985 cumple los requisitos exigidos, al tener más de 55 años de edad y 20 años de servicio. La entidad accionada negó la prestación argumentando, a diferencia del actor, que el tiempo del servicio militar no fue computado, por cuanto el Ministerio de Defensa no realizó las cotizaciones correspondientes. El peticionario solicita que vía tutela se reconozca que el tiempo prestado en el servicio militares válido para acceder a su derecho pensional y que en consecuenci, el demandado debe reconocerle su pensión de jubilación. El asunto es analizando a la luz de la jurisprudencia existente sobre la procedencia excepcional de la acción de tutela en casos de protección de derechos de contenido prestacional y sobre la adecuada interpretación del contenido del artículo 40 de la ley 48 de 1993. La Sala determina que el tiempo de servicio militar se debe computar como válido en las pensiones de vejez, en los regímenes pensionales en los cuales la exigencia es de tiempo de servicio y no de cotizaciones efectivas o un ahorro determinado. Para el caso concreto, se establece que el actor aún no cumple con los requisitos para acceder a su derecho prestacional. NEGADA",
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA PARA EL RECONOCIMIENTO DE PENSIÓN DE VEJEZ",
+      "subtema": "Improcedencia cuando no se cumple con los requisitos consagrados en la ley"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA PARA EL RECONOCIMIENTO DE PENSIÓN DE VEJEZ",
+      "subtema": "Procedencia cuando se vulneran derechos a la seguridad social en pensiones y al mínimo vital del actor"
+    },
+    {
+      "tema": "TIEMPO DE PRESTACION DE SERVICIO MILITAR OBLIGATORIO",
+      "subtema": "Debe computarse como tiempo de servicio válido para trámite de pensión de jubilación"
+    }
+  ]
+}

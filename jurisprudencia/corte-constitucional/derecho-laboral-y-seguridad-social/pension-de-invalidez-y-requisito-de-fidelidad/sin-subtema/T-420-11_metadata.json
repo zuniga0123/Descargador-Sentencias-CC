@@ -1,0 +1,52 @@
+{
+  "radicado": "T-420-11",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2011,
+  "fecha_creacion": "2011-05-17",
+  "magistrado_ponente": "Juan Carlos Henao Pérez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "PENSION DE INVALIDEZ Y REQUISITO DE FIDELIDAD",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 3041 de 1966",
+    "Decreto 232 de 1984",
+    "Ley 90 de 1946",
+    "Ley 433 de 1971",
+    "Decreto 2591 de 1991",
+    "Decreto 917 de 1999",
+    "Ley 860 de 2003",
+    "Decreto 692 de 1995"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2011/T-420-11.htm",
+  "fecha_descarga": "2026-10-21T16:46:39.759588+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2011-05-17",
+  "fecha_publicacion": null,
+  "numero": "T-420/11",
+  "tipo_cc": "T",
+  "prov_id": "2302",
+  "tema_relatoria": null,
+  "resumen": "Seguridad social, vida digna. A la accionante le calificaron una pérdida de la capacidad laboral del 67.5% y el ISS se negó a reconocerle la pensión de invalidez, bajo el pretexto de no cumplir con los requisitos exigidos en la ley al momento de la estructuración de la invalidez determinada por la Junta Regional de Calificación de Invalidez de Bogotá. La Sala reitera jurisprudencia constitucional relacionada con el caso y recuerda que esta prestación se constituye en la única fuente de ingresos de las personas que tienen un alto grado de discapacidad. Se CONCEDE el amparo solicitado y se ordena al ISS reconocer y pagar la pensión de invalidez a favor de la actora.",
+  "titulaciones": [
+    {
+      "tema": "PENSION DE INVALIDEZ Y REQUISITO DE FIDELIDAD",
+      "subtema": null
+    },
+    {
+      "tema": "ACCION DE TUTELA PARA RECONOCIMIENTO DE PENSION DE INVALIDEZ",
+      "subtema": "Procedencia excepcional"
+    },
+    {
+      "tema": "PENSIÓN DE INVALIDEZ",
+      "subtema": "Reglas establecidas por la Corte Constitucional para determinar la fecha de estructuración de la invalidez en los casos de enfermedad degenerativa, crónica o congénita"
+    },
+    {
+      "tema": "PENSION DE INVALIDEZ Y FECHA DE ESTRUCTURACION DE LA INVALIDEZ",
+      "subtema": "Enfermedades en las que la situación del paciente empeora con el paso del tiempo"
+    }
+  ]
+}

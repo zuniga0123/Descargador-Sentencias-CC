@@ -1,0 +1,50 @@
+{
+  "radicado": "T-796-11",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2011,
+  "fecha_creacion": "2011-10-21",
+  "magistrado_ponente": "Humberto Antonio Sierra Porto",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCION DE TUTELA TRANSITORIA PARA LA PROTECCION DE DERECHOS FUNDAMENTALES Y CONCEPTO DE PERJUICIO IRREMEDIABLE",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 963 de 2005"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2011/T-796-11.htm",
+  "fecha_descarga": "2026-10-21T16:49:24.496770+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2011-10-21",
+  "fecha_publicacion": null,
+  "numero": "T-796/11",
+  "tipo_cc": "T",
+  "prov_id": "2836",
+  "tema_relatoria": null,
+  "resumen": "Igualdad, debido proceso. La Empresa de Energía de Bogotá instauró la acción de tutela en contra del Comité de Estabilidad Jurídica, por la decisión de improbar la celebración de un contrato de estabilidad jurídica tendiente a amparar el proyecto de ampliación de la capacidad de interconexión del sistema de transmisión nacional entre Colombia y el Ecuador. La Sala, luego de referirse al tema de la legitimación activa de las personas jurídicas para impetrar la acción de tutela, la procedencia de este mecanismo para la protección de derechos fundamentales respecto de actos administrativos y las características del perjuicio irremediable, decide confirmar las providencias de instancia que declararon la IMPROCEDENCIA de la acción de tutela impetrada.",
+  "titulaciones": [
+    {
+      "tema": "ACCION DE TUTELA TRANSITORIA PARA LA PROTECCION DE DERECHOS FUNDAMENTALES Y CONCEPTO DE PERJUICIO IRREMEDIABLE",
+      "subtema": null
+    },
+    {
+      "tema": "ACCION DE TUTELA INTERPUESTA POR PERSONA JURIDICA",
+      "subtema": "Actuación por medio de su representante legal, directamente o a través de apoderado"
+    },
+    {
+      "tema": "DERECHOS FUNDAMENTALES DE PERSONA JURIDICA",
+      "subtema": "Titularidad"
+    },
+    {
+      "tema": "PERSONAS JURIDICAS DE DERECHO PUBLICO",
+      "subtema": "Legitimación por activa en tutela"
+    },
+    {
+      "tema": "DEBIDO PROCESO Y DERECHO A LA IGUALDAD",
+      "subtema": "Caso en que EEB no demostró perjuicio irremediable al no aprobarse contrato de seguridad jurídica"
+    }
+  ]
+}

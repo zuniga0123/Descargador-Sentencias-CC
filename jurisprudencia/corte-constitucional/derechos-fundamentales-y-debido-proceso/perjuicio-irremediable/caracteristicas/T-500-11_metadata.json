@@ -1,0 +1,55 @@
+{
+  "radicado": "T-500-11",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2011,
+  "fecha_creacion": "2011-06-29",
+  "magistrado_ponente": "Luis Ernesto Vargas Silva",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "PERJUICIO IRREMEDIABLE",
+  "subtema": "Características",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 80 de 1993",
+    "Decreto 3535 de 2005",
+    "Decreto 4643 de 2005",
+    "Ley 643 de 2001",
+    "Ley 1393 de 2010",
+    "Decreto 2591 de 1991",
+    "Decreto Ley 1259 de 1994"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2011/T-500-11.htm",
+  "fecha_descarga": "2026-10-21T16:44:17.013991+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2011-06-29",
+  "fecha_publicacion": null,
+  "numero": "T-500/11",
+  "tipo_cc": "T",
+  "prov_id": "2444",
+  "tema_relatoria": null,
+  "resumen": "Debido proceso administrativo. Dentro de un proceso licitatorio, la Lotería de Bogotá adjudicó a la sociedad demandante, la concesión para la operación del juego de apuestas permanentes o chance en Bogotá y el Departamento de Cundinamarca, bajo su control, fiscalización y supervisión. En el contrato suscrito se incorporó una cláusula donde se estableció el valor del contrato por un monto total, sin prever incremento alguno. La Superintendencia Nacional de Salud, ente que ejerce la inspección, vigilancia y control de los recursos de los monopolios de juego de suerte y azar, decidió ordenar un estudio de mercadeo selectivo con referencia al objeto del anterior contrato y consecuencialmente, instruyó a la Lotería de Bogotá para que ajustara el contrato de concesión por la operación de juegos permanentes, sin permitir que la accionante interpusiera los recursos pertinentes u objetara las conclusiones del mencionado estudio. La Sala entra a analizar previamente, si para el caso concreto procede la acción de tutela como mecanismo transitorio para evitar un perjuicio irremediable. Así mismo analiza el asunto con base en la siguiente temática: i). El debido proceso administrativo y su observancia por parte de la administración y ii). La procedencia excepcional de la acción de tutela frente a la existencia de otro medio de defensa. A juicio de la Sala, la tutela de la referencia es improcedente por la existencia de otros mecanismos de defensa judicial, específicamente ante el contencioso administrativo, así mismo porque no existen elementos de juicio que permitan concluir la inminencia de un perjuicio irremediable originado en la vulneración de derechos fundamentales. NEGADA.",
+  "titulaciones": [
+    {
+      "tema": "PERJUICIO IRREMEDIABLE",
+      "subtema": "Características"
+    },
+    {
+      "tema": "PERJUICIO IRREMEDIABLE",
+      "subtema": "Inexistencia por no vulneración del debido proceso"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Procedencia excepcional a pesar de existir otro medio de defensa judicial"
+    },
+    {
+      "tema": "DEBIDO PROCESO ADMINISTRATIVO",
+      "subtema": "Observancia por parte de la administración pública"
+    },
+    {
+      "tema": "DEBIDO PROCESO",
+      "subtema": "No vulneración por cuanto la Lotería de Bogotá y la Superintendencia Nacional de Salud se ajustaron al procedimiento para realización de estudio de mercado y la modificación unilateral del contrato de concesión"
+    }
+  ]
+}

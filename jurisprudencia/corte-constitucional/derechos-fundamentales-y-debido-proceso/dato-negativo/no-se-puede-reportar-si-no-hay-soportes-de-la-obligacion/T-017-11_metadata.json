@@ -1,0 +1,54 @@
+{
+  "radicado": "T-017-11",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2011,
+  "fecha_creacion": "2011-01-17",
+  "magistrado_ponente": "Gabriel Eduardo Mendoza Martelo",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "DATO NEGATIVO",
+  "subtema": "No se puede reportar si no hay soportes de la obligación",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 1266 de 2008",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2011/T-017-11.htm",
+  "fecha_descarga": "2026-10-21T16:40:47.528373+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2011-01-17",
+  "fecha_publicacion": null,
+  "numero": "T-017/11",
+  "tipo_cc": "T",
+  "prov_id": "1832",
+  "tema_relatoria": null,
+  "resumen": "Habeas data, buen nombre. La señora Gloria Cecilia González obtuvo en el año 1997 una tarjeta de crédito con la empresa Inversora Pichincha. En el año 2000 efectuó el pago de la obligación adquirida y en ese mismo año la Inversora le expidió el respectivo paz y salvo. Sin embrago en el 2007 apareció reportada en la central de riesgos por el supuesto incumplimiento de la referida obligación y al hacer las respectivas solicitudes de actualización de los datos, le fue informado que la tarjeta de crédito en comento presentaba un saldo en mora que conllevó a realizar el reporte de su comportamiento crediticio, se adujo además que el paz y salvo que se expidió en el año 2000 fue generado debido a un problema operativo al interior del sistema. La Sala analizó el requisito de procedibilidad de la acción de tutela para amparar el derecho fundamental al habeas data, así como el alcance y contenido de este derecho y la caducidad del dato financiero negativo y determinó que efectivamente se vulneraron estos derechos a la accionante, pues la parte accionada desconoció requisitos ineludibles para que proceder al reporte del dato negativo, como lo es la veracidad y la certeza de la información en que respalda dicho reporte. Concede.",
+  "titulaciones": [
+    {
+      "tema": "DATO NEGATIVO",
+      "subtema": "No se puede reportar si no hay soportes de la obligación"
+    },
+    {
+      "tema": "CERTEZA DE LA INFORMACION",
+      "subtema": "Es requisito ineludible para reportar la mora a las centrales de riesgo"
+    },
+    {
+      "tema": "DERECHO AL BUEN NOMBRE Y AL HABEAS DATA",
+      "subtema": "Fundamental"
+    },
+    {
+      "tema": "DERECHO AL HABEAS DATA",
+      "subtema": "Caso en que a la demandante le fue expedido paz y salvo respecto de la obligación"
+    },
+    {
+      "tema": "ACCION DE TUTELA PARA SOLICITAR LA PROTECCION DEL DERECHO AL HABEAS DATA",
+      "subtema": "Requisitos de procedibilidad"
+    },
+    {
+      "tema": "CENTRALES DE RIESGO",
+      "subtema": "Condiciones en las que procede reporte negativo"
+    }
+  ]
+}

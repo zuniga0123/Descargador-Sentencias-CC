@@ -1,0 +1,51 @@
+{
+  "radicado": "T-409-11",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2011,
+  "fecha_creacion": "2011-05-17",
+  "magistrado_ponente": "Gabriel Eduardo Mendoza Martelo",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCION DE TUTELA CONTRA EL INCODER",
+  "subtema": "Caso en que se ordena orientar en forma clara, precisa e inequívoca a los demandantes sobre los trámites y procedimientos que les permita acceder al subsidio",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 387 de 1997",
+    "Decreto Ley 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2011/T-409-11.htm",
+  "fecha_descarga": "2026-10-21T16:46:13.544581+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2011-05-17",
+  "fecha_publicacion": null,
+  "numero": "T-409/11",
+  "tipo_cc": "T",
+  "prov_id": "2291",
+  "tema_relatoria": null,
+  "resumen": "Vida, seguridad personal, mínimo vital, vivienda digna, igualdad. Los accionantes son personas desplazadas que fueron beneficiarias de la adjudicación de un subsidio integral para la adquisición de un predio y la implementación de un proyecto productivo. De manera posterior y una vez suscrito el contrato de compraventa del inmueble, el INCODER les anunció que iniciaría los trámites para proceder a revocar directamente la resolución que autorizó la adjudicación, al encontrar que el predio escogido no cumplía con los requisitos establecidos en los pliegos de la convocatoria pública. La Sala encuentra que pese a que el INCODER no cumplió a cabalidad con su gestión de brindar una asesoría clara, oportuna y precisa a los demandantes, el asunto en estudio no puede resolverse a través de la acción de tutela, porque se presenta un problema respecto a la titulación del predio que fue elegido por los actores y para resolver esta clase de litigios existen otras acciones en el ordenamiento jurídico. Se ordena al INCODER que brinde la asesoría jurídica pertinente para que los afectados escojan un nuevo predio que sea adecuado para implementar el proyecto productivo que permita su estabilización socioeconómica y una vez seleccionado el predio, ubicarlos de manera preferencial y rápida en el orden de asignación de los subsidios de tierras. Se ordena igualmente a ACCION SOCIAL que verifique las condiciones de los demandantes, para coordinar, en caso de requerirse, la provisión de los componentes de la ayuda humanitaria de emergencia.",
+  "titulaciones": [
+    {
+      "tema": "ACCION DE TUTELA CONTRA EL INCODER",
+      "subtema": "Caso en que se ordena orientar en forma clara, precisa e inequívoca a los demandantes sobre los trámites y procedimientos que les permita acceder al subsidio"
+    },
+    {
+      "tema": "ATENCION HUMANITARIA DE EMERGENCIA",
+      "subtema": null
+    },
+    {
+      "tema": "AGENCIA PRESIDENCIAL PARA LA ACCION SOCIAL",
+      "subtema": "Orden de verificar las condiciones en que se encuentran las familias de los demandantes para coordinar la ayuda que necesitan"
+    },
+    {
+      "tema": "ACCION DE TUTELA PARA PROTEGER LOS DERECHOS FUNDAMENTALES DE LOS DESPLAZADOS",
+      "subtema": "Reiteración de jurisprudencia sobre procedencia"
+    },
+    {
+      "tema": "POBLACION DESPLAZADA",
+      "subtema": "Restablecimiento económico"
+    }
+  ]
+}

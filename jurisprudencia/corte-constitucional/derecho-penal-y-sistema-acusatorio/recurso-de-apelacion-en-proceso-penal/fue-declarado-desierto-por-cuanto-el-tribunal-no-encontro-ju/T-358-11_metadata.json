@@ -1,0 +1,43 @@
+{
+  "radicado": "T-358-11",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2011,
+  "fecha_creacion": "2011-05-05",
+  "magistrado_ponente": "Gabriel Eduardo Mendoza Martelo",
+  "area": "Derecho Penal y Sistema Acusatorio",
+  "tema": "RECURSO DE APELACION EN PROCESO PENAL",
+  "subtema": "Fue declarado desierto por cuanto el Tribunal no encontró justificación razonable para suspender la audiencia",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Decreto 2591 de 1992",
+    "Ley 1123 de 2007"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2011/T-358-11.htm",
+  "fecha_descarga": "2026-10-21T16:44:39.260503+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2011-05-05",
+  "fecha_publicacion": null,
+  "numero": "T-358/11",
+  "tipo_cc": "T",
+  "prov_id": "2247",
+  "tema_relatoria": null,
+  "resumen": "Trabajo, debido proceso, doble instancia. Tutela contra sentencia judicial. El accionante alega que el Tribunal demandado vulneró sus derechos fundamentales y los de su poderdante, al no haber resuelto previamente la solicitud de aplazamiento de la audiencia de sustentación del recurso de apelación impetrado en contra de la sentencia que condenó a su cliente y, por haber realizado la audiencia declarando desierto el recurso por la ausencia del abogado defensor, al no encontrar justificada la excusa que presentó para solicitar el aplazamiento de la diligencia. La Sala encuentra que en el presente caso no se puede emplear la acción de tutela para revivir oportunidades procesales que hubieran permitido subsanar los yerros cometidos en el curso del proceso penal, menos cuando ellos derivan de insuficiente diligencia, atribuible a un apoderado judicial de las partes. NEGADA POR IMPROCEDENTE.",
+  "titulaciones": [
+    {
+      "tema": "RECURSO DE APELACION EN PROCESO PENAL",
+      "subtema": "Fue declarado desierto por cuanto el Tribunal no encontró justificación razonable para suspender la audiencia"
+    },
+    {
+      "tema": "RECURSO DE APELACION EN PROCESO PENAL",
+      "subtema": "Caso en que apoderado de condenado no asistió a la audiencia en que debía sustentar el recurso, por encontrarse en exámenes médicos"
+    },
+    {
+      "tema": "RECURSO DE APELACION EN PROCESO PENAL",
+      "subtema": "Con la acción de tutela no se pueden subsanar yerros cometidos en el proceso y atribuibles a la insuficiente diligencia del apoderado judicial"
+    }
+  ]
+}

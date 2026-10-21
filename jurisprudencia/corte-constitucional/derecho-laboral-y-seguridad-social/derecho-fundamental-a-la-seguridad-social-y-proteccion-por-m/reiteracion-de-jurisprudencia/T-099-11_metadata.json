@@ -1,0 +1,53 @@
+{
+  "radicado": "T-099-11",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2011,
+  "fecha_creacion": "2011-02-23",
+  "magistrado_ponente": "Nilson Pinilla Pinilla",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "DERECHO FUNDAMENTAL A LA SEGURIDAD SOCIAL Y PROTECCION POR MEDIO DE ACCION DE TUTELA",
+  "subtema": "Reiteración de jurisprudencia",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 100 de 1993",
+    "Ley 860 de 2003",
+    "Decreto 1406 de 1999",
+    "Decreto 2633 de 1994"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2011/T-099-11.htm",
+  "fecha_descarga": "2026-10-21T16:41:17.307261+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2011-02-23",
+  "fecha_publicacion": null,
+  "numero": "T-099/11",
+  "tipo_cc": "T",
+  "prov_id": "1956",
+  "tema_relatoria": null,
+  "resumen": "Seguridad social, mínimo vital, vida digna de adulto mayor. La accionante, agenciado oficiosamente a su esposo de 66 años de edad, solicitó ante el ISS el reconocimiento y pago de la pensión de invalidez, aduciendo que su agenciado cumplió con los requisitos legalmente exigidos, éstos son: la pérdida de la capacidad laboral superior al 50% (por cáncer de laringe en estado terminal) y 50 semanas cotizadas en los últimos 3 años anteriores a la fecha de estructuración de la invalidez. El ISS negó la solicitud al considerar que el actor no cumplía con el requisito de las semanas cotizadas, ya que presentaba mora en el pago de algunos aportes por parte del empleador. La Sala en el caso concreto estableció que la pensión de invalidez como componente esencial de la seguridad social adquiere rango fundamental y que el trabajador no debe soportar las consecuencias generadas por la negligencia de los empleadores constituidos en mora, ni la omisión de los administradores de pensiones de hacer efectivo el cobro de dichos aportes. Concedida.",
+  "titulaciones": [
+    {
+      "tema": "DERECHO FUNDAMENTAL A LA SEGURIDAD SOCIAL Y PROTECCION POR MEDIO DE ACCION DE TUTELA",
+      "subtema": "Reiteración de jurisprudencia"
+    },
+    {
+      "tema": "PENSIÓN DE INVALIDEZ",
+      "subtema": "Reconocimiento en caso de mora en el pago de aportes por parte del empleador"
+    },
+    {
+      "tema": "LEGITIMACION POR ACTIVA EN TUTELA A NOMBRE DE UNA PERSONA DECLARADA INVALIDA",
+      "subtema": null
+    },
+    {
+      "tema": "ACCION DE TUTELA PARA RECONOCIMIENTO DE PENSION DE INVALIDEZ",
+      "subtema": "Procedencia excepcional"
+    },
+    {
+      "tema": "INDEMNIZACIÓN SUSTITUTIVA DE PENSIÓN DE VEJEZ",
+      "subtema": "Entidades encargadas de su reconocimiento, deben tener en cuenta semanas cotizadas con anterioridad a vigencia del Sistema de Seguridad Social en Pensiones"
+    }
+  ]
+}

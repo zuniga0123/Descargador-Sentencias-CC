@@ -1,0 +1,52 @@
+{
+  "radicado": "T-004-11",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2011,
+  "fecha_creacion": "2011-01-31",
+  "magistrado_ponente": "Juan Carlos Henao Perez",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCION DE TUTELA CONTRA ACTO ADMINISTRATIVO",
+  "subtema": "Improcedencia por existir otro medio de defensa judicial y no acreditar perjuicio irremediable",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 153 de 1887",
+    "Decreto 2591 de 1991",
+    "Ley 9 de 1989",
+    "Ley 142 de 1994"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2011/T-004-11.htm",
+  "fecha_descarga": "2026-10-21T16:40:17.716210+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2011-01-31",
+  "fecha_publicacion": null,
+  "numero": "T-004/11",
+  "tipo_cc": "T",
+  "prov_id": "1858",
+  "tema_relatoria": null,
+  "resumen": "Debido proceso. La familia del accionante ha ejercido desde 1927, actos posesorios sobre un bien ubicado en la Isla Barú. Respecto a dicho predio ha existido varias controversias de orden jurídico que motivaron a la Corporación Nacional de Turismo a iniciar procesos policivos tendientes a desalojar los habitantes del terreno, bajo el argumento de que se trata de un predio propiedad de la Nación. La Alcaldía Mayor de Cartagena, decidió sobre el proceso de lanzamiento por ocupación de hecho y mediante resolución del 1º de agosto de 2002, ordenó a las partes dirimir la controversia acudiendo a la justicia ordinaria. Dicha decisión fue confirmada por la misma entidad, mediante dos nuevas resoluciones dictadas en los meses de mayo y julio de 2004. No obstante lo anterior, la Alcaldía Menor de la Localidad Histórica y del Caribe del Norte, mediante resolución del 13 de junio de 2007, ordenó la restitución de un bien fiscal ubicado en el mismo sector, argumentando ser propiedad de la Corporación Nacional de Turismo y para el efecto concedió un término de cinco días, so pena de ejecutarse la orden a través de un funcionario de la policía, en cuyo caso correrían los gastos a costa del contraventor, haciendo uso de la fuerza pública si fuere necesario. El actor solicita se proteja su derecho al debido proceso, se decrete la nulidad de lo actuado y se ordene no efectivo los procesos policivos, por estar en presencia de una cosa juzgada, de acuerdo a las observaciones y decisiones emanadas del superior jerárquico. Para la Sala, existen dos razones que desvirtúan la inminencia de un perjuicio irremediable, uno es la inactividad jurídica del actor, al dejar vencer las posibilidades legales para cuestionar el acto administrativo presuntamente generador de la violación alegada y el otro, por cuanto se evidencia una situación consumada al haberse efectuado la restitución del inmueble respecto del cual gira la controversia, desde septiembre de 2009. IMPROCEDENTE.",
+  "titulaciones": [
+    {
+      "tema": "ACCION DE TUTELA CONTRA ACTO ADMINISTRATIVO",
+      "subtema": "Improcedencia por existir otro medio de defensa judicial y no acreditar perjuicio irremediable"
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA LA ALCALDIA MENOR",
+      "subtema": "Solicitud de anulación de resolución por medio de la cual se ordeno restitución de un bien fiscal"
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA ACTO ADMINISTRATIVO",
+      "subtema": "Procedencia excepcional cuando se configura perjuicio irremediable"
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA ACTO ADMINISTRATIVO",
+      "subtema": "Improcedencia general"
+    },
+    {
+      "tema": "PERJUICIO IRREMEDIABLE",
+      "subtema": "Criterios para determinar su configuración"
+    }
+  ]
+}

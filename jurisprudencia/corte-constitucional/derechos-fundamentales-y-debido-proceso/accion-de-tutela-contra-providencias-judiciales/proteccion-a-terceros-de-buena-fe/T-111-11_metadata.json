@@ -1,0 +1,46 @@
+{
+  "radicado": "T-111-11",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2011,
+  "fecha_creacion": "2011-02-24",
+  "magistrado_ponente": "Luis Ernesto Vargas Silva",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+  "subtema": "Protección a terceros de buena fe",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto Ley 2591 de 1991",
+    "Ley 794 de 2003"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2011/T-111-11.htm",
+  "fecha_descarga": "2026-10-21T16:41:36.074356+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2011-02-24",
+  "fecha_publicacion": null,
+  "numero": "T-111/11",
+  "tipo_cc": "T",
+  "prov_id": "1964",
+  "tema_relatoria": null,
+  "resumen": "Debido proceso, acceso a la administración de justicia. Con la presente acción se estudió si el titular del Despacho Judicial accionado incurrió en un defecto procedimental absoluto, en la decisión que adoptó de negar el embargo de remanentes dentro de un trámite ejecutivo hipotecario, fundándose en la existencia de dación de pago del inmueble dado en garantía real, cuando la solicitud la recibió antes de que la providencia que aprobó dicha dación, cobrara ejecutoria. Para resolver, la Sala reiteró las reglas relativas a la procedencia excepcional de la acción de tutela contra decisiones judiciales y se centró en la identificación de las condiciones formales y sustantivas para ello, especialmente analizó la caracterización del defecto procedimental absoluto y declaró la improcedencia de la acción",
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Protección a terceros de buena fe"
+    },
+    {
+      "tema": "DERECHO FUNDAMENTAL AL DEBIDO PROCESO Y DERECHO DE ACCESO A LA ADMINISTRACION DE JUSTICIA",
+      "subtema": "Caso en que debía aplicarse el artículo 543 del C de PC"
+    },
+    {
+      "tema": "DERECHO FUNDAMENTAL AL DEBIDO PROCESO Y DERECHO DE ACCESO A LA ADMINISTRACION DE JUSTICIA",
+      "subtema": "Caso en que se negó el embargo de remanentes dentro de un trámite ejecutivo hipotecario por existir dación de pago del inmueble"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Reiteración de jurisprudencia sobre procedencia excepcional"
+    }
+  ]
+}

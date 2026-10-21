@@ -1,0 +1,59 @@
+{
+  "radicado": "T-182-11",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2011,
+  "fecha_creacion": "2011-03-15",
+  "magistrado_ponente": "Mauricio Gonzalez Cuervo",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "DERECHO AL MINIMO VITAL",
+  "subtema": "Vulneración por no pago de incapacidades laborales a persona con cáncer y que depende de un salario mínimo",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Decreto 2591 de 1991",
+    "Decreto 2351 de 1965",
+    "Decreto 1373 de 1966",
+    "Decreto 2177 de 1989",
+    "Decreto 2463 de 2001",
+    "Ley 962 de 2005"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2011/T-182-11.htm",
+  "fecha_descarga": "2026-10-21T16:42:09.840065+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2011-03-15",
+  "fecha_publicacion": null,
+  "numero": "T-182/11",
+  "tipo_cc": "T",
+  "prov_id": "2041",
+  "tema_relatoria": null,
+  "resumen": "Seguridad social, mínimo vital, vida digna, protección laboral a incapacitados. La accionante fue incapacitada por enfermedad de origen común y los primeros 180 días fueron cancelados por la E.P.S. SALUDCOOP. Luego de solicitar la pensión de invalidez a la Administradora de Pensiones, la entidad negó la prestación bajo el argumento de que la pérdida de la capacidad laboral era en proporción inferior al 50%. Al momento de interponer la acción de tutela la E.P.S. certificó la incapacidad por enfermedad general (cáncer de mama), el médico tratante le había expedido incapacidades que no habían sido canceladas y, la Junta Nacional de Calificación no había resuelto el recurso presentado a efecto de determinar el porcentaje actual de la pérdida de capacidad laboral de la actora. Para resolver el caso la Sala analiza jurisprudencia relacionada con el principio de inmediatez como requisito de procedibilidad de la acción de tutela, así como la procedencia excepcional para obtener el pago de acreencias laborales y las disposiciones que regulan las prestaciones por incapacidad generadas por enfermedad no profesional o accidente común. Se recuerda que frente al no pago de prestaciones económicas derivadas de incapacidades laborales se establece la existencia de una presunción, mediante la cual se prevé que las incapacidades son la única fuente de ingreso con la que el trabajador cuenta para garantizarse su mínimo vital y el de su núcleo familiar, tal como el salario. Se concede el amparo de los derechos invocados y se ordena al Fondo de Pensiones PORVENIR cancelar las incapacidades dejadas de pagar a la accionante, hasta que el dictamen de su pérdida laboral quede en firme y asuma la obligación legal que le corresponda.",
+  "titulaciones": [
+    {
+      "tema": "DERECHO AL MINIMO VITAL",
+      "subtema": "Vulneración por no pago de incapacidades laborales a persona con cáncer y que depende de un salario mínimo"
+    },
+    {
+      "tema": "INCAPACIDADES LABORALES POR ENFERMEDAD NO PROFESIONAL O ACCIDENTE COMUN",
+      "subtema": "Marco normativo"
+    },
+    {
+      "tema": "ACCION DE TUTELA PARA PAGO EFECTIVO DE ACREENCIAS LABORALES",
+      "subtema": "Procedencia excepcional cuando falta de pago vulnera derechos fundamentales"
+    },
+    {
+      "tema": "PAGO DE INCAPACIDAD LABORAL SUPERIOR A 180 DIAS",
+      "subtema": "Está a cargo de la Administradora de Fondos de Pensiones a la cual se encuentra afiliado el trabajador"
+    },
+    {
+      "tema": "PRINCIPIO DE INMEDIATEZ COMO REQUISITO DE PROCEDIBILIDAD DE LA ACCION DE TUTELA",
+      "subtema": "Reiteración de jurisprudencia"
+    },
+    {
+      "tema": "PRINCIPIO DE INMEDIATEZ COMO REQUISITO DE PROCEDIBILIDAD DE LA ACCION DE TUTELA",
+      "subtema": "Debe ponderarse bajo el criterio del plazo razonable y oportuno"
+    }
+  ]
+}

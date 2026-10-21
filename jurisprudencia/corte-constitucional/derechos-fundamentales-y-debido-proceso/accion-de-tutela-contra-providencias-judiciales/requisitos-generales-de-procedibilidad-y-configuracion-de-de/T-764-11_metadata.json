@@ -1,0 +1,47 @@
+{
+  "radicado": "T-764-11",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2011,
+  "fecha_creacion": "2011-10-07",
+  "magistrado_ponente": "Maria Victoria Calle Correa",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+  "subtema": "Requisitos generales de procedibilidad y configuración de defectos",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 794 de 2003",
+    "Ley 938 de 2004"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2011/T-764-11.htm",
+  "fecha_descarga": "2026-10-21T16:55:48.137182+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2011-10-07",
+  "fecha_publicacion": null,
+  "numero": "T-764/11",
+  "tipo_cc": "T",
+  "prov_id": "2796",
+  "tema_relatoria": null,
+  "resumen": "Debido proceso. Tutela contra providencia judicial. La acción de tutela se presenta en contra de un despacho judicial que decretó pruebas de oficio en el marco de una tacha de falsedad que se adelantaba en el proceso ejecutivo hipotecario que la empresa Financiando S.A. inició en contra del accionante. A juicio del acto, cuenta con los suficientes elementos materiales de prueba para determinar que los documentos que soportan las pretensiones de la entidad financiera son falsos. Para la Sala, la autoridad judicial accionada no sólo estaba facultada para decretar pruebas de oficio, sino que además tenía el deber constitucional de hacerlo así contara con otros medios probatorios, pues tenía una duda razonable que debía tratar de precisar. Se confirman los fallos de instancia que consideraron constitucional la actuación de la autoridad demandada, pero se le previene para que suspenda las medidas cautelares que recaen sobre el bien inmueble perseguido en el proceso ejecutivo hipotecario, hasta tanto no resuelva de fondo la controversia presentada sobre la validez de y eficacia de los títulos ejecutivos",
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Requisitos generales de procedibilidad y configuración de defectos"
+    },
+    {
+      "tema": "JUEZ EN PROCESO EJECUTIVO",
+      "subtema": "No hay vulneración del debido proceso de autoridad judicial al decretar estudio grafológico, a pesar de contar con otros medios probatorios"
+    },
+    {
+      "tema": "PRINCIPIO DE AUTONOMIA JUDICIAL",
+      "subtema": "Reviste al juez natural de la suficiente libertad para definir, en lo probatorio, la conducencia, pertinencia o necesidad de la prueba"
+    },
+    {
+      "tema": "JUEZ EN PROCESO EJECUTIVO",
+      "subtema": "No hay vulneración del debido proceso de autoridad judicial al decretar pruebas de oficio, pues tenía una duda razonable que debía resolver"
+    }
+  ]
+}

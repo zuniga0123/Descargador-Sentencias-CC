@@ -1,0 +1,59 @@
+{
+  "radicado": "T-693A-11",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2011,
+  "fecha_creacion": "2011-09-20",
+  "magistrado_ponente": "Gabriel Eduardo Mendoza Martelo",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "DEBIDO PROCESO SIN DILACIONES INJUSTIFICADAS",
+  "subtema": "Efectividad",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 446 de 1998",
+    "Decreto 2591 de 1991",
+    "Ley 270 de 1996"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2011/T-693A-11.htm",
+  "fecha_descarga": "2026-10-21T16:34:39.631660+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2011-09-20",
+  "fecha_publicacion": null,
+  "numero": "T-693A/11",
+  "tipo_cc": "T",
+  "prov_id": "2711",
+  "tema_relatoria": null,
+  "resumen": "Vida digna, mínimo vital, seguridad social, igualdad, debido proceso, acceso a la administración de justicia. La accionante reclama que vía tutela se ordene al Consejo de Estado dar trámite al proceso de nulidad y restablecimiento del derecho iniciado por ella en 1995 y, de manera consecuente proceder a dictar el fallo de segunda instancia que resuelva el recurso de apelación pendiente por decidir en dicha Corporación desde finales del año 2008. El Magistrado encargado de la resolución del recurso de apelación referido se opuso a las pretensiones de la tutela, aduciendo que el proceso se encontraba al despacho para fallo desde el 24 de febrero de 2009 y que según lineamientos de tipo legal, los jueces deben dictar las sentencias exactamente en el mismo orden en que hayan pasado los expedientes al despacho para tal fin, sin que dicho orden pueda alterarse, salvo en los casos de sentencia anticipada o de prelación legal. La Sala reitera la posición de la Corporación en cuanto a la mora judicial y la incidencia en la afectación de los derechos fundamentales de acceso a la administración de justicia y a un debido proceso. En sede de revisión la Sala procedió a revisar la página web del Consejo de Estado a efectos de consultar el estado en que se encontraba el proceso de nulidad, advirtiendo que la autoridad judicial accionada ya dictó el correspondiente fallo. Al comprobarse que la protección incoada ya se satisfizo y que desapareció el objeto jurídico sobre el cual recayó la eventual revisión, se declaró la configuración de un hecho superado por carencia actual de objeto.",
+  "titulaciones": [
+    {
+      "tema": "DEBIDO PROCESO SIN DILACIONES INJUSTIFICADAS",
+      "subtema": "Efectividad"
+    },
+    {
+      "tema": "DEBIDO PROCESO",
+      "subtema": "Características de la mora judicial o administrativa"
+    },
+    {
+      "tema": "PERSONA EN CONDICIONES DE DEBILIDAD MANIFIESTA",
+      "subtema": "Criterios que deben tenerse en cuenta para alteración del orden para proferir decisión judicial"
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA CONSEJO DE ESTADO",
+      "subtema": "Hecho superado por carencia actual de objeto al haber resuelto recurso de apelación en proceso de nulidad y restablecimiento del derecho por desvinculación laboral"
+    },
+    {
+      "tema": "DERECHO DE ACCESO A LA ADMINISTRACION DE JUSTICIA Y DEBIDO PROCESO",
+      "subtema": "Afectación por mora judicial"
+    },
+    {
+      "tema": "ACCION DE TUTELA Y MORA JUDICIAL",
+      "subtema": "Incumplimiento de términos para fallar y aplicación de regla sobre el orden para proferir decisiones judiciales"
+    },
+    {
+      "tema": "CARENCIA ACTUAL DE OBJETO POR HECHO SUPERADO",
+      "subtema": "Configuración"
+    }
+  ]
+}

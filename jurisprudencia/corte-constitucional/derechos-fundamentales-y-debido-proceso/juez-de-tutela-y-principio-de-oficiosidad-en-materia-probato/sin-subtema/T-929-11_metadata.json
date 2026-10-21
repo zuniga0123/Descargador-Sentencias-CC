@@ -1,0 +1,53 @@
+{
+  "radicado": "T-929-11",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2011,
+  "fecha_creacion": "2011-12-07",
+  "magistrado_ponente": "Luis Ernesto Vargas Silva",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "JUEZ DE TUTELA Y PRINCIPIO DE OFICIOSIDAD EN MATERIA PROBATORIA",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2011/T-929-11.htm",
+  "fecha_descarga": "2026-10-21T16:53:43.247211+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2011-12-07",
+  "fecha_publicacion": null,
+  "numero": "T-929/11",
+  "tipo_cc": "T",
+  "prov_id": "3012",
+  "tema_relatoria": null,
+  "resumen": "Debido proceso. Se analiza un caso en el que la demandante aduce que la Universidad del Tolima vulnera varios de sus derechos fundamentales, al negarse a autorizar su graduación bajo el argumento de faltarle finalizar algunas asignaturas que conforman el programa académico. La actora alega que aprobó todas las materias propias del programa que cursaba y que cumplió con los requisitos de grado, consistentes en la realización de una pasantía, un diplomado y una monografía. La Sala reitera las subreglas empleadas por la Corte de manera general para resolver la tensión surgida entre el principio de autonomía universitaria y el derecho a la educación. Así mismo, analiza los casos en los cuales la institución educativa comete irregularidades administrativas que limitan el avance en el proceso educativo de la estudiante dentro de la misma. Se CONCEDE el amparo al derecho al debido proceso y se niega la tutela respecto de los derechos a la igualdad y a la educación. Se previene a la accionada para que ajuste los procedimientos de registro de notas y certificación del cumplimiento de requisitos en todos sus programas académicos, para que no se vuelvan a presentar casos como el examinado.",
+  "titulaciones": [
+    {
+      "tema": "JUEZ DE TUTELA Y PRINCIPIO DE OFICIOSIDAD EN MATERIA PROBATORIA",
+      "subtema": null
+    },
+    {
+      "tema": "DERECHO A LA EDUCACIÓN",
+      "subtema": "Orden a la Universidad del Tolima inaplique normas reglamentarias para que estudiante pueda registrar materias sin prerrequisitos y no generen costos económicos"
+    },
+    {
+      "tema": "DERECHO A LA EDUCACION Y PRINCIPIO DE AUTONOMIA UNIVERSITARIA",
+      "subtema": "Reiteración de jurisprudencia sobre los límites"
+    },
+    {
+      "tema": "DERECHO A LA EDUCACION Y DEBIDO PROCESO",
+      "subtema": "Vulneración por Universidad del Tolima al registrar varios errores administrativos en historial de notas académicas de estudiante de biología"
+    },
+    {
+      "tema": "DERECHO A LA EDUCACIÓN",
+      "subtema": "Regla específica para resolver la tensión en el caso de errores administrativos de institución educativa que afectan los avances del proceso educativo"
+    },
+    {
+      "tema": "CONFLICTO ENTRE EL DERECHO A LA EDUCACION Y LA AUTONOMIA DE LOS CENTROS EDUCATIVOS",
+      "subtema": "El juez debe hacer un juicio de ponderación a favor de la educación"
+    }
+  ]
+}

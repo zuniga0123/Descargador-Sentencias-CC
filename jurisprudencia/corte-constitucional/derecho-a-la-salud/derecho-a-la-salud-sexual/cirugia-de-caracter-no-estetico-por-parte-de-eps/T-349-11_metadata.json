@@ -1,0 +1,42 @@
+{
+  "radicado": "T-349-11",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2011,
+  "fecha_creacion": "2011-05-05",
+  "magistrado_ponente": "Maria Victoria Calle Correa",
+  "area": "Derecho a la Salud",
+  "tema": "DERECHO A LA SALUD SEXUAL",
+  "subtema": "Cirugía de carácter no estético por parte de EPS",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 100 de 1993"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2011/T-349-11.htm",
+  "fecha_descarga": "2026-10-21T16:49:02.097335+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2011-05-05",
+  "fecha_publicacion": null,
+  "numero": "T-349/11",
+  "tipo_cc": "T",
+  "prov_id": "2238",
+  "tema_relatoria": null,
+  "resumen": "Integridad, salud, salud sexual. Según el accionante, su pene tiene una malformación consistente en una torcedura al tener erección. En una radiografía ordenada por su médico tratante el resultado salió normal, pero dado las continuas molestias que continuaba presentando, fue al urólogo quien le diagnosticó leucoplasia del pene o enfermedad de peyrionie, con curvatura del pene de 46 grados hacia el lado izquierdo El médico especialista ordenó la práctica de una intervención quirúrgica denominada corrección de curvatura del pene, pero el Comité Técnico Científico de la entidad demandada se negó a prestar el servicio, bajo el argumento de que sólo pueden ser autorizados servicios de salud no incluidos en el POS, cuando exista un riesgo inminente para la vida o la salud del paciente, situaciones que a su parecer, no se presentaban el caso del accionante. La Sala decide tutelar al demandante y ordenar a la E.P.S. COOMEVA, que practique la intervención quirúrgica sugerida por el urólogo, pero autorizando el recobro ante el FOSYGA, de los costos en que incurra y que en virtud de la legislación vigente, no le corresponda asumirlos. CONCEDIDA.",
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA SALUD SEXUAL",
+      "subtema": "Cirugía de carácter no estético por parte de EPS"
+    },
+    {
+      "tema": "DERECHO A LA SALUD SEXUAL",
+      "subtema": "Procedimiento quirúrgico de corrección no incluido en el POS"
+    },
+    {
+      "tema": "USUARIO DE EPS",
+      "subtema": "No se puede condicionar un servicio de salud al pago de sumas de dinero"
+    }
+  ]
+}

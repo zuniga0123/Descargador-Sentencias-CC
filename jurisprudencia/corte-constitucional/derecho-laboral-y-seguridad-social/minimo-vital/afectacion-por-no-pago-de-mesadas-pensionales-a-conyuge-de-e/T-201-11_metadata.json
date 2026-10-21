@@ -1,0 +1,45 @@
+{
+  "radicado": "T-201-11",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2011,
+  "fecha_creacion": "2011-03-23",
+  "magistrado_ponente": "Nilson Pinilla Pinilla",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "MINIMO VITAL",
+  "subtema": "Afectación por no pago de mesadas pensionales a cónyuge de enfermo hospitalizado",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2011/T-201-11.htm",
+  "fecha_descarga": "2026-10-21T16:36:05.586895+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2011-03-23",
+  "fecha_publicacion": null,
+  "numero": "T-201/11",
+  "tipo_cc": "T",
+  "prov_id": "2066",
+  "tema_relatoria": null,
+  "resumen": "Salud, seguridad social, mínimo vital. La accionante, actuando como agente oficioso de su esposo, relata que el Banco Colmena BCSC se negó a entregarle la mesada pensional de su esposo, bajo el argumento que sólo podía hacerlo con una autorización debidamente autenticada ante notario o con una orden judicial que se lo ordenara. Para la accionante no es posible tener la autorización de su esposo, pues éste se encuentra hospitalizado por múltiples afecciones y con un pronóstico reservado, situación que puede permanecer en iguales condiciones de manera indefinida. En sede de revisión se determina que el hecho vulnerador del derecho fundamental al mínimo vital fue superado, en razón a que la parte actora inició un proceso de interdicción judicial para administrar los bienes de su esposo y el juzgado, en el respectivo auto admisorio, nombró a la accionante como curadora provisional, situación que le permite reclamar las mesadas pensionales correspondientes. En el presente asunto se resuelve declarar la carencia actual de objeto, por hecho superado.",
+  "titulaciones": [
+    {
+      "tema": "MINIMO VITAL",
+      "subtema": "Afectación por no pago de mesadas pensionales a cónyuge de enfermo hospitalizado"
+    },
+    {
+      "tema": "HECHO SUPERADO POR CUANTO SE DECRETO INTERDICCION JUDICIAL",
+      "subtema": null
+    },
+    {
+      "tema": "RETIRO DE MESADAS POR PENSION DE VEJEZ Y PROCESO DE INTERDICCION JUDICIAL",
+      "subtema": null
+    },
+    {
+      "tema": "RETIRO DE MESADAS POR PENSION DE VEJEZ",
+      "subtema": "Caso en que Banco lo impedía por falta de autorización expresa del titular a su cónyuge, por encontrarse en unidad de cuidado intensivo"
+    }
+  ]
+}

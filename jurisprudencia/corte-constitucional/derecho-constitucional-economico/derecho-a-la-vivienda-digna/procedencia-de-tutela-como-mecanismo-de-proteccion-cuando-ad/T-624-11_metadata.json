@@ -1,0 +1,53 @@
+{
+  "radicado": "T-624-11",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2011,
+  "fecha_creacion": "2011-08-19",
+  "magistrado_ponente": "María Victoria Calle Correa",
+  "area": "Derecho Constitucional Económico",
+  "tema": "DERECHO A LA VIVIENDA DIGNA",
+  "subtema": "Procedencia de tutela como mecanismo de protección cuando adquiere rango fundamental",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 388 de 1997",
+    "Decreto 230 de 2003",
+    "Decreto 94 de 2003",
+    "Ley 74 de 1968",
+    "Ley 9 de 1989",
+    "Decreto 619 de 2000",
+    "Decreto 469 de 2003",
+    "Decreto 190 de 2004"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2011/T-624-11.htm",
+  "fecha_descarga": "2026-10-21T16:33:32.130912+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2011-08-19",
+  "fecha_publicacion": null,
+  "numero": "T-624/11",
+  "tipo_cc": "T",
+  "prov_id": "2627",
+  "tema_relatoria": null,
+  "resumen": "En el presente caso se le atribuye al Fondo de Prevención y Atención de Emergencias y a la Caja de Vivienda Popular, la presunta vulneración de derechos fundamentales del actor y de su grupo familiar, al haber procedido a demoler su casa de habitación bajo el argumento de estar construida en una zona de alto riesgo, sin que previamente se declara este hecho, sin mediar comunicación oportuna sobre la decisión de evacuación y demolición y, sin haber realizado su inclusión en un programa de reasentamiento. La Sala concluye que al accionante y a su grupo familiar les vulneraron sus derechos fundamentales al debido proceso y a la vivienda digna, al demoler su vivienda de manera irregular, sin antes haber establecido si efectivamente se encontraba localizada en una zona de alto riesgo no mitigable, sin haber informado la decisión adoptada y los efectos de la misma, sin haber señalado las actuaciones para tomar dicha decisión y sus fundamentos y sobre todo, por no haberlos incluido en un programa de reasentamiento en caso de cumplir los requisitos para ello ó, en caso contrario, brindarles alternativas de alivio. Se CONCEDE el amparo solicitado en la demanda de tutela.",
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA VIVIENDA DIGNA",
+      "subtema": "Procedencia de tutela como mecanismo de protección cuando adquiere rango fundamental"
+    },
+    {
+      "tema": "DERECHO A LA VIVIENDA DIGNA",
+      "subtema": "Orden a la Caja de Vivienda Popular incluir al accionante y a su grupo familiar en un programa de reasentamiento por haber sido demolida su vivienda sin el cumplimiento de los requisitos"
+    },
+    {
+      "tema": "DEBIDO PROCESO Y DERECHO A LA VIVIENDA DIGNA",
+      "subtema": "Vulneración por cuanto se ordenó la evacuación y posterior demolición de la vivienda sin el procedimiento previo para mitigar el impacto de la decisión"
+    },
+    {
+      "tema": "FONDO DE PREVENCION Y ATENCION DE EMERGENCIAS Y CAJA DE VIVIENDA POPULAR",
+      "subtema": "Caso en que omitieron las fases del proceso para atención y acompañamiento integral a los grupos familiares que habitan zonas de alto riesgo"
+    }
+  ]
+}

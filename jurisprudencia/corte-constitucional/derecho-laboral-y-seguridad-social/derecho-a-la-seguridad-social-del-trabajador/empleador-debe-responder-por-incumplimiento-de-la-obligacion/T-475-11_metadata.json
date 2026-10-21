@@ -1,0 +1,53 @@
+{
+  "radicado": "T-475-11",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2011,
+  "fecha_creacion": "2011-06-13",
+  "magistrado_ponente": "María Victoria Calle Correa",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "DERECHO A LA SEGURIDAD SOCIAL DEL TRABAJADOR",
+  "subtema": "Empleador debe responder por incumplimiento de la obligación de afiliar a sus trabajadores al Sistema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Decreto 758 de 1990",
+    "Decreto 2591 de 1991",
+    "Decreto 3063 de 1989",
+    "Decreto 692 de 1994",
+    "Ley 171 de 1961",
+    "Ley 860 de 2003",
+    "Ley 797 de 2003",
+    "Ley 91 de 1946"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2011/T-475-11.htm",
+  "fecha_descarga": "2026-10-21T16:47:24.954707+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2011-06-13",
+  "fecha_publicacion": null,
+  "numero": "T-475/11",
+  "tipo_cc": "T",
+  "prov_id": "2408",
+  "tema_relatoria": null,
+  "resumen": "Seguridad social, mínimo vital. Luego de que le fuera negado el reconocimiento y pago de la pensión de vejez, el accionante solicitó a la alcaldía del municipio de Tolú el reconocimiento de la indemnización sustitutiva de la pensión, argumentando su avanzada edad y los graves problemas de salud que le impiden seguir cotizando al Sistema de Seguridad Social. La entidad accionada también negó la indemnización y alegó que el municipio no afilió al actor al Sistema General de Seguridad Social luego de entrar en vigencia la Ley 100 de 1993. La Sala se pronuncia sobre la siguiente temática: 1º. Procedencia excepcional de la acción de tutela para el reconocimiento de los derechos pensionales. 2º. El requisito de inmediatez y, 3º. El derecho a la indemnización sustitutiva de la pensión de vejez. Se concluye que, los empleadores que incumplen con su obligación legal y reglamentaria de afiliar a sus trabajadores al Sistema General de Pensiones, vulneran su derecho a la seguridad social y deben responder por las pensiones y prestaciones a las que tendrían derecho, de haber sido afiliados al mismo. Se CONCEDE el amparo respecto al reconocimiento de la indemnización sustitutiva reclamada, pero se advierte que esta decisión no puede afectar el sentido de un posible fallo que sobre el derecho a la pensión sanción a favor del demandante, adopte la jurisdicción laboral ordinaria.",
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA SEGURIDAD SOCIAL DEL TRABAJADOR",
+      "subtema": "Empleador debe responder por incumplimiento de la obligación de afiliar a sus trabajadores al Sistema"
+    },
+    {
+      "tema": "DERECHO A LA INDEMNIZACION SUSTITUTIVA DE PENSION DE VEJEZ",
+      "subtema": "Orden a Municipio de efectuar reconocimiento y pago"
+    },
+    {
+      "tema": "PENSIÓN SANCIÓN",
+      "subtema": "Caso en que accionante debe acudir a la jurisdicción ordinaria para determinar si Municipio debe, posiblemente, reconocer el derecho a la pensión sanción"
+    },
+    {
+      "tema": "PRINCIPIO DE INMEDIATEZ COMO REQUISITO DE PROCEDIBILIDAD DE LA ACCION DE TUTELA",
+      "subtema": "Debe ponderarse bajo el criterio del plazo razonable y oportuno"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "radicado": "T-618-11",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2011,
+  "fecha_creacion": "2011-08-16",
+  "magistrado_ponente": "María Victoria Calle Correa",
+  "area": "Derecho Constitucional Económico",
+  "tema": "DERECHO AL AMBIENTE SANO",
+  "subtema": "Orden a Alcaldía para tomar medidas tendientes a evitar ingreso de malos olores, controlar presencia e ingreso de insectos a la vivienda del accionante y mantenimiento de pozo séptico que aloja aguas negras",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 302 de 2000",
+    "Decreto 2591 de 1991",
+    "Ley 16 de 1972"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2011/T-618-11.htm",
+  "fecha_descarga": "2026-10-21T16:33:20.938991+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2011-08-16",
+  "fecha_publicacion": null,
+  "numero": "T-618/11",
+  "tipo_cc": "T",
+  "prov_id": "2619",
+  "tema_relatoria": null,
+  "resumen": "Intimidad, vivienda digna, salud, igualdad. El accionante alega que a su vivienda no le ha sido conectado el servicio público de alcantarillado de la ciudad, a pesar de que las casas de sus vecinos si tienen la acometida y que él ha hecho la petición en varias oportunidades. Las entidades demandadas se oponen a las pretensiones alegando que la vivienda del demandante no está ubicada en una vía principal, situación que obliga al constructor o al urbanizador a encargarse del diseño y la construcción de las redes de los servicios públicos. Luego del respectivo análisis, la Sala resuelve conceder el amparo de los derechos fundamentales invocados y ordena a la Alcaldía Municipal de Montería adoptar las medidas adecuadas y necesarias para evitar que ingresen malos olores a la vivienda del actor, garantizar un adecuado mantenimiento del pozo séptico o lugar de destino de los deshechos o aguas negras y controlar la presencia e ingreso de insectos vectores de enfermedad hacia la vivienda. SE CONCEDE.",
+  "titulaciones": [
+    {
+      "tema": "DERECHO AL AMBIENTE SANO",
+      "subtema": "Orden a Alcaldía para tomar medidas tendientes a evitar ingreso de malos olores, controlar presencia e ingreso de insectos a la vivienda del accionante y mantenimiento de pozo séptico que aloja aguas negras"
+    },
+    {
+      "tema": "EMPRESA DE SERVICIOS PUBLICOS DOMICILIARIOS",
+      "subtema": "No podía negarse a instalar el alcantarillado en las viviendas solo porque el constructor o urbanizador no asumía previamente el costo de las obras"
+    },
+    {
+      "tema": "DERECHO A LA INTIMIDAD PERSONAL Y FAMILIAR Y DERECHO A LA VIVIENDA DIGNA",
+      "subtema": "Vulneración por estar expuestos a olores nauseabundos o a vectores de enfermedad provenientes del entorno ambiental que afectan la salud"
+    }
+  ]
+}

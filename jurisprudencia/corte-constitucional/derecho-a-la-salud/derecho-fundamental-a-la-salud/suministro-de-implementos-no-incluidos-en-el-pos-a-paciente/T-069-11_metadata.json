@@ -1,0 +1,40 @@
+{
+  "radicado": "T-069-11",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2011,
+  "fecha_creacion": "2011-02-07",
+  "magistrado_ponente": "Juan Carlos Henao Pérez",
+  "area": "Derecho a la Salud",
+  "tema": "DERECHO FUNDAMENTAL A LA SALUD",
+  "subtema": "Suministro de implementos no incluidos en el POS, a paciente insulinodependiente",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 91 de 1989",
+    "Ley 100 de 1993",
+    "Ley 890 de 2004"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2011/T-069-11.htm",
+  "fecha_descarga": "2026-10-21T16:50:54.358222+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2011-02-07",
+  "fecha_publicacion": null,
+  "numero": "T-069/11",
+  "tipo_cc": "T",
+  "prov_id": "1907",
+  "tema_relatoria": null,
+  "resumen": "Salud, vida digna, mínimo vital. El accionante sufre de diabetes, por lo que su médico tratante le ordenó medidor de glucosa, tiras y agujas, sin embargo su EPS le ha negado estos insumos alegando que no se encuentran incluidos en el POS. La Sala realiza reiteración de jurisprudencia sobre los requisitos para que se ampare el derecho fundamental a la salud, cuando el paciente solicita un servicio no incluido en el POS, se recuerdan las reglas probatorias para establecer la capacidad económica y el concepto de carga soportable, se concluye que el actor cuenta con los medios económicos suficientes para sufragar estos gastos médicos, por lo tanto se decide no acceder a las pretensiones del demandante. Niega.",
+  "titulaciones": [
+    {
+      "tema": "DERECHO FUNDAMENTAL A LA SALUD",
+      "subtema": "Suministro de implementos no incluidos en el POS, a paciente insulinodependiente"
+    },
+    {
+      "tema": "DERECHO FUNDAMENTAL A LA SALUD",
+      "subtema": "Reglas probatorias aplicables para establecer capacidad económica y concepto de carga soportable"
+    }
+  ]
+}

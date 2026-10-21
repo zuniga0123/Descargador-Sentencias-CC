@@ -1,0 +1,58 @@
+{
+  "radicado": "T-962-11",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2011,
+  "fecha_creacion": "2011-12-16",
+  "magistrado_ponente": "Gabriel Eduardo Mendoza Martelo",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "ACCION DE TUTELA CONTRA EL FONDO DE PENSIONES PORVENIR",
+  "subtema": "Procedencia para el reconocimiento y pago de la pensión de invalidez",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 1406 de 1999",
+    "Ley 860 de 2003",
+    "Ley 100 de 1993",
+    "Decreto 2591 de 1991",
+    "Ley 797 de 2003",
+    "Decreto 306 de 1992"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2011/T-962-11.htm",
+  "fecha_descarga": "2026-10-21T16:54:09.798791+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2011-12-16",
+  "fecha_publicacion": null,
+  "numero": "T-962/11",
+  "tipo_cc": "T",
+  "prov_id": "3065",
+  "tema_relatoria": null,
+  "resumen": "Seguridad social, mínimo vital, vida digna. Cuando el demandante tenía 7 años de edad sufrió de polimielitis, enfermedad que le ocasionó complicaciones en su estado de salud por las secuelas funcionales que dejó y que le provocaron, entre otras dificultades, la de movilizarse. Pese a las limitaciones físicas se vinculó laboralmente y empezó a aportar al Sistema General de Pensiones hasta completar 1540 semanas de cotización. Tras desvincularse laboralmente y solicitar a PORVENIR S.A. el reconocimiento de su pensión de invalidez, la Junta Regional de Calificación de Invalidez le determinó una pérdida de la capacidad laboral del 62.80%, con fecha de estructuración del 24 de abril de 1971 y la Administradora de Pensiones le negó la prestación reclamada, argumentando que no estaba obligada a reconocerla en virtud de que para la fecha de estructuración de la invalidez no se encontraba afiliado a dicha entidad. La Sala se pronuncia sobre los siguientes aspectos: 1º. Procedencia de la acción de tutela para reclamar el pago de prestaciones sociales. 2º. Requisitos para acceder a la pensión de invalidez y 3º. Derecho a la pensión de invalidez cuando se trata de personas que sufren de una enfermedad crónica, degenerativa o congénita, en los que la pérdida de la capacidad laboral es paulatina. Se acoge como fecha de estructuración, por tratarse de una enfermedad degenerativa, el momento en que el accionante se desvinculó laboralmente y dejó de cotizar al sistema, pues es desde esa fecha que se puede inferir que perdió la capacidad laboral. En tal sentido, y tras verificar el cumplimiento de requisitos, se CONCEDE el amparo solicitado y se ordena al Fondo de Pensiones y Cesantías PORVENIR S.A., reconocer y pagar al demandante la pensión de invalidez reclamada.",
+  "titulaciones": [
+    {
+      "tema": "ACCION DE TUTELA CONTRA EL FONDO DE PENSIONES PORVENIR",
+      "subtema": "Procedencia para el reconocimiento y pago de la pensión de invalidez"
+    },
+    {
+      "tema": "ACCION DE TUTELA PARA RECONOCIMIENTO DE PENSION DE INVALIDEZ",
+      "subtema": "Procedencia excepcional"
+    },
+    {
+      "tema": "PENSIÓN DE INVALIDEZ",
+      "subtema": "Reglas establecidas por la Corte Constitucional para determinar la fecha de estructuración de la invalidez en los casos de enfermedad degenerativa, crónica o congénita"
+    },
+    {
+      "tema": "ACCION DE TUTELA PARA RECONOCIMIENTO DE PENSION DE INVALIDEZ",
+      "subtema": "Procedencia excepcional por afectación al mínimo vital y vida digna de sujetos de especial protección"
+    },
+    {
+      "tema": "PENSIÓN DE INVALIDEZ",
+      "subtema": "Dificultad en contabilizar las semanas de cotización por el carácter progresivo y degenerativo de la enfermedad"
+    },
+    {
+      "tema": "PENSION DE INVALIDEZ POR ENFERMEDAD NO PROFESIONAL",
+      "subtema": "Requisitos establecidos en el artículo 1 de la Ley 860/03"
+    }
+  ]
+}

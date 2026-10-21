@@ -1,0 +1,60 @@
+{
+  "radicado": "T-040-11",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2011,
+  "fecha_creacion": "2011-02-03",
+  "magistrado_ponente": "Humberto Antonio Sierra Porto",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "PRINCIPIO DE LA BUENA FE Y RESPETO DEL ACTO PROPIO",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 797 de 2003",
+    "Decreto 2665 de 1988",
+    "Ley 100 de 1993"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2011/T-040-11.htm",
+  "fecha_descarga": "2026-10-21T16:39:36.702279+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2011-02-03",
+  "fecha_publicacion": null,
+  "numero": "T-040/11",
+  "tipo_cc": "T",
+  "prov_id": "1877",
+  "tema_relatoria": null,
+  "resumen": "Debido proceso, seguridad social, mínimo vital, vida digna. A la accionante, mujer de 74 años de edad, le reconocieron la pensión de jubilación el 15 de diciembre de 2006 por parte del ISS Seccional Valle. En abril del 2007 le suspendieron el pago de las mesadas laborales argumentando el hallazgo en su historia laboral de cero semanas cotizadas, cuando se le había concedido la pensión con 1090 semanas. En octubre de 2007 se revocó la resolución que concedió la pensión y se ordenó a la actora que reintegrara la suma de 26.000.000 correspondiente al valor de las mesadas indebidamente canceladas. La Sala confirmó la sentencia de segunda instancia, que había negado las pretensiones de la actora, por considerar que la tutela no cumplió con el requisito de inmediatez, pues presentó la acción 6 meses después de haber sido suspendidos los pagos de las mesadas pensionales. Negada.",
+  "titulaciones": [
+    {
+      "tema": "PRINCIPIO DE LA BUENA FE Y RESPETO DEL ACTO PROPIO",
+      "subtema": null
+    },
+    {
+      "tema": "REVOCATORIA DIRECTA DE ACTO ADMINISTRATIVO DE RECONOCIMIENTO DE PENSION",
+      "subtema": "Existencia de actos fraudulentos para su reconocimiento"
+    },
+    {
+      "tema": "REVOCATORIA DIRECTA DE ACTO ADMINISTRATIVO DE RECONOCIMIENTO DE PENSION",
+      "subtema": "Caso en que a pesar de existir falta inexcusable en el procedimiento que culminó con la revocatoria de la pensión, dicha falta no tiene entidad para anular el acto administrativo"
+    },
+    {
+      "tema": "PRINCIPIO DE RESPETO DEL ACTO PROPIO EN MATERIA DE DERECHOS PENSIONALES",
+      "subtema": "Aplicación"
+    },
+    {
+      "tema": "DERECHO FUNDAMENTAL A LA SEGURIDAD SOCIAL Y PROTECCION POR MEDIO DE ACCION DE TUTELA",
+      "subtema": "Reiteración de jurisprudencia"
+    },
+    {
+      "tema": "SUSTRACCION DEL PAGO DE MESADAS PENSIONALES CON BASE EN LA PRESUNCION DE ILEGALIDAD DE ACTOS ADMINISTRATIVOS",
+      "subtema": "Reiteración de jurisprudencia"
+    },
+    {
+      "tema": "SUSPENSION DE PAGO DE MESADAS PENSIONALES",
+      "subtema": "En este caso consistiría en desvirtuar las razones de la entidad para ordenar el cese de las consignaciones"
+    }
+  ]
+}

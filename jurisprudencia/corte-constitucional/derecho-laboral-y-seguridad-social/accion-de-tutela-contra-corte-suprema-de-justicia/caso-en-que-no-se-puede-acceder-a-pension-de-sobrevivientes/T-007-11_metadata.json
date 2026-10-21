@@ -1,0 +1,43 @@
+{
+  "radicado": "T-007-11",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2011,
+  "fecha_creacion": "2011-01-14",
+  "magistrado_ponente": "María Victoria Calle Correa",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "ACCION DE TUTELA CONTRA CORTE SUPREMA DE JUSTICIA",
+  "subtema": "Caso en que no se puede acceder a pensión de sobrevivientes por incumplimiento del requisito exigido en la Ley 100 de 1993",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Ley 797 de 2003",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2011/T-007-11.htm",
+  "fecha_descarga": "2026-10-21T16:40:25.274135+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2011-01-14",
+  "fecha_publicacion": null,
+  "numero": "T-007/11",
+  "tipo_cc": "T",
+  "prov_id": "1820",
+  "tema_relatoria": null,
+  "resumen": "Vida, vida digna, mínimo vital, seguridad social, salud y protección a la tercera edad. La accionante narra que dependía económicamente de un hijo que falleció el 10 de junio de 2000 y que ante la jurisdicción ordinaria laboral inició proceso para hacer efectivo el reconocimiento y pago de la pensión de sobrevivientes como madre beneficiaria del causante. La primera instancia falló a favor de la aquí accionante y condenó al ISS a pagar la pensión de sobrevivientes, fundamentando su decisión en la dependencia económica; sin embargo, la segunda instancia revocó esta decisión al considerar que no existía una dependencia económica del hijo sino del esposo, también pensionado. Al decidir, la Sala de Revisión reitera jurisprudencia sobre la acción de tutela en contra de decisiones judiciales como mecanismo excepcional para garantizar derechos fundamentales amenazados por dichos fallos, caso que aquí no aplica pues no se configuró el presupuesto de inmediatez ni ninguna de las causales específicas de procedibilidad. Negada.",
+  "titulaciones": [
+    {
+      "tema": "ACCION DE TUTELA CONTRA CORTE SUPREMA DE JUSTICIA",
+      "subtema": "Caso en que no se puede acceder a pensión de sobrevivientes por incumplimiento del requisito exigido en la Ley 100 de 1993"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Improcedencia por incumplimiento del requisito de inmediatez"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Requisitos generales y especiales de procedibilidad"
+    }
+  ]
+}

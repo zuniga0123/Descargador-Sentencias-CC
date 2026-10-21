@@ -1,0 +1,49 @@
+{
+  "radicado": "T-840-11",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2011,
+  "fecha_creacion": "2011-11-03",
+  "magistrado_ponente": "Humberto Antonio Sierra Porto",
+  "area": "Derecho a la Salud",
+  "tema": "SUMINISTRO DE MEDICAMENTOS Y SERVICIOS NO INCLUIDOS EN EL POS",
+  "subtema": "Reiteración de jurisprudencia",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2011/T-840-11.htm",
+  "fecha_descarga": "2026-10-21T16:50:12.901128+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2011-11-03",
+  "fecha_publicacion": null,
+  "numero": "T-840/11",
+  "tipo_cc": "T",
+  "prov_id": "2892",
+  "tema_relatoria": null,
+  "resumen": "Salud, vida digna. Se acumulan expedientes por unidad de materia. Los demandantes instauran la acción de tutela en contra de COOMEVA E.P.S y la NUEVA E.P.S., porque dichas entidades se negaron a suministrar medicamentos ordenados por el médico tratante, bajo el argumento de estar excluidos del POS. La Sala reitera jurisprudencia relacionada con el derecho fundamental a la salud, el suministro de medicamentos excluidos del POS y el hecho de que el concepto del Comité Técnico Científico nos sea un requisito indispensable para que el medicamento o tratamiento requerido por el usuario se otorgue a través del mecanismo de tutela. Se CONCEDE el amparo impetrado por los diferentes actores y se ordena a las entidades demandadas suministrar el tratamiento y medicamentos ordenados por los médicos tratantes.",
+  "titulaciones": [
+    {
+      "tema": "SUMINISTRO DE MEDICAMENTOS Y SERVICIOS NO INCLUIDOS EN EL POS",
+      "subtema": "Reiteración de jurisprudencia"
+    },
+    {
+      "tema": "DERECHO FUNDAMENTAL A LA SALUD",
+      "subtema": "Reiteración de jurisprudencia"
+    },
+    {
+      "tema": "COMITE TECNICO CIENTIFICO DE ENTIDAD PROMOTORA DE SALUD",
+      "subtema": "Su concepto no es requisito indispensable para la entrega de medicamentos excluidos del POS"
+    },
+    {
+      "tema": "DERECHO A LA SALUD DE PERSONA DE LA TERCERA EDAD",
+      "subtema": "Suministro de medicamentos bajo denominación comercial y no bajo su denominación genérica, según prescripción del médico tratante"
+    },
+    {
+      "tema": "DERECHO A LA SALUD DEL MENOR",
+      "subtema": "Suministro de medicamento o inmunoterapia y repetición contra el Fosyga"
+    }
+  ]
+}

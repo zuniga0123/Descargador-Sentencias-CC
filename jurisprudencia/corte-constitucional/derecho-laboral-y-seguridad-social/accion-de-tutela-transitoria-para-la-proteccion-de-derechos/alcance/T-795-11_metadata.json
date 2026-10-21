@@ -1,0 +1,55 @@
+{
+  "radicado": "T-795-11",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2011,
+  "fecha_creacion": "2011-10-20",
+  "magistrado_ponente": "Jorge Ivan Palacio Palacio",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "ACCION DE TUTELA TRANSITORIA PARA LA PROTECCION DE DERECHOS FUNDAMENTALES",
+  "subtema": "Alcance",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 546 de 1971",
+    "Ley 33 de 1985",
+    "Ley 71 de 1988",
+    "Decreto 758 de 1990",
+    "Ley 100 de 1993",
+    "Decreto 813 de 1994",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2011/T-795-11.htm",
+  "fecha_descarga": "2026-10-21T16:49:20.777870+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2011-10-20",
+  "fecha_publicacion": null,
+  "numero": "T-795/11",
+  "tipo_cc": "T",
+  "prov_id": "2832",
+  "tema_relatoria": null,
+  "resumen": "Vida, igualdad, seguridad social. Tutela contra providencia judicial. La acción de tutela se instaura en contra de las autoridades judiciales que dentro de una acción de nulidad y restablecimiento del derecho interpuesta por el accionante en contra del Departamento de Cundinamarca, denegaron las súplicas de la demanda. Con la acción constitucional se pretende que se revoquen los fallos referidos y en su lugar se ordene al Departamento de Cundinamarca tomar las medidas tendientes a la reliquidación y reajuste de la cuota parte pensional que le corresponde, para que el seguro social le reconozca una pensión equivalente al 75% del salario que devengaba como gobernador entre los años 1972 y 1974, debidamente actualizado. La Sala concluye que ni el Departamento de Cundinamarca ni las entidades judiciales accionadas, incurrieron en la vía de hecho que se les atribuye, sino que por el contrario sus actos administrativos y providencias fueron sustentados con sólidos argumentos jurídicos. Se DENIEGA el amparo solicitado.",
+  "titulaciones": [
+    {
+      "tema": "ACCION DE TUTELA TRANSITORIA PARA LA PROTECCION DE DERECHOS FUNDAMENTALES",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Causales genéricas de procedibilidad"
+    },
+    {
+      "tema": "MEDIO DE DEFENSA ALTERNATIVO",
+      "subtema": "Tiene que ser materialmente apto para lograr que los derechos fundamentales en juego sean efectivamente protegidos"
+    },
+    {
+      "tema": "REGIMEN DE TRANSICION EN PENSIONES DE SERVIDOR PUBLICO DE ENTIDADES TERRITORIALES",
+      "subtema": "Necesidad de haber consolidado el derecho con anterioridad a la expedición de la ley 100 de 1993"
+    },
+    {
+      "tema": "DERECHO A LA IGUALDAD EN REAJUSTE PENSIONAL",
+      "subtema": "No vulneración en caso en que el accionante solicitaba el reajuste con base en ordenanzas y la justicia ordinaria definió en su contra"
+    }
+  ]
+}

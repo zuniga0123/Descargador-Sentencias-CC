@@ -1,0 +1,44 @@
+{
+  "radicado": "T-009-11",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2011,
+  "fecha_creacion": "2011-01-14",
+  "magistrado_ponente": "María Victoria Calle Correa",
+  "area": "Derecho a la Salud",
+  "tema": "DERECHO A LA SALUD",
+  "subtema": "Caso en que EPS niega autorización para resección de tumor",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 1122 de 2007",
+    "Decreto 2591 de 1991",
+    "Ley 715 de 2001",
+    "Decreto 806 de 1998"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2011/T-009-11.htm",
+  "fecha_descarga": "2026-10-21T16:40:32.430525+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2011-01-14",
+  "fecha_publicacion": null,
+  "numero": "T-009/11",
+  "tipo_cc": "T",
+  "prov_id": "1822",
+  "tema_relatoria": null,
+  "resumen": "Salud, vida digna. La accionante tiene un tumor en la pared abdominal, por lo que se le ordeno la práctica de una intervención quirúrgica, la cual no ha sido autorizada, la entidad demandada alega que no se presentó solicitud del tratamiento y que el procedimiento solicitado no se encuentra incluido en el POS. La Sala encuentra que la COMFACOR EPS vulneró los derechos fundamentales de la señora, por lo tanto se ordena autorizar la cirugía. Concedida.",
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Caso en que EPS niega autorización para resección de tumor"
+    },
+    {
+      "tema": "ACCESO A TRATAMIENTO MEDICO O MEDICAMENTO EXCLUIDO DEL POS",
+      "subtema": "Criterios constitucionales para acceder a servicios no POS"
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA ENTIDAD PROMOTORA DE SALUD",
+      "subtema": "Orden a EPS de autorizar intervención quirúrgica"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "radicado": "T-794-11",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2011,
+  "fecha_creacion": "2011-10-20",
+  "magistrado_ponente": "Jorge Iván Palacio Palacio",
+  "area": "Derecho Administrativo y Función Pública",
+  "tema": "DEFECTO PROCEDIMENTAL",
+  "subtema": "Configuración",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Decreto 1091 de 1995",
+    "Ley 100 de 1993",
+    "Ley 960 de 1970",
+    "Decreto 132 de 1995"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2011/T-794-11.htm",
+  "fecha_descarga": "2026-10-21T16:49:17.043548+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2011-10-20",
+  "fecha_publicacion": null,
+  "numero": "T-794/11",
+  "tipo_cc": "T",
+  "prov_id": "2831",
+  "tema_relatoria": null,
+  "resumen": "Debido proceso, igualdad, acceso a la administración de justicia, confianza legítima. Tutela contra decisión judicial. Dentro de un proceso administrativo de nulidad y restablecimiento del derecho, la primera instancia declaró la nulidad del acto demandado y ordenó el reconocimiento y pago de la pensión de sobrevivientes a la hija de la accionante. La decisión se fundamentó en que la niña ostentaba mejor derecho sucesoral que los abuelos y que existía proceso de reconocimiento de filiación natural a su favor. Esta decisión fue apelada y el tribunal demandado revocó la sentencia y se declaró inhibido para fallar de fondo, en la medida que se trataba de un acto administrativo de ejecución, no susceptible de ser demandado. A juicio de la actora, el Tribunal accionado dio prioridad a criterios formalistas en lugar de analizar la naturaleza jurídica de un acto administrativo que modificó una situación jurídica que afectaba los derechos de una niña. Igualmente alegó la ocurrencia de una vía de hecho por la existencia de un defecto fáctico. La Sala concluye que dentro del trámite ordinario puesto bajo examen en el presente asunto, las dos instancias incurrieron en causales específicas de procedibilidad de la acción de tutela contra providencias judiciales: la primera, por omitir que el asunto ya había sido decidido por la jurisdicción contencioso administrativa y, la segunda, por eludir la justificación necesaria para cambiar la regla jurisprudencial que había fijado una tutela previa sobre el mismo caso. Se CONCEDE el amparo solicitado, se dejan sin efectos las sentencias dictadas dentro de la acción de nulidad y restablecimiento del derecho y se ordena a la Policía reconocer como beneficiaria de la pensión de sobrevivientes a la menor hija de la accionante.",
+  "titulaciones": [
+    {
+      "tema": "DEFECTO PROCEDIMENTAL",
+      "subtema": "Configuración"
+    },
+    {
+      "tema": "FALLO INHIBITORIO DICTADO DENTRO DE LA JUSTICIA ORDINARIA",
+      "subtema": "Régimen constitucional"
+    },
+    {
+      "tema": "DEFECTO SUSTANTIVO POR DESCONOCIMIENTO DEL PRECEDENTE CONSTITUCIONAL",
+      "subtema": null
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Reiteración de jurisprudencia sobre requisitos generales y especiales de procedibilidad"
+    },
+    {
+      "tema": "DEBIDO PROCESO",
+      "subtema": "Vulneración por cuanto Tribunal se declaró inhibido en proceso de nulidad y restablecimiento del derecho contra acto administrativo de reconocimiento de pensión de sobrevivientes de menor que ostentaba mejor derecho sucesoral que los padres"
+    },
+    {
+      "tema": "PENSIÓN DE SOBREVIVIENTES",
+      "subtema": "Orden a la Policía Nacional reconocer y pagar la pensión y la compensación por muerte, a la menor quien fue reconocida por anticipado como hija del causante"
+    },
+    {
+      "tema": "PRECEDENTE VERTICAL",
+      "subtema": "Concepto"
+    },
+    {
+      "tema": "DEFECTO FACTICO",
+      "subtema": "Configuración"
+    }
+  ]
+}

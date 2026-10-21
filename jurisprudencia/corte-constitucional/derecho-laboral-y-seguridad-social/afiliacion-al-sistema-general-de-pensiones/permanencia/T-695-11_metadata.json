@@ -1,0 +1,76 @@
+{
+  "radicado": "T-695-11",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2011,
+  "fecha_creacion": "2011-09-20",
+  "magistrado_ponente": "Humberto Antonio Sierra Porto",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "AFILIACION AL SISTEMA GENERAL DE PENSIONES",
+  "subtema": "Permanencia",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 100 de 1993",
+    "Decreto 758 de 1990",
+    "Decreto 3041 de 1966",
+    "Decreto 232 de 1984",
+    "Ley 433 de 1971",
+    "Decreto 692 de 1994",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2011/T-695-11.htm",
+  "fecha_descarga": "2026-10-21T16:34:43.337981+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2011-09-20",
+  "fecha_publicacion": null,
+  "numero": "T-695/11",
+  "tipo_cc": "T",
+  "prov_id": "2713",
+  "tema_relatoria": null,
+  "resumen": "Tutela contra providencia judicial. Se instaura la acción de titula en contra de las decisiones judiciales que dentro de un proceso ordinario laboral negaron la pretensión de acceder al reconocimiento y pago de una pensión de sobrevivientes. A juicio de la accionante, las autoridades demandadas incurrieron en vías de hecho por incurrir en un defecto sustantivo o material, al decidir con una normatividad que no era aplicable al caso y por errar en la apreciación de que el causante tenía la calidad de desafiliado, cuando en realidad se encontraba inactivo al momento de su fallecimiento. Se reitera jurisprudencia sobre las causales generales de procedibilidad de la acción de tutela contra providencias judiciales y se concluye que, si bien erró el juez ordinario al indicar la normatividad aplicable al caso y la condición que ostentaba el la accionante al momento de su fallecimiento, la accionante no tiene derecho a la pensión de sobrevivientes reclamada sino a la indemnización sustitutiva, la cual ya le fue entregada. Se confirma la decisión atacada, en cuanto NEGO el amparo solicitado por la actora.",
+  "titulaciones": [
+    {
+      "tema": "AFILIACION AL SISTEMA GENERAL DE PENSIONES",
+      "subtema": "Permanencia"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Requisitos especiales de procedibilidad"
+    },
+    {
+      "tema": "PENSION DE SOBREVIVIENTES DE CAUSANTE EN CALIDAD DE INACTIVO",
+      "subtema": "Niega reconocimiento por cuanto no se registra cotizaciones en los últimos tres años"
+    },
+    {
+      "tema": "PENSIÓN DE SOBREVIVIENTES",
+      "subtema": "Ley 100/93, norma aplicable al momento del fallecimiento del causante"
+    },
+    {
+      "tema": "PENSIÓN DE INVALIDEZ",
+      "subtema": "Requisitos para obtener reconocimiento y pago"
+    },
+    {
+      "tema": "VIA DE HECHO",
+      "subtema": "Clases de defectos en la actuación"
+    },
+    {
+      "tema": "VIA DE HECHO",
+      "subtema": "Requisitos"
+    },
+    {
+      "tema": "PENSIÓN DE SOBREVIVIENTES",
+      "subtema": "Requisitos"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Causales generales y específicas de procedibilidad"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Requisitos generales de procedibilidad"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "radicado": "T-625-11",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2011,
+  "fecha_creacion": "2011-08-19",
+  "magistrado_ponente": "María Victoria Calle Correa",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCIÓN DE TUTELA",
+  "subtema": "Improcedencia por existir otro medio de defensa judicial",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 1175 de 2007",
+    "Ley 1066 de 2006",
+    "Ley 788 de 2002",
+    "Ley 99 de 1993",
+    "Ley 143 de 1994",
+    "Ley 383 de 1997",
+    "Decreto 2591 de 1991",
+    "Ley 262 de 2000",
+    "Ley 1438 de 2011",
+    "Ley 1444 de 2011",
+    "Ley 1450 de 2011",
+    "Decreto 2474 de 1999",
+    "Ley 1151 de 2007",
+    "Ley 1367 de 2009",
+    "Decreto 2246 de 2011",
+    "Ley 1437 de 2011"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2011/T-625-11.htm",
+  "fecha_descarga": "2026-10-21T16:33:35.777133+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2011-08-19",
+  "fecha_publicacion": null,
+  "numero": "T-625/11",
+  "tipo_cc": "T",
+  "prov_id": "2628",
+  "tema_relatoria": null,
+  "resumen": "En el presente caso ECOPETROL alega que la empresa CORPORINOQUIA vulneró su derecho fundamental al debido proceso, en tanto inició en su contra un tramite de cobro coactivo en el que se libró mandamiento de pago y se dispuso el embargo de veinte mil millones de pesos, acudiendo a una forma de notificación de autos no contemplada en el Estatuto Tributario. Igualmente aduce trasgresión del derecho, al negar la caución prestada y ordenar el pago de la liquidación de la obligación, a pesar de que los actos administrativos no se encontraban ejecutoriados. En trámite de revisión se pudo constatar que en el Tribunal Administrativo del Casanare cursa una acción de nulidad y restablecimiento del derecho promovida por ECOPETROL contra los actos administrativos materia de la solicitud de amparo, en donde además de disponer la admisión del proceso, se decidió suspender los mencionados de manera provisional. La anterior situación se constituyó para la Sala en razón suficiente para declarar la IMPROCEDENCIA de la protección deprecada.",
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Improcedencia por existir otro medio de defensa judicial"
+    },
+    {
+      "tema": "DEBIDO PROCESO",
+      "subtema": "Improcedencia de tutela por cuanto Tribunal Administrativo suspendió provisionalmente actos administrativos en contra de Ecopetrol"
+    }
+  ]
+}

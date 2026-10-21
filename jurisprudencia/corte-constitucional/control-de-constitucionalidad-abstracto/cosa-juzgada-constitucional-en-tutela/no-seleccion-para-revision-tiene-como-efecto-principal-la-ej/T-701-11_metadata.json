@@ -1,0 +1,53 @@
+{
+  "radicado": "T-701-11",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2011,
+  "fecha_creacion": "2011-09-23",
+  "magistrado_ponente": "Jorge Ignacio Pretelt Chaljub",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "COSA JUZGADA CONSTITUCIONAL EN TUTELA",
+  "subtema": "No selección para revisión tiene como efecto principal la ejecutoria formal y material de la sentencia",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2011/T-701-11.htm",
+  "fecha_descarga": "2026-10-21T16:56:40.290754+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2011-09-23",
+  "fecha_publicacion": null,
+  "numero": "T-701/11",
+  "tipo_cc": "T",
+  "prov_id": "2740",
+  "tema_relatoria": null,
+  "resumen": "Debido proceso. Tutela contra providencia judicial. El accionante, actuando en calidad de Acalde del municipio de El Carmen de Bolívar, interpuso la presente acción constitucional contra una decisión de tutela que ordenó como medida cautelar, el embargo y secuestro de las cuentas de la entidad territorial para asegurar la cancelación de las acreencias laborales de un grupo de extrabajadores del municipio. El demandante adujo que la medida adoptada por el despacho accionado se constituyó en una vía de hecho y que además le generó al municipio un atraso en el pago de la nómina de sus empleados. La Sala concluye que se intentó revivir una controversia que fue resuelta en la acción anterior y frente a la cual habría operado el fenómeno de la cosa juzgada constitucional; además consideró que, aún cuando el accionante alegó que en la providencia impugnada se incurrió en una vía de hecho, no impugnó esta decisión, sino que propuso una tutela contra tutela, lo cual, conforme a la jurisprudencia constitucional sobre la materia, también resulta del todo IMPROCEDENTE.",
+  "titulaciones": [
+    {
+      "tema": "COSA JUZGADA CONSTITUCIONAL EN TUTELA",
+      "subtema": "No selección para revisión tiene como efecto principal la ejecutoria formal y material de la sentencia"
+    },
+    {
+      "tema": "DECISIONES DE TUTELA DE INSTANCIA",
+      "subtema": "Impugnación por la parte inconforme con el fallo"
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA SENTENCIA DE TUTELA",
+      "subtema": "Improcedencia"
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA SENTENCIA DE TUTELA",
+      "subtema": "Improcedencia por haber operado el fenómeno de la cosa juzgada constitucional"
+    },
+    {
+      "tema": "EXPEDIENTE DE TUTELA",
+      "subtema": "Consecuencias procesales derivadas de la exclusión de revisión por parte de las salas de revisión"
+    },
+    {
+      "tema": "REVISION DE LA CORTE CONSTITUCIONAL",
+      "subtema": "Incluye sentencias proferidas por jueces de tutela que se presentan como presuntas vías de hecho"
+    }
+  ]
+}

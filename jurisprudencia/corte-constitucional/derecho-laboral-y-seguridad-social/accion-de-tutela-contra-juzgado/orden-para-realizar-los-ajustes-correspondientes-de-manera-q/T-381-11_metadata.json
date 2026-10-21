@@ -1,0 +1,56 @@
+{
+  "radicado": "T-381-11",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2011,
+  "fecha_creacion": "2011-05-13",
+  "magistrado_ponente": "Nilson Pinilla Pinilla",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "ACCION DE TUTELA CONTRA JUZGADO",
+  "subtema": "Orden para realizar los ajustes correspondientes, de manera que la suma que dispuso embargar sobre la pensión del demandante, no sobrepase el 50% de su valor neto",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 79 de 1988",
+    "Decreto 994 de 2003",
+    "Ley 100 de 1993"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2011/T-381-11.htm",
+  "fecha_descarga": "2026-10-21T16:48:28.474423+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2011-05-13",
+  "fecha_publicacion": null,
+  "numero": "T-381/11",
+  "tipo_cc": "T",
+  "prov_id": "2273",
+  "tema_relatoria": null,
+  "resumen": "Mínimo vital. El accionante es una persona de la tercera edad que percibe una pensión equivalente a un salario mínimo legal mensual vigente, el cual fue embargado en un porcentaje equivalente al 50%, dentro de un proceso ejecutivo singular de mínima cuantía instaurado por la Cooperativa de Crédito y Servicio Comunidad. El porcentaje del embargo se aplicó sobre el monto total del salario, sin descontar el valor del aporte de salud del pensionado, lo que condujo a que éste recibiera una cifra inferior al 50% de un SMLMV. El accionante alega que la pensión es la única fuente de ingreso que tiene para subsistir tanto él, como su hija de 22 años de edad, quien sufre retardo mental moderado. La Sala reitera, que debido a la protección especial que ampara a los pensionados como personas de edad avanzada, titulares de especiales derechos de rango constitucional, entre ellos el mínimo vital propio y de sus familias, no es viable, ni siguiera con autorización expresa del mismo pensionado, aplicar descuentos más allá de los permitidos por la Ley. En el caso particular, como al actor se le ha reconocido una pensión equivalente a un salario mínimo, se deben efectuar primero los descuentos de Ley y posteriormente, al valor neto, aplicar la deducción máxima y excepcional hasta el 50%, para el cumplimiento de obligaciones por alimentos o con una cooperativa autorizada. CONCEDIDA",
+  "titulaciones": [
+    {
+      "tema": "ACCION DE TUTELA CONTRA JUZGADO",
+      "subtema": "Orden para realizar los ajustes correspondientes, de manera que la suma que dispuso embargar sobre la pensión del demandante, no sobrepase el 50% de su valor neto"
+    },
+    {
+      "tema": "DERECHO AL MINIMO VITAL DEL PENSIONADO",
+      "subtema": "Vulneración por descuento superior al 50% de las mesadas"
+    },
+    {
+      "tema": "INEMBARGABILIDAD DE LA PENSION DE VEJEZ Y DESCUENTOS MAXIMOS PERMITIDOS A LAS MESADAS PENSIONALES",
+      "subtema": null
+    },
+    {
+      "tema": "DERECHO AL MINIMO VITAL DEL PENSIONADO",
+      "subtema": "Caso en que se efectuó un descuento a la pensión, mayor al autorizado por la ley"
+    },
+    {
+      "tema": "MESADA PENSIONAL",
+      "subtema": "Límite máximo de descuentos"
+    },
+    {
+      "tema": "PENSIONADO",
+      "subtema": "Marco legal relacionado con los montos máximos de descuento a sus mesadas"
+    }
+  ]
+}

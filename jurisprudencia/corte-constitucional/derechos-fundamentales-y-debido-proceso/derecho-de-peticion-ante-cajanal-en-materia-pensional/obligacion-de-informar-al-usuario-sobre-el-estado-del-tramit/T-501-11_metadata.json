@@ -1,0 +1,41 @@
+{
+  "radicado": "T-501-11",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2011,
+  "fecha_creacion": "2011-06-29",
+  "magistrado_ponente": "Gabriel Eduardo Mendoza Martelo",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "DERECHO DE PETICION ANTE CAJANAL EN MATERIA PENSIONAL",
+  "subtema": "Obligación de informar al usuario sobre el estado del trámite de su solicitud y el tiempo estimado para una solución definitiva",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2011/T-501-11.htm",
+  "fecha_descarga": "2026-10-21T16:44:20.631208+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2011-06-29",
+  "fecha_publicacion": null,
+  "numero": "T-501/11",
+  "tipo_cc": "T",
+  "prov_id": "2445",
+  "tema_relatoria": null,
+  "resumen": "Petición. El accionante presentó la acción de tutela como mecanismo transitorio contra CAJANAL EN LIQUIDACION, con el objeto de que se proteja su derecho fundamental de petición, el cual considera violado debido a que presentó solicitud de reconocimiento de su pensión de vejez en mayo de 2009 y la misma no ha sido resuelta. En sede de revisión el Gerente Liquidador de CAJANAL informó a la Sala de Revisión que la solicitud presentada por el actor fue remitida por competencia al Centro de Atención al Pensionado del ISS, de lo cual se dio aviso al peticionario. Pese a que se comprobó la ocurrencia de un HECHO SUPERADO POR CARENCIA ACTUAL DE OBJETO, la Sala hace un análisis y pronunciamiento sobre los elementos de caso estudiado y decide revocar la sentencia que negó el amparo deprecado. Así mismo, advierte a CAJANAL que, en la medida que ha superado la primera fase del plan de acción propuesto para resolver el problema de represamiento de la entidad y que presumiblemente ello implica que todas las solicitudes están inventariadas y sistematizadas, debe cumplir puntualmente con su obligación de informar al usuario sobre el estado del trámite de su solicitud. Ordena a la accionada, adelantar una labora de coordinación interinstitucional con el ISS; orientada a establecer de manera cierta, quién tiene la competencia para resolver la solicitud presentada por el actor y, que si ha ello hay lugar, proceder a dar una respuesta definitiva.",
+  "titulaciones": [
+    {
+      "tema": "DERECHO DE PETICION ANTE CAJANAL EN MATERIA PENSIONAL",
+      "subtema": "Obligación de informar al usuario sobre el estado del trámite de su solicitud y el tiempo estimado para una solución definitiva"
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA CAJANAL",
+      "subtema": "Orden a Cajanal en coordinación con el ISS para determinar quien tiene la competencia para resolver la solicitud sobre la pensión y darle una respuesta definitiva"
+    },
+    {
+      "tema": "DERECHO DE PETICION ANTE CAJANAL EN MATERIA PENSIONAL",
+      "subtema": "Debe contestar las solicitudes indicándole al usuario un tiempo estimado de respuesta"
+    }
+  ]
+}

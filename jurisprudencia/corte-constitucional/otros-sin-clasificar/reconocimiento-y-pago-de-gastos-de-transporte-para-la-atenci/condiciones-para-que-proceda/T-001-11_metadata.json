@@ -1,0 +1,44 @@
+{
+  "radicado": "T-001-11",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2011,
+  "fecha_creacion": "2011-01-11",
+  "magistrado_ponente": "Mauricio González Cuervo",
+  "area": "Otros - Sin clasificar",
+  "tema": "RECONOCIMIENTO Y PAGO DE GASTOS DE TRANSPORTE PARA LA ATENCION DEL PACIENTE",
+  "subtema": "Condiciones para que proceda",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 1795 de 2000",
+    "Decreto 2591 de 1991",
+    "Ley 100 de 1993",
+    "Ley 352 de 1997"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2011/T-001-11.htm",
+  "fecha_descarga": "2026-10-21T16:51:24.710913+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2011-01-11",
+  "fecha_publicacion": null,
+  "numero": "T-001/11",
+  "tipo_cc": "T",
+  "prov_id": "1815",
+  "tema_relatoria": null,
+  "resumen": "Salud, vida. La accionante recibe la atención médica en el Hospital Naval de Cartagena y reclama de dicha institución el pago de tiquetes aéreos y de los gastos de transporte y manutención, para que ella y su acompañante viajen a la Capital de la República con el objeto de que le practiquen unos exámenes médicos y una intervención quirúrgica. La entidad accionada denegó las pretensiones incoadas, pero ordenó una evaluación para determinar la pertinencia de realizar la atención médica requerida a través de su red de servicios en la ciudad de Cartagena y disponer, de llegar a necesitar un eventual servicio en el Hospital Militar Central, el traslado de la paciente mediante la prestación del servicio aéreo de vuelos militares de apoyo. La Sala considera que las entidades accionadas, al abstenerse a suministrar los tiquetes aéreos, gastos de transporte y manutención solicitados, no desconocieron ningún derecho fundamental de la actora, máxime cuando ésta no reunió las condiciones para considerar la procedencia de su traslado, en virtud de tener acceso a los servicios de salud en la ciudad origen y haber rehusado la utilización de los vuelos de apoyo de la aviación naval, dispuestos para su viaje a la ciudad de Bogotá. NEGADA",
+  "titulaciones": [
+    {
+      "tema": "RECONOCIMIENTO Y PAGO DE GASTOS DE TRANSPORTE PARA LA ATENCION DEL PACIENTE",
+      "subtema": "Condiciones para que proceda"
+    },
+    {
+      "tema": "RECONOCIMIENTO Y PAGO DE GASTOS DE TRANSPORTE PARA LA ATENCION DEL PACIENTE",
+      "subtema": "Caso en que la demandante se rehúsa a utilizar los servicios de salud en su ciudad de origen"
+    },
+    {
+      "tema": "RÉGIMEN ESPECIAL DE SALUD DE LAS FUERZAS MILITARES Y POLICIA NACIONAL",
+      "subtema": "Condiciones para el traslado de pacientes a tratamientos fuera de la ciudad de residencia"
+    }
+  ]
+}

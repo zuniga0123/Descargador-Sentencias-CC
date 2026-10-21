@@ -1,0 +1,47 @@
+{
+  "radicado": "T-800-11",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2011,
+  "fecha_creacion": "2011-10-21",
+  "magistrado_ponente": "María Victoria Calle Correa",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "CONCURSO DE MERITOS",
+  "subtema": "No puede solicitarse en tutela la asignación de un puntaje específico",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 30 de 1992",
+    "Ley 270 de 1996"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2011/T-800-11.htm",
+  "fecha_descarga": "2026-10-21T16:49:39.417067+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2011-10-21",
+  "fecha_publicacion": null,
+  "numero": "T-800/11",
+  "tipo_cc": "T",
+  "prov_id": "2841",
+  "tema_relatoria": null,
+  "resumen": "Debido proceso, igualdad, acceso a un cargo público. En el presente asunto el demandante considera vulnerados sus derechos fundamentales, en tanto la Fiscalía General de la Nación y la Comisión Nacional de Administración de Carrera Judicial de esta entidad, dentro de un concurso para fiscal delegado ante los Tribunales del Distrito en el cual participó, le asignaron a su experiencia laboral un puntaje inferior al que le correspondía. Con la acción de tutela pretende que se valore adecuadamente su experiencia laboral y que en el evento de determinar que le correspondía un puntaje mayor, con el cual alcance el umbral de cargos vacantes, se proceda a realizar su nombramiento inmediato. Para la Sala, el actor no probó la experiencia alegada y por consiguiente no tenía el derecho a obtener puntos por la misma. Al no encontrarse demostrada la violación de derecho fundamental alguno, se decide NEGAR la tutela impetrada..",
+  "titulaciones": [
+    {
+      "tema": "CONCURSO DE MERITOS",
+      "subtema": "No puede solicitarse en tutela la asignación de un puntaje específico"
+    },
+    {
+      "tema": "CONCURSO DE MERITOS",
+      "subtema": "Asignación de puntos por experiencia a quienes acrediten tenerla"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Procedencia para controvertir actos de asignación de puntajes en concurso de mérito"
+    },
+    {
+      "tema": "DEBIDO PROCESO EN CONCURSO DE MERITOS",
+      "subtema": "No vulneración por cuanto accionante no acreditó experiencia para obtener puntos en la calificación"
+    }
+  ]
+}

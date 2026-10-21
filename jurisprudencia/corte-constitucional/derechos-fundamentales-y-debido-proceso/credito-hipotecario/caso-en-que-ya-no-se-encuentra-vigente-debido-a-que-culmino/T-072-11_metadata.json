@@ -1,0 +1,55 @@
+{
+  "radicado": "T-072-11",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2011,
+  "fecha_creacion": "2011-02-07",
+  "magistrado_ponente": "Gabriel Eduardo Mendoza Martelo",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "CREDITO HIPOTECARIO",
+  "subtema": "Caso en que ya no se encuentra vigente debido a que culminó el cobro en la jurisdicción ordinaria.",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 546 de 1999",
+    "Decreto 2591 de 1991",
+    "Decreto 2591 de 1992"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2011/T-072-11.htm",
+  "fecha_descarga": "2026-10-21T16:51:01.898841+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2011-02-07",
+  "fecha_publicacion": null,
+  "numero": "T-072/11",
+  "tipo_cc": "T",
+  "prov_id": "1910",
+  "tema_relatoria": null,
+  "resumen": "Información, igualdad, debido proceso, defensa, habeas data. El accionante compró un bien inmueble que tenía a su cargo una garantía hipotecaria protocolizada mediante escritura pública, generada por pagaré que suscribió la vendedora con el Banco AV VILLAS S.A.. En su momento, dicho pagaré se suscribió en unidades UPAC y en iguales condiciones, se convirtió el accionante en deudor hipotecario. Con la declaratoria de inconstitucionalidad del sistema UPAC y entrada en vigencia de la Ley 546 de 1999, el Banco convirtió el crédito en UVR de manera unilateral y sin informar al nuevo deudor, quien se consideró afectado por tal medida, en el sentido de que se le cambió la fórmula de interés, lo que lo llevó a incurrir en moradebido al alto valor de las cuotas mensuales. Por la circunstancia anterior, el Banco inició un proceso ejecutivo hipotecario, el cual culminó con el remate de la vivienda. La Sala declara la improcedencia del amparo en el caso concreto, debido a que no se cumplen con los requisitos de procedibilidad establecidos por los principios de subsidiariedad e inmediatez de la acción de tutela. IMPROCEDENTE.",
+  "titulaciones": [
+    {
+      "tema": "CREDITO HIPOTECARIO",
+      "subtema": "Caso en que ya no se encuentra vigente debido a que culminó el cobro en la jurisdicción ordinaria."
+    },
+    {
+      "tema": "CREDITO HIPOTECARIO",
+      "subtema": "Caso en que el propietario del inmueble no es la misma persona que el deudor del crédito"
+    },
+    {
+      "tema": "PRINCIPIO DE INMEDIATEZ",
+      "subtema": "Caso en que no se cumple por cuanto se acudió a la acción de tutela 9 años después de haber ocurrido la presunta afectación de sus derechos fundamentales"
+    },
+    {
+      "tema": "PRINCIPIO DE INMEDIATEZ",
+      "subtema": "En procesos de reliquidación y redenominación de créditos en moneda legal a UVR"
+    },
+    {
+      "tema": "CREDITO HIPOTECARIO",
+      "subtema": "Caso en que obligación fue pactada en UPAC"
+    },
+    {
+      "tema": "PRINCIPIO DE SUBSIDIARIEDAD COMO REQUISITO DE PROCEDIBILIDAD DE LA ACCION DE TUTELA",
+      "subtema": "Reiteración de jurisprudencia"
+    }
+  ]
+}
