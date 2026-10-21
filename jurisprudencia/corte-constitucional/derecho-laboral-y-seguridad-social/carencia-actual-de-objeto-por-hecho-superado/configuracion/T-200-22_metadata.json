@@ -1,0 +1,43 @@
+{
+  "radicado": "T-200-22",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2022,
+  "fecha_creacion": "2022-06-06",
+  "magistrado_ponente": "José Fernando Reyes Cuartas",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "CARENCIA ACTUAL DE OBJETO POR HECHO SUPERADO",
+  "subtema": "Configuración",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Decreto 1887 de 1994",
+    "Decreto Ley 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2022/T-200-22.htm",
+  "fecha_descarga": "2026-10-21T08:02:38.681698+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2022-06-06",
+  "fecha_publicacion": "2022-07-27",
+  "numero": "T-200/22",
+  "tipo_cc": "T",
+  "prov_id": "38072",
+  "tema_relatoria": "CARENCIA ACTUAL DE OBJETO POR HECHO SUPERADO-SE RECONOCIÓ PENSIÓN DE VEJEZ.",
+  "resumen": "Se aduce que Colpensiones vulneró derechos fundamentales de la accionante, al negarle el reconocimiento y pago de su pensión de vejez, alegando la falta del número de semanas cotizadas requeridas para acceder a dicha prestación, en la medida que sólo contaba con 1190 semanas aportadas al Sistema. En el marco del proceso administrativo se evidenció que un empleador no había realizado el pago de los aportes de la accionante por un período superior a seis años y que éste alegó que no lo había hecho por falta de capacidad de la empresa y que cuando intentó pagar, la liquidación de Colpensiones era exageradamente alta. En sede de revisión la Sala constató que, luego de que se pagaran los aportes adeudados, a la actora se le reconoció la pensión pretendida y, por ello, declaró la carencia actual de objeto por configurarse un HECHO SUPERADO.",
+  "titulaciones": [
+    {
+      "tema": "CARENCIA ACTUAL DE OBJETO POR HECHO SUPERADO",
+      "subtema": "Configuración"
+    },
+    {
+      "tema": "CARENCIA ACTUAL DE OBJETO POR HECHO SUPERADO",
+      "subtema": "Se reconoció pensión de vejez"
+    },
+    {
+      "tema": "CARENCIA ACTUAL DE OBJETO",
+      "subtema": "Fenómeno que se configura en los siguientes eventos: hecho superado, daño consumado o situación sobreviniente"
+    }
+  ]
+}

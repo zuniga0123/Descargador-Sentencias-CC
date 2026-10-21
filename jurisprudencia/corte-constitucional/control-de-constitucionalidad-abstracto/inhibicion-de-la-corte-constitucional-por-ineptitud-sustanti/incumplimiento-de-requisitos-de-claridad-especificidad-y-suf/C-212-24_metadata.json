@@ -1,0 +1,50 @@
+{
+  "radicado": "C-212-24",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2024,
+  "fecha_creacion": "2024-06-06",
+  "magistrado_ponente": "Cristina Pardo Schlesinger",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "INHIBICION DE LA CORTE CONSTITUCIONAL POR INEPTITUD SUSTANTIVA DE LA DEMANDA",
+  "subtema": "Incumplimiento de requisitos de claridad, especificidad y suficiencia en los cargos",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 789 de 2002",
+    "Decreto 2067 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2024/C-212-24.htm",
+  "fecha_descarga": "2026-10-21T01:50:56.768267+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2024-06-06",
+  "fecha_publicacion": "2024-06-28",
+  "numero": "C-212/24",
+  "tipo_cc": "C",
+  "prov_id": "46597",
+  "tema_relatoria": "FALLO INHIBITORIO POR INEPTITUD SUSTANTIVA DE DEMANDA DE INCONSTITUCIONALIDAD CONTRA LA INTERPRETACIÓN QUE HA HECHO LA SALA DE CASACIÓN LABORAL DE LA CORTE SUPREMA DE JUSTICIA DEL ARTÍCULO 65 DEL CÓDIGO SUSTANTIVO DEL TRABAJO.",
+  "resumen": "Demanda de inconstitucionalidad contra el artículo 65 (parcial) del Código Sustantivo del Trabajo modificado por el artículo 29 de la Ley 789 de 2002. Según el actor, la interpretación que hizo la Sala de Casación Laboral de la Corte Suprema de Justicia de la precitada norma es incompatible con los artículos 53, 58 y 243 de la Constitución. Ello, por cuanto las consecuencias jurídicas de la interpretación no se coligen del texto normativo y es deber de todo operador judicial elegir la interpretación más favorable al trabajador. El demandante adujo que dicha Corporación reproduce la exigencia de contenido declarado inexequible mediante la sentencia C-781/03 y desconoce abiertamente los derechos adquiridos de un día de salario por día de retardo del artículo 65 del CST, establecida en la sentencia de constitucionalidad. La Sala Plena de la Corporación concluyó que no era posible emitir un pronunciamiento de fondo sobre la problemática jurídica planteada en esta oportunidad, por cuanto la demanda no cumplió con los requisitos de claridad, especificidad y suficiencia dispuestos por la jurisprudencia para que proceda el estudio contra una interpretación proferida por una autoridad judicial. Con base en lo anterior se declaró INHIBIDA para emitir pronunciamiento de fondo.",
+  "titulaciones": [
+    {
+      "tema": "INHIBICION DE LA CORTE CONSTITUCIONAL POR INEPTITUD SUSTANTIVA DE LA DEMANDA",
+      "subtema": "Incumplimiento de requisitos de claridad, especificidad y suficiencia en los cargos"
+    },
+    {
+      "tema": "INHIBICION DE LA CORTE EN DEMANDA DE INCONSTITUCIONALIDAD DE INTERPRETACION JUDICIAL",
+      "subtema": null
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD CONTRA INTERPRETACIONES JUDICIALES Y ADMINISTRATIVAS",
+      "subtema": "Requisitos"
+    },
+    {
+      "tema": "CONTROL CONSTITUCIONAL DE INTERPRETACIONES JUDICIALES",
+      "subtema": "Jurisprudencia constitucional"
+    },
+    {
+      "tema": "DERECHO VIVIENTE EN CONTROL DE CONSTITUCIONALIDAD",
+      "subtema": "Alcance"
+    }
+  ]
+}

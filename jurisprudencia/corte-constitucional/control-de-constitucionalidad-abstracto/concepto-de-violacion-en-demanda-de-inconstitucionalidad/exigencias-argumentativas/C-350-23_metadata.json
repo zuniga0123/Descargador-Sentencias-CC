@@ -1,0 +1,48 @@
+{
+  "radicado": "C-350-23",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2023,
+  "fecha_creacion": "2023-09-07",
+  "magistrado_ponente": "Jorge Enrique Ibáñez Najar",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "CONCEPTO DE VIOLACION EN DEMANDA DE INCONSTITUCIONALIDAD",
+  "subtema": "Exigencias argumentativas",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 1862 de 2017",
+    "Decreto 2067 de 1991",
+    "Ley 2094 de 2021",
+    "Ley 2196 de 2022"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2023/C-350-23.htm",
+  "fecha_descarga": "2026-10-21T04:31:46.968503+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2023-09-07",
+  "fecha_publicacion": "2023-12-11",
+  "numero": "C-350/23",
+  "tipo_cc": "C",
+  "prov_id": "44987",
+  "tema_relatoria": "CÓDIGO DISCIPLINARIO MILITAR. JUEZ NATURAL, FACULTAD DISCIPLINARIA. FUNCIONARIO COMPETENTE. FACULTADES.",
+  "resumen": "Demanda de inconstitucionalidad en contra de las normas enunciadas en las expresiones “deberá ser investigado y juzgado”, “la facultad para investigar y sancionar que tienen los competentes” y “El competente con atribuciones disciplinarias podrá designar como funcionarios de instrucción”, contenidas en los artículos 45, 91 y 118 de la Ley 1862 de 2017, por la cual se establecen las normas de conducta del Militar colombiano y se expide el Código Disciplinario Militar. El actor adujo que las normas cuestionadas, en la medida en que concentran en un solo funcionario las actividades de instrucción y juzgamiento de las faltas disciplinarias, vulneran los artículos 13 y 29 de la Constitución. Esto, porque establecen una diferencia de trato entre iguales que no está justificada, debido a que los integrantes de las Fuerzas Militares serían los únicos servidores públicos a quienes no se les materializaría el derecho a ser investigados y juzgados en materia disciplinaria por funcionario diferente, independiente, imparcial y autónomo. Tras analizar los mínimos argumentativos de certeza, especificidad y suficiencia estableció la Corte que de la norma demandada no se infiere el contenido que se considera incompatible con la Carta. Además, que no se brindaron los elementos mínimos necesarios para adelantar el juicio de inconstitucionalidad. La Sala Plena concluyó que la demanda no tiene aptitud sustancial y, por ello, se declaró INHIBIDA para emitir pronunciamiento de fondo.",
+  "titulaciones": [
+    {
+      "tema": "CONCEPTO DE VIOLACION EN DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "Exigencias argumentativas"
+    },
+    {
+      "tema": "ACCION PUBLICA DE INCONSTITUCIONALIDAD",
+      "subtema": "Certeza del cargo"
+    },
+    {
+      "tema": "INHIBICION DE LA CORTE CONSTITUCIONAL POR INEPTITUD SUSTANTIVA DE LA DEMANDA",
+      "subtema": "Incumplimiento de requisitos de certeza, especificidad y suficiencia en los cargos"
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD CONTRA CÓDIGO DISCIPLINARIO MILITAR",
+      "subtema": "Ineptitud sustantiva de la demanda"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "radicado": "C-403-23",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2023,
+  "fecha_creacion": "2023-10-11",
+  "magistrado_ponente": "Natalia Ángel Cabo",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "PRINCIPIO PRO ACTIONE EN DEMANDA DE INCONSTITUCIONALIDAD",
+  "subtema": "Cumplimiento de requisitos argumentativos mínimos",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 160 de 1994",
+    "Decreto Ley 2067 de 1991",
+    "Decreto Ley 902 de 2017",
+    "Decreto Ley 2363 de 2015",
+    "Ley 2 de 1959",
+    "Decreto 2275 de 1988",
+    "Decreto 2664 de 1994",
+    "Ley 1728 de 2014",
+    "Decreto 2067 de 1991",
+    "Ley 1900 de 2018",
+    "Ley 617 de 2002",
+    "Ley 923 de 2004"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2023/C-403-23.htm",
+  "fecha_descarga": "2026-10-21T04:28:18.446323+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2023-10-11",
+  "fecha_publicacion": "2024-02-15",
+  "numero": "C-403/23",
+  "tipo_cc": "C",
+  "prov_id": "45481",
+  "tema_relatoria": "INHIBICIÓN POR INEPTITUD SUSTANTIVA DE LA DEMANDA FRENTE A CARGO POR OMISIÓN LEGISLATIVA EN LA ASIGNACIÓN DE SUBSIDIO PARA LA ADQUISICIÓN DE TIERRAS PARA CAMPESINOS.",
+  "resumen": "Demanda de inconstitucionalidad contra el artículo 38 (parcial) de la Ley 160 de 1994, por la cual se crea el Sistema Nacional de Reforma Agraria y Desarrollo Rural Campesino, se establece un subsidio para la adquisición de tierras, se reforma el Instituto Colombiano de la Reforma Agraria y se dictan otras disposiciones Los demandantes consideran que en la expedición de la norma cuestionada se incurrió en una omisión legislativa relativa que vulnera los artículos 13, 79 y 334 de la Constitución. Lo anterior, porque crea un trato desigual entre los campesinos que se dedican a la explotación agrícola y aquellos que se dedican a las actividades de conservación. En su criterio, no incluye estas últimas actividades para el cómputo del reconocimiento de beneficios económicos en la adjudicación de tierras. Concluyó la Corte que, respecto del único cargo formulado y admitido, no se cumplieron con los requisitos de claridad, certeza y pertinencia ya que el argumento no fue comprensible, se basó en una lectura subjetiva de la noción y definición del concepto de Unidad Agrícola Familiar y no señaló un mandato constitucional específico que hubiese sido omitido por el Congreso. Con base en lo anterior, la Sala Plena de la Corporación se INHIBIÓ para emitir pronunciamiento de fondo.",
+  "titulaciones": [
+    {
+      "tema": "PRINCIPIO PRO ACTIONE EN DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "Cumplimiento de requisitos argumentativos mínimos"
+    },
+    {
+      "tema": "INHIBICION DE LA CORTE CONSTITUCIONAL POR INEPTITUD SUSTANTIVA DE LA DEMANDA",
+      "subtema": "Incumplimiento de requisitos de claridad, certeza, especificidad y pertinencia en los cargos"
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD POR OMISION LEGISLATIVA RELATIVA",
+      "subtema": "Impone al demandante una mayor carga argumentativa"
+    },
+    {
+      "tema": "CONCEPTO DE VIOLACION EN DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "Razones claras, ciertas, específicas, pertinentes y suficientes"
+    }
+  ]
+}

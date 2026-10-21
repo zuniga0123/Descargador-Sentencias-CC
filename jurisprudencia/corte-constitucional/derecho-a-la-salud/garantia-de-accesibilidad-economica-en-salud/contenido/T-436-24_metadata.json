@@ -1,0 +1,58 @@
+{
+  "radicado": "T-436-24",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2024,
+  "fecha_creacion": "2024-10-16",
+  "magistrado_ponente": "Cristina Pardo Schlesinger",
+  "area": "Derecho a la Salud",
+  "tema": "GARANTIA DE ACCESIBILIDAD ECONOMICA EN SALUD",
+  "subtema": "Contenido",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 142 de 1994",
+    "Decreto Ley 2591 de 1991",
+    "Ley 100 de 1993",
+    "Ley 1751 de 2015",
+    "Ley 1996 de 2019"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2024/T-436-24.htm",
+  "fecha_descarga": "2026-10-21T01:26:27.723507+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2024-10-16",
+  "fecha_publicacion": "2024-10-24",
+  "numero": "T-436/24",
+  "tipo_cc": "T",
+  "prov_id": "47401",
+  "tema_relatoria": "ACCESIBILIDAD ECONÓMICA DEL DERECHO A LA SALUD DE QUIENES PADECEN ENFERMEDADES HUÉRFANAS-SUMINISTRO DE CONCENTRADORES DE OXÍGENO (cubrimiento de costos del consumo significativo de energía eléctrica domiciliaria).",
+  "resumen": "En dos acciones de tutela formuladas de manera independiente se tiene como hecho común que los peticionarios requieren el suministro de oxígeno medicinal domiciliario que se otorga a través de un dispositivo denominado concentrador eléctrico de oxígeno. Los actores indicaron que el uso permanente del precitado dispositivo les ha incrementado significativamente la tarifa del servicio de energía eléctrica y que, por ello, se han visto afectados al no contar con los recursos económicos para sufragar el pago de las facturas. Con la acción de tutela se pretende que la EPS accionada asuma el costo de energía derivado del consumo del concentrador mencionado. Se analizó temática relacionada con la accesibilidad económica como componente del derecho fundamental a la salud y la línea jurisprudencial sobre el suministro de concentradores de oxígeno y el consumo significativo de energía eléctrica domiciliaria. En ambos casos se CONCEDIÓ el amparo invocado.",
+  "titulaciones": [
+    {
+      "tema": "GARANTIA DE ACCESIBILIDAD ECONOMICA EN SALUD",
+      "subtema": "Contenido"
+    },
+    {
+      "tema": "GARANTIA DE ACCESIBILIDAD ECONOMICA EN SALUD",
+      "subtema": "Línea jurisprudencial sobre el suministro de oxígeno medicinal domiciliario"
+    },
+    {
+      "tema": "FUNCION JURISDICCIONAL POR SUPERINTENDENCIA NACIONAL DE SALUD",
+      "subtema": "Idoneidad del mecanismo debe analizarse en cada caso concreto por el juez de tutela"
+    },
+    {
+      "tema": "GARANTIA DE ACCESIBILIDAD ECONOMICA EN SALUD",
+      "subtema": "Reglas para que la EPS asuma el costo del consumo de energía eléctrica del dispositivo concentrador de oxígeno"
+    },
+    {
+      "tema": "GARANTIA DE ACCESIBILIDAD ECONOMICA EN SALUD Y PRINCIPIO DE GASTOS SOPORTABLES",
+      "subtema": "Condiciones económicas de los usuarios para evitar que a los más pobres del sistema de salud, les sean impuestas cargas económicas desproporcionadas"
+    },
+    {
+      "tema": "PLAN DE BENEFICIOS EN SALUD",
+      "subtema": "Todo servicio o medicamento que no esté expresamente excluido, se entiende incluido"
+    }
+  ]
+}

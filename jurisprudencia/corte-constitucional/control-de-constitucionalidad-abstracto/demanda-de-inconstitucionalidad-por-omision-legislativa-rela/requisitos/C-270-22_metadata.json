@@ -1,0 +1,54 @@
+{
+  "radicado": "C-270-22",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2022,
+  "fecha_creacion": "2022-07-28",
+  "magistrado_ponente": "Alejandro Linares Cantillo",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "DEMANDA DE INCONSTITUCIONALIDAD POR OMISION LEGISLATIVA RELATIVA",
+  "subtema": "Requisitos",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 1437 de 2011",
+    "Decreto 2067 de 1991",
+    "Decreto Ley 2067 de 1991",
+    "Ley 1563 de 2012",
+    "Ley 153 de 1887",
+    "Ley 446 de 1998",
+    "Ley 1438 de 2011",
+    "Ley 56 de 1981",
+    "Ley 4 de 1913",
+    "Ley 1819 de 2016"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2022/C-270-22.htm",
+  "fecha_descarga": "2026-10-21T08:13:55.266837+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2022-07-28",
+  "fecha_publicacion": "2023-01-11",
+  "numero": "C-270/22",
+  "tipo_cc": "C",
+  "prov_id": "39433",
+  "tema_relatoria": "EXCEPCIÓN DE INCONSTITUCIONALIDAD O ILEGALIDAD. INAPLICACIÓN POR EL JUEZ DE ACTOS ADMINISTRATIVOS QUE VIOLEN LA CONSTITUCIÓN O LA LEY.",
+  "resumen": "Demanda de inconstitucionalidad contra el artículo 148 (parcial) de la Ley 1437 de 2011, por la cual se expide el Código de Procedimiento Administrativo y de lo Contencioso Administrativo. El demandante alegó que la expresión “el juez” contenida en el artículo precitado, resulta contraria a lo dispuesto en los artículos 13, 29,116 y 229 de la Carta Política. De manera específica sostuvo que la norma contiene una omisión legislativa relativa, desconoce la naturaleza jurisdiccional del arbitraje y vulnera el derecho de acceso a la administración de justicia. Por incumplir los cargos propuestos con los requisitos de claridad, certeza, especificidad, pertinencia y suficiencia, la Sala Plena de la Corporación se INHIBIÓ de emitir un pronunciamiento de fondo.",
+  "titulaciones": [
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD POR OMISION LEGISLATIVA RELATIVA",
+      "subtema": "Requisitos"
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "Cumplimiento de requisitos"
+    },
+    {
+      "tema": "INHIBICION DE LA CORTE CONSTITUCIONAL POR INEPTITUD SUSTANTIVA DE LA DEMANDA",
+      "subtema": "Incumplimiento de requisitos de certeza, especificidad, pertinencia y suficiencia en los cargos"
+    },
+    {
+      "tema": "INHIBICION DE LA CORTE CONSTITUCIONAL EN DEMANDA POR OMISION LEGISLATIVA",
+      "subtema": "Ineptitud sustantiva por incumplimiento de carga argumentativa"
+    }
+  ]
+}

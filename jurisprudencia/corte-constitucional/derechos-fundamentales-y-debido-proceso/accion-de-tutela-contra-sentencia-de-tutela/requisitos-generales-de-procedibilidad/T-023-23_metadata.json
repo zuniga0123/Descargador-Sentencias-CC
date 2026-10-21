@@ -1,0 +1,55 @@
+{
+  "radicado": "T-023-23",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2023,
+  "fecha_creacion": "2023-02-13",
+  "magistrado_ponente": "Paola Andrea Meneses Mosquera",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCION DE TUTELA CONTRA SENTENCIA DE TUTELA",
+  "subtema": "Requisitos generales de procedibilidad",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Decreto 2591 de 1991",
+    "Decreto 5291 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2023/T-023-23.htm",
+  "fecha_descarga": "2026-10-21T04:25:20.121405+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2023-02-13",
+  "fecha_publicacion": "2023-03-02",
+  "numero": "T-023/23",
+  "tipo_cc": "T",
+  "prov_id": "39831",
+  "tema_relatoria": "ACCIÓN DE TUTELA CONTRA FALLO DE TUTELA POR CUESTIÓN FRAUDULENTA-VULNERACIÓN DEL DEBIDO PROCESO AL ORDENAR PAGO DE INDEMNIZACIÓN DE CONTRATO DE SEGURO, ANTE EVIDENCIA DE UN CONCILIO FRAUDULENTO.",
+  "resumen": "Como antecedentes de este asunto se tiene que quince ciudadanos presentaron acciones de tutela en contra de Seguros Bolívar S.A., porque consideraron que esta aseguradora vulneró sus derechos fundamentales al negarse a reconocer el pago de la indemnización a la que tenían derecho, en virtud del seguro de vida de grupo que les amparaba, entre otros, el riesgo por incapacidad total y permanente. De estos casos, se concedió el amparo a 12 peticionarios. Seguros Bolívar S.A. presentó varias acciones de tutela en contra de los fallos que le ordenaron pagar las indemnizaciones previstas en las pólizas, así como los intereses moratorios correspondientes. Adujo la existencia de varios indicios que demostraban que los fallos eran producto de una situación de fraude, por lo que solicitó declarar la existencia de cosa juzgada fraudulenta, revocar las decisiones cuestionadas y ordenar el reintegro de las indemnizaciones que fueron pagadas a los asegurados. La Corte advirtió que las providencias cuestionadas podían clasificarse en tres grupos: i) los fallos de tutela que fueron seleccionados para revisión (5); ii) fallos de tutela que no fueron seleccionados por la Corporación y que hicieron tránsito a cosa juzgada constitucional (7) y; iii) los que no han surtido el trámite de selección porque las autoridades judiciales accionadas no los han remitido a la Corte Constitucional (3). La Corte concluyó que era competente para pronunciarse sobre todos los expedientes a excepción de dos del segundo grupo en los cuales la situación de fraude ya había sido declarada y revertida y dos del tercer grupo n los que no se había surtido el trámite de la impugnación presentada por la aseguradora. Es decir, que el estudio se circunscribió a once expedientes. La Sala de Revisión empleó la metodología que la Corporación ha aplicado para estudiar acciones de tutela en contra de sentencias de tutela en las que se alega la existencia de cosa juzgada fraudulenta. Se recuerda que, según la jurisprudencia constitucional, para que el amparo proceda en estos casos, debe acreditarse el cumplimiento de dos tipos de requisitos: i) los generales de procedibilidad de la acción de tutela contra providencias judiciales y (ii) los específicos de procedencia excepcional en casos de fraude. Constató la Sala que en este caso se presentó el fenómeno de la cosa juzgada fraudulenta en nueve de los once expedientes mencionados. Encontró en ellos varios indicios graves, conducentes y trascendentes que prima facie permitieron. inferir que, entre los tomadores de las pólizas, sus abogados y los jueces de instancia existía un acuerdo fraudulento para emplear el proceso de tutela con fines ilegales y dolosos de enriquecimiento económico en perjuicio de la aseguradora. De acuerdo a las particularidades de cada caso se adoptaron decisiones diferentes, entre ellas, se destaca la declaratoria de improcedencia de la sentencia de tutela cuestionada, la orden a los asegurados de restituir el pago efectuado por Seguros Bolívar S.A. con ocasión de estos fallos y la devolución del expediente al juez de primera instancia, para que tramite la impugnación formulada por la aseguradora.",
+  "titulaciones": [
+    {
+      "tema": "ACCION DE TUTELA CONTRA SENTENCIA DE TUTELA",
+      "subtema": "Requisitos generales de procedibilidad"
+    },
+    {
+      "tema": "COSA JUZGADA FRAUDULENTA",
+      "subtema": "Alcance y naturaleza"
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA SENTENCIA DE TUTELA",
+      "subtema": "Declaración de cosa juzgada fraudulenta"
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA SENTENCIA DE TUTELA",
+      "subtema": "Indicios para la acreditación de la cosa juzgada fraudulenta"
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA SENTENCIA DE TUTELA",
+      "subtema": "Requisitos para la procedencia excepcional"
+    },
+    {
+      "tema": "MODULACION DE EFECTOS EN LAS SENTENCIAS DE TUTELA DE LA CORTE CONSTITUCIONAL",
+      "subtema": "Modulación a posteriori de las órdenes proferidas en fallos de tutela ejecutoriados y no seleccionados para revisión"
+    }
+  ]
+}

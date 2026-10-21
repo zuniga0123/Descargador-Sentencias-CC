@@ -1,0 +1,59 @@
+{
+  "radicado": "C-295-22",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2022,
+  "fecha_creacion": "2022-08-24",
+  "magistrado_ponente": "Diana Fajardo Rivera",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "AUXILIO DE CESANTIA",
+  "subtema": "Alcance",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto Ley 2663 de 1950",
+    "Decreto 2067 de 1991",
+    "Decreto Ley 2067 de 1991",
+    "Ley 10 de 1934",
+    "Ley 65 de 1946",
+    "Decreto 2663 de 1950",
+    "Ley 50 de 1990",
+    "Decreto Ley 1045 de 1978",
+    "Ley 4 de 1992",
+    "Ley 141 de 1961",
+    "Ley 52 de 1975",
+    "Decreto 2351 de 1965",
+    "Ley 1429 de 2010",
+    "Ley 1809 de 2016",
+    "Decreto 1562 de 2019"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2022/C-295-22.htm",
+  "fecha_descarga": "2026-10-21T08:15:49.180344+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2022-08-24",
+  "fecha_publicacion": "2022-10-05",
+  "numero": "C-295/22",
+  "tipo_cc": "C",
+  "prov_id": "38680",
+  "tema_relatoria": "AUXILIO DE CESANTÍA. PÉRDIDA CUANDO TERMINA EL CONTRATO DEL TRABAJO POR DELITO COMETIDO CONTRA EL EMPLEADOR O PARIENTES DENTRO DE CIERTOS GRADOS DE PARENTESCO.",
+  "resumen": "Demanda de inconstitucionalidad contra el artículo 250 (parcial) del Decreto Ley 2663 de 1950 (Código Sustantivo del Trabajo). El demandante sostuvo que el precepto acusado debía ser declarado condicionalmente exequible, bajo el entendido de que la causal también comprende todo acto delictuoso cometido contra los parientes del empleador dentro del segundo grado civil. En su concepto, la norma presenta una omisión legislativa relativa que excluye el parentesco civil, lo que constituye una violación de los artículos 5, 13 y 42 de la Constitución. Al estudiar la aptitud de la demanda la Corte encontró que no cumplía con los requisitos de especificidad y suficiencia que exige un cargo por omisión legislativa relativa. En consecuencia, concluyó que el cargo formulado era inepto y por ello decidió INHIBIRSE de emitir un pronunciamiento de mérito.",
+  "titulaciones": [
+    {
+      "tema": "AUXILIO DE CESANTIA",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "INHIBICION DE LA CORTE CONSTITUCIONAL EN DEMANDA POR OMISION LEGISLATIVA",
+      "subtema": "Ineptitud sustantiva por incumplimiento de requisitos de suficiencia y especificidad"
+    },
+    {
+      "tema": "PÉRDIDA DEL AUXILIO DE CESANTÍA",
+      "subtema": "Interpretación restrictiva"
+    },
+    {
+      "tema": "PÉRDIDA DEL AUXILIO DE CESANTÍA",
+      "subtema": "Figura excepcional"
+    }
+  ]
+}

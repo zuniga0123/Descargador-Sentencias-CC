@@ -1,0 +1,49 @@
+{
+  "radicado": "C-095-24",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2024,
+  "fecha_creacion": "2024-04-03",
+  "magistrado_ponente": "Cristina Pardo Schlesinger",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "COSA JUZGADA",
+  "subtema": "Efectos respecto de decisiones de exequibilidad e inexequibilidad",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 2277 de 2022",
+    "Decreto 2067 de 1991",
+    "Ley 2232 de 2022",
+    "Decreto 2061 de 1991",
+    "Decreto 219 de 2023"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2024/C-095-24.htm",
+  "fecha_descarga": "2026-10-21T01:52:01.982103+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2024-04-03",
+  "fecha_publicacion": "2024-05-07",
+  "numero": "C-095/24",
+  "tipo_cc": "C",
+  "prov_id": "46181",
+  "tema_relatoria": "CONFIGURACIÓN DE COSA JUZGADA ABSOLUTA POR INEXEQUIBILIDAD DE NORMA DEMANDADA. ESTARSE A LO RESUELTO EN SENTENCIA C-506/23.",
+  "resumen": "Demanda de inconstitucionalidad contra los artículos 50, 51, 52 y 53 de la Ley 2277 de 2022, por la cual se adopta una Reforma Tributaria para la igualdad y la justicia social y se dictan otras disposiciones. Uno de los propósitos de la precitada ley fue crear el impuesto a los plásticos de un solo uso utilizados para empacar, embalar o envasar bienes. La demanda fue admitida, únicamente, por el cargo subsidiario formulado contra el artículo 50. Según la demandante, las expresiones productor y/o importador generan confusión e inseguridad respecto del hecho gravable que creó el tributo. Teniendo en cuenta que el cargo analizado en esta oportunidad fue el mismo resuelto por la Sentencia C-506/23, mediante la cual se declaró inexequible la frase “bienes para su comercialización en el territorio colombiano, que estén contenidos en”, contemplada en los numerales 1º y 2º del literal c) del artículo 50 de la Ley 2277 de 2022, la Sala Plena de la Corporación concluyó que se configuró el fenómeno de la cosa juzgada constitucional absoluta y, por ello, dispuso ESTARSE A LO RESUELTO en el precitado fallo.",
+  "titulaciones": [
+    {
+      "tema": "COSA JUZGADA",
+      "subtema": "Efectos respecto de decisiones de exequibilidad e inexequibilidad"
+    },
+    {
+      "tema": "COSA JUZGADA CONSTITUCIONAL ABSOLUTA",
+      "subtema": "Configuración"
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD CONTRA LA LEY 2277 DE 2022",
+      "subtema": null
+    },
+    {
+      "tema": "COSA JUZGADA CONSTITUCIONAL",
+      "subtema": "Tipología"
+    }
+  ]
+}

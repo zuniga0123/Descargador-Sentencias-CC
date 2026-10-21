@@ -1,0 +1,53 @@
+{
+  "radicado": "T-233-26",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2026,
+  "fecha_creacion": "2026-08-04",
+  "magistrado_ponente": "Jorge Enrique Ibáñez Najar",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "LEGITIMACIÓN POR ACTIVA EN TUTELA",
+  "subtema": "Debe estar plenamente acreditada",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto Ley 2591 de 1991",
+    "Ley 1801 de 2016",
+    "Ley 675 de 2001",
+    "Decreto 2591 de 1991",
+    "Ley 1564 de 2012"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2026/T-233-26.htm",
+  "fecha_descarga": "2026-10-20T20:56:13.668946+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2026-08-04",
+  "fecha_publicacion": "2026-08-24",
+  "numero": "T-233/26",
+  "tipo_cc": "T",
+  "prov_id": "61668",
+  "tema_relatoria": "Controversia por retiro de bienes muebles en conjunto residencial sometido al régimen de propiedad horizontal-improcedencia por requisito de subsidiariedad.",
+  "resumen": "El actor adujo que la administradora accionada vulneró sus derechos fundamentales al imponerle restricciones desproporcionadas para acceder al inmueble en el que residía y retirar algunos enseres que se encontraban en él, por encontrarse en mora en el pago de las cuotas de administración. Al revisar el cumplimiento de los presupuestos de procedencia encontró la Sala que no se satisfizo el de subsidiariedad. Ello, por cuanto el actor cuenta con un medio judicial idóneo y eficaz para obtener la protección de las garantías constitucionales que considera trasgredidos, en particular, el proceso verbal sumario para las controversias de propiedad horizontal. Así mismo, porque no se encontró acreditada la existencia de un perjuicio irremediable. Con base en lo anterior, la Corte decidió confirmar las decisiones de instancia que declararon IMPROCEDENTE el amparo invocado.",
+  "titulaciones": [
+    {
+      "tema": "LEGITIMACIÓN POR ACTIVA EN TUTELA",
+      "subtema": "Debe estar plenamente acreditada"
+    },
+    {
+      "tema": "REGIMEN DE PROPIEDAD HORIZONTAL",
+      "subtema": "Existencia mecanismos de defensa para controversias"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Improcedencia por falta de legitimación por activa"
+    },
+    {
+      "tema": "PRINCIPIO DE SUBSIDIARIEDAD DE LA ACCIÓN DE TUTELA",
+      "subtema": "Falta de acreditación de un supuesto de perjuicio irremediable"
+    },
+    {
+      "tema": "PRINCIPIO DE SUBSIDIARIEDAD DE LA ACCIÓN DE TUTELA",
+      "subtema": "Juez debe verificar si ante la existencia de otro medio de defensa judicial, éste es eficaz e idóneo"
+    }
+  ]
+}

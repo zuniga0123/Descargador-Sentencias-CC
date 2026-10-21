@@ -1,0 +1,69 @@
+{
+  "radicado": "T-099-23",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2023,
+  "fecha_creacion": "2023-04-12",
+  "magistrado_ponente": "Juan Carlos Cortés González",
+  "area": "Derecho a la Salud",
+  "tema": "DERECHO A LA SALUD",
+  "subtema": "Vulneración ante la negativa de las EPS de suministrar servicios médicos o medicamentos",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 1751 de 2015",
+    "Ley 1122 de 2007",
+    "Ley 1438 de 2011",
+    "Ley 1753 de 2015"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2023/T-099-23.htm",
+  "fecha_descarga": "2026-10-21T04:21:00.640245+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2023-04-12",
+  "fecha_publicacion": "2023-05-29",
+  "numero": "T-099/23",
+  "tipo_cc": "T",
+  "prov_id": "40387",
+  "tema_relatoria": "DERECHO A LA SALUD EN SU FACETA DE DIAGNÓSTICO DE PERSONAS DE LA TERCERA EDAD, PARA DETERMINAR SI SE REQUIERE SERVICIO DE ENFERMERÍA O CUIDADOR-CARENCIA ACTUAL DE OBJETO POR ACAECIMIENTO DE UNA SITUACIÓN SOBREVINIENTE.",
+  "resumen": "A través de la figura de la agencia oficiosa se presenta la acción de tutela en favor de un ciudadano de 97 años de edad que presenta varias y delicadas patologías. Se aduce que la EPS accionada vulneró el derecho fundamental a la salud del agenciado al omitir el suministro de medicamentos y negar el servicio de cuidador, porque el médico tratante no lo solicitó mediante el aplicativo MIPRES. La Sala constató que en el presente caso se presentó una carencia actual de objeto por HECHO SOBREVINIENTE, en la medida en que la accionada, en cumplimiento de una orden judicial, autorizó y suministró el medicamente requerido, al igual que el servicio de cuidador por 24 horas durante todos los días de la semana, por un término inicial de 6 meses. A pesar de lo anterior, la Corte emitió un pronunciamiento de fondo para corregir el fallo de segunda instancia. Frente al particular se concluyó que el agotamiento del mecanismo jurisdiccional ante la Superintendencia Nacional de Salud no resulta idóneo ni eficaz en el presente caso y que es necesario proteger los derechos del agenciado de manera definitiva y no transitoria como lo dispuso el operador jurídico que resolvió la impugnación. Se previene a la accionada para que, en lo sucesivo, se abstenga de incurrir en las acciones u omisiones que dieron origen a la solicitud de amparo y que cumpla, de manera oportuna, las órdenes médicas dirigidas al agenciado en las condiciones dispuestas por los profesionales tratantes.",
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Vulneración ante la negativa de las EPS de suministrar servicios médicos o medicamentos"
+    },
+    {
+      "tema": "DERECHO A LA SALUD DEL ADULTO MAYOR",
+      "subtema": "Protección reforzada por ser sujeto de especial protección constitucional"
+    },
+    {
+      "tema": "PRINCIPIO DE INTEGRALIDAD DEL DERECHO A LA SALUD",
+      "subtema": "Casos en que procede la orden de tratamiento integral"
+    },
+    {
+      "tema": "CARENCIA ACTUAL DE OBJETO POR SITUACIÓN SOBREVINIENTE",
+      "subtema": "Cumplimiento de orden judicial"
+    },
+    {
+      "tema": "DERECHO A LA SALUD DE PERSONA DE LA TERCERA EDAD",
+      "subtema": "Suministro de todos los insumos, elementos y servicios que se relacionen con su patología en la cantidad y condiciones que determine el médico tratante"
+    },
+    {
+      "tema": "DERECHO A LA SALUD Y SU RELACION CON EL SUMINISTRO OPORTUNO DE MEDICAMENTOS",
+      "subtema": "Obligación de las EPS de hacer entrega de medicamentos sin dilaciones injustificadas"
+    },
+    {
+      "tema": "FUNCION JURISDICCIONAL POR SUPERINTENDENCIA NACIONAL DE SALUD",
+      "subtema": "No desplaza a juez de tutela cuando se trata de proteger el acceso efectivo al derecho fundamental a la salud"
+    },
+    {
+      "tema": "DERECHO A LA SALUD Y A LA VIDA DIGNA",
+      "subtema": "Derecho a gozar de un estado completo de bienestar físico, mental y social dentro del nivel más alto posible"
+    },
+    {
+      "tema": "SERVICIO DE CUIDADOR PERMANENTE",
+      "subtema": "Requisitos para el suministro por parte de EPS"
+    }
+  ]
+}

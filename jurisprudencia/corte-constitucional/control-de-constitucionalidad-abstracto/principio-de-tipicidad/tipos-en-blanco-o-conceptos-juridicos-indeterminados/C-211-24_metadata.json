@@ -1,0 +1,91 @@
+{
+  "radicado": "C-211-24",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2024,
+  "fecha_creacion": "2024-06-06",
+  "magistrado_ponente": "Cristina Pardo Schlesinger",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "PRINCIPIO DE TIPICIDAD",
+  "subtema": "Tipos en blanco o conceptos jurídicos indeterminados",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2067 de 1991",
+    "Ley 1 de 1991",
+    "Ley 1437 de 2011",
+    "Decreto 10 de 2000",
+    "Decreto 2053 de 2003",
+    "Decreto 4165 de 2011",
+    "Decreto 410 de 1971",
+    "Decreto 1 de 1984",
+    "Decreto 2153 de 1992",
+    "Ley 1340 de 2009",
+    "Ley 256 de 1996",
+    "Decreto 1002 de 1993",
+    "Ley 1480 de 2011",
+    "Ley 769 de 2002",
+    "Ley 795 de 2003",
+    "Ley 734 de 2002",
+    "Decreto 1355 de 1970",
+    "Ley 1450 de 2011",
+    "Ley 1753 de 2015"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2024/C-211-24.htm",
+  "fecha_descarga": "2026-10-21T01:49:55.132121+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2024-06-06",
+  "fecha_publicacion": "2024-08-27",
+  "numero": "C-211/24",
+  "tipo_cc": "C",
+  "prov_id": "47034",
+  "tema_relatoria": "RÉGIMEN DE SANCIONES EN EL ESTATUTO DE PUERTOS MARÍTIMOS NO VULNERA PRINCIPIO DE TIPICIDAD.",
+  "resumen": "Demanda de inconstitucionalidad contra el artículo 41 de la Ley 1ª de 1991, por la cual se expide el estatuto de Puertos Marítimos y se dictan otras disposiciones. El demandante alegó que la norma cuestionada vulnera el principio de tipicidad por la presunta falta de correlación existente entre la conducta sancionable y la sanción. Así mismo, por introducir conceptos vagos, ambiguos e indeterminados, relacionados tanto con las conductas sancionables, como con los criterios de graduación de las sanciones. Concluyó la Corte que la norma acusada no desconoció el principio de tipicidad que el accionante asoció con la noción de conceptos jurídicos indeterminados. Por lo anterior, declaró EXEQUIBLE el artículo censurado por el cargo analizado en esta oportunidad.",
+  "titulaciones": [
+    {
+      "tema": "PRINCIPIO DE TIPICIDAD",
+      "subtema": "Tipos en blanco o conceptos jurídicos indeterminados"
+    },
+    {
+      "tema": "PRINCIPIO DE LEGALIDAD EN EL DERECHO ADMINISTRATIVO SANCIONADOR",
+      "subtema": "Aplicación"
+    },
+    {
+      "tema": "PRINCIPIOS DE LEGALIDAD Y TIPICIDAD EN EL DERECHO ADMINISTRATIVO SANCIONADOR",
+      "subtema": "Carácter flexible"
+    },
+    {
+      "tema": "PRINCIPIO DE TIPICIDAD EN DERECHO SANCIONADOR",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "INTERVENCION DEL ESTADO EN LA REGULACION DE LOS SERVICIOS PUBLICOS",
+      "subtema": "Elementos característicos"
+    },
+    {
+      "tema": "POTESTAD SANCIONADORA DE LA ADMINISTRACION",
+      "subtema": "Límites"
+    },
+    {
+      "tema": "LIBERTAD DE CONFIGURACION LEGISLATIVA EN MATERIA DE DETERMINACION DE SANCIONES",
+      "subtema": "Límites"
+    },
+    {
+      "tema": "PRINCIPIO DE TIPICIDAD EN DERECHO ADMINISTRATIVO SANCIONADOR",
+      "subtema": "No se vulnera en régimen sancionatorio incorporado en el Estatuto de Puertos Marítimos"
+    },
+    {
+      "tema": "POTESTAD SANCIONADORA DE LA ADMINISTRACION",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "PRINCIPIO DE TIPICIDAD EN DERECHO ADMINISTRATIVO SANCIONADOR",
+      "subtema": "No se vulnera cuando la falta o infracción está descrita de manera específica y precisa, o sea determinable"
+    },
+    {
+      "tema": "PRINCIPIO DE LEGALIDAD EN MATERIA SANCIONATORIA",
+      "subtema": "Elementos que lo integran"
+    }
+  ]
+}

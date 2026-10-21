@@ -1,0 +1,54 @@
+{
+  "radicado": "T-104-24",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2024,
+  "fecha_creacion": "2024-04-08",
+  "magistrado_ponente": "Jorge Enrique Ibáñez Najar",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "PROCESO PARA CALIFICACION DEL ESTADO DE INVALIDEZ",
+  "subtema": "Regulación",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto Ley 2591 de 1991",
+    "Decreto 2591 de 1991",
+    "Ley 100 de 1993",
+    "Decreto 1352 de 2013",
+    "Ley 1712 de 2014",
+    "Decreto 1507 de 2014"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2024/T-104-24.htm",
+  "fecha_descarga": "2026-10-21T01:41:43.593621+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2024-04-08",
+  "fecha_publicacion": "2024-04-29",
+  "numero": "T-104/24",
+  "tipo_cc": "T",
+  "prov_id": "46156",
+  "tema_relatoria": "ACCIÓN DE TUTELA PARA RECONOCIMIENTO PENSIONAL POR INVALIDEZ- DEBER DE NOTIFICAR EL DICTAMEN DE PÉRDIDA DE CAPACIDAD LABORAL A TODOS LOS INTERESADOS. (Carencia actual de objeto por situación sobreviniente fallecimiento del accionante).",
+  "resumen": "En este caso se atribuye a Colpensiones la vulneración de derechos fundamentales del actor, al negarle el reconocimiento de la pensión de invalidez que reclamó, luego de haber sido calificado con una pérdida de capacidad laboral del 73% por parte de la Junta Regional de Calificación de Invalidez de Bogotá, bajo el argumento de no haber sido notificado el dictamen en debida forma. En sede de revisión la Corte tuvo conocimiento de que el peticionario falleció y, por eso, declaró la carencia actual de objeto por SITUACIÓN SOBREVINIENTE. No obstante, la Sala se valió de su facultad de adoptar decisiones adicionales para reiterar la necesidad del cumplimiento del deber legal de notificar el dictamen de PCL a los terceros interesados, el cual se encuentra radicado en cabeza de las Juntas de Calificación. En el mismo sentido, reiteró la orden proferida en la Sentencia SU.313/20 al Ministerio del Trabajo, relacionada con la revisión de las dificultades que tienen las juntas de calificación de invalidez para llevar a cabo, en debida forma, la notificación de sus decisiones a todos los interesados, especialmente, en todos aquellos eventos en los que la persona haya presentado, en su historia laboral, afiliación a ambos regímenes o a distintos fondos. Lo anterior, para que no se presenten dilaciones injustificadas dentro del trámite administrativo con el que se pretende reclamar la pensión de invalidez, y no se afecte el derecho fundamental a la seguridad social de las personas.",
+  "titulaciones": [
+    {
+      "tema": "PROCESO PARA CALIFICACION DEL ESTADO DE INVALIDEZ",
+      "subtema": "Regulación"
+    },
+    {
+      "tema": "PENSIÓN DE INVALIDEZ",
+      "subtema": "Requisitos para obtener reconocimiento y pago"
+    },
+    {
+      "tema": "DICTAMEN QUE CALIFICA PERDIDA DE CAPACIDAD LABORAL",
+      "subtema": "Debe ser notificado a los Fondos de Pensiones que eventualmente lleguen a estar interesados en el proceso de calificación del afiliado"
+    },
+    {
+      "tema": "DERECHO A LA PENSIÓN DE INVALIDEZ",
+      "subtema": "Trámites administrativos no pueden obstaculizar el reconocimiento del derecho a quien ya ha reunido los requisitos para acceder a ésta"
+    },
+    {
+      "tema": "CARENCIA ACTUAL DE OBJETO POR SITUACIÓN SOBREVINIENTE",
+      "subtema": "Fallecimiento del accionante"
+    }
+  ]
+}

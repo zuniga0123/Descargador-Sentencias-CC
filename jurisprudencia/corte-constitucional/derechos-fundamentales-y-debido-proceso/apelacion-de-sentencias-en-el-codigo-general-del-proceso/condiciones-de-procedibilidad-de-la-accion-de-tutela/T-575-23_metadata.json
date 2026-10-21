@@ -1,0 +1,46 @@
+{
+  "radicado": "T-575-23",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2023,
+  "fecha_creacion": "2023-12-18",
+  "magistrado_ponente": "Jorge Enrique Ibáñez Najar",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "APELACION DE SENTENCIAS EN EL CODIGO GENERAL DEL PROCESO",
+  "subtema": "Condiciones de procedibilidad de la acción de tutela",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto Ley 2591 de 1991",
+    "Ley 2213 de 2022",
+    "Decreto 806 de 2020",
+    "Decreto 2591 de 1991",
+    "Decreto 2591 de 1992",
+    "Ley 1581 de 2012"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2023/T-575-23.htm",
+  "fecha_descarga": "2026-10-21T04:02:25.609096+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2023-12-18",
+  "fecha_publicacion": "2024-02-23",
+  "numero": "T-575/23",
+  "tipo_cc": "T",
+  "prov_id": "45552",
+  "tema_relatoria": "ACCIÓN DE TUTELA EN CONTRA DE ACTUACIONES JUDICIALES EN EL MARCO DE UNA APELACIÓN DE SENTENCIA. IMPROCEDENCIA DEL AMPARO POR INCUMPLIMIENTO DEL REQUISITO DE SUBSIDIARIEDAD.",
+  "resumen": "En este caso se cuestiona la decisión judicial que declaró desierto un recurso de apelación por falta de sustentación. Se aduce que dicha providencia incurrió en un defecto procedimental absoluto por exceso ritual manifiesto, ya que no tuvo en cuenta que el recurso de alzada se interpuso y sustentó ante el juez ordinario de primera instancia. Luego de realizar el examen de procedencia de la acción de tutela contra providencias judiciales constató la Sala que no se cumplió con el requisito de subsidiariedad. Lo anterior, en la medida en que no se agotó el recurso de reposición que dispone el ordenamiento para reprochar la providencia judicial cuestionada. Con base en lo anterior, se declaró IMPROCEDENTE la solicitud de amparo deprecada.",
+  "titulaciones": [
+    {
+      "tema": "APELACION DE SENTENCIAS EN EL CODIGO GENERAL DEL PROCESO",
+      "subtema": "Condiciones de procedibilidad de la acción de tutela"
+    },
+    {
+      "tema": "APELACION DE SENTENCIAS",
+      "subtema": "Trámite del recurso de apelación en el Código General del Proceso"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Improcedencia por incumplimiento del principio de subsidiariedad por cuanto no agotaron los medios de defensa judicial"
+    }
+  ]
+}

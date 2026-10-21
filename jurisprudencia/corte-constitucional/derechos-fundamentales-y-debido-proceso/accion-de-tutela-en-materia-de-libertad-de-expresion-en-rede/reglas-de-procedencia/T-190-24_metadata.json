@@ -1,0 +1,45 @@
+{
+  "radicado": "T-190-24",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2024,
+  "fecha_creacion": "2024-05-23",
+  "magistrado_ponente": "Juan Carlos Cortés González",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCION DE TUTELA EN MATERIA DE LIBERTAD DE EXPRESION EN REDES SOCIALES",
+  "subtema": "Reglas de procedencia",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 1098 de 2006",
+    "Decreto 2591 de 1991",
+    "Ley 679 de 2001",
+    "Decreto 1078 de 2015",
+    "Ley 1482 de 2011"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2024/T-190-24.htm",
+  "fecha_descarga": "2026-10-21T01:38:13.524182+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2024-05-23",
+  "fecha_publicacion": "2024-06-05",
+  "numero": "T-190/24",
+  "tipo_cc": "T",
+  "prov_id": "46472",
+  "tema_relatoria": "ACCIÓN DE TUTELA PARA PROTEGER EL INTERÉS SUPERIOR DE NIÑOS, NIÑAS Y ADOLESCENTES, FRENTE A LA LIBERTAD DE EXPRESIÓN EN REDES SOCIALES-INCUMPLIMIENTO DE LOS REQUISITOS DE PROCEDENCIA (legitimación por activa y subsidiariedad).",
+  "resumen": "El actor solicitó la protección de los derechos de los niños, niñas y adolescentes y del derecho que tienen las personas en estado de indefensión a recibir protección estatal. En su criterio, dichas garantías fueron vulneradas por los accionados como consecuencia de difundir mediante redes sociales burlas sobre noticias de violencia sexual cometidas contra esta población, con lo cual fomentar la comisión de ese tipo de delitos. La Sala verificó que la acción de tutela no superó los requisitos de legitimación en la causa por activa y subsidiariedad. En cuanto al primero, se constató que el accionante no acreditó ser representante legal de algunos de los menores cuyos derechos invocó, ni probó que quienes ejercen su patria potestad se encontraran inhabilitados para actuar en su nombre. En relación con el incumplimiento del segundo requisito se precisó que el peticionario no solicitó a los accionados ni a las redes sociales la enmienda y/o retiro de las publicaciones que censuró. Con base en lo anterior, se decidió confirmar las decisiones de instancia que declararon IMPROCEDENTE la acción de tutela deprecada.",
+  "titulaciones": [
+    {
+      "tema": "ACCION DE TUTELA EN MATERIA DE LIBERTAD DE EXPRESION EN REDES SOCIALES",
+      "subtema": "Reglas de procedencia"
+    },
+    {
+      "tema": "LEGITIMACIÓN POR ACTIVA EN TUTELA",
+      "subtema": "Improcedencia por no estar acreditados los requisitos de la agencia oficiosa"
+    },
+    {
+      "tema": "PRINCIPIO DE SUBSIDIARIEDAD DE LA ACCIÓN DE TUTELA",
+      "subtema": "Improcedencia porque el accionante tenía a su alcance otros medios de defensa"
+    }
+  ]
+}

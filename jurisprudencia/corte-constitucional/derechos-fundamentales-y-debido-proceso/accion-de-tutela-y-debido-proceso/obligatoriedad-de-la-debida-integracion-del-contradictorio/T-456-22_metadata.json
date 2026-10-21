@@ -1,0 +1,56 @@
+{
+  "radicado": "T-456-22",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2022,
+  "fecha_creacion": "2022-12-14",
+  "magistrado_ponente": "Natalia Ángel Cabo",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCION DE TUTELA Y DEBIDO PROCESO",
+  "subtema": "Obligatoriedad de la debida integración del contradictorio",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 1960 de 2019",
+    "Ley 909 de 2004",
+    "Ley 1690 de 2019",
+    "Decreto 2591 de 1991",
+    "Decreto 306 de 1992",
+    "Decreto 1069 de 2015",
+    "Ley 1437 de 2011",
+    "Decreto Ley 1567 de 1998"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2022/T-456-22.htm",
+  "fecha_descarga": "2026-10-21T07:52:07.121624+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2022-12-14",
+  "fecha_publicacion": "2023-01-30",
+  "numero": "T-456/22",
+  "tipo_cc": "T",
+  "prov_id": "39602",
+  "tema_relatoria": "ACCIÓN DE TUTELA CONTRA ACTOS ADMINISTRATIVOS EN CONCURSO DE MÉRITOS-IMPROCEDENCIA POR INCUMPLIR REQUISITO DE SUBSIDIARIEDAD.",
+  "resumen": "En dos acciones de tutela formuladas de manera independiente se tiene como hecho común que las accionantes son participantes de concursos públicos de méritos para el acceso a cargos en entidades públicas, quienes, en atención al puntaje obtenido no lograron acceder a las vacantes ofertadas en la convocatoria en la que participaron. Ambas solicitaron ser nombradas en los cargos vacantes que no fueron ofertados en las convocatorias, con fundamento en el artículo 6 de la Ley 1960 de 2019. Luego de verificar el cumplimiento de los presupuestos generales de procedencia de la acción de tutela, la Corte determinó que las dos solicitudes de amparo incumplieron el requisito de subsidiariedad. Ello, por cuanto las peticionarias cuentan con otros medios judiciales para alcanzar sus pretensiones; no se acreditó un perjuicio irremediable con las características de actualidad e inminencia exigidos para ello; la presunta vulneración de las garantías constitucionales alegadas constituyen aspectos que pueden ser válidamente propuestos en las instancias judiciales pertinentes con el restablecimiento del derecho a que haya lugar; y no se trata de un caso en el que las actores se encuentren ante un perjuicio irremediable, teniendo en cuenta la mera expectativa que les asistía de ser nombradas en los cargos vacantes. Con base en las anteriores consideraciones se declara la IMPROCEDENCIA de las solicitudes de amparo revisadas.",
+  "titulaciones": [
+    {
+      "tema": "ACCION DE TUTELA Y DEBIDO PROCESO",
+      "subtema": "Obligatoriedad de la debida integración del contradictorio"
+    },
+    {
+      "tema": "ACCION DE TUTELA EN CONCURSO DE MERITOS",
+      "subtema": "Procedencia excepcional cuando a pesar de existir otro medio de defensa judicial, éste no resulta idóneo para evitar un perjuicio irremediable"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA ACTOS ADMINISTRATIVOS EN CONCURSO DE MÉRITOS",
+      "subtema": "Improcedencia del amparo por incumplir requisito de subsidiariedad"
+    },
+    {
+      "tema": "INTEGRACION DEL CONTRADICTORIO EN SEDE DE REVISION",
+      "subtema": "Vinculación al trámite de tutela en calidad de tercero interesado"
+    },
+    {
+      "tema": "NULIDAD POR INDEBIDA CONFORMACION DEL CONTRADICTORIO",
+      "subtema": "Formas para subsanarla"
+    }
+  ]
+}

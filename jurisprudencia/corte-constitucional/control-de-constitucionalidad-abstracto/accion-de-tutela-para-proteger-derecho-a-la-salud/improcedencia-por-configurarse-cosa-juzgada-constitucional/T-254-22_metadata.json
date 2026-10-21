@@ -1,0 +1,46 @@
+{
+  "radicado": "T-254-22",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2022,
+  "fecha_creacion": "2022-07-06",
+  "magistrado_ponente": "Jorge Enrique Ibáñez Najar",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "ACCION DE TUTELA PARA PROTEGER DERECHO A LA SALUD",
+  "subtema": "Improcedencia por configurarse cosa juzgada constitucional",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto Ley 2591 de 1991",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2022/T-254-22.htm",
+  "fecha_descarga": "2026-10-21T08:03:32.336748+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2022-07-06",
+  "fecha_publicacion": "2022-07-21",
+  "numero": "T-254/22",
+  "tipo_cc": "T",
+  "prov_id": "38053",
+  "tema_relatoria": "COSA JUZGADA CONSTITUCIONAL-CARENCIA ACTUAL DE OBJETO POR HECHO SUPERADO AL GARANTIZAR LAS TERAPIAS REQUERIDAS POR EL PACIENTE.",
+  "resumen": "A través de la figura de la agencia oficiosa se interpuso una primera acción de tutela buscando la protección de un adulto mayor y pretendiendo la prestación del servicio de enfermería extra hospitalaria o de cuidador por doce horas, así como la exoneración de copagos y cuotas moderadoras y la entrega de crema anti escaras, paños húmedos y otros elementos de aseo. En sentencia de única instancia se resolvió favorablemente y se accedieron a las pretensiones de la parte demandante. En la presente solicitud de amparo se solicitó que, con base a lo dispuesto por la Junta Médica, se ordene el suministro de un cuidador de forma permanente, la entrega ininterrumpida de crema anti escaras y demás elementos para el aseo y la práctica de terapias físicas, ocupacionales y de fonoaudiología, tres veces por semana y de modo continuo. Luego de hacer un riguroso análisis del asunto la Corte decidió confirmar las decisiones de instancia que declararon improcedente la acción de tutela por configurarse el fenómeno de la cosa juzgada constitucional frente algunas pretensiones formuladas en el segundo escrito, así como la carencia actual de objeto por hecho superado frente a otra petición. A pesar de lo anterior, se previene a la accionada para que, en adelante, no se niegue a garantizar los servicios que su afiliado requiera, así como a que cumpla de forma diligente con sus obligaciones, conforme a la normativa vigente.",
+  "titulaciones": [
+    {
+      "tema": "ACCION DE TUTELA PARA PROTEGER DERECHO A LA SALUD",
+      "subtema": "Improcedencia por configurarse cosa juzgada constitucional"
+    },
+    {
+      "tema": "ACCION DE TUTELA TEMERARIA",
+      "subtema": "Para que se configure temeridad debe evidenciarse la mala fe en el actuar del peticionario"
+    },
+    {
+      "tema": "CARENCIA ACTUAL DE OBJETO POR HECHO SUPERADO",
+      "subtema": "Caso en que se le están realizando las terapias domiciliarias a la actora y está recibiendo atención domiciliaria una vez al mes"
+    },
+    {
+      "tema": "COSA JUZGADA CONSTITUCIONAL",
+      "subtema": "Contenido y alcance"
+    }
+  ]
+}

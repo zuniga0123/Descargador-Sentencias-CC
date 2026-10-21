@@ -1,0 +1,58 @@
+{
+  "radicado": "T-235-26",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2026,
+  "fecha_creacion": "2026-08-04",
+  "magistrado_ponente": "Miguel Polo Rosero",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "LEGITIMACION POR ACTIVA DEL SINDICATO",
+  "subtema": "Representante legal del Sindicato en representación de sus afiliados",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto Ley 2591 de 1991",
+    "Ley 2158 de 1948",
+    "Ley 2452 de 2025",
+    "Decreto 2264 de 2013",
+    "Ley 712 de 2001",
+    "Ley 1437 de 2011"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2026/T-235-26.htm",
+  "fecha_descarga": "2026-10-20T20:56:33.012720+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2026-08-04",
+  "fecha_publicacion": "2026-08-18",
+  "numero": "T-235/26",
+  "tipo_cc": "T",
+  "prov_id": "61641",
+  "tema_relatoria": "Tutela para obtener la entrega de cuotas sindicales adeudadas-Improcedencia por subsidiariedad, inexistencia de discriminación o amenaza grave a la subsistencia de la organización sindical",
+  "resumen": "La vulneración de derechos fundamentales por parte de la entidad territorial accionada se atribuyó a la omisión de transferir las cuotas sindicales descontadas de los salarios de sus afiliados desde enero del año 2024. Los jueces de instancias declararon improcedente el amparo invocado, por existir otros mecanismos de defensa judicial y no acreditarse un perjuicio irremediable. Luego de verificar el cumplimiento de los presupuestos de procedencia la Corte decidió confirmar los fallos de instancia, al estimar que la organización sindical accionante cuenta con el proceso ejecutivo laboral para obtener el pago de las cuotas sindicales reclamadas. Para la Sala, dicho mecanismo resulta idóneo y eficaz para reclamar el cumplimiento de dicha obligación económica. Así mismo, reiteró que la procedencia excepcional de la acción de tutela en estos casos exige probar una afectación grave de las finanzas de la organización sindical, circunstancia que no fue acreditada en el expediente. Ante el incumplimiento del requisito de subsidiariedad se declaró IMPROCEDENTE la solicitud de amparo deprecada en esta oportunidad.",
+  "titulaciones": [
+    {
+      "tema": "LEGITIMACION POR ACTIVA DEL SINDICATO",
+      "subtema": "Representante legal del Sindicato en representación de sus afiliados"
+    },
+    {
+      "tema": "SINDICATO",
+      "subtema": "Entrega oportuna de cuotas por empleador"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Improcedencia por cuanto no se acreditó perjuicio irremediable"
+    },
+    {
+      "tema": "DERECHO DE ASOCIACIÓN SINDICAL",
+      "subtema": "Improcedencia por cuanto no se cumple con el requisito de subsidiariedad de la acción de tutela"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Improcedencia por no haber agotado los medios ordinarios de defensa"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Requisitos de procedencia"
+    }
+  ]
+}

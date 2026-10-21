@@ -1,0 +1,60 @@
+{
+  "radicado": "T-313-21",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-09-16",
+  "magistrado_ponente": "Antonio José Lizarazo Ocampo",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+  "subtema": "Improcedencia por cuanto tutelante no cumplió con la carga argumentativa que le era exigible en la demostración de los defectos específicos",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 32 de 1986",
+    "Ley 100 de 1993",
+    "Decreto 2090 de 1993",
+    "Decreto 2591 de 1991",
+    "Decreto Ley 2591 de 1991",
+    "Decreto 407 de 1994",
+    "Ley 1437 de 2011",
+    "Ley 1952 de 2019"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2021/T-313-21.htm",
+  "fecha_descarga": "2026-10-21T08:24:09.815341+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2021-09-16",
+  "fecha_publicacion": "2022-06-22",
+  "numero": "T-313/21",
+  "tipo_cc": "T",
+  "prov_id": "37803",
+  "tema_relatoria": "ACCION DE TUTELA CONTRA SUSPENSION MESADA PENSIONAL. IMPROCEDENCIA POR FALTA DE LEGITIMACION POR PASIVA",
+  "resumen": "El actor aduce que la UGPP vulnero sus derechos fundamentales al suspender el pago de la mesada pensional, en cumplimiento del auto que decretó una medida cautelar al interior del proceso de de nulidad y restablecimiento del derecho que inició la entidad en contra del pensionado, pretendiendo la nulidad de los actos administrativos que le reconocieron la pensión de vejez y su reliquidación. En la decisión judicial mencionada se consideró que la prestación había sido reconocida en contra de las disposiciones superiores invocadas por la UGPP, dado que el régimen de transición no era aplicable en ese caso y, por lo tanto, el pago de la pensión generaba una afectación al patrimonio público. La Corte encontró que la entidad accionada actuó en cumplimiento de una orden judicial, por lo que, de existir el alegado perjuicio irremediable, la conducta que generaría la vulneración no sería el cumplimiento del fallo, sino la decisión judicial en sí. Por lo anterior, se concluyó que existe una falta de legitimación por pasiva en la solicitud de tutela que es insubsanable y que generó que la Sala Cuarta de Revisión la declarara IMPROCEDENTE.",
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Improcedencia por cuanto tutelante no cumplió con la carga argumentativa que le era exigible en la demostración de los defectos específicos"
+    },
+    {
+      "tema": "PRINCIPIOS DE OFICIOSIDAD E INFORMALIDAD DE LA ACCION DE TUTELA",
+      "subtema": "Juez debe proteger el debido proceso de partes y terceros"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Improcedencia por falta de legitimación por pasiva"
+    },
+    {
+      "tema": "MESADA PENSIONAL",
+      "subtema": "Suspensión de pago"
+    },
+    {
+      "tema": "PRINCIPIO DE INFORMALIDAD DE LA ACCIÓN DE TUTELA",
+      "subtema": "Integración de la causa pasiva y del legítimo contradictorio"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Informalidad no excluye el cumplimiento de requisitos mínimos"
+    }
+  ]
+}

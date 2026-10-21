@@ -1,0 +1,44 @@
+{
+  "radicado": "T-312-22",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2022,
+  "fecha_creacion": "2022-09-05",
+  "magistrado_ponente": "Diana Fajardo Rivera",
+  "area": "Otros - Sin clasificar",
+  "tema": "CARENCIA ACTUAL DE OBJETO POR HECHO SUPERADO",
+  "subtema": "Se llevó a cabo la conexión de energía eléctrica en la vivienda del accionante",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Decreto Ley 2591 de 1991",
+    "Ley 142 de 1994",
+    "Ley 489 de 1998"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2022/T-312-22.htm",
+  "fecha_descarga": "2026-10-21T08:00:25.217833+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2022-09-05",
+  "fecha_publicacion": "2022-09-12",
+  "numero": "T-312/22",
+  "tipo_cc": "T",
+  "prov_id": "38528",
+  "tema_relatoria": "VIVIENDA DIGNA Y SALUD-ACCESO AL SERVICIO PÚBLICO DE ENERGÍA ELÉCTRICA COMO CONDICIÓN PARA SU SATISFACCIÓN.",
+  "resumen": "El accionante considera que sus derechos fundamentales a la vida, salud, igualdad, mínimo vital y buena fe fueron vulnerados, a raíz de la tardanza en prestar el servicio de conexión y suministro de energía eléctrica a su residencia, a pesar de haber obtenido previamente concepto de factibilidad técnica. Argumenta que la falta de conexión pone en grave peligro la vida de su suegra en la medida en que es oxígeno dependiente, además de afectar la salud de ella y de él, pues son diabéticos y deben refrigerar los medicamentos prescritos para esta patología. La accionada argumentó la situación de pandemia y el incumplimiento de requisitos por parte del solicitante. Se reitera jurisprudencia sobre los derechos fundamentales a la vivienda digna y a la salud en relación con el acceso al servicio de energía eléctrica como condición para su satisfacción. Como en el trámite de revisión la Corte conoció que se construyó el punto de conexión solicitado por el actor y que actualmente se encuentra recibiendo el servicio de energía eléctrica, se declaró la carencia actual de objeto por HECHO SUPERADO.",
+  "titulaciones": [
+    {
+      "tema": "CARENCIA ACTUAL DE OBJETO POR HECHO SUPERADO",
+      "subtema": "Se llevó a cabo la conexión de energía eléctrica en la vivienda del accionante"
+    },
+    {
+      "tema": "VIVIENDA DIGNA Y SALUD",
+      "subtema": "Acceso al servicio público de energía eléctrica en vivienda de adultos mayores"
+    },
+    {
+      "tema": "SERVICIO DE ENERGIA ELECTRICA",
+      "subtema": "Conexión fraudulenta y garantía de acceso mínimo al servicio"
+    }
+  ]
+}

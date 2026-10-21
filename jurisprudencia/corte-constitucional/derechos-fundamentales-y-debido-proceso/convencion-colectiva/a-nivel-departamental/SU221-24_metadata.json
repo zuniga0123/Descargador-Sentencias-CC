@@ -1,0 +1,132 @@
+{
+  "radicado": "SU221-24",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2024,
+  "fecha_creacion": "2024-06-13",
+  "magistrado_ponente": "José Fernando Reyes Cuartas",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "CONVENCION COLECTIVA",
+  "subtema": "A nivel departamental",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 411 de 1997",
+    "Ley 100 de 1993",
+    "Decreto 2591 de 1991",
+    "Acto Legislativo 1 de 2005",
+    "Ley 1251 de 2008",
+    "Ley 30 de 1992",
+    "Ley 270 de 1996",
+    "Ley 1276 de 2009",
+    "Ley 1850 de 2017",
+    "Ley 74 de 1986",
+    "Ley 16 de 1972",
+    "Decreto 2351 de 1965"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2024/SU221-24.htm",
+  "fecha_descarga": "2026-10-21T01:55:02.953611+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2024-06-13",
+  "fecha_publicacion": "2024-08-09",
+  "numero": "SU.221/24",
+  "tipo_cc": "SU",
+  "prov_id": "46911",
+  "tema_relatoria": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES EN MATERIA PENSIONAL-DESCONOCIMIENTO DEL PRECEDENTE CONSTITUCIONAL EN LA INTERPRETACIÓN DE LAS CONVENCIONES COLECTIVAS (diferencia entre el principio in dubio pro operario y el principio de la condición más beneficiosa)",
+  "resumen": "La vulneración de derechos fundamentales se atribuye a la decisión judicial de segunda instancia que negó el reconocimiento y pago de la pensión de jubilación al actor bajo las reglas del artículo 9, literal b) de la convención colectiva de trabajo de 1976, suscrita con la Universidad del Atlántico. Ello, porque su desvinculación se produjo antes del 30 de julio de 1997, fecha límite para que las pensiones convencionales de los servidores públicos del nivel territorial quedaran a salvo con la entrada en vigencia de la Ley 100 de 1993. Se adujo que dicho fallo incurrió en los defectos sustantivo, desconocimiento del precedente del Consejo de Estado y fáctico. Se analizó la siguiente temática: 1º. La procedencia excepcional de la acción de tutela contra providencias judiciales. 2º. La aplicación de los principios de favorabilidad e in dubio pro operario en la interpretación de las disposiciones contenidas en las convenciones colectivas y, 3º. La aplicación de convenciones colectivas a los servidores públicos. Se CONCEDIÓ el amparo invocado, se dejó sin efectos la providencia censurada y, en consecuencia, se confirmó el fallo de primera instancia del proceso de nulidad y restablecimiento del derecho que reconoció la pensión de jubilación al peticionario",
+  "titulaciones": [
+    {
+      "tema": "CONVENCION COLECTIVA",
+      "subtema": "A nivel departamental"
+    },
+    {
+      "tema": "PRINCIPIO DE LA CONDICION MAS BENEFICIOSA",
+      "subtema": "Reiteración de jurisprudencia"
+    },
+    {
+      "tema": "PRINCIPIO DE LA CONDICION MAS BENEFICIOSA, PRINCIPIO DE FAVORABILIDAD E IN DUBIO PRO OPERARIO",
+      "subtema": "Diferencias"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES EN ASUNTO PENSIONAL",
+      "subtema": "Defecto sustantivo al fundar la decisión en una norma que no era aplicable"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES EN PROCESO LABORAL",
+      "subtema": "Acceso a la pensión de jubilación"
+    },
+    {
+      "tema": "PRINCIPIO IN DUBIO PRO OPERARIO EN LA INTERPRETACIÓN DE LAS CONVENCIONES COLECTIVAS",
+      "subtema": "Línea jurisprudencial"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES DE ALTAS CORPORACIONES",
+      "subtema": "Requisitos generales y especiales de procedibilidad son más estrictos"
+    },
+    {
+      "tema": "DEFECTO FACTICO",
+      "subtema": "Fundamentos y marco de intervención que compete al juez de tutela"
+    },
+    {
+      "tema": "DEFECTO FACTICO",
+      "subtema": "Configuración"
+    },
+    {
+      "tema": "DERECHO ADQUIRIDO A LA PENSION DE JUBILACION",
+      "subtema": "Protección"
+    },
+    {
+      "tema": "DERECHOS ADQUIRIDOS DEL PENSIONADO",
+      "subtema": "Situaciones jurídicas individuales definidas con anterioridad a la ley 100 de 1993"
+    },
+    {
+      "tema": "REGIMEN PRESTACIONAL DE LOS DOCENTES NACIONALES, NACIONALIZADOS Y TERRITORIALES",
+      "subtema": "Régimen aplicable"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Procedencia al incurrirse en una violación directa de la Constitución por desconocimiento del principio constitucional in dubio pro operario"
+    },
+    {
+      "tema": "PRINCIPIO DE FAVORABILIDAD EN LA INTERPRETACIÓN DE LAS CONVENCIONES COLECTIVAS",
+      "subtema": "Línea jurisprudencial"
+    },
+    {
+      "tema": "DESCONOCIMIENTO DEL PRECEDENTE JUDICIAL",
+      "subtema": "Reiteración de jurisprudencia"
+    },
+    {
+      "tema": "DEFECTO SUSTANTIVO",
+      "subtema": "Caracterización"
+    },
+    {
+      "tema": "DEFECTO SUSTANTIVO",
+      "subtema": "Presupuestos para su configuración"
+    },
+    {
+      "tema": "PRINCIPIO IN DUBIO PRO OPERARIO",
+      "subtema": "Aplicación"
+    },
+    {
+      "tema": "PRINCIPIO IN DUBIO PRO OPERARIO",
+      "subtema": "Criterio interpretativo de rango constitucional"
+    },
+    {
+      "tema": "DERECHO DE NEGOCIACION COLECTIVA",
+      "subtema": "Alcance y finalidad"
+    },
+    {
+      "tema": "PRECEDENTE JUDICIAL",
+      "subtema": "Definición"
+    },
+    {
+      "tema": "APLICACION DEL PRINCIPIO DE FAVORABILIDAD LABORAL E IN DUBIO PRO OPERARIO",
+      "subtema": "Reiteración de jurisprudencia"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Reiteración de jurisprudencia sobre procedencia excepcional"
+    }
+  ]
+}

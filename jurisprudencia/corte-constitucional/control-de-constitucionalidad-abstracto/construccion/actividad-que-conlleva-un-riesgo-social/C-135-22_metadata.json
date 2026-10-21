@@ -1,0 +1,68 @@
+{
+  "radicado": "C-135-22",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2022,
+  "fecha_creacion": "2022-04-21",
+  "magistrado_ponente": "Alejandro Linares Cantillo",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "CONSTRUCCIÓN",
+  "subtema": "Actividad que conlleva un riesgo social",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 400 de 1997",
+    "Decreto Ley 2067 de 1991",
+    "Decreto 945 de 2017",
+    "Decreto 1400 de 1984"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2022/C-135-22.htm",
+  "fecha_descarga": "2026-10-21T08:14:10.589325+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2022-04-21",
+  "fecha_publicacion": "2022-12-05",
+  "numero": "C-135/22",
+  "tipo_cc": "C",
+  "prov_id": "39029",
+  "tema_relatoria": "CONSTRUCCIONES SISMO RESISTENTES. DEFINICIÓN DE INGENIERO GEOTECNISTA.",
+  "resumen": "Demanda de inconstitucionalidad contra el numeral 22 (parcial) del artículo 4° de la Ley 400 de 1997, por la cual se adoptan normas sobre Construcciones Sismo Resistentes. El demandante alegó que la expresión acusada es discriminatoria y como tal vulnera el derecho a la igualdad de los ingenieros geólogos, por cuando el legislador estableció que el ingeniero geotecnista, encargado de firmar el estudio geotécnico y bajo cuya responsabilidad se realizan estudios geotécnicos o de suelos, deberá ser un ingeniero civil. En su opinión, los ingenieros geólogos contarían con una preparación y unas aptitudes suficientes para participar en el proceso constructivo regulado por la norma de sismo resistencia. En ese sentido, los ingenieros civiles y geólogos serían sujetos comparables que, debido a que resultan igualmente competentes y expertos en materia geotécnica, deberían ser tratados de manera idéntica por la norma demandada. Concluyó la Corte que la discriminación alegada no existe y por ello decidió declarar EXEQUIBLE la expresión cuestionada en esta oportunidad.",
+  "titulaciones": [
+    {
+      "tema": "CONSTRUCCIÓN",
+      "subtema": "Actividad que conlleva un riesgo social"
+    },
+    {
+      "tema": "COSA JUZGADA MATERIAL EN SENTIDO LATO",
+      "subtema": "Inexistencia por tratarse de contenidos normativos sustancialmente distintos"
+    },
+    {
+      "tema": "JUICIO INTEGRADO DE IGUALDAD",
+      "subtema": "Etapas de su análisis y modalidades del test de igualdad según el grado de intensidad"
+    },
+    {
+      "tema": "COSA JUZGADA MATERIAL EN SENTIDO LATO",
+      "subtema": "Requisitos"
+    },
+    {
+      "tema": "COSA JUZGADA MATERIAL EN SENTIDO ESTRICTO Y COSA JUZGADA MATERIAL EN SENTIDO AMPLIO",
+      "subtema": "Diferencias"
+    },
+    {
+      "tema": "MARGEN DE CONFIGURACION LEGISLATIVA RESPECTO DE PROFESIONES QUE IMPLIQUEN RIESGO SOCIAL",
+      "subtema": "Comprende fijación de condiciones, naturaleza de cargos y características de instituciones para su desarrollo"
+    },
+    {
+      "tema": "LIBERTAD DE CONFIGURACIÓN LEGISLATIVA PARA REGULAR EL EJERCICIO DE PROFESIÓN U OFICIO",
+      "subtema": "Legislador no excedió límites al designar a ingeniero civil como profesional idóneo para desempeñar el rol de ingeniero geotecnista"
+    },
+    {
+      "tema": "INGENIERO CIVIL E INGENIERO GEÓLOGO",
+      "subtema": "Diferencias"
+    },
+    {
+      "tema": "LIBERTAD DE CONFIGURACION LEGISLATIVA PARA REGULAR EL EJERCICIO DE PROFESION U OFICIO MEDIANTE LA EXIGENCIA DE TITULOS DE IDONEIDAD",
+      "subtema": "Jurisprudencia constitucional"
+    }
+  ]
+}

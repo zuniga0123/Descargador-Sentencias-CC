@@ -1,0 +1,76 @@
+{
+  "radicado": "T-477-24",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2024,
+  "fecha_creacion": "2024-11-13",
+  "magistrado_ponente": "Jorge Enrique Ibáñez Najar",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "EXAMEN SEROLOGICO",
+  "subtema": "Prohibición en el entorno laboral",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto Ley 2591 de 1991",
+    "Ley 2015 de 2020",
+    "Decreto 1543 de 1997",
+    "Decreto 2591 de 1991",
+    "Ley 1581 de 2012",
+    "Ley 1751 de 2015",
+    "Ley 972 de 2005",
+    "Decreto 780 de 2016"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2024/T-477-24.htm",
+  "fecha_descarga": "2026-10-21T01:23:58.655625+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2024-11-13",
+  "fecha_publicacion": "2024-12-09",
+  "numero": "T-477/24",
+  "tipo_cc": "T",
+  "prov_id": "47742",
+  "tema_relatoria": "DERECHOS A LA IGUALDAD, INTIMIDAD Y HABEAS DATA- CONFIDENCIALIDAD Y RESERVA DE LA HISTORIA CLÍNICA EN EL ÁMBITO LABORAL (diagnóstico de VIH).",
+  "resumen": "La vulneración de derechos fundamentales por parte de la empresa accionada se atribuye a la expedición de un certificado de aptitud laboral del actor en el que divulgaba su diagnóstico de VIH positivo, lo cual generó un escenario de discriminación dentro del proceso de selección en el que estaba participando y devino en el hecho de no ser contratado en el cargo al que aspiraba. Se reiteró jurisprudencia sobre el derecho fundamental al habeas data y la confidencialidad de las historias clínicas de los pacientes. Así mismo, se abordó temática relacionada con el derecho fundamental a la igualdad y a la prohibición de discriminación contra personas con VIH o SIDA y la presunción aplicable en estos casos. La Sala destacó la vulnerabilidad que enfrentan las personas con VIH frente a la discriminación en el ámbito laboral, en el que pueden ser excluidas explícitamente durante los procesos de selección. Por ello, reiteró la importancia de las garantías reconocidas a nivel normativo y jurisprudencial que deben aplicarse en la práctica de los exámenes pre-ocupacionales. Igualmente, recordó la necesidad de adherirse a principios como la buena fe y la proporcionalidad en la toma de decisiones en los procesos de selección laboral. Tras verificar que no se presentó la vulneración de derechos alegada y que la decisión de no contratar al peticionario se basó en criterios objetivos derivados de los exámenes psicométricos, se DENEGÓ el amparo invocado.",
+  "titulaciones": [
+    {
+      "tema": "EXAMEN SEROLOGICO",
+      "subtema": "Prohibición en el entorno laboral"
+    },
+    {
+      "tema": "DERECHO A LA IGUALDAD",
+      "subtema": "Discriminación a portadores de VIH"
+    },
+    {
+      "tema": "RESERVA DE HISTORIA CLINICA",
+      "subtema": "Portador de VIH"
+    },
+    {
+      "tema": "DERECHO A LA INTIMIDAD Y AL HABEAS DATA",
+      "subtema": "Deber de adoptar todas las medidas necesarias para mantener la reserva de la historia clínica"
+    },
+    {
+      "tema": "DERECHO AL HABEAS DATA",
+      "subtema": "Alcance y contenido"
+    },
+    {
+      "tema": "PERSONA PORTADORA DE VIH",
+      "subtema": "Protección constitucional en el ámbito laboral"
+    },
+    {
+      "tema": "DERECHO A LA IGUALDAD Y NO DISCRIMINACION EN PROCESOS DE SELECCION LABORAL",
+      "subtema": "Parámetros constitucionales en el proceso de selección de personal"
+    },
+    {
+      "tema": "DERECHO A LA INTIMIDAD",
+      "subtema": "Información protegida de la condición de portador de VIH/SIDA"
+    },
+    {
+      "tema": "PRUEBA DE VIH",
+      "subtema": "Prohibición de exigirla para acceder o permanecer en actividad laboral"
+    },
+    {
+      "tema": "PRESUNCIÓN DE DISCRIMINACIÓN",
+      "subtema": "Se invierte la carga de la prueba a favor de la persona que denuncia haberla sufrido"
+    }
+  ]
+}

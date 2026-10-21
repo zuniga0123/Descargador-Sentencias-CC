@@ -1,0 +1,71 @@
+{
+  "radicado": "C-081-23",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2023,
+  "fecha_creacion": "2023-03-23",
+  "magistrado_ponente": "Jorge Enrique Ibáñez Najar",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "COSA JUZGADA CONSTITUCIONAL",
+  "subtema": "Excepciones",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 1801 de 2016",
+    "Ley 2197 de 2022",
+    "Decreto 2067 de 1991",
+    "Decreto 207 de 2022",
+    "Ley 1801 de 2017",
+    "Ley 1802 de 2016",
+    "Ley 270 de 1996"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2023/C-081-23.htm",
+  "fecha_descarga": "2026-10-21T04:29:20.956235+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2023-03-23",
+  "fecha_publicacion": "2024-02-05",
+  "numero": "C-081/23",
+  "tipo_cc": "C",
+  "prov_id": "45349",
+  "tema_relatoria": "MEDIDA POLICIVA DE TRASLADO POR PROTECCIÓN. OMISIÓN DEL LEGISLADOR DE INCLUIR CONDICIONAMIENTOS HECHOS EN LA SENTENCIA C-281/17. EXEQUIBILIDAD CONDICIONADA Y MODULACIÓN DE EFECTOS",
+  "resumen": "Demanda de inconstitucionalidad en contra del parágrafo 5 del artículo 155 de la Ley 1801 de 2016, por la cual se expide el Código Nacional de Seguridad y Convivencia Ciudadana. Los actores alegaron que las disposiciones cuestionadas son incompatibles con los mandatos previstos en los artículos 1, 13, 15, 16, 28, 29, 93 y 243 de la Constitución y en los artículos 7, 8 y 25 de la Convención Americana sobre Derechos Humanos. De manera particular señalaron que la forma en que quedó establecida la medida policiva de traslado por protección es contraria a la Carta Superior, por cuanto el legislador omitió incluir en su redacción todos los lineamientos hechos en la Sentencia C-281/17, con lo cual desconoció el principio de la cosa juzgada constitucional. Se declaró la EXEQUIBILIDAD CONDICIONADA de la norma censurada, bajo el entendido de que: (i) en el informe escrito exigido por el parágrafo 5º del artículo 155 de la Ley 1801 de 2016, además de señalar los nombres, datos de identificación de la persona objeto del traslado y las circunstancias de tiempo, modo y lugar en que se materializa el mismo, se deberá incluir la causal invocada para el traslado y las razones por las cuales se considera que los hechos que dieron lugar a la medida caben dentro de la causal; y (ii) la persona sujeta al traslado podrá solicitar la cesación del procedimiento al superior jerárquico que haya recibido el informe. Se dispone que la presente decisión tenga efectos retroactivos desde la fecha de promulgación de la Ley 2197 de 2022 y, en consecuencia, los dos condicionamientos referidos anteriormente, sean exigibles desde esa fecha.",
+  "titulaciones": [
+    {
+      "tema": "COSA JUZGADA CONSTITUCIONAL",
+      "subtema": "Excepciones"
+    },
+    {
+      "tema": "SENTENCIA DE LA CORTE CONSTITUCIONAL",
+      "subtema": "Efectos en el tiempo"
+    },
+    {
+      "tema": "TRASLADO POR PROTECCION",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "TRASLADO POR PROTECCION",
+      "subtema": "Contenido del informe elaborado por la autoridad de policía"
+    },
+    {
+      "tema": "COSA JUZGADA FORMAL Y MATERIAL, COSA JUZGADA ABSOLUTA Y RELATIVA Y COSA JUZGADA APARENTE",
+      "subtema": "Conceptos"
+    },
+    {
+      "tema": "TRASLADO POR PROTECCION",
+      "subtema": "Finalidad Preventiva"
+    },
+    {
+      "tema": "TRASLADO POR PROTECCION",
+      "subtema": "Persona sujeta al traslado podrá solicitar la cesación del procedimiento al superior jerárquico que haya recibido el informe"
+    },
+    {
+      "tema": "COSA JUZGADA",
+      "subtema": "Efectos respecto de decisiones de exequibilidad condicionada"
+    },
+    {
+      "tema": "COSA JUZGADA CONSTITUCIONAL",
+      "subtema": "Desconocimiento al no incorporar en la norma demandada los condicionamientos hechos en sentencia de la Corte Constitucional"
+    }
+  ]
+}

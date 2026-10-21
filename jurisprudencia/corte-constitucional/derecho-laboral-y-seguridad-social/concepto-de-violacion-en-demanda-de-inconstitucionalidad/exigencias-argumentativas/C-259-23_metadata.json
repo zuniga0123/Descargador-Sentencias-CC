@@ -1,0 +1,80 @@
+{
+  "radicado": "C-259-23",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2023,
+  "fecha_creacion": "2023-07-12",
+  "magistrado_ponente": "Antonio José Lizarazo Ocampo",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "CONCEPTO DE VIOLACION EN DEMANDA DE INCONSTITUCIONALIDAD",
+  "subtema": "Exigencias argumentativas",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Decreto Ley 2067 de 1991",
+    "Acto Legislativo 1 de 2005",
+    "Ley 549 de 1999",
+    "Decreto 3798 de 2003",
+    "Decreto Ley 1299 de 1994",
+    "Decreto 1833 de 2016",
+    "Decreto 3366 de 2007",
+    "Acto Legislativo 1 de 2015",
+    "Decreto 2067 de 1991",
+    "Decreto 2610 de 1989",
+    "Ley 2099 de 2021"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2023/C-259-23.htm",
+  "fecha_descarga": "2026-10-21T04:32:51.825427+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2023-07-12",
+  "fecha_publicacion": "2023-11-02",
+  "numero": "C-259/23",
+  "tipo_cc": "C",
+  "prov_id": "44518",
+  "tema_relatoria": "BONOS PENSIONALES. CÁLCULO DE SU VALOR TENDRÁ EN CUENTA LA BASE DE COTIZACIÓN DEL AFILIADO A 30 DE JUNIO DE 1992.",
+  "resumen": "Demanda de inconstitucionalidad en contra del literal a) (parcial) del artículo 117 de la Ley 100 de 1993. El demandante considera que la expresión “base de cotización del afiliado a 30 de junio de 1992”, desconoce el principio de igualdad previsto en el artículo 13 de la Constitución. Ello, porque genera una desigualdad en la forma de liquidación de los bonos pensionales. Precisó el demandante que dicha desigualdad se da en dos sentidos. El primero, entre las personas que el 30 de junio de 1992 se encontraban afiliadas a las cajas de previsión social y al Instituto de Seguros Sociales, y aquellas que se encontraban cesantes en dicha fecha. El segundo, por cuanto para los cesantes la liquidación sería superior que la de los afiliados, ya que para éstos se calcula sobre el salario devengado mientras que la de los primeros se calcula sobre el salario cotizado. La Corte concluyó que la norma cuestionada y, por tanto, la distinción que contiene pretende realizar una finalidad constitucional importante, la cual es, definir las condiciones para el acceso a la pensión de vejez de toda la población, tanto afiliada como cesante al 30 de junio de 1992 y a partir de un esquema único pensional estatuido en la Ley 100 de 1993. Con base en lo anterior declaró su EXEQUIBILIDAD.",
+  "titulaciones": [
+    {
+      "tema": "CONCEPTO DE VIOLACION EN DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "Exigencias argumentativas"
+    },
+    {
+      "tema": "BONO PENSIONAL",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "JUICIO INTEGRADO DE IGUALDAD",
+      "subtema": "Etapas de su análisis y modalidades del test de igualdad según el grado de intensidad"
+    },
+    {
+      "tema": "JUICIO INTEGRADO DE IGUALDAD",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "BONO PENSIONAL",
+      "subtema": "Diferenciación en la forma de liquidación para afiliados activos y cesantes a 30 de junio de 1992 no vulnera el derecho a la igualdad"
+    },
+    {
+      "tema": "JUICIO DE IGUALDAD",
+      "subtema": "Intensidad intermedia"
+    },
+    {
+      "tema": "PENSION DE VEJEZ",
+      "subtema": "Liquidación"
+    },
+    {
+      "tema": "PRINCIPIO DE SOSTENIBILIDAD FINANCIERA DEL SISTEMA PENSIONAL",
+      "subtema": "Finalidad"
+    },
+    {
+      "tema": "JUICIO INTEGRADO DE IGUALDAD",
+      "subtema": "Contenido"
+    },
+    {
+      "tema": "TEST INTERMEDIO DE IGUALDAD",
+      "subtema": "Aplicación"
+    }
+  ]
+}

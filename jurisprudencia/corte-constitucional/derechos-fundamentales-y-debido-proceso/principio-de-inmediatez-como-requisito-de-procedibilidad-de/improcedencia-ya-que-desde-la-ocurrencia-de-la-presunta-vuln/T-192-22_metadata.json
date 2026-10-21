@@ -1,0 +1,54 @@
+{
+  "radicado": "T-192-22",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2022,
+  "fecha_creacion": "2022-06-02",
+  "magistrado_ponente": "Paola Andrea Meneses Mosquera",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "PRINCIPIO DE INMEDIATEZ COMO REQUISITO DE PROCEDIBILIDAD DE LA ACCION DE TUTELA",
+  "subtema": "Improcedencia ya que desde la ocurrencia de la presunta vulneración hasta la presentación de la tutela transcurrió un largo tiempo",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 14 de 1983",
+    "Ley 1448 de 2011",
+    "Decreto 2591 de 1991",
+    "Decreto 2113 de 1992",
+    "Decreto 846 de 2021",
+    "Ley 1755 de 2015"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2022/T-192-22.htm",
+  "fecha_descarga": "2026-10-21T08:05:32.964532+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2022-06-02",
+  "fecha_publicacion": "2022-06-22",
+  "numero": "T-192/22",
+  "tipo_cc": "T",
+  "prov_id": "37806",
+  "tema_relatoria": "DERECHO DE PETICION. NO VULNERACION POR CUANTO SE DIO RESPUESTA DE MANERA OPORTUNA, COMPLETA Y CONGRUENTE",
+  "resumen": "La actora aduce que las entidades accionadas vulneraron derechos fundamentales a raíz de la falta de respuesta a sus derechos de petición, así como el incumplimiento de decisiones judiciales y administrativas, lo cual le impide restablecer su derecho de propiedad sobre varios predios. Se reitera jurisprudencia relacionada con el fundamento normativo y contenido del derecho de petición. Al no encontrar acreditada la vulneración alegada, se confirmó la decisión de instancia que declaró improcedente la pretensión relativa a ordenar la cancelación de los folios de matrícula en los que existe doble titulación o disponer la creación de cédulas catastrales de predios de la accionante y negó el amparo del derecho de petición.",
+  "titulaciones": [
+    {
+      "tema": "PRINCIPIO DE INMEDIATEZ COMO REQUISITO DE PROCEDIBILIDAD DE LA ACCION DE TUTELA",
+      "subtema": "Improcedencia ya que desde la ocurrencia de la presunta vulneración hasta la presentación de la tutela transcurrió un largo tiempo"
+    },
+    {
+      "tema": "DERECHO DE PETICIÓN",
+      "subtema": "No vulneración"
+    },
+    {
+      "tema": "PERJUICIO IRREMEDIABLE",
+      "subtema": "Inexistencia"
+    },
+    {
+      "tema": "DERECHO DE PETICIÓN",
+      "subtema": "Reiteración de jurisprudencia"
+    },
+    {
+      "tema": "PRINCIPIO DE SUBSIDIARIEDAD DE LA ACCIÓN DE TUTELA",
+      "subtema": "Improcedente porque el accionante tiene a su alcance otros medios de defensa"
+    }
+  ]
+}

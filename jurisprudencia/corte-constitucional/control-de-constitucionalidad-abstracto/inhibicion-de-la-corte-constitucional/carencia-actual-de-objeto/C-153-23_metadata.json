@@ -1,0 +1,53 @@
+{
+  "radicado": "C-153-23",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2023,
+  "fecha_creacion": "2023-05-10",
+  "magistrado_ponente": "Natalia Ángel Cabo",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "INHIBICION DE LA CORTE CONSTITUCIONAL",
+  "subtema": "Carencia actual de objeto",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 2155 de 2021",
+    "Decreto Ley 2067 de 1991",
+    "Ley 2060 de 2020",
+    "Ley 905 de 2004",
+    "Ley 590 de 2000",
+    "Decreto 1074 de 2015",
+    "Ley 21 de 1851",
+    "Ley 2155 de 2022",
+    "Ley 153 de 1887"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2023/C-153-23.htm",
+  "fecha_descarga": "2026-10-21T04:34:38.857806+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2023-05-10",
+  "fecha_publicacion": "2023-07-10",
+  "numero": "C-153/23",
+  "tipo_cc": "C",
+  "prov_id": "43020",
+  "tema_relatoria": "pROGRAMA DE APOYO AL EMPLEO FORMAL (PAEF). AMPLIACIÓN DE LA VIGENCIA TEMPORAL PARA QUIENES TENGAN MÁXIMO CINCUENTA (50) EMPLEADOS.",
+  "resumen": "Demanda de inconstitucionalidad contra el artículo 21 (parcial) de la Ley 2155 de 2021, por medio de la cual se expide la Ley de inversión social y se dictan otras disposiciones. Adujo el actor que la prescripción acusada vulnera el artículo 333 de la Constitución Política. La Sala Plena considero que no era necesario realizar un examen a la aptitud de la demanda, en tanto la disposición cuestionada no está vigente, no produce efectos jurídicos ni tiene la vocación de producirlos, y no se dan las circunstancias excepcionales para revisar el fondo de una disposición así. Con base en lo anterior se declaró INHIBIDA para emitir pronunciamiento de fondo.",
+  "titulaciones": [
+    {
+      "tema": "INHIBICION DE LA CORTE CONSTITUCIONAL",
+      "subtema": "Carencia actual de objeto"
+    },
+    {
+      "tema": "INHIBICION DE LA CORTE CONSTITUCIONAL",
+      "subtema": "Procedencia frente a norma que no se encuentra vigente ni está produciendo efectos jurídicos"
+    },
+    {
+      "tema": "CONTROL ABSTRACTO DE INCONSTITUCIONALIDAD",
+      "subtema": "Vigencia normativa como presupuesto para su estudio"
+    },
+    {
+      "tema": "CONTROL CONSTITUCIONAL",
+      "subtema": "Hipótesis excepcional cuando disposición ha dejado de producir efectos jurídicos"
+    }
+  ]
+}

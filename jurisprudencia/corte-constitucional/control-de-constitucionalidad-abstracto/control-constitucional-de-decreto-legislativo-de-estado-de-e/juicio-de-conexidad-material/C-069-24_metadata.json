@@ -1,0 +1,54 @@
+{
+  "radicado": "C-069-24",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2024,
+  "fecha_creacion": "2024-03-06",
+  "magistrado_ponente": "Cristina Pardo Schlesinger",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "CONTROL CONSTITUCIONAL DE DECRETO LEGISLATIVO DE ESTADO DE EMERGENCIA ECONOMICA, SOCIAL Y ECOLOGICA",
+  "subtema": "Juicio de conexidad material",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2067 de 1991",
+    "Decreto Ley 262 de 2000",
+    "Ley 137 de 1994",
+    "Decreto 1085 de 2023",
+    "Ley 300 de 1996",
+    "Decreto 1074 de 2015",
+    "Ley 1101 de 2006",
+    "Ley 2068 de 2020",
+    "Ley 2294 de 2023",
+    "Decreto 1267 de 2023"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2024/C-069-24.htm",
+  "fecha_descarga": "2026-10-21T01:52:09.795401+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2024-03-06",
+  "fecha_publicacion": "2024-04-30",
+  "numero": "C-069/24",
+  "tipo_cc": "C",
+  "prov_id": "46164",
+  "tema_relatoria": "INEXEQUIBILIDAD POR CONSECUENCIA DE DECRETO LEGISLATIVO EXPEDIDO EN EL MARCO DEL ESTADO DE EMERGENCIA ECONÓMICA, SOCIAL Y ECOLÓGICA EN EL DEPARTAMENTO DE LA GUAJIRA. EFECTOS INMEDIATOS.",
+  "resumen": "Demanda de inconstitucionalidad en contra del Decreto Legislativo 1267 de 2023, por el cual se adoptan medidas temporales para la reactivación del turismo en el departamento de La Guajira, en el marco del Estado de Emergencia, Social y Ecológica. Luego de recordar que la Corte mediante Sentencia C-383/23 declaró la inexequibilidad del decreto legislativo matriz del estado de emergencia, con efectos diferidos respecto de la amenaza de agravamiento de la crisis humanitaria por la menor disponibilidad de agua, se verificó si la norma objeto de estudio cumplía con el requisito de estricta conexidad externa. Tras concluir que, ni de las medidas ni de los considerandos del Decreto Legislativo 1267 de 2023 se desprende que éste guarde una relación siquiera cercana con la amenaza de agravamiento antes descrita, se dejó de lado el análisis de los demás requisitos formales y materiales y se declaró su INEXEQUIBILIDAD por consecuencia y con efectos inmediatos.",
+  "titulaciones": [
+    {
+      "tema": "CONTROL CONSTITUCIONAL DE DECRETO LEGISLATIVO DE ESTADO DE EMERGENCIA ECONOMICA, SOCIAL Y ECOLOGICA",
+      "subtema": "Juicio de conexidad material"
+    },
+    {
+      "tema": "INCONSTITUCIONALIDAD POR CONSECUENCIA EN DECLARACION DE EMERGENCIA",
+      "subtema": "Configuración"
+    },
+    {
+      "tema": "DECRETO LEGISLATIVO EN DESARROLLO DE ESTADO DE EMERGENCIA ECONÓMICA, SOCIAL Y ECOLÓGICA EN EL DEPARTAMENTO DE LA GUAJIRA",
+      "subtema": "Inexequibilidad por consecuencia"
+    },
+    {
+      "tema": "INCONSTITUCIONALIDAD POR CONSECUENCIA DE DECRETO LEGISLATIVO DE ESTADO DE EMERGENCIA SOCIAL",
+      "subtema": "Improcedencia de análisis formal y material"
+    }
+  ]
+}

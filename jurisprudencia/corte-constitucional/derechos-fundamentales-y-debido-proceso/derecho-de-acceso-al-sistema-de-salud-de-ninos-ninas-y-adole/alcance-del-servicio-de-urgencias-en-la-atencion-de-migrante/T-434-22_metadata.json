@@ -1,0 +1,58 @@
+{
+  "radicado": "T-434-22",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2022,
+  "fecha_creacion": "2022-11-30",
+  "magistrado_ponente": "Antonio José Lizarazo Ocampo",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "DERECHO DE ACCESO AL SISTEMA DE SALUD DE NIÑOS, NIÑAS Y ADOLESCENTES EXTRANJEROS EN COLOMBIA",
+  "subtema": "Alcance del servicio de urgencias en la atención de migrantes irregulares",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2408 de 2018",
+    "Decreto 64 de 2020",
+    "Decreto Ley 2591 de 1991",
+    "Ley 1122 de 2007",
+    "Ley 1751 de 2015",
+    "Ley 100 de 1993",
+    "Decreto 2591 de 1991",
+    "Ley 1949 de 2019",
+    "Ley 712 de 2001",
+    "Ley 1564 de 2012"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2022/T-434-22.htm",
+  "fecha_descarga": "2026-10-21T07:52:44.674734+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2022-11-30",
+  "fecha_publicacion": "2023-01-24",
+  "numero": "T-434/22",
+  "tipo_cc": "T",
+  "prov_id": "39555",
+  "tema_relatoria": "DERECHO DE ACCESO AL SISTEMA DE SALUD DE NIÑOS, NIÑAS Y ADOLESCENTE EXTRANJEROS EN COLOMBIA-ALCANCE DEL SERVICIO DE URGENCIA EN LA ATENCIÓN DE MIGRANTES IRREGULARES.",
+  "resumen": "La accionante es de nacionalidad venezolana y actúa en representación de un hijo menor de edad que sufrió una fractura mientras jugaba y a quien le tuvieron que realizar una cirugía de urgencia por dicho hecho. En sede de tutela se cuestiona tanto al hospital que indicó que para realizar un procedimiento postquirúrgico al menor tenía que pagar un valor en dinero que ella no podía sufragar, como al Instituto que negó la autorización para realizarlo con cargo a los recursos del Departamento. Teniendo en cuenta que la Sala constató que el hospital realizó el procedimiento reclamado, no por haber sido autorizado, sino porque fue necesario que atendiera de urgencia al niño cuando acudió con intenso dolor y que con ello se satisfizo la pretensión de la acción de tutela, se declaró la carencia actual de objeto por HECHO SUPERADO. No obstante, se instó a la peticionaria para que regularice su situación migratoria en el país, junto a la de su hijo.",
+  "titulaciones": [
+    {
+      "tema": "DERECHO DE ACCESO AL SISTEMA DE SALUD DE NIÑOS, NIÑAS Y ADOLESCENTES EXTRANJEROS EN COLOMBIA",
+      "subtema": "Alcance del servicio de urgencias en la atención de migrantes irregulares"
+    },
+    {
+      "tema": "ACCION DE TUTELA TEMERARIA",
+      "subtema": "Para que se configure temeridad debe evidenciarse la mala fe en el actuar del peticionario"
+    },
+    {
+      "tema": "CARENCIA ACTUAL DE OBJETO POR HECHO SUPERADO",
+      "subtema": "Se realizó cirugía de alta complejidad a menor"
+    },
+    {
+      "tema": "DERECHO DE ACCESO AL SISTEMA DE SALUD DE NIÑOS, NIÑAS Y ADOLESCENTES MIGRANTES EN COLOMBIA",
+      "subtema": "Progresividad hasta alcanzar la atención integral"
+    },
+    {
+      "tema": "ACCION DE TUTELA TEMERARIA",
+      "subtema": "Casos en que pese a la identidad de procesos no se configura temeridad"
+    }
+  ]
+}

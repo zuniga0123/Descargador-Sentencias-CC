@@ -1,0 +1,60 @@
+{
+  "radicado": "T-370-25",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2025,
+  "fecha_creacion": "2025-09-04",
+  "magistrado_ponente": "Héctor Alfonso Carvajal Londoño",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "DERECHO DE PETICIÓN",
+  "subtema": "Vulneración por falta de respuesta",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 1755 de 2015",
+    "Decreto 2591 de 1991",
+    "Ley 1437 de 2011",
+    "Ley 100 de 1993"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2025/T-370-25.htm",
+  "fecha_descarga": "2026-10-20T22:42:55.799606+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2025-09-04",
+  "fecha_publicacion": "2025-09-12",
+  "numero": "T-370/25",
+  "tipo_cc": "T",
+  "prov_id": "53518",
+  "tema_relatoria": "DERECHO A LA SALUD (asignación de citas médicas) Y DERECHO DE PETICIÓN (alcance y contenido)",
+  "resumen": "El actor adujo que las autoridades accionadas vulneraron sus derechos fundamentales porque no le dieron respuesta a la petición que radicó para solicitar, entre otras cosas, recibir información sobre algunas citas médicas que había cancelado después de estar programadas, pese a ser un adulto mayor con una pérdida de capacidad laboral del 75%. La Corte reiteró que el contenido y alcance del derecho fundamental de petición implica la posibilidad de que los ciudadanos formulen solicitudes, que las autoridades las resuelvan prontamente, que las respuestas sean de fondo, es decir, precisas, congruentes y consecuentes y que sean los peticionarios sean notificados de dicha resolución. Se CONCEDIÓ el amparo y se ordenó a las dos entidades accionadas resolver de fondo las solicitudes que el actor presentó ante ellas, así como notificar esa respuesta en debida forma. Se reiteró que el ejercicio del derecho de petición es condición de posibilidad del ejercicio de otros derechos fundamentales como el derecho a la salud en su faceta de derecho al diagnóstico. Por lo anterior, se ordenó a la EPS Sanitas que programe una cita médica para valorar clínicamente al demandante a efectos de definir qué servicios, medicamentos y procedimientos está necesitando y notificarle la reprogramación de las citas médicas necesarias para llevar a cabo esa valoración. Al peticionario se le advirtió que, en adelante, las solicitudes que presente aparte de ser claras e identificar el objeto de la petición y las razones en las fundamente, deben ser respetuosas para con los destinatarios, tal y como lo mandan los artículos 16 y 19 de la Ley 1437 de 2011.",
+  "titulaciones": [
+    {
+      "tema": "DERECHO DE PETICIÓN",
+      "subtema": "Vulneración por falta de respuesta"
+    },
+    {
+      "tema": "DERECHO DE PETICIÓN",
+      "subtema": "Núcleo esencial"
+    },
+    {
+      "tema": "ACCION DE TUTELA EN MATERIA DE DERECHO DE PETICION",
+      "subtema": "Procedencia de manera directa por ser derecho fundamental de aplicación inmediata"
+    },
+    {
+      "tema": "DERECHO FUNDAMENTAL DE PETICION",
+      "subtema": "Marco jurídico y elementos esenciales"
+    },
+    {
+      "tema": "DERECHO DE PETICIÓN",
+      "subtema": "Alcance y contenido de la respuesta"
+    },
+    {
+      "tema": "DERECHO DE PETICIÓN",
+      "subtema": "Respuesta debe ser de fondo, oportuna, congruente y tener notificación efectiva"
+    },
+    {
+      "tema": "CARENCIA ACTUAL DE OBJETO",
+      "subtema": "Fenómeno que se configura en los siguientes eventos: hecho superado, daño consumado o situación sobreviniente"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "radicado": "SU316-23",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2023,
+  "fecha_creacion": "2023-08-15",
+  "magistrado_ponente": "Alejandro Linares Cantillo",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+  "subtema": "Requisitos generales y especiales de procedibilidad",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto Ley 2591 de 1991",
+    "Decreto 2591 de 1991",
+    "Ley 95 de 1890"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2023/SU316-23.htm",
+  "fecha_descarga": "2026-10-21T04:37:46.333430+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2023-08-15",
+  "fecha_publicacion": "2023-11-23",
+  "numero": "SU.316/23",
+  "tipo_cc": "SU",
+  "prov_id": "44785",
+  "tema_relatoria": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES EN MEDIO DE CONTROL DE REPARACIÓN DIRECTA-CONCEDE AMPARO, DEFECTO FÁCTICO EN LA APLICACIÓN DE LA CAUSA EXTRAÑA EXIMENTE DE RESPONSABILIDAD (hecho del tercero).",
+  "resumen": "En este caso se cuestiona la decisión judicial de segunda instancia adoptada al interior de un proceso de reparación directa iniciado en contra de la Nación-Mindefensa-Ejército Nacional. Con la precitada causa se pretendía el resarcimiento de los perjuicios sufridos por un menor de edad y su familia, con ocasión de las lesiones que recibió el primero como consecuencia de la caída de un portón vehicular averiado, el cual cayó sobre su cuerpo cuando salía de una unidad militar, produciéndole lesiones que condujeron a una pérdida de capacidad laboral del 86.50%. El fallo cuestionado revocó la decisión que había declarado la responsabilidad del Estado y, en su lugar, negó las pretensiones de la demanda al encontrar demostrada una causa extraña por el hecho de un tercero en la configuración del daño, consistente en el comportamiento del soldado profesional, familiar del menor, que ingresó a este último a la unidad militar y lo instruyó para salir por el portón vehicular que, a la postre, cayó sobre su cuerpo y lo lesionó. Se reitera jurisprudencia relacionada con el defecto fáctico como causal específica de procedibilidad de la acción de tutela contra providencias judiciales. Por encontrar probado el defecto alegado y, en consecuencia, acreditada la vulneración de los derechos fundamentales de los accionantes al debido proceso y al acceso a la administración de justicia, la Sala Plena de la Corporación decidió CONCEDER el amparo invocado. Se deja sin efectos el fallo cuestionado y se ordena a la autoridad judicial accionada proferir uno nuevo, teniendo en cuenta la responsabilidad exclusiva del Estado.",
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Requisitos generales y especiales de procedibilidad"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES EN MEDIO DE CONTROL DE REPARACIÓN DIRECTA",
+      "subtema": "Vulneración del debido proceso por defecto fáctico en la valoración probatoria"
+    },
+    {
+      "tema": "LEGITIMACIÓN POR ACTIVA EN TUTELA",
+      "subtema": "Madre en representación de hijo menor"
+    },
+    {
+      "tema": "ELEMENTOS DE LA RESPONSABILIDAD DEL ESTADO",
+      "subtema": "Daño antijurídico, acción u omisión imputable al Estado y un nexo de causalidad"
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA PROVIDENCIAS JUDICIALES POR DEFECTO FACTICO",
+      "subtema": "Reiteración de jurisprudencia"
+    }
+  ]
+}

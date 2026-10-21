@@ -1,0 +1,49 @@
+{
+  "radicado": "C-031-25",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2025,
+  "fecha_creacion": "2025-02-04",
+  "magistrado_ponente": "Jorge Enrique Ibáñez Najar",
+  "area": "Derecho Constitucional Económico",
+  "tema": "INHIBICION DE LA CORTE CONSTITUCIONAL EN DEMANDA POR OMISION LEGISLATIVA",
+  "subtema": "Ineptitud sustantiva por incumplimiento de requisitos de suficiencia y especificidad",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 2277 de 2022",
+    "Decreto Ley 2067 de 1991",
+    "Decreto 2067 de 1991",
+    "Decreto 1068 de 2015",
+    "Ley 2277 de 2023"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2025/C-031-25.htm",
+  "fecha_descarga": "2026-10-20T23:00:40.957039+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2025-02-04",
+  "fecha_publicacion": "2026-04-08",
+  "numero": "C-031/25",
+  "tipo_cc": "C",
+  "prov_id": "60736",
+  "tema_relatoria": "Fallo inhibitorio por ineptitud sustantiva de la demanda formulada en contra de norma contenida en reforma tributaria que regula el impuesto al patrimonio.",
+  "resumen": "Demandas de inconstitucionalidad contra los artículos 35.1, 36, 37, 38 y 39 de la Ley 2277 de 2022, por medio de la cual se adopta una reforma tributaria para la igualdad y la justicia social y se dictan otras disposiciones. Los artículos acusados regulan el impuesto al patrimonio y los actores alegaron que dicho tributo desconoce los principios de equidad y progresividad tributaria, genera un escenario que afecta desproporcionalmente a los contribuyentes sin liquidez suficiente para asumir la obligación fiscal. Al constatar el cumplimiento de los presupuestos de procedencia encontró la Corte que los cargos formulados no cumplieron con los requisitos mínimos exigidos en el artículo 2 del Decreto 2067 de 1991 y en la jurisprudencia constitucional para realizar un examen de fondo. Con base en lo anterior, la Sala Plena de la Corporación se declaró INHIBIDA, por la ineptitud sustantiva de la demanda.",
+  "titulaciones": [
+    {
+      "tema": "INHIBICION DE LA CORTE CONSTITUCIONAL EN DEMANDA POR OMISION LEGISLATIVA",
+      "subtema": "Ineptitud sustantiva por incumplimiento de requisitos de suficiencia y especificidad"
+    },
+    {
+      "tema": "INHIBICION DE LA CORTE CONSTITUCIONAL",
+      "subtema": "Incumplimiento de requisitos exigidos en cargo por violación del principio de equidad tributaria"
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD QUE PRETENDE EL CAMBIO DE PRECEDENTE CONSTITUCIONAL",
+      "subtema": "Requisitos"
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD CONTRA NORMA TRIBUTARIA",
+      "subtema": "Inhibición por ineptitud sustantiva de la demanda"
+    }
+  ]
+}

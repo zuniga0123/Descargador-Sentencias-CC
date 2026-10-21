@@ -1,0 +1,54 @@
+{
+  "radicado": "C-170-26",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2026,
+  "fecha_creacion": "2026-06-03",
+  "magistrado_ponente": "Héctor Alfonso Carvajal Londoño",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "INHIBICION DE LA CORTE CONSTITUCIONAL",
+  "subtema": "Incompetencia sobre decretos reglamentarios",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 721 de 2025",
+    "Decreto 1066 de 2015",
+    "Decreto Ley 2067 de 1991",
+    "Acto Legislativo 2 de 2021",
+    "Ley 1437 de 2011",
+    "Decreto 1207 de 2021",
+    "Acto Legislativo 1 de 2016",
+    "Ley 5 de 1992",
+    "Acto Legislativo 2 de 2017",
+    "Acto Legislativo 5 de 2017"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2026/C-170-26.htm",
+  "fecha_descarga": "2026-10-20T21:07:15.651345+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2026-06-03",
+  "fecha_publicacion": "2026-08-26",
+  "numero": "C-170/26",
+  "tipo_cc": "C",
+  "prov_id": "61689",
+  "tema_relatoria": "Inhibición de la Corte Constitucional por falta de competencia para ejercer control de constitucionalidad sobre decreto que reglamenta el Acto Legislativo 02 de 2021 en relación con las sanciones aplicables a los elegidos en las Circunscripciones Transitorias Especiales de Paz.",
+  "resumen": "Revisión de constitucionalidad del Decreto 721 de 25 de junio de 2025, por el cual se adiciona el Capítulo 10 al Título 1 de la Parte 3 del Libro 2 del Decreto 1066 de 2015, Decreto Único Reglamentario del Sector Administrativo del Interior, para reglamentar el Acto Legislativo 02 del 25 de agosto de 2021, en lo relativo a las sanciones aplicables a los elegidos en las Circunscripciones Transitorias Especiales de Paz. Al realizar el análisis de procedencia encontró la Corte que el precitado Decreto tiene naturaleza reglamentaria y que a la luz del artículo 241 Superior no tiene competencia para ejercer control de constitucionalidad sobre los contenidos normativos previstos en él, toda vez que dicha competencia recae en el Consejo de Estado. Con base en lo anterior, la Sala Plena de la Corporación se declaró INHIBIDA para emitir pronunciamiento de mérito.",
+  "titulaciones": [
+    {
+      "tema": "INHIBICION DE LA CORTE CONSTITUCIONAL",
+      "subtema": "Incompetencia sobre decretos reglamentarios"
+    },
+    {
+      "tema": "COMPETENCIA EN CONTROL DE CONSTITUCIONALIDAD",
+      "subtema": "Criterios para determinar naturaleza de la norma"
+    },
+    {
+      "tema": "ACTO LEGISLATIVO 02 DE 2021 POR MEDIO DEL CUAL SE CREAN CIRCUNSCRIPCIONES TRANSITORIAS ESPECIALES DE PAZ PARA LA CÁMARA DE REPRESENTANTES",
+      "subtema": "Carácter reglamentario de las facultades otorgadas al Gobierno"
+    },
+    {
+      "tema": "DEMANDA CONTRA DECRETOS REGLAMENTARIOS",
+      "subtema": "Competencia del Consejo de Estado"
+    }
+  ]
+}

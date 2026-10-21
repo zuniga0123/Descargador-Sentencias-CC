@@ -1,0 +1,43 @@
+{
+  "radicado": "C-255-25",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2025,
+  "fecha_creacion": "2025-06-12",
+  "magistrado_ponente": "Jorge Enrique Ibáñez Najar",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "INHIBICION DE LA CORTE CONSTITUCIONAL",
+  "subtema": "Criterio subjetivo sobre norma demandada",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 1437 de 2011",
+    "Decreto 2067 de 1991",
+    "Decreto Ley 2067 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2025/C-255-25.htm",
+  "fecha_descarga": "2026-10-20T23:01:28.868062+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2025-06-12",
+  "fecha_publicacion": "2026-02-06",
+  "numero": "C-255/25",
+  "tipo_cc": "C",
+  "prov_id": "60421",
+  "tema_relatoria": "Fallo inhibitorio por ineptitud sustantiva de la demanda contra norma del CPACA, relativa al alcance del juez en acciones populares cuando la vulneración de los derechos e intereses colectivos provenga de un acto administrativo o un contrato estatal",
+  "resumen": "Demanda de inconstitucionalidad en contra del artículo 144 inciso segundo parcial de la Ley 1437 de 2011, por la cual se expide el Código de Procedimiento Administrativo y de lo Contencioso Administrativo. El actor adujo que la frase “sin que, en uno u otro evento, pueda el juez anular el acto o el contrato, sin perjuicio de que pueda adoptar las medidas que sean necesarias para hacer cesar la amenaza o vulneración de los derechos colectivos” es contraria a los artículos 2, 4, 6, 40-6, 88 (inciso 1) y 95-2, 5, 7 y 8 de la Constitución Política. Ello, porque vacía de contenido a la acción popular y la hace ineficaz para la protección de derechos colectivos, toda vez que impide que el juez pueda anular actos administrativos o contratos estatales que vulneren o amenacen estas garantías. La Corte encontró que el cuestionamiento formulado en esta oportunidad no satisfizo los requisitos mínimos exigidos por la jurisprudencia constitucional para estructurar adecuadamente los cargos y, por ello, decidió declararse INHIBIDA para emitir un pronunciamiento de fondo. De manera específica, encontró que los cargos formulados carecían de certeza, especificad, pertinencia y suficiencia, en tanto se apoyaron en una lectura subjetiva y extensivas del contenido normativo acusado, sin ofrecer una confrontación objetiva y concreta con los textos constitucionales que se señalaron como trasgredidos.",
+  "titulaciones": [
+    {
+      "tema": "INHIBICION DE LA CORTE CONSTITUCIONAL",
+      "subtema": "Criterio subjetivo sobre norma demandada"
+    },
+    {
+      "tema": "INHIBICION DE LA CORTE CONSTITUCIONAL POR INEPTITUD SUSTANTIVA DE LA DEMANDA",
+      "subtema": "Ausencia de argumentos de carácter constitucional"
+    },
+    {
+      "tema": "INHIBICION DE LA CORTE CONSTITUCIONAL POR INEPTITUD SUSTANTIVA DE LA DEMANDA",
+      "subtema": "Incumplimiento de requisitos de certeza, especificidad, pertinencia y suficiencia en los cargos"
+    }
+  ]
+}

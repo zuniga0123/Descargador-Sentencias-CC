@@ -1,0 +1,51 @@
+{
+  "radicado": "T-178-26",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2026,
+  "fecha_creacion": "2026-06-10",
+  "magistrado_ponente": "Juan Carlos Cortés González",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "PERSONAL DOCENTE",
+  "subtema": "Terminación del contrato de trabajo",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 1010 de 2006",
+    "Ley 2452 de 2025",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2026/T-178-26.htm",
+  "fecha_descarga": "2026-10-20T20:59:13.231693+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2026-06-10",
+  "fecha_publicacion": "2026-07-01",
+  "numero": "T-178/26",
+  "tipo_cc": "T",
+  "prov_id": "61327",
+  "tema_relatoria": "Tutela por presuntos actos de acoso laboral a decano (terminación del contrato de trabajo durante el período de prueba)-Improcedencia del amparo por requisito de subsidiariedad, no acredita perjuicio irremediable.",
+  "resumen": "El actor interpuso la acción de tutela en contra de la institución educativa superior que lo vinculó como decano de su Facultad de Derecho. La vulneración de derechos fundamentales la atribuyó a la terminación del contrato laboral durante el período de prueba, lo cual ocurrió el mismo día en que el empleador tuvo conocimiento de la denuncia por acoso laboral que radicó ante el Ministerio del Trabajo. Las pretensiones de la solicitud de amparo fueron el reconocimiento de la protección prevista en el artículo 11 de la Ley 1010 de 2006, la declaratoria de ineficacia del despido, el reintegro al cargo y el pago de los salarios y prestaciones dejados de percibir. Al verificar el cumplimiento de los presupuestos de procedencia constató la Sala de Revisión que no se satisfizo el de subsidiariedad. Ello, por cuanto el accionante cuenta con mecanismos judiciales idóneos y eficaces para la protección de las garantías constitucionales que invocó, no acreditó la configuración de un perjuicio irremediable y no demostró que la continuidad de su atención médica dependiera del vínculo laboral con la accionada. Con base en lo anterior, se declaró IMPROCEDENTE la acción de tutela deprecada en esta oportunidad.",
+  "titulaciones": [
+    {
+      "tema": "PERSONAL DOCENTE",
+      "subtema": "Terminación del contrato de trabajo"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Improcedencia por falta del requisito de subsidiariedad"
+    },
+    {
+      "tema": "ACOSO LABORAL EN EL SECTOR PRIVADO",
+      "subtema": "Improcedencia de tutela por cuanto es más efectivo acudir al juez laboral"
+    },
+    {
+      "tema": "ACCION DE TUTELA PARA OBTENER REINTEGRO LABORAL",
+      "subtema": "Improcedencia por existir otro medio de defensa judicial y no acreditarse perjuicio irremediable"
+    },
+    {
+      "tema": "PRINCIPIO DE SUBSIDIARIEDAD DE LA ACCIÓN DE TUTELA",
+      "subtema": "Juez debe verificar si ante la existencia de otro medio de defensa judicial, éste es eficaz e idóneo"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "radicado": "C-333-23",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2023,
+  "fecha_creacion": "2023-08-29",
+  "magistrado_ponente": "Antonio José Lizarazo Ocampo",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "PRINCIPIO DE PROGRESIVIDAD Y PROHIBICION DE REGRESIVIDAD",
+  "subtema": "Alcance",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 82 de 1993",
+    "Ley 1232 de 2008",
+    "Decreto Ley 2067 de 1991",
+    "Decreto Ley 19 de 2012",
+    "Ley 57 de 1887",
+    "Decreto 2150 de 1995",
+    "Ley 489 de 1998",
+    "Decreto 2067 de 1991",
+    "Ley 962 de 2005"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2023/C-333-23.htm",
+  "fecha_descarga": "2026-10-21T04:32:55.504745+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2023-08-29",
+  "fecha_publicacion": "2023-10-26",
+  "numero": "C-333/23",
+  "tipo_cc": "C",
+  "prov_id": "44416",
+  "tema_relatoria": "MUJER CABEZA DE FAMILIA. CONDICIÓN DEBE SER DECLARADA ANTE NOTARIO.",
+  "resumen": "Demanda de inconstitucionalidad contra el parágrafo del artículo 2 de la Ley 82 de 1993, modificado por el artículo 1º de la Ley 1232 de 2008, por la cual se modifica la Ley 82 de 1993, Ley Mujer Cabeza de Familia y se dictan otras disposiciones. Según los accionantes, la modificación introducida por la disposición cuestionada, mediante la cual se eliminó el requisito de que la mujer cabeza de familia tenga bajos ingresos a efectos de demostrar la jefatura femenina de hogar, igualó de manera injustificada las condiciones de todas las mujeres cabeza de familia, con lo cual incurrió en desconocimiento del derecho a la igualdad y del principio de no regresividad. Concluyó la Corte que ninguno de los cargos de la demanda se fundó en razones ciertas, específicas, pertinentes ni suficientes y, por tanto, incumplió la carga mínima de argumentación requerida para adelantar el control de constitucionalidad. Con base en lo anterior, la Sala Plena de la Corporación se declaró INHIBIDA para emitir pronunciamiento de fondo, dada la ineptitud sustantiva de la demanda.",
+  "titulaciones": [
+    {
+      "tema": "PRINCIPIO DE PROGRESIVIDAD Y PROHIBICION DE REGRESIVIDAD",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "INHIBICION DE LA CORTE CONSTITUCIONAL",
+      "subtema": "Incumplimiento de requisitos exigidos en cargo por violación al principio de no regresividad"
+    },
+    {
+      "tema": "PRINCIPIO DE PROGRESIVIDAD Y REGLA DE NO REGRESION",
+      "subtema": "Diferencias"
+    },
+    {
+      "tema": "INHIBICION DE LA CORTE CONSTITUCIONAL",
+      "subtema": "Incumplimiento de requisitos exigidos en cargo por violación al principio de igualdad"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "radicado": "T-170-23",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2023,
+  "fecha_creacion": "2023-05-23",
+  "magistrado_ponente": "Jorge Enrique Ibáñez Najar",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "ACCION DE TUTELA CONTRA PROVIDENCIAS QUE RESUELVEN INCIDENTES DE DESACATO",
+  "subtema": "Requisitos de procedencia",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 1607 de 2012",
+    "Decreto 289 de 2014",
+    "Decreto 1340 de 1995",
+    "Decreto 1137 de 1999",
+    "Decreto 605 de 2013",
+    "Ley 1450 de 2011"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2023/T-170-23.htm",
+  "fecha_descarga": "2026-10-21T04:20:23.253475+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2023-05-23",
+  "fecha_publicacion": "2023-06-08",
+  "numero": "T-170/23",
+  "tipo_cc": "T",
+  "prov_id": "40671",
+  "tema_relatoria": "ACCIÓN DE TUTELA EN CONTRA DE ACTUACIONES JUDICIALES EN EL MARCO DE UN INCIDENTE DE DESACATO-NIEGA AMPARO POR CUANTO ICBF DIO CUMPLIMIENTO A LA SENTENCIA DE TUTELA SOBRE PAGO DE APORTES A LA SEGURIDAD SOCIAL EN PENSIONES A MADRES COMUNITARIAS.",
+  "resumen": "En este caso se cuestionan las decisiones judiciales adoptadas en el trámite de un incidente de desacato interpuesto en contra del ICBF, por no atender las órdenes dadas en un fallo de tutela anterior, en el cual, en segunda instancia, se le ordenó reconocer y pagar aportes a la seguridad social en pensiones a una madre comunitaria adscrita a la entidad. Según la accionante, dichas providencias vulneraron derechos fundamentales porque desconocieron el precedente constitucional en materia del régimen jurídico aplicable a las madres comunitarias, al momento de reconocerles su derecho pensional. Al resolver el incidente desacato el juzgado de instancia decidió sancionar a la directora del Instituto con 48 horas de arresto y una multa de dos SMLMV y en sede de consulta se resolvió confirmar la decisión del a quo, excepto en lo relativo al arresto. Como la sanción de multa se mantuvo incólume, la administración judicial inició el cobro coactivo en contra de la directora del ICBF. En sede de revisión se presentaron dos circunstancias sobrevinientes relevantes. Una, que en el trámite de la presente acción de tutela el juez responsable del desacato informó que el ICBF cumplió la orden de reconocer y pagar los aportes a pensión mencionados y que se había cerrado el incidente. La segunda situación fue que la Dirección Ejecutiva de Administración Judicial manifestó que había declarado la terminación del cobro coactivo de la multa, por pago total de la obligación. Teniendo en cuenta que la Sala de Revisión previamente realizó un recuento sobre el régimen legal y jurisprudencial aplicable a las madres comunitarias, para luego pasar a analizar sus implicaciones en el caso concreto, concluyó que no había fundamento para que el Instituto cuestionara las providencias judiciales objeto de tutela y por eso, decidió confirmarlas, como también lo hizo con las decisiones de instancia que NEGARON el amparo invocado.",
+  "titulaciones": [
+    {
+      "tema": "ACCION DE TUTELA CONTRA PROVIDENCIAS QUE RESUELVEN INCIDENTES DE DESACATO",
+      "subtema": "Requisitos de procedencia"
+    },
+    {
+      "tema": "FONDO DE SOLIDARIDAD PENSIONAL",
+      "subtema": "Subsidio al aporte en pensiones de las madres comunitarias"
+    },
+    {
+      "tema": "SISTEMA DE SEGURIDAD SOCIAL EN PENSIONES DE MADRES COMUNITARIAS",
+      "subtema": "Marco constitucional, legal y reglamentario"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA DECISIONES JUDICIALES EN INCIDENTE DE DESACATO",
+      "subtema": "Niega amparo por inexistencia de defecto fáctico y desconocimiento del precedente constitucional"
+    },
+    {
+      "tema": "RELACION ENTRE EL ICBF Y LAS MADRES COMUNITARIAS",
+      "subtema": "Jurisprudencia constitucional"
+    },
+    {
+      "tema": "SUBSIDIO DE SUBSISTENCIA PARA MADRES COMUNITARIAS RETIRADAS",
+      "subtema": "Marco regulativo"
+    },
+    {
+      "tema": "SUBSIDIO DE SUBSISTENCIA PARA MADRES COMUNITARIAS RETIRADAS",
+      "subtema": "Finalidad"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "radicado": "C-121-26",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2026,
+  "fecha_creacion": "2026-05-06",
+  "magistrado_ponente": "Héctor Alfonso Carvajal Londoño",
+  "area": "Derecho Constitucional Económico",
+  "tema": "INHIBICION DE LA CORTE CONSTITUCIONAL",
+  "subtema": "Incumplimiento de requisitos exigidos en cargo por violación al principio de igualdad",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 624 de 1989",
+    "Decreto 2067 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2026/C-121-26.htm",
+  "fecha_descarga": "2026-10-20T21:07:11.768302+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2026-05-06",
+  "fecha_publicacion": "2026-09-08",
+  "numero": "C-121/26",
+  "tipo_cc": "C",
+  "prov_id": "61788",
+  "tema_relatoria": "Fallo inhibitorio por ineptitud sustantiva de la demanda formulada contra algunas disposiciones del Estatuto Tributario, relacionadas con la tarifa aplicable a contribuyente del Régimen Simple de Tributación que realice dos o más actividades empresariales.",
+  "resumen": "Demanda de inconstitucionalidad parcial contra algunas disposiciones del parágrafo 5 del artículo 908 del Decreto 624 de 1989, por el cual se expide el Estatuto Tributario de los impuestos administrados por la Dirección General de Impuestos Nacionales. El cuestionamiento se hizo en contra de la expresión que establece que, cuando un mismo contribuyente del Régimen Simple de Tributación realiza dos o más actividades empresariales, debe someterse a la tarifa simple consolidada más alta, incluida la tarifa del impuesto nacional al consumo. El demandante alegó que la precitada regla desconoce los principios de igualdad, equidad tributaria horizontal, equidad tributaria vertical, capacidad contributiva y progresividad, porque aplica la tarifa superior a la totalidad de los ingresos del contribuyente pluriactivo, sin atender la proporción real de ingresos atribuible a cada actividad económica. Al examinar la aptitud sustancial de los cargos la Sala Plena de la Corporación concluyó que ninguno de ellos satisfacía las cargas mínimas de claridad, certeza, especificidad, pertinencia y suficiencia exigidas para activar el control abstracto de constitucionalidad. Con base en lo anterior, se declaró INHIBIDA para emitir un pronunciamiento de fondo.",
+  "titulaciones": [
+    {
+      "tema": "INHIBICION DE LA CORTE CONSTITUCIONAL",
+      "subtema": "Incumplimiento de requisitos exigidos en cargo por violación al principio de igualdad"
+    },
+    {
+      "tema": "INHIBICION DE LA CORTE CONSTITUCIONAL",
+      "subtema": "Cargos de conveniencia"
+    },
+    {
+      "tema": "INHIBICION DE LA CORTE CONSTITUCIONAL",
+      "subtema": "Incumplimiento de requisitos exigidos en cargo por violación al principio de progresividad"
+    },
+    {
+      "tema": "TERTIUM COMPARATIONIS",
+      "subtema": "Criterio para determinar si las situaciones o las personas son o no iguales"
+    }
+  ]
+}

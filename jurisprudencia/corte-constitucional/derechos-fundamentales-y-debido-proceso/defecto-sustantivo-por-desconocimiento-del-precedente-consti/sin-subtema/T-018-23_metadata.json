@@ -1,0 +1,100 @@
+{
+  "radicado": "T-018-23",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2023,
+  "fecha_creacion": "2023-02-07",
+  "magistrado_ponente": "Jorge Enrique Ibáñez Najar",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "DEFECTO SUSTANTIVO POR DESCONOCIMIENTO DEL PRECEDENTE CONSTITUCIONAL",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto Ley 2591 de 1991",
+    "Decreto 2591 de 1991",
+    "Ley 23 de 1981",
+    "Decreto 3380 de 1981"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2023/T-018-23.htm",
+  "fecha_descarga": "2026-10-21T04:25:16.264887+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2023-02-07",
+  "fecha_publicacion": "2023-03-06",
+  "numero": "T-018/23",
+  "tipo_cc": "T",
+  "prov_id": "39857",
+  "tema_relatoria": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES EN MEDIO DE CONTROL DE REPARACIÓN DIRECTA POR RESPONSABILIDAD MÉDICA-VULNERACIÓN DEL DEBIDO PROCESO POR DEFECTO FÁCTICO EN LA VALORACIÓN PROBATORIA SOBRE LA FALTA DE FIRMA DEL CONSENTIMIENTO Y ORDEN DE APLICAR PRECEDENTE DEL CONSEJO DE ESTADO.",
+  "resumen": "En este caso se atacan las decisiones judiciales adoptadas en un proceso de reparación directa interpuesto por los accionantes en contra de un centro hospitalario, por la comisión de una falla en la prestación del servicio médico que dio lugar al fallecimiento de un familiar. Se atribuye a los fallos cuestionados un defecto procedimental por exceso ritual manifiesto, debido a que las autoridades judiciales accionadas señalaron que no existía prueba pericial que demostrara con certeza que la lesión de la víctima se hubiera originado en un procedimiento médico erróneo. A su juicio, eslo desconoce que en Colombia no existe una tarifa legal para demostrar la falla en el servicio en asuntos de responsabilidad médica. Se reitera jurisprudencia relacionada: 1º. El defecto fáctico, en tanto causal específica de procedencia de la acción de tutela contra providencias judiciales, y sus dimensiones, especialmente en lo relativo a la valoración de la prueba. 2º. El defecto procedimental absoluto por exceso ritual manifiesto. 3º. El defecto sustantivo por desconocimiento del precedente judicial y, 4º. El defecto por error inducido. La Sala consideró que no había lugar a predicar la configuración de los defectos procedimentales o sustanciales alegados, pero concluyó que sí se evidencia la configuración de un defecto fáctico por una valoración indebida o irrazonable de las pruebas por parte del Tribunal accionado. Al respecto, se precisó que, en la sentencia de segunda instancia se tuvo por demostrada la existencia del consentimiento informado pese a que en el expediente obraba un documento que daba cuenta de que el paciente nunca firmó el mismo. Se CONCEDE el amparo invocado, se deja sin efectos el fallo de segunda instancia del proceso administrativo mencionado y se ordena a la autoridad judicial que lo profirió adoptar una nueva decisión teniendo en cuenta el elemento probatorio omitido, y aplicando el precedente jurisprudencial del Consejo de Estado que corresponde a este tipo de casos.",
+  "titulaciones": [
+    {
+      "tema": "DEFECTO SUSTANTIVO POR DESCONOCIMIENTO DEL PRECEDENTE CONSTITUCIONAL",
+      "subtema": null
+    },
+    {
+      "tema": "PRECEDENTE HORIZONTAL Y VERTICAL",
+      "subtema": "Alcance y carácter vinculante"
+    },
+    {
+      "tema": "PRECEDENTE JUDICIAL Y ANTECEDENTE JUDICIAL",
+      "subtema": "Diferencias"
+    },
+    {
+      "tema": "CONSENTIMIENTO INFORMADO DEL PACIENTE",
+      "subtema": "Características"
+    },
+    {
+      "tema": "CONSENTIMIENTO INFORMADO",
+      "subtema": "Requisitos"
+    },
+    {
+      "tema": "DEFECTO FACTICO",
+      "subtema": "Dimensión negativa y positiva"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES EN MEDIO DE CONTROL DE REPARACIÓN DIRECTA",
+      "subtema": "Deficiente valoración integral de las pruebas"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES EN MEDIO DE CONTROL DE REPARACIÓN DIRECTA",
+      "subtema": "Cumplimiento del requisito de subsidiariedad"
+    },
+    {
+      "tema": "CONSENTIMIENTO INFORMADO",
+      "subtema": "Desarrollo jurisprudencial en el ámbito del acto médico"
+    },
+    {
+      "tema": "MEDIO DE CONTROL DE REPARACIÓN DIRECTA EN EL ÁMBITO DEL ACTO MÉDICO",
+      "subtema": "Ausencia del consentimiento informado no constituye prueba de la causación de daño antijurídico"
+    },
+    {
+      "tema": "DEFECTO PROCEDIMENTAL POR EXCESO RITUAL MANIFIESTO",
+      "subtema": "Configuración"
+    },
+    {
+      "tema": "SEPARACION DEL PRECEDENTE",
+      "subtema": "El funcionario judicial puede apartarse de su propio precedente o del precedente resuelto por el superior jerárquico, siempre y cuando explique de manera expresa, amplia y suficiente las razones por las que modifica su posición"
+    },
+    {
+      "tema": "DEFECTO FACTICO POR INDEBIDA VALORACION PROBATORIA",
+      "subtema": "Configuración"
+    },
+    {
+      "tema": "DEFECTO POR ERROR INDUCIDO O POR CONSECUENCIA",
+      "subtema": "Configuración"
+    },
+    {
+      "tema": "PRECEDENTE HORIZONTAL Y VERTICAL",
+      "subtema": "Diferencias"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Requisitos generales y especiales de procedibilidad"
+    },
+    {
+      "tema": "CONSENTIMIENTO INFORMADO DEL PACIENTE",
+      "subtema": "Jurisprudencia constitucional"
+    }
+  ]
+}

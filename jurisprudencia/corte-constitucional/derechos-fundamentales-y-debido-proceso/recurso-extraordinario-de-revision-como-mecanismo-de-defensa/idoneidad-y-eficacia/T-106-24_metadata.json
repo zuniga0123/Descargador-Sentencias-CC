@@ -1,0 +1,45 @@
+{
+  "radicado": "T-106-24",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2024,
+  "fecha_creacion": "2024-04-09",
+  "magistrado_ponente": "Cristina Pardo Schlesinger",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "RECURSO EXTRAORDINARIO DE REVISION COMO MECANISMO DE DEFENSA JUDICIAL",
+  "subtema": "Idoneidad y eficacia",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 1437 de 2011",
+    "Decreto 2591 de 1991",
+    "Ley 797 de 2003",
+    "Ley 1564 de 2012",
+    "Ley 46 de 1998"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2024/T-106-24.htm",
+  "fecha_descarga": "2026-10-21T01:42:33.018228+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2024-04-09",
+  "fecha_publicacion": "2024-04-18",
+  "numero": "T-106/24",
+  "tipo_cc": "T",
+  "prov_id": "46031",
+  "tema_relatoria": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES EN MEDIO DE CONTROL DE NULIDAD Y RESTABLECIMIENTO DEL DERECHO EN MATERIA TRIBUTARIA-IMPROCEDENCIA POR ESTAR EN TRÁMITE RECURSO EXTRAORDINARIO DE REVISIÓN.",
+  "resumen": "En este caso se cuestiona una decisión judicial adoptada al interior de un proceso de nulidad y restablecimiento del derecho interpuesto por la empresa accionante en contra de la DIAN. Se aduce que dicho fallo vulneró derechos fundamentales al incurrir en un defecto fáctico, tras omitir la valoración de un grupo significativo de elementos probatorios. Luego de verificar el cumplimiento de los presupuestos de procedencia excepcional de la acción de tutela contra providencia judicial, constató la Corte que no se satisfizo el requisito de subsidiariedad por dos razones: (i) porque el recurso extraordinario de revisión se encontraba en curso y había sido admitido y, (ii) porque la actora no utilizó, en principio, los mecanismos que en el marco del medio de control estaban a su alcance para alegar la irregularidad que, aparentemente, llevó a la autoridad judicial a incurrir en el yerro que se le imputó vía tutela. Con base en lo anterior se revocó la decisión de instancia que denegó el amparo y, en su lugar, se declaró IMPROCEDENTE la tutela invocada.",
+  "titulaciones": [
+    {
+      "tema": "RECURSO EXTRAORDINARIO DE REVISION COMO MECANISMO DE DEFENSA JUDICIAL",
+      "subtema": "Idoneidad y eficacia"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Improcedencia por incumplimiento del principio de subsidiariedad por cuanto no agotaron los medios de defensa judicial"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Requisito de subsidiariedad"
+    }
+  ]
+}

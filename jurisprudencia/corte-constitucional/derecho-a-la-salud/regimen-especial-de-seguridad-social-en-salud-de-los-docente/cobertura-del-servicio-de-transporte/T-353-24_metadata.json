@@ -1,0 +1,87 @@
+{
+  "radicado": "T-353-24",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2024,
+  "fecha_creacion": "2024-08-26",
+  "magistrado_ponente": "Juan Carlos Cortés González Síntesis",
+  "area": "Derecho a la Salud",
+  "tema": "REGIMEN ESPECIAL DE SEGURIDAD SOCIAL EN SALUD DE LOS DOCENTES AFILIADOS AL FONDO NACIONAL DE PRESTACIONES SOCIALES DEL MAGISTERIO",
+  "subtema": "Cobertura del servicio de transporte",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 100 de 1993",
+    "Decreto Ley 4107 de 2011",
+    "Ley 91 de 1989",
+    "Ley 60 de 1993",
+    "Decreto Ley 2591 de 1991",
+    "Ley 1122 de 2007",
+    "Ley 1438 de 2011",
+    "Ley 1949 de 2019",
+    "Ley 1751 de 2015",
+    "Decreto Ley 1214 de 1990"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2024/T-353-24.htm",
+  "fecha_descarga": "2026-10-21T01:28:56.295453+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2024-08-26",
+  "fecha_publicacion": "2024-09-20",
+  "numero": "T-353/24",
+  "tipo_cc": "T",
+  "prov_id": "47177",
+  "tema_relatoria": "DERECHO AL DIAGNÓSTICO, COMO PARTE DEL DERECHO A LA SALUD-REGLAS PARA ACCEDER A SERVICIOS Y TECNOLOGÍAS EN SALUD (incluidas y expresamente excluidas) EN EL RÉGIMEN ESPECIAL DE SEGURIDAD SOCIAL DEL MAGISTERIO.",
+  "resumen": "La vulneración de derechos fundamentales por parte de la entidad accionada se atribuye a la falta de autorización de un examen ordenado a la accionante por su médico tratante, por encontrarse en alto riesgo de desarrollar síndrome de cáncer hereditario. La entidad argumentó que no era viable realizar el examen especializado requerido, porque ese tipo de pruebas debían hacerse por fuera del país y estaban expresamente excluidas del plan de beneficios de la Fiduprevisora y del plan de beneficios en salud. Se analizó la siguiente temática: 1º. El derecho fundamental a la salud, el cáncer de mama en Colombia y el enfoque de género. 2º. La precitada garantía en su faceta de diagnóstico. 3º. El acceso a servicios y tecnologías en salud en el Sistema General de Seguridad Social en Salud y el régimen de inclusión y exclusión. 4º. El suministro de servicios y tecnologías en salud en el régimen especial de seguridad social del magisterio. 5º. El examen denominado panel para cáncer hereditario NGS (35 genes) myRisk y, 6º. El precedente de la Sentencia SU.124/18. La Corte concluyó que la demandada interpretó equivocadamente el anexo correspondiente a las exclusiones de la Fiduprevisora y no tuvo en cuenta los fallos proferidos por esta corporación en materia de servicios y tecnologías en salud que hacen parte del PBS. Luego de verificar que (i) el régimen de excepción del magisterio solo puede excluir de sus servicios de salud lo que la Ley Estatutaria de Salud expresamente autorice; (ii) la accionante es una persona que, por sus antecedentes familiares, se encuentra en un alto riesgo de desarrollar el síndrome de predisposición hereditaria de cáncer y (iii) fue el profesional especializado en cirugía oncológica/mastología quien le ordenó el examen molecular, luego de una valoración médica, la Sala decidió CONCEDER el amparo invocado y ordenó a la entidad autorizar y realizar el examen solicitado",
+  "titulaciones": [
+    {
+      "tema": "REGIMEN ESPECIAL DE SEGURIDAD SOCIAL EN SALUD DE LOS DOCENTES AFILIADOS AL FONDO NACIONAL DE PRESTACIONES SOCIALES DEL MAGISTERIO",
+      "subtema": "Cobertura del servicio de transporte"
+    },
+    {
+      "tema": "SUMINISTRO DE INSUMOS, SERVICIOS Y TECNOLOGIAS EN SALUD EN EL REGIMEN ESPECIAL DEL FONDO NACIONAL DE PRESTACIONES SOCIALES DEL MAGISTERIO",
+      "subtema": "Sistema de inclusiones y exclusiones equiparable al Plan de Beneficios en Salud"
+    },
+    {
+      "tema": "PREVENCIÓN DEL CÁNCER DE MAMA COMO PARTE DEL NÚCLEO ESENCIAL DEL DERECHO A LA SALUD",
+      "subtema": "Detección temprana y aplicación del enfoque de género"
+    },
+    {
+      "tema": "PRINCIPIO DE SUBSIDIARIEDAD COMO REQUISITO DE PROCEDIBILIDAD DE LA ACCION DE TUTELA",
+      "subtema": "Procedencia dada la menor eficacia del mecanismo judicial ante la Superintendencia Nacional de Salud previsto en la ley 1122 de 2007"
+    },
+    {
+      "tema": "DERECHO FUNDAMENTAL A LA SALUD",
+      "subtema": "Reiteración de jurisprudencia"
+    },
+    {
+      "tema": "DERECHO AL DIAGNÓSTICO",
+      "subtema": "Reiteración de jurisprudencia"
+    },
+    {
+      "tema": "DERECHO AL DIAGNÓSTICO",
+      "subtema": "Acceso a pruebas y exámenes diagnósticos indispensables para determinar si se requiere o no un servicio de salud"
+    },
+    {
+      "tema": "SUMINISTRO DE INSUMOS, SERVICIOS Y TECNOLOGÍAS EXCLUIDOS DEL PLAN DE BENEFICIOS EN SALUD",
+      "subtema": "Reglas jurisprudenciales para no aplicar la exclusión"
+    },
+    {
+      "tema": "ACCESIBILIDAD A SERVICIOS MÉDICOS REQUERIDOS CON NECESIDAD",
+      "subtema": "En caso de no existir orden de médico tratante se protege la salud en la faceta de diagnóstico"
+    },
+    {
+      "tema": "DERECHO FUNDAMENTAL A LA SALUD",
+      "subtema": "Elementos y principios"
+    },
+    {
+      "tema": "PLAN DE BENEFICIOS EN SALUD",
+      "subtema": "Todo servicio o medicamento que no esté expresamente excluido, se entiende incluido"
+    },
+    {
+      "tema": "DERECHO AL DIAGNÓSTICO",
+      "subtema": "Está compuesto por tres etapas: identificación, valoración y prescripción"
+    }
+  ]
+}

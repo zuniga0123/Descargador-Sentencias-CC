@@ -1,0 +1,60 @@
+{
+  "radicado": "SU136-22",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2022,
+  "fecha_creacion": "2022-04-21",
+  "magistrado_ponente": "José Fernando Reyes Cuartas",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCION DE TUTELA PARA CONTROVERTIR DECISIONES JUDICIALES QUE HAN RECONOCIDO Y RELIQUIDADO PENSIONES CON PALMARIO ABUSO DEL DERECHO",
+  "subtema": "Reglas sobre la subsidiariedad",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 797 de 2003",
+    "Decreto 546 de 1971",
+    "Decreto 717 de 1978",
+    "Ley 100 de 1993",
+    "Ley 1437 de 2011",
+    "Acto Legislativo 1 de 2005",
+    "Decreto 1158 de 1994",
+    "Ley 332 de 1996",
+    "Decreto 610 de 1998",
+    "Decreto 1102 de 2012",
+    "Decreto 2460 de 2006",
+    "Decreto 3900 de 2008",
+    "Decreto 383 de 2013",
+    "Ley 4 de 1992",
+    "Ley 33 de 1985",
+    "Decreto 309 de 2017"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2022/SU136-22.htm",
+  "fecha_descarga": "2026-10-21T08:21:52.112556+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2022-04-21",
+  "fecha_publicacion": "2022-07-06",
+  "numero": "SU.136/22",
+  "tipo_cc": "SU",
+  "prov_id": "37922",
+  "tema_relatoria": "ACCION DE TUTELA CONTRA PROVIDENCIAS JUDICIALES INTERPUESTA POR COLPENSIONES. IMPROCEDENCIA POR INCUMPLIR REQUISITO DE SUBSIDIARIEDAD, AL NO HABER AGOTADO RECURSO EXTRAORDINARIO DE REVISION O HABERSE ACREDITADO EN LA ACTUACION UN ABUSO PALMARIO DEL DERECHO",
+  "resumen": "En este caso Colpensiones cuestionó las decisiones judiciales adoptadas al interior de dos procesos administrativos iniciados en su contra por varios de sus afiliados, en los cuales se cuestionaban actos administrativos que resolvieron solicitudes pensionales y en los que se le ordenó a la entidad reliquidar pensiones de exfuncionarios de la Rama Judicial, beneficiarios del régimen de transición. Se aduce que dichos fallos incurrieron en los defectos sustantivo, desconocimiento del precedente y violación directa de la Constitución. Se reitera jurisprudencia relacionada con la procedencia excepcional de la acción de tutela contra providencias judiciales y las revisiones de las pensiones reconocidas con abuso palmario del derecho. La Corte determinó que ninguna de las solicitudes de amparo superó el requisito de subsidiariedad, en la medida en que Colpensiones podía acudir al recurso extraordinario de revisión de que trata el artículo 20 de la Ley 797 de 2003, además de no cumplir con la carga exigida por la jurisprudencia para que esa clase de casos sean estudiados a través de la acción de tutela. Adicionalmente, no se encontró configurado un abuso palmario del derecho. En ambos asuntos se decidió confirmar las decisiones de instancia que declararon la IMPROCEDENCIA del amparo invocado.",
+  "titulaciones": [
+    {
+      "tema": "ACCION DE TUTELA PARA CONTROVERTIR DECISIONES JUDICIALES QUE HAN RECONOCIDO Y RELIQUIDADO PENSIONES CON PALMARIO ABUSO DEL DERECHO",
+      "subtema": "Reglas sobre la subsidiariedad"
+    },
+    {
+      "tema": "PENSIONES ADQUIRIDAS CON ABUSO DEL DERECHO",
+      "subtema": "Criterios para identificar eventos en los que el abuso del derecho emerge de modo palmario"
+    },
+    {
+      "tema": "TUTELA CONTRA PROVIDENCIAS JUDICIALES DE ALTAS CORTES EN ASUNTO PENSIONAL",
+      "subtema": "Improcedencia del amparo por incumplimiento del requisito de subsidiariedad, por cuanto no se verificó abuso palmario del derecho en reconocimiento pensional"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES DE ALTAS CORPORACIONES",
+      "subtema": "Requisitos generales y especiales de procedibilidad son más estrictos"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "radicado": "C-180-25",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2025,
+  "fecha_creacion": "2025-05-14",
+  "magistrado_ponente": "Jorge Enrique Ibáñez Najar",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "INHIBICION DE LA CORTE CONSTITUCIONAL POR INEPTITUD SUSTANTIVA DE LA DEMANDA",
+  "subtema": "Incumplimiento de requisitos de claridad, especificidad, pertinencia y suficiencia en los cargos",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 2277 de 2022",
+    "Decreto 2067 de 1991",
+    "Decreto Ley 2067 de 1991",
+    "Ley 100 de 1993",
+    "Ley 223 de 1995"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2025/C-180-25.htm",
+  "fecha_descarga": "2026-10-20T23:00:44.647209+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2025-05-14",
+  "fecha_publicacion": "2026-03-12",
+  "numero": "C-180/25",
+  "tipo_cc": "C",
+  "prov_id": "60620",
+  "tema_relatoria": "Fallo inhibitorio por ineptitud sustantiva de la demanda formulada en contra de norma que modificó el límite de renta exenta sobre los pagos laborales recibidos por personas naturales que perciben ingresos por rentas de trabajo.",
+  "resumen": "Demanda de inconstitucionalidad contra el artículo 2 (parcial) de la Ley 2277 de 2022, por medio de la cual se adopta una reforma tributaria para la igualdad y la justicia social y se dictan otras disposiciones. La disposición acusada modificó el límite de la renta exenta prevista en el numeral 10 del artículo 206 del Estatuto Tributario. A juicio de los actores, dicha reforma viola el artículo 1º de la Constitución, porque impone una carga fiscal desproporcionada que compromete el mínimo vital de los contribuyentes asalariados, en particular, de los empleados y funcionarios de la Rama Judicial, lo cual afecta, a su turno, el principio de dignidad humana. Al analizar la aptitud sustancial del cargo admitido constató la Corte que no cumplió con los requisitos de claridad, especificidad, pertinencia y suficiencia y, por ello, se declaró INHIBIDA para emitir pronunciamiento de fondo, dada la ineptitud sustantiva de la demanda.",
+  "titulaciones": [
+    {
+      "tema": "INHIBICION DE LA CORTE CONSTITUCIONAL POR INEPTITUD SUSTANTIVA DE LA DEMANDA",
+      "subtema": "Incumplimiento de requisitos de claridad, especificidad, pertinencia y suficiencia en los cargos"
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD CONTRA NORMA TRIBUTARIA",
+      "subtema": "Inhibición por ineptitud sustantiva de la demanda por la presunta violación del derecho al mínimo vital"
+    },
+    {
+      "tema": "CONCEPTO DE VIOLACION EN DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "Razones claras, ciertas, específicas, pertinentes y suficientes"
+    }
+  ]
+}

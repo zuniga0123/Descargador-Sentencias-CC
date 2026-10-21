@@ -1,0 +1,51 @@
+{
+  "radicado": "T-166-22",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2022,
+  "fecha_creacion": "2022-05-12",
+  "magistrado_ponente": "Natalia Ángel Cabo",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCIÓN DE TUTELA",
+  "subtema": "Improcedencia para controvertir asuntos de mera legalidad",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 678 de 2001",
+    "Decreto 2591 de 1991",
+    "Ley 1395 de 2010",
+    "Ley 1437 de 2011",
+    "Ley 1564 de 2012",
+    "Ley 2195 de 2022",
+    "Ley 678 de 2002"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2022/T-166-22.htm",
+  "fecha_descarga": "2026-10-21T08:05:59.572519+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2022-05-12",
+  "fecha_publicacion": "2022-06-10",
+  "numero": "T-166/22",
+  "tipo_cc": "T",
+  "prov_id": "37846",
+  "tema_relatoria": "ACCION DE TUTELA CONTRA PROVIDENCIAS JUDICIALES.IMPROCEDENCIA POR INEXISTENCIA DE DEFECTOS ALEGADOS",
+  "resumen": "En este caso se demanda en sede de tutela las decisiones adoptadas al interior de un proceso de nulidad y restablecimiento del derecho iniciado en contra del actor por haber proferido, en su calidad de juez de la República, un acto administrativo para declarar la insubsistencia de una empleada judicial. A través del fallo de primera instancia se ordenó el reintegro pretendido, así como el pago de las sumas de dinero dejadas de percibir por la empleada, toda vez que se evidenció en la declaratoria de insubsistencia una desviación del poder. Esta decisión fue impugnada por la defensa del Estado/Rama Judicial y luego de quedar ejecutoriado el fallo de segunda instancia, la Dirección Ejecutiva de la Rama Judicial procedió a pagar los valores adeudados a la demandante y decidió iniciar acción de repetición en contra del juez demandado. El actor considera que los fallos proferidos en el proceso administrativo son los que resultan violatorios de sus derechos fundamentales. Luego de verificar el cumplimiento de los requisitos de procedencia de la acción de tutela contra providencias judiciales, la Corte encontró que no se encuentran cumplidos los mismos y, por ello, decidió confirmar las decisiones de instancia que declararon la IMPROCEDENCIA del amparo constitucional invocado.",
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Improcedencia para controvertir asuntos de mera legalidad"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Identificación de hechos y derechos vulnerados y presentación en el proceso judicial"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Improcedencia por incumplir requisito de relevancia constitucional"
+    },
+    {
+      "tema": "PRINCIPIO DE SUBSIDIARIEDAD DE LA ACCIÓN DE TUTELA",
+      "subtema": "Improcedente porque el accionante tiene a su alcance otros medios de defensa"
+    }
+  ]
+}

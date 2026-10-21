@@ -1,0 +1,66 @@
+{
+  "radicado": "T-189-26",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2026,
+  "fecha_creacion": "2026-06-24",
+  "magistrado_ponente": "Jorge Enrique Ibáñez Najar",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCIÓN DE TUTELA",
+  "subtema": "Firma del accionante como requisito mínimo",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto Ley 2591 de 1991",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2026/T-189-26.htm",
+  "fecha_descarga": "2026-10-20T20:58:30.601424+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2026-06-24",
+  "fecha_publicacion": "2026-07-06",
+  "numero": "T-189/26",
+  "tipo_cc": "T",
+  "prov_id": "61346",
+  "tema_relatoria": "Tutela para el levantamiento medidas cautelares en proceso de cobro coactivo-Improcedencia por falta de legitimación en la causa por activa.",
+  "resumen": "La vulneración de derechos fundamentales por parte del Instituto accionado se atribuyó a la falta de levantamiento de la medida cautelar de embargo decretada en contra del actor y que, a pesar de que el proceso de cobro persuasivo y coactivo fue suspendido, la cuenta bancaria seguía afectada por dicha medida. Al verificar el cumplimiento de los requisitos generales de procedencia de la acción de tutela encontró la Sala que no se satisfizo el presupuesto de legitimación en la causa por activa. Ello, en la medida en que el titular de los derechos invocados no suscribió la acción de tutela, ni ratificó la actuación, ni la oficina de abogados involucrada en el caso allegó un poder escrito en el que constara que estaba facultada para actuar como apoderada del peticionario. Con base en lo anterior se confirmó la decisión de instancia que declaró la IMPROCEDENCIA de la solicitud de amparo invocada.",
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Firma del accionante como requisito mínimo"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Falta de especificidad o determinación en el poder del abogado"
+    },
+    {
+      "tema": "APODERADO JUDICIAL EN TUTELA",
+      "subtema": "Requisitos"
+    },
+    {
+      "tema": "FALTA DE LEGITIMACION POR ACTIVA EN TUTELA",
+      "subtema": "Abogado sin poder para actuar"
+    },
+    {
+      "tema": "FALTA DE LEGITIMACION POR ACTIVA",
+      "subtema": "El actor no estaba legitimado para interponer la acción de tutela"
+    },
+    {
+      "tema": "MEDIDAS CAUTELARES",
+      "subtema": "Levantamiento, modificación y revocatoria"
+    },
+    {
+      "tema": "EMBARGO",
+      "subtema": "Levantamiento"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Informalidad no excluye el cumplimiento de requisitos mínimos"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Requisitos de procedencia"
+    }
+  ]
+}

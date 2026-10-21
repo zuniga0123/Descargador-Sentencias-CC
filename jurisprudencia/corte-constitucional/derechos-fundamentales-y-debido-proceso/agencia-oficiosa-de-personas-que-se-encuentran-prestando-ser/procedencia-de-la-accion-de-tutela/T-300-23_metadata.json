@@ -1,0 +1,42 @@
+{
+  "radicado": "T-300-23",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2023,
+  "fecha_creacion": "2023-08-09",
+  "magistrado_ponente": "José Fernando Reyes Cuartas",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "AGENCIA OFICIOSA DE PERSONAS QUE SE ENCUENTRAN PRESTANDO SERVICIO MILITAR OBLIGATORIO",
+  "subtema": "Procedencia de la acción de tutela",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 1861 de 2017",
+    "Decreto Ley 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2023/T-300-23.htm",
+  "fecha_descarga": "2026-10-21T04:13:24.050873+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2023-08-09",
+  "fecha_publicacion": "2023-09-07",
+  "numero": "T-300/23",
+  "tipo_cc": "T",
+  "prov_id": "43828",
+  "tema_relatoria": "DEBIDO PROCESO DE RECLUTAMIENTO E INCORPORACIÓN AL SERVICIO MILITAR OBLIGATORIO-CARENCIA ACTUAL DE OBJETO POR HECHO SUPERADO.",
+  "resumen": "La accionante, actuando en nombre propio, en representación de su hijo que está por nacer y como agente oficiosa de su compañero permanente, considera que las entidades accionadas vulneraron derechos fundamentales al reclutar a este último para prestar el servicio militar obligatorio, sin permitirle manifestar las causales de exoneración que presentaba por cuanto ella estaba embarazada y su compañero era padre cabeza de familia. La pretensión principal de la solicitud de amparo es que el juez constitucional ordene el desacuartelamiento que corresponde por la causal invocada. En sede de revisión constató la Sala que el agenciado se encuentra desacuartelado y cuenta con la libreta militar como reservista de segunda clase. Por lo anterior se declaró la carencia actual de objeto por HECHO SUPERADO.",
+  "titulaciones": [
+    {
+      "tema": "AGENCIA OFICIOSA DE PERSONAS QUE SE ENCUENTRAN PRESTANDO SERVICIO MILITAR OBLIGATORIO",
+      "subtema": "Procedencia de la acción de tutela"
+    },
+    {
+      "tema": "ACCION DE TUTELA PARA SOLICITAR DESACUARTELAMIENTO DE CIUDADANOS QUE SE ENCUENTRAN PRESTANDO EL SERVICIO MILITAR",
+      "subtema": "Procedencia"
+    },
+    {
+      "tema": "CARENCIA ACTUAL DE OBJETO POR HECHO SUPERADO",
+      "subtema": "Ejército exoneró al accionante de prestar el servicio militar obligatorio"
+    }
+  ]
+}

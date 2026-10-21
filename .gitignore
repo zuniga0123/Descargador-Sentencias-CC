@@ -5,8 +5,14 @@ venv/
 *.egg-info/
 .pytest_cache/
 
-# Salida del scraper (providencias descargadas e índice)
-/jurisprudencia/
+# Rama "datos": las providencias descargadas (Markdown + metadata) SÍ se
+# suben a git; las genera el descargador del repo Descargador-Sentencias-CSJ
+# (python main.py --corte constitucional). El índice SQLite es un derivado
+# local que se regenera con --reconstruir-indice.
+/jurisprudencia/indice.sqlite
+/jurisprudencia/indice.sqlite-wal
+/jurisprudencia/indice.sqlite-shm
+/estado_enumeracion/*.tmp
 /jurisprudencia_md/
 /data/*.sqlite
 /data/*.sqlite-journal

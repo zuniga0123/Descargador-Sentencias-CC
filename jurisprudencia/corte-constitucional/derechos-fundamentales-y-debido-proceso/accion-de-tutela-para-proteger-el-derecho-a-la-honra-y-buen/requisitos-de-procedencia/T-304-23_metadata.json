@@ -1,0 +1,84 @@
+{
+  "radicado": "T-304-23",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2023,
+  "fecha_creacion": "2023-08-10",
+  "magistrado_ponente": "Antonio José Lizarazo Ocampo",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCIÓN DE TUTELA PARA PROTEGER EL DERECHO A LA HONRA Y BUEN NOMBRE EN REDES SOCIALES ENTRE PARTICULARES",
+  "subtema": "Requisitos de procedencia",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Decreto Ley 2591 de 1991",
+    "Ley 1480 de 2011",
+    "Ley 1581 de 2012"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2023/T-304-23.htm",
+  "fecha_descarga": "2026-10-21T04:14:13.038235+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2023-08-10",
+  "fecha_publicacion": "2023-08-28",
+  "numero": "T-304/23",
+  "tipo_cc": "T",
+  "prov_id": "43718",
+  "tema_relatoria": "DERECHO A LA HONRA, BUEN NOMBRE Y HABEAS DATA EN REDES SOCIALES-VULNERACIÓN POR ACCESO ILEGAL A CONTACTOS POR WHATSAPP Y REMITIR MENSAJES DIFAMATORIOS E INJURIOSOS.",
+  "resumen": "En dos acciones de tutela formuladas de manera independiente se aduce que la sociedad accionada, quien realiza operaciones de crédito por medio de la aplicación EastBay, vulneró derechos fundamentales al recolectar datos personales de carácter sensible al momento de la solicitud de un crédito digital, haciendo uso ilegal de algunos de estos datos para enviar mensajes difamatorios a los contactos de WhatsApp de los actores, en los que fueron señalados de incurrir en conductas fraudulentas o delictivas con ocasión de la supuesta falta de pago de un crédito digital o de los intereses causados. Se analiza doctrina de la Corporación sobre: 1º. La protección de los derechos a la honra y al buen nombre en conexidad con la dignidad humana y; 2º. El derecho fundamental al habeas data en la jurisprudencia constitucional y los principios y reglas a los que deben someterse los administradores de datos personales. Se CONCEDE el amparo invocado y se imparten una serie de órdenes conducentes a hacer efectivo el goce de los derechos tutelados. Así mismo, se corre traslado de los expedientes a la Fiscalía General de la Nación, a la Superintendencia de Industria y Comercio y a la Superintendencia Financiera, con el propósito de que inicien, con la máxima celeridad posible, las actuaciones constitucionales y legales a las que hubiere lugar, en el ámbito de sus competencias.",
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA PARA PROTEGER EL DERECHO A LA HONRA Y BUEN NOMBRE EN REDES SOCIALES ENTRE PARTICULARES",
+      "subtema": "Requisitos de procedencia"
+    },
+    {
+      "tema": "DERECHO A LA HONRA Y AL BUEN NOMBRE",
+      "subtema": "Concepto"
+    },
+    {
+      "tema": "DERECHO AL HABEAS DATA EN TRATAMIENTO DE DATOS PERSONALES",
+      "subtema": "Deberes y responsabilidades de los responsables y encargados del tratamiento"
+    },
+    {
+      "tema": "LEGITIMACION POR PASIVA DE PLATAFORMAS DIGITALES O REDES SOCIALES",
+      "subtema": "Corresponde al juez constitucional, examinar en cada caso concreto la situación de indefensión frente a internet y a las redes sociales"
+    },
+    {
+      "tema": "DERECHO AL HABEAS DATA",
+      "subtema": "Alcance y contenido"
+    },
+    {
+      "tema": "DERECHO AL HABEAS DATA",
+      "subtema": "Facultad a su titular de conocer la información recogida en bancos de datos o archivos ya se trate de entidades públicas o privadas"
+    },
+    {
+      "tema": "DERECHO AL HABEAS DATA O AUTODETERMINACION INFORMATICA",
+      "subtema": "Reglas para verificar su afectación"
+    },
+    {
+      "tema": "DERECHO AL BUEN NOMBRE",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "DERECHO AL HABEAS DATA",
+      "subtema": "Fundamental autónomo"
+    },
+    {
+      "tema": "DERECHO A LA HONRA Y AL BUEN NOMBRE FRENTE A LA LIBERTAD DE INFORMACION",
+      "subtema": "Protección cuando se divulguen públicamente hechos falsos, erróneos, tergiversados y tendenciosos"
+    },
+    {
+      "tema": "DERECHO A LA HONRA Y AL BUEN NOMBRE",
+      "subtema": "Ligados al respeto de la dignidad humana"
+    },
+    {
+      "tema": "DERECHO AL BUEN NOMBRE, A LA HONRA Y AL HABEAS DATA",
+      "subtema": "Vulneración por acceso ilegal a la aplicación informática, para remitir mensajes difamatorios e injuriosos"
+    },
+    {
+      "tema": "PRINCIPIOS QUE DEBE SEGUIR EL ADMINISTRADOR DE BASES DE DATOS",
+      "subtema": "Finalidad, necesidad, utilidad y circulación restringida"
+    }
+  ]
+}

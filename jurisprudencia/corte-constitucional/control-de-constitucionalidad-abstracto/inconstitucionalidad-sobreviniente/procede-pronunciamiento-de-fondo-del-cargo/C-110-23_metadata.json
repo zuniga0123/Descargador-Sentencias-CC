@@ -1,0 +1,83 @@
+{
+  "radicado": "C-110-23",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2023,
+  "fecha_creacion": "2023-04-19",
+  "magistrado_ponente": "Cristina Pardo Schlesinger",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "INCONSTITUCIONALIDAD SOBREVINIENTE",
+  "subtema": "Procede pronunciamiento de fondo del cargo",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 153 de 1887",
+    "Decreto 2067 de 1991",
+    "Ley 1437 de 2011",
+    "Ley 270 de 1996",
+    "Ley 1952 de 2019",
+    "Ley 1306 de 2009",
+    "Ley 1893 de 2018"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2023/C-110-23.htm",
+  "fecha_descarga": "2026-10-21T04:36:10.141850+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2023-04-19",
+  "fecha_publicacion": "2023-05-16",
+  "numero": "C-110/23",
+  "tipo_cc": "C",
+  "prov_id": "40324",
+  "tema_relatoria": "LAS ASIGNACIONES TESTAMENTARIAS INDETERMINADAS SE ENTIENDEN QUE HAN SIDO DEJADAS A LOS CONSANGUÍNEOS MÁS PRÓXIMOS.",
+  "resumen": "Demanda de inconstitucionalidad contra el artículo 1122 (parcial) del Código Civil. El artículo precitado, referente a las asignaciones indeterminadas, establece que “Lo que se deje indeterminadamente a los parientes se entenderá dejado a los consanguíneos del grado más próximo según el orden de la sucesión abintestato, teniendo lugar el derecho de representación, en conformidad con las reglas legales; salvo que a la fecha del testamento haya habido uno solo en este grado, pues entonces se entenderán llamados al mismo tiempo los del grado inmediato”. Los demandantes alegaron que la expresión “consanguíneos” constituye una omisión legislativa relativa que viola los artículos 5, 13 y 42 de la Constitución Política. Lo anterior porque prevé que, ante una asignación testamentaria indeterminada para los parientes del causante, esta solo pueda atribuírsele a sus parientes consanguíneos, pero no a sus parientes civiles, lo que trasgrede el principio de igualdad en las relaciones familiares y la prohibición de discriminación por razones de origen familiar. La Corte realizó una integración normativa de la expresión «consanguíneos» con el resto del siguiente apartado del artículo acusado y declaró la EXEQUIBILIDAD CONDICIONADA de la expresión: «Lo que se deje indeterminadamente a los parientes se entenderá dejado a los consanguíneos del grado más próximo según el orden de la sucesión abintestato», bajo el entendido de que los efectos de la norma también comprenden a los parientes civiles.",
+  "titulaciones": [
+    {
+      "tema": "INCONSTITUCIONALIDAD SOBREVINIENTE",
+      "subtema": "Procede pronunciamiento de fondo del cargo"
+    },
+    {
+      "tema": "INTEGRACION DE UNIDAD NORMATIVA",
+      "subtema": "Configuración"
+    },
+    {
+      "tema": "PROHIBICION DE DISCRIMINACION FUNDADA EN EL ORIGEN FAMILIAR",
+      "subtema": "Cobija a los distintos modos de descendencia de estos, bien fuera de índole matrimonial, extramatrimonial o adoptiva"
+    },
+    {
+      "tema": "ASIGNACIONES TESTAMENTARIAS INDETERMINADAS",
+      "subtema": "Comprende a los parientes civiles del causante"
+    },
+    {
+      "tema": "ACCION DE INCONSTITUCIONALIDAD POR OMISION LEGISLATIVA RELATIVA",
+      "subtema": "Control jurisdiccional"
+    },
+    {
+      "tema": "INCONSTITUCIONALIDAD SOBREVINIENTE",
+      "subtema": "Configuración"
+    },
+    {
+      "tema": "OMISIÓN LEGISLATIVA RELATIVA",
+      "subtema": "Configuración"
+    },
+    {
+      "tema": "OMISION LEGISLATIVA ABSOLUTA Y RELATIVA",
+      "subtema": "Distinción"
+    },
+    {
+      "tema": "OMISIÓN LEGISLATIVA RELATIVA",
+      "subtema": "Existencia conlleva a sentencia integradora"
+    },
+    {
+      "tema": "DERECHO A LA IGUALDAD",
+      "subtema": "Prohibición de discriminación por razón del origen familiar"
+    },
+    {
+      "tema": "INCONSTITUCIONALIDAD SOBREVINIENTE",
+      "subtema": "Jurisprudencia constitucional"
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "Improcedencia de pronunciamiento sobre nuevo cargo presentado por interviniente"
+    }
+  ]
+}

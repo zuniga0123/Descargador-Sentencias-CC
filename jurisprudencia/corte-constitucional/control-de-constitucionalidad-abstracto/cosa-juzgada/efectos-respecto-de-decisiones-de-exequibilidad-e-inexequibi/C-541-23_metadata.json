@@ -1,0 +1,49 @@
+{
+  "radicado": "C-541-23",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2023,
+  "fecha_creacion": "2023-12-05",
+  "magistrado_ponente": "Cristina Pardo Schlesinger",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "COSA JUZGADA",
+  "subtema": "Efectos respecto de decisiones de exequibilidad e inexequibilidad",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 2277 de 2022",
+    "Decreto 2067 de 1991",
+    "Decreto 3032 de 2013",
+    "Ley 2155 de 2021",
+    "Ley 2277 de 2023"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2023/C-541-23.htm",
+  "fecha_descarga": "2026-10-21T04:28:07.166578+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2023-12-05",
+  "fecha_publicacion": "2024-02-19",
+  "numero": "C-541/23",
+  "tipo_cc": "C",
+  "prov_id": "45488",
+  "tema_relatoria": "COSA JUZGADA CONSTITUCIONAL FRENTE A CARGOS CONTRA NORMAS QUE ESTABLECEN APLICACIÓN DE UMBRAL Y TARIFAS DIFERENTES PARA CONTRIBUYENTES EN EL REGIMEN SIMPLE DE TRIBUTACION (RST). ESTARSE A LO RESUELTO EN SENTENCIA C-540/23.",
+  "resumen": "Demanda de inconstitucionalidad contra el artículo 42 (parcial) y los numerales 4 y 5 del inciso 2° y del parágrafo 4° del artículo 44 de la Ley 2277 de 2022, por medio de la cual se adopta una reforma tributaria para la igualdad y la justicia social y se dictan otras disposiciones. El demandante afirmó que las disposiciones normativas acusadas establecen un trato discriminatorio entre personas naturales y jurídicas que realizan actividades económicas similares (profesiones liberales) y que dicha situación vulnera los derechos y principios a la igualdad, equidad, progresividad y justicia tributaria establecidos en los artículos 13, 95.9, 363 de la Constitución Política. Teniendo en cuenta que dentro del trámite de la presente demanda la Corte Constitucional profirió la Sentencia C-540/23, mediante la cual se resolvió un cuestionamiento contra los mismos artículos que se estudian en este expediente, se constató la configuración del fenómeno de la cosa juzgada constitucional y, en consecuencia, la Sala Plena resolvió ESTARSE A LO RESUELTO en el precitado fallo.",
+  "titulaciones": [
+    {
+      "tema": "COSA JUZGADA",
+      "subtema": "Efectos respecto de decisiones de exequibilidad e inexequibilidad"
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD CONTRA LA LEY 2277 DE 2022",
+      "subtema": "Estarse a lo resuelto en la sentencia C-540 de 2023"
+    },
+    {
+      "tema": "COSA JUZGADA CONSTITUCIONAL ABSOLUTA",
+      "subtema": "Configuración"
+    },
+    {
+      "tema": "COSA JUZGADA CONSTITUCIONAL",
+      "subtema": "Tipología"
+    }
+  ]
+}

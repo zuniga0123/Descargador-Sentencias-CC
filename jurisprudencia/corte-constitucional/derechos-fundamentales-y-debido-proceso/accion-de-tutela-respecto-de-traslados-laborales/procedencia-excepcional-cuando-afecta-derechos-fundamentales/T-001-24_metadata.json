@@ -1,0 +1,69 @@
+{
+  "radicado": "T-001-24",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2024,
+  "fecha_creacion": "2024-01-12",
+  "magistrado_ponente": "Cristina Pardo Schlesinger",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCION DE TUTELA RESPECTO DE TRASLADOS LABORALES",
+  "subtema": "Procedencia excepcional cuando afecta derechos fundamentales",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto Ley 2591 de 1991",
+    "Ley 1712 de 2014",
+    "Decreto 2591 de 1991",
+    "Decreto Ley 1790 de 2000",
+    "Ley 1104 de 2006",
+    "Ley 1437 de 2011",
+    "Decreto 1091 de 1995",
+    "Ley 16 de 1972",
+    "Ley 74 de 1968"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2024/T-001-24.htm",
+  "fecha_descarga": "2026-10-21T01:46:02.548099+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2024-01-12",
+  "fecha_publicacion": "2024-01-30",
+  "numero": "T-001/24",
+  "tipo_cc": "T",
+  "prov_id": "45329",
+  "tema_relatoria": "ACCIÓN DE TUTELA CONTRA ACTO ADMINISTRATIVO DE TRASLADO LABORAL (Miembro de la Policía y/o del Ejército Nacional)-PROCEDENCIA EXCEPCIONAL DEL AMPARO PARA PROTECCIÓN DEL DERECHO A LA UNIDAD FAMILIAR.",
+  "resumen": "En dos acciones de tutela formuladas de manera independiente se tiene como hecho común que los actores cuestionaron los actos administrativos que ordenaron o negaron sus traslados. En el primer expediente el actor pidió su traslado porque tiene un hijo menor de edad diagnosticado con autismo, síndrome de Asperger, trastorno de la conducta y déficit de atención, mientras que su esposa está diagnosticada con depresión y medicada por psiquiatría. La entidad respondió negativamente la pretensión bajo el amparo del secreto profesional. En el segundo asunto se pidió derogar el acto que le notificó su traslado, el cual se realizó con base en necesidades institucionales. Se revisaron las reglas del ius variandi descritas en la jurisprudencia y se verificó el cumplimiento de los requisitos de procedencia de la acción de tutela. En el primer asunto se concedió el amparo invocado y se ordenó a la accionada iniciar los trámites administrativos correspondientes para permitir el traslado rogado por el peticionario. Sobre el particular precisó que, el ius variandi es una facultad que tienen tanto los empleadores públicos como privados para cambiar las condiciones de sus trabajadores, siempre que (i) responda a las necesidades del servicio y (ii) analice las condiciones particulares del empleado y su familia para no vulnerar sus derechos. En el otro caso se declaró la improcedencia de la acción, por incumplir el requisito de subsidiaridad y por no existir una afectación grave a los derechos fundamentales del accionantes.",
+  "titulaciones": [
+    {
+      "tema": "ACCION DE TUTELA RESPECTO DE TRASLADOS LABORALES",
+      "subtema": "Procedencia excepcional cuando afecta derechos fundamentales"
+    },
+    {
+      "tema": "IUS VARIANDI",
+      "subtema": "Límites constitucionales"
+    },
+    {
+      "tema": "IUS VARIANDI",
+      "subtema": "Alcance y límites"
+    },
+    {
+      "tema": "ACTO ADMINISTRATIVO",
+      "subtema": "Motivación como garantía constitucional al derecho fundamental del debido proceso"
+    },
+    {
+      "tema": "IUS VARIANDI EN MIEMBROS DE LA FUERZA PUBLICA",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "EJERCICIO DEL IUS VARIANDI POR EMPLEADOR PRIVADO O PUBLICO",
+      "subtema": "No puede desconocer derechos fundamentales de persona que presta un servicio público"
+    },
+    {
+      "tema": "PRINCIPIO DE SUBSIDIARIEDAD EN MATERIA DE TRASLADO DE SERVIDOR PUBLICO",
+      "subtema": "Reglas"
+    },
+    {
+      "tema": "IUS VARIANDI",
+      "subtema": "Manifestación del poder de subordinación que ejerce empleador sobre empleados que se concreta en la facultad de variar las condiciones en que se realiza la prestación personal del servicio"
+    }
+  ]
+}

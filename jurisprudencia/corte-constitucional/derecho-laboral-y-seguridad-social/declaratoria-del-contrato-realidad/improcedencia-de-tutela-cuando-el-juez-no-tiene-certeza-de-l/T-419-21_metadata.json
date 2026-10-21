@@ -1,0 +1,53 @@
+{
+  "radicado": "T-419-21",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-11-30",
+  "magistrado_ponente": "Antonio José Lizarazo Ocampo",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "DECLARATORIA DEL CONTRATO REALIDAD",
+  "subtema": "Improcedencia de tutela cuando el juez no tiene certeza de la existencia de un contrato realidad",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Ley 797 de 2003",
+    "Decreto 758 de 1990",
+    "Decreto 1406 de 1999",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2021/T-419-21.htm",
+  "fecha_descarga": "2026-10-21T08:26:22.091458+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2021-11-30",
+  "fecha_publicacion": "2022-01-26",
+  "numero": "T-419/21",
+  "tipo_cc": "T",
+  "prov_id": "36963",
+  "tema_relatoria": "ACCION DE TUTELA PARA SOLICITAR PENSION DE SOBREVIVIENTES. IMPROCEDENCIA",
+  "resumen": "La accionante considera que la entidad accionada vulneró derechos fundamentales de su nieto, sobre el cual tiene la condición de guardadora tras la muerte de su hijo y padre del menor, como consecuencia de negar el reconocimiento y pago de la pensión de sobrevivientes a la cual tiene derecho. La entidad argumentó el incumplimiento de la densidad de cotizaciones necesarias para acceder a esta prestación. La peticionaria indicó que quien fue el empleador de su hijo realizó algunos pagos extemporáneamente, pero la accionada alegó que dichas semanas no podían tenerse en cuenta porque se efectuaron después de acaecido el riesgo. Así mismo, porque la relación laboral nunca fue reportada al Sistema de Seguridad Social. Teniendo en cuenta que persisten dudas relevantes respecto al hecho de lograr establecer si las cotizaciones realizadas extemporáneamente se dieron en el marco de un vínculo laboral preexistente, la Corte consideró que dicho debate probatorio debía agotarse ante la Jurisdicción Ordinaria Laboral, como escenario idóneo para desplegar la defensa de los intereses del agenciado. Con base en lo anterior se confirmó la decisión de instancia que declaró la IMPROCEDENCIA del amparo invocado.",
+  "titulaciones": [
+    {
+      "tema": "DECLARATORIA DEL CONTRATO REALIDAD",
+      "subtema": "Improcedencia de tutela cuando el juez no tiene certeza de la existencia de un contrato realidad"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA PARA RECONOCIMIENTO DE PENSIÓN DE SOBREVIVIENTES",
+      "subtema": "Improcedencia por no cumplirse requisito de subsidiariedad"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Improcedencia sobre asuntos que requieran debate judicial sometido a plenitud de garantías"
+    },
+    {
+      "tema": "PENSIÓN DE SOBREVIVIENTES",
+      "subtema": "Mora patronal no puede afectar derechos de los familiares del trabajador fallecido"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA Y REQUISITO DE SUBSIDIARIEDAD",
+      "subtema": "Flexibilidad en caso de sujetos de especial protección constitucional"
+    }
+  ]
+}

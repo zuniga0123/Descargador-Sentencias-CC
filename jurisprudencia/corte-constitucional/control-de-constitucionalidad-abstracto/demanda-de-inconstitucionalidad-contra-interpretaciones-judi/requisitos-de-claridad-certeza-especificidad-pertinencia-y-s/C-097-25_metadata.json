@@ -1,0 +1,48 @@
+{
+  "radicado": "C-097-25",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2025,
+  "fecha_creacion": "2025-03-20",
+  "magistrado_ponente": "Juan Carlos Cortés González",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "DEMANDA DE INCONSTITUCIONALIDAD CONTRA INTERPRETACIONES JUDICIALES",
+  "subtema": "Requisitos de claridad, certeza, especificidad, pertinencia y suficiencia",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 50 de 1990",
+    "Decreto 2067 de 1991",
+    "Ley 789 de 2002",
+    "Ley 610 de 2000"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2025/C-097-25.htm",
+  "fecha_descarga": "2026-10-20T23:06:05.584243+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2025-03-20",
+  "fecha_publicacion": "2025-06-13",
+  "numero": "C-097/25",
+  "tipo_cc": "C",
+  "prov_id": "50842",
+  "tema_relatoria": "FALLO INHIBITORIO POR INEPTITUD SUSTANTIVA DE LA DEMANDA CONTRA INTERPRETACIÓN DE LA SALA DE CASACIÓN LABORAL DE LA CORTE SUPREMA DE JUSTICIA. INCUMPLIMIENTO DE EXIGENCIAS PARA DEMANDAR UNA NORMA DE DERECHO VIVIENTE.",
+  "resumen": "Demanda de inconstitucionalidad en contra la interpretación de la Sala de Casación Laboral de la Corte Suprema de Justicia sobre los artículos 65 (parcial) del Código Sustantivo del Trabajo, modificado por el artículo 29 de la Ley 789 de 2002, y del artículo 99 (parcial) de la Ley 50 de 1990. Según el demandante, el contenido normativo de las precitadas interpretaciones desconoce los artículos 53, 58, 113, 114, 150 y 230 de la Constitución. Al analizar el caso la Corte recordó que el control constitucional del derecho viviente es verdaderamente excepcional y está sometido a una carga argumentativa especial y adicional frente a los presupuestos generales para el estudio de aptitud de las censuras y que ésta le corresponde asumir a quien demanda. Se indicó que, a través de dicha carga se busca constatar la existencia de una norma controlable y de un verdadero cargo de constitucionalidad en su contra y que de su cumplimiento íntegro depende proceder con el análisis y la adopción de una decisión de fondo. Lo anterior, debido a que a la Corte Constitucional no le corresponde controvertir las interpretaciones de las altas Corporaciones, sino verificar su correspondencia con los mandatos superiores. Con base en lo anterior, la Sala Plena se declaró INHIBIDA para pronunciarse de fondo sobre los reparos planteados por el actor, dada la ineptitud sustantiva de la demanda.",
+  "titulaciones": [
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD CONTRA INTERPRETACIONES JUDICIALES",
+      "subtema": "Requisitos de claridad, certeza, especificidad, pertinencia y suficiencia"
+    },
+    {
+      "tema": "DERECHO VIVIENTE EN CONTROL DE CONSTITUCIONALIDAD DE INTERPRETACION JUDICIAL",
+      "subtema": "Condiciones"
+    },
+    {
+      "tema": "DERECHO VIVIENTE EN CONTROL DE CONSTITUCIONALIDAD DE INTERPRETACIONES JUDICIALES",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "INHIBICION DE LA CORTE CONSTITUCIONAL EN DEMANDA DE INCONSTITUCIONALIDAD CONTRA INTERPRETACIÓN JUDICIAL",
+      "subtema": "Incumplimiento de requisitos de claridad, certeza, especificidad, pertinencia y suficiencia"
+    }
+  ]
+}

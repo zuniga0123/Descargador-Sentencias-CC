@@ -1,0 +1,46 @@
+{
+  "radicado": "T-495-24",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2024,
+  "fecha_creacion": "2024-11-25",
+  "magistrado_ponente": "Juan Carlos Cortés González",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+  "subtema": "Improcedencia por falta de relevancia constitucional y no evidenciar afectación de derechos fundamentales",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 906 de 2004"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2024/T-495-24.htm",
+  "fecha_descarga": "2026-10-21T01:23:20.597617+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2024-11-25",
+  "fecha_publicacion": "2024-12-16",
+  "numero": "T-495/24",
+  "tipo_cc": "T",
+  "prov_id": "47820",
+  "tema_relatoria": "TUTELA CONTRA DECISIONES JUDICIALES EN ASUNTO PENAL AL INADMITIR RECURSO DE CASACIÓN-IMPROCEDENCIA POR INCUMPLIR REQUISITO DE RELEVANCIA CONSTITUCIONAL (Delito de falsedad en documento privado a título doloso).",
+  "resumen": "En este caso el actor atribuyó la vulneración de sus derechos fundamentales a una sentencia condenatoria, a la que confirmó la anterior decisión y al auto que inadmitió el recurso de casación. Se adujo que dichas providencias incurrieron en los defectos por desconocimiento del precedente judicial, fáctico, procedimental, sustantivo y falta de motivación. Se reiteró el precedente constitucional relacionado con los requisitos generales de procedencia excepcional de la acción de tutela contra providencias judiciales y el estándar aplicable en los casos en los que la acción de tutela se dirige contra un fallo de una alta Corte. La Sala de Revisión concluyó que la solicitud de amparo no satisfizo el requisito de relevancia constitucional, en tanto los reproches del actor solo intentaron reabrir el debate concluido a partir de argumentos que plantean una discusión puramente legal, lo cual excluye la intervención del juez de tutela. Con base en lo anterior, se declaró la IMPROCEDENCIA de la acción deprecada.",
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Improcedencia por falta de relevancia constitucional y no evidenciar afectación de derechos fundamentales"
+    },
+    {
+      "tema": "DEBER DE COLABORACION CON LA ADMINISTRACION DE JUSTICIA",
+      "subtema": "Ámbitos de aplicación"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES DE ALTAS CORPORACIONES",
+      "subtema": "Requisitos generales y especiales de procedibilidad son más estrictos"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Relevancia constitucional como requisito de procedibilidad"
+    }
+  ]
+}

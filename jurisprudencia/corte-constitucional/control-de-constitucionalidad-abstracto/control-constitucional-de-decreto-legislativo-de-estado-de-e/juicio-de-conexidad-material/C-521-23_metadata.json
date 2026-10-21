@@ -1,0 +1,58 @@
+{
+  "radicado": "C-521-23",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2023,
+  "fecha_creacion": "2023-11-28",
+  "magistrado_ponente": "Cristina Pardo Schlesinger",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "CONTROL CONSTITUCIONAL DE DECRETO LEGISLATIVO DE ESTADO DE EMERGENCIA ECONOMICA, SOCIAL Y ECOLOGICA",
+  "subtema": "Juicio de conexidad material",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2067 de 1991",
+    "Ley 137 de 1994",
+    "Ley 797 de 2003",
+    "Ley 100 de 1993",
+    "Ley 1532 de 2012",
+    "Ley 1948 de 2019",
+    "Ley 1943 de 2018",
+    "Ley 2294 de 2023",
+    "Decreto 1085 de 2023",
+    "Ley 1581 de 2012",
+    "Decreto 1272 de 2023",
+    "Ley 1581 de 2022",
+    "Ley 21 de 1991",
+    "Decreto 2094 de 2016"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2023/C-521-23.htm",
+  "fecha_descarga": "2026-10-21T04:29:24.741442+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2023-11-28",
+  "fecha_publicacion": "2024-02-02",
+  "numero": "C-521/23",
+  "tipo_cc": "C",
+  "prov_id": "45347",
+  "tema_relatoria": "REVISION DE CONSTITUCIONALIDAD DE DECRETO LEGISLATIVO ADOPTADO AL AMPARO DE DECLARATORIA PREVIA DE EMERGENCIA ECONOMICA, SOCIAL Y ECOLÓGICA.",
+  "resumen": "Control de constitucionalidad del Decreto Legislativo 1272 del 31 de julio de 2023, por medio del cual se crea una transferencia no condicionada para atender a las familias con niños y niñas en primera infancia y/o madres gestantes, que se encuentren en estado de desnutrición o en riesgo inminente de estarlo en el departamento de La Guajira y se toman otras medidas que permiten la atención integral de esta población en el marco del Estado de Emergencia Económica, Social y Ecológica. Como antecedentes de este asunto se tiene que la Corte Constitucional mediante Sentencia C-383/23, declaró inexequible el Decreto Legislativo 1085 de 2023, por medio del cual se declaró el Estado de Emergencia Económica, Social y Ecológica en el departamento de la Guajira y condicionó los efectos de dicha decesión por el término de un año respecto de la amenaza de agravamiento de la crisis humanitaria por la menor disponibilidad de agua. Con base en lo anterior, la Sala Plena verificó de manera inicial si la norma objeto de revisión guardaba relación con el objeto decreto matriz y, tras encontrar una ausencia absoluta de conexidad, decidió declarar INEXEQUIBLE por consecuencia el Decreto Legislativo 1272/23, con efectos retroactivos generales, salvo en cuanto a las transferencias no condicionadas que hubieran sido efectivamente entregadas a la fecha de este fallo.",
+  "titulaciones": [
+    {
+      "tema": "CONTROL CONSTITUCIONAL DE DECRETO LEGISLATIVO DE ESTADO DE EMERGENCIA ECONOMICA, SOCIAL Y ECOLOGICA",
+      "subtema": "Juicio de conexidad material"
+    },
+    {
+      "tema": "DECRETO LEGISLATIVO EN DESARROLLO DE ESTADO DE EMERGENCIA ECONÓMICA, SOCIAL Y ECOLÓGICA EN EL DEPARTAMENTO DE LA GUAJIRA",
+      "subtema": "Inexequibilidad por consecuencia"
+    },
+    {
+      "tema": "INCONSTITUCIONALIDAD POR CONSECUENCIA",
+      "subtema": "Configuración"
+    },
+    {
+      "tema": "INCONSTITUCIONALIDAD POR CONSECUENCIA DE DECRETO LEGISLATIVO DE ESTADO DE EMERGENCIA SOCIAL",
+      "subtema": "Improcedencia de análisis formal y material"
+    }
+  ]
+}

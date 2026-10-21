@@ -1,0 +1,45 @@
+{
+  "radicado": "T-005-25",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2025,
+  "fecha_creacion": "2025-01-16",
+  "magistrado_ponente": "Cristina Pardo Schlesinger",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "PERJUICIO IRREMEDIABLE",
+  "subtema": "Criterios para determinar su configuración",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 842 de 2003",
+    "Decreto 2591 de 1991",
+    "Ley 843 de 2003",
+    "Ley 1437 de 2011",
+    "Ley 94 de 1937"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2025/T-005-25.htm",
+  "fecha_descarga": "2026-10-20T22:58:28.776954+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2025-01-16",
+  "fecha_publicacion": "2025-01-27",
+  "numero": "T-005/25",
+  "tipo_cc": "T",
+  "prov_id": "47979",
+  "tema_relatoria": "DEBIDO PROCESO ADMINISTRATIVO EN ACTUACIONES DISCIPLINARIAS SANCIONATORIAS-INCUMPLIMIENTO DEL REQUISITO DE SUBSIDIARIEDAD (Jurisprudencia Constitucional).",
+  "resumen": "La acción de tutela se interpuso en contra de la decisión que ordenó la suspensión del ejercicio profesional de ingeniería de los actores, como resultado de una investigación iniciada por hechos ocurridos en la obra de Hidroituango, en su condición de empleados del consorcio que adelantó la construcción del sistema de desviación del río Cauca, sin contar con la modificación de la respectiva licencia ambiental. Según los tutelantes, sus derechos fundamentales fueron vulnerados, porque no era viable imponer una sanción disciplinaria de suspensión del ejercicio profesional, porque ya había operado la caducidad y porque fueron sancionados por una conducta distinta a la señalada en la investigación previa. Como quiera que la solicitud de amparo se formuló en contra de un acto administrativo, la Sala analizó preliminarmente la procedencia de la acción y concluyó que resultaba IMPROCEDENTE por no cumplir con el requisito de subsidiariedad.",
+  "titulaciones": [
+    {
+      "tema": "PERJUICIO IRREMEDIABLE",
+      "subtema": "Criterios para determinar su configuración"
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA ACTO ADMINISTRATIVO QUE IMPONE SANCION DISCIPLINARIA",
+      "subtema": "Improcedencia por existir otro medio de defensa judicial"
+    },
+    {
+      "tema": "SANCION DISCIPLINARIA Y EXISTENCIA DE OTRO MEDIO DE DEFENSA JUDICIAL PARA CONTROVERTIRLA",
+      "subtema": "Reiteración de jurisprudencia"
+    }
+  ]
+}

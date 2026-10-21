@@ -1,0 +1,97 @@
+{
+  "radicado": "T-156-23",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2023,
+  "fecha_creacion": "2023-05-12",
+  "magistrado_ponente": "José Fernando Reyes Cuartas",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "ACCION DE TUTELA PARA ORDENAR RECONOCIMIENTO Y PAGO DE LA PENSION DE INVALIDEZ",
+  "subtema": "Procedencia excepcional",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 860 de 2003",
+    "Ley 100 de 1993",
+    "Decreto 2591 de 1991",
+    "Decreto 1887 de 1994",
+    "Decreto 1833 de 2016",
+    "Decreto 1406 de 1999",
+    "Decreto 2633 de 1994",
+    "Decreto 692 de 1994",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2023/T-156-23.htm",
+  "fecha_descarga": "2026-10-21T04:18:07.433480+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2023-05-12",
+  "fecha_publicacion": "2023-07-07",
+  "numero": "T-156/23",
+  "tipo_cc": "T",
+  "prov_id": "43007",
+  "tema_relatoria": "ACCIÓN DE TUTELA PARA RECONOCIMIENTO PENSIONAL POR INVALIDEZ-PROCEDENCIA EXCEPCIONAL AL NEGAR LA PRESTACIÓN POR PAGO EXTEMPORÁNEO DE APORTES.",
+  "resumen": "El accionante presenta varias y delicadas patologías por lo que fue calificado con una PCL del 76.75%, con fecha de estructuración del 28 de mayo de 2016. Teniendo en cuenta que había laborado para un particular por varios períodos comprendidos entre enero de 2013 y 19 de mayo de 2016, sin que hubiesen realizado aportes a su nombre al sistema de seguridad social, el actor inició un proceso ordinario laboral en contra de la empleadora, pretendiendo que ésta pagara los aportes al SGSSP. Esta pretensión fue concedida y la demandada, previa solicitud del cálculo actuarial al fondo de pensiones, canceló el valor indicado. Con dicho desembolso el accionante solicitó el reconocimiento y pago de la pensión de invalidez. La prestación fue denegada con el argumento de no haber cotizado el afiliado mínimo cincuenta semanas dentro de los tres años anteriores a la fecha de estructuración de la invalidez. La accionada adujo que los períodos cotizados y pagados de manera extemporánea no tenían cobertura por el seguro prestacional. La entidad le informó al peticionario, además, sobre su derecho a pedir la devolución de saldos de su cuenta de ahorro individual. Tras elevar solicitud de reconsideración, la entidad confirmó su negativa. Esta decisión es la que se cuestiona en sede de tutela. Se analizan los siguientes ejes temáticos: 1º. La pensión de invalidez en el RAIS. 2º. La falta de afiliación del trabajador al Sistema General de Pensiones y el pago extemporáneo de los aportes en el RAIS. 3º. El reconocimiento y pago de la pensión de invalidez en el precitado régimen, cuando el empleador omitió el pago de aportes que fundamentan el reconocimiento de la prestación, la PCL se estructuró con posterioridad a la a terminación del vínculo laboral y la administradora de fondos de pensiones recibió a satisfacción el pago del cálculo actuarial. Se CONCEDE el amparo invocado y se ordena a la accionada reconocer y pagar al actor su pensión de invalidez.",
+  "titulaciones": [
+    {
+      "tema": "ACCION DE TUTELA PARA ORDENAR RECONOCIMIENTO Y PAGO DE LA PENSION DE INVALIDEZ",
+      "subtema": "Procedencia excepcional"
+    },
+    {
+      "tema": "DERECHO A LA SEGURIDAD SOCIAL, AL MINIMO VITAL Y A LA VIDA DIGNA",
+      "subtema": "Orden a Administradora de Pensiones reconocer y pagar pensión de invalidez"
+    },
+    {
+      "tema": "DERECHO FUNDAMENTAL A LA SEGURIDAD SOCIAL EN PENSIONES Y LA IMPORTANCIA DE LA PENSION DE INVALIDEZ",
+      "subtema": "Concepto, naturaleza y protección constitucional"
+    },
+    {
+      "tema": "REGIMEN DE AHORRO INDIVIDUAL CON SOLIDARIDAD",
+      "subtema": "Parámetros para acceder a la pensión de invalidez por enfermedad común"
+    },
+    {
+      "tema": "PRINCIPIO DE FAVORABILIDAD EN SISTEMA DE SEGURIDAD SOCIAL EN PENSIONES",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "ADMINISTRADORA DE FONDOS DE PENSIONES",
+      "subtema": "Seguro para cubrir el riesgo de invalidez"
+    },
+    {
+      "tema": "ACCION DE TUTELA PARA RECONOCIMIENTO DE PENSION DE INVALIDEZ",
+      "subtema": "Pago extemporáneo de aportes pensionales en mora no es argumento válido para negar el reconocimiento"
+    },
+    {
+      "tema": "REGIMEN DE PRIMA MEDIA CON PRESTACION DEFINIDA Y REGIMEN DE AHORRO INDIVIDUAL CON SOLIDARIDAD",
+      "subtema": "Características según la ley 100 de 1993"
+    },
+    {
+      "tema": "REGIMEN DE AHORRO INDIVIDUAL CON SOLIDARIDAD",
+      "subtema": "Relación entre capital ahorrado en la cuenta individual de los afiliados y la pensión"
+    },
+    {
+      "tema": "SISTEMA DE FINANCIACION DE PENSION DE INVALIDEZ",
+      "subtema": "En el Régimen de Ahorro Individual con Solidaridad"
+    },
+    {
+      "tema": "MORA PATRONAL EN EL PAGO OPORTUNO DE LOS APORTES A PENSIONES",
+      "subtema": "Precedente jurisprudencial"
+    },
+    {
+      "tema": "PROHIBICIÓN EN MATERIA PENSIONAL DE EXIGIR REQUISITOS ADICIONALES A LOS ESTABLECIDOS EN LA LEY",
+      "subtema": "Reiteración de jurisprudencia"
+    },
+    {
+      "tema": "SISTEMA DE SEGURIDAD SOCIAL",
+      "subtema": "Deber de afiliación por el empleador y consecuencias por el incumplimiento"
+    },
+    {
+      "tema": "MORA EN EL PAGO DE APORTES Y COTIZACIONES PENSIONALES",
+      "subtema": "Obligación de las entidades administradoras de cobrar a los empleadores morosos los aportes adeudados"
+    },
+    {
+      "tema": "PENSIÓN DE INVALIDEZ",
+      "subtema": "Requisitos para obtener reconocimiento y pago"
+    }
+  ]
+}

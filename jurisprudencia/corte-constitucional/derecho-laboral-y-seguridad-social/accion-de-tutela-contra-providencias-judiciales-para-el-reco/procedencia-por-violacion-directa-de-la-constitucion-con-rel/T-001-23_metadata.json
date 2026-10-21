@@ -1,0 +1,67 @@
+{
+  "radicado": "T-001-23",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2023,
+  "fecha_creacion": "2023-01-13",
+  "magistrado_ponente": "Natalia Ángel Cabo",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES PARA EL RECONOCIMIENTO DE LA PENSIÓN DE VEJEZ",
+  "subtema": "Procedencia por violación directa de la constitución con relación al principio de favorabilidad en la acumulación de tiempo de servicios",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 758 de 1990",
+    "Ley 100 de 1993",
+    "Ley 33 de 1985",
+    "Ley 71 de 1988",
+    "Decreto 2591 de 1991",
+    "Decreto Ley 2591 de 1991",
+    "Decreto Ley 2158 de 1948"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2023/T-001-23.htm",
+  "fecha_descarga": "2026-10-21T04:25:46.726973+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2023-01-13",
+  "fecha_publicacion": "2023-02-03",
+  "numero": "T-001/23",
+  "tipo_cc": "T",
+  "prov_id": "39617",
+  "tema_relatoria": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES PARA EL RECONOCIMIENTO DE LA PENSIÓN DE VEJEZ-DESCONOCIMIENTO DEL PRECEDENTE CONSTITUCIONAL CON RELACIÓN AL PRINCIPIO DE FAVORABILIDAD EN LA ACUMULACIÓN DE TIEMPO DE SERVICIOS [APLICACIÓN ULTRACTIVA DEL DECRETO 758 DE 1990 (ACUERDO 049/90)].",
+  "resumen": "En este caso se cuestiona la decisión judicial de segunda instancia que revocó el fallo que ordenó a Colpensiones reconocer a la accionante la pensión de vejez que reclamó, en los del artículo 12 del Acuerdo 049 de 1990. La autoridad judicial accionada argumentó que, si bien la peticionaria era beneficiaria del régimen de transición, lo cierto era que ella no había cotizado al ISS antes de la entrada en vigencia de la Ley 100 de 1993. Se dice que dicho fallo incurrió en los defectos de violación directa de la Constitución y desconocimiento del precedente constitucional aplicable en la materia. Se reitera jurisprudencia relacionada con: 1º. La acción de tutela contra providencias judiciales. Requisitos de procedencia. 2º. El principio de favorabilidad consagrado en el artículo 53 de la Constitución. 3º. Posibilidad de aplicar ultractivamente el Acuerdo 049 de 1990 para quienes no estaban afiliados al ISS a la fecha de entrada en vigencia de la Ley 100 de 1993 y son beneficiarios del régimen de transición. 4º. Acumulación de tiempos de servicio y cotizaciones realizadas al ISS y a otras entidades administradoras por parte de los beneficiarios del régimen de transición en la aplicación del Acuerdo 049 de 1990. Se CONCEDE el amparo invocado, se deja sin efectos la sentencia laboral cuestionada y se ordena a la autoridad judicial accionada proferir una nueva decisión, debidamente motivada, en la que no se incurra en los defectos advertidos en este proveído.",
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES PARA EL RECONOCIMIENTO DE LA PENSIÓN DE VEJEZ",
+      "subtema": "Procedencia por violación directa de la constitución con relación al principio de favorabilidad en la acumulación de tiempo de servicios"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES PARA EL RECONOCIMIENTO DE LA PENSIÓN DE VEJEZ",
+      "subtema": "Procedencia por desconocimiento del precedente constitucional con relación al principio de favorabilidad en la acumulación de tiempo de servicios"
+    },
+    {
+      "tema": "DESCONOCIMIENTO DEL PRECEDENTE",
+      "subtema": "Requisitos que se deben demostrar"
+    },
+    {
+      "tema": "VIOLACION DIRECTA DE LA CONSTITUCION",
+      "subtema": "Estructuración"
+    },
+    {
+      "tema": "ACUMULACION DE TIEMPO Y SEMANAS COTIZADAS PARA PENSION DE VEJEZ",
+      "subtema": "Línea jurisprudencial"
+    },
+    {
+      "tema": "PRINCIPIOS DE FAVORABILIDAD LABORAL E IN DUBIO PRO OPERARIO",
+      "subtema": "Acumulación de tiempos laborados y no cotizados antes de la entrada en vigencia de la ley 100 de 1993"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Requisitos generales y especiales de procedibilidad"
+    },
+    {
+      "tema": "VIOLACION DIRECTA DE LA CONSTITUCION",
+      "subtema": "Definición"
+    }
+  ]
+}

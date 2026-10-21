@@ -1,0 +1,44 @@
+{
+  "radicado": "C-449-22",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2022,
+  "fecha_creacion": "2022-12-07",
+  "magistrado_ponente": "Paola Andrea Meneses Mosquera",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "COSA JUZGADA CONSTITUCIONAL",
+  "subtema": "Alcance",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 2195 de 2022",
+    "Ley 341 de 2020",
+    "Ley 610 de 2000",
+    "Ley 270 de 1996"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2022/C-449-22.htm",
+  "fecha_descarga": "2026-10-21T08:13:51.483612+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2022-12-07",
+  "fecha_publicacion": "2023-01-11",
+  "numero": "C-449/22",
+  "tipo_cc": "C",
+  "prov_id": "39436",
+  "tema_relatoria": "MEDIDAS DE PREVENCIÓN Y LUCHA CONTRA LA CORRUPCIÓN. RESPONSABILIDAD FISCAL DE PARTICULARES QUE CAUSEN DAÑOS AL PATRIMONIO PÚBLICO DEL ESTADO.",
+  "resumen": "Demanda de inconstitucionalidad en contra del artículo 37 (parcial) de la Ley 2195 de 2022, por medio de la cual se adoptan medidas en materia de transparencia, prevención y lucha contra la corrupción y se dictan otras disposiciones. Los demandantes consideran que la expresión “sin ser gestores fiscales”, es incompatible con los artículos 119, 267 y 268.5 de la Constitución Política. En concreto manifestaron que dicha norma limita la competencia de la Contraloría General de la República y las contralorías territoriales a la vigilancia de la gestión fiscal que ejerzan los servidores públicos y los particulares. Teniendo en cuenta que en decisión previa la Corte declaró inexequible el artículo 37 de la Ley 2195 de 2022, del cual formaba parte la expresión acusada en esta oportunidad, la Sala Plena constató que se configuró la cosa juzgada absoluta y, por ello, decidió ESTARSE A LO RESUELTO en la Sentencia C-438/22.",
+  "titulaciones": [
+    {
+      "tema": "COSA JUZGADA CONSTITUCIONAL",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "COSA JUZGADA CONSTITUCIONAL ABSOLUTA",
+      "subtema": "Configuración"
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD CONTRA LA LEY 2195 DE 2022",
+      "subtema": "Estarse a lo resuelto en la sentencia C-438 de 2022"
+    }
+  ]
+}

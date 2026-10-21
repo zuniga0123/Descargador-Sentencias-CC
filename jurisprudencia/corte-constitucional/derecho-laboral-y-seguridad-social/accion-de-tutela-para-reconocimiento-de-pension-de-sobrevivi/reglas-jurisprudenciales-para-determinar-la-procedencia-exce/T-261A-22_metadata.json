@@ -1,0 +1,44 @@
+{
+  "radicado": "T-261A-22",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2022,
+  "fecha_creacion": "2022-07-14",
+  "magistrado_ponente": "Diana Fajardo Rivera",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "ACCIÓN DE TUTELA PARA RECONOCIMIENTO DE PENSIÓN DE SOBREVIVIENTES",
+  "subtema": "Reglas jurisprudenciales para determinar la procedencia excepcional",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Ley 797 de 2003",
+    "Decreto 1406 de 1999",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2022/T-261A-22.htm",
+  "fecha_descarga": "2026-10-21T08:01:22.482281+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2022-07-14",
+  "fecha_publicacion": "2022-08-26",
+  "numero": "T-261A/22",
+  "tipo_cc": "T",
+  "prov_id": "38415",
+  "tema_relatoria": "ACCIÓN DE TUTELA PARA RECONOCIMIENTO DE PENSIÓN DE SOBREVIVIENTES-IMPROCEDENCIA POR CUANTO PERSISTE DUDA ACERCA DE LA VALIDEZ DE LOS APORTES A PENSIÓN",
+  "resumen": "Se atribuye a la entidad accionada la vulneración de derechos fundamentales de la actora, como consecuencia de negarle el reconocimiento de la pensión de sobrevivientes tras la muerte de su hija, quien era la persona que la sostenía económicamente y le proveía los recursos para pagar arriendo, alimentación, salud y demás gastos del hogar. La AFP negó la prestación argumentando que la afiliada no había cotizado cincuenta semanas dentro de los tres años inmediatamente anteriores a su fallecimiento. También alegó que un empleador no reportó oportunamente la existencia de una relación laboral y que realizó el pago de los aportes de forma extemporánea, después de la muerte de la trabajadora, por lo que dichas semanas no se podían incluir en la historia laboral al no existir los respectivos soportes. Luego de analizar el caso y de verificar los presupuestos de procedibilidad de la acción constitucional, concluyó la Sala Primera de Revisión que debía declarar la IMPROCEDENCIA del amparo por configurarse un debate probatorio cuya intensidad superaba el carácter célere y sumario de la acción de tutela, e impedía desplazar la competencia especializada de la Jurisdicción Ordinaria.",
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA PARA RECONOCIMIENTO DE PENSIÓN DE SOBREVIVIENTES",
+      "subtema": "Reglas jurisprudenciales para determinar la procedencia excepcional"
+    },
+    {
+      "tema": "ACCION DE TUTELA EN MATERIA DE RECONOCIMIENTO DE PENSION DE SOBREVIVIENTES DE HIJO FALLECIDO",
+      "subtema": "Improcedencia por incumplir requisito de subsidiariedad"
+    },
+    {
+      "tema": "PRINCIPIO DE SUBSIDIARIEDAD EN ACCIÓN DE TUTELA PARA RECONOCIMIENTO Y PAGO DE PRESTACIONES PENSIONALES",
+      "subtema": "Exige certeza probatoria sobre la titularidad del derecho reclamado"
+    }
+  ]
+}

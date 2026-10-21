@@ -1,0 +1,55 @@
+{
+  "radicado": "T-073-23",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2023,
+  "fecha_creacion": "2023-03-21",
+  "magistrado_ponente": "Natalia Ángel Cabo",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+  "subtema": "Improcedencia por cuanto tutelante no cumplió con la carga argumentativa que le era exigible en la demostración de los defectos específicos",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 906 de 2004",
+    "Ley 599 de 2000"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2023/T-073-23.htm",
+  "fecha_descarga": "2026-10-21T04:24:04.784544+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2023-03-21",
+  "fecha_publicacion": "2023-04-11",
+  "numero": "T-073/23",
+  "tipo_cc": "T",
+  "prov_id": "40051",
+  "tema_relatoria": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES EN PROCESO PENAL (FALSEDAD EN DOCUMENTO PRIVADO Y FRAUDE PROCESAL)-CONFIRMA IMPROCEDENCIA DEL AMPARO POR NO CONFIGURARSE LOS DEFECTOS ALEGADOS.",
+  "resumen": "La vulneración de derechos fundamentales en este caso se atribuye a una decisión judicial proferida por la Sala Penal de la Corte Suprema de Justicia dentro de un proceso de impugnación especial, mediante la cual confirmó una condena por fraude procesal y falsedad en documento privado. Se aduce que dicha providencia incurrió en un defecto fáctico, desconoció el precedente judicial, tomó una decisión sin motivación y violó de forma directa la Constitución, al imponer una condena con base en pruebas indiciarias y desconociendo una prueba directa que demostraba que los acusados no fueron los autores materiales de los delitos precitados. Luego de verificar el cumplimiento de los requisitos para la procedencia excepcional de la acción de tutela contra providencias judiciales y de explicar las reglas sobre el uso de indicios en el proceso penal, concluyó la Corte que en el fallo cuestionado no se configuraron los defectos alegados y, por tanto, no desconoció ninguna garantía constitucional. Se confirman las decisiones de instancia que DENEGARON el amparo invocado.",
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Improcedencia por cuanto tutelante no cumplió con la carga argumentativa que le era exigible en la demostración de los defectos específicos"
+    },
+    {
+      "tema": "INDICIO",
+      "subtema": "Concepto"
+    },
+    {
+      "tema": "DOMINIO FUNCIONAL DEL HECHO",
+      "subtema": "Jurisprudencia de la Corte Suprema de Justicia"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Improcedencia por no configurarse defectos alegados por el accionante en proceso penal"
+    },
+    {
+      "tema": "PRUEBA INDICIARIA",
+      "subtema": "Elementos que la configuran"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES DE ALTAS CORPORACIONES",
+      "subtema": "Requisitos generales y especiales de procedibilidad son más estrictos"
+    }
+  ]
+}

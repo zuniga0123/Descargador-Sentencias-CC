@@ -1,0 +1,43 @@
+{
+  "radicado": "T-240-22",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2022,
+  "fecha_creacion": "2022-07-01",
+  "magistrado_ponente": "Paola Andrea Meneses Mosquera",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+  "subtema": "Improcedencia por falta de relevancia constitucional y no evidenciar afectación de derechos fundamentales",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 1394 de 2010",
+    "Ley 1563 de 2013",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2022/T-240-22.htm",
+  "fecha_descarga": "2026-10-21T08:03:24.758894+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2022-07-01",
+  "fecha_publicacion": "2022-07-22",
+  "numero": "T-240/22",
+  "tipo_cc": "T",
+  "prov_id": "38064",
+  "tema_relatoria": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES-IMPROCEDENCIA POR INCUMPLIR LOS REQUISITOS DE RELEVANCIA CONSTITUCIONAL Y SUBSIDIARIEDAD.",
+  "resumen": "Los accionantes consideran que los accionados vulneraron derechos fundamentales y, por ello, solicitaron al juez de tutela que se declare la nulidad del proceso ejecutivo iniciado por Bancolombia y se ordene la notificación del mandamiento de pago. Lo anterior, con fundamento en presuntas irregularidades que habría acaecido en dicha actuación, en particular en las siguientes oportunidades procesales: (i) las diligencias de notificación; (ii) la solicitud de suspensión del proceso presentada ante el juzgado; (iii) la solicitud de terminación, presentada por Bancolombia y, (iv) las presuntas inconsistencias en el número del pagaré presentado por el banco. La Sala constató que tanto las peticiones como las presuntas irregularidades alegadas en la acción de tutela, son idénticas a las planteadas mediante la solicitud de nulidad formulada en el marco del proceso ejecutivo. Dicha nulidad fue rechazada de plano por el juez mediante un auto y esta providencia es la que se cuestiona con la presente solicitud de amparo. Luego de verificar los presupuestos de procedencia de la acción de tutela contra providencias judiciales, encontró la Corte que no satisfacen los requisitos de relevancia constitucional y de subsidiariedad. Lo primero, por cuanto versa sobre una controversia monetaria, no da cuenta de la afectación de derechos fundamentales y reabre el debate concluido por el juez ordinario. Lo segundo, dado que la providencia controvertida no fue recurrida, pese a que en su contra resultaban procedentes los recursos de reposición y de apelación. Con base en lo anterior se declara IMPROCEDENTE la acción constitucional deprecada en esta oportunidad.",
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Improcedencia por falta de relevancia constitucional y no evidenciar afectación de derechos fundamentales"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Improcedencia por incumplir requisito de subsidiariedad en proceso ejecutivo"
+    },
+    {
+      "tema": "MEDIDAS PROVISIONALES EN PROCESO DE TUTELA PARA PROTEGER UN DERECHO",
+      "subtema": "Finalidad"
+    }
+  ]
+}

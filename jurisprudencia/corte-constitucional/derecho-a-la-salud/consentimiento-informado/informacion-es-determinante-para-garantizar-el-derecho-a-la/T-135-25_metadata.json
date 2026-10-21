@@ -1,0 +1,91 @@
+{
+  "radicado": "T-135-25",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2025,
+  "fecha_creacion": "2025-04-22",
+  "magistrado_ponente": "Cristina Pardo Schlesinger",
+  "area": "Derecho a la Salud",
+  "tema": "CONSENTIMIENTO INFORMADO",
+  "subtema": "Información es determinante para garantizar el derecho a la autonomía del paciente",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 2244 de 2022",
+    "Decreto 2591 de 1991",
+    "Ley 1949 de 2019",
+    "Ley 23 de 1991",
+    "Ley 100 de 1993",
+    "Ley 1438 de 2011",
+    "Ley 1122 de 2007"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2025/T-135-25.htm",
+  "fecha_descarga": "2026-10-20T22:51:34.901762+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2025-04-22",
+  "fecha_publicacion": "2025-05-14",
+  "numero": "T-135/25",
+  "tipo_cc": "T",
+  "prov_id": "48682",
+  "tema_relatoria": "DERECHO A LA SALUD Y TOMAR DECISIONES LIBRES E INFORMADAS CON RELACIÓN AL PROCESO DE GESTACIÓN Y DEL PLAN DE PARTO (fisiológico o cesárea)-LEY DE PARTO DIGNO, RESPETADO Y HUMANIZADO (Ley 2244 de 2022)",
+  "resumen": "La vulneración de derechos fundamentales por parte de la EPS accionada se atribuyó a la negativa de autorizar a una mujer embarazada dar a luz mediante cesárea, aún cuando le era viable tener un parto fisiológico, argumentando que debía ser parto vaginal porque la bebé se encontraba bien acomodada para el nacimiento y porque la práctica de la cesárea debía ser pagada de manera particular. El juez de instancia amparó los derechos invocados y ordenó a la entidad que valorara a la peticionaria por medicina especializada para determinar si se trataba de una solicitud libre e informada y si el procedimiento era recomendado atendiendo a la condición de salud de la mujer y el feto. Así mismo, ordenó brindarle la atención integral en los términos de la Ley 2244 de 2022. En cumplimiento de la anterior decisión, la peticionaria (i) fue remitida a valoración por ginecología en donde se le informó sobre los riesgos de la cesárea, los cuales decidió aceptar, (ii) se programó y realizó el procedimiento pretendido y, (iii) sin tener que asumir costo alguno por la cirugía. Pese a lo anterior, la Corte no declaró la carencia actual de objeto por hecho superado, en tanto la actuación de la entidad no se derivó de un hecho voluntario. La Sala emitió un pronunciamiento de fondo y confirmó el fallo que CONCEDIÓ el amparo, por considerar que el mismo fue acertado. Igualmente, previno a la EPS para que, (i) capacite a su personal sanitario adscrito encargado de la atención de mujeres en gestación para que les informe sobre la posibilidad de presentar un plan de parto como mecanismo de diálogo para expresarles sus necesidades, preferencias y expectativas de respecto a la atención de su parto; en los términos de la Ley 2244 de 2022, y (ii) cuando la mujer en gestación le manifieste a sus profesionales adscritos la intención de someterse a una cesárea a pesar de ser viable médicamente dar a luz por medio de parto fisiológico, estos informen a la mujer sobre los beneficios y riesgos de ambos procedimientos a fin de que ella pueda tomar una decisión libre e informada",
+  "titulaciones": [
+    {
+      "tema": "CONSENTIMIENTO INFORMADO",
+      "subtema": "Información es determinante para garantizar el derecho a la autonomía del paciente"
+    },
+    {
+      "tema": "LIBERTAD DE EXPRESIÓN",
+      "subtema": "Protección constitucional"
+    },
+    {
+      "tema": "DERECHOS DEL PACIENTE",
+      "subtema": "Acceso a información médica"
+    },
+    {
+      "tema": "PRINCIPIO IURA NOVIT CURIA",
+      "subtema": "Importancia de la labor del juez al momento de interpretar la demanda"
+    },
+    {
+      "tema": "DERECHO A LA SALUD DE MUJER EMBARAZADA",
+      "subtema": "Naturaleza del plan de parto como mecanismo de diálogo con el personal sanitario"
+    },
+    {
+      "tema": "PRINCIPIO DE SUBSIDIARIEDAD DE LA ACCIÓN DE TUTELA",
+      "subtema": "Procedencia excepcional en caso de no existir otro medio de defensa judicial"
+    },
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Conocimiento de la información adecuada y necesaria para acceder a los servicios de salud con libertad y autonomía"
+    },
+    {
+      "tema": "MUJER EMBARAZADA COMO SUJETO DE ESPECIAL PROTECCION",
+      "subtema": "Reiteración de jurisprudencia"
+    },
+    {
+      "tema": "DERECHO FUNDAMENTAL A LA SALUD",
+      "subtema": "Obligación de garantizar los procedimientos médicos que hacen parte del PBS"
+    },
+    {
+      "tema": "DERECHOS DEL PACIENTE",
+      "subtema": "Autonomía"
+    },
+    {
+      "tema": "DERECHO A LA SALUD DE MUJER EMBARAZADA",
+      "subtema": "Decisión libre e informada de dar a luz mediante cesárea"
+    },
+    {
+      "tema": "CESÁREA HUMANIZADA",
+      "subtema": "Concepto"
+    },
+    {
+      "tema": "DERECHO A LA SALUD DE MUJER EMBARAZADA",
+      "subtema": "Protección en la atención prenatal, parto y posparto"
+    },
+    {
+      "tema": "CARENCIA ACTUAL DE OBJETO POR DAÑO CONSUMADO",
+      "subtema": "Configuración"
+    }
+  ]
+}

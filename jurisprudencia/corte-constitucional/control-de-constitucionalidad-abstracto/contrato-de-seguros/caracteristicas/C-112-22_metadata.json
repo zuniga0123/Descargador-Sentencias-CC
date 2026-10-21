@@ -1,0 +1,109 @@
+{
+  "radicado": "C-112-22",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2022,
+  "fecha_creacion": "2022-03-24",
+  "magistrado_ponente": "Jorge Enrique Ibáñez Najar",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "CONTRATO DE SEGUROS",
+  "subtema": "Características",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto Ley 624 de 1989",
+    "Ley 75 de 1986",
+    "Ley 43 de 1987",
+    "Ley 1430 de 2010",
+    "Decreto 2967 de 1991",
+    "Ley 1762 de 2015",
+    "Ley 223 de 1995",
+    "Ley 1843 de 2017",
+    "Ley 1150 de 2007",
+    "Ley 80 de 1993",
+    "Ley 1066 de 2006",
+    "Ley 1474 de 2011",
+    "Ley 1819 de 2016"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2022/C-112-22.htm",
+  "fecha_descarga": "2026-10-21T08:16:57.761599+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2022-03-24",
+  "fecha_publicacion": "2022-08-05",
+  "numero": "C-112/22",
+  "tipo_cc": "C",
+  "prov_id": "38105",
+  "tema_relatoria": "SOLICITUD DEVOLUCIÓN IMPUESTOS. PRESENTACIÓN DE GARANTÍA POR EL CONTRIBUYENTE.",
+  "resumen": "Demanda de inconstitucionalidad en contra del artículo 860 (parcial) del Decreto Ley 624 de 1989, por el cual se expide el Estatuto Tributario de los impuestos administrados por la Dirección General de Impuestos Nacionales. Los demandantes consideran que la expresión “incluyendo el monto de las sanciones por improcedencia de la devolución” resulta incompatible con lo dispuesto en el artículo 6º de la Constitución, al permitir que, en el marco de un procedimiento de devolución de saldos, la compañía de seguros o la entidad que sirve de garante responda por el monto de la sanción que se le impone al contribuyente por la improcedencia de las sumas devueltas, a pesar de que ello no haya sido objeto de la garantía. De manera inicial la Corte analizó si en el presente asunto había operado o no el fenómeno de la cosa juzgada constitucional, toda vez que, mediante la Sentencia C-877/11 la Corporación se pronunció sobre la constitucionalidad del artículo 860 del Estatuto Tributario, que es el mismo que en esta oportunidad se cuestiona. Sobre el particular se encontró que la disposición cuestionada es diferente a la que se declaró inexequible con el referido fallo, la cual ya no se refiere al contenido de la caución, sino que trata sobre la responsabilidad solidaria del garante, quien debe responder por la obligación garantizada y, además, por el monto de la sanción impuesta al contribuyente por una devolución improcedente o injustificada. Concluyó la Sala Plena que la responsabilidad solidaria del garante, prevista en la norma acusada, no atendía a la finalidad legítima de las sanciones administrativas de trasformar comportamientos humanos frente a los cuales se realiza un juicio de desvalor que pretenden ser evitados o corregidos a través de su tipificación y/o previsión e imposición de medidas coercitivas razonables y proporcionadas. Es decir, que no se puede obligar a las compañías de seguro o a las entidades bancarias a responder por acciones que no les son imputables y que desbordan el riesgo asegurable. e declara INEXEQUIBLE la frase demandada.",
+  "titulaciones": [
+    {
+      "tema": "CONTRATO DE SEGUROS",
+      "subtema": "Características"
+    },
+    {
+      "tema": "PODER SANCIONATORIO ESTATAL",
+      "subtema": "Naturaleza y límites"
+    },
+    {
+      "tema": "RESPONSABILIDAD SOLIDARIA DEL GARANTE POR EL MONTO DE LAS SANCIONES IMPUESTAS AL CONTRIBUYENTE POR DEVOLUCIÓN IMPROCEDENTE O INJUSTIFICADA",
+      "subtema": "Vulnera principio de responsabilidad personal en materia sancionatoria"
+    },
+    {
+      "tema": "SOLIDARIDAD",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "SANCION POR RESPONSABILIDAD OBJETIVA",
+      "subtema": "Carácter excepcional y requisitos"
+    },
+    {
+      "tema": "PRINCIPIO DE RESPONSABILIDAD PERSONAL EN MATERIA SANCIONATORIA",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "DECLARACION TRIBUTARIA",
+      "subtema": "Devolución de saldos"
+    },
+    {
+      "tema": "CONTRATO DE SEGUROS",
+      "subtema": "Definición de la Corte Suprema de Justicia"
+    },
+    {
+      "tema": "CONTRATO DE SEGUROS",
+      "subtema": "Elementos esenciales"
+    },
+    {
+      "tema": "CONTRATO DE SEGUROS",
+      "subtema": "Naturaleza"
+    },
+    {
+      "tema": "PAGO DE SANCIONES IMPUESTAS AL CONTRIBUYENTE POR DEVOLUCIÓN IMPROCEDENTE O INJUSTIFICADA",
+      "subtema": "El garante no es responsable solidario, sino que asume la consecuencia patrimonial de la sanción en virtud del contrato de seguro"
+    },
+    {
+      "tema": "PRINCIPIO DE RESPONSABILIDAD PERSONAL EN MATERIA SANCIONATORIA",
+      "subtema": "Fundamento"
+    },
+    {
+      "tema": "LIBERTAD DE CONFIGURACIÓN LEGISLATIVA EN MATERIA DE PROCEDIMIENTOS ADMINISTRATIVOS TRIBUTARIOS",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "COSA JUZGADA CONSTITUCIONAL",
+      "subtema": "Inexistencia por cargos y contenidos normativos diferentes"
+    },
+    {
+      "tema": "RESPONSABILIDAD OBJETIVA EN MATERIA SANCIONATORIA ADMINISTRATIVA",
+      "subtema": "Proscrita"
+    },
+    {
+      "tema": "SOLIDARIDAD EN MATERIA DE DERECHO ADMINISTRATIVO SANCIONATORIO",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "LIBERTAD DE CONFIGURACION LEGISLATIVA EN MATERIA TRIBUTARIA",
+      "subtema": "Límites"
+    }
+  ]
+}

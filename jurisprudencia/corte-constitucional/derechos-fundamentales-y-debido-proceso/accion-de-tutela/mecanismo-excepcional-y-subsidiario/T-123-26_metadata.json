@@ -1,0 +1,57 @@
+{
+  "radicado": "T-123-26",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2026,
+  "fecha_creacion": "2026-05-07",
+  "magistrado_ponente": "Lina Marcela Escobar Martínez",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCIÓN DE TUTELA",
+  "subtema": "Mecanismo excepcional y subsidiario",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto Ley 2591 de 1991",
+    "Ley 23 de 1981",
+    "Decreto 2591 de 1991",
+    "Ley 1636 de 2013",
+    "Ley 1149 de 2007"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2026/T-123-26.htm",
+  "fecha_descarga": "2026-10-20T21:01:53.931625+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2026-05-07",
+  "fecha_publicacion": "2026-05-19",
+  "numero": "T-123/26",
+  "tipo_cc": "T",
+  "prov_id": "61049",
+  "tema_relatoria": "Derecho a la estabilidad laboral reforzada por embarazo y durante el período de lactancia-Requisito de subsidiariedad y configuración del perjuicio irremediable.",
+  "resumen": "La actora adujo que la empresa accionada vulneró sus derechos fundamentales al dar por terminado su contrato de trabajo a pesar de encontrarse en estado de embarazo. Se reiteraron las reglas jurisprudenciales sobre la procedencia excepcional de la acción de tutela en general y en materia de estabilidad laboral reforzada por fuero de maternidad. La Sala concluyó que en el presente caso no se cumplió el requisito de subsidiariedad, en tanto la accionante contaba con mecanismos ordinarios de defensa judicial y no se configuró un perjuicio irremediable. Con base en lo anterior se declaró la IMPROCEDENCIA del amparo invocado.",
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Mecanismo excepcional y subsidiario"
+    },
+    {
+      "tema": "PERJUICIO IRREMEDIABLE",
+      "subtema": "Criterios para determinar su configuración"
+    },
+    {
+      "tema": "ACCION DE TUTELA PARA PROTEGER EL DERECHO A LA ESTABILIDAD LABORAL REFORZADA DE MUJER EMBARAZADA O GESTANTE",
+      "subtema": "No se cumplía el requisito de subsidiariedad para amparar el derecho a la estabilidad laboral reforzada de la accionante"
+    },
+    {
+      "tema": "PRINCIPIO DE SUBSIDIARIEDAD DE LA ACCIÓN DE TUTELA",
+      "subtema": "Reiteración de jurisprudencia"
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA PARTICULARES",
+      "subtema": "Improcedencia por existir otro medio de defensa judicial y no acreditar perjuicio irremediable"
+    },
+    {
+      "tema": "PRINCIPIO DE SUBSIDIARIEDAD DE LA ACCIÓN DE TUTELA",
+      "subtema": "Juez debe verificar si ante la existencia de otro medio de defensa judicial, éste es eficaz e idóneo"
+    }
+  ]
+}

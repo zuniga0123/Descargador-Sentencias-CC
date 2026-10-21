@@ -1,0 +1,56 @@
+{
+  "radicado": "SU451-24",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2024,
+  "fecha_creacion": "2024-10-24",
+  "magistrado_ponente": "Jorge Enrique Ibáñez Najar",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "RECURSO EXTRAORDINARIO DE CASACION",
+  "subtema": "Características",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 1564 de 2012",
+    "Decreto Ley 2591 de 1991",
+    "Decreto 2591 de 1991",
+    "Decreto 806 de 2020"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2024/SU451-24.htm",
+  "fecha_descarga": "2026-10-21T01:53:29.421758+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2024-10-24",
+  "fecha_publicacion": "2025-02-03",
+  "numero": "SU.451/24",
+  "tipo_cc": "SU",
+  "prov_id": "47998",
+  "tema_relatoria": "TUTELA CONTRA DECISIONES JUDICIALES EN ASUNTO CIVIL (Responsabilidad Contractual)-IMPROCEDENCIA POR INCUMPLIR REQUISITO DE RELEVANCIA CONSTITUCIONAL (la discusión es económica y de rango legal, cuestiona el debate jurídico ya resuelto).",
+  "resumen": "En este caso se cuestiona la decisión judicial proferida al interior de un proceso civil declarativo iniciado por la empresa accionante en contra de la compañía Ford Motor de Venezuela S.A., con el propósito de que se declarara la existencia de un negocio jurídico consistente en la promoción, comercialización y mantenimiento de vehículos y repuestos de la marca Ford, así como los servicios de posventa a los clientes de esa marca. Igualmente, buscaba que se declarara que la demandada había ejercido una posición dominante y abusiva al poner fin unilateralmente al contrato que los unía, por lo que pretendía que se le reconociera una indemnización económica. Al revisar los requisitos de procedencia la Corte consideró que no se acreditó el requisito de relevancia constitucional. Ello, por cuanto la solicitud de amparo planteó un debate de naturaleza legal, buscó un asunto eminentemente económico y no se constató la vulneración de los derechos fundamentales alegados. Con base en lo anterior, se declaró la IMPROCEDENCIA de la acción de tutela deprecada.",
+  "titulaciones": [
+    {
+      "tema": "RECURSO EXTRAORDINARIO DE CASACION",
+      "subtema": "Características"
+    },
+    {
+      "tema": "RELEVANCIA CONSTITUCIONAL COMO REQUISITO DE PROCEDENCIA DE LA ACCION DE TUTELA",
+      "subtema": "Reiteración de jurisprudencia"
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA SENTENCIAS DE ALTAS CORTES",
+      "subtema": "Requisitos específicos de procedibilidad, exigen análisis restrictivo y deferencia ante la interpretación y valoración probatoria"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Improcedencia por falta de relevancia constitucional y no evidenciar afectación de derechos fundamentales"
+    },
+    {
+      "tema": "RELEVANCIA CONSTITUCIONAL",
+      "subtema": "Finalidad"
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA SENTENCIAS DE ALTAS CORTES",
+      "subtema": "Requisitos generales de procedencia requiere argumentación y análisis más riguroso"
+    }
+  ]
+}

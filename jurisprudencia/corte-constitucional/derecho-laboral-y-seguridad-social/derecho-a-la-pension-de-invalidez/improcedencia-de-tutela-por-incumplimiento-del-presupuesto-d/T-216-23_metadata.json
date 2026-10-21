@@ -1,0 +1,53 @@
+{
+  "radicado": "T-216-23",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2023,
+  "fecha_creacion": "2023-06-13",
+  "magistrado_ponente": "Alejandro Linares Cantillo",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "DERECHO A LA PENSIÓN DE INVALIDEZ",
+  "subtema": "Improcedencia de tutela, por incumplimiento del presupuesto de subsidiariedad",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 734 de 2002",
+    "Decreto 1072 de 2015",
+    "Decreto 2591 de 1991",
+    "Ley 923 de 2004",
+    "Decreto 4433 de 2004"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2023/T-216-23.htm",
+  "fecha_descarga": "2026-10-21T04:18:56.408538+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2023-06-13",
+  "fecha_publicacion": "2023-06-28",
+  "numero": "T-216/23",
+  "tipo_cc": "T",
+  "prov_id": "42920",
+  "tema_relatoria": "ACCIÓN DE TUTELA PARA RECONOCIMIENTO PENSIONAL EN EL RÉGIMEN DE LA POLICÍA NACIONAL-IMPROCEDENCIA POR EXISTIR OTRO MEDIO DE DEFENSA JUDICIAL Y NO ACREDITAR PERJUICIO IRREMEDIABLE.",
+  "resumen": "Al demandante, antiguo miembro de la Policía Nacional, le fueron practicados exámenes médicos por el órgano competente del subsistema de salud de la Policía Nacional, en los cuales se determinó un porcentaje de pérdida de capacidad laboral del 19.46%, originada en una condición neurológica. Inconforme con dicha calificación, el peticionario acudió a órganos pertenecientes al Sistema General de Salud y Seguridad Social y producto de esta actuación, la Junta Regional de Calificación de Invalidez de Antioquia le determinó un porcentaje de PCL del 66.39%. Con este nuevo porcentaje el actor pidió el reconocimiento de la pensión de invalidez, pero esta prestación fue denegada por el incumplimiento de los requisitos necesarios para acceder a la misma. Sin agotar las instancias administrativas y judiciales pertinentes, el actor instauró la acción de tutela para solicitar, entre otras cosas, la revocatoria de los actos administrativos que determinaron la pérdida de capacidad laboral y el reconocimiento de la pensión de invalidez. Evaluados los requisitos generales de procedencia de la tutela como mecanismo para reclamar prestaciones sociales, constató la Corte que no se acreditó el de subsidiariedad. Con base en lo anterior, se confirmó la decisión de instancia que declaró la IMPROCEDENCIA del amparo solicitado.",
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA PENSIÓN DE INVALIDEZ",
+      "subtema": "Improcedencia de tutela, por incumplimiento del presupuesto de subsidiariedad"
+    },
+    {
+      "tema": "ACCION DE TUTELA PARA ORDENAR RECONOCIMIENTO Y PAGO DE LA PENSION DE INVALIDEZ",
+      "subtema": "Procedencia excepcional"
+    },
+    {
+      "tema": "PENSION DE INVALIDEZ EN EL REGIMEN PRESTACIONAL ESPECIAL DE LA FUERZA PUBLICA",
+      "subtema": "Criterios para su determinación"
+    },
+    {
+      "tema": "PRINCIPIO NEMO AUDITUR PROPIAM TURPITUDINEM ALLEGANS",
+      "subtema": "Nadie puede alegar a su favor su propia culpa"
+    },
+    {
+      "tema": "DICTAMEN QUE CALIFICA PERDIDA DE CAPACIDAD LABORAL",
+      "subtema": "Improcedencia de la acción de tutela"
+    }
+  ]
+}

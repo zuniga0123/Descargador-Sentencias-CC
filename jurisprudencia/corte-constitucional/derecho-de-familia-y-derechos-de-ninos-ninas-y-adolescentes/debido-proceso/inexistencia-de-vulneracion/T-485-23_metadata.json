@@ -1,0 +1,56 @@
+{
+  "radicado": "T-485-23",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2023,
+  "fecha_creacion": "2023-11-15",
+  "magistrado_ponente": "Paola Andrea Meneses Mosquera",
+  "area": "Derecho de Familia y Derechos de Niños, Niñas y Adolescentes",
+  "tema": "DEBIDO PROCESO",
+  "subtema": "Inexistencia de vulneración",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 1878 de 2018",
+    "Ley 294 de 1996",
+    "Decreto 2591 de 1991",
+    "Ley 1098 de 2006"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2023/T-485-23.htm",
+  "fecha_descarga": "2026-10-21T04:07:40.903626+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2023-11-15",
+  "fecha_publicacion": "2023-11-21",
+  "numero": "T-485/23",
+  "tipo_cc": "T",
+  "prov_id": "44732",
+  "tema_relatoria": "PRINCIPIO DEL INTERÉS SUPERIOR DE LOS NIÑOS, NIÑAS Y ADOLESCENTES-CARENCIA ACTUAL DE OBJETO POR HECHO SUPERADO Y SITUACIÓN SOBREVINIENTE, RESPECTO DEL PROCEDIMIENTO DE REGULACIÓN DE VISITAS.",
+  "resumen": "La accionante, actuando en representación de su hija menor de edad, considera que la Comisaría accionada vulneró derechos fundamentales, con ocasión de la decisión adoptada sobre el régimen de visitas de la niña. Así mismo, por las irregularidades que presuntamente incurrió en el trámite del proceso administrativo, específicamente porque no le permitió acceder al expediente de su hija, no valoró los conceptos médicos aportados, ni le permitió a su apoderado participar, de manera virtual, en las audiencias de verificación de derechos y garantías de su la menor y de conciliación. Luego de analizar el asunto la Corte decidió: (i) declarar la carencia actual de objeto por hecho superado, en relación con la presunta vulneración a los derechos de petición y debido proceso de la accionante; (ii) declarar la carencia actual de objeto por hecho sobreviniente respecto a la presunta vulneración del interés superior de la menor y, (iii) negar el amparo invocado, respecto a las presuntas irregularidades cometidas por la accionada.",
+  "titulaciones": [
+    {
+      "tema": "DEBIDO PROCESO",
+      "subtema": "Inexistencia de vulneración"
+    },
+    {
+      "tema": "PROCESO DE CUSTODIA, CUIDADO PERSONAL Y RÉGIMEN DE VISITAS",
+      "subtema": "Prevalencia del interés superior de los niños, niñas y adolescentes"
+    },
+    {
+      "tema": "CARENCIA ACTUAL DE OBJETO POR SITUACIÓN SOBREVINIENTE",
+      "subtema": "Configuración"
+    },
+    {
+      "tema": "CARENCIA ACTUAL DE OBJETO POR HECHO SUPERADO",
+      "subtema": "Accionada dio respuesta de fondo al derecho de petición, antes de la expedición del fallo de instancia"
+    },
+    {
+      "tema": "CARENCIA ACTUAL DE OBJETO",
+      "subtema": "Reiteración de jurisprudencia"
+    },
+    {
+      "tema": "CARENCIA ACTUAL DE OBJETO",
+      "subtema": "Fenómeno que se configura en los siguientes eventos: hecho superado, daño consumado o situación sobreviniente"
+    }
+  ]
+}

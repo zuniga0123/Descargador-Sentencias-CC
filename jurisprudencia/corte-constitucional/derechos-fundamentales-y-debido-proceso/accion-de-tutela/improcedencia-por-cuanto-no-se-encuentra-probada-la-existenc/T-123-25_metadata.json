@@ -1,0 +1,43 @@
+{
+  "radicado": "T-123-25",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2025,
+  "fecha_creacion": "2025-04-07",
+  "magistrado_ponente": "Diana Fajardo Rivera",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCIÓN DE TUTELA",
+  "subtema": "Improcedencia por cuanto no se encuentra probada la existencia de una relación laboral",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Decreto Ley 2591 de 1991",
+    "Ley 1751 de 2015"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2025/T-123-25.htm",
+  "fecha_descarga": "2026-10-20T22:52:53.110138+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2025-04-07",
+  "fecha_publicacion": "2025-04-30",
+  "numero": "T-123/25",
+  "tipo_cc": "T",
+  "prov_id": "48550",
+  "tema_relatoria": "DERECHO A ESTABILIDAD LABORAL REFORZADA POR EMBARAZO (FUERO DE MATERNIDAD)-INCERTIDUMBRE ACERCA DE LA RELACIÓN DE TRABAJO. AUSENCIA DE SUBSIDIARIEDAD.",
+  "resumen": "La vulneración de derechos fundamentales por parte de la accionada se atribuyó a la decisión de dar por terminado el contrato verbal de trabajo de la actora sin justa causa, con pleno conocimiento de su estado de embarazo y sin autorización previa del Ministerio del Trabajo. Luego de analizar el cumplimiento de los requisitos de procedencia de la acción de tutela, encontró la Corte que no se acreditó el de subsidiariedad. Ello, por cuanto la peticionaria no indicó en la demanda con quien suscribió el contrato, ni cual fue el salario acordado, ni los horarios establecidos para desempeñar su labor. Igualmente, porque frente al requerimiento probatorio que realizó de oficio la Corporación, tampoco aportó ningún documento ni otros elementos de juicio que permitieran acreditar, así fuera sumariamente, que existió una relación laboral y por tanto, que se dio una prestación personal del servicio, una subordinación y una remuneración por la misma. Con base en lo anterior se declaró IMPROCEDENTE el amparo invocado.",
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Improcedencia por cuanto no se encuentra probada la existencia de una relación laboral"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA PARA PROTEGER EL DERECHO A LA ESTABILIDAD LABORAL REFORZADA",
+      "subtema": "Improcedencia por existir otro medio de defensa judicial"
+    },
+    {
+      "tema": "ACCION DE TUTELA PARA RECLAMAR DERECHOS INCIERTOS Y DISCUTIBLES",
+      "subtema": "Improcedencia"
+    }
+  ]
+}

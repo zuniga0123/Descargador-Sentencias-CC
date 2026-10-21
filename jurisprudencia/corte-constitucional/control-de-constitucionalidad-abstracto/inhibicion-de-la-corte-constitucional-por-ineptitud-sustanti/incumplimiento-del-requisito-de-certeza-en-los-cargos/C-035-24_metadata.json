@@ -1,0 +1,60 @@
+{
+  "radicado": "C-035-24",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2024,
+  "fecha_creacion": "2024-02-14",
+  "magistrado_ponente": "Jorge Enrique Ibáñez Najar",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "INHIBICION DE LA CORTE CONSTITUCIONAL POR INEPTITUD SUSTANTIVA DE LA DEMANDA",
+  "subtema": "Incumplimiento del requisito de certeza en los cargos",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 2294 de 2023",
+    "Decreto Ley 2067 de 1991",
+    "Ley 905 de 2004",
+    "Ley 1607 de 2012",
+    "Decreto 2067 de 1991",
+    "Ley 270 de 1996",
+    "Ley 2080 de 2021",
+    "Ley 6 de 1992"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2024/C-035-24.htm",
+  "fecha_descarga": "2026-10-21T01:52:13.582757+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2024-02-14",
+  "fecha_publicacion": "2024-04-23",
+  "numero": "C-035/24",
+  "tipo_cc": "C",
+  "prov_id": "46056",
+  "tema_relatoria": "FALLO INHIBITORIO POR INEPTITUD DE LA DEMANDA PRESENTADA EN CONTRA DE NORMA DEL PLAN NACIONAL DE DESARROLLO 2022-2026 QUE CONTEMPLA DESTINACIÓN DE LOS RECURSOS OBTENIDOS POR LAS CÁMARAS DE COMERCIO",
+  "resumen": "Demanda de inconstitucionalidad contra el artículo 98 de la Ley 2294 de 2023, por el cual se expide el Plan Nacional de Desarrollo 2022-2026 Colombia Potencia Mundial de la Vida. El demandante señaló que la norma cuestionada viola los artículos 338 y 359 de la Constitución, así como el artículo 16 del Estatuto Orgánico del Presupuesto. Lo anterior, porque (i) crea una transferencia que en realidad es un impuesto y éste no cumple con los principios de legalidad y certeza tributaria; (ii) los recursos generados por este impuesto se destinan de manera específica a financiar programas y políticas del Ministerio de Comercio, Industria y Turismo, lo cual implica una asignación específica. Al evaluar la demanda para proferir una decisión de mérito, la Sala Plena de la Corte concluyó que los cargos propuestos no cumplen el requisito de certeza necesario para emitir un pronunciamiento de fondo. Concluyó que la demanda carece de una interpretación objetiva y razonable del enunciado normativo, y que, por el contrario, se basa en suposiciones o interpretaciones subjetivas del demandante que contravienen el tenor literal de la ley, omiten el contexto normativo en el que se inserta, y además no son compartidas por el sector al que se aplica la norma. Con base en lo anterior, la Sala Plena de la Corporación se declaró INHIBIDA.",
+  "titulaciones": [
+    {
+      "tema": "INHIBICION DE LA CORTE CONSTITUCIONAL POR INEPTITUD SUSTANTIVA DE LA DEMANDA",
+      "subtema": "Incumplimiento del requisito de certeza en los cargos"
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD CONTRA NORMA DEL PLAN NACIONAL DE DESARROLLO",
+      "subtema": "Inhibición por ineptitud sustantiva de la demanda"
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "Cargos relacionados con interpretación de normas"
+    },
+    {
+      "tema": "CONTROL CONSTITUCIONAL",
+      "subtema": "Debe versar sobre norma demandada o susceptible de control en virtud de la integración de unidad normativa"
+    },
+    {
+      "tema": "CONTROL CONSTITUCIONAL",
+      "subtema": "Debe haber demanda de inconstitucionalidad con aptitud para provocar pronunciamiento de fondo"
+    },
+    {
+      "tema": "INHIBICION DE LA CORTE CONSTITUCIONAL",
+      "subtema": "No estructuración de un verdadero cargo de inconstitucionalidad"
+    }
+  ]
+}

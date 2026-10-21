@@ -1,0 +1,51 @@
+{
+  "radicado": "C-442-23",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2023,
+  "fecha_creacion": "2023-10-26",
+  "magistrado_ponente": "Paola Andrea Meneses Mosquera",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "INCONSTITUCIONALIDAD POR CONSECUENCIA",
+  "subtema": "Concepto",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2067 de 1991",
+    "Decreto 1278 de 2023",
+    "Decreto 1085 de 2023",
+    "Ley 1523 de 2012",
+    "Decreto 4975 de 2009",
+    "Ley 550 de 1999",
+    "Ley 21 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2023/C-442-23.htm",
+  "fecha_descarga": "2026-10-21T04:31:30.742045+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2023-10-26",
+  "fecha_publicacion": "2023-12-15",
+  "numero": "C-442/23",
+  "tipo_cc": "C",
+  "prov_id": "45074",
+  "tema_relatoria": "CONTROL DE CONSTITUCIONALIDAD DEL DECRETO LEGISLATIVO No. 1278 DEL 31 DE JULIO DE 2023.",
+  "resumen": "Revisión de constitucionalidad del Decreto Legislativo 1278 del 31 de julio de 2023, por el cual se adoptan medidas de emergencia en materia cultural para la protección de la riqueza cultural del Pueblo Wayúu. La norma que se revisa fue proferida en desarrollo del Decreto 1085 del 2 de julio de 2023, mediante el cual el Gobierno Nacional declaró el estado de emergencia económica, social y ecológica en el departamento de La Guajira. Este Decreto fue declarado inexequible, con efectos diferidos por un año, a través de la Sentencia C-383/23. En este fallo se dispuso que el diferimiento aplicaría respecto de la amenaza de agravamiento de la crisis humanitaria por la menor disponibilidad de agua. La Sala Plena verificó que el Decreto analizado en esta oportunidad no guarda un vínculo temático con la atención de la referida amenaza y, por ello, lo declaró INEXEQUIBLE por consecuencia, con efectos inmediatos.",
+  "titulaciones": [
+    {
+      "tema": "INCONSTITUCIONALIDAD POR CONSECUENCIA",
+      "subtema": "Concepto"
+    },
+    {
+      "tema": "DECRETO LEGISLATIVO EN DESARROLLO DE ESTADO DE EMERGENCIA ECONÓMICA, SOCIAL Y ECOLÓGICA EN EL DEPARTAMENTO DE LA GUAJIRA",
+      "subtema": "Inexequibilidad por consecuencia"
+    },
+    {
+      "tema": "INCONSTITUCIONALIDAD POR CONSECUENCIA",
+      "subtema": "Configuración"
+    },
+    {
+      "tema": "INCONSTITUCIONALIDAD POR CONSECUENCIA DE DECRETO LEGISLATIVO DE ESTADO DE EMERGENCIA SOCIAL",
+      "subtema": "Improcedencia de análisis formal y material"
+    }
+  ]
+}

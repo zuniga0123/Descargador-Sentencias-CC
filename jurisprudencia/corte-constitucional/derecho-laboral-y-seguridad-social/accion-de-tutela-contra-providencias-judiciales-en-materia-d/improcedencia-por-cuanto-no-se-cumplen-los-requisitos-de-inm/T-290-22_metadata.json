@@ -1,0 +1,57 @@
+{
+  "radicado": "T-290-22",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2022,
+  "fecha_creacion": "2022-08-22",
+  "magistrado_ponente": "Alejandro Linares Cantillo",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "ACCION DE TUTELA CONTRA PROVIDENCIAS JUDICIALES EN MATERIA DE RELIQUIDACION PENSIONAL",
+  "subtema": "Improcedencia por cuanto no se cumplen los requisitos de inmediatez y subsidiariedad",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Decreto 546 de 1971",
+    "Decreto 2591 de 1991",
+    "Ley 33 de 1985",
+    "Decreto 314 de 1994",
+    "Ley 797 de 2003",
+    "Ley 1437 de 2011",
+    "Acto Legislativo 1 de 2005",
+    "Decreto 1 de 1984",
+    "Ley 57 de 1887",
+    "Decreto Ley 4107 de 2011",
+    "Decreto 877 de 2013",
+    "Ley 1151 de 2007"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2022/T-290-22.htm",
+  "fecha_descarga": "2026-10-21T07:59:06.125523+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2022-08-22",
+  "fecha_publicacion": "2022-10-04",
+  "numero": "T-290/22",
+  "tipo_cc": "T",
+  "prov_id": "38678",
+  "tema_relatoria": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES EN MATERIA DE RELIQUIDACIÓN DE LA PENSIÓN-IMPROCEDENCIA POR INCUMPLIMIENTO DEL PRESUPUESTO DE LA SUBSIDIARIEDAD Y TAMPOCO SE DEMOSTRÓ EL ABUSO PALMARIO DEL DERECHO.",
+  "resumen": "La UGPP alega que la autoridad judicial accionada, al decidir la acción de nulidad y restablecimiento del derecho iniciada en su contra por uno de sus afiliados, vulneró sus derechos fundamentales al debido proceso y al acceso a la administración de justicia en conexidad con el principio de sostenibilidad financiera del sistema pensional, pues incurrió en los defectos sustantivo, desconocimiento del precedente, violación directa de la Constitución y en un abuso palmario del derecho. Lo anterior, al ordenarle que el ingreso base de liquidación (IBL) en la reliquidación de una pensión de vejez debía liquidarse con el 75% de la asignación más alta devengada en el último año de servicio y con la inclusión de todos los factores salariales devengados en ese último año, en los cuales se encuentra la bonificación por servicios prestados cuyo reconocimiento debía darse en un 100%. La Corte consideró que la acción de tutela no cumple con el requisito de subsidiariedad, por cuanto la entidad contaba con el recurso extraordinario de revisión para cuestionar las decisiones proferidas por la autoridad accionada y no acreditó la configuración de un abuso palmario del derecho para acudir de forma excepcional a la acción de tutela. Así mismo, verificó que no se cumplió el presupuesto de inmediates, puesto que el lapso transcurrido entre la última decisión cuestionada y la presentación del amparo resultó irrazonable. Con base en lo anterior, se confirmaron las decisiones de instancia que declararon IMPROCEDENTE el amparo invocado.",
+  "titulaciones": [
+    {
+      "tema": "ACCION DE TUTELA CONTRA PROVIDENCIAS JUDICIALES EN MATERIA DE RELIQUIDACION PENSIONAL",
+      "subtema": "Improcedencia por cuanto no se cumplen los requisitos de inmediatez y subsidiariedad"
+    },
+    {
+      "tema": "PENSIONES ADQUIRIDAS CON ABUSO DEL DERECHO O SIN CUMPLIMIENTO DE REQUISITOS ESTABLECIDOS EN LA LEY",
+      "subtema": "Indebida interpretación del régimen de transición para reliquidación de pensión"
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA PROVIDENCIAS JUDICIALES INTERPUESTA POR LA UGPP",
+      "subtema": "Improcedencia por no existir abuso palmario del derecho en reliquidación pensional"
+    },
+    {
+      "tema": "INCREMENTO EXCESIVO EN LA MESADA PENSIONAL",
+      "subtema": "Configuración de un palmario abuso del derecho"
+    }
+  ]
+}

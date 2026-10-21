@@ -1,0 +1,83 @@
+{
+  "radicado": "SU007-23",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2023,
+  "fecha_creacion": "2023-01-25",
+  "magistrado_ponente": "Juan Carlos Cortés González",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+  "subtema": "Improcedencia por cuanto no se configuraron los defectos alegados, ni hubo vulneración de principio de la doble conformidad",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 600 de 2000",
+    "Acto Legislativo 1 de 2018",
+    "Ley 906 de 2004",
+    "Ley 153 de 1887",
+    "Decreto 100 de 1980",
+    "Decreto 2550 de 1988",
+    "Ley 1395 de 2010"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2023/SU007-23.htm",
+  "fecha_descarga": "2026-10-21T04:38:09.843224+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2023-01-25",
+  "fecha_publicacion": "2023-09-26",
+  "numero": "SU.007/23",
+  "tipo_cc": "SU",
+  "prov_id": "44046",
+  "tema_relatoria": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES EN PROCESO PENAL (Homicidio agravado y concierto para delinquir agravado)-CONFIRMA IMPROCEDENCIA DEL AMPARO POR NO CONFIGURAR ALGUNO DE LOS DEFECTOS ALEGADOS, NI HUBO VULNERACIÓN DEL DERECHO A IMPUGNAR LA PRIMERA SENTENCIA CONDENATORIA (Principio de la doble conformidad).",
+  "resumen": "El actor fue absuelto en primera instancia dentro del proceso penal cursado en su contra por los delitos de homicidio agravado, homicidio agravado en grado de tentativa y concierto para delinquir agravado. No obstante, en segunda instancia fue condenado, por primera vez, por dichos delitos. En sede de tutela se cuestiona el auto que se negó a reponer la decisión de no conceder el recurso de impugnación que promovió el accionante contra la sentencia condenatoria. Se aduce que dicho fallo incurrió en una violación directa de la Constitución y en desconocimiento del precedente fijado en la Sentencia C-792/14 y SU.215/16. Se verifica el cumplimiento de los requisitos de procedencia de la acción de tutela contra providencia judicial y se analiza temática relacionada con: 1º. El ámbito temporal de aplicación de la impugnación especial para materializar la garantía de la doble conformidad en la jurisprudencia constitucional y, 2º. El alcance de la jurisprudencia de la Corte IDH en el ordenamiento jurídico interno. La Corte NEGÓ el amparo invocado por no encontrar configurados los defectos analizados. Se reiteró el exhorto al Congreso de la República efectuado en las Sentencias SU.792/14. SU.217/19 y SU.006/23 para que, en ejercicio de su potestad de configuración legislativa, regule de manera integral el mecanismo que garantice el ejercicio del derecho a impugnar la sentencia condenatoria en material penal.",
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Improcedencia por cuanto no se configuraron los defectos alegados, ni hubo vulneración de principio de la doble conformidad"
+    },
+    {
+      "tema": "DOBLE CONFORMIDAD JUDICIAL",
+      "subtema": "Garantía"
+    },
+    {
+      "tema": "DERECHO A LA IMPUGNACION DE SENTENCIAS CONDENATORIAS",
+      "subtema": "Nuevo estándar del bloque de constitucionalidad y garantía con efectos sustanciales del debido proceso penal"
+    },
+    {
+      "tema": "DERECHO A LA IMPUGNACION DE SENTENCIAS CONDENATORIAS",
+      "subtema": "Jurisprudencia de la Corte Interamericana de Derechos Humanos"
+    },
+    {
+      "tema": "DEBER CONSTITUCIONAL DEL LEGISLADOR DE DISEÑAR E IMPLEMENTAR UN RECURSO JUDICIAL QUE MATERIALICE EL DERECHO A LA IMPUGNACION",
+      "subtema": "Reiteración del exhorto al Congreso de la República"
+    },
+    {
+      "tema": "ÁMBITO DE APLICACIÓN DEL RECURSO DE IMPUGNACIÓN ESPECIAL CONTRA SENTENCIAS CONDENATORIAS",
+      "subtema": "Jurisprudencia de la Corte Suprema de Justicia"
+    },
+    {
+      "tema": "DOBLE CONFORMIDAD JUDICIAL",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "DOBLE CONFORMIDAD JUDICIAL",
+      "subtema": "Contenido"
+    },
+    {
+      "tema": "DERECHO A LA IMPUGNACION DE SENTENCIAS CONDENATORIAS",
+      "subtema": "Jurisprudencia constitucional"
+    },
+    {
+      "tema": "DERECHO A LA IMPUGNACION DE SENTENCIAS CONDENATORIAS",
+      "subtema": "Reglas"
+    },
+    {
+      "tema": "DERECHO A IMPUGNAR UNA SENTENCIA CONDENATORIA DICTADA POR PRIMERA VEZ EN SEGUNDA INSTANCIA",
+      "subtema": "Delimitación de los efectos de la sentencia C-792/14"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Requisitos generales y especiales de procedibilidad"
+    }
+  ]
+}

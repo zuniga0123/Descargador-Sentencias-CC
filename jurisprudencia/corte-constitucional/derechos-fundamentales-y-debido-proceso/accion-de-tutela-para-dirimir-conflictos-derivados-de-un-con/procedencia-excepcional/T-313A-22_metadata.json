@@ -1,0 +1,54 @@
+{
+  "radicado": "T-313A-22",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2022,
+  "fecha_creacion": "2022-09-06",
+  "magistrado_ponente": "Jorge Enrique Ibáñez Najar",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCION DE TUTELA PARA DIRIMIR CONFLICTOS DERIVADOS DE UN CONTRATO DE SEGUROS",
+  "subtema": "Procedencia excepcional",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto Ley 2591 de 1991",
+    "Decreto 2591 de 1991",
+    "Decreto 306 de 1992",
+    "Ley 80 de 1993",
+    "Decreto 1593 de 1959",
+    "Ley 1480 de 2011",
+    "Decreto 1075 de 2015",
+    "Ley 1562 de 2012",
+    "Ley 1712 de 2014",
+    "Decreto 2184 de 2012"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2022/T-313A-22.htm",
+  "fecha_descarga": "2026-10-21T07:56:35.031809+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2022-09-06",
+  "fecha_publicacion": "2022-11-22",
+  "numero": "T-313A/22",
+  "tipo_cc": "T",
+  "prov_id": "38981",
+  "tema_relatoria": "CONTRATO DE SEGURO DE VIDA POR INCAPACIDAD TOTAL Y PERMANENTE-INCUMPLIMIENTO DE LOS PRESUPUESTOS DE INMEDIATEZ Y SUBSIDIARIEDAD (ACCIONANTE POR SU PROPIA NEGLIGENCIA FINANCIERA AFECTÓ SU MÍNIMO VITAL).",
+  "resumen": "La actuación que se considera trasgresora de derechos fundamentales del actor es la negativa de la compañía accionada de activar las pólizas de seguro con el fin de pagar las cuotas del crédito hipotecario con la entidad bancaria, con fundamento en una supuesta reticencia. Se abordó temática relacionada con la procedencia de la acción de tutela para dirimir controversias originadas en el contrato de seguro y se constató que no se acreditó el cumplimiento de los requisitos de inmediatez y subsidiariedad. Con base en lo anterior se declaró IMPROCEDENTE el amparo invocado.",
+  "titulaciones": [
+    {
+      "tema": "ACCION DE TUTELA PARA DIRIMIR CONFLICTOS DERIVADOS DE UN CONTRATO DE SEGUROS",
+      "subtema": "Procedencia excepcional"
+    },
+    {
+      "tema": "ACCION DE TUTELA FRENTE A CONTROVERSIAS CONTRACTUALES",
+      "subtema": "Improcedencia por incumplir requisitos de inmediatez y subsidiariedad"
+    },
+    {
+      "tema": "DERECHO DE DEFENSA",
+      "subtema": "No puede alegarse la propia negligencia para la procedencia de la tutela"
+    },
+    {
+      "tema": "PRINCIPIO NADIE PUEDE ALEGAR SU PROPIA CULPA",
+      "subtema": "Contenido y naturaleza"
+    }
+  ]
+}

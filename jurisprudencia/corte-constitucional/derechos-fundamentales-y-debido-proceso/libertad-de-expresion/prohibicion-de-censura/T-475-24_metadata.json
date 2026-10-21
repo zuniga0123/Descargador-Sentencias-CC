@@ -1,0 +1,93 @@
+{
+  "radicado": "T-475-24",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2024,
+  "fecha_creacion": "2024-11-12",
+  "magistrado_ponente": "Antonio José Lizarazo Ocampo",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "LIBERTAD DE EXPRESIÓN",
+  "subtema": "Prohibición de censura",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 1712 de 2014",
+    "Ley 1755 de 2015",
+    "Ley 1437 de 2011",
+    "Ley 1341 de 2009"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2024/T-475-24.htm",
+  "fecha_descarga": "2026-10-21T01:24:40.655399+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2024-11-12",
+  "fecha_publicacion": "2024-11-20",
+  "numero": "T-475/24",
+  "tipo_cc": "T",
+  "prov_id": "47617",
+  "tema_relatoria": "DERECHOS DE ACCESO A LA INFORMACIÓN PÚBLICA, LIBERTAD DE EXPRESIÓN Y DE PRENSA EN INTERNET Y REDES SOCIALES-CENSURA EN PLATAFORMA DISPUESTA PARA LA INTERACCIÓN DE ENTIDAD ESTATAL CON LOS CIUDADANOS (Bloqueo en la red social X)",
+  "resumen": "La vulneración de derechos fundamentales por parte de la entidad territorial accionada se atribuye a la decisión de bloquear al actor desde el usuario de la Gobernación en la red social X, a través de la cual hace públicas las decisiones administrativas que tienen que ver con la inversión y el gasto de los recursos públicos, obras contratadas, ejecución de metas en el plan de desarrollo y políticas públicas a implementar, entre otras. El peticionario es un comunicador social que sigue cuentas oficiales y de servidores públicos con la finalidad de acceder a la información de interés general y particular, expresar sus opiniones y formular peticiones a dichas entidades y funcionarios del Estado. Luego de verificar el cumplimiento de los requisitos generales de procedencia de la tutela, se analizó la siguiente temática: 1º. Las formas de expresión amparadas por el artículo 20 de la Constitución, incluyendo la prohibición de censura. 2ª. Los límites a la libertad de expresión en redes sociales. 3º. Los derechos al buen nombre y a la honra y, 4º. El uso de las redes sociales por parte de las autoridades públicas. Concluyó la Corte que, en el contexto normativo actual, bloquear a un usuario del debate público que tiene lugar en la cuenta de la red social X de una entidad territorial, creada como una vía de interacción multilateral, constituye un acto de censura proscrito por el artículo 20 de la Constitución, siempre que el bloqueo no persiga una finalidad legítima, como proteger los derechos de las personas y defender el debate transparente. Se CONCEDIÓ el amparo invocado, se ordenó a la Gobernación del Cesar el desbloqueo del actor en la red social X y le advirtió que se abstenga de bloquear a los usuarios en dicha red, salvo que infrinjan las normas de la comunidad fijadas de forma previa, neutral y general.",
+  "titulaciones": [
+    {
+      "tema": "LIBERTAD DE EXPRESIÓN",
+      "subtema": "Prohibición de censura"
+    },
+    {
+      "tema": "LIBERTAD DE PRENSA",
+      "subtema": "Contenido y alcance"
+    },
+    {
+      "tema": "DERECHO A LA LIBERTAD DE EXPRESION EN EL CONTEXTO DE LAS NUEVAS TECNOLOGIAS",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "DERECHO A LA HONRA Y AL BUEN NOMBRE",
+      "subtema": "Desarrollo y alcance constitucional frente a tensiones respecto al ejercicio de la libertad de expresión"
+    },
+    {
+      "tema": "DERECHO DE ACCESO A LA INFORMACIÓN PÚBLICA",
+      "subtema": "Contenido y alcance"
+    },
+    {
+      "tema": "ACCION DE TUTELA EN MATERIA DE LIBERTAD DE EXPRESION EN REDES SOCIALES",
+      "subtema": "Reglas de procedencia"
+    },
+    {
+      "tema": "LIBERTAD DE EXPRESIÓN EN REDES SOCIALES",
+      "subtema": "Jurisprudencia constitucional"
+    },
+    {
+      "tema": "LIBERTAD DE EXPRESION, INFORMACION Y PRENSA",
+      "subtema": "Protección constitucional"
+    },
+    {
+      "tema": "LIBERTAD DE EXPRESIÓN DE FUNCIONARIOS PÚBLICOS EN REDES SOCIALES",
+      "subtema": "Manejo y uso de cuentas personales en redes sociales"
+    },
+    {
+      "tema": "LIBERTAD DE EXPRESIÓN EN REDES SOCIALES",
+      "subtema": "Límites a partir de la eventual afectación de derechos de terceros"
+    },
+    {
+      "tema": "LIBERTAD DE EXPRESIÓN EN REDES SOCIALES",
+      "subtema": "Ponderación cuando entra en conflicto con otros derechos"
+    },
+    {
+      "tema": "DERECHO A LA LIBERTAD DE EXPRESION DE FUNCIONARIOS PUBLICOS",
+      "subtema": "Poder-deber de comunicación de los altos funcionarios del Estado"
+    },
+    {
+      "tema": "DERECHO DE ACCESO A LA INFORMACIÓN PÚBLICA, LIBERTAD DE EXPRESIÓN Y PRENSA",
+      "subtema": "Criterios para determinar si bloqueo de interacción en red social constituye un acto de censura"
+    },
+    {
+      "tema": "DERECHO DE ACCESO A LA INFORMACIÓN PÚBLICA, LIBERTAD DE EXPRESIÓN Y PRENSA",
+      "subtema": "Censura de autoridad usuaria de red social al bloquear interacción con periodista"
+    },
+    {
+      "tema": "DERECHO DE ACCESO A LA INFORMACIÓN PÚBLICA, LIBERTAD DE EXPRESIÓN Y PRENSA",
+      "subtema": "Uso de las redes sociales por parte de instituciones o autoridades para la divulgación de información oficial"
+    }
+  ]
+}

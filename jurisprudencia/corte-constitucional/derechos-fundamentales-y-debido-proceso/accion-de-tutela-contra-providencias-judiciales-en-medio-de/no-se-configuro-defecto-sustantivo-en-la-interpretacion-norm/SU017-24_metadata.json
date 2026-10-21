@@ -1,0 +1,64 @@
+{
+  "radicado": "SU017-24",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2024,
+  "fecha_creacion": "2024-02-01",
+  "magistrado_ponente": "Natalia Ángel Cabo",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES EN MEDIO DE CONTROL DE NULIDAD Y RESTABLECIMIENTO DEL DERECHO EN MATERIA TRIBUTARIA",
+  "subtema": "No se configuró defecto sustantivo en la interpretación normativa",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2067 de 1991",
+    "Decreto 2591 de 1991",
+    "Decreto Ley 2106 de 2019",
+    "Decreto Ley 2591 de 1991",
+    "Ley 1437 de 2011",
+    "Ley 1943 de 2018",
+    "Ley 2010 de 2019",
+    "Decreto Ley 19 de 2012"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2024/SU017-24.htm",
+  "fecha_descarga": "2026-10-21T01:55:18.330072+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2024-02-01",
+  "fecha_publicacion": "2024-06-28",
+  "numero": "SU.017/24",
+  "tipo_cc": "SU",
+  "prov_id": "46596",
+  "tema_relatoria": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES EN MEDIO DE CONTROL DE NULIDAD Y RESTABLECIMIENTO DEL DERECHO EN MATERIA TRIBUTARIA-NIEGA AMPARO POR CUANTO NO SE CONFIGURÓ EL DEFECTO SUSTANTIVO.",
+  "resumen": "La DIAN censuró la providencia judicial que confirmó la decisión de primera instancia, mediante la cual se declaró la nulidad de lo actuado en el proceso de liquidación oficial de revisión del impuesto de renta y complementarios del año 2010 de la empresa Bavaria S.A. Se adujo que dicho fallo vulneró el debido proceso y los principios de legalidad, buena fe y confianza legítima, en razón a la configuración de un defecto sustantivo por indebida interpretación del artículo 564 del Estatuto Tributario que regula lo referente a la dirección procesal de notificación de los contribuyentes. Se reiteró jurisprudencia relacionada con la procedencia excepcional de la acción de tutela contra providencias judiciales y se abordó el tema de la relevancia constitucional como requisito general de dicha procedencia. Al no encontrar acreditado el defecto alegado, la Sala Plena de la Corporación decidió DENEGAR el amparo invocado.",
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES EN MEDIO DE CONTROL DE NULIDAD Y RESTABLECIMIENTO DEL DERECHO EN MATERIA TRIBUTARIA",
+      "subtema": "No se configuró defecto sustantivo en la interpretación normativa"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Relevancia constitucional como requisito de procedibilidad"
+    },
+    {
+      "tema": "DEFECTO SUSTANTIVO",
+      "subtema": "Configuración"
+    },
+    {
+      "tema": "NOTIFICACION REALIZADA POR LA ADMINISTRACION TRIBUTARIA",
+      "subtema": "Jurisprudencia constitucional"
+    },
+    {
+      "tema": "RELEVANCIA CONSTITUCIONAL",
+      "subtema": "Finalidad"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Requisitos generales y especiales de procedibilidad"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Reiteración de jurisprudencia sobre procedencia excepcional"
+    }
+  ]
+}

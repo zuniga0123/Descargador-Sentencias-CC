@@ -1,0 +1,132 @@
+{
+  "radicado": "T-234-23",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2023,
+  "fecha_creacion": "2023-06-27",
+  "magistrado_ponente": "Juan Carlos Cortés González",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "AUTONOMÍA UNIVERSITARIA",
+  "subtema": "Es legítima siempre y cuando no transgreda derechos fundamentales",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Decreto 216 de 2021",
+    "Ley 30 de 1992",
+    "Decreto 216 de 2011"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2023/T-234-23.htm",
+  "fecha_descarga": "2026-10-21T04:16:52.358957+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2023-06-27",
+  "fecha_publicacion": "2023-07-24",
+  "numero": "T-234/23",
+  "tipo_cc": "T",
+  "prov_id": "43148",
+  "tema_relatoria": "DERECHO A LA IGUALDAD Y EDUCACIÓN SUPERIOR-VULNERACIÓN EN SU COMPONENTES DE ACCESIBILIDAD, POR CUANTO LA UNIVERSIDAD DISCRIMINÓ A LA ACCIONANTE VENEZOLANA QUE HACE PARTE DE LA POBLACIÓN MIGRANTE.",
+  "resumen": "La actora considera que la universidad accionada vulneró sus derechos fundamentales al haber anulado su inscripción a un cupo especial para extranjeros en el programa de pregrado de Licenciatura en español e inglés, con fundamento en que su Permiso de Protección Temporal (PPT) no era considerado por el reglamento de la institución educativa como un documento de identificación válido para sus procesos de admisiones. La peticionaria alega que el mencionado permiso es reconocido por el Gobierno Nacional como documento de identificación para la población venezolana residente en Colombia. Se reiteró jurisprudencia relacionada con: 1º. El principio de autonomía universitaria. 2º. El trato diferencial respecto a la población migrante, en atención al PPT de las personas de origen venezolano y 3º. El derecho fundamental a la igualdad y la prohibición de discriminación. Así mismo, se analizó temática relacionada con el derecho fundamental a la educación, con una especial consideración a la faceta de accesibilidad a la educación superior. la Corte determinó que la accionada incurrió en una violación del derecho a la igualdad en el acceso a la educación, basada en una normativa desactualizada que permitió un trato discriminatorio en razón al origen nacional, que obviamente no puede estar amparada por la autonomía universitaria. Con base en lo anterior se CONCEDIÓ el amparo invocado.",
+  "titulaciones": [
+    {
+      "tema": "AUTONOMÍA UNIVERSITARIA",
+      "subtema": "Es legítima siempre y cuando no transgreda derechos fundamentales"
+    },
+    {
+      "tema": "ACCESO A UNIVERSIDAD PUBLICA",
+      "subtema": "Mérito como criterio básico para asignación de cupos"
+    },
+    {
+      "tema": "AUTONOMÍA UNIVERSITARIA",
+      "subtema": "Garantía constitucional"
+    },
+    {
+      "tema": "PRINCIPIO DE AUTONOMIA UNIVERSITARIA",
+      "subtema": "Concepto, alcance y contenido"
+    },
+    {
+      "tema": "POLITICA MIGRATORIA DEL ESTADO COLOMBIANO",
+      "subtema": "Regulación"
+    },
+    {
+      "tema": "DERECHO A LA EDUCACIÓN SUPERIOR",
+      "subtema": "Fundamental y progresivo"
+    },
+    {
+      "tema": "DERECHO A LA EDUCACIÓN",
+      "subtema": "Naturaleza jurídica"
+    },
+    {
+      "tema": "DERECHO A LA IGUALDAD EN ACCESO A LA UNIVERSIDAD PUBLICA",
+      "subtema": "Criterio objetivo para distribución de cupos"
+    },
+    {
+      "tema": "TEST ESTRICTO DE IGUALDAD",
+      "subtema": "Elementos"
+    },
+    {
+      "tema": "DERECHO A LA IGUALDAD FORMAL Y MATERIAL",
+      "subtema": "Prohibición absoluta de discriminación"
+    },
+    {
+      "tema": "ACCESIBILIDAD COMO COMPONENTE ESENCIAL DEL DERECHO A LA EDUCACION",
+      "subtema": "Dimensiones"
+    },
+    {
+      "tema": "DERECHO A LA IGUALDAD Y PRINCIPIO DE NO DISCRIMINACION",
+      "subtema": "Prohíbe cualquier diferenciación por razones de sexo, raza, origen nacional o familiar, lengua, religión, opinión política o filosófica, entre otras"
+    },
+    {
+      "tema": "RÉGIMEN MIGRATORIO COLOMBIANO",
+      "subtema": "Permiso por Protección Temporal-PPT"
+    },
+    {
+      "tema": "AUTONOMIA UNIVERSITARIA Y REGLAMENTO ESTUDIANTIL",
+      "subtema": "Disposiciones no pueden afectar el derecho a la educación"
+    },
+    {
+      "tema": "DERECHOS DE LOS MIGRANTES",
+      "subtema": "Extranjeros gozan de los mismos derechos civiles y garantías que gozan los nacionales, salvo las limitaciones que establece la Constitución o la ley"
+    },
+    {
+      "tema": "DIFERENCIACIONES BASADAS EN LA NACIONALIDAD",
+      "subtema": "Son constitucionalmente problemáticas en la medida en que involucran un criterio sospechoso de discriminación"
+    },
+    {
+      "tema": "DERECHO A LA IGUALDAD",
+      "subtema": "Carácter relacional"
+    },
+    {
+      "tema": "DERECHO A LA IGUALDAD",
+      "subtema": "No discriminación"
+    },
+    {
+      "tema": "DERECHO A LA EDUCACIÓN",
+      "subtema": "Derecho prestacional de desarrollo progresivo y aplicación inmediata"
+    },
+    {
+      "tema": "DERECHO A LA IGUALDAD Y EDUCACIÓN SUPERIOR",
+      "subtema": "Concede amparo, desconocimiento de documento válido de identificación a migrante venezolana"
+    },
+    {
+      "tema": "TEST ESTRICTO DE IGUALDAD",
+      "subtema": "Aplicación"
+    },
+    {
+      "tema": "REGIMEN MIGRATORIO EN COLOMBIA",
+      "subtema": "Generalidades"
+    },
+    {
+      "tema": "PRINCIPIO DE SUBSIDIARIEDAD DE LA ACCIÓN DE TUTELA",
+      "subtema": "Procedencia excepcional en caso de no existir otro medio de defensa judicial"
+    },
+    {
+      "tema": "DERECHO A LA EDUCACIÓN",
+      "subtema": "Disponibilidad, accesibilidad, aceptabilidad y adaptabilidad"
+    },
+    {
+      "tema": "ACCESIBILIDAD COMO COMPONENTE ESENCIAL DEL DERECHO A LA EDUCACION",
+      "subtema": "Condiciones de igualdad y no discriminación"
+    }
+  ]
+}

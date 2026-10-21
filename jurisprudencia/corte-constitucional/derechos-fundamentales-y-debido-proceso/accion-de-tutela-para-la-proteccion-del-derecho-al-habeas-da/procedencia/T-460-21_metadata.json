@@ -1,0 +1,58 @@
+{
+  "radicado": "T-460-21",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-12-15",
+  "magistrado_ponente": "Paola Andrea Meneses Mosquera",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCION DE TUTELA PARA LA PROTECCION DEL DERECHO AL HABEAS DATA",
+  "subtema": "Procedencia",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 1748 de 1995",
+    "Decreto 2071 de 2015",
+    "Ley 100 de 1993",
+    "Ley 797 de 2003",
+    "Acto Legislativo 1 de 2005",
+    "Decreto 2591 de 1991",
+    "Decreto 3798 de 2003",
+    "Ley 1748 de 1995",
+    "Decreto 1833 de 2021",
+    "Decreto 1513 de 1998"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2021/T-460-21.htm",
+  "fecha_descarga": "2026-10-21T08:25:51.316202+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2021-12-15",
+  "fecha_publicacion": "2022-02-07",
+  "numero": "T-460/21",
+  "tipo_cc": "T",
+  "prov_id": "37049",
+  "tema_relatoria": "ACCION DE TUTELA PARA DECLARAR NULIDAD DE TRASLADO A FONDO PENSIONAL-IMPROCEDENCIA POR INCUMPLIR REQUISITOS DE INMEDIATEZ Y SUBSIDIARIEDAD",
+  "resumen": "El actor alega que las entidades accionadas vulneraron sus derechos fundamentales al negarse a corregir los errores de información consignados en su historia laboral y registrados en el Sistema de Información de los Afiliados de los Fondos de Pensiones, relacionados con la fecha de afiliación a la Porvenir y las semanas que cotizó y, consecuentemente, negar el reconocimiento y pago de la pensión de vejez que reclamó. Teniendo en cuenta que la Corte constató que la acción de tutela no satisface el requisito de subsidiariedad, decidió confirmar las decisiones de instancia que la declararon IMPROCEDENTE. Lo anterior, en tanto el proceso ordinario laboral es el medio idóneo y eficaz en abstracto para resolver las pretensiones formuladas en la solicitud de amparo, porque se encuentra en curso una demanda laboral ordinaria promovida por el peticionario en contra de Porvenir y Colpensiones y, porque éste no se encuentra en una situación de vulnerabilidad o de riesgo de perjuicio irremediable que habilite la procedencia del amparo como mecanismo transitorio.",
+  "titulaciones": [
+    {
+      "tema": "ACCION DE TUTELA PARA LA PROTECCION DEL DERECHO AL HABEAS DATA",
+      "subtema": "Procedencia"
+    },
+    {
+      "tema": "DERECHO A LA SEGURIDAD SOCIAL EN PENSIONES",
+      "subtema": "Deberes de las Administradoras de pensiones respecto de la información consignada en la historia laboral de sus afiliados"
+    },
+    {
+      "tema": "ACCION DE TUTELA PARA SOLICITAR RECONSTRUCCION DE HISTORIA LABORAL A EFECTOS DE RECLAMAR PENSION DE VEJEZ",
+      "subtema": "Procedencia excepcional"
+    },
+    {
+      "tema": "DERECHO AL HABEAS DATA",
+      "subtema": "En relación con la información contenida en la historia laboral"
+    },
+    {
+      "tema": "PRINCIPIO DE SUBSIDIARIEDAD E INMEDIATEZ EN LA ACCION DE TUTELA",
+      "subtema": "Requisitos de procedibilidad"
+    }
+  ]
+}

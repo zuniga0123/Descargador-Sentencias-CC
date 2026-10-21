@@ -1,0 +1,44 @@
+{
+  "radicado": "C-147-22",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2022,
+  "fecha_creacion": "2022-04-27",
+  "magistrado_ponente": "Paola Andrea Meneses Mosquera",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "COSA JUZGADA CONSTITUCIONAL",
+  "subtema": "Clasificación",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 2080 de 2021",
+    "Ley 1437 de 2011",
+    "Decreto 2067 de 1991",
+    "Acto Legislativo 4 de 2019"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2022/C-147-22.htm",
+  "fecha_descarga": "2026-10-21T08:18:14.139216+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2022-04-27",
+  "fecha_publicacion": "2022-06-22",
+  "numero": "C-147/22",
+  "tipo_cc": "C",
+  "prov_id": "37816",
+  "tema_relatoria": "FALLOS RESPONSABILIDAD FISCAL. CONTROL AUTOMÁTICO DE LEGALIDAD. TRÁMITE",
+  "resumen": "Los demandantes consideran que la norma cuestionada infringe varias garantías contenidas en el derecho al debido proceso previsto en el artículo 29 de la Constitución, debido a la imposición de varias restricciones inherentes al control automático de legalidad de las decisiones con responsabilidad fiscal, previsto en las normas enjuiciadas, tales como: i) demandar la nulidad y reclamar el restablecimiento de sus derechos, así como solicitar la suspensión provisional del acto administrativo; ii) solicitar la indemnización de los perjuicios causados; y iii) ejercer el derecho de contradicción, ya que estos preceptos no otorgarían la oportunidad de solicitar pruebas ni presentar alegatos de conclusión. La Corte declaró la configuración del fenómeno de la cosa juzgada formal y absoluta y, en consecuencia, dispuso ESTARSE A LO RESUELTO en la Sentencia C-091/22.",
+  "titulaciones": [
+    {
+      "tema": "COSA JUZGADA CONSTITUCIONAL",
+      "subtema": "Clasificación"
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD CONTRA LA LEY 2080 DE 2021",
+      "subtema": "Estarse a lo resuelto en la sentencia C-091 de 2022"
+    },
+    {
+      "tema": "COSA JUZGADA CONSTITUCIONAL FORMAL Y ABSOLUTA",
+      "subtema": "Configuración"
+    }
+  ]
+}

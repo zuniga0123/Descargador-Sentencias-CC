@@ -1,0 +1,61 @@
+{
+  "radicado": "C-009-23",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2023,
+  "fecha_creacion": "2023-01-25",
+  "magistrado_ponente": "José Fernando Reyes Cuartas",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "COSA JUZGADA",
+  "subtema": "Efectos respecto de decisiones de exequibilidad e inexequibilidad",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 1123 de 2007",
+    "Decreto Ley 2067 de 1991",
+    "Decreto 2591 de 1991",
+    "Decreto 196 de 1971",
+    "Decreto 2067 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2023/C-009-23.htm",
+  "fecha_descarga": "2026-10-21T04:36:17.642218+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2023-01-25",
+  "fecha_publicacion": "2023-04-25",
+  "numero": "C-009/23",
+  "tipo_cc": "C",
+  "prov_id": "40197",
+  "tema_relatoria": "CÓDIGO DISCIPLINARIO DEL ABOGADO. SANCIONES APLICABLES A LOS ABOGADOS QUE INCURRAN EN FALTAS DISCIPLINARIAS.",
+  "resumen": "Demanda de inconstitucionalidad contra los artículos 30, 31, 32, 33, 34, 35 36, 37, 38, 39 y 40 de la Ley 1123 de 2007, por la cual se establece el Código Disciplinario del Abogado. Los demandantes consideran que las normas demandadas desconocen los artículos 29 de la Constitución, 9 de la Convención Americana sobre Derechos Humanos y 15 del Pacto Internacional de Derechos Civiles y Políticos. En particular consideran que transgreden el derecho fundamental al debido proceso, por contravenir el principio de legalidad. En su criterio, ello ocurre porque las faltas disciplinarias no determinan ni identifican la sanción que se debe imponer por incurrir en cada una de aquellas. En concreto, alegaron que no establecían el castigo ni señalaban los criterios para su tasación. La Corte estudió la aptitud sustancial de la demanda y determinó que esta no cumplió con los requisitos mínimos para que emitir pronunciamiento de fondo. En consecuencia, se declaró INHIBIDA. Así mismo, la Sala consideró que los actores buscaban formular un cargo por omisión legislativa relativa pero que partieron de una lectura aislada de las normas demandadas, porque no tuvieron en cuenta que los artículos 40 a 45 de la Ley 1123 de 2007 y las sentencias C-280 y C-379 de 2008 permitían inferir que no existía la omisión que los demandantes creyeron identificar. En este aspecto, se resolvió ESTARSE A LO RESUELTO en la Sentencia C-290/08 que declaró la exequibilidad del artículo 40 de la Ley 1123 de 2007, por el cargo estudiado en esa decisión.",
+  "titulaciones": [
+    {
+      "tema": "COSA JUZGADA",
+      "subtema": "Efectos respecto de decisiones de exequibilidad e inexequibilidad"
+    },
+    {
+      "tema": "COSA JUZGADA CONSTITUCIONAL",
+      "subtema": "Criterios para determinar su existencia"
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "Requisitos de claridad, certeza, especificidad, pertinencia y suficiencia"
+    },
+    {
+      "tema": "COSA JUZGADA CONSTITUCIONAL",
+      "subtema": "Configuración"
+    },
+    {
+      "tema": "INHIBICION DE LA CORTE CONSTITUCIONAL POR INEPTITUD SUSTANTIVA DE LA DEMANDA",
+      "subtema": "Incumplimiento de requisitos de certeza, especificidad, pertinencia y suficiencia en los cargos"
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD CONTRA LA LEY 1123 DE 2007",
+      "subtema": "Estarse a lo resuelto en la sentencia C-290 de 2008"
+    },
+    {
+      "tema": "INHIBICION DE LA CORTE CONSTITUCIONAL EN DEMANDA POR OMISION LEGISLATIVA",
+      "subtema": "Ineptitud sustantiva por incumplimiento de carga argumentativa"
+    }
+  ]
+}

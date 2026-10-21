@@ -1,0 +1,59 @@
+{
+  "radicado": "T-333-24",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2024,
+  "fecha_creacion": "2024-03-22",
+  "magistrado_ponente": "Paola Andrea Meneses Mosquera",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "CARENCIA ACTUAL DE OBJETO POR SITUACIÓN SOBREVINIENTE",
+  "subtema": "Cumplimiento de orden judicial",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 2213 de 2022",
+    "Decreto 1012 de 2015",
+    "Ley 789 de 2002",
+    "Decreto 2067 de 1991",
+    "Decreto 1069 de 2015",
+    "Decreto Ley 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2024/T-333-24.htm",
+  "fecha_descarga": "2026-10-21T01:31:01.359140+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2024-03-22",
+  "fecha_publicacion": "2024-08-22",
+  "numero": "T-333/24",
+  "tipo_cc": "T",
+  "prov_id": "46986",
+  "tema_relatoria": "DERECHOS A LA SEGURIDAD SOCIAL, AL MÍNIMO VITAL Y LA ESTABILIDAD LABORAL REFORZADA (despido de persona, mientras estaba incapacitado)-NULIDAD PROCESAL DE TUTELA EN TRÁMITE DE IMPUGNACIÓN (vulneración del debido proceso por duplicidad del reparto).",
+  "resumen": "La vulneración de derechos fundamentales por parte de la empresa accionada se atribuye a la decisión de terminar unilateralmente el contrato de trabajo del actor mientras se encontraba incapacitado. En primera instancia se declaró improcedente el amparo y el actor impugnó esta decisión. Por error, se repartió el expediente a dos autoridades distintas y esto generó que se profirieran dos fallos de segunda instancia contradictorios. Además de lo anterior, la cónyuge del accionante, actuando como agente oficiosa de éste, formuló otra solicitud de amparo, la cual fue decidida favorablemente. La Sala encontró configurado el fenómeno de la carencia actual de objeto por HECHO SOBREVINIENTE. Esto, porque entre la interposición de la demanda y la decisión del juez constitucional cesó la vulneración o amenaza alegada, en la medida en que, en cumplimiento del fallo proferido en un proceso de tutela distinto al que es objeto de revisión, se produjo el reintegro solicitado.",
+  "titulaciones": [
+    {
+      "tema": "CARENCIA ACTUAL DE OBJETO POR SITUACIÓN SOBREVINIENTE",
+      "subtema": "Cumplimiento de orden judicial"
+    },
+    {
+      "tema": "NULIDAD PROCESAL EN LA ACCION DE TUTELA",
+      "subtema": "Marco normativo para evaluar las irregularidades acaecidas antes de la sentencia de revisión"
+    },
+    {
+      "tema": "DEBIDO PROCESO EN ACCION DE TUTELA",
+      "subtema": "Correcta notificación a las partes y a terceros, de todas las providencias que se dicten"
+    },
+    {
+      "tema": "DERECHO A LA ESTABILIDAD LABORAL REFORZADA",
+      "subtema": "Procedencia excepcional de la acción de tutela para su protección cuando el trabajador se encuentra en estado de debilidad manifiesta"
+    },
+    {
+      "tema": "ACTUACION TEMERARIA Y COSA JUZGADA EN MATERIA DE TUTELA",
+      "subtema": "Inexistencia para el caso"
+    },
+    {
+      "tema": "CARENCIA ACTUAL DE OBJETO",
+      "subtema": "Fenómeno que se configura en los siguientes eventos: hecho superado, daño consumado o situación sobreviniente"
+    }
+  ]
+}

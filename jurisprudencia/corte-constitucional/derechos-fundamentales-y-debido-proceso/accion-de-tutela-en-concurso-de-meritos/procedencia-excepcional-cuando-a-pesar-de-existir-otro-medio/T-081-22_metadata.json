@@ -1,0 +1,44 @@
+{
+  "radicado": "T-081-22",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2022,
+  "fecha_creacion": "2022-03-09",
+  "magistrado_ponente": "Alejandro Linares Cantillo",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCION DE TUTELA EN CONCURSO DE MERITOS",
+  "subtema": "Procedencia excepcional cuando a pesar de existir otro medio de defensa judicial, éste no resulta idóneo para evitar un perjuicio irremediable",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 1437 de 2011",
+    "Decreto Ley 2591 de 1991",
+    "Decreto 1210 de 1993"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2022/T-081-22.htm",
+  "fecha_descarga": "2026-10-21T08:09:00.502299+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2022-03-09",
+  "fecha_publicacion": "2022-03-29",
+  "numero": "T-081/22",
+  "tipo_cc": "T",
+  "prov_id": "37412",
+  "tema_relatoria": "ACCION DE TUTELA EN CONCURSO DE MERITOS.IMPROCEDENCIA POR INCUMPLIR REQUISITO DE SUBSIDIARIEDAD",
+  "resumen": "Los accionantes se desempeñaban como docentes nombrados en provisionalidad por la Secretaría de Educación de Bolívar y participaron en el concurso abierto de méritos para proveer definitivamente los empleos vacantes de directivos docentes y docentes en establecimientos educativos oficiales que prestan sus servicios en zonas rurales afectadas por el conflicto, priorizadas y reglamentadas por el Ministerio de Educación Nacional y ubicadas en el departamento de Bolívar. La vulneración de derechos fundamentales la atribuyen a la decisión de las entidades accionadas al no dar validez a los documentos que aportaron para acreditar la experiencia laboral, pese a que se trataba de un certificado proferido por una entidad pública y que, la aplicación del artículo 32 de la convocatoria podía llevar a verificar su autenticidad. Indicaron que al presentar la reclamación aportaron un documento que certificaba su experiencia laboral y que se encontraba debidamente suscrito por el Secretario de Educación del departamento de Bolívar, el cual no fue tendido en cuenta por considerarse extemporáneo, sin advertir que tenía la finalidad de conjurar las falencias del que fue inicialmente cargado a la plataforma digital. Luego de verificar los requisitos de procedencia de la acción de tutela, la Sala Tercera de Revisión determinó que resultaba IMPROCEDENTE, por la falta de acreditación del requisito de subsidiariedad.",
+  "titulaciones": [
+    {
+      "tema": "ACCION DE TUTELA EN CONCURSO DE MERITOS",
+      "subtema": "Procedencia excepcional cuando a pesar de existir otro medio de defensa judicial, éste no resulta idóneo para evitar un perjuicio irremediable"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA ACTOS ADMINISTRATIVOS EN CONCURSO DE MÉRITOS",
+      "subtema": "Improcedencia del amparo por incumplir requisito de subsidiariedad"
+    },
+    {
+      "tema": "CARENCIA ACTUAL DE OBJETO POR SITUACIÓN SOBREVINIENTE",
+      "subtema": "Configuración"
+    }
+  ]
+}

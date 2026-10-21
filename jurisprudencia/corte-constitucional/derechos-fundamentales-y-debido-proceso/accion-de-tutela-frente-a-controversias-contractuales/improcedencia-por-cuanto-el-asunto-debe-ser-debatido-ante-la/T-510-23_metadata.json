@@ -1,0 +1,43 @@
+{
+  "radicado": "T-510-23",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2023,
+  "fecha_creacion": "2023-11-27",
+  "magistrado_ponente": "Natalia Ángel Cabo",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCION DE TUTELA FRENTE A CONTROVERSIAS CONTRACTUALES",
+  "subtema": "Improcedencia por cuanto el asunto debe ser debatido ante la jurisdicción ordinaria que está facultada para resolverlo de manera idónea y eficaz, además no se configuró un perjuicio irremediable",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 142 de 1994",
+    "Ley 472 de 1998"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2023/T-510-23.htm",
+  "fecha_descarga": "2026-10-21T04:06:32.781453+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2023-11-27",
+  "fecha_publicacion": "2023-12-04",
+  "numero": "T-510/23",
+  "tipo_cc": "T",
+  "prov_id": "44934",
+  "tema_relatoria": "DERECHO A LA VIVIENDA DIGNA-PRESTACIÓN DEL SERVICIO PÚBLICO DE ENERGÍA ELÉCTRICA. INCUMPLIMIENTO DEL PRESUPUESTO DE SUBSIDIARIEDAD Y NO ACREDITAR PERJUICIO IRREMEDIABLE. REITERACIÓN DE JURISPRUDENCIA",
+  "resumen": "Los actores, veintisiete en total, presentaron la acción de tutela a nombre propio, en representación de sus hijos menores y como agentes oficiosos de personas adultas mayores que están bajo su cuidado. Alegan, (i) por un lado, que Inversiones Milenium amenaza con vulnerar sus derechos fundamentales porque no ha instalado la conexión definitiva del servicio de energía eléctrica en el condominio en el que actualmente residen (tanto en zonas comunes como en las unidades privadas) y les advirtió que dejará de pagar el servicio de luz para sus viviendas. Por el otro, (ii) que Enel Colombia SA ESP también amenaza con vulnerar sus garantías constitucionales porque no ha exigido a la precitada Inversora la instalación definitiva del servicio eléctrico para el condominio y puede cortar el servicio de energía en las viviendas, ante la falta de pago. Por no acreditar el requisito de subsidiariedad ni la existencia de un perjuicio irremediable, se declaró la IMPROCEDENCIA de la acción de tutela deprecada. Se recomendó a las accionadas, a los accionantes y a la administración, diseñar un acuerdo de pago dirigido a regularizar el servicio de energía en el condominio al que se hace alusión en este proceso.",
+  "titulaciones": [
+    {
+      "tema": "ACCION DE TUTELA FRENTE A CONTROVERSIAS CONTRACTUALES",
+      "subtema": "Improcedencia por cuanto el asunto debe ser debatido ante la jurisdicción ordinaria que está facultada para resolverlo de manera idónea y eficaz, además no se configuró un perjuicio irremediable"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Requiere la existencia de un perjuicio grave e inminente para la procedencia"
+    },
+    {
+      "tema": "SERVICIO DE ENERGIA ELECTRICA",
+      "subtema": "Sólo puede ser amparado por tutela, cuando afecte derechos fundamentales"
+    }
+  ]
+}

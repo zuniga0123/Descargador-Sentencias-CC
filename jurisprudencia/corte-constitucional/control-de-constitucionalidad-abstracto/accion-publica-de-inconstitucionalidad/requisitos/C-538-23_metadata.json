@@ -1,0 +1,65 @@
+{
+  "radicado": "C-538-23",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2023,
+  "fecha_creacion": "2023-12-05",
+  "magistrado_ponente": "Natalia Ángel Cabo",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "ACCION PUBLICA DE INCONSTITUCIONALIDAD",
+  "subtema": "Requisitos",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 624 de 1989",
+    "Ley 1731 de 2014",
+    "Decreto 2067 de 1991",
+    "Decreto Ley 2067 de 1991",
+    "Ley 16 de 1990",
+    "Decreto 2555 de 2010",
+    "Decreto 3788 de 1981",
+    "Ley 795 de 2003",
+    "Ley 617 de 2002",
+    "Ley 923 de 2004",
+    "Ley 1341 de 2009",
+    "Decreto 1242 de 2021",
+    "Decreto 466 de 2020"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2023/C-538-23.htm",
+  "fecha_descarga": "2026-10-21T04:28:37.447849+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2023-12-05",
+  "fecha_publicacion": "2024-02-14",
+  "numero": "C-538/23",
+  "tipo_cc": "C",
+  "prov_id": "45424",
+  "tema_relatoria": "INHIBICIÓN POR INEPTITUD DE LA DEMANDA FRENTE A CARGOS PRESENTADOS EN CONTRA DE BENEFICIO TRIBUTARIO OTORGADO AL FONDO NACIONAL DE GARANTÍAS Y AL FONDO AGROPECUARIO DE GARANTÍAS.",
+  "resumen": "Demanda de inconstitucionalidad contra el artículo 175 del Decreto 624 de 1989, por el cual se expide el Estatuto Tributario de los Impuestos administrados por la Dirección General de Impuestos Nacionales, modificado por el artículo 18 de la Ley 1731 de 2014. El actor consideró que la disposición acusada viola el derecho a la igualdad y el principio de equidad tributaria en su dimensión horizontal, los cuales se derivan de los artículos 13, 95-9 y 363 de la Constitución. Lo anterior, debido al tratamiento diferenciado que otorga en materia de deducibilidad de las reservas técnicas o de siniestralidad al Fondo Nacional de Garantías y el Fondo Agropecuario de Garantías y no a los Fondos de Garantías de Economía Mixta o fondos regionales que tienen como actividad principal el otorgamiento de garantías. Con base en dicha discriminación, el demandante también planteó un cargo por omisión legislativa relativa. La Corte concluyó que ninguno de los cargos de la demanda cumplió con los requisitos de aptitud definidos por la jurisprudencia constitucional para realizar un pronunciamiento de fondo y, por ello, se declaró INHIBIDA.",
+  "titulaciones": [
+    {
+      "tema": "ACCION PUBLICA DE INCONSTITUCIONALIDAD",
+      "subtema": "Requisitos"
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD POR VULNERACION DEL PRINCIPIO DE IGUALDAD",
+      "subtema": "Requisitos en la carga argumentativa"
+    },
+    {
+      "tema": "INHIBICION DE LA CORTE CONSTITUCIONAL EN DEMANDA POR OMISION LEGISLATIVA",
+      "subtema": "Ineptitud sustantiva por incumplimiento de carga argumentativa"
+    },
+    {
+      "tema": "FONDO NACIONAL DE GARANTÍAS Y FONDOS DE GARANTÍAS DE ECONOMÍA MIXTA",
+      "subtema": "Diferencias"
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD POR OMISION LEGISLATIVA RELATIVA",
+      "subtema": "Impone al demandante una mayor carga argumentativa"
+    },
+    {
+      "tema": "INHIBICION DE LA CORTE CONSTITUCIONAL",
+      "subtema": "Incumplimiento de requisitos exigidos en cargo por violación al principio de igualdad"
+    }
+  ]
+}

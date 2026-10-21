@@ -1,0 +1,49 @@
+{
+  "radicado": "T-332-21",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-09-27",
+  "magistrado_ponente": "Alberto Rojas Ríos",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "LABOR DE UNIFICACION DE JURISPRUDENCIA",
+  "subtema": "Función central de la Corte Suprema de Justicia en sus diferentes salas",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2021/T-332-21.htm",
+  "fecha_descarga": "2026-10-21T08:28:36.564572+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2021-09-27",
+  "fecha_publicacion": "2021-12-09",
+  "numero": "T-332/21",
+  "tipo_cc": "T",
+  "prov_id": "36772",
+  "tema_relatoria": "COSA JUZGADA CONSTITUCIONAL. SENTENCIA DE CORTE SUPREMA NO CONSTITUYE HECHO NUEVA QUE HABILITE NUEVAMENTE ESTUDIO DE LA ACCION DE TUTELA",
+  "resumen": "Como antecedentes de la presente acción de tutela se tiene que la accionante previamente acudió ante los jueces laborales con el fin de que anularan su traslado entre regímenes pensionales. Entre Los años 2016 y 2017 se surtieron las instancias del precitado proceso y el Tribunal Superior de Bogotá negó las pretensiones, tras considerar que el traslado se surtió adecuadamente. Contra la anterior decisión se interpuso una primera acción de tutela en el año 2018, la cual fue negada en las dos instancias. Pasados tres años la actora vuelve a formular la presente solicitud de amparo en contra de la providencia proferida en el año 2017, argumentando que en los años 2018 y 2021 se produjo un cambio jurisprudencial que permite que su caso sea nuevamente estudiado. La peticionaria adujo que la Sala Laboral de la Corte Suprema de Justicia, en sede de tutela, profirió una sentencia en la que acogió un criterio jurisprudencial que, si se aplicara a ella, permitiría dejar sin efecto el fallo cuestionado. En su criterio, este fallo constituye un hecho nuevo que habilita la interposición de la nueva solicitud de amparo. La Corte encontró que la sentencia de la Corte Suprema de Justicia mencionada no constituye un hecho nuevo, por cuanto se trató de un fallo de tutela cuyos efectos solo son vinculantes para las partes. En consecuencia, se declaró IMPROCEDENTE la solicitud de amparo por estar ante la figura de la cosa juzgada constitucional por existir identidad de partes, objeto y pretensiones.",
+  "titulaciones": [
+    {
+      "tema": "LABOR DE UNIFICACION DE JURISPRUDENCIA",
+      "subtema": "Función central de la Corte Suprema de Justicia en sus diferentes salas"
+    },
+    {
+      "tema": "TEMERIDAD",
+      "subtema": "Inexistencia para el caso"
+    },
+    {
+      "tema": "COSA JUZGADA CONSTITUCIONAL EN TUTELA",
+      "subtema": "Configuración"
+    },
+    {
+      "tema": "COSA JUZGADA CONSTITUCIONAL EN TUTELA",
+      "subtema": "De manera excepcional, la emisión de una sentencia judicial puede constituirse como hecho nuevo para justificar la interposición de una segunda acción"
+    },
+    {
+      "tema": "ACCION DE TUTELA TEMERARIA",
+      "subtema": "Para que se configure temeridad debe evidenciarse la mala fe en el actuar del peticionario"
+    }
+  ]
+}

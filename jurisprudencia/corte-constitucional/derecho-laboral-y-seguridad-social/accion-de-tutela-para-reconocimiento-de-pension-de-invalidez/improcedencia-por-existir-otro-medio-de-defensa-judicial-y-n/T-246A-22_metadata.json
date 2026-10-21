@@ -1,0 +1,47 @@
+{
+  "radicado": "T-246A-22",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2022,
+  "fecha_creacion": "2022-07-01",
+  "magistrado_ponente": "Antonio José Lizarazo Ocampo",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "ACCION DE TUTELA PARA RECONOCIMIENTO DE PENSION DE INVALIDEZ",
+  "subtema": "Improcedencia por existir otro medio de defensa judicial y no acreditar perjuicio irremediable",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Ley 860 de 2003",
+    "Decreto Ley 2591 de 1991",
+    "Ley 1564 de 2012",
+    "Decreto 1507 de 2014",
+    "Decreto 1352 de 2013",
+    "Decreto 917 de 1999"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2022/T-246A-22.htm",
+  "fecha_descarga": "2026-10-21T07:58:43.734386+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2022-07-01",
+  "fecha_publicacion": "2022-10-07",
+  "numero": "T-246A/22",
+  "tipo_cc": "T",
+  "prov_id": "38692",
+  "tema_relatoria": "DERECHO A LA PENSIÓN DE INVALIDEZ-IMPROCEDENCIA DE LA ACCIÓN DE TUTELA PARA RECONOCIMIENTO PENSIONAL POR INCUMPLIR PRESUPUESTO DE SUBSIDIARIEDAD Y NO ACREDITARSE UN PERJUICIO IRREMEDIABLE.",
+  "resumen": "El accionante tiene unos diagnósticos de insuficiencia renal crónica e hipertensión arterial que le han ocasionado un 71.32% de pérdida de capacidad laboral de origen común. La accionada le negó el reconocimiento y pago de la pensión de invalidez que reclamó, por el incumplimiento del requisito de tener cincuenta semanas de cotización en los tres últimos años inmediatos a la fecha de estructuración. La entidad le indicó al peticionario que podía optar por la devolución del saldo existente en la cuenta individual de ahorro pensional y el valor correspondiente a la redención anticipada de su bono pensional, si a éste hubiere lugar, o continuar cotizando para obtener una pensión de vejez. Luego de verificar el cumplimiento de los requisitos de procedencia de la acción de tutela, la Corte encontró que no se satisfizo el de subsidiariedad. Ello, por cuanto el proceso ordinario laboral, que se surte en la actualidad, es el idóneo y eficaz para resolver la cuestión, en tanto no se observó una amenaza o perjuicio irremediable. Con base en lo anterior, se declaró la IMPROCEDENCIA de la solicitud de amparo promovida en esta oportunidad.",
+  "titulaciones": [
+    {
+      "tema": "ACCION DE TUTELA PARA RECONOCIMIENTO DE PENSION DE INVALIDEZ",
+      "subtema": "Improcedencia por existir otro medio de defensa judicial y no acreditar perjuicio irremediable"
+    },
+    {
+      "tema": "ACCION DE TUTELA PARA ORDENAR RECONOCIMIENTO Y PAGO DE LA PENSION DE INVALIDEZ",
+      "subtema": "Procedencia excepcional"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA PARA EL RECONOCIMIENTO DE PENSIÓN DE INVALIDEZ",
+      "subtema": "Procedencia por cuanto se cumple con los requisitos exigidos por la ley para que le sea amparado el derecho prestacional"
+    }
+  ]
+}

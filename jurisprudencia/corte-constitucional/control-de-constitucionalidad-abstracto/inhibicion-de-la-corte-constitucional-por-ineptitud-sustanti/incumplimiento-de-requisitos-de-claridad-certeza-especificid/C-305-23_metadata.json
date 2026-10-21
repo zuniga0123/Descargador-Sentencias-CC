@@ -1,0 +1,49 @@
+{
+  "radicado": "C-305-23",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2023,
+  "fecha_creacion": "2023-08-10",
+  "magistrado_ponente": "Natalia Ángel Cabo",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "INHIBICION DE LA CORTE CONSTITUCIONAL POR INEPTITUD SUSTANTIVA DE LA DEMANDA",
+  "subtema": "Incumplimiento de requisitos de claridad, certeza, especificidad, pertinencia y suficiencia en los cargos",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 1952 de 2019",
+    "Ley 2094 de 2021",
+    "Decreto 2067 de 1991",
+    "Ley 734 de 2002",
+    "Ley 1474 de 2011"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2023/C-305-23.htm",
+  "fecha_descarga": "2026-10-21T04:33:14.869437+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2023-08-10",
+  "fecha_publicacion": "2023-09-26",
+  "numero": "C-305/23",
+  "tipo_cc": "C",
+  "prov_id": "44047",
+  "tema_relatoria": "PROCESO DISCIPLINARIO VERBAL. EVENTOS EN LOS QUE PROCEDE.",
+  "resumen": "Demanda de inconstitucionalidad contra el parágrafo del artículo 225A de la Ley 1952 de 2019, adicionado por el artículo 40 de la Ley 2094 de 2021 (Código Disciplinario Único). El demandante considera que la disposición cuestionada, al contemplar la posibilidad de que los funcionarios que llevan a cabo un proceso disciplinario sean los que determinen las formas propias del juicio que van a adelantar. vulnera el artículo 29 de la Constitución Política. En concreto, el actor adujo que desconoce el respeto debido a las formas propias de cada juicio y los principios de legalidad y de favorabilidad. Teniendo en cuenta que el cargo propuesto no logró satisfacer los requisitos de claridad, certeza, especificidad, pertinencia y suficiencia, la Sala Plena de la Corporación decidió INHIBIRSE de emitir pronunciamiento de fondo.",
+  "titulaciones": [
+    {
+      "tema": "INHIBICION DE LA CORTE CONSTITUCIONAL POR INEPTITUD SUSTANTIVA DE LA DEMANDA",
+      "subtema": "Incumplimiento de requisitos de claridad, certeza, especificidad, pertinencia y suficiencia en los cargos"
+    },
+    {
+      "tema": "INHIBICION DE LA CORTE CONSTITUCIONAL",
+      "subtema": "Ineptitud sustantiva de la demanda por presunta violación del debido proceso"
+    },
+    {
+      "tema": "CONCEPTO DE VIOLACION EN DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "Jurisprudencia constitucional"
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "Requisitos mínimos"
+    }
+  ]
+}

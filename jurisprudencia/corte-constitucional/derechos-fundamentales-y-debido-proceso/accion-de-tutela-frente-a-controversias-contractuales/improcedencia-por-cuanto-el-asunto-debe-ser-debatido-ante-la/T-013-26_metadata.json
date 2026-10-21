@@ -1,0 +1,42 @@
+{
+  "radicado": "T-013-26",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2026,
+  "fecha_creacion": "2026-02-04",
+  "magistrado_ponente": "Lina Marcela Escobar Martínez",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCION DE TUTELA FRENTE A CONTROVERSIAS CONTRACTUALES",
+  "subtema": "Improcedencia por cuanto el asunto debe ser debatido ante la jurisdicción ordinaria que está facultada para resolverlo de manera idónea y eficaz, además no se configuró un perjuicio irremediable",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 1468 de 2011",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2026/T-013-26.htm",
+  "fecha_descarga": "2026-10-20T21:05:36.168436+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2026-02-04",
+  "fecha_publicacion": "2026-02-17",
+  "numero": "T-013/26",
+  "tipo_cc": "T",
+  "prov_id": "60486",
+  "tema_relatoria": "Derecho a la estabilidad laboral reforzada por razones de salud. Improcedencia por inmediatez y subsidiariedad, no acreditó perjuicio irremediable.",
+  "resumen": "La actora adujo que la empresa accionada vulneró sus derechos fundamentales porque no tuvo en cuenta sus circunstancias especiales, principalmente las de salud y económicas y su condición de madre cabeza de familia, para terminar su relación laboral. Al revisar los requisitos de procedencia de la acción de tutela encontró la Sala que no se acreditaron los presupuestos de inmediatez y subsidiariedad y tampoco se acredito la existencia de un perjuicio irremediable que permitiera utilizar la acción de tutela como mecanismo transitorio y, por ello, declaró su IMPROCEDENCIA.",
+  "titulaciones": [
+    {
+      "tema": "ACCION DE TUTELA FRENTE A CONTROVERSIAS CONTRACTUALES",
+      "subtema": "Improcedencia por cuanto el asunto debe ser debatido ante la jurisdicción ordinaria que está facultada para resolverlo de manera idónea y eficaz, además no se configuró un perjuicio irremediable"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Improcedencia por no cumplir con requisito de la inmediatez"
+    },
+    {
+      "tema": "PERJUICIO IRREMEDIABLE",
+      "subtema": "Inexistencia"
+    }
+  ]
+}

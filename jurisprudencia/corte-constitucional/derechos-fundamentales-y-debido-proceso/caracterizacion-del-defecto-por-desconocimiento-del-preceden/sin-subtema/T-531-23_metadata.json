@@ -1,0 +1,56 @@
+{
+  "radicado": "T-531-23",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2023,
+  "fecha_creacion": "2023-12-01",
+  "magistrado_ponente": "Diana Fajardo Rivera Primero",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "CARACTERIZACION DEL DEFECTO POR DESCONOCIMIENTO DEL PRECEDENTE JUDICIAL",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto Ley 2591 de 1991",
+    "Ley 1437 de 2011",
+    "Ley 797 de 2003",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2023/T-531-23.htm",
+  "fecha_descarga": "2026-10-21T04:05:54.819536+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2023-12-01",
+  "fecha_publicacion": "2023-12-12",
+  "numero": "T-531/23",
+  "tipo_cc": "T",
+  "prov_id": "45034",
+  "tema_relatoria": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES EN MEDIO DE CONTROL DE REPARACIÓN DIRECTA (Daños por minas antipersonales)-CONCEDE AMPARO. CONFIGURACIÓN DEL DEFECTO FÁCTICO Y DESCONOCIMIENTO DEL PRECEDENTE JUDICIAL.",
+  "resumen": "En este caso se cuestionan las decisiones judiciales adoptadas en el marco de un proceso de reparación directa instaurado por el actor en contra de la Nación-Ministerio de Defensa-Armada Nacional, a raíz del fallecimiento de su compañero permanente como consecuencia de la detonación de un artefacto explosivo abandonado en el lugar donde se encontraba con un amigo, quien resultó con múltiples heridas de gravedad. Indica que los hechos ocurrieron en el lugar donde infantes de marina adscritos a la Armada Nacional de Colombia realizaban prácticas de entrenamiento con artefactos explosivos como el que acabó con la vida de su pareja. De manera adicional alegaron que las autoridades accionadas resolvieron de forma distinta dos procesos que fueron instaurados por los mismos hechos y negaron las pretensiones incoadas argumentando que no se logró acreditar el nexo de causalidad entre el daño y la imputación. Se aduce que dichos fallos incurrieron en violación directa de la Constitución y en los defectos fáctico, por indebida valoración probatoria, sustantivo por falta de motivación y procedimental por exceso ritual manifiesto. Se revisa el cumplimiento de los requisitos de procedencia de la acción de tutela contra providencia judicial y se hace referencia a los defectos alegados. Concluyó la Corte que el Tribunal cuestionado incurrió (i) en la causal específica de procedibilidad por desconocimiento del precedente judicial, al fallar de forma distinta casos idénticos, sin proveer razón suficiente y razonable para ello, y (ii) indebida valoración probatoria, en la medida en que no tuvo en cuenta el expediente del otro proceso iniciado por los mismos hechos, el cual fue allegado como parte del material probatorio y en el que se demostró que para la fecha y lugar de los hechos hubo presencia militar y que el artefacto explosivo que acabó con la vida del compañero de la peticionaria tuvo el propósito de afectar a la Fuerza Pública. Se CONCEDE el amparo invocado y se ordena a la autoridad judicial proferir una nueva providencia en la que, con apego al principio de igualdad, valore todo el acervo probatorio obrante en el expediente, incluido el otro proceso de reparación directa mencionado. Se advierte que, en caso de que decida separarse del precedente, debe motivar con suficiencia sus razones para ello.",
+  "titulaciones": [
+    {
+      "tema": "CARACTERIZACION DEL DEFECTO POR DESCONOCIMIENTO DEL PRECEDENTE JUDICIAL",
+      "subtema": null
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Requisitos generales y especiales de procedibilidad"
+    },
+    {
+      "tema": "PRECEDENTE HORIZONTAL DE LOS TRIBUNALES",
+      "subtema": "Carácter vinculante"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Caracterización del defecto fáctico como causal de procedibilidad"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES EN MEDIO DE CONTROL DE REPARACIÓN DIRECTA",
+      "subtema": "Configuración de los defectos fáctico por indebida valoración probatoria y desconocimiento del precedente judicial"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Relevancia constitucional como requisito de procedibilidad"
+    }
+  ]
+}

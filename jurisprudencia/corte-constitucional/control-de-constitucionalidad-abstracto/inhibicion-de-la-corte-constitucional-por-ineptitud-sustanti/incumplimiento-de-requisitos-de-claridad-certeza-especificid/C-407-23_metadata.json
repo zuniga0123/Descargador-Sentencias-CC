@@ -1,0 +1,52 @@
+{
+  "radicado": "C-407-23",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2023,
+  "fecha_creacion": "2023-10-11",
+  "magistrado_ponente": "Jorge Enrique Ibáñez Najar",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "INHIBICION DE LA CORTE CONSTITUCIONAL POR INEPTITUD SUSTANTIVA DE LA DEMANDA",
+  "subtema": "Incumplimiento de requisitos de claridad, certeza, especificidad, pertinencia y suficiencia en los cargos",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 1551 de 2012",
+    "Decreto Ley 2067 de 1991",
+    "Ley 136 de 1994",
+    "Ley 111 de 1996",
+    "Decreto 2067 de 1991",
+    "Decreto 111 de 1996",
+    "Ley 2200 de 2022",
+    "Decreto Ley 111 de 1996"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2023/C-407-23.htm",
+  "fecha_descarga": "2026-10-21T04:29:28.497865+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2023-10-11",
+  "fecha_publicacion": "2024-02-01",
+  "numero": "C-407/23",
+  "tipo_cc": "C",
+  "prov_id": "45342",
+  "tema_relatoria": "FUNCIONES DE LOS ALCALDES. INCORPORAR AL PRESUPUESTO MUNICIPAL LOS RECURSOS RECIBIDOS DEL TESORO MUNICIPAL. TÉRMINO EN QUE DEBERÁ INFORMAR AL CONCEJO MUNICIPAL EL RECIBO DE ESTOS RECURSOS.",
+  "resumen": "Demanda de inconstitucionalidad en contra del literal g) del artículo 29 de la Ley 1551 de 2012, por la cual se dictan normas para modernizar la organización y el funcionamiento de los municipios. El demandante alega que la disposición censurada es contraria a los artículos 209, 300, 305, 313, 315, 345, 346, 347 y 352 de la Constitución. Ello, por cuanto otorga al alcalde la competencia de aumentar el presupuesto a través de un decreto, lo cual es del resorte exclusivo de los concejos municipales y distritales. En su criterio, se desconoce con ello el principio democrático y el principio de legalidad del gasto público. La Sala Plena de la Corporación encontró que la demanda es inepta, por cuanto no logró superar los requisitos de claridad, certeza, especificidad, pertinencia y suficiente. Con base en lo anterior, se declaró INHIBIDA para emitir pronunciamiento de fondo.",
+  "titulaciones": [
+    {
+      "tema": "INHIBICION DE LA CORTE CONSTITUCIONAL POR INEPTITUD SUSTANTIVA DE LA DEMANDA",
+      "subtema": "Incumplimiento de requisitos de claridad, certeza, especificidad, pertinencia y suficiencia en los cargos"
+    },
+    {
+      "tema": "CONCEPTO DE VIOLACION EN DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "Razones claras, ciertas, específicas, pertinentes y suficientes"
+    },
+    {
+      "tema": "INHIBICION DE LA CORTE CONSTITUCIONAL",
+      "subtema": "Argumentación que no es de carácter constitucional"
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "Requisitos mínimos"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "radicado": "SU397-22",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2022,
+  "fecha_creacion": "2022-11-10",
+  "magistrado_ponente": "Diana Fajardo Rivera",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "TEMERIDAD",
+  "subtema": "Concepto y desarrollo jurisprudencial",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 1161 de 1999",
+    "Decreto 3000 de 2011",
+    "Decreto 130 de 2014",
+    "Decreto 2591 de 1991",
+    "Ley 1564 de 2012"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2022/SU397-22.htm",
+  "fecha_descarga": "2026-10-21T08:19:52.200727+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2022-11-10",
+  "fecha_publicacion": "2023-01-16",
+  "numero": "SU.397/22",
+  "tipo_cc": "SU",
+  "prov_id": "39503",
+  "tema_relatoria": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES EN EL MARCO DE UN PROCESO LABORAL (DEMANDA DE PENSIÓN CONVENCIONAL)-IMPROCEDENCIA POR CONFIGURARSE COSA JUZGADA CONSTITUCIONAL",
+  "resumen": "El actor tiene 72 años de edad e interpuso la acción de tutela para cuestionar las sentencias de instancia y de casación proferidas en el marco del proceso laboral que inició en contra de Corelca S.A. E.S.P., y que le negaron el acceso a la pensión de jubilación contemplada en el artículo 16 de la Convención Colectiva suscrita entre la empresa empleadora y Sintraelecol. Dicha negativa estuvo basada en el hecho de haber cumplido la edad exigida por la norma convencional después de su desvinculación laboral con la demandada. Para el peticionario, la edad es un requisito de mera exigibilidad y no de causación del derecho, por lo que, en virtud del principio de favorabilidad laboral, debía reconocerse y ordenarse el pago de la prestación. La Sala Plena declaró LA IMPROCEDENCIA de la acción de tutela, pues constató la configuración de la cosa juzgada constitucional. En concreto, evidenció que previamente el accionante había ejercido un primer recurso de amparo en el mismo sentido, con identidad de partes, causa y objeto, y que las decisiones de instancia que lo resolvieron hicieron tránsito a cosa juzgada ante la no selección de ese primer expediente para la revisión por parte de la Corporación. Asimismo, estableció que, contrario a lo sostenido por el peticionario, la adopción de la Sentencia SU.027/21 no constituyó un hecho novedoso que justificara el ejercicio de una segunda solicitud de amparo, ni se evidenciaron circunstancias excepcionales que autorizara al juez de tutela reabrir un debate ya resuelto al interior de la jurisdicción constitucional.",
+  "titulaciones": [
+    {
+      "tema": "TEMERIDAD",
+      "subtema": "Concepto y desarrollo jurisprudencial"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES EN PROCESO LABORAL DE ACCESO A LA PENSIÓN DE JUBILACIÓN CONVENCIONAL",
+      "subtema": "Improcedencia por configurarse cosa juzgada constitucional"
+    },
+    {
+      "tema": "ACCION DE TUTELA TEMERARIA",
+      "subtema": "Inexistencia para el caso"
+    }
+  ]
+}

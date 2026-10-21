@@ -1,0 +1,54 @@
+{
+  "radicado": "T-413-23",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2023,
+  "fecha_creacion": "2023-10-17",
+  "magistrado_ponente": "Antonio José Lizarazo Ocampo",
+  "area": "Derecho Constitucional Económico",
+  "tema": "DERECHO A LA VIVIENDA DIGNA FRENTE A LOS EFECTOS DE UN DESASTRE NATURAL",
+  "subtema": "Procedencia de la acción de tutela",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 4712 de 2008",
+    "Decreto Ley 2591 de 1991",
+    "Ley 136 de 1994",
+    "Decreto 2591 de 1991",
+    "Decreto 4819 de 2010",
+    "Decreto Ley 2591 de 1995"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2023/T-413-23.htm",
+  "fecha_descarga": "2026-10-21T04:09:15.029434+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2023-10-17",
+  "fecha_publicacion": "2023-10-26",
+  "numero": "T-413/23",
+  "tipo_cc": "T",
+  "prov_id": "44418",
+  "tema_relatoria": "DERECHO A LA VIVIENDA DIGNA-OBLIGACIÓN ESTATAL DE CARÁCTER PROGRESIVO. ASIGNACIÓN DE SUBSIDIO EN ESPECIE O SOLUCIÓN DE VIVIENDA NO ES INMEDIATA.",
+  "resumen": "La vulneración de derechos fundamentales por parte de las entidades accionadas se predica del hecho de no entregar una vivienda al actor, a pesar de que lo calificaron como elegible priorizado para obtener una solución habitacional. Como el proyecto urbanístico en el que estaba interesado el accionante fracasó, el Fondo de Adaptación le ofreció otras soluciones en proyectos donde había viviendas disponibles, pero éste no las aceptó. Al realizar el análisis de fondo encontró la Sala que no existió la trasgresión alegada, en tanto la calidad de elegible del peticionario no le da un derecho absoluto que le permitiera exigir que el inmueble sea entregado de manera inmediata, con características especiales, ni en proyectos específicos. Con base en lo anterior, se DENEGÓ el amparo invocado.",
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA VIVIENDA DIGNA FRENTE A LOS EFECTOS DE UN DESASTRE NATURAL",
+      "subtema": "Procedencia de la acción de tutela"
+    },
+    {
+      "tema": "SUBSIDIO DE VIVIENDA",
+      "subtema": "Mecanismo para el desarrollo progresivo del derecho a la vivienda digna"
+    },
+    {
+      "tema": "DERECHO A LA VIVIENDA DIGNA",
+      "subtema": "Obligaciones de cumplimiento inmediato o en el corto plazo y obligaciones que demandan un desarrollo progresivo"
+    },
+    {
+      "tema": "DERECHO A LA VIVIENDA DIGNA DE PERSONAS AFECTADAS POR DESASTRES NATURALES",
+      "subtema": "Criterios para establecer las facetas del derecho que pueden exigirse mediante acción de tutela"
+    },
+    {
+      "tema": "DERECHO FUNDAMENTAL A LA VIVIENDA DIGNA DE VICTIMAS DE DESASTRES NATURALES Y PRINCIPIO DE SOLIDARIDAD",
+      "subtema": "Deber del Estado y la sociedad dada la especial situación de vulnerabilidad y debilidad manifiesta"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "radicado": "T-111-24",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2024,
+  "fecha_creacion": "2024-04-10",
+  "magistrado_ponente": "Jorge Enrique Ibáñez Najar",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "DERECHO A LA ESTABILIDAD LABORAL REFORZADA",
+  "subtema": "Se presume la discriminación cuando el empleador, conociendo la situación, retira del servicio a una persona que por sus condiciones de salud es beneficiario de la estabilidad laboral reforzada",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 361 de 1997",
+    "Decreto 1069 de 2015",
+    "Decreto 2591 de 1991",
+    "Ley 2213 de 2022",
+    "Decreto Ley 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2024/T-111-24.htm",
+  "fecha_descarga": "2026-10-21T01:42:06.332415+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2024-04-10",
+  "fecha_publicacion": "2024-04-23",
+  "numero": "T-111/24",
+  "tipo_cc": "T",
+  "prov_id": "46059",
+  "tema_relatoria": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES EN ASUNTO LABORAL-REITERACIÓN JURISPRUDENCIAL SOBRE LA ESTABILIDAD LABORAL REFORZADA POR RAZONES DE SALUD.",
+  "resumen": "La vulneración de derechos fundamentales se atribuye a una decisión judicial proferida en el marco de un proceso ordinario laboral iniciado por el actor para cuestionar la terminación de su relación laboral con la demandada. En dicha providencia se denegaron las pretensiones formuladas por el accionante, por no encontrarse probada ni la condición de debilidad manifiesta, ni una afectación al normal desarrollo de las actividades para las que fue contratado. Se aduce que dicho fallo incurrió en desconocimiento del precedente en materia de estabilidad laboral reforzada y en error fáctico por indebida valoración probatoria. Se reiteró jurisprudencia relacionada con la procedencia excepcional de la acción de tutela contra providencias judiciales y se verificó el cumplimiento de las causales específicas de esta procedencia. Luego de concluir que la accionada no incurrió en ninguno de los defectos alegados, la Sala de Revisión decidió confirmar las sentencias de instancia que NEGARON el amparo invocado.",
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA ESTABILIDAD LABORAL REFORZADA",
+      "subtema": "Se presume la discriminación cuando el empleador, conociendo la situación, retira del servicio a una persona que por sus condiciones de salud es beneficiario de la estabilidad laboral reforzada"
+    },
+    {
+      "tema": "DERECHO A LA ESTABILIDAD LABORAL REFORZADA DE PERSONA EN ESTADO DE DEBILIDAD MANIFIESTA POR RAZONES DE SALUD",
+      "subtema": "Reglas jurisprudenciales"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Requisitos generales y especiales de procedibilidad"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES EN PROCESO LABORAL",
+      "subtema": "Improcedencia del amparo por cuanto no se configuraron los defectos alegados"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Caracterización del defecto fáctico como causal de procedibilidad"
+    },
+    {
+      "tema": "DERECHO A LA ESTABILIDAD LABORAL REFORZADA",
+      "subtema": "Se extiende a todos aquellos que tengan una afectación en su salud y esa circunstancia les impida o dificulte sustancialmente el desempeño de sus labores en condiciones regulares"
+    },
+    {
+      "tema": "DESCONOCIMIENTO DEL PRECEDENTE COMO CAUSAL ESPECIFICA DE PROCEDIBILIDAD DE LA ACCION DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Reiteración de jurisprudencia"
+    },
+    {
+      "tema": "NOTIFICACION POR CORREO ELECTRONICO",
+      "subtema": "Eventos en que procede"
+    }
+  ]
+}

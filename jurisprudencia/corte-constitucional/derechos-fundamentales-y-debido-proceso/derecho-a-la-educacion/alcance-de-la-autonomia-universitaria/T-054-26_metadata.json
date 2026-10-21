@@ -1,0 +1,58 @@
+{
+  "radicado": "T-054-26",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2026,
+  "fecha_creacion": "2026-03-10",
+  "magistrado_ponente": "Jorge Enrique Ibáñez Najar",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "DERECHO A LA EDUCACIÓN",
+  "subtema": "Alcance de la autonomía universitaria",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto Ley 2591 de 1991",
+    "Decreto 2591 de 1991",
+    "Ley 1010 de 2006",
+    "Ley 30 de 1992",
+    "Ley 1566 de 2012",
+    "Ley 1581 de 2012"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2026/T-054-26.htm",
+  "fecha_descarga": "2026-10-20T21:04:53.226193+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2026-03-10",
+  "fecha_publicacion": "2026-03-27",
+  "numero": "T-054/26",
+  "tipo_cc": "T",
+  "prov_id": "60715",
+  "tema_relatoria": "Derecho a la educación superior y continuidad en la formación académica-Debido proceso en actuación disciplinaria y autonomía universitaria. Jurisprudencia constitucional.",
+  "resumen": "La accionante, una estudiante de pregrado de la carrera de medicina, atribuyó la vulneración de sus derechos fundamentales al trámite impartido a las denuncias que formuló por acoso y por falta de objetividad en las calificaciones que realizó el jefe de servicios de su práctica en cirugía general; a la suspensión académica y a la divulgación de la información de la historia clínica generada a raíz del internamiento y atención médica especializada en toxicología. Al analizar la procedencia del amparo y a la luz de la trasgresión de garantías constitucionales alegada, la Corte tuvo en cuenta que la estudiante terminó sus rotaciones en otra institución dentro del tiempo previsto, incluso meses antes de que el recurso de amparo fuera presentado y que la información de los datos sensibles se compartió con base en una finalidad legítima y con el fin de preservar la seguridad de los pacientes. Respecto a lo anterior se concluyó que no se consolidó un daño consumado en lo relacionado con la supuesta violación de los derechos a la educación y al habeas data, tal como lo afirmaron los jueces de instancia, en la medida en que dichas autoridades no verificaron que efectivamente se hubiese presentado un daño, sino que solo identificaron la consumación de los hechos sin constatar el presupuesto material de un daño consumado. Contrario a lo anterior, se encontró que la tutela no satisfizo el requisito de inmediatez, en tanto transcurrieron once meses entre los hechos y la interposición de la acción. Con base en lo precitado se declaró la improcedencia del amparo de esas garantías. No obstante, sí se encontró procedente la acción de tutela frente a la solicitud relacionada con la vulneración del derecho al debido proceso por el procedimiento que se siguió por la queja formulada contra el docente y la forma de calificar a la estudiante en sus rotaciones. Para resolver este asunto se recordó jurisprudencia en torno al derecho a la educación y los límites de la autonomía universitaria, al igual que sobre las garantías al debido proceso en el marco de la educación universitaria. Al no encontrar acreditada la vulneración al precitado derecho se NEGÓ su amparo.",
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA EDUCACIÓN",
+      "subtema": "Alcance de la autonomía universitaria"
+    },
+    {
+      "tema": "DEBIDO PROCESO EN ACTUACIONES DISCIPLINARIAS EN INSTITUCIONES EDUCATIVAS",
+      "subtema": "Reiteración de jurisprudencia"
+    },
+    {
+      "tema": "DEBIDO PROCESO DISCIPLINARIO EN ESTABLECIMIENTO EDUCATIVO",
+      "subtema": "No vulneración en el caso concreto"
+    },
+    {
+      "tema": "DERECHO DE HABEAS DATA EN TRATAMIENTO DE DATOS PERSONALES",
+      "subtema": "Casos de excepción a la autorización o consentimiento previo para el uso del dato no vulneran la constitución"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Improcedencia por cuanto no se cumple con el requisito de la inmediatez"
+    },
+    {
+      "tema": "EXCEPCIONES A LA PROHIBICION DE TRATAMIENTO DE DATOS SENSIBLES",
+      "subtema": "Jurisprudencia constitucional"
+    }
+  ]
+}

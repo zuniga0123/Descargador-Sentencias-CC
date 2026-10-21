@@ -1,0 +1,111 @@
+{
+  "radicado": "T-125-25",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2025,
+  "fecha_creacion": "2025-04-09",
+  "magistrado_ponente": "Miguel Polo Rosero",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ANTECEDENTES PENALES Y ANOTACIONES EN LOS SISTEMAS INFORMATICOS DE LA FISCALIA GENERAL DE LA NACION",
+  "subtema": "Diferencias",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 600 de 2000",
+    "Ley 599 de 2000",
+    "Ley 906 de 2004",
+    "Decreto Ley 16 de 2014",
+    "Decreto Ley 2591 de 1991",
+    "Ley 1582 de 2012",
+    "Ley 1955 de 2015",
+    "Ley 1581 de 2012",
+    "Ley 1712 de 2014",
+    "Ley 1273 de 2009",
+    "Ley 527 de 1999",
+    "Decreto 1747 de 2000",
+    "Ley 1266 de 2008",
+    "Decreto 1265 de 1970",
+    "Decreto Ley 898 de 2017"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2025/T-125-25.htm",
+  "fecha_descarga": "2026-10-20T22:53:04.802644+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2025-04-09",
+  "fecha_publicacion": "2025-04-25",
+  "numero": "T-125/25",
+  "tipo_cc": "T",
+  "prov_id": "48523",
+  "tema_relatoria": "DERECHO AL BUEN NOMBRE Y HABEAS DATA-PRINCIPIOS QUE GOBIERNAN LA ADMINISTRACIÓN DE DATOS SOBRE ANTECEDENTES PENALES Y REQUERIMIENTOS JUDICIALES.",
+  "resumen": "En el año 2017 el actor estuvo envuelto en unos hechos que dieron lugar a un proceso penal en su contra por el delito de lesiones personales, el cual fue archivado porque operó el fenómeno de la extinción de la acción penal por desistimiento. La vulneración de derechos fundamentales por parte de la entidad accionada se atribuyó al hecho de mantener publicada por ocho años y en la página de consulta de procesos SPOA (sistema público de consulta de procesos penales), la existencia de la noticia criminal. Así mismo, a la falta de resolución de las peticiones realizadas por el accionante para que se eliminara o limitara el acceso de terceros a la información de su expediente. Se analizó la siguiente temática: 1º. El alcance de los derechos fundamentales al buen nombre y al habeas data. 2º. El alcance de las anotaciones penales en los sistemas de registro de la Fiscalía General de la Nación. 3º. El derecho al olvido asociado a las precitadas anotaciones. Recordó la Sala que las anotaciones penales constituyen un dato negativo y, por tanto, sobre ellas rigen los principios de la administración de las bases de datos. Así mismo, constató el incumplimiento del principio de utilidad de la información del peticionario y confirmó la caducidad del dato, con lo cual evidenció la vulneración del derecho al habeas data. También encontró acreditada la trasgresión del derecho al buen nombre, en tanto, sin una causa razonable y proporcionada, por un periodo de ocho años, el actor estuvo asociado a una causa penal inactiva, circunstancia que supuso un desmedro de su capital reputacional. Se CONCEDIÓ el amparo invocado y se ordenó a la Fiscalía General de la Nación, en su calidad de autoridad encargada de la administración de las bases de datos, que por intermedio de la dependencia que corresponda elimine el registro de consulta pública del SPOA el número único de noticia criminal (NUNC) asociado al peticionario.",
+  "titulaciones": [
+    {
+      "tema": "ANTECEDENTES PENALES Y ANOTACIONES EN LOS SISTEMAS INFORMATICOS DE LA FISCALIA GENERAL DE LA NACION",
+      "subtema": "Diferencias"
+    },
+    {
+      "tema": "DESISTIMIENTO DE LA QUERELLA",
+      "subtema": "Concepto"
+    },
+    {
+      "tema": "HABEAS DATA",
+      "subtema": "Conocimiento, actualización y rectificación de la información"
+    },
+    {
+      "tema": "ANOTACIONES EN LOS SISTEMAS INFORMATICOS DE LA FISCALIA GENERAL DE LA NACION",
+      "subtema": "Obligaciones de los administradores de bases de datos"
+    },
+    {
+      "tema": "DERECHO AL HABEAS DATA",
+      "subtema": "Alcance y contenido"
+    },
+    {
+      "tema": "ANOTACIONES EN LOS SISTEMAS INFORMATICOS DE LA FISCALIA GENERAL DE LA NACION",
+      "subtema": "Contenido y alcance"
+    },
+    {
+      "tema": "DERECHO AL OLVIDO",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "DERECHO AL BUEN NOMBRE Y AL HABEAS DATA",
+      "subtema": "Procedencia de la acción de tutela para su protección"
+    },
+    {
+      "tema": "DERECHO AL BUEN NOMBRE",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "DEBER DE RESERVA DE LA INFORMACION",
+      "subtema": "Información judicial reservada en materia penal"
+    },
+    {
+      "tema": "HABEAS DATA PENAL",
+      "subtema": "Ámbito de protección"
+    },
+    {
+      "tema": "PRINCIPIO DE MAXIMA DIVULGACION",
+      "subtema": "Obligaciones del Estado"
+    },
+    {
+      "tema": "PRINCIPIO DE UTILIDAD",
+      "subtema": "Compatibilidad con caducidad del dato negativo"
+    },
+    {
+      "tema": "PRINCIPIOS EN LA ADMINISTRACION DE DATOS PERSONALES",
+      "subtema": "Alcance y contenido"
+    },
+    {
+      "tema": "DERECHO AL BUEN NOMBRE Y AL HABEAS DATA",
+      "subtema": "Caducidad del dato negativo sobre las anotaciones penales"
+    },
+    {
+      "tema": "CLASES DE INFORMACION",
+      "subtema": "Pública, semiprivada, privada y reservada"
+    },
+    {
+      "tema": "DERECHO AL OLVIDO",
+      "subtema": "Caducidad del dato negativo en materia penal"
+    }
+  ]
+}

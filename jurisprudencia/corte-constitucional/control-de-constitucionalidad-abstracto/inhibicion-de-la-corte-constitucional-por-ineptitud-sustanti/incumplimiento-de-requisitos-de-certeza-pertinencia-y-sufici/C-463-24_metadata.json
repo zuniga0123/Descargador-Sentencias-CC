@@ -1,0 +1,44 @@
+{
+  "radicado": "C-463-24",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2024,
+  "fecha_creacion": "2024-11-06",
+  "magistrado_ponente": "Antonio José Lizarazo Ocampo",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "INHIBICION DE LA CORTE CONSTITUCIONAL POR INEPTITUD SUSTANTIVA DE LA DEMANDA",
+  "subtema": "Incumplimiento de requisitos de certeza, pertinencia y suficiencia en los cargos",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 675 de 2001",
+    "Decreto Ley 2067 de 1991",
+    "Decreto 2067 de 1991",
+    "Ley 1480 de 2011"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2024/C-463-24.htm",
+  "fecha_descarga": "2026-10-21T01:48:07.354578+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2024-11-06",
+  "fecha_publicacion": "2024-12-19",
+  "numero": "C-463/24",
+  "tipo_cc": "C",
+  "prov_id": "47859",
+  "tema_relatoria": "FALLO INHIBITORIO POR INEPTITUD SUSTANTIVA DE LA DEMANDA FORMULADA CONTRA NORMA DEL RÉGIMEN DE PROPIEDAD HORIZONTAL RELACIONADA CON EL PAGO DE LAS EXPENSAS COMUNES NECESARIAS.",
+  "resumen": "Demanda de inconstitucionalidad contra el artículo 29 (parcial) de la Ley 675 de 2001, por medio de la cual se expide el régimen de propiedad horizontal. El demandante cuestionó la expresión “de acuerdo con el reglamento de propiedad horizontal”, el cual permite que los reglamentos de propiedad horizontal introduzcan excepciones o restricciones al pago de las expensas comunes necesarias, lo cual, en su opinión, desvirtúa la naturaleza imperativa de la obligación de contribuir a dichas expensas, de conformidad con los coeficientes de copropiedad (en los edificios o conjuntos residenciales) o con los módulos de contribución (en los edificios o conjuntos comerciales o mixtos), como lo establece la misma ley. Según el actor, dicha disposición resulta incompatible con los principios constitucionales de solidaridad e igualdad. La Corte concluyó que la demanda impetrada no acreditó las exigencias de certeza, pertinencia y, por tanto, suficiencia, en la medida en que el actor no construyó un cargo que generara una duda mínima sobre la constitucionalidad de la disposición acusada. Con base en lo anterior, la Sala Plena de la Corporación se declaró INHIBIDA para emitir pronunciamiento de fondo.",
+  "titulaciones": [
+    {
+      "tema": "INHIBICION DE LA CORTE CONSTITUCIONAL POR INEPTITUD SUSTANTIVA DE LA DEMANDA",
+      "subtema": "Incumplimiento de requisitos de certeza, pertinencia y suficiencia en los cargos"
+    },
+    {
+      "tema": "COEFICIENTES DE COPROPIEDAD EN MATERIA DE RESPONSABILIDAD EN LAS EXPENSAS COMUNES",
+      "subtema": "Criterio general de proporcionalidad al área de cada inmueble"
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "Interpretación aislada que desconoce el contexto normativo de la disposición acusada"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "radicado": "C-462-24",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2024,
+  "fecha_creacion": "2024-11-06",
+  "magistrado_ponente": "Natalia Ángel Cabo",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "COSA JUZGADA CONSTITUCIONAL ABSOLUTA",
+  "subtema": "Configuración por declaratoria de inexequibilidad",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 2195 de 2022",
+    "Decreto Ley 2067 de 1991",
+    "Decreto 2067 de 1991",
+    "Ley 1474 de 2011",
+    "Ley 1778 de 2016"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2024/C-462-24.htm",
+  "fecha_descarga": "2026-10-21T01:48:14.882337+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2024-11-06",
+  "fecha_publicacion": "2024-12-06",
+  "numero": "C-462/24",
+  "tipo_cc": "C",
+  "prov_id": "47694",
+  "tema_relatoria": "CONFIGURACIÓN DE COSA JUZGADA FORMAL Y ABSOLUTA RESPECTO DE NORMA QUE PERMITÍA LA APLICACIÓN RETROACTIVA DEL TÉRMINO DE CADUCIDAD DE LA POTESTAD ADMINISTRATIVA SANCIONATORIA. ESTARSE A LO RESUELTO EN LA SENTENCIA C-397/24.",
+  "resumen": "Demanda de inconstitucionalidad en contra del artículo 8 (parcial) de la Ley 2195 de 2022, por medio de la cual se adoptan medidas en materia de transparencia, prevención y lucha contra la corrupción y se dictan otras disposiciones. La norma censurada hace relación al término de caducidad para las investigaciones administrativas contra personas jurídicas por actos de corrupción cometidos por sus administradores, funcionarios o empleados. Dicha disposición permite que el ejercicio de la facultad sancionatoria administrativa se ejerza dentro de los diez años siguientes a la ejecutoria de la condena penal o del reconocimiento del principio de oportunidad, independientemente de la fecha de comisión del delito. Para el demandante, la posibilidad de ejercer la competencia sancionatoria sin importar la fecha de la conducta punible vulnera el principio de irretroactividad que surge del artículo 29 de la Constitución, en tanto permite la aplicación de la norma a hechos ocurridos antes de su vigencia. Tras constatar que se configuró el fenómeno de la cosa juzgada formal y absoluta, en cuanto la expresión acusada ya no hace parte del ordenamiento jurídico, la Sala Plena de la Corporación decidió ESTARSE A LO RESUELTO en la Sentencia C-397/24 que declaró la inexequibilidad de la expresión “e independientemente de la fecha de comisión de la conducta punible por parte de las personas naturales” del artículo 8 de la Ley 2195 de 2022.",
+  "titulaciones": [
+    {
+      "tema": "COSA JUZGADA CONSTITUCIONAL ABSOLUTA",
+      "subtema": "Configuración por declaratoria de inexequibilidad"
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD CONTRA LA LEY 2195 DE 2022",
+      "subtema": "Estarse a lo resuelto en la sentencia C-397 de 2024"
+    },
+    {
+      "tema": "COSA JUZGADA CONSTITUCIONAL",
+      "subtema": "Efectos"
+    },
+    {
+      "tema": "COSA JUZGADA CONSTITUCIONAL",
+      "subtema": "Requisitos para su configuración"
+    },
+    {
+      "tema": "COSA JUZGADA CONSTITUCIONAL",
+      "subtema": "Tipología"
+    }
+  ]
+}

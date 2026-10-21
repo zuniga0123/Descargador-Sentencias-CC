@@ -1,0 +1,44 @@
+{
+  "radicado": "C-068-24",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2024,
+  "fecha_creacion": "2024-03-06",
+  "magistrado_ponente": "Juan Carlos Cortés González",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "COSA JUZGADA CONSTITUCIONAL ABSOLUTA",
+  "subtema": "Configuración por declaratoria de inexequibilidad",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 2277 de 2022",
+    "Ley 270 de 1996",
+    "Decreto 2067 de 1991",
+    "Ley 1739 de 2014"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2024/C-068-24.htm",
+  "fecha_descarga": "2026-10-21T01:51:54.204956+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2024-03-06",
+  "fecha_publicacion": "2024-05-16",
+  "numero": "C-068/24",
+  "tipo_cc": "C",
+  "prov_id": "46294",
+  "tema_relatoria": "CONFIGURACIÓN DE COSA JUZGADA FORMAL Y ABSOLUTA POR INEXEQUIBILIDAD DE NORMA DEMANDADA. ESTARSE A LO RESUELTO EN LA SENTENCIA C-391/23.",
+  "resumen": "Demanda de inconstitucionalidad contra el artículo 95 de la Ley 2277 de 2022, por medio de la cual se adopta una reforma tributaria para la igualdad y la justicia social y se dictan otras disposiciones. El actor adujo que la disposición censurada desconoce los artículos 157 y 160 de la Constitución. Ello, porque se incorporó en una etapa tardía del trámite legislativo del proyecto de ley, sin que las comisiones constitucionales permanentes de la Cámara de Representantes y del Senado de la República lo hubiesen debatido. Tras constatar que en el presente caso se acreditó la configuración del fenómeno de la cosa juzgada porque la Corte, mediante Sentencia C-391/23, declaró la inexequibilidad de la norma cuestionada en esta oportunidad, toda vez que en su aprobación se vulneraron los principios de consecutividad e identidad flexible, decidió ESTARSE A LO RESUELTO en el precitado fallo.",
+  "titulaciones": [
+    {
+      "tema": "COSA JUZGADA CONSTITUCIONAL ABSOLUTA",
+      "subtema": "Configuración por declaratoria de inexequibilidad"
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD CONTRA LA LEY 2277 DE 2022",
+      "subtema": "Estarse a lo resuelto en la sentencia C-391 de 2023"
+    },
+    {
+      "tema": "COSA JUZGADA CONSTITUCIONAL",
+      "subtema": "Tipología"
+    }
+  ]
+}

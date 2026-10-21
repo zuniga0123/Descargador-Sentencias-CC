@@ -1,0 +1,59 @@
+{
+  "radicado": "T-003-23",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2023,
+  "fecha_creacion": "2023-01-18",
+  "magistrado_ponente": "José Fernando Reyes Cuartas",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "CARENCIA ACTUAL DE OBJETO",
+  "subtema": "Inexistencia de hecho superado por cuanto la controversia central versaba sobre el derecho a la pensión de sobrevivientes y no sobre el derecho de petición",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 1408 de 2021",
+    "Decreto 2591 de 1991",
+    "Decreto 1615 de 2021",
+    "Ley 2064 de 2020",
+    "Decreto 109 de 2021",
+    "Decreto 385 de 2020",
+    "Decreto 655 de 2022"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2023/T-003-23.htm",
+  "fecha_descarga": "2026-10-21T04:25:43.035783+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2023-01-18",
+  "fecha_publicacion": "2023-02-07",
+  "numero": "T-003/23",
+  "tipo_cc": "T",
+  "prov_id": "39653",
+  "tema_relatoria": "DERECHOS A LA IGUALDAD, AL LIBRE DESARROLLO DE LA PERSONALIDAD Y AL ACCESO A CARGOS PÚBLICOS EN CONCURSO DE MÉRITOS-VULNERACIÓN AL EXIGIR CARNÉ DE VACUNACIÓN PARA PRESENTAR PRUEBA DE CONOCIMIENTOS.",
+  "resumen": "La accionante considera que la CNSC y la ESAP vulneraron sus derechos al debido proceso, a la igualdad, a la libertad de conciencia y al acceso a cargos públicos establecidos en los artículos 13, 18, 25, 29 y 40 de la Constitución Política, como consecuencia de exigir contar con el carné o certificado digital de vacunación contra el Covid-19, para presentar las pruebas de conocimientos dentro de un concurso de méritos ofertado en una convocatoria pública. La peticionaria argumentó que la exigencia de vacunarse, como condición para presentar la prueba de conocimiento, desconocía su libertad de tomar decisiones acordes con sus convicciones. Se analiza temática relacionada con: 1º. El marco normativo frente a la exigencia de presentación del carné o certificado digital de vacunación en tiempos de Covid-19 y, 2º. Las restricciones constitucionalmente admisibles a los derechos fundamentales en época de pandemia, haciendo énfasis en el derecho al libre desarrollo de la personalidad y el derecho de acceder a los cargos públicos. La Corte concluyó que la obligación de acreditar la vacunación era inconstitucional en este caso, por vulnerar el derecho al libre desarrollo de la personalidad y el acceso a cargos públicos. Precisó que: i) el fin de la medida era imperioso, en tanto era necesario asegurar la prestación de los servicios de salud en época de pandemia y controlar las presiones que ponían en riesgo el acceso de todas las personas al sistema de salud. ii) la medida era conducente para lograr disminuir la transmisión del Covid-19, así como reducir algunos de los efectos más graves del virus en la salud de las personas y controlar el impacto en el sistema de salud y, iii). La medida no era necesaria, ya que podían haberse combinado de forma adecuada los mecanismos establecidos para la reducción del contagio. Se confirma la decisión de instancia que CONCEDIÓ el amparo invocado.",
+  "titulaciones": [
+    {
+      "tema": "CARENCIA ACTUAL DE OBJETO",
+      "subtema": "Inexistencia de hecho superado por cuanto la controversia central versaba sobre el derecho a la pensión de sobrevivientes y no sobre el derecho de petición"
+    },
+    {
+      "tema": "CARENCIA ACTUAL DE OBJETO",
+      "subtema": "Fenómeno que se configura en los siguientes eventos: hecho superado, daño consumado o situación sobreviniente"
+    },
+    {
+      "tema": "DERECHO A LA IGUALDAD, AL LIBRE DESARROLLO DE LA PERSONALIDAD Y AL ACCESO A CARGOS PÚBLICOS EN CONCURSO DE MÉRITOS",
+      "subtema": "Vulneración al exigir carné de vacunación para presentar prueba de conocimientos"
+    },
+    {
+      "tema": "DERECHO AL LIBRE DESARROLLO DE LA PERSONALIDAD",
+      "subtema": "Medidas sanitarias de aislamiento preventivo en pandemia COVID-19"
+    },
+    {
+      "tema": "PRESENTACIÓN DEL CARNÉ O CERTIFICADO DIGITAL DE VACUNACIÓN DE COVID 19",
+      "subtema": "Marco normativo"
+    },
+    {
+      "tema": "CARRERA ADMINISTRATIVA Y PRINCIPIO DEL MERITO",
+      "subtema": "Jurisprudencia constitucional"
+    }
+  ]
+}

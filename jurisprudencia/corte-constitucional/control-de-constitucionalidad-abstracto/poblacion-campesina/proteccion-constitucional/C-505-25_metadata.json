@@ -1,0 +1,106 @@
+{
+  "radicado": "C-505-25",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2025,
+  "fecha_creacion": "2025-12-11",
+  "magistrado_ponente": "Natalia Ángel Cabo",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "POBLACIÓN CAMPESINA",
+  "subtema": "Protección constitucional",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 2219 de 2022",
+    "Decreto Ley 2067 de 1991",
+    "Ley 1437 de 2011",
+    "Decreto Ley 2420 de 1968",
+    "Decreto 133 de 1976",
+    "Decreto 1985 de 2013",
+    "Decreto 2067 de 1991",
+    "Acto Legislativo 1 de 2023",
+    "Decreto 2716 de 1994",
+    "Decreto 2150 de 1995"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2025/C-505-25.htm",
+  "fecha_descarga": "2026-10-20T22:59:03.075412+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2025-12-11",
+  "fecha_publicacion": "2026-07-30",
+  "numero": "C-505/25",
+  "tipo_cc": "C",
+  "prov_id": "61520",
+  "tema_relatoria": "Constitucional delegación al Ministerio de Agricultura y Desarrollo Rural para reglamentar el régimen de inspección, vigilancia y control sobre asociaciones campesinas y agropecuarias. Inconstitucional la facultad de establecer sanciones a dichas asociaciones, por vulnerar el principio de legalidad en materia administrativa sancionatoria.",
+  "resumen": "Demanda de inconstitucionalidad contra los artículos 7 y 11 (parcial) de la Ley 2219 de 2022, por la cual se dictan normas para la constitución y operación de las asociaciones campesinas y de las asociaciones agropecuarias, se facilitan sus relaciones con la administración pública y se dictan otras disposiciones. El artículo 7 demandado se refiere a la delegación en cabeza del Ministerio de Agricultura y Desarrollo Rural para reglamentar el régimen de inspección, vigilancia y control sobre las asociaciones campesinas y agropecuarias. Por su parte la expresión acusada del artículo 11, esta es, “así como, imponer otras sanciones conforme a la reglamentación que al respecto expida el Ministerio de Agricultura y Desarrollo Rural” permite que dicha reglamentación estableciera sanciones aplicables por el mismo ministerio, en desarrollo de la función de control de las mencionadas asociaciones. Frente a la primera norma la Corte concluyó que el Legislador actuó conforme a los parámetros de la reserva de ley en la materia, en tanto estableció el alcance y límites concretos para su ejercicio y, de tal manera, nada se oponía a que, a partir de su amplia libertad de configuración normativa, delegara en cabeza el Ministerio de Agricultura la reglamentación de las funciones de inspección, vigilancia y control sobre las asociaciones campesinas. Por lo anterior la declaró EXEQUIBLE, pero la condicionó al entendido de que el procedimiento aplicable para imponer sanciones sea el previsto en la Ley 1437 de 2011 o el que disponga el legislador. Respecto a la frase del artículo 11 concluyó la Sala que resultaba INEXEQUIBLE por desconocer el derecho al debido proceso y los límites a la facultad reglamentaria en cabeza del presidente.",
+  "titulaciones": [
+    {
+      "tema": "POBLACIÓN CAMPESINA",
+      "subtema": "Protección constitucional"
+    },
+    {
+      "tema": "ASOCIACIONES CAMPESINAS Y AGROPECUARIAS",
+      "subtema": "Regulación"
+    },
+    {
+      "tema": "FUNCIONES DE INSPECCION Y VIGILANCIA",
+      "subtema": "Materia sujeta a reserva de ley"
+    },
+    {
+      "tema": "FUNCIONES DE INSPECCIÓN, VIGILANCIA Y CONTROL",
+      "subtema": "Margen de configuración legislativa"
+    },
+    {
+      "tema": "PRINCIPIO DE LEGALIDAD",
+      "subtema": "Dimensión material y formal"
+    },
+    {
+      "tema": "FUNCIONES DE INSPECCIÓN, VIGILANCIA Y CONTROL DEL MINISTERIO DE AGRICULTURA Y DESARROLLO RURAL",
+      "subtema": "Potestad reglamentaria cumple principio de reserva de ley"
+    },
+    {
+      "tema": "PRINCIPIOS DE LEGALIDAD Y TIPICIDAD EN EL DERECHO ADMINISTRATIVO SANCIONADOR",
+      "subtema": "Vulneración por delegación reglamentaria para definir sanciones en desarrollo de las funciones de inspección, vigilancia y control"
+    },
+    {
+      "tema": "POBLACIÓN CAMPESINA",
+      "subtema": "Especial condición de vulnerabilidad por razones sociales, económicas y culturales"
+    },
+    {
+      "tema": "ASOCIACIONES CAMPESINAS Y AGROPECUARIAS",
+      "subtema": "Concepto"
+    },
+    {
+      "tema": "FUNCION DE REGULACION Y FUNCION DE INSPECCION, VIGILANCIA Y CONTROL",
+      "subtema": "Atribución a autoridades diferentes"
+    },
+    {
+      "tema": "FUNCIONES DE INSPECCIÓN, VIGILANCIA Y CONTROL",
+      "subtema": "Potestad reglamentaria"
+    },
+    {
+      "tema": "DERECHO ADMINISTRATIVO SANCIONADOR",
+      "subtema": "Sujeto a principios de legalidad, tipicidad y reserva de ley que orientan el debido proceso"
+    },
+    {
+      "tema": "PRINCIPIO DE LEGALIDAD EN MATERIA SANCIONATORIA",
+      "subtema": "Elementos que lo integran"
+    },
+    {
+      "tema": "PRINCIPIO DE LEGALIDAD EN DERECHO ADMINISTRATIVO SANCIONADOR",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "PRINCIPIO DE RESERVA DE LEY EN DERECHO SANCIONATORIO",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "PRINCIPIO DE TIPICIDAD EN MATERIA SANCIONATORIA",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "CONCEPTO JURIDICO INDETERMINADO",
+      "subtema": "Alcance y límites"
+    }
+  ]
+}

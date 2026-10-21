@@ -1,0 +1,65 @@
+{
+  "radicado": "SU006-23",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2023,
+  "fecha_creacion": "2023-01-25",
+  "magistrado_ponente": "Antonio José Lizarazo Ocampo",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+  "subtema": "Improcedencia por cuanto no se configuraron los defectos alegados, ni hubo vulneración de principio de la doble conformidad",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 600 de 2000",
+    "Ley 906 de 2004",
+    "Decreto 2591 de 1991",
+    "Decreto Ley 2591 de 1991",
+    "Acto Legislativo 1 de 2018",
+    "Ley 153 de 1887",
+    "Decreto 100 de 1980",
+    "Decreto 2550 de 1988",
+    "Ley 1395 de 2010"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2023/SU006-23.htm",
+  "fecha_descarga": "2026-10-21T04:38:41.206969+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2023-01-25",
+  "fecha_publicacion": "2023-06-21",
+  "numero": "SU.006/23",
+  "tipo_cc": "SU",
+  "prov_id": "42826",
+  "tema_relatoria": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES EN PROCESO PENAL (PECULADO POR APROPIACIÓN Y CONTRATO SIN CUMPLIMIENTO DE LOS REQUISITOS LEGALES)-CONFIRMA IMPROCEDENCIA DEL AMPARO POR NO CONFIGURARSE LOS DEFECTOS ALEGADOS, NI HUBO VULNERACIÓN DEL DERECHO A IMPUGNAR LA PRIMERA SENTENCIA CONDENATORIA (Principio de la doble conformidad).",
+  "resumen": "En este caso se cuestionan dos providencias adoptadas por el Tribunal accionado y se aduce que vulneraron derechos fundamentales del actor. Lo anterior, con ocasión de la negativa de conceder la impugnación especial presentada contra el fallo que condenó al accionante por primera vez, en segunda instancia, por el delito de peculado por apropiación de tercero, frente al cual había sido absuelto en primera instancia. El peticionario alega que la mencionada decisión, al igual que su confirmación por vía de reposición, carecieron de motivación y trasgredieron la Constitución Política y el precedente jurisprudencial -especialmente, la sentencia de unificación SU.217/19-, que han reconocido que el derecho a la doble conformidad encuentra fundamento en el artículo 29 Superior. Tras verificar los requisitos generales de procedencia de la acción de tutela contra providencias judiciales, la Corte estimó que no estaban configurados los defectos alegados. Con base en lo anterior decidió confirmar las decisiones de instancia que NEGARON el amparo invocado.",
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Improcedencia por cuanto no se configuraron los defectos alegados, ni hubo vulneración de principio de la doble conformidad"
+    },
+    {
+      "tema": "DEBER CONSTITUCIONAL DEL LEGISLADOR DE DISEÑAR E IMPLEMENTAR UN RECURSO JUDICIAL QUE MATERIALICE EL DERECHO A LA IMPUGNACION",
+      "subtema": "Reiteración del exhorto al Congreso de la República"
+    },
+    {
+      "tema": "DOBLE CONFORMIDAD JUDICIAL",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "DOBLE CONFORMIDAD JUDICIAL",
+      "subtema": "Contenido"
+    },
+    {
+      "tema": "DERECHO A LA IMPUGNACION DE SENTENCIAS CONDENATORIAS",
+      "subtema": "Jurisprudencia constitucional"
+    },
+    {
+      "tema": "DERECHO A IMPUGNAR UNA SENTENCIA CONDENATORIA DICTADA POR PRIMERA VEZ EN SEGUNDA INSTANCIA",
+      "subtema": "Delimitación de los efectos de la sentencia C-792/14"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Requisitos generales y especiales de procedibilidad"
+    }
+  ]
+}

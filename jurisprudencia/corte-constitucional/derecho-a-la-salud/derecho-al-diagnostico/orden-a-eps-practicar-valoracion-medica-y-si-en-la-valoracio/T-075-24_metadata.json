@@ -1,0 +1,113 @@
+{
+  "radicado": "T-075-24",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2024,
+  "fecha_creacion": "2024-03-08",
+  "magistrado_ponente": "Jorge Enrique Ibáñez Najar",
+  "area": "Derecho a la Salud",
+  "tema": "DERECHO AL DIAGNÓSTICO",
+  "subtema": "Orden a EPS practicar valoración médica y si en la valoración se determina que es pertinente autorizar los servicios solicitados a través de esta acción la entidad accionada deberá hacerlo, siguiendo las órdenes de los especialistas",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto Ley 2591 de 1991",
+    "Ley 715 de 2001",
+    "Decreto 2591 de 1991",
+    "Ley 1751 de 2015",
+    "Ley 1712 de 2014"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2024/T-075-24.htm",
+  "fecha_descarga": "2026-10-21T01:43:41.317190+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2024-03-08",
+  "fecha_publicacion": "2024-03-19",
+  "numero": "T-075/24",
+  "tipo_cc": "T",
+  "prov_id": "45816",
+  "tema_relatoria": "DERECHO A LA SALUD EN SU FACETA DE DIAGNÓSTICO DE PERSONAS DE LA TERCERA EDAD, PARA DETERMINAR SI SE REQUIERE SERVICIO DE ENFERMERÍA O CUIDADOR. REITERACIÓN DE JURISPRUDENCIA Y GARANTÍA DEL TRATAMIENTO INTEGRAL.",
+  "resumen": "En cinco acciones de tutela formuladas de manera independiente y a través de la figura de la agencia oficiosa, se tiene como hecho común que la pretensión principal consiste en que se ordene a las EPS accionadas la prestación del servicio de un enfermero o un cuidador para los agenciados. En un expediente, se pidió además, la valoración médica para determinar la necesidad del acompañamiento y en otros, se incluyeron peticiones adicionales como la protección del derecho fundamental de petición, el suministro de insumos específicos para los pacientes o la exoneración de pagos o cuotas moderadoras. Las entidades demandadas consideraron no haber trasgredido derecho alguno, porque suministraron todo lo requerido por sus usuarios. En relación con el tema puntal de prestar el servicio de cuidado, alegaron que se trataba de una obligación que correspondía, en primera instancia, a la familia de los pacientes. Luego de reiterar jurisprudencia relacionada con los insumos y tecnologías en salud a cargo de las EPS, la Sala adoptó las decisiones que correspondía a cada caso, entre las cuales se destacan la declaratoria de la carencia actual de objeto por situación sobreviniente o hecho superado y la tutela al derecho a la salud.",
+  "titulaciones": [
+    {
+      "tema": "DERECHO AL DIAGNÓSTICO",
+      "subtema": "Orden a EPS practicar valoración médica y si en la valoración se determina que es pertinente autorizar los servicios solicitados a través de esta acción la entidad accionada deberá hacerlo, siguiendo las órdenes de los especialistas"
+    },
+    {
+      "tema": "INCAPACIDAD ECONOMICA EN MATERIA DE SALUD",
+      "subtema": "Línea jurisprudencial"
+    },
+    {
+      "tema": "DERECHO A LA SALUD DE PERSONA CON DISCAPACIDAD",
+      "subtema": "Orden a EPS suministrar silla de ruedas, según indicaciones del médico tratante"
+    },
+    {
+      "tema": "SUMINISTRO DE PAÑALES",
+      "subtema": "Incluidos en el PBS"
+    },
+    {
+      "tema": "CARENCIA ACTUAL DE OBJETO POR SITUACIÓN SOBREVINIENTE",
+      "subtema": "Fallecimiento del accionante"
+    },
+    {
+      "tema": "DERECHO FUNDAMENTAL AL CUIDADO",
+      "subtema": "Alcance y contenido"
+    },
+    {
+      "tema": "CARENCIA ACTUAL DE OBJETO",
+      "subtema": "Fenómeno que se configura en los siguientes eventos: hecho superado, daño consumado o situación sobreviniente"
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA EPS",
+      "subtema": "Declarar la carencia actual de objeto por hecho superado"
+    },
+    {
+      "tema": "DERECHO A LA SALUD Y A LA VIDA",
+      "subtema": "Vulneración cuando se hace nugatorio el derecho al diagnóstico"
+    },
+    {
+      "tema": "DERECHO FUNDAMENTAL A LA SALUD FRENTE A SUJETOS DE ESPECIAL PROTECCION",
+      "subtema": "Con énfasis en niños, niñas y adultos mayores"
+    },
+    {
+      "tema": "DERECHO FUNDAMENTAL A LA SALUD",
+      "subtema": "Procedencia de tutela"
+    },
+    {
+      "tema": "SERVICIO DE ENFERMERÍA DOMICILIARIA DENTRO DEL SISTEMA GENERAL DE SALUD",
+      "subtema": "Médico tratante deberá ordenarlo"
+    },
+    {
+      "tema": "SUMINISTRO DE SERVICIOS Y TECNOLOGÍAS EN SALUD",
+      "subtema": "Financiación"
+    },
+    {
+      "tema": "ACCESIBILIDAD A SERVICIOS MÉDICOS REQUERIDOS CON NECESIDAD",
+      "subtema": "En caso de no existir orden de médico tratante se protege la salud en la faceta de diagnóstico"
+    },
+    {
+      "tema": "DERECHO AL DIAGNÓSTICO COMO PARTE DEL DERECHO A LA SALUD",
+      "subtema": "Necesidad de orden del médico tratante para acceder a servicios o tecnologías en salud"
+    },
+    {
+      "tema": "SERVICIO DE CUIDADOR PERMANENTE",
+      "subtema": "Requisitos para el suministro por parte de EPS"
+    },
+    {
+      "tema": "PLAN DE BENEFICIOS EN SALUD",
+      "subtema": "Todo servicio o medicamento que no esté expresamente excluido, se entiende incluido"
+    },
+    {
+      "tema": "ATENCION DOMICILIARIA",
+      "subtema": "Diferencia entre cuidador y auxiliar de enfermería"
+    },
+    {
+      "tema": "SERVICIO DE CUIDADOR PERMANENTE",
+      "subtema": "Reiteración de jurisprudencia"
+    },
+    {
+      "tema": "DERECHO AL DIAGNÓSTICO",
+      "subtema": "Está compuesto por tres etapas: identificación, valoración y prescripción"
+    }
+  ]
+}

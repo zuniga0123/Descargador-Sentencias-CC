@@ -1,0 +1,62 @@
+{
+  "radicado": "C-154-25",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2025,
+  "fecha_creacion": "2025-04-30",
+  "magistrado_ponente": "Jorge Enrique Ibáñez Najar",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "DEMANDA DE INCONSTITUCIONALIDAD CONTRA INTERPRETACIONES JUDICIALES",
+  "subtema": "Requisitos de claridad, certeza, especificidad, pertinencia y suficiencia",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 906 de 2004",
+    "Decreto 2067 de 1991",
+    "Ley 600 de 2000",
+    "Acto Legislativo 1 de 2018",
+    "Decreto 2700 de 1991",
+    "Ley 553 de 2000"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2025/C-154-25.htm",
+  "fecha_descarga": "2026-10-20T23:05:17.722634+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2025-04-30",
+  "fecha_publicacion": "2025-07-25",
+  "numero": "C-154/25",
+  "tipo_cc": "C",
+  "prov_id": "52200",
+  "tema_relatoria": "FALLO INHIBITORIO POR INEPTITUD SUSTANTIVA DE LA DEMANDA EN CONTRA DE NORMA SOBRE EL RECURSO DE CASACIÓN EN MATERIA PENAL Y DE SU INTERPRETACIÓN POR LA SALA DE CASACIÓN PENAL DE LA CORTE SUPREMA DE JUSTICIA.",
+  "resumen": "Demanda de inconstitucionalidad en contra de las normas previstas en el artículo 183 de la Ley 906 de 2004, por la cual se expide el Código de Procedimiento Penal. Los actores alegaron que la expresión “ante el Tribunal” y la interpretación que sobre la misma lleva a cabo la Sala Penal de la Corte Suprema de Justicia, es incompatible con lo previsto en los artículos 13 y 29 de la Constitución, en la medida en que implican una diferencia de trato injustificada entre sujetos equiparables y desconocen el derecho a un debido proceso. Luego de analizar si los cargos planteados cumplían o no con los mínimos argumentativos exigibles para adelantar un estudio de fondo, la Sala Plena de la Corporación decidió INHIBIRSE de emitir pronunciamiento alguno, dada la ineptitud sustantiva de la demanda.",
+  "titulaciones": [
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD CONTRA INTERPRETACIONES JUDICIALES",
+      "subtema": "Requisitos de claridad, certeza, especificidad, pertinencia y suficiencia"
+    },
+    {
+      "tema": "CONTROL CONSTITUCIONAL DE INTERPRETACIONES JUDICIALES",
+      "subtema": "Jurisprudencia constitucional"
+    },
+    {
+      "tema": "CONTROL DE CONSTITUCIONALIDAD DE INTERPRETACION JUDICIAL",
+      "subtema": "Carácter excepcional del control abstracto"
+    },
+    {
+      "tema": "DERECHO VIVIENTE EN CONTROL DE CONSTITUCIONALIDAD",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "DERECHO VIVIENTE EN CONTROL DE CONSTITUCIONALIDAD DE INTERPRETACION JUDICIAL",
+      "subtema": "Condiciones"
+    },
+    {
+      "tema": "INHIBICION DE LA CORTE EN DEMANDA DE INCONSTITUCIONALIDAD DE INTERPRETACION JUDICIAL",
+      "subtema": "Incumplimiento de carga argumentativa"
+    },
+    {
+      "tema": "INHIBICION DE LA CORTE CONSTITUCIONAL",
+      "subtema": "Incumplimiento de requisitos exigidos en cargo por violación al principio de igualdad"
+    }
+  ]
+}

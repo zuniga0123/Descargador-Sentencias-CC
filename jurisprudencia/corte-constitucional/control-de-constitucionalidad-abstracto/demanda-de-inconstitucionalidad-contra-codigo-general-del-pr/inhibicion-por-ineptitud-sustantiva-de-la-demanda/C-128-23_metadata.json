@@ -1,0 +1,61 @@
+{
+  "radicado": "C-128-23",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2023,
+  "fecha_creacion": "2023-04-27",
+  "magistrado_ponente": "Jorge Enrique Ibáñez Najar",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "DEMANDA DE INCONSTITUCIONALIDAD CONTRA CODIGO GENERAL DEL PROCESO",
+  "subtema": "Inhibición por ineptitud sustantiva de la demanda",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 1564 de 2012",
+    "Ley 1437 de 2011",
+    "Decreto 2067 de 1991",
+    "Ley 1563 de 2012",
+    "Ley 2220 de 2022"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2023/C-128-23.htm",
+  "fecha_descarga": "2026-10-21T04:34:20.041094+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2023-04-27",
+  "fecha_publicacion": "2023-07-14",
+  "numero": "C-128/23",
+  "tipo_cc": "C",
+  "prov_id": "43044",
+  "tema_relatoria": "CÓDIGO GENERAL DEL PROCESO. DEMANDA. CORRECCIÓN, ACLARACIÓN Y REFORMA DE LA DEMANDA.",
+  "resumen": "Demanda de inconstitucionalidad en contra del artículo 93 de la Ley 1564 de 2012, por medio de la cual se expide el Código General del Proceso y se dictan otras disposiciones, y en contra del artículo 173 de la Ley 1437 de 2011, por la cual se expide el Código de Procedimiento Administrativo y de lo Contencioso Administrativo. El actor adujo que lo dispuesto en las disposiciones cuestionadas genera un trato diferenciado que es inconstitucional. Precisó que mientras el artículo 93 del CGP guarda silencio en lo que refiere al cumplimiento de los requisitos de procedibilidad para introducir nuevas pretensiones en el escrito de reforma de la demanda, el artículo 173 del CPACA es explícito en prever dicha exigencia. Con lo anterior dedujo el actor que, al imperio del CGP el demandante no tendría que cumplir con los requisitos de procedibilidad, lo que contrasta con lo previsto en el CPACA, por virtud del cual esta carga sí se haría exigible. La Sala Plena de la Corporación concluyó que la demanda es inepta por carecer de certeza, especificidad y suficiencia y, que por ello no tiene aptitud sustantiva para dar paso a un análisis de fondo. Con base en lo anterior se declaró INHIBIDA.",
+  "titulaciones": [
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD CONTRA CODIGO GENERAL DEL PROCESO",
+      "subtema": "Inhibición por ineptitud sustantiva de la demanda"
+    },
+    {
+      "tema": "REFORMA DE DEMANDA EN PROCESO ARBITRAL",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "TRATOS DIFERENTES EN MATERIA PROCESAL",
+      "subtema": "Jurisprudencia constitucional"
+    },
+    {
+      "tema": "INHIBICION DE LA CORTE CONSTITUCIONAL POR INEPTITUD SUSTANTIVA DE LA DEMANDA",
+      "subtema": "Incumplimiento de requisitos de certeza, especificidad y suficiencia en los cargos"
+    },
+    {
+      "tema": "REFORMA DE DEMANDA EN JUICIOS CIVILES",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "INHIBICION DE LA CORTE CONSTITUCIONAL",
+      "subtema": "Incumplimiento de requisitos exigidos en cargo por violación al principio de igualdad"
+    },
+    {
+      "tema": "CONCEPTO DE VIOLACION EN DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "Razones claras, ciertas, específicas, pertinentes y suficientes"
+    }
+  ]
+}

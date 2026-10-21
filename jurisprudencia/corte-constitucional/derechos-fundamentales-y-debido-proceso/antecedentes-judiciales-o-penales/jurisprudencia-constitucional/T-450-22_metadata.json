@@ -1,0 +1,136 @@
+{
+  "radicado": "T-450-22",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2022,
+  "fecha_creacion": "2022-12-09",
+  "magistrado_ponente": "Jorge Enrique Ibáñez Najar",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ANTECEDENTES JUDICIALES O PENALES",
+  "subtema": "Jurisprudencia constitucional",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 1581 de 2012",
+    "Decreto Ley 2591 de 1991",
+    "Decreto 2591 de 1991",
+    "Decreto 113 de 2022",
+    "Decreto 233 de 2012",
+    "Ley 906 de 2004",
+    "Decreto 19 de 2012",
+    "Decreto 4057 de 2011",
+    "Decreto 1067 de 2015",
+    "Decreto 869 de 2016",
+    "Ley 599 de 2000",
+    "Decreto 643 de 2004",
+    "Ley 1119 de 2006",
+    "Ley 43 de 1993",
+    "Ley 1098 de 2006",
+    "Ley 1878 de 2018"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2022/T-450-22.htm",
+  "fecha_descarga": "2026-10-21T07:52:48.486264+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2022-12-09",
+  "fecha_publicacion": "2023-01-24",
+  "numero": "T-450/22",
+  "tipo_cc": "T",
+  "prov_id": "39563",
+  "tema_relatoria": "DERECHO AL HABEAS DATA Y PRINCIPIOS QUE GOBIERNAN LA ADMINISTRACIÓN DE DATOS SOBRES ANTECEDENTES PENALES Y REQUERIMIENTOS JUDICIALES.",
+  "resumen": "En cuatro acciones de tutela formuladas de manera independiente se tiene como hecho común que los accionantes son ciudadanos colombianos que están en Chile y que, al momento de la presentación de las solicitudes de amparo adelantaban el trámite administrativo de rigor para regularizar su situación migratoria en ese país. Entre los requisitos que las autoridades chilenas les exigió para dicho trámite estaba presentar un certificado en el que constara que los interesados no registraban antecedentes penales. Con base en tal exigencia, cada uno de los peticionarios procedió a solicitar el respectivo certificado de antecedentes apostillado; sin embargo, en los cuatro casos la Policía Nacional sólo hizo constar que los ciudadanos no tenían asuntos pendientes con autoridad judicial. Como quiera que tal certificación impedía el éxito del procedimiento, solicitaron cambiar la leyenda “No tiene asuntos pendientes con autoridad judicial” por “No registra antecedentes”. La Policía no accedió al requerimiento porque, a su juicio, el texto utilizado en los certificados concordaba con la información obrante en la base de datos administrada por la institución. Tras verificar el cumplimiento de los requisitos de procedencia de la acción de tutela, se reiteró jurisprudencia constitucional sobre el derecho fundamental al habeas data, los criterios de clasificación y los principios de administración de los datos personales; la naturaleza de los antecedentes judiciales; su certificación e importancia en el ámbito migratorio. En todos los casos se DENIEGA el amparo invocado.",
+  "titulaciones": [
+    {
+      "tema": "ANTECEDENTES JUDICIALES O PENALES",
+      "subtema": "Jurisprudencia constitucional"
+    },
+    {
+      "tema": "DATOS PERSONALES Y BASES DE DATOS PERSONALES RELACIONADOS CON ANTECEDENTES PENALES",
+      "subtema": "Particularidades"
+    },
+    {
+      "tema": "CERTIFICADO DE ANTECEDENTES JUDICIALES",
+      "subtema": "Evolución normativa"
+    },
+    {
+      "tema": "INFORMACION PUBLICA O DE DOMINIO PUBLICO",
+      "subtema": "Concepto"
+    },
+    {
+      "tema": "SOLICITUD DE CERTIFICADO DE ANTECEDENTES JUDICIALES POR GOBIERNO EXTRANJERO CON FINES MIGRATORIOS",
+      "subtema": "Tiene un propósito legítimo en el marco del bloque de constitucionalidad"
+    },
+    {
+      "tema": "DATOS PERSONALES",
+      "subtema": "Clasificación"
+    },
+    {
+      "tema": "INFORMACION PRIVADA",
+      "subtema": "Concepto"
+    },
+    {
+      "tema": "DERECHO AL HABEAS DATA",
+      "subtema": "Alcance y contenido"
+    },
+    {
+      "tema": "ANTECEDENTES PENALES",
+      "subtema": "Naturaleza"
+    },
+    {
+      "tema": "ADMINISTRACION DE DATOS PERSONALES",
+      "subtema": "Principios de libertad, veracidad o calidad, transparencia, finalidad y principio de acceso y circulación restringida"
+    },
+    {
+      "tema": "CONSULTA DE ANTECEDENTES PENALES Y JUDICIALES CON FINES NO MIGRATORIOS FRENTE A SOLICITUD DE CERTIFICADO CON FINES MIGRATORIOS",
+      "subtema": "Diferencias"
+    },
+    {
+      "tema": "DERECHO AL HABEAS DATA",
+      "subtema": "Fundamental autónomo"
+    },
+    {
+      "tema": "ACCION DE TUTELA PARA LA PROTECCION DEL DERECHO AL HABEAS DATA",
+      "subtema": "Procedencia"
+    },
+    {
+      "tema": "CERTIFICADO DE ANTECEDENTES JUDICIALES Y HABEAS DATA",
+      "subtema": "Efectos de la sentencia SU458/12"
+    },
+    {
+      "tema": "BASES DE DATOS SOBRE ANTECEDENTES PENALES Y HABEAS DATA",
+      "subtema": "Utilización de formato que permite que terceros infieran la existencia de antecedentes penales"
+    },
+    {
+      "tema": "CERTIFICADO DE ANTECEDENTES JUDICIALES",
+      "subtema": "Naturaleza y funciones"
+    },
+    {
+      "tema": "DATO SENSIBLE",
+      "subtema": "Definición"
+    },
+    {
+      "tema": "DERECHO AL HABEAS DATA",
+      "subtema": "Requerimiento de antecedentes penales y judiciales con fines migratorios"
+    },
+    {
+      "tema": "HABEAS DATA",
+      "subtema": "Características del dato personal"
+    },
+    {
+      "tema": "INFORMACION SEMIPRIVADA",
+      "subtema": "Definición"
+    },
+    {
+      "tema": "INFORMACION RESERVADA",
+      "subtema": "Concepto"
+    },
+    {
+      "tema": "DERECHO AL HABEAS DATA",
+      "subtema": "Concepto"
+    },
+    {
+      "tema": "DATOS SENSIBLES",
+      "subtema": "Contenido"
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "radicado": "C-099-25",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2025,
+  "fecha_creacion": "2025-03-20",
+  "magistrado_ponente": "Paola Andrea Meneses Mosquera",
+  "area": "Derecho Constitucional Económico",
+  "tema": "POTESTAD DE CONFIGURACION DEL LEGISLADOR EN MATERIA TRIBUTARIA",
+  "subtema": "Alcance",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 2277 de 2022",
+    "Decreto 2067 de 1991",
+    "Ley 2232 de 2022",
+    "Ley 2277 de 2023",
+    "Ley 165 de 1994"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2025/C-099-25.htm",
+  "fecha_descarga": "2026-10-20T23:06:17.785278+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2025-03-20",
+  "fecha_publicacion": "2025-05-27",
+  "numero": "C-099/25",
+  "tipo_cc": "C",
+  "prov_id": "48751",
+  "tema_relatoria": "IMPUESTO NACIONAL SOBRE PRODUCTOS PLÁSTICOS DE UN SOLO USO UTILIZADOS PARA ENVASAR, EMBALAR O EMPACAR BIENES. INEXEQUIBLE EXPRESIÓN “PARA CONSUMO PROPIO”.",
+  "resumen": "Demanda de inconstitucionalidad en contra del artículo 51 de la Ley 2277 de 2022, por medio de la cual se adopta una reforma tributaria para la igualdad y la justicia social y se dictan otras disposiciones. La norma censurada estableció el impuesto a los plásticos de un solo uso para embalar, envasar o empacar bienes. Este impuesto fue creado con la finalidad extrafiscal de reducir las externalidades ambientales negativas que se producen en las fases de producción, consumo y desecho de los productos plásticos de un solo uso. El actor adujo que el legislador confirió un trato tributario idéntico a dos grupos de sujetos que no son equiparables como lo son, (i) los productores nacionales y los importadores para consumo propio de productos plásticos de un solo uso destinados a la venta o retiro en Colombia; y (ii) los productores de ese mismo tipo de bienes con fines de exportación. En su criterio, los exportadores de productos plásticos de un solo uso no deberían ser sujetos pasivos del impuesto porque, a diferencia de los productores que venden plásticos en Colombia, su actividad económica no genera la externalidad negativa que la norma busca corregir. Ello, porque los productos plásticos de un solo uso que se exportan no se consumen ni desechan en el territorio nacional. Para el demandante, gravar a los exportadores y otorgarles el mismo trato tributario que a los productores que venden en el mercado nacional, trasgrede los principios de igualdad, justicia y equidad tributaria, al igual que el núcleo esencial de la libertad de empresa y la libre competencia. Respecto de los cargos relacionados con la imposición del gravamen a las operaciones de exportación, la Corte decidió declarar EXEQUIBLE el artículo 51 censurado, tras considerar que el mandato de trato diferente entre disímiles no vulnera los principios alegados, en tanto que la actividad económica que ambos desarrollan genera externalidades ambientales negativas. En relación con los cargos por la no inclusión de la importación de bienes terminados como objeto del gravamen, la Sala Plena declaró la INEXEQUIBILIDAD de la expresión “para consumo propio”, prevista en el inciso segundo del precitado artículo, la cual califica el hecho generador consistente en la importación de productos plásticos de un solo uso utilizados para envasar, embalar o empacar bienes. Esto, porque establece un trato diferente entre iguales y porque crea una ventaja competitiva injustificada a los importadores de bienes terminados respecto de los productores nacionales de los mismos bien, lo cual desconoce los principios constitucionales de igualdad y equidad tributaria, así como la libre competencia.",
+  "titulaciones": [
+    {
+      "tema": "POTESTAD DE CONFIGURACION DEL LEGISLADOR EN MATERIA TRIBUTARIA",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "MEDIDAS TRIBUTARIAS PARA CORREGIR EXTERNALIDADES NEGATIVAS",
+      "subtema": "Jurisprudencia constitucional"
+    },
+    {
+      "tema": "PRODUCTOS PLÁSTICOS DE UN SOLO USO",
+      "subtema": "Producción, consumo y desecho generan externalidades ambientales negativas"
+    },
+    {
+      "tema": "IMPUESTOS PIGOUVIANOS",
+      "subtema": "Finalidad"
+    },
+    {
+      "tema": "PRODUCTOS PLÁSTICOS DE UN SOLO USO",
+      "subtema": "Contexto nacional e internacional"
+    },
+    {
+      "tema": "IMPUESTO A LAS EXPORTACIONES DE PRODUCTOS PLÁSTICOS DE UN SOLO USO UTILIZADOS PARA ENVASAR, EMBALAR O EMPACAR BIENES",
+      "subtema": "No desconoce principios de igualdad, equidad y justicia tributaria, así como la libre competencia"
+    },
+    {
+      "tema": "JUICIO INTEGRADO DE IGUALDAD",
+      "subtema": "Etapas"
+    },
+    {
+      "tema": "PRINCIPIOS CONSTITUCIONALES DE IGUALDAD, EQUIDAD Y JUSTICIA TRIBUTARIA",
+      "subtema": "Contenido y alcance"
+    },
+    {
+      "tema": "LIBERTAD DE EMPRESA Y LIBRE INICIATIVA PRIVADA",
+      "subtema": "Límites constitucionales"
+    },
+    {
+      "tema": "IMPUESTO NACIONAL SOBRE PRODUCTOS PLÁSTICOS DE UN SOLO USO UTILIZADOS PARA ENVASAR, EMBALAR O EMPACAR BIENES",
+      "subtema": "Finalidad"
+    },
+    {
+      "tema": "IMPUESTOS PIGOUVIANOS",
+      "subtema": "Límite al ejercicio de las libertades económicas"
+    },
+    {
+      "tema": "IMPUESTO A LA IMPORTACIÓN DE PRODUCTOS PLÁSTICOS DE UN SOLO USO PARA “CONSUMO PROPIO”",
+      "subtema": "Desconoce los principios de igualdad y equidad tributaria, así como la libre competencia"
+    },
+    {
+      "tema": "IMPUESTO NACIONAL SOBRE PRODUCTOS PLÁSTICOS DE UN SOLO USO UTILIZADOS PARA ENVASAR, EMBALAR O EMPACAR BIENES",
+      "subtema": "Elementos"
+    },
+    {
+      "tema": "TEST LEVE DE IGUALDAD DE NORMA TRIBUTARIA",
+      "subtema": "Aplicación"
+    }
+  ]
+}

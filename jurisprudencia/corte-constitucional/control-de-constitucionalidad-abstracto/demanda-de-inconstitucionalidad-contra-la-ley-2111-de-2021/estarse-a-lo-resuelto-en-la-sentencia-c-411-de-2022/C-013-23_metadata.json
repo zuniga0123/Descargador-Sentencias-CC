@@ -1,0 +1,43 @@
+{
+  "radicado": "C-013-23",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2023,
+  "fecha_creacion": "2023-02-01",
+  "magistrado_ponente": "Alejandro Linares Cantillo",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "DEMANDA DE INCONSTITUCIONALIDAD CONTRA LA LEY 2111 DE 2021",
+  "subtema": "Estarse a lo resuelto en la sentencia C-411 de 2022",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 2111 de 2021",
+    "Ley 599 de 2000",
+    "Ley 906 de 2004",
+    "Decreto Ley 2067 de 1991",
+    "Ley 160 de 1994",
+    "Decreto Ley 902 de 2017",
+    "Decreto 2067 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2023/C-013-23.htm",
+  "fecha_descarga": "2026-10-21T04:36:32.726910+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2023-02-01",
+  "fecha_publicacion": "2023-03-27",
+  "numero": "C-013/23",
+  "tipo_cc": "C",
+  "prov_id": "39997",
+  "tema_relatoria": "APROPIACIÓN ILEGAL DE BALDÍOS Y FINANCIACIÓN DE ESTA. DESCRIPCIÓN TÍPICA DE ESTOS DELITOS.",
+  "resumen": "Demanda de inconstitucionalidad contra el artículo 1º (parcial) de la Ley 2111 de 2021, por medio de la cual se sustituye el título XI “De los delitos contra los recursos naturales y el medio ambiente” de la Ley 599 de 2000, se modifica la Ley 906 de 2004 y se dictan otras disposiciones. El demandante adujo que la tipificación delictiva de las conductas de ocupación, utilización, explotación de baldíos, entre otras, contraviene la Carta Superior al vulnerar los principios de unidad de materia, buena fe y confianza legítima. La Sala Plena constató que el artículo demandado en esta oportunidad ya había sido analizado y resuelto por la Corte en providencia previa, por lo cual operó en el presente caso el fenómeno de la cosa juzgada constitucional absoluta. Con base en lo anterior se decidió ESTARSE A LO RESUELTO en la Sentencia C-411/22, mediante la cual se declaró la inexequibilidad del artículo 1º (parcial) de la Ley 2111 de 2021, específicamente en lo que respecta a los artículos 337 y 337A, por la vulneración del principio de legalidad en sentido estricto y de proporcionalidad en materia penal.",
+  "titulaciones": [
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD CONTRA LA LEY 2111 DE 2021",
+      "subtema": "Estarse a lo resuelto en la sentencia C-411 de 2022"
+    },
+    {
+      "tema": "COSA JUZGADA CONSTITUCIONAL ABSOLUTA",
+      "subtema": "Configuración"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "radicado": "T-255-23",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2023,
+  "fecha_creacion": "2023-07-12",
+  "magistrado_ponente": "Antonio José Lizarazo Ocampo",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "CARENCIA ACTUAL DE OBJETO POR SITUACIÓN SOBREVINIENTE",
+  "subtema": "Configuración",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 1437 de 2011",
+    "Decreto Ley 2591 de 1991",
+    "Decreto 1069 de 2015",
+    "Decreto 2591 de 1991",
+    "Ley 2080 de 2021"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2023/T-255-23.htm",
+  "fecha_descarga": "2026-10-21T04:17:18.466768+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2023-07-12",
+  "fecha_publicacion": "2023-07-17",
+  "numero": "T-255/23",
+  "tipo_cc": "T",
+  "prov_id": "43109",
+  "tema_relatoria": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES EN TRÁMITE DE TUTELA-CARENCIA ACTUAL DE OBJETO POR CUANTO NO PRODUJO EFECTOS LA MEDIDA PROVISIONAL DECRETADA DE OFICIO EN EL INCIDENTE DE CUMPLIMIENTO Y SE EFECTUARON LAS MANIFESTACIONES CIUDADANAS.",
+  "resumen": "En la presente solicitud de amparo se cuestiona a la autoridad judicial que decretó de manera oficiosa una medida cautelar provisional, consistente en el aplazamiento de las manifestaciones a llevarse a cabo el día 28 de abril y 1º de mayo 9 de 2021, hasta tanto no se implementara un protocolo de bioseguridad o se alcanzara la inmunidad de rebaño con la vacunación contra la pandemia COVID-19 y sus mutaciones, de tal forma que se garantizara a los manifestantes como a los terceros los derechos fundamentales a la salud, la vida y la salubridad pública. El juez de primera instancia declaró la carencia actual de objeto por situación sobreviniente, en la medida en que las manifestaciones se llevaron a cabo en las fechas previstas para ello. Sin embargo, sostuvo que la decisión de aplazar y condicionar las manifestaciones ciudadanas rebasó las competencias constitucionales del operador jurídico. El juez de segunda instancia confirmó la anterior decisión. Luego de analizar el caso la Corte estuvo de acuerdo con el juez de instancia que declaró la carencia actual de objeto por situación sobreviniente. No obstante, la Sala precisó que la providencia cuestionada incurrió en defecto orgánico y que con ello se desconoció el derecho de los accionantes al debido proceso, porque con el cuestionado fallo la autoridad judicial accionada adoptó medidas que excedieron los límites de sus competencias.",
+  "titulaciones": [
+    {
+      "tema": "CARENCIA ACTUAL DE OBJETO POR SITUACIÓN SOBREVINIENTE",
+      "subtema": "Configuración"
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA PROVIDENCIAS JUDICIALES POR DEFECTO ORGANICO",
+      "subtema": "Falta de competencia del funcionario judicial"
+    },
+    {
+      "tema": "DEFECTO ORGANICO",
+      "subtema": "Configuración"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Requisitos generales y especiales de procedibilidad"
+    },
+    {
+      "tema": "MEDIDAS PROVISIONALES EN PROCESO DE TUTELA PARA PROTEGER UN DERECHO",
+      "subtema": "Finalidad"
+    }
+  ]
+}

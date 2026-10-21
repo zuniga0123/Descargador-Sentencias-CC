@@ -1,0 +1,58 @@
+{
+  "radicado": "T-213-26",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2026,
+  "fecha_creacion": "2026-07-17",
+  "magistrado_ponente": "Lina Marcela Escobar Martínez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "CARENCIA ACTUAL DE OBJETO",
+  "subtema": "Configuración y características",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 1796 de 2000",
+    "Decreto Ley 1796 de 2000",
+    "Ley 17 de 1971",
+    "Decreto 2591 de 1991",
+    "Ley 1123 de 2007",
+    "Ley 1581 de 2012"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2026/T-213-26.htm",
+  "fecha_descarga": "2026-10-20T20:57:31.847899+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2026-07-17",
+  "fecha_publicacion": "2026-07-31",
+  "numero": "T-213/26",
+  "tipo_cc": "T",
+  "prov_id": "61542",
+  "tema_relatoria": "Derecho a la seguridad social, debido proceso y mínimo vital-Sanidad de la Policía Nacional puede revisar periódicamente la pérdida de capacidad laboral. Situación sobreviniente por pago de mesadas pensionales.",
+  "resumen": "El actor, a través de apoderado judicial, atribuyó la vulneración de derechos fundamentales a la Policía Nacional, como consecuencia de haber suspendido el pago de su mesada pensional por inasistencia a los exámenes de revisión periódica para pensionados por invalidez, previstos en el artículo 10 del Decreto 1796 de 2000. Lo anterior, sin haber habilitado medios alternativos para cumplir con dicha obligación, pese a que se encontraba en el exterior en trámite de una solicitud de asilo y que carecía de recursos para desplazarse al territorio nacional. Además, sin tener en consideración el hecho de ser una persona de especial protección constitucional por ser portador del VIH/SIDA en estadio 3. En sede de revisión la Sala constató que se configuró el fenómeno de la carencia actual de objeto por HECHO SUPERADO y SITUACIÓN SOBREVINIENTE. Ello, por cuanto las pretensiones del accionante quedaron satisfechas con posterioridad a la solicitud de amparo, en la medida en que ingresó al territorio colombiano, no ha registrado nueva salida del país, recibió atención médica presencial de forma continua en el Subsistema de Salud de la Policía Nacional y la entidad procedió a cancelar en su totalidad las mesadas pensionales suspendidas, así como a restablecer el pago normal de la pensión, en cumplimiento del fallo de primera instancia.",
+  "titulaciones": [
+    {
+      "tema": "CARENCIA ACTUAL DE OBJETO",
+      "subtema": "Configuración y características"
+    },
+    {
+      "tema": "CARENCIA ACTUAL DE OBJETO",
+      "subtema": "Fenómeno que se configura en los siguientes eventos: hecho superado, daño consumado o situación sobreviniente"
+    },
+    {
+      "tema": "PENSIÓN DE INVALIDEZ",
+      "subtema": "Suspensión del pago porque pensionado no se presentó a revisión"
+    },
+    {
+      "tema": "HECHO SUPERADO",
+      "subtema": "No requiere pronunciamiento de fondo por parte del juez"
+    },
+    {
+      "tema": "CARENCIA ACTUAL DE OBJETO POR HECHO SUPERADO",
+      "subtema": "Configuración"
+    },
+    {
+      "tema": "CARENCIA ACTUAL DE OBJETO POR SITUACIÓN SOBREVINIENTE",
+      "subtema": "Configuración"
+    }
+  ]
+}

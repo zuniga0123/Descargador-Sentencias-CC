@@ -1,0 +1,49 @@
+{
+  "radicado": "T-149-23",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2023,
+  "fecha_creacion": "2023-05-09",
+  "magistrado_ponente": "Alejandro Linares Cantillo",
+  "area": "Derecho Administrativo y Función Pública",
+  "tema": "ACCION DE TUTELA CONTRA ACTO ADMINISTRATIVO",
+  "subtema": "Improcedencia por no cumplir con el requisito de subsidiariedad por cuanto accionante contaba con el medio de control de nulidad y restablecimiento del derecho",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto Ley 2591 de 1991",
+    "Ley 1918 de 2018",
+    "Ley 1257 de 2008",
+    "Decreto 2591 de 1991",
+    "Ley 1437 de 2011"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2023/T-149-23.htm",
+  "fecha_descarga": "2026-10-21T04:22:08.261568+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2023-05-09",
+  "fecha_publicacion": "2023-05-23",
+  "numero": "T-149/23",
+  "tipo_cc": "T",
+  "prov_id": "40347",
+  "tema_relatoria": "ACCIÓN DE TUTELA CONTRA ACTO ADMINISTRATIVO DE EXCLUSIÓN DE PARTICIPANTE EN FESTIVAL CULTURAL-IMPROCEDENCIA POR EXISTIR OTRO MEDIO DE DEFENSA JUDICIAL Y NO ACREDITAR PERJUICIO IRREMEDIABLE.",
+  "resumen": "La vulneración de derechos fundamentales en este caso se atribuye a la expedición de un acto administrativo mediante el cual se excluyó al actor como participante en el Festival Nacional de Trova de la ciudad de Medellín por una denuncia penal por delitos sexuales interpuesta en su contra. La Corte encontró que en este caso la acción de tutela es IMPROCEDENTE, por incumplimiento de los requisitos de procedibilidad del amparo constitucional para impugnar actos administrativos particulares. Ello, toda vez que el accionante no agotó la vía administrativa ni justificó su omisión, como tampoco demostró la ocurrencia de un perjuicio irremediable.",
+  "titulaciones": [
+    {
+      "tema": "ACCION DE TUTELA CONTRA ACTO ADMINISTRATIVO",
+      "subtema": "Improcedencia por no cumplir con el requisito de subsidiariedad por cuanto accionante contaba con el medio de control de nulidad y restablecimiento del derecho"
+    },
+    {
+      "tema": "MEDIDAS CAUTELARES EN EL PROCESO DE NULIDAD Y RESTABLECIMIENTO DEL DERECHO",
+      "subtema": "Medidas preventivas, conservativas, anticipativas o de suspensión provisional, según ley 1437/11"
+    },
+    {
+      "tema": "MEDIDAS CAUTELARES EN EL PROCESO DE NULIDAD Y RESTABLECIMIENTO DEL DERECHO",
+      "subtema": "Contenido y alcance"
+    },
+    {
+      "tema": "PRINCIPIO DE SUBSIDIARIEDAD DE LA ACCION DE TUTELA CONTRA ACTOS ADMINISTRATIVOS",
+      "subtema": "Reglas jurisprudenciales"
+    }
+  ]
+}

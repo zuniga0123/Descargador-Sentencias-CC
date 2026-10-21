@@ -1,0 +1,63 @@
+{
+  "radicado": "T-551-23",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2023,
+  "fecha_creacion": "2023-12-11",
+  "magistrado_ponente": "Cristina Pardo Schlesinger",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "ALLANAMIENTO A LA MORA EN EL PAGO EXTEMPORANEO DE APORTES Y COTIZACIONES PARA PENSION DE INVALIDEZ",
+  "subtema": "Reglas jurisprudenciales",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Ley 1755 de 2015",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2023/T-551-23.htm",
+  "fecha_descarga": "2026-10-21T04:04:32.218377+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2023-12-11",
+  "fecha_publicacion": "2024-01-16",
+  "numero": "T-551/23",
+  "tipo_cc": "T",
+  "prov_id": "45282",
+  "tema_relatoria": "ACCIÓN DE TUTELA PARA RECONOCIMIENTO PENSIONAL POR INVALIDEZ-PROCEDENCIA EXCEPCIONAL AL NEGAR LA PRESTACIÓN POR PAGO EXTEMPORÁNEO DE APORTES.",
+  "resumen": "La vulneración de derechos fundamentales por parte del Fondo accionado se atribuye a la decisión de negar el reconocimiento y pago de la pensión de invalidez al actor, pese a que éste cuenta con un dictamen de pérdida de capacidad laboral del 74.1%. La entidad argumentó que no podía reconocer la prestación y que procedía la devolución de saldos, porque existían unos meses de cotización al Sistema General de Seguridad Social en Pensiones que se encontraban en mora de pago por parte de la empresa en la que trabajó el peticionario. Se reiteró jurisprudencia constitucional sobre la mora patronal y el allanamiento a la mora en el pago de los aportes a la seguridad social en pensiones. La Sala concluyó que la accionada vulneró garantías constitucionales del accionante porque le trasladó las consecuencias negativas del incumplimiento del empleador de pagar los aportes, así como su propia negligencia de cobrarlos oportunamente. Se CONCEDE el amparo invocado y se ordena el reconocimiento y pago de la prestación reclamada",
+  "titulaciones": [
+    {
+      "tema": "ALLANAMIENTO A LA MORA EN EL PAGO EXTEMPORANEO DE APORTES Y COTIZACIONES PARA PENSION DE INVALIDEZ",
+      "subtema": "Reglas jurisprudenciales"
+    },
+    {
+      "tema": "ACCION DE TUTELA EN MATERIA PENSIONAL",
+      "subtema": "Procedencia excepcional"
+    },
+    {
+      "tema": "ACTUACION TEMERARIA Y COSA JUZGADA EN MATERIA DE TUTELA",
+      "subtema": "Inexistencia para el caso"
+    },
+    {
+      "tema": "DERECHO A LA PENSIÓN DE INVALIDEZ",
+      "subtema": "Allanamiento a la mora"
+    },
+    {
+      "tema": "DERECHO A LA PENSIÓN DE INVALIDEZ",
+      "subtema": "Orden a Fondo de Pensiones reconocer y pagar la pensión a sujeto de especial protección con pérdida de capacidad laboral, quien cumple requisitos"
+    },
+    {
+      "tema": "DERECHO A LA PENSIÓN DE INVALIDEZ",
+      "subtema": "No puede afectarse por mora patronal en aportes a seguridad social"
+    },
+    {
+      "tema": "MORA PATRONAL EN EL PAGO OPORTUNO DE LOS APORTES A PENSIONES",
+      "subtema": "Precedente jurisprudencial"
+    },
+    {
+      "tema": "MORA EN EL PAGO DE APORTES Y COTIZACIONES PENSIONALES",
+      "subtema": "No es admisible que la entidad administradora de pensiones alegue a su favor su propia negligencia en la implementación de las acciones de cobro"
+    }
+  ]
+}

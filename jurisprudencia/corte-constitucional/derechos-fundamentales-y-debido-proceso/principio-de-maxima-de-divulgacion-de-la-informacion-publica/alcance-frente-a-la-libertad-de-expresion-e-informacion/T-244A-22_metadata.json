@@ -1,0 +1,61 @@
+{
+  "radicado": "T-244A-22",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2022,
+  "fecha_creacion": "2022-07-01",
+  "magistrado_ponente": "Antonio José Lizarazo Ocampo",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "PRINCIPIO DE MÁXIMA DE DIVULGACIÓN DE LA INFORMACIÓN PÚBLICA",
+  "subtema": "Alcance frente a la libertad de expresión e información",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 734 de 2002",
+    "Decreto 2591 de 1991",
+    "Ley 906 de 2004",
+    "Ley 1712 de 2014",
+    "Decreto Ley 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2022/T-244A-22.htm",
+  "fecha_descarga": "2026-10-21T07:57:39.027225+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2022-07-01",
+  "fecha_publicacion": "2022-11-08",
+  "numero": "T-244A/22",
+  "tipo_cc": "T",
+  "prov_id": "38880",
+  "tema_relatoria": "ACCIÓN DE TUTELA PARA PROTEGER EL BUEN NOMBRE Y LA INTIMIDAD-NO VULNERACIÓN POR CUANTO LA DIFUSIÓN DEL FALLO DISCIPLINARIO DE PRIMERA INSTANCIA ES DE INTERÉS PÚBLICO Y LA INFORMACIÓN ES VERAZ.",
+  "resumen": "La vulneración de derechos se atribuye a la difusión que hizo la Superintendencia accionada de un comunicado interno a través del cual se dio a conocer al interior de la institución que su Oficina de Control Disciplinario Interno impuso una sanción a la accionante y que dicha decisión había sido recurrida. En criterio de la actora, no se podía divulgar la información al público en general, porque no se encontraba debidamente ejecutoriada la sanción, al estar pendiente de resolver su impugnación. Se analiza temática relacionada con: 1º. El alcance de los derechos a la intimidad personal y al buen nombre. 2º. Reiteración de jurisprudencia respecto de la clasificación de la información, la expectativa de privacidad sobre la misma y el alcance del derecho a la información y, 3º. Reiteración de jurisprudencia respecto del debido proceso en actuaciones administrativa. La Sala Cuarta de Revisión concluyó que no se configuró la vulneración de los derechos al buen nombre y a la intimidad de la accionante. El primero, en la medida en que la información incluida en el comunicado corresponde al fallo disciplinario de primera instancia, y el segundo por cuanto la sanción difundida fue producto del ejercicio de la función de control disciplinario. En este sentido, la difusión de la actuación de la Oficina de Control Interno Disciplinario trasciende el ámbito íntimo de la accionante y pasa a ser de interés público, no solo porque se trata de una servidora pública, sino porque la divulgación de la información resulta ajustada al principio de publicidad de la función administrativa y al deber de información del que son titulares las entidades públicas.",
+  "titulaciones": [
+    {
+      "tema": "PRINCIPIO DE MÁXIMA DE DIVULGACIÓN DE LA INFORMACIÓN PÚBLICA",
+      "subtema": "Alcance frente a la libertad de expresión e información"
+    },
+    {
+      "tema": "DERECHO A LA INTIMIDAD Y BUEN NOMBRE",
+      "subtema": "Ámbito de restricción menor para servidores públicos"
+    },
+    {
+      "tema": "DERECHO A LA INTIMIDAD Y BUEN NOMBRE",
+      "subtema": "No vulneración por divulgación de fallo disciplinario de servidor público"
+    },
+    {
+      "tema": "DEBIDO PROCESO EN ACTUACIONES DISCIPLINARIAS",
+      "subtema": "Garantía constitucional"
+    },
+    {
+      "tema": "DERECHO A LA INTIMIDAD",
+      "subtema": "Información no debe tocar aspectos de la privacidad mínima de la persona"
+    },
+    {
+      "tema": "DERECHO DE ACCESO A LA INFORMACION PUBLICA Y RESERVA LEGAL DE LA MISMA",
+      "subtema": "Naturaleza, contenido, alcance y limitaciones en concordancia con la doctrina constitucional"
+    },
+    {
+      "tema": "DERECHO AL BUEN NOMBRE Y DERECHO A LA INTIMIDAD",
+      "subtema": "Jurisprudencia constitucional"
+    }
+  ]
+}

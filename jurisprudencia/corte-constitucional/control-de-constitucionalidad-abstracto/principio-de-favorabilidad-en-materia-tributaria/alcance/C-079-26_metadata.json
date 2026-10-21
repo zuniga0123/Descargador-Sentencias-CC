@@ -1,0 +1,58 @@
+{
+  "radicado": "C-079-26",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2026,
+  "fecha_creacion": "2026-04-15",
+  "magistrado_ponente": "Juan Carlos Cortés González",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "PRINCIPIO DE FAVORABILIDAD EN MATERIA TRIBUTARIA",
+  "subtema": "Alcance",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2067 de 1991",
+    "Decreto 1390 de 2025",
+    "Ley 2277 de 2022",
+    "Ley 270 de 1996",
+    "Decreto 175 de 2025",
+    "Decreto 1474 de 2025"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2026/C-079-26.htm",
+  "fecha_descarga": "2026-10-20T21:08:14.641397+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2026-04-15",
+  "fecha_publicacion": "2026-06-23",
+  "numero": "C-079/26",
+  "tipo_cc": "C",
+  "prov_id": "61293",
+  "tema_relatoria": "Inexequibilidad por consecuencia de decreto legislativo que establece medidas tributarias para atender gastos del Presupuesto General de la Nación, expedido en el marco del estado de emergencia económica y social declarado en todo el territorio nacional.",
+  "resumen": "Control automático de constitucionalidad del Decreto Legislativo 1479 de 2025, por el cual se adoptan medidas tributarias destinadas a atender los gastos del Presupuesto General de la Nación, necesarios para hacer frente al Estado de Emergencia declarado por el Decreto 1390 de 2025. La Sala Plena advirtió que mediante Sentencia C-075/26 se declaró inexequible el precitado decreto, mediante el cual se declaró el estado de emergencia económica y social al amparo del cual se expidió la norma objeto de estudio. Con base en lo anterior se declaró la INEXEQUIBILIDAD POR CONSECUENCIA del Decreto Legislativo 1479 de 2025. Ello, por cuanto el cuerpo normativo habilitante, en virtud del cual se expidió fue expulsado del ordenamiento jurídico. No obstante, se modularon los efectos de la anterior declaratoria y por eso se ordenó que: i) los impuestos directos que fueron modificados o se hayan causado mientras el Decreto Legislativo 1474 de 2025 produjo efectos no sean objeto de declaración, liquidación o cobro por parte de la DIAN, y que se devuelvan los que se hayan pagado anticipadamente; ii) los impuestos indirectos pagados mientras la referida norma produjo efectos sean devueltos a los sujetos pasivos que materialmente hayan realizado el pago y así lo acrediten, para lo cual la DIAN aplicará, dentro de los treinta (30) días siguientes a la notificación de esta sentencia, los mecanismos legales existentes o dispondrá la adopción de uno específico para ese efecto, si fuere necesario; y iii) se mantienen incólumes las situaciones jurídicas consolidadas respecto de los contribuyentes que acreditaron las condiciones exigidas para acceder a los beneficios tributarios previstos en el Decreto Legislativo mencionado, mientras este produjo efectos, todo ello en los términos de la presente providencia.",
+  "titulaciones": [
+    {
+      "tema": "PRINCIPIO DE FAVORABILIDAD EN MATERIA TRIBUTARIA",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "INCONSTITUCIONALIDAD POR CONSECUENCIA EN DECLARACION DE EMERGENCIA",
+      "subtema": "Devolución impuesto indirecto"
+    },
+    {
+      "tema": "INCONSTITUCIONALIDAD POR CONSECUENCIA EN DECLARACION DE EMERGENCIA",
+      "subtema": "Devolución impuesto directo"
+    },
+    {
+      "tema": "INCONSTITUCIONALIDAD POR CONSECUENCIA EN DECLARACION DE EMERGENCIA",
+      "subtema": "Configuración"
+    },
+    {
+      "tema": "SENTENCIA DE INEXEQUIBILIDAD DE DECRETO DECLARATORIO DE ESTADO DE EMERGENCIA ECONÓMICA Y SOCIAL",
+      "subtema": "Modulación de efectos"
+    },
+    {
+      "tema": "DECRETO LEGISLATIVO EN DESARROLLO DE ESTADO DE EMERGENCIA ECONÓMICA Y SOCIAL",
+      "subtema": "Inexequibilidad por consecuencia"
+    }
+  ]
+}

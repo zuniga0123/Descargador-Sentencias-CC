@@ -1,0 +1,51 @@
+{
+  "radicado": "C-064-26",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2026,
+  "fecha_creacion": "2026-03-25",
+  "magistrado_ponente": "Héctor Alfonso Carvajal Londoño",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "INHIBICION DE LA CORTE CONSTITUCIONAL POR INEPTITUD SUSTANTIVA DE LA DEMANDA",
+  "subtema": "Incumplimiento de requisitos de certeza, especificidad y suficiencia en los cargos",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 1778 de 2016",
+    "Decreto 2067 de 1991",
+    "Ley 1475 de 2011",
+    "Ley 1474 de 2011",
+    "Ley 80 de 1993",
+    "Acto Legislativo 2 de 2015",
+    "Ley 489 de 1998"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2026/C-064-26.htm",
+  "fecha_descarga": "2026-10-20T21:09:05.495151+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2026-03-25",
+  "fecha_publicacion": "2026-05-11",
+  "numero": "C-064/26",
+  "tipo_cc": "C",
+  "prov_id": "60977",
+  "tema_relatoria": "Fallo inhibitorio por ineptitud sustantiva de la demanda formulada en contra de norma que regula una inhabilidad para contratar con el Estado, aplicable a las personas que hayan financiado campañas políticas.",
+  "resumen": "Demanda de inconstitucionalidad contra el artículo 33 de la Ley 1778 de 2016 (parcial), por la cual se dictan normas sobre la responsabilidad de las personas jurídicas por actos de corrupción transnacional y se dictan otras disposiciones en materia de lucha contra la corrupción. El cuestionamiento se hizo sobre dos expresiones referidas al umbral del dos por ciento de aportes a campañas políticas y a la exclusión de los contratos de prestación de servicios profesionales, de la inhabilidad para contratar con el Estado. Según el actor, dichas expresiones vulneran el artículo 110 de la Constitución porque introducen excepciones legales que permitirían que personas que desempeñan funciones públicas, particularmente a través de contratos estatales, contribuyan a la financiación de partidos, movimientos políticos o campañas electorales, en contravía de la prohibición constitucional. Al realizar el análisis de procedencia encontró la Corte que el cargo formulado no satisfizo los requisitos de certeza ni de especificidad, pues no se fundó en una proposición jurídica real y verificable, ni desarrolló una confrontación normativa concreta entre la ley demandada y el artículo Superior invocado. También encontró que no cumplió con presupuesto de suficiencia, en la medida en que no aportó una argumentación mínima capaz de suscitar una duda razonable de inconstitucionalidad, ni desarrolló razones persuasivas que habilitaran un juicio abstracto de constitucionalidad. Con base en lo anterior, la Sala Plena de la Corporación decidió INHIBIRSE de emitir un pronunciamiento de fondo, dada la ineptitud sustantiva de la demanda.",
+  "titulaciones": [
+    {
+      "tema": "INHIBICION DE LA CORTE CONSTITUCIONAL POR INEPTITUD SUSTANTIVA DE LA DEMANDA",
+      "subtema": "Incumplimiento de requisitos de certeza, especificidad y suficiencia en los cargos"
+    },
+    {
+      "tema": "CONCEPTO DE VIOLACION EN DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "Razones claras, ciertas, específicas, pertinentes y suficientes"
+    },
+    {
+      "tema": "INHIBICION DE LA CORTE CONSTITUCIONAL",
+      "subtema": "No señalamiento de contradicción de una norma legal con la constitucional"
+    },
+    {
+      "tema": "INHIBICION DE LA CORTE CONSTITUCIONAL POR INEPTITUD SUSTANTIVA DE LA DEMANDA",
+      "subtema": "Cargos se estructuran a partir de una interpretación subjetiva del precepto demandado y no guardan relación con su contenido"
+    }
+  ]
+}

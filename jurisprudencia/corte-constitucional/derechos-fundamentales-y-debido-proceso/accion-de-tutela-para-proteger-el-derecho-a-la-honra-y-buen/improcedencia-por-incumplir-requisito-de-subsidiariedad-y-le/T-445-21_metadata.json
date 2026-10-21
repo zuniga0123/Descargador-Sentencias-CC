@@ -1,0 +1,57 @@
+{
+  "radicado": "T-445-21",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-12-10",
+  "magistrado_ponente": "José Fernando Reyes Cuartas",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCIÓN DE TUTELA PARA PROTEGER EL DERECHO A LA HONRA Y BUEN NOMBRE EN REDES SOCIALES",
+  "subtema": "Improcedencia por incumplir requisito de subsidiariedad y legitimación en la causa por pasiva",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2021/T-445-21.htm",
+  "fecha_descarga": "2026-10-21T08:25:32.183785+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2021-12-10",
+  "fecha_publicacion": "2022-02-09",
+  "numero": "T-445/21",
+  "tipo_cc": "T",
+  "prov_id": "37096",
+  "tema_relatoria": "ACCION DE TUTELA EN MATERIA DE LIBERTAD DE EXPRESION EN REDES SOCIALES. IMPROCEDENCIA POR INCUMPLIR REQUISITOS DE LEGITIMACION POR PASIVA Y SUBSIDIARIEDAD",
+  "resumen": "En este caso se interpone la acción de tutela en contra de un ciudadano que publicó varios tuits en los que hizo referencia al accionante. Se dice que dichos trinos vulneraron los derechos fundamentales a la honra y al buen nombre. El actor, vía correo electrónico, le solicitó al accionado que presentara a través de su cuenta de Twitter una retractación en la que reconociera que incurrió en una falsedad al referirse a él en los términos que lo hizo, sin embargo, a la fecha de interposición de la solicitud de amparo esto no había sucedido. Se analiza temática relacionada con los presupuestos de procedibilidad de la acción de tutela en materia de libertad de expresión en las redes sociales, haciendo énfasis, en dichos requisitos cuando las presuntas vulneraciones son realizadas entre personas naturales. La Corte concluyó que en el presente caso no se superaron los requisitos de la legitimación por pasiva y la subsidiariedad y, por ello, declaró IMPROCEDENTE la solicitud de amparo solicitado.",
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA PARA PROTEGER EL DERECHO A LA HONRA Y BUEN NOMBRE EN REDES SOCIALES",
+      "subtema": "Improcedencia por incumplir requisito de subsidiariedad y legitimación en la causa por pasiva"
+    },
+    {
+      "tema": "DERECHO A LA HONRA Y BUEN NOMBRE EN REDES SOCIALES",
+      "subtema": "Debió negarse el amparo por falta de relevancia constitucional y la condición de figura pública del accionante"
+    },
+    {
+      "tema": "INTERMEDIARIOS DE INTERNET",
+      "subtema": "No son responsables por el contenido que publican sus usuarios"
+    },
+    {
+      "tema": "PRINCIPIO DE SUBSIDIARIEDAD FRENTE AL BUEN NOMBRE Y HONRA EN INTERNET Y REDES SOCIALES",
+      "subtema": "Parámetros para determinar relevancia constitucional"
+    },
+    {
+      "tema": "DENUNCIA DE VIOLENCIA POR RAZÓN DE GÉNERO CONTRA LA MUJER",
+      "subtema": "Discurso especialmente protegido"
+    },
+    {
+      "tema": "PRINCIPIO DE SUBSIDIARIEDAD FRENTE AL BUEN NOMBRE Y HONRA EN INTERNET Y REDES SOCIALES",
+      "subtema": "Personas naturales"
+    },
+    {
+      "tema": "LEGITIMACION POR PASIVA DE PLATAFORMAS DIGITALES O REDES SOCIALES",
+      "subtema": "Corresponde al juez constitucional, examinar en cada caso concreto la situación de indefensión frente a internet y a las redes sociales"
+    }
+  ]
+}

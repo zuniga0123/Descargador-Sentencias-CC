@@ -1,0 +1,90 @@
+{
+  "radicado": "C-364-25",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2025,
+  "fecha_creacion": "2025-09-03",
+  "magistrado_ponente": "Miguel Polo Rosero",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "CLAUSULA DE RESERVA DE LEY EN REGULACION DE SERVICIOS PUBLICOS",
+  "subtema": "Alcance y límites",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 1955 de 2019",
+    "Decreto Ley 2067 de 1991",
+    "Decreto 2067 de 1991",
+    "Ley 142 de 1994",
+    "Ley 2294 de 2023",
+    "Decreto 1645 de 2019",
+    "Decreto 1073 de 2015",
+    "Decreto 1231 de 2020",
+    "Ley 143 de 1994",
+    "Decreto 1265 de 1970"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2025/C-364-25.htm",
+  "fecha_descarga": "2026-10-20T23:01:45.478263+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2025-09-03",
+  "fecha_publicacion": "2026-02-03",
+  "numero": "C-364/25",
+  "tipo_cc": "C",
+  "prov_id": "60403",
+  "tema_relatoria": "Exequibilidad condicionada de norma contenida en Plan Nacional de Desarrollo que autoriza al Gobierno Nacional para reglamentar aspectos del régimen tarifario en materia de energía eléctrica en la Costa Caribe. No se vulnera principio de reserva de ley.",
+  "resumen": "Demanda de inconstitucionalidad contra el artículo 318 (parcial) de la Ley 1955 de 2019, por la cual se expide el Plan Nacional de Desarrollo 2018-2022, Pacto por Colombia, Pacto por la Equidad. Los accionantes sostuvieron que la disposición acusada vulneraba el principio de reserva de ley, al autorizar al Gobierno Nacional establecer un régimen tarifario transitorio en la región Caribe. La Corte concluyó que la autorización contenida en la norma censurada presentaba una redacción ambigua que admitía dos interpretaciones razonables las cuales, a pesar de ser plausibles a partir de su tenor literal, diferían radicalmente en sus implicaciones constitucionales. Ello, porque la primera abría la posibilidad a que el ejecutivo asumiera competencias reservadas de manera exclusiva al legislador; mientras que la segunda admitía delegar a las autoridades administrativas la regulación de aspectos técnicos y cambiantes de los servicios públicos, siempre que la ley definiera claramente los criterios, finalidades y límites de dicha delegación. Por resultar abiertamente contraria a la Constitución Política, la Corte expulsó del ordenamiento jurídico la primera interpretación y mantuvo la segunda por no desconocer el principio de reserva legal respecto de la regulación de los servicios públicos. Se declaró la EXEQUIBILIDAD CONDICIONADA del articulo demandado, en el entendido que (i) el régimen transitorio y especial en materia tarifaria para las actividades de distribución y comercialización que fije el Gobierno Nacional se limita a la adecuación excepcional autorizada por esta norma, por lo que en el resto estará sujeto a las reglas previstas en las Leyes 142 de 1994 y 143 de 1994, así como a aquellas otras que las deroguen o modifiquen; y (ii) la reglamentación que el Gobierno Nacional expida solo podrá mantenerse vigente mientras subsistan las causas económicas, técnicas, operativas y financieras y de política pública que motivaron su expedición.",
+  "titulaciones": [
+    {
+      "tema": "CLAUSULA DE RESERVA DE LEY EN REGULACION DE SERVICIOS PUBLICOS",
+      "subtema": "Alcance y límites"
+    },
+    {
+      "tema": "ENERGIA ELECTRICA",
+      "subtema": "Bien público no transable"
+    },
+    {
+      "tema": "LIBERTAD DE CONFIGURACION LEGISLATIVA EN SERVICIOS PUBLICOS",
+      "subtema": "Reglas"
+    },
+    {
+      "tema": "RESERVA DE LEY",
+      "subtema": "Contenido"
+    },
+    {
+      "tema": "PRINCIPIO DE RESERVA DE LEY",
+      "subtema": "No se vulnera por autorización conferida al Gobierno Nacional para reglamentar aspectos del régimen tarifario en materia de energía eléctrica bajo el marco de las reglas generales"
+    },
+    {
+      "tema": "PRINCIPIO DE RESERVA DE LEY",
+      "subtema": "Jurisprudencia constitucional"
+    },
+    {
+      "tema": "POTESTAD REGLAMENTARIA",
+      "subtema": "Límites por reserva de ley"
+    },
+    {
+      "tema": "RESERVA DE LEY",
+      "subtema": "Definición"
+    },
+    {
+      "tema": "RESERVA DE LEY",
+      "subtema": "Determinación del régimen de la prestación de los servicios públicos"
+    },
+    {
+      "tema": "REGIMEN TARIFARIO DE SERVICIOS PUBLICOS DOMICILIARIOS",
+      "subtema": "Criterios a considerar"
+    },
+    {
+      "tema": "ENERGIA ELECTRICA",
+      "subtema": "Regulación especial"
+    },
+    {
+      "tema": "SERVICIOS PÚBLICOS",
+      "subtema": "Inherentes a la finalidad social del Estado"
+    },
+    {
+      "tema": "SERVICIOS PÚBLICOS",
+      "subtema": "Regulación, control y vigilancia por el Estado"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "radicado": "C-337-24",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2024,
+  "fecha_creacion": "2024-09-13",
+  "magistrado_ponente": "Juan Carlos Cortés González Síntesis",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "ACCION DE INCONSTITUCIONALIDAD",
+  "subtema": "Carácter rogado",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 906 de 2004",
+    "Decreto 2067 de 1991",
+    "Ley 48 de 1993"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2024/C-337-24.htm",
+  "fecha_descarga": "2026-10-21T01:49:24.276145+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2024-09-13",
+  "fecha_publicacion": "2024-10-08",
+  "numero": "C-337/24",
+  "tipo_cc": "C",
+  "prov_id": "47308",
+  "tema_relatoria": "FALLO INHIBITORIO POR INEPTITUD SUSTANTIVA DE LA DEMANDA FORMULADA CONTRA LA EXPRESIÓN “SEXO”, CONTENIDA EN NORMA SOBRE EL REGISTRO PERSONAL DEL CÓDIGO DE PROCEDIMIENTO PENAL.",
+  "resumen": "Demanda de inconstitucionalidad contra el artículo 248 (parcial) de la Ley 906 de 2004, por la cual se expide el Código de Procedimiento Penal. En este caso se adujo que la expresión “sexo” contenida en el artículo precitado, vulnera los artículos 1, 13, 15, 16 y 21 de la Constitución. Ello, por cuanto desconoce la identidad de género al otorgar un trato discriminatorio a las personas sujetas a registro que no se definen por características meramente biológicas bajo los conceptos de femenino-masculino. Debido a que la demanda no tuvo aptitud sustantiva para suscitar un pronunciamiento de fondo, en razón a su falta de certeza, especificidad y suficiencia, la Sala Plena de la Corporación decidió declararse INHIBIDA.",
+  "titulaciones": [
+    {
+      "tema": "ACCION DE INCONSTITUCIONALIDAD",
+      "subtema": "Carácter rogado"
+    },
+    {
+      "tema": "ACCION DE INCONSTITUCIONALIDAD",
+      "subtema": "Carácter público"
+    },
+    {
+      "tema": "INHIBICION DE LA CORTE CONSTITUCIONAL POR INEPTITUD SUSTANTIVA DE LA DEMANDA",
+      "subtema": "Incumplimiento de requisitos de certeza, especificidad y suficiencia en los cargos"
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "Interpretación aislada que desconoce el contexto normativo de la disposición acusada"
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD CONTRA CODIGO DE PROCEDIMIENTO PENAL",
+      "subtema": "Ineptitud sustantiva de la demanda"
+    }
+  ]
+}

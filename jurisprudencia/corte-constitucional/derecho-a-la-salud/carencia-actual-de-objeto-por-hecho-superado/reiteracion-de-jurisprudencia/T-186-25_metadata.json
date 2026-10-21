@@ -1,0 +1,54 @@
+{
+  "radicado": "T-186-25",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2025,
+  "fecha_creacion": "2025-05-15",
+  "magistrado_ponente": "Jorge Enrique Ibáñez Najar",
+  "area": "Derecho a la Salud",
+  "tema": "CARENCIA ACTUAL DE OBJETO POR HECHO SUPERADO",
+  "subtema": "Reiteración de jurisprudencia",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 1098 de 2006",
+    "Decreto 4062 de 2011",
+    "Decreto Ley 2591 de 1991",
+    "Ley 715 de 2001",
+    "Ley 100 de 1993"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2025/T-186-25.htm",
+  "fecha_descarga": "2026-10-20T22:50:44.095194+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2025-05-15",
+  "fecha_publicacion": "2025-05-23",
+  "numero": "T-186/25",
+  "tipo_cc": "T",
+  "prov_id": "48733",
+  "tema_relatoria": "PRINCIPIO DE UNIVERSALIDAD DEL SERVICIO DE SALUD A PESAR DE LA SITUACIÓN MIGRATORIA Y DERECHO DE ACCESO AL SISTEMA DE SALUD DE MUJERES EN ESTADO DE GESTACIÓN.",
+  "resumen": "En este caso la acción de tutela la instauró un comisario de familia en nombre de una menor de edad y migrante venezolana que se encontraba en estado de gestación y había tenido problemas para acceder a los servicios de salud que requería, por no haber regularizado la situación migratoria y no estar afiliada al Sistema General de Seguridad Social en Salud (SGSSS). En sede de revisión se aportaron pruebas de daban cuenta de que la adolescente fue inscrita en el Registro Único de Migrantes Venezolanos (RUMV), afiliada al SGSSS y recibió atención en salud durante el embarazo. Teniendo en cuenta que lo anterior era el objeto de la solicitud de amparo se declaró la carencia actual de objeto por HECHO SUPERADO.",
+  "titulaciones": [
+    {
+      "tema": "CARENCIA ACTUAL DE OBJETO POR HECHO SUPERADO",
+      "subtema": "Reiteración de jurisprudencia"
+    },
+    {
+      "tema": "DERECHO A LA SALUD DE LA MUJER DURANTE EL EMBARAZO O EL PERIODO DE LACTANCIA Y DE SUS HIJOS MENORES DE EDAD",
+      "subtema": "Protección prevalente y continua"
+    },
+    {
+      "tema": "CARENCIA ACTUAL DE OBJETO",
+      "subtema": "Hecho superado por pretensión satisfecha"
+    },
+    {
+      "tema": "AFILIACION DE EXTRANJEROS AL SISTEMA GENERAL DE SEGURIDAD SOCIAL EN SALUD",
+      "subtema": "Obligación de los migrantes, de satisfacer a cabalidad los requisitos que establece la ley"
+    },
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Flexibilización del juicio de procedibilidad de la acción de tutela cuando se trata de sujetos de especial protección constitucional"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "radicado": "C-121-23",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2023,
+  "fecha_creacion": "2023-04-26",
+  "magistrado_ponente": "Antonio José Lizarazo Ocampo",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "INHIBICION DE LA CORTE CONSTITUCIONAL",
+  "subtema": "Ineptitud sustantiva de la demanda respecto del cargo por la supuesta violación de los principios de igualdad y debido proceso",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 2213 de 2022",
+    "Decreto 2067 de 1991",
+    "Ley 806 de 2020",
+    "Decreto 806 de 2020",
+    "Ley 270 de 1996",
+    "Ley 527 de 1999",
+    "Ley 2108 de 2021",
+    "Ley 906 de 2004",
+    "Decreto Ley 806 de 2020"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2023/C-121-23.htm",
+  "fecha_descarga": "2026-10-21T04:33:56.930339+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2023-04-26",
+  "fecha_publicacion": "2023-08-09",
+  "numero": "C-121/23",
+  "tipo_cc": "C",
+  "prov_id": "43420",
+  "tema_relatoria": "IMPLEMENTACIÓN DE LAS TIC EN LAS ACTUACIONES JUDICIALES. VIGENCIA PERMANENTE DEL DECRETO LEGISLATIVO 806 DE 2020.",
+  "resumen": "Demanda de inconstitucionalidad contra los artículos 1º y 7º parciales, de la Ley 2213 de 2022, por medio de la cual se establece la vigencia permanente del decreto legislativo 806 de 2020 y se adoptan medidas para implementar las tecnologías de la información y las comunicaciones en las actuaciones judiciales, agilizar los procesos judiciales y flexibilizar la atención a los usuarios del servicio de justicia y se dictan otras disposiciones. A juicio de los demandantes, la a exclusión de la especialidad penal de la regla general de virtualidad en los procesos judiciales supone una violación al principio de igualdad en relación con las garantías procesales reconocidas en el marco de la virtualidad a los usuarios, los funcionarios, las víctimas, los abogados y los indiciados privados de la libertad. Así mismo, consideran que dichas normas resultan contrarias al debido proceso en sus dimensiones de (i) derecho a un proceso sin dilaciones injustificadas, y (ii) principio de publicidad. Por incumplir con los requisitos de las demandas de inconstitucionalidad, la Sala Plena de la Corporación decidió INHIBIRSE para emitir pronunciamiento de fondo.",
+  "titulaciones": [
+    {
+      "tema": "INHIBICION DE LA CORTE CONSTITUCIONAL",
+      "subtema": "Ineptitud sustantiva de la demanda respecto del cargo por la supuesta violación de los principios de igualdad y debido proceso"
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD POR VULNERACION DEL PRINCIPIO DE IGUALDAD",
+      "subtema": "Requisitos en la carga argumentativa"
+    },
+    {
+      "tema": "INHIBICION DE LA CORTE CONSTITUCIONAL POR INEPTITUD SUSTANTIVA DE LA DEMANDA",
+      "subtema": "Incumplimiento de requisitos de especificidad, pertinencia y suficiencia en los cargos"
+    },
+    {
+      "tema": "TEST INTEGRADO DE IGUALDAD",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "COSA JUZGADA CONSTITUCIONAL",
+      "subtema": "Inexistencia"
+    },
+    {
+      "tema": "COSA JUZGADA CONSTITUCIONAL",
+      "subtema": "Requisitos para su configuración"
+    }
+  ]
+}

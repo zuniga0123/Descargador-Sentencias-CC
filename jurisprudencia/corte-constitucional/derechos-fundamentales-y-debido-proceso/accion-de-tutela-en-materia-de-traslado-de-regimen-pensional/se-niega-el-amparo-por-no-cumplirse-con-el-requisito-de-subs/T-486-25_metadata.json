@@ -1,0 +1,62 @@
+{
+  "radicado": "T-486-25",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2025,
+  "fecha_creacion": "2025-12-01",
+  "magistrado_ponente": "Lina Marcela Escobar Martínez",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCION DE TUTELA EN MATERIA DE TRASLADO DE REGIMEN PENSIONAL",
+  "subtema": "Se niega el amparo por no cumplirse con el requisito de subsidiariedad, al no encontrarse que el actor tenga alguna condición que le impida acudir a la jurisdicción ordinaria en condiciones de igualdad",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 2381 de 2024",
+    "Decreto 1161 de 1994",
+    "Decreto 1833 de 2016",
+    "Ley 100 de 1993",
+    "Decreto 692 de 1994",
+    "Decreto 1406 de 1999",
+    "Decreto 3995 de 2008",
+    "Decreto Ley 2591 de 1991",
+    "Decreto 2591 de 1991",
+    "Decreto 1225 de 2024",
+    "Decreto 309 de 2017",
+    "Ley 1562 de 2012",
+    "Ley 797 de 2003",
+    "Ley 1437 de 2011"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2025/T-486-25.htm",
+  "fecha_descarga": "2026-10-20T22:37:12.012125+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2025-12-01",
+  "fecha_publicacion": "2025-12-16",
+  "numero": "T-486/25",
+  "tipo_cc": "T",
+  "prov_id": "57231",
+  "tema_relatoria": "Anulación del traslado entre regímenes pensionales-Improcedencia del amparo por incumplimiento del requisito de subsidiariedad y ausencia de perjuicio irremediable.",
+  "resumen": "El accionante, afiliado al Régimen de Ahorro Individual con Solidaridad (RAIS), solicitó en 2012 su traslado al Régimen de Prima Media con Prestación Definida (RPM) y cotizó allí de manera ininterrumpida hasta marzo de 2025. No obstante, en abril de 2024 Colpensiones le informó, por primera vez, que el traslado no había sido exitoso por supuestas inconsistencias en su fecha de nacimiento y que procedió a devolver sus aportes a la AFP de origen. En primera instancia se amparó el derecho al debido proceso y se ordenó a la entidad decidir de fondo sobre la solicitud de traslado. No obstante, en segunda instancia se revocó la anterior decisión y se declaró improcedente la acción de tutela por incumplir el requisito de subsidiariedad. Ello, por existir un proceso ordinario laboral en curso y no evidenciar una situación de vulnerabilidad ni un perjuicio irremediable. Al analizar el cumplimiento de los presupuestos generales de procedencia de la solicitud de amparo frente a controversias en materia pensional concluyó la Sala que la tutela es IMPROCEDENTE porque el medio ordinario de defensa judicial que el actor tiene a su alcance es idóneo y eficaz. Además, porque no se advirtió la inminente ocurrencia de un perjuicio irremediable.",
+  "titulaciones": [
+    {
+      "tema": "ACCION DE TUTELA EN MATERIA DE TRASLADO DE REGIMEN PENSIONAL",
+      "subtema": "Se niega el amparo por no cumplirse con el requisito de subsidiariedad, al no encontrarse que el actor tenga alguna condición que le impida acudir a la jurisdicción ordinaria en condiciones de igualdad"
+    },
+    {
+      "tema": "ACCION DE TUTELA EN MATERIA DE TRASLADO DE REGIMEN PENSIONAL",
+      "subtema": "Improcedencia por cuanto no se cumple con el requisito de subsidiariedad"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Improcedencia por no existir perjuicio irremediable"
+    },
+    {
+      "tema": "DERECHO FUNDAMENTAL A LA SEGURIDAD SOCIAL Y PROTECCION POR MEDIO DE ACCION DE TUTELA",
+      "subtema": "Procedencia excepcional"
+    },
+    {
+      "tema": "TRASLADO ENTRE REGIMENES PENSIONALES",
+      "subtema": "Requisitos"
+    }
+  ]
+}

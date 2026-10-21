@@ -1,0 +1,57 @@
+{
+  "radicado": "T-300-24",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2024,
+  "fecha_creacion": "2024-07-24",
+  "magistrado_ponente": "Jorge Enrique Ibáñez Najar",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "DERECHOS POLITICOS",
+  "subtema": "Titularidad",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto Ley 2591 de 1991",
+    "Ley 1475 de 2011",
+    "Decreto 2591 de 1991",
+    "Decreto 333 de 2021",
+    "Acto Legislativo 1 de 2009",
+    "Decreto 1834 de 2015",
+    "Ley 136 de 1994",
+    "Ley 617 de 2000",
+    "Decreto 1069 de 2015",
+    "Decreto 1010 de 2000",
+    "Decreto Ley 2085 de 2019",
+    "Ley 1438 de 2011",
+    "Ley 80 de 1993"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2024/T-300-24.htm",
+  "fecha_descarga": "2026-10-21T01:33:42.026542+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2024-07-24",
+  "fecha_publicacion": "2024-07-30",
+  "numero": "T-300/24",
+  "tipo_cc": "T",
+  "prov_id": "46806",
+  "tema_relatoria": "DERECHO A ELEGIR Y SER ELEGIDO (niegan inscripción de candidato a la alcaldía)-IMPROCEDENCIA, FALTA DE LEGITIMACIÓN EN LA CAUSA POR ACTIVA. REPARTO DE TUTELAS MASIVAS (identidad de sujeto pasivo, objeto y causa).",
+  "resumen": "Los actores consideran que las entidades accionadas vulneraron su derecho político a elegir, como consecuencia de negar la inscripción de un ciudadano como candidato a la Alcaldía de Santa Marta, por el partido político Fuerza Colombiana. Al revisar los requisitos de procedencia la Corte constató que no se acreditó el presupuesto de legitimación en la causa por activa. Esto, porque las solicitudes de amparo no fueron presentadas por la persona a quien se negó su inscripción, sino por terceros. Con base en lo anterior, se declaró IMPROCEDENTE el amparo invocado.",
+  "titulaciones": [
+    {
+      "tema": "DERECHOS POLITICOS",
+      "subtema": "Titularidad"
+    },
+    {
+      "tema": "ACUMULACION DE ACCIONES DE TUTELA MASIVAS",
+      "subtema": "Reglas"
+    },
+    {
+      "tema": "COADYUVANCIA EN LA ACCION DE TUTELA",
+      "subtema": "Reglas"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Improcedencia por falta de legitimación por activa"
+    }
+  ]
+}

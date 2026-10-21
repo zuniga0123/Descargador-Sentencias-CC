@@ -1,0 +1,57 @@
+{
+  "radicado": "C-190-23",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2023,
+  "fecha_creacion": "2023-05-31",
+  "magistrado_ponente": null,
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "ACCION PUBLICA DE INCONSTITUCIONALIDAD",
+  "subtema": "Eficacia del principio pro actione y cumplimiento de requisitos argumentativos mínimos",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 675 de 2001"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2023/C-190-23.htm",
+  "fecha_descarga": "2026-10-21T04:34:58.204288+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2023-05-31",
+  "fecha_publicacion": "2023-06-22",
+  "numero": "C-190/23",
+  "tipo_cc": "C",
+  "prov_id": "42832",
+  "tema_relatoria": "PROPIEDAD HORIZONTAL. MODIFICACIÓN DEL COEFICIENTE POR ERRORES ARITMÉTICOS EN SU CÁLCULO O POR NO TENER EN CUENTA PARÁMETROS LEGALES PARA SU FIJACIÓN.",
+  "resumen": "Demanda de inconstitucionalidad contra el numeral 1º del artículo 28 de la Ley 675 de 2001, por medio de la cual se expide el régimen de propiedad horizontal. El demandante considera que la disposición acusada desconoce los artículos 1, 2, 4, 13, 23 y 29 de la Constitución, así como los principios de unidad de materia e identidad flexible. La Sala Plena de la Corporación decidió INHIBIRSE para emitir pronunciamiento de fondo por la ineptitud sustantiva de la demanda, particularmente por incumplir la carga mínima de argumentación, certeza, pertinencia, especificidad, claridad y suficiencia. Lo anterior, porque no se atendió el contexto normativo acusado, se fundamentó en apreciaciones subjetivas que buscan solucionar un caso individual, no se explicó la manera como lo impugnado se confronta con la Constitución, ni se evidenció con nitidez la pretensión de inexequibilidad. Todo lo anterior condujo además, a que no se despertara una duda mínima de inconstitucionalidad.",
+  "titulaciones": [
+    {
+      "tema": "ACCION PUBLICA DE INCONSTITUCIONALIDAD",
+      "subtema": "Eficacia del principio pro actione y cumplimiento de requisitos argumentativos mínimos"
+    },
+    {
+      "tema": "INHIBICION DE LA CORTE CONSTITUCIONAL",
+      "subtema": "Ineptitud sustantiva de la demanda por presunta violación del debido proceso"
+    },
+    {
+      "tema": "CONCEPTO DE VIOLACION EN DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "Razones claras, ciertas, específicas, pertinentes y suficientes"
+    },
+    {
+      "tema": "CONFLICTO DE NORMAS LEGALES",
+      "subtema": "No se resuelven desde la perspectiva constitucional"
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "Oportunidad procesal para definir la aptitud de la demanda"
+    },
+    {
+      "tema": "INHIBICION DE LA CORTE CONSTITUCIONAL",
+      "subtema": "Argumentación que no es de carácter constitucional"
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "Requisitos mínimos"
+    }
+  ]
+}

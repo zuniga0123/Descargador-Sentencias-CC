@@ -1,0 +1,61 @@
+{
+  "radicado": "T-353-23",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2023,
+  "fecha_creacion": "2023-09-11",
+  "magistrado_ponente": "Antonio José Lizarazo Ocampo",
+  "area": "Derecho a la Salud",
+  "tema": "ATENCION DOMICILIARIA",
+  "subtema": "Exigencia de prescripción médica sobre su pertinencia y oportunidad",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 1751 de 2015",
+    "Ley 1306 de 2009",
+    "Decreto 2591 de 1991",
+    "Decreto Ley 19 de 2012",
+    "Decreto Ley 2591 de 1991",
+    "Ley 100 de 1993",
+    "Ley 1122 de 2007",
+    "Ley 1949 de 2019",
+    "Ley 1753 de 2015"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2023/T-353-23.htm",
+  "fecha_descarga": "2026-10-21T04:12:57.694266+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2023-09-11",
+  "fecha_publicacion": "2023-09-13",
+  "numero": "T-353/23",
+  "tipo_cc": "T",
+  "prov_id": "43889",
+  "tema_relatoria": "DERECHO A LA SALUD EN SU FACETA DE DIAGNÓSTICO DE PERSONA CON DISCAPACIDAD FÍSICA-ORDEN DE VALORACIÓN PARA FIJAR LAS CONDICIONES DEL SERVICIO DE CUIDADOR.",
+  "resumen": "La accionante, actuando como agente oficiosa de una hija que desde el nacimiento ha sido diagnosticada con varias patologías que le impiden realizar, de manera autónoma, las actividades diarias y necesarias para su subsistencia, pretende con la solicitud de amparo que se ordene a la EPS accionada autorizar el servicio de cuidador 24 horas, varias veces solicitado a la entidad de manera verbal. El juez de instancia negó la anterior pretensión pero ordenó que se garantizara a la agenciada todos los diagnósticos, servicios y procedimientos en su favor, según lo que valoraran y prescribieran los médicos como necesarios para el restablecimiento de la salud de la paciente. Luego de analizar el asunto concluyó la Corte que las circunstancias actuales de la familia de la agenciada variaron durante el trámite de revisión, evidenciando la imposibilidad de brindar su ayuda como cuidadores y la necesidad de que esta sea garantizada por la entidad prestadora de salud, debido a que en este momento no cuentan con los recursos físicos, materiales ni económicos, necesarios para ello. Con base en lo anterior, se confirmó el fallo de instancia, pero el mismo se modificó en el sentido de conocer el servicio de cuidador reclamado. En este sentido se ordenó a la accionada designar una junta de profesionales de la salud, para definir las condiciones del servicio precitado y realizar las visitas domiciliarias periódicas de seguimiento y control del mismo.",
+  "titulaciones": [
+    {
+      "tema": "ATENCION DOMICILIARIA",
+      "subtema": "Exigencia de prescripción médica sobre su pertinencia y oportunidad"
+    },
+    {
+      "tema": "ATENCION DOMICILIARIA",
+      "subtema": "Procedencia del servicio de cuidador domiciliario en circunstancias especiales"
+    },
+    {
+      "tema": "ACCESIBILIDAD A SERVICIOS, SUMINISTRO DE INSUMOS Y TECNOLOGIAS EN SALUD REQUERIDOS CON NECESIDAD",
+      "subtema": "Nuevo modelo de atención del Plan de Beneficios en Salud de exclusiones expresas e inclusiones implícitas vigente a partir de la Ley 1751 de 2015"
+    },
+    {
+      "tema": "DERECHO FUNDAMENTAL A LA SALUD DE PERSONAS EN SITUACIÓN DE DISCAPACIDAD",
+      "subtema": "Naturaleza y contenido"
+    },
+    {
+      "tema": "SERVICIO DE CUIDADOR PERMANENTE",
+      "subtema": "Requisitos para el suministro por parte de EPS"
+    },
+    {
+      "tema": "CUIDADOR",
+      "subtema": "Definición"
+    }
+  ]
+}

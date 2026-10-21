@@ -1,0 +1,84 @@
+{
+  "radicado": "SU212-23",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2023,
+  "fecha_creacion": "2023-06-08",
+  "magistrado_ponente": "Natalia Ángel Cabo",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "ACCION DE TUTELA CONTRA PROVIDENCIAS JUDICIALES POR DESCONOCIMIENTO DEL PRECEDENTE CONSTITUCIONAL",
+  "subtema": "Procedencia",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Acto Legislativo 1 de 2005",
+    "Ley 270 de 1996",
+    "Ley 1781 de 2016",
+    "Decreto 2591 de 1991",
+    "Ley 2213 de 2022",
+    "Ley 712 de 2001",
+    "Ley 100 de 1993",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2023/SU212-23.htm",
+  "fecha_descarga": "2026-10-21T04:38:25.136705+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2023-06-08",
+  "fecha_publicacion": "2023-07-31",
+  "numero": "SU.212/23",
+  "tipo_cc": "SU",
+  "prov_id": "43313",
+  "tema_relatoria": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES EN PROCESO LABORAL (PENSIÓN CONVENCIONAL)-DESCONOCIMIENTO DEL PRECEDENTE CONSTITUCIONAL EN LA INTERPRETACIÓN DE LAS CONVENCIONES COLECTIVAS.",
+  "resumen": "En este caso se cuestiona la decisión judicial que en sede de casación reconoció una pensión de jubilación con fundamento en la Convención Colectiva del Trabajo del Banco de la República, pese a que para el 31 de julio de 2010 la beneficiaria no cumplía con los requisitos de tiempo de servicios y edad necesarios para acceder a dicha prestación, tal y como lo exige el artículo 48 de la Constitución Política. Se aduce que el fallo mencionado no observó el precedente aplicable, desconoció el procedimiento legal previsto, así como el órgano encargado de cambiar la jurisprudencia laboral e incurrió en un defecto sustantivo. Se resalta el hecho de que la providencia cuestionada, la cual fue proferida al interior de un proceso ordinario laboral, se expidió en reemplazo de otra, en acatamiento de un fallo de tutela que hizo tránsito a cosa juzgada constitucional. Tras verificar la procedencia de la acción de tutela la Corte concluyó que la autoridad judicial accionada desconoció el precedente establecido en la Sentencia SU.555/14, en la cual se estableció que, para acceder a la pensión jubilatoria prevista en la Convención Colectiva del Banco de la República, es indispensable haber cumplido tanto el tiempo de servicios como la edad para el 31 de julio de 2010. Indicó la Sala Plena que, al no seguir el precedente y apartarse de él, la Corporación cuestionada incumplió con las cargas de transparencia y suficiencia que le correspondía, en tanto no identificó ni explicó el fallo de unificación mencionado, a pesar de que éste fue expresamente invocado durante el proceso laboral, así como tampoco ofreció una justificación rigurosa de su posición con base en razones contundes. Se confirma la decisión de instancia de CONCEDIÓ el amparo al derecho al debido proceso.",
+  "titulaciones": [
+    {
+      "tema": "ACCION DE TUTELA CONTRA PROVIDENCIAS JUDICIALES POR DESCONOCIMIENTO DEL PRECEDENTE CONSTITUCIONAL",
+      "subtema": "Procedencia"
+    },
+    {
+      "tema": "DERECHOS PENSIONALES ADQUIRIDOS",
+      "subtema": "Reglas aplicables en Acto Legislativo 01 de 2005"
+    },
+    {
+      "tema": "PENSION DE VEJEZ",
+      "subtema": "Se consolida en el momento en que se cumplen todos los requisitos exigidos por el régimen pertinente"
+    },
+    {
+      "tema": "SEPARACION DEL PRECEDENTE",
+      "subtema": "Carga argumentativa de transparencia y suficiencia del juez para apartarse del precedente"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES EN PROCESO LABORAL",
+      "subtema": "Acceso a la pensión de jubilación"
+    },
+    {
+      "tema": "CARACTERIZACION DEL DEFECTO POR DESCONOCIMIENTO DEL PRECEDENTE CONSTITUCIONAL",
+      "subtema": null
+    },
+    {
+      "tema": "COSA JUZGADA CONSTITUCIONAL EN TUTELA",
+      "subtema": "Inexistencia para el caso"
+    },
+    {
+      "tema": "REGIMEN DE TRANSICION",
+      "subtema": "Acto Legislativo 01 de 2005 prescribió que éste expiraría el 31 de julio de 2010"
+    },
+    {
+      "tema": "ACTO LEGISLATIVO 01 DE 2005",
+      "subtema": "Contenido y alcance, particularmente respecto a las disposiciones sobre pensiones convencionales"
+    },
+    {
+      "tema": "COSA JUZGADA CONSTITUCIONAL",
+      "subtema": "Se configura cuando se presentan identidades procesales como objeto, causa petendi e identidad de partes"
+    },
+    {
+      "tema": "PRECEDENTE CONSTITUCIONAL",
+      "subtema": "Carácter vinculante"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Requisitos generales de procedibilidad"
+    }
+  ]
+}

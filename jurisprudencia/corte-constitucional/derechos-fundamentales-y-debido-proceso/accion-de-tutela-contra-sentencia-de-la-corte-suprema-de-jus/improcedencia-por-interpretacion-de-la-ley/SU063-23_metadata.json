@@ -1,0 +1,80 @@
+{
+  "radicado": "SU063-23",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2023,
+  "fecha_creacion": "2023-03-09",
+  "magistrado_ponente": "Antonio José Lizarazo Ocampo",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCION DE TUTELA CONTRA SENTENCIA DE LA CORTE SUPREMA DE JUSTICIA",
+  "subtema": "Improcedencia por interpretación de la ley",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Decreto 1 de 1984",
+    "Ley 1437 de 2011",
+    "Acto Legislativo 1 de 2005",
+    "Decreto 2591 de 1991",
+    "Ley 700 de 2001",
+    "Ley 797 de 2003",
+    "Decreto 575 de 2013",
+    "Ley 712 de 2001",
+    "Ley 1781 de 2016",
+    "Ley 270 de 1996",
+    "Acto Legislativo 3 de 2011"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2023/SU063-23.htm",
+  "fecha_descarga": "2026-10-21T04:38:57.658914+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2023-03-09",
+  "fecha_publicacion": "2023-05-23",
+  "numero": "SU.063/23",
+  "tipo_cc": "SU",
+  "prov_id": "40353",
+  "tema_relatoria": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES EN PROCESO DE REAJUSTE PENSIONAL-RECONOCIMIENTO DE INTERESES MORATORIOS NO TRASGREDE EL PRINCIPIO DE SOSTENIBILIDAD FISCAL.",
+  "resumen": "Colpensiones cuestionó la decisión judicial adoptada en sede de casación, mediante la cual se condenó a la entidad a reconocer y pagar al actor de la demanda ordinaria los intereses moratorios de que trata el artículo 141 de la Ley 100 de 1993, sobre las sumas correspondientes a un reajuste pensional. Se aduce que dicho fallo vulneró derechos fundamentales de la entidad, por haber incurrido en defectos sustantivo o material por interpretación irrazonable; desconocimiento del precedente horizontal, al haber cambiado su precedente sin una justificación objetiva y violación directa de la Constitución, al desconocer el principio de sostenibilidad financiera del sistema pensional, de que trata el Acto Legislativo 01 de 2005. Se caracterizan los defectos alegados como causales específicas de procedencia de la acción de tutela contra providencias judiciales. Por no encontrar acreditados los defectos alegados y, en consecuencia, no existir vulneración de derechos fundamentales, la Corte decidió confirmar la decisión de instancia que NEGÓ el amparo invocado.",
+  "titulaciones": [
+    {
+      "tema": "ACCION DE TUTELA CONTRA SENTENCIA DE LA CORTE SUPREMA DE JUSTICIA",
+      "subtema": "Improcedencia por interpretación de la ley"
+    },
+    {
+      "tema": "PRINCIPIO DE SOSTENIBILIDAD FINANCIERA DEL SISTEMA PENSIONAL",
+      "subtema": "Finalidad"
+    },
+    {
+      "tema": "PENSIONES LEGALES EN SISTEMA DE SEGURIDAD SOCIAL INTEGRAL",
+      "subtema": "Intereses de mora por retraso en pago de mesadas"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Requisitos generales de procedibilidad"
+    },
+    {
+      "tema": "INTERESES MORATORIOS A MESADAS PENSIONALES, SEGUN ART. 141 DE LA LEY 100/93",
+      "subtema": null
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES EN PROCESO LABORAL",
+      "subtema": "Separación del precedente judicial cumpliendo cargas de transparencia y suficiencia"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Improcedencia por no violación directa de la Constitución"
+    },
+    {
+      "tema": "DEFECTO SUSTANTIVO POR DESCONOCIMIENTO DEL PRECEDENTE JUDICIAL",
+      "subtema": "Principios constitucionales"
+    },
+    {
+      "tema": "DESCONOCIMIENTO DEL PRECEDENTE COMO CAUSAL ESPECIFICA DE PROCEDIBILIDAD DE LA ACCION DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Reiteración de jurisprudencia"
+    },
+    {
+      "tema": "VIOLACION DIRECTA DE LA CONSTITUCION",
+      "subtema": "Estructuración"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "radicado": "T-390-22",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2022,
+  "fecha_creacion": "2022-11-08",
+  "magistrado_ponente": "Diana Fajardo Rivera",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "VALORACION PROBATORIA EN DETERMINACION DE LA INVALIDEZ",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Decreto 1272 de 2018",
+    "Ley 1996 de 2019",
+    "Decreto 2591 de 1991",
+    "Ley 1437 de 2011",
+    "Ley 23 de 1981",
+    "Decreto 1075 de 2015",
+    "Ley 1955 de 2019",
+    "Ley 91 de 1989",
+    "Decreto 19 de 2012",
+    "Ley 812 de 2003",
+    "Decreto 1072 de 2015"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2022/T-390-22.htm",
+  "fecha_descarga": "2026-10-21T07:56:04.757668+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2022-11-08",
+  "fecha_publicacion": "2022-12-14",
+  "numero": "T-390/22",
+  "tipo_cc": "T",
+  "prov_id": "39208",
+  "tema_relatoria": "DERECHO A LA SUSTITUCIÓN PENSIONAL DE HIJO MAYOR DE EDAD EN SITUACIÓN DE DISCAPACIDAD-LIBERTAD PROBATORIA PARA ACREDITAR LA CONDICIÓN DE INVALIDEZ.",
+  "resumen": "accionante, actuando en representación de un hijo mayor de edad que fue declarado interdicto por medio de decisión judicial, considera que la entidad accionada vulneró derechos fundamentales de su representado, al negarle el reconocimiento de una sustitución pensional, argumentando que no acreditó la calidad de persona en estado de invalidez a través del correspondiente dictamen de pérdida de capacidad laboral. La Sala reiteró la regla de decisión según la cual una entidad encargada de resolver una solicitud pensional vulnera los derechos a la seguridad social y al debido proceso (i) al exigir un dictamen expedido por una junta u organismo de calificación de invalidez como único medio de prueba para demostrar la pérdida de capacidad laboral requerida para acceder a una prestación; o (ii) cuando se abstiene de estudiar si un documento distinto al dictamen de pérdida de capacidad laboral, como por ejemplo una sentencia de interdicción judicial, tiene la virtud de demostrar el estado de invalidez necesario para acceder a la prestación. Se CONCEDE el amparo invocado y se ordena a las accionadas que, dentro de las dos semanas siguientes a la notificación de este fallo, resuelvan nuevamente sobre la solicitud de sustitución pensional del hijo de la peticionaria, conforme al régimen pensional aplicable y teniendo por demostrado que se encontraba en situación de invalidez con anterioridad al deceso de su padre.",
+  "titulaciones": [
+    {
+      "tema": "VALORACION PROBATORIA EN DETERMINACION DE LA INVALIDEZ",
+      "subtema": null
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA PARA RECONOCIMIENTO DE SUSTITUCIÓN PENSIONAL",
+      "subtema": "Procedencia excepcional a favor de sujetos de especial protección constitucional o personas en circunstancias de debilidad manifiesta"
+    },
+    {
+      "tema": "DERECHO A LA SUSTITUCION PENSIONAL DE HIJO EN CONDICION DE INVALIDEZ",
+      "subtema": "Caso en que se desconoció el principio de libertad probatoria para acreditar la condición de discapacidad mental e invalidez del agenciado"
+    },
+    {
+      "tema": "DERECHOS FUNDAMENTALES AL DEBIDO PROCESO, SEGURIDAD SOCIAL EN PENSIONES Y MINIMO VITAL",
+      "subtema": "Vulneración"
+    }
+  ]
+}

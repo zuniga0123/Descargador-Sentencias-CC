@@ -1,0 +1,74 @@
+{
+  "radicado": "C-005-26",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2026,
+  "fecha_creacion": "2026-01-28",
+  "magistrado_ponente": "Carlos Camargo Assis",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "COSA JUZGADA",
+  "subtema": "Efectos respecto de decisiones de exequibilidad e inexequibilidad",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 2219 de 2022",
+    "Decreto Ley 2067 de 1991",
+    "Ley 1437 de 2011",
+    "Ley 2420 de 1968",
+    "Decreto Ley 133 de 1976",
+    "Decreto 1985 de 2013"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2026/C-005-26.htm",
+  "fecha_descarga": "2026-10-20T21:09:13.277427+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2026-01-28",
+  "fecha_publicacion": "2026-04-29",
+  "numero": "C-005/26",
+  "tipo_cc": "C",
+  "prov_id": "60902",
+  "tema_relatoria": "Cosa juzgada sobreviniente. Estarse a lo resuelto en Sentencia C-505/25 que decidió sobre la competencia conferida al Ministerio de Agricultura y Desarrollo Rural en relación con las funciones de inspección, control y vigilancia de asociaciones campesinas y agropecuarias.",
+  "resumen": "Demanda de inconstitucionalidad contra el parágrafo segundo (parcial) del artículo 7º y el artículo 11 (parcial) de la Ley 2219 de 2022, por la cual se dictan normas para la constitución y operación de las asociaciones campesinas y de las asociaciones agropecuarias, se facilitan sus relaciones con la administración pública, y se dictan otras disposiciones. La demandante adujo que las normas acusadas desconocían el principio de reserva de ley respecto de las disposiciones que regulan el ejercicio de las funciones de inspección y vigilancia atribuidas al Gobierno Nacional en virtud de lo dispuesto en el artículo 150.8 de la Constitución, así como el derecho fundamental al debido proceso previsto en el artículo 29 Superior. De manera preliminar la Corte analizó la posible configuración de la cosa juzgada constitucional como consecuencia de la emisión C-505/25, mediante la cual declaró la exequibilidad condicionada del parágrafo segundo del artículo 7 de la precitada ley, bajo el entendido de que el procedimiento aplicable para imponer sanciones es el previsto en la Ley 1437 de 2011 o el que disponga el legislador, al tiempo que declaró la inexequibilidad de la expresión “así como, imponer otras sanciones”, contenida en el artículo 11 ibidem, por desconocer el derecho al debido proceso y los límites que tiene el legislador al delegar la regulación de asuntos propios del derecho administrativo sancionador en manos del Ejecutivo. Realizado el precitado análisis y verificada la concreción de la cosa juzgada sobreviniente, la Sala Plena de la Corporación decidió ESTARSE A LO RESUELTO en la Sentencia C-505/25.",
+  "titulaciones": [
+    {
+      "tema": "COSA JUZGADA",
+      "subtema": "Efectos respecto de decisiones de exequibilidad e inexequibilidad"
+    },
+    {
+      "tema": "COSA JUZGADA CONSTITUCIONAL ABSOLUTA",
+      "subtema": "Configuración por declaratoria de inexequibilidad"
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD CONTRA LA LEY 2219 DE 2022",
+      "subtema": "Estarse a lo resuelto en la sentencia C-505 de 2025"
+    },
+    {
+      "tema": "COSA JUZGADA SOBREVINIENTE",
+      "subtema": "Configuración"
+    },
+    {
+      "tema": "COSA JUZGADA CONSTITUCIONAL",
+      "subtema": "Problema constitucional idéntico a pesar de diferencias en los cargos"
+    },
+    {
+      "tema": "COSA JUZGADA CONSTITUCIONAL",
+      "subtema": "Concepto y alcance"
+    },
+    {
+      "tema": "COSA JUZGADA MATERIAL",
+      "subtema": "Contenido normativo idéntico"
+    },
+    {
+      "tema": "COSA JUZGADA CONSTITUCIONAL",
+      "subtema": "No hay cambio de parámetro de control constitucional"
+    },
+    {
+      "tema": "COSA JUZGADA CONSTITUCIONAL",
+      "subtema": "Requisitos para su configuración"
+    },
+    {
+      "tema": "COSA JUZGADA CONSTITUCIONAL",
+      "subtema": "Tipología"
+    }
+  ]
+}

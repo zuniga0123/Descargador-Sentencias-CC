@@ -1,0 +1,50 @@
+{
+  "radicado": "T-441-22",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2022,
+  "fecha_creacion": "2022-12-01",
+  "magistrado_ponente": "Alejandro Linares Cantillo",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCIÓN DE TUTELA CONTRA ACTUACIONES ADMINISTRATIVAS",
+  "subtema": "Vulneración del debido proceso por defecto sustantivo al emplear abiertamente norma inaplicable",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 115 de 1994",
+    "Decreto 2591 de 1991",
+    "Ley 1437 de 2011",
+    "Decreto 1325 de 2016",
+    "Decreto 1067 de 2015",
+    "Decreto 1288 de 2018"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2022/T-441-22.htm",
+  "fecha_descarga": "2026-10-21T07:52:14.606430+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2022-12-01",
+  "fecha_publicacion": "2023-01-27",
+  "numero": "T-441/22",
+  "tipo_cc": "T",
+  "prov_id": "39598",
+  "tema_relatoria": "PERMISO ESPECIAL DE PERMANENCIA, DOCUMENTO VÁLIDO DE IDENTIFICACIÓN DE MIGRANTES VENEZOLANOS-VULNERACIÓN DEL DEBIDO PROCESO EN LA ACTUACIÓN ADMINISTRATIVA AL EXIGIR CÉDULA DE EXTRANJERÍA Y NEGAR ACCESO AL PROGRAMA DE FORMACIÓN TÉCNICA EN EL SENA.",
+  "resumen": "La accionante, actuando en representación de su hijo, considera que el SENA violó el derecho fundamental a la educación del menor, al negar su inscripción en el curso de media técnica en confección de patronaje, por no contar con cédula de extranjería. Tanto la peticionaria como su hijo son de nacionalidad venezolana y para la fecha de los hechos tenían vigentes sus Permisos Especiales de Permanencia. Se analiza la siguiente temática: 1º. Las causales sustantivas y taxonómicas de violación del debido proceso en los casos de tutela contra actos administrativos y, 2º. La normativa relacionada con los Permisos de Permanencia emitidos por el Gobierno nacional a favor de los migrantes venezolanos. La Corte concluyó que: i) emplear normas abiertamente inaplicables en una actuación administrativa, viola el derecho al debido proceso; ii) el Permiso Especial de Permanencia es un documento válido de identificación para los migrantes de nacionalidad venezolana en territorio colombiano. Al encontrar acreditada la ocurrencia de un defecto sustantivo en la actuación administrativa cuestionada, la Sala Tercera de Revisión decidió CONCEDER el amparo invocado.",
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA ACTUACIONES ADMINISTRATIVAS",
+      "subtema": "Vulneración del debido proceso por defecto sustantivo al emplear abiertamente norma inaplicable"
+    },
+    {
+      "tema": "PERMISO ESPECIAL DE PERMANENCIA PEP",
+      "subtema": "Control migratorio de nacionales venezolanos en el Estado colombiano"
+    },
+    {
+      "tema": "PRINCIPIO DE SUBSIDIARIEDAD EN ACCION DE TUTELA CONTRA ACTO ADMINISTRATIVO",
+      "subtema": "Flexibilidad ante la eminencia de un perjuicio irremediable"
+    },
+    {
+      "tema": "DERECHO A LA EDUCACIÓN Y DEBIDO PROCESO ADMINISTRATIVO",
+      "subtema": "Vulneración por exigir cédula de extranjería, como único documento válido de identificación, para acceder al programa de formación técnica en el SENA"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "radicado": "T-072-22",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2022,
+  "fecha_creacion": "2022-03-01",
+  "magistrado_ponente": "Cristina Pardo Schlesinger",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+  "subtema": "Improcedencia por cuanto no hay desconocimiento del precedente ni se incurrió en defecto fáctico en proceso de reparación directa",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 1437 de 2011",
+    "Decreto 1 de 1984",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2022/T-072-22.htm",
+  "fecha_descarga": "2026-10-21T08:08:19.343651+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2022-03-01",
+  "fecha_publicacion": "2022-04-04",
+  "numero": "T-072/22",
+  "tipo_cc": "T",
+  "prov_id": "37498",
+  "tema_relatoria": "ACCION DE TUTELA CONTRA PROVIDENCIAS JUDICIALES. IMPROCEDENCIA POR CUANTO NO SE CONFIGURAN DEFECTOS FACTICO Y DESCONOCIMIENTO DEL PRECEDENTE EN PROCESO DE RESPONSABILIDAD ESTATAL POR DAÑOS SUFRIDOS POR MIEMBROS DE LA FUERZA PÚBLICA",
+  "resumen": "En este caso la vulneración de derechos fundamentales se atribuye a la decisión judicial que, en el trámite de una demanda de reparación directa interpuesta por los accionantes, negó las pretensiones de declarar la responsabilidad estatal por el secuestro y fallecimiento de dos familiares que se desempeñaban como agentes de la Policía Nacional, así como la correspondiente indemnización de perjuicios. Se aduce que dicho fallo incurrió en los defectos fáctico y desconocimiento del precedente, en su orden, por la indebida valoración de los documentos que daban cuenta que el secuestro se debió a la negligencia del entonces comandante a cargo y, por haber desatendido una sentencia emitida por la Sección Tercera del Consejo de Estado. Luego de reiterar jurisprudencia del Consejo de Estado sobre la responsabilidad del Estado por daños sufridos por miembros de la fuerza pública con ocasión a la prestación de sus servicios, concluyó la Sala que la providencia cuestionada no incurrió en los defectos alegados, de un lado, porque la autoridad judicial efectuó una interpretación razonable del acervo probatorio, mientras que los argumentos de los accionantes evidencian una discrepancia con la valoración jurídica de ciertas pruebas, y porque aplicó la ratio decidendi de la sentencia del Consejo de Estado alegada como desconocida, además de no darse la vulneración al derecho a la igualdad, por cuanto los hechos relevantes del caso resuelto previamente por el Consejo de Estado no son iguales a los del presente asunto y, por tanto, dicha Corporación no estaba obligado a declarar la responsabilidad estatal. Se confirman las decisiones de instancia que DENEGARON el amparo invocado.",
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Improcedencia por cuanto no hay desconocimiento del precedente ni se incurrió en defecto fáctico en proceso de reparación directa"
+    },
+    {
+      "tema": "RESPONSABILIDAD ESTATAL POR DAÑOS QUE SUFREN MIEMBROS DE LA FUERZA PÚBLICA CON OCASIÓN A LA PRESTACIÓN DEL SERVICIO",
+      "subtema": "Jurisprudencia del Consejo de Estado"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Criterios específicos de procedibilidad"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Requisitos generales de procedibilidad"
+    }
+  ]
+}

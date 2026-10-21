@@ -1,0 +1,66 @@
+{
+  "radicado": "T-425-24",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2024,
+  "fecha_creacion": "2024-10-09",
+  "magistrado_ponente": "Antonio José Lizarazo Ocampo",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCIÓN DE TUTELA CONTRA DECISIONES JURISDICCIONALES EN PROCEDIMIENTOS POLICIVOS",
+  "subtema": "Procedencia por defecto fáctico por indebida valoración probatoria",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto Ley 2591 de 1991",
+    "Decreto 1575 de 2011",
+    "Ley 142 de 1993",
+    "Decreto 2580 de 1985",
+    "Decreto 960 de 1970",
+    "Ley 1579 de 2012",
+    "Acto Legislativo 3 de 2002",
+    "Ley 270 de 1996",
+    "Ley 1285 de 2009",
+    "Ley 1564 de 2012",
+    "Decreto 2591 de 1991",
+    "Ley 56 de 1981",
+    "Ley 142 de 1994",
+    "Decreto 2239 de 2009"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2024/T-425-24.htm",
+  "fecha_descarga": "2026-10-21T01:26:23.904500+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2024-10-09",
+  "fecha_publicacion": "2024-10-25",
+  "numero": "T-425/24",
+  "tipo_cc": "T",
+  "prov_id": "47430",
+  "tema_relatoria": "TUTELA EN PROCEDIMIENTO DE AMPARO POLICIVO POR PERTURBACIÓN A LA SERVIDUMBRE DE ENERGÍA ELÉCTRICA-OMISIÓN EN LA VALORACIÓN DE LA PRUEBA SUMARIA QUE PERMITÍA EL INICIO DE LAS OBRAS DE INFRAESTRUCTURA.",
+  "resumen": "En este caso se cuestionaron dos resoluciones expedidas en el marco de un proceso policivo por perturbación de servidumbre, mediante los cuales se negó el amparo solicitado porque no se encontró constituido plenamente el derecho de servidumbre de conducción eléctrica a favor de la empresa accionante. Se adujo que dichos actos incurrieron en los defectos fáctico y sustantivo, así como en falta de motivación. Se reiteró jurisprudencia relacionada con: 1º. La procedencia excepcional de la acción de tutela contra decisiones judiciales y, 2º. La naturaleza jurisdiccional de las decisiones adoptadas en ejercicio de la función de policía. Se AMPARÓ el derecho fundamental al debido proceso, se dejó sin efecto las resoluciones censuradas y se ordenó al Inspector accionado emitir una nueva decisión dentro del proceso de amparo policivo, tomando en consideración lo expresado en el presente fallo.",
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA DECISIONES JURISDICCIONALES EN PROCEDIMIENTOS POLICIVOS",
+      "subtema": "Procedencia por defecto fáctico por indebida valoración probatoria"
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA ACTUACIONES DE AUTORIDADES DE POLICIA EN EL CURSO DE UN PROCESO POLICIVO",
+      "subtema": "Requisitos generales y especiales de procedencia"
+    },
+    {
+      "tema": "SERVIDUMBRE",
+      "subtema": "Delimitación de competencias de la policía y justicia ordinaria"
+    },
+    {
+      "tema": "CONSTITUCION DE SERVIDUMBRE PUBLICA DE CONDUCCION DE ENERGIA ELECTRICA",
+      "subtema": "Reglas a que se somete"
+    },
+    {
+      "tema": "PROCESO POLICIVO",
+      "subtema": "Naturaleza jurisdiccional"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Requisito de subsidiariedad"
+    }
+  ]
+}

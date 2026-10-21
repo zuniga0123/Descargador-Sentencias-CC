@@ -1,0 +1,55 @@
+{
+  "radicado": "T-287-26",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2026,
+  "fecha_creacion": "2026-09-08",
+  "magistrado_ponente": "Natalia Ángel Cabo",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "PERJUICIO IRREMEDIABLE",
+  "subtema": "Inexistencia",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 2452 de 2025",
+    "Decreto 2158 de 1948"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2026/T-287-26.htm",
+  "fecha_descarga": "2026-10-20T20:54:36.329505+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2026-09-08",
+  "fecha_publicacion": "2026-09-23",
+  "numero": "T-287/26",
+  "tipo_cc": "T",
+  "prov_id": "61894",
+  "tema_relatoria": "Sin información",
+  "resumen": "La vulneración de derechos fundamentales que se alegó en el presente caso estuvo asociada a las causas que motivaron el despido de una trabajadora en tratamiento médico por un diagnóstico de una enfermedad crónico-degenerativa y a los límites a la autonomía contractual. Al revisar el cumplimiento de los presupuestos de procedencia de la acción de tutela encontró la Sala que no se acreditó el requisito de subsidiariedad. Por un lado, porque la accionante tenía a su alcance otro mecanismo judicial ordinario que resultaba idóneo y eficaz para resolver el caso concreto y por el otro, porque no se advirtió la presencia de un perjuicio irremediable que admitiera un amparo transitorio. Con base en lo anterior, se confirmó la decisión de instancia que declaró la IMPROCEDENCIA de la acción de tutela deprecada.",
+  "titulaciones": [
+    {
+      "tema": "PERJUICIO IRREMEDIABLE",
+      "subtema": "Inexistencia"
+    },
+    {
+      "tema": "LEGITIMACIÓN POR ACTIVA EN TUTELA",
+      "subtema": "Presentación por Personero Municipal"
+    },
+    {
+      "tema": "ACCION DE TUTELA Y PRINCIPIO DE SUBSIDIARIEDAD",
+      "subtema": "Requisito de procedibilidad"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Requisitos de procedencia"
+    },
+    {
+      "tema": "ACCION DE TUTELA EN MATERIA DE DERECHO A LA ESTABILIDAD LABORAL REFORZADA",
+      "subtema": "Improcedencia de reintegro por existir otro medio de defensa judicial y no acreditar perjuicio irremediable"
+    },
+    {
+      "tema": "MEDIO DE DEFENSA JUDICIAL EFICAZ",
+      "subtema": "Proceso ordinario laboral"
+    }
+  ]
+}

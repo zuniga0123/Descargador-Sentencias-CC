@@ -1,0 +1,48 @@
+{
+  "radicado": "C-163-22",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2022,
+  "fecha_creacion": "2022-05-11",
+  "magistrado_ponente": "Paola Andrea Meneses Mosquera",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "COSA JUZGADA CONSTITUCIONAL",
+  "subtema": "Efectos respecto de inexequibilidad",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 2098 de 2021",
+    "Ley 599 de 2000",
+    "Ley 906 de 2004",
+    "Ley 65 de 1993",
+    "Acto Legislativo 1 de 2018",
+    "Acto Legislativo 1 de 2020",
+    "Ley 270 de 1996",
+    "Decreto 2067 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2022/C-163-22.htm",
+  "fecha_descarga": "2026-10-21T08:18:10.459413+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2022-05-11",
+  "fecha_publicacion": "2022-06-22",
+  "numero": "C-163/22",
+  "tipo_cc": "C",
+  "prov_id": "37810",
+  "tema_relatoria": "PRISIÓN PERPETUA REVISABLE. REGLAMENTACIÓN.",
+  "resumen": "Demanda de inconstitucionalidad en contra de la Ley 2098 de 2021, por medio de la cual se reglamenta la prisión perpetua revisable y se reforma el Código Penal (Ley 599 de 2000), el Código de Procedimiento Penal (Ley 906 de 2004), el Código Penitenciario y Carcelario (Ley 65 de 1993) y se dictan otras disposiciones. Los demandantes alegaron que la precitada Ley desconoce el artículo 34 de la Constitución, así como la regla de decisión fijada en la Sentencia C-294/21. Según los actores, por mandato del constituyente, no pueden imponerse penas de prisión perpetua. La Corte constató, por un lado, la configuración del fenómeno de la cosa juzgada formal y del otro, el incumplimiento de las exigencias argumentativas de las demandas de inconstitucionalidad. Con base en lo anterior, decidió ESTARSE A LO RESUELTO en la Sentencia C-155/22 en relación con las normas de la Ley 2098/21 respecto de las cuales se declaró la inexequibilidad sobreviniente con efectos retroactivos y declararse INHIBIDA para pronunciarse de fondo sobre la constitucionalidad de los apartes demandados de los artículos 1 (inciso 2), 3 (num. 1), 4 (inc. Final), 8 (inc. 3), 10, 11, 26 (inc. Final), 27 y 28 ibidem, por la ineptitud sustantiva de la demanda.",
+  "titulaciones": [
+    {
+      "tema": "COSA JUZGADA CONSTITUCIONAL",
+      "subtema": "Efectos respecto de inexequibilidad"
+    },
+    {
+      "tema": "INHIBICION DE LA CORTE CONSTITUCIONAL POR INEPTITUD SUSTANTIVA DE LA DEMANDA",
+      "subtema": "Ausencia de carga mínima de argumentación"
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD CONTRA NORMAS QUE REGLAMENTAN LA PENA DE PRISION PERPETUA REVISABLE",
+      "subtema": "Estarse a lo resuelto en sentencia C-155 de 2022"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "radicado": "T-371-24",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2024,
+  "fecha_creacion": "2024-09-05",
+  "magistrado_ponente": "Jorge Enrique Ibáñez Najar",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "MORA JUDICIAL",
+  "subtema": "Alcance",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto Ley 2591 de 1991",
+    "Ley 136 de 1994",
+    "Ley 617 de 2000",
+    "Decreto 2591 de 1991",
+    "Ley 1437 de 2011",
+    "Decreto 306 de 1992",
+    "Ley 1475 de 2011",
+    "Decreto 1017 de 2017",
+    "Decreto 1069 de 2015",
+    "Decreto Ley 2241 de 1986"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2024/T-371-24.htm",
+  "fecha_descarga": "2026-10-21T01:29:15.386777+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2024-09-05",
+  "fecha_publicacion": "2024-09-16",
+  "numero": "T-371/24",
+  "tipo_cc": "T",
+  "prov_id": "47158",
+  "tema_relatoria": "DERECHOS A ELEGIR Y SER ELEGIDO Y A LA PARTICIPACIÓN POLÍTICA-IMPROCEDENCIA POR REQUISITO DE SUBSIDIARIEDAD (medio de control nulidad electoral-mecanismo idóneo y efectivo de protección)",
+  "resumen": "Como antecedentes de este caso se tiene que un ciudadano fue inscrito como candidato a la alcaldía de Santa Marta por orden judicial emitida en sentencia de tutela. De manera posterior se celebraron las elecciones en dicha ciudad y en ellas el referido candidato obtuvo 85.504 votos en pre-conteo de los mismos. Luego de lo anterior, el fallo de tutela se revocó en segunda instancia y declaró la improcedencia de la acción de tutela y como consecuencia de ello, la autoridad accionada declaró como votos no válidos los obtenidos por el ciudadano en mención. Según la actora, dicha decisión desconoció su derecho político a elegir y la voluntad popular de toda la comunidad samaria. Al verificar el cumplimiento de los requisitos de procedibilidad concluyó la Sala que en el presente caso no se cumplió el de subsidiariedad. Esto, porque la actuación administrativa de la cual forma parte el acto administrativo que declaró los referidos votos como no válidos había concluido al momento de presentarse la acción de tutela y, ante ello, el medio de control ordinario de nulidad electoral era un mecanismo idóneo y efectivo para proteger los derechos que se consideraban vulnerados. El anterior medio de control fue efectivamente ejercido ante la justicia de lo contencioso administrativo, en donde en la actualidad se tramita el respectivo proceso. Con base en lo anterior se declaró IMPROCEDENTE la solicitud de amparo deprecada.",
+  "titulaciones": [
+    {
+      "tema": "MORA JUDICIAL",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "REVOCATORIA DEL MANDATO",
+      "subtema": "Naturaleza de los actos administrativos en el trámite de revocatoria"
+    },
+    {
+      "tema": "ACTO DE TRAMITE Y ACTO DEFINITIVO",
+      "subtema": "Diferencias"
+    },
+    {
+      "tema": "ACCION DE NULIDAD ELECTORAL",
+      "subtema": "Mecanismo de defensa judicial para la discusión de actos electorales definitivos y de trámite"
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA ACTOS ADMINISTRATIVOS DE CARACTER ELECTORAL",
+      "subtema": "Improcedencia por existir acción de nulidad electoral y no demostrar perjuicio irremediable"
+    }
+  ]
+}

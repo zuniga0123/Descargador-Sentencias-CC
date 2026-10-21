@@ -1,0 +1,50 @@
+{
+  "radicado": "T-140-23",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2023,
+  "fecha_creacion": "2023-05-05",
+  "magistrado_ponente": "Alejandro Linares Cantillo",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCIÓN DE TUTELA CONTRA DECISIONES JUDICIALES EN PROCESO DISCIPLINARIO",
+  "subtema": "Improcedencia por incumplir requisitos de subsidiariedad y argumentación suficiente en identificar los hechos que generan la vulneración",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 734 de 2002",
+    "Ley 270 de 1996",
+    "Decreto Ley 2591 de 1991",
+    "Decreto 2591 de 1991",
+    "Acto Legislativo 2 de 2015",
+    "Ley 1952 de 2019"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2023/T-140-23.htm",
+  "fecha_descarga": "2026-10-21T04:22:41.953692+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2023-05-05",
+  "fecha_publicacion": "2023-05-16",
+  "numero": "T-140/23",
+  "tipo_cc": "T",
+  "prov_id": "40330",
+  "tema_relatoria": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES EN PROCESO JURISDICCIONAL DISCIPLINARIO-CONFIRMA INCUMPLIMIENTO DE REQUISITOS DE SUBSIDIARIEDAD Y FALTA DE ARGUMENTACIÓN SUFICIENTE EN LA IDENTIFICACIÓN DE LA VULNERACIÓN ALEGADA.",
+  "resumen": "En este caso se atribuye a la Comisión Nacional de Disciplina Judicial la vulneración de derechos fundamentales, a raíz de la sentencia proferida en desarrollo y trámite de un proceso jurisdiccional disciplinario que se adelantó en contra de la accionante en su calidad de funcionaria de la Rama Judicial, en el que fue sancionada con tres meses de suspensión por haber incurrido en una mora injustificada en el trámite de un proceso a su cargo. Se aduce que dicha decisión violó el derecho de defensa, el precedente constitucional y la propia Constitución. Luego de verificar el cumplimiento de los requisitos que habilitan la procedencia excepcional de la acción de tutela contra providencias judiciales, encontró la Corte que no se acreditaron los relacionados con la subsidiariedad y argumentación suficiente en la identificación de la vulneración alegada. Con base en lo anterior se confirmó la sentencia que declaró IMPROCEDENTE la acción de tutela deprecada.",
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA DECISIONES JUDICIALES EN PROCESO DISCIPLINARIO",
+      "subtema": "Improcedencia por incumplir requisitos de subsidiariedad y argumentación suficiente en identificar los hechos que generan la vulneración"
+    },
+    {
+      "tema": "COMISIÓN NACIONAL DE DISCIPLINA JUDICIAL",
+      "subtema": "Función jurisdiccional disciplinaria sobre funcionarios de la Rama Judicial"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Identificación de hechos y derechos vulnerados y presentación en el proceso judicial"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Requisito de subsidiariedad"
+    }
+  ]
+}

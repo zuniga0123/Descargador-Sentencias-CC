@@ -1,0 +1,47 @@
+{
+  "radicado": "T-315-24",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2024,
+  "fecha_creacion": "2024-07-31",
+  "magistrado_ponente": "Juan Carlos Cortés González Síntesis",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCIÓN DE TUTELA",
+  "subtema": "Improcedencia por cuanto el proceso disciplinario se encuentra en trámite",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 1952 de 2019",
+    "Decreto 2591 de 1991",
+    "Decreto Ley 274 de 2000"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2024/T-315-24.htm",
+  "fecha_descarga": "2026-10-21T01:31:20.385686+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2024-07-31",
+  "fecha_publicacion": "2024-08-22",
+  "numero": "T-315/24",
+  "tipo_cc": "T",
+  "prov_id": "46991",
+  "tema_relatoria": "ACCIÓN DE TUTELA POR ACTOS DE HOSTIGAMIENTO O ACOSO LABORAL EN EL LUGAR DE TRABAJO-CARENCIA DE JURISDICCIÓN (contrato de prestación de servicios profesionales celebrado en el extranjero). IMPROCEDENCIA REQUISITO DE SUBSIDIARIEDAD",
+  "resumen": "La solicitud de amparo fue formulada por una excontratista del Consulado de Colombia en la Ciudad de México, quien afirmó haber sido víctima de acoso laboral por parte del funcionario responsable de supervisar la ejecución de su contrato de prestación de servicios. Adujo que, como consecuencia de lo anterior, le fue terminado el contrato de forma irregular y anticipada, sin que se le prestara ningún tipo de protección ante esta situación, pese a haber formulado varias quejas disciplinarias ante los órganos competentes. En sede de tutela pidió que no se terminara su contrato y que se le permitiera continuar con el desarrollo de sus actividades, pero sin tener que interactuar con su agresor. La Corte determinó que carecía de jurisdicción para resolver la controversia sobre la validez de la terminación del contrato de prestación de servicios profesionales, por cuanto la misma debía ser dirimida por los jueces de los Estados Unidos Mexicanos. En relación con el tema del presunto acoso laboral, indicó que no se cumplió con el requisito de subsidiariedad, en tanto se acreditó que ante la Oficina de Control Interno del Ministerio de Relaciones Exteriores y en la Procuraduría General de la Nación están cursando procesos disciplinarios con ocasión de las denuncias promovidas por la actora. Se confirmaron las decisiones de instancia que declararon IMPROCEDENTE la acción de tutela deprecada.",
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Improcedencia por cuanto el proceso disciplinario se encuentra en trámite"
+    },
+    {
+      "tema": "PRINCIPIO DE INMUNIDAD DE JURISDICCION",
+      "subtema": "No es absoluto"
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA ORGANISMOS INTERNACIONALES",
+      "subtema": "Procede excepcionalmente cuando la inmunidad de jurisdicción es relativa o restringida"
+    },
+    {
+      "tema": "INMUNIDAD DE JURISDICCION RESTRINGIDA EN MATERIA LABORAL",
+      "subtema": "Jurisprudencia constitucional"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "radicado": "T-417-21",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-11-29",
+  "magistrado_ponente": "Paola Andrea Meneses Mosquera",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+  "subtema": "Improcedencia cuando no se ha agotado recurso extraordinario de casación en proceso ordinario laboral",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Acto Legislativo 1 de 2005",
+    "Ley 100 de 1993",
+    "Decreto 758 de 1990",
+    "Ley 797 de 2003",
+    "Decreto Ley 2591 de 1991",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2021/T-417-21.htm",
+  "fecha_descarga": "2026-10-21T08:26:56.730960+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2021-11-29",
+  "fecha_publicacion": "2022-01-18",
+  "numero": "T-417/21",
+  "tipo_cc": "T",
+  "prov_id": "36879",
+  "tema_relatoria": "ACCION DE TUTELA CONTRA PROVIDENCIAS JUDICIALES-IMPROCEDENCIA POR INCUMPLIR REQUISITO DE SUBSIDIARIEDAD PARA RECONOCIMIENTO PENSION DE VEJEZ",
+  "resumen": "La providencia judicial cuestionada se profirió en segunda instancia en el marco del proceso ordinario laboral que instauró el actor en contra de Colpensiones y negó la pretensión de reconocimiento y pago de una pensión de vejez. Se aduce que dicho fallo incurrió en defecto fáctico al no tener en cuenta la certificación laboral que emitió el empleador y mediante la cual se demostraba que el peticionario contaba con el mínimo de semanas cotizadas requeridas para acceder a la prestación, al igual que en defecto por desconocimiento del precedente, al desconocer la jurisprudencia de la Corte Constitucional sobre la mora en el pago de los aportes al subsistema de seguridad social en pensiones. La Corte determinó que la presente acción de tutela no satisface el requisito de subsidiariedad, toda vez que a la fecha de interposición de la solicitud de amparo el tutelante no había agotado los medios ordinarios de defensa, pues se encontraba en curso el recurso de casación, el cual es un medio idóneo y eficaz en el caso concreto, pues permitía estudiar de fondo los presuntos yerros en los que habría incurrido la autoridad judicial accionada. Se confirma la decisión de instancia que declaró IMPROCEDENTE el amparo invocado.",
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Improcedencia cuando no se ha agotado recurso extraordinario de casación en proceso ordinario laboral"
+    },
+    {
+      "tema": "RECURSO DE CASACION",
+      "subtema": "Medio idóneo para protección de derechos fundamentales"
+    },
+    {
+      "tema": "RECURSO EXTRAORDINARIO DE CASACION EN MATERIA LABORAL",
+      "subtema": "Funciones"
+    },
+    {
+      "tema": "ALLANAMIENTO A LA MORA EN EL PAGO EXTEMPORANEO DE APORTES Y COTIZACIONES PARA PENSION DE INVALIDEZ",
+      "subtema": "Reglas jurisprudenciales"
+    },
+    {
+      "tema": "PRINCIPIO DE SUBSIDIARIEDAD EN MATERIA PENSIONAL",
+      "subtema": "Reiteración de jurisprudencia"
+    },
+    {
+      "tema": "ADULTO MAYOR",
+      "subtema": "Sujeto de especial protección constitucional"
+    }
+  ]
+}

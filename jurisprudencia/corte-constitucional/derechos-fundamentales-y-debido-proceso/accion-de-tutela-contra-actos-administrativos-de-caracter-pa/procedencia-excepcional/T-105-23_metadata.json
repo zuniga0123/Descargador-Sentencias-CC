@@ -1,0 +1,60 @@
+{
+  "radicado": "T-105-23",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2023,
+  "fecha_creacion": "2023-04-18",
+  "magistrado_ponente": "José Fernando Reyes Cuartas",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCION DE TUTELA CONTRA ACTOS ADMINISTRATIVOS DE CARACTER PARTICULAR Y CONCRETO",
+  "subtema": "Procedencia excepcional",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 1437 de 2011",
+    "Decreto 196 de 1971",
+    "Decreto 2591 de 1991",
+    "Ley 1123 de 2007"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2023/T-105-23.htm",
+  "fecha_descarga": "2026-10-21T04:21:26.846715+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2023-04-18",
+  "fecha_publicacion": "2023-05-24",
+  "numero": "T-105/23",
+  "tipo_cc": "T",
+  "prov_id": "40366",
+  "tema_relatoria": "DEBIDO PROCESO ADMINISTRATIVO DISCIPLINARIO-NO VULNERACIÓN POR CUANTO LA SANCIÓN SE AJUSTÓ AL PROCEDIMIENTO LEGAL.",
+  "resumen": "En este caso se aduce que el ICBF vulneró los derechos fundamentales a la defensa, al debido proceso y los derechos de las niñas, niños y adolescentes beneficiarios de la Fundación accionante, como consecuencia de la cancelación de la licencia de funcionamiento. La actora prestaba un servicio público de bienestar familiar a jóvenes con discapacidad mental cognitiva y adolescentes con derechos inobservados, amenazados o vulnerados, pero en visita realizada por el Instituto se encontraron 61 hallazgos, es decir, falencias en el funcionamiento. Por lo anterior, se surtió el respectivo proceso administrativo sancionador y se canceló la licencia de funcionamiento. La Fundación pidió que se revoquen los actos administrativos mediante los cuales se canceló y se ratificó la cancelación de la licencia, se apliquen atenuantes por la corrección de los hallazgos y se pondere la dosificación de las sanciones. Luego de verificar los requisitos de procedencia de la acción de tutela, específicamente el de legitimación en la causa por activa, se analizó temática relacionada con el debido proceso administrativo sancionador. Por no encontrar la vulneración de garantías constitucionales alegadas por la parte actora, se DENIEGA el amparo invocado. Se ordena compulsar copias a la Comisión Nacional de Disciplina Judicial para que investigue el proceder de la persona que presentó la acción de tutela al poder estar incurso en falta disciplinaria.",
+  "titulaciones": [
+    {
+      "tema": "ACCION DE TUTELA CONTRA ACTOS ADMINISTRATIVOS DE CARACTER PARTICULAR Y CONCRETO",
+      "subtema": "Procedencia excepcional"
+    },
+    {
+      "tema": "DEBIDO PROCESO ADMINISTRATIVO SANCIONATORIO",
+      "subtema": "Características especiales"
+    },
+    {
+      "tema": "LEGITIMACION EN LA CAUSA POR ACTIVA EN TUTELA DE PERSONA JURIDICA",
+      "subtema": "Reglas jurisprudenciales"
+    },
+    {
+      "tema": "DERECHOS DE LOS NIÑOS, NIÑAS Y ADOLESCENTES",
+      "subtema": "Obligación del Estado de brindar una protección especial"
+    },
+    {
+      "tema": "DERECHO FUNDAMENTAL AL DEBIDO PROCESO ADMINISTRATIVO",
+      "subtema": "Alcance y contenido"
+    },
+    {
+      "tema": "DERECHOS DE LOS NIÑOS, NIÑAS Y ADOLESCENTES",
+      "subtema": "Regla de subsidiariedad es menos rigurosa y se debe atender de manera primordial el interés superior de los menores de edad"
+    },
+    {
+      "tema": "DERECHO A LA DEFENSA Y DEBIDO PROCESO ADMINISTRATIVO SANCIONATORIO",
+      "subtema": "Procedimiento disciplinario ajustado al marco legal"
+    }
+  ]
+}

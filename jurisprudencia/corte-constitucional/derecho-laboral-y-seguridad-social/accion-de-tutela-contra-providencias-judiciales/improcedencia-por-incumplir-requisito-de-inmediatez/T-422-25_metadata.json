@@ -1,0 +1,48 @@
+{
+  "radicado": "T-422-25",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2025,
+  "fecha_creacion": "2025-10-14",
+  "magistrado_ponente": "Jorge Enrique Ibáñez Najar",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+  "subtema": "Improcedencia por incumplir requisito de inmediatez",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 100 de 1993",
+    "Ley 797 de 2003",
+    "Ley 712 de 2001"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2025/T-422-25.htm",
+  "fecha_descarga": "2026-10-20T22:39:49.184689+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2025-10-14",
+  "fecha_publicacion": "2025-10-30",
+  "numero": "T-422/25",
+  "tipo_cc": "T",
+  "prov_id": "54833",
+  "tema_relatoria": "TUTELA CONTRA PROVIDENCIAS JUDICIALES Y DERECHO A LA PENSIÓN DE SOBREVIVIENTES-CONFIRMA IMPROCEDENCIA POR REQUISITO DE INMEDIATEZ.",
+  "resumen": "En este caso se cuestionaron las sentencias de primera y segunda instancia adoptadas al interior de un proceso ordinario laboral, mediante las cuales se negó a la accionante el reconocimiento de la pensión de sobrevivientes que solicitó, con fundamento en la falta de acreditación del requisito de fidelidad al sistema exigido para el momento en que se profirieron las providencias referidas, esto es, entre los años 2006 y 2007. Al realizar el estudio de procedibilidad de la acción de tutela contra providencia judiciales advirtió la Corte que no se superó el requisito de inmediatez. Ello, por cuanto la peticionaria dejó transcurrir un lapso de diecisiete años para acudir al amparo constitucional y porque no se advirtió la existencia de una amenaza o vulneración actual de derechos fundamentales. Así mismo, porque no hubo un actuar diligente de parte de la actora, ni circunstancias fácticas que justificaran razonablemente la tardanza y con ello, el deber del juez constitucional de proteger urgente e inmediatamente garantías constitucionales. Con base en lo anterior, se confirmaron las decisiones de instancia que declararon la IMPROCEDENCIA de la solicitud de amparo.",
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Improcedencia por incumplir requisito de inmediatez"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Casos en que niega reconocimiento de la pensión de sobrevivientes y de la pensión de invalidez, con el argumento de no cumplir requisito de fidelidad"
+    },
+    {
+      "tema": "PRINCIPIO DE INMEDIATEZ COMO REQUISITO DE PROCEDIBILIDAD DE LA ACCION DE TUTELA",
+      "subtema": "Debe ponderarse bajo el criterio del plazo razonable y oportuno"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Requisitos generales y especiales de procedibilidad"
+    }
+  ]
+}

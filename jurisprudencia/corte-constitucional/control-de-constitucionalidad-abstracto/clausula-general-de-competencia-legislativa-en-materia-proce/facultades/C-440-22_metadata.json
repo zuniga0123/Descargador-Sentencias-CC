@@ -1,0 +1,100 @@
+{
+  "radicado": "C-440-22",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2022,
+  "fecha_creacion": "2022-12-01",
+  "magistrado_ponente": null,
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "CLAUSULA GENERAL DE COMPETENCIA LEGISLATIVA EN MATERIA PROCESAL",
+  "subtema": "Facultades",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 1123 de 2007",
+    "Decreto 2067 de 1991",
+    "Decreto Ley 2067 de 1991",
+    "Ley 1952 de 2019",
+    "Ley 2094 de 2021",
+    "Ley 906 de 2004",
+    "Ley 270 de 1996",
+    "Acto Legislativo 2 de 2015",
+    "Decreto 196 de 1971",
+    "Ley 600 de 2000",
+    "Ley 23 de 1981",
+    "Ley 734 de 2002",
+    "Ley 1437 de 2011",
+    "Acto Legislativo 3 de 2002",
+    "Acto Legislativo 1 de 2018",
+    "Acto Legislativo 1 de 2017"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2022/C-440-22.htm",
+  "fecha_descarga": "2026-10-21T08:12:00.557813+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2022-12-01",
+  "fecha_publicacion": "2023-05-25",
+  "numero": "C-440/22",
+  "tipo_cc": "C",
+  "prov_id": "40375",
+  "tema_relatoria": "CÓDIGO DISCIPLINARIO DEL ABOGADO. TRÁMITE Y DECISIÓN EN PRIMERA INSTANCIA.",
+  "resumen": "Demanda de inconstitucionalidad contra los artículos 102 (parcial) y106 (parcial) de la Ley 1123 de 2007, por la cual se establece el Código Disciplinario del Abogado. El demandante considera que las disposiciones cuestionadas, en virtud de las cuales se establece que, en el marco de la actuación disciplinaria que se adelante contra los abogados en ejercicio, el magistrado al que corresponda por reparto la queja o informe llevará a cabo la instrucción a lo largo de la primera instancia hasta el momento en que se profiera sentencia por la sala plural respectiva, mismo funcionario que registrará el proyecto de fallo dentro de un término de cinco días, vulneran el debido proceso y las garantías judiciales de que son titulares los abogados en ejercicio, en tanto sujetos disciplinables, en los términos contenidos en los artículos 13, 29 y 93 de la Constitución Política y 8.1 de la Convención Americana sobre Derechos Humanos (CADH). La Corte concluyó que los enunciados normativos demandados no comportan una violación de las garantías constitucionales de que son titulares los profesionales del derecho sometidos al régimen contemplado en la Ley 1123 de 2007. También señaló que el Legislador, conforme a la amplia potestad de configuración que le confiere la Carta Política en la materia, conserva la facultad de introducir o no modificaciones dentro del procedimiento sancionatorio a que se alude. Se declaran EXEQUIBLES los enunciados “hasta el momento de dictar sentencia, determinación que se emitirá por la Sala plural respectiva” y “[e]l magistrado ponente dispondrá de cinco (5) días para registrar el proyecto de fallo”, contenidos respectivamente en el inciso 2º del artículo 102 y en el inciso 4º del artículo 106 de la Ley 1123 de 2007.",
+  "titulaciones": [
+    {
+      "tema": "CLAUSULA GENERAL DE COMPETENCIA LEGISLATIVA EN MATERIA PROCESAL",
+      "subtema": "Facultades"
+    },
+    {
+      "tema": "PROCESO DISCIPLINARIO CONTRA LOS ABOGADOS",
+      "subtema": "Concurrencia de funciones de instrucción y de juzgamiento en un mismo funcionario"
+    },
+    {
+      "tema": "JUICIO DE PROPORCIONALIDAD",
+      "subtema": "Niveles de intensidad"
+    },
+    {
+      "tema": "CONCURENCIA DE FUNCIONES DE INSTRUCCIÓN Y JUZGAMIENTO EN PROCESOS SANCIONATORIOS",
+      "subtema": "No vulnera el principio de imparcialidad"
+    },
+    {
+      "tema": "CONCURRENCIA DE FUNCIONES DE INSTRUCCIÓN Y JUZGAMIENTO EN PROCESOS SANCIONATORIOS",
+      "subtema": "Jurisprudencia constitucional"
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD POR VULNERACION DEL PRINCIPIO DE IGUALDAD",
+      "subtema": "Requisitos en la carga argumentativa"
+    },
+    {
+      "tema": "LIBERTAD DE CONFIGURACION LEGISLATIVA EN MATERIA PROCESAL",
+      "subtema": "Límites"
+    },
+    {
+      "tema": "LIBERTAD DE CONFIGURACION LEGISLATIVA EN MATERIA PROCESAL",
+      "subtema": "Reiteración de jurisprudencia"
+    },
+    {
+      "tema": "JUICIO DE PROPORCIONALIDAD",
+      "subtema": "Intensidad leve"
+    },
+    {
+      "tema": "INTEGRACION DE UNIDAD NORMATIVA",
+      "subtema": "Improcedencia"
+    },
+    {
+      "tema": "PRINCIPIO DE IMPARCIALIDAD EN EL DEBIDO PROCESO DISCIPLINARIO",
+      "subtema": "Operancia"
+    },
+    {
+      "tema": "PRINCIPIO DE IMPARCIALIDAD JUDICIAL",
+      "subtema": "Jurisprudencia Constitucional"
+    },
+    {
+      "tema": "COSA JUZGADA CONSTITUCIONAL FORMAL RELATIVA",
+      "subtema": "Configuración"
+    },
+    {
+      "tema": "PRINCIPIO DE IMPARCIALIDAD JUDICIAL",
+      "subtema": "Garantía integrante del debido proceso"
+    }
+  ]
+}

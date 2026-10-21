@@ -1,0 +1,55 @@
+{
+  "radicado": "T-320-25",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2025,
+  "fecha_creacion": "2025-07-25",
+  "magistrado_ponente": "Natalia Ángel Cabo",
+  "area": "Derecho Penal y Sistema Acusatorio",
+  "tema": "ACCIÓN DE TUTELA",
+  "subtema": "Procede para que a una persona privada de la libertad se le garantice el acceso al servicio de salud",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 65 de 1993",
+    "Ley 1709 de 2014",
+    "Ley 599 de 2000",
+    "Decreto 4000 de 2014",
+    "Ley 55 de 1985",
+    "Ley 906 de 2004"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2025/T-320-25.htm",
+  "fecha_descarga": "2026-10-20T22:44:48.294502+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2025-07-25",
+  "fecha_publicacion": "2025-08-22",
+  "numero": "T-320/25",
+  "tipo_cc": "T",
+  "prov_id": "53365",
+  "tema_relatoria": "CONDICIONES DE INGRESO DE ABOGADOS Y MÉDICOS PARTICULARES A CENTROS PENITENCIARIOS Y CARCELARIOS, PARA ACREDITAR EL ESTADO DE SALUD DE LA PERSONA PRIVADA DE LA LIBERTAD (incompatibilidad con la reclusión intramural).",
+  "resumen": "El accionante es una persona privada de la libertad debido a la imposición de una medida de aseguramiento consistente en detención preventiva en establecimiento carcelario. Como resultado de un atentado perpetuado cuando se transportaba en un vehículo del INPEC el peticionario sufrió graves heridas y estuvo internado en una unidad de cuidados intensivos durante un mes. Por lo anterior, la defensa buscó la sustitución de la medida de detención preventiva por domiciliaria y se solicitó el ingreso de los abogados y de un médico particular a la cárcel con el fin de realizar un examen médico general para determinar el estado de salud actual del interno. La anterior pretensión se denegó con fundamento en la inexistencia de una orden judicial que permitiera el ingreso. La precitada negativa es la que se considera trasgresora de derechos fundamentales. En sede de revisión la Sala tuvo conocimiento de que el médico particular y el abogado del peticionario ingresaron al establecimiento penitenciario, por lo cual se declaró la carencia actual de objeto por HECHO SUPERADO. No obstante, la Corte hizo un pronunciamiento de fondo sobre el asunto con el fin de evitar la repetición de los hechos que dieron origen a la solicitud de amparo. Para el efecto se ordenó al INPEC expedir una circular administrativa dirigida a los establecimientos de reclusión en la que, en desarrollo del contenido de la Sentencia C-163/19, la presente sentencia y el contenido actual del artículo 106 de la Ley 65 de 1993, precise las condiciones de ingreso a los establecimientos carcelarios de los médicos particulares con el fin de acreditar si el estado de salud de una persona privada de la libertad resulta incompatible con la reclusión intramural. Se preciso que estas condiciones no podrán estar sujetas a autorización judicial.",
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Procede para que a una persona privada de la libertad se le garantice el acceso al servicio de salud"
+    },
+    {
+      "tema": "DERECHOS AL DEBIDO PROCESO Y AL ACCESO A LA ADMINISTRACIÓN DE JUSTICIA",
+      "subtema": "Ingreso de abogados a establecimientos penitenciarios y carcelarios"
+    },
+    {
+      "tema": "CARENCIA ACTUAL DE OBJETO POR HECHO SUPERADO",
+      "subtema": "No impide a la Corte Constitucional pronunciamiento de fondo sobre la existencia de una violación de derechos fundamentales y futuras violaciones"
+    },
+    {
+      "tema": "DERECHOS AL DEBIDO PROCESO Y AL ACCESO A LA ADMINISTRACIÓN DE JUSTICIA",
+      "subtema": "Ingreso de médicos particulares a establecimientos penitenciarios y carcelarios"
+    },
+    {
+      "tema": "CARENCIA ACTUAL DE OBJETO POR HECHO SUPERADO",
+      "subtema": "Configuración"
+    }
+  ]
+}

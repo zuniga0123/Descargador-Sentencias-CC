@@ -1,0 +1,52 @@
+{
+  "radicado": "T-146-25",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2025,
+  "fecha_creacion": "2025-04-28",
+  "magistrado_ponente": "Miguel Polo Rosero",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "PENSIONES ADQUIRIDAS CON ABUSO DEL DERECHO",
+  "subtema": "Criterios para identificar eventos en los que el abuso del derecho emerge de modo palmario",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Decreto 1148 de 1969",
+    "Ley 797 de 2004",
+    "Ley 33 de 1985",
+    "Decreto 1848 de 1969",
+    "Decreto 3041 de 1966",
+    "Decreto 575 de 2013",
+    "Ley 797 de 2003",
+    "Decreto Ley 2591 de 1991",
+    "Ley 1437 de 2011",
+    "Decreto 1265 de 1970",
+    "Acto Legislativo 1 de 2005"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2025/T-146-25.htm",
+  "fecha_descarga": "2026-10-20T22:52:33.701538+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2025-04-28",
+  "fecha_publicacion": "2025-05-08",
+  "numero": "T-146/25",
+  "tipo_cc": "T",
+  "prov_id": "48597",
+  "tema_relatoria": "TUTELA CONTRA PROVIDENCIAS JUDICIALES, MEDIO DE CONTROL DE NULIDAD Y RESTABLECIMIENTO DEL DERECHO EN MATERIA PENSIONAL-REQUISITO DE SUBSIDIARIEDAD, DEBE AGOTARSE EL RECURSO EXTRAORDINARIO DE REVISIÓN.",
+  "resumen": "En este caso la UGPP censuró una decisión judicial que declaró la nulidad de la resolución que negó el reconocimiento de una pensión de sobrevivientes y ordenó su reconocimiento y pago, en aplicación de las disposiciones contenidas en la Ley 100 de 1993, con base en los principios de favorabilidad y retrospectividad. Se adujo que dicho fallo incurrió en (i) defecto fáctico por defectuosa valoración probatoria; (ii) defecto sustantivo por indebida interpretación de la ley y, (iii) desconocimiento del precedente. De manera específica se alegó que la autoridad accionada realizó una indebida aplicación del principio de retrospectividad de la ley, desconoció que la Ley 100 de 1993 señaló que sus efectos rigen hacia el futuro y no es aplicable en casos anteriores al 1º de abril de 1994, pasó por alto que el afiliado no cumplía con el requisito legal de veinte años de servicio exigidos por el Decreto 1148 de 1969 y las disposiciones legales vigentes, y desconoció el contenido de las sentencias SU.427/16 y T-494/18. Se reiteró jurisprudencia relacionada con la procedencia de la acción de tutela contra providencias judiciales que decretan sumas periódicas a cargo del tesoro público o de fondos de naturaleza pública y se concluyó que la solicitud de amparo resultaba IMPROCEDENTE por incumplir el requisito de subsidiariedad. Ello, por cuanto el recurso extraordinario de revisión constituye el medio idóneo y eficaz para alegar la falta requisitos legales en el reconocimiento de una pensión.",
+  "titulaciones": [
+    {
+      "tema": "PENSIONES ADQUIRIDAS CON ABUSO DEL DERECHO",
+      "subtema": "Criterios para identificar eventos en los que el abuso del derecho emerge de modo palmario"
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA PROVIDENCIAS JUDICIALES EN MATERIA DE RELIQUIDACION PENSIONAL",
+      "subtema": "Improcedencia por incumplir requisito de subsidiariedad por cuanto UGPP cuenta-o contaba-con el recurso extraordinario de revisión"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Requisitos generales de procedibilidad"
+    }
+  ]
+}

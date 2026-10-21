@@ -1,0 +1,61 @@
+{
+  "radicado": "T-123-22",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2022,
+  "fecha_creacion": "2022-04-01",
+  "magistrado_ponente": "José Fernando Reyes Cuartas",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "SOLICITUD DE CUMPLIMIENTO DE SENTENCIA DE TUTELA E INCIDENTE DE DESACATO",
+  "subtema": "Son medios idóneos y eficaces para exigir el cumplimiento de las sentencias de tutela",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Acto Legislativo 5 de 2017",
+    "Ley 1437 de 2011",
+    "Ley 1757 de 2015",
+    "Ley 16 de 1972",
+    "Ley 74 de 1968",
+    "Decreto 457 de 2020",
+    "Decreto 847 de 2020",
+    "Decreto 1069 de 2015"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2022/T-123-22.htm",
+  "fecha_descarga": "2026-10-21T08:07:19.330128+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2022-04-01",
+  "fecha_publicacion": "2022-05-03",
+  "numero": "T-123/22",
+  "tipo_cc": "T",
+  "prov_id": "37630",
+  "tema_relatoria": "ACCION DE TUTELA CONTRA ACTUACIONES EN EL MARCO DE CUMPLIMIENTO SENTENCIA T-361-17 DE LA CORTE CONSTITUCIONAL.IMPROCEDENCIA",
+  "resumen": "El accionante es Representante a la Cámara por el departamento de Santander y actúa como agente oficioso de un grupo de habitantes del Páramo de Santurbán. Considera que la autoridad judicial cuestionada vulneró los derechos fundamentales al debido proceso, a la igualdad, a la participación ambiental, así como el precedente judicial establecido en la Sentencia T-361/17, al ordenar continuar con el proceso de delimitación del precitado Páramo a través de la realización de mesas de trabajo virtuales dentro de la fase de concertación, sin tener en cuenta las características de la población campesina paramuna, el contexto de ruralidad, la falta de conectividad y el nivel de acceso a las herramientas digitales. Para el actor, no se evalúo si existían o no limitaciones en el ejercicio de la participación ambiental y con ello, se incurrió en los defectos fáctico, procedimental y decisión sin motivación. Luego de analizar temática relacionada con la procedencia excepcional de la acción de tutela contra providencias judiciales y de verificar el cumplimiento de los requisitos de dicha procedencia, encontró la Sala de Revisión que no se satisfizo el de subsidiariedad. Ello, porque el peticionario tenía a su alcance otro medio de defensa judicial idóneo y eficaz ante la misma autoridad accionada, como lo es la solicitud de cumplimiento y el incidente de desacato, así como la posibilidad de solicitar a la Corte que asumiera el seguimiento de la Sentencia T-361/17 antes acudir a una nueva solicitud de amparo para reclamar la efectividad de las órdenes dictadas como consecuencia de una acción de tutela anterior. Se confirma la decisión de instancia que declaró IMPROCEDENTE el amparo invocado.",
+  "titulaciones": [
+    {
+      "tema": "SOLICITUD DE CUMPLIMIENTO DE SENTENCIA DE TUTELA E INCIDENTE DE DESACATO",
+      "subtema": "Son medios idóneos y eficaces para exigir el cumplimiento de las sentencias de tutela"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES EN TRÁMITE DE CUMPLIMIENTO O INCIDENTE DE DESACATO DE SENTENCIA DE TUTELA",
+      "subtema": "Improcedencia por incumplir requisito de subsidiariedad"
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA PROVIDENCIAS JUDICIALES QUE RESUELVEN LAS SOLICITUDES DE DESACATO Y DE CUMPLIMIENTO DE LOS FALLOS DE TUTELA",
+      "subtema": "Procedencia excepcional"
+    },
+    {
+      "tema": "CUMPLIMIENTO FALLO DE TUTELA E INCIDENTE DE DESACATO",
+      "subtema": "Competencia del juez de primera instancia"
+    },
+    {
+      "tema": "CORTE CONSTITUCIONAL",
+      "subtema": "Competencia excepcional para conocer trámite de cumplimiento fallo de tutela"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Requisitos generales y especiales de procedibilidad"
+    }
+  ]
+}

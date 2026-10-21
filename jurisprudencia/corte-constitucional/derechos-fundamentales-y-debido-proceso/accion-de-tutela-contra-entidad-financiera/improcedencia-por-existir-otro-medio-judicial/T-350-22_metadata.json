@@ -1,0 +1,46 @@
+{
+  "radicado": "T-350-22",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2022,
+  "fecha_creacion": "2022-10-07",
+  "magistrado_ponente": "Hernán Correa Cardozo",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCION DE TUTELA CONTRA ENTIDAD FINANCIERA",
+  "subtema": "Improcedencia por existir otro medio judicial",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 1480 de 2011",
+    "Decreto 667 de 2020",
+    "Ley 1328 de 2009",
+    "Ley 1276 de 2009",
+    "Ley 1564 de 2012"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2022/T-350-22.htm",
+  "fecha_descarga": "2026-10-21T07:57:27.795932+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2022-10-07",
+  "fecha_publicacion": "2022-11-11",
+  "numero": "T-350/22",
+  "tipo_cc": "T",
+  "prov_id": "38929",
+  "tema_relatoria": "ACCIÓN DE TUTELA PARA DIRIMIR CONTROVERSIAS ECONÓMICAS Y CONTRACTUALES RELACIONADAS CON LA PROTECCIÓN DEL CONSUMIDOR FINANCIERO-IMPROCEDENCIA POR INCUMPLIMIENTO DEL PRESUPUESTO DE SUBSIDIARIEDAD, ANTE LA EXISTENCIA DE MEDIO DEFENSA JURISDICCIONAL Y NO ACREDITAR PERJUICIO IRREMEDIABLE.",
+  "resumen": "En este caso se aduce que Bancolombia S.A vulneró derechos fundamentales al negar la posibilidad de que el actor pagara la suma de dinero ofrecida telefónicamente por uno de sus asesores para realizar un acuerdo de pago respecto a un crédito hipotecario, la cual correspondía al valor del capital de la deuda luego de descontar los honorarios de los abogados, así como los intereses corrientes y de mora. Según el peticionario, el banco le cambió las reglas de juego al no sostener la oferta que inicialmente le planteó. Además de lo anterior el accionante solicitó suspender cualquier intento del banco para rematar su bien inmueble. Luego de verificar los requisitos de procedencia de la acción de tutela se declara la IMPROCEDENCIA de la misma, por incumplir el de subsidiariedad y por no acreditarse la afectación de las garantías constitucionales invocados.",
+  "titulaciones": [
+    {
+      "tema": "ACCION DE TUTELA CONTRA ENTIDAD FINANCIERA",
+      "subtema": "Improcedencia por existir otro medio judicial"
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA ENTIDAD FINANCIERA",
+      "subtema": "Procedencia excepcional"
+    },
+    {
+      "tema": "SOLICITUD DE CUMPLIMIENTO DE SENTENCIA DE TUTELA E INCIDENTE DE DESACATO",
+      "subtema": "Son medios idóneos y eficaces para exigir el cumplimiento de las sentencias de tutela"
+    }
+  ]
+}

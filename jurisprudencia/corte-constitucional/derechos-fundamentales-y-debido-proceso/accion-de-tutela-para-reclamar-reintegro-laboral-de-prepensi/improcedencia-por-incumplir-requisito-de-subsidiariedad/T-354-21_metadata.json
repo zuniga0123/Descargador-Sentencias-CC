@@ -1,0 +1,45 @@
+{
+  "radicado": "T-354-21",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-10-15",
+  "magistrado_ponente": "Alejandro Linares Cantillo",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCION DE TUTELA PARA RECLAMAR REINTEGRO LABORAL DE PREPENSIONADO",
+  "subtema": "Improcedencia por incumplir requisito de subsidiariedad",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 1149 de 2007",
+    "Ley 100 de 1993",
+    "Decreto 4369 de 2006",
+    "Ley 82 de 1993"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2021/T-354-21.htm",
+  "fecha_descarga": "2026-10-21T08:29:18.683079+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2021-10-15",
+  "fecha_publicacion": "2021-12-01",
+  "numero": "T-354/21",
+  "tipo_cc": "T",
+  "prov_id": "36700",
+  "tema_relatoria": "ACCION DE TUTELA EN MATERIA DE DERECHO A LA ESTABILIDAD LABORAL REFORZADA-IMPROCEDENCIA DE REINTEGRO POR EXISTIR OTRO MEDIO DE DEFENSA JUDICIAL Y NO ACREDITAR PERJUICIO IRREMEDIABLE",
+  "resumen": "La vulneración de derechos fundamentales por parte de las entidades accionadas se atribuye a la terminación del contrato de trabajo de la actora, de manera verbal, sin una justa causa comprobada y sin la autorización de la autoridad del trabajo, pese que ostentaba la condición de pre pensionada. Al analizar los presupuestos de procedencia de la acción de tutela, La Corte concluyó que la presente demanda resulta IMPROCEDENTE ante el incumplimiento del requisito de subsidiariedad. Ello, al evidenciar que existe un medio de defensa no solamente idóneo, sino también eficaz, frente a las circunstancias concretas de la accionante, como lo es el proceso ante la jurisdicción ordinaria laboral. Así mismo, porque no evidenció en el expediente pruebas que acreditaran la existencia de una situación que ameritara una protección transitoria mediante la ocurrencia de perjuicio irremediable, en los términos exigidos por la jurisprudencia constitucional.",
+  "titulaciones": [
+    {
+      "tema": "ACCION DE TUTELA PARA RECLAMAR REINTEGRO LABORAL DE PREPENSIONADO",
+      "subtema": "Improcedencia por incumplir requisito de subsidiariedad"
+    },
+    {
+      "tema": "PRINCIPIO DE SUBSIDIARIEDAD",
+      "subtema": "Procedencia de la acción de tutela para evitar un perjuicio irremediable pese a existir otro medio de defensa judicial"
+    },
+    {
+      "tema": "DERECHO A LA ESTABILIDAD LABORAL REFORZADA",
+      "subtema": "Procedencia excepcional de la acción de tutela para su protección cuando el trabajador se encuentra en estado de debilidad manifiesta"
+    }
+  ]
+}

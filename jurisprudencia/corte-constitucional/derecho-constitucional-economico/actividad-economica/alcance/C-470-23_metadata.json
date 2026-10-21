@@ -1,0 +1,112 @@
+{
+  "radicado": "C-470-23",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2023,
+  "fecha_creacion": "2023-11-08",
+  "magistrado_ponente": "Jorge Enrique Ibáñez Najar",
+  "area": "Derecho Constitucional Económico",
+  "tema": "ACTIVIDAD ECONOMICA",
+  "subtema": "Alcance",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 2283 de 2023",
+    "Ley 769 de 2002",
+    "Decreto Ley 2067 de 1991",
+    "Decreto 2067 de 1991",
+    "Decreto 1079 de 2015",
+    "Ley 84 de 1873",
+    "Ley 105 de 1993",
+    "Decreto 1595 de 2015",
+    "Ley 270 de 1996",
+    "Ley 100 de 1993",
+    "Decreto Ley 663 de 1993",
+    "Decreto 56 de 2015",
+    "Ley 377 de 2022",
+    "Ley 2251 de 2022",
+    "Decreto Ley 2106 de 2019",
+    "Ley 2050 de 2020"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2023/C-470-23.htm",
+  "fecha_descarga": "2026-10-21T04:27:25.332233+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2023-11-08",
+  "fecha_publicacion": "2024-04-03",
+  "numero": "C-470/23",
+  "tipo_cc": "C",
+  "prov_id": "45951",
+  "tema_relatoria": "INCONSTITUCIONALIDAD DE NORMA QUE PREVÉ OBLIGACIÓN DE LOS CENTROS DE DIAGNÓSTICO AUTOMOTOR (CDA) DE TOMAR UN SEGURO DE RESPONSABILIDAD CIVIL EXTRACONTRACTUAL PARA AMPARAR LOS DAÑOS CAUSADOS A TERCEROS, SIN COSTO PARA EL USUARIO QUE REALICE LA REVISIÓN TÉCNICO-MECÁNICA.",
+  "resumen": "Demanda de inconstitucionalidad en contra del artículo 6 de la Ley 2283 de 2023, por medio de la cual se modifica la Ley 769 de 2002, se reglamenta la actividad de los organismos de apoyo al tránsito, garantizando el buen funcionamiento de los centros de enseñanza automovilística -CEA-, como mecanismo de prevención y amparo de la siniestralidad vial, y se dictan otras disposiciones. El actor considera que dicha disposición demandada vulnera el artículo 333 de la Constitución, el cual garantiza el derecho a la libertad económica e iniciativa privada. Esto, porque crea una obligación a cargo de los Centros de Diagnóstico Automotor (CDA) consistente en adquirir y pagar, en calidad de tomador, una póliza de seguro para cubrir la responsabilidad civil extracontractual respecto de los vehículos en los que se realicen las revisiones técnico-mecánicas en sus establecimientos. Según el demandante, dicha carga es desproporcionada e irracional frente a las competencias y responsabilidades de los CDA. Concluyó la Corte que la disposición demandada viola el núcleo esencial de la libertad de empresa dentro del marco de libertad económica e iniciativa privada que garantiza el artículo 333 Superior, al interferir en los asuntos internos de la empresa e impedir que perciban un beneficio económico razonable al tener que constituir una póliza de seguro, a cargo de su patrimonio y destinada a amparar cualquier riesgo de responsabilidad extracontractual, incluyendo aquellos que son ajenos al servicio que prestan a la comunidad. Con base en lo anterior, se declaró INEXEQUIBLE.",
+  "titulaciones": [
+    {
+      "tema": "ACTIVIDAD ECONOMICA",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "CONTRATO DE SEGUROS",
+      "subtema": "Elementos esenciales"
+    },
+    {
+      "tema": "CONTRATO DE SEGUROS",
+      "subtema": "Carácter consensual, bilateral, oneroso y de ejecución sucesiva"
+    },
+    {
+      "tema": "LIBERTAD ECONOMICA",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "LIBERTADES ECONOMICAS",
+      "subtema": "No son absolutas"
+    },
+    {
+      "tema": "SEGURO OBLIGATORIO DE ACCIDENTES DE TRÁNSITO",
+      "subtema": "Alcance de la competencia del legislador para su regulación"
+    },
+    {
+      "tema": "SEGURO DE DAÑOS",
+      "subtema": "Es voluntario"
+    },
+    {
+      "tema": "JUICIO DE PROPORCIONALIDAD",
+      "subtema": "Niveles de intensidad"
+    },
+    {
+      "tema": "CONTROL DE CONSTITUCIONALIDAD",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "CORTE CONSTITUCIONAL",
+      "subtema": "Control de constitucionalidad con normas no invocadas"
+    },
+    {
+      "tema": "ACTIVIDAD ASEGURADORA",
+      "subtema": "Presupuestos constitucionales que rigen su desarrollo"
+    },
+    {
+      "tema": "LIBERTAD DE EMPRESA",
+      "subtema": "Garantías que comprende"
+    },
+    {
+      "tema": "LIBERTAD DE EMPRESA",
+      "subtema": "Concepto"
+    },
+    {
+      "tema": "ECONOMIA SOCIAL DE MERCADO",
+      "subtema": "Contenido y alcance"
+    },
+    {
+      "tema": "JUICIO DE PROPORCIONALIDAD",
+      "subtema": "Intensidad leve"
+    },
+    {
+      "tema": "SEGURO OBLIGATORIO DE ACCIDENTES DE TRÁNSITO",
+      "subtema": "Normas reguladoras"
+    },
+    {
+      "tema": "LIBERTAD ECONÓMICA, INICIATIVA PRIVADA Y LIBERTAD DE EMPRESA",
+      "subtema": "Se vulnera en norma que obliga a Centros de Diagnóstico Automotor a tomar un seguro de responsabilidad civil extracontractual ajeno a su actividad económica"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "radicado": "SU155-23",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2023,
+  "fecha_creacion": "2023-05-11",
+  "magistrado_ponente": "Diana Fajardo Rivera",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+  "subtema": "No en todos los casos puede el juez constitucional sustituir al juez ordinario en la decisión o cuando hay trámites o actuaciones pendientes",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto Ley 2591 de 1991",
+    "Decreto 2591 de 1991",
+    "Ley 906 de 2004",
+    "Ley 1437 de 2011",
+    "Ley 797 de 2003",
+    "Ley 169 de 1890"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2023/SU155-23.htm",
+  "fecha_descarga": "2026-10-21T04:38:33.557537+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2023-05-11",
+  "fecha_publicacion": "2023-07-13",
+  "numero": "SU.155/23",
+  "tipo_cc": "SU",
+  "prov_id": "43041",
+  "tema_relatoria": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES EN MEDIO DE CONTROL DE REPARACIÓN DIRECTA-CONCEDE AMPARO. CONFIGURACIÓN DEL DEFECTO FÁCTICO.",
+  "resumen": "En este caso se ataca la decisión judicial proferida al interior de una demanda de reparación directa interpuesta por los accionantes en contra de entidades de carácter hospitalario, con ocasión de los perjuicios causados por la falla en la prestación del servicio médico que conllevó a la muerte de su hermano, al no efectuar un diagnóstico oportuno y, por tanto, no dar el tratamiento adecuado. Con la precitada providencia se revocó el favorable adoptado en primera instancia y, en su lugar, se negó la declaración del daño antijurídico y, por lo tanto, la reparación de los perjuicios causados como consecuencia del referido deceso. Se aduce que la mencionada providencia incurrió en los defectos fáctico y desconocimiento del precedente, debido a que no valoró adecuadamente el acervo probatorio y no tuvo en cuenta algunos pronunciamientos del Consejo de Estado relacionados con la falla en el servicio en casos de responsabilidad médica. Se reitera jurisprudencia relacionada con la procedencia excepcional de la acción de tutela contra providencias judiciales y se hace una caracterización de los defectos invocados y se concluye que la decisión cuestionada incurrió en un defecto fáctico por una indebida, irrazonable o arbitraria valoración probatoria de aquello que se desprendía de la historia clínica y de las pruebas testimoniales, en el sentido de que indicaban una actuación negligente en la atención médica brindada al paciente por las instituciones demandadas. Se CONCEDE el amparo invocado.",
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "No en todos los casos puede el juez constitucional sustituir al juez ordinario en la decisión o cuando hay trámites o actuaciones pendientes"
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA PROVIDENCIAS JUDICIALES POR DEFECTO FACTICO",
+      "subtema": "Reiteración de jurisprudencia"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES EN MEDIO DE CONTROL DE REPARACIÓN DIRECTA",
+      "subtema": "Vulneración del debido proceso por defecto fáctico en la valoración de la falla en el servicio médico"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Debió negarse el amparo por cuanto resulta errada la comprensión del defecto fáctico, desconociendo la autonomía judicial del Consejo de Estado"
+    },
+    {
+      "tema": "CARACTERIZACION DEL DEFECTO POR DESCONOCIMIENTO DEL PRECEDENTE JUDICIAL",
+      "subtema": null
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Requisitos generales de procedibilidad"
+    }
+  ]
+}

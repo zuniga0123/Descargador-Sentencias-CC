@@ -1,0 +1,49 @@
+{
+  "radicado": "C-100-26",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2026,
+  "fecha_creacion": "2026-04-22",
+  "magistrado_ponente": "Paola Andrea Meneses Mosquera",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "INHIBICION DE LA CORTE CONSTITUCIONAL EN DEMANDA DE INCONSTITUCIONALIDAD POR OMISION LEGISLATIVA RELATIVA",
+  "subtema": "Cargo desconoce alcance y contexto de la norma",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 906 de 2004",
+    "Decreto 2067 de 1991",
+    "Ley 600 de 2000",
+    "Ley 599 de 2000",
+    "Ley 153 de 1887"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2026/C-100-26.htm",
+  "fecha_descarga": "2026-10-20T21:07:58.814220+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2026-04-22",
+  "fecha_publicacion": "2026-07-03",
+  "numero": "C-100/26",
+  "tipo_cc": "C",
+  "prov_id": "61336",
+  "tema_relatoria": "Fallo inhibitorio por ineptitud sustantiva de la demanda formulada en contra de disposiciones del Código de Procedimiento Penal que regulan el incidente de reparación integral en el proceso penal. Incumplimiento de requisitos para configurar un cargo por omisión legislativa relativa.",
+  "resumen": "Demanda de inconstitucionalidad contra los artículos 102, 103, 104, 105 y 106 de la Ley 906 de 2004, por la cual se expide el Código de Procedimiento Penal. Con los precitados artículos se regula el incidente de reparación integral en el proceso penal. Los demandantes alegaron que el legislador omitió fijar un límite temporal a la precitada figura y que con ello incurrió en una omisión legislativa relativa. Solicitaron a la Corporación dictar una sentencia integradora en la que se llene el vacío normativo de manera transitoria, aplicando por analogía una regla existente mientras se exhorta al Congreso a expedir una regulación definitiva. Asimismo, solicitaron que, en el entretanto, se disponga que el término de prescripción para iniciar el incidente de reparación integral sea igual al término de prescripción de la acción penal del delito por el cual se profirió la respectiva sentencia condenatoria. Al revisar los requisitos de aptitud sustantiva exigidos por la jurisprudencia constitucional para los cargos por omisión legislativa relativa, encontró la Sala Plena de la Corporación que no se acreditaron los de claridad y certeza. Con base en lo anterior, se declaró INHIBIDA parea emitir un pronunciamiento de fondo, dada la ineptitud sustantiva de la demanda.",
+  "titulaciones": [
+    {
+      "tema": "INHIBICION DE LA CORTE CONSTITUCIONAL EN DEMANDA DE INCONSTITUCIONALIDAD POR OMISION LEGISLATIVA RELATIVA",
+      "subtema": "Cargo desconoce alcance y contexto de la norma"
+    },
+    {
+      "tema": "CONTROL DE CONSTITUCIONALIDAD DE OMISION LEGISLATIVA RELATIVA",
+      "subtema": "Elementos esenciales que deben concurrir para su procedencia"
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD POR OMISION LEGISLATIVA RELATIVA",
+      "subtema": "Incumplimiento de carga argumentativa"
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD POR OMISION LEGISLATIVA RELATIVA",
+      "subtema": "Requisitos"
+    }
+  ]
+}

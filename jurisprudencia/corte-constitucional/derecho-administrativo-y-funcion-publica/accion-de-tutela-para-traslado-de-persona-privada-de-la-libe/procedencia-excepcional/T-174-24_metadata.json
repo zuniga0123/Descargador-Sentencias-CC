@@ -1,0 +1,45 @@
+{
+  "radicado": "T-174-24",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2024,
+  "fecha_creacion": "2024-05-15",
+  "magistrado_ponente": "Paola Andrea Meneses Mosquera",
+  "area": "Derecho Administrativo y Función Pública",
+  "tema": "ACCIÓN DE TUTELA PARA TRASLADO DE PERSONA PRIVADA DE LA LIBERTAD",
+  "subtema": "Procedencia excepcional",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 2213 de 2022",
+    "Decreto 2591 de 1991",
+    "Decreto Ley 2591 de 1991",
+    "Decreto 4151 de 2011",
+    "Ley 65 de 1993"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2024/T-174-24.htm",
+  "fecha_descarga": "2026-10-21T01:39:14.755274+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2024-05-15",
+  "fecha_publicacion": "2024-05-22",
+  "numero": "T-174/24",
+  "tipo_cc": "T",
+  "prov_id": "46349",
+  "tema_relatoria": "DERECHO A LA DIGNIDAD Y NO DISCRIMINACIÓN DE LA POBLACIÓN LGTBIQ+ PRIVADA DE LA LIBERTAD-CARENCIA ACTUAL DE OBJETO POR SITUACIÓN SOBREVINIENTE (terminó la relación sentimental). ACTO ADMINISTRATIVO QUE DISPONÍA TRASLADO ESTABA MOTIVADO.",
+  "resumen": "El actor considera que las entidades accionadas vulneraron sus derechos fundamentales, como consecuencia de disponer su traslado y el de su pareja sentimental a instituciones carcelarias diferentes a aquella en la que ambos se encontraban previamente retenidos. En su criterio, se produjo una situación de discriminación por su orientación sexual. También argumentó que la comunidad LGTBIQ+ está sufriendo traslados selectivos que impactan a aquellos reclusos que sostienen relaciones sentimentales al interior del establecimiento carcelario. Por su parte, el centro carcelario cuestionado fundamentó la decisión en razones de seguridad. La Corte encontró que en el presente caso se configuró el fenómeno de la carencia actual de objeto por SITUACIÓN SOBREVINIENTE, en la medida que las partes perdieron interés en el resultado de la litis, en tanto ya no existe la relación sentimental que dio origen a la solicitud de amparo. No obstante, la Sala examinó las alegaciones respecto de la discriminación en el centro penitenciario y para el efecto reiteró las reglas sobre el principio de igualdad y a prohibición de discriminación debido a la identidad de género y orientación sexual de las personas privadas de la libertad. Concluyó la Corte que el traslado estuvo debidamente motivado en las razones de seguridad que expuso el Centro Penitenciario, el cual tuvo como objeto garantizar las condiciones de seguridad en la cárcel y la integridad de las personas privadas de la libertad.",
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA PARA TRASLADO DE PERSONA PRIVADA DE LA LIBERTAD",
+      "subtema": "Procedencia excepcional"
+    },
+    {
+      "tema": "CARENCIA ACTUAL DE OBJETO POR SITUACIÓN SOBREVINIENTE",
+      "subtema": "Vulneración alegada cesó por una situación no imputable a las entidades accionadas, que conllevó a la pérdida del interés de la accionante"
+    },
+    {
+      "tema": "CARENCIA ACTUAL DE OBJETO",
+      "subtema": "Fenómeno que se configura en los siguientes eventos: hecho superado, daño consumado o situación sobreviniente"
+    }
+  ]
+}

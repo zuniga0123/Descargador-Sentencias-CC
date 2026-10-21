@@ -1,0 +1,54 @@
+{
+  "radicado": "C-406-23",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2023,
+  "fecha_creacion": "2023-10-11",
+  "magistrado_ponente": "Jorge Enrique Ibáñez Najar",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "COSA JUZGADA",
+  "subtema": "Efectos respecto de decisiones de exequibilidad e inexequibilidad",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 599 de 2000",
+    "Decreto Ley 2067 de 1991",
+    "Ley 131 de 1993",
+    "Decreto 2067 de 1991",
+    "Ley 84 de 1873",
+    "Ley 270 de 1996"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2023/C-406-23.htm",
+  "fecha_descarga": "2026-10-21T04:27:17.634806+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2023-10-11",
+  "fecha_publicacion": "2024-04-15",
+  "numero": "C-406/23",
+  "tipo_cc": "C",
+  "prov_id": "46014",
+  "tema_relatoria": "ESTARSE A LO RESUELTO EN SENTENCIA C-393/02 QUE DECLARÓ EXEQUIBLE DISPOSICIÓN QUE ESTABLECE QUE LA PENA DE PRISIÓN CONLLEVA LA ACCESORIA DE INHABILITACIÓN PARA EL EJERCICIO DE DERECHOS Y FUNCIONES PÚBLICAS.",
+  "resumen": "Demanda de inconstitucionalidad contra del inciso 3°(parcial) del artículo 52 de la Ley 599 de 2000, por la cual se expide el Código Penal. La frase cuestionada establece que “En todo caso, la pena de prisión conllevará la accesoria de inhabilitación para el ejercicio de derechos y funciones públicas…”. El actor adujo que dicha disposición trasgrede los artículos 98, 99, 103 de la Constitución, por constituir una suspensión de la ciudadanía por mandato legal y no por una decisión judicial como lo exige la Carta. La Corte encontró que la norma acusada fue declarada exequible por un cargo similar al propuesto en esta oportunidad mediante la Sentencia C-393/02 y, por ello, decidió ESTARSE A LO RESUELTO en el precitado fallo.",
+  "titulaciones": [
+    {
+      "tema": "COSA JUZGADA",
+      "subtema": "Efectos respecto de decisiones de exequibilidad e inexequibilidad"
+    },
+    {
+      "tema": "COSA JUZGADA CONSTITUCIONAL",
+      "subtema": "Alcance de los eventos que debilitan sus efectos"
+    },
+    {
+      "tema": "COSA JUZGADA CONSTITUCIONAL FORMAL RELATIVA",
+      "subtema": "Configuración"
+    },
+    {
+      "tema": "COSA JUZGADA CONSTITUCIONAL Y NUEVO JUICIO DE CONSTITUCIONALIDAD",
+      "subtema": "Criterios de valoración"
+    },
+    {
+      "tema": "COSA JUZGADA CONSTITUCIONAL",
+      "subtema": "Tipología"
+    }
+  ]
+}

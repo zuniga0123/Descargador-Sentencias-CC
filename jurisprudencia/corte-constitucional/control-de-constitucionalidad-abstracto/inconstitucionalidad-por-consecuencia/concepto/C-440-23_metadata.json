@@ -1,0 +1,54 @@
+{
+  "radicado": "C-440-23",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2023,
+  "fecha_creacion": "2023-10-26",
+  "magistrado_ponente": "Juan Carlos Cortés González",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "INCONSTITUCIONALIDAD POR CONSECUENCIA",
+  "subtema": "Concepto",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2067 de 1991",
+    "Ley 137 de 1994",
+    "Ley 550 de 1999",
+    "Ley 773 de 2002",
+    "Ley 185 de 1995",
+    "Ley 2294 de 2023",
+    "Ley 1116 de 2006",
+    "Ley 489 de 1998",
+    "Ley 2277 de 2022",
+    "Decreto 842 de 2020"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2023/C-440-23.htm",
+  "fecha_descarga": "2026-10-21T04:30:25.464731+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2023-10-26",
+  "fecha_publicacion": "2024-01-12",
+  "numero": "C-440/23",
+  "tipo_cc": "C",
+  "prov_id": "45184",
+  "tema_relatoria": "REVISION DE CONSTITUCIONALIDAD DE DECRETO LEGISLATIVO ADOPTADO AL AMPARO DE DECLARATORIA PREVIA DE EMERGENCIA ECONOMICA, SOCIAL Y ECOLÓGICA.",
+  "resumen": "Control de constitucionalidad del Decreto Legislativo 1268 del 31 de julio de 2023, por el cual se adoptan medidas para la recuperación de las Salinas Marítimas de Manaure, en el marco del Estado de Emergencia, Social y Ecológica. Al hacer el respectivo análisis la Corte explicó que la inexequibilidad por consecuencia es el fenómeno que afecta los decretos de desarrollo de un estado de emergencia por la desaparición sobreviniente de la norma que otorgaba al ejecutivo las facultades extraordinarias para emitirlos. Indicó que dicho decaimiento se presenta debido a que pierden su causa jurídica y validez, pues el presidente queda desprovisto de la competencia para dictar normas con fuerza de ley. En este sentido recordó que mediante Sentencia C-383/23 se declaró inexequible el Decreto 1085 de 2023 que había declarado el estado de emergencia en el departamento de La Guajira y que a dicha providencia se le concedió efectos diferidos respecto de la amenaza de agravamiento de la crisis humanitaria por la menor disponibilidad de agua. Frente a la norma objeto de estudio concluyó la Sala Plena que no operó el diferimiento precitado, porque su contenido no guarda ningún tipo de vínculo o relación, bajo criterios de “estricta necesidad y conexidad”. Con base en lo anterior, concluyo que procede por consecuencia la declaratoria de inexequibilidad inmediata, sin modulación alguna, del Decreto Legislativo 1268 de 2023.",
+  "titulaciones": [
+    {
+      "tema": "INCONSTITUCIONALIDAD POR CONSECUENCIA",
+      "subtema": "Concepto"
+    },
+    {
+      "tema": "SENTENCIA DE INEXEQUIBILIDAD POR CONSECUENCIA",
+      "subtema": "Improcedencia de la modulación de efectos temporales"
+    },
+    {
+      "tema": "DECRETO LEGISLATIVO EN DESARROLLO DE ESTADO DE EMERGENCIA ECONÓMICA, SOCIAL Y ECOLÓGICA EN EL DEPARTAMENTO DE LA GUAJIRA",
+      "subtema": "Inexequibilidad por consecuencia"
+    },
+    {
+      "tema": "INCONSTITUCIONALIDAD POR CONSECUENCIA",
+      "subtema": "Configuración"
+    }
+  ]
+}

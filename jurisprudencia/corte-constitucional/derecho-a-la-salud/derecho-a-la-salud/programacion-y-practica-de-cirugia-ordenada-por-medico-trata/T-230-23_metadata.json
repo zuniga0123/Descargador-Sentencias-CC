@@ -1,0 +1,61 @@
+{
+  "radicado": "T-230-23",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2023,
+  "fecha_creacion": "2023-06-23",
+  "magistrado_ponente": "Antonio José Lizarazo Ocampo",
+  "area": "Derecho a la Salud",
+  "tema": "DERECHO A LA SALUD",
+  "subtema": "Programación y práctica de cirugía ordenada por médico tratante",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto Ley 2591 de 1991",
+    "Ley 1751 de 2015",
+    "Ley 100 de 1993",
+    "Ley 1122 de 2007",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2023/T-230-23.htm",
+  "fecha_descarga": "2026-10-21T04:18:22.379534+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2023-06-23",
+  "fecha_publicacion": "2023-07-04",
+  "numero": "T-230/23",
+  "tipo_cc": "T",
+  "prov_id": "42953",
+  "tema_relatoria": "DERECHO A LA SALUD, DESCONOCIMIENTO DEL PRINCIPIO DE OPORTUNIDAD-CARENCIA ACTUAL DE OBJETO POR HECHO SUPERADO (Práctica de cirugía).",
+  "resumen": "Como antecedentes de este asunto se tiene que a la actora le practicaron un procedimiento quirúrgico debido a una fractura de fémur, durante el cual le implantaron un sistema de tornillo dinámico de cadera. A mediados del 2021, tras haber sufrido una caída meses antes, le fue diagnosticada una fractura de cadera derecha, post quirúrgico y el ortopedista ordenó valoración de anestesiología, paquete de exámenes prequirúrgicos, reinserción de ligamentos y extracción del dispositivo. Sin embargo, al momento de la presentación de la tutela, no se había fijado fecha para realizar la cirugía a pesar de que la accionante solicitó varias veces su agendamiento. Por lo anterior, es que la actora aduce que sus derechos fundamentales fueron vulnerados por la clínica accionada. En sede de revisión la Sala conoció que el procedimiento quirúrgico prescrito fue realizado a la tutelante, en una institución con quien la accionada tiene una alianza estratégica. Con base en lo anterior se declaró la carencia actual de objeto por HECHO SUPERADO. No obstante, con el fin de llamar la atención sobre la falta de conformidad constitucional de la situación que originó la presente solicitud de amparo, la Corte instó a la entidad a verificar internamente las circunstancias que llevaron a la misma y a tomar las medidas necesarias para adecuar sus procedimientos a los parámetros establecidos por la ley y por la jurisprudencia constitucional, en relación con la adecuada garantía del derecho a la salud y el principio de oportunidad en la prestación de servicios de salud.",
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Programación y práctica de cirugía ordenada por médico tratante"
+    },
+    {
+      "tema": "CARENCIA ACTUAL DE OBJETO POR HECHO SUPERADO",
+      "subtema": "Se autorizó procedimiento quirúrgico requerido por accionante"
+    },
+    {
+      "tema": "PRINCIPIO DE INMEDIATEZ",
+      "subtema": "Criterios para determinar el cumplimiento a pesar de que no exista un término de caducidad de la acción de tutela"
+    },
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Dilación injustificada en prestación del servicio"
+    },
+    {
+      "tema": "PERJUICIO IRREMEDIABLE",
+      "subtema": "Atención en salud"
+    },
+    {
+      "tema": "PRINCIPIO DE OPORTUNIDAD EN LA PRESTACION DEL SERVICIO DE SALUD",
+      "subtema": "Reiteración de jurisprudencia"
+    },
+    {
+      "tema": "FUNCION JURISDICCIONAL POR SUPERINTENDENCIA NACIONAL DE SALUD",
+      "subtema": "No desplaza a juez de tutela cuando se trata de proteger el acceso efectivo al derecho fundamental a la salud"
+    }
+  ]
+}

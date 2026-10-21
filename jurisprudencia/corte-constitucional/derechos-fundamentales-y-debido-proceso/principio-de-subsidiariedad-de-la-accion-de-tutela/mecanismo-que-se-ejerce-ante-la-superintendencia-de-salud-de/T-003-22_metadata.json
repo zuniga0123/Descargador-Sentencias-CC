@@ -1,0 +1,54 @@
+{
+  "radicado": "T-003-22",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2022,
+  "fecha_creacion": "2022-01-13",
+  "magistrado_ponente": "Jorge Enrique Ibáñez Najar",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "PRINCIPIO DE SUBSIDIARIEDAD DE LA ACCIÓN DE TUTELA",
+  "subtema": "Mecanismo que se ejerce ante la Superintendencia de Salud debe analizarse en cada caso, por lo que el juez de tutela no puede declarar la improcedencia de la acción de tutela automáticamente",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 1122 de 2007"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2022/T-003-22.htm",
+  "fecha_descarga": "2026-10-21T08:10:12.453270+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2022-01-13",
+  "fecha_publicacion": "2022-03-03",
+  "numero": "T-003/22",
+  "tipo_cc": "T",
+  "prov_id": "37229",
+  "tema_relatoria": "ACCION DE TUTELA PARA REEMBOLSO DE GASTOS MEDICOS.IMPROCEDENCIA",
+  "resumen": "A través de la figura de la agencia oficiosa se presenta la acción de tutela en favor de una persona que fue diagnosticada en el 2018 con carcinoma neuroendocrino, el cual en el 2020, hizo metástasis en el pulmón y cerebelo, situación que le genera dolores irresistibles. La pretensión principal es obtener el reconocimiento y pago de los gastos incurridos por el servicio de transporte inter-ciudades para la atención medica requerida. Luego de verificar el cumplimiento de los requisitos de procedibilidad, la Sala Segunda de Revisión concluyó que la presente solicitud de amparo es IMPROCEDENTE, por no encontrarse acreditados los requisitos para interponerla en calidad de agente oficiosa y, por lo tanto, no acreditarse la legitimación en la causa por activa. Así mismo, por incumplir el requisito de subsidiariedad, al no demostrase al menos de forma sumaria, que la Nueva EPS efectivamente negó el servicio y no probar la ocurrencia de un perjuicio irremediable que impidiera acudir a las vías ordinarias para el reconocimiento de los dineros reclamados.",
+  "titulaciones": [
+    {
+      "tema": "PRINCIPIO DE SUBSIDIARIEDAD DE LA ACCIÓN DE TUTELA",
+      "subtema": "Mecanismo que se ejerce ante la Superintendencia de Salud debe analizarse en cada caso, por lo que el juez de tutela no puede declarar la improcedencia de la acción de tutela automáticamente"
+    },
+    {
+      "tema": "AGENCIA OFICIOSA EN TUTELA",
+      "subtema": "Requisitos"
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA EPS",
+      "subtema": "Improcedencia por cuanto no se cumple con el requisito de subsidiariedad"
+    },
+    {
+      "tema": "PERJUICIO IRREMEDIABLE",
+      "subtema": "Criterios para determinar su configuración"
+    },
+    {
+      "tema": "LEGITIMACIÓN POR ACTIVA EN TUTELA",
+      "subtema": "Improcedencia por no estar acreditados los requisitos de la agencia oficiosa"
+    },
+    {
+      "tema": "PERJUICIO IRREMEDIABLE",
+      "subtema": "Inexistencia"
+    }
+  ]
+}

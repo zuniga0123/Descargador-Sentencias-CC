@@ -1,0 +1,60 @@
+{
+  "radicado": "T-504-24",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2024,
+  "fecha_creacion": "2024-12-02",
+  "magistrado_ponente": "Vladimir Fernández Andrade",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "ACCIÓN DE TUTELA",
+  "subtema": "Improcedencia por haber operado el fenómeno de la cosa juzgada constitucional",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 1709 de 2014",
+    "Decreto 2591 de 1991",
+    "Ley 1581 de 2012",
+    "Decreto Ley 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2024/T-504-24.htm",
+  "fecha_descarga": "2026-10-21T01:23:51.089124+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2024-12-02",
+  "fecha_publicacion": "2024-12-10",
+  "numero": "T-504/24",
+  "tipo_cc": "T",
+  "prov_id": "47753",
+  "tema_relatoria": "SOLICITUD DE EUTANASIA DE PERSONA PRIVADA DE LA LIBERTAD-TEMERIDAD Y COSA JUZGADA CONSTITUCIONAL. REITERACIÓN JURISPRUDENCIAL.",
+  "resumen": "Al momento de interponer la acción de tutela el actor se encontraba privado de la libertad. Adujo, sin precisar nada, que lo aquejaban varias patologías y que desde finales del 2023 ha solicitado la práctica de la eutanasia, sin que haya sido posible acceder a tal servicio. Alegó, igualmente, que presentó una nueva solicitud para acceder a su derecho fundamental a morir con dignidad, pero que las entidades accionadas guardaron silencio sobre el particular. Constató la Corte que en el presente caso se presentó el fenómeno de la cosa juzgada constitucional y, por tanto, la solicitud de amparo resulta IMPROCEDENTE. Lo anterior, en la medida en que la presente tutela es idéntica a otra acción de la misma naturaleza que ya había sido conocida y fallada previamente por Juzgado 17 Penal del Circuito con Función de Conocimiento de Bogotá. La Sala advirtió y explicó que el peticionario no actuó de forma temeraria.",
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Improcedencia por haber operado el fenómeno de la cosa juzgada constitucional"
+    },
+    {
+      "tema": "ACCION DE TUTELA TEMERARIA",
+      "subtema": "Inexistencia porque no se actuó de mala fe"
+    },
+    {
+      "tema": "DERECHO A LA SALUD MENTAL",
+      "subtema": "Garantía constitucional"
+    },
+    {
+      "tema": "EUTANASIA",
+      "subtema": "Requisitos para la viabilidad del procedimiento"
+    },
+    {
+      "tema": "DERECHO A MORIR DIGNAMENTE",
+      "subtema": "Consentimiento del sujeto pasivo"
+    },
+    {
+      "tema": "COSA JUZGADA CONSTITUCIONAL Y TEMERIDAD",
+      "subtema": "Diferencias"
+    },
+    {
+      "tema": "DERECHOS DEL INTERNO",
+      "subtema": "Relación de especial sujeción entre el Estado y las personas privadas de la libertad"
+    }
+  ]
+}

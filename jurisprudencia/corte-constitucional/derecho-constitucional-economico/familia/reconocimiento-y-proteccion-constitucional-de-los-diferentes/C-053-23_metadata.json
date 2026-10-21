@@ -1,0 +1,71 @@
+{
+  "radicado": "C-053-23",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2023,
+  "fecha_creacion": "2023-03-08",
+  "magistrado_ponente": "Alejandro Linares Cantillo",
+  "area": "Derecho Constitucional Económico",
+  "tema": "FAMILIA",
+  "subtema": "Reconocimiento y protección constitucional de los diferentes tipos",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto Ley 624 de 1989",
+    "Decreto 2067 de 1991",
+    "Decreto Ley 2067 de 1991",
+    "Ley 75 de 1986",
+    "Ley 43 de 1987",
+    "Ley 2010 de 2019",
+    "Ley 2155 de 2021",
+    "Ley 1607 de 2012",
+    "Decreto 1848 de 2013",
+    "Ley 1280 de 2009",
+    "Ley 1592 de 2012",
+    "Ley 1306 de 2009",
+    "Ley 1709 de 2014",
+    "Ley 1893 de 2018",
+    "Ley 140 de 1960",
+    "Ley 52 de 1977",
+    "Ley 49 de 1990",
+    "Decreto 2737 de 1989",
+    "Ley 1098 de 2006"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2023/C-053-23.htm",
+  "fecha_descarga": "2026-10-21T04:35:58.891620+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2023-03-08",
+  "fecha_publicacion": "2023-05-24",
+  "numero": "C-053/23",
+  "tipo_cc": "C",
+  "prov_id": "40356",
+  "tema_relatoria": "TEMA. IMPUESTO SOBRE LA RENTA. NO SON CONTRIBUYENTES DE ESTE IMPUESTO LOS FONDOS DE CAPITAL PRIVADO O DE INVERSIÓN COLECTIVA, SIEMPRE QUE NO SEAN POSEÍDOS EN MÁS DE 50% POR UN MISMO BENEFICIARIO O UN GRUPO DE INVERSIONISTAS DE UNA MISMA FAMILIA.",
+  "resumen": "Demanda de inconstitucionalidad en contra de los artículos 23-1 (parcial) y 372 (parcial) del Decreto Ley 624 de 1989, por el cual se expide el Estatuto Tributario de los impuestos administrados por la Dirección General de Impuesto Nacionales. El demandante considera que la disposición acusada vulnera el Preámbulo y los artículos 13 y 42 de la Constitución Política de Colombia; el artículo 7º de la Declaración Universal de los Derechos Humanos; el artículo 24 de la Convención Americana sobre Derechos Humanos; y el artículo 26 del Pacto Internacional de Derechos Civiles y Políticos. Lo anterior, por contener un trato desigual entre iguales por razones de origen familiar, ya que en ambas normas se contempla una diferenciación entre familiares que tengan un parentesco por consanguinidad o afinidad frente a aquellos que tienen un parentesco civil. La Corte encontró que con la redacción actual de los artículos demandados se vulnera el derecho a la igualdad y por eso adoptó como remedio constitucional declarar la EXEQUIBILIDAD CONDICIONADA de la expresión “por miembros de una misma familia hasta un 4° grado de consanguinidad o afinidad” contenida en el literal a) del numeral 2° del artículo 23-1 del Estatuto Tributario, en el entendido de que esta incluye a los miembros de una misma familia hasta el cuarto grado de parentesco civil. Así mismo, declaró EXEQUIBLE CONDICIONADA la expresión “a personas ligadas por matrimonio o parentesco hasta el segundo grado de consanguinidad o afinidad” contenida en el literal a) del artículo 372 ibidem, en el entendido de que esta incluye el parentesco hasta el segundo grado de parentesco civil.",
+  "titulaciones": [
+    {
+      "tema": "FAMILIA",
+      "subtema": "Reconocimiento y protección constitucional de los diferentes tipos"
+    },
+    {
+      "tema": "JUICIO INTEGRADO DE IGUALDAD",
+      "subtema": "Etapas de su análisis y modalidades del test de igualdad según el grado de intensidad"
+    },
+    {
+      "tema": "PROHIBICION DE DISCRIMINACION FUNDADA EN EL ORIGEN FAMILIAR",
+      "subtema": "Cobija a los distintos modos de descendencia de estos, bien fuera de índole matrimonial, extramatrimonial o adoptiva"
+    },
+    {
+      "tema": "NORMAS DEL ESTATUTO TRIBUTARIO",
+      "subtema": "Se equipara la situación de personas unidas por vínculos de consanguinidad y parentesco civil"
+    },
+    {
+      "tema": "DERECHO A LA IGUALDAD",
+      "subtema": "Prohibición de discriminación por razón del origen familiar"
+    },
+    {
+      "tema": "JUICIO ESTRICTO DE IGUALDAD",
+      "subtema": "Aplicación"
+    }
+  ]
+}

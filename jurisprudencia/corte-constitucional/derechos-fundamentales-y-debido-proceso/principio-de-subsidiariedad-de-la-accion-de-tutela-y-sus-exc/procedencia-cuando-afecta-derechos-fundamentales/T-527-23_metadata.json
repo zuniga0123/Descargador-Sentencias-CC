@@ -1,0 +1,54 @@
+{
+  "radicado": "T-527-23",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2023,
+  "fecha_creacion": "2023-11-30",
+  "magistrado_ponente": "Jorge Enrique Ibáñez Najar",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "PRINCIPIO DE SUBSIDIARIEDAD DE LA ACCION DE TUTELA Y SUS EXCEPCIONES EN MATERIA DE DICTAMENES DE PERDIDA DE LA CAPACIDAD LABORAL",
+  "subtema": "Procedencia cuando afecta derechos fundamentales",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Decreto Ley 2591 de 1991",
+    "Decreto Ley 19 de 2012",
+    "Decreto 1072 de 2015",
+    "Decreto 692 de 1994",
+    "Decreto 575 de 2013",
+    "Decreto 2591 de 1991",
+    "Ley 1151 de 2007",
+    "Decreto 262 de 1994",
+    "Decreto 19 de 2012"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2023/T-527-23.htm",
+  "fecha_descarga": "2026-10-21T04:04:35.879954+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2023-11-30",
+  "fecha_publicacion": "2024-01-16",
+  "numero": "T-527/23",
+  "tipo_cc": "T",
+  "prov_id": "45279",
+  "tema_relatoria": "ACCIÓN DE TUTELA PARA CALIFICACIÓN DE LA PÉRDIDA DE CAPACIDAD OCUPACIONAL (sustitución pensional en régimen especial)-CONFIRMA IMPROCEDENCIA. INCUMPLIMIENTO DE REQUISITOS DE INMEDIATEZ Y SUBSIDIARIEDAD.",
+  "resumen": "En este caso se pidió al juez constitucional ordenar a la UGPP realizar a la actora el examen de pérdida de capacidad laboral o, en su defecto, sufragar los gastos del mismo, para poder tramitar el reconocimiento y pago de la pensión de sobrevivientes por la muerte de su progenitora. La precitada prestación fue denegada por no tener el dictamen y éste último, por la falta de capacidad técnica y jurídica para realizarlo o para pagarlo. Luego de analizar los argumentos de la tutela la Corte decidió confirmar el fallo de instancia que la declaró IMPROCEDENTE. Se adoptó la anterior decisión porque la Sala de Revisión evidencio que: (i) varias de las vinculadas no se encontraban legitimadas por pasiva; (ii) no se cumplió con el requisito de inmediatez y; (iii) el incumplimiento del requisito de subsidiariedad.",
+  "titulaciones": [
+    {
+      "tema": "PRINCIPIO DE SUBSIDIARIEDAD DE LA ACCION DE TUTELA Y SUS EXCEPCIONES EN MATERIA DE DICTAMENES DE PERDIDA DE LA CAPACIDAD LABORAL",
+      "subtema": "Procedencia cuando afecta derechos fundamentales"
+    },
+    {
+      "tema": "LEGITIMACION POR PASIVA EN TUTELA",
+      "subtema": "Se predica de quien efectivamente debe responder por la vulneración o amenaza del derecho fundamental"
+    },
+    {
+      "tema": "CALIFICACIÓN DE LA PÉRDIDA DE CAPACIDAD LABORAL",
+      "subtema": "Entidades a las que les corresponde realizar la calificación"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA PARA EXAMEN DE CALIFICACIÓN DE PÉRDIDA DE CAPACIDAD OCUPACIONAL",
+      "subtema": "Improcedencia por no cumplir los requisitos de subsidiariedad, inmediatez y legitimación en la causa por pasiva"
+    }
+  ]
+}

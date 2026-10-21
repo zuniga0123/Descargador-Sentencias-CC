@@ -1,0 +1,60 @@
+{
+  "radicado": "C-369-25",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2025,
+  "fecha_creacion": "2025-09-03",
+  "magistrado_ponente": "José Fernando Reyes Cuartas",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "INHIBICION DE LA CORTE CONSTITUCIONAL POR INEPTITUD SUSTANTIVA DE LA DEMANDA",
+  "subtema": "Incumplimiento de requisitos de certeza, especificidad y suficiencia en los cargos",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 1621 de 2013",
+    "Decreto Ley 2067 de 1991",
+    "Ley 906 de 2004",
+    "Ley 1712 de 2014",
+    "Ley 1437 de 2011",
+    "Ley 1341 de 2009",
+    "Decreto 2067 de 1991",
+    "Ley 1755 de 2015"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2025/C-369-25.htm",
+  "fecha_descarga": "2026-10-20T22:59:33.125366+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2025-09-03",
+  "fecha_publicacion": "2026-04-29",
+  "numero": "C-369/25",
+  "tipo_cc": "C",
+  "prov_id": "60904",
+  "tema_relatoria": "Fallo inhibitorio por ineptitud sustantiva de la demanda formulada en contra de normas contenidas en la ley estatutaria que regula el marco jurídico que permite a organismos llevar a cabo actividades de inteligencia y contrainteligencia",
+  "resumen": "Demanda de inconstitucionalidad contra los artículos 17 y 33 (parciales) de la Ley Estatutaria 1621 de 2013, por medio de la cual se expiden normas para fortalecer el Marco Jurídico que permite a los organismos que llevan a cabo actividades de inteligencia y contrainteligencia cumplir con su misión constitucional y legal, y se dictan otras disposiciones. Los demandantes le pidieron a la Corte declarar inconstitucionales las disposiciones acusadas y, de forma alternativa, establecer que el monitoreo del espectro electromagnético también afecta la vida privada y debe requerir control judicial. Al analizar el cumplimiento de los requisitos mínimos de procedencia encontró la Sala Plena de la Corporación que el cargo formulado no cumplió con los presupuestos de certeza, especificidad y suficiencia, en tanto no partió del contenido real y vigente de la norma, ni del alcance e interpretación dado en la Sentencia C-540/12, sino de interpretaciones supuestas. Igualmente, porque no evidenció una contradicción concreta entre la norma censurada y la Constitución. Por lo anterior, la Corte se INHIBIÓ para emitir pronunciamiento de fondo, dada la ineptitud sustantiva de la demanda.",
+  "titulaciones": [
+    {
+      "tema": "INHIBICION DE LA CORTE CONSTITUCIONAL POR INEPTITUD SUSTANTIVA DE LA DEMANDA",
+      "subtema": "Incumplimiento de requisitos de certeza, especificidad y suficiencia en los cargos"
+    },
+    {
+      "tema": "CONCEPTO DE VIOLACION EN DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "Razones claras, ciertas, específicas, pertinentes y suficientes"
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "Cargos carecen de certeza porque se estructuran a partir de una interpretación subjetiva"
+    },
+    {
+      "tema": "PRINCIPIO PRO ACTIONE EN DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "Cumplimiento de requisitos argumentativos mínimos"
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "Cargo desconoce alcance que la Corte Constitucional le dio a la norma acusada"
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "Requisitos mínimos"
+    }
+  ]
+}
