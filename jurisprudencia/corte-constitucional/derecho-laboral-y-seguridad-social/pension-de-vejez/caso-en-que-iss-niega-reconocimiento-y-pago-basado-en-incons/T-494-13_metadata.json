@@ -1,0 +1,68 @@
+{
+  "radicado": "T-494-13",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2013,
+  "fecha_creacion": "2013-07-26",
+  "magistrado_ponente": "Luis Guillermo Guerrero Pérez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "PENSION DE VEJEZ",
+  "subtema": "Caso en que ISS niega reconocimiento y pago basado en inconsistencias presentadas en historia laboral respecto al periodo y número de semanas cotizadas",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 758 de 1990",
+    "Decreto 2013 de 2012",
+    "Decreto 2591 de 1991",
+    "Ley 100 de 1993"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2013/T-494-13.htm",
+  "fecha_descarga": "2026-10-21T14:46:40.511555+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2013-07-26",
+  "fecha_publicacion": null,
+  "numero": "T-494/13",
+  "tipo_cc": "T",
+  "prov_id": "5130",
+  "tema_relatoria": null,
+  "resumen": "Se interpone la acción de tutela en contra del Instituto de Seguros Sociales alegando la vulneración de derechos fundamentales del actor, en virtud de la negativa del reconocimiento de la pensión de vejez, bajo el argumento de no cumplir con el requisito de semanas de cotización requeridas. A juicio del demandante, el ISS dejó de contabilizarle los aportes realizados entre los años 1967 y 1984, los cuales se encontraban plenamente respaldados con las certificaciones laborales y con la copia de un reporte de semanas cotizadas expedido por la propia accionada. En síntesis, se cuestiona el inadecuado manejo de la información y la omisión de dar respuesta oportuna al requerimiento presentado por el afiliado, para que le fuera corregida las inconsistencias que presentaba su historia laboral, para poder acceder a la pensión de vejez. La Sala encuentra que la entidad accionada incumplió sus obligaciones de custodia, conservación y guarda de la información y que con ello, desconoció los derechos del actor a la seguridad social, al habeas data y al debido proceso administrativo. Se CONCEDE.",
+  "titulaciones": [
+    {
+      "tema": "PENSION DE VEJEZ",
+      "subtema": "Caso en que ISS niega reconocimiento y pago basado en inconsistencias presentadas en historia laboral respecto al periodo y número de semanas cotizadas"
+    },
+    {
+      "tema": "ENTIDAD ADMINISTRADORA DE PENSIONES",
+      "subtema": "Deber de custodia, conservación y guarda de la información concerniente al Sistema de Seguridad Social"
+    },
+    {
+      "tema": "DERECHO DE PETICION EN MATERIA PENSIONAL Y DEBIDO PROCESO ADMINISTRATIVO",
+      "subtema": "Vulneración por ISS al no resolver solicitudes de revocatoria directa y recursos presentados en vía gubernativa"
+    },
+    {
+      "tema": "HABEAS DATA",
+      "subtema": "Posibilidad de ejercerlo cuando se presenta inexactitud en historia laboral para solicitar pensión de vejez"
+    },
+    {
+      "tema": "ACCION DE TUTELA PARA EL RECONOCIMIENTO DE INDEMNIZACION SUSTITUTIVA DE PENSION DE VEJEZ",
+      "subtema": "Procedencia cuando afecta mínimo vital y demás derechos de personas de la tercera edad"
+    },
+    {
+      "tema": "DERECHO DE PETICIÓN EN MATERIA PENSIONAL",
+      "subtema": "Vulneración por cuanto no se ha dado una respuesta de fondo y definitiva respecto de la solicitud de reconocimiento de pensión de vejez"
+    },
+    {
+      "tema": "PENSION DE VEJEZ Y DERECHO AL MINIMO VITAL",
+      "subtema": "Orden a Colpensiones corrija la historia laboral del accionante y proceda a liquidar y pagar pensión de vejez conforme al Decreto 758/90"
+    },
+    {
+      "tema": "PENSION DE VEJEZ",
+      "subtema": "Reglas jurisprudenciales para la procedencia de tutela"
+    },
+    {
+      "tema": "PERSONA DE LA TERCERA EDAD Y VIA EXCEPCIONAL DE LA ACCION DE TUTELA PARA RECLAMAR PENSION DE VEJEZ",
+      "subtema": "Tesis sobre la vida probable"
+    }
+  ]
+}

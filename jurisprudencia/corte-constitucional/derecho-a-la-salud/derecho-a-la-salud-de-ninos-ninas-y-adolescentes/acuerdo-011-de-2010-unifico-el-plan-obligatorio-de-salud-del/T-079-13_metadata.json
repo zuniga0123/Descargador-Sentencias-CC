@@ -1,0 +1,54 @@
+{
+  "radicado": "T-079-13",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2013,
+  "fecha_creacion": "2013-02-14",
+  "magistrado_ponente": "Luis Guillermo Guerrero Pérez",
+  "area": "Derecho a la Salud",
+  "tema": "DERECHO A LA SALUD DE NIÑOS, NIÑAS Y ADOLESCENTES",
+  "subtema": "Acuerdo 011 de 2010 unificó el Plan Obligatorio de Salud del régimen contributivo y subsidiado para niños y adolescentes menores de 18 años",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 806 de 1998",
+    "Ley 715 de 2001",
+    "Ley 1098 de 2006",
+    "Ley 100 de 1993",
+    "Decreto 2591 de 1991",
+    "Decreto 1889 de 1994"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2013/T-079-13.htm",
+  "fecha_descarga": "2026-10-21T14:33:45.546192+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2013-02-14",
+  "fecha_publicacion": null,
+  "numero": "T-079/13",
+  "tipo_cc": "T",
+  "prov_id": "4583",
+  "tema_relatoria": null,
+  "resumen": "Salud. El accionante se encuentra afiliado como cotizante a la E.P.S. SALUD TOTAL y tiene como beneficiarios a su esposa, a la hija de ésta y a su propia hija. La hija de la cónyuge es menor de edad y dio a luz a una bebé que no pudo ser afiliada en la precitada E.P.S. como beneficiaria del actor, ya que exigieron para el efecto cancelar una unidad de pago por capitación (UPC) adicional. Con la acción de tutela se pretende que la accionada autorice la inscripción de la recién nacida como beneficiaria del actor, sin exigirle el pago de la UPC adicional, toda vez que no se encuentra con la capacidad económica suficiente para sufragar este costo. La entidad demandada adujo no estar en la obligación de autorizar la atención médica a la menor, toda vez que no es nieta del peticionario sino de su cónyuge y que la recién nacida puede ser afiliada al régimen contributivo mediante la cancelación de una UPC adicional o al Sistema de Salud Subsidiado, de no contarse con los recursos económicos para sufragar dicho gasto. La Sala de Revisión decide CONCEDER el amparo solicitado a favor de la niña recién nacida, ordenar a la Secretaría de Salud Pública de Manizales realizar los trámites administrativos necesarios para su afiliación a una E.P.S. del régimen subsidiado, con el fin de que reciba la atención médica requerida y que informe al núcleo familiar del accionante los programas de salud pública que ofrece a los ciudadanos, en especial, los relacionadazo con la atención médica del binomio madre e hijo.",
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA SALUD DE NIÑOS, NIÑAS Y ADOLESCENTES",
+      "subtema": "Acuerdo 011 de 2010 unificó el Plan Obligatorio de Salud del régimen contributivo y subsidiado para niños y adolescentes menores de 18 años"
+    },
+    {
+      "tema": "DERECHO A LA SALUD DEL RECIEN NACIDO",
+      "subtema": "Tienen derecho a ser integrados al sistema de salud como dependientes de sus abuelos, sin exigirle el pago de una cuota adicional cuando se demuestre incapacidad económica"
+    },
+    {
+      "tema": "DERECHO A LA SALUD DEL RECIEN NACIDO",
+      "subtema": "Ordenar a la Secretaría de Salud realice trámites para la afiliación de la menor a EPS del régimen subsidiado"
+    },
+    {
+      "tema": "DERECHO A LA SALUD DEL RECIEN NACIDO",
+      "subtema": "No se debe impedir el acceso a los servicios de salud de recién nacido hijo de beneficiaria del régimen contributivo por imposibilidad económica para cancelar la UPC adicional"
+    },
+    {
+      "tema": "INCAPACIDAD ECONOMICA PARA ASUMIR COSTO DE LA UPC",
+      "subtema": "Solicitud de afiliar a salud a la nieta recién nacida de cónyuge beneficiaria del régimen contributivo sin exigir pago de UPC adicional"
+    }
+  ]
+}

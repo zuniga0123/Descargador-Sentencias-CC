@@ -1,0 +1,58 @@
+{
+  "radicado": "T-926-13",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2013,
+  "fecha_creacion": "2013-12-06",
+  "magistrado_ponente": "Mauricio González Cuervo",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "DEBER DE CONSERVACION DE ARCHIVOS",
+  "subtema": "Obligación de las empresas de guardar la historia laboral de sus trabajadores",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 962 de 2005",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2013/T-926-13.htm",
+  "fecha_descarga": "2026-10-21T14:28:43.001383+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2013-12-06",
+  "fecha_publicacion": null,
+  "numero": "T-926/13",
+  "tipo_cc": "T",
+  "prov_id": "5711",
+  "tema_relatoria": null,
+  "resumen": "Los derechos fundamentales del accionante se consideran vulnerados por la empresa Manuelita .S.A., por no darle una respuesta de fondo, ni adelantar gestión alguna para reconstruir la información solicitada, so pretexto que, según la legislación laboral, no tenía la obligación de guardar información de las personas que hubiesen trabajado treinta años atrás y que no se pensionaron con ellos. La Sala hace un recuento sobre el derecho de petición y el del habeas data y analiza algunas disposiciones contenidas en el Código Sustantivo del Trabajo. Se CONCEDE el amparo solicitado y se ordena a la accionada iniciar la reconstrucción del expediente donde reposaba la información del actor, adoptando una decisión definitiva sobre la certificación laboral por él requerida.",
+  "titulaciones": [
+    {
+      "tema": "DEBER DE CONSERVACION DE ARCHIVOS",
+      "subtema": "Obligación de las empresas de guardar la historia laboral de sus trabajadores"
+    },
+    {
+      "tema": "HISTORIA LABORAL",
+      "subtema": "Contenido y finalidad"
+    },
+    {
+      "tema": "DERECHO FUNDAMENTAL DE PETICION EN EL CASO DE EXTRABAJADORES",
+      "subtema": "Orden a empleador iniciar reconstrucción de expediente a fin de expedir certificado laboral"
+    },
+    {
+      "tema": "HABEAS DATA",
+      "subtema": "Posibilidad de ejercerlo cuando se presenta inexactitud en historia laboral para solicitar pensión de vejez"
+    },
+    {
+      "tema": "DEBER CONSTITUCIONAL DE LA DEBIDA GESTION Y ADMINISTRACION DE ARCHIVOS",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "DERECHO DE PETICIÓN",
+      "subtema": "Relación con otros derechos y principios fundamentales"
+    },
+    {
+      "tema": "DERECHO AL HABEAS DATA",
+      "subtema": "Alcance y contenido"
+    }
+  ]
+}

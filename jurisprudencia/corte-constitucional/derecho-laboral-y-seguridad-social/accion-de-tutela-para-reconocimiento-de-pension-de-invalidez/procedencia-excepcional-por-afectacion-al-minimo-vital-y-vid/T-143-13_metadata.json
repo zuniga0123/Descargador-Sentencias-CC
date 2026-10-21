@@ -1,0 +1,49 @@
+{
+  "radicado": "T-143-13",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2013,
+  "fecha_creacion": "2013-03-14",
+  "magistrado_ponente": "María Victoria Calle Correa",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "ACCION DE TUTELA PARA RECONOCIMIENTO DE PENSION DE INVALIDEZ",
+  "subtema": "Procedencia excepcional por afectación al mínimo vital y vida digna de sujetos de especial protección",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Decreto 2591 de 1991",
+    "Decreto 917 de 1999",
+    "Ley 860 de 2003",
+    "Decreto 692 de 1995"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2013/T-143-13.htm",
+  "fecha_descarga": "2026-10-21T14:32:46.130768+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2013-03-14",
+  "fecha_publicacion": null,
+  "numero": "T-143/13",
+  "tipo_cc": "T",
+  "prov_id": "4683",
+  "tema_relatoria": null,
+  "resumen": "Debido a una enfermedad mental el actor fue calificado con una pérdida de la capacidad laboral del 57.40% y con base en este dictamen solicitó a la AFP PORVENIR S.A. el reconocimiento y pago de la pensión de invalidez. La entidad accionada negó el reconocimiento prestacional, alegando el incumplimiento de requisitos legales, al no contar con un mínimo de cotización equivalente a cincuenta semanas dentro de los tres años anteriores a la estructuración de la invalidez. Luego de verificar el cumplimiento de los presupuestos de procedibilidad para solicitar por tutela el reconocimiento de la pensión de invalidez y de analizar el caso en concreto, la Sala de Revisión decide CONCEDER el amparo de los derechos fundamentales al mínimo vital y a la seguridad social del peticionario y ordenar a la accionada examinar la solicitud pensional del actor tomando como fecha de estructuración de su invalidez el día en que efectuó la última cotización al sistema y, si cotizó al menos 50 semanas en los tres años anteriores a esa fecha, reconocer a su favor la pensión de invalidez.",
+  "titulaciones": [
+    {
+      "tema": "ACCION DE TUTELA PARA RECONOCIMIENTO DE PENSION DE INVALIDEZ",
+      "subtema": "Procedencia excepcional por afectación al mínimo vital y vida digna de sujetos de especial protección"
+    },
+    {
+      "tema": "ESTRUCTURACION DE LA INVALIDEZ",
+      "subtema": "Fecha en que se pierde la aptitud para trabajar es diferente a la fecha en que comenzó la enfermedad u ocurrió el accidente"
+    },
+    {
+      "tema": "PENSIÓN DE INVALIDEZ",
+      "subtema": "Orden a Porvenir tener en cuenta última cotización al sistema para determinar fecha de estructuración de invalidez y si cumple con las 50 semanas requeridas, reconocer el derecho pensional"
+    },
+    {
+      "tema": "PENSIÓN DE INVALIDEZ",
+      "subtema": "Se deben contabilizar semanas cotizadas con posterioridad a la fecha de estructuración de invalidez para cumplir con el requisito de las 50 semanas"
+    }
+  ]
+}

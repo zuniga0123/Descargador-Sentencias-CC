@@ -1,0 +1,55 @@
+{
+  "radicado": "T-023-13",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2013,
+  "fecha_creacion": "2013-01-25",
+  "magistrado_ponente": "María Victoria Calle Correa",
+  "area": "Derecho a la Salud",
+  "tema": "APLICACIÓN DEL CRITERIO DE NECESIDAD COMO GARANTÍA DE ACCESIBILIDAD A LOS SERVICIOS DE SALUD",
+  "subtema": "Se requiere orden de médico tratante",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 1545 de 1998",
+    "Decreto 2591 de 1991",
+    "Ley 1438 de 2011"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2013/T-023-13.htm",
+  "fecha_descarga": "2026-10-21T14:31:57.757064+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2013-01-25",
+  "fecha_publicacion": null,
+  "numero": "T-023/13",
+  "tipo_cc": "T",
+  "prov_id": "4511",
+  "tema_relatoria": null,
+  "resumen": "Salud, vida digna. Se acumulan expedientes por unidad de materia. Los peticionarios presentaron acciones de tutela contra las respectivas E.P.S. a las que se encuentran afiliados, por considerar que la negativa de las mismas a autorizar el servicio de una enfermera o cuidador domiciliario y de otros servicios asistenciales necesarios para su cuidado diario, vulnera sus derechos fundamentales. Las entidades accionadas sostuvieron que los servicios asistenciales e insumos solicitados no podían ser suministrados, bien porque no existía orden del médico tratante o porque no estaban contemplados en el POS. la Sala CONCEDE el amparo solicitado e imparte una serie de órdenes conducentes a hacer efectivo el goce de los derechos tutelados.",
+  "titulaciones": [
+    {
+      "tema": "APLICACIÓN DEL CRITERIO DE NECESIDAD COMO GARANTÍA DE ACCESIBILIDAD A LOS SERVICIOS DE SALUD",
+      "subtema": "Se requiere orden de médico tratante"
+    },
+    {
+      "tema": "DERECHO A LA VIDA DIGNA",
+      "subtema": "Cuando se trata de suministro de pañales desechables, no es aceptable exigir someterse a exámenes diagnósticos para determinar la necesidad de ordenarlos"
+    },
+    {
+      "tema": "DERECHO A LA SALUD Y A LA VIDA DIGNA",
+      "subtema": "Orden a EPS valore la condición médica de la accionante y determine si requiere diferentes tipos de terapias y el servicio de enfermería domiciliaria"
+    },
+    {
+      "tema": "DERECHO A LA SALUD Y PRINCIPIO DE ATENCION INTEGRAL",
+      "subtema": "Suministro de pañales"
+    },
+    {
+      "tema": "DEBER DE GARANTIZAR EL ACCESO A LOS SERVICIOS DE SALUD LIBRE DE TRAMITES Y PROCEDIMIENTOS ADMINISTRATIVOS ENGORROSOS",
+      "subtema": "La carga de determinar los servicios que requiere el usuario es la EPS cuando se trata de enfermedades graves e irreversibles"
+    },
+    {
+      "tema": "ACCESIBILIDAD A SERVICIOS MÉDICOS REQUERIDOS CON NECESIDAD",
+      "subtema": "En caso de no existir orden de médico tratante se protege la salud en la faceta de diagnóstico"
+    }
+  ]
+}

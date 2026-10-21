@@ -1,0 +1,64 @@
+{
+  "radicado": "T-478-13",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2013,
+  "fecha_creacion": "2013-07-24",
+  "magistrado_ponente": "María Victoria Calle Correa",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCION DE TUTELA DE MADRE COMUNITARIA",
+  "subtema": "Procedencia por ser sujeto de especial protección constitucional, porque es persona de escasos recursos con pérdida de capacidad laboral",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Ley 1187 de 2008",
+    "Ley 1023 de 2006",
+    "Decreto 3771 de 2007",
+    "Decreto 2591 de 1991",
+    "Decreto 1340 de 1995",
+    "Ley 1607 de 2012",
+    "Ley 1437 de 2011",
+    "Ley 509 de 1999",
+    "Decreto 4944 de 2009",
+    "Ley 89 de 1988",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2013/T-478-13.htm",
+  "fecha_descarga": "2026-10-21T14:30:46.508849+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2013-07-24",
+  "fecha_publicacion": null,
+  "numero": "T-478/13",
+  "tipo_cc": "T",
+  "prov_id": "5116",
+  "tema_relatoria": null,
+  "resumen": "La accionante interpuso la acción de tutela en contra del Consorcio Prosperar por considerar que le vulneró su derecho a la seguridad social, al retirarla del Programa de Subsidio al Aporte en Pensión del Fondo de Solidaridad Pensional, sin haber adelantado un procedimiento administrativo previo, bajo el argumento de haber recibido este beneficio durante más de 750 semanas. Se analiza temática relacionada con el régimen jurídico especial de las madres comunitarias, el subsidio al aporte al Sistema General de Pensiones de estas personas y el derecho al debido proceso administrativo en la exclusión de un beneficio público. Al constatar la violación de los derechos fundamentales al debido proceso y a la seguridad social de la actora, la Sala decide CONCEDER la tutela e impartir una serie de órdenes conducentes a hacer efectivo el goce de los derechos amparados.",
+  "titulaciones": [
+    {
+      "tema": "ACCION DE TUTELA DE MADRE COMUNITARIA",
+      "subtema": "Procedencia por ser sujeto de especial protección constitucional, porque es persona de escasos recursos con pérdida de capacidad laboral"
+    },
+    {
+      "tema": "DEBIDO PROCESO ADMINISTRATIVO",
+      "subtema": "Vulneración por no adelantar procedimiento para la exclusión del beneficio de subsidio al aporte en pensiones de madre comunitaria quien tiene derecho a recibirlo"
+    },
+    {
+      "tema": "DERECHO A LA SEGURIDAD SOCIAL DE MADRE COMUNITARIA",
+      "subtema": "Orden a Prosperar afilie nuevamente al programa de subsidio al aporte en pensiones y cancele en forma retroactiva los aportes a Colpensiones"
+    },
+    {
+      "tema": "MADRE COMUNITARIA DEL PROGRAMA HOGARES COMUNITARIOS DEL BIENESTAR",
+      "subtema": "Régimen jurídico especial"
+    },
+    {
+      "tema": "FONDO DE SOLIDARIDAD PENSIONAL",
+      "subtema": "Subsidio al aporte en pensiones de las madres comunitarias"
+    },
+    {
+      "tema": "SUBCUENTA DE SUBSISTENCIA DEL FONDO DE SOLIDARIDAD PENSIONAL",
+      "subtema": "Beneficiarios no cuentan con procedimiento administrativo que garantice debido proceso en la exclusión del programa de subsidio al aporte en pensiones"
+    }
+  ]
+}

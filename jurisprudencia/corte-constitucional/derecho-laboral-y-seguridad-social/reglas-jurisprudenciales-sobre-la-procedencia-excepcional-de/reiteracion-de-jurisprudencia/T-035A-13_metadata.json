@@ -1,0 +1,50 @@
+{
+  "radicado": "T-035A-13",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2013,
+  "fecha_creacion": "2013-01-28",
+  "magistrado_ponente": "Luis Guillermo Guerrero Pérez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "REGLAS JURISPRUDENCIALES SOBRE LA PROCEDENCIA EXCEPCIONAL DEL RECONOCIMIENTO Y/O RELIQUIDACION DE LA PENSION POR TUTELA",
+  "subtema": "Reiteración de jurisprudencia",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2013/T-035A-13.htm",
+  "fecha_descarga": "2026-10-21T14:33:52.860442+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2013-01-28",
+  "fecha_publicacion": null,
+  "numero": "T-035A/13",
+  "tipo_cc": "T",
+  "prov_id": "4527",
+  "tema_relatoria": null,
+  "resumen": "Petición. El ISS le reconoció una pensión de vejez al actor y éste recurrió el acto administrativo que le concedió la prestación, para que se reliquidara su mesada teniendo en cuenta para ello los aportes realizados de manera simultánea y tomando como base los últimos cien días de cotización, según lo establecido en el Acuerdo 049 de 1990. El Instituto accionado confirmó su decisión y el actor solicitó la revocatoria directa de esta resolución confirmatoria, reiterando los argumentos expuestos en su apelación y señalando además que, al resolver éste recurso, no se hizo referencia sobre la inconformidad relacionada con los aportes efectuados de manera simultánea. La Sala de Revisión decide TUTELAR el derecho de petición del actor en relación a obtener respuesta completa al recurso de apelación por él presentado. Así mismo, declara sin valor ni efecto jurídico la resolución confirmatoria y ordena resolver el recurso de apelación de manera congruente con lo solicitado y teniendo en cuenta los aportes realizados por el accionante, en razón a los contratos celebrados simultáneamente con distintos empleadores.",
+  "titulaciones": [
+    {
+      "tema": "REGLAS JURISPRUDENCIALES SOBRE LA PROCEDENCIA EXCEPCIONAL DEL RECONOCIMIENTO Y/O RELIQUIDACION DE LA PENSION POR TUTELA",
+      "subtema": "Reiteración de jurisprudencia"
+    },
+    {
+      "tema": "ACCION DE TUTELA PARA RELIQUIDACION DE PENSION DE VEJEZ",
+      "subtema": "Improcedencia por cuanto no se demostró afectación del mínimo vital y no se agotó la vía ordinaria"
+    },
+    {
+      "tema": "MEDIDAS CAUTELARES",
+      "subtema": "Principio periculum in mora y principio fumus boni iuris para ordenar al ISS que al resolver recurso de apelación examine las cotizaciones simultáneas para determinar el monto correcto de reliquidación pensional"
+    },
+    {
+      "tema": "DERECHO DE PETICIÓN EN MATERIA PENSIONAL",
+      "subtema": "Orden al ISS dar respuesta completa al recurso de apelación sobre reliquidación pensional, teniendo en cuenta aportes realizados en razón a los contratos celebrados simultáneamente con distintos empleadores"
+    },
+    {
+      "tema": "DERECHO DE PETICIÓN",
+      "subtema": "Protección mediante acción de tutela"
+    }
+  ]
+}

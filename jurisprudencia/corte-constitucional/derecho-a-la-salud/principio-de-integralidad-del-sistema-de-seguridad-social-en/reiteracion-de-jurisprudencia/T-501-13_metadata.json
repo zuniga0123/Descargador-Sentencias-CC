@@ -1,0 +1,57 @@
+{
+  "radicado": "T-501-13",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2013,
+  "fecha_creacion": "2013-07-26",
+  "magistrado_ponente": "Mauricio González Cuervo",
+  "area": "Derecho a la Salud",
+  "tema": "PRINCIPIO DE INTEGRALIDAD DEL SISTEMA DE SEGURIDAD SOCIAL EN SALUD",
+  "subtema": "Reiteración de jurisprudencia",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 1438 de 2011",
+    "Decreto 971 de 2011",
+    "Decreto 2591 de 1991",
+    "Ley 1122 de 2007",
+    "Ley 74 de 1968"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2013/T-501-13.htm",
+  "fecha_descarga": "2026-10-21T14:41:25.497163+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2013-07-26",
+  "fecha_publicacion": null,
+  "numero": "T-501/13",
+  "tipo_cc": "T",
+  "prov_id": "5136",
+  "tema_relatoria": null,
+  "resumen": "En este asunto la conducta que se alega como vulneradora de derechos fundamentales es la negativa de la entidad accionada de suministrar oxígeno domiciliario en pipetas en lugar de un concentrador de oxígeno que autorizó a un paciente de 81 años de edad, que padece de enfermedad pulmonar obstructiva crónica (EPOC). Se alega que el concentrador genera un costo adicional en el pago de la factura de la energía eléctrica, que tanto la accionante como su familia, no están en la capacidad económica de asumir. Se pretende que SALUD CONDOR E.P.S.S suministre el oxígeno en la presentación solicitada, así como todos los demás procedimientos, tratamientos y medicamentos que el paciente requiera en el futuro. Se reitera jurisprudencia constitucional relacionada con los siguientes temas: 1º. Derecho a la salud del adulto mayor. 2º. Accesibilidad económica como componente del derecho a la salud y el principio de gastos o cargas soportables. 3º. Determinación de la capacidad económica en materia de salud y, 4º. Integralidad en la prestación del servicio de salud. Se CONCEDE la tutela y se ordena el suministro del oxígeno en pipetas solicitado. Se advierte a la accionada que, teniendo en cuenta las circunstancias personales del representado, a futuro se le brinde el tratamiento integral que requiere para su enfermedad en los términos que determine el médico tratante.",
+  "titulaciones": [
+    {
+      "tema": "PRINCIPIO DE INTEGRALIDAD DEL SISTEMA DE SEGURIDAD SOCIAL EN SALUD",
+      "subtema": "Reiteración de jurisprudencia"
+    },
+    {
+      "tema": "DERECHO A LA SALUD Y A LA VIDA DIGNA DE ADULTO MAYOR",
+      "subtema": "Vulneración por EPS por decisión de reemplazar el suministro de oxígeno en pipetas por un generador de oxígeno que opera con energía eléctrica, sin contar con la precaria situación económica del pacient"
+    },
+    {
+      "tema": "DERECHO A LA SALUD DEL ADULTO MAYOR",
+      "subtema": "Protección reforzada por ser sujeto de especial protección constitucional"
+    },
+    {
+      "tema": "DERECHO A LA SALUD DE PERSONA DE LA TERCERA EDAD",
+      "subtema": "Suministro de oxígeno domiciliario en pipetas y no en máquina generadora por razones económicas"
+    },
+    {
+      "tema": "PRESTACION DE SERVICIOS NO CUBIERTOS POR EL POS",
+      "subtema": "Reglas probatorias para establecer la capacidad económica"
+    },
+    {
+      "tema": "GARANTIA DE ACCESIBILIDAD ECONOMICA EN SALUD Y PRINCIPIO DE GASTOS SOPORTABLES",
+      "subtema": "Condiciones económicas de los usuarios para evitar que a los más pobres del sistema de salud, les sean impuestas cargas económicas desproporcionadas"
+    }
+  ]
+}

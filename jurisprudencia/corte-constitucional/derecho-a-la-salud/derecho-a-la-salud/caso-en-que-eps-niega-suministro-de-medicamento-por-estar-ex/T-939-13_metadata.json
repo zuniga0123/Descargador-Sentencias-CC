@@ -1,0 +1,69 @@
+{
+  "radicado": "T-939-13",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2013,
+  "fecha_creacion": "2013-12-16",
+  "magistrado_ponente": "Luis Guillermo Guerrero Pérez",
+  "area": "Derecho a la Salud",
+  "tema": "DERECHO A LA SALUD",
+  "subtema": "Caso en que EPS niega suministro de medicamento por estar excluido del POS y no contar con el registro del INVIMA",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 1122 de 2003",
+    "Decreto 1290 de 1994",
+    "Ley 100 de 1993",
+    "Decreto 677 de 1995"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2013/T-939-13.htm",
+  "fecha_descarga": "2026-10-21T14:29:05.229258+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2013-12-16",
+  "fecha_publicacion": null,
+  "numero": "T-939/13",
+  "tipo_cc": "T",
+  "prov_id": "5727",
+  "tema_relatoria": null,
+  "resumen": "A través de la figura de la agencia oficiosa se interpone la acción de tutela en contra de ALIANZA MEDELLIN E.P.S. SAS, por negar la entrega de un medicamento que le fue prescrito al agenciado por su médico tratante, argumentando que esta medicina solo se encuentra indicada por el INVIMA para el tratamiento de carcinoma metastático de colon o de recto y no para la patología que presenta el paciente y, que además se encuentra excluido del POS. Legitimación por activa y por pasiva. Agotamiento de los mecanismos judiciales disponibles, salvo la ocurrencia de un perjuicio irremediable. Evidencia de la afectación de un derecho fundamental. Requisitos para la entrega de medicamentos NO POS. Entrega de medicamentos sin aprobación por parte del INVIMA. Se CONCEDE la protección de los derechos a la seguridad social, a la salud y a la vida digna.",
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Caso en que EPS niega suministro de medicamento por estar excluido del POS y no contar con el registro del INVIMA"
+    },
+    {
+      "tema": "SUMINISTRO DE MEDICAMENTOS, TRATAMIENTOS Y PROCEDIMIENTOS EXCLUIDOS DEL POS",
+      "subtema": "Requisitos"
+    },
+    {
+      "tema": "LEGITIMACION EN LA CAUSA POR ACTIVA Y AGENCIA OFICIOSA EN LA ACCION DE TUTELA",
+      "subtema": "Requisitos"
+    },
+    {
+      "tema": "DERECHO A LA SALUD Y A LA VIDA DIGNA",
+      "subtema": "Orden a EPS suministre medicamento no aprobado por el INVIMA, en las condiciones prescritas por médico tratante para la enfermedad ocular que padece el accionante"
+    },
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Reglas y subreglas fijadas por la jurisprudencia para suministro de medicamentos excluidos del POS"
+    },
+    {
+      "tema": "MEDICAMENTOS EXCLUIDOS DEL POS Y QUE NO TIENEN REGISTRO SANITARIO DEL INVIMA",
+      "subtema": "Jurisprudencia constitucional"
+    },
+    {
+      "tema": "DERECHO A LA SALUD Y SUMINISTRO DE MEDICAMENTO QUE NO TIENE APROBACION DEL INVIMA",
+      "subtema": "Utilización del medicamento bevacizumab en casos oftalmológicos"
+    },
+    {
+      "tema": "INVIMA",
+      "subtema": "Expide Registro Sanitario para la producción, procesamiento y comercialización de los medicamentos"
+    },
+    {
+      "tema": "USO DE MEDICAMENTOS OFF LABEL",
+      "subtema": "Definición"
+    }
+  ]
+}

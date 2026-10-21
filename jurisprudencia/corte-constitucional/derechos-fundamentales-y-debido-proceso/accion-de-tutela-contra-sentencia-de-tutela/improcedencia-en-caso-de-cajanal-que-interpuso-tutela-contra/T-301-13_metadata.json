@@ -1,0 +1,43 @@
+{
+  "radicado": "T-301-13",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2013,
+  "fecha_creacion": "2013-05-22",
+  "magistrado_ponente": "Mauricio González Cuervo",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCION DE TUTELA CONTRA SENTENCIA DE TUTELA",
+  "subtema": "Improcedencia en caso de Cajanal que interpuso tutela contra sentencia de tutela por existir cosa juzgada constitucional",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 546 de 1971",
+    "Decreto 2196 de 2009",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2013/T-301-13.htm",
+  "fecha_descarga": "2026-10-21T14:49:28.820778+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2013-05-22",
+  "fecha_publicacion": null,
+  "numero": "T-301/13",
+  "tipo_cc": "T",
+  "prov_id": "4892",
+  "tema_relatoria": null,
+  "resumen": "Debido proceso. Tutela contra providencia judicial. En este asunto aduce CAJANAL que la decisión judicial adoptada en el trámite de una acción de tutela iniciada en su contra, incurrió en defecto fáctico por omitir la práctica de pruebas que definieran el perjuicio irremediable que sufrían los actores, para evaluar la procedencia de la acción constitucional y para conceder de manera definitiva el derecho a la pensión y a la indexación de la mesada pensional. Igualmente, aduce la ocurrencia de un defecto sustantivo por interpretación contraevidente, toda vez que el juez se apoyó en una norma que no era aplicable al caso concreto y, en el desconocimiento del precedente constitucional, al ordenar el reconocimiento de la pensión de jubilación teniendo en cuenta para su liquidación el salario más alto devengado en el último año de servicios prestado por los actores en diferentes entidades del Estado y con la indexación de las mesadas dejadas de percibir. Luego de reiterar jurisprudencia constitucional relacionada con las causales genéricas de procedencia de la acción de tutela contra providencias judiciales y sobre la improcedencia general de la acción de tutela para controvertir sentencias de esta misma naturaleza, la Sala decide confirmar las decisiones de instancia que negaron la tutela por IMPROCEDENTE.",
+  "titulaciones": [
+    {
+      "tema": "ACCION DE TUTELA CONTRA SENTENCIA DE TUTELA",
+      "subtema": "Improcedencia en caso de Cajanal que interpuso tutela contra sentencia de tutela por existir cosa juzgada constitucional"
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA SENTENCIA DE TUTELA",
+      "subtema": "Improcedencia por haber operado el fenómeno de la cosa juzgada constitucional"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Requisitos generales y especiales de procedibilidad"
+    }
+  ]
+}

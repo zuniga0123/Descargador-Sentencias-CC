@@ -1,0 +1,50 @@
+{
+  "radicado": "T-940-13",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2013,
+  "fecha_creacion": "2013-12-16",
+  "magistrado_ponente": "Nilson Pinilla Pinilla",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "ACCIÓN DE TUTELA PARA EL RECONOCIMIENTO DE PENSIÓN DE VEJEZ",
+  "subtema": "Procedencia excepcional cuando se vulneran derechos de las personas de la tercera edad",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 71 de 1998",
+    "Ley 71 de 1988",
+    "Ley 100 de 1993",
+    "Decreto 1406 de 1999",
+    "Decreto 2633 de 1994"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2013/T-940-13.htm",
+  "fecha_descarga": "2026-10-21T14:29:08.855092+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2013-12-16",
+  "fecha_publicacion": null,
+  "numero": "T-940/13",
+  "tipo_cc": "T",
+  "prov_id": "5728",
+  "tema_relatoria": null,
+  "resumen": "Seguridad social, mínimo vital. En este caso la conducta que causa la vulneración de derechos fundamentales es la negativa de la entidad accionada de conceder al actor la pensión de vejez que afirma tener derecho. Para decidir el problema jurídico planteado la Sala reitera jurisprudencia sobre la procedencia excepcional de la acción de tutela para obtener el reconocimiento y pago de la pensión de vejez y la superación de la mora y/o incumplimiento del empleador en el cubrimiento de aportes y cotizaciones pensionales. Se CONCEDE la tutela, se ordena a la accionada revocar las resoluciones que negaron la prestación y expedir otra en la cual sume el tiempo laborado por el accionante en las diferentes entidades, al igual que las que cubrió como trabajador independiente y, a partir de ello, reconocer la pensión de vejez reclamada.",
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA PARA EL RECONOCIMIENTO DE PENSIÓN DE VEJEZ",
+      "subtema": "Procedencia excepcional cuando se vulneran derechos de las personas de la tercera edad"
+    },
+    {
+      "tema": "INOPONIBILIDAD DE LA MORA PATRONAL PARA RECONOCIMIENTO DE PENSION DE VEJEZ",
+      "subtema": "Reiteración de jurisprudencia"
+    },
+    {
+      "tema": "MORA EN EL PAGO DE APORTES Y COTIZACIONES PENSIONALES",
+      "subtema": "No es admisible que la entidad administradora de pensiones alegue a su favor su propia negligencia en la implementación de las acciones de cobro"
+    },
+    {
+      "tema": "PENSION DE VEJEZ Y MORA EN EL PAGO DE LOS APORTES POR PARTE DEL EMPLEADOR",
+      "subtema": "Afiliado o beneficiario no debe soportar la mora en el traslado de los aportes al sistema ni la inacción de Colpensiones o las administradoras de fondos de pensiones en el cobro"
+    }
+  ]
+}

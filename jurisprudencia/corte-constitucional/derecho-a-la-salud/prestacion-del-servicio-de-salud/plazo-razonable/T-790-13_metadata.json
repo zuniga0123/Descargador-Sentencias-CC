@@ -1,0 +1,47 @@
+{
+  "radicado": "T-790-13",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2013,
+  "fecha_creacion": "2013-11-12",
+  "magistrado_ponente": "Luis Guillermo Guerrero Pérez",
+  "area": "Derecho a la Salud",
+  "tema": "PRESTACION DEL SERVICIO DE SALUD",
+  "subtema": "Plazo razonable",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Decreto 2591 de 1991",
+    "Ley 1122 de 2007"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2013/T-790-13.htm",
+  "fecha_descarga": "2026-10-21T14:35:00.083674+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2013-11-12",
+  "fecha_publicacion": null,
+  "numero": "T-790/13",
+  "tipo_cc": "T",
+  "prov_id": "5523",
+  "tema_relatoria": null,
+  "resumen": "Se solicita con la presente acción de tutela que se ordene a COOMEVA E.P.S. practicar a la actora la cirugía de reducción mamaria bilateral que le fue prescrita por su médico tratante y autorizada por el Comité Técnico Científico de la entidad, en su orden, en los seis y cuatro meses anteriores a la interposición de la demanda. La Sala de Revisión se pronuncia sobre la procedencia de la acción de tutela y el plazo razonable para la prestación de un servicio en salud. Considera la Corte que es procedente CONCEDER el amparo solicitado y ordenar la práctica del procedimiento requerido, pero como quiera que dicha pretensión ya fue satisfecha y no hay lugar a impartir la orden nuevamente, se decide adviertir a la accionada para que en lo sucesivo no exponga a sus usuarios a demoras injustificadas para acceder a los servicios a que tengan derecho.",
+  "titulaciones": [
+    {
+      "tema": "PRESTACION DEL SERVICIO DE SALUD",
+      "subtema": "Plazo razonable"
+    },
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Advertir a EPS que no deberá imponer demora injustificada a los usuarios para acceder a los servicios de salud a que tengan derecho"
+    },
+    {
+      "tema": "DERECHO A LA SALUD Y A LA VIDA DIGNA",
+      "subtema": "Vulneración por exceder plazo razonable para realizar cirugía de mamoplastia de reducción"
+    },
+    {
+      "tema": "FUNCION JURISDICCIONAL POR SUPERINTENDENCIA NACIONAL DE SALUD",
+      "subtema": "No contempla debate sobre autorización de procedimientos, medicamentos y/o insumos excluidos del POS"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "radicado": "T-275-13",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2013,
+  "fecha_creacion": "2013-05-14",
+  "magistrado_ponente": "Mauricio González Cuervo",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+  "subtema": "Reiteración de jurisprudencia sobre requisitos generales y especiales de procedibilidad",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2013/T-275-13.htm",
+  "fecha_descarga": "2026-10-21T14:49:05.900855+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2013-05-14",
+  "fecha_publicacion": null,
+  "numero": "T-275/13",
+  "tipo_cc": "T",
+  "prov_id": "4851",
+  "tema_relatoria": null,
+  "resumen": "Debido proceso. Tutela contra providencia judicial. En el presente caso se demanda la actuación surtida por el Tribunal Superior de Cartagena, Sala Civil Familia, mediante la cual se revocó un auto proferido por el despacho judicial de primera instancia, mediante el cual se había declarado la nulidad de un proceso ejecutivo singular adelantado en contra de la accionante, por la indebida notificación del mandamiento de pago a la parte demandada. Se alega que la providencia atacada incurrió en defecto procedimental absoluto, defecto fáctico, falta de motivación y desconocimiento del precedente. La Sala concluye que la presente acción constitucional resulta improcedente por no superar el examen formal de procedibilidad de la acción de tutela contra providencias judiciales, específicamente en lo relativo al requisito de subsidiariedad. Lo anterior, porque la accionante a pesar de que propuso el incidente de nulidad, no agotó el recurso extraordinario de revisión previsto en el artículo 379 del C.P.C., para así plantear bajo la causal 7º del artículo 380 ibidem, que en el trámite del proceso ejecutivo que se adelantaba en su contra existió una irregularidad en la notificación del mandamiento de pago y de la sentencia que ordenó continuar con la ejecución. IMPROCEDENTE.",
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Reiteración de jurisprudencia sobre requisitos generales y especiales de procedibilidad"
+    },
+    {
+      "tema": "INDEBIDA NOTIFICACION DEL MANDAMIENTO DE PAGO",
+      "subtema": "Medios procesales previstos en C. de P.C."
+    },
+    {
+      "tema": "INDEBIDA NOTIFICACION EN EL TRAMITE DE UN PROCESO EJECUTIVO",
+      "subtema": null
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Improcedencia por cuanto no se agotó recurso extraordinario de revisión para subsanar el error por indebida notificación del mandamiento de pago"
+    },
+    {
+      "tema": "RECURSO EXTRAORDINARIO DE REVISION",
+      "subtema": "Procedencia"
+    },
+    {
+      "tema": "RECURSO EXTRAORDINARIO DE REVISION",
+      "subtema": "Término para su interposición"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "radicado": "T-487-13",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2013,
+  "fecha_creacion": "2013-07-25",
+  "magistrado_ponente": "Gabriel Eduardo Mendoza Martelo",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "DERECHO A LA PENSIÓN DE INVALIDEZ",
+  "subtema": "Trámites administrativos no pueden obstaculizar el reconocimiento del derecho a quien ya ha reunido los requisitos para acceder a ésta",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 860 de 2003",
+    "Ley 797 de 2003",
+    "Ley 100 de 1993",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2013/T-487-13.htm",
+  "fecha_descarga": "2026-10-21T14:26:23.968743+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2013-07-25",
+  "fecha_publicacion": null,
+  "numero": "T-487/13",
+  "tipo_cc": "T",
+  "prov_id": "5125",
+  "tema_relatoria": null,
+  "resumen": "Seguridad social, mínimo vital. Se acumulan expedientes por unidad de materia. Se presentan las acciones de tutela en contra de COLPENSIONES y COLFONDOS S.A. PENSIONES Y CESANTIAS, respectivamente, para reclamar la protección de los derechos fundamentales que se consideran vulnerados por la negativa de acceder al reconocimiento y pago de la pensión de invalidez reclamada, bajo el argumento de no cumplir con el requisito de fidelidad al Sistema. Luego de analizar cada caso en concreto la Sala decide CONCEDER el amparo constitucional y ordenar a las accionadas reconocer y pagar las pensiones de invalidez reclamadas.",
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA PENSIÓN DE INVALIDEZ",
+      "subtema": "Trámites administrativos no pueden obstaculizar el reconocimiento del derecho a quien ya ha reunido los requisitos para acceder a ésta"
+    },
+    {
+      "tema": "ACCION DE TUTELA PARA RECONOCIMIENTO DE DERECHOS PENSIONALES",
+      "subtema": "Procedencia excepcional frente a la existencia de otros medios de defensa judicial"
+    },
+    {
+      "tema": "ACCION DE TUTELA PARA RECONOCIMIENTO DE PENSION DE INVALIDEZ",
+      "subtema": "Procedencia excepcional por afectación al mínimo vital y vida digna de sujetos de especial protección"
+    },
+    {
+      "tema": "DERECHO AL MINIMO VITAL Y A LA VIDA DIGNA",
+      "subtema": "Orden a Colfondos reconocer y pagar pensión de invalidez por cumplir con requisitos"
+    },
+    {
+      "tema": "DERECHO A LA SEGURIDAD SOCIAL, MINIMO VITAL Y A LA VIDA DIGNA",
+      "subtema": "Orden a Colpensiones reconocer y pagar pensión de invalidez por cumplir con requisitos"
+    },
+    {
+      "tema": "REQUISITO DE FIDELIDAD PARA PENSION DE INVALIDEZ POR ENFERMEDAD COMUN O ACCIDENTE",
+      "subtema": "Declaración de inexequibilidad en sentencia C-428/09"
+    },
+    {
+      "tema": "PENSIÓN DE INVALIDEZ",
+      "subtema": "Requisitos para obtener reconocimiento y pago"
+    }
+  ]
+}

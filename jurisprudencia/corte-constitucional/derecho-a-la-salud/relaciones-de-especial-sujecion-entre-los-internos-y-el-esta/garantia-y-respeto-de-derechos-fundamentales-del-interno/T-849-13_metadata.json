@@ -1,0 +1,54 @@
+{
+  "radicado": "T-849-13",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2013,
+  "fecha_creacion": "2013-11-26",
+  "magistrado_ponente": "Jorge Ignacio Pretelt Chaljub",
+  "area": "Derecho a la Salud",
+  "tema": "RELACIONES DE ESPECIAL SUJECION ENTRE LOS INTERNOS Y EL ESTADO",
+  "subtema": "Garantía y respeto de derechos fundamentales del interno",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Decreto 2496 de 2012",
+    "Ley 65 de 1993",
+    "Ley 1122 de 2007",
+    "Decreto 1141 de 2009",
+    "Decreto 2777 de 2010"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2013/T-849-13.htm",
+  "fecha_descarga": "2026-10-21T14:35:33.730823+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2013-11-26",
+  "fecha_publicacion": null,
+  "numero": "T-849/13",
+  "tipo_cc": "T",
+  "prov_id": "5607",
+  "tema_relatoria": null,
+  "resumen": "Se instaura la acción de tutela en contra de la Penitenciaría de Cómbita por vulnerar el derecho a la salud del actor, en virtud de no llevar a cabo los trámites para su hospitalización y práctica de una cirugía que fue autorizada por CAPRECOM y que fue solicitada por el interno seis meses atrás. Se analiza la siguiente temática: 1º. Los derechos fundamentales de los internos en el marco de la relación de especial sujeción existente entre éstos y el Estado y, 2º. El derecho a la salud y el Sistema de Seguridad Social en Salud de la población carcelaria. Se CONCEDE la tutela y se imparten una serie de órdenes conducentes a hacer efectivo el goce del derecho fundamental amparado. Se advierte a CAPRECOM que debe prestar la atención médica requerida por el actor de conformidad con la urgencia del caso y lo establecido en la ley y en la Constitución. Al INPEC y a la precitada E.P.S. se les insta para que no vuelvan a incurrir en conductas que atenten contra los derechos fundamentales de las personas privadas de la libertad, como lo es el derecho a la salud.",
+  "titulaciones": [
+    {
+      "tema": "RELACIONES DE ESPECIAL SUJECION ENTRE LOS INTERNOS Y EL ESTADO",
+      "subtema": "Garantía y respeto de derechos fundamentales del interno"
+    },
+    {
+      "tema": "SISTEMA DE SEGURIDAD SOCIAL EN SALUD DE LA POBLACION CARCELARIA",
+      "subtema": "Marco legal"
+    },
+    {
+      "tema": "DERECHO A LA SALUD DEL INTERNO",
+      "subtema": "Obligación del Estado de garantizar prestación por intermedio del sistema carcelario en condiciones dignas y sin dilaciones en el servicio integral"
+    },
+    {
+      "tema": "DERECHO A LA SALUD DE PERSONAS PRIVADAS DE LA LIBERTAD",
+      "subtema": "Vulneración por establecimiento carcelario al no realizar trámites necesarios para que EPS-S realice valoración de especialistas y la cirugía que necesita con urgencia"
+    },
+    {
+      "tema": "DERECHO A LA SALUD DEL INTERNO",
+      "subtema": "Orden a EPS-S preste atención médica requerida por el interno, de conformidad con la urgencia de su caso"
+    }
+  ]
+}

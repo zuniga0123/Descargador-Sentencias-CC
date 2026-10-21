@@ -1,0 +1,62 @@
+{
+  "radicado": "T-930A-13",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2013,
+  "fecha_creacion": "2013-12-06",
+  "magistrado_ponente": "Nilson Pinilla Pinilla",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+  "subtema": "Improcedencia general",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 906 de 2004"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2013/T-930A-13.htm",
+  "fecha_descarga": "2026-10-21T14:38:07.814065+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2013-12-06",
+  "fecha_publicacion": null,
+  "numero": "T-930A/13",
+  "tipo_cc": "T",
+  "prov_id": "5716",
+  "tema_relatoria": null,
+  "resumen": "Debido proceso. Tutela contra providencia judicial. En este caso se le endilga vulneración de derechos fundamentales a los despachos judiciales que en primera y segunda instancia decidieron negativamente el proceso de reparación directa iniciado por la presunta desaparición forzada del menor de dad que era hijo y hermano de los accionantes. Se alega, que en ambas decisiones judiciales no se valoró en debida forma las pruebas aportadas a raíz de un excesivo rigor jurídico que dejó sin mérito el acta de levantamiento del cadáver, la investigación disciplinaria y el acta de reconocimiento fotográfico. La Sala de Revisión reitera que por regla general la acción de tutela no procede contra decisiones judiciales y concluye que el aducido defecto fáctico no se configuró en las instancias contenciosas como se planteó en la demanda de tutela. Se confirma la decisión de instancia que DENEGÓ el amparo solicitado.",
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Improcedencia general"
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA PROVIDENCIAS JUDICIALES POR DEFECTO FACTICO",
+      "subtema": "Improcedencia por cuanto se realizó por parte de los jueces adecuada valoración probatoria que incluyó fotografías dentro de proceso de reparación directa"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Procedencia excepcional para la protección de derechos fundamentales"
+    },
+    {
+      "tema": "DEFECTO FACTICO",
+      "subtema": "Vulneración por errada apreciación de las pruebas o por excluirlas injustificadamente de valoración"
+    },
+    {
+      "tema": "PRUEBA DOCUMENTAL",
+      "subtema": "Valor probatorio de las fotografías"
+    },
+    {
+      "tema": "VALOR PROBATORIO DE LAS FOTOGRAFIAS",
+      "subtema": "Juez está en la obligación de valorar dentro del conjunto probatorio, siguiendo las reglas de la sana crítica"
+    },
+    {
+      "tema": "DEFECTO FACTICO POR INDEBIDA VALORACION PROBATORIA",
+      "subtema": "Configuración"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Requisitos generales y especiales de procedibilidad"
+    }
+  ]
+}

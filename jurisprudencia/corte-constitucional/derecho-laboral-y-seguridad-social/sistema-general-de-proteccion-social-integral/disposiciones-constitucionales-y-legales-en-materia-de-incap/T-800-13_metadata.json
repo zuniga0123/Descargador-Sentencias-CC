@@ -1,0 +1,49 @@
+{
+  "radicado": "T-800-13",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2013,
+  "fecha_creacion": "2013-11-12",
+  "magistrado_ponente": "Gabriel Eduardo Mendoza Martelo",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "SISTEMA GENERAL DE PROTECCION SOCIAL INTEGRAL",
+  "subtema": "Disposiciones constitucionales y legales en materia de incapacidades laborales",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Decreto 2463 de 2001",
+    "Decreto 2591 de 1991",
+    "Decreto 1049 de 1999",
+    "Decreto Ley 19 de 2012"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2013/T-800-13.htm",
+  "fecha_descarga": "2026-10-21T14:29:27.440612+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2013-11-12",
+  "fecha_publicacion": null,
+  "numero": "T-800/13",
+  "tipo_cc": "T",
+  "prov_id": "5533",
+  "tema_relatoria": null,
+  "resumen": "Se alega la vulneración de los derechos fundamentales a la seguridad social y al mínimo vital, en virtud de la decisión de la entidad accionada de negar el reconocimiento y pago de varias incapacidades prescritas al actor por su médico tratante. Procedencia excepcional de la acción de tutela para solicitar el pago de las incapacidades laborales. Disposiciones constitucionales y legales aplicables en materia de incapacidades laborales generadas por enfermedad común. SE CONCEDE.",
+  "titulaciones": [
+    {
+      "tema": "SISTEMA GENERAL DE PROTECCION SOCIAL INTEGRAL",
+      "subtema": "Disposiciones constitucionales y legales en materia de incapacidades laborales"
+    },
+    {
+      "tema": "DERECHO AL MINIMO VITAL DE PERSONA EN ESTADO DE DEBILIDAD MANIFIESTA",
+      "subtema": "Pago de incapacidad laboral"
+    },
+    {
+      "tema": "DERECHO AL MINIMO VITAL",
+      "subtema": "Vulneración por no pago de incapacidades laborales a persona con cáncer y que depende de un salario mínimo"
+    },
+    {
+      "tema": "DERECHO AL PAGO DE INCAPACIDAD LABORAL",
+      "subtema": "Procedencia de tutela cuando afecta mínimo vital del trabajador y su familia"
+    }
+  ]
+}

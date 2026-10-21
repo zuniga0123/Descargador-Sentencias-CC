@@ -1,0 +1,41 @@
+{
+  "radicado": "T-025-13",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2013,
+  "fecha_creacion": "2013-01-25",
+  "magistrado_ponente": "María Victoria Calle Correa",
+  "area": "Derecho a la Salud",
+  "tema": "PRESTACION DE TRATAMIENTOS Y MEDICAMENTOS NO INCLUIDOS EN EL POS",
+  "subtema": "La EPS no está autorizada a rechazar de manera absoluta y sin fundamento científico, el concepto de un médico no adscrito a su entidad",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2013/T-025-13.htm",
+  "fecha_descarga": "2026-10-21T14:32:01.351263+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2013-01-25",
+  "fecha_publicacion": null,
+  "numero": "T-025/13",
+  "tipo_cc": "T",
+  "prov_id": "4513",
+  "tema_relatoria": null,
+  "resumen": "Salud. La accionante en representación de su hija presentó la acción de tutela contra la Nueva .E.P.S., por considerar que dicha entidad vulneró derechos fundamentales de la menor, al negarle la práctica de un encefalograma con duración de doce horas, bajo el argumento de que lo ordenó un médico neuropediatra externo a la entidad, a pesar de que, en concepto de dicho profesional, lo requiere para dilucidar si un parpadeo constante en el ojo izquierdo de la niña corresponde a síntomas agravantes de la epilepsia que padece. La demandada por su parte señalo que no estaba en la obligación de autorizar el examen en mención, porque además de haber sido ordenado por un médico externo a la entidad, un profesional adscrito a la E.P.S. no lo prescribió, luego de examinar la menor. La Sala establece que la NUEVA E.P.S. vulneró el derecho a la salud de la menor representada, cuando desconoció el concepto de un médico reconocido y vinculado al Sistema de Salud que había autorizado para ella un examen diagnóstico, sin que para ello mediara motivos suficientes de carácter científico o técnico que pusieran en duda la validez o idoneidad de dicho concepto. SE CONCEDE",
+  "titulaciones": [
+    {
+      "tema": "PRESTACION DE TRATAMIENTOS Y MEDICAMENTOS NO INCLUIDOS EN EL POS",
+      "subtema": "La EPS no está autorizada a rechazar de manera absoluta y sin fundamento científico, el concepto de un médico no adscrito a su entidad"
+    },
+    {
+      "tema": "DERECHO AL DIAGNÓSTICO",
+      "subtema": "Caso de menor de edad que le fue prescrito encefalograma con duración de 12 horas por médico no adscrito a la EPS"
+    },
+    {
+      "tema": "MEDICO TRATANTE",
+      "subtema": "Concepto del médico tratante no adscrito a la EPS resulta vinculante"
+    }
+  ]
+}

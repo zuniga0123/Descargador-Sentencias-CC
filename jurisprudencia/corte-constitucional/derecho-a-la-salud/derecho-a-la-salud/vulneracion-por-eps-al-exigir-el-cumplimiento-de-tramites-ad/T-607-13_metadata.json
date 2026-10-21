@@ -1,0 +1,57 @@
+{
+  "radicado": "T-607-13",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2013,
+  "fecha_creacion": "2013-09-02",
+  "magistrado_ponente": "Alberto Rojas Ríos",
+  "area": "Derecho a la Salud",
+  "tema": "DERECHO A LA SALUD",
+  "subtema": "Vulneración por EPS al exigir el cumplimiento de trámites administrativos innecesarios para acceder a los servicios de salud",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2013/T-607-13.htm",
+  "fecha_descarga": "2026-10-21T14:42:21.190580+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2013-09-02",
+  "fecha_publicacion": null,
+  "numero": "T-607/13",
+  "tipo_cc": "T",
+  "prov_id": "5278",
+  "tema_relatoria": null,
+  "resumen": "Salud, vida, seguridad social, vida digna. Se acumulan expedientes por unidad de materia. El asunto común tiene que ver con el no suministro de medicamentos en presentación comercial, los cuales fueron ordenados por los médicos tratantes a los pacientes. En un asunto, la E.P.S. empezó a suministrar el medicamento en la presentación prescrita y de manera posterior decidió cambiarlo por la versión genérica, justificando dicha determinación en trámites administrativos. En el segundo caso, el médico tratante cambió la orden de medicamentos genéricos por comerciales, en virtud de que los primeros no cumplieron con los efectos esperados, pero la entidad demandada autorizó la entrega del medicamento en presentación genérica, arguyendo que los otros no se encontraban enlistado en el Acuerdo 29 de 2011 y que el médico tampoco realizó el trámite correspondiente ante INVIMA. La Sala reitera los criterios establecidos por la Corporación respecto a los medicamentos genéricos y comerciales; la idoneidad del médico tratante para determinar qué tratamiento debe seguir el paciente y los trámites administrativos para acceder a servicios médicos. Se CONCEDE el amparo constitucional solicitado por las diferentes accionantes.",
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Vulneración por EPS al exigir el cumplimiento de trámites administrativos innecesarios para acceder a los servicios de salud"
+    },
+    {
+      "tema": "MEDICAMENTOS GENERICOS Y COMERCIALES",
+      "subtema": "Criterios para el suministro"
+    },
+    {
+      "tema": "MEDICO TRATANTE",
+      "subtema": "Persona idónea para determinar cuál es el tratamiento médico a seguir frente a patología concreta"
+    },
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Médico tratante es el único capaz de determinar la idoneidad de un tratamiento médico"
+    },
+    {
+      "tema": "ENTIDAD PROMOTORA DE SALUD",
+      "subtema": "Casos en que medicamento comercial puede ser reemplazado por otro genérico"
+    },
+    {
+      "tema": "DERECHO A LA SALUD Y A LA VIDA DIGNA",
+      "subtema": "Orden a EPS suministro medicamento en presentación comercial prescrito por el médico tratante"
+    },
+    {
+      "tema": "SUMINISTRO DE MEDICAMENTOS BAJO SU DENOMINACION GENERICA O COMERCIAL",
+      "subtema": "EPS no puede reemplazar de manera arbitraria y sin justificación médica y científica medicamento comercial a un medicamento genérico"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "radicado": "T-600-13",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2013,
+  "fecha_creacion": "2013-08-30",
+  "magistrado_ponente": "Jorge Ignacio Pretelt Chaljub",
+  "area": "Derecho a la Salud",
+  "tema": "INAPLICACION DE NORMAS DEL PLAN OBLIGATORIO DE SALUD",
+  "subtema": "Subreglas sobre los requisitos para acceder a tratamientos y medicamentos excluidos del POS",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 100 de 1993",
+    "Decreto Ley 1795 de 2000",
+    "Ley 1122 de 2007"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2013/T-600-13.htm",
+  "fecha_descarga": "2026-10-21T14:30:08.739688+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2013-08-30",
+  "fecha_publicacion": null,
+  "numero": "T-600/13",
+  "tipo_cc": "T",
+  "prov_id": "5269",
+  "tema_relatoria": null,
+  "resumen": "A través de la figura de la agencia oficiosa se incoa la acción de tutela contra el Hospital Militar Regional de Occidente de Cali y en representación de una persona de 75 años de edad, que padece diabetes mellitus y es insulinodependiente. Se alega la vulneración de derechos fundamentales en virtud de la negativa de la entidad de autorizar la entrega mensual de un kit de glucómetro con tirillas y lancetas, así como los controles médicos con especialista de cardiología y endocrinología y el tratamiento para el manejo del dolor con el médico y la entidad que el paciente escoja para ello. Se reiteran los precedentes constitucionales de los siguientes temas: 1º. Carácter fundamental del derecho a la salud. 2º. El derecho fundamental a la salud de los adultos mayores. 3º. Normatividad del sistema de seguridad social en salud para la fuerza pública y, 4º. La procedencia excepcional de la acción de tutela para ordenar el suministro de tratamientos, procedimientos o medicamentos excluidos del POS. SE CONCEDE.",
+  "titulaciones": [
+    {
+      "tema": "INAPLICACION DE NORMAS DEL PLAN OBLIGATORIO DE SALUD",
+      "subtema": "Subreglas sobre los requisitos para acceder a tratamientos y medicamentos excluidos del POS"
+    },
+    {
+      "tema": "DERECHO A LA SALUD DEL ADULTO MAYOR",
+      "subtema": "Vulneración por Hospital Militar y Dirección de Sanidad Militar, al no autorizar tratamiento integral para el tratamiento de diabetes"
+    },
+    {
+      "tema": "DERECHO A LA SALUD DEL ADULTO MAYOR",
+      "subtema": "Orden a Hospital Militar y Dirección de Sanidad Militar autorice evaluaciones y controles con especialistas y entregue suministro de tirillas y glucómetro así como pañales desechables en forma mensual"
+    },
+    {
+      "tema": "ACCION DE TUTELA PARA ORDENAR SUMINISTRO DE MEDICAMENTOS, EXAMENES O PROCEDIMIENTOS EXCLUIDOS DEL POS",
+      "subtema": "Reiteración de jurisprudencia sobre procedencia excepcional"
+    },
+    {
+      "tema": "RÉGIMEN ESPECIAL DE SALUD DE LAS FUERZAS MILITARES Y POLICIA NACIONAL",
+      "subtema": "Regulación legal"
+    },
+    {
+      "tema": "DERECHO A LA SALUD DEL ADULTO MAYOR",
+      "subtema": "Fundamental autónomo"
+    }
+  ]
+}

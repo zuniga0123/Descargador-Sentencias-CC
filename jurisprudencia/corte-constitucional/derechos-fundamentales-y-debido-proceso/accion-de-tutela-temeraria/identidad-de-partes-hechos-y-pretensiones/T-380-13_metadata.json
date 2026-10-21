@@ -1,0 +1,50 @@
+{
+  "radicado": "T-380-13",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2013,
+  "fecha_creacion": "2013-06-28",
+  "magistrado_ponente": "Luis Guillermo Guerrero Pérez",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCION DE TUTELA TEMERARIA",
+  "subtema": "Identidad de partes, hechos y pretensiones",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 743 de 2002"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2013/T-380-13.htm",
+  "fecha_descarga": "2026-10-21T14:45:25.028486+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2013-06-28",
+  "fecha_publicacion": null,
+  "numero": "T-380/13",
+  "tipo_cc": "T",
+  "prov_id": "4993",
+  "tema_relatoria": null,
+  "resumen": "En este caso se instaura la acción de tutela en contra de la Alcaldía de Pasto y la Junta de Acción Comunal del barrio San Vicente de la misma ciudad, para buscar la protección de los derechos fundamentales a la vida, al trabajo, a la vivienda, a la igualdad y a la dignidad humana, los cuales se alegan vulnerados en virtud de la orden de desalojo adoptada dentro de un procedimiento de infracción urbanística por ocupación de un bien público y la falta de reconocimiento de la existencia de una relación laboral. La entidad territorial demandada se opuso a las pretensiones de la acción de tutela alegando la existencia de una actuación temeraria. Por su parte, los jueces de instancia denegaron el amparo argumentando la improcedencia de la acción por el incumplimiento de los requisitos de inmediatez y subsidiariedad. La Sala de Revisión no evidenció una actuación temeraria sino la existencia de cosa juzgada constitucional, dada la identidad de objeto, causa y partes entre la presente solicitud de amparo y otra instaurada en el año 2011, la cual fue excluida de revisión. Se confirman las decisiones adoptadas por los jueces de instancia.",
+  "titulaciones": [
+    {
+      "tema": "ACCION DE TUTELA TEMERARIA",
+      "subtema": "Identidad de partes, hechos y pretensiones"
+    },
+    {
+      "tema": "TEMERIDAD",
+      "subtema": "Configuración"
+    },
+    {
+      "tema": "ACTUACION TEMERARIA Y COSA JUZGADA EN MATERIA DE TUTELA",
+      "subtema": "Configuración"
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA ALCALDIA",
+      "subtema": "Improcedencia por configurarse actuación temeraria"
+    },
+    {
+      "tema": "ACCION DE TUTELA TEMERARIA",
+      "subtema": "Improcedencia cuando hay duplicidad en la presentación de acciones de tutela"
+    }
+  ]
+}
