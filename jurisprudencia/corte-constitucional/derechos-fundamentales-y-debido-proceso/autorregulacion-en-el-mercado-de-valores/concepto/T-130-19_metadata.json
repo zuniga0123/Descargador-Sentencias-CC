@@ -1,0 +1,50 @@
+{
+  "radicado": "T-130-19",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2019,
+  "fecha_creacion": "2019-03-22",
+  "magistrado_ponente": "Luis Guillermo Guerrero Pérez",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "AUTORREGULACION EN EL MERCADO DE VALORES",
+  "subtema": "Concepto",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 964 de 2005",
+    "Decreto 2555 de 2010",
+    "Decreto 633 de 1993",
+    "Ley 510 de 1999",
+    "Decreto 1121 de 2008",
+    "Ley 43 de 1990",
+    "Decreto 2591 de 1991",
+    "Decreto Ley 2591 de 1991",
+    "Ley 1328 de 2009",
+    "Ley 145 de 1960"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2019/T-130-19.htm",
+  "fecha_descarga": "2026-10-21T09:44:53.803460+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2019-03-22",
+  "fecha_publicacion": "2019-04-05",
+  "numero": "T-130/19",
+  "tipo_cc": "T",
+  "prov_id": "33705",
+  "tema_relatoria": "ACCION DE TUTELA CONTRA AUTORREGULADOR DEL MERCADO DE VALORES. IMPROCEDENCIA POR EXISTIR OTRO MEDIO DE DEFENSA JUDICIAL.",
+  "resumen": "El demandante quien se desempeñó como Controlador Normativo de Interbolsa S.A., considera vulnerados sus derechos fundamentales al debido proceso y a la defensa, con ocasión de las decisiones proferidas por el Tribunal Disciplinario de la entidad demandada, dentro del proceso que culminó con una sanción consistente en la expulsión del mercado de valores y multa de orden económico. La Sala considera que el accionante, contrario a su pretensión, si estaba sujeto a control disciplinario por ser una persona natural vinculada a un intermediario de valores, en este caso a Interbolsa S.A. y tenía a su disposición la posibilidad de impugnar la decisión adoptada por el Autorregulador del Mercado de Valores, para así proteger sus derechos mediante un procedimiento propio y especial ante la jurisdicción civil. Se confirma la decisión de instancia que declaró IMPROCEDENTE el amparo invocado por el actor, puesto que no se satisface el requisito de subsidiariedad",
+  "titulaciones": [
+    {
+      "tema": "AUTORREGULACION EN EL MERCADO DE VALORES",
+      "subtema": "Concepto"
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA AUTORREGULADOR DEL MERCADO DE VALORES",
+      "subtema": "Improcedencia por existir otro medio de defensa judicial"
+    },
+    {
+      "tema": "AUTORREGULACION EN EL MERCADO DE VALORES",
+      "subtema": "Proceso disciplinario Ley 964 de 2005 y Decreto 2555 de 2010"
+    }
+  ]
+}

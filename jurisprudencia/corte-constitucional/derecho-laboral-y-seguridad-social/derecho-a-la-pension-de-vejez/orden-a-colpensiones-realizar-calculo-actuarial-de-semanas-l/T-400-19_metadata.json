@@ -1,0 +1,63 @@
+{
+  "radicado": "T-400-19",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2019,
+  "fecha_creacion": "2019-08-30",
+  "magistrado_ponente": "José Fernando Reyes Cuartas",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "DERECHO A LA PENSION DE VEJEZ",
+  "subtema": "Orden a Colpensiones realizar cálculo actuarial de semanas laboradas, certificadas y que no fueron consignadas al sistema, y proceda a reconocimiento del derecho pensional",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Ley 90 de 1946",
+    "Ley 797 de 2003",
+    "Ley 105 de 1993",
+    "Ley 336 de 1996",
+    "Decreto Ley 2591 de 1991",
+    "Decreto 2663 de 1950",
+    "Acto Legislativo 1 de 2005",
+    "Decreto 758 de 1990",
+    "Decreto 2665 de 1988",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2019/T-400-19.htm",
+  "fecha_descarga": "2026-10-21T09:35:56.482694+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2019-08-30",
+  "fecha_publicacion": "2019-09-06",
+  "numero": "T-400/19",
+  "tipo_cc": "T",
+  "prov_id": "34288",
+  "tema_relatoria": "APORTES PENSIONALES. OMISION DEL EMPLEADOR EN EL APORTE DE LAS COTIZACIONES AL SISTEMA NO PUEDE SER IMPUTADO AL TRABAJADOR.",
+  "resumen": "Mediante el auto 075/19 se declaró la nulidad de la Sentencia T-352/18, correspondiente a la resolución del caso que se analiza en esta oportunidad. A través de dicha disposición se ordenó también proferir una nueva decisión. La nulidad se dio luego de que la Sala Plena estableciera que Colpensiones no era la entidad llamada a responder por las semanas trabajadas y dejadas de cotizar por la empresa empleadora, dado que las mismas se dieron con anterioridad a la entrada en vigencia de la Ley 100 de 1993. El accionante interpuso la acción de tutela contra Colpensiones luego que le negara la pensión de vejez por no cumplir con el requisito relacionado con la densidad de semanas cotizadas. Según el peticionario, el período trabajado y no cotizado en una empresa, ajustaba el número de semanas necesario para acceder a la pensión. Con base en dicha consideración, solicitó la nulidad de las resoluciones que denegaron la prestación. Se analizan los siguientes temas: 1º. La procedencia excepcional de la acción de tutela para el reconocimiento de pensiones. 2º. La pensión de vejez en el sistema pensional colombiano, de cara a las obligaciones generales de los empleadores y, 3º. El régimen de transición de la Ley 100 de 1993. Teniendo en cuenta que se verificó que la empleadora a la que hizo alusión el peticionario certificó y no pagó un equivalente a 42.9 semanas, pero que la misma empresa dejó de existir en Colombia desde el año 1986, la Corte, dando aplicación al principio de solidaridad derivado del Estado Social de Derecho y de cara a las particulares condiciones en que se encuentra el actor respecto a su edad, estado de salud y situación económica, CONCEDE el amparo y dispone que Colpensiones realice un cálculo actuarial exclusivamente de las 16 semanas que le faltan para hacerse beneficiario del régimen transicional, con cargo al retroactivo al que tiene derecho. Lo anterior, en procura de no generar una afectación a la sostenibilidad financiera del Sistema.",
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA PENSION DE VEJEZ",
+      "subtema": "Orden a Colpensiones realizar cálculo actuarial de semanas laboradas, certificadas y que no fueron consignadas al sistema, y proceda a reconocimiento del derecho pensional"
+    },
+    {
+      "tema": "SISTEMA PENSIONAL EN COLOMBIA",
+      "subtema": "Evolución"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA PARA EL RECONOCIMIENTO DE PENSIÓN DE VEJEZ",
+      "subtema": "Procedencia excepcional cuando se vulneran derechos de las personas de la tercera edad"
+    },
+    {
+      "tema": "PENSION DE VEJEZ",
+      "subtema": "Evolución normativa"
+    },
+    {
+      "tema": "PENSION DE VEJEZ Y REGIMEN DE TRANSICION",
+      "subtema": "Aplicación del Acuerdo 049/90"
+    },
+    {
+      "tema": "PENSION DE VEJEZ",
+      "subtema": "Obligación del empleador de realizar aprovisionamiento hacia futuro sobre cálculo actuarial por tiempo de servicios"
+    }
+  ]
+}

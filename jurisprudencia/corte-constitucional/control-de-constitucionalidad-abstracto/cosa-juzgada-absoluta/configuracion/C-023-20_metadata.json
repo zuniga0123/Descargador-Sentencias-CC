@@ -1,0 +1,77 @@
+{
+  "radicado": "C-023-20",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2020,
+  "fecha_creacion": "2020-01-29",
+  "magistrado_ponente": "Antonio José Lizarazo Ocampo",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "COSA JUZGADA ABSOLUTA",
+  "subtema": "Configuración",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 1564 de 2012",
+    "Decreto 2067 de 1991",
+    "Ley 1395 de 2010",
+    "Ley 1450 de 2011",
+    "Ley 270 de 1996"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2020/C-023-20.htm",
+  "fecha_descarga": "2026-10-21T09:23:08.076681+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2020-01-29",
+  "fecha_publicacion": "2020-06-16",
+  "numero": "C-023/20",
+  "tipo_cc": "C",
+  "prov_id": "34959",
+  "tema_relatoria": "DURACIÓN DEL PROCESO. PLAZO DE UN AÑO PARA DICTAR SENTENCIA Y VENCIDO ESTE SIN QUE SE HAYA PROFERIDO, EL JUEZ PERDERÁ COMPETENCIA Y DEBERÁ REMITIR EL EXPEDIENTE AL JUEZ QUE SIGUE EN TURNO.",
+  "resumen": "Demanda de inconstitucionalidad contra el artículo 121 de la Ley 1564 de 2012, por medio de la cual se expide el Código General del Proceso y se dictan otras disposiciones. A juicio del demandante, la disposición normativa acusada vulnera el artículo 229 de la Constitución Política. Luego de revisar el asunto la Corte encontró acreditada la configuración de la cosa juzgada constitucional respecto de los incisos segundo, sexto y octavo del artículo 121 del CGP y la ineptitud sustantiva de la demanda frente a los demás contenidos normativos de la disposición objetada. Frente al primer escenario la Sala dispuso ESTARSE A LO RESUELTO en la sentencia C-443/19 y, en relación con el segundo se INHIBIÓ de emitir pronunciamiento alguno por no haberse construido el concepto de violación, indispensable para un fallo de fondo. Ello, porque no se presentaron argumentos claros, ciertos, específicos, pertinentes ni suficientes que constituyeran un auténtico cargo de inconstitucionalidad.",
+  "titulaciones": [
+    {
+      "tema": "COSA JUZGADA ABSOLUTA",
+      "subtema": "Configuración"
+    },
+    {
+      "tema": "COSA JUZGADA CONSTITUCIONAL",
+      "subtema": "Configuración"
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "Exigencia argumentativa del concepto de violación"
+    },
+    {
+      "tema": "PRINCIPIO PRO ACTIONE EN DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "Aplicación"
+    },
+    {
+      "tema": "INEPTITUD SUSTANTIVA DE LA DEMANDA",
+      "subtema": "Configuración"
+    },
+    {
+      "tema": "INHIBICION DE LA CORTE CONSTITUCIONAL",
+      "subtema": "No precisión de contenido normativo contra el que se dirige la acusación"
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "Control constitucional de normas vigentes o que no lo están pero que producen efectos o tienen vocación de producirlos"
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "Razones claras, ciertas, específicas, pertinentes y suficientes frente al concepto de violación"
+    },
+    {
+      "tema": "COSA JUZGADA FORMAL",
+      "subtema": "Configuración"
+    },
+    {
+      "tema": "COSA JUZGADA CONSTITUCIONAL",
+      "subtema": "Se configura cuando se presentan identidades procesales como objeto, causa petendi e identidad de partes"
+    },
+    {
+      "tema": "INHIBICION DE LA CORTE CONSTITUCIONAL POR INEPTITUD SUSTANTIVA DE LA DEMANDA",
+      "subtema": "Incumplimiento de requisitos de claridad, certeza, especificidad, pertinencia y suficiencia en los cargos"
+    }
+  ]
+}

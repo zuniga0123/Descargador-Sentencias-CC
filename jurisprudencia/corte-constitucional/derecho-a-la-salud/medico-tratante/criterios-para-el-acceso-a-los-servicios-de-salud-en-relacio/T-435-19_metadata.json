@@ -1,0 +1,58 @@
+{
+  "radicado": "T-435-19",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2019,
+  "fecha_creacion": "2019-09-24",
+  "magistrado_ponente": "Diana Fajardo Rivera",
+  "area": "Derecho a la Salud",
+  "tema": "MEDICO TRATANTE",
+  "subtema": "Criterios para el acceso a los servicios de salud en relación con las órdenes médicas impartidas",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto Ley 2591 de 1991",
+    "Decreto 2591 de 1991",
+    "Ley 1751 de 2015",
+    "Acto Legislativo 2 de 2009",
+    "Ley 1346 de 2009",
+    "Ley 1306 de 2009"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2019/T-435-19.htm",
+  "fecha_descarga": "2026-10-21T09:34:14.721457+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2019-09-24",
+  "fecha_publicacion": "2019-10-01",
+  "numero": "T-435/19",
+  "tipo_cc": "T",
+  "prov_id": "34386",
+  "tema_relatoria": "NO PROCEDE AMPARO PARA SERVICIO DE CUIDADOR POR CUANTO EL ACCIONANTE NO ACREDITÓ LA ORDEN DEL MEDICO TRATANTE. ADICIONALMENTE CUENTA CON RED DE APOYO FAMILIAR.",
+  "resumen": "La actora, actuando en representación de su progenitor, considera que la EPS Suramericana violó derechos fundamentales de éste, al negarse a autorizar el servicio de enfermera diurna o cuidador domiciliario diario que él requiere, en virtud de la discapacidad mental absoluta que padece y los múltiples padecimientos de salud que le fueron prescritos. La entidad argumentó su decisión en la ausencia de una orden médica. Se reitera el precedente constitucional relacionado con el derecho a la salud y se aborda la siguiente temática: 1º. El principio de integralidad de la precitada garantía y el derecho al diagnóstico efectivo. 2º. Los servicios e insumos incluidos y excluidos en el Plan de Beneficios en Salud y, 3º. La autorización del servicio de atención o cuidado domiciliario, en sus modalidades de enfermera o cuidadores domiciliarios. Teniendo en cuenta que el paciente cuenta con red de apoyo por parte de la familia para los cuidados que requiere, la Sala decide confirmar la decisión de instancia que NEGÓ el amparo invocado.",
+  "titulaciones": [
+    {
+      "tema": "MEDICO TRATANTE",
+      "subtema": "Criterios para el acceso a los servicios de salud en relación con las órdenes médicas impartidas"
+    },
+    {
+      "tema": "SERVICIO DE CUIDADOR PERMANENTE",
+      "subtema": "Improcedencia de tutela por cuanto no tiene orden de médico tratante y cuenta con red de apoyo familiar"
+    },
+    {
+      "tema": "SERVICIO DE ENFERMERÍA DOMICILIARIA DENTRO DEL SISTEMA GENERAL DE SALUD",
+      "subtema": "Médico tratante deberá ordenarlo"
+    },
+    {
+      "tema": "ACCESIBILIDAD A SERVICIOS MÉDICOS REQUERIDOS CON NECESIDAD",
+      "subtema": "En caso de no existir orden de médico tratante se protege la salud en la faceta de diagnóstico"
+    },
+    {
+      "tema": "SERVICIO DE CUIDADOR PERMANENTE",
+      "subtema": "Requisitos para el suministro por parte de EPS"
+    },
+    {
+      "tema": "ATENCION DOMICILIARIA",
+      "subtema": "Concepto"
+    }
+  ]
+}

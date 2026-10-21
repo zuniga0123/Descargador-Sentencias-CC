@@ -1,0 +1,52 @@
+{
+  "radicado": "T-160A-19",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2019,
+  "fecha_creacion": "2019-04-09",
+  "magistrado_ponente": "Luis Guillermo Guerrero Pérez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "INDEMNIZACION DERIVADA DE INCAPACIDAD PERMANENTE CAUSADA POR ACCIDENTE DE TRANSITO",
+  "subtema": "Término para presentar la solicitud ante la compañía aseguradora",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Decreto 56 de 2015",
+    "Decreto 780 de 2016",
+    "Ley 19 de 2012",
+    "Decreto 1352 de 2013",
+    "Decreto 1072 de 2015",
+    "Ley 100 de 1993",
+    "Decreto 56 de 2013"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2019/T-160A-19.htm",
+  "fecha_descarga": "2026-10-21T09:43:38.189531+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2019-04-09",
+  "fecha_publicacion": "2019-04-25",
+  "numero": "T-160A/19",
+  "tipo_cc": "T",
+  "prov_id": "33768",
+  "tema_relatoria": "TERMINO PARA PRESENTAR SOLICITUD DE INDEMNIZACION POR INCAPACIDAD PERMANENTE OCASIONADA POR ACCIDENTE DE TRANSITO.",
+  "resumen": "La accionante fue atropellada por un vehículo que estaba amparado por una póliza del SOAT, expedida por la empresa accionada. La peticionaria solicitó a esta empresa adelantar las gestiones pertinentes para calificar el grado de invalidez que le ocasionó dicho accidente y así tramitar ante ella el reconocimiento de la indemnización por incapacidad permanente. La accionada objetó esta reclamación argumentando que el término para formularla había prescrito. Esto sucedió porque contabilizó el plazo a partir de: 1º. La fecha del siniestro y no desde cuando se produjo el dictamen que decretó la pérdida de capacidad laboral y ocupacional en un 37.93%. 2º. Desde la fecha en que consignó el pago de los honorarios a la Junta Regional de Calificación de Invalidez y no desde cuando la peticionaria le solicitó adelantar los trámites pertinentes para adelantar la calificación. Se CONCEDE el amparo invocado y se ordena a la demandada reconocer y pagar la indemnización mencionada, con cargo a la póliza de SOAT que corresponda, en los términos del Decreto 56 de 2015, compilado a su vez en los artículos 2.6.1.4.1. y siguientes del Decreto 780 de 2016.",
+  "titulaciones": [
+    {
+      "tema": "INDEMNIZACION DERIVADA DE INCAPACIDAD PERMANENTE CAUSADA POR ACCIDENTE DE TRANSITO",
+      "subtema": "Término para presentar la solicitud ante la compañía aseguradora"
+    },
+    {
+      "tema": "INDEMNIZACION DERIVADA DE INCAPACIDAD PERMANENTE CAUSADA POR ACCIDENTE DE TRANSITO",
+      "subtema": "Requisitos"
+    },
+    {
+      "tema": "ACCION DE TUTELA FRENTE A CONTRATO DE SEGUROS",
+      "subtema": "Juez debe verificar si ante la existencia de otro medio de defensa judicial, éste es eficaz e idóneo"
+    },
+    {
+      "tema": "DERECHO A LA INDEMNIZACION DERIVADA DE INCAPACIDAD PERMANENTE CAUSADA POR ACCIDENTE DE TRANSITO",
+      "subtema": "Orden a Aseguradora reconocer y pagar indemnización con cargo a la póliza del SOAT"
+    }
+  ]
+}

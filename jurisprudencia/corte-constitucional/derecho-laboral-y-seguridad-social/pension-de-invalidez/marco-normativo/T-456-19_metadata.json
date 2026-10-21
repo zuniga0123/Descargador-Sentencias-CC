@@ -1,0 +1,54 @@
+{
+  "radicado": "T-456-19",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2019,
+  "fecha_creacion": "2019-10-04",
+  "magistrado_ponente": "Cristina Pardo Schlesinger",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "PENSIÓN DE INVALIDEZ",
+  "subtema": "Marco normativo",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 860 de 2003",
+    "Ley 100 de 1993",
+    "Ley 797 de 2003",
+    "Decreto 1507 de 2014",
+    "Decreto 917 de 1999"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2019/T-456-19.htm",
+  "fecha_descarga": "2026-10-21T09:32:43.718169+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2019-10-04",
+  "fecha_publicacion": "2019-10-17",
+  "numero": "T-456/19",
+  "tipo_cc": "T",
+  "prov_id": "34423",
+  "tema_relatoria": "PENSION DE INVALIDEZ. FECHA DE ESTRUCTURACION. DEBE TENERSE EN CUENTA A LA FECHA EN QUE SE CONCRETE LA IMPOSIBILIDAD DE DESARROLLAR CUALQUIER ACTIVIDAD LABORAL.",
+  "resumen": "La accionante, una mujer diagnosticada con cáncer de cérvix estadio III y otras patologías por las cuales fue calificada con pérdida de capacidad laboral del 55.43%, considera que la entidad demandada vulneró sus derechos fundamentales al negarle el reconocimiento y pago de la pensión de invalidez que reclamó, bajo el argumento de incumplir lo establecido en el artículo 1º de la ley 860 de 2003, es decir, tener 50 semanas de cotización en los 3 años anteriores a la fecha de estructuración de la invalidez. La peticionaria aduce que la entidad no tuvo en consideración la fecha en que fue incapacitada de forma continua y permanente por su médico tratante, a partir de la cual no pudo volver a trabajar más. Se aborda temática relacionada con el marco legal de la pensión de invalidez y los parámetros jurisprudenciales que determinan el momento de estructuración de la invalidez. La Corte recuerda que, la fecha de estructuración de la invalidez puede ser anterior o corresponder a la fecha de declaratoria de la pérdida de capacidad laboral, y se funda en la regla según la cual, la fecha de estructuración de invalidez corresponde al momento en que el afiliado al fondo de pensiones le es imposible procurarse para sí mismo los recursos de su subsistencia y continuar efectuando las cotizaciones al sistema. Se CONCEDE el amparo invocado.",
+  "titulaciones": [
+    {
+      "tema": "PENSIÓN DE INVALIDEZ",
+      "subtema": "Marco normativo"
+    },
+    {
+      "tema": "PENSIÓN DE INVALIDEZ",
+      "subtema": "Reglas establecidas por la Corte Constitucional para determinar la fecha de estructuración de la invalidez en los casos de enfermedad degenerativa, crónica o congénita"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA PARA EL RECONOCIMIENTO DE PENSIÓN DE INVALIDEZ",
+      "subtema": "Procedencia por vulneración al mínimo vital, al debido proceso, a la seguridad social y a la vida en condiciones dignas"
+    },
+    {
+      "tema": "PENSIÓN DE INVALIDEZ",
+      "subtema": "Condiciones que se deben acreditar según el artículo 1 de la ley 860 de 2003"
+    },
+    {
+      "tema": "DERECHO A LA PENSIÓN DE INVALIDEZ",
+      "subtema": "Orden a Fondo de Pensiones reconocer y pagar la pensión a sujeto de especial protección con pérdida de capacidad laboral, quien cumple requisitos"
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "radicado": "SU012-20",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2020,
+  "fecha_creacion": "2020-01-21",
+  "magistrado_ponente": null,
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+  "subtema": "Improcedencia por configurarse cosa juzgada constitucional en solicitud reliquidación de pensión gracia",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Decreto 2277 de 1979",
+    "Decreto Ley 2277 de 1979",
+    "Ley 1437 de 2011",
+    "Decreto 1265 de 1970"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2020/SU012-20.htm",
+  "fecha_descarga": "2026-10-21T09:25:54.100720+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2020-01-21",
+  "fecha_publicacion": "2021-05-28",
+  "numero": "SU.012/20",
+  "tipo_cc": "SU",
+  "prov_id": "35929",
+  "tema_relatoria": "ACCION DE TUTELA PARA SOLICITAR RELIQUIDACION DE PENSION GRACIA.IMPROCEDENCIA POR CONFIGURARSE COSA JUZGADA CONSTITUCIONAL",
+  "resumen": "En este asunto se controvierten decisiones judiciales adoptadas dentro de una acción de nulidad y restablecimiento del derecho de carácter laboral promovida por la accionante en contra de la Caja Nacional de Previsión Social (CAJANAL), con el fin de obtener la reliquidación de su pensión gracia y lograr la inclusión de todos los factores salariales devengados en el año anterior a la causación de la pensión, mientras estuvo nombrada en comisión en un cargo administrativo. Se aduce que dichas providencias incurrieron en defectos sustantivo, fáctico y en desconocimiento del precedente. La actora presentó dos solicitudes de amparo que compartían idénticos hechos, partes y pretensiones. Se Aborda temática relacionada con: 1º. El fenómeno de cosa juzgada en materia de tutela; 2º. La temeridad en la acción de tutela y; 3º. La jurisprudencia del Consejo de Estado sobre la liquidación de la pensión gracia de docentes cuando el último cargo desempeñado es de carácter administrativo. La Corte encontró acreditada la triple identidad de las acciones de tutela presentadas por la peticionaria en los años 2013 y 2106, en tanto compartían las mismas partes e idénticos hechos y causa petendi. No obstante lo anterior, la Sala consideró que en este asunto no se presentó una acción temeraria, sino la configuración del fenómeno de la cosa juzgada constitucional, toda vez que la tutelante no actuó de mala fe al interponer la segunda acción. Se confirman las decisiones de instancia que declararon IMPROCEDENTE el amparo invocado.",
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Improcedencia por configurarse cosa juzgada constitucional en solicitud reliquidación de pensión gracia"
+    },
+    {
+      "tema": "COSA JUZGADA CONSTITUCIONAL",
+      "subtema": "Jurisprudencia constitucional"
+    },
+    {
+      "tema": "ACCION DE TUTELA TEMERARIA",
+      "subtema": "Inexistencia para el caso"
+    },
+    {
+      "tema": "TEMERIDAD DE LA ACCION DE TUTELA",
+      "subtema": "Eventos en que no se constituye aunque concurran los elementos que la configuran"
+    },
+    {
+      "tema": "CORTE CONSTITUCIONAL",
+      "subtema": "Fallo o exclusión de revisión de proceso de tutela hacen tránsito a cosa juzgada constitucional"
+    },
+    {
+      "tema": "ACCION DE TUTELA ANTE PRESUNTA OCURRENCIA DE COSA JUZGADA",
+      "subtema": "Procedencia excepcional"
+    },
+    {
+      "tema": "PENSION GRACIA",
+      "subtema": "Liquidación"
+    },
+    {
+      "tema": "PENSION GRACIA",
+      "subtema": "Reliquidación"
+    },
+    {
+      "tema": "RELIQUIDACION DE LA PENSION GRACIA DE DOCENTES CUANDO EL ULTIMO CARGO DESEMPEÑADO ES DE CARACTER ADMINISTRATIVO",
+      "subtema": "Jurisprudencia del Consejo de Estado"
+    },
+    {
+      "tema": "TEMERIDAD",
+      "subtema": "Concepto y desarrollo jurisprudencial"
+    },
+    {
+      "tema": "COSA JUZGADA CONSTITUCIONAL",
+      "subtema": "Se configura cuando se presentan identidades procesales como objeto, causa petendi e identidad de partes"
+    }
+  ]
+}

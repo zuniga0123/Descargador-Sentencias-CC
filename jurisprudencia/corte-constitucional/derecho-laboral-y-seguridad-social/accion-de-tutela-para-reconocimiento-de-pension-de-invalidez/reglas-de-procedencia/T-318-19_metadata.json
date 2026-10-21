@@ -1,0 +1,44 @@
+{
+  "radicado": "T-318-19",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2019,
+  "fecha_creacion": "2019-07-16",
+  "magistrado_ponente": "Carlos Bernal Pulido",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "ACCION DE TUTELA PARA RECONOCIMIENTO DE PENSION DE INVALIDEZ",
+  "subtema": "Reglas de procedencia",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 860 de 2003",
+    "Ley 100 de 1993",
+    "Decreto 2591 de 1991",
+    "Decreto 4131 de 2011"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2019/T-318-19.htm",
+  "fecha_descarga": "2026-10-21T09:38:50.311198+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2019-07-16",
+  "fecha_publicacion": "2019-07-25",
+  "numero": "T-318/19",
+  "tipo_cc": "T",
+  "prov_id": "34111",
+  "tema_relatoria": "PENSION DE INVALIDEZ. REGLAS APLICABLES PARA ENFERMEDADES CONGÉNTICAS, CRÓNICAS Y DEGENERATIVAS.",
+  "resumen": "El accionante nació en 1965 y en el año 2017 fue diagnosticado con una enfermedad de tipo congénito y, en virtud de ella, fue calificado con una pérdida de capacidad laboral del 63.22%. Colpensiones le negó el reconocimiento y pago de la pensión de invalidez que reclamó, argumentando que incumplió con la densidad de semanas exigidas por la Ley 860 de 2003, esto es, tener 50 semanas de cotización dentro de los tres últimos años inmediatamente anteriores a la fecha de estructuración de la invalidez. La Corte reiteró el precedente jurisprudencial establecido en la Sentencia SU.588/16, mediante la cual dispuso unas reglas especiales para efectos de analizar el reconocimiento del derecho a la pensión de invalidez a personas que padecen enfermedades congénitas, crónicas o degenerativas y que fueron calificadas con fecha de estructuración que coinciden con el día de su nacimiento o con otra cercana a ese momento. En dicha providencia se indicó a las Administradoras de Fondos de Pensiones que en los anteriores casos deben verificar que: (i) la invalidez se estructuró como consecuencia de una enfermedad congénita, crónica y/o degenerativa y, (ii) que el solicitante realizó aportes en ejercicio de una efectiva y probada capacidad laboral residual. Además se les indicó a estas AFP que, para determinar el cumplimiento de los supuestos legales para acceder a la pensión de invalidez, debían determinar el momento real desde el cual se debía realizar el conteo de semanas cotizadas, para lo cual podían considerar, según el caso, (a) la fecha de calificación de la invalidez; (b) la fecha de la última cotización efectuada (porque se presume que fue allí cuando el padecimiento se manifestó de tal forma que le impidió continuar siendo laboralmente productivo y proveerse por sí mismo de sustento económico) o, (c) la fecha de solicitud del reconocimiento pensional. Se CONCEDE el amparo y se ordena a la entidad reconocer, liquidar y pagar la prestación reclamada.",
+  "titulaciones": [
+    {
+      "tema": "ACCION DE TUTELA PARA RECONOCIMIENTO DE PENSION DE INVALIDEZ",
+      "subtema": "Reglas de procedencia"
+    },
+    {
+      "tema": "PENSION DE INVALIDEZ DE PERSONA CON ENFERMEDAD CRONICA, DEGENERATIVA O CONGENITA",
+      "subtema": "Se deberán tener en cuenta las semanas cotizadas con posterioridad a la fecha de estructuración del estado de invalidez"
+    },
+    {
+      "tema": "PENSIÓN DE INVALIDEZ",
+      "subtema": "Reglas establecidas por la Corte Constitucional para determinar la fecha de estructuración de la invalidez en los casos de enfermedad degenerativa, crónica o congénita"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "radicado": "T-131-19",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2019,
+  "fecha_creacion": "2019-03-26",
+  "magistrado_ponente": "Carlos Bernal Pulido",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "DERECHO A LA PENSIÓN DE INVALIDEZ",
+  "subtema": "Trámites administrativos no pueden obstaculizar el reconocimiento del derecho a quien ya ha reunido los requisitos para acceder a ésta",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Decreto 1406 de 1999",
+    "Ley 100 de 1993",
+    "Ley 1149 de 2007",
+    "Ley 860 de 2003",
+    "Decreto 1409 de 1999",
+    "Decreto Ley 2158 de 1948",
+    "Decreto 19 de 2012",
+    "Decreto 1507 de 2014"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2019/T-131-19.htm",
+  "fecha_descarga": "2026-10-21T09:45:16.333657+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2019-03-26",
+  "fecha_publicacion": "2019-04-02",
+  "numero": "T-131/19",
+  "tipo_cc": "T",
+  "prov_id": "33690",
+  "tema_relatoria": "DERECHO A LA PENSION DE INVALIDEZ – CONTROVERSIAS ENTRE LAS ADMINISTRADORAS DE FONDOS DE PENSIONES NO PUEDEN AFECTAR GOCE EFECTIVO DE DERECHOS PENSIONALES.",
+  "resumen": "Manifiesta el accionante que estando afiliado al fondo privado COLFONDOS S.A., sufrió un accidente de tránsito que le ocasionó múltiples lesiones y secuelas. Solicitó traslado de sus aportes a COLPENSIONES y fue calificado por el Grupo Médico Laboral, con pérdida de la capacidad laboral del 40.71%. La Junta Regional de Calificación de Invalidez confirmó la fecha de estructuración y el origen del riesgo, pero modifico el porcentaje a 58.44%, por lo cual el actor solicitó el reconocimiento y pago de la pensión de invalidez. COLPENSIONES negó el reconocimiento de la prestación argumentando falta de competencia ya que a la fecha de estructuración de la invalidez, el solicitante no se encontraba afiliado a esa entidad y que el competente para resolver la petición era COLFONDOS. La Sala concluyó que COLPENSIONES vulneró los derechos fundamentales del accionante, al negarse a tramitar el reconocimiento de la pensión de invalidez: 1) pese a que tenía la competencia para hacerlo y 2) al pasar por alto que las controversias entre administradoras de fondos de pensiones no pueden afectar el goce efectivo de los derechos pensionales de los afiliados. Se REVOCA la decisión del Tribunal Superior y se CONCEDE el amparo del derecho fundamental a la seguridad social",
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA PENSIÓN DE INVALIDEZ",
+      "subtema": "Trámites administrativos no pueden obstaculizar el reconocimiento del derecho a quien ya ha reunido los requisitos para acceder a ésta"
+    },
+    {
+      "tema": "DERECHO A LA PENSIÓN DE INVALIDEZ",
+      "subtema": "Orden a Colpensiones resolver de fondo la solicitud pensional"
+    },
+    {
+      "tema": "PENSIÓN DE INVALIDEZ",
+      "subtema": "Conflicto entre Administradoras de Fondos de Pensiones no puede afectar las garantías fundamentales del afiliado"
+    },
+    {
+      "tema": "DERECHO A LA PENSIÓN DE INVALIDEZ",
+      "subtema": "Subregla no riñe con lo resuelto en la sentencia T-672 de 2016"
+    },
+    {
+      "tema": "PENSIÓN DE INVALIDEZ",
+      "subtema": "Requisitos para obtener reconocimiento y pago"
+    }
+  ]
+}

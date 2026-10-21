@@ -1,0 +1,50 @@
+{
+  "radicado": "T-105-19",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2019,
+  "fecha_creacion": "2019-03-12",
+  "magistrado_ponente": "Carlos Bernal Pulido",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+  "subtema": "Improcedencia por no configurarse defectos alegados por el accionante en proceso penal",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 890 de 2004",
+    "Ley 599 de 2000",
+    "Decreto Ley 100 de 1980",
+    "Ley 906 de 2004",
+    "Decreto 2591 de 1991",
+    "Ley 600 de 2000"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2019/T-105-19.htm",
+  "fecha_descarga": "2026-10-21T09:46:20.500698+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2019-03-12",
+  "fecha_publicacion": "2019-03-19",
+  "numero": "T-105/19",
+  "tipo_cc": "T",
+  "prov_id": "33653",
+  "tema_relatoria": "ACCION DE TUTELA CONTRA PROVIDENCIAS JUDICIALES. IMPROCEDENCIA POR NO CONFIGURARSE DEFECTOS ALEGADOS EN PROCESO PENAL.",
+  "resumen": "Se atacan decisiones judiciales adoptadas en el marco de un proceso penal iniciado en contra de la accionante, a través del cual resultó condenada. Se aduce que dichas providencias incurrieron en los defectos procedimental absoluto, orgánico y sustantivo, en particular, por la aplicación desfavorable del incremento punitivo previsto en la Ley 890 de 2004, la falta de motivación e incongruencia de los mismos. Luego de realizar un examen para verificar el cumplimiento de los requisitos genéricos de procedibilidad de la acción de tutela contra providencias judiciales, la Corte decidió NEGAR el amparo invocado.",
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Improcedencia por no configurarse defectos alegados por el accionante en proceso penal"
+    },
+    {
+      "tema": "PRESCRIPCION DE LA ACCION PENAL",
+      "subtema": "Acción de tutela es improcedente para debatir su controversia ante existencia de medio de defensa idóneo como el recurso extraordinario de revisión"
+    },
+    {
+      "tema": "IMPUGNACION DE SENTENCIA CONDENATORIA",
+      "subtema": "Acción de revisión como mecanismo para impugnar decisiones judiciales donde se alega prescripción de acción penal"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Requisitos generales y especiales de procedibilidad"
+    }
+  ]
+}

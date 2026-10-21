@@ -1,0 +1,71 @@
+{
+  "radicado": "C-123-20",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2020,
+  "fecha_creacion": "2020-04-15",
+  "magistrado_ponente": "Carlos Bernal Pulido",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "ACCION PUBLICA DE INCONSTITUCIONALIDAD",
+  "subtema": "Requisitos",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2067 de 1991",
+    "Ley 84 de 1873",
+    "Ley 57 de 1887",
+    "Decreto Ley 2067 de 1991",
+    "Ley 600 de 2000",
+    "Ley 1098 de 2006",
+    "Ley 54 de 1990"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2020/C-123-20.htm",
+  "fecha_descarga": "2026-10-21T09:22:25.554532+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2020-04-15",
+  "fecha_publicacion": "2020-07-17",
+  "numero": "C-123/20",
+  "tipo_cc": "C",
+  "prov_id": "35028",
+  "tema_relatoria": "MATRIMONIO CIVIL. UNA DE LAS FINALIDADES DE ESTE CONTRATO ES LA PROCREACIÓN.",
+  "resumen": "Demanda de inconstitucionalidad en contra del artículo 113 (parcial) del Código Civil. En este caso se cuestionó la constitucionalidad de las expresiones “con el fin de” y “procrear”. Según el demandante, el Código Civil consagró el matrimonio como un contrato solemne, lo que a la luz de las reglas que lo rigen implica que se le aplique el régimen de responsabilidad de los contratos. En particular, afirmó que desconocer la finalidad de procreación podría derivar en el incumplimiento de una de las obligaciones del contrato matrimonial, lo cual otorga al contratante ofendido el derecho a reclamar la satisfacción del débito contractual y la correspondiente indemnización de perjuicios por las vías judiciales. Por tanto, la parte que no está en la disposición de procrear, tendría la obligación de indemnizar a la otra parte contratante. También adujo, que definir la procreación como uno de los fines del matrimonio desconoce la libertad que tienen las parejas de decidir si procrean o no, puesto que su intimidad es inviolable. Afirmó, que la procreación simplemente debería ser una decisión libre de la pareja, más no un fin del contrato de matrimonio. La Corte concluyó que los cargos propuestos no son aptos, al no satisfacer las exigencias fijadas por la jurisprudencia constitucional, en tanto las razones presentadas por el accionante carecen de las cargas mínimas de certeza y suficiencia. Con base en lo anterior, la Sala Plena se INHIBIÓ de emitir pronunciamiento de fondo.",
+  "titulaciones": [
+    {
+      "tema": "ACCION PUBLICA DE INCONSTITUCIONALIDAD",
+      "subtema": "Requisitos"
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "No prospera el cargo por tratarse de una interpretación subjetiva del demandante"
+    },
+    {
+      "tema": "ACCION PUBLICA DE INCONSTITUCIONALIDAD",
+      "subtema": "Incumplimiento del requisito de certeza y suficiencia"
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "Carga mínima de argumentación"
+    },
+    {
+      "tema": "LEY",
+      "subtema": "Presunción de constitucionalidad"
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "Requisitos que debe tener las razones del concepto de violación"
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "Requisitos del concepto de violación"
+    },
+    {
+      "tema": "DEBIDO PROCESO",
+      "subtema": "Levantamiento de suspensión de términos"
+    },
+    {
+      "tema": "CONCEPTO DE VIOLACION EN DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "Razones claras, ciertas, específicas, pertinentes y suficientes"
+    }
+  ]
+}

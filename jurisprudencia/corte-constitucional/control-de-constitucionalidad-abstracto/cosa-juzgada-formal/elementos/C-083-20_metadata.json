@@ -1,0 +1,54 @@
+{
+  "radicado": "C-083-20",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2020,
+  "fecha_creacion": "2020-02-26",
+  "magistrado_ponente": "Cristina Pardo Schlesinger",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "COSA JUZGADA FORMAL",
+  "subtema": "Elementos",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 1955 de 2019",
+    "Decreto 2067 de 1991",
+    "Ley 397 de 1997",
+    "Ley 70 de 1993",
+    "Ley 489 de 1998",
+    "Ley 152 de 1994"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2020/C-083-20.htm",
+  "fecha_descarga": "2026-10-21T09:24:35.882189+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2020-02-26",
+  "fecha_publicacion": "2020-03-12",
+  "numero": "C-083/20",
+  "tipo_cc": "C",
+  "prov_id": "34816",
+  "tema_relatoria": "BIENES CULTURALES. EVENTOS EN LOS QUE EXCEPCIONALMENTE EL ESTADO PUEDE ENAJENAR ESTOS BIENES A PARTICULARES.",
+  "resumen": "Demanda de inconstitucionalidad contra el inciso segundo del artículo 83 de la Ley 1955 de 2019, por el cual se expide el Plan Nacional de Desarrollo 2018-2022 “Pacto por Colombia, Pacto por la Equidad”. El demandante considera que la disposición acusada desconoce lo dispuesto en el artículo 72 de la Constitución, el cual consagra expresamente que el patrimonio arqueológico y otros bienes culturales que conforman la identidad nacional son inalienables. Teniendo en cuenta que el cargo formulado fue analizado previamente por la Corporación, la Sala Plena dispuso ESTARSE A LO RESUELTO en la Sentencia C-082/20 que declaró exequible la expresión “excepcionalmente podrán enajenarse a particulares bienes de interés cultural de propiedad de entidades públicas”, en el entendido de que no comprende el patrimonio arqueológico y los bienes culturales decisivos para la configuración y conservación de la identidad nacional.",
+  "titulaciones": [
+    {
+      "tema": "COSA JUZGADA FORMAL",
+      "subtema": "Elementos"
+    },
+    {
+      "tema": "COSA JUZGADA CONSTITUCIONAL",
+      "subtema": "Jurisprudencia constitucional"
+    },
+    {
+      "tema": "COSA JUZGADA CONSTITUCIONAL",
+      "subtema": "Configuración"
+    },
+    {
+      "tema": "COSA JUZGADA CONSTITUCIONAL",
+      "subtema": "Efectos de la exequibilidad o inexequibilidad no son iguales"
+    },
+    {
+      "tema": "SENTENCIA DE LA CORTE CONSTITUCIONAL",
+      "subtema": "Obligatoriedad responde a la protección del principio de seguridad jurídica y a la guarda de la primacía de la Constitución"
+    }
+  ]
+}

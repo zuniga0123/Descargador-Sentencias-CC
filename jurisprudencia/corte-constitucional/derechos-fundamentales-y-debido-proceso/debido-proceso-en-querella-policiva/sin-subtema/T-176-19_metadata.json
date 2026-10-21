@@ -1,0 +1,56 @@
+{
+  "radicado": "T-176-19",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2019,
+  "fecha_creacion": "2019-05-03",
+  "magistrado_ponente": "Carlos Bernal Pulido",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "DEBIDO PROCESO EN QUERELLA POLICIVA",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 1801 de 2016",
+    "Ley 1437 de 2011",
+    "Decreto 2591 de 1991",
+    "Ley 1564 de 2012"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2019/T-176-19.htm",
+  "fecha_descarga": "2026-10-21T09:43:11.496796+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2019-05-03",
+  "fecha_publicacion": "2019-05-08",
+  "numero": "T-176/19",
+  "tipo_cc": "T",
+  "prov_id": "33817",
+  "tema_relatoria": "DEBIDO PROCESO EN EL CURSO DE UNA QUERELLA POLICIVA",
+  "resumen": "Se cuestionan las actuaciones policivas adoptadas en el trámite de una querella iniciada por perturbación a la posesión y a la mera tenencia, en la cual la Fundación actora se hizo parte en el proceso alegando ser legítima propietaria y poseedora de los predios objeto de discusión. Luego de verificar la procedencia de la acción de tutela contra providencias judiciales la Corte concluyó lo siguiente: 1º. La no suspensión del proceso policivo a pesar de la recusación formulada por la accionante, configuró los defectos sustantivo y procedimental absoluto, en tanto desconoció abiertamente el procedimiento previsto en el artículo 145 (1) del CGP, el cual resultaba aplicable al caso concreto, habida cuenta de sus particularidades procesales. 2º. La no suspensión de la audiencia de traslado de informe y recepción de testimonios a pesar de la inasistencia de la parte actora configuró un defecto procedimental absoluto, por cuanto se actuó al margen del procedimiento previsto por el artículo 223 Par. 1 del CNPC, declarado exequible de manera condicional por la Sentencia C-349/17. Se CONCEDE el amparo invocado, se dejan sin efectos todas las actuaciones surtidas en el mencionado proceso policivo a partir de la fecha y hora en que la tutelante radicó el escrito de recusación contra la Inspectora de Policía demandada y, se ordena rehacer el trámite de dicha causa.",
+  "titulaciones": [
+    {
+      "tema": "DEBIDO PROCESO EN QUERELLA POLICIVA",
+      "subtema": null
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Procedencia en caso de proceso policivo que no tiene otro mecanismo de defensa judicial"
+    },
+    {
+      "tema": "IMPEDIMENTOS Y RECUSACIONES EN PROCESO POLICIVO",
+      "subtema": "Reglas en relación con la suspensión por impedimento o recusación"
+    },
+    {
+      "tema": "DEBIDO PROCESO EN QUERELLA POLICIVA",
+      "subtema": "Vulneración por la no suspensión del proceso policivo, a pesar de la recusación formulada por la accionante"
+    },
+    {
+      "tema": "DEBIDO PROCESO EN QUERELLA POLICIVA",
+      "subtema": "Vulneración por cuanto privó a la interviniente de manera arbitraria, de las oportunidades procesales y los recursos de ley para ejercer su derecho de defensa"
+    },
+    {
+      "tema": "INSPECTOR DE POLICIA",
+      "subtema": "Autoridad administrativa que excepcionalmente ejerce función jurisdiccional"
+    }
+  ]
+}

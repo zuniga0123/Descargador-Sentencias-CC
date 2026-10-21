@@ -1,0 +1,112 @@
+{
+  "radicado": "SU011-20",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2020,
+  "fecha_creacion": "2020-01-21",
+  "magistrado_ponente": "Cristina Pardo Schlesinger",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "CONTRIBUCIONES ESPECIALES",
+  "subtema": "Como tributos vinculados, compensan el beneficio percibido por el contribuyente",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 791 de 2002",
+    "Ley 142 de 1994",
+    "Ley 298 de 1996",
+    "Decreto 1000 de 1997",
+    "Ley 143 de 1994",
+    "Decreto 2277 de 2012",
+    "Decreto 227 de 2012",
+    "Ley 1437 de 2011",
+    "Ley 797 de 2003",
+    "Ley 69 de 1946",
+    "Ley 12 de 1932",
+    "Ley 1250 de 2008",
+    "Ley 100 de 1993",
+    "Decreto 650 de 1996",
+    "Ley 904 de 2004",
+    "Ley 16 de 1972"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2020/SU011-20.htm",
+  "fecha_descarga": "2026-10-21T09:25:50.295975+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2020-01-21",
+  "fecha_publicacion": "2021-07-23",
+  "numero": "SU.011/20",
+  "tipo_cc": "SU",
+  "prov_id": "36135",
+  "tema_relatoria": "ACCION DE TUTELA CONTRA PROVIDENCIAS JUDICIALES-IMPROCEDENCIA POR INEXISTENCIA DE DEFECTOS SUSTANTIVO Y DESCONOCIMIENTO DEL PRECEDENTE EN MATERIA TRIBUTARIA",
+  "resumen": "La Superintendencia de Servicios Públicos Domiciliarios considera que la autoridad judicial accionada vulneró sus derechos fundamentales, al proferir sentencia en el marco de un proceso de nulidad y restablecimiento del derecho iniciado en su contra por las Empresas Públicas de Medellín. Se aduce que dicho fallo incurrió en defecto sustantivo y en desconocimiento del precedente, en tanto declaró la nulidad de los oficios mediante los cuales la Superintendencia negó a las EPM la solicitud de devolución de lo pagado en exceso por concepto de la contribución especial a cargo de las empresas de servicios públicos domiciliarios durante los años 2008, 2009 y 2010, con fundamento en la nulidad de la Resolución que establecía la base del cálculo de esa contribución. Según la accionada, la sentencia que declaró la nulidad de la Resolución en mención no tenía efectos retroactivos y, por lo tanto, no podía afectar situaciones consolidadas. Se analiza temática relacionada con: 1º. La procedencia excepcional de la acción de tutela contra providencias judiciales y actos administrativos. 2º. Las contribuciones especiales en servicios públicos. 3º. La potestad reglamentaria de la Superintendencia de Servicios Públicos en materia de contribuciones especiales. 4º. Los efectos de la sentencia de nulidad sobre obligaciones tributarias no consolidadas y, 5º. Los defectos sustantivo y desconocimiento del precedente alegados. Por no encontrar la vulneración de los derechos fundamentales alegada, la Corte decidió declarar IMPROCEDENTE la acción de tutela con respecto a los asuntos no alegados en el medio de control ordinario y negar la protección de los derechos invocados.",
+  "titulaciones": [
+    {
+      "tema": "CONTRIBUCIONES ESPECIALES",
+      "subtema": "Como tributos vinculados, compensan el beneficio percibido por el contribuyente"
+    },
+    {
+      "tema": "CONTRIBUCION ESPECIAL",
+      "subtema": "Características materiales del tributo"
+    },
+    {
+      "tema": "CONTRIBUCIONES ESPECIALES",
+      "subtema": "Fundamento y finalidad"
+    },
+    {
+      "tema": "TASA Y CONTRIBUCION ESPECIAL",
+      "subtema": "Autoridades pueden fijar tarifa cuando la ley, ordenanza o Acuerdo señalen el sistema y método para definir costos y beneficios, así como su reparto"
+    },
+    {
+      "tema": "SITUACION JURIDICA CONSOLIDADA EN MATERIA TRIBUTARIA",
+      "subtema": "Elementos"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Requisitos generales y especiales de procedibilidad"
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA PROVIDENCIAS JUDICIALES POR DESCONOCIMIENTO DEL PRECEDENTE JURISPRUDENCIAL DE LA CORTE CONSTITUCIONAL",
+      "subtema": "Formas en que puede ser desconocida la jurisprudencia"
+    },
+    {
+      "tema": "SITUACION JURIDICA CONSOLIDADA EN MATERIA TRIBUTARIA",
+      "subtema": null
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Improcedencia por inexistencia de defectos sustantivo y desconocimiento del precedente en materia tributaria"
+    },
+    {
+      "tema": "CARACTERIZACION DEL DEFECTO MATERIAL O SUSTANTIVO COMO CAUSAL DE PROCEDIBILIDAD DE LA ACCION DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Reiteración de jurisprudencia"
+    },
+    {
+      "tema": "OBLIGACIÓN TRIBUTARIA",
+      "subtema": "Término para solicitar devolución de lo pagado en exceso"
+    },
+    {
+      "tema": "PRINCIPIO DE LEGALIDAD DEL TRIBUTO",
+      "subtema": "No implica que el legislador deba agotar la regulación de todas las materias hasta el menor detalle"
+    },
+    {
+      "tema": "DECLARATORIA DE NULIDAD DE ACTO ADMINISTRATIVO DE CONTENIDO GENERAL",
+      "subtema": "Efectos en el tiempo"
+    },
+    {
+      "tema": "DECLARATORIA DE NULIDAD DE ACTO ADMINISTRATIVO DE CONTENIDO GENERAL",
+      "subtema": "Líneas jurisprudenciales del Consejo de Estado"
+    },
+    {
+      "tema": "IMPUESTOS, TASAS Y CONTRIBUCIONES ESPECIALES",
+      "subtema": "Diferencias"
+    },
+    {
+      "tema": "POTESTAD REGLAMENTARIA EN MATERIA TRIBUTARIA",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "SUPERINTENDENCIA DE SERVICIOS PUBLICOS DOMICILIAROS",
+      "subtema": "Potestad reglamentaria en materia de contribuciones especiales"
+    }
+  ]
+}

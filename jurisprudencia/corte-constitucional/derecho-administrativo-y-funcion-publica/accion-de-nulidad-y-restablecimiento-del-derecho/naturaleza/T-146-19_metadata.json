@@ -1,0 +1,50 @@
+{
+  "radicado": "T-146-19",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2019,
+  "fecha_creacion": "2019-04-02",
+  "magistrado_ponente": "Gloria Stella Ortiz Delgado",
+  "area": "Derecho Administrativo y Función Pública",
+  "tema": "ACCION DE NULIDAD Y RESTABLECIMIENTO DEL DERECHO",
+  "subtema": "Naturaleza",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 1437 de 2011",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2019/T-146-19.htm",
+  "fecha_descarga": "2026-10-21T09:44:50.044528+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2019-04-02",
+  "fecha_publicacion": "2019-04-05",
+  "numero": "T-146/19",
+  "tipo_cc": "T",
+  "prov_id": "33708",
+  "tema_relatoria": "ACCION DE TUTELA PARA RECLAMAR ESTABILIDAD LABORAL REFORZADA. IMPROCEDENCIA POR EXISTIR OTROS MEDIOS DE DEFENSA JUDICIAL Y NO ACREDITAR PERJUICIO IRREMEDIABLE.",
+  "resumen": "El accionante considera vulnerado sus derechos fundamentales al trabajo, a la estabilidad laboral reforzada, a la seguridad social y al mínimo vital con la decisión de la accionada de dar por terminado su nombramiento en provisionalidad, según él, por agotamiento de la lista de elegibles. Manifiesta que no fue tenida en cuenta su condición de sujeto de especial protección por ser padre cabeza de familia y haber sido diagnosticado con una enfermedad catastrófica que deteriora progresivamente su salud. En su respuesta, la entidad demandada argumenta que el cargo que ocupaba el accionante fue ocupado por una persona de la lista de elegibles, por lo cual el derecho de este último prevalece sobre el del peticionario. La Sala DECLARO IMPROCEDENTE el amparo solicitado puesto que no encontró acreditado el requisito se subsidiariedad, como tampoco la existencia de un perjuicio irremediable",
+  "titulaciones": [
+    {
+      "tema": "ACCION DE NULIDAD Y RESTABLECIMIENTO DEL DERECHO",
+      "subtema": "Naturaleza"
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA ACTO ADMINISTRATIVO DE DESVINCULACION DE SERVIDOR PUBLICO",
+      "subtema": "Improcedencia por incumplir requisito de subsidiariedad y no acreditar perjuicio irremediable"
+    },
+    {
+      "tema": "MEDIDAS CAUTELARES EN EL PROCESO DE NULIDAD Y RESTABLECIMIENTO DEL DERECHO",
+      "subtema": "Ley 1437 de 2011 art. 229"
+    },
+    {
+      "tema": "MEDIDAS CAUTELARES ORDINARIAS Y MEDIDAS CAUTELARES DE URGENCIA EN EL PROCESO DE NULIDAD Y RESTABLECIMIENTO DEL DERECHO",
+      "subtema": "Oportunidad para decretarlas"
+    },
+    {
+      "tema": "ACCION DE TUTELA EN MATERIA DE DERECHO A LA ESTABILIDAD LABORAL REFORZADA",
+      "subtema": "Improcedencia de reintegro por existir otro medio de defensa judicial y no acreditar perjuicio irremediable"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "radicado": "T-212-19",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2019,
+  "fecha_creacion": "2019-05-20",
+  "magistrado_ponente": "Alejandro Linares Cantillo",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "INSCRIPCION EN EL REGISTRO UNICO DE VICTIMAS",
+  "subtema": "Límite temporal para realizar la declaración como víctima",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 1448 de 2011",
+    "Decreto 2591 de 1991",
+    "Ley 387 de 1997",
+    "Decreto 2569 de 2000",
+    "Decreto 4800 de 2011",
+    "Decreto Ley 2591 de 1991",
+    "Decreto 1084 de 2015",
+    "Decreto 1290 de 2008",
+    "Ley 418 de 1997"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2019/T-212-19.htm",
+  "fecha_descarga": "2026-10-21T09:41:22.005484+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2019-05-20",
+  "fecha_publicacion": "2019-06-06",
+  "numero": "T-212/19",
+  "tipo_cc": "T",
+  "prov_id": "33900",
+  "tema_relatoria": "ACCION DE TUTELA PARA SOLICITAR INSCRIPCION EN EL RUV. IMPROCEDENCIA POR HABER REALIZADO DECLARACION DEL HECHO VICTIMIZANTE FUERA DEL TERMINO PREVISTO.",
+  "resumen": "El actor aduce que la UARIV vulneró sus derechos fundamentales al negarse a inscribirlo en el Registro Único de Víctimas, bajo el argumento de haber hecho su declaración como víctima de manera extemporánea y sin haber explicado las circunstancias que le impidieron hacerlo oportunamente. Se reitera lo dispuesto en la Sentencia T-519/17 en cuanto al fundamento constitucional y el marco legal de la ayuda humanitaria y de la reparación integral. Así mismo, se aborda temática relacionada con el fundamento constitucional del término previsto en el artículo 155 de la Ley 1448 de 2011. Se NIEGA el amparo invocado.",
+  "titulaciones": [
+    {
+      "tema": "INSCRIPCION EN EL REGISTRO UNICO DE VICTIMAS",
+      "subtema": "Límite temporal para realizar la declaración como víctima"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA PARA SOLICITAR INSCRIPCION EN EL RUV",
+      "subtema": "Improcedencia por haber realizado la declaración del hecho victimizante fuera del término previsto"
+    },
+    {
+      "tema": "DERECHO FUNDAMENTAL A LA AYUDA HUMANITARIA",
+      "subtema": "Deber del Estado de garantizar la entrega de la ayuda humanitaria a población desplazada"
+    },
+    {
+      "tema": "VÍCTIMAS DEL CONFLICTO ARMADO INTERNO",
+      "subtema": "Procedencia de tutela por ser sujetos de especial protección constitucional"
+    }
+  ]
+}

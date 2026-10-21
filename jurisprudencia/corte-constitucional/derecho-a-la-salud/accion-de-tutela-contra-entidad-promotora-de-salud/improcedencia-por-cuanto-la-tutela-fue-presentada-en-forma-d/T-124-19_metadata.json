@@ -1,0 +1,43 @@
+{
+  "radicado": "T-124-19",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2019,
+  "fecha_creacion": "2019-03-21",
+  "magistrado_ponente": "José Fernando Reyes Cuartas",
+  "area": "Derecho a la Salud",
+  "tema": "ACCION DE TUTELA CONTRA ENTIDAD PROMOTORA DE SALUD",
+  "subtema": "Improcedencia por cuanto la tutela fue presentada en forma directa, sin que hubiere mediado una solicitud previa de la prestación de los servicios a la entidad demandada",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto Ley 2591 de 1991",
+    "Ley 1751 de 2015",
+    "Ley 74 de 1968"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2019/T-124-19.htm",
+  "fecha_descarga": "2026-10-21T09:45:46.303798+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2019-03-21",
+  "fecha_publicacion": "2019-03-26",
+  "numero": "T-124/19",
+  "tipo_cc": "T",
+  "prov_id": "33681",
+  "tema_relatoria": "ACCION DE TUTELA CONTRA E.P.S. IMPROCEDENCIA POR SER PRESENTADA EN FORMA DIRECTA, SIN MEDIAR UNA SOLICITUD PREVIA DE PRESTACION DE SERVICIOS.",
+  "resumen": "El accionante, un adulto de 68 años quien fue diagnosticado con hipertensión arterial, considera vulnerados sus derechos debido a que los medicamentos del plan de beneficios para tratar su patología, no tuvieron efecto favorable en su salud por lo cual su médico tratante le prescribió irbesartan 150 mg + amlodipinso 5 mg. Manifiesta que el galeno diligenció el formulario para tecnologías en salud no incluidas en el plan de beneficios, especificando los criterios que acreditan la necesidad del suministro ante el riesgo inminente para su vida. Sin embargo, el paciente no acudió a su E.P.S a solicitarlo. La Sala reitera jurisprudencia sobre i) Derecho fundamental a la salud ii) Requisitos para acceder a medicamentos no incluidos en el plan de beneficios en salud con cargo a la UPC. y iii) derechos y deberes de los pacientes. SE NIEGA POR IMPROCEDENTE, al no existir negativa por cuenta de la E.P.S para la entrega del medicamento",
+  "titulaciones": [
+    {
+      "tema": "ACCION DE TUTELA CONTRA ENTIDAD PROMOTORA DE SALUD",
+      "subtema": "Improcedencia por cuanto la tutela fue presentada en forma directa, sin que hubiere mediado una solicitud previa de la prestación de los servicios a la entidad demandada"
+    },
+    {
+      "tema": "DERECHOS Y DEBERES DE LOS PACIENTES",
+      "subtema": "Obligaciones de los usuarios del sistema y derecho a recibir información clara y precisa sobre los servicios y mecanismos para hacer valer sus derechos"
+    },
+    {
+      "tema": "PLAN DE BENEFICIOS EN SALUD",
+      "subtema": "Concepto"
+    }
+  ]
+}
