@@ -1,0 +1,59 @@
+{
+  "radicado": "T-211-13",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2013,
+  "fecha_creacion": "2013-04-15",
+  "magistrado_ponente": "Nilson Pinilla Pinilla",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "PENSION DE SOBREVIVIENTES Y DERECHO AL MINIMO VITAL",
+  "subtema": "Orden a BBVA Horizonte Pensiones y Cesantías reconocer y pagar la pensión",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 797 de 2003",
+    "Decreto 2591 de 1991",
+    "Ley 906 de 2004",
+    "Decreto 2067 de 1991",
+    "Ley 100 de 1993",
+    "Ley 712 de 2001",
+    "Ley 860 de 2003"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2013/T-211-13.htm",
+  "fecha_descarga": "2026-10-21T14:51:46.130894+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2013-04-15",
+  "fecha_publicacion": null,
+  "numero": "T-211/13",
+  "tipo_cc": "T",
+  "prov_id": "4760",
+  "tema_relatoria": null,
+  "resumen": "Igualdad, debido proceso, seguridad social, mínimo vital. Tutela contra providencia judicial. La accionante inició un proceso ordinario laboral en contra de BBVA Horizonte, con el fin de lograr el reconocimiento y pago de la pensión de sobrevivientes causada a raíz del fallecimiento de su cónyuge. Esta prestación previamente había sido denegada por la AFP, bajo el argumento del incumplimiento del requisito de fidelidad al sistema, establecido en el literal b) del artículo 12 de la ley 797 de 2003, el cual se encontraba vigente para el momento de causación de la prestación. El juzgado de primera instancia despachó favorablemente las pretensiones de la demanda y el tribunal accionado revocó esta decisión, al considerar que para el momento en que ocurrieron los hechos se encontraba vigente el requisito de fidelidad al sistema y que por tanto no era aplicable la tesis del a quo que reconoció efecto retroactivo a la sentencia C-556/09. La Sala de Revisión aborda los siguientes temas: 1º. Improcedencia, por regla general, de la acción de tutela para rebatir decisiones judiciales. 2º. El carácter vinculante del precedente constitucional y 3º. El principio de progresividad en materia de seguridad social y el requisito de fidelidad al sistema. Se CONCEDE la tutela, se deja sin efectos la sentencia acusada y se ordena a BBVA Horizonte Pensiones y Cesantías S.A., proferir resolución mediante la cual reconozca a favor de la actora la pensión de sobrevivientes reclamada.",
+  "titulaciones": [
+    {
+      "tema": "PENSION DE SOBREVIVIENTES Y DERECHO AL MINIMO VITAL",
+      "subtema": "Orden a BBVA Horizonte Pensiones y Cesantías reconocer y pagar la pensión"
+    },
+    {
+      "tema": "PRECEDENTE Y RATIO DECIDENDI",
+      "subtema": "Relación"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Procedencia excepcional para la protección de derechos fundamentales"
+    },
+    {
+      "tema": "PRINCIPIO DE PROGRESIVIDAD EN MATERIA DE SEGURIDAD SOCIAL Y REQUISITO DE FIDELIDAD AL SISTEMA",
+      "subtema": null
+    },
+    {
+      "tema": "PENSION DE SOBREVIVIENTES Y REQUISITO DE FIDELIDAD",
+      "subtema": "Desconocimiento del precedente vulnera derechos fundamentales"
+    },
+    {
+      "tema": "PRECEDENTE CONSTITUCIONAL",
+      "subtema": "Carácter vinculante"
+    }
+  ]
+}
