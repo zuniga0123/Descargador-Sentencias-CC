@@ -1,0 +1,49 @@
+{
+  "radicado": "T-485-12",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2012,
+  "fecha_creacion": "2012-06-25",
+  "magistrado_ponente": "Gabriel Eduardo Mendoza Martelo",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "PENSIÓN DE INVALIDEZ",
+  "subtema": "Orden a BBVA Horizonte Pensiones y Cesantías reconocer y pagar pensión de invalidez, a partir de la fecha de estructuración de la discapacidad señalada por la Junta Regional de Calificación",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Decreto 917 de 1999",
+    "Ley 860 de 2003",
+    "Decreto 2463 de 2001",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2012/T-485-12.htm",
+  "fecha_descarga": "2026-10-21T15:43:29.206818+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2012-06-25",
+  "fecha_publicacion": null,
+  "numero": "T-485/12",
+  "tipo_cc": "T",
+  "prov_id": "3731",
+  "tema_relatoria": null,
+  "resumen": "Seguridad social, mínimo vital, salud. La demandante aduce que BBVA Horizonte Pensiones y Cesantías vulneró sus derechos fundamentales al negarle el reconocimiento y pago de la pensión de invalidez, bajo el argumento de no contar con las cincuenta semanas cotizadas al sistema en los tres años anteriores a la fecha de estructuración de invalidez. Luego de reiterar jurisprudencia constitucional relacionada con la procedencia de la acción de tutela para el reconocimiento y pago de prestaciones sociales, la pensión de invalidez y los requisitos exigidos para su reconocimiento, la Sala encuentra que la fecha de estructuración determinada por las entidades encargadas de realizar el dictamen no correspondió con el momento en que efectivamente la actora sufrió la pérdida permanente y definitiva de capacidad y, en consecuencia, no se ajustó a lo que el Manual de Calificación de Invalidez, en su artículo 3º exige al respecto, es decir, que la fecha de estructuración es aquella en que ocurre esta situación. Se ordena a la entidad accionada que tome como fecha de estructuración de invalidez de la actora, la fecha en que la Junta Regional de Calificación de Invalidez de Santander emitió dictamen definitivo de pérdida de capacidad laboral y en consecuencia, reconozca y pague la pensión de invalidez reclamada.",
+  "titulaciones": [
+    {
+      "tema": "PENSIÓN DE INVALIDEZ",
+      "subtema": "Orden a BBVA Horizonte Pensiones y Cesantías reconocer y pagar pensión de invalidez, a partir de la fecha de estructuración de la discapacidad señalada por la Junta Regional de Calificación"
+    },
+    {
+      "tema": "ACCION DE TUTELA PARA RECONOCIMIENTO Y PAGO DE PRESTACIONES SOCIALES",
+      "subtema": "Procedencia excepcional aun cuando exista otro medio de defensa judicial o para evitar un perjuicio irremediable"
+    },
+    {
+      "tema": "ACCION DE TUTELA PARA RECONOCIMIENTO DE PRESTACIONES SOCIALES",
+      "subtema": "Procedencia excepcional"
+    },
+    {
+      "tema": "REQUISITOS PARA ACCEDER A LA PENSION DE INVALIDEZ Y REGIMEN APLICABLE",
+      "subtema": "Reiteración de jurisprudencia"
+    }
+  ]
+}

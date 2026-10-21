@@ -1,0 +1,61 @@
+{
+  "radicado": "T-735-12",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2012,
+  "fecha_creacion": "2012-09-24",
+  "magistrado_ponente": "Mauricio González Cuervo I",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "DERECHO DE ASOCIACIÓN SINDICAL",
+  "subtema": "Alcance",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 789 de 2002",
+    "Decreto 2591 de 1991",
+    "Ley 50 de 1990",
+    "Ley 789 de 2009",
+    "Ley 599 de 2000"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2012/T-735-12.htm",
+  "fecha_descarga": "2026-10-21T16:02:39.632071+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2012-09-24",
+  "fecha_publicacion": null,
+  "numero": "T-735/12",
+  "tipo_cc": "T",
+  "prov_id": "4036",
+  "tema_relatoria": null,
+  "resumen": "Aduce la actora que trabajó con la Caja Colombiana de Subsidio Familiar COLSUBSIDIO durante treinta años y que participó con algunos compañeros en la fundación del sindicato de trabajadores. Indica que el día que notificó a la empresa la conformación del sindicado fue despedida, a su juicio, por la creación del mismo y con desconocimiento de normas que prohibían el despido, por gozar de fuero sindical. Como pretensión de la tutela se solicita el reintegro. La accionada adujo que el contrato que vinculó a las partes se terminó con fundamento en el artículo 28 de la Ley 789 de 2002 y que por ende, le fue cancelada a la actora la indemnización correspondiente. La Sala decide confirmar la decisión de instancia que NEGO el amparo solicitado, ya que, con base en las pruebas aportadas al proceso, se pudo desvirtuar la protección a la estabilidad laboral reforzada que cobija a los fundadores de sindicatos, en tanto el mismo jamás se concretó y por ende no surgió el fuero para la demandante. Además, porque también se demostró que la accionante no tuvo una intención idónea, un animus que indicara que efectivamente tenía el propósito de formar una organización sindical, digno de protección constitucional.",
+  "titulaciones": [
+    {
+      "tema": "DERECHO DE ASOCIACIÓN SINDICAL",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "TERMINACION UNILATERAL DE CONTRATO LABORAL",
+      "subtema": "Condiciones"
+    },
+    {
+      "tema": "ACCION DE TUTELA PARA REINTEGRO AL CARGO DE TRABAJADOR SINDICALIZADO",
+      "subtema": "Inversión de la carga de la prueba"
+    },
+    {
+      "tema": "DERECHO DE ASOCIACION SINDICAL DE TRABAJADOR DESPEDIDO SIN JUSTA CAUSA",
+      "subtema": "Reiteración de jurisprudencia"
+    },
+    {
+      "tema": "CONTRATO LABORAL",
+      "subtema": "Terminación unilateral del contrato de trabajo"
+    },
+    {
+      "tema": "DERECHO DE ASOCIACIÓN SINDICAL",
+      "subtema": "Vulneración"
+    },
+    {
+      "tema": "DERECHO DE ASOCIACIÓN SINDICAL",
+      "subtema": "Vulneración por despido sin justa causa"
+    }
+  ]
+}

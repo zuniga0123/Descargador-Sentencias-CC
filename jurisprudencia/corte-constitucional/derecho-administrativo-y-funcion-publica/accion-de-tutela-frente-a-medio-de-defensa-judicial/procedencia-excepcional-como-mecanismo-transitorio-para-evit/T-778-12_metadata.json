@@ -1,0 +1,43 @@
+{
+  "radicado": "T-778-12",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2012,
+  "fecha_creacion": "2012-10-09",
+  "magistrado_ponente": "Luis Ernesto Vargas Silva",
+  "area": "Derecho Administrativo y Función Pública",
+  "tema": "ACCION DE TUTELA FRENTE A MEDIO DE DEFENSA JUDICIAL",
+  "subtema": "Procedencia excepcional como mecanismo transitorio para evitar un perjuicio irremediable",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto Ley 1647 de 1991",
+    "Decreto Ley 1072 de 1999",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2012/T-778-12.htm",
+  "fecha_descarga": "2026-10-21T16:06:18.965944+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2012-10-09",
+  "fecha_publicacion": null,
+  "numero": "T-778/12",
+  "tipo_cc": "T",
+  "prov_id": "4097",
+  "tema_relatoria": null,
+  "resumen": "La demandante interpuso la acción de tutela contra el Director General de la DIAN y el Director Seccional de Aduanas de Barranquilla, por considerar que, con la expedición de la Resolución 011662 de 2011, mediante la cual se restableció la vigencia de la Resolución 0568 de 1996, por la cual se ordenó su traslado de Seccional de Aduanas de Barranquilla a la de Villavicencio, se vulneran sus derechos fundamentales al trabajo, a la familia y al debido proceso, así como los derechos de su hija a la salud, a la familia y a la educación. Por su parte, la DIAN solicita denegar el amparo solicitado porque la resolución cuestionada es el resultado de una orden judicial derivada de una acción de nulidad y restablecimiento del derecho que fue fallada en primera instancia, sin la peticionaria apelara dicha decisión. La Sala de Revisión entra a definir si la acción de tutela es procedente para suspender el traslado de una servidora pública, teniendo en cuenta que el acto administrativo que lo ordenó se expidió en cumplimiento de una sentencia judicial. Se reitera jurisprudencia constitucional relacionada con la procedencia de la acción de tutela cuando se ha promovido otro medio de defensa y sobre el ejercicio constitucional del ius variandi en los actos administrativos de traslados de un servidor público. Se decide confirmar las decisiones de instancia que declararon la IMPROCEDENCIA de la acción de tutela impetrada.",
+  "titulaciones": [
+    {
+      "tema": "ACCION DE TUTELA FRENTE A MEDIO DE DEFENSA JUDICIAL",
+      "subtema": "Procedencia excepcional como mecanismo transitorio para evitar un perjuicio irremediable"
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA ACTO ADMINISTRATIVO QUE ORDENA O NIEGA TRASLADO DE SERVIDOR PUBLICO",
+      "subtema": "Caso en que no procede la tutela para revivir términos procesales vencidos o sustituir los mecanismos ordinarios de defensa"
+    },
+    {
+      "tema": "RESOLUCION O ACTO ADMINISTRATIVO DE CARACTER PERSONAL QUE ORDENA TRASLADO DE SERVIDOR PUBLICO",
+      "subtema": "Competencia de jurisdicción contencioso administrativa a través de acción de nulidad y restablecimiento del derecho"
+    }
+  ]
+}

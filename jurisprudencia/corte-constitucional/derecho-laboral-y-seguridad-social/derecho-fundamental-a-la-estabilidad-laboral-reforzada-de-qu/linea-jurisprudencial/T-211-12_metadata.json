@@ -1,0 +1,54 @@
+{
+  "radicado": "T-211-12",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2012,
+  "fecha_creacion": "2012-03-15",
+  "magistrado_ponente": "María Victoria Calle Correa",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "DERECHO FUNDAMENTAL A LA ESTABILIDAD LABORAL REFORZADA DE QUIENES SE ENCUENTRAN EN CIRCUNSTANCIAS DE DEBILIDAD MANIFIESTA O INDEFENSION",
+  "subtema": "Línea jurisprudencial",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 361 de 1997",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2012/T-211-12.htm",
+  "fecha_descarga": "2026-10-21T15:52:55.614151+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2012-03-15",
+  "fecha_publicacion": null,
+  "numero": "T-211/12",
+  "tipo_cc": "T",
+  "prov_id": "3351",
+  "tema_relatoria": null,
+  "resumen": "Estabilidad laboral reforzada. El demandante instauró la acción de tutela en contra de la Sociedad Vale Coal Ltda., al considerar vulnerados sus derechos fundamentales en tanto le terminó su contrato laboral sin solicitar autorización de la oficina de trabajo, a pesar de estar incapacitado por un accidente frente al cual fue calificado por la respectiva ARP, con un porcentaje de pérdida de la capacidad laboral permanente parcial. Los jueces constitucionales de instancia declararon la improcedencia del amparo, argumentando que la acción de tutela no cumplía con el requisito de inmediatez, ni con el presupuesto de subsidiariedad. La Sala recuerda que quienes sean titulares del derecho a la estabilidad laboral reforzada se benefician de dos normas de carácter fundamental vinculadas por la jurisprudencia de la Corte Constitucional a las garantías de la Carta. En primer lugar, de la prohibición que pesa sobre el empleador de despedir o terminar su contrato de trabajo a una persona limitada por razón de su limitación, salvo que medie autorización de la Oficina de Trabajo y, en segundo lugar, de la obligación del juez de presumir el despido discriminatorio, cuando una persona en circunstancias de debilidad manifiesta es desvinculada del empleo sin la mencionada autorización. Se CONCEDE la protección solicitada, se ordena el reintegro del demandante y se ordena a la empresa accionada pagar los salarios y prestaciones sociales dejados de cancelar desde la fecha del despido, al igual que cancelar los aportes al Sistema General de Seguridad Social y la sanción establecida en el inciso segundo del artículo 26 de la Ley 361 de 1997. Se advierte que, en el evento en que continúen las circunstancias de debilidad manifiesta, la vinculación del actor sólo podrá terminarse previa autorización del inspector de trabajo.",
+  "titulaciones": [
+    {
+      "tema": "DERECHO FUNDAMENTAL A LA ESTABILIDAD LABORAL REFORZADA DE QUIENES SE ENCUENTRAN EN CIRCUNSTANCIAS DE DEBILIDAD MANIFIESTA O INDEFENSION",
+      "subtema": "Línea jurisprudencial"
+    },
+    {
+      "tema": "PRINCIPIO DE SUBSIDIARIEDAD DE LA ACCIÓN DE TUTELA",
+      "subtema": "Procedencia excepcional como mecanismo transitorio para evitar un perjuicio irremediable"
+    },
+    {
+      "tema": "PRINCIPIO DE INMEDIATEZ",
+      "subtema": "Caso en que empleado fue despedido con pérdida de capacidad laboral permanente por accidente de trabajo"
+    },
+    {
+      "tema": "ESTABILIDAD LABORAL REFORZADA DE PERSONAS EN ESTADO DE DEBILIDAD MANIFIESTA POR ACCIDENTE DE TRABAJO",
+      "subtema": "Protección constitucional especial"
+    },
+    {
+      "tema": "ESTABILIDAD LABORAL REFORZADA",
+      "subtema": "Improcedencia de protección por cuanto el accionante fue calificado tan solo con pérdida de capacidad laboral del cinco por ciento"
+    },
+    {
+      "tema": "DERECHO FUNDAMENTAL A LA ESTABILIDAD LABORAL REFORZADA EN ESTADO DE DEBILIDAD MANIFIESTA",
+      "subtema": "Casos en que procede reintegro de trabajador desvinculado por condiciones de salud al sufrir accidente de trabajo"
+    }
+  ]
+}

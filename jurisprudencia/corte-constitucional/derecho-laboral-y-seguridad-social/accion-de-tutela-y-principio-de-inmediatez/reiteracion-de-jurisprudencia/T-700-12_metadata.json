@@ -1,0 +1,59 @@
+{
+  "radicado": "T-700-12",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2012,
+  "fecha_creacion": "2012-08-28",
+  "magistrado_ponente": "Mauricio González Cuervo",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "ACCION DE TUTELA Y PRINCIPIO DE INMEDIATEZ",
+  "subtema": "Reiteración de jurisprudencia",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 100 de 1993",
+    "Decreto 2633 de 1994"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2012/T-700-12.htm",
+  "fecha_descarga": "2026-10-21T16:02:16.896262+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2012-08-28",
+  "fecha_publicacion": null,
+  "numero": "T-700/12",
+  "tipo_cc": "T",
+  "prov_id": "3987",
+  "tema_relatoria": null,
+  "resumen": "Seguridad social, debido proceso administrativo. El accionante solicitó al ISS el reconocimiento y pago de la pensión vejez y esta petición fue denegada bajo el argumento de no contar con el número de semanas necesarias para conceder la prestación, toda vez que sólo tenía 992 semanas de las 1000 requeridas y que varias semanas de cotización fueron pagadas de manera extemporánea. La Sala de Revisión considera que el ISS al negar la prestación bajo el argumento de que algunas semanas no fueron pagadas oportunamente vulneró derechos fundamentales, toda vez que, al haber omitido realizar el cobro de los aportes atrasados y al haber recibido el pago extemporáneo de los mismos sin haber dejado constancia de su inconformidad con dicha situación, se allanó a la mora y debió tener en cuenta dichos aportes al verificar el cumplimiento de los requisitos por parte del actor para acceder a su pensión. Se CONCEDE el amparo solicitado y se ordena al accionado expedir una nueva resolución que resuelva sobre la prestación del accionante, teniendo en cuenta para ello las semanas de cotización reconocidas y las pagadas de manera extemporánea.",
+  "titulaciones": [
+    {
+      "tema": "ACCION DE TUTELA Y PRINCIPIO DE INMEDIATEZ",
+      "subtema": "Reiteración de jurisprudencia"
+    },
+    {
+      "tema": "ALLANAMIENTO A LA MORA",
+      "subtema": "Reiteración de jurisprudencia"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA PARA EL RECONOCIMIENTO DE PENSIÓN DE VEJEZ",
+      "subtema": "Procedencia excepcional cuando se vulneran derechos de las personas de la tercera edad"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA PARA EL RECONOCIMIENTO DE PENSIÓN DE VEJEZ",
+      "subtema": "Ordenar al ISS expedir nueva resolución que resuelva solicitud de la pensión de vejez del accionante"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Subsidiariedad"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Procedencia excepcional para reconocimiento de pensión de vejez"
+    },
+    {
+      "tema": "PENSION DE VEJEZ",
+      "subtema": "Definición"
+    }
+  ]
+}

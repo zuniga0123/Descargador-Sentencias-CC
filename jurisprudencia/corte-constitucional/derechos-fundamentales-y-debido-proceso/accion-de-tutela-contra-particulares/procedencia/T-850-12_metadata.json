@@ -1,0 +1,61 @@
+{
+  "radicado": "T-850-12",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2012,
+  "fecha_creacion": "2012-10-24",
+  "magistrado_ponente": "Luis Guillermo Guerrero Pérez",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCION DE TUTELA CONTRA PARTICULARES",
+  "subtema": "Procedencia",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 57 de 1905",
+    "Decreto 992 de 1930",
+    "Decreto 2591 de 1991",
+    "Decreto 747 de 1992",
+    "Decreto Ley 1355 de 1970",
+    "Ley 200 de 1936",
+    "Decreto 1355 de 1970",
+    "Ley 906 de 2004",
+    "Ley 4 de 1973"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2012/T-850-12.htm",
+  "fecha_descarga": "2026-10-21T16:01:54.712511+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2012-10-24",
+  "fecha_publicacion": null,
+  "numero": "T-850/12",
+  "tipo_cc": "T",
+  "prov_id": "4189",
+  "tema_relatoria": null,
+  "resumen": "Se requiere la protección de los derechos fundamentales al debido proceso, al trabajo, a la vida digna, a la igualdad, al mínimo vital y a la vivienda y, en este contexto, se solicita que se deje sin efectos el procedimiento policivo de lanzamiento por ocupación de hecho iniciado en contra de los actores, porque en él se desconocieron los requisitos que existen para la práctica de este tipo de actuaciones y los presupuestos básicos del debido proceso. Procedencia de la acción de tutela contra particulares. La acción de tutela como mecanismo idóneo de defensa judicial para controvertir actos jurisdiccionales proferidos por autoridades de policía. Procedencia de la acción de tutela contra providencias judiciales. Naturaleza de la querella policiva de lanzamiento por ocupación de hecho. Se CONCEDE el amparo al derecho fundamental al debido proceso, se revoca la orden de lanzamiento y se ordena a la accionada restituir a los peticionarios a la situación de hecho en que se encontraban antes de la aplicación del procedimiento vulneratorio de sus garantías constitucionales.",
+  "titulaciones": [
+    {
+      "tema": "ACCION DE TUTELA CONTRA PARTICULARES",
+      "subtema": "Procedencia"
+    },
+    {
+      "tema": "PROCESO POLICIVO",
+      "subtema": "Procedencia de tutela contra actos jurisdiccionales"
+    },
+    {
+      "tema": "QUERELLA POLICIVA DE LANZAMIENTO POR OCUPACION DE HECHO Y PROPORCIONALIDAD DE LA MEDIDA DE DESALOJO",
+      "subtema": "Caso de diligencia de lanzamiento por ocupación de hecho adelantada por el Inspector Único de Policía de Ciénaga"
+    },
+    {
+      "tema": "QUERELLA POLICIVA DE LANZAMIENTO POR OCUPACION DE HECHO Y PROPORCIONALIDAD DE LA MEDIDA DE DESALOJO",
+      "subtema": null
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Procedencia"
+    },
+    {
+      "tema": "PROCESO POLICIVO DE LANZAMIENTO POR OCUPACION DE HECHO",
+      "subtema": "Orden de dejar sin efectos la orden de lanzamiento y se restituya a los peticionarios al estado inicial en que se encontraban antes del adelantamiento de dicho procedimiento"
+    }
+  ]
+}

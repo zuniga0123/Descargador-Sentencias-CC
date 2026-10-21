@@ -1,0 +1,64 @@
+{
+  "radicado": "T-750-12",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2012,
+  "fecha_creacion": "2012-09-26",
+  "magistrado_ponente": "María Victoria Calle Correa",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "ACCION DE TUTELA EN MATERIA PENSIONAL",
+  "subtema": "Procedencia como mecanismo transitorio para evitar un perjuicio irremediable pese a la existencia de otros medios de defensa judicial",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Decreto 2591 de 1991",
+    "Decreto 1730 de 2001",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2012/T-750-12.htm",
+  "fecha_descarga": "2026-10-21T16:02:54.653675+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2012-09-26",
+  "fecha_publicacion": null,
+  "numero": "T-750/12",
+  "tipo_cc": "T",
+  "prov_id": "4056",
+  "tema_relatoria": null,
+  "resumen": "Seguridad social, mínimo vital. Se acumulan expediente por unidad de materia. Los interesados presentaron acción de tutela contra CAJANAL, porque consideran que esta entidad, al negarles el reconocimiento de la indemnización sustitutiva de la pensión de vejez, bajo el argumento de que sus aportes al sistema fueron anteriores a la Ley 100 de 1993, vulneró sus derechos fundamentales, desconoció jurisprudencia constitucional y las prerrogativas de las personas de la tercera edad. La entidad demandada considera que los actores no tienen derecho a la prestación reclamada, porque solo lo tienen quienes hicieron cotizaciones al sistema después de la Ley 100 de 1993 y los interesados efectuaron sus aportes antes de la entrada en vigencia del Sistema General de Pensiones. La Sala considera que la accionada vulneró derechos fundamentales de los demandantes, porque los aportes al Sistema efectuados antes de la entrada en vigencia de la Ley 100 de 1993 deben ser tenidos en cuenta para liquidar la indemnización sustitutiva de la pensión de vejez. Se CONCEDE el amparo solicitado y se ordena a CAJANAL reconocer y pagar la prestación reclamada por los actores.",
+  "titulaciones": [
+    {
+      "tema": "ACCION DE TUTELA EN MATERIA PENSIONAL",
+      "subtema": "Procedencia como mecanismo transitorio para evitar un perjuicio irremediable pese a la existencia de otros medios de defensa judicial"
+    },
+    {
+      "tema": "DERECHO A LA INDEMNIZACIÓN SUSTITUTIVA DE LA PENSIÓN DE VEJEZ",
+      "subtema": "Fundamental"
+    },
+    {
+      "tema": "INDEMNIZACION SUSTITUTIVA Y PROHIBICION DEL ENRIQUECIMIENTO SIN CAUSA",
+      "subtema": "Retorno de cotizaciones efectuadas al sistema cuando usuario no cumple requisitos para acceder a pensión de vejez sin importar el momento en que se realizaron"
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA CAJANAL EN LIQUIDACION",
+      "subtema": "Reconocimiento y pago de indemnización sustitutiva de pensión de vejez de quien cotizo antes de la Ley 100/93"
+    },
+    {
+      "tema": "DERECHO AL MINIMO VITAL Y SEGURIDAD SOCIAL",
+      "subtema": "Vulneración al negar reconocimiento de indemnización sustitutiva de la pensión de vejez"
+    },
+    {
+      "tema": "INDEMNIZACION SUSTITUTIVA",
+      "subtema": "Derecho suplementario de la pensión"
+    },
+    {
+      "tema": "INDEMNIZACION SUSTITUTIVA DE LA PENSION DE VEJEZ",
+      "subtema": "Aportes al sistema de seguridad social efectuados antes de entrar en vigencia la Ley 100/93 deben ser tenidos en cuenta para la liquidación"
+    },
+    {
+      "tema": "INDEMNIZACION SUSTITUTIVA DE LA PENSION DE VEJEZ",
+      "subtema": "Ley 100/93 no condiciono el reconocimiento o algún límite temporal"
+    }
+  ]
+}

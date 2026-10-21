@@ -1,0 +1,62 @@
+{
+  "radicado": "T-555-12",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2012,
+  "fecha_creacion": "2012-07-17",
+  "magistrado_ponente": "Nilson Pinilla Pinilla",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "MANIFIESTA ILEGALIDAD",
+  "subtema": "Concepto",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Decreto 2318 de 1988",
+    "Decreto 36 de 1992",
+    "Ley 797 de 2003",
+    "Decreto 4107 de 2011",
+    "Decreto Ley 1689 de 1997",
+    "Ley 33 de 1985",
+    "Decreto 100 de 1980",
+    "Decreto 1 de 1984",
+    "Ley 1437 de 2011"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2012/T-555-12.htm",
+  "fecha_descarga": "2026-10-21T15:46:29.107558+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2012-07-17",
+  "fecha_publicacion": null,
+  "numero": "T-555/12",
+  "tipo_cc": "T",
+  "prov_id": "3809",
+  "tema_relatoria": null,
+  "resumen": "La vulneración de derechos fundamentales se predica de la revocatoria directa y unilateral de la resolución mediante la cual se reconoció al actor la pensión de jubilación y de la decisión de condenarlo a restituir las sumas de dinero pagadas por tal concepto. Procedencia de la acción de tutela, específicamente cuanto se pretende por dicha vía resolver controversias pensionales y atacar la revocatoria directa y unilateral de actos administrativos de carácter particular y concreto que reconocen pensiones. La revocatoria directa y unilateral de actos administrativos de carácter particular que reconocen pensiones o prestaciones económicas periódicas, ahondando especialmente en el concepto de ilegalidad manifiesta. DENEGADA.",
+  "titulaciones": [
+    {
+      "tema": "MANIFIESTA ILEGALIDAD",
+      "subtema": "Concepto"
+    },
+    {
+      "tema": "PRINCIPIO DE SUBSIDIARIEDAD",
+      "subtema": "Procedencia de la acción de tutela para evitar un perjuicio irremediable pese a existir otro medio de defensa judicial"
+    },
+    {
+      "tema": "ACCION DE TUTELA PARA RECLAMAR EL RECONOCIMIENTO Y PAGO DE DERECHOS PENSIONALES",
+      "subtema": "Niega por haberse concedido una pensión de jubilación proporcional a un empleado público mediante un fraude a la ley"
+    },
+    {
+      "tema": "REVOCATORIA DIRECTA DE ACTOS ADMINISTRATIVOS",
+      "subtema": "Causales específicas para su procedencia"
+    },
+    {
+      "tema": "REVOCATORIA DIRECTA DE ACTO ADMINISTRATIVO DE RECONOCIMIENTO DE PENSION",
+      "subtema": "Solo se puede efectuar previo el consentimiento expreso del titular"
+    },
+    {
+      "tema": "REVOCATORIA DIRECTA DE ACTOS ADMINISTRATIVOS",
+      "subtema": "Caso en que se revoca directa y unilateralmente resolución que reconocía pensión de jubilación y se condena a restituir las sumas de dinero pagadas por tal concepto"
+    }
+  ]
+}

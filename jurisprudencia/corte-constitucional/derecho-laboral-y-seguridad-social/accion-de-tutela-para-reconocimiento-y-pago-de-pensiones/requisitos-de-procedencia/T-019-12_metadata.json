@@ -1,0 +1,52 @@
+{
+  "radicado": "T-019-12",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2012,
+  "fecha_creacion": "2012-01-20",
+  "magistrado_ponente": "Luis Ernesto Vargas Silva",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "ACCION DE TUTELA PARA RECONOCIMIENTO Y PAGO DE PENSIONES",
+  "subtema": "Requisitos de procedencia",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2351 de 1965",
+    "Decreto 758 de 1990",
+    "Decreto 2591 de 1991",
+    "Decreto 3041 de 1996",
+    "Decreto 1406 de 1999",
+    "Decreto 2633 de 1994",
+    "Ley 100 de 1993",
+    "Ley 1116 de 2006"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2012/T-019-12.htm",
+  "fecha_descarga": "2026-10-21T16:01:02.589012+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2012-01-20",
+  "fecha_publicacion": null,
+  "numero": "T-019/12",
+  "tipo_cc": "T",
+  "prov_id": "3106",
+  "tema_relatoria": null,
+  "resumen": "Seguridad social, mínimo vital. Se acumulan expedientes por unidad de materia. En los dos expedientes estudiados el accionante es el mismo y corresponde a una persona de ochenta y un años de edad que padece Alzheimer. A él, la empresa Minera Las Brisas le concedió la pensión de jubilación desde diciembre de 1990, pero esta sólo le fue cancelada oportunamente hasta octubre del año 2010, época en la que la empresa entró en trámite de liquidación judicial. Como quiera que la precitada empresa empezó a realizar aportes al Seguro Social desde agosto de 1998 con el fin de lograr la aplicación de la figura de compartibilidad pensional, el actor solicitó a éste Instituto el reconocimiento y pago de la pensión de vejez, pero la prestación fue negada bajo el argumento de acreditar únicamente 982 semanas de cotización, cuando eran necesarias 1000 semanas en cualquier tiempo. La Sala reitera jurisprudencial constitucional relacionada con la procedencia excepcional de la acción de tutela para el reconocimiento de acreencias pensionales; las obligaciones generadas dentro del régimen de compartibilidad pensional; los derechos laborales en el marco de procesos de liquidación de empresas privadas y, el allanamiento en la mora en el pago de aportes. Se CONCEDE el amparo solicitado y se ordena al Seguro Social Seccional Antioquia, reconocer y pagar la pensión al demandante, sin perjuicio de poder llevar a término las acciones administrativas y judiciales que deba adelantar frente a la empresa Minera Las Brisas S.A., en liquidación, en virtud del régimen de compartibilidad pensional.",
+  "titulaciones": [
+    {
+      "tema": "ACCION DE TUTELA PARA RECONOCIMIENTO Y PAGO DE PENSIONES",
+      "subtema": "Requisitos de procedencia"
+    },
+    {
+      "tema": "ALLANAMIENTO A LA MORA EN EL PAGO DE APORTES Y COTIZACIONES PENSIONALES",
+      "subtema": null
+    },
+    {
+      "tema": "COMPARTIBILIDAD DE LAS PENSIONES DE JUBILACION Y VEJEZ",
+      "subtema": null
+    },
+    {
+      "tema": "DERECHOS DE LOS TRABAJADORES EN EL MARCO DE PROCESOS DE LIQUIDACION DE EMPRESAS PRIVADAS",
+      "subtema": "Reiteración de jurisprudencia"
+    }
+  ]
+}

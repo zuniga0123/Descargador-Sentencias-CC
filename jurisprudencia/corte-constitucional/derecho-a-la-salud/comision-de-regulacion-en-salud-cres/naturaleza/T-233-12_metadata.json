@@ -1,0 +1,63 @@
+{
+  "radicado": "T-233-12",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2012,
+  "fecha_creacion": "2012-05-21",
+  "magistrado_ponente": "Gabriel Eduardo Mendoza Martelo",
+  "area": "Derecho a la Salud",
+  "tema": "COMISION DE REGULACION EN SALUD CRES",
+  "subtema": "Naturaleza",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 1122 de 2007",
+    "Decreto 806 de 1998",
+    "Ley 10 de 1990",
+    "Ley 100 de 1993",
+    "Ley 715 de 2001",
+    "Decreto 2591 de 1991",
+    "Ley 1438 de 2011"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2012/T-233-12.htm",
+  "fecha_descarga": "2026-10-21T15:55:07.195459+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2012-05-21",
+  "fecha_publicacion": null,
+  "numero": "T-233/12",
+  "tipo_cc": "T",
+  "prov_id": "3581",
+  "tema_relatoria": null,
+  "resumen": "Salud, vida digna. El accionante considera que la E.P.S. SURA vulneró sus derechos fundamentales al negarle el suministro de una prótesis biónica de mano derecha parcial metacarpiana con movilidad independiente de los dedos, prescrita por su médico tratante. La entidad demandada adujo no poder acceder a lo pretendido por el actor, toda vez que se trata de un servicio no incluido dentro de los beneficios del POS, que además fue prescrito por un médico particular. La Sala de Revisión aborda la doctrina de la Corporación en relación con el derecho fundamental a la salud frente a los contenidos del Plan Obligatorio de Salud y la justificación legal y constitucional de ciertas prestaciones excluidas del mismo. Se decide confirmar las decisiones de instancia que DENEGARON el amparo solicitado, pero se ordena a la entidad demandada, que si el actor lo considera pertinente, le efectúe una nueva valoración de su estado físico a fin de los médicos especialistas en la materia y adscritos a ella, de ser posible, le ordenen el suministro de una prótesis de mano convencional, en cuyo caso se deberá suministrar y adaptar sin dilación alguna.",
+  "titulaciones": [
+    {
+      "tema": "COMISION DE REGULACION EN SALUD CRES",
+      "subtema": "Naturaleza"
+    },
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Prestación de servicios médicos incluidos en el POS es derecho fundamental de carácter autónomo"
+    },
+    {
+      "tema": "PRINCIPIO DE UNIVERSALIDAD DEL SERVICIO DE SALUD",
+      "subtema": "Justificación de servicios médicos excluidos del POS como prótesis ortopédicas de alta tecnología"
+    },
+    {
+      "tema": "PROTESIS BIONICA DE MANO",
+      "subtema": "No se realiza en Colombia, generando gastos adicionales de transporte, alojamiento y manutención"
+    },
+    {
+      "tema": "PLAN OBLIGATORIO DE SALUD",
+      "subtema": "Prótesis biónica de mano se encuentra excluida del POS"
+    },
+    {
+      "tema": "SERVICIOS DE SALUD EXCLUIDOS DEL POS",
+      "subtema": "Improcedencia de tutela para ordenar suministro de prótesis biónica de mano excluida del POS"
+    },
+    {
+      "tema": "SERVICIOS DE SALUD EXCLUIDOS DEL POS",
+      "subtema": "Justificación legal y constitucional"
+    }
+  ]
+}

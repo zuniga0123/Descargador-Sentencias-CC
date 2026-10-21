@@ -1,0 +1,49 @@
+{
+  "radicado": "T-913-12",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2012,
+  "fecha_creacion": "2012-11-07",
+  "magistrado_ponente": "Mauricio González Cuervo",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCIÓN DE TUTELA",
+  "subtema": "Vulneración o amenaza cierta a un derecho fundamental como requisito de procedencia",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2012/T-913-12.htm",
+  "fecha_descarga": "2026-10-21T16:03:09.295450+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2012-11-07",
+  "fecha_publicacion": null,
+  "numero": "T-913/12",
+  "tipo_cc": "T",
+  "prov_id": "4258",
+  "tema_relatoria": null,
+  "resumen": "Debido proceso. El demandante considera que CAJANAL, luego de presentar acción de lesividad y de expedir un acto administrativo mediante el cual declaró el fenómeno jurídico del decaimiento de dos resoluciones que fueron expedidas en acatamiento de órdenes judiciales tendientes a reliquidar su pensión de jubilación, argumentando el desaparecimiento de los fundamentos de hecho y de derecho que les dio origen, vulneró sus derechos fundamentales. Encuentra la Sala que la presente acción es IMPROCEDENTE toda vez que el actor cuenta con los mecanismos de defensa establecidos por la legislación en materia contenciosa para controvertir los actos de la administración y además, porque no cumple con ninguna de las condiciones que permiten la procedencia excepcional de la tutela en este tipo de asuntos.",
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Vulneración o amenaza cierta a un derecho fundamental como requisito de procedencia"
+    },
+    {
+      "tema": "LEGITIMACIÓN POR ACTIVA EN TUTELA",
+      "subtema": "Persona natural que actúa en defensa de sus propios intereses"
+    },
+    {
+      "tema": "PRINCIPIO DE SUBSIDIARIEDAD DE LA ACCIÓN DE TUTELA",
+      "subtema": "Parámetro de procedibilidad"
+    },
+    {
+      "tema": "LEGITIMACION POR PASIVA EN TUTELA",
+      "subtema": "Empresa industrial y comercial del Estado"
+    },
+    {
+      "tema": "PRINCIPIO DE SUBSIDIARIEDAD DE LA ACCIÓN DE TUTELA",
+      "subtema": "Improcedente porque el accionante tiene a su alcance otros medios de defensa"
+    }
+  ]
+}

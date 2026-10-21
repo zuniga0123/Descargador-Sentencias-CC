@@ -1,0 +1,47 @@
+{
+  "radicado": "T-446-12",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2012,
+  "fecha_creacion": "2012-06-20",
+  "magistrado_ponente": "Mauricio González Cuervo",
+  "area": "Derecho a la Salud",
+  "tema": "COMITE TECNICO CIENTIFICO DE ENTIDAD PROMOTORA DE SALUD",
+  "subtema": "Naturaleza administrativa",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 100 de 1993",
+    "Ley 1122 de 2007"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2012/T-446-12.htm",
+  "fecha_descarga": "2026-10-21T15:48:49.887353+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2012-06-20",
+  "fecha_publicacion": null,
+  "numero": "T-446/12",
+  "tipo_cc": "T",
+  "prov_id": "3672",
+  "tema_relatoria": null,
+  "resumen": "Salud. Al accionante le fue amputada una pierna arriba de la rodilla y su E.P.S. S le entregó una prótesis para facilitarle su desplazamiento, la cual, por tiempo de uso, se encuentra deteriorada y no funciona. El médico tratante presentó una solicitud de servicios no POS, consistente en la entrega de una nueva prótesis de miembro inferior izquierda para la marcha y el Comité Técnico Científico de la E.P.S. demandada no aprobó la solicitud porque el médico tratante no había anexado la historia clínica completa. La Sala considera que la actuación de la E.P.S. COMEVA se dio en desconocimiento, tanto de los principios constitucionales y normas relacionadas con la prestación del servicio de salud, como de la jurisprudencia constitucional respecto de la negación de servicios de salud incluidos en el POS. Se CONCEDE el amparo solicitado y se ordena la entrega de la prótesis requerida por el actor y ordenada por su médico tratante.",
+  "titulaciones": [
+    {
+      "tema": "COMITE TECNICO CIENTIFICO DE ENTIDAD PROMOTORA DE SALUD",
+      "subtema": "Naturaleza administrativa"
+    },
+    {
+      "tema": "CONCEPTO DEL MEDICO TRATANTE",
+      "subtema": "Carácter prevalente de la prescripción médica cuando es emitida por el médico tratante"
+    },
+    {
+      "tema": "DERECHO FUNDAMENTAL A LA SALUD",
+      "subtema": "Suministro de prótesis ortopédica"
+    },
+    {
+      "tema": "ENTIDAD PROMOTORA DE SALUD",
+      "subtema": "Vulneración del derecho a la salud cuando las entidades prestadoras de los servicios de salud se niegan a suministrar tratamientos, medicamentos y procedimientos incluidos en el POS o POS-S"
+    }
+  ]
+}

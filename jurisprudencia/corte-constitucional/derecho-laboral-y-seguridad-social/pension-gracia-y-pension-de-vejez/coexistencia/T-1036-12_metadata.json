@@ -1,0 +1,48 @@
+{
+  "radicado": "T-1036-12",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2012,
+  "fecha_creacion": "2012-11-30",
+  "magistrado_ponente": "Mauricio González Cuervo",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "PENSION GRACIA Y PENSION DE VEJEZ",
+  "subtema": "Coexistencia",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 4269 de 2011",
+    "Decreto 2591 de 1991",
+    "Decreto 4107 de 2011",
+    "Decreto 2196 de 2009"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2012/T-1036-12.htm",
+  "fecha_descarga": "2026-10-21T16:01:47.208061+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2012-11-30",
+  "fecha_publicacion": null,
+  "numero": "T-1036/12",
+  "tipo_cc": "T",
+  "prov_id": "4399",
+  "tema_relatoria": null,
+  "resumen": "Mínimo vital, vida digna, igualdad, seguridad social. Con la presente acción de tutela se pretende que se ordena a CAJANAL EICE EN LIQUIDACION, reconocer y pagar la pensión de vejez reclamada, la cual le fue denegada a la accionante bajo el argumento de no haber probado a cuál fondo o caja de previsión fueron hechos los aportes de seguridad social por parte de sus empleadores. La accionada negó la prestación a pesar de reconocer que la peticionaria tenía 89 años de edad y contaba con 1089 semanas de cotización. La Sala reitera que las disputas entre entidades o las incertidumbres administrativas no pueden ser trasladadas al solicitante, cuando exista certeza en relación con la configuración del derecho. Igualmente indica que, en estos casos, el juez de tutela debe imponer la carga de cumplimiento de la prestación a aquella entidad que prima facie, tenga la obligación de asumirla, sin perjuicio de que ello sea discutido entre las entidades ante las autoridades correspondientes. Se TUTELAN todos los derechos invocados.",
+  "titulaciones": [
+    {
+      "tema": "PENSION GRACIA Y PENSION DE VEJEZ",
+      "subtema": "Coexistencia"
+    },
+    {
+      "tema": "DERECHO A LA SEGURIDAD SOCIAL Y AL MINIMO VITAL",
+      "subtema": "Controversias entre entidades responsables del pago de pensiones no pueden afectar al titular del derecho"
+    },
+    {
+      "tema": "DERECHO A LA SEGURIDAD SOCIAL Y AL MINIMO VITAL",
+      "subtema": "Orden a Cajanal iniciar y agotar todos los trámites y gestiones encaminadas a reconocer la pensión de jubilación de la accionante"
+    },
+    {
+      "tema": "PENSION GRACIA Y PENSION DE VEJEZ",
+      "subtema": "Caso de accionante de 89 años beneficiaria de la pensión de gracia a quien se le niega el reconocimiento y pago de la pensión de vejez"
+    }
+  ]
+}

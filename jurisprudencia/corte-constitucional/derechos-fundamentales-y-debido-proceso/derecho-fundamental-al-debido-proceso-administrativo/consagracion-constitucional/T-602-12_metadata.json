@@ -1,0 +1,55 @@
+{
+  "radicado": "T-602-12",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2012,
+  "fecha_creacion": "2012-07-27",
+  "magistrado_ponente": "Mauricio González Cuervo",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "DERECHO FUNDAMENTAL AL DEBIDO PROCESO ADMINISTRATIVO",
+  "subtema": "Consagración constitucional",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Ley 33 de 1985",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2012/T-602-12.htm",
+  "fecha_descarga": "2026-10-21T15:47:58.349747+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2012-07-27",
+  "fecha_publicacion": null,
+  "numero": "T-602/12",
+  "tipo_cc": "T",
+  "prov_id": "3870",
+  "tema_relatoria": null,
+  "resumen": "En este asunto se alega vulneración de derechos fundamentales por parte de CAJANAL, en virtud de la decisión de negar la indemnización sustitutiva de la pensión de vejez al accionante, argumentando que no tiene derecho a esta prestación porque su institución sólo fue creada a partir de la Ley 100 de 1993 y el retiro del servicio del actor se produjo con anterioridad a su entrada en vigencia, quedando por fuera la posibilidad de la aplicación retroactiva debido a la que la norma no consagra tal efecto. La Sala considera que el presente caso no se cumple con el requisito de la inmediatez y que por hecho es menester declarar la improcedencia de la acción de tutela. Sin embargo, precisa que esta declaratoria no afecta ni desconoce el carácter imprescriptible de la indemnización sustitutiva como prestación subsidiaria o sustitutiva de un derecho pensional, por lo que le queda incólume al actor la posibilidad de poder reclamarla ante la autoridad competente, en cualquier momento.",
+  "titulaciones": [
+    {
+      "tema": "DERECHO FUNDAMENTAL AL DEBIDO PROCESO ADMINISTRATIVO",
+      "subtema": "Consagración constitucional"
+    },
+    {
+      "tema": "PENSION DE VEJEZ, INVALIDEZ Y SOBREVIVIENTES",
+      "subtema": "Imprescriptibilidad de derechos pensionales"
+    },
+    {
+      "tema": "ACCION DE TUTELA Y PRINCIPIO DE INMEDIATEZ",
+      "subtema": "Excepciones para aceptar que se presente en un extenso espacio de tiempo entre vulneración y presentación"
+    },
+    {
+      "tema": "INDEMNIZACIÓN SUSTITUTIVA DE PENSIÓN DE VEJEZ",
+      "subtema": "Improcedencia de reconocimiento por incumplir requisito de inmediatez"
+    },
+    {
+      "tema": "PRINCIPIO DE INMEDIATEZ EN LA ACCION DE TUTELA",
+      "subtema": "Caso en que no se advierte la ocurrencia de un perjuicio irremediable para el demandante"
+    },
+    {
+      "tema": "PRINCIPIO DE INMEDIATEZ COMO REQUISITO DE PROCEDIBILIDAD DE LA ACCION DE TUTELA",
+      "subtema": "Debe ponderarse bajo el criterio del plazo razonable y oportuno"
+    }
+  ]
+}

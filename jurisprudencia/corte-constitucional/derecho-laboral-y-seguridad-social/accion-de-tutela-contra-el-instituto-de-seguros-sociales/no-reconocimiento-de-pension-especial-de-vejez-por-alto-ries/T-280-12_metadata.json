@@ -1,0 +1,51 @@
+{
+  "radicado": "T-280-12",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2012,
+  "fecha_creacion": "2012-04-11",
+  "magistrado_ponente": "Gabriel Eduardo Mendoza Martelo",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "ACCION DE TUTELA CONTRA EL INSTITUTO DE SEGUROS SOCIALES",
+  "subtema": "No reconocimiento de pensión especial de vejez por alto riesgo",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 1281 de 1994",
+    "Decreto 1295 de 1994",
+    "Ley 100 de 1993",
+    "Decreto 758 de 1990",
+    "Decreto 2591 de 1991",
+    "Decreto 2090 de 2003",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2012/T-280-12.htm",
+  "fecha_descarga": "2026-10-21T15:57:02.184577+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2012-04-11",
+  "fecha_publicacion": null,
+  "numero": "T-280/12",
+  "tipo_cc": "T",
+  "prov_id": "3439",
+  "tema_relatoria": null,
+  "resumen": "En el presente caso se analiza la posible vulneración de derechos fundamentales por parte del Instituto de Seguros Sociales, al negarle al actor el reconocimiento de la pensión especial de vejez por alto riesgo, bajo el argumento de no existir certeza de que el asegurado ejerció alguna de las actividades las consideradas en la norma como riesgosas. La Sala analiza temática relacionada con el régimen de la pensión especial por alto riesgo y la procedencia excepcional de la acción de tutela para ordenar el reconocimiento de pensiones. Se concluye que, el amparo solicitado no procede ni de manera transitoria, en razón a que no se evidenció un perjuicio irremediable, toda vez que el accionante esperó más de cinco años para que el ISS le diera respuesta a la solicitud que le fue negada, tiempo en el que debió iniciar un proceso judicial. Igualmente, porque se evidenció que el actor disfruta de una pensión de vejez que le cancela la entidad demandada, con lo cual se deduce que los derechos fundamentales invocados no se encuentran vulnerados. NEGADA.",
+  "titulaciones": [
+    {
+      "tema": "ACCION DE TUTELA CONTRA EL INSTITUTO DE SEGUROS SOCIALES",
+      "subtema": "No reconocimiento de pensión especial de vejez por alto riesgo"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Improcedencia para ordenar reconocimiento de pensiones"
+    },
+    {
+      "tema": "ACCION DE TUTELA PARA EL RECONOCIMIENTO DE PENSIONES",
+      "subtema": "Carácter excepcional"
+    },
+    {
+      "tema": "PENSION ESPECIAL DE VEJEZ POR ALTO RIESGO",
+      "subtema": "Régimen aplicable"
+    }
+  ]
+}

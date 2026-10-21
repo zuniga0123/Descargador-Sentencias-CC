@@ -1,0 +1,54 @@
+{
+  "radicado": "T-762-12",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2012,
+  "fecha_creacion": "2012-10-02",
+  "magistrado_ponente": "Nilson Pinilla Pinilla",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCION DE TUTELA EN MATERIA PENSIONAL",
+  "subtema": "No procede al no demostrar el actor que cumplía con los requisitos para pensionarse con base en los requisitos establecidos en el Decreto 758 de 1990",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 758 de 1990",
+    "Decreto 2591 de 1991",
+    "Ley 71 de 1988",
+    "Ley 100 de 1993",
+    "Ley 319 de 1996",
+    "Ley 74 de 1968"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2012/T-762-12.htm",
+  "fecha_descarga": "2026-10-21T16:04:12.558345+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2012-10-02",
+  "fecha_publicacion": null,
+  "numero": "T-762/12",
+  "tipo_cc": "T",
+  "prov_id": "4072",
+  "tema_relatoria": null,
+  "resumen": "Seguridad social, mínimo vital, debido proceso. En el presente asunto la Sala analiza si el ISS vulneró derechos fundamentales del actor, al negarle el reconocimiento de la pensión de vejez por el incumplimiento de requisitos y, por haberle concedido previamente la indemnización sustitutiva por él solicitada. El actor alega que continuó cotizando y que no reclamó el monto de dinero liquidado por las 610 semanas cotizadas al Sistema. La Sala constata la no existencia de vulneración ilegítima de los derechos invocados y, en consecuencia, no accede a las pretensiones reclamadas en la acción de tutela, tendientes a obtener el reconocimiento y pago de la pensión de vejez. NEGADA.",
+  "titulaciones": [
+    {
+      "tema": "ACCION DE TUTELA EN MATERIA PENSIONAL",
+      "subtema": "No procede al no demostrar el actor que cumplía con los requisitos para pensionarse con base en los requisitos establecidos en el Decreto 758 de 1990"
+    },
+    {
+      "tema": "ACCION DE TUTELA PARA RECONOCIMIENTO DE DERECHOS PENSIONALES",
+      "subtema": "Improcedencia al no cumplir la opción relativa a la cotización de 1000 semanas en cualquier tiempo"
+    },
+    {
+      "tema": "ACCION DE TUTELA PARA RECONOCIMIENTO DE DERECHOS PENSIONALES",
+      "subtema": "Caso en que el ISS le niega al peticionario pensión de vejez por no haber completado las cotizaciones exigidas"
+    },
+    {
+      "tema": "DERECHO FUNDAMENTAL A LA SEGURIDAD SOCIAL",
+      "subtema": "Reiteración de jurisprudencia"
+    },
+    {
+      "tema": "ACCION DE TUTELA PARA RECLAMAR EL RECONOCIMIENTO Y PAGO DE DERECHOS PENSIONALES",
+      "subtema": "Procedencia excepcional"
+    }
+  ]
+}

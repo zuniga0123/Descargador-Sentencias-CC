@@ -1,0 +1,41 @@
+{
+  "radicado": "T-792A-12",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2012,
+  "fecha_creacion": "2012-10-11",
+  "magistrado_ponente": "Alexei Julio Estrada",
+  "area": "Derecho a la Salud",
+  "tema": "ENFERMO DE SIDA COMO SUJETO DE ESPECIAL PROTECCION",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2012/T-792A-12.htm",
+  "fecha_descarga": "2026-10-21T16:04:23.868558+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2012-10-11",
+  "fecha_publicacion": null,
+  "numero": "T-792A/12",
+  "tipo_cc": "T",
+  "prov_id": "4118",
+  "tema_relatoria": null,
+  "resumen": "En el presente asunto alega el actor que el INPEC vulneró sus derechos fundamentales al haberlo trasladado del patio “Nuevo Milenio” del establecimiento penitenciario La Modelo de Bogotá, destinado exclusivamente a condenados portadores del VIH-SIDA, al pabellón número cuatro de la Cárcel La Picota de la misma ciudad, donde no cuenta con los servicios médicos necesarios al ser un pabellón que aloja todo tipo de población carcelaria, sin distinción alguna referente al estado de salud. Para resolver el asunto la Sala se pronuncia sobre la obligación del Estado de garantizar el derecho a la salud de las personas que se encuentran privadas de la libertad y la protección especial hacia las personas que padecen VIH-SIDA. Se estima que no existe la vulneración alegada por el actor, puesto que en su historia clínica se demostró que, a pesar de estar ubicado en un pabellón sin distinción conforme a su estado de salud, cuenta con un tratamiento médico específico para su enfermedad, que le garantiza su derecho a la salud. Igualmente, porque tampoco se demostró actos de discriminación o riesgo en su contra. Se confirma el fallo de instancia que NEGO la tutela, pero sin embargo se conmina al INPEC para que advierta al establecimiento carcelario La Picota, que debe continuar con el suministro oportuno y eficaz de los servicios médicos especiales que requiere el demandante por su condición de salud, además de procurar un escenario en el que prevenga o elimine cualquier trato discriminatorio hacia las personas portadoras del VIH o que padecen SIDA.",
+  "titulaciones": [
+    {
+      "tema": "ENFERMO DE SIDA COMO SUJETO DE ESPECIAL PROTECCION",
+      "subtema": null
+    },
+    {
+      "tema": "DERECHO A LA SALUD DEL INTERNO",
+      "subtema": "Obligación del Estado de garantizar prestación por intermedio del sistema carcelario en condiciones dignas y sin dilaciones en el servicio integral"
+    },
+    {
+      "tema": "DERECHOS DEL INTERNO ENFERMO DE SIDA",
+      "subtema": "Caso en que no existe vulneración de derechos fundamentales ni discriminación puesto que el actor cuenta con tratamiento médico específico"
+    }
+  ]
+}

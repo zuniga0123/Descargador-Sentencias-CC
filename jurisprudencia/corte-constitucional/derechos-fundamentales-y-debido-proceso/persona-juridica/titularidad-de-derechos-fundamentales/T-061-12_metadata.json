@@ -1,0 +1,55 @@
+{
+  "radicado": "T-061-12",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2012,
+  "fecha_creacion": "2012-02-09",
+  "magistrado_ponente": "Humberto Antonio Sierra Porto",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "PERSONA JURIDICA",
+  "subtema": "Titularidad de derechos fundamentales",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Decreto 1333 de 1996",
+    "Decreto 2649 de 1999"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2012/T-061-12.htm",
+  "fecha_descarga": "2026-10-21T15:59:47.303783+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2012-02-09",
+  "fecha_publicacion": null,
+  "numero": "T-061/12",
+  "tipo_cc": "T",
+  "prov_id": "3170",
+  "tema_relatoria": null,
+  "resumen": "Debido proceso, acceso a la administración de justicia, igualdad. Tutela contra providencia judicial. La accionada interpuso una acción de nulidad y restablecimiento del derecho contra las resoluciones emitidas por la Dirección Nacional de Impuestos, a través de las cuales se impuso una sanción a la empresa INCUBACOL, por considerar que no estaba obligada a pagar las sumas que fueron determinadas en dichos actos administrativos por concepto de impuesto sobre la renta y complementarios y de sanción por inexactitud. En la acción de tutela se ataca la decisión judicial que resolvió el proceso contencioso administrativo y el auto que denegó la solicitud de aclaración de dicha providencia, alegando que en ellas se incurrió en defectos fáctico y sustantivo y que tuvo una argumentación insuficiente y una incongruencia manifiesta en su motivación. La Sala se refiere a la siguiente temática: 1º. La titularidad de derechos fundamentales de las personas jurídicas y su legitimación activa para impetrar una acción de tutela. 2º. La procedencia de la acción de tutela contra providencias judiciales y, 3º. La jurisprudencia constitucional sobre los defectos sustantivo y fáctico de las providencias judiciales. Ante la ausencia de una de las causales genéricas de procedencia de la acción de tutela contra providencias, la Sala se abstiene de examinar de fondo los defectos planteados y decide confirmar las sentencias de instancias que declararon la IMPROCEDENCIA de la acción impetrada.",
+  "titulaciones": [
+    {
+      "tema": "PERSONA JURIDICA",
+      "subtema": "Titularidad de derechos fundamentales"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Reiteración de jurisprudencia sobre requisitos generales y especiales de procedibilidad"
+    },
+    {
+      "tema": "DEFECTO SUSTANTIVO EN LA JURISPRUDENCIA CONSTITUCIONAL",
+      "subtema": null
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA PROVIDENCIA DEL CONSEJO DE ESTADO",
+      "subtema": "Improcedencia por no incurrir en defectos sustantivo y fáctico que comprometan las garantías constitucionales del derecho al debido proceso"
+    },
+    {
+      "tema": "LEGITIMACION EN LA CAUSA POR ACTIVA EN TUTELA DE PERSONA JURIDICA",
+      "subtema": "Reiteración de jurisprudencia"
+    },
+    {
+      "tema": "DEFECTO FACTICO",
+      "subtema": "Dimensión negativa y positiva"
+    }
+  ]
+}

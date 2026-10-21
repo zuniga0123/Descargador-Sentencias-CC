@@ -1,0 +1,69 @@
+{
+  "radicado": "T-482-12",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2012,
+  "fecha_creacion": "2012-06-25",
+  "magistrado_ponente": null,
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "PENSION DE VEJEZ",
+  "subtema": "Orden al ISS de actualizar historia laboral de la accionante para reconocer pago de esa prestación social, debido a que existía mora en el pago de cotizaciones por parte del empleador",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 1276 de 2009",
+    "Ley 100 de 1993",
+    "Decreto 2633 de 1994",
+    "Decreto 2591 de 1991",
+    "Decreto 758 de 1990",
+    "Acto Legislativo 1 de 2005",
+    "Ley 1266 de 2008",
+    "Ley 797 de 2003",
+    "Ley 71 de 1988"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2012/T-482-12.htm",
+  "fecha_descarga": "2026-10-21T15:43:18.161009+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2012-06-25",
+  "fecha_publicacion": null,
+  "numero": "T-482/12",
+  "tipo_cc": "T",
+  "prov_id": "3728",
+  "tema_relatoria": null,
+  "resumen": "Debido proceso, hábeas data, seguridad social. El Instituto de Seguros Sociales le negó a la actora el reconocimiento y pago de la pensión de vejez, bajo el argumento de no cumplir con las semanas mínimas de cotización exigidas para tener derecho a dicha prestación. Concretamente adujo no haber acreditado 500 semanas en los últimos veinte años anteriores al cumplimiento de la edad mínima requerida y la imposibilidad de mantenerle el régimen de transición, porque de acuerdo al Acto Legislativo 01 de 2005, no cumplía con el requisito de tener un mínimo de 750 semanas cotizadas a la fecha de entrada en vigencia de dicha disposición. La demandante alega que existen inconsistencias en la base de datos del ISS y moras en el pago de algunos aportes por parte del empleador, hechos que conllevaron a que el cómputo de semanas reportadas en su historia laboral no fuera el correcto. Se analiza la siguiente temática: 1º. Procedencia excepcional de la acción de tutela para obtener el reconocimiento y pago de prestaciones sociales, particularmente en materia de pensión de vejez. 2º. Escenarios constitucionales de protección ante las inconsistencias en el cómputo de semanas cotizadas al sistema general de seguridad social en pensiones, con miras de acceder a la prestación de vejez. 3º. Imposibilidad de poder imputar como carga administrativa al trabajador la mora del empleador en el pago de aportes para el riesgo de vejez. Tras concluir que la actora tiene derecho a la pensión de vejez bajo los parámetros que establece el Acuerdo 049 de 1990, se decide CONCEDER el amparo solicitado y ordenar al accionado efectuar la corrección y actualización de la historia laboral de la actora y efectuar el reconocimiento y pago de la pensión de vejez a la que tiene derecho.",
+  "titulaciones": [
+    {
+      "tema": "PENSION DE VEJEZ",
+      "subtema": "Orden al ISS de actualizar historia laboral de la accionante para reconocer pago de esa prestación social, debido a que existía mora en el pago de cotizaciones por parte del empleador"
+    },
+    {
+      "tema": "MORA EN EL PAGO DE APORTES Y COTIZACIONES PENSIONALES",
+      "subtema": "No es admisible que la entidad administradora de pensiones alegue a su favor su propia negligencia en la implementación de las acciones de cobro"
+    },
+    {
+      "tema": "ACCION DE TUTELA PARA RECONOCIMIENTO DE PRESTACIONES SOCIALES EN MATERIA PENSIONAL",
+      "subtema": "Procedencia excepcional"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA PARA EL RECONOCIMIENTO DE PENSIÓN DE VEJEZ",
+      "subtema": "Procedencia excepcional para evitar un perjuicio irremediable"
+    },
+    {
+      "tema": "ACCION DE TUTELA PARA RECONOCIMIENTO DE PRESTACIONES SOCIALES",
+      "subtema": "Subsidiariedad"
+    },
+    {
+      "tema": "PENSION DE VEJEZ Y REQUISITO DE SEMANAS COTIZADAS",
+      "subtema": "Reiteración de jurisprudencia"
+    },
+    {
+      "tema": "ENTIDAD ADMINISTRADORA DE PENSIONES",
+      "subtema": "Deber de custodia, conservación y guarda de la información concerniente al Sistema de Seguridad Social"
+    },
+    {
+      "tema": "HABEAS DATA",
+      "subtema": "Posibilidad de ejercerlo cuando se presenta inexactitud en historia laboral para solicitar pensión de vejez"
+    }
+  ]
+}

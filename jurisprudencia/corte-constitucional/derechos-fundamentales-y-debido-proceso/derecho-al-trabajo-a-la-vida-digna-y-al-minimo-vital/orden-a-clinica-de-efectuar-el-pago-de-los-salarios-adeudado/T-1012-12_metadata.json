@@ -1,0 +1,41 @@
+{
+  "radicado": "T-1012-12",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2012,
+  "fecha_creacion": "2012-11-26",
+  "magistrado_ponente": "Luis Ernesto Vargas Silva",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "DERECHO AL TRABAJO, A LA VIDA DIGNA Y AL MINIMO VITAL",
+  "subtema": "Orden a Clínica de efectuar el pago de los salarios adeudados a la accionante",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2012/T-1012-12.htm",
+  "fecha_descarga": "2026-10-21T16:01:20.984958+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2012-11-26",
+  "fecha_publicacion": null,
+  "numero": "T-1012/12",
+  "tipo_cc": "T",
+  "prov_id": "4370",
+  "tema_relatoria": null,
+  "resumen": "Mínimo vital, vida digna. La accionante alega que la Clínica Bucaramanga-Centro Médico Daniel Peralta S.A. vulneró sus derechos fundamentales, al no cancelar los salarios correspondientes a los meses de abril, mayo y junio de 2012. La entidad accionada solicitó negar el amparo y para ello argumentó la insolvencia económica para cancelar tanto los salarios adeudados a la actora como a los demás trabajadores de la clínica. La Sala se pronuncia respecto a la procedencia excepcional de la acción de tutela para el pago del salario y el derecho a su pago oportuno y decide CONCEDER el amparo solicitado y ordenar el pago de los salarios adeudados a la actora.",
+  "titulaciones": [
+    {
+      "tema": "DERECHO AL TRABAJO, A LA VIDA DIGNA Y AL MINIMO VITAL",
+      "subtema": "Orden a Clínica de efectuar el pago de los salarios adeudados a la accionante"
+    },
+    {
+      "tema": "DERECHO AL PAGO OPORTUNO DEL SALARIO",
+      "subtema": "Caso en que clínica no había cancelado los salarios de la accionante correspondientes a los meses de abril, mayo y junio"
+    },
+    {
+      "tema": "DERECHO AL PAGO OPORTUNO DEL SALARIO",
+      "subtema": "Procedencia excepcional de la acción de tutela"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "radicado": "T-113-12",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2012,
+  "fecha_creacion": "2012-02-20",
+  "magistrado_ponente": "Gabriel Eduardo Mendoza Martelo",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "PRINCIPIO DE PREVALENCIA DEL DERECHO SUSTANCIAL SOBRE LAS FORMAS",
+  "subtema": "Reiteración de jurisprudencia",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 1395 de 2010",
+    "Decreto Ley 2591 de 1991",
+    "Decreto 2282 de 1989",
+    "Decreto 2591 de 1991",
+    "Ley 794 de 2003"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2012/T-113-12.htm",
+  "fecha_descarga": "2026-10-21T15:51:05.624587+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2012-02-20",
+  "fecha_publicacion": null,
+  "numero": "T-113/12",
+  "tipo_cc": "T",
+  "prov_id": "3229",
+  "tema_relatoria": null,
+  "resumen": "Debido proceso, acceso a la administración de justicia. Tutela contra providencia judicial. En este caso se alega vulneración de derechos fundamentales por parte de la autoridad judicial que, dentro de un proceso de reparación directa, revocó la decisión que accedió a las pretensiones de la demanda, por no haberse allegado al proceso las pruebas documentales en original o en copias auténticas. La Sala de Revisión reitera la doctrina de la Corporación en torno a la procedencia de la acción de tutela contra providencias judiciales y verifica si en el caso bajo examen se cumplen con los requisitos generales y específicos de procedibilidad de la misma. Se concluye, que, el Tribunal accionado incurrió en defecto procedimental por exceso ritual manifiesto y en defecto fáctico por ausencia de valoración probatoria, al no darle valor probatorio a documentos allegados en copias simples, sin haber sido controvertidos por la contraparte. SE CONCEDE.",
+  "titulaciones": [
+    {
+      "tema": "PRINCIPIO DE PREVALENCIA DEL DERECHO SUSTANCIAL SOBRE LAS FORMAS",
+      "subtema": "Reiteración de jurisprudencia"
+    },
+    {
+      "tema": "VALOR PROBATORIO DE DOCUMENTOS PRIVADOS APORTADOS DENTRO DE UN PROCESO JUDICIAL SIN CUESTIONAMIENTO DE LA CONTRAPARTE",
+      "subtema": null
+    },
+    {
+      "tema": "CARACTERIZACION DEL DEFECTO PROCEDIMENTAL POR EXCESO RITUAL MANIFIESTO",
+      "subtema": "Reiteración de jurisprudencia"
+    },
+    {
+      "tema": "DERECHO DE ACCESO A LA ADMINISTRACION DE JUSTICIA Y AL DEBIDO PROCESO",
+      "subtema": "Caso en que se revocó sentencia de primera instancia por no haberse allegado al proceso las pruebas documentales en original o en copias auténticas"
+    },
+    {
+      "tema": "LEY 1395/10",
+      "subtema": "A partir de su entrada en vigencia las copias de documentos privados se presumen auténticas siempre que sean aportadas a un proceso judicial por la persona que los haya manuscrito, firmado o elaborado y no provengan de un tercero"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Reiteración de jurisprudencia sobre procedencia excepcional"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Requisitos generales de procedibilidad"
+    }
+  ]
+}

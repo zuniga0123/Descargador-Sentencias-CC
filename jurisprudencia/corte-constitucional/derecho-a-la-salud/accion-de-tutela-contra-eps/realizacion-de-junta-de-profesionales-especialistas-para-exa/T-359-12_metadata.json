@@ -1,0 +1,79 @@
+{
+  "radicado": "T-359-12",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2012,
+  "fecha_creacion": "2012-05-16",
+  "magistrado_ponente": "Jorge Iván Palacio Palacio",
+  "area": "Derecho a la Salud",
+  "tema": "ACCION DE TUTELA CONTRA EPS",
+  "subtema": "Realización de junta de profesionales especialistas para examinar, valorar y determinar procedencia de procedimiento quirúrgico para garantizar salud auditiva de beneficiaria del régimen subsidiado Sisben",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 100 de 1993",
+    "Ley 715 de 2001"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2012/T-359-12.htm",
+  "fecha_descarga": "2026-10-21T15:44:17.270301+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2012-05-16",
+  "fecha_publicacion": null,
+  "numero": "T-359/12",
+  "tipo_cc": "T",
+  "prov_id": "3557",
+  "tema_relatoria": null,
+  "resumen": "Salud, vida en condiciones dignas. La actora se encuentra afiliada al régimen subsidiado con SOLSALUD E.P.S.S y fue diagnosticada con neurosensorial y otoesclerosis bilateral, enfermedad que le produce la pérdida de audición progresiva. Al considerar que con el procedimiento ordenado por el galeno tratante no ha obtenido mejoría alguna, solicitó a la E.P.S.S demandada que le autorizara un procedimiento quirúrgico denominado estapedectomía bilateral, sugerido por un médico particular. Esta solicitud fue negada por la entidad, aduciendo que dicha cirugía no estaba incluida en el POSS. Se reitera jurisprudencia constitucional relacionada con la siguiente temática: 1º. La salud como derecho fundamental. 2º. Entidades Promotoras de Servicios de Salud del Régimen Subsidiado en la prestación de los servicios no POSS. 3º. Reglas para inaplicar los preceptos de los Planes Obligatorios de Salud y 4º. Procedimientos a observar en eventos en que la orden de servicios de salud ha sido expedida por un médico especialista que no está adscrito a la E.P.S.S. Se CONCEDE.",
+  "titulaciones": [
+    {
+      "tema": "ACCION DE TUTELA CONTRA EPS",
+      "subtema": "Realización de junta de profesionales especialistas para examinar, valorar y determinar procedencia de procedimiento quirúrgico para garantizar salud auditiva de beneficiaria del régimen subsidiado Sisben"
+    },
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Protección por medio de la acción de tutela"
+    },
+    {
+      "tema": "ENTIDAD PROMOTORA DE SERVICIOS DE SALUD DEL REGIMEN SUBSIDIADO",
+      "subtema": "Prestación de servicios no incluidos en el POS"
+    },
+    {
+      "tema": "SERVICIO PUBLICO DE SALUD",
+      "subtema": "Principios"
+    },
+    {
+      "tema": "CONSEJO NACIONAL DE SEGURIDAD SOCIAL EN SALUD",
+      "subtema": "Prestación de servicio no cubierto por el POS de afiliado del régimen subsidiado que no cuenta con capacidad de pago para asumirlo"
+    },
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Procedimiento cuando orden de servicios de salud ha sido expedida por médico especialista no adscrito a EPS"
+    },
+    {
+      "tema": "REGIMEN CONTRIBUTIVO Y SUBSIDIADO",
+      "subtema": "Afiliación obligatoria"
+    },
+    {
+      "tema": "EMPRESA PRESTADORA DE SALUD",
+      "subtema": "Acceso ante circunstancias especiales cuando orden de servicios de salud ha sido expedida por médico especialista no adscrito a EPS"
+    },
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Fundamental autónomo"
+    },
+    {
+      "tema": "PLAN OBLIGATORIO DE SALUD",
+      "subtema": "Inaplicación de norma que excluye suministro de tratamiento, intervención, medicamento o diagnóstico"
+    },
+    {
+      "tema": "SERVICIO PUBLICO DE SALUD",
+      "subtema": "Obligación de todas las entidades de permitir el acceso a personas de escasos recursos"
+    },
+    {
+      "tema": "SERVICIO PUBLICO DE SALUD",
+      "subtema": "Asunción por municipios, departamentos o distritos especiales a través de entidades públicas o privadas para prestar servicios a usuarios del régimen subsidiado sin capacidad económica para asumirlos"
+    }
+  ]
+}

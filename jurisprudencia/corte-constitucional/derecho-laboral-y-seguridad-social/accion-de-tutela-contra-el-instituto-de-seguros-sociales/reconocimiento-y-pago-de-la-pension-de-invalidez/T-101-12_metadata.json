@@ -1,0 +1,62 @@
+{
+  "radicado": "T-101-12",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2012,
+  "fecha_creacion": "2012-02-20",
+  "magistrado_ponente": "Mauricio González Cuervo",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "ACCION DE TUTELA CONTRA EL INSTITUTO DE SEGUROS SOCIALES",
+  "subtema": "Reconocimiento y pago de la pensión de invalidez",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 100 de 1993",
+    "Ley 860 de 2003",
+    "Decreto 2463 de 2001",
+    "Decreto 917 de 1999",
+    "Ley 712 de 2001"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2012/T-101-12.htm",
+  "fecha_descarga": "2026-10-21T16:01:10.009073+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2012-02-20",
+  "fecha_publicacion": null,
+  "numero": "T-101/12",
+  "tipo_cc": "T",
+  "prov_id": "3217",
+  "tema_relatoria": null,
+  "resumen": "Seguridad social. El Instituto de Seguros Sociales le negó a la demandante el reconocimiento y pago de la pensión de invalidez, argumentando el incumplimiento del requisito de cotización de 50 semanas en los tres años anteriores a la fecha de estructuración de la incapacidad. La actora tiene más de mil semanas cotizadas al sistema durante más de veinte años y luego de ser diagnosticada con un cáncer papilar de tiroides, fue calificada con una pérdida de la capacidad laboral del 59,20%. La Sala CONCEDE el amparo solicitado y ordena al ISS emitir un nuevo dictamen sobre la fecha de estructuración de la invalidez, informando en él las razones por las cuales fundamentó su decisión, con la referencia expresa, clara y suficiente de la valoración de la evidencia técnica-científica en la que soporta la determinación, sin que pueda disminuir el porcentaje de la pérdida de la capacidad laboral.",
+  "titulaciones": [
+    {
+      "tema": "ACCION DE TUTELA CONTRA EL INSTITUTO DE SEGUROS SOCIALES",
+      "subtema": "Reconocimiento y pago de la pensión de invalidez"
+    },
+    {
+      "tema": "CALIFICACION DE INVALIDEZ",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "DERECHO A LA SEGURIDAD SOCIAL",
+      "subtema": "Pensión de invalidez e indemnización sustitutiva"
+    },
+    {
+      "tema": "INSTITUTO DE SEGUROS SOCIALES",
+      "subtema": "Empresa Industrial y Comercial del Estado del orden nacional"
+    },
+    {
+      "tema": "PENSIÓN DE INVALIDEZ",
+      "subtema": "Orden al Instituto de Seguros Sociales emitir nuevo dictamen sobre la fecha de estructuración de la invalidez"
+    },
+    {
+      "tema": "SISTEMA DE SEGURIDAD SOCIAL EN PENSIONES",
+      "subtema": "Objeto"
+    },
+    {
+      "tema": "PENSIÓN DE INVALIDEZ",
+      "subtema": "Concepto"
+    }
+  ]
+}

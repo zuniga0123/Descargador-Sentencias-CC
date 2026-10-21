@@ -1,0 +1,62 @@
+{
+  "radicado": "T-888-12",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2012,
+  "fecha_creacion": "2012-10-30",
+  "magistrado_ponente": "Luis Ernesto Vargas Silva",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCION DE TUTELA CONTRA ECOPETROL",
+  "subtema": "No existe el peligro de un perjuicio irremediable por cuanto los actores se encuentran laborando para la empresa, recibiendo todos los beneficios legales y extralegales, o se encuentran ya pensionados",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 806 de 1998",
+    "Ley 100 de 1993",
+    "Ley 190 de 1995",
+    "Ley 50 de 1990",
+    "Ley 712 de 2001",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2012/T-888-12.htm",
+  "fecha_descarga": "2026-10-21T15:53:33.252826+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2012-10-30",
+  "fecha_publicacion": null,
+  "numero": "T-888/12",
+  "tipo_cc": "T",
+  "prov_id": "4233",
+  "tema_relatoria": null,
+  "resumen": "Se interpone la acción de tutela contra ECOPETROL S.A., por la presunta vulneración de los derechos fundamentales a la asociación sindical, al trabajo, al debido proceso y al salario en conexidad con la vida, en razón de no haber tenido en cuenta el tiempo transcurrido durante la suspensión del contrato de trabajo para efectos salariales y de liquidación de prestaciones laborales de los demandantes. De manera inicial la Sala analiza la procedencia de la acción de tutela para establecer si cumple con los requisitos procedimentales generales, toda vez que se trata de un asunto de acreencias laborales que en un principio le corresponde decidir a la justicia ordinaria laboral. Se decide declarar la IMPROCEDENCIA de la acción de tutela.",
+  "titulaciones": [
+    {
+      "tema": "ACCION DE TUTELA CONTRA ECOPETROL",
+      "subtema": "No existe el peligro de un perjuicio irremediable por cuanto los actores se encuentran laborando para la empresa, recibiendo todos los beneficios legales y extralegales, o se encuentran ya pensionados"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Requisitos especiales de procedibilidad"
+    },
+    {
+      "tema": "ACCION DE TUTELA EN MATERIA LABORAL",
+      "subtema": "Improcedencia general"
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA ECOPETROL",
+      "subtema": "Improcedencia por cuanto existe cosa juzgada material y no se evidencia la ocurrencia de un perjuicio irremediable"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA Y REQUISITO DE SUBSIDIARIEDAD",
+      "subtema": "Agotamiento previo de medios específicos de defensa previstos en la regulación común"
+    },
+    {
+      "tema": "PRINCIPIO DE INMEDIATEZ COMO REQUISITO DE PROCEDIBILIDAD DE LA ACCION DE TUTELA",
+      "subtema": "Improcedencia ya que desde la ocurrencia de la presunta vulneración hasta la presentación de la tutela transcurrió un largo tiempo"
+    },
+    {
+      "tema": "PRINCIPIO DE SUBSIDIARIEDAD E INMEDIATEZ EN LA ACCION DE TUTELA",
+      "subtema": "Requisitos de procedibilidad"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "radicado": "T-995-12",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2012,
+  "fecha_creacion": "2012-11-23",
+  "magistrado_ponente": "María Victoria Calle Correa",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "DERECHO AL BUEN NOMBRE Y AL HABEAS DATA",
+  "subtema": "Procedencia de la acción de tutela para su protección",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 4057 de 2011",
+    "Decreto 19 de 2012",
+    "Ley 30 de 1986",
+    "Decreto 2591 de 1991",
+    "Decreto 643 de 2004",
+    "Ley 750 de 2002",
+    "Ley 65 de 1993",
+    "Ley 1581 de 2012"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2012/T-995-12.htm",
+  "fecha_descarga": "2026-10-21T16:06:56.338452+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2012-11-23",
+  "fecha_publicacion": null,
+  "numero": "T-995/12",
+  "tipo_cc": "T",
+  "prov_id": "4353",
+  "tema_relatoria": null,
+  "resumen": "Se acumulan expedientes por unidad de materia. En este asunto los peticionarios presentan la acción de tutela contra el Ministerio de Defensa y la Policía Nacional, porque consideran que al divulgar sus antecedentes judiciales en un formato que le permite a terceros identificar que en el pasado cometieron un delito, vulneran sus derechos fundamentales al habeas data, al buen nombre, a la honra y al trabajo, Pretenden que al consultar en línea sus antecedentes judiciales no aparezca la leyenda ACTUALMENTE NO ES REQUERIDO POR AUTORIDAD JUDICIAL ALGUNA. Argumentan, que a pesar de que en algún momento fueron condenados por incurrir en un ilícito, en el presente no tienen por qué cargar con esa distinción, pues una autoridad judicial ya declaró extinta su condena. La Sala examina la procedibilidad de las acciones de tutela y posteriormente evaluó el problema jurídico planteado a partir de la jurisprudencia de la Corporación sobre el habeas data en antecedentes penales, en particular la sentencia SU458/12. Al concluir que las entidades demandadas vulneraron derechos fundamentales de los actores al permitir que terceros sin interés legítimo conocieran información negativa relacionada con sus antecedentes penales, se decide CONCEDER el amparo solicitado y ordenar que, en un caso, se modifique el sistema de consulta en línea de los antecedentes judiciales del actor y, en el otro asunto, declarar la carencia actual de objeto por hecho superado.",
+  "titulaciones": [
+    {
+      "tema": "DERECHO AL BUEN NOMBRE Y AL HABEAS DATA",
+      "subtema": "Procedencia de la acción de tutela para su protección"
+    },
+    {
+      "tema": "BASES DE DATOS SOBRE ANTECEDENTES PENALES Y HABEAS DATA",
+      "subtema": "Utilización de formato que permite que terceros infieran la existencia de antecedentes penales"
+    },
+    {
+      "tema": "DERECHO AL BUEN NOMBRE Y AL HABEAS DATA",
+      "subtema": "Vulneración al divulgar antecedentes penales a terceros sin interés legítimo aunque las penas estaban cumplidas"
+    },
+    {
+      "tema": "INFORMACION SOBRE ANTECEDENTES PENALES Y DESCONOCIMIENTO DE LOS PRINCIPIOS DE ADMINISTRACION DE DATOS PERSONALES",
+      "subtema": "El titular puede solicitar la supresión relativa a esa información"
+    },
+    {
+      "tema": "DERECHO AL BUEN NOMBRE Y AL HABEAS DATA",
+      "subtema": "Orden al Ministerio de Defensa-Policía Nacional de modificar el sistema de consulta en línea de antecedentes judiciales del actor en los términos establecidos en la sentencia SU-458 de 2012"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "radicado": "T-177-12",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2012,
+  "fecha_creacion": "2012-03-08",
+  "magistrado_ponente": "María Victoria Calle Correa",
+  "area": "Derecho Penal y Sistema Acusatorio",
+  "tema": "SUPLANTACION DE IDENTIDAD",
+  "subtema": "Error inducido por omisiones de la Fiscalía o la policía judicial en la indebida identificación del procesado",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 3738 de 2003",
+    "Ley 906 de 2004",
+    "Decreto 2591 de 1991",
+    "Ley 1142 de 2007",
+    "Ley 600 de 2000",
+    "Decreto 4057 de 2011"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2012/T-177-12.htm",
+  "fecha_descarga": "2026-10-21T15:51:32.402084+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2012-03-08",
+  "fecha_publicacion": null,
+  "numero": "T-177/12",
+  "tipo_cc": "T",
+  "prov_id": "3304",
+  "tema_relatoria": null,
+  "resumen": "Buen nombre, habeas data. El accionante solicitó al DAS la expedición de un certificado judicial y esa entidad le indicó que a su nombre aparecía una condena penal de 448 meses de prisión por el delito de secuestro extorsivo agravado y, que por dichos hechos, se hallaba una persona con su mismo nombre e identificación recluida en la Penitenciaría de Acacías (Meta). La acción de tutela se interpone en contra de los despachos judiciales que en primera y segunda instancia decidieron el proceso penal y en contra del juzgado de ejecución de penas que hizo efectiva la condena, de quien durante todo el proceso penal se identificó con el nombre y el número del documento de identidad del accionante. Se alega, que dichas autoridades judiciales vulneraron derechos fundamentales del actor, en tanto no advirtieron que se había dado una suplantación de identidad. La Sala precisa que el error evidente que hubo en las providencias atacadas no puede imputárseles a los jueces que las expidieron, porque la función de identificar plenamente a quien cometió el delito debió ser cumplida por la Fiscalía y el GAULA. Se CONCEDE el amparo solicitado y se ordena a los despachos judiciales accionados que en las sentencias a que haya lugar se deje constancia de que el condenado es persona distinta al peticionario de la presente acción de tutela, información que además deben enviar a las autoridades de seguridad del Estado. De otra parte se ordena a varias autoridades adelantar acciones tendientes a lograr la supresión definitiva de la información que asocia el nombre del tutelante con la comisión del delito de secuestro extorsivo agravado y con la responsabilidad penal que le fue declarada por el mismo hecho delictivo. SE CONCEDE.",
+  "titulaciones": [
+    {
+      "tema": "SUPLANTACION DE IDENTIDAD",
+      "subtema": "Error inducido por omisiones de la Fiscalía o la policía judicial en la indebida identificación del procesado"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Procedencia excepcional en los casos de suplantación de personas"
+    },
+    {
+      "tema": "DERECHO AL BUEN NOMBRE Y AL HABEAS DATA EN CASO DE SUPLANTACION DE IDENTIDAD",
+      "subtema": "Caso en que condenado por delito de secuestro extorsivo suplantó identidad del accionante"
+    },
+    {
+      "tema": "ERROR JUDICIAL INDUCIDO",
+      "subtema": "En caso de suplantación de identidad, el error judicial se atribuye a la Fiscalía y a la Policía Judicial porque tienen la función de identificar plenamente al procesado"
+    },
+    {
+      "tema": "ERROR JUDICIAL INDUCIDO",
+      "subtema": "Sentencia condenatoria se libró a nombre de quien no tuvo nada que ver con el delito y cuyo nombre se vio involucrado a causa de una suplantación de identidad"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "radicado": "T-500A-12",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2012,
+  "fecha_creacion": "2012-07-03",
+  "magistrado_ponente": "Nilson Pinilla Pinilla",
+  "area": "Derecho a la Salud",
+  "tema": "ACCION DE TUTELA PARA RESOLVER CONTROVERSIAS DERIVADAS DE LOS CONTRATOS DE MEDICINA PREPAGADA",
+  "subtema": "Procedencia excepcional por vulneración de un derecho fundamental",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 100 de 1993",
+    "Ley 1438 de 2011",
+    "Decreto 806 de 1998",
+    "Decreto 1486 de 1994",
+    "Decreto 1222 de 1994"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2012/T-500A-12.htm",
+  "fecha_descarga": "2026-10-21T15:44:02.463716+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2012-07-03",
+  "fecha_publicacion": null,
+  "numero": "T-500A/12",
+  "tipo_cc": "T",
+  "prov_id": "3748",
+  "tema_relatoria": null,
+  "resumen": "Salud, vida digna. La demandante pretende con la acción de tutela que se ordene a la Compañía de Seguros Bolívar S.A., con quien suscribió un contrato de medicina prepagada, que le autorice la realización de una cirugía de mamoplastia de reducción bilateral, la cual se encuentra excluida de cobertura de manera expresa. La Sala considera que en este caso concreto la tutela pedida no es viable, ante la expresa exclusión, sin período de carencia ni condición, aceptada por la actora al suscribir el contrato que celebró consciente y voluntariamente, lo cual conduce a que la discrepancia sea dirimida bajo la jurisdicción ordinaria si la actora no acepta el apoyo de mera liberalidad que le ofrece la compañía demandada, o no acude a los servicios de su E.P.S., siguiendo al efecto la jurisprudencia constitucional. Se decide confirmar las decisiones de instancia que NEGARON el amparo deprecado.",
+  "titulaciones": [
+    {
+      "tema": "ACCION DE TUTELA PARA RESOLVER CONTROVERSIAS DERIVADAS DE LOS CONTRATOS DE MEDICINA PREPAGADA",
+      "subtema": "Procedencia excepcional por vulneración de un derecho fundamental"
+    },
+    {
+      "tema": "CONTRATO DE MEDICINA PREPAGADA",
+      "subtema": "Autorización de una cirugía de mamoplastia de reducción bilateral"
+    },
+    {
+      "tema": "DERECHO A LA SALUD DE LOS USUARIOS EN CONTRATO DE MEDICINA PREPAGADA",
+      "subtema": "Criterios bajo los cuales es posible concretar la protección constitucional del derecho a la salud"
+    }
+  ]
+}

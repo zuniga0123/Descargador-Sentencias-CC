@@ -1,0 +1,58 @@
+{
+  "radicado": "T-228-12",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2012,
+  "fecha_creacion": "2012-03-20",
+  "magistrado_ponente": "Gabriel Eduardo Mendoza Martelo",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCION DE TUTELA CONTRA MINISTERIO DE LA PROTECCION SOCIAL",
+  "subtema": "Improcedencia por cuanto no se cumple con los requisitos de procedibilidad establecidos por el principio de subsidiariedad",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto Ley 2591 de 1991",
+    "Decreto 2591 de 1991",
+    "Ley 100 de 1993",
+    "Decreto 1260 de 1970",
+    "Ley 92 de 1938",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2012/T-228-12.htm",
+  "fecha_descarga": "2026-10-21T15:55:58.437463+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2012-03-20",
+  "fecha_publicacion": null,
+  "numero": "T-228/12",
+  "tipo_cc": "T",
+  "prov_id": "3368",
+  "tema_relatoria": null,
+  "resumen": "Se acude a la acción de tutela para solicitar la protección de los derechos fundamentales a la vida digna, a la igualdad, al debido proceso, al mínimo vital, a la salud y a la seguridad social del accionante, los que se consideran vulnerados por la entidad accionada como consecuencia de la revocatoria del derecho del 50% de la pensión de sobrevivientes, por duda en la prueba sobre parentesco y dependencia económica respecto del padre causante. Se analiza la siguiente temática: 1º. Grado de dependencia que debe acreditar una persona para beneficiarse de una pensión de sobrevivientes. 2º. Validez del registro civil como prueba para demostrar parentesco y, 3º. Procedencia de la acción de tutela, la existencia de otro medio de defensa judicial y la tutela como mecanismo transitorio ante la existencia de un perjuicio irremediable. Se confirman las decisiones de instancia que declararon la IMPROCEDENCIA de la acción de tutela y se le ordena a la accionada iniciar el trámite administrativo necesario para establecer la existencia y procedencia de la solicitud del actor como beneficiario de la pensión de sobrevivientes reclamada.",
+  "titulaciones": [
+    {
+      "tema": "ACCION DE TUTELA CONTRA MINISTERIO DE LA PROTECCION SOCIAL",
+      "subtema": "Improcedencia por cuanto no se cumple con los requisitos de procedibilidad establecidos por el principio de subsidiariedad"
+    },
+    {
+      "tema": "VALIDEZ DEL REGISTRO CIVIL COMO PRUEBA PARA DEMOSTRAR PARENTESCO",
+      "subtema": null
+    },
+    {
+      "tema": "PENSIÓN DE SOBREVIVIENTES",
+      "subtema": "Dependencia económica respecto del afiliado fallecido como requisito para el reconocimiento de la pensión de sobrevivientes"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Carácter subsidiario y residual por existencia de otro medio de defensa judicial"
+    },
+    {
+      "tema": "ACCION DE TUTELA Y EXISTENCIA DE OTRO MEDIO DE DEFENSA JUDICIAL",
+      "subtema": "Procedencia excepcional para evitar perjuicio irremediable"
+    },
+    {
+      "tema": "REGISTRO CIVIL DE NACIMIENTO",
+      "subtema": "Documento que se requiere para probar el parentesco"
+    }
+  ]
+}

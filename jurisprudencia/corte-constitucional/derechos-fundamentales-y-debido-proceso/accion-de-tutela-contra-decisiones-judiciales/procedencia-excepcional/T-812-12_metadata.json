@@ -1,0 +1,55 @@
+{
+  "radicado": "T-812-12",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2012,
+  "fecha_creacion": "2012-10-12",
+  "magistrado_ponente": "Nilson Pinilla Pinilla",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCIÓN DE TUTELA CONTRA DECISIONES JUDICIALES",
+  "subtema": "Procedencia excepcional",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 906 de 2004",
+    "Ley 600 de 2000"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2012/T-812-12.htm",
+  "fecha_descarga": "2026-10-21T15:54:03.753316+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2012-10-12",
+  "fecha_publicacion": null,
+  "numero": "T-812/12",
+  "tipo_cc": "T",
+  "prov_id": "4146",
+  "tema_relatoria": null,
+  "resumen": "Defensa material, debido proceso. Tutela contra providencia judicial. En el presente asunto se alega vulneración de derechos fundamentales por parte de un juzgado penal de Bogotá, por no haberle notificado personalmente al accionante una sentencia condenatoria en su contra, pese a que para la fecha de ser emitida esta providencia se encontraba privado de la libertad en un centro penitenciario, cumpliendo la pena impuesta dentro de otro proceso penal. La Sala reitera jurisprudencia constitucional relacionada con la procedencia de la acción de tutela contra providencias judiciales, el derecho a la igualdad en materia judicial y la defensa como garantía del debido proceso en el Estado Social de Derecho. Se CONCEDE la tutela, se deja sin efecto la notificación por edicto de la referida sentencia condenatoria y se ordena al juzgado accionado notificarla personalmente",
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA DECISIONES JUDICIALES",
+      "subtema": "Procedencia excepcional"
+    },
+    {
+      "tema": "DEBIDO PROCESO Y DEFENSA TECNICA EN EL ESTADO SOCIAL DE DERECHO",
+      "subtema": null
+    },
+    {
+      "tema": "DERECHO AL DEBIDO PROCESO Y ACCESO A LA DEFENSA MATERIAL",
+      "subtema": "Dejar sin efecto la notificación por edicto y disponer que se notifique personalmente"
+    },
+    {
+      "tema": "DERECHO DE DEFENSA EN PROCESO PENAL",
+      "subtema": "Caso en que el actor no fue notificado personalmente de la sentencia condenatoria dictada en su contra mientras se encontraba privado de la libertad"
+    },
+    {
+      "tema": "DERECHO A LA IGUALDAD EN MATERIA JUDICIAL",
+      "subtema": "Aplicación"
+    },
+    {
+      "tema": "NOTIFICACION PERSONAL",
+      "subtema": "Persona privada de la libertad"
+    }
+  ]
+}

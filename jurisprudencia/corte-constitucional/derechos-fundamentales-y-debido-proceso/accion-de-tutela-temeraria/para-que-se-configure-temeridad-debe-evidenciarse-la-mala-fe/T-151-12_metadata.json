@@ -1,0 +1,42 @@
+{
+  "radicado": "T-151-12",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2012,
+  "fecha_creacion": "2012-03-12",
+  "magistrado_ponente": "Juan Carlos Henao Pérez",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCION DE TUTELA TEMERARIA",
+  "subtema": "Para que se configure temeridad debe evidenciarse la mala fe en el actuar del peticionario",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 100 de 1993"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2012/T-151-12.htm",
+  "fecha_descarga": "2026-10-21T15:49:45.513179+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2012-03-12",
+  "fecha_publicacion": null,
+  "numero": "T-151/12",
+  "tipo_cc": "T",
+  "prov_id": "3321",
+  "tema_relatoria": null,
+  "resumen": "Seguridad social, mínimo vital. Se interpone la acción de tutela en contra del Instituto de Seguros Sociales, en tanto le negó a la demandante el reconocimiento y pago de la pensión de sobrevivientes de su hijo fallecido, por considerar que no dependía económicamente del mismo. Frente a la negativa del ISS la accionante inició proceso ordinario laboral en el cual las instancias de decisión fallaron a su favor, pero la Corte Suprema al conocer del recurso de casación interpuesto por el ISS, decidió revocar estos fallos y en su lugar negar el reconocimiento de la prestación, al encontrar que los jueces de instancia incurrieron en un error al estimar los medios probatorios que sustentaban la dependencia económica alegada. Frente a esta decisión, la actora interpuso una acción de tutela por vulneración de derechos fundamentales al desconocer la normativa y jurisprudencia aplicable al caso. La Corte Suprema denegó las pretensiones de la tutela y al ser impugnada esta decisión, la Sala Civil de dicha Corporación declaró la nulidad de todo lo actuado y ordenó el archivo del proceso. La Corte Constitucional conoció dicho asunto en virtud de lo establecido en el Auto 100 de 2008 y frente al mismo decidió no seleccionarlo para revisión. De manera posterior, la accionante presentó una nueva tutela en contra de la Sala Laboral de la Corte Suprema de Justicia y del ISS por los mismos hechos y tras el correspondiente trámite, se decidió excluir de revisión dicho expediente. En la presente acción de tutela se vuelve a presentar la misma pretensión, pero la Sala concluye que el proceder de la actora no se constituye en una actuación temeraria, toda vez que el mismo no fue fruto del dolo o la mala fe sino que obedeció a las especiales circunstancias que la rodean. Pese a lo anterior, se declara la IMPROCEDENCIA de la acción de tutela, como quiera que sobre la controversia en torno al reconocimiento de la pensión de sobrevivientes a su favor operó el fenómeno de la cosa juzgada.",
+  "titulaciones": [
+    {
+      "tema": "ACCION DE TUTELA TEMERARIA",
+      "subtema": "Para que se configure temeridad debe evidenciarse la mala fe en el actuar del peticionario"
+    },
+    {
+      "tema": "ACTUACION TEMERARIA Y COSA JUZGADA EN MATERIA DE TUTELA",
+      "subtema": "Configuración"
+    },
+    {
+      "tema": "PENSION DE SOBREVIVIENTES DE HIJO FALLECIDO",
+      "subtema": "Improcedencia de reconocimiento por tutela por configurarse cosa juzgada constitucional al haberse pronunciado la justicia ordinaria"
+    }
+  ]
+}

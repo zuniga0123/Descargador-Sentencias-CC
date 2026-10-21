@@ -1,0 +1,42 @@
+{
+  "radicado": "T-826-12",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2012,
+  "fecha_creacion": "2012-10-19",
+  "magistrado_ponente": "Mauricio González Cuervo",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCION DE TUTELA CONTRA ASEGURADORA",
+  "subtema": "Improcedencia por incumplir requisito de subsidiariedad y no acreditar perjuicio irremediable",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 1395 de 2010"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2012/T-826-12.htm",
+  "fecha_descarga": "2026-10-21T15:54:29.657244+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2012-10-19",
+  "fecha_publicacion": null,
+  "numero": "T-826/12",
+  "tipo_cc": "T",
+  "prov_id": "4165",
+  "tema_relatoria": null,
+  "resumen": "La demandante alega la vulneración de sus derechos fundamentales a la igualdad, al debido proceso y al mínimo vital y, en consecuencia, solicita que vía tutela se ordene a BBVA Seguros de Vida Colombia S.A. y BBVA Seguros Colombia S.A. cancelar, conforme la póliza suscrita con ellos, la obligación contraída con el banco BBVA. La Sala considera que la presente demanda de tutela es IMPROCEDENTE porque la actora no demostró haber agotado otros medios de defensa y porque no se evidenció la configuración de un perjuicio irremediable.",
+  "titulaciones": [
+    {
+      "tema": "ACCION DE TUTELA CONTRA ASEGURADORA",
+      "subtema": "Improcedencia por incumplir requisito de subsidiariedad y no acreditar perjuicio irremediable"
+    },
+    {
+      "tema": "PRINCIPIO DE SUBSIDIARIEDAD DE LA ACCIÓN DE TUTELA",
+      "subtema": "Caso en que la parte demandante incurrió en un yerro procesal al demandar a la entidad equivocada, dentro de un proceso ordinario para obtener el pago de pólizas"
+    },
+    {
+      "tema": "PRINCIPIO DE SUBSIDIARIEDAD E INMEDIATEZ EN LA ACCION DE TUTELA",
+      "subtema": "Requisitos de procedibilidad"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "radicado": "T-024-12",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2012,
+  "fecha_creacion": "2012-01-24",
+  "magistrado_ponente": "Mauricio González Cuervo I",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "PENSIÓN DE INVALIDEZ",
+  "subtema": "Determinación de la fecha de estructuración de la invalidez",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Decreto 917 de 1999",
+    "Decreto 2591 de 1991",
+    "Decreto 2463 de 2001"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2012/T-024-12.htm",
+  "fecha_descarga": "2026-10-21T16:00:17.386929+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2012-01-24",
+  "fecha_publicacion": null,
+  "numero": "T-024/12",
+  "tipo_cc": "T",
+  "prov_id": "3113",
+  "tema_relatoria": null,
+  "resumen": "Seguridad social, debido proceso administrativo. El demandante elevó solicitud de pensión de invalidez ante ING PENSIONES Y CESANTIAS y esta administradora le negó la prestación argumentando el incumplimiento del requisito de cotización de 50 semanas en los tres años anteriores a la estructuración de la invalidez. Se alega que, tanto la Administradora de Pensiones como la Junta Regional de Calificación de Invalidez no tuvieron en cuenta su extensa historia clínica, en donde se demostraba que el padecimiento que le generó la incapacidad inició mucho antes de la fecha de estructuración indicada en el correspondiente dictamen de invalidez. La Sala encuentra que el acto de calificación de invalidez, en lo relativo a la definición de la fecha de estructuración de la misma, tuvo una motivación insuficiente que deviene en una afectación del derecho del actor al conocimiento de las razones en las cuales se fundamentó la negativa al reconocimiento de su pensión de invalidez y en la desestimación de una evidencia médica y científica que apoyaba tal pretensión. Se CONCEDE la tutela y se ordena a la Junta Nacional de Calificación de Invalidez emitir un nuevo dictamen sobre la fecha de estructuración de invalidez del actor, informando en el mismo las rezones de su decisión con la referencia expresa, clara y suficiente de la valoración que le merezca la evidencia diagnóstica y médica aportada, sin entrar a revisar el porcentaje de pérdida de la capacidad laboral ya establecido",
+  "titulaciones": [
+    {
+      "tema": "PENSIÓN DE INVALIDEZ",
+      "subtema": "Determinación de la fecha de estructuración de la invalidez"
+    },
+    {
+      "tema": "DERECHO A LA PENSION DE INVALIDEZ Y CALIFICACION DE LA INVALIDEZ",
+      "subtema": null
+    },
+    {
+      "tema": "ACTO DE CALIFICACION DE INVALIDEZ",
+      "subtema": "Caso en que se presenta insuficiente motivación"
+    }
+  ]
+}

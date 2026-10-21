@@ -1,0 +1,60 @@
+{
+  "radicado": "T-811-12",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2012,
+  "fecha_creacion": "2012-10-12",
+  "magistrado_ponente": "Nilson Pinilla Pinilla",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "ACCION DE TUTELA PARA RECONOCIMIENTO DE PENSION DE INVALIDEZ",
+  "subtema": "Casos de personas con discapacidad que reclaman pensiones de invalidez por haber perdido más del 50% de la capacidad laboral",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Decreto 917 de 1999",
+    "Ley 100 de 1993",
+    "Ley 860 de 2003",
+    "Ley 324 de 1996",
+    "Ley 361 de 1997",
+    "Ley 762 de 2002",
+    "Ley 1145 de 2007",
+    "Ley 1287 de 2009",
+    "Ley 1306 de 2009",
+    "Ley 962 de 2005",
+    "Decreto 692 de 1995"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2012/T-811-12.htm",
+  "fecha_descarga": "2026-10-21T15:54:00.026360+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2012-10-12",
+  "fecha_publicacion": null,
+  "numero": "T-811/12",
+  "tipo_cc": "T",
+  "prov_id": "4145",
+  "tema_relatoria": null,
+  "resumen": "Vida digna, mínimo vital, seguridad social. Se acumulan expedientes por unidad de materia. Los hechos y relatos efectuados por los siete demandantes, tienen en común la negación de la pensión de invalidez por parte de las entidades accionadas, esto es, ING, COLFONDOS, ISS, BBVA, quienes alegan diferentes motivos para hacerlo. La Sala de Revisión aborda los siguientes temas: 1º. Procedencia de la tutela en cuanto al reconocimiento de la pensión de invalidez. 2º. La precitada prestación como componente esencial del derecho fundamental a la seguridad social de las personas con discapacidad. 3º. El concepto de invalidez y los sustentos de hecho y de derecho para determinar la fecha de estructuración de la invalidez y 4º. La posibilidad de sumar las semanas cotizadas entre la fecha de estructuración y la fecha de calificación de la invalidez, para determinar el reconocimiento de la prestación. Sólo en un caso se decide confirmar la decisión de instancia que NEGO le tutela solicitada y en asuntos restantes se CONCEDIO el amparo y se ordenó a las diferentes entidades demandadas, reconocer y empezar a pagar la pensión de invalidez reclamada.",
+  "titulaciones": [
+    {
+      "tema": "ACCION DE TUTELA PARA RECONOCIMIENTO DE PENSION DE INVALIDEZ",
+      "subtema": "Casos de personas con discapacidad que reclaman pensiones de invalidez por haber perdido más del 50% de la capacidad laboral"
+    },
+    {
+      "tema": "ACCION DE TUTELA PARA RECONOCIMIENTO DE PENSION DE INVALIDEZ",
+      "subtema": "Procedencia excepcional"
+    },
+    {
+      "tema": "ACCION DE TUTELA PARA RECONOCIMIENTO DE PENSION DE INVALIDEZ",
+      "subtema": "Casos en que se ordena reconocer y pagar pensión de invalidez"
+    },
+    {
+      "tema": "PENSIÓN DE INVALIDEZ",
+      "subtema": "Semanas cotizadas entre la fecha de estructuración y fecha de calificación de la invalidez deben ser contadas para determinar reconocimiento de la pensión de invalidez"
+    },
+    {
+      "tema": "CONCEPTO DE INVALIDEZ Y FECHA DE ESTRUCTURACION DE LA INVALIDEZ",
+      "subtema": "Normatividad y jurisprudencia"
+    }
+  ]
+}

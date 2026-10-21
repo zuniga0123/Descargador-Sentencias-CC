@@ -1,0 +1,46 @@
+{
+  "radicado": "T-091-12",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2012,
+  "fecha_creacion": "2012-02-16",
+  "magistrado_ponente": "Gabriel Eduardo Mendoza Martelo",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "PENSION DE VEJEZ",
+  "subtema": "Reglas jurisprudenciales para la procedencia de tutela",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Decreto 758 de 1990",
+    "Ley 100 de 1993",
+    "Ley 1395 de 2010",
+    "Decreto 2501 de 1991",
+    "Ley 712 de 2001"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2012/T-091-12.htm",
+  "fecha_descarga": "2026-10-21T15:58:32.696373+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2012-02-16",
+  "fecha_publicacion": null,
+  "numero": "T-091/12",
+  "tipo_cc": "T",
+  "prov_id": "3205",
+  "tema_relatoria": null,
+  "resumen": "Debido proceso. Tutela contra providencia judicial. Se acumulan expedientes por unidad de materia. En un primer asunto se demanda al Juzgado Séptimo Laboral del Circuito de Cali, alegando vulneración de derechos fundamentales por no realizar una correcta valoración del material probatorio allegado al proceso ordinario laboral adelantado en contra del ISS, en el que se pretendía el reconocimiento pensional del 14% por tener cónyuge a cargo. En el otro asunto se demanda al ISS por la presunta violación de los derechos del actor, al no reconocerle el incremento pensional del 14% y del 7% respectivamente, por tener cónyuge e hijo a su cargo. Luego de hacer el análisis de cada uno de los casos, se decide confirmar las decisiones judiciales que en su orden denegaron y declararon improcedente el amparo solicitado por cada uno de los accionantes.",
+  "titulaciones": [
+    {
+      "tema": "PENSION DE VEJEZ",
+      "subtema": "Reglas jurisprudenciales para la procedencia de tutela"
+    },
+    {
+      "tema": "REAJUSTE PENSION DE VEJEZ",
+      "subtema": "Improcedente por no acreditar todos los presupuestos legales y jurisprudenciales requeridos"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Requisitos generales y especiales de procedibilidad"
+    }
+  ]
+}

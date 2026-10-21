@@ -1,0 +1,54 @@
+{
+  "radicado": "T-154-12",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2012,
+  "fecha_creacion": "2012-03-02",
+  "magistrado_ponente": "Luis Ernesto Vargas Silva",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCIÓN DE TUTELA",
+  "subtema": "Vulneración al mínimo vital del actor por retirarlo del servicio como docente al cumplir la edad de retiro forzoso sin que se le hubiere reconocido la pensión de jubilación",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 344 de 1996",
+    "Decreto 2267 de 1979",
+    "Decreto 2591 de 1991",
+    "Decreto 2400 de 1968",
+    "Decreto 1950 de 1973",
+    "Decreto 2951 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2012/T-154-12.htm",
+  "fecha_descarga": "2026-10-21T15:49:52.919575+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2012-03-02",
+  "fecha_publicacion": null,
+  "numero": "T-154/12",
+  "tipo_cc": "T",
+  "prov_id": "3273",
+  "tema_relatoria": null,
+  "resumen": "Dignidad humana, igualdad, seguridad social, trabajo en condiciones dignas, mínimo vital. En el presente asunto se resuelve la situación de un docente de la Universidad Tecnológica del Chocó, que padece un grado de discapacidad y que es retirado del servicio ante el reconocimiento de una pensión de vejez, sin que se le hubiera notificado aún la inclusión en la nómina de pensionados. La entidad accionada justificó su actuación, en el hecho de que el accionante cumplió la edad de retiro forzoso. La Sala se pronuncia sobre la siguiente temática: 1º. Procedencia de la acción de tutela contra actos administrativos de contenido particular y concreto, específicamente para obtener el reintegro de servidores públicos a sus cargos y 2º. Los alcances de la jurisprudencia constitucional en torno al retiro del servicio al cumplirse la edad de retiro forzoso. Teniendo en cuenta que el accionante es una persona de la tercera edad que no tiene medios de subsistencia actuales y, que tiene una discapacidad que lo convierte en sujeto de especial protección, se CONCEDE el amparo solicitado y se ordena su reintegro en una labor compatible con sus capacidades y aptitudes actuales. Igualmente se ordena pagar los salarios y prestaciones sociales causadas durante la interrupción laboral y abstenerse de retirarlo del servicio hasta tanto no se le notifique el acto administrativo de inclusión en la respectiva nómina.",
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Vulneración al mínimo vital del actor por retirarlo del servicio como docente al cumplir la edad de retiro forzoso sin que se le hubiere reconocido la pensión de jubilación"
+    },
+    {
+      "tema": "CORTE CONSTITUCIONAL",
+      "subtema": "Procedimiento para adoptar sentencias de tutela"
+    },
+    {
+      "tema": "EDAD DE RETIRO FORZOSO COMO CAUSAL DE DESVINCULACION DE DOCENTES AL SERVICIO DEL ESTADO",
+      "subtema": null
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA ACTO ADMINISTRATIVO DE CARACTER PARTICULAR Y CONCRETO",
+      "subtema": "Procedencia excepcional para obtener reintegro laboral cuando se colige vulneración de derechos fundamentales o perjuicio irremediable"
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA UNIVERSIDAD DEL CHOCO",
+      "subtema": "Orden de reintegro a docente discapacitado despedido por edad de retiro forzoso sin asegurarse su inclusión en nómina de pensionado"
+    }
+  ]
+}

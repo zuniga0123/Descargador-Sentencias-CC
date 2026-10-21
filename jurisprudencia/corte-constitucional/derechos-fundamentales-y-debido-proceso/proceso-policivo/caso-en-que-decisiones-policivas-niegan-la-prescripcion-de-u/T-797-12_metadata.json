@@ -1,0 +1,53 @@
+{
+  "radicado": "T-797-12",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2012,
+  "fecha_creacion": "2012-10-11",
+  "magistrado_ponente": "María Victoria Calle Correa",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "PROCESO POLICIVO",
+  "subtema": "Caso en que decisiones policivas niegan la prescripción de una orden de desalojo puesto que habían pasado más de cinco (5) años sin que se hubiera hecho efectiva",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 153 de 1887",
+    "Decreto Ley 1421 de 1993",
+    "Decreto 2591 de 1991",
+    "Decreto 1 de 1984",
+    "Decreto 2304 de 1989",
+    "Ley 446 de 1998",
+    "Ley 1107 de 2006",
+    "Ley 1437 de 2011",
+    "Decreto Ley 1 de 1984"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2012/T-797-12.htm",
+  "fecha_descarga": "2026-10-21T16:04:31.355655+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2012-10-11",
+  "fecha_publicacion": null,
+  "numero": "T-797/12",
+  "tipo_cc": "T",
+  "prov_id": "4123",
+  "tema_relatoria": null,
+  "resumen": "La Junta de Acción Comunal Brisas del Volador Parte Alta y varias personas naturales interpusieron acción de tutela contra la Inspección 19 A del Distrito Capital y el Consejo de Justicia de Bogotá, alegando que estas autoridades incurrieron en una vía de hecho al no haber declarado la prescripción de una acción policiva, luego de transcurrir más de cinco años sin que una orden de desalojo proferida dentro de un proceso de lanzamiento por ocupación de hecho se hubiera materializado. La inspección accionada concluyó que la prescripción solicitada no era procedente, porque dentro del proceso se había proferido una orden que se encontraba debidamente ejecutoriada y confirmada en segunda instancia y porque en el Código Nacional de Policía y en el Código de Policía de Bogotá, no se establecía término para decretar la prescripción de la acción policiva, ni de la orden de policía. La Sala de Revisión analiza la siguiente temática relacionada con la acción de tutela contra actuaciones emitidas en el curso de un proceso policivo y la naturaleza y finalidad del proceso policivo de lanzamiento por ocupación de hecho. Se decide confirmar las decisiones de instancia que NEGARON el amparo solicitado al considerar que no se configuró una vía de hecho, ni se vulneraron los derechos al debido proceso y de acceso a la administración de justicia de los accionantes.",
+  "titulaciones": [
+    {
+      "tema": "PROCESO POLICIVO",
+      "subtema": "Caso en que decisiones policivas niegan la prescripción de una orden de desalojo puesto que habían pasado más de cinco (5) años sin que se hubiera hecho efectiva"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Verificación del cumplimiento de los requisitos generales en el caso concreto"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Improcedencia ya que las autoridades competentes valoraron las pruebas aportadas al proceso y decidieron de conformidad con una interpretación razonable de la normatividad vigente"
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA ACTUACIONES DE AUTORIDADES DE POLICIA EN EL CURSO DE UN PROCESO POLICIVO",
+      "subtema": "Requisitos generales y especiales de procedencia"
+    }
+  ]
+}

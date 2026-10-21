@@ -1,0 +1,53 @@
+{
+  "radicado": "T-925-12",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2012,
+  "fecha_creacion": "2012-11-09",
+  "magistrado_ponente": "Alexei Julio Estrada",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "DERECHO FUNDAMENTAL AL AGUA POTABLE",
+  "subtema": "Naturaleza",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2012/T-925-12.htm",
+  "fecha_descarga": "2026-10-21T16:03:31.483005+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2012-11-09",
+  "fecha_publicacion": null,
+  "numero": "T-925/12",
+  "tipo_cc": "T",
+  "prov_id": "4271",
+  "tema_relatoria": null,
+  "resumen": "Derecho al agua potable. El actor interpone la acción de tutela contra las Empresas Públicas de Medellín, al considerar que esta entidad vulneró sus derechos fundamentales y los de su familia, al proceder a suspender el servicio de acueducto por falta de pago de varias facturas de consumo. Se indica en la demanda que la suspensión del servicio de agua potable ha generado problemas de salubridad al núcleo familiar, toda vez que en el inmueble viven diez personas, entre las cuales se encuentran seis menores de edad, dos personas en situación de discapacidad y su compañera permanente quien padece de cáncer. La empresa accionada alegó estar actuando de manera ceñida a los parámetros y reglas establecidas por el ordenamiento legal y constitucional y que el peticionario, realizó reconexión ileal del servicio. La Sala se pronuncia sobre los siguientes tópicos: 1º. El derecho fundamental al agua potable y la posibilidad de disponer y acceder a cantidades mínimas de agua potable para el consumo humano. 2º. El interés superior de los sujetos de especial protección constitucional y en particular el de los niños, respecto al acceso a los servicios públicos esenciales. 3º. La carga de la prueba en cabeza de los usuarios del servicio público y las presunciones a favor de quienes estén clasificados en el nivel uno del SISBEN, donde hay sujetos de especial protección constitucional. Se CONCEDE la tutela y se imparten una serie de órdenes para hacer efectivo el goce del derecho amparado.",
+  "titulaciones": [
+    {
+      "tema": "DERECHO FUNDAMENTAL AL AGUA POTABLE",
+      "subtema": "Naturaleza"
+    },
+    {
+      "tema": "DERECHO AL AGUA POTABLE",
+      "subtema": "Orden al Acueducto para que reconecte el servicio de agua donde residen sujetos de especial protección constitucional y garantice el suministro diario por lo menos de 50 litros de agua potable por persona"
+    },
+    {
+      "tema": "EMPRESAS DE SERVICIOS PUBLICOS",
+      "subtema": "Usuario del servicio tiene la carga de probar la ocurrencia de condiciones establecidas para evitar la suspensión del servicio por incumplimiento del pago"
+    },
+    {
+      "tema": "DERECHO FUNDAMENTAL AL AGUA",
+      "subtema": "Contenido y obligaciones estatales en materia de prestación del servicio de agua de conformidad con el bloque de constitucionalidad"
+    },
+    {
+      "tema": "SERVICIOS PUBLICOS DOMICILIARIOS",
+      "subtema": "Debe presumirse que en viviendas con personas clasificadas en el Sisben uno donde hay sujetos de especial protección no se puede suspender servicio por incumplimiento en el pago"
+    },
+    {
+      "tema": "DERECHO FUNDAMENTAL AL AGUA",
+      "subtema": "Obligaciones del Estado para garantizar disponibilidad, accesibilidad y calidad del servicio de agua"
+    }
+  ]
+}

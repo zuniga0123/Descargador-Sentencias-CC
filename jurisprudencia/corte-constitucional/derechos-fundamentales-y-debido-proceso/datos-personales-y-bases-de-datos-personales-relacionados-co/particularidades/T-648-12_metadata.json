@@ -1,0 +1,80 @@
+{
+  "radicado": "T-648-12",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2012,
+  "fecha_creacion": "2012-08-23",
+  "magistrado_ponente": "Jorge Iván Palacio Palacio",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "DATOS PERSONALES Y BASES DE DATOS PERSONALES RELACIONADOS CON ANTECEDENTES PENALES",
+  "subtema": "Particularidades",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Decreto 3738 de 2003",
+    "Decreto Ley 19 de 2012",
+    "Decreto 643 de 2004",
+    "Ley 750 de 2002",
+    "Ley 65 de 1993",
+    "Decreto 4057 de 2011",
+    "Ley 190 de 1995",
+    "Decreto Ley 2335 de 1993",
+    "Ley 43 de 1993",
+    "Decreto Ley 2737 de 1989",
+    "Ley 1098 de 2006"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2012/T-648-12.htm",
+  "fecha_descarga": "2026-10-21T15:45:54.659840+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2012-08-23",
+  "fecha_publicacion": null,
+  "numero": "T-648/12",
+  "tipo_cc": "T",
+  "prov_id": "3933",
+  "tema_relatoria": null,
+  "resumen": "En el presente caso la Corte le CONCEDE a los demandantes el amparo de su derecho fundamental al habeas data en sus tres dimensiones: cumplimiento de los principios de la administración de datos (finalidad, utilidad, necesidad y circulación restringida); el derecho subjetivo a la supresión relativa de la información personal negativa y la garantía del derecho al trabajo, y en tal sentido, ordena al Ministerio de Defensa-Policía Nacional que en adelante omita emplear cualquier fórmula que permita inferir la existencia de antecedentes penales en cabeza de ellos, si efectivamente no son requeridos ni tienen cuentas pendientes con las autoridades judiciales. De igual manera le ordena aplicar lo ordenado en la consideración número 35 de la sentencia SU458/12, con el fin de guardar uniformidad con la decisión de la Sala Plena. Los hechos que dieron origen a la revisión de tres expedientes, tuvieron que ver con el hecho de que la entidad encargada de administrar las bases de datos sobre antecedentes penales, esto es el DAS, vulneró derechos fundamentales de los actores cuando, al dar constancia de su información personal, utilizó un formato que permitía inferir a terceros la existencia de antecedentes penales, a pesar de que la autoridad competente ya había decretado el cumplimiento de sus condenas.",
+  "titulaciones": [
+    {
+      "tema": "DATOS PERSONALES Y BASES DE DATOS PERSONALES RELACIONADOS CON ANTECEDENTES PENALES",
+      "subtema": "Particularidades"
+    },
+    {
+      "tema": "ACCION DE TUTELA PARA LA PROTECCION DEL DERECHO AL HABEAS DATA",
+      "subtema": "Reglas de procedencia para la protección fijadas en sentencia SU458/12"
+    },
+    {
+      "tema": "HABEAS DATA COMO DERECHO AUTONOMO Y COMO GARANTIA DE OTROS DERECHOS FUNDAMENTALES",
+      "subtema": null
+    },
+    {
+      "tema": "DERECHO AL HABEAS DATA",
+      "subtema": "Dimensión subjetiva y facultad del titular de la información de exigir la supresión de ésta de las bases de datos"
+    },
+    {
+      "tema": "BASE DE DATOS SOBRE ANTECEDENTES PENALES",
+      "subtema": null
+    },
+    {
+      "tema": "FUNCIONES DE LOS DATOS PERSONALES SOBRE ANTECEDENTES PENALES EN EL CONTEXTO DE LA ADMINISTRACION DE BASES DE DATOS SOBRE ESTOS",
+      "subtema": null
+    },
+    {
+      "tema": "DATO PERSONAL SOBRE ANTECEDENTES PENALES",
+      "subtema": null
+    },
+    {
+      "tema": "PRINCIPIOS Y REGLAS QUE DEBE SEGUIR EL ADMINISTRADOR DE BASES DE DATOS",
+      "subtema": null
+    },
+    {
+      "tema": "BASES DE DATOS SOBRE ANTECEDENTES PENALES Y HABEAS DATA",
+      "subtema": "Entidades encargadas de manejarlas vulneran el derecho al habeas data de los demandantes al permitir que terceros no autorizados conozcan la existencia de antecedentes penales"
+    },
+    {
+      "tema": "PRINCIPIOS QUE DEBE SEGUIR EL ADMINISTRADOR DE BASES DE DATOS",
+      "subtema": "Finalidad, necesidad, utilidad y circulación restringida"
+    }
+  ]
+}

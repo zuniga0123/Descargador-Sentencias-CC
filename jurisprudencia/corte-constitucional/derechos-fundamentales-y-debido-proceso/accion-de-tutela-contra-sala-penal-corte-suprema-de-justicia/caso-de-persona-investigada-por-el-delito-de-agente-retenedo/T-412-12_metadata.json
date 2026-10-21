@@ -1,0 +1,59 @@
+{
+  "radicado": "T-412-12",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2012,
+  "fecha_creacion": "2012-05-31",
+  "magistrado_ponente": "Mauricio González Cuervo",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCION DE TUTELA CONTRA SALA PENAL CORTE SUPREMA DE JUSTICIA",
+  "subtema": "Caso de persona investigada por el delito de agente retenedor o recaudador que fue declarada persona ausente, sin que se adelantaran las actuaciones necesarias para notificarlo dentro del curso",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 600 de 2000",
+    "Decreto 2591 de 1991",
+    "Ley 906 de 2005"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2012/T-412-12.htm",
+  "fecha_descarga": "2026-10-21T15:44:43.504458+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2012-05-31",
+  "fecha_publicacion": null,
+  "numero": "T-412/12",
+  "tipo_cc": "T",
+  "prov_id": "3627",
+  "tema_relatoria": null,
+  "resumen": "Debido proceso. Tutela contra providencia judicial. En este caso se analiza si las autoridades judiciales accionadas adelantaron razonablemente las diligencias necesarias y pertinentes para notificar al sindicado, ahora accionante, antes de ser declarado como persona ausente, de todas las actuaciones procesales en el curso del proceso penal adelantado en su contra por el delito de omisión de agente retenedor o recaudador. También se analiza si el actor contó con una defensa técnica y material que le permitiera ejercer su derecho de contradicción y defensa, como elementos consustanciales al debido proceso. Se evalúa la siguiente temática: 1º. Relevancia del debido proceso en materia penal, sobre todo frente a la protección del derecho a la defensa y como elementos consustanciales al mismo, la notificación en el proceso penal y la declaración de persona ausente, como forma de vinculación en el proceso penal de acuerdo con la Ley 600 de 200 y 2º. El defecto procedimental como causal específica de procedibilidad de la acción de tutela contra providencias judiciales. Se TUTELAN los derechos al debido proceso y defensa del accionante y se deja sin efecto, en lo concerniente al actor, lo actuado a partir del auto por medio del cual se declaró al accionante persona ausente y todas las actuaciones subsiguientes y se ordena a la Fiscalía accionada o a quien haga sus veces, realizar todas las actuaciones que en contra del actor se adelantaron desde el momento en que fue declarado persona ausente.",
+  "titulaciones": [
+    {
+      "tema": "ACCION DE TUTELA CONTRA SALA PENAL CORTE SUPREMA DE JUSTICIA",
+      "subtema": "Caso de persona investigada por el delito de agente retenedor o recaudador que fue declarada persona ausente, sin que se adelantaran las actuaciones necesarias para notificarlo dentro del curso"
+    },
+    {
+      "tema": "DEBIDO PROCESO PENAL",
+      "subtema": "Procedencia por no haber sido notificado"
+    },
+    {
+      "tema": "NOTIFICACION EN MATERIA PENAL Y DERECHO DE DEFENSA",
+      "subtema": "Finalidad"
+    },
+    {
+      "tema": "CARACTERIZACIÓN DEL DEFECTO PROCEDIMENTAL POR VIOLACIÓN DEL DERECHO A LA DEFENSA TÉCNICA",
+      "subtema": "Requisitos"
+    },
+    {
+      "tema": "DEBIDO PROCESO PENAL Y DERECHO DE DEFENSA",
+      "subtema": "Vulneración por cuanto se presentaron serias irregularidades en el proceso y no se respetaron las garantías procesales"
+    },
+    {
+      "tema": "DECLARACION DE PERSONA AUSENTE COMO FORMA DE VINCULACION EN EL PROCESO PENAL",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Requisitos generales y especiales de procedibilidad"
+    }
+  ]
+}

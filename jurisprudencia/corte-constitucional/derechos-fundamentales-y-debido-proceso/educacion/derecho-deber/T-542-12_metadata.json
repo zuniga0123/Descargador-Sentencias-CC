@@ -1,0 +1,45 @@
+{
+  "radicado": "T-542-12",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2012,
+  "fecha_creacion": "2012-07-12",
+  "magistrado_ponente": "Humberto Antonio Sierra Porto",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "EDUCACIÓN",
+  "subtema": "Derecho-deber",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2012/T-542-12.htm",
+  "fecha_descarga": "2026-10-21T15:45:43.490643+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2012-07-12",
+  "fecha_publicacion": null,
+  "numero": "T-542/12",
+  "tipo_cc": "T",
+  "prov_id": "3796",
+  "tema_relatoria": null,
+  "resumen": "En el presente caso el demandante interpuso la acción de tutela contra la Universidad Libre, Sede Bogotá, alegando la vulneración de sus derechos fundamentales a la educación, a la igualdad y al principio a la confianza legítima, por unos hechos relacionados con la negativa de aceptar el pago extemporáneo de la matrícula, la cual no pudo cancelar dentro de las fechas límites establecidas por la universidad. Para el actor, este hecho, aunado a que se le permitió asistir regularmente a clases, presentar los trabajos y exámenes correspondientes al semestre adeudado, vulneró sus derechos fundamentales, máxime cuando no le aplicaron los mismos criterios con que se resolvió un caso similar, en donde a la estudiante que se encontraba en mora si le aceptaron el pago extemporáneo y además le validaron el registro del año académico. La Sala de Revisión analiza el caso y confirma la decisión de instancia que negó la protección de los derechos invocados por el actor.",
+  "titulaciones": [
+    {
+      "tema": "EDUCACIÓN",
+      "subtema": "Derecho-deber"
+    },
+    {
+      "tema": "AUTONOMÍA UNIVERSITARIA",
+      "subtema": "Facultad para expedir reglamentos con amplio margen de autodeterminación, limitada por el respeto de los derechos fundamentales y la garantía al debido proceso"
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA UNIVERSIDAD",
+      "subtema": "No se vulneró derecho a la educación y la protección al principio legítimo por negar pago de derechos de matricula por encontrarse fuera del término"
+    },
+    {
+      "tema": "PRINCIPIO DE BUENA FE EN SU DIMENSION DE CONFIANZA LEGITIMA",
+      "subtema": "Reiteración de jurisprudencia"
+    }
+  ]
+}

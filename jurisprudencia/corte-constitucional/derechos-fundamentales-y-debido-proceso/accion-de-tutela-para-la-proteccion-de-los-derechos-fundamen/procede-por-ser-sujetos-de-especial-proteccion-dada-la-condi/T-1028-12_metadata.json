@@ -1,0 +1,51 @@
+{
+  "radicado": "T-1028-12",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2012,
+  "fecha_creacion": "2012-11-28",
+  "magistrado_ponente": "Gabriel Eduardo Mendoza Martelo",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCION DE TUTELA PARA LA PROTECCION DE LOS DERECHOS FUNDAMENTALES DE LA POBLACION DESPLAZADA",
+  "subtema": "Procede por ser sujetos de especial protección dada la condición particular de desamparo, vulnerabilidad e indefensión en que se encuentran",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 3 de 1991",
+    "Decreto 951 de 2011",
+    "Decreto 554 de 2003",
+    "Decreto Ley 555 de 2003",
+    "Decreto 2190 de 2009",
+    "Decreto 951 de 2001"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2012/T-1028-12.htm",
+  "fecha_descarga": "2026-10-21T16:01:43.420769+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2012-11-28",
+  "fecha_publicacion": null,
+  "numero": "T-1028/12",
+  "tipo_cc": "T",
+  "prov_id": "4388",
+  "tema_relatoria": null,
+  "resumen": "El accionante tiene más de ochenta años de edad e interpone la acción de tutela en contra del Ministerio de Vivienda, Ciudad y Territorio, pretendiendo que se ordene a esta cartera ministerial le asigne el subsidio de vivienda para la población desplazada, el cual le fue denegado por no encontrarse datos de postulación de su núcleo familiar y por haber sido informado que debía esperar una convocatoria por parte de FONVIVIENDA. Se reitera jurisprudencia constitucional relacionada con la protección especial de las personas en condición de desplazamiento, la acción de tutela como mecanismo judicial idóneo para amparar los derechos fundamentales de la población en situación de desplazamiento forzado y el derecho fundamental a la vivienda digna en el caso de estas personas. Se decide confirmar la decisión de instancia que NEGO el amparo solicitado.",
+  "titulaciones": [
+    {
+      "tema": "ACCION DE TUTELA PARA LA PROTECCION DE LOS DERECHOS FUNDAMENTALES DE LA POBLACION DESPLAZADA",
+      "subtema": "Procede por ser sujetos de especial protección dada la condición particular de desamparo, vulnerabilidad e indefensión en que se encuentran"
+    },
+    {
+      "tema": "DERECHO A LA VIVIENDA DIGNA DE POBLACIÓN DESPLAZADA",
+      "subtema": "Fundamental por conexidad con otros derechos"
+    },
+    {
+      "tema": "POBLACION DESPLAZADA",
+      "subtema": "Sujetos de especial protección constitucional"
+    },
+    {
+      "tema": "SUBSIDIO FAMILIAR DE VIVIENDA DE POBLACION DESPLAZADA",
+      "subtema": "Improcedencia para la entrega prioritaria por cuanto no se encuentra en situación de excepción para la entrega y el accionante no se ha postulado al beneficio"
+    }
+  ]
+}

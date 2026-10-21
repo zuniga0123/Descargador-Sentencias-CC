@@ -1,0 +1,55 @@
+{
+  "radicado": "T-872-12",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2012,
+  "fecha_creacion": "2012-10-26",
+  "magistrado_ponente": "Mauricio González Cuervo",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "PENSION DE INVALIDEZ EN REGIMEN ESPECIAL DE FUERZAS MILITARES",
+  "subtema": "Orden a Tribunal Administrativo para dictar nuevo fallo que aplique la norma que se ajusta al caso concreto",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Ley 923 de 2004",
+    "Decreto 1796 de 2000",
+    "Decreto 94 de 1989",
+    "Decreto 2591 de 1991",
+    "Ley 923 de 2014",
+    "Decreto 4433 de 2004"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2012/T-872-12.htm",
+  "fecha_descarga": "2026-10-21T16:04:46.219878+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2012-10-26",
+  "fecha_publicacion": null,
+  "numero": "T-872/12",
+  "tipo_cc": "T",
+  "prov_id": "4214",
+  "tema_relatoria": null,
+  "resumen": "Debido proceso. Tutela contra providencia judicial. El accionante interpuso demanda de nulidad y restablecimiento del derecho con el ánimo de que se declararan nulos los actos administrativos mediante los cuales se negó el reconocimiento y pago de su pensión de invalidez. En primera instancia la litis fue resuelta de manera favorable y se declaró la nulidad de los precitados actos y se ordenó el reconocimiento y pago de la prestación reclamada, disponiendo para ello dar aplicación a los parámetros establecidos en la Ley 100 de 1993. Esta decisión fue confirmada en segunda instancia. En sede de tutela se demandan estos fallos por incurrir en defecto material o sustantivo, al aplicarse a una persona que pertenece al régimen especial de las Fuerzas Militares, la Ley 100 de 1993. Luego de analizar temática relacionada con la procedencia excepcional de la acción de tutela contra providencias judiciales, la Sala concluye que se vulneró el derecho al debido proceso del actor, al incurrir en defecto sustantivo como resultado de inaplicar, al caso concreto, la Ley 923 de 2004 y el Decreto 4433 del mismo año, disposiciones que contienen el régimen pensional y de asignación de retiro a miembros de las Fuerzas Públicas. SE CONCEDE.",
+  "titulaciones": [
+    {
+      "tema": "PENSION DE INVALIDEZ EN REGIMEN ESPECIAL DE FUERZAS MILITARES",
+      "subtema": "Orden a Tribunal Administrativo para dictar nuevo fallo que aplique la norma que se ajusta al caso concreto"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Procedencia por vulneración del debido proceso en sentencia dentro de la acción de nulidad y restablecimiento del derecho al inaplicar la ley correspondiente al caso"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Caso en que se le aplicó al actor que pertenece a las fuerzas militares la Ley 100 de 1993 dentro de un proceso de acción de nulidad y restablecimiento del derecho, norma inaplicable al caso"
+    },
+    {
+      "tema": "ACCION DE NULIDAD Y RESTABLECIMIENTO DEL DERECHO",
+      "subtema": "Caso de suboficial que solicita reconocimiento y pago de la pensión de invalidez acorde con el régimen especial de la fuerza pública"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Requisitos generales y especiales de procedibilidad"
+    }
+  ]
+}
