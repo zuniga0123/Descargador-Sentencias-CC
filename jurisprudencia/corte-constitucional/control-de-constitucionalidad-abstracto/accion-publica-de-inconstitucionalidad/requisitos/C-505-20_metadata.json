@@ -1,0 +1,65 @@
+{
+  "radicado": "C-505-20",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2020,
+  "fecha_creacion": "2020-12-03",
+  "magistrado_ponente": "Alejandro Linares Cantillo",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "ACCION PUBLICA DE INCONSTITUCIONALIDAD",
+  "subtema": "Requisitos",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 1740 de 2014",
+    "Ley 30 de 1992",
+    "Ley 1116 de 2006",
+    "Decreto 2067 de 1991",
+    "Ley 550 de 1990"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2020/C-505-20.htm",
+  "fecha_descarga": "2026-10-21T09:12:36.703787+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2020-12-03",
+  "fecha_publicacion": "2021-02-08",
+  "numero": "C-505/20",
+  "tipo_cc": "C",
+  "prov_id": "35645",
+  "tema_relatoria": "VIGILANCIA ESPECIAL UNIVERSIDADES. INSTITUTOS DE SALVAMENTO EN CIRCUNSTANCIAS QUE AMENACEN GRAVEMENTE LA CALIDAD Y LA CANTIDAD DEL SERVICIO EDUCATIVO.",
+  "resumen": "Demanda de inconstitucionalidad contra el artículo 14 (parcial) de la Ley 1740 de 2014, por la cual se desarrolla parcialmente el artículo 67 y los numerales 21, 22 y 26 del artículo 189 de la Constitución Política, se regula la inspección y vigilancia de la educación superior, se modifica parcialmente la Ley 30 de 1992 y se dictan otras disposiciones. El demandante considera que las disposiciones acusadas vulneran los artículos 113 y 229 de la Constitución. Tras comprobar la ineptitud sustantiva de la demanda, la Corte decidió INHIBIRSE de proferir una decisión de fondo.",
+  "titulaciones": [
+    {
+      "tema": "ACCION PUBLICA DE INCONSTITUCIONALIDAD",
+      "subtema": "Requisitos"
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD CONTRA DECRETO REGLAMENTARIO Y ACTO DEL EJECUTIVO",
+      "subtema": "Incompetencia de la Corte Constitucional"
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "Oportunidad procesal para definir la aptitud de la demanda"
+    },
+    {
+      "tema": "INHIBICION DE LA CORTE CONSTITUCIONAL POR INEPTITUD SUSTANTIVA DE LA DEMANDA",
+      "subtema": "Incumplimiento de requisitos de certeza, especificidad, pertinencia y suficiencia en los cargos"
+    },
+    {
+      "tema": "COMPETENCIA DE SUSPENSION DE ACTOS ADMINISTRATIVOS OTORGADA A LA JURISDICCION DE LO CONTENCIOSO ADMINISTRATIVO",
+      "subtema": "No es extensible a la Corte Constitucional"
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "Concepto de violación"
+    },
+    {
+      "tema": "PRINCIPIO PRO ACTIONE EN DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "CONCEPTO DE VIOLACION EN DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "Razones claras, ciertas, específicas, pertinentes y suficientes"
+    }
+  ]
+}

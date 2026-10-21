@@ -1,0 +1,52 @@
+{
+  "radicado": "T-335-20",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2020,
+  "fecha_creacion": "2020-08-21",
+  "magistrado_ponente": "Diana Fajardo Rivera",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "DERECHO A LA PENSION DE VEJEZ",
+  "subtema": "Orden a Colpensiones reconocer y pagar pensión de vejez, de manera transitoria",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Decreto 2196 de 2009",
+    "Decreto 758 de 1990",
+    "Decreto 692 de 1994",
+    "Acto Legislativo 1 de 2005",
+    "Ley 71 de 1988",
+    "Decreto 2591 de 1991",
+    "Decreto 309 de 2017",
+    "Ley 797 de 2003",
+    "Decreto 2709 de 1994",
+    "Decreto Ley 2591 de 1991",
+    "Ley 1151 de 2007"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2020/T-335-20.htm",
+  "fecha_descarga": "2026-10-21T09:04:14.541585+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2020-08-21",
+  "fecha_publicacion": "2020-08-28",
+  "numero": "T-335/20",
+  "tipo_cc": "T",
+  "prov_id": "35162",
+  "tema_relatoria": "PENSION DE VEJEZ-CONFLICTO ENTRE ADMINISTRADORAS DE FONDOS DE PENSIONES NO PUEDE AFECTAR LAS GARANTÍAS FUNDAMENTALES DEL AFILIADO",
+  "resumen": "El actor aduce que las accionadas vulneraron sus derechos fundamentales, al negarle el reconocimiento pensional que solicitó, con fundamento en un conflicto administrativo negativo de competencias suscitado por una falta de certeza sobre el momento de afiliación a dichas entidades, sin tener en consideración el cumplimiento de los requisitos para acceder a una pensión de vejez. Se aborda temática relacionada con los conflictos de competencia entre Colpensiones y la UGPP como trabas injustificadas para acceder a derechos pensionales y se CONCEDE el amparo invocado como mecanismo transitorio, hasta tanto culmine el proceso ordinario laboral que se encuentra en curso.",
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA PENSION DE VEJEZ",
+      "subtema": "Orden a Colpensiones reconocer y pagar pensión de vejez, de manera transitoria"
+    },
+    {
+      "tema": "INOPONIBILIDAD DE LAS CONTROVERSIAS ADMINISTRATIVAS ENTRE LAS ENTIDADES DEL SISTEMA DE SEGURIDAD SOCIAL FRENTE AL TITULAR DEL DERECHO PENSIONAL QUE SE RECLAMA",
+      "subtema": "Reiteración de jurisprudencia"
+    },
+    {
+      "tema": "PENSION DE VEJEZ",
+      "subtema": "Inoponibilidad de trámites administrativos respecto de quien cumplió requisitos para obtener la pensión"
+    }
+  ]
+}

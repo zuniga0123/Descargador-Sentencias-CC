@@ -1,0 +1,59 @@
+{
+  "radicado": "C-332-20",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2020,
+  "fecha_creacion": "2020-08-20",
+  "magistrado_ponente": "Luis Guillermo Guerrero Pérez",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "CONTROL DE CONSTITUCIONALIDAD DE LEYES ESTATUTARIAS CON POSTERIORIDAD A LA REVISION INTEGRAL",
+  "subtema": "Condiciones",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 130 de 1994",
+    "Acto Legislativo 1 de 2009",
+    "Decreto 2067 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2020/C-332-20.htm",
+  "fecha_descarga": "2026-10-21T09:16:12.850093+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2020-08-20",
+  "fecha_publicacion": "2020-10-29",
+  "numero": "C-332/20",
+  "tipo_cc": "C",
+  "prov_id": "35378",
+  "tema_relatoria": "ESTATUTO BASICO DE PARTIDOS Y MOVIMIENTOS POLÍTICOS. IMPUGNACIÓN CIUDADANA DE CLÁUSULAS ESTATUTARIAS ANTE EL CONSEJO NACIONAL ELECTORAL",
+  "resumen": "Demanda de inconstitucionalidad contra el artículo 7 (parcial) de la Ley 130 de 1994, por la cual se dicta el Estatuto Básico de los partidos y movimientos políticos, se dictan normas sobre su financiación y la de las campañas electorales y se dictan otras disposiciones. Los demandantes cuestionan el aparte normativo que determina que la facultad de los ciudadanos para impugnar ante el Consejo Nacional Electoral las cláusulas de los estatutos de los partidos y movimientos políticos así como las decisiones de sus autoridades, por ser contrarias a la Constitución, a la ley o a las disposiciones del Consejo Nacional Electoral, es de veinte días desde la adopción de la respectiva decisión. Según los actores, la restricción temporal establecida en dicha norma, desconoce los artículos 107, 1, 4 y 40 de la Carta Política. Frente al cargo relativo al desconocimiento del principio de participación política consagrado en los artículos 1° y 40 de la Constitución se decidió ESTARSE A LO RESUELTO en la sentencia C-089/94, que declaró exequible el artículo 7 del Proyecto de Ley Estatutaria número 11 de 1992 de la Cámara de Representantes y 348 de 1993 del Senado de la Republica, por la cual se dicta el Estatuto Básico de los partidos y movimientos políticos, se dictan normas sobre su financiación y la de las campañas electorales y se dictan otras disposiciones”, promulgado como Ley 130 de 1994. La Sala Plena se declaró INHIBIDA de emitir un pronunciamiento de fondo acerca del cargo por desconocimiento del deber de responsabilidad de los partidos y movimientos políticos por toda infracción a las normas que rigen su organización, funcionamiento o financiación consagrado en el inciso séptimo del artículo 107 de la Constitución Política, formulado contra la expresión “dentro de los veinte días siguientes”, contenida en el inciso primero del artículo 7 de la Ley 130 de 1994, por la ineptitud sustantiva de la demanda.",
+  "titulaciones": [
+    {
+      "tema": "CONTROL DE CONSTITUCIONALIDAD DE LEYES ESTATUTARIAS CON POSTERIORIDAD A LA REVISION INTEGRAL",
+      "subtema": "Condiciones"
+    },
+    {
+      "tema": "COSA JUZGADA CONSTITUCIONAL",
+      "subtema": "Definición"
+    },
+    {
+      "tema": "INHIBICION DE LA CORTE CONSTITUCIONAL",
+      "subtema": "Incumplimiento de carga argumentativa mínima"
+    },
+    {
+      "tema": "COSA JUZGADA CONSTITUCIONAL Y NUEVO JUICIO DE CONSTITUCIONALIDAD",
+      "subtema": "Requisitos de la demanda son más rigurosos"
+    },
+    {
+      "tema": "CONTROL DE CONSTITUCIONALIDAD DE PROYECTO DE LEY ESTATUTARIA",
+      "subtema": "Carácter integral, definitivo y efectos de cosa juzgada"
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "Inhibición por ineptitud sustantiva de la demanda"
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD CONTRA TERMINO PARA IMPUGNACION DE LOS ESTATUTOS DE LOS PARTIDOS Y MOVIMIENTOS POLITICOS",
+      "subtema": "Estarse a lo resuelto en sentencia C-089 de 1994"
+    }
+  ]
+}

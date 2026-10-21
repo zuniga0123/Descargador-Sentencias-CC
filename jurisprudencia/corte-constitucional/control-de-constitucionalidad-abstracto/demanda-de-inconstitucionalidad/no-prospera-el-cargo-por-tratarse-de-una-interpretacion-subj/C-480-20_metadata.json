@@ -1,0 +1,46 @@
+{
+  "radicado": "C-480-20",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2020,
+  "fecha_creacion": "2020-11-12",
+  "magistrado_ponente": "Gloria Stella Ortiz Delgado",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "DEMANDA DE INCONSTITUCIONALIDAD",
+  "subtema": "No prospera el cargo por tratarse de una interpretación subjetiva del demandante",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 906 de 2004",
+    "Decreto 2067 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2020/C-480-20.htm",
+  "fecha_descarga": "2026-10-21T09:14:09.206133+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2020-11-12",
+  "fecha_publicacion": "2020-12-16",
+  "numero": "C-480/20",
+  "tipo_cc": "C",
+  "prov_id": "35529",
+  "tema_relatoria": "REGISTRO. OBJETOS NO SUSCEPTIBLES AL REGISTRO, ENTRE OTROS, LOS ARCHIVOS DEL INDICIADO, IMPUTADO O ACUSADO O SUS ABOGADOS, SALVO QUE SEAN PERSONAS VINCULADAS COMO AUXILIADORES, PARTÍCIPES O COAUTORES DEL DELITO INVESTIGADO.",
+  "resumen": "Demanda de inconstitucionalidad contra el artículo 223 (parcial) de la Ley 906 de 2004, por la cual se expide el Código de Procedimiento Penal. Según los demandantes, la norma parcialmente cuestionada contraría el principio de igualdad, el derecho al debido proceso y el secreto profesional, al disponer que las comunicaciones escritas del indiciado, imputado o acusado con sus abogados, cónyuge, compañero permanente o parientes dentro del cuarto grado de consanguinidad, segundo de afinidad o primero civil, no son susceptibles de registro, solo cuando el indiciado, imputado o acusado haya actuado en calidad de autor, y solo en esa calidad. En su criterio, esta disposición distingue entre autores y partícipes sin sustento válido, no es razonable porque la limitación al registro comunicaciones es relevante para el debido proceso de todos ellos, puede impedir la defensa técnica para los coautores o partícipes, no resguarda el secreto profesional y socaba su derecho a la defensa. La carencia de certeza y suficiencia de los cargos formulados no le permitió a la Corte emitir una decisión de fondo sobre los mismos. En tal sentido, la Sala Plena se declaró INHIBIDA para pronunciarse sobre la norma acusada, por la ineptitud sustantiva de la demanda.",
+  "titulaciones": [
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "No prospera el cargo por tratarse de una interpretación subjetiva del demandante"
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "Carga mínima de argumentación"
+    },
+    {
+      "tema": "INHIBICION DE LA CORTE CONSTITUCIONAL POR INEPTITUD SUSTANTIVA DE LA DEMANDA",
+      "subtema": "Incumplimiento de requisitos de certeza y suficiencia en los cargos"
+    },
+    {
+      "tema": "CONCEPTO DE VIOLACION EN DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "Razones claras, ciertas, específicas, pertinentes y suficientes"
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "radicado": "T-282-20",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2020,
+  "fecha_creacion": "2020-08-03",
+  "magistrado_ponente": "Luis Guillermo Guerrero Pérez",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ORDENAMIENTO TERRITORIAL",
+  "subtema": "Función y reglamentación del uso del suelo por autoridades municipales y distritales para la protección del medio ambiente",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 388 de 1997",
+    "Ley 1796 de 2016",
+    "Ley 1333 de 2009",
+    "Ley 99 de 1993",
+    "Ley 142 de 1994",
+    "Decreto 1203 de 2017",
+    "Ley 689 de 2001",
+    "Decreto 302 de 2000",
+    "Decreto 229 de 2002",
+    "Decreto 1077 de 2015",
+    "Decreto 417 de 2020",
+    "Decreto 441 de 2020",
+    "Decreto 465 de 2020",
+    "Decreto 1076 de 2015",
+    "Decreto 528 de 2020"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2020/T-282-20.htm",
+  "fecha_descarga": "2026-10-21T09:03:55.684524+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2020-08-03",
+  "fecha_publicacion": "2020-09-09",
+  "numero": "T-282/20",
+  "tipo_cc": "T",
+  "prov_id": "35197",
+  "tema_relatoria": "LA FALTA DEL SUMINISTRO DE AGUA POTABLE EN TIEMPOS DE EMERGENCIA SANITARIA OCASIONADA POR COVID-19, PONE EN RIESGO EL DERECHO A LA SALUD Y A LA VIDA.",
+  "resumen": "La vulneración de derechos fundamentales por parte de la accionada se atribuye al hecho de haber negado la conexión del servicio del agua potable a la vivienda de la actora, por no haber radicado el documento de la entidad ambiental en el que se registrara el aval dado para el vertimiento de su predio, ni la licencia de construcción para lotes o viviendas nuevas. Se reitera jurisprudencia sobre el derecho fundamental al agua potable y se aborda temática relacionada con: 1º. La licencia urbanística como requisito para la conexión del servicio público de acueducto y, 2º. Las medidas excepcionales adoptadas por el Gobierno Nacional en virtud de la emergencia sanitaria causada por el coronavirus COVID-19. A pesar de que la accionada obró de conformidad con el ordenamiento jurídico y que la peticionaria soslayó los trámites urbanísticos y administrativos imprescindibles para disfrutar del servicio de acueducto, la Sala considera que dadas las circunstancias de emergencia sanitaria que afronta el país, la falta de suministro de agua potable pone en riesgo la salud y la vida de las personas, por lo que es necesario exigir el concurso de los esfuerzos institucionales a fin de garantizar, entre otras cosas, que las y los colombianos efectivamente logren acceder al vital líquido. Con base en la anterior consideración se CONCEDE el amparo de manera transitoria y se ordena a la accionada que, desde el momento en que se le notifique la presente decisión y, por el tiempo que permanezca la emergencia sanitaria declarada por el Ministerio de Salud y Protección Social, tome las medidas necesarias para garantizar que la tutelante y su grupo familiar tengan acceso como mínimo, a 50 litros de agua por persona al día.",
+  "titulaciones": [
+    {
+      "tema": "ORDENAMIENTO TERRITORIAL",
+      "subtema": "Función y reglamentación del uso del suelo por autoridades municipales y distritales para la protección del medio ambiente"
+    },
+    {
+      "tema": "LICENCIA DE CONSTRUCCION",
+      "subtema": "Modalidad de licencia urbanística"
+    },
+    {
+      "tema": "DERECHO AL AGUA POTABLE",
+      "subtema": "Orden a Empresa de Servicios Públicos, tomar medidas adecuadas y necesarias que garanticen al accionante y su familia, el suministro de por lo menos 50 litros de agua por persona al día, hasta que se supere la pandemia por COVID-19"
+    },
+    {
+      "tema": "SERVICIO PUBLICO DE ACUEDUCTO",
+      "subtema": "Normatividad que regula su prestación"
+    },
+    {
+      "tema": "LICENCIA DE CONSTRUCCION",
+      "subtema": "Requisito para la conexión del servicio público de acueducto"
+    },
+    {
+      "tema": "ACCION DE TUTELA PARA SOLICITAR PROTECCION DEL DERECHO AL AGUA",
+      "subtema": "Procedencia excepcional"
+    },
+    {
+      "tema": "JURISPRUDENCIA CONSTITUCIONAL SOBRE LA TUTELA DEL GOCE EFECTIVO DEL DERECHO AL AGUA",
+      "subtema": null
+    },
+    {
+      "tema": "DERECHO AL AGUA POTABLE",
+      "subtema": "Caso en que no se accede a instalar el servicio, por cuanto accionante no cuenta con cédula catastral"
+    },
+    {
+      "tema": "MEDIO AMBIENTE",
+      "subtema": "Deberes primordiales del Estado"
+    },
+    {
+      "tema": "PRINCIPIO DE SUBSIDIARIEDAD DE LA ACCION DE TUTELA PARA ACCEDER AL SERVICIO DE AGUA POTABLE",
+      "subtema": "Flexibilidad ante la pandemia del coronavirus “COVID 19”"
+    },
+    {
+      "tema": "MEDIO AMBIENTE",
+      "subtema": "Reconocimiento constitucional"
+    },
+    {
+      "tema": "LICENCIA URBANISTICA",
+      "subtema": "Definición, contenido y alcance"
+    },
+    {
+      "tema": "ESTADO DE EMERGENCIA ECONÓMICA, SOCIAL Y ECOLÓGICA DERIVADO DE LA PANDEMIA POR COVID 19",
+      "subtema": "Medidas excepcionales para garantizar el derecho al agua potable"
+    },
+    {
+      "tema": "DERECHO FUNDAMENTAL AL AGUA",
+      "subtema": "Jurisprudencia constitucional"
+    },
+    {
+      "tema": "DERECHO FUNDAMENTAL AL AGUA",
+      "subtema": "Protección internacional"
+    },
+    {
+      "tema": "DERECHO FUNDAMENTAL AL AGUA",
+      "subtema": "Obligaciones del Estado para garantizar disponibilidad, accesibilidad y calidad del servicio de agua"
+    }
+  ]
+}

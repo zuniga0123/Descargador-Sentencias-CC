@@ -1,0 +1,50 @@
+{
+  "radicado": "T-490-20",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2020,
+  "fecha_creacion": "2020-11-20",
+  "magistrado_ponente": "Antonio José Lizarazo Ocampo",
+  "area": "Derecho a la Salud",
+  "tema": "DERECHO A LA SALUD",
+  "subtema": "Desarrollo normativo mediante Ley Estatutaria 1751 de 2015",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 1751 de 2015",
+    "Decreto 2591 de 1991",
+    "Ley 100 de 1993",
+    "Ley 1122 de 2007",
+    "Ley 1438 de 2011",
+    "Ley 1949 de 2019"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2020/T-490-20.htm",
+  "fecha_descarga": "2026-10-21T08:57:30.028786+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2020-11-20",
+  "fecha_publicacion": "2020-12-09",
+  "numero": "T-490/20",
+  "tipo_cc": "T",
+  "prov_id": "35502",
+  "tema_relatoria": "DERECHO A LA SALUD Y CIRUGIA RECONSTRUCTIVA POST BYPASS GASTRICO QUE NO TIENE FINES ESTETICOS",
+  "resumen": "Se atribuye a la entidad accionada la vulneración de derechos fundamentales, al negarle a la actora la práctica de procedimientos ordenados por el médico tratante, correspondientes a procesos postquirúrgicos del bypass bariátrico que le fue realizado previamente, los cuales son necesarios para completar el proceso de recuperación de su funcionalidad total. La entidad consideró que lo pretendido correspondía a tratamientos estéticos y no funcionales. Se reitera jurisprudencia relacionada con la acción de tutela y las cirugías plásticas reconstructivas con fines funcionales. La Corte considera que los procedimientos quirúrgicos ordenados a la peticionaria, aparentemente excluidos del PBS, buscan corregir problemas generados por el diagnóstico de obesidad mórbida que padece y están orientados a dar solución a las secuelas que quedaron de la cirugía inicial. Por lo anterior, resultó claro para la Sala que dichos procedimientos no podían ser calificados como una cirugía plástica “estética” o “cosmética”, en tanto cumplían fines reconstructivos funcionales tendientes a impedir afectaciones físicas y psicológicas en la actora, además de permitirle llevar una vida en condiciones dignas. Se CONCEDE el amparo invocado y se ordena a la E.P.S. dar inicio al procedimiento establecido en la Resolución 1885 de 2018, para autorizar y garantizar los procedimientos y tratamientos ordenados por el especialista en salud que valoró a la tutelante.",
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Desarrollo normativo mediante Ley Estatutaria 1751 de 2015"
+    },
+    {
+      "tema": "CIRUGÍA PLÁSTICA RECONSTRUCTIVA CON CARÁCTER FUNCIONAL",
+      "subtema": "Orden a EPS autorizar y garantizar los procedimientos y tratamientos ordenados por el médico tratante"
+    },
+    {
+      "tema": "CIRUGÍA PLÁSTICA RECONSTRUCTIVA CON CARÁCTER FUNCIONAL",
+      "subtema": "Caso en que EPS dilata práctica de procedimiento quirúrgico prescrito por médico tratante, por considerarlo de carácter estético"
+    },
+    {
+      "tema": "ACCESO A SERVICIOS Y MEDICAMENTOS EXCLUIDOS DEL PLAN DE BENEFICIOS EN SALUD",
+      "subtema": "Procedimiento, según Resolución 1885 de 2018"
+    }
+  ]
+}

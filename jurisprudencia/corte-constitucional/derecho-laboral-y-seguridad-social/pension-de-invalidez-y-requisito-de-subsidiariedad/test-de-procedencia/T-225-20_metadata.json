@@ -1,0 +1,70 @@
+{
+  "radicado": "T-225-20",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2020,
+  "fecha_creacion": "2020-07-07",
+  "magistrado_ponente": "Gloria Stella Ortiz Delgado",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "PENSION DE INVALIDEZ Y REQUISITO DE SUBSIDIARIEDAD",
+  "subtema": "Test de procedencia",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 1730 de 2001",
+    "Decreto 2591 de 1991",
+    "Decreto 1072 de 2015",
+    "Ley 860 de 2003",
+    "Decreto 758 de 1990",
+    "Ley 472 de 1998",
+    "Ley 1276 de 2009",
+    "Decreto 309 de 2017",
+    "Acto Legislativo 1 de 2005",
+    "Ley 1251 de 2008",
+    "Ley 100 de 1993",
+    "Ley 797 de 2003",
+    "Decreto Ley 2591 de 1991",
+    "Decreto 1295 de 1994"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2020/T-225-20.htm",
+  "fecha_descarga": "2026-10-21T09:02:03.318087+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2020-07-07",
+  "fecha_publicacion": "2020-09-25",
+  "numero": "T-225/20",
+  "tipo_cc": "T",
+  "prov_id": "35280",
+  "tema_relatoria": "RECONOCIMIENTO DE INDEMNIZACIÓN SUSTITUTIVA NO PUEDE CONSTITUIR UNA BARRERA PARA ESTUDIAR NUEVAMENTE SOLICITUD DE PENSIÓN DE INVALIDEZ Y APLICACIÓN ULTRACTIVA DEL ACUERDO 049/90",
+  "resumen": "El actor adujo que Colpensiones vulneró sus derechos fundamentales al negarle el reconocimiento y pago de la pensión de invalidez que reclamó, argumentando que previamente reconoció a su favor indemnización sustitutiva de pensión de vejez y que no acreditó el requisito de 50 semanas de cotización dentro de los 3 años anteriores a la fecha de estructuración de la invalidez, tal como lo dispone el artículo 1º de la Ley 860 de 2003. La entidad también alegó la imposibilidad de aplicar el principio de la condición más beneficiosa. El peticionario manifestó que la falta de dicha prestación afecta su mínimo vital, pues no genera ingreso alguno debido a su enfermedad, tampoco logra conseguir empleo y se dedica diariamente al cuidado de su hijo en condición de discapacidad, por lo que debe solventar sus gastos del hogar con las ayudas económicas que sus hijos le brindan cuando tienen empleo y con las ganancias que genera su esposa con trabajos de costura, lo que apenas les alcanza para sobrevivir. Se reitera jurisprudencia de la Corporación relacionada con el alcance de la indemnización sustitutiva y el principio de la condición más beneficiosa. La Corte considera que el peticionario se encuentra en condición de vulnerabilidad y es un sujeto de especial protección constitucional y, por ello, decide CONCEDER el amparo invocado. Concluyó además que la entidad no debió negar el reconocimiento pensional pretendido por el actor, por haber concedido previamente indemnización sustitutiva de pensión de vejez, pues ambos beneficios son independientes y tienen causas distintas, lo que no hace que su análisis sea incompatible.",
+  "titulaciones": [
+    {
+      "tema": "PENSION DE INVALIDEZ Y REQUISITO DE SUBSIDIARIEDAD",
+      "subtema": "Test de procedencia"
+    },
+    {
+      "tema": "PENSION DE INVALIDEZ E INDEMNIZACION SUSTITUTIVA",
+      "subtema": "Reconocimiento previo de indemnización sustitutiva no es justificación para negar pensión de invalidez si cumple los requisitos"
+    },
+    {
+      "tema": "PENSION DE INVALIDEZ Y REQUISITO DE SUBSIDIARIEDAD",
+      "subtema": "Test de procedencia de la acción de tutela estableció un incremento de la carga argumentativa que se torna excesivamente riguroso y, por lo tanto, desproporcionado"
+    },
+    {
+      "tema": "PENSION DE INVALIDEZ Y REQUISITO DE SUBSIDIARIEDAD",
+      "subtema": "Aumentar el número de requisitos contenidos y el rigor de los mismos, afecta el acceso a la justicia constitucional y la protección de los derechos fundamentales"
+    },
+    {
+      "tema": "DERECHO A LA PENSIÓN DE INVALIDEZ",
+      "subtema": "Orden a Colpensiones descontar del pago de las mesadas pensionales, lo cancelado previamente al actor por concepto de indemnización sustitutiva"
+    },
+    {
+      "tema": "INDEMNIZACION SUSTITUTIVA Y PENSION DE INVALIDEZ",
+      "subtema": "Reconocimiento de indemnización sustitutiva no puede constituir una barrera para estudiar nuevamente solicitud de pensión de invalidez"
+    },
+    {
+      "tema": "APLICACION DEL PRINCIPIO DE LA CONDICION MAS BENEFICIOSA A LA PENSION DE INVALIDEZ",
+      "subtema": "Jurisprudencia constitucional"
+    }
+  ]
+}

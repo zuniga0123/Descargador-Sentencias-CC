@@ -1,0 +1,58 @@
+{
+  "radicado": "T-065-20",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2020,
+  "fecha_creacion": "2020-02-18",
+  "magistrado_ponente": "Antonio José Lizarazo Ocampo",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "ENTIDAD ADMINISTRADORA DE PENSIONES",
+  "subtema": "Deber de custodia, conservación y guarda de la información concerniente al Sistema de Seguridad Social",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 860 de 2003",
+    "Decreto 1748 de 1995",
+    "Decreto 3798 de 2003",
+    "Decreto 1406 de 1999",
+    "Ley 100 de 1993",
+    "Decreto 1887 de 1994",
+    "Decreto 2591 de 1991",
+    "Decreto 2633 de 1994",
+    "Ley 797 de 2003",
+    "Decreto Ley 19 de 2012"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2020/T-065-20.htm",
+  "fecha_descarga": "2026-10-21T09:09:30.535162+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2020-02-18",
+  "fecha_publicacion": "2020-02-24",
+  "numero": "T-065/20",
+  "tipo_cc": "T",
+  "prov_id": "34771",
+  "tema_relatoria": "PENSION DE INVALIDEZ. ALLANAMIENTO A LA MORA EN EL PAGO DE APORTES PENSIONALES.",
+  "resumen": "La actora aduce que la entidad demandada vulneró sus derechos fundamentales al negarle el reconocimiento y pago de la pensión de invalidez a la que considera tener derecho, por haber sido calificada con una pérdida de capacidad laboral superior al 50% por causa del cáncer de mama que padece. La entidad alegó el incumplimiento de los requisitos previstos en el parágrafo 2 del artículo 1º de la Ley 860 de 2003. La peticionaria estima que si la accionada efectúa el cobro de los tiempos faltantes a dos empleadores morosos que han aceptado su responsabilidad pero que no han podido pagarlos por la falta de liquidación del cálculo actuarial, cumpliría con las semanas exigidas. Se analiza temática relacionada con la mora patronal en el pago de los aportes y los requisitos para acceder a la pensión de invalidez exigidos en la precitada Ley. Se CONCEDE el amparo invocado y se ordena el reconocimiento y pago de la prestación solicitada.",
+  "titulaciones": [
+    {
+      "tema": "ENTIDAD ADMINISTRADORA DE PENSIONES",
+      "subtema": "Deber de custodia, conservación y guarda de la información concerniente al Sistema de Seguridad Social"
+    },
+    {
+      "tema": "ACCION DE TUTELA PARA RECONOCIMIENTO DE PENSION DE INVALIDEZ",
+      "subtema": "Procedencia excepcional por afectación al mínimo vital y vida digna de sujetos de especial protección"
+    },
+    {
+      "tema": "DERECHO A LA PENSIÓN DE INVALIDEZ",
+      "subtema": "Orden a Fondo de Pensiones reconocer pensión de invalidez y pagar las mesadas causadas y no prescritas"
+    },
+    {
+      "tema": "MORA EN EL PAGO DE APORTES Y COTIZACIONES PENSIONALES",
+      "subtema": "Obligación de las entidades administradoras de cobrar a los empleadores morosos los aportes adeudados"
+    },
+    {
+      "tema": "DERECHO A LA SEGURIDAD SOCIAL EN PENSIONES",
+      "subtema": "Deberes de las Administradoras de pensiones respecto de la información consignada en la historia laboral de sus afiliados"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "radicado": "T-496-20",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2020,
+  "fecha_creacion": "2020-11-30",
+  "magistrado_ponente": "Gloria Stella Ortiz Delgado",
+  "area": "Derecho a la Salud",
+  "tema": "DERECHO A LA SALUD DE LOS MIGRANTES",
+  "subtema": "Obligaciones mínimas del Estado colombiano",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 1581 de 2012",
+    "Ley 715 de 2001",
+    "Decreto 1067 de 2015",
+    "Ley 100 de 1993",
+    "Ley 1751 de 2015",
+    "Decreto 780 de 2016",
+    "Ley 1815 de 2016",
+    "Decreto 800 de 2020",
+    "Decreto 64 de 2020",
+    "Ley 1949 de 2019",
+    "Ley 1438 de 2011",
+    "Ley 972 de 2005",
+    "Ley 2008 de 2019"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2020/T-496-20.htm",
+  "fecha_descarga": "2026-10-21T08:56:48.526659+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2020-11-30",
+  "fecha_publicacion": "2021-01-12",
+  "numero": "T-496/20",
+  "tipo_cc": "T",
+  "prov_id": "35579",
+  "tema_relatoria": "CARENCIA ACTUAL DE OBJETO POR ACAECIMIENTO DE UNA SITUACION SOBREVINIENTE-ACCIONANTE, EN CALIDAD DE EXTRANJERO, RECIBIÓ TRATAMIENTO Y MEDICAMENTO PARA VIH/SIDA",
+  "resumen": "Se instaura la acción de tutela en favor de un migrante venezolano en situación irregular que padece de VIH y tuberculosis. Pese a que dicho ciudadano fue atendido en el hospital accionado, cuestionó el hecho de que la institución solo le brindara la atención mientras permaneciera hospitalizado y que le advirtiera que debía asumir los gastos del tratamiento cuando le dieran de alta, lo cual alegó como imposible dada la condición de pobreza extrema que enfrentaba. Teniendo en cuenta que la Sala constató en que el peticionario retornó a su país de origen con posterioridad a la presentación de la tutela, declaró la CARENCIA ACTUAL DE OBJETO por acaecimiento de una situación sobreviniente. No obstante lo anterior, se analizó temática relacionada con: 1º. El cumplimiento del ordenamiento jurídico como deber que les asiste a los extranjeros. 2º. Las reglas jurisprudenciales sobre el derecho a la salud y la afiliación de este grupo al SGSSS y, 3º. La prevención del VIH como prioridad en la política pública en salud. La Corte le hizo una advertencia al Ministerio de Salud y Protección Social para que, en el marco de sus competencias constitucionales y legales, consolide una política pública de prevención del VIH enfocada en migrantes irregulares, articulada con las autoridades locales y con la estrategia de prevención combinada del Plan Nacional de Respuesta ante las ITS, el VIH, la coinfección TB/VIH y las hepatitis B y C.",
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA SALUD DE LOS MIGRANTES",
+      "subtema": "Obligaciones mínimas del Estado colombiano"
+    },
+    {
+      "tema": "CARENCIA ACTUAL DE OBJETO POR SITUACIÓN SOBREVINIENTE",
+      "subtema": "Agenciado regresó a Venezuela"
+    },
+    {
+      "tema": "DERECHO A LA SALUD Y AFILIACION A LA SEGURIDAD SOCIAL DE EXTRANJEROS NO REGULARIZADOS",
+      "subtema": "Caso de venezolano con VIH/SIDA y tuberculosis"
+    }
+  ]
+}

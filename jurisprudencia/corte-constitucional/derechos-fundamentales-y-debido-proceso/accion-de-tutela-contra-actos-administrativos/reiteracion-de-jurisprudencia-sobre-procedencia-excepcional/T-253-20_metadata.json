@@ -1,0 +1,57 @@
+{
+  "radicado": "T-253-20",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2020,
+  "fecha_creacion": "2020-07-17",
+  "magistrado_ponente": "Gloria Stella Ortiz Delgado",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCION DE TUTELA CONTRA ACTOS ADMINISTRATIVOS",
+  "subtema": "Reiteración de jurisprudencia sobre procedencia excepcional",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 1607 de 2012",
+    "Ley 1151 de 2007",
+    "Ley 1437 de 2011",
+    "Ley 1151 de 2017"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2020/T-253-20.htm",
+  "fecha_descarga": "2026-10-21T09:02:10.860122+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2020-07-17",
+  "fecha_publicacion": "2020-09-24",
+  "numero": "T-253/20",
+  "tipo_cc": "T",
+  "prov_id": "35274",
+  "tema_relatoria": "ACCIÓN DE TUTELA PARA RESOLVER CONTROVERSIAS DERIVADAS DE LA NOTIFICACIÓN DE ACTOS ADMINISTRATIVOS-IMPROCEDENCIA",
+  "resumen": "En este caso se aduce que la UGPP vulneró los derechos fundamentales al debido proceso y a la contradicción y defensa del actor, como resultado de la indebida notificación de los actos administrativos expedidos durante el trámite del procedimiento de determinación oficial de las contribuciones parafiscales de la protección social, previsto en el artículo 180 de la Ley 1607 de 2012. Luego de analizar el asunto la Sala decidió confirmar la decisión de instancia que declaró la IMPROCEDENCIA de la acción de tutela. Ello, teniendo en cuenta que el actor puede acudir al medio de control de nulidad y restablecimiento del derecho para discutir si la presunta indebida notificación de los actos administrativos expedidos por la UGPP vulnera sus garantías constitucionales en los términos previstos por la jurisprudencia del Consejo de Estado y de la Corte Constitucional.",
+  "titulaciones": [
+    {
+      "tema": "ACCION DE TUTELA CONTRA ACTOS ADMINISTRATIVOS",
+      "subtema": "Reiteración de jurisprudencia sobre procedencia excepcional"
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA ACTO ADMINISTRATIVO DE TRAMITE O PREPARATORIO",
+      "subtema": "Improcedencia general"
+    },
+    {
+      "tema": "ACCION DE NULIDAD Y RESTABLECIMIENTO DEL DERECHO",
+      "subtema": "Procedencia para controvertir actos administrativos de carácter particular y concreto"
+    },
+    {
+      "tema": "ACCION DE TUTELA PARA RESOLVER CONTROVERSIAS DERIVADAS DE LA NOTIFICACION DE ACTOS ADMINISTRATIVOS",
+      "subtema": "Improcedencia por incumplir requisito de subsidiariedad"
+    },
+    {
+      "tema": "CARENCIA ACTUAL DE OBJETO",
+      "subtema": "Configuración con ocasión de decisiones de instancia"
+    },
+    {
+      "tema": "CARENCIA ACTUAL DE OBJETO",
+      "subtema": "Fenómeno que se configura en los siguientes eventos: hecho superado, daño consumado o situación sobreviniente"
+    }
+  ]
+}

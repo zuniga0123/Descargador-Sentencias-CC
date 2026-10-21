@@ -1,0 +1,72 @@
+{
+  "radicado": "C-097-20",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2020,
+  "fecha_creacion": "2020-03-03",
+  "magistrado_ponente": "Antonio José Lizarazo Ocampo",
+  "area": "Derecho Constitucional Económico",
+  "tema": "ACCION PUBLICA DE INCONSTITUCIONALIDAD",
+  "subtema": "Requisitos",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 1816 de 2016",
+    "Decreto 2067 de 1991",
+    "Ley 788 de 2002",
+    "Ley 79 de 1993",
+    "Decreto 952 de 2019",
+    "Ley 1816 de 2019",
+    "Decreto 2067 de 2011",
+    "Ley 223 de 1995"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2020/C-097-20.htm",
+  "fecha_descarga": "2026-10-21T09:14:16.758978+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2020-03-03",
+  "fecha_publicacion": "2020-12-16",
+  "numero": "C-097/20",
+  "tipo_cc": "C",
+  "prov_id": "35526",
+  "tema_relatoria": "IMPUESTO AL CONSUMO DE LICORES. BASE GRAVABLE Y TARIFAS",
+  "resumen": "Demanda de inconstitucionalidad en contra de los artículos 19 y 20 (parciales) de la Ley 1816 de 2016, por la cual se fija el régimen propio del monopolio rentístico de licores destilados, se modifica el impuesto al consumo de licores, vinos, aperitivos y similares, y se dictan otras disposiciones. Los demandantes alegaron que las disposiciones acusadas vulneran los artículos 29, 150-12, 338 y 363 de la Constitución Política. La Corte constató que en algunos de los apartes normativos acusados que definen la base gravable del impuesto al consumo de licores se configuró el fenómeno de la cosa juzgada, toda vez que con decisión previa se pronunció sobre su constitucionalidad en relación con el mismo mismo cargo que se plantea en esta oportunidad, relativo a la violación del principio de legalidad y certeza tributaria. En consecuencia, decidió ESTARSE A LO RESUELTO en la Sentencia C-511/19, mediante la cual se declararon exequibles las expresiones “…precio de venta al público ….certificado anualmente por el DANE, garantizando la individualidad de cada producto” contenidas en su inciso segundo; “…para desarrollar directa o indirectamente a través de terceros, todas las gestiones indispensables para determinar anualmente el precio de venta al público de los productos sujetos al impuesto de consumo”, contenidas en el inciso primero del parágrafo segundo del artículo 19 de la Ley 1816/16. Igual decisión se adoptó respecto a la expresión “certificado por el DANE” contenida en el numeral segundo del artículo 20 ibídem. De otra parte, la Sala Plena decidió INHIBIRSE para emitir un pronunciamiento de fondo respecto de las siguientes expresiones contenidas en el artículo 19 de la precitada Ley “…por unidad de 750 cc, sin incluir el impuesto al consumo o la participación” contenidas en el inciso y “Para efectos de la certificación de que trata el presente artículo, el Departamento Administrativo Nacional de Estadística (DANE) se encuentra facultado….” Contenida en el inciso primero de su parágrafo 2º, por la ineptitud sustantiva de la demanda. Esta misma declaratoria se hizo frente a la expresión “Componente ad valórem. El componente ad valórem del impuesto al consumo de licores, aperitivos y similares, se liquidará aplicando una tarifa del 25% sobre el precio de venta al público, antes de impuestos y/o participación, (...)” contenida en el numeral segundo del artículo 20.",
+  "titulaciones": [
+    {
+      "tema": "ACCION PUBLICA DE INCONSTITUCIONALIDAD",
+      "subtema": "Requisitos"
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "Se debe formular contra enunciado normativo que tenga contenido autónomo sobre el cual pueda recaer el juicio de constitucionalidad"
+    },
+    {
+      "tema": "COSA JUZGADA CONSTITUCIONAL",
+      "subtema": "Configuración por existencia de identidad normativa y de cargos"
+    },
+    {
+      "tema": "COSA JUZGADA CONSTITUCIONAL",
+      "subtema": "Requisitos para su configuración"
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "Concepto de violación"
+    },
+    {
+      "tema": "INHIBICION DE LA CORTE CONSTITUCIONAL",
+      "subtema": "Demanda plantea un juicio de legalidad y no de constitucionalidad"
+    },
+    {
+      "tema": "INHIBICION DE LA CORTE CONSTITUCIONAL",
+      "subtema": "Ineptitud sustantiva de la demanda por la no estructuración de un verdadero cargo de inconstitucionalidad"
+    },
+    {
+      "tema": "INHIBICION DE LA CORTE CONSTITUCIONAL POR INEPTITUD SUSTANTIVA DE LA DEMANDA",
+      "subtema": "Incumplimiento de requisitos de claridad, certeza, especificidad, pertinencia y suficiencia en los cargos"
+    },
+    {
+      "tema": "CONCEPTO DE VIOLACION EN DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "Razones claras, ciertas, específicas, pertinentes y suficientes"
+    }
+  ]
+}

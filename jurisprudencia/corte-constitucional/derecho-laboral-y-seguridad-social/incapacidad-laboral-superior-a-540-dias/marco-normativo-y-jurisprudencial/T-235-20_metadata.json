@@ -1,0 +1,55 @@
+{
+  "radicado": "T-235-20",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2020,
+  "fecha_creacion": "2020-07-08",
+  "magistrado_ponente": "Luis Guillermo Guerrero Pérez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "INCAPACIDAD LABORAL SUPERIOR A 540 DIAS",
+  "subtema": "Marco normativo y jurisprudencial",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 1753 de 2015",
+    "Decreto 2591 de 1991",
+    "Ley 19 de 2012",
+    "Decreto 1333 de 2018",
+    "Decreto 780 de 2016",
+    "Ley 1564 de 2012",
+    "Ley 1949 de 2019"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2020/T-235-20.htm",
+  "fecha_descarga": "2026-10-21T09:03:29.262668+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2020-07-08",
+  "fecha_publicacion": "2020-09-10",
+  "numero": "T-235/20",
+  "tipo_cc": "T",
+  "prov_id": "35207",
+  "tema_relatoria": "INCAPACIDAD LABORAL SUPERIOR A 540 DIAS-MARCO NORMATIVO",
+  "resumen": "Se atribuye a la E.P.S accionada la vulneración de derechos fundamentales de la actora, quien padece cáncer de huesos, como consecuencia de no cancelarle la totalidad de incapacidades que le fueron prescritas por sus médicos tratantes con posterioridad al día 540. La entidad presentó varios argumentos dirigidos a sustentar su falta de competencia para proceder con lo solicitado. Entre ellos sostuvo: (i) que la peticionaria ya había sido calificada y por tanto procedía el reconocimiento de su pensión de invalidez, (ii) que podía elevar sus pretensiones ante la Superintendencia Nacional de Salud dado que se trataba de un asunto económico, (iii) que hubo un fallo previo a partir del cual se declaró la improcedencia, (iv) que no se cumplía con el requisito de inmediatez, (v) que pagó algunas incapacidades posteriores al día 540 (no todas las que se generaron) y (vi) que no estaba acreditada la afectación del mínimo vital. Se analizó temática relacionada con el marco normativo ordinario del pago de las incapacidades causadas desde el día 540 en adelante por enfermedad de origen común. En sede de revisión la Sala conoció que la peticionaria falleció y, por ello, declaró la ocurrencia de un HECHO SUPERADO por presentarse un hecho sobreviniente.",
+  "titulaciones": [
+    {
+      "tema": "INCAPACIDAD LABORAL SUPERIOR A 540 DIAS",
+      "subtema": "Marco normativo y jurisprudencial"
+    },
+    {
+      "tema": "COSA JUZGADA CONSTITUCIONAL EN TUTELA",
+      "subtema": "Triple identidad conlleva improcedencia"
+    },
+    {
+      "tema": "CARENCIA ACTUAL DE OBJETO POR SITUACIÓN SOBREVINIENTE",
+      "subtema": "Fallecimiento del accionante"
+    },
+    {
+      "tema": "ACTUACION TEMERARIA Y COSA JUZGADA EN MATERIA DE TUTELA",
+      "subtema": "Inexistencia para el caso"
+    },
+    {
+      "tema": "PAGO DE INCAPACIDAD LABORAL",
+      "subtema": "Sustituye el salario durante el tiempo en el cual el trabajador se encuentra involuntariamente al margen de sus labores"
+    }
+  ]
+}

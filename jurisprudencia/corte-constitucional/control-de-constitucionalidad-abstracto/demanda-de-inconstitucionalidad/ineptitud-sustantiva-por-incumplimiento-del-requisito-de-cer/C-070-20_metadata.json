@@ -1,0 +1,68 @@
+{
+  "radicado": "C-070-20",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2020,
+  "fecha_creacion": "2020-02-19",
+  "magistrado_ponente": "Alejandro Linares Cantillo",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "DEMANDA DE INCONSTITUCIONALIDAD",
+  "subtema": "Ineptitud sustantiva por incumplimiento del requisito de certeza del cargo",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 1940 de 2018",
+    "Decreto 2067 de 1991",
+    "Decreto 1068 de 2015",
+    "Ley 1940 de 2016",
+    "Ley 2008 de 2019",
+    "Ley 48 de 1993",
+    "Ley 1861 de 2017",
+    "Decreto 111 de 1996"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2020/C-070-20.htm",
+  "fecha_descarga": "2026-10-21T09:11:30.813942+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2020-02-19",
+  "fecha_publicacion": "2021-05-03",
+  "numero": "C-070/20",
+  "tipo_cc": "C",
+  "prov_id": "35849",
+  "tema_relatoria": "RESERVAS PRESUPUESTALES POR PAGAR. REQUIERE DE UN PROGRAMA ANUAL MENSUALIZADO DE CAJAS DE VIGENCIA",
+  "resumen": "Demanda de inconstitucionalidad contra el artículo 31 (parcial) de la Ley 1940 de 2018, por la cual se decreta el presupuesto de rentas y recursos de capital y ley de apropiaciones para la vigencia fiscal del 1 de enero al 31 de diciembre de 2019. El demandante presentó como único cargo el desconocimiento de la reserva de ley orgánica establecida en los artículos 151 y 352 de la Carta Superior. Como argumento principal adujo que la disposición cuestionada, que corresponde a una ley ordinaria de presupuesto, estaría adicionando un requisito para la constitución de cuentas por pagar no contemplado en el artículo 89 del Estatuto Orgánico del Presupuesto. Concluyó la Corte que se presenta en este caso el fenómeno de la sustracción de materia, pues no existe prescripción normativa eficaz sobre la cual pudiese recaer el pronunciamiento. Esta situación conllevó a la Sala Plena a declararse INHIBIDA emitir pronunciamiento de fondo, en cumplimiento estricto de la regla de competencia establecida en el artículo 241 Superior.",
+  "titulaciones": [
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "Ineptitud sustantiva por incumplimiento del requisito de certeza del cargo"
+    },
+    {
+      "tema": "INHIBICION DE LA CORTE CONSTITUCIONAL",
+      "subtema": "Procedencia frente a norma que no se encuentra vigente ni está produciendo efectos jurídicos"
+    },
+    {
+      "tema": "LEY ANUAL DE PRESUPUESTO",
+      "subtema": "Vigencia temporal"
+    },
+    {
+      "tema": "LEY ANUAL DE PRESUPUESTO",
+      "subtema": "Disposiciones generales rigen únicamente para el año fiscal para el cual se expidan"
+    },
+    {
+      "tema": "CONTROL DE CONSTITUCIONALIDAD",
+      "subtema": "Procedencia respecto de normas vigentes o de aquellas que habiendo perdido su vigencia pueden continuar produciendo efectos jurídicos"
+    },
+    {
+      "tema": "NORMA ACUSADA",
+      "subtema": "Análisis de vigencia"
+    },
+    {
+      "tema": "INHIBICION DE LA CORTE CONSTITUCIONAL",
+      "subtema": "Sustracción de materia"
+    },
+    {
+      "tema": "INTEGRACION DE UNIDAD NORMATIVA",
+      "subtema": "Configuración"
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "radicado": "C-471-20",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2020,
+  "fecha_creacion": "2020-11-05",
+  "magistrado_ponente": "Alejandro Linares Cantillo",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "DERECHO DE ASOCIACION",
+  "subtema": "Finalidad",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2067 de 1991",
+    "Ley 50 de 1990",
+    "Decreto Ley 2067 de 1991",
+    "Ley 16 de 1972",
+    "Acto Legislativo 1 de 2003"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2020/C-471-20.htm",
+  "fecha_descarga": "2026-10-21T09:13:42.503243+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2020-11-05",
+  "fecha_publicacion": "2021-01-18",
+  "numero": "C-471/20",
+  "tipo_cc": "C",
+  "prov_id": "35576",
+  "tema_relatoria": "CST. SINDICATOS. EL CARGO DE FISCAL DEL SINDICATO LE CORRESPONDE A LA FRACCIÓN MAYORITARIA DE LAS MINORÍAS.",
+  "resumen": "Demanda de inconstitucionalidad contra el artículo 391, numeral 2, parcial, del Código Sustantivo del Trabajo, modificado por el artículo 54 de la Ley 50 de 1990. El actor considera que la expresión “En todo caso, el cargo de fiscal del sindicato corresponderá a la fracción mayoritaria de las minoritarias”, vulnera los artículos 38 y 39 de la Constitución y el artículo 3 del Convenio 87 de la Organización Internacional del Trabajo (OIT), por limitar de forma desproporcionada el derecho de asociación, el derecho de asociación sindical y el principio de autonomía sindical en la elección libre de sus representantes. La Corte concluyó que la norma bajo examen se ajusta a los preceptos constitucionales invocados, toda vez que se trata de una limitación razonable que se sustenta en la salvaguarda de la participación y el pluralismo a favor de las minorías, que a su vez asegura el control intraorgánico que, en términos de independencia y como expresión del sistema de frenos y contrapesos al interior de los sindicatos, debe brindar el cargo de fiscal. Todo lo anterior con miras a impulsar la realización de los principios democráticos, como restricción legal válida que admite el inciso 2° del artículo 39 de la Constitución y que resulta acorde con las directrices del Comité de Libertad Sindical, al interpretar de forma armónica los artículos 3 y 8 del Convenio 87 de la OIT. EXEQUIBLE.",
+  "titulaciones": [
+    {
+      "tema": "DERECHO DE ASOCIACION",
+      "subtema": "Finalidad"
+    },
+    {
+      "tema": "DERECHO DE ASOCIACION",
+      "subtema": "Naturaleza"
+    },
+    {
+      "tema": "FISCAL DEL SINDICATO",
+      "subtema": "Naturaleza"
+    },
+    {
+      "tema": "FISCAL DEL SINDICATO",
+      "subtema": "Elección no desconoce el derecho de asociación sindical"
+    },
+    {
+      "tema": "TRATADOS INTERNACIONALES",
+      "subtema": "Doctrina del ?Margen Nacional de Apreciación?"
+    },
+    {
+      "tema": "CONGRESO DE LA REPUBLICA",
+      "subtema": "Regulación de estructura interna y funcionamiento de sindicatos sin afectar la autonomía de la libertad sindical"
+    },
+    {
+      "tema": "DERECHO A ELEGIR EN ORGANIZACION SINDICAL",
+      "subtema": null
+    },
+    {
+      "tema": "AUTONOMIA SINDICAL",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "DERECHO DE ASOCIACION",
+      "subtema": "Dimensiones"
+    },
+    {
+      "tema": "DERECHO DE ASOCIACION",
+      "subtema": "Tipos"
+    },
+    {
+      "tema": "FISCAL DEL SINDICATO",
+      "subtema": "Funciones"
+    },
+    {
+      "tema": "PRINCIPIO DE AUTONOMIA SINDICAL O DE NO INTERVENCION DEL ESTADO EN ASUNTOS PROPIOS DE ORGANIZACIONES SINDICALES",
+      "subtema": "Límites del legislador"
+    },
+    {
+      "tema": "LIBERTAD SINDICAL",
+      "subtema": "Se garantiza con la representación de las minorías en la elección de directivas sindicales"
+    },
+    {
+      "tema": "DERECHO DE ASOCIACIÓN SINDICAL",
+      "subtema": "Alcance y contenido"
+    },
+    {
+      "tema": "DERECHO DE ASOCIACIÓN SINDICAL",
+      "subtema": "Derecho subjetivo, de carácter voluntario, relacional e instrumental"
+    },
+    {
+      "tema": "TEST INTERMEDIO DE RAZONABILIDAD",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "SINDICATO",
+      "subtema": "Elección de representantes"
+    }
+  ]
+}

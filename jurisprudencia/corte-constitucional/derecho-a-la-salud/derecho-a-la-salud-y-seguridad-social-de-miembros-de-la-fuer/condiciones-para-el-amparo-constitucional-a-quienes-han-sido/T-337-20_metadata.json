@@ -1,0 +1,42 @@
+{
+  "radicado": "T-337-20",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2020,
+  "fecha_creacion": "2020-08-21",
+  "magistrado_ponente": "Luis Guillermo Guerrero Pérez",
+  "area": "Derecho a la Salud",
+  "tema": "DERECHO A LA SALUD Y SEGURIDAD SOCIAL DE MIEMBROS DE LA FUERZA PUBLICA RETIRADOS DEL SERVICIO",
+  "subtema": "Condiciones para el amparo constitucional a quienes han sido retirados del servicio por lesiones o afecciones adquiridas durante o con ocasión del mismo",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 352 de 1997"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2020/T-337-20.htm",
+  "fecha_descarga": "2026-10-21T09:00:46.883966+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2020-08-21",
+  "fecha_publicacion": "2020-10-21",
+  "numero": "T-337/20",
+  "tipo_cc": "T",
+  "prov_id": "35365",
+  "tema_relatoria": "ACCION DE TUTELA PARA RECLAMAR ATENCION MEDICA COMO MIEMBRO RETIRADO DEL EJERCITO-IMPROCEDENCIA",
+  "resumen": "El actor alega que la Dirección de Sanidad del Ejército Nacional vulneró sus derechos fundamentales, al tomar la decisión de no vincularlo al programa especial para portadores de VIH/SIDA y no prestarle la atención médica que requiere, por no encontrarse activo en el Sistema de Salud de las Fuerzas Militares. Se aborda temática relacionada con el régimen de los afiliados y beneficiarios del sistema de salud de las Fuerzas Militares y de Policía y sobre el derecho a la salud que se predica de miembros retirados del ejército. Teniendo en cuenta que la patología alegada por el tutelante no está asociada a la prestación del servicio militar y que actualmente no mantiene ningún vínculo con la institución cuestionada, considera la Corte que la decisión de no brindar la atención médica pretendida no vulnera ningún derecho fundamental. Consecuentemente con lo anterior, se DENIEGA el amparo invocado.",
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA SALUD Y SEGURIDAD SOCIAL DE MIEMBROS DE LA FUERZA PUBLICA RETIRADOS DEL SERVICIO",
+      "subtema": "Condiciones para el amparo constitucional a quienes han sido retirados del servicio por lesiones o afecciones adquiridas durante o con ocasión del mismo"
+    },
+    {
+      "tema": "ACCION DE TUTELA PARA RECLAMAR ATENCION EN SALUD COMO MIEMBRO RETIRADO DEL EJERCITO",
+      "subtema": "Improcedencia por cuanto enfermedad alegada por el tutelante no está asociada a la prestación del servicio militar"
+    },
+    {
+      "tema": "RÉGIMEN ESPECIAL DE SALUD DE LAS FUERZAS MILITARES Y POLICIA NACIONAL",
+      "subtema": "Beneficiarios"
+    }
+  ]
+}

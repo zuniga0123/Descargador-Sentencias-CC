@@ -1,0 +1,65 @@
+{
+  "radicado": "C-410-20",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2020,
+  "fecha_creacion": "2020-09-17",
+  "magistrado_ponente": "Gloria Stella Ortiz Delgado",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "DECRETO LEGISLATIVO DE DESARROLLO DE ESTADO DE EMERGENCIA ECONÓMICA, SOCIAL Y ECOLÓGICA",
+  "subtema": "Parámetros de validez constitucional",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2067 de 1991",
+    "Decreto 637 de 2020",
+    "Ley 137 de 1994",
+    "Ley 1731 de 2014",
+    "Ley 302 de 1996",
+    "Ley 101 de 1993",
+    "Decreto 796 de 2020",
+    "Decreto 486 de 2020",
+    "Decreto 1071 de 2015",
+    "Ley 80 de 1993",
+    "Ley 1150 de 2007",
+    "Decreto 417 de 2020",
+    "Decreto 1985 de 2013",
+    "Decreto 2952 de 2010",
+    "Decreto 679 de 2020",
+    "Ley 306 de 1996",
+    "Ley 1266 de 2008",
+    "Decreto 544 de 2020",
+    "Ley 1753 de 2017",
+    "Ley 1753 de 2015",
+    "Decreto 499 de 2020"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2020/C-410-20.htm",
+  "fecha_descarga": "2026-10-21T09:17:04.532602+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2020-09-17",
+  "fecha_publicacion": "2020-10-20",
+  "numero": "C-410/20",
+  "tipo_cc": "C",
+  "prov_id": "35350",
+  "tema_relatoria": "CRÉDITO AGROPECUARIO. ACUERDOS DE RECUPERACIÓN Y PAGO DE CARTERA EN EL SECTOR AGROPECUARIO. ADQUISICIÓN DE CARTERA DE INTERMEDIARIOS FINANCIEROS. CONTRATACIÓN DIRECTA DEL MINISTERIO DE AGRICULTURA PARA GARANTIZAR LA SEGURIDAD ALIMENTARIA",
+  "resumen": "Revisión de constitucionalidad del Decreto Legislativo 796 del 4 de junio de 2020, por el cual se adoptan medidas en el sector agropecuario para atenuar los efectos económicos derivados de la enfermedad Coronavirus COVID-19 en los trabajadores y productores agropecuarios, en el marco del Estado de Emergencia Económica, Social y Ecológica. La norma objeto de estudio tiene dos objetivos definidos: (i) otorgar determinados alivios financieros para los pequeños y medianos productores agropecuarios afectados por los efectos socioeconómicos de la pandemia por el COVID-19 y, (ii) flexibilizar las reglas de contratación estatal, con el objeto de permitir la respuesta ágil y adecuada, por parte del Ministerio de Agricultura y Desarrollo Rural, respecto de la adquisición de bienes e insumos para el sector agropecuario, así como la logística y medidas de fomento a favor de los productores mencionados. La Corte concluyó que las medidas adoptadas en el Decreto precitado superan a cabalidad los juicios de constitucionalidad que se debe aplicar a toda medida dictada en desarrollo de un estado de emergencia económica, social y ecológica y, por ello, declaró su EXEQUIBILIDAD.",
+  "titulaciones": [
+    {
+      "tema": "DECRETO LEGISLATIVO DE DESARROLLO DE ESTADO DE EMERGENCIA ECONÓMICA, SOCIAL Y ECOLÓGICA",
+      "subtema": "Parámetros de validez constitucional"
+    },
+    {
+      "tema": "CONTROL DE CONSTITUCIONALIDAD DE DECRETO LEGISLATIVO DE DESARROLLO DE ESTADO DE EMERGENCIA ECONOMICA, SOCIAL Y ECOLOGICA",
+      "subtema": "Precedente"
+    },
+    {
+      "tema": "DECRETO LEGISLATIVO EN DESARROLLO DE ESTADO DE EMERGENCIA QUE ADOPTA MEDIDAS EN EL SECTOR AGROPECUARIO PARA ATENUAR LOS EFECTOS ECONOMICOS DEL COVID-19",
+      "subtema": "Exequible"
+    },
+    {
+      "tema": "CONTROL DE CONSTITUCIONALIDAD DE DECRETO DECLARATORIO DE ESTADO DE EMERGENCIA ECONOMICA, SOCIAL Y ECOLOGICA",
+      "subtema": "Presupuestos formales y materiales"
+    }
+  ]
+}

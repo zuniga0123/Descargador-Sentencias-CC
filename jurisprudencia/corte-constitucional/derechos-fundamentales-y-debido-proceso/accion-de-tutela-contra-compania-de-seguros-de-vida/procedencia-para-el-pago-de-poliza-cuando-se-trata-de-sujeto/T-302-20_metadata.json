@@ -1,0 +1,55 @@
+{
+  "radicado": "T-302-20",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2020,
+  "fecha_creacion": "2020-08-10",
+  "magistrado_ponente": "Diana Fajardo Rivera",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCIÓN DE TUTELA CONTRA COMPAÑIA DE SEGUROS DE VIDA",
+  "subtema": "Procedencia para el pago de póliza cuando se trata de sujetos de especial protección constitucional y los medios ordinarios no son idóneos",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto Ley 2591 de 1991",
+    "Decreto 2591 de 1991",
+    "Ley 1328 de 2009",
+    "Ley 1328 de 2008",
+    "Ley 1996 de 2019",
+    "Ley 1480 de 2011",
+    "Acto Legislativo 1 de 2018"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2020/T-302-20.htm",
+  "fecha_descarga": "2026-10-21T09:05:14.061545+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2020-08-10",
+  "fecha_publicacion": "2020-08-19",
+  "numero": "T-302/20",
+  "tipo_cc": "T",
+  "prov_id": "35135",
+  "tema_relatoria": "CARENCIA ACTUAL DE OBJETO POR HECHO SUPERADO-SE CANCELARON PÓLIZAS QUE AMPARABAN CRÉDITOS DE LA AGENCIADA.",
+  "resumen": "La accionante, actuando en representación de su progenitora, considera que las entidades accionadas vulneraron derechos fundamentales, al negarse a hacer efectivas las pólizas de seguro que respaldan las dos obligaciones crediticias adquiridas y a entregarle copia de las respectivas pólizas, a pesar de que su mamá fue calificada con una pérdida de la capacidad laboral del 95%, como consecuencia del accidente cerebrovascular que sufrió y al estado vegetativo en que quedó. La Corte declaró la carencia actual de objeto por HECHO SUPERADO, ya que durante el trámite del proceso de tutela las pólizas que amparaban los créditos mencionados se hicieron efectivas. No obstante lo anterior y dada la gravedad de los hechos, la Sala estimó necesario emitir un pronunciamiento de fondo respecto al deber de información que tienen las entidades financieras y aseguradoras con los consumidores financieros. Con base en lo anterior concluyó que el Banco cuestionado omitió el deber de entregar información completa y oportuna a la hija de la accionante en relación con el trámite requerido para solicitar el pago de las pólizas de seguro y la compañía aseguradora con quien se habían suscrito tales pólizas y, de esta manera, hacer valer los derechos de su madre. Considera la Corporación que dicha actuación devino en una vulneración de los derechos a la información y al derecho al debido proceso contractual de la accionante, lo que también implicó una amenaza a su mínimo vital. En este sentido decidió AMPARAR los derechos fundamentales a la información y al debido proceso contractual.",
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA COMPAÑIA DE SEGUROS DE VIDA",
+      "subtema": "Procedencia para el pago de póliza cuando se trata de sujetos de especial protección constitucional y los medios ordinarios no son idóneos"
+    },
+    {
+      "tema": "DEBER DE INFORMACION DE LAS ENTIDADES FINANCIERAS Y ASEGURADORAS",
+      "subtema": "Obligación especial de información y acompañamiento a los consumidores financieros"
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA ENTIDADES FINANCIERAS Y ASEGURADORAS",
+      "subtema": "Procedencia excepcional cuando prestan un servicio público o actividad de interés público"
+    },
+    {
+      "tema": "DEBER DE INFORMACION DE LAS ENTIDADES FINANCIERAS Y ASEGURADORAS",
+      "subtema": "Vulneración al omitir suministrar información oportuna y completa acerca de la sociedad aseguradora a la que podía reclamar pago de saldo insoluto"
+    },
+    {
+      "tema": "CARENCIA ACTUAL DE OBJETO POR HECHO SUPERADO",
+      "subtema": "Compañía de Seguros realizó el pago de la póliza de seguro de vida e incapacidad total y permanente"
+    }
+  ]
+}

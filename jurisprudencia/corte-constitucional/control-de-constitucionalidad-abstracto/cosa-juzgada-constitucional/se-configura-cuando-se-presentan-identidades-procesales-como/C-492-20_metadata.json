@@ -1,0 +1,43 @@
+{
+  "radicado": "C-492-20",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2020,
+  "fecha_creacion": "2020-11-26",
+  "magistrado_ponente": "Antonio José Lizarazo Ocampo",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "COSA JUZGADA CONSTITUCIONAL",
+  "subtema": "Se configura cuando se presentan identidades procesales como objeto, causa petendi e identidad de partes",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Acto Legislativo 4 de 2019",
+    "Decreto 2067 de 1991",
+    "Decreto 267 de 2000"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2020/C-492-20.htm",
+  "fecha_descarga": "2026-10-21T09:11:38.413765+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2020-11-26",
+  "fecha_publicacion": "2021-04-22",
+  "numero": "C-492/20",
+  "tipo_cc": "C",
+  "prov_id": "35826",
+  "tema_relatoria": "CONTROL FISCAL. CONTROL CONCOMITANTE Y PREVENTIVO. ADVERTENCIA DE UN RIESGO INMINENTE EN OPERACIONES Y PROCESOS EN EJECUCIÓN.",
+  "resumen": "Demanda de inconstitucionalidad contra los artículos 1 y 2 (parciales) del Acto Legislativo 04 de 2019, por medio del cual se reforma el Régimen de Control Fiscal. Los demandantes alegaron que los apartes normativos acusados son inconstitucionales, porque sustituyen el principio de separación de poderes como elemento definitorio de la Constitución y afectan el control fiscal posterior y selectivo. Al analizar los cargos planteados la Corte concluyó que se presentó el fenómeno de la cosa juzgada constitucional, en tanto constató la existencia de los tres elementos exigidos por la jurisprudencia constitucional para la aplicación de esta figura, es decir, la identidad de objeto, de cargos formulados y de la causa petendi. Con base en lo anterior, decidió ESTARSE A LO RESUELTO en la Sentencia C-140/20, mediante la cual se declararon exequibles las disposiciones demandadas en esta oportunidad.",
+  "titulaciones": [
+    {
+      "tema": "COSA JUZGADA CONSTITUCIONAL",
+      "subtema": "Se configura cuando se presentan identidades procesales como objeto, causa petendi e identidad de partes"
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "Se configuró el fenómeno de la cosa juzgada constitucional"
+    },
+    {
+      "tema": "COSA JUZGADA CONSTITUCIONAL",
+      "subtema": "Efectos"
+    }
+  ]
+}

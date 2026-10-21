@@ -1,0 +1,285 @@
+{
+  "radicado": "C-201-20",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2020,
+  "fecha_creacion": "2020-06-25",
+  "magistrado_ponente": null,
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "CONTROL CONSTITUCIONAL DE DECRETO LEGISLATIVO DE ESTADO DE EMERGENCIA ECONOMICA, SOCIAL Y ECOLOGICA",
+  "subtema": "Exequibilidad",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 137 de 1994",
+    "Decreto 2067 de 1991",
+    "Decreto 417 de 2020",
+    "Ley 906 de 2004",
+    "Ley 600 de 2000",
+    "Decreto 487 de 2020",
+    "Decreto Ley 889 de 2017",
+    "Acto Legislativo 1 de 2016",
+    "Acto Legislativo 1 de 2017",
+    "Acto Legislativo 1 de 1997",
+    "Decreto 595 de 2020",
+    "Ley 1453 de 2011",
+    "Ley 40 de 1905",
+    "Ley 21 de 1907",
+    "Ley 109 de 1923",
+    "Ley 94 de 1938",
+    "Decreto 528 de 1964",
+    "Ley 1437 de 2011",
+    "Decreto 333 de 1992",
+    "Decreto 680 de 1992",
+    "Decreto 1178 de 1994",
+    "Decreto 195 de 1999",
+    "Decreto 4580 de 2010",
+    "Decreto 601 de 2017",
+    "Decreto 80 de 1997",
+    "Decreto 2330 de 1998",
+    "Decreto 4333 de 2008",
+    "Decreto 4975 de 2009",
+    "Decreto 2963 de 2010",
+    "Decreto 1170 de 2011",
+    "Ley 16 de 1972",
+    "Ley 74 de 1968",
+    "Ley 707 de 2001"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2020/C-201-20.htm",
+  "fecha_descarga": "2026-10-21T09:18:38.814105+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2020-06-25",
+  "fecha_publicacion": "2020-09-15",
+  "numero": "C-201/20",
+  "tipo_cc": "C",
+  "prov_id": "35215",
+  "tema_relatoria": "SUSPENSIÓN DE TÉRMINOS EN TRÁMITE DE EXTRADICIÓN DURANTE EL ESTADO DE EMERGENCIA, CON ALGUNAS EXCEPCIONES.",
+  "resumen": "Revisión de constitucionalidad del Decreto Legislativo 487 de 2020, por el cual se dictan medidas especiales relacionadas con el sector Justicia y del Derecho en materia de extradición, con ocasión del ‘Estado de Emergencia Económica, Social y Ecológica’ declarada en todo el territorio nacional, derivada de la Pandemia COVID-19. La Corte considera que la norma analizada fue expedida con cumplimiento de sus requisitos formales de constitucionalidad, pero que su contenido resulta contrario a la Constitución Política, porque suspende normas procesales de contenido sustancial que fueron previstas por el legislador para garantizarle a las personas solicitadas en extradición sus derechos al debido proceso y a la libertad. En tal sentido, se declaró su INEXEQUIBILIDAD, por no satisfacer los juicios de ausencia de arbitrariedad, no contradicción específica, y proporcionalidad. La Sala Plena precisa que la presente decisión no afecta la suspensión de términos por 30 días de los trámites de extradición de personas requeridas para el cumplimiento de condenas en firme, en los que ya se había proferido resolución ejecutoriada concediendo la extradición para la fecha de expedición del Decreto Legislativo 487 de 2020.",
+  "titulaciones": [
+    {
+      "tema": "CONTROL CONSTITUCIONAL DE DECRETO LEGISLATIVO DE ESTADO DE EMERGENCIA ECONOMICA, SOCIAL Y ECOLOGICA",
+      "subtema": "Exequibilidad"
+    },
+    {
+      "tema": "CONTROL CONSTITUCIONAL DE DECRETO LEGISLATIVO DE ESTADO DE EMERGENCIA ECONOMICA, SOCIAL Y ECOLOGICA",
+      "subtema": "Juicio de necesidad"
+    },
+    {
+      "tema": "CONTROL CONSTITUCIONAL DE DECRETO LEGISLATIVO DE ESTADO DE EMERGENCIA ECONOMICA, SOCIAL Y ECOLOGICA",
+      "subtema": "Juicio de no discriminación"
+    },
+    {
+      "tema": "CONTROL CONSTITUCIONAL DE DECRETO LEGISLATIVO DE ESTADO DE EMERGENCIA ECONOMICA, SOCIAL Y ECOLOGICA",
+      "subtema": "Juicio de no contradicción específica"
+    },
+    {
+      "tema": "CALAMIDAD PUBLICA",
+      "subtema": "Definición"
+    },
+    {
+      "tema": "ESTADO DE EMERGENCIA ECONOMICA, SOCIAL Y ECOLOGICA",
+      "subtema": "Contenido"
+    },
+    {
+      "tema": "ESTADOS DE EXCEPCION",
+      "subtema": "Carácter reglado, excepcional y limitado"
+    },
+    {
+      "tema": "EXTRADICION",
+      "subtema": "Finalidad"
+    },
+    {
+      "tema": "EXTRADICION",
+      "subtema": "Modalidades"
+    },
+    {
+      "tema": "EXTRADICION",
+      "subtema": "Características"
+    },
+    {
+      "tema": "PRINCIPIO DE LEGALIDAD EN DERECHO PENAL",
+      "subtema": "Consagración constitucional"
+    },
+    {
+      "tema": "PRINCIPIO DE LEGALIDAD",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "ESTADOS DE EXCEPCION",
+      "subtema": "Control político y control jurídico"
+    },
+    {
+      "tema": "LIBERTAD INDIVIDUAL",
+      "subtema": "Limitaciones legales"
+    },
+    {
+      "tema": "LIBERTAD PERSONAL",
+      "subtema": "Reconocimiento y protección internacional"
+    },
+    {
+      "tema": "LIBERTAD PERSONAL",
+      "subtema": "Privación o restricción no arbitraria"
+    },
+    {
+      "tema": "LIBERTAD PERSONAL",
+      "subtema": "Limitaciones razonables y proporcionales"
+    },
+    {
+      "tema": "DERECHO A LA LIBERTAD",
+      "subtema": "No es absoluto"
+    },
+    {
+      "tema": "DECRETO LEGISLATIVO EN DESARROLLO DE ESTADO DE EMERGENCIA QUE ESTABLECE MEDIDAS ESPECIALES RELACIONADAS CON EL SECTOR JUSTICIA Y DEL DERECHO EN MATERIA DE EXTRADICION",
+      "subtema": "Contenido y alcance"
+    },
+    {
+      "tema": "DECRETO LEGISLATIVO DE ESTADO DE EMERGENCIA ECONOMICA, SOCIAL Y ECOLOGICA",
+      "subtema": "Competencia de la Corte Constitucional"
+    },
+    {
+      "tema": "DECRETO LEGISLATIVO EN DESARROLLO DE ESTADO DE EMERGENCIA QUE ESTABLECE MEDIDAS ESPECIALES RELACIONADAS CON EL SECTOR JUSTICIA Y DEL DERECHO EN MATERIA DE EXTRADICION",
+      "subtema": "Inexequible"
+    },
+    {
+      "tema": "DEBIDO PROCESO",
+      "subtema": "Aplicación a todo tipo de actuaciones judiciales y administrativas"
+    },
+    {
+      "tema": "EXTRADICION",
+      "subtema": "Naturaleza"
+    },
+    {
+      "tema": "EXTRADICION",
+      "subtema": "Requisitos establecidos en el Código de Procedimiento Penal"
+    },
+    {
+      "tema": "TEST DE PROPORCIONALIDAD",
+      "subtema": "Intensidad"
+    },
+    {
+      "tema": "SENTENCIA DE LA CORTE CONSTITUCIONAL",
+      "subtema": "Modulación de efectos"
+    },
+    {
+      "tema": "DEBIDO PROCESO LEGAL EN ESTADOS DE EMERGENCIA",
+      "subtema": "No suspensión"
+    },
+    {
+      "tema": "CONSTITUCION POLITICA DE 1991",
+      "subtema": "Establece tres clases de estados de excepción"
+    },
+    {
+      "tema": "CONTROL CONSTITUCIONAL DE DECRETO LEGISLATIVO DE ESTADO DE EMERGENCIA ECONOMICA, SOCIAL Y ECOLOGICA",
+      "subtema": "Juicio de ausencia de arbitrariedad"
+    },
+    {
+      "tema": "CONTROL CONSTITUCIONAL DE DECRETO LEGISLATIVO DE ESTADO DE EMERGENCIA ECONOMICA, SOCIAL Y ECOLOGICA",
+      "subtema": "Juicio de intangibilidad"
+    },
+    {
+      "tema": "CONTROL CONSTITUCIONAL DE DECRETO LEGISLATIVO DE ESTADO DE EMERGENCIA ECONOMICA, SOCIAL Y ECOLOGICA",
+      "subtema": "Juicio de conexidad material"
+    },
+    {
+      "tema": "CONTROL CONSTITUCIONAL DE DECRETO LEGISLATIVO DE ESTADO DE EMERGENCIA ECONOMICA, SOCIAL Y ECOLOGICA",
+      "subtema": "Juicio de motivación suficiente"
+    },
+    {
+      "tema": "CONTROL CONSTITUCIONAL DE DECRETO LEGISLATIVO DE ESTADO DE EMERGENCIA ECONOMICA, SOCIAL Y ECOLOGICA",
+      "subtema": "Juicio de proporcionalidad"
+    },
+    {
+      "tema": "CONTROL CONSTITUCIONAL DE DECRETO LEGISLATIVO DE ESTADO DE EMERGENCIA ECONOMICA, SOCIAL Y ECOLOGICA",
+      "subtema": "Juicio de finalidad"
+    },
+    {
+      "tema": "CONTROL CONSTITUCIONAL DE DECRETO LEGISLATIVO DE ESTADO DE EMERGENCIA ECONOMICA, SOCIAL Y ECOLOGICA",
+      "subtema": "Juicio de incompatibilidad"
+    },
+    {
+      "tema": "CONTROL DE CONSTITUCIONALIDAD DE DECRETO LEGISLATIVO DE DESARROLLO DE ESTADO DE EMERGENCIA ECONOMICA, SOCIAL Y ECOLOGICA",
+      "subtema": "Fundamento"
+    },
+    {
+      "tema": "CONTROL DE CONSTITUCIONALIDAD DE DECRETO LEGISLATIVO DE DESARROLLO DE ESTADO DE EMERGENCIA ECONOMICA, SOCIAL Y ECOLOGICA",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "EXTRADICION",
+      "subtema": "Límites"
+    },
+    {
+      "tema": "EXTRADICION",
+      "subtema": "Definición"
+    },
+    {
+      "tema": "ESTADO DE EMERGENCIA ECONOMICA, SOCIAL Y ECOLOGICA, O DE GRAVE CALAMIDAD PUBLICA",
+      "subtema": "Competencias del Congreso de la República"
+    },
+    {
+      "tema": "EXTRADICION",
+      "subtema": "Trámite"
+    },
+    {
+      "tema": "ESTADO DE EMERGENCIA ECONOMICA, SOCIAL Y ECOLOGICA, O DE GRAVE CALAMIDAD PUBLICA",
+      "subtema": "Características"
+    },
+    {
+      "tema": "DECRETO LEGISLATIVO EN DESARROLLO DE ESTADO DE EMERGENCIA QUE ESTABLECE MEDIDAS ESPECIALES RELACIONADAS CON EL SECTOR JUSTICIA Y DEL DERECHO EN MATERIA DE EXTRADICION",
+      "subtema": "Modulación de efectos"
+    },
+    {
+      "tema": "DECRETO REGLAMENTARIO",
+      "subtema": "Incompetencia de la Corte Constitucional"
+    },
+    {
+      "tema": "DERECHO A LA DEFENSA",
+      "subtema": "Garantía del debido proceso"
+    },
+    {
+      "tema": "DERECHO A LA DEFENSA",
+      "subtema": "Definición"
+    },
+    {
+      "tema": "EXTRADICION",
+      "subtema": "Jurisprudencia constitucional"
+    },
+    {
+      "tema": "ESTADO DE EMERGENCIA ECONÓMICA, SOCIAL Y ECOLÓGICA DERIVADO DE LA PANDEMIA POR COVID 19",
+      "subtema": "Exequibilidad del Decreto Legislativo 417 de 2020"
+    },
+    {
+      "tema": "ESTADO DE EMERGENCIA ECONÓMICA, SOCIAL Y ECOLÓGICA DERIVADO DE LA PANDEMIA POR COVID 19",
+      "subtema": "Juicio de constitucionalidad"
+    },
+    {
+      "tema": "PRINCIPIO DE LEGALIDAD EN MATERIA PENAL",
+      "subtema": "Instrumentos internacionales"
+    },
+    {
+      "tema": "DEBIDO PROCESO",
+      "subtema": "Garantías mínimas"
+    },
+    {
+      "tema": "DECLARACIÓN DE INEXEQUIBILIDAD",
+      "subtema": "Efectos hacia el futuro"
+    },
+    {
+      "tema": "JUICIO DE PROPORCIONALIDAD",
+      "subtema": "Aplicación"
+    },
+    {
+      "tema": "CONTROL DE CONSTITUCIONALIDAD DE DECRETO DECLARATORIO DE ESTADO DE EMERGENCIA ECONOMICA, SOCIAL Y ECOLOGICA",
+      "subtema": "Presupuestos formales y materiales"
+    },
+    {
+      "tema": "CONTROL DE CONSTITUCIONALIDAD DE ESTADO DE EMERGENCIA",
+      "subtema": "Juicio formal"
+    },
+    {
+      "tema": "CONTROL DE CONSTITUCIONALIDAD DE ESTADO DE EMERGENCIA",
+      "subtema": "Juicio material"
+    }
+  ]
+}

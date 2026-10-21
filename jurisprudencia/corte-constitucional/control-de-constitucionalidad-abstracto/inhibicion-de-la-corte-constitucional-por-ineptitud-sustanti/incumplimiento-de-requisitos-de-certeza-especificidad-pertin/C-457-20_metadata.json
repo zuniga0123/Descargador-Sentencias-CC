@@ -1,0 +1,53 @@
+{
+  "radicado": "C-457-20",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2020,
+  "fecha_creacion": "2020-10-21",
+  "magistrado_ponente": "Diana Fajardo Rivera",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "INHIBICION DE LA CORTE CONSTITUCIONAL POR INEPTITUD SUSTANTIVA DE LA DEMANDA",
+  "subtema": "Incumplimiento de requisitos de certeza, especificidad, pertinencia y suficiencia en los cargos",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 1797 de 2016",
+    "Decreto 2067 de 1991",
+    "Ley 1753 de 2015",
+    "Decreto 1725 de 1999",
+    "Decreto 2280 de 2004",
+    "Decreto 4023 de 2011",
+    "Ley 1819 de 2016",
+    "Decreto 1829 de 2016",
+    "Decreto 696 de 2016"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2020/C-457-20.htm",
+  "fecha_descarga": "2026-10-21T09:15:06.584873+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2020-10-21",
+  "fecha_publicacion": "2020-11-25",
+  "numero": "C-457/20",
+  "tipo_cc": "C",
+  "prov_id": "35466",
+  "tema_relatoria": "GIRO DE RECURSOS EN SALUD EN CASO DE MULTIAFILIACIÓN.",
+  "resumen": "Acción de inconstitucionalidad contra el artículo 16 (parcial) de la Ley 1797 de 2016, por la cual se dictan disposiciones que regulan la operación del Sistema General de Seguridad Social en Salud y se dictan otras disposiciones. A juicio del accionante, el precepto demandado implicaría, por un lado, que sólo tengan firmeza jurídica los reconocimientos y giros de recursos del sector salud realizados por compensación antes del 9 de junio de 2013 y, por otro lado, que las operaciones de reconocimiento y giros por compensación acaecidas entre el 9 de junio de 2013 y el 9 de junio de 2015 no tengan firmeza o estén en indefinición. Con base en esta interpretación de la norma, formuló cuatro cargos relacionados con la posible violación del debido proceso, de los derechos adquiridos, del principio de razonabilidad y proporcionalidad, así como de la confianza legítima. La ausencia de los requisitos de certeza, especificidad, pertinencia y suficiencia impidieron a la Corte realizar un análisis de fondo y, por ello, decidió declararse INHIBIDA.",
+  "titulaciones": [
+    {
+      "tema": "INHIBICION DE LA CORTE CONSTITUCIONAL POR INEPTITUD SUSTANTIVA DE LA DEMANDA",
+      "subtema": "Incumplimiento de requisitos de certeza, especificidad, pertinencia y suficiencia en los cargos"
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "Concepto de violación"
+    },
+    {
+      "tema": "CONTROL DE CONSTITUCIONALIDAD",
+      "subtema": "Pronunciamiento sobre sentido real de la norma no sobre su significado hipotético"
+    },
+    {
+      "tema": "CONCEPTO DE VIOLACION EN DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "Razones claras, ciertas, específicas, pertinentes y suficientes"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "radicado": "T-249-20",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2020,
+  "fecha_creacion": "2020-07-15",
+  "magistrado_ponente": "Luis Guillermo Guerrero Pérez",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCION DE TUTELA EN MATERIA DE DERECHO A LA EDUCACION",
+  "subtema": "Improcedencia por cuanto no se encuentra amenazado",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 1581 de 2012"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2020/T-249-20.htm",
+  "fecha_descarga": "2026-10-21T09:02:25.600062+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2020-07-15",
+  "fecha_publicacion": "2020-09-24",
+  "numero": "T-249/20",
+  "tipo_cc": "T",
+  "prov_id": "35270",
+  "tema_relatoria": "ACCION DE TUTELA POR PRESUNTOS ACTOS DE ACOSO SEXUAL Y MATONEO O BULLYN-IMPROCEDENCIA",
+  "resumen": "A través de la figura de la agencia oficiosa se instaura la acción de tutela en favor de una menor de edad que para la fecha de interponer la solicitud se encontraba cursando el grado décimo de bachillerato. Se aduje que la joven ha sido víctima de matoneo en la institución educativa desde grado transición hasta la actualidad, que también ha sido objeto de agresiones de índole sexual y que le han impuesto barreras y obstáculos para su adecuado desarrollo académico. La Corte decide revocar las decisiones de instancia que negaron el amparo invocado y, en su lugar, decidió declarar la improcedencia de la acción. Lo anterior, al encontrar que: (a) en lo que respecta a los hechos narrados sobre matoneo, cibermatoneo, bullying y ciberbullying no existen parámetros objetivos para poder evaluar si las actuaciones surtidas fueron adecuadas o no, y tampoco se acreditó una omisión en el cumplimiento de las funciones de las autoridades accionadas; (b) en lo que respecta al derecho de educación, el mismo no se encuentra amenazado al momento de proferir este fallo y si en algún momento existió lesión alguna, la misma fue superada sin la intervención del juez constitucional; (c) en el mismo sentido se encuentra que cualquier afectación o amenaza que se pudiese alegar con respecto al derecho de petición y al debido proceso finalizó, pues se atendieron las peticiones y se iniciaron las respectivas actuaciones alrededor de lo solicitado; y (d) sobre los hechos relativos a presuntas actuaciones de acoso sexual, se encuentra que no existe legitimación por pasiva en la causa, en la medida en que los supuestos agresores no guardan relación alguna con las autoridades accionadas y no fue posible determinar que dichas autoridades hubiesen dejado de atender a alguna denuncia presentada.",
+  "titulaciones": [
+    {
+      "tema": "ACCION DE TUTELA EN MATERIA DE DERECHO A LA EDUCACION",
+      "subtema": "Improcedencia por cuanto no se encuentra amenazado"
+    },
+    {
+      "tema": "ACCION DE TUTELA EN MATERIA DE DERECHO DE PETICION Y DEBIDO PROCESO",
+      "subtema": "Improcedencia por cuanto se dio respuesta y se iniciaron actuaciones respecto a lo solicitado"
+    },
+    {
+      "tema": "ACCION DE TUTELA POR PRESUNTOS ACTOS DE ACOSO SEXUAL Y MATONEO O BULLYN",
+      "subtema": "Improcedencia por cuanto no existen parámetros objetivos para poder evaluar si las actuaciones surtidas fueron adecuadas o no"
+    }
+  ]
+}

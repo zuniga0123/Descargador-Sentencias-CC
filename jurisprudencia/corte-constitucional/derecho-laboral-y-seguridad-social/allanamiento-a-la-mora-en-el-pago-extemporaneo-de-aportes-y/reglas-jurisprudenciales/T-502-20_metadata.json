@@ -1,0 +1,47 @@
+{
+  "radicado": "T-502-20",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2020,
+  "fecha_creacion": "2020-12-03",
+  "magistrado_ponente": "Gloria Stella Ortiz Delgado",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "ALLANAMIENTO A LA MORA EN EL PAGO EXTEMPORANEO DE APORTES Y COTIZACIONES PARA PENSION DE INVALIDEZ",
+  "subtema": "Reglas jurisprudenciales",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 860 de 2003",
+    "Ley 100 de 1993"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2020/T-502-20.htm",
+  "fecha_descarga": "2026-10-21T08:56:44.767696+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2020-12-03",
+  "fecha_publicacion": "2021-01-14",
+  "numero": "T-502/20",
+  "tipo_cc": "T",
+  "prov_id": "35583",
+  "tema_relatoria": "ALLANAMIENTO A LA MORA EN EL PAGO EXTEMPORANEO DE APORTES Y COTIZACIONES PARA PENSION DE INVALIDEZ",
+  "resumen": "Se aduce que la Administradora de Fondos de Pensiones y Cesantías Protección S.A. vulneró derechos fundamentales del actor, al negar el reconocimiento de la pensión de invalidez que reclamó, porque no cumplía con el requisito de haber cotizado 50 semanas dentro de los tres años anteriores a la fecha de estructuración de la invalidez, pese a que, con posterioridad a dicho momento, un empleador pagó los aportes en mora que le adeudaba al Sistema General de Pensiones, los cuales fueron aceptados por la entidad accionada. Se reitera jurisprudencia relacionada con el allanamiento a la mora en el pago extemporáneo de aportes y cotizaciones pensionales. Se CONCEDE el amparo invocado y se ordena el reconocimiento y pago de prestación pretendida. Así mismo, se previene a la aseguradora para que en lo sucesivo se abstenga de incurrir en las actuaciones que le dieron lugar a la presente solicitud de amparo.",
+  "titulaciones": [
+    {
+      "tema": "ALLANAMIENTO A LA MORA EN EL PAGO EXTEMPORANEO DE APORTES Y COTIZACIONES PARA PENSION DE INVALIDEZ",
+      "subtema": "Reglas jurisprudenciales"
+    },
+    {
+      "tema": "ACCION DE TUTELA PARA RECONOCIMIENTO DE PENSION DE INVALIDEZ",
+      "subtema": "Pago extemporáneo de aportes pensionales en mora no es argumento válido para negar el reconocimiento"
+    },
+    {
+      "tema": "PENSION DE INVALIDEZ Y MINIMO VITAL",
+      "subtema": "Orden a Fondo de Pensiones reconocer y pagar pensión de invalidez"
+    },
+    {
+      "tema": "MORA EN EL PAGO DE APORTES Y COTIZACIONES PENSIONALES",
+      "subtema": "No es admisible que la entidad administradora de pensiones alegue a su favor su propia negligencia en la implementación de las acciones de cobro"
+    }
+  ]
+}

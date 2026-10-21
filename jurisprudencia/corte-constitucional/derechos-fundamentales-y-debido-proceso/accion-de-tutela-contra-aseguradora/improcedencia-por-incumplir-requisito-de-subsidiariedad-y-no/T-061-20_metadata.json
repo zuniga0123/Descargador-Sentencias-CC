@@ -1,0 +1,41 @@
+{
+  "radicado": "T-061-20",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2020,
+  "fecha_creacion": "2020-02-18",
+  "magistrado_ponente": "Alberto Rojas Ríos",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCION DE TUTELA CONTRA ASEGURADORA",
+  "subtema": "Improcedencia por incumplir requisito de subsidiariedad y no acreditar perjuicio irremediable",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2020/T-061-20.htm",
+  "fecha_descarga": "2026-10-21T09:08:45.319020+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2020-02-18",
+  "fecha_publicacion": "2020-02-25",
+  "numero": "T-061/20",
+  "tipo_cc": "T",
+  "prov_id": "34768",
+  "tema_relatoria": "ACCION DE TUTELA CONTRA ASEGURADORA-IMPROCEDENCIA POR INCUMPLIR REQUISITO DE SUBSIDIARIEDAD Y NO ACREDITAR PERJUICIO IRREMEDIABLE",
+  "resumen": "La vulneración de derechos fundamentales por parte de la entidad accionada se atribuye a la negativa de realizar el pago de las pólizas de seguro de vida que adquirió la actora para asegurar varios créditos, bajo el argumento de haber omitido declarar que tenía ciertas afectaciones de salud con anterioridad a la adquisición de los contratos de seguro. Se analiza jurisprudencia constitucional relacionada con: 1º. La procedencia excepcional de la acción de tutela cuando existen mecanismos ordinarios de protección y, 2º. La buena fe en el contrato de seguro como parámetro para la determinación de una pre-existencia o para la configuración de la reticencia. La Corte considera que la solicitud de amparo es IMPROCEDENTE por incumplimiento del requisito de subsidiariedad, toda vez que la peticionaria tiene a su disposición los distintos medios judiciales de protección dispuestos para el efecto por el Legislador.",
+  "titulaciones": [
+    {
+      "tema": "ACCION DE TUTELA CONTRA ASEGURADORA",
+      "subtema": "Improcedencia por incumplir requisito de subsidiariedad y no acreditar perjuicio irremediable"
+    },
+    {
+      "tema": "PRINCIPIO DE LA BUENA FE EN CONTRATO DE SEGUROS",
+      "subtema": "Aplicación"
+    },
+    {
+      "tema": "RETICENCIA O INEXACTITUD EN EL CONTRATO DE SEGUROS",
+      "subtema": "Las aseguradoras sólo podrán eximirse de la responsabilidad de realizar el pago de la indemnización, cuando se encuentre debidamente probada la mala fe del tomador del seguro"
+    }
+  ]
+}

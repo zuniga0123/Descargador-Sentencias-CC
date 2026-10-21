@@ -1,0 +1,60 @@
+{
+  "radicado": "T-006-20",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2020,
+  "fecha_creacion": "2020-01-17",
+  "magistrado_ponente": "Cristina Pardo Schlesinger",
+  "area": "Derecho de Familia y Derechos de Niños, Niñas y Adolescentes",
+  "tema": "DERECHO A LA NACIONALIDAD DE LOS NIÑOS Y NIÑAS HIJOS DE EXTRANJEROS QUE SE ENCUENTRAN EN RIESGO DE APATRIDIA EN COLOMBIA",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 1581 de 2012",
+    "Decreto Ley 1260 de 1970",
+    "Decreto 356 de 2017",
+    "Ley 1098 de 2006",
+    "Ley 43 de 1993",
+    "Ley 962 de 2005",
+    "Decreto 1514 de 2012",
+    "Decreto 1010 de 2000",
+    "Decreto 1260 de 1970",
+    "Ley 1997 de 2019",
+    "Decreto 896 de 2016"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2020/T-006-20.htm",
+  "fecha_descarga": "2026-10-21T09:10:54.067869+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2020-01-17",
+  "fecha_publicacion": "2020-01-21",
+  "numero": "T-006/20",
+  "tipo_cc": "T",
+  "prov_id": "34666",
+  "tema_relatoria": "DERECHO A LA NACIONALIDAD DE NIÑOS HIJOS DE VENEZOLANOS MIGRANTES EN SITUACIÓN IRREGULAR.",
+  "resumen": "En dos acciones de tutela formuladas de manera independiente los accionantes, ciudadanos venezolanos que se encuentran en Colombia con Permiso Especial de Permanencia (PEP), aducen que la Registraduría Nacional del Estado Civil vulneró los derechos fundamentales a la nacionalidad y a la personería jurídica de sus hijos nacidos en Colombia, por incluir en el correspondiente registro civil la anotación “no válido para demostrar la nacionalidad”. La entidad argumentó que el procedimiento para la adquisición de la nacionalidad por nacimiento, de acuerdo a disposiciones constitucionales y legales, es que al menos uno de los padres demuestre que para la fecha del nacimiento de su hijo(a) se encuentre debidamente domiciliado en el país, situación que no sucedió con los peticionarios. Luego de reiterar jurisprudencia relacionada con el derecho a la nacionalidad de los niños y niñas hijos de extranjeros que se encuentran en riesgo de apátrida en Colombia, la Corte concluyó que la accionada sí vulneró garantías constitucionales de los hijos de los accionantes, al omitir considerar el riesgo de apatridia en el que se encontraban los niños en el momento del nacimiento. En ambos casos se CONCEDE el amparo invocado y se ordena a la entidad demandada incluir, si aún no lo ha hecho, la anotación “válida para el reconocimiento de la nacionalidad” en el registro civil de nacimiento de los menores en mención.",
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA NACIONALIDAD DE LOS NIÑOS Y NIÑAS HIJOS DE EXTRANJEROS QUE SE ENCUENTRAN EN RIESGO DE APATRIDIA EN COLOMBIA",
+      "subtema": null
+    },
+    {
+      "tema": "DERECHOS DE LOS MIGRANTES",
+      "subtema": "Garantizados por la comunidad internacional"
+    },
+    {
+      "tema": "DERECHOS DE LOS MIGRANTES",
+      "subtema": "Extranjeros gozan de los mismos derechos civiles y garantías que gozan los nacionales, salvo las limitaciones que establece la Constitución o la ley"
+    },
+    {
+      "tema": "DERECHO A LA PERSONALIDAD JURIDICA, AL ESTADO CIVIL, A LA NACIONALIDAD Y A LA FILIACION DEL MENOR",
+      "subtema": "Orden a Registraduría Nacional registrar como nacional colombiano a menor nacido en país extranjero"
+    },
+    {
+      "tema": "DERECHOS DE LOS MIGRANTES",
+      "subtema": "Marco jurídico interno sobre adquisición de nacionalidad"
+    }
+  ]
+}
