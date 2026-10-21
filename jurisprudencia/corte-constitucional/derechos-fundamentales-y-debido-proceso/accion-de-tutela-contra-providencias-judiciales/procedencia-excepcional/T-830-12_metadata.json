@@ -1,0 +1,56 @@
+{
+  "radicado": "T-830-12",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2012,
+  "fecha_creacion": "2012-10-22",
+  "magistrado_ponente": "Jorge Ignacio Pretelt Chaljub",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+  "subtema": "Procedencia excepcional",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Acto Legislativo 1 de 2003",
+    "Ley 1437 de 2011",
+    "Ley 163 de 1994"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2012/T-830-12.htm",
+  "fecha_descarga": "2026-10-21T15:38:24.601823+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2012-10-22",
+  "fecha_publicacion": null,
+  "numero": "T-830/12",
+  "tipo_cc": "T",
+  "prov_id": "4169",
+  "tema_relatoria": null,
+  "resumen": "Debido proceso, igualdad, derechos políticos. Tutela contra providencia judicial. En el presente caso los demandantes solicitan que se amparen sus derechos fundamentales y en consecuencia que se deje sin efectos el fallo de segunda instancia proferido por el Tribunal Administrativo de Bolívar, mediante el cual se anuló el acto que declaró la elección del alcalde del municipio de Córdoba para el período 2008-2011 y ordenó realizar un nuevo escrutinio, en donde se excluyeran las mesas de votación donde se presentaron irregularidades. Se alega en la demanda de tutela la ocurrencia de defectos fácticos, procedimentales y orgánicos. La Sala verifica si se reúnen los requisitos generales de procedencia de la acción de tutela contra providencias judiciales, si la providencia censurada adolece de algunas de las causales específicas de procedibilidad, propiamente si desconoció el precedente establecido por el Consejo de Estado sobre la aplicación de la doctrina de distribución ponderada de votos para medir la incidencia de las irregularidades en un resultado electoral en elecciones uninominales y, si además desconoció el precedente constitucional. Luego de hacer un análisis respecto de los conceptos de precedente y antecedente, la Sala decide confirmar el fallo de segunda instancia que declaró la IMPROCEDENCIA de la presente acción de tutela. De manera adicional, la Sala de Revisión llama la atención a los jueces de instancia que tuvieron conocimiento del caso, respecto al tiempo de duración del trámite de la tutela, el que consideró desproporcionado, dada la naturaleza sumaria de la acción constitucional que tiene por objeto proteger derechos fundamentales y evitar un perjuicio irremediable. Recuerda que el trámite de la tutela debe desarrollarse con arreglo de los principios de celeridad y eficacia y que sus plazos son perentorios e improrrogables.",
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Procedencia excepcional"
+    },
+    {
+      "tema": "DEFECTO SUSTANTIVO POR DESCONOCIMIENTO DEL PRECEDENTE JUDICIAL",
+      "subtema": null
+    },
+    {
+      "tema": "DEFECTO SUSTANTIVO POR DESCONOCIMIENTO DEL PRECEDENTE JUDICIAL",
+      "subtema": "No se desconoció por parte del Tribunal Administrativo"
+    },
+    {
+      "tema": "DEFECTO SUSTANTIVO POR DESCONOCIMIENTO DEL PRECEDENTE CONSTITUCIONAL",
+      "subtema": null
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Improcedencia por no existir defecto sustantivo en la modalidad de desconocimiento del precedente judicial"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Caso de proceso de nulidad electoral tramitado contra el acto que declaró electo a un alcalde municipal"
+    }
+  ]
+}

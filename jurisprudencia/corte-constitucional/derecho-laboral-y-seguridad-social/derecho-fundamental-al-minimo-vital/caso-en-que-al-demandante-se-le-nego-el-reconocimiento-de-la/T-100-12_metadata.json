@@ -1,0 +1,43 @@
+{
+  "radicado": "T-100-12",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2012,
+  "fecha_creacion": "2012-02-20",
+  "magistrado_ponente": "Mauricio González Cuervo I",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "DERECHO FUNDAMENTAL AL MINIMO VITAL",
+  "subtema": "Caso en que al demandante se le negó el reconocimiento de la pensión por no encontrar acreditada la cantidad mínima de semanas de cotización exigidas en Decreto 758/90",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 758 de 1990",
+    "Ley 100 de 1993",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2012/T-100-12.htm",
+  "fecha_descarga": "2026-10-21T15:21:01.113798+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2012-02-20",
+  "fecha_publicacion": null,
+  "numero": "T-100/12",
+  "tipo_cc": "T",
+  "prov_id": "3216",
+  "tema_relatoria": null,
+  "resumen": "Seguridad social. El Instituto de Seguros Sociales ha negado en varias oportunidades el reconocimiento y pago de la pensión de vejez reclamada por la accionante, bajo el argumento de no cumplir con el número de semanas de cotización exigidas en el Decreto 758 de 1990 y por no ser posible acumular dentro de este régimen pensional, los tiempos laborados en el sector público y los cotizados al ISS de manera directa. La Sala considera que el accionado vulneró derechos de la actora al impedirle de manera injustificada acceder a la prestación a la cual tenía derecho. Se CONCEDE el amparo solicitado y se ordena al Instituto accionado iniciar todos los trámites y gestiones encaminadas a recocer la pensión de vejez a la accionante, al igual que incluirla en nómina con la finalidad de iniciar el correspondiente pago de las mesadas pensionales.",
+  "titulaciones": [
+    {
+      "tema": "DERECHO FUNDAMENTAL AL MINIMO VITAL",
+      "subtema": "Caso en que al demandante se le negó el reconocimiento de la pensión por no encontrar acreditada la cantidad mínima de semanas de cotización exigidas en Decreto 758/90"
+    },
+    {
+      "tema": "ACUMULACION DE TIEMPOS DE SERVICIOS",
+      "subtema": "Caso en que se laboró en el sector público sin cotización al ISS y el que se cotizó directamente a la entidad"
+    },
+    {
+      "tema": "PENSION DE VEJEZ Y ACUMULACION DE TIEMPO DE SERVICIOS",
+      "subtema": "Orden al ISS reconocer y pagar pensión de vejez"
+    }
+  ]
+}

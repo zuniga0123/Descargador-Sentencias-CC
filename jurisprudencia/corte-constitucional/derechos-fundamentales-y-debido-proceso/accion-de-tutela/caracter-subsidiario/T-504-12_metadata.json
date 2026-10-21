@@ -1,0 +1,47 @@
+{
+  "radicado": "T-504-12",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2012,
+  "fecha_creacion": "2012-07-05",
+  "magistrado_ponente": "Jorge Iván Palacio Palacio",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCIÓN DE TUTELA",
+  "subtema": "Carácter subsidiario",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 302 de 2000",
+    "Decreto 2591 de 1991",
+    "Ley 142 de 1994"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2012/T-504-12.htm",
+  "fecha_descarga": "2026-10-21T15:27:58.312897+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2012-07-05",
+  "fecha_publicacion": null,
+  "numero": "T-504/12",
+  "tipo_cc": "T",
+  "prov_id": "3755",
+  "tema_relatoria": null,
+  "resumen": "En el presente caso el demandante solicita que se amparen sus derechos fundamentales a la prestación de servicios públicos, a la igualdad y a la subsistencia, los cuales considera vulnerados por la EAAB en cuanto le negó la instalación de la acometida de acueducto y alcantarillado en un inmueble de su propiedad, aduciendo imposibilidad técnica para hacerlo, a pesar de que dicha empresa instaló los servicios requeridos a los inmuebles vecinos. La empresa demandada argumenta no haber violado ningún derecho fundamental, toda vez que la imposibilidad para instalar la acometida tiene que ver con el hecho de que el predio del demandante fue desenglobado sin haberse previsto la instalación del servicio, porque la red oficial se encuentra a una distancia que supera los límites establecidos por la Norma Técnica de Servicios y el uso del inmueble es comercial y no residencial. La Sala de Revisión no encuentra vulnerado o amenazado ningún derecho fundamental del peticionario y en tal sentido, confirma las decisiones de instancia que NEGARON el amparo solicitado.",
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Carácter subsidiario"
+    },
+    {
+      "tema": "SERVICIOS PUBLICOS DOMICILIARIOS",
+      "subtema": "Protección por vía de acción de tutela cuando se afectan derechos fundamentales"
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA EMPRESA DE ACUEDUCTO Y ALCANTARILLADO DE BOGOTA",
+      "subtema": "Improcedencia por no existir vulneración o amenaza a los derechos fundamentales del actor"
+    },
+    {
+      "tema": "ACCION DE TUTELA EN CASO DE OBRAS DE ALCANTARILLADO",
+      "subtema": "Para la procedencia es indispensable que esté debidamente probada la violación o amenaza a los derechos fundamentales"
+    }
+  ]
+}

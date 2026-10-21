@@ -1,0 +1,53 @@
+{
+  "radicado": "T-086-12",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2012,
+  "fecha_creacion": "2012-02-16",
+  "magistrado_ponente": "Humberto Antonio Sierra Porto",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCION DE TUTELA PARA DESATAR CONTROVERSIAS CONTRACTUALES DE CARACTER COMERCIAL",
+  "subtema": "Improcedencia",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2012/T-086-12.htm",
+  "fecha_descarga": "2026-10-21T15:20:23.957991+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2012-02-16",
+  "fecha_publicacion": null,
+  "numero": "T-086/12",
+  "tipo_cc": "T",
+  "prov_id": "3200",
+  "tema_relatoria": null,
+  "resumen": "Se acumulan expedientes por unidad de materia. Los accionantes, quienes se desempeñaban como docentes, solicitaron préstamos a entidades del sistema financiero los cuales respaldaron con pólizas de seguro de vida grupo deudores, expedidas por las compañías de seguros que de manera posterior se negaron a pagar el saldo insoluto de las obligaciones contraídas, argumentando que al momento en que se otorgó el préstamo y antes de ingresar a la póliza ya se les había diagnosticado enfermedades expresamente excluidas de la póliza, por las que fueron calificados con pérdida de la capacidad laboral e invalidez, sin haber sido declaradas en el documento de asegurabilidad. Los jueces de instancia decidieron no tutelar los derechos reclamados por considerar la improcedencia del mecanismo constitucional, puesto que los asuntos debatidos son de contenido meramente económico, además, porque los actores cuentan con un mecanismo judicial más idóneo que pueden ejercer ante la justicia civil ordinaria y porque tampoco se demostró la ocurrencia de un perjuicio irremediable, ni la afectación del mínimo vital. La Sala decide confirmar las decisiones de instancia que declararon la IMPROCEDENCIA de las acciones de tutela incoadas por los actores.",
+  "titulaciones": [
+    {
+      "tema": "ACCION DE TUTELA PARA DESATAR CONTROVERSIAS CONTRACTUALES DE CARACTER COMERCIAL",
+      "subtema": "Improcedencia"
+    },
+    {
+      "tema": "PERJUICIO IRREMEDIABLE",
+      "subtema": "Características"
+    },
+    {
+      "tema": "PRINCIPIO DE LA BUENA FE EN CONTRATO DE SEGUROS",
+      "subtema": null
+    },
+    {
+      "tema": "ACCION DE TUTELA TRANSITORIA PARA EVITAR PERJUICIO IRREMEDIABLE",
+      "subtema": null
+    },
+    {
+      "tema": "CONTRATO DE SEGURO DE VIDA GRUPO DEUDORES",
+      "subtema": "Naturaleza"
+    },
+    {
+      "tema": "RETICENCIA O INEXACTITUD EN EL CONTRATO DE SEGUROS",
+      "subtema": null
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "radicado": "T-870-12",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2012,
+  "fecha_creacion": "2012-10-26",
+  "magistrado_ponente": "Luis Ernesto Vargas Silva",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "ACCIÓN DE TUTELA PARA EL RECONOCIMIENTO DE PENSIÓN DE INVALIDEZ",
+  "subtema": "Caso en que el ISS no reconoció pensión por invalidez por no haberse acreditado el requisito mínimo de las 50 semanas",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 860 de 2003",
+    "Ley 100 de 1993",
+    "Decreto 3771 de 2007",
+    "Decreto 2633 de 1994",
+    "Decreto 2591 de 1991",
+    "Decreto 1295 de 1994",
+    "Decreto 1406 de 1999",
+    "Decreto 917 de 1999"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2012/T-870-12.htm",
+  "fecha_descarga": "2026-10-21T15:36:17.461325+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2012-10-26",
+  "fecha_publicacion": null,
+  "numero": "T-870/12",
+  "tipo_cc": "T",
+  "prov_id": "4212",
+  "tema_relatoria": null,
+  "resumen": "Mínimo vital, debido proceso, seguridad social, vida en condiciones dignas. Se acumulan expedientes por unidad de materia. La situación común en los dos casos analizados es que a los accionantes se les dictaminó una pérdida de la capacidad laboral superior al 50% y con base en ello solicitaron el reconocimiento y pago de la pensión de invalidez. La administradora de Fondos de Pensiones denegó la prestación argumentando el incumplimiento del requisito de cincuenta semanas cotizadas en los tres años inmediatamente anteriores a la estructuración del estado de invalidez. Se analiza la siguiente temática: 1º. Procedencia excepcional de la acción de tutela en el reconocimiento y cobro de acreencias laborales. 2º. Naturaleza del reconocimiento y pago de la pensión de invalidez. 3º. Acciones de cobro entre entidades encargadas de pagar los subsidios al aporte en pensiones y los fondos administradores de esta prestación. La Sala reitera que el reconocimiento definitivo de prestaciones sociales por vía de tutela está vinculado a tres eventos: i). que la persona haya cumplido con los requisitos legales para el reconocimiento del derecho invocado. ii). que la persona detente la calidad de sujeto de especial protección constitucional y en razón a ello, los mecanismos judiciales ordinarios no sean eficaces para acceder a la prestación reclamada y iii) que la falta de reconocimiento del derecho exponga al ciudadano a la vulneración de sus derechos fundamentales como la vida en condiciones dignas y el mínimo vital. Al encontrar que las anteriores condiciones se cumplen en los casos analizados y que por tanto procede la fórmula de amparo definitivo de los derechos fundamentales conculcados, se CONCEDE la tutela y se ordena el reconocimiento y pago de la pensión de invalidez reclamada por los actores.",
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA PARA EL RECONOCIMIENTO DE PENSIÓN DE INVALIDEZ",
+      "subtema": "Caso en que el ISS no reconoció pensión por invalidez por no haberse acreditado el requisito mínimo de las 50 semanas"
+    },
+    {
+      "tema": "DERECHO A LA PENSIÓN DE INVALIDEZ",
+      "subtema": "Reconocimiento y pago"
+    },
+    {
+      "tema": "ACCION DE TUTELA PARA EL RECONOCIMIENTO DE ACREENCIAS PENSIONALES",
+      "subtema": "Presupuestos constitucionales sobre la procedencia"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA PARA EL RECONOCIMIENTO DE PENSIÓN DE INVALIDEZ",
+      "subtema": "Procedencia por vulneración al mínimo vital, al debido proceso, a la seguridad social y a la vida en condiciones dignas"
+    },
+    {
+      "tema": "DERECHO A LA PENSIÓN DE INVALIDEZ",
+      "subtema": "Allanamiento a la mora"
+    },
+    {
+      "tema": "MORA EN EL PAGO DE APORTES Y COTIZACIONES PENSIONALES",
+      "subtema": "No es admisible que la entidad administradora de pensiones alegue a su favor su propia negligencia en la implementación de las acciones de cobro"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "radicado": "T-163-12",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2012,
+  "fecha_creacion": "2012-03-05",
+  "magistrado_ponente": "Gabriel Eduardo Mendoza Martelo",
+  "area": "Derecho a la Salud",
+  "tema": "DERECHO A LA SALUD DEL INTERNO",
+  "subtema": "Orden al Inpec para adelantar trámites administrativos para la reposición de prótesis de la mano izquierda solicitada por el accionante",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 65 de 1993",
+    "Ley 1122 de 2007"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2012/T-163-12.htm",
+  "fecha_descarga": "2026-10-21T15:41:04.268591+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2012-03-05",
+  "fecha_publicacion": null,
+  "numero": "T-163/12",
+  "tipo_cc": "T",
+  "prov_id": "3282",
+  "tema_relatoria": null,
+  "resumen": "En el presente caso el accionante solicita la protección de sus derechos fundamentales de petición y de salud, los cuales considera vulnerados por la Penitenciaría Palo Gordo de Girón, al no contestar la solicitud por él presentada, respecto a la expedición de los certificados de estudio y la constancia de buena conducta y, al no otorgarle la reposición de la prótesis de su mano izquierda. La entidad accionada pidió desestimar las pretensiones de la demanda, en cuanto remitió al establecimiento carcelario donde actualmente se encuentra recluido el actor las certificaciones solicitadas y, porque es el área de sanidad de esta cárcel la que debe decidir lo referente a la prótesis de mano. Luego de reiterar jurisprudencia relacionada con el derecho de petición de las personas privadas de la libertad y la obligación del Estado de satisfacer el derecho a la salud de la población carcelaria, ordena a la accionada que informe al Establecimiento Penitenciario Las Heliconias de Florencia (Caquetá), respecto a la solicitud de reposición de la prótesis de mano izquierda, para lo cual deberá remitir las valoraciones médicas, para que dicho establecimiento se encargue de coordinar con CAPRECOM E.P.S. S lo pertinente.",
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA SALUD DEL INTERNO",
+      "subtema": "Orden al Inpec para adelantar trámites administrativos para la reposición de prótesis de la mano izquierda solicitada por el accionante"
+    },
+    {
+      "tema": "DERECHO DE PETICION DEL INTERNO",
+      "subtema": "Vulneración por Inpec al demorar más de un año solicitud de entrega de certificaciones de estudio y constancia de buena conducta"
+    },
+    {
+      "tema": "DERECHO A LA SALUD DE PERSONAS PRIVADAS DE LA LIBERTAD",
+      "subtema": "Garantía por parte del Estado tanto para las personas recluidas en establecimientos carcelarios y penitenciarios como de las que se encuentran sujetas a prisión domiciliaria o a un sistema de vigilanci"
+    },
+    {
+      "tema": "DERECHO DE PETICION DE LAS PERSONAS PRIVADAS DE LA LIBERTAD EN CENTROS PENITENCIARIOS Y CARCELARIOS",
+      "subtema": "Responsabilidad del Estado de garantizar su protección de manera eficaz"
+    }
+  ]
+}

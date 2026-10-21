@@ -1,0 +1,42 @@
+{
+  "radicado": "T-185-12",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2012,
+  "fecha_creacion": "2012-03-08",
+  "magistrado_ponente": "María Victoria Calle Correa",
+  "area": "Derecho Constitucional Económico",
+  "tema": "DERECHO A LA VIVIENDA DIGNA EN CASOS DE SUBSIDIO FAMILIAR",
+  "subtema": "Vulneración del Banco Agrario al no autorizar desembolso de crédito que había sido aprobado previamente porque estaba reportada en la CIFIN a pesar de haber presentado paz y salvo de la obligación",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Decreto 951 de 2001"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2012/T-185-12.htm",
+  "fecha_descarga": "2026-10-21T15:32:36.027522+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2012-03-08",
+  "fecha_publicacion": null,
+  "numero": "T-185/12",
+  "tipo_cc": "T",
+  "prov_id": "3312",
+  "tema_relatoria": null,
+  "resumen": "La demandante interpuso la acción de tutela para obtener la protección de sus derechos fundamentales a la vivienda digna y a la vida, por considerar que estos fueron vulnerados por el Banco Agrario, al negarse a realizar el desembolso del crédito hipotecario que contrajo para pagar parte de una vivienda de interés social, la cual compró gracias a un subsidio familiar que le fuera otorgado por el Fondo Nacional del Ahorro. El Banco accionado se negó a realizar el desembolso bajo el argumento de que la tutelante presentaba una anotación en la CIFIN, pero no tuvo en cuenta que se aportó el respectivo paz y salvo como constancia de que ya había pagado la obligación por la que fue reportada. De igual manera omitió analizar que la actora era madre cabeza de familia, que la constructora no le entregó el inmueble y que necesitaba adquirir una nueva vivienda para salir de la que habitaba, por estar ubicada en una zona de alto riesgo no mitigable. Se concluye que, la negativa del banco fue una actuación injustificada y violatoria de derechos fundamentales de la demandante y en tal sentido se CONCEDE el amparo solicitado y se ordena reanudar el trámite para hacer efectivo el desembolso del importe del crédito que previamente le fue aprobado.",
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA VIVIENDA DIGNA EN CASOS DE SUBSIDIO FAMILIAR",
+      "subtema": "Vulneración del Banco Agrario al no autorizar desembolso de crédito que había sido aprobado previamente porque estaba reportada en la CIFIN a pesar de haber presentado paz y salvo de la obligación"
+    },
+    {
+      "tema": "DERECHO A LA VIVIENDA DIGNA EN CASOS DE SUBSIDIO FAMILIAR",
+      "subtema": "Protección constitucional"
+    },
+    {
+      "tema": "DERECHO A LA VIVIENDA DIGNA DE MADRE CABEZA DE FAMILIA DESPLAZADA",
+      "subtema": "Orden al Banco Agrario desembolse el valor del crédito asignado para acceder a vivienda digna de la accionante y su núcleo familiar"
+    }
+  ]
+}

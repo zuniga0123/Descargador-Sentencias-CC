@@ -1,0 +1,51 @@
+{
+  "radicado": "T-994-12",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2012,
+  "fecha_creacion": "2012-11-23",
+  "magistrado_ponente": "María Victoria Calle Correa",
+  "area": "Derecho a la Salud",
+  "tema": "PRINCIPIO DE CONTINUIDAD EN LA PRESTACION DE LOS SERVICIOS DE SALUD",
+  "subtema": "Caso en que la demandante sufrió un accidente de trabajo y como secuela quedó con un dolor de cadera",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 100 de 1993",
+    "Ley 776 de 2002"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2012/T-994-12.htm",
+  "fecha_descarga": "2026-10-21T15:35:54.650004+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2012-11-23",
+  "fecha_publicacion": null,
+  "numero": "T-994/12",
+  "tipo_cc": "T",
+  "prov_id": "4352",
+  "tema_relatoria": null,
+  "resumen": "Salud. En el presente caso se incoa la acción de tutela contra la Administradora de Riesgos Profesionales MAPFRE, por negarse a continuar suministrando servicios de salud necesarios para que la actora se recupere totalmente del accidente laboral que sufrió y que dejó como secuela dolor constante en el lado izquierdo de su cadera. La Sala concluye que la entidad accionada sí vulneró el derecho a la salud de la actora, al negarse a prestarle servicios médico asistenciales por un dolor que razonablemente podía considerarse que tuvo origen en un accidente de trabajo previamente tratado por esa misma ARP. CONCEDIDA.",
+  "titulaciones": [
+    {
+      "tema": "PRINCIPIO DE CONTINUIDAD EN LA PRESTACION DE LOS SERVICIOS DE SALUD",
+      "subtema": "Caso en que la demandante sufrió un accidente de trabajo y como secuela quedó con un dolor de cadera"
+    },
+    {
+      "tema": "CONTINUIDAD EN LA PRESTACION DEL SERVICIO MEDICO",
+      "subtema": "Una vez iniciado no podrá ser interrumpido de forma súbita antes de la recuperación o estabilización"
+    },
+    {
+      "tema": "ASEGURADORA DE RIESGOS PROFESIONALES",
+      "subtema": "Obligaciones"
+    },
+    {
+      "tema": "DERECHO A LA CONTINUIDAD EN EL SERVICIO DE SALUD",
+      "subtema": "Orden a ARP de practicar a la accionante las valoraciones a que haya lugar para establecer sus condiciones de salud y elaborar un plan de atención médica"
+    },
+    {
+      "tema": "PRINCIPIO DE CONTINUIDAD EN LA PRESTACION DE LOS SERVICIOS MEDICOS",
+      "subtema": "Orden a ARP de reanudar la prestación de los servicios médico asistenciales a la actora en lo relacionado con las secuelas del accidente de trabajo"
+    }
+  ]
+}

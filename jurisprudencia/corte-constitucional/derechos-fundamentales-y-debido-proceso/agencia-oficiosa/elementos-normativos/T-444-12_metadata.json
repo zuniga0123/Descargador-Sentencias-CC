@@ -1,0 +1,43 @@
+{
+  "radicado": "T-444-12",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2012,
+  "fecha_creacion": "2012-06-20",
+  "magistrado_ponente": "Mauricio González Cuervo",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "AGENCIA OFICIOSA",
+  "subtema": "Elementos normativos",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 270 de 1996",
+    "Decreto 1265 de 1970",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2012/T-444-12.htm",
+  "fecha_descarga": "2026-10-21T15:31:46.866511+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2012-06-20",
+  "fecha_publicacion": null,
+  "numero": "T-444/12",
+  "tipo_cc": "T",
+  "prov_id": "3670",
+  "tema_relatoria": null,
+  "resumen": "Debido proceso, vivienda digna. Tutela contra providencia judicial. Los accionantes pretenden que vía de tutela se ordene a la Sala Civil del Tribunal Superior de Bogotá, decretar la nulidad de la sentencia adoptada dentro de un proceso ejecutivo hipotecario, alegando violación de derechos fundamentales en el trámite de su expedición, porque en la obligación ejecutada no existió solidaridad y porque la conformación de la Sala de Decisión fue indebida, en tanto estaba constituida por cuatro magistrados de los cuales dos salvaron voto. La Sala resuelve declarar IMPROCEDENTE la acción de tutela incoada, por falta de legitimación activa.",
+  "titulaciones": [
+    {
+      "tema": "AGENCIA OFICIOSA",
+      "subtema": "Elementos normativos"
+    },
+    {
+      "tema": "LEGITIMACIÓN POR ACTIVA EN TUTELA",
+      "subtema": "Configuración"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Improcedencia por falta de legitimación por activa"
+    }
+  ]
+}

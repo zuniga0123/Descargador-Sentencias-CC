@@ -1,0 +1,53 @@
+{
+  "radicado": "T-430-12",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2012,
+  "fecha_creacion": "2012-06-08",
+  "magistrado_ponente": "Mauricio González Cuervo",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+  "subtema": "Causales genéricas de procedibilidad",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 1425 de 2010",
+    "Ley 446 de 1998",
+    "Ley 153 de 1887",
+    "Decreto 2591 de 1991",
+    "Ley 472 de 1998"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2012/T-430-12.htm",
+  "fecha_descarga": "2026-10-21T15:33:46.892889+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2012-06-08",
+  "fecha_publicacion": null,
+  "numero": "T-430/12",
+  "tipo_cc": "T",
+  "prov_id": "3653",
+  "tema_relatoria": null,
+  "resumen": "Debido proceso. Tutela contra providencia judicial. Se pretende a través de la acción de tutela que se deje sin efectos la decisión judicial que revocó el fallo dictado dentro de una acción popular interpuesta en contra de los municipios de Yaguará e Iquirá, mediante la cual se le reconoció al actor el incentivo económico de diez salarios mínimos legales mensuales vigentes. Luego de reiterar la jurisprudencia constitucional relacionada con la procedencia de la acción de tutela contra sentencias judiciales, la Sala decide confirmar la decisión que DENEGÓ el amparo solicitado, toda vez que encontró la sentencia cuestionada dentro del ámbito de autonomía e independencia de la autoridad judicial para aplicar las normas jurídicas.",
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Causales genéricas de procedibilidad"
+    },
+    {
+      "tema": "INCENTIVO ECONOMICO EN ACCION POPULAR",
+      "subtema": "Ausencia de relevancia constitucional por tratarse de un asunto de mera interpretación legal"
+    },
+    {
+      "tema": "INTERPRETACION DADA A LEY 1425/10 QUE DEROGÓ LOS ARTS 39 Y 40 DE LA LEY 472/98",
+      "subtema": null
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Requisitos formales"
+    },
+    {
+      "tema": "INCENTIVO ECONOMICO EN ACCION POPULAR",
+      "subtema": "Caso en que fue revocado por el Tribunal Administrativo"
+    }
+  ]
+}

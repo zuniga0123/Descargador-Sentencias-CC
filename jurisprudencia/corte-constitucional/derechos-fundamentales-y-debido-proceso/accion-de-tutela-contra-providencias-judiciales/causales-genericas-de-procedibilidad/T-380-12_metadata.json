@@ -1,0 +1,52 @@
+{
+  "radicado": "T-380-12",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2012,
+  "fecha_creacion": "2012-05-23",
+  "magistrado_ponente": "Humberto Antonio Sierra Porto",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+  "subtema": "Causales genéricas de procedibilidad",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Decreto 663 de 1993",
+    "Ley 45 de 1990",
+    "Decreto 633 de 1993"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2012/T-380-12.htm",
+  "fecha_descarga": "2026-10-21T15:32:05.521585+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2012-05-23",
+  "fecha_publicacion": null,
+  "numero": "T-380/12",
+  "tipo_cc": "T",
+  "prov_id": "3584",
+  "tema_relatoria": null,
+  "resumen": "En este asunto la empresa Liberty Seguros S.A. solicita al juez de tutela la protección de sus derechos fundamentales al debido proceso y al acceso a la administración de justicia, presuntamente vulnerados por la Sala Civil, Familia, Laboral del Tribunal Superior de Montería, al haber proferido mandamiento de pago en su contra sin tener en cuenta que no existía legitimación por pasiva, toda vez que el obligado a responder era una persona jurídica diferente, esto es Liberty Seguros de Vida S.A., sociedad comercial que expidió las pólizas de seguros de vida reclamadas. Luego de reiterar jurisprudencia relacionada con la acción de tutela contra providencias judiciales, la Sala de Revisión decide NEGAR el amparo solicitado, por encontrar la decisión judicial atacada enmarcada en disposiciones legales, estar plenamente motivada y no tener ningún elemento que permitiera deducir la existencia de un vía de hecho.",
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Causales genéricas de procedibilidad"
+    },
+    {
+      "tema": "ACCION DE TUTELA DE COMPAÑIA DE SEGUROS",
+      "subtema": "Inexistencia de defecto fáctico en proceso ejecutivo por cuanto compañías de seguros no son personas jurídicas diferentes y son responsables solidarias del pago de pólizas de seguro de vida"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Reiteración de jurisprudencia sobre procedencia excepcional"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Requisitos generales de procedibilidad"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Causales específicas de procedibilidad"
+    }
+  ]
+}

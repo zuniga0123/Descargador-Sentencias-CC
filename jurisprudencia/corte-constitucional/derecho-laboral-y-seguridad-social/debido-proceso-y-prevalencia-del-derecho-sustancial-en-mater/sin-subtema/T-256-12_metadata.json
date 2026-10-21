@@ -1,0 +1,51 @@
+{
+  "radicado": "T-256-12",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2012,
+  "fecha_creacion": "2012-03-29",
+  "magistrado_ponente": "Nilson Pinilla Pinilla",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "DEBIDO PROCESO Y PREVALENCIA DEL DERECHO SUSTANCIAL EN MATERIA PENSIONAL",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 100 de 1993",
+    "Ley 906 de 2004"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2012/T-256-12.htm",
+  "fecha_descarga": "2026-10-21T15:29:27.639004+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2012-03-29",
+  "fecha_publicacion": null,
+  "numero": "T-256/12",
+  "tipo_cc": "T",
+  "prov_id": "3398",
+  "tema_relatoria": null,
+  "resumen": "Debido proceso, seguridad social, mínimo vital. Tutela contra providencia judicial. En el presente asunto la actora es una persona que tiene más de setenta años de edad y que tiene bajo su cuidado a un hijo discapacitado. Se refiere en la tutela que, tras solicitar el reconocimiento y pago de la pensión de vejez, el ISS le negó esta prestación bajo el argumento de no contar con el número de semanas de cotización requerido. Luego de agotar la vía gubernativa inició el correspondiente proceso ordinario laboral, pero las decisiones de instancia negaron las pretensiones de la demanda, aún cuando cumplía los requisitos para acceder a la pensión. La acción de tutela se instaura en contra de estos despachos judiciales alegando una vía de hecho por incurrir en un defecto fáctico, por la omisión de consideración del medio probatorio aportado al proceso ordinario y al trámite administrativo de reconocimiento de la prestación referida. La Sala analiza la siguiente temática: 1º. La improcedencia general de la acción de tutela para objetar decisiones judiciales. 2º. El derecho al debido proceso y la prevalencia del derecho sustancial y, 3º. El derecho a la seguridad social en materia pensional y la procedencia excepcional de la acción de tutela para reclamar la pensión de vejez. Luego de verificarse la procedencia de la acción de tutela y de verificarse el cumplimiento de los requisitos para obtener el reconocimiento y pago de la pensión de vejez, se decide CONCEDER el amparo solicitado, dejar sin efectos las decisiones proferidas dentro del proceso ordinario laboral y ordenar al ISS expedir resolución de reconocimiento y pago de la pensión de vejez reclamada por la demandante.",
+  "titulaciones": [
+    {
+      "tema": "DEBIDO PROCESO Y PREVALENCIA DEL DERECHO SUSTANCIAL EN MATERIA PENSIONAL",
+      "subtema": null
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA PARA EL RECONOCIMIENTO DE PENSIÓN DE VEJEZ",
+      "subtema": "Procedencia cuando se vulneran derechos a la seguridad social en pensiones y al mínimo vital del actor"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Reiteración de jurisprudencia sobre requisitos generales y especiales de procedibilidad"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Improcedencia por regla general"
+    },
+    {
+      "tema": "DERECHOS FUNDAMENTALES AL DEBIDO PROCESO, SEGURIDAD SOCIAL EN PENSIONES Y MINIMO VITAL",
+      "subtema": "Orden al ISS reconozca y pague pensión de vejez a la accionante"
+    }
+  ]
+}

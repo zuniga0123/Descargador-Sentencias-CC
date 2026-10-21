@@ -1,0 +1,45 @@
+{
+  "radicado": "T-996-12",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2012,
+  "fecha_creacion": "2012-11-23",
+  "magistrado_ponente": "María Victoria Calle Correa",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+  "subtema": "Requisitos de procedibilidad",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Decreto 2282 de 1989",
+    "Ley 906 de 2004",
+    "Ley 1564 de 2012",
+    "Ley 42 de 1993"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2012/T-996-12.htm",
+  "fecha_descarga": "2026-10-21T15:35:58.415823+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2012-11-23",
+  "fecha_publicacion": null,
+  "numero": "T-996/12",
+  "tipo_cc": "T",
+  "prov_id": "4354",
+  "tema_relatoria": null,
+  "resumen": "Debido proceso, seguridad social, mínimo vital. Tutela contra providencia judicial. En este asunto se interpone la acción de tutela en contra de la autoridad judicial que al decidir en segunda instancia una demanda ejecutiva laboral iniciada por el actor, declaró probada la excepción de inexistencia del título ejecutivo y ordenó el levantamiento de las medidas cautelares decretadas dentro del mencionado proceso, bajo el argumento de que únicamente la primera copia de los actos administrativos presta mérito ejecutivo. Esta decisión se adoptó a pesar de que el demandante allegó copia de tal acto administrativo autenticado por funcionario público. . A juicio del accionante, la precitada decisión judicial incurrió en un defecto material o sustantivo. La Sala reitera jurisprudencia relacionada con la procedencia de la acción de tutela contra providencias judiciales y sobre el defecto fáctico configurado ante la omisión del juez de conocimiento de ordenar oficiosamente el decreto y práctica de las pruebas en los procedimientos ordinarios. DENEGADA.",
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Requisitos de procedibilidad"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Improcedencia toda vez que el accionante aportó copia simple de un documento público"
+    },
+    {
+      "tema": "DEFECTO FACTICO POR LA OMISION EN EL DECRETO Y PRACTICA DE PRUEBAS",
+      "subtema": "Alcance"
+    }
+  ]
+}

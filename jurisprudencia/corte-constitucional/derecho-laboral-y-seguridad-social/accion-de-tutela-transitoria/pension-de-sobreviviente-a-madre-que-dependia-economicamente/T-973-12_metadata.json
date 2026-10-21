@@ -1,0 +1,56 @@
+{
+  "radicado": "T-973-12",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2012,
+  "fecha_creacion": "2012-11-22",
+  "magistrado_ponente": "Alexei Julio Estrada",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "ACCION DE TUTELA TRANSITORIA",
+  "subtema": "Pensión de sobreviviente a madre que dependía económicamente de su hijo",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 100 de 1993",
+    "Ley 797 de 2003",
+    "Decreto Ley 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2012/T-973-12.htm",
+  "fecha_descarga": "2026-10-21T15:38:13.411708+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2012-11-22",
+  "fecha_publicacion": null,
+  "numero": "T-973/12",
+  "tipo_cc": "T",
+  "prov_id": "4328",
+  "tema_relatoria": null,
+  "resumen": "En el presente caso se aduce vulneración de derechos fundamentales por parte de la Compañía MAPFRE Colombia Vida Seguros S.A., al negarse a efectuar el pago a la empresa BBVA HORIZONTE PENSIONES Y CESANTIAS de la suma adicional requerida para poder financiar el monto de la pensión de sobrevivientes reclamada por la actora, a raíz del fallecimiento de su hijo. La accionada negó la pretensión al considerar que no se cumplía con el requisito de dependencia económica total de la peticionaria respecto del afiliado fallecido, lo que originaba no ostentar la calidad de beneficiaria de la prestación. La Sala consideró no válidos los argumentos presentados por las accionadas para desestimar la dependencia económica de la demandante respecto de su hijo y en tal sentido decidió CONCEDER la tutela y ordenar, por un lado, a la compañía aseguradora, entregar el monto correspondiente al pago adicional que se requiere para el financiamiento de la pensión de sobrevivientes reclamada y, por el otro, a la Administradora de Pensiones, reconocer y pagar la referida prestación.",
+  "titulaciones": [
+    {
+      "tema": "ACCION DE TUTELA TRANSITORIA",
+      "subtema": "Pensión de sobreviviente a madre que dependía económicamente de su hijo"
+    },
+    {
+      "tema": "PENSIÓN DE SOBREVIVIENTES",
+      "subtema": "Alcance del requisito de dependencia económica que deben acreditar los padres frente al fallecimiento de un hijo"
+    },
+    {
+      "tema": "ACCION DE TUTELA PARA RECONOCIMIENTO DE PRESTACIONES SOCIALES",
+      "subtema": "Procedencia excepcional"
+    },
+    {
+      "tema": "PRINCIPIO DE INMEDIATEZ EN ACCION DE TUTELA",
+      "subtema": "Término razonable y oportuno"
+    },
+    {
+      "tema": "PENSION DE SOBREVIVIENTES DE HIJO FALLECIDO",
+      "subtema": "Orden a Fondos de Pensiones reconocer y pagar la pensión de sobrevivientes"
+    },
+    {
+      "tema": "PENSION DE SOBREVIVIENTES Y DERECHO AL MINIMO VITAL",
+      "subtema": "Orden a compañía de seguros entregar a fondo de pensiones y cesantías el monto correspondiente al pago adicional que se requiera para el financiamiento de la pensión de sobreviviente"
+    }
+  ]
+}

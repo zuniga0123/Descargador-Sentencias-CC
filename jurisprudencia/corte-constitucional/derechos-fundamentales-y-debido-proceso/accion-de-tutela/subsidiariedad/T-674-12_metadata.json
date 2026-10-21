@@ -1,0 +1,57 @@
+{
+  "radicado": "T-674-12",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2012,
+  "fecha_creacion": "2012-08-24",
+  "magistrado_ponente": "Mauricio González Cuervo",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCIÓN DE TUTELA",
+  "subtema": "Subsidiariedad",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Decreto 1469 de 1978",
+    "Decreto 2677 de 1971",
+    "Decreto 2591 de 1991",
+    "Ley 90 de 1946",
+    "Decreto 1887 de 1994",
+    "Decreto 3798 de 2003",
+    "Decreto 1748 de 1993",
+    "Ley 1116 de 2006"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2012/T-674-12.htm",
+  "fecha_descarga": "2026-10-21T15:34:54.644805+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2012-08-24",
+  "fecha_publicacion": null,
+  "numero": "T-674/12",
+  "tipo_cc": "T",
+  "prov_id": "3959",
+  "tema_relatoria": null,
+  "resumen": "El accionante aduce que se vio avocado a interponer la acción de tutela porque se encuentra ante un inminente perjuicio irremediable, debido a que la Compañía Inversiones Flota Mercante en liquidación no realizó aportes a pensión durante los diez años de relación laboral que existió entre ellos, ni tampoco realizó las respectivas provisiones o pagos al Instituto de Seguros Sociales. El agente liquidador de la Compañía Flota Mercante indicó que la razón para no incluir dentro del cálculo actuarial los diez años de servicios prestados por el actor es que el vínculo laboral finiquitó antes de la entrada en vigencia de la Ley 100 de 1993, normatividad que creó la figura del bono pensional. La Sala de Revisión concluye que se vulneran los derechos fundamentales al debido proceso y a la igualdad de los trabajadores que laboraron con anterioridad a la entrada en vigencia de la Ley 100 de 1993, cuando se omite el pago de sus aportes. Se indica además que las empresas evasoras están en la obligación de mantener el aprovisionamiento de esta reserva actuarial y transferirla a la Administradora de Fondos de Pensiones respectiva. SE CONCEDE.",
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Subsidiariedad"
+    },
+    {
+      "tema": "ACCION DE TUTELA EN MATERIA PENSIONAL",
+      "subtema": "Ordenar a liquidador elaborar cálculo actuarial individual correspondiente al período laborado por el accionante"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Inmediatez"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Procedencia"
+    },
+    {
+      "tema": "ACCION DE TUTELA EN MATERIA PENSIONAL",
+      "subtema": "Vulneración al debido proceso y a la igualdad por omisión de pago de aportes a trabajador que laboro con anterioridad a la entrada en vigencia de la Ley 100 de 1993"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "radicado": "T-230-12",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2012,
+  "fecha_creacion": "2012-03-20",
+  "magistrado_ponente": "Gabriel Eduardo Mendoza Martelo",
+  "area": "Derecho a la Salud",
+  "tema": "PRINCIPIO DE CONTINUIDAD EN EL SERVICIO PUBLICO DE SALUD",
+  "subtema": "Prestación sin interrupción en evento de cambio de domicilio a otro municipio",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2012/T-230-12.htm",
+  "fecha_descarga": "2026-10-21T15:28:57.319528+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2012-03-20",
+  "fecha_publicacion": null,
+  "numero": "T-230/12",
+  "tipo_cc": "T",
+  "prov_id": "3370",
+  "tema_relatoria": null,
+  "resumen": "Vida, seguridad social. La demandante está afiliada al Sistema General de Seguridad Social en Salud a través del Régimen Subsidiado en el municipio de Bosconia (Cesar) y SOLSALUD E.P.S.S es la entidad encargada de la prestación del servicio. Por razones personales cambió su lugar de domicilio y luego de ser atendida en un centro de urgencias en la ciudad de Santa Marta, el médico le ordenó una intervención quirúrgica de carácter urgente y controles de ginecología cada dos meses. La actuación que genera la vulneración de derechos tiene que ver con el hecho de que la E.P.S.S accionada no autorizó los servicios solicitados, argumentando que éstos se encontraban fuera del POS-S y que la usuaria estaba en una ciudad diferente a la de su afiliación. La Sala CONCEDE el amparo solicitado y ordena a la E.P.S.S SOLSALUD que brinde a la demandante el servicio integral que requiera en razón a su situación ginecológica en la ciudad de Santa Marta y, a la actora le solicita adelantar nuevamente el proceso de identificación, selección y afiliación ante el servicio seccional de salud del municipio donde reside en la actualidad, para que, luego de surtirse la afiliación, la accionada realice las gestiones necesarias para poner en conocimiento de la Secretaría de Salud del Cesar, el cambio de residencia y la posterior afiliación, a efecto de evitar posibles multiafiliaciones.",
+  "titulaciones": [
+    {
+      "tema": "PRINCIPIO DE CONTINUIDAD EN EL SERVICIO PUBLICO DE SALUD",
+      "subtema": "Prestación sin interrupción en evento de cambio de domicilio a otro municipio"
+    },
+    {
+      "tema": "ENTIDADES TERRITORIALES",
+      "subtema": "Prestación del servicio de salud del régimen subsidiado"
+    },
+    {
+      "tema": "DERECHO A LA SALUD, A LA VIDA DIGNA Y A LA SEGURIDAD SOCIAL",
+      "subtema": "Continuidad en la prestación del servicio de salud mientras adelanta el proceso de afiliación por cambio de residencia a otro municipio"
+    },
+    {
+      "tema": "DERECHO A LA SALUD DE PERSONA AFILIADA AL REGIMEN SUBSIDIADO",
+      "subtema": "Atención en caso de traslado de residencia a otro municipio"
+    },
+    {
+      "tema": "REGIMEN SUBSIDIADO DE SEGURIDAD SOCIAL EN SALUD",
+      "subtema": "Procedimiento a seguir en caso de traslado de residencia a otro municipio"
+    }
+  ]
+}

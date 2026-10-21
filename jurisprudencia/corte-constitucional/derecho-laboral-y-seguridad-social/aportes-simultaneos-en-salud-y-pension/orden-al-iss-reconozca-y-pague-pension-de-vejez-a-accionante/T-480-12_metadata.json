@@ -1,0 +1,45 @@
+{
+  "radicado": "T-480-12",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2012,
+  "fecha_creacion": "2012-06-25",
+  "magistrado_ponente": "Luis Ernesto Vargas Silva",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "APORTES SIMULTANEOS EN SALUD Y PENSION",
+  "subtema": "Orden al ISS reconozca y pague pensión de vejez a accionante, a pesar de no haber cotizado simultáneamente a los regímenes de salud y de pensiones, en atención a que no lo exige la ley",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Decreto 758 de 1990",
+    "Decreto 510 de 2003",
+    "Decreto 2591 de 1991",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2012/T-480-12.htm",
+  "fecha_descarga": "2026-10-21T15:40:34.442754+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2012-06-25",
+  "fecha_publicacion": null,
+  "numero": "T-480/12",
+  "tipo_cc": "T",
+  "prov_id": "3726",
+  "tema_relatoria": null,
+  "resumen": "Seguridad social, mínimo vital, debido proceso. El accionante tiene más de 80 años de edad y tras una larga espera el ISS resolvió negarle el reconocimiento y pago de la pensión de vejez, argumentando el incumplimiento del requisito de cotización equivalente a veinte años de servicio. De manera adicional el accionado le informó al actor que, para el estudio del reconocimiento de la prestación se le dejaron de contabilizar unos períodos por no obrar dentro de la carpeta pensional, certificación detallada de las cotizaciones efectuadas al sistema de seguridad social en salud. Cuando se interpuso la acción de tutela, la entidad demandada aún no había resuelto los recursos interpuestos contra la decisión que negó de la prestación. La Sala se pronuncia sobre la siguiente temática: 1º. Procedencia de la acción de tutela para ordenar el reconocimiento y pago de la pensión de vejez. 2º. La cotización en el régimen de seguridad social en salud, como requisito constitucional y legal indispensable para que sean tenidas en cuenta las cotizaciones efectuadas en el régimen de seguridad social en pensiones. Se CONCEDE la protección invocada y se imparten una serie de órdenes a la entidad demandada, para que proceda a tramitar el reconocimiento y pago de la prestación reclamada por el accionante.",
+  "titulaciones": [
+    {
+      "tema": "APORTES SIMULTANEOS EN SALUD Y PENSION",
+      "subtema": "Orden al ISS reconozca y pague pensión de vejez a accionante, a pesar de no haber cotizado simultáneamente a los regímenes de salud y de pensiones, en atención a que no lo exige la ley"
+    },
+    {
+      "tema": "COTIZACION EN EL REGIMEN DE SEGURIDAD SOCIAL EN SALUD",
+      "subtema": "No es un requisito para que sean tenidas en cuenta las cotizaciones efectuadas en el régimen de seguridad social en pensión"
+    },
+    {
+      "tema": "ACCION DE TUTELA PARA EL RECONOCIMIENTO Y PAGO DE PENSION DE VEJEZ",
+      "subtema": "Procedencia excepcional"
+    }
+  ]
+}

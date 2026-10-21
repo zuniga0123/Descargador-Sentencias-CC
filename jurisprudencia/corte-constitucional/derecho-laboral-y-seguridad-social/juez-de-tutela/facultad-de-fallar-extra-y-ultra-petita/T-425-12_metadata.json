@@ -1,0 +1,46 @@
+{
+  "radicado": "T-425-12",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2012,
+  "fecha_creacion": "2012-06-07",
+  "magistrado_ponente": "Nilson Pinilla Pinilla",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "JUEZ DE TUTELA",
+  "subtema": "Facultad de fallar extra y ultra petita",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 100 de 1993"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2012/T-425-12.htm",
+  "fecha_descarga": "2026-10-21T15:33:39.488068+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2012-06-07",
+  "fecha_publicacion": null,
+  "numero": "T-425/12",
+  "tipo_cc": "T",
+  "prov_id": "3647",
+  "tema_relatoria": null,
+  "resumen": "En el presente caso la accionante presentó la acción de tutela contra la NUEVA E.P.S., en tanto dicha empresa le suspendió los servicios médicos y la entrega de medicamentos bajo el argumento de estar afiliada en calidad de beneficiaria y la entidad encargada de reconocer la sustitución pensional, esto es el ISS, no había procedido a ingresarla en nómina. En sede de revisión la Sala tuvo conocimiento de que se superó la situación que dio origen a la presentación de la tutela, en lo relacionado al derecho a la salud, toda vez que la actora decidió afiliarse como cotizante independiente a la E.P.S. accionada. Se declara la CARENCIA ACTUAL DE OBJETO por hecho superado en lo atinente a la violación del derecho a la salud y se CONCEDE el amparo respecto a los derechos al debido proceso, la seguridad social y el mínimo vital. En este aspecto, se ordena al ISS decretar la sustitución pensional a favor de la actora en calidad de cónyuge supérstite del causante y ordenar a la NUEVA E.P.S., afiliarla en calidad de pensionada en sustitución de su finado esposo y devolverle los aportes realizados durante su afiliación como independiente.",
+  "titulaciones": [
+    {
+      "tema": "JUEZ DE TUTELA",
+      "subtema": "Facultad de fallar extra y ultra petita"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Carencia actual de objeto"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Procedencia debido a amenaza de daño"
+    },
+    {
+      "tema": "DERECHO A LA SUSTITUCIÓN PENSIONAL",
+      "subtema": "Alcance respecto al compañero permanente"
+    }
+  ]
+}

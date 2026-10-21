@@ -1,0 +1,44 @@
+{
+  "radicado": "T-999-12",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2012,
+  "fecha_creacion": "2012-11-26",
+  "magistrado_ponente": "Jorge Iván Palacio Palacio",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCION DE TUTELA PARA LA PROTECCION DE LOS DERECHOS FUNDAMENTALES DE LA POBLACION DESPLAZADA",
+  "subtema": "Procedencia",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 387 de 1997",
+    "Ley 39 de 1961",
+    "Ley 1564 de 2012",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2012/T-999-12.htm",
+  "fecha_descarga": "2026-10-21T15:36:05.885428+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2012-11-26",
+  "fecha_publicacion": null,
+  "numero": "T-999/12",
+  "tipo_cc": "T",
+  "prov_id": "4374",
+  "tema_relatoria": null,
+  "resumen": "En el presente caso la accionante afirma ser beneficiaria de ayudas humanitarias en razón a su condición de desplazada. Alega que éstas no han sido entregadas por la entidad bancaria accionada porque no cuenta con la cédula de ciudadanía sino con una contraseña. Interpone la acción de tutela para solicitar que se ordene al Banco agrario, la entrega inmediata de los auxilios económicos. En sede de revisión la Sala pudo determinar que la peticionaria no se encuentra registrada en las bases de datos del banco ni de la UARIV como beneficiaria de las ayudas humanitarias. Igualmente se constató que tampoco acreditó, aunque fuera sumariamente, su condición de desplazada. Se decide declarar la IMPROCEDENCIA de la presente acción de tutela.",
+  "titulaciones": [
+    {
+      "tema": "ACCION DE TUTELA PARA LA PROTECCION DE LOS DERECHOS FUNDAMENTALES DE LA POBLACION DESPLAZADA",
+      "subtema": "Procedencia"
+    },
+    {
+      "tema": "ACCION DE TUTELA DE PERSONA DESPLAZADA CONTRA BANCO AGRARIO",
+      "subtema": "Caso de quien afirma ser beneficiaria de ayudas humanitarias en razón a su condición de desplazada y que éstas no le habían sido entregadas debido a que no cuenta con cédula de ciudadanía"
+    },
+    {
+      "tema": "ACCION DE TUTELA DE PERSONA DESPLAZADA CONTRA BANCO AGRARIO",
+      "subtema": "Improcedencia para la reclamación económica que se pretende"
+    }
+  ]
+}

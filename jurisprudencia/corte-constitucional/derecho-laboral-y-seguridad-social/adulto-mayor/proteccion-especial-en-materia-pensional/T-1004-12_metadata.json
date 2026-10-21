@@ -1,0 +1,61 @@
+{
+  "radicado": "T-1004-12",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2012,
+  "fecha_creacion": "2012-11-26",
+  "magistrado_ponente": "Jorge Ivan Palacio Palacio",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "ADULTO MAYOR",
+  "subtema": "Protección especial en materia pensional",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Decreto 2591 de 1991",
+    "Ley 44 de 1980",
+    "Ley 797 de 2003",
+    "Decreto 1045 de 1978",
+    "Ley 91 de 1989",
+    "Ley 71 de 1988",
+    "Ley 238 de 1995",
+    "Ley 33 de 1985"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2012/T-1004-12.htm",
+  "fecha_descarga": "2026-10-21T15:20:27.714962+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2012-11-26",
+  "fecha_publicacion": null,
+  "numero": "T-1004/12",
+  "tipo_cc": "T",
+  "prov_id": "4362",
+  "tema_relatoria": null,
+  "resumen": "Seguridad social, mínimo vital, vida digna. CAJANAL le negó a la accionante el reconocimiento y pago de la pensión de sobrevivientes solicitada, bajo el argumento de haber tenido un vínculo matrimonial vigente durante su convivencia con el causante. Alega la actora que la accionada no tuvo en cuenta que la ley no exige que la persona beneficiaria de la prestación de sobrevivientes tenga un estado civil específico, como tampoco que es una persona de 77 años de edad, que sostuvo una unión marital de hecho con el causante durante 40 años hasta el día de su muerte y que no cuenta con recursos económicos suficientes que le permitan sufragar los gastos de sostenimiento. La Sala analiza la siguiente temática: 1º. La condición de adulto mayor como sujeto de especial protección constitucional en materia pensional. 2º. El derecho a la pensión de sobrevivientes y los beneficiarios de la misma y 3º. Procedibilidad de la acción de tutela frente a actos administrativos en materia pensional. Se CONCEDE el amparo de los derechos invocados por la accionante y se ordena el reconocimiento de la prestación reclamada.",
+  "titulaciones": [
+    {
+      "tema": "ADULTO MAYOR",
+      "subtema": "Protección especial en materia pensional"
+    },
+    {
+      "tema": "DERECHO A LA PENSIÓN DE SOBREVIVIENTES",
+      "subtema": "Orden a Cajanal emitir acto administrativo en el que reconozca la pensión de sobrevivientes a la accionante"
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA CAJANAL PARA RECONOCIMIENTO DE PENSION DE SOBREVIVIENTES",
+      "subtema": "Caso en que CAJANAL niega reconocimiento con fundamento en una norma contenida en un decreto anterior a la vigencia de la Constitución de 1991 y de la Ley 100 de 1993"
+    },
+    {
+      "tema": "ACCION DE TUTELA PARA CONTROVERTIR ACTOS ADMINISTRATIVOS EN MATERIA PENSIONAL",
+      "subtema": "Procedencia excepcional"
+    },
+    {
+      "tema": "ACCION DE TUTELA PARA CONTROVERTIR ACTOS ADMINISTRATIVOS EN MATERIA PENSIONAL",
+      "subtema": "Caso en que Cajanal niega reconocimiento y pago de pensión de sobrevivientes por existir un vínculo matrimonial anterior no disuelto"
+    },
+    {
+      "tema": "PENSIÓN DE SOBREVIVIENTES",
+      "subtema": "Beneficiarios"
+    }
+  ]
+}

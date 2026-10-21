@@ -1,0 +1,60 @@
+{
+  "radicado": "T-879-12",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2012,
+  "fecha_creacion": "2012-10-29",
+  "magistrado_ponente": "María Victoria Calle Correa",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "CONTRATO DE HIPOTECA",
+  "subtema": "Caso en que cumplía con todos los requisitos exigidos por la ley y era oponible",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 510 de 1999",
+    "Decreto 960 de 1970",
+    "Ley 446 de 1998",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2012/T-879-12.htm",
+  "fecha_descarga": "2026-10-21T15:36:32.344597+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2012-10-29",
+  "fecha_publicacion": null,
+  "numero": "T-879/12",
+  "tipo_cc": "T",
+  "prov_id": "4221",
+  "tema_relatoria": null,
+  "resumen": "Debido proceso. Tutela contra providencia judicial. Se aduce en la demanda de tutela que los despachos judiciales accionados incurrieron en una vía de hecho por deficiencia o ausencia de valoración probatoria, en tanto valoraron erradamente el título ejecutivo (pagaré en blanco) y la carta de instrucciones impartida para su correcto otorgamiento, con los cuales se pretendía demostrar probada la excepción alegada en el curso del proceso ejecutivo hipotecario seguido contra la sociedad accionante. Luego de reiterar jurisprudencia constitucional relacionada con la procedencia excepcional de la acción de tutela contra providencias judiciales, la Sala concluye que las autoridades demandadas no incurrieron en un defecto fáctico al valorar las pruebas aportadas al proceso y que actuaron conforme a derecho siguiendo las reglas materiales, procesales y probatorias aplicables a los procesos ejecutivos con garantía hipotecaria. Se confirman las decisiones de instancia que DENEGARON la solicitud de amparo.",
+  "titulaciones": [
+    {
+      "tema": "CONTRATO DE HIPOTECA",
+      "subtema": "Caso en que cumplía con todos los requisitos exigidos por la ley y era oponible"
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA PROVIDENCIAS JUDICIALES EN PROCESO EJECUTIVO HIPOTECARIO",
+      "subtema": "Improcedencia por cuanto no se configura defecto fáctico ni vulneración del debido proceso, al valorar las pruebas aportadas al proceso"
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA PROVIDENCIAS JUDICIALES Y PRINCIPIO DE INMEDIATEZ",
+      "subtema": null
+    },
+    {
+      "tema": "EXIGIBILIDAD DE PAGARE",
+      "subtema": "Caso en que no se considera que haya existido vulneración al debido proceso de los demandantes por cuanto jueces de instancia resolvieron de conformidad con normas"
+    },
+    {
+      "tema": "VALIDEZ Y EXIGIBILIDAD DE TITULOS VALORES",
+      "subtema": "Caso en que se resolvió con base en presunciones que establecen el C de Co y el C de PC"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Reiteración de jurisprudencia sobre procedencia excepcional"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Causales generales y específicas de procedibilidad"
+    }
+  ]
+}

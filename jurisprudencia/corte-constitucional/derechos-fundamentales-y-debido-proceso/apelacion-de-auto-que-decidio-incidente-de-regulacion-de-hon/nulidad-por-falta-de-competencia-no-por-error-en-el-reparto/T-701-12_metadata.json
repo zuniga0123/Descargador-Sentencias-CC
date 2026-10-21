@@ -1,0 +1,58 @@
+{
+  "radicado": "T-701-12",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2012,
+  "fecha_creacion": "2012-08-28",
+  "magistrado_ponente": "Mauricio González Cuervo",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "APELACION DE AUTO QUE DECIDIO INCIDENTE DE REGULACION DE HONORARIOS",
+  "subtema": "Nulidad por falta de competencia, no por error en el reparto",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Decreto 2282 de 1989"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2012/T-701-12.htm",
+  "fecha_descarga": "2026-10-21T15:22:05.069272+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2012-08-28",
+  "fecha_publicacion": null,
+  "numero": "T-701/12",
+  "tipo_cc": "T",
+  "prov_id": "3988",
+  "tema_relatoria": null,
+  "resumen": "Debido proceso. Tutela contra providencia judicial. Se ataca la decisión judicial que dentro del trámite de un incidente de regulación de honorarios revocó unos autos dictados previamente y ordenó el valor de los honorarios en un término de 10 días, vencidos los cuales deberían pagarse intereses moratorios del 6% anual. Se aduce que esta decisión es contraria a los dispuesto en los autos invalidados, en donde el pago de honorarios se acordó con el cálculo de la operación aritmética entre el capital y los intereses objeto del proceso y el pago de los intereses legales del 6% anual, desde la fecha de ejecutoria de los autos hasta que se produjera efectivamente el pago. El actor considera que los intereses de mora sobre los honorarios deben liquidarse desde la fecha en que se hicieron exigibles y se causaron y no desde la fecha de ejecutoria de los autos. La Sala considera que la decisión atacada no presenta signos de arbitrariedad por cuanto lo allí dispuesto está fundado en una interpretación razonable tanto de las normas del Código Civil en materia de intereses, como en la jurisprudencia de la Corte Suprema. SE DENIEGA.",
+  "titulaciones": [
+    {
+      "tema": "APELACION DE AUTO QUE DECIDIO INCIDENTE DE REGULACION DE HONORARIOS",
+      "subtema": "Nulidad por falta de competencia, no por error en el reparto"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Procedencia"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Requisitos especiales de procedibilidad"
+    },
+    {
+      "tema": "INTERESES MORATORIOS",
+      "subtema": "Exigibles desde que la obligación es reconocida por sentencia judicial ejecutoriada"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "No se configuró defecto sustantivo en caso de regulación de honorarios"
+    },
+    {
+      "tema": "DEFECTO MATERIAL O SUSTANTIVO",
+      "subtema": "Configuración"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Requisitos generales de procedibilidad"
+    }
+  ]
+}

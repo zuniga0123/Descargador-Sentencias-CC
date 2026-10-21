@@ -1,0 +1,47 @@
+{
+  "radicado": "T-546-12",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2012,
+  "fecha_creacion": "2012-07-13",
+  "magistrado_ponente": "Nilson Pinilla Pinilla",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCION DE TUTELA CONTRA FISCALIA GENERAL DE LA NACION, LA DIRECCION SECCIONAL DE FISCALIAS Y LOS JUZGADOS 31 Y 33 PENALES DEL CIRCUITO DE BOGOTA",
+  "subtema": "Improcedencia por cuanto no se cumple con el requisito de inmediatez",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 617 de 2000",
+    "Ley 600 de 2000"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2012/T-546-12.htm",
+  "fecha_descarga": "2026-10-21T15:25:53.701733+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2012-07-13",
+  "fecha_publicacion": null,
+  "numero": "T-546/12",
+  "tipo_cc": "T",
+  "prov_id": "3800",
+  "tema_relatoria": null,
+  "resumen": "Debido proceso, defensa, igualdad, acceso a la administración de justicia. En el presente asunto el actor aduce vulneración de derechos fundamentales por parte de la Fiscalía General de la Nación y de los juzgados 31 y 33 Penal del Circuito de Bogota, al adelantar un proceso penal en contra, en el cual se profirió sentencia condenatoria y se declaró persona ausente. Para la Sala es claro que el accionante conocía de la sentencia condenatoria proferida en su contra y no encuentra justificación para que dejara transcurrir 16 años para acudir a la presente solicitud de amparo. Considera además que, la acción de tutela es manifiestamente improcedente por falta de inmediatez y advierte que se presentó de manera irrazonable e indebidamente, desnaturalizando sus fines esenciales y naturaleza de mecanismo de defensa de derechos fundamentales preferente, sumario y propiciador de inmediato amparo. IMPROCEDENTE.",
+  "titulaciones": [
+    {
+      "tema": "ACCION DE TUTELA CONTRA FISCALIA GENERAL DE LA NACION, LA DIRECCION SECCIONAL DE FISCALIAS Y LOS JUZGADOS 31 Y 33 PENALES DEL CIRCUITO DE BOGOTA",
+      "subtema": "Improcedencia por cuanto no se cumple con el requisito de inmediatez"
+    },
+    {
+      "tema": "DEBIDO PROCESO Y DEFENSA TECNICA",
+      "subtema": "Nulidad de todo lo actuado en el proceso penal a partir de la declaratoria de persona ausente"
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA FISCALIA GENERAL DE LA NACION",
+      "subtema": null
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Inmediatez"
+    }
+  ]
+}

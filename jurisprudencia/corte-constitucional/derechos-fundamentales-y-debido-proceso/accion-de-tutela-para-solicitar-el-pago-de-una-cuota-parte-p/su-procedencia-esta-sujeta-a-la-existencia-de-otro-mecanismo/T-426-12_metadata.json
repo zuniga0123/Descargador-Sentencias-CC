@@ -1,0 +1,60 @@
+{
+  "radicado": "T-426-12",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2012,
+  "fecha_creacion": "2012-06-08",
+  "magistrado_ponente": "María Victoria Calle Correa",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCION DE TUTELA PARA SOLICITAR EL PAGO DE UNA CUOTA PARTE PENSIONAL",
+  "subtema": "Su procedencia esta sujeta a la existencia de otro mecanismo de defensa judicial que resulte ser eficiente",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 1260 de 2000",
+    "Ley 550 de 1999",
+    "Decreto 2591 de 1991",
+    "Ley 643 de 2001",
+    "Decreto 2975 de 2004",
+    "Ley 510 de 1999",
+    "Decreto 2418 de 1999",
+    "Ley 663 de 1993"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2012/T-426-12.htm",
+  "fecha_descarga": "2026-10-21T15:33:43.236070+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2012-06-08",
+  "fecha_publicacion": null,
+  "numero": "T-426/12",
+  "tipo_cc": "T",
+  "prov_id": "3649",
+  "tema_relatoria": null,
+  "resumen": "Debido proceso, seguridad social. Aduce el accionante que tiene derecho a percibir mensualmente una pensión compartida entre el ISS y la hoy liquidada Lotería de la Nueve Millonaria de la Nueva Colombia Ltda. Pese a lo anterior, asegura que sólo viene recibiendo la cuota parte pensional correspondiente al Instituto, porque la cuota parte que le corresponde a la otra empresa dejó de cancelársele desde marzo de 2010. La Sala de Revisión precisa que, cuando alguien adquiere el derecho a pensionarse con cargo a un empleador y éste último entra en liquidación obligatoria, es deber del liquidador efectuar una conmutación pensional, que de no hacerse y con ello dejar de percibir el pensionado su mesada, no sólo violaría el derecho a la seguridad social, sino que desconocería la prohibición de suspender de manera unilateral el pago de acreencias pensionales como manifestación del debido proceso administrativo, en la dimensión de respeto por el acto propio. Se CONCEDE la tutela y se imparten una serie de órdenes a la Fiduprevisora y al ISS para asegurar el efectivo cumplimiento del amparo concedido.",
+  "titulaciones": [
+    {
+      "tema": "ACCION DE TUTELA PARA SOLICITAR EL PAGO DE UNA CUOTA PARTE PENSIONAL",
+      "subtema": "Su procedencia esta sujeta a la existencia de otro mecanismo de defensa judicial que resulte ser eficiente"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Pago de mesadas pensionales causadas y futuras por Fiduciaria la Previsora S.A."
+    },
+    {
+      "tema": "PROHIBICION DE SUSPENDER DE MANERA UNILATERAL EL PAGO DE MESADAS PENSIONALES",
+      "subtema": "Busca la salvaguarda del debido proceso administrativo en la dimensión de respeto por el acto propio"
+    },
+    {
+      "tema": "CONMUTACION PENSIONAL",
+      "subtema": "En procesos de liquidación obligatoria de un empleador es deber del liquidador efectuar la conmutación pensional"
+    },
+    {
+      "tema": "AGENTE LIQUIDADOR",
+      "subtema": "Obligaciones a cargo en materia pensional"
+    },
+    {
+      "tema": "CONMUTACION PENSIONAL",
+      "subtema": "Respaldo para el pago de mesadas pensionales"
+    }
+  ]
+}

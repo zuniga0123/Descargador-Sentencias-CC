@@ -1,0 +1,62 @@
+{
+  "radicado": "T-015-12",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2012,
+  "fecha_creacion": "2012-01-20",
+  "magistrado_ponente": null,
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "CONTRATO DE SEGUROS",
+  "subtema": "Condiciones",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 791 de 2002"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2012/T-015-12.htm",
+  "fecha_descarga": "2026-10-21T15:19:16.869365+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2012-01-20",
+  "fecha_publicacion": null,
+  "numero": "T-015/12",
+  "tipo_cc": "T",
+  "prov_id": "3102",
+  "tema_relatoria": null,
+  "resumen": "Debido proceso. Tutela contra providencia judicial. El esposo de la accionante obtuvo la calidad de asegurado en virtud a una póliza de seguro de vida que el Banco Santander había tomado para sus clientes, y en la misma se aseguraba su vida hasta por la suma de $80.021.059, siendo beneficiaria la actora en un 50% y los hijos de ambos en el restante 50%. Tras la muerte de su esposo como consecuencia de una insuficiencia renal crónica, la demandante elevó la respectiva reclamación, pero la entidad aseguradora objetó el pago aduciendo que la causa de la muerte del asegurado se debió a un evento preexistente a la fecha de iniciación del amparo individual. Tras iniciar la demanda ordinaria de responsabilidad civil contractual contra la compañía aseguradora, el tribunal accionado revocó la decisión de primera instancia y denegó las pretensiones de la demanda, declarando la prosperidad de la excepción alegada por la aseguradora denominada exclusión de responsabilidad por preexistencia. Se alega en la acción de tutela, que el precitado fallo incurrió en una vía de hecho por defecto fáctico, en tanto no valoró adecuadamente todas las pruebas obrantes en el expediente, readecuó oficiosamente el objeto del litigio y por no estimar la prescripción alegada en la supuesta exclusión contenida en el contrato de seguro. Tras analizar la procedencia excepcional de la acción de tutela contra providencias judiciales y sus requisitos generales de procedibilidad, la Sala encuentra que el tribunal accionado vulneró el derecho al debido proceso al incurrir en una vía de hecho por defecto fáctico, al omitir la valoración de pruebas que resultaban relevantes para dictar la sentencia en el proceso civil ordinario iniciado por la actora. Se CONCEDE el amparo invocado y se ordena a la autoridad judicial accionada proferir una nueva sentencia en el referido proceso ordinario.",
+  "titulaciones": [
+    {
+      "tema": "CONTRATO DE SEGUROS",
+      "subtema": "Condiciones"
+    },
+    {
+      "tema": "RESPONSABILIDAD CIVIL CONTRACTUAL POR SEGURO DE VIDA",
+      "subtema": null
+    },
+    {
+      "tema": "VIA DE HECHO POR DEFECTO FACTICO AL NO VALORAR EN CONJUNTO CON LOS DEMAS, LOS MEDIOS PROBATORIOS OBRANTES EN PROCESO CIVIL ORDINARIO",
+      "subtema": null
+    },
+    {
+      "tema": "JUEZ DE TUTELA Y OMISION DE AUTORIDAD JUDICIAL",
+      "subtema": "Orden de proferir una nueva sentencia"
+    },
+    {
+      "tema": "EXCLUSION DE RESPONSABILIDAD POR PREEXISTENCIA ALEGADA POR ASEGURADORA DEMANDADA",
+      "subtema": null
+    },
+    {
+      "tema": "DERECHO AL DEBIDO PROCESO",
+      "subtema": "Vulneración por parte del Tribunal Superior al omitir valoración de pruebas determinantes aportadas al proceso ordinario de responsabilidad civil contractual"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Reiteración de jurisprudencia sobre procedencia excepcional"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Requisitos generales de procedibilidad"
+    }
+  ]
+}

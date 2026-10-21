@@ -1,0 +1,41 @@
+{
+  "radicado": "T-210-12",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2012,
+  "fecha_creacion": "2012-03-15",
+  "magistrado_ponente": "María Victoria Calle Correa",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "ACCIÓN DE TUTELA PARA EL RECONOCIMIENTO DE PENSIÓN DE VEJEZ",
+  "subtema": "Procedencia por vulneración al debido proceso, mínimo vital y seguridad social por parte del ISS al exigir requisitos adicionales a los consagrados en la Constitución y la Ley para reconocimiento",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 510 de 2003",
+    "Ley 100 de 1993",
+    "Decreto 2591 de 1991",
+    "Ley 797 de 2003",
+    "Decreto 758 de 1990"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2012/T-210-12.htm",
+  "fecha_descarga": "2026-10-21T15:24:01.389259+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2012-03-15",
+  "fecha_publicacion": null,
+  "numero": "T-210/12",
+  "tipo_cc": "T",
+  "prov_id": "3350",
+  "tema_relatoria": null,
+  "resumen": "Seguridad social. La accionante interpuso la acción de tutela en contra del Instituto de Seguros Sociales, por considerar que esta entidad vulneró sus derechos fundamentales al negarle la pensión de vejez bajo el argumento de no cumplir con el número mínimo de semanas requeridas para el reconocimiento de esta prestación. A juicio de la actora, no se tuvo en cuenta cerca de quince meses cotizados como independiente, porque no pudo acreditar aportes al Sistema de Seguridad Social en Salud durante ese mismo período de tiempo. En sede de revisión la actora informó a la Sala que el ISS le reconoció la pensión reclamada y en tal sentido, luego de pronunciarse sobre la vulneración de derechos fundamentales con la exigencia de requisitos adicionales a los establecidos en la Constitución y la Ley para el reconocimiento de derechos pensionales , se declara la CARENCIA ACTUAL DE OBJETO POR HECHO SUPERADO.",
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA PARA EL RECONOCIMIENTO DE PENSIÓN DE VEJEZ",
+      "subtema": "Procedencia por vulneración al debido proceso, mínimo vital y seguridad social por parte del ISS al exigir requisitos adicionales a los consagrados en la Constitución y la Ley para reconocimiento"
+    },
+    {
+      "tema": "CARENCIA ACTUAL DE OBJETO POR HECHO SUPERADO",
+      "subtema": "Se reconoció pensión de vejez"
+    }
+  ]
+}

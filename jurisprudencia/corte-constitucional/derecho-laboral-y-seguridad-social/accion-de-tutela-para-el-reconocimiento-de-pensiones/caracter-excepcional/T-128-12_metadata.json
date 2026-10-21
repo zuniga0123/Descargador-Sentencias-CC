@@ -1,0 +1,49 @@
+{
+  "radicado": "T-128-12",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2012,
+  "fecha_creacion": "2012-02-24",
+  "magistrado_ponente": "Luis Ernesto Vargas Silva",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "ACCION DE TUTELA PARA EL RECONOCIMIENTO DE PENSIONES",
+  "subtema": "Carácter excepcional",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 776 de 2002",
+    "Ley 100 de 1993",
+    "Decreto 195 de 1994",
+    "Decreto 2463 de 2001"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2012/T-128-12.htm",
+  "fecha_descarga": "2026-10-21T15:21:42.525433+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2012-02-24",
+  "fecha_publicacion": null,
+  "numero": "T-128/12",
+  "tipo_cc": "T",
+  "prov_id": "3246",
+  "tema_relatoria": null,
+  "resumen": "Seguridad social, mínimo vital. La accionante es madre cabeza de familia y tiene dos hijos menores de edad. Tras solicitar la pensión de sobrevivientes en calidad de beneficiaria de su fallecido esposo, la ARP COMPAÑÍA DE SEGUROS S.A. le negó el reconocimiento de la prestación, argumentando para el efecto que el accidente que ocasionó la muerte del afiliado ocurrió cuanto prestaba sus servicios a una empresa distinta a su empleador. . La Sala reitera jurisprudencia de la Corporación relacionada con la siguiente temática: 1). Las condiciones constitucionales para la procedencia excepcional de la acción de tutela frente al reconocimiento de pensiones. 2º). La pensión de sobrevivientes en el sistema de riesgos profesionales, así como sus requisitos, beneficiarios y calificación del origen de la muerte del afiliado y, 3º. Inoponibilidad de los trámites administrativos en el reconocimiento del derecho a una pensión. Se CONCEDE el amparo solicitado y se ordena a la accionada reconocer y pagar la pensión de sobrevivientes a la demandante y a sus menores hijos como beneficiarios del afiliado, debiendo cubrir tanto lo causado como lo no pagado, desde la fecha del deceso del esposo y padre causante.",
+  "titulaciones": [
+    {
+      "tema": "ACCION DE TUTELA PARA EL RECONOCIMIENTO DE PENSIONES",
+      "subtema": "Carácter excepcional"
+    },
+    {
+      "tema": "CALIFICACION DE LA MUERTE DEL AFILIADO",
+      "subtema": "Reiteración de jurisprudencia"
+    },
+    {
+      "tema": "PENSION DE SOBREVIVIENTES EN EL SISTEMA DE RIESGOS PROFESIONALES",
+      "subtema": "Requisitos y beneficiarios"
+    },
+    {
+      "tema": "DERECHO A LA PENSIÓN DE SOBREVIVIENTES",
+      "subtema": "Trámites administrativos no pueden obstaculizar el reconocimiento del derecho a quien ya ha reunido los requisitos para acceder a ésta"
+    }
+  ]
+}

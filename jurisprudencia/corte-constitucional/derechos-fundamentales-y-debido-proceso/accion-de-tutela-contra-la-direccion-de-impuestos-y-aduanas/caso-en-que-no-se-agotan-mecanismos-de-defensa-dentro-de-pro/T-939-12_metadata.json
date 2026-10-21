@@ -1,0 +1,42 @@
+{
+  "radicado": "T-939-12",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2012,
+  "fecha_creacion": "2012-11-13",
+  "magistrado_ponente": "Nilson Pinilla Pinilla",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCION DE TUTELA CONTRA LA DIRECCION DE IMPUESTOS Y ADUANAS NACIONALES",
+  "subtema": "Caso en que no se agotan mecanismos de defensa dentro de proceso de cobro coactivo",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 1066 de 2010"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2012/T-939-12.htm",
+  "fecha_descarga": "2026-10-21T15:38:57.743147+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2012-11-13",
+  "fecha_publicacion": null,
+  "numero": "T-939/12",
+  "tipo_cc": "T",
+  "prov_id": "4284",
+  "tema_relatoria": null,
+  "resumen": "En el presente caso los demandantes aducen que la Dirección de Impuestos Nacionales –DIAN-, Dirección Seccional de Impuestos de Bogotá – División de Gestión de Cobranzas, vulneró sus derechos fundamentales al debido proceso, al buen nombre, al habeas data, a la honra y a la dignidad humana, al expedir actos administrativos mediante los cuales se dispuso el embargo de los dineros depositados en sus cuentas bancarias o en cualquier título valor, con ocasión de un proceso de cobro coactivo iniciado en su contra en su condición de deudores solidarios de una compañía liquidada, para obtener el pago de impuestos de renta, IVA y retención en la fuente, adeudados por esa sociedad. Tras analizar la naturaleza residual y subsidiaria de la acción de tutela, la Sala de Revisión decide confirmar las decisiones de instancia que declararon la IMPROCEDENCIA del amparo deprecado.",
+  "titulaciones": [
+    {
+      "tema": "ACCION DE TUTELA CONTRA LA DIRECCION DE IMPUESTOS Y ADUANAS NACIONALES",
+      "subtema": "Caso en que no se agotan mecanismos de defensa dentro de proceso de cobro coactivo"
+    },
+    {
+      "tema": "PRINCIPIO DE SUBSIDIARIEDAD",
+      "subtema": "Implica agotar con antelación los medios de defensa regularmente disponibles"
+    },
+    {
+      "tema": "PRINCIPIO DE SUBSIDIARIEDAD DE LA ACCIÓN DE TUTELA",
+      "subtema": "Procedencia excepcional como mecanismo transitorio para evitar un perjuicio irremediable"
+    }
+  ]
+}

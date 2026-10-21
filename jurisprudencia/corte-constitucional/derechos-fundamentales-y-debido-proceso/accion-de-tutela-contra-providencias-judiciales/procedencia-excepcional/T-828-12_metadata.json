@@ -1,0 +1,53 @@
+{
+  "radicado": "T-828-12",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2012,
+  "fecha_creacion": "2012-10-19",
+  "magistrado_ponente": "Mauricio González Cuervo",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+  "subtema": "Procedencia excepcional",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2012/T-828-12.htm",
+  "fecha_descarga": "2026-10-21T15:38:20.763063+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2012-10-19",
+  "fecha_publicacion": null,
+  "numero": "T-828/12",
+  "tipo_cc": "T",
+  "prov_id": "4167",
+  "tema_relatoria": null,
+  "resumen": "Debido proceso, seguridad social. Tutela contra providencia judicial. En el presente caso se ataca la decisión adoptada por la Sala Laboral del Tribunal Superior de Medellín que revocó la decisión de primera instancia, mediante la cual se había reconocido a la accionante como beneficiaria de una pensión de sobrevivientes en calidad de compañera permanente del causante. Se alega la ocurrencia de un defecto fáctico consistente en que el Tribunal le concedió a la contraparte el estatus de esposa por el hecho de no haber registrado en la notaría el acto de divorcio, sin tener en cuenta la existencia de una sentencia judicial que decretó la cesación de efectos civiles del matrimonio católico. La Sala no se pronuncia sobre el fondo del asunto, por considerar que la acción de tutela es IMPROCEDENTE por el incumplimiento del requisito de subsidiariedad, ya que la actora disponía de otros recursos judiciales idóneos y eficaces, tal como los recursos extraordinarios de casación y de revisión.",
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Procedencia excepcional"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Caso en que Tribunal revoca fallo que reconocía pensión de sobrevivientes, con base en dos errores fácticos"
+    },
+    {
+      "tema": "PRINCIPIO DE SUBSIDIARIEDAD DE LA ACCIÓN DE TUTELA",
+      "subtema": "Improcedencia porque el accionante tenía a su alcance otros medios de defensa"
+    },
+    {
+      "tema": "MEDIO DE DEFENSA JUDICIAL EFICAZ",
+      "subtema": "Improcedencia de tutela por existir recurso de casación"
+    },
+    {
+      "tema": "MEDIO DE DEFENSA JUDICIAL EFICAZ",
+      "subtema": "Recurso extraordinario de revisión"
+    },
+    {
+      "tema": "PRINCIPIO DE SUBSIDIARIEDAD DE LA ACCIÓN DE TUTELA",
+      "subtema": "Improcedente porque el accionante tiene a su alcance otros medios de defensa"
+    }
+  ]
+}

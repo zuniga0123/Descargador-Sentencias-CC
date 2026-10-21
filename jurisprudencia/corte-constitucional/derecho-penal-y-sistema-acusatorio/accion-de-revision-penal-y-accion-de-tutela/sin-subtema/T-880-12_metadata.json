@@ -1,0 +1,61 @@
+{
+  "radicado": "T-880-12",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2012,
+  "fecha_creacion": "2012-10-29",
+  "magistrado_ponente": "María Victoria Calle Correa",
+  "area": "Derecho Penal y Sistema Acusatorio",
+  "tema": "ACCION DE REVISION PENAL Y ACCION DE TUTELA",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 600 de 2000",
+    "Decreto 2591 de 1991",
+    "Ley 906 de 2004",
+    "Ley 74 de 1968",
+    "Decreto 2700 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2012/T-880-12.htm",
+  "fecha_descarga": "2026-10-21T15:36:36.200121+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2012-10-29",
+  "fecha_publicacion": null,
+  "numero": "T-880/12",
+  "tipo_cc": "T",
+  "prov_id": "4222",
+  "tema_relatoria": null,
+  "resumen": "Debido proceso. Tutela contra providencia judicial. Se instaura la acción de tutela en contra de la providencia judicial dictada por el Juzgado Cuarenta y Siete Penal del Circuito de Bogotá, mediante la cual se condenó penalmente al accionante por el delito de abuso de confianza calificado y agravado. Aduce el actor, que con dicha providencia se vulneró su derecho al debido proceso, toda vez que nunca se le notificó la existencia del proceso penal y por dicha omisión dejó de ejercer sus derechos constitucionales. Con base en lo anterior solicita que vía tutela se declare la nulidad del proceso penal adelantado en su contra, a partir del auto que lo declaró persona ausente. La Sala de Revisión no encontró la violación al derecho de defensa alegado y en consecuencia, decidió confirmar las decisiones de instancia que NEGARON la acción de tutela impetrada.",
+  "titulaciones": [
+    {
+      "tema": "ACCION DE REVISION PENAL Y ACCION DE TUTELA",
+      "subtema": null
+    },
+    {
+      "tema": "PROCESO PENAL Y FALTA DE DILIGENCIA EN LA BUSQUEDA DEL PROCESADO",
+      "subtema": null
+    },
+    {
+      "tema": "DECLARACION DE PERSONA AUSENTE",
+      "subtema": "No le pone fin al deber del Estado de buscar a la persona sindicada del delito"
+    },
+    {
+      "tema": "DERECHO DE DEFENSA Y FALTA DE DILIGENCIA EN LA BUSQUEDA DEL PROCESADO",
+      "subtema": null
+    },
+    {
+      "tema": "DERECHO A LA DEFENSA DE PERSONA CONDENADA PENALMENTE EN AUSENCIA",
+      "subtema": "Caso en que no se enviaron comunicaciones a la residencia del accionante pero se remitieron a un inmueble con el cual el procesado tenía vínculo material"
+    },
+    {
+      "tema": "PROCESO PENAL Y DEBER DE DILIGENCIA EN LA BUSQUEDA PERMANENTE DE LOS INVOLUCRADOS EN PROCESO PENAL",
+      "subtema": "Consecuencias de incumplir este deber dependen de si es razonable suponer que el involucrado desconoció el proceso en su contra"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Requisitos generales y especiales de procedibilidad"
+    }
+  ]
+}

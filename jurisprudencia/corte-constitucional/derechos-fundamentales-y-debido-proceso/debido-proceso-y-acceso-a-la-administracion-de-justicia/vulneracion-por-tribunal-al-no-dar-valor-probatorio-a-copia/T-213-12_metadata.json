@@ -1,0 +1,75 @@
+{
+  "radicado": "T-213-12",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2012,
+  "fecha_creacion": "2012-03-16",
+  "magistrado_ponente": "Luis Ernesto Vargas Silva",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "DEBIDO PROCESO Y ACCESO A LA ADMINISTRACION DE JUSTICIA",
+  "subtema": "Vulneración por Tribunal al no dar valor probatorio a copia autenticada de una copia autenticada del original que reposaba en expediente de proceso penal",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 446 de 1998",
+    "Ley 1395 de 2010",
+    "Ley 794 de 2003",
+    "Decreto Ley 2651 de 1991",
+    "Ley 906 de 2004",
+    "Decreto 2282 de 1989"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2012/T-213-12.htm",
+  "fecha_descarga": "2026-10-21T15:24:08.925307+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2012-03-16",
+  "fecha_publicacion": null,
+  "numero": "T-213/12",
+  "tipo_cc": "T",
+  "prov_id": "3354",
+  "tema_relatoria": null,
+  "resumen": "Debido proceso. Tutela contra sentencia judicial. En una demanda ejecutiva mixta de mayor cuantía para el cobro de una acreencia contenida en un pagaré, la ejecutada incurrió en mora de cancelar las cuentas de intereses y en consecuencia se aceleró el plazo para recaudar forzosamente la totalidad de la obligación. La ejecutada propuso la excepción de prescripción de la acción cambiaria y la sociedad ejecutante aportó pruebas tendientes a establecer que dicha prescripción se interrumpió naturalmente por el reconocimiento de la deuda y el ofrecimiento de una dación en pago que hiciere la empresa deudora. El juzgado de primera instancia dictó sentencia declarando no probadas las excepciones de mérito y ordenando seguir adelante con la ejecución. Por su parte, el Tribunal accionado decidió el recurso de apelación y al revocó la decisión declaró probada la excepción de prescripción cambiaria propuesta por la ejecutada. Se aduce en la acción de tutela, que la decisión del Tribunal incurrió en defecto fáctico por vía negativa, en defecto procedimental por exceso ritual manifiesto y por inaplicación de reglas probatorias, en defecto sustantivo por inaplicación consecuencial de las reglas de derecho civil sobre la interrupción natural de la prescripción extintiva de la acción cambiaria y en desconocimiento del precedente judicial. Luego de verificar los requisitos generales y específicos de procedencia de la acción de tutela contra providencias judiciales y de desarrollar el tema del valor probatorio de los documentos privados aportados en copia dentro de un proceso judicial, así como la importancia del poder oficioso que en materia probatoria detenta el juez civil cuando existen dudas sobre la autenticidad de tal copia, la Sala concluye que el demandado incurrió en diferentes irregularidades probatorias y procesales que vulneraron el derecho fundamental al debido proceso de la sociedad accionante. Se decide CONCEDERel amparo solicitado.",
+  "titulaciones": [
+    {
+      "tema": "DEBIDO PROCESO Y ACCESO A LA ADMINISTRACION DE JUSTICIA",
+      "subtema": "Vulneración por Tribunal al no dar valor probatorio a copia autenticada de una copia autenticada del original que reposaba en expediente de proceso penal"
+    },
+    {
+      "tema": "CARACTERIZACION DEL DEFECTO PROCEDIMENTAL POR EXCESO RITUAL MANIFIESTO",
+      "subtema": "Reiteración de jurisprudencia"
+    },
+    {
+      "tema": "DOCUMENTOS PRIVADOS DENTRO DE PROCESO JUDICIAL",
+      "subtema": "Forma de allegar los documentos originales al expediente judicial y las excepciones de aportar copias al proceso"
+    },
+    {
+      "tema": "DEFECTO MATERIAL O SUSTANTIVO",
+      "subtema": "Configuración"
+    },
+    {
+      "tema": "DEFECTO ORGANICO",
+      "subtema": "Se configura cuando la autoridad responsable de la providencia objeto de tutela no era competente para conocer del asunto"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Reiteración de jurisprudencia sobre requisitos generales y especiales de procedibilidad"
+    },
+    {
+      "tema": "DEFECTO PROCEDIMENTAL ABSOLUTO Y DEFECTO PROCEDIMENTAL POR EXCESO RITUAL MANIFIESTO",
+      "subtema": null
+    },
+    {
+      "tema": "JUEZ CIVIL",
+      "subtema": "Deber legal de decretar pruebas de oficio"
+    },
+    {
+      "tema": "VALOR PROBATORIO DE LOS DOCUMENTOS PRIVADOS DENTRO DE PROCESO JUDICIAL",
+      "subtema": "Importancia del poder oficioso que en materia probatoria tiene el juez civil cuando existen dudas sobre la autenticidad de la copia"
+    },
+    {
+      "tema": "DEFECTO FACTICO",
+      "subtema": "Dimensión negativa y positiva"
+    }
+  ]
+}

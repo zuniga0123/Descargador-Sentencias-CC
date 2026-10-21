@@ -1,0 +1,50 @@
+{
+  "radicado": "T-654-12",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2012,
+  "fecha_creacion": "2012-08-23",
+  "magistrado_ponente": "Jorge Iván Palacio Palacio",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "FONDO NACIONAL DEL AHORRO Y DEBIDO PROCESO",
+  "subtema": "Vulneración por incumplimiento de condiciones de información en proceso de variación de préstamos de vivienda",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 546 de 1999",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2012/T-654-12.htm",
+  "fecha_descarga": "2026-10-21T15:34:05.598579+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2012-08-23",
+  "fecha_publicacion": null,
+  "numero": "T-654/12",
+  "tipo_cc": "T",
+  "prov_id": "3939",
+  "tema_relatoria": null,
+  "resumen": "Debido proceso. El Fondo Nacional del Ahorro le otorgó un préstamo a la accionante para adquirir vivienda de interés social y el pago de las cuotas mensuales se pactó en pesos. Luego de dos años de estar cancelando las cuotas en la modalidad establecida, el FNA implementó un nuevo sistema de amortización del crédito y con base en ello se empezaron a cobrar las mensualidades en UVR. Alega la actora que no fue informada claramente del cambio realizado y que, al modificarse unilateralmente las condiciones del contrato resultó perjudicada, al presentarse un aumento en el monto de las cuotas que debía pagar. Se pretende con la acción de tutela que se ordene a la entidad demandada volver el crédito a su estado inicial en pesos, con un sistema de amortización que no capitalice intereses y que reliquide el crédito. La Sala aborda la siguiente temática: 1º. Procedencia de la acción de tutela en los casos en los que el Fondo Nacional del Ahorro ha cambiado las condiciones iniciales de un crédito hipotecario, al redenominarlo de pesos a UVR y, 2º. Las variaciones realizadas por el FNA a los contratos de mutuo hipotecario sin el consentimiento del deudor. Al evidenciar que el Fondo accionado vulneró el derecho fundamental al debido proceso de la actora al modificar unilateralmente el contrato de mutuo suscrito, limitándose a comunicarle el cambio de las condiciones sin buscar su consentimiento y aceptación, se decide CONCEDER el amparo solicitado.",
+  "titulaciones": [
+    {
+      "tema": "FONDO NACIONAL DEL AHORRO Y DEBIDO PROCESO",
+      "subtema": "Vulneración por incumplimiento de condiciones de información en proceso de variación de préstamos de vivienda"
+    },
+    {
+      "tema": "FONDO NACIONAL DEL AHORRO",
+      "subtema": "Deber de informar a usuarios la redenominación de créditos hipotecarios"
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA EL FONDO NACIONAL DEL AHORRO",
+      "subtema": "Inoponibilidad del principio de inmediatez como requisito de procedibilidad en los casos en que se han variado las condiciones iniciales del crédito de pesos a UVR"
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA EL FONDO NACIONAL DEL AHORRO",
+      "subtema": "Procedencia por violación al debido proceso y los principios de buena fe y respeto por el acto propio al variar unilateralmente las condiciones del contrato de mutuo para la adquisición de vivienda"
+    },
+    {
+      "tema": "FONDO NACIONAL DEL AHORRO",
+      "subtema": "Reglas que se deben tener en cuenta en casos en que altere lo previamente establecido en los mutuos hipotecarios con los deudores"
+    }
+  ]
+}
