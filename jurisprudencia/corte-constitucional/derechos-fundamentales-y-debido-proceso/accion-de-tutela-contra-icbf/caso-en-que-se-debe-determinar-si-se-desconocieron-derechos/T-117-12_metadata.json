@@ -1,0 +1,51 @@
+{
+  "radicado": "T-117-12",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2012,
+  "fecha_creacion": "2012-02-21",
+  "magistrado_ponente": "Luis Ernesto Vargas Silva",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCION DE TUTELA CONTRA ICBF",
+  "subtema": "Caso en que se debe determinar si se desconocieron derechos fundamentales de menores de edad en los trámites de restablecimiento de derechos",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Decreto Ley 2591 de 1991",
+    "Ley 1098 de 2006"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2012/T-117-12.htm",
+  "fecha_descarga": "2026-10-21T15:16:36.340142+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2012-02-21",
+  "fecha_publicacion": null,
+  "numero": "T-117/12",
+  "tipo_cc": "T",
+  "prov_id": "3231",
+  "tema_relatoria": null,
+  "resumen": "En el presente asunto el accionante presentó la acción de tutela contra el Instituto Colombiano de Bienestar Familiar, por considerar que esa autoridad desconoció los derechos fundamentales de sus menores nietos a tener una familia, a la identidad y la protección integral, así como el derecho fundamental de su hijo al debido proceso, al incurrir en arbitrariedades en el trámite de dos procesos de restablecimiento de derechos, supuestamente por no ordenar una prueba de ADN, corregir la identidad de los menores sin sustento fáctico para ello y no permitir la intervención de su hijo en dichos procesos. En trámite de revisión la Sala analizó la procedencia de la acción de tutela, la legitimación por activa, la eventual carencia de objeto y la existencia de mecanismos de defensa idóneos para resolver la controversia presentada al juez de tutela. Se concluye que, en el presente caso no se cumple con el requisito de subsidiariedad, así que cualquier controversia sobre las decisiones adoptadas por el Instituto accionado en el trámite de protección de los menores cobijados con la medida de restablecimiento de derechos, deberá ser resuelta por los jueces de familia en el trámite de homologación de tales decisiones administrativas. SE NIEGA.",
+  "titulaciones": [
+    {
+      "tema": "ACCION DE TUTELA CONTRA ICBF",
+      "subtema": "Caso en que se debe determinar si se desconocieron derechos fundamentales de menores de edad en los trámites de restablecimiento de derechos"
+    },
+    {
+      "tema": "HOMOLOGACION DE DECISIONES DE DEFENSORES DE FAMILIA",
+      "subtema": "Control judicial de legalidad de decisiones administrativas"
+    },
+    {
+      "tema": "HOMOLOGACION DEL FALLO ANTE EL JUEZ DE FAMILIA",
+      "subtema": null
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA ICBF Y EXISTENCIA DE OTRO MECANISMO DE DEFENSA JUDICIAL",
+      "subtema": "Caso en que es idóneo y adecuado en virtud de las circunstancias del caso concreto"
+    },
+    {
+      "tema": "HOMOLOGACION DE DECISIONES DE DEFENSORES DE FAMILIA",
+      "subtema": "Ampliación de la protección especial de los niños, niñas y adolescentes"
+    }
+  ]
+}
