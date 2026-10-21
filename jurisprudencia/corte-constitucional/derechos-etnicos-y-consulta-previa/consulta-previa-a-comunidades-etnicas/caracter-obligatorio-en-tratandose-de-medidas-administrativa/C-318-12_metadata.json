@@ -1,0 +1,50 @@
+{
+  "radicado": "C-318-12",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2012,
+  "fecha_creacion": "2012-05-03",
+  "magistrado_ponente": "Gabriel Eduardo Mendoza Martelo",
+  "area": "Derechos Étnicos y Consulta Previa",
+  "tema": "CONSULTA PREVIA A COMUNIDADES ETNICAS",
+  "subtema": "Carácter obligatorio en tratándose de medidas administrativas y legislativas, pero no de actos legislativos",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Acto Legislativo 5 de 2011",
+    "Decreto 2067 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2012/C-318-12.htm",
+  "fecha_descarga": "2026-10-21T16:12:55.797518+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2012-05-03",
+  "fecha_publicacion": null,
+  "numero": "C-318/12",
+  "tipo_cc": "C",
+  "prov_id": "3495",
+  "tema_relatoria": "COSA JUZGADA CONSTITUCIONAL EN PRINCIPIO DONDE LA LEY NO DISTINGUE NO LE ES DADO AL INTERPRETE HACERLO",
+  "resumen": "Revisión de constitucionalidad del Acto Legislativo 05 de 2011, por el cual se constituye el Sistema General de Regalías, se modifican los artículos 360 y 361 de la Constitución Política y se dictan otras disposiciones sobre el Régimen de Regalías y Compensaciones. El actor formula un cargo concreto de inconstitucionalidad consistentes en sostener que el mismo contraría los artículos 7, 93, 286 y 330 de la Constitución Política, así como el Convenio 169 de la O.I.T., toda vez que en su radicación y trámite ante el Congreso de la República se omitió la consulta previa a las comunidades étnicas que se ven afectadas por las disposiciones allí contenidas. La Corte constató la existencia de cosa juzgada constitucional frente al cargo alegado en la demanda y en este sentido resolvió ESTARSE A LO RESUELTO en la sentencia C-317/12, en la cual fue declarado exequible por el cargo relativo a la consulta previa con los grupos étnicos del país.",
+  "titulaciones": [
+    {
+      "tema": "CONSULTA PREVIA A COMUNIDADES ETNICAS",
+      "subtema": "Carácter obligatorio en tratándose de medidas administrativas y legislativas, pero no de actos legislativos"
+    },
+    {
+      "tema": "INHIBICION DE LA CORTE CONSTITUCIONAL EN DEMANDA CONTRA ACTO LEGISLATIVO POR OMISION DE CONSULTA PREVIA",
+      "subtema": "Procedencia"
+    },
+    {
+      "tema": "COSA JUZGADA CONSTITUCIONAL",
+      "subtema": "Configuración"
+    },
+    {
+      "tema": "CONSULTA PREVIA DE GRUPOS ETNICOS EN TRAMITE DE ACTO LEGISLATIVO",
+      "subtema": "No es requisito de validez de los actos legislativos"
+    },
+    {
+      "tema": "CONVENIO 169 DE LA ORGANIZACION INTERNACIONAL DEL TRABAJO",
+      "subtema": "Consulta previa a pueblos indígenas y tribales no se predica de Actos Legislativos"
+    }
+  ]
+}

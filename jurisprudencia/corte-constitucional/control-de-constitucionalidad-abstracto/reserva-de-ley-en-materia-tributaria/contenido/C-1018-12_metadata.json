@@ -1,0 +1,57 @@
+{
+  "radicado": "C-1018-12",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2012,
+  "fecha_creacion": "2012-11-28",
+  "magistrado_ponente": "Mauricio González Cuervo I",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "RESERVA DE LEY EN MATERIA TRIBUTARIA",
+  "subtema": "Contenido",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 1314 de 2009"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2012/C-1018-12.htm",
+  "fecha_descarga": "2026-10-21T16:11:00.831267+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2012-11-28",
+  "fecha_publicacion": null,
+  "numero": "C-1018/12",
+  "tipo_cc": "C",
+  "prov_id": "4379",
+  "tema_relatoria": "NORMAS SOBRE CONTABILIDAD E INFORMACION FINANCIERA Y DE ASEGURAMIENTO DE INFORMACION. INDEPENDENCIA Y AUTONOMÍA DE LAS NORMAS TRIBUTARIAS FRENTE A LAS DE CONTABILIDAD Y DE INFORMACIÓN FINANCIERA",
+  "resumen": "Demanda de inconstitucionalidad contra el artículo 4 (parcial) de la Ley 1314 de 2009, por la cual se regulan los principios y normas de contabilidad e información financiera y de aseguramiento de la información aceptados en Colombia, se señalan las autoridades competentes, el procedimiento para su expedición y se determinan las entidades responsables de vigilar su cumplimiento. Expresa el actor que la disposición acusada vulnera el principio de reserva de ley para la imposición de tributos, en la medida que al conferir efectos impositivos a las disposiciones que en su desarrollo expida el Presidente de la República o sus agentes, cuando las leyes tributarias no regulen la materia, los está facultando para crear tributos o para definir sus elementos, siendo esta una facultad exclusiva del Legislador. La Corte encontró que la Ley 1314 de 2009 no vulnera el principio de reserva de ley en materia tributaria, puesto que no otorga una habilitación legal ni otorga facultades al Presidente de la República para crear tributos ni para definir o modificar sus elementos constitutivos. EXEQUIBLE.",
+  "titulaciones": [
+    {
+      "tema": "RESERVA DE LEY EN MATERIA TRIBUTARIA",
+      "subtema": "Contenido"
+    },
+    {
+      "tema": "REGULACION LEGISLATIVA DE PRINCIPIOS Y NORMAS DE CONTABILIDAD E INFORMACION FINANCIERA Y DE ASEGURAMIENTO DE INFORMACION Y CONFERIR EFECTOS IMPOSITIVOS A DICHOS REGLAMENTOS",
+      "subtema": "No otorga potestad tributaria a la administración, en tanto existe reserva de ley"
+    },
+    {
+      "tema": "REGLAMENTOS CONTABLES",
+      "subtema": "Alcance de la expresión “efecto impositivo”"
+    },
+    {
+      "tema": "EFECTO IMPOSITIVO DE NORMAS CONTABLES Y DE INFORMACION FINANCIERA",
+      "subtema": "No se trata de mandatos que establezcan impuestos, contribuciones o tasas, sino de reglamentos de apoyo a la gestión tributaria que pueden permitir la cuantificación de los gravámenes fisca"
+    },
+    {
+      "tema": "FACULTADES EXTRAORDINARIAS EN MATERIA DE NORMAS CONTABLES Y DE INFORMACION FINANCIERA",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "NORMAS SOBRE CONTABILIDAD E INFORMACION FINANCIERA Y DE ASEGURAMIENTO DE INFORMACION",
+      "subtema": "Independencia y autonomía de las normas tributarias frente a las de contabilidad y de información financiera"
+    },
+    {
+      "tema": "EFECTO IMPOSITIVO QUE SE LE ASIGNA A LOS REGLAMENTOS CONTABLES Y DE INFORMACION FINANCIERA QUE EXPIDAN EL PRESIDENTE DE LA REPUBLICA Y SUS AGENTES",
+      "subtema": "Alcance"
+    }
+  ]
+}

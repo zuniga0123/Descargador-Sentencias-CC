@@ -1,0 +1,48 @@
+{
+  "radicado": "T-873-11",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2011,
+  "fecha_creacion": "2011-11-22",
+  "magistrado_ponente": "Mauricio González Cuervo I",
+  "area": "Derecho a la Salud",
+  "tema": "CONCEPTO DEL MEDICO TRATANTE",
+  "subtema": "Carácter prevalente de la prescripción médica cuando es emitida por el médico tratante",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 1438 de 2011",
+    "Ley 100 de 1993",
+    "Ley 1122 de 2007"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2011/T-873-11.htm",
+  "fecha_descarga": "2026-10-21T16:26:30.240017+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2011-11-22",
+  "fecha_publicacion": null,
+  "numero": "T-873/11",
+  "tipo_cc": "T",
+  "prov_id": "2936",
+  "tema_relatoria": null,
+  "resumen": "Salud. El padre de la accionante padece alzheimer y demencia vascular entre otra serie de patologías, por lo que la especialista en neurología le ordenó el servicio de enfermería por doce horas diarias durante tres meses. La E.P.S. ALIANSALUD negó el servicio con el argumento de que el Comité Técnico Científico estableció que lo requerido por el paciente no era una actividad de enfermería propiamente dicha, sino labores de cuidados básicos que correspondían más a acciones de un cuidador, las cuales debían ser asumidas o proporcionadas por los familiares, en tanto no se encontraban incluidas dentro del POS. La Sala aborda temática relacionada con el carácter vinculante de la prescripción médica emitida por el médico tratante y la vulneración del derecho fundamental a la salud por la negación de procedimientos, tratamientos o medicamentes incluidos dentro del POS. Se advierte que el servicio de atención domiciliaria por enfermería ordenado por la médica tratante del representado se encuentra incluido dentro del POS y que en tal sentido el Comité Técnico Científico de la E.P.S. accionada, no tenía facultad ni de aprobarlo ni desaprobarlo. Frente a esta situación se concluye que, la actuación de la entidad demandada se dio en desconocimiento, tanto de los principios constitucionales y normas relacionadas con la prestación del servicio de salud, como de la jurisprudencia constitucional respecto de la negación de de éstos servicios cuando están incluidos en el Plan Obligatorio. Se CONCEDE el amparo y se ordena a la demandada autorizar el servicio de enfermería ordenado por la médica tratante. Se señala que no le asiste a la accionada el derecho de realizar recobro ante el FOSYGA por estar el servicio incluido dentro del POS.",
+  "titulaciones": [
+    {
+      "tema": "CONCEPTO DEL MEDICO TRATANTE",
+      "subtema": "Carácter prevalente de la prescripción médica cuando es emitida por el médico tratante"
+    },
+    {
+      "tema": "DERECHO A LA SALUD DE PERSONA DE LA TERCERA EDAD",
+      "subtema": "Autorización servicio de atención domiciliaria de enfermería por 12 horas a enfermo de alzheimer, por estar incluida en el POS"
+    },
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Prevalece la prescripción médica y no la decisión que tome el Comité Técnico Científico sobre el tratamiento o medicamentos"
+    },
+    {
+      "tema": "ENTIDAD PROMOTORA DE SALUD",
+      "subtema": "Vulneración del derecho a la salud cuando las entidades prestadoras de los servicios de salud se niegan a suministrar tratamientos, medicamentos y procedimientos incluidos en el POS o POS-S"
+    }
+  ]
+}

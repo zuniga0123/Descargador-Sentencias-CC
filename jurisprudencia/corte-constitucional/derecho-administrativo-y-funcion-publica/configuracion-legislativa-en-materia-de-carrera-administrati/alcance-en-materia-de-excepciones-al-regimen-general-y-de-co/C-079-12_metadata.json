@@ -1,0 +1,58 @@
+{
+  "radicado": "C-079-12",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2012,
+  "fecha_creacion": "2012-02-15",
+  "magistrado_ponente": "Gabriel Eduardo Mendoza Martelo",
+  "area": "Derecho Administrativo y Función Pública",
+  "tema": "CONFIGURACION LEGISLATIVA EN MATERIA DE CARRERA ADMINISTRATIVA",
+  "subtema": "Alcance en materia de excepciones al régimen general y de concursos públicos",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto Ley 268 de 2000",
+    "Decreto 2067 de 1991",
+    "Decreto 268 de 2000",
+    "Ley 106 de 1993",
+    "Ley 909 de 2004",
+    "Ley 268 de 2000"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2012/C-079-12.htm",
+  "fecha_descarga": "2026-10-21T16:17:05.736812+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2012-02-15",
+  "fecha_publicacion": null,
+  "numero": "C-079/12",
+  "tipo_cc": "C",
+  "prov_id": "3182",
+  "tema_relatoria": "COSA JUZGADA EN CALIFICACION DE CARGOS DE CARRERA ADMINISTRATIVA EN LA CONTRALORIA GENERAL DE LA REPUBLICA",
+  "resumen": "Demanda de Inconstitucionalidad en contra del artículo 3 (parcial) del Decreto Ley 268 de 2000, por el cual se dictan las normas del régimen especial de la carrera administrativa de la Contraloría General de la República. El demandante alega que el aparte objeto de censura contraviene lo dispuesto en el artículo 243 de la Constitución Política, al reproducir apartes normativos del artículo 122 de la Ley 106 de 1992, que fueron declarados inexequibles por la Corte Constitucional mediante las sentencias C-514/94 y C-405/95. La Sala advierte que ha operado el fenómeno procesal de la cosa juzgada constitucional y en tal sentido decide ESTARSE A LO RESUELTO en la sentencia C-284/11, en relación con las expresiones “Gerente Departamental” y “Asesor de Despacho” contenidas en el artículo 3º del Decreto Ley 268 de 2000.",
+  "titulaciones": [
+    {
+      "tema": "CONFIGURACION LEGISLATIVA EN MATERIA DE CARRERA ADMINISTRATIVA",
+      "subtema": "Alcance en materia de excepciones al régimen general y de concursos públicos"
+    },
+    {
+      "tema": "CONTRALORIA GENERAL DE LA REPUBLICA",
+      "subtema": "Cargos de carrera administrativa"
+    },
+    {
+      "tema": "CARRERA ADMINISTRATIVA COMO REGLA GENERAL DE LOS EMPLEOS DE ORGANOS Y ENTIDADES DEL ESTADO",
+      "subtema": "Naturaleza y alcance"
+    },
+    {
+      "tema": "CALIFICACION DE CARGOS DE CARRERA ADMINISTRATIVA EN LA CONTRALORIA GENERAL DE LA REPUBLICA",
+      "subtema": "Cosa juzgada constitucional"
+    },
+    {
+      "tema": "PRINCIPIO GENERAL DE CARRERA ADMINISTRATIVA",
+      "subtema": "Aplicación"
+    },
+    {
+      "tema": "GERENTE DEPARTAMENTAL Y ASESOR DE DESPACHO DE LA CONTRALORIA GENERAL DE LA REPUBLICA",
+      "subtema": "Su inclusión dentro de los empleos de libre nombramiento y remoción responde a criterios razonables y acordes con los principios generales de carrera administrativa"
+    }
+  ]
+}

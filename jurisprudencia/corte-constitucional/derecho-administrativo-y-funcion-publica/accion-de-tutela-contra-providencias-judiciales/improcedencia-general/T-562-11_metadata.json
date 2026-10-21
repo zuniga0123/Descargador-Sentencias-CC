@@ -1,0 +1,52 @@
+{
+  "radicado": "T-562-11",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2011,
+  "fecha_creacion": "2011-07-19",
+  "magistrado_ponente": "Nilson Pinilla Pinilla",
+  "area": "Derecho Administrativo y Función Pública",
+  "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+  "subtema": "Improcedencia general",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 443 de 1998",
+    "Ley 906 de 2004",
+    "Ley 909 de 2004"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2011/T-562-11.htm",
+  "fecha_descarga": "2026-10-21T16:28:59.998423+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2011-07-19",
+  "fecha_publicacion": null,
+  "numero": "T-562/11",
+  "tipo_cc": "T",
+  "prov_id": "2521",
+  "tema_relatoria": null,
+  "resumen": "Debido proceso, igualdad, trabajo. Tutela contra providencia judicial. Dentro de un proceso de nulidad y restablecimiento del derecho, el Despacho Judicial accionado revocó la decisión que en primera instancia había sido fallada a favor del demandante. Los hechos que dieron origen a la acción de nulidad se sintetizan así: El actor trabajó con la Alcaldía de Pereira como empleado de carrera administrativa, desempeñándose como conductor, durante un período comprendido entre 1994 y 2001. En un proceso de reestructuración adelantado por la entidad territorial, se determinó suprimir dicho cargo y reclasificarlo como de libre nombramiento y remoción, nombrándose en él, a la persona que estaba desempeñándose simultáneamente como conductor, pero en la modalidad de provisionalidad. Tras requerir de la autoridad municipal la reincorporación a la planta de personal, le fue informado al demandante que no existía vacante alguna, ni nombramiento en provisionalidad en el cargo de conductor. La Sala analiza el caso teniendo en cuenta la posición jurisprudencial de la Corte respecto a la. facultad de la administración pública para reorganizar, suprimir, modificar y crear cargos del personal de su planta y la regla general de la improcedencia de la acción de tutela contra decisiones judiciales. Se concluye que el Tribunal accionado, en la providencia que se acusó como violatoria de derechos fundamentales, realizó un análisis juicioso, razonable y ajustado a derecho. En tal sentido se resuelve NEGAR el amparo solicitado por el demandante.",
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Improcedencia general"
+    },
+    {
+      "tema": "ADMINISTRACION TERRITORIAL",
+      "subtema": "Facultad para reorganizar, suprimir, modificar y crear cargos"
+    },
+    {
+      "tema": "ADMINISTRACION PUBLICA",
+      "subtema": "Facultad para reorganizar, suprimir, modificar y crear cargos del personal de su planta"
+    },
+    {
+      "tema": "CARRERA ADMINISTRATIVA",
+      "subtema": "Supresión de cargos por reestructuración administrativa municipal"
+    },
+    {
+      "tema": "CARRERA ADMINISTRATIVA",
+      "subtema": "Alternativa de reincorporación por supresión de cargos de no presentarse permite la indemnización"
+    }
+  ]
+}

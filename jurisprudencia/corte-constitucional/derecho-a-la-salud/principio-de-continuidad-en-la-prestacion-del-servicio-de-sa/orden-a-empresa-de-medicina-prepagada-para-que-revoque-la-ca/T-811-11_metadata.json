@@ -1,0 +1,54 @@
+{
+  "radicado": "T-811-11",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2011,
+  "fecha_creacion": "2011-10-27",
+  "magistrado_ponente": "Mauricio González Cuervo",
+  "area": "Derecho a la Salud",
+  "tema": "PRINCIPIO DE CONTINUIDAD EN LA PRESTACION DEL SERVICIO DE SALUD DEL ENFERMO DE SIDA",
+  "subtema": "Orden a Empresa de Medicina Prepagada para que revoque la cancelación del contrato y continúe prestando el tratamiento integral",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 1486 de 1994",
+    "Decreto 806 de 1998",
+    "Decreto 2591 de 1991",
+    "Ley 100 de 1993",
+    "Decreto 1570 de 1993",
+    "Ley 972 de 2005"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2011/T-811-11.htm",
+  "fecha_descarga": "2026-10-21T16:26:52.692675+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2011-10-27",
+  "fecha_publicacion": null,
+  "numero": "T-811/11",
+  "tipo_cc": "T",
+  "prov_id": "2859",
+  "tema_relatoria": null,
+  "resumen": "Vida digna, salud, integridad personal. En el presente caso el accionante es un paciente de VIH-SIDA que alega vulneración de sus derechos fundamentales por parte de la empresa SALUD COLPATRIA S.A., en tanto decidió cancelar el contrato de medicina prepagada que habían suscrito, bajo el argumento de existir incumplimiento en el pago del precio pactado. La empresa accionada rompió el equilibrio contractual a pesar de haberse allanado en la mora, en tanto aceptó el pago extemporáneo de las cuotas que debía el actor. La Sala se pronuncia sobre la siguiente temática: 1º. Naturaleza de los contratos de medicina prepagada. 2º. Procedencia de la acción de tutela para resolver controversias derivadas del precitado contrato. 3º. El allanamiento a la mora por aplicación analógica iuris. 4º. Derecho a la salud de los enfermos del SIDA como sujetos de especial protección constitucional y 5º. El derecho a la continuidad en la prestación de los servicios de salud prepagados. Se CONCEDE la tutela y se ordena a la demandada que revoque la cancelación del contrato de medicina prepagada referido y proceda a su renovación.",
+  "titulaciones": [
+    {
+      "tema": "PRINCIPIO DE CONTINUIDAD EN LA PRESTACION DEL SERVICIO DE SALUD DEL ENFERMO DE SIDA",
+      "subtema": "Orden a Empresa de Medicina Prepagada para que revoque la cancelación del contrato y continúe prestando el tratamiento integral"
+    },
+    {
+      "tema": "DERECHO A LA SALUD DEL ENFERMO DE SIDA",
+      "subtema": "Protección constitucional especial"
+    },
+    {
+      "tema": "CONTRATO DE MEDICINA PREPAGADA",
+      "subtema": "Naturaleza"
+    },
+    {
+      "tema": "ALLANAMIENTO AL INCUMPLIMIENTO EN LOS CONTRATOS DE MEDICINA PREPAGADA",
+      "subtema": "Aplicación por analogía iuris de las disposiciones del contrato de seguro"
+    },
+    {
+      "tema": "ACCION DE TUTELA PARA RESOLVER CONTROVERSIAS DERIVADAS DE LOS CONTRATOS DE MEDICINA PREPAGADA",
+      "subtema": "Procedencia excepcional por vulneración de un derecho fundamental"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "radicado": "T-944-11",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2011,
+  "fecha_creacion": "2011-12-13",
+  "magistrado_ponente": "Luis Ernesto Vargas Silva",
+  "area": "Derecho a la Salud",
+  "tema": "DERECHO FUNDAMENTAL A LA SALUD",
+  "subtema": "Protección constitucional especial",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 1122 de 2007",
+    "Ley 715 de 2011",
+    "Decreto 806 de 1998",
+    "Decreto 2591 de 1991",
+    "Ley 100 de 1993"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2011/T-944-11.htm",
+  "fecha_descarga": "2026-10-21T16:24:26.765166+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2011-12-13",
+  "fecha_publicacion": null,
+  "numero": "T-944/11",
+  "tipo_cc": "T",
+  "prov_id": "3027",
+  "tema_relatoria": null,
+  "resumen": "Salud, vida digna. El demandante se encuentra vinculado al régimen subsidiado de salud y tras sufrir un accidente de tránsito que le generó una lesión dorsal y por la tardanza en la asignación de citas con médicos vinculados a su E.P.S. S, acudió al servicio médico particular en donde le ordenaron la práctica de una gamagrafía ósea, el cual fue negado bajo el argumento de no estar incluido en las actividades y procedimientos del POS-S. La Sala, luego de verificar el cumplimiento de los requisitos jurisprudenciales que permiten inaplicar la reglamentación que excluye del POS-S el examen denominado gamagrafía ósea, CONCEDE el amparo invocado y ordena a la E.P.S. S COOSALUD que lo practique concediéndole el derecho a efectuar el correspondiente recobro.",
+  "titulaciones": [
+    {
+      "tema": "DERECHO FUNDAMENTAL A LA SALUD",
+      "subtema": "Protección constitucional especial"
+    },
+    {
+      "tema": "TRATAMIENTO DE SALUD EMITIDO POR MEDICO TRATANTE NO ADSCRITO A LA EPS",
+      "subtema": "Obligatoriedad"
+    },
+    {
+      "tema": "DERECHO AL DIAGNÓSTICO",
+      "subtema": "Fundamental como parte de la salud"
+    },
+    {
+      "tema": "DERECHO AL DIAGNÓSTICO",
+      "subtema": "Orden a EPS realizar gamagrafía ósea ordenada por médico particular"
+    },
+    {
+      "tema": "PRINCIPIO DE INTEGRALIDAD DEL SISTEMA DE SEGURIDAD SOCIAL EN SALUD",
+      "subtema": "Finalidad"
+    },
+    {
+      "tema": "TRATAMIENTO MEDICO O MEDICAMENTO EXCLUIDO DEL POS",
+      "subtema": "Requisitos establecidos por la Corte Constitucional para solicitarlo mediante acción de tutela"
+    }
+  ]
+}

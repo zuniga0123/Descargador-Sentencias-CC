@@ -1,0 +1,50 @@
+{
+  "radicado": "T-554-11",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2011,
+  "fecha_creacion": "2011-07-07",
+  "magistrado_ponente": "Jorge Ignacio Pretelt Chaljub",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+  "subtema": "Reiteración de jurisprudencia sobre procedencia excepcional",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 1395 de 2010",
+    "Ley 1149 de 2007",
+    "Ley 153 de 1887",
+    "Ley 712 de 2001",
+    "Decreto 2591 de 1991",
+    "Ley 1395 de 2007"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2011/T-554-11.htm",
+  "fecha_descarga": "2026-10-21T16:30:00.837960+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2011-07-07",
+  "fecha_publicacion": null,
+  "numero": "T-554/11",
+  "tipo_cc": "T",
+  "prov_id": "2505",
+  "tema_relatoria": null,
+  "resumen": "Debido proceso, acceso a la justicia, doble instancia, igualdad, seguridad jurídica, confianza legítima. Tutela contra providencia judicial. En el presente caso se analizó si los Despachos Judiciales accionados incurrieron en una vía de hecho dentro de un proceso ordinario laboral, iniciado por la accionante en contra de la Caja de Compensación Familiar del Tolima, al permitir la sustentación de un recurso de apelación contra la decisión de primera instancia, por escrito y dentro de los tres días siguientes a la sentencia, la cual había sido dictada de manera oral en la audiencia de juzgamiento. La Sala analizó el caso con base en la jurisprudencia constitucional relacionada con la procedencia excepcional de la acción de tutela contra providencias judiciales y las causales especiales de procedibilidad de la acción constitucional. Se encuentran las actuaciones controvertidas ajustadas a la ley vigente, sin evidencia de ser contrarias al debido proceso y demás derechos de las partes. Se declara la improcedencia de la acción y se niegan las pretensiones incoadas por la demandante. NEGADA.",
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Reiteración de jurisprudencia sobre procedencia excepcional"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Reiteración de jurisprudencia sobre requisitos generales y especiales de procedibilidad"
+    },
+    {
+      "tema": "CONCEPTO DE PROVIDENCIA JUDICIAL",
+      "subtema": "Comprende también autos interlocutorios"
+    },
+    {
+      "tema": "DEBIDO PROCESO EN ACTUACIONES JUDICIALES",
+      "subtema": "Improcedencia de tutela por cuanto etapas procesales que regía al proceso laboral se surtieron de manera transparente"
+    }
+  ]
+}

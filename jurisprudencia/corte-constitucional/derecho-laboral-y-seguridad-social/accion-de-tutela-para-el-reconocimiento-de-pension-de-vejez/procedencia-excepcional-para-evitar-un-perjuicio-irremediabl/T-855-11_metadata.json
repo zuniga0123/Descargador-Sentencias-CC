@@ -1,0 +1,72 @@
+{
+  "radicado": "T-855-11",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2011,
+  "fecha_creacion": "2011-11-15",
+  "magistrado_ponente": "Nilson Pinilla Pinilla",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "ACCIÓN DE TUTELA PARA EL RECONOCIMIENTO DE PENSIÓN DE VEJEZ",
+  "subtema": "Procedencia excepcional para evitar un perjuicio irremediable",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 100 de 1993",
+    "Decreto 1406 de 1999",
+    "Decreto 2633 de 1994",
+    "Ley 1266 de 2008",
+    "Decreto 758 de 1990",
+    "Ley 90 de 1946",
+    "Decreto 3041 de 1966"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2011/T-855-11.htm",
+  "fecha_descarga": "2026-10-21T16:27:22.600725+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2011-11-15",
+  "fecha_publicacion": null,
+  "numero": "T-855/11",
+  "tipo_cc": "T",
+  "prov_id": "2911",
+  "tema_relatoria": null,
+  "resumen": "Debido proceso, seguridad social, mínimo vital, habeas data. En el presente caso el Instituto de Seguros Sociales le negó a la actora en varias oportunidades el reconocimiento y pago de su derecho pensional, bajo el argumento de no contar con las suficientes semanas de cotización para acceder a dicha prestación. La actora alega que existe una inexactitud en su historia laboral, en tanto no se registran en ella las cotizaciones correspondientes a varios períodos en los que trabajó con diferentes empresas, situación que la dio a conocer al ISS en varias ocasiones. Para determinar si la omisión prolongada de la entidad accionada para realizar un estudio sobre las cotizaciones que la afiliada aduce como faltantes dentro de su historia laboral, es vulneratoria de derechos fundamentales que pueden ser amparados en sede de tutela, la Sala reitera jurisprudencia relacionada con: 1º. El derecho a la seguridad social y su reconocimiento excepcional de pensión de vejez por vía de tutela. 2º. La mora del empleador en el pago de los aportes al Sistema de Seguridad Social y la prohibición de que las consecuencias de la mora sean asumidas por el empleado. 3º. Vulneración del debido proceso administrativo en materia pensional, cuando no se tienen en cuenta solicitudes del afiliado relacionadas con el cumplimiento de los requisitos para acceder a una prestación económica. 4º. Deber de custodiar la información concerniente al Sistema de Seguridad Social. 5º. Posibilidad de ejercer el derecho al Habeas Data, cuando se presenta una inexactitud en la historia laboral. 6º. El régimen probatorio en materia de tutela y los indicios como prueba de las cotizaciones al sistema de seguridad social en pensiones y, 7º. El carácter subsidiario de la acción de tutela y su procedencia para evitar la consumación de un perjuicio irremediable. Se decide CONCEDER el amparo impetrado y en consecuencia, ordenar al ISS expedir resolución de reconocimiento y pago de la pensión de vejez a la accionante.",
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA PARA EL RECONOCIMIENTO DE PENSIÓN DE VEJEZ",
+      "subtema": "Procedencia excepcional para evitar un perjuicio irremediable"
+    },
+    {
+      "tema": "DERECHO AL MINIMO VITAL Y A LA SEGURIDAD SOCIAL",
+      "subtema": "Orden al ISS de reconocer y pagar pensión de vejez por cumplir con semanas cotizadas que no se tuvieron en cuenta por mora del empleador"
+    },
+    {
+      "tema": "PENSION DE VEJEZ",
+      "subtema": "Caso en que ISS niega reconocimiento y pago basado en inconsistencias presentadas en historia laboral respecto al periodo y número de semanas cotizadas"
+    },
+    {
+      "tema": "ENTIDAD ADMINISTRADORA DE PENSIONES",
+      "subtema": "Deber de custodia, conservación y guarda de la información concerniente al Sistema de Seguridad Social"
+    },
+    {
+      "tema": "HABEAS DATA",
+      "subtema": "Posibilidad de ejercerlo cuando se presenta inexactitud en historia laboral para solicitar pensión de vejez"
+    },
+    {
+      "tema": "DEBIDO PROCESO ADMINISTRATIVO EN MATERIA PENSIONAL",
+      "subtema": "Vulneración cuando no se resuelven derechos de petición del afiliado relacionados con el cumplimiento de los requisitos para acceder a pensión de vejez"
+    },
+    {
+      "tema": "REGIMEN PROBATORIO EN MATERIA DE TUTELA",
+      "subtema": "Los indicios como prueba de las cotizaciones al sistema de seguridad social en pensiones"
+    },
+    {
+      "tema": "MORA EN EL PAGO DE APORTES Y COTIZACIONES PENSIONALES",
+      "subtema": "No es admisible que la entidad administradora de pensiones alegue a su favor su propia negligencia en la implementación de las acciones de cobro"
+    },
+    {
+      "tema": "MORA EN EL PAGO DE APORTES Y COTIZACIONES PENSIONALES",
+      "subtema": "Obligación de las entidades administradoras de cobrar a los empleadores morosos los aportes adeudados"
+    }
+  ]
+}

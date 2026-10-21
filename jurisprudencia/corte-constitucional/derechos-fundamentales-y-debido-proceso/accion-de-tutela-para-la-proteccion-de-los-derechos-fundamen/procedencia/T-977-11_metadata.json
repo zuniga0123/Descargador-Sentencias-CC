@@ -1,0 +1,56 @@
+{
+  "radicado": "T-977-11",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2011,
+  "fecha_creacion": "2011-12-19",
+  "magistrado_ponente": "Gabriel Eduardo Mendoza Martelo",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCION DE TUTELA PARA LA PROTECCION DE LOS DERECHOS FUNDAMENTALES DE LA POBLACION DESPLAZADA",
+  "subtema": "Procedencia",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 387 de 1997",
+    "Decreto 2569 de 2000",
+    "Decreto Ley 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2011/T-977-11.htm",
+  "fecha_descarga": "2026-10-21T16:24:00.523190+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2011-12-19",
+  "fecha_publicacion": null,
+  "numero": "T-977/11",
+  "tipo_cc": "T",
+  "prov_id": "3080",
+  "tema_relatoria": null,
+  "resumen": "Petición, vida, dignidad humana, mínimo vital. En el presente asunto la Sala de Revisión analizó si Acción Social y la empresa Agua Dulce SA, vulneraron los derechos fundamentales invocados por la actora, en el primer caso por no incluirla en el Registro Único de Población Desplazada bajo el argumento de encontrar que su testimonio faltaba a la verdad y en el segundo caso, al no contestarle un derecho de petición relacionado con la solicitud de entrega del dinero que debía recibir por haberle derrumbado su casa. Se analiza la siguiente temática: 1º. Derecho de petición y procedencia de la acción de tutela frente a particulares. 2º. Procedencia de la acción de tutela como mecanismo para garantizar los derechos fundamentales de las personas desplazadas por la violencia y, 3º. Criterios que deben seguirse al momento de definir la solicitud de inscripción en el RUPD. Se CONCEDE la tutela solicitada y se imparten una serie de órdenes conducentes a hacer efectivo el goce de los derechos amparados.",
+  "titulaciones": [
+    {
+      "tema": "ACCION DE TUTELA PARA LA PROTECCION DE LOS DERECHOS FUNDAMENTALES DE LA POBLACION DESPLAZADA",
+      "subtema": "Procedencia"
+    },
+    {
+      "tema": "INSCRIPCION EN EL REGISTRO UNICO DE POBLACION DESPLAZADA",
+      "subtema": "Criterios y normas que deben tenerse en cuenta"
+    },
+    {
+      "tema": "DERECHO DE PETICION DE DESPLAZADOS",
+      "subtema": "Vulneración por parte de empresa particular al no dar respuesta de fondo, clara, precisa y completa de persona desplazada"
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA PARTICULARES",
+      "subtema": "Procedencia excepcional en casos en que el solicitante se encuentra en estado de subordinación o indefensión"
+    },
+    {
+      "tema": "DERECHO AL MINIMO VITAL Y A LA VIDA EN CONDICIONES DIGNAS DE LOS DESPLAZADOS",
+      "subtema": "Entrega inmediata de la ayuda humanitaria"
+    },
+    {
+      "tema": "REGISTRO UNICO DE POBLACION DESPLAZADA Y PRESUNCION DE BUENA FE DEL DECLARANTE DESPLAZADO",
+      "subtema": "Supone una inversión de la carga de la prueba respecto a los hechos generadores del desplazamiento"
+    }
+  ]
+}

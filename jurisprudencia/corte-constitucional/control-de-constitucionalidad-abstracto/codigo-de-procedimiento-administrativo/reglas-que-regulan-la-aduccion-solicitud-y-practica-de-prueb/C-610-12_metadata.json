@@ -1,0 +1,57 @@
+{
+  "radicado": "C-610-12",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2012,
+  "fecha_creacion": "2012-08-01",
+  "magistrado_ponente": "Luis Ernesto Vargas Silva",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "CODIGO DE PROCEDIMIENTO ADMINISTRATIVO",
+  "subtema": "Reglas que regulan la aducción, solicitud y práctica de pruebas de oficio o a petición del interesado durante la actuación administrativa",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 1437 de 2011",
+    "Decreto 2067 de 1991",
+    "Ley 600 de 2001",
+    "Ley 906 de 2004",
+    "Decreto Ley 1228 de 1995"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2012/C-610-12.htm",
+  "fecha_descarga": "2026-10-21T16:16:26.934148+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2012-08-01",
+  "fecha_publicacion": null,
+  "numero": "C-610/12",
+  "tipo_cc": "C",
+  "prov_id": "3883",
+  "tema_relatoria": "FALLO INHIBITORIO POR INEPTITUD SUSTANTIVA DE LA DEMANDA EN NORMA DE LA LEY 1437 DE 2011",
+  "resumen": "Demanda de Inconstitucionalidad contra el artículo 40 (parcial) de la Ley 1437 de 2011, por la cual se expide el Código de Procedimiento Administrativo y de lo Contencioso Administrativo”. El demandante considera que el aparte normativo acusado vulnera el artículo 29 y 150-2 de la Constitución, entre otros argumentos, porque suprime el derecho fundamental que tiene toda persona a presentar y controvertir las pruebas que se allegan en su contra en un proceso judicial. La Sala Plena concluye que la demanda no reúne las precisiones previstas el artículo 2º del Decreto 2067 de 1991, toda vez que carece de los requisitos de certeza, pertinencia y suficiencia para provocar un pronunciamiento de mérito. La Sala se Declara INHIBIDA para pronunciarse sobre la impugnación presentada respecto de la expresión “Contra el acto que decida la solicitud de prueba no proceden recursos” contenida en el inciso primero del artículo 40 de la ley 1437 de 2011, por ineptitud sustantiva de la demanda.",
+  "titulaciones": [
+    {
+      "tema": "CODIGO DE PROCEDIMIENTO ADMINISTRATIVO",
+      "subtema": "Reglas que regulan la aducción, solicitud y práctica de pruebas de oficio o a petición del interesado durante la actuación administrativa"
+    },
+    {
+      "tema": "DERECHO AL DEBIDO PROCESO",
+      "subtema": "Elementos"
+    },
+    {
+      "tema": "DERECHO AL DEBIDO PROCESO",
+      "subtema": "Diferencias que existen entre uno y otro procedimiento, derivadas de las distintas finalidades que persiguen"
+    },
+    {
+      "tema": "CODIGO DE PROCEDIMIENTO ADMINISTRATIVO",
+      "subtema": "Inhibición, por ineptitud sustantiva para pronunciarse sobre la demanda respecto de la expresión “Contra el acto que decida solicitud de pruebas no proceden recursos”"
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "Carga mínima de argumentación"
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "Requisitos de claridad, certeza, especificidad, pertinencia y suficiencia"
+    }
+  ]
+}

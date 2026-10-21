@@ -1,0 +1,43 @@
+{
+  "radicado": "T-768-11",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2011,
+  "fecha_creacion": "2011-10-13",
+  "magistrado_ponente": "Mauricio González Cuervo",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "DEFECTO MATERIAL O SUSTANTIVO",
+  "subtema": "Configuración",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Decreto 2282 de 1989",
+    "Ley 794 de 2003"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2011/T-768-11.htm",
+  "fecha_descarga": "2026-10-21T16:31:12.958553+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2011-10-13",
+  "fecha_publicacion": null,
+  "numero": "T-768/11",
+  "tipo_cc": "T",
+  "prov_id": "2803",
+  "tema_relatoria": null,
+  "resumen": "Debido proceso, tutela contra providencia judicial. Se incoa la acción de tutela contra la decisión adoptada por la Sala Laboral del Tribunal Superior de Medellín dentro de un proceso ejecutivo laboral, de dar trámite al recurso de apelación interpuesto en contra de la providencia que no admitió la oposición planteada por el abogado de los terceros poseedores en la diligencia de entrega del inmueble adjudicado en remate. A juicio de la parte actora, la autoridad judicial accionada decidió centrado en el desconocimiento de normas sustantivas aplicables al caso y omitió dar cumplimiento al control de legalidad al que estaba obligado, estudiando el recurso interpuesto, su viabilidad, procedencia y si se encontraba debidamente sustentado. La Sala de Revisión reitera jurisprudencia constitucional relacionada con la procedencia de la acción de tutela contra sentencias judiciales y las implicaciones del defecto sustantivo y con base en su análisis decide confirmar las decisiones de instancia que DENEGARON el amparo constitucional.",
+  "titulaciones": [
+    {
+      "tema": "DEFECTO MATERIAL O SUSTANTIVO",
+      "subtema": "Configuración"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Reiteración de jurisprudencia sobre requisitos generales y especiales de procedibilidad"
+    },
+    {
+      "tema": "DEBIDO PROCESO",
+      "subtema": "Decisión del Tribunal de dar aplicación al artículo 338 del C.P.C. no es irrazonable o desproporcionado en proceso de oposición a la entrega de bien inmueble adjudicado en remate"
+    }
+  ]
+}

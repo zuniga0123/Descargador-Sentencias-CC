@@ -1,0 +1,48 @@
+{
+  "radicado": "C-636-12",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2012,
+  "fecha_creacion": "2012-08-15",
+  "magistrado_ponente": "Gabriel Eduardo Mendoza Martelo",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "DEMANDA DE INCONSTITUCIONALIDAD",
+  "subtema": "Razones claras, ciertas, específicas, pertinentes y suficientes",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 1149 de 2007",
+    "Decreto 2067 de 1991",
+    "Ley 712 de 2001",
+    "Ley 1149 de 1997"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2012/C-636-12.htm",
+  "fecha_descarga": "2026-10-21T16:15:56.420254+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2012-08-15",
+  "fecha_publicacion": null,
+  "numero": "C-636/12",
+  "tipo_cc": "C",
+  "prov_id": "3912",
+  "tema_relatoria": "FALLO INHIBITORIO POR INEPTITUD SUSTANTIVA DE LA DEMANDA EN NORMA DE LA LEY 1149 DE 2007",
+  "resumen": "Demanda de inconstitucionalidad en contra de los artículos 3 y 5 de la Ley 1149 de 2007, por la cual se reforma el Código Procesal del Trabajo y de la Seguridad Social para hacer efectiva la oralidad en sus procesos. El demandante alega que el artículo 3 de la norma acusada vulnera el artículo 29 Superior, toda vez que excluye la posibilidad de que el demandante pueda controvertir las pruebas presentadas por la parte demandada en la contestación de la demanda. Igualmente alega una omisión legislativa, ya que el artículo 5 excluye los casos en los cuales el proceso se suspende en razón de la concesión del recurso de apelación en efecto suspensivo, cuando habiéndose concedido en efecto devolutivo, esté pendiente la decisión del superior, que podría influir en la sentencia definitiva. La Corte encontró que la demanda no cumple con los requisitos de claridad, certeza especificidad, pertinencia y conducencia para poder emitir un pronunciamiento de fondo. Se declara INHIBIDA.",
+  "titulaciones": [
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "Razones claras, ciertas, específicas, pertinentes y suficientes"
+    },
+    {
+      "tema": "CODIGO PROCESAL DEL TRABAJO Y SEGURIDAD SOCIAL",
+      "subtema": "Aplicación del principio de oralidad y publicidad"
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD SOBRE PRINCIPIO DE ORALIDAD, PUBLICIDAD Y SEÑALAMIENTO DE AUDIENCIAS EN PROCESO LABORAL",
+      "subtema": "Inhibición para pronunciamiento de fondo por ineptitud sustantiva de la demanda"
+    },
+    {
+      "tema": "REFORMA AL CODIGO PROCESAL DEL TRABAJO Y SEGURIDAD SOCIAL",
+      "subtema": "Señalamiento de audiencias"
+    }
+  ]
+}

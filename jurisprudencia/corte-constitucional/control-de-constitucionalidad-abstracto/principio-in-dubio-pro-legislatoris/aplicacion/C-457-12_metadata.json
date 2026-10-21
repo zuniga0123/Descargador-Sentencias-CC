@@ -1,0 +1,43 @@
+{
+  "radicado": "C-457-12",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2012,
+  "fecha_creacion": "2012-06-21",
+  "magistrado_ponente": "Luis Ernesto Vargas Silva",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "PRINCIPIO IN DUBIO PRO LEGISLATORIS",
+  "subtema": "Aplicación",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Acto Legislativo 3 de 2011",
+    "Decreto Ley 2067 de 1991",
+    "Ley 5 de 1992"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2012/C-457-12.htm",
+  "fecha_descarga": "2026-10-21T16:14:44.645767+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2012-06-21",
+  "fecha_publicacion": null,
+  "numero": "C-457/12",
+  "tipo_cc": "C",
+  "prov_id": "3686",
+  "tema_relatoria": "COSA JUZAGADA CONSTITUCIONAL EN SOSTENIBILIDAD FISCAL. APLICACIÓN DEL PRINCIPIO IN DUBIO PRO LEGISLATORIS",
+  "resumen": "Demanda de Inconstitucionalidad contra el Acto Legislativo 03 de 2011, Por el cual se establece el principio de sostenibilidad fiscal. Se alega en la demanda que se incurrió en un vicio de procedimiento en el trámite legislativo que precedió a la expedición del Acto Legislativo acusado. La Corte constató la existencia de cosa juzgada constitucional y en tal sentido decide ESTARSE A LO RESUELTO en la sentencia C-332/12.",
+  "titulaciones": [
+    {
+      "tema": "PRINCIPIO IN DUBIO PRO LEGISLATORIS",
+      "subtema": "Aplicación"
+    },
+    {
+      "tema": "ACTO LEGISLATIVO 3 DE 2011",
+      "subtema": "Existencia de cosa juzgada respecto del presunto vicio de forma relacionado con su adopción"
+    },
+    {
+      "tema": "SOSTENIBILIDAD FISCAL",
+      "subtema": "Cosa juzgada constitucional"
+    }
+  ]
+}

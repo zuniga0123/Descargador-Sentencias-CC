@@ -1,0 +1,46 @@
+{
+  "radicado": "C-1057-12",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2012,
+  "fecha_creacion": "2012-12-06",
+  "magistrado_ponente": "Alexei Julio Estrada",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "DERECHOS MINIMOS DE LOS TRABAJADORES",
+  "subtema": "Carácter irrenunciable",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Decreto 2067 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2012/C-1057-12.htm",
+  "fecha_descarga": "2026-10-21T16:10:57.187482+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2012-12-06",
+  "fecha_publicacion": null,
+  "numero": "C-1057/12",
+  "tipo_cc": "C",
+  "prov_id": "4427",
+  "tema_relatoria": "FALLO INHIBITORIO POR INEPTITUD SUSTANTIVA DE LA DEMANDA DE NORMA DE LA LEY 100 DE 1993",
+  "resumen": "Demanda de inconstitucionalidad contra los incisos cuarto y quinto del artículo 36 de la Ley 100 de 1993, por la cual se crea el Sistema de Seguridad Social Integral y se dictan otras disposiciones. El demandante considera que las normas acusadas, al excluir del régimen de transición a los beneficiarios por razón de la edad que se trasladaron del régimen de ahorro individual con solidaridad y regresaron al régimen de prima media con prestación definida, vulneran los derechos a la igualdad, el trabajo y la irrenunciabilidad de los derechos mínimos de los trabajadores consagrados en el preámbulo y los artículos 1, 13 y 53 de la Constitución. La Sala decide declararse INHIBIDA de emitir un pronunciamiento de fondo en relación con el cargo de violación del derecho a la igualdad, por ineptitud sustantiva de la demanda. Frente a los demás cargos, decide ESTARSE A LO RESUELTO en la sentencia C-789/02.",
+  "titulaciones": [
+    {
+      "tema": "DERECHOS MINIMOS DE LOS TRABAJADORES",
+      "subtema": "Carácter irrenunciable"
+    },
+    {
+      "tema": "REGIMEN DE TRANSICION EN MATERIA PENSIONAL",
+      "subtema": "Inhibición de pronunciamiento de fondo en relación con el cargo de violación del derecho a la igualdad"
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD POR VULNERACION DEL DERECHO A LA IGUALDAD",
+      "subtema": "Carga argumentativa adicional"
+    },
+    {
+      "tema": "SISTEMA GENERAL DE SEGURIDAD SOCIAL",
+      "subtema": "Edades requeridas para ser beneficiarios del régimen de transición y exclusión por cambio de régimen pensional"
+    }
+  ]
+}

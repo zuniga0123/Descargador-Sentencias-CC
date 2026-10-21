@@ -1,0 +1,48 @@
+{
+  "radicado": "T-753-11",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2011,
+  "fecha_creacion": "2011-10-06",
+  "magistrado_ponente": "Jorge Iván Palacio Palacio",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+  "subtema": "Se debe verificar en cada caso concreto requisitos generales como específicos para la procedencia",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 1395 de 2010",
+    "Ley 74 de 1968",
+    "Ley 16 de 1972"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2011/T-753-11.htm",
+  "fecha_descarga": "2026-10-21T16:30:42.481975+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2011-10-06",
+  "fecha_publicacion": null,
+  "numero": "T-753/11",
+  "tipo_cc": "T",
+  "prov_id": "2785",
+  "tema_relatoria": null,
+  "resumen": "Debido proceso, acceso a la justicia. Tutela contra providencia judicial. El demandante promovió un proceso ordinario laboral contra el ISS con el objetivo de que éste reliquidara su pensión de vejez, por cuanto al calcular el ingreso base de liquidación no tuvo en cuenta los salarios que efectivamente devengó y cotizó a dicho instituto, en virtud de la convención colectiva que suscribió con su empleador. La autoridad judicial de segunda instancia absolvió al demandado por considerar que no se podía forjar condena haciendo alusión a la convención colectiva de trabajo cuando no se había adosado este compendio al proceso de manera oportuna e idónea. En la acción de tutela se alega que la precitada decisión judicial incurrió en una vía de hecho, por no valorar la prueba aducida en el proceso, esto es, las copias de la convención colectiva. La Sala de Revisión se pronuncia sobre la procedencia excepcional de la acción de tutela contra providencias judiciales, el defecto fáctico en la jurisprudencia constitucional y el error inducido y decide CONCEDER el amparo solicitado.",
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Se debe verificar en cada caso concreto requisitos generales como específicos para la procedencia"
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA PROVIDENCIAS JUDICIALES POR DEFECTO \"ERROR INDUCIDO\" O \"VIA DE HECHO POR CONSECUENCIA\"",
+      "subtema": "Configuración"
+    },
+    {
+      "tema": "DERECHO AL DEBIDO PROCESO, ACCESO A LA ADMINISTRACION DE JUSTICIA Y SEGURIDAD SOCIAL",
+      "subtema": "Vulneración por error inducido al traspapelarse copias de convención colectiva en proceso ordinario contra el ISS para reliquidación pensión de vejez"
+    },
+    {
+      "tema": "DEFECTO FACTICO EN LA JURISPRUDENCIA CONSTITUCIONAL",
+      "subtema": "Reiteración de jurisprudencia"
+    }
+  ]
+}

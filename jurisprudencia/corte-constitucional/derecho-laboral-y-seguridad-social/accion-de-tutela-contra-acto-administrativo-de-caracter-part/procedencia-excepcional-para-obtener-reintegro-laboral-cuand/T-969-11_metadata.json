@@ -1,0 +1,44 @@
+{
+  "radicado": "T-969-11",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2011,
+  "fecha_creacion": "2011-12-16",
+  "magistrado_ponente": "Gabriel Eduardo Mendoza Martelo",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "ACCION DE TUTELA CONTRA ACTO ADMINISTRATIVO DE CARACTER PARTICULAR Y CONCRETO",
+  "subtema": "Procedencia excepcional para obtener reintegro laboral cuando se colige vulneración de derechos fundamentales o perjuicio irremediable",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto Ley 2400 de 1968",
+    "Decreto 2591 de 1991",
+    "Ley 100 de 1993",
+    "Decreto 3135 de 1968"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2011/T-969-11.htm",
+  "fecha_descarga": "2026-10-21T16:25:11.378105+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2011-12-16",
+  "fecha_publicacion": null,
+  "numero": "T-969/11",
+  "tipo_cc": "T",
+  "prov_id": "3072",
+  "tema_relatoria": null,
+  "resumen": "Seguridad social, mínimo vital. A través del Personero Municipal de Amagá, el demandante presentó la acción de tutela contra la Registraduría Nacional del Estado Civil alegando vulneración de sus derechos fundamentales, en tanto lo desvinculó del cargo que venía desempeñando en la entidad por haber cumplido la edad de retiro forzoso, sin que se hubiese reconocido la pensión de vejez y estuviera en la nómina de pensionados. En sede de revisión el ISS, seccional Antioquia allegó al proceso una prueba relacionada con la expedición de la resolución que reconoció la pensión al actor y en tal sentido la Sala de Revisión declaró la carencia actual de objeto por HECHO SUPERADO. Aunado a lo anterior, ordenó al ISS, en caso de no haberlo hecho, incluir al demandante en nómina a partir del momento en que acreditó el cumplimiento de requisitos para acceder a la pensión después de la desvinculación.",
+  "titulaciones": [
+    {
+      "tema": "ACCION DE TUTELA CONTRA ACTO ADMINISTRATIVO DE CARACTER PARTICULAR Y CONCRETO",
+      "subtema": "Procedencia excepcional para obtener reintegro laboral cuando se colige vulneración de derechos fundamentales o perjuicio irremediable"
+    },
+    {
+      "tema": "CARENCIA ACTUAL DE OBJETO POR HECHO SUPERADO",
+      "subtema": "Caso en que accionante quien fue despedido por edad de retiro forzoso ya le fue reconocida la pensión de vejez"
+    },
+    {
+      "tema": "EDAD DE RETIRO FORZOSO COMO CAUSAL DE DESVINCULACION DEL CARGO DE SERVIDORES PUBLICOS",
+      "subtema": "Deberá hacerse hasta tanto se le garantice el pago efectivo de su mesada pensional"
+    }
+  ]
+}

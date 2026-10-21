@@ -1,0 +1,46 @@
+{
+  "radicado": "T-927-11",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2011,
+  "fecha_creacion": "2011-12-07",
+  "magistrado_ponente": "Luis Ernesto Vargas Silva",
+  "area": "Derecho a la Salud",
+  "tema": "DERECHO FUNDAMENTAL A LA SALUD",
+  "subtema": "Protección constitucional especial",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 715 de 2001",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2011/T-927-11.htm",
+  "fecha_descarga": "2026-10-21T16:27:45.091746+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2011-12-07",
+  "fecha_publicacion": null,
+  "numero": "T-927/11",
+  "tipo_cc": "T",
+  "prov_id": "3010",
+  "tema_relatoria": null,
+  "resumen": "Salud, integridad física, vida digna. El accionante acudió de forma particular ante un médico cirujano general y de tórax, quien le diagnosticó pectus excavatum y como consecuencia de lo anterior, le prescribió unos exámenes especializados. La E.P.S. EMSSANAR, a la cual se encuentra afiliado en calidad de beneficiario del régimen subsidiado, negó la autorización de los servicios bajo el argumento de no estar cubiertos por el POS-S y no ser ordenados por un médico adscrito a ellos. La Sala establece que, si bien los exámenes ordenados no se encuentran incluidos en el Plan Obligatorio, éstos constituyen el único medio efectivo para tener conocimiento de la profundidad de la malformación que padece el actor y la forma de establecer cuál es el procedimiento que se debe seguir, por lo tanto, el que se niegue la práctica de dichos procedimientos pone en riesgo su vida y lau integridad física del actor y le restringe su derecho al diagnóstico. SE CONCEDE.",
+  "titulaciones": [
+    {
+      "tema": "DERECHO FUNDAMENTAL A LA SALUD",
+      "subtema": "Protección constitucional especial"
+    },
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Orden a EPS suministro de tratamiento integral del accionante quien padece malformación del tórax y podrá repetir contra la Secretaría de Salud del Departamento del Valle"
+    },
+    {
+      "tema": "MEDICO TRATANTE",
+      "subtema": "Concepto del médico tratante no adscrito a la EPS resulta vinculante"
+    },
+    {
+      "tema": "TRATAMIENTO MEDICO O MEDICAMENTO EXCLUIDO DEL POS",
+      "subtema": "Requisitos establecidos por la Corte Constitucional para solicitarlo mediante acción de tutela"
+    }
+  ]
+}

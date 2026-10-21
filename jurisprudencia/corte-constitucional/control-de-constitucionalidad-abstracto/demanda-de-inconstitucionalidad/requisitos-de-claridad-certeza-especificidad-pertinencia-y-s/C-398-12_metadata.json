@@ -1,0 +1,45 @@
+{
+  "radicado": "C-398-12",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2012,
+  "fecha_creacion": "2012-05-30",
+  "magistrado_ponente": "Mauricio González Cuervo I",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "DEMANDA DE INCONSTITUCIONALIDAD",
+  "subtema": "Requisitos de claridad, certeza, especificidad, pertinencia y suficiencia",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 1382 de 2010",
+    "Ley 685 de 2001",
+    "Ley 1450 de 2011",
+    "Decreto 2067 de 1991",
+    "Ley 21 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2012/C-398-12.htm",
+  "fecha_descarga": "2026-10-21T16:18:22.300221+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2012-05-30",
+  "fecha_publicacion": null,
+  "numero": "C-398/12",
+  "tipo_cc": "C",
+  "prov_id": "3611",
+  "tema_relatoria": "COSA JUZGADA CONSTITUCIONAL EN CONTROL A LA EXPLOTACION ILICITA DE MINERALES REGULADO EN LA LEY DEL PLAN NACIONAL DE DESARROLLO",
+  "resumen": "Demanda de inconstitucionalidad contra los artículos 106. 107 (parcial) y 112 de la Ley 1450 de 2011, por la cual se expide el Plan Nacional de Desarrollo 2010-2014. El demandante pretende que se declare la inexequibilidad de los contenidos normativos demandados por vicios de procedimiento, en cuanto se desconoció el requisito de la consulta previa y existió una omisión legislativa relacionada con minería informal. . El examen de constitucionalidad lo circunscribe la Corte al artículo 106 demandado, en razón a que fue el único respecto del cual encontró una argumentación mínima relacionada con el cargo analizado y los otros dos artículos acusados los excluyó del análisis por no cumplir con los requisitos mínimos exigidos en la Ley y precisados por la jurisprudencia constitucional. Frente al artículo 106 se decide ESTARSE A LO RESUELTO en la sentencia C-331/12 y respecto a los artículos 107 y 112 demandados decide INHIBIRSE de emitir un pronunciamiento de fondo por ineptitud sustantiva de la demanda.",
+  "titulaciones": [
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "Requisitos de claridad, certeza, especificidad, pertinencia y suficiencia"
+    },
+    {
+      "tema": "CONTROL A LA EXPLOTACION ILICITA DE MINERALES REGULADO EN LA LEY DEL PLAN NACIONAL DE DESARROLLO",
+      "subtema": "Cosa juzgada constitucional respecto de la no exigencia de consulta previa a comunidades étnicas"
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD POR VICIOS DE PROCEDIMIENTO",
+      "subtema": "Requisitos"
+    }
+  ]
+}

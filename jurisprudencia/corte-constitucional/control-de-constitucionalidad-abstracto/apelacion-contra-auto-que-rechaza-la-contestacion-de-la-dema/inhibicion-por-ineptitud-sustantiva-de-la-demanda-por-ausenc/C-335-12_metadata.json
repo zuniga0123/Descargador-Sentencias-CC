@@ -1,0 +1,47 @@
+{
+  "radicado": "C-335-12",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2012,
+  "fecha_creacion": "2012-05-09",
+  "magistrado_ponente": "Luis Ernesto Vargas Silva",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "APELACION CONTRA AUTO QUE RECHAZA LA CONTESTACION DE LA DEMANDA",
+  "subtema": "Inhibición por ineptitud sustantiva de la demanda por ausencia de especificidad y certeza",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 1395 de 2010",
+    "Decreto 2067 de 1991",
+    "Decreto Ley 2067 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2012/C-335-12.htm",
+  "fecha_descarga": "2026-10-21T16:22:16.266807+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2012-05-09",
+  "fecha_publicacion": null,
+  "numero": "C-335/12",
+  "tipo_cc": "C",
+  "prov_id": "3517",
+  "tema_relatoria": "FALLO INHIBITORIO POR INEPTITUD SUSTANTIVA DE LA DEMANDA EN NORMA DE LA LEY 1395 DE 2010",
+  "resumen": "Demanda de Inconstitucionalidad contra el artículo 14 de la Ley 1395 de 2010, por la cual se adoptan medidas en materia de descongestión judicial. Los demandantes consideran que la norma que establece que es susceptible de apelación el auto que rechaza la contestación de la demanda, es violatoria de los preceptos constitucionales y legales que contemplan el debido proceso y los derechos a la igualdad y al acceso a la justicia. Aducen que tal institución contraviene la Constitución por cuanto no existe en la ley causales ni procedimientos que orienten su implementación, convirtiendo el rechazo en una sanción en exceso gravosa para el demandado. La Corte encontró que la censura planteada no cuestiona directamente la facultad de interponer el recurso de apelación contra el auto que específicamente se menciona en el texto acusado, sino que se orienta a sugerir la inconstitucionalidad de la consagración implícita del rechazo de plano a la contestación de la demanda en el proceso civil. Por existir una ineptitud sustantiva de la demanda, la Sala se declara INHIBIDA para proferir pronunciamiento de fondo, por los cargos analizados.",
+  "titulaciones": [
+    {
+      "tema": "APELACION CONTRA AUTO QUE RECHAZA LA CONTESTACION DE LA DEMANDA",
+      "subtema": "Inhibición por ineptitud sustantiva de la demanda por ausencia de especificidad y certeza"
+    },
+    {
+      "tema": "MEDIDAS EN MATERIA DE DESCONGESTION JUDICIAL",
+      "subtema": "Apelación contra auto que rechaza la contestación de la demanda"
+    },
+    {
+      "tema": "ACCION PUBLICA DE INCONSTITUCIONALIDAD",
+      "subtema": "Requisitos y condiciones para su ejercicio"
+    },
+    {
+      "tema": "MEDIDAS EN MATERIA DE DESCONGESTION JUDICIAL",
+      "subtema": "Procedencia de apelación de autos y sentencias"
+    }
+  ]
+}

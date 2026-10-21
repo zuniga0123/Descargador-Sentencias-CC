@@ -1,0 +1,72 @@
+{
+  "radicado": "C-635-12",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2012,
+  "fecha_creacion": "2012-08-15",
+  "magistrado_ponente": null,
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "COSA JUZGADA CONSTITUCIONAL RELATIVA EXPLICITA O IMPLICITA",
+  "subtema": "Configuración",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 624 de 1989",
+    "Ley 75 de 1986",
+    "Ley 43 de 1987",
+    "Ley 1111 de 2006",
+    "Decreto 2067 de 1991",
+    "Ley 488 de 1998",
+    "Ley 270 de 1996",
+    "Ley 624 de 1989"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2012/C-635-12.htm",
+  "fecha_descarga": "2026-10-21T16:12:21.842562+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2012-08-15",
+  "fecha_publicacion": null,
+  "numero": "C-635/12",
+  "tipo_cc": "C",
+  "prov_id": "3911",
+  "tema_relatoria": "FALLO INHIBITORIO POR INEPTITUD SUSTANTIVA DE LA DEMANDA EN NORMA DEL ESTATUTO TRIBUTARIO",
+  "resumen": "Demanda de inconstitucionalidad contra el inciso 2 (parcial) del artículo 657 del Decreto 624 de 1989 “por el cual se expide el Estatuto Tributario de los impuestos administrados por la Dirección General de Impuestos Nacionales. Los demandantes solicitan que el aparte acusado sea declarado inexequible, alegando que vulnera el derecho a la igualdad consagrado en el Preámbulo y el artículo 13 de la Constitución Política. La Corte encontró que demanda no cumplía con los requisitos de claridad, certeza especificidad, pertinencia y conducencia para poder emitir un pronunciamiento de fondo y, en tal sentido, se declara INHIBIDA por ineptitud sustantiva de la demanda, respecto de la expresión “por evasión” contenida en el articulo impugnado.",
+  "titulaciones": [
+    {
+      "tema": "COSA JUZGADA CONSTITUCIONAL RELATIVA EXPLICITA O IMPLICITA",
+      "subtema": "Configuración"
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "Requisitos de claridad, certeza, especificidad, pertinencia y suficiencia"
+    },
+    {
+      "tema": "COSA JUZGADA ABSOLUTA Y COSA JUZGADA RELATIVA",
+      "subtema": "Diferencias"
+    },
+    {
+      "tema": "COSA JUZGADA CONSTITUCIONAL",
+      "subtema": "Jurisprudencia constitucional"
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD DE LA EXPRESION “POR EVASION” CONTENIDA EN EL INCISO 2 DEL ARTICULO 657 DEL ESTATUTO TRIBUTARIO",
+      "subtema": "Inhibición para decidir por ineptitud sustantiva de la demanda"
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD POR VULNERACION DEL DERECHO A LA IGUALDAD",
+      "subtema": "Carga argumentativa adicional"
+    },
+    {
+      "tema": "ESTATUTO TRIBUTARIO",
+      "subtema": "Casos en que se puede imponer sanción de clausura de establecimiento"
+    },
+    {
+      "tema": "PROPOSICION JURIDICA COMPLETA",
+      "subtema": "Definición"
+    },
+    {
+      "tema": "PROPOSICION JURIDICA COMPLETA",
+      "subtema": "Falta de integración"
+    }
+  ]
+}

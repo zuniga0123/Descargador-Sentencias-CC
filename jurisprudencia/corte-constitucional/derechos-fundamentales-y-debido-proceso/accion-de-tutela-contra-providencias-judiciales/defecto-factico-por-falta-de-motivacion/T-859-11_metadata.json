@@ -1,0 +1,59 @@
+{
+  "radicado": "T-859-11",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2011,
+  "fecha_creacion": "2011-11-15",
+  "magistrado_ponente": "Humberto Antonio Sierra Porto",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+  "subtema": "Defecto fáctico por falta de motivación",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Decreto 2665 de 1988",
+    "Decreto 692 de 1994",
+    "Decreto 2591 de 1991",
+    "Ley 906 de 2004",
+    "Ley 4 de 1992",
+    "Decreto 3063 de 1989"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2011/T-859-11.htm",
+  "fecha_descarga": "2026-10-21T16:27:26.390250+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2011-11-15",
+  "fecha_publicacion": null,
+  "numero": "T-859/11",
+  "tipo_cc": "T",
+  "prov_id": "2915",
+  "tema_relatoria": null,
+  "resumen": "Debido proceso, seguridad social, trabajo en condiciones dignas. Tutela contra sentencia judicial. Dentro de un proceso tramitado ante la jurisdicción ordinaria laboral, la Corte Suprema de Justicia profirió sentencia de casación mediante la cual estableció que las cotizaciones efectuadas a nombre del accionante eran inválidas, en vista de que no se acreditó la existencia de una relación laboral entre éste y las empresas que efectuaron las cotizaciones, lo que calificó en armonía con lo señalado por el ISS, como una defraudación al sistema. El actor alega que la Sala Laboral de la Corte al dictar la sentencia en mención, incurrió en defecto sustantivo y en defecto por motivación insuficiente. La Sala considera que la sentencia atacada no incurrió en ninguno de los defectos alegados y en tal sentido NIEGA el amparo solicitado y se declara la firmeza de la sentencia proferida por la Sala Laboral de la Corte Suprema, dentro del proceso ordinario laboral iniciado por el actor en contra del ISS.",
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Defecto fáctico por falta de motivación"
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA PROVIDENCIA DE LA CORTE SUPREMA DE JUSTICIA",
+      "subtema": "No incurrió en defectos sustancial y por carencia de motivación en proceso ordinario de invalidez de cotizaciones al ISS, por no existir relación laboral"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Evolución y reiteración de jurisprudencia"
+    },
+    {
+      "tema": "COTIZACION AL SISTEMA DE PENSIONES COMO OBLIGACION DERIVADA DE LA CONDICION DE AFILIADO",
+      "subtema": "Clasificación de trabajadores dependientes e independientes y parámetros generales"
+    },
+    {
+      "tema": "NATURALEZA DE LAS COTIZACIONES EN EL SISTEMA DE SEGURIDAD SOCIAL",
+      "subtema": "Obligación de que las cotizaciones como trabajador dependiente e independiente correspondan realmente a la situación laboral del afiliado"
+    },
+    {
+      "tema": "DEFECTO MATERIAL O SUSTANTIVO",
+      "subtema": "Configuración"
+    }
+  ]
+}

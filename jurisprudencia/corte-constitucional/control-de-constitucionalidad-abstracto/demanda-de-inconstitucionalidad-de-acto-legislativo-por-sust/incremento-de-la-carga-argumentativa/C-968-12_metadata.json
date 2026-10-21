@@ -1,0 +1,51 @@
+{
+  "radicado": "C-968-12",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2012,
+  "fecha_creacion": "2012-11-21",
+  "magistrado_ponente": "Jorge Iván Palacio Palacio",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "DEMANDA DE INCONSTITUCIONALIDAD DE ACTO LEGISLATIVO POR SUSTITUCION DE LA CONSTITUCION",
+  "subtema": "Incremento de la carga argumentativa",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2067 de 1991",
+    "Acto Legislativo 5 de 2011",
+    "Ley 796 de 2003"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2012/C-968-12.htm",
+  "fecha_descarga": "2026-10-21T16:10:26.205293+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2012-11-21",
+  "fecha_publicacion": null,
+  "numero": "C-968/12",
+  "tipo_cc": "C",
+  "prov_id": "4323",
+  "tema_relatoria": "FALLO INHIBITORIO POR INEPTITUD SUSTANTIVA DE LA DEMANDA DEL ACTO LEGISLATIVO 05p DE 2011",
+  "resumen": "Demanda de inconstitucionalidad contra el Acto Legislativo 05 de 2001, por el cual se constituye el Sistema General de Regalías, se modifica los artículos 360 y 361 de la Constitución Política y se dictan otras disposiciones sobre el Régimen de Regalías y Compensaciones. Los actores presentan la demanda de inconstitucionalidad contra el Acto Legislativo 05/2011 por incurrir en un vicio de competencia que terminó por sustituir la Constitución. La Corte evidenció la ausencia de los requisitos exigidos para pronunciarse sobre la inconstitucionalidad de un acto reformatorio de la Constitución y en tal sentido resolvió INHIBIRSE para emitir pronunciamiento de fondo.",
+  "titulaciones": [
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD DE ACTO LEGISLATIVO POR SUSTITUCION DE LA CONSTITUCION",
+      "subtema": "Incremento de la carga argumentativa"
+    },
+    {
+      "tema": "ACCION DE INCONSTITUCIONALIDAD CONTRA ACTO LEGISLATIVO",
+      "subtema": "Término de caducidad"
+    },
+    {
+      "tema": "CONTROL DE CONSTITUCIONALIDAD DE ACTO LEGISLATIVO",
+      "subtema": "Competencia de la Corte Constitucional solo por vicios de procedimiento"
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD CONTRA ACTOS LEGISLATIVOS POR VICIOS DE COMPETENCIA",
+      "subtema": "Requisitos"
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD CONTRA EL ACTO LEGISLATIVO 5 DE 2011 SOBRE SISTEMA GENERAL DE REGALIAS, SE MODIFICAN LOS ARTICULOS 360 Y 361 DE LA CONSTITUCION POLITICA",
+      "subtema": "Inhibición por ineptitud sustantiva de la demanda"
+    }
+  ]
+}
