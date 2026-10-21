@@ -1,0 +1,48 @@
+{
+  "radicado": "C-096-13",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2013,
+  "fecha_creacion": "2013-02-27",
+  "magistrado_ponente": "Luis Guillermo Guerrero Pérez",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "DEMANDA DE INCONSTITUCIONALIDAD POR OMISION LEGISLATIVA EN NORMA DE CARRERA DE LA POLICIA NACIONAL SOBRE ASCENSO DEL PERSONAL RESTABLECIDO EN FUNCIONES",
+  "subtema": "Cumplía requisitos para un pronunciamiento de fondo",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 1791 de 2000",
+    "Ley 578 de 2000",
+    "Decreto Ley 1791 de 2000",
+    "Decreto 573 de 1995"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2013/C-096-13.htm",
+  "fecha_descarga": "2026-10-21T15:00:44.726037+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2013-02-27",
+  "fecha_publicacion": null,
+  "numero": "C-096/13",
+  "tipo_cc": "C",
+  "prov_id": "4617",
+  "tema_relatoria": "FALLO INHIBITORIO POR INEPTITUD SUSTANTIVA DE LA DEMANDA DE NORMA DEL DECRETO 1791 DE 2000",
+  "resumen": "Demanda de inconstitucionalidad contra el artículo 52 parcial del Decreto 1791 de 2000, por medio del cual se modifican las normas de carrera del personal de Oficiales nivel Ejecutivo, Suboficiales y Agentes de la Policía Nacional. El demandante afirma que la disposición acusada contempla beneficios de orden laboral para el personal de la Policía Nacional que ha sido suspendido en virtud de un proceso penal y posteriormente restablecido por absolución, preclusión, cesación o revocatoria de la medida de aseguramiento y no para quienes han sido excluidos por decisión de la propia institución y luego reintegrados por orden de la justicia administrativa. Aduce, que en el primer caso los miembros de la Policía Nacional tienen derecho a que los ascensos se efectúen en las mismas condiciones de los compañeros de curso o promoción, mientras que en el segundo caso no tienen derecho a estos beneficios. La Sala concluye que no se cumple con las exigencias argumentativas de las demandas de inconstitucionalidad y por ello decide declararse INHIBIDA para emitir decisión de fondo.",
+  "titulaciones": [
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD POR OMISION LEGISLATIVA EN NORMA DE CARRERA DE LA POLICIA NACIONAL SOBRE ASCENSO DEL PERSONAL RESTABLECIDO EN FUNCIONES",
+      "subtema": "Cumplía requisitos para un pronunciamiento de fondo"
+    },
+    {
+      "tema": "INHIBICION DE LA CORTE CONSTITUCIONAL EN DEMANDA DE INCONSTITUCIONALIDAD POR OMISION LEGISLATIVA RELATIVA",
+      "subtema": "Improcedencia"
+    },
+    {
+      "tema": "NORMA SOBRE ASCENSO DE OFICIALES, NIVEL EJECUTIVO Y SUBOFICIALES DE LA POLICIA NACIONAL, RESTABLECIDOS EN FUNCIONES",
+      "subtema": "Inhibición por ausencia de certeza y suficiencia en el cargo de inconstitucionalidad por omisión legislativa relativa"
+    },
+    {
+      "tema": "NORMAS DE CARRERA DEL PERSONAL DE OFICIALES, NIVEL EJECUTIVO, SUBOFICIALES Y AGENTES DE LA POLICIA",
+      "subtema": "Ascenso del personal restablecido en funciones"
+    }
+  ]
+}

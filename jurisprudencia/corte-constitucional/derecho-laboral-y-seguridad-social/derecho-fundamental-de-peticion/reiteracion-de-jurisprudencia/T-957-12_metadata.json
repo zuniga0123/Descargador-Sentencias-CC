@@ -1,0 +1,53 @@
+{
+  "radicado": "T-957-12",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2012,
+  "fecha_creacion": "2012-11-20",
+  "magistrado_ponente": "Mauricio González Cuervo",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "DERECHO FUNDAMENTAL DE PETICION",
+  "subtema": "Reiteración de jurisprudencia",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Ley 33 de 1973",
+    "Decreto 2591 de 1991",
+    "Decreto 1848 de 1969",
+    "Ley 1437 de 2011"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2012/T-957-12.htm",
+  "fecha_descarga": "2026-10-21T15:13:59.578479+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2012-11-20",
+  "fecha_publicacion": "2013-07-26",
+  "numero": "T-957/12",
+  "tipo_cc": "T",
+  "prov_id": "4319",
+  "tema_relatoria": null,
+  "resumen": "Debido proceso administrativo. Se acumulan expedientes por unidad de materia. En un asunto se analiza la posible vulneración de derechos fundamentales por parte del FONCEP, al resolver una reclamación de la sustitución pensional presentada en el 2011, manteniendo lo decidido sobre el mismo asunto en el año 2005, sin tener en cuenta que la situación fáctica del peticionario había cambiado sustancialmente. En el otro caso la violación de derechos fundamentales se le endilga a la Alcaldía de Montería, en tanto le negó a la actora el reconocimiento de la sustitución pensional, alegando que no existe la sustitución de la sustitución pensional y, que el derecho a reclamar la sustitución se había extinguido. Para resolver los problemas jurídicos planteados la Sala analiza temática relacionada con la procedencia excepcional de la acción de tutela para reclamar el reconocimiento y pago de un derecho de naturaleza pensional, el derecho a la sustitución pensional y el alcance del derecho de petición. Se CONCEDEN los amparos constitucionales invocados.",
+  "titulaciones": [
+    {
+      "tema": "DERECHO FUNDAMENTAL DE PETICION",
+      "subtema": "Reiteración de jurisprudencia"
+    },
+    {
+      "tema": "ACCION DE TUTELA EN MATERIA PENSIONAL",
+      "subtema": "Procedencia excepcional"
+    },
+    {
+      "tema": "SUSTITUCIÓN PENSIONAL",
+      "subtema": null
+    },
+    {
+      "tema": "DERECHO DE PETICION Y DEBIDO PROCESO ADMINISTRATIVO",
+      "subtema": "Orden a la Alcaldía Municipal de Montería adelantar el procedimiento para el reconocimiento y pago de la sustitución pensional de la accionante"
+    },
+    {
+      "tema": "SUSTITUCIÓN PENSIONAL",
+      "subtema": "Fecha de estructuración de la invalidez de la agenciada sea anterior a la de la muerte de su padre"
+    }
+  ]
+}

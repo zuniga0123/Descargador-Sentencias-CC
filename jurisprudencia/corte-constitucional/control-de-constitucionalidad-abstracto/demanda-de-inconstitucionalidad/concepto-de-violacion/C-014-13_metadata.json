@@ -1,0 +1,55 @@
+{
+  "radicado": "C-014-13",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2013,
+  "fecha_creacion": "2013-01-23",
+  "magistrado_ponente": "María Victoria Calle Correa",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "DEMANDA DE INCONSTITUCIONALIDAD",
+  "subtema": "Concepto de violación",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2067 de 1991",
+    "Ley 1520 de 2012",
+    "Ley 48 de 1975",
+    "Ley 170 de 1994",
+    "Ley 23 de 1982",
+    "Ley 270 de 1996",
+    "Ley 719 de 2001"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2013/C-014-13.htm",
+  "fecha_descarga": "2026-10-21T15:00:18.427391+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2013-01-23",
+  "fecha_publicacion": null,
+  "numero": "C-014/13",
+  "tipo_cc": "C",
+  "prov_id": "4498",
+  "tema_relatoria": "COSA JUZGADA CONSTITUCIONAL EN IMPLEMENTACION DE COMPROMISOS ADQUIRIDOS EN VIRTUD DEL ACUERDO DE PROMOCION COMERCIAL ENTRE LA REPUBLICA DE COLOMBIA Y LOS ESTADOS UNIDOS DE AMERICA Y SU PROTOCOLO MODIFICATORIO",
+  "resumen": "Demanda de inconstitucionalidad contra los artículos 13 y 14 de la Ley 1520 de 2012, por medio de la cual se implementan compromisos adquiridos por virtud del Acuerdo de Promoción Comercial suscrito entre la República de Colombia y los Estados Unidos de América y su Protocolo modificatorio, en el marco de la política de comercio exterior e integración económica. Los demandantes consideran que la norma, al prohibir la retransmisión a través de Internet de señales de televisión (terrestre, cable o satélite), sin la autorización del titular del contenido de la señal, impide el acceso gratuito a la misma, desconoce la función principal de establecer las condiciones para alcanzar una igualdad real y efectiva entre todas las personas y coarta varios derechos. Luego de constatar la existencia de cosa juzgada constitucional, en virtud de que la norma demandada fue declarada inexequible y retirada del ordenamiento jurídico en una providencia previa, se decide ESTARSE A LO RESUELTO en la sentencia C-011/13.",
+  "titulaciones": [
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "Concepto de violación"
+    },
+    {
+      "tema": "COSA JUZGADA CONSTITUCIONAL",
+      "subtema": "Definición"
+    },
+    {
+      "tema": "IMPLEMENTACION DE COMPROMISOS ADQUIRIDOS EN VIRTUD DEL ACUERDO DE PROMOCION COMERCIAL ENTRE LA REPUBLICA DE COLOMBIA Y LOS ESTADOS UNIDOS DE AMERICA Y SU PROTOCOLO MODIFICATORIO",
+      "subtema": "Cosa juzgada constitucional"
+    },
+    {
+      "tema": "COSA JUZGADA CONSTITUCIONAL",
+      "subtema": "Tipos"
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "Requisitos mínimos"
+    }
+  ]
+}

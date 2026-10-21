@@ -1,0 +1,44 @@
+{
+  "radicado": "T-216-12",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2012,
+  "fecha_creacion": "2012-03-20",
+  "magistrado_ponente": "Nilson Pinilla Pinilla",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "DERECHO A LA SEGURIDAD SOCIAL EN PENSIONES",
+  "subtema": "Protección constitucional",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Decreto 917 de 1999",
+    "Decreto 2463 de 2001",
+    "Ley 100 de 1993"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2012/T-216-12.htm",
+  "fecha_descarga": "2026-10-21T15:15:51.712233+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2012-03-20",
+  "fecha_publicacion": null,
+  "numero": "T-216/12",
+  "tipo_cc": "T",
+  "prov_id": "3357",
+  "tema_relatoria": null,
+  "resumen": "Derecho de petición. Se interpone la acción de tutela para solicitar que se ordene al BBVA HORIZONTE PENSIONES Y CESANTIAS S.A. calificar dentro del término legal la pérdida de la capacidad laboral del accionante, con el objeto de conocer su situación jurídica frente al sistema de seguridad social y poder acceder eventualmente a una pensión de invalidez. La Corte precisa que en el caso concreto el derecho vulnerado fue el de petición, pues si bien, al actor se le respondió la solicitud elevada, ésta no agotó su esencia pues no resolvió de fondo lo pedido, de manera que no constituyó un acto completo que se pudiera confutar y ejercer frente a él, las acciones correspondientes. Se TUTELA el derecho de petición del actor con respecto a la negativa de la accionada de calificar su estado de invalidez y, en tal sentido, se ordena realizar la valoración de acuerdo con las normas legales vigentes al momento de estructuración de la invalidez.",
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA SEGURIDAD SOCIAL EN PENSIONES",
+      "subtema": "Protección constitucional"
+    },
+    {
+      "tema": "DERECHO DE PETICIÓN",
+      "subtema": "Orden a BBVA Horizonte realice calificación de invalidez para obtener indemnización o pensión de invalidez del accionante"
+    },
+    {
+      "tema": "PENSION DE INVALIDEZ Y MINIMO VITAL",
+      "subtema": "Conexidad"
+    }
+  ]
+}

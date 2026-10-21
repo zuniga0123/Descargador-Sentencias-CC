@@ -1,0 +1,41 @@
+{
+  "radicado": "T-117A-13",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2013,
+  "fecha_creacion": "2013-03-12",
+  "magistrado_ponente": "Mauricio González Cuervo I",
+  "area": "Derecho a la Salud",
+  "tema": "DERECHO A LA SALUD Y A LA VIDA DIGNA DE ADULTO MAYOR",
+  "subtema": "Vulneración por EPS por decisión de reemplazar el suministro de oxígeno en pipetas por un generador de oxígeno que opera con energía eléctrica, sin contar con la precaria situación económica del pacient",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2013/T-117A-13.htm",
+  "fecha_descarga": "2026-10-21T14:56:56.834775+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2013-03-12",
+  "fecha_publicacion": null,
+  "numero": "T-117A/13",
+  "tipo_cc": "T",
+  "prov_id": "4649",
+  "tema_relatoria": null,
+  "resumen": "Vida, salud, vida digna, seguridad social. En este caso se inicia la acción de tutela en representación de una persona de 79 años de edad que padece una Enfermedad Pulmonar Obstructiva Crónica (EPOC) y que requiere del suministro artificial de una elevada concentración de oxígeno las veinticuatro horas del día. Se pretende con la acción constitucional que se ordene a la accionada autorizar el cambio de un concentrador eléctrico de oxígeno medicinal por balas portátiles, toda vez que el referido equipo consume mucha energía y ni la accionante, ni sus familiares tienen el dinero para asumir el costo de este servicio público, además de que el fluido eléctrico en la zona de residencia de la peticionaria presenta frecuentemente interrupciones prolongadas. En sede de revisión se constató que el servicio de oxígeno domiciliario en cilindros de gas se le está brindando a la paciente agenciada de manera continua y en razón a esto la Sala decide declarar la CARENCIA ACTUAL DE OBJETO POR HECHO SUPERADO. Pese a lo anterior, se advierte a la accionada que no puede incurrir nuevamente en la conducta vulneradora del derecho fundamental a la salud de la agenciada, so pena de las sanciones pertinentes.",
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA SALUD Y A LA VIDA DIGNA DE ADULTO MAYOR",
+      "subtema": "Vulneración por EPS por decisión de reemplazar el suministro de oxígeno en pipetas por un generador de oxígeno que opera con energía eléctrica, sin contar con la precaria situación económica del pacient"
+    },
+    {
+      "tema": "CARENCIA ACTUAL DE OBJETO POR HECHO SUPERADO",
+      "subtema": "Se restableció el suministro de oxígeno en pipetas de gas"
+    },
+    {
+      "tema": "HECHO SUPERADO",
+      "subtema": "No se configuró, por cuanto EPS no procedió voluntariamente a restablecer los derechos de la accionante, solo dio cumplimiento a medida provisional de suministrar oxígeno"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "radicado": "T-002-13",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2013,
+  "fecha_creacion": "2013-01-11",
+  "magistrado_ponente": "Mauricio González Cuervo I",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "PENSIÓN DE INVALIDEZ",
+  "subtema": "Se debió ordenar una nueva valoración de la pérdida de la capacidad, de acuerdo con el avance o el deterioro del estado de salud del accionante",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 758 de 1990",
+    "Decreto 2591 de 1991",
+    "Decreto 2195 de 1994",
+    "Ley 100 de 1993",
+    "Ley 797 de 2003",
+    "Ley 860 de 2003"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2013/T-002-13.htm",
+  "fecha_descarga": "2026-10-21T14:58:15.514876+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2013-01-11",
+  "fecha_publicacion": null,
+  "numero": "T-002/13",
+  "tipo_cc": "T",
+  "prov_id": "4485",
+  "tema_relatoria": null,
+  "resumen": "Al actor se le calificó la pérdida de la capacidad laboral en un porcentaje del 68.90% y el ISS le negó el reconocimiento y pago de la pensión reclamada, argumentando el incumplimiento del requisito de las cincuenta semanas de cotización al Sistema General de Pensiones, antes de la fecha de estructuración de la invalidez. La Sala de Revisión recuerda los requisitos establecidos por la Ley para el reconocimiento del derecho a la pensión de invalidez y decide TUTELAR los derechos fundamentales a la seguridad social, al mínimo vital, petición y al debido proceso administrativo del actor y en consecuencia, ordenar el reconocimiento y pago de la pensión de invalidez solicitada.",
+  "titulaciones": [
+    {
+      "tema": "PENSIÓN DE INVALIDEZ",
+      "subtema": "Se debió ordenar una nueva valoración de la pérdida de la capacidad, de acuerdo con el avance o el deterioro del estado de salud del accionante"
+    },
+    {
+      "tema": "ACCION DE TUTELA PARA RECONOCIMIENTO DE PENSION DE INVALIDEZ",
+      "subtema": "Procedencia excepcional por afectación al mínimo vital y vida digna de sujetos de especial protección"
+    },
+    {
+      "tema": "DERECHO DE PETICION Y DEBIDO PROCESO ADMINISTRATIVO",
+      "subtema": "Vulneración por ISS al no resolver de manera oportuna los recursos de vía gubernativa de acto que negó pensión de invalidez"
+    },
+    {
+      "tema": "DERECHO A LA PENSIÓN DE INVALIDEZ",
+      "subtema": "Inaplicación del requisito de 50 semanas cotizadas con anterioridad a la fecha de estructuración por cuanto el accionante, a pesar de la enfermedad padecida, continuó cotizando al sistema"
+    },
+    {
+      "tema": "PENSIÓN DE INVALIDEZ",
+      "subtema": "Requisitos para obtener reconocimiento y pago"
+    }
+  ]
+}

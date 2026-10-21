@@ -1,0 +1,60 @@
+{
+  "radicado": "C-128-13",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2013,
+  "fecha_creacion": "2013-03-13",
+  "magistrado_ponente": "Mauricio González Cuervo",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "ACCION DE INCONSTITUCIONALIDAD CONTRA ACTOS REFORMATORIOS DE LA CONSTITUCION",
+  "subtema": "Caducidad",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Acto Legislativo 1 de 2003",
+    "Ley 5 de 1992",
+    "Decreto 2067 de 1991",
+    "Acto Legislativo 1 de 2011"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2013/C-128-13.htm",
+  "fecha_descarga": "2026-10-21T15:07:30.199377+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2013-03-13",
+  "fecha_publicacion": null,
+  "numero": "C-128/13",
+  "tipo_cc": "C",
+  "prov_id": "4663",
+  "tema_relatoria": "COSA JUZGADA CONTITUCIONAL EN INAPLICACION DE CONFLICTO DE INTERESES A CONGRESISTAS CUANDO PARTICIPEN EN DEBATE Y APROBACION DE ACTOS LEGISLATIVOS",
+  "resumen": "Demanda de inconstitucionalidad contre el Acto Legislativo 01 de 2011, por el cual se adiciona el parágrafo del artículo 183 de la Constitución Política de Colombia. Se acumulan demandas por unidad de materia. Las demandas se fundamentan en la existencia de un vicio de competencia en la expedición del acto legislativo que determinaría, en consecuencia, su inexequibilidad. La Corte verificó la existencia de cosa juzgada constitucional y, en tal sentido, decidió ESTARSE A LO RESUELTO en la sentencia C-1056/12, en la cual se declaró inexequible el acto legislativo acusado.",
+  "titulaciones": [
+    {
+      "tema": "ACCION DE INCONSTITUCIONALIDAD CONTRA ACTOS REFORMATORIOS DE LA CONSTITUCION",
+      "subtema": "Caducidad"
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD CONTRA ACTOS LEGISLATIVOS",
+      "subtema": "Requisitos"
+    },
+    {
+      "tema": "CADUCIDAD DE LA ACCION PUBLICA DE INCONSTITUCIONALIDAD CONTRA ACTO LEGISLATIVO",
+      "subtema": "Término"
+    },
+    {
+      "tema": "CADUCIDAD DE LA ACCION PUBLICA DE INCONSTITUCIONALIDAD CONTRA ACTO LEGISLATIVO",
+      "subtema": "Contabilización del término"
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD CONTRA ACTOS LEGISLATIVOS",
+      "subtema": "Exclusión por cargos denominados vicios materiales o de fondo"
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD CONTRA ACTOS LEGISLATIVOS",
+      "subtema": "Cargos por vicios de procedimiento en su formación"
+    },
+    {
+      "tema": "INAPLICACION DE CONFLICTO DE INTERESES A CONGRESISTAS CUANDO PARTICIPEN EN DEBATE Y APROBACION DE ACTOS LEGISLATIVOS",
+      "subtema": "Existencia de cosa juzgada constitucional respecto de la inconstitucionalidad del acto legislativo 1 de 2011"
+    }
+  ]
+}

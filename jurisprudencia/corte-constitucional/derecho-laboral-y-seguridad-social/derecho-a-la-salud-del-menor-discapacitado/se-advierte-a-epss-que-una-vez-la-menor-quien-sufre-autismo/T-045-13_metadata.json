@@ -1,0 +1,53 @@
+{
+  "radicado": "T-045-13",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2013,
+  "fecha_creacion": "2013-02-01",
+  "magistrado_ponente": "Gabriel Eduardo Mendoza Martelo",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "DERECHO A LA SALUD DEL MENOR DISCAPACITADO",
+  "subtema": "Se advierte a EPSS que una vez la menor quien sufre autismo y epilepsia, cumpla 18 años, deberá continuar afiliada y los honorarios de la Junta de Calificación serán asumidos por la EPS",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Decreto 2463 de 2001",
+    "Decreto 4942 de 2009",
+    "Ley 715 de 2001",
+    "Decreto 2591 de 1991",
+    "Decreto 806 de 1998",
+    "Decreto 1295 de 1994",
+    "Decreto 2463 de 2011",
+    "Decreto 2364 de 2001"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2013/T-045-13.htm",
+  "fecha_descarga": "2026-10-21T14:58:52.815413+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2013-02-01",
+  "fecha_publicacion": null,
+  "numero": "T-045/13",
+  "tipo_cc": "T",
+  "prov_id": "4537",
+  "tema_relatoria": null,
+  "resumen": "Se inicia la acción de tutela en representación de una menor de edad que tiene 17 años de edad y padece de autismo y epilepsia. Aduce la accionante, madre de la niña, que para que su hija pueda continuar vinculada al Sistema de Salud como su beneficiaria, aún después de llegar a la mayoría de edad, debe iniciar un proceso de interdicción, para lo cual requiere el dictamen de la pérdida de capacidad funcional de la menor, motivo por el que solicitó a la Junta Regional de Calificación de Invalidez del Valle del Cauda, realizar la valoración correspondiente pero sin la cancelación del valor de los honorarios respectivos, en razón a la situación de debilidad manifiesta en la que se encuentra la menor. La Sala analiza temática relacionada con la cobertura en salud de hijos mayores de 18 años con discapacidad, el derecho que tienen las Juntas de Calificación de Invalidez a recibir honorarios y sobre quien debe asumir este costo. Se decide confirmar la decisión de instancia que NEGÓ el amparo solicitado, pero se advierte a la E.P.S.S en la cual se encuentra afiliada la menor representada, que una vez ésta cumpla su mayoría de edad, conserve el derecho de mantener la vinculación al Sistema de Seguridad Social en Salud, debido a su condición de discapacidad y, que de requerir ser valorada para acreditar tal condición, el trámite y sus costos deben ser asumidos por dicha empresa.",
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA SALUD DEL MENOR DISCAPACITADO",
+      "subtema": "Se advierte a EPSS que una vez la menor quien sufre autismo y epilepsia, cumpla 18 años, deberá continuar afiliada y los honorarios de la Junta de Calificación serán asumidos por la EPS"
+    },
+    {
+      "tema": "JUNTA DE CALIFICACIÓN DE INVALIDEZ",
+      "subtema": "Honorarios corresponde reconocerlos a la entidad de previsión a que esté afiliado el solicitante"
+    },
+    {
+      "tema": "HIJOS MAYORES DE 18 AÑOS CON INCAPACIDAD PERMANENTE",
+      "subtema": "Cobertura en salud"
+    },
+    {
+      "tema": "HONORARIOS DE LAS JUNTAS DE CALIFICACION DE INVALIDEZ",
+      "subtema": "Prohibición de asumir el costo a los usuarios como condición para acceder al servicio"
+    }
+  ]
+}

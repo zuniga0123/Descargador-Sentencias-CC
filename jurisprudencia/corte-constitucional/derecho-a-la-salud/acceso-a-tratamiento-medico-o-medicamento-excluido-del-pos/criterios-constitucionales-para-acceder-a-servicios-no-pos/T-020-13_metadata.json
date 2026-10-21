@@ -1,0 +1,53 @@
+{
+  "radicado": "T-020-13",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2013,
+  "fecha_creacion": "2013-01-25",
+  "magistrado_ponente": "Luis Ernesto Vargas Silva",
+  "area": "Derecho a la Salud",
+  "tema": "ACCESO A TRATAMIENTO MEDICO O MEDICAMENTO EXCLUIDO DEL POS",
+  "subtema": "Criterios constitucionales para acceder a servicios no POS",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 1122 de 2007",
+    "Ley 715 de 2001",
+    "Ley 100 de 1993",
+    "Decreto 806 de 1998"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2013/T-020-13.htm",
+  "fecha_descarga": "2026-10-21T14:58:34.100134+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2013-01-25",
+  "fecha_publicacion": null,
+  "numero": "T-020/13",
+  "tipo_cc": "T",
+  "prov_id": "4508",
+  "tema_relatoria": null,
+  "resumen": "Salud, vida digna. En el presente caso el problema jurídico a resolver está encaminado a determinar si las entidades accionadas vulneraron derechos fundamentales de una afiliada al régimen subsidiado de salud, al no prestarle los servicios que requiere por afrontar conflictos administrativos entre ellas, que hacen que se trasladen unas a otras la responsabilidad de la atención médica, alegando que la patología que presenta la paciente es un evento NO POS. La Sala de Revisión reitera reglas jurisprudenciales relativas a: 1º. La protección constitucional del derecho fundamental a la salud. 2º. El acceso a los a los servicios excluidos del plan obligatorio de beneficios. 3º. El alcance de las obligaciones de las entidades que intervienen en la prestación de los servicios de salud en el régimen subsidiado y 4º. El derecho al diagnóstico como componente integral del derecho a la salud. Se CONCEDE la protección solicitada y se imparten una serie de órdenes conducentes a hacer efectivo el goce de los derechos protegidos.",
+  "titulaciones": [
+    {
+      "tema": "ACCESO A TRATAMIENTO MEDICO O MEDICAMENTO EXCLUIDO DEL POS",
+      "subtema": "Criterios constitucionales para acceder a servicios no POS"
+    },
+    {
+      "tema": "DERECHO FUNDAMENTAL A LA SALUD",
+      "subtema": "Protección constitucional especial"
+    },
+    {
+      "tema": "DERECHO A LA SALUD Y AL DIAGNÓSTICO",
+      "subtema": "Reiteración de jurisprudencia"
+    },
+    {
+      "tema": "DERECHO A LA SALUD EN REGIMEN SUBSIDIADO",
+      "subtema": "Orden a entidades responsables la entrega de medicamentos y examen de electrocardiograma"
+    },
+    {
+      "tema": "OBLIGACIONES EXIGIBLES A LAS EPS DEL REGIMEN SUBSIDIADO EN LA PRESTACION DE SERVICIOS POS-S Y NO POS-S Y ENTES TERRITORIALES RESPONSABLES",
+      "subtema": "Alcance"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "radicado": "T-643-13",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2013,
+  "fecha_creacion": "2013-09-16",
+  "magistrado_ponente": "Nilson Pinilla Pinilla",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+  "subtema": "Requisitos generales y especiales de procedibilidad",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 1142 de 2007",
+    "Ley 906 de 2004",
+    "Ley 599 de 2000",
+    "Ley 65 de 1993"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2013/T-643-13.htm",
+  "fecha_descarga": "2026-10-21T14:54:00.763670+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2013-09-16",
+  "fecha_publicacion": null,
+  "numero": "T-643/13",
+  "tipo_cc": "T",
+  "prov_id": "5330",
+  "tema_relatoria": null,
+  "resumen": "Debido proceso. Tutela contra providencia judicial. En este caso se analiza si las decisiones judiciales proferidas dentro de un proceso penal iniciado en contra del actor que condujeron a la negación de la sustitución de la pena, constituyeron vulneración de derechos fundamentales. Se reitera jurisprudencia constitucional relacionada con la procedencia excepcional de la acción de tutela contra providencias judiciales, los presupuestos para la sustitución de la pena de prisión en centro carcelario y se decide confirmar las decisiones de instancia que declararon la IMPROCEDENCIA del amparo solicitado.",
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Requisitos generales y especiales de procedibilidad"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Improcedencia por cuanto Juzgado tuvo razones suficientes para negar sustitución de prisión domiciliaria con vigilancia electrónica"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Improcedencia por regla general"
+    },
+    {
+      "tema": "SUSTITUCION DE EJECUCION DE LA PENA DE PRISION EN CENTRO CARCELARIO POR PRISION HOSPITALARIA",
+      "subtema": "Requisitos"
+    },
+    {
+      "tema": "SUSTITUCION DE EJECUCION DE LA PENA DE PRISION EN CENTRO CARCELARIO POR PRISION DOMICILIARIA",
+      "subtema": "Presupuestos"
+    }
+  ]
+}

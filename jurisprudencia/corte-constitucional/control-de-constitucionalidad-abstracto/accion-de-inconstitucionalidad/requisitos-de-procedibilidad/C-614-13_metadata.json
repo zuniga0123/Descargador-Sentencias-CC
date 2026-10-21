@@ -1,0 +1,48 @@
+{
+  "radicado": "C-614-13",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2013,
+  "fecha_creacion": "2013-09-04",
+  "magistrado_ponente": "Mauricio Gonzalez Cuervo I",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "ACCION DE INCONSTITUCIONALIDAD",
+  "subtema": "Requisitos de procedibilidad",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 1592 de 2012",
+    "Ley 975 de 2005",
+    "Decreto 2067 de 1991",
+    "Ley 782 de 2002"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2013/C-614-13.htm",
+  "fecha_descarga": "2026-10-21T15:06:30.067004+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2013-09-04",
+  "fecha_publicacion": null,
+  "numero": "C-614/13",
+  "tipo_cc": "C",
+  "prov_id": "5285",
+  "tema_relatoria": "FALLO INHIBITORIO POR INEPTITUD SUSTANTIVA DE LA DEL DEMANDA DE NORMA DE LA LEY 1592 DE 2012",
+  "resumen": "Demanda de inconstitucionalidad contra los incisos segundo y tercero del artículo 26 de la Ley 1592 de 2012, por medio de la cual se introducen modificaciones a la Ley 975 de 2005 la que a su vez dictó disposiciones para la reincorporación de miembros de grupos armados organizados al margen de la ley que contribuyan de manera efectiva a la consecución de la paz nacional y, se dictan otras disposiciones para acuerdos humanitarios y se dictó otras disposiciones. El demandante considera que las normas acusadas vulneran el artículo 29 de la Constitución. La Sala encontró deficiencias en los cargos formulados y esto le impidió efectuar un examen y adoptar una decisión de fondo. Decidió declararse INHIBIDA por ineptitud sustantiva de la demanda.",
+  "titulaciones": [
+    {
+      "tema": "ACCION DE INCONSTITUCIONALIDAD",
+      "subtema": "Requisitos de procedibilidad"
+    },
+    {
+      "tema": "INHIBICION DE LA CORTE CONSTITUCIONAL",
+      "subtema": "Configuración por ineptitud sustantiva de la demanda"
+    },
+    {
+      "tema": "COSA JUZGADA MATERIAL",
+      "subtema": "Requisitos para su configuración"
+    },
+    {
+      "tema": "INHIBICION DE LA CORTE CONSTITUCIONAL POR INEPTITUD SUSTANTIVA DE LA DEMANDA",
+      "subtema": "Incumplimiento de requisitos de claridad, certeza, pertinencia y suficiencia en los cargos"
+    }
+  ]
+}

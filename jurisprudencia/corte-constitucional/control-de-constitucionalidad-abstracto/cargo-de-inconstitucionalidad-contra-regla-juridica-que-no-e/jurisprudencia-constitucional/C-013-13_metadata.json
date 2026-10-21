@@ -1,0 +1,54 @@
+{
+  "radicado": "C-013-13",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2013,
+  "fecha_creacion": "2013-01-23",
+  "magistrado_ponente": "María Victoria Calle Correa",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "CARGO DE INCONSTITUCIONALIDAD CONTRA REGLA JURIDICA QUE NO ESTA CONTENIDA EN NORMA ACUSADA",
+  "subtema": "Jurisprudencia constitucional",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto Ley 19 de 2012",
+    "Decreto 2067 de 1991",
+    "Ley 640 de 2001",
+    "Ley 1250 de 1970",
+    "Ley 270 de 1996",
+    "Ley 446 de 1998",
+    "Ley 1474 de 2011",
+    "Decreto 19 de 2012",
+    "Ley 546 de 1999",
+    "Decreto 2700 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2013/C-013-13.htm",
+  "fecha_descarga": "2026-10-21T15:00:22.057865+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2013-01-23",
+  "fecha_publicacion": null,
+  "numero": "C-013/13",
+  "tipo_cc": "C",
+  "prov_id": "4497",
+  "tema_relatoria": "FALLO INHIBITORIO POR INEPTITUD SUSTANTIVA DE LA DEMANDA DE NORMA DEL DECRETO LEY 019 DE 2012",
+  "resumen": "Demanda de inconstitucionalidad contra el artículo 90 del Decreto Ley 019 de 2012, por el cual se dictan normas para suprimir o reformar regulaciones, procedimientos y trámites innecesarios existentes en la Administración Pública. Los demandantes consideran que la norma acusada viola el artículo 84 de la Constitución, en la medida que exige un trámite que se estima innecesario. Así mismo consideran que vulnera el artículo 83 superior, al poner en duda la voluntad de las partes y el artículo 229, al impedir y obstaculizar el acceso a la justicia. Por último consideran que la norma demandada desconoce la división del poder en las tres ramas del poder público y la facultar de investir a los particulares de la función de administrar justicia, pues restan valor a la decisión que un particular, en calidad de administrador judicial, tome respecto a los derechos de otras personas. La Corte reitera la jurisprudencia establecida en la sentencia C-634/12 en el sentido que, acusar el artículo 90 del Decreto Ley 019 de 2012 de imponer al acta de conciliación el requisito de constituirse en escritura pública, es un cargo que carece de certeza, pues acusa un contenido normativo supuesto por los accionantes y no una regla jurídica que efectivamente se deriva del artículo acusado. La Sala se declara INHIBIDA para decidir de fondo.",
+  "titulaciones": [
+    {
+      "tema": "CARGO DE INCONSTITUCIONALIDAD CONTRA REGLA JURIDICA QUE NO ESTA CONTENIDA EN NORMA ACUSADA",
+      "subtema": "Jurisprudencia constitucional"
+    },
+    {
+      "tema": "NORMAS PARA SUPRIMIR TRAMITES INNECESARIOS EXISTENTES EN LA ADMINISTRACION PUBLICA",
+      "subtema": "Actas de conciliación"
+    },
+    {
+      "tema": "ACTA DE CONCILIACION EXTRAJUDICIAL",
+      "subtema": "Contenido y alcance"
+    },
+    {
+      "tema": "ACTAS DE CONCILIACION",
+      "subtema": "Inhibición para decidir de fondo por falta de certeza"
+    }
+  ]
+}

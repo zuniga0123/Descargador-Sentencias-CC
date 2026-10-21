@@ -1,0 +1,47 @@
+{
+  "radicado": "T-003-13",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2013,
+  "fecha_creacion": "2013-01-11",
+  "magistrado_ponente": "Mauricio González Cuervo",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "ACCION DE TUTELA PARA RECONOCIMIENTO DE PENSION DE INVALIDEZ",
+  "subtema": "Procedencia excepcional por afectación al mínimo vital y vida digna de sujetos de especial protección",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Ley 860 de 2003",
+    "Decreto 2591 de 1991",
+    "Decreto 2195 de 1994",
+    "Ley 797 de 2003",
+    "Decreto 917 de 1999",
+    "Decreto 692 de 1995"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2013/T-003-13.htm",
+  "fecha_descarga": "2026-10-21T14:58:19.126637+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2013-01-11",
+  "fecha_publicacion": null,
+  "numero": "T-003/13",
+  "tipo_cc": "T",
+  "prov_id": "4486",
+  "tema_relatoria": null,
+  "resumen": "En este caso se aduce vulneración de derechos fundamentales por parte del Instituto de Seguros Sociales al negar el reconocimiento de una pensión de invalidez, por no acreditar el asegurado las cincuenta semanas de cotización en los tres años anteriores a la fecha de estructuración de la incapacidad. La solicitud de amparo fue negada en sus dos instancias por el incumplimiento de los requisitos de inmediatez y subsidiariedad y, por la falta de certeza de la titularidad del derecho. La Corte decide NEGAR el derecho solicitado, en tanto se demostró que la conducta de la entidad accionada estuvo acorde con la legislación vigente, en la medida que la negativa de la prestación se dio por el incumplimiento de los requisitos que la ley exige para su reconocimiento.",
+  "titulaciones": [
+    {
+      "tema": "ACCION DE TUTELA PARA RECONOCIMIENTO DE PENSION DE INVALIDEZ",
+      "subtema": "Procedencia excepcional por afectación al mínimo vital y vida digna de sujetos de especial protección"
+    },
+    {
+      "tema": "ACCION DE TUTELA PARA RECONOCIMIENTO DE PENSION DE INVALIDEZ",
+      "subtema": "Improcedencia por no cumplir requisito de haber cotizado al menos 50 semanas en los 3 años anteriores a la estructuración de invalidez"
+    },
+    {
+      "tema": "PENSIÓN DE INVALIDEZ",
+      "subtema": "Requisitos para obtener reconocimiento y pago"
+    }
+  ]
+}

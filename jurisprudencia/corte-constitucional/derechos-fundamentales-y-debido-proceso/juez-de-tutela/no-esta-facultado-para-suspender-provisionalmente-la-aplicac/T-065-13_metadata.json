@@ -1,0 +1,57 @@
+{
+  "radicado": "T-065-13",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2013,
+  "fecha_creacion": "2013-02-08",
+  "magistrado_ponente": "María Victoria Calle Correa",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "JUEZ DE TUTELA",
+  "subtema": "No está facultado para suspender provisionalmente la aplicación de una norma con efectos erga omnes",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto Ley 19 de 2012",
+    "Decreto 1382 de 2000",
+    "Decreto 2591 de 1991",
+    "Ley 472 de 1998",
+    "Decreto Ley 1 de 1984",
+    "Ley 1474 de 2011",
+    "Ley 1437 de 2011",
+    "Ley 860 de 1993",
+    "Ley 100 de 1993"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2013/T-065-13.htm",
+  "fecha_descarga": "2026-10-21T14:56:19.225112+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2013-02-08",
+  "fecha_publicacion": null,
+  "numero": "T-065/13",
+  "tipo_cc": "T",
+  "prov_id": "4565",
+  "tema_relatoria": null,
+  "resumen": "En el presente caso se interpone la acción de tutela en contra del Ministerio de Transporte alegando vulneración de los derechos a la salud pública, el medio ambiente sano y la vida, en tanto dispuso, con carácter general en una circular y de conformidad con el artículo 202 del Decreto Ley 019 de 2012, que no se debía exigir la revisión técnico mecánica a aquellos vehículos particulares que no hubiesen cumplido seis años contados a partir de la matrícula. A juicio del actor, dicha actuación constituyó un retroceso en seguridad vial y protección al medio ambiente, porque la revisión técnico mecánica configura la única manera de verificar si los vehículos tienen condiciones óptimas de funcionamiento, así como los niveles de combustión permitidos. La Sala de Revisión concluyó que la acción de tutela era IMPROCEDENTE, primero, porque el actor persiguió exclusivamente la protección de intereses difusos de personas indeterminables, sin demostrar alguna relación real con un derecho fundamental. Segundo, porque para proteger derechos colectivos se puede acudir a otras acciones judiciales, máxime cuando no se busca impedir un perjuicio irremediable y, tercero, porque se persiguió la protección de derechos supuestamente conculcados por una circular con carácter general, abstracto e impersonal.",
+  "titulaciones": [
+    {
+      "tema": "JUEZ DE TUTELA",
+      "subtema": "No está facultado para suspender provisionalmente la aplicación de una norma con efectos erga omnes"
+    },
+    {
+      "tema": "PERJUICIO IRREMEDIABLE",
+      "subtema": "Características"
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA EL MINISTERIO DE TRANSPORTE",
+      "subtema": "Improcedencia de suspender la circular de revisión técnico mecánica a vehículos particulares que no han cumplidos seis (6) años a partir de la matrícula"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Improcedencia para protección de derechos colectivos"
+    },
+    {
+      "tema": "DERECHOS E INTERESES COLECTIVOS",
+      "subtema": "Juez debe declarar improcedente la acción de tutela si no se demuestra que existe conexidad con un derecho fundamental"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "radicado": "T-345-13",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2013,
+  "fecha_creacion": "2013-06-14",
+  "magistrado_ponente": "María Victoria Calle Correa",
+  "area": "Derecho a la Salud",
+  "tema": "CONCEPTO CIENTIFICO DEL MEDICO TRATANTE",
+  "subtema": "Es el principal criterio para establecer si se requiere un servicio de salud",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2013/T-345-13.htm",
+  "fecha_descarga": "2026-10-21T14:59:26.254050+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2013-06-14",
+  "fecha_publicacion": null,
+  "numero": "T-345/13",
+  "tipo_cc": "T",
+  "prov_id": "4952",
+  "tema_relatoria": null,
+  "resumen": "Con la presente acción de tutela se solicita ordenar a las entidades accionadas practicarle al actor la cirugía reconstructiva maxilofacial que requiere, como procedimiento idóneo para avanzar en la recuperación integral de su salud, la cual se vio afectada tras ser sometido a una intervención quirúrgica para removerle un tumor maligno localizado en el labio superior y en la mejilla derecha. Alega el accionante que la demora en la práctica de la cirugía atenta contra sus derechos fundamentales y le imposibilita llevar una vida en condiciones dignas. El Instituto Nacional de Cancerología adujo que el actor es beneficiario de un tratamiento de quimioterapia y que de acuerdo al concepto de la Junta Médica Multidisciplinaria Oncológica realizada, se descartó el procedimiento quirúrgico reconstructivo, porque en casos como estos, se presenta una alta tasa de morbimortalidad sin que se mejore la calidad de vida del paciente. La Sala concluye que, una entidad encargada de los servicios de salud no vulnera el derecho a la salud de una persona al negarse a practicarle una intervención quirúrgica de la cual dependa la vida digna del paciente, pero de la que puede derivarse un inminente riesgo para su vida. No obstante precisa que, en estos casos la persona tiene el derecho a que se adopten las medidas transitorias de protección integral y a que se practique el servicio del cual depende su dignidad humana, una vez se den las condiciones idóneas para ello. Pese a NEGAR el amparo solicitado, ordena a Capital Salud E.PS. S realizar una valorización continua e integral de las condiciones físicas del demandante, para determinar con base en ello la eventual pertinencia o no del procedimiento solicitado, a partir del avance en sus condiciones de salud.",
+  "titulaciones": [
+    {
+      "tema": "CONCEPTO CIENTIFICO DEL MEDICO TRATANTE",
+      "subtema": "Es el principal criterio para establecer si se requiere un servicio de salud"
+    },
+    {
+      "tema": "CONCEPTO CIENTIFICO DEL MEDICO TRATANTE",
+      "subtema": "Comité Técnico científico puede controvertirlo si cuenta con argumentos de carácter científico sustentados en mejor información"
+    },
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Médico tratante es el único capaz de determinar la idoneidad de un tratamiento médico"
+    },
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Entidad responsable puede negar la práctica de un procedimiento o un tratamiento médico cuya prestación ponga en riesgo la vida y la integridad del paciente"
+    },
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Orden a EPS realizar tratamiento integral y una vez se den las condiciones para la realización de la cirugía reconstructiva maxilofacial, sea practicada al accionante sin dilaciones"
+    },
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "No vulneración por EPSS al negarse a practicar cirugía reconstructiva maxilofacial, por existir una alta probabilidad de muerte del accionante"
+    },
+    {
+      "tema": "JUEZ CONSTITUCIONAL",
+      "subtema": "No puede valorar un tratamiento médico"
+    },
+    {
+      "tema": "TRATAMIENTO MEDICO",
+      "subtema": "Juez solo puede ordenar lo indicado por el médico tratante"
+    }
+  ]
+}

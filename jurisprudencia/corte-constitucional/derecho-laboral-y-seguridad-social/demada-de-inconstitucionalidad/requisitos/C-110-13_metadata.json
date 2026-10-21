@@ -1,0 +1,54 @@
+{
+  "radicado": "C-110-13",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2013,
+  "fecha_creacion": "2013-03-06",
+  "magistrado_ponente": "Jorge Ignacio Pretelt Chaljub",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "DEMADA DE INCONSTITUCIONALIDAD",
+  "subtema": "Requisitos",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Decreto 2067 de 1991",
+    "Ley 860 de 2003",
+    "Decreto 100 de 1980",
+    "Ley 61 de 1993",
+    "Ley 333 de 1996"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2013/C-110-13.htm",
+  "fecha_descarga": "2026-10-21T15:01:10.945133+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2013-03-06",
+  "fecha_publicacion": null,
+  "numero": "C-110/13",
+  "tipo_cc": "C",
+  "prov_id": "4632",
+  "tema_relatoria": "FALLO INHIBITORIO POR INEPTITUD SUSTANTIVA DE LA DEMANDA DE NORMA DE LA LEY 100 DE 1993",
+  "resumen": "Demanda de inconstitucionalidad contra el artículo 39 parcial de la Ley 100 de 1993. considera la demandante que en la norma acusada el legislador desconoció la Constitución, al establecer requisitos para acceder a la pensión de invalidez, tales como las semanas de cotización y la afiliación al Sistema General de Pensiones. La Corte reiteró la necesidad de precisión y claridad en el objeto de la demanda y en las razones de violación de La Constitución, para poder emitir una decisión de fondo. Asimismo, adujo que la alusión a casos particulares o la discrepancia sobre un sistema de seguridad social no permiten estructurar un cargo apto de inconstitucionalidad. La Sala decide declararse INHIBIDA para decidir de fondo, por ineptitud sustantiva de la demanda.",
+  "titulaciones": [
+    {
+      "tema": "DEMADA DE INCONSTITUCIONALIDAD",
+      "subtema": "Requisitos"
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "Casos particulares o discrepancia sobre un sistema de seguridad social no permiten estructurar un cargo apto de inconstitucionalidad"
+    },
+    {
+      "tema": "REQUISITO DE SEMANAS MINIMAS DE COTIZACION PARA OBTENER LA PENSION DE INVALIDEZ",
+      "subtema": "Inhibición para decidir de fondo por ineptitud sustantiva de la demanda"
+    },
+    {
+      "tema": "SISTEMA DE SEGURIDAD SOCIAL INTEGRAL",
+      "subtema": "Requisito de semanas mínimas de cotización para obtener la pensión de invalidez"
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "Razones claras, ciertas, específicas, pertinentes y suficientes"
+    }
+  ]
+}

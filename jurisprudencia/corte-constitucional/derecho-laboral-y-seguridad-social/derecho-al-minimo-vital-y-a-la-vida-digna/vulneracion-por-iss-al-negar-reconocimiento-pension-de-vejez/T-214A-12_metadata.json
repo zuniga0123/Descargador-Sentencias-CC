@@ -1,0 +1,42 @@
+{
+  "radicado": "T-214A-12",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2012,
+  "fecha_creacion": "2012-03-20",
+  "magistrado_ponente": "Mauricio González Cuervo I",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "DERECHO AL MINIMO VITAL Y A LA VIDA DIGNA",
+  "subtema": "Vulneración por ISS al negar reconocimiento pensión de vejez al accionante por traslado a Fondo, el cual no se consolidó",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 100 de 1993"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2012/T-214A-12.htm",
+  "fecha_descarga": "2026-10-21T15:15:48.022223+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2012-03-20",
+  "fecha_publicacion": null,
+  "numero": "T-214A/12",
+  "tipo_cc": "T",
+  "prov_id": "3356",
+  "tema_relatoria": null,
+  "resumen": "Seguridad social, mínimo vital. El demandante cotizó para pensiones al ISS durante más de treinta años y de manera posterior radicó solicitud de afiliación a la AFP PROTECCION S.A., la cual no se tramitó, porque le faltaban menos de diez años para cumplir la edad para tener derecho a la pensión de vejez. El actor radicó ante el Instituto de Seguro Social la solicitud de reconocimiento y pago de su pensión de vejez y esta entidad denegó la pretensión, argumentando que el Comité de Multivinculación resolvió que dicho instituto no era el competente para conceder la prestación, sino la AFP PROTECCION. La Sala concluye que, el derecho a la seguridad social se tutela constitucionalmente como derecho fundamental, en cuanto de su reconocimiento y satisfacción depende la realización del mínimo vital de las personas, en conexidad con el derecho a la vida en condiciones dignas. En relación a la libre elección de afiliación por parte de los usuarios a cualquiera de los regímenes pensionales legales, recuerda que está limitada para quienes se encuentren a diez años o menos de cumplir la edad para obtener la prestación de vejez. En el caso concreto indica que, como la AFP PROTECCION negó debidamente la solicitud de traslado de régimen pensional al peticionario, la institución que está obligada a reconocer y pagar la pensión de vejez es la administradora a la que estaba vinculado el peticionario al momento de reunir los requisitos legalmente establecidos, esto es, el ISS. Se CONCEDE la tutela y se ordena al accionado atender la solicitud impetrada por el actor, en los términos legales y jurisprudenciales vigentes, haciendo caso omiso del concepto proferido por su Comité de Multiafiliación y, de encontrar que cumple con los requisitos para la pensión de vejez, reconocer este derecho y proceder a la inclusión en la nómina de pensionados.",
+  "titulaciones": [
+    {
+      "tema": "DERECHO AL MINIMO VITAL Y A LA VIDA DIGNA",
+      "subtema": "Vulneración por ISS al negar reconocimiento pensión de vejez al accionante por traslado a Fondo, el cual no se consolidó"
+    },
+    {
+      "tema": "PENSION DE VEJEZ",
+      "subtema": "Caso en que se vulneraron derechos al mínimo vital y seguridad social al no reconocer derecho pensional, por cuanto traslado del ISS a Porvenir no se consolidó"
+    },
+    {
+      "tema": "REGIMEN PENSIONAL",
+      "subtema": "Prohibición de traslado cuando falten 10 años o menos para cumplir la edad requerida para obtener la pensión de vejez"
+    }
+  ]
+}

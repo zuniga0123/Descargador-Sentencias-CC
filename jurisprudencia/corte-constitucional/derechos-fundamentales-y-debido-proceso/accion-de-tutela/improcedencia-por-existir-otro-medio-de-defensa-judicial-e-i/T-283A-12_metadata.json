@@ -1,0 +1,53 @@
+{
+  "radicado": "T-283A-12",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2012,
+  "fecha_creacion": "2012-04-12",
+  "magistrado_ponente": "Mauricio Gonzalez Cuervo I",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCIÓN DE TUTELA",
+  "subtema": "Improcedencia por existir otro medio de defensa judicial e inexistencia de un perjuicio irremediable",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2012/T-283A-12.htm",
+  "fecha_descarga": "2026-10-21T15:16:13.971953+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2012-04-12",
+  "fecha_publicacion": null,
+  "numero": "T-283A/12",
+  "tipo_cc": "T",
+  "prov_id": "3447",
+  "tema_relatoria": null,
+  "resumen": "Vivienda digna, acceso a la administración de justicia. Los accionantes adquirieron una vivienda de interés social en un barrio de Cartagena ubicado en una zona geográfica de alto riesgo, hecho que ha causado la destrucción progresiva del inmueble. La vivienda fue financiada por entidades bancarias que otorgaron préstamos hipotecarios y, como consecuencia de la mora en el pago de las cuotas por parte de los demandantes, se inició un proceso ejecutivo hipotecario dentro del cual se produjo la adjudicación del inmueble a Bancolombia. De manera paralela, los miembros de la comunidad afectada, incluidos los accionantes, iniciaron una acción popular y una de grupo con el fin de lograr la protección de sus derechos colectivos. Se pretende con la acción de tutela que se ordene no llevar a cabo la diligencia de entrega del inmueble al adjudicatario, hasta tanto se dicte sentencia definitiva en las otras acciones constitucionales en curso. La Sala de Revisión concluye que la tutela resulta improcedente por no cumplirse el requisito de inmediatez y por no acreditarse la inminencia de un perjuicio irremediable de naturaleza iusfundamental. Se DENIEGA el amparo impetrado.",
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Improcedencia por existir otro medio de defensa judicial e inexistencia de un perjuicio irremediable"
+    },
+    {
+      "tema": "LEGITIMACIÓN POR ACTIVA EN TUTELA",
+      "subtema": "Requisito de procedibilidad"
+    },
+    {
+      "tema": "PRINCIPIO DE INMEDIATEZ COMO REQUISITO DE PROCEDIBILIDAD DE LA ACCION DE TUTELA",
+      "subtema": null
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Subsidiariedad"
+    },
+    {
+      "tema": "DERECHO A LA VIVIENDA DIGNA",
+      "subtema": "Caso en que no se demostró perjuicio irremediable"
+    },
+    {
+      "tema": "PRINCIPIO DE INMEDIATEZ COMO REQUISITO DE PROCEDIBILIDAD DE LA ACCION DE TUTELA",
+      "subtema": "Debe ponderarse bajo el criterio del plazo razonable y oportuno"
+    }
+  ]
+}

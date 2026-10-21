@@ -1,0 +1,48 @@
+{
+  "radicado": "T-470-12",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2012,
+  "fecha_creacion": "2012-06-22",
+  "magistrado_ponente": "Mauricio González Cuervo",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "POBLACION DESPLAZADA",
+  "subtema": "Sujetos de especial protección constitucional",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 387 de 1997",
+    "Ley 1448 de 2011",
+    "Ley 986 de 2005"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2012/T-470-12.htm",
+  "fecha_descarga": "2026-10-21T15:13:55.973083+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2012-06-22",
+  "fecha_publicacion": "2013-08-16",
+  "numero": "T-470/12",
+  "tipo_cc": "T",
+  "prov_id": "3717",
+  "tema_relatoria": null,
+  "resumen": "En este asunto la conducta que causa la vulneración de derechos fundamentales está ligada a las actuaciones judiciales adelantadas en el marco de un proceso ejecutivo en contra de los accionantes, en el que se ordenó un remate y se aceptó la adjudicación del inmueble objeto de litigio, sin tener en cuenta que eran sujetos de especial protección constitucional debido a su condición de desplazados y víctimas de la violencia. Se pretende con la acción de tutela que se declare nula la cesión de derechos en litigio y la diligencia del remate realizado en el proceso ejecutivo hipotecario. Así mismo, que se ordene la suspensión el proceso ejecutivo hasta tanto se de trámite al proceso penal por secuestro y extorsión que se adelanta en la Fiscalía y tener la oportunidad de refinanciar el valor del inmueble objeto de litigio. Luego de reiterar jurisprudencia relacionada con la procedencia de la acción de tutela contra providencias judiciales y la especial protección constitucional de la población desplazada, la Sala decide confirmar las decisiones de instancia que NEGARON el amparo de los derechos fundamentales invocados.",
+  "titulaciones": [
+    {
+      "tema": "POBLACION DESPLAZADA",
+      "subtema": "Sujetos de especial protección constitucional"
+    },
+    {
+      "tema": "ACCION DE TUTELA DE PERSONA DESPLAZADA CONTRA ENTIDAD BANCARIA",
+      "subtema": "Caso en el cual accionante en su condición de desplazado pretende la extinción de obligaciones financieras y/o crediticias adquiridas"
+    },
+    {
+      "tema": "ACCION DE TUTELA DE PERSONA DESPLAZADA CONTRA ENTIDAD BANCARIA",
+      "subtema": "Improcedente por constatarse que proceso ejecutivo hipotecario se adelantó en municipio de residencia de la cual no fue desplazado y que se encontraba en él durante el trámite del mismo"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Requisitos generales y especiales de procedibilidad"
+    }
+  ]
+}
