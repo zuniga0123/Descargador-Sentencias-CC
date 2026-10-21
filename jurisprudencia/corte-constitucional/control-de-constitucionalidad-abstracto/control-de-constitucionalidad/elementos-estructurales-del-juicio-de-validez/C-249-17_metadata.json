@@ -1,0 +1,50 @@
+{
+  "radicado": "C-249-17",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2017,
+  "fecha_creacion": "2017-04-26",
+  "magistrado_ponente": "Luis Guillermo Guerrero Pérez",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "CONTROL DE CONSTITUCIONALIDAD",
+  "subtema": "Elementos estructurales del juicio de validez",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 1448 de 2011",
+    "Ley 1148 de 2011",
+    "Decreto 440 de 2016",
+    "Ley 2 de 1959",
+    "Ley 1448 de 1998",
+    "Ley 1561 de 2012",
+    "Ley 160 de 1994",
+    "Decreto 1071 de 2015",
+    "Decreto 1377 de 2014",
+    "Ley 1148 de 2001"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2017/C-249-17.htm",
+  "fecha_descarga": "2026-10-21T11:29:40.585059+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2017-04-26",
+  "fecha_publicacion": null,
+  "numero": "C-249/17",
+  "tipo_cc": "C",
+  "prov_id": "10235",
+  "tema_relatoria": "DERECHO A LA RESTITUCIÓN DE VÍCTIMAS. TITULARES.",
+  "resumen": "Demanda de inconstitucionalidad contra el artículo 75 (parcial) de la Ley 1448 de 2011, por la cual se dictan medidas de atención, asistencia y reparación integral a las víctimas del conflicto armado interno y se dictan otras disposiciones. Considera el actor que la norma acusada, al supeditar el derecho a la restitución jurídica y material de las tierras despojadas o abandonadas forzosamente de las personas que explotaban predios baldíos, en el marco del conflicto armado interno, a que se cumplan los requisitos de la adjudicación, vulnera el principio de igualdad y los derechos de acceso al sistema judicial y a la reparación integral. Teniendo en cuenta que no se logró configurar la controversia judicial porque no se individualizaron sus elementos estructurales (contenido normativo objetado, razones de incompatibilidad entre éste y el ordenamiento superior y la pretensión de la acción), considera la Sala Plena que no es posible adelantar el escrutinio judicial propuesto por el actor. En consecuencia, se declara INHIBIDA para pronunciarse sobre la expresión acusada, por la ineptitud sustantiva de la demanda.",
+  "titulaciones": [
+    {
+      "tema": "CONTROL DE CONSTITUCIONALIDAD",
+      "subtema": "Elementos estructurales del juicio de validez"
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "Criterios para valorar la aptitud de la demanda y determinar su procedencia y alcance del juicio de constitucionalidad"
+    },
+    {
+      "tema": "MEDIDAS DE ATENCION, ASISTENCIA Y REPARACION INTEGRAL A LAS VICTIMAS DEL CONFLICTO ARMADO INTERNO",
+      "subtema": "Inhibición para decidir de fondo respecto de expresión “cuya propiedad se pretenda adquirir por adjudicación” contenida en norma sobre titulares del derecho"
+    }
+  ]
+}

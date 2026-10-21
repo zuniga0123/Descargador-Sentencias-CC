@@ -1,0 +1,41 @@
+{
+  "radicado": "T-163-16",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2016,
+  "fecha_creacion": "2016-04-07",
+  "magistrado_ponente": "Luis Guillermo Guerrero Pérez",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "DESALOJO FORZOSO",
+  "subtema": "Debe adelantarse con el pleno respeto de los derechos fundamentales y debido proceso de las personas desalojadas",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2016/T-163-16.htm",
+  "fecha_descarga": "2026-10-21T11:45:56.407190+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2016-04-07",
+  "fecha_publicacion": "2016-04-18",
+  "numero": "T-163/16",
+  "tipo_cc": "T",
+  "prov_id": "8768",
+  "tema_relatoria": "DERECHOS DE LAS PERSONAS EN MATERIA DE DESALOJOS FORZOSOS. REITERERACION DE JURISPRUDENCIA.",
+  "resumen": "Se atacan las actuaciones policivas adelantadas por las autoridades demandadas, tendientes a garantizar el derecho de dominio y a lograr la recuperación de un predio ocupado por los accionantes. La Corte se pronuncia sobre los límites constitucionales que deben atender las autoridades públicas en relación con las órdenes de desalojo y revisa la procedencia de la acción de tutela en el caso concreto. En sede de revisión la Sala conoció que los actores, luego de llegar a un acuerdo con los propietarios del predio, lo desalojaron voluntariamente finalizando con ello los procesos policivos adelantados en su contra y, consecuentemente, haciendo desaparecer el objeto de la ayuda invocada. Con base en lo anterior, se declaró la improcedencia del amparo por configurarse el fenómeno de la CARENCIA ACTUAL DE OBJETO.",
+  "titulaciones": [
+    {
+      "tema": "DESALOJO FORZOSO",
+      "subtema": "Debe adelantarse con el pleno respeto de los derechos fundamentales y debido proceso de las personas desalojadas"
+    },
+    {
+      "tema": "CARENCIA ACTUAL DE OBJETO",
+      "subtema": "Fenómeno que puede presentarse a partir de dos eventos que a su vez sugieren consecuencias distintas: hecho superado y daño consumado"
+    },
+    {
+      "tema": "CARENCIA ACTUAL DE OBJETO POR HECHO SUPERADO",
+      "subtema": "Se finalizaron los procesos policivos en atención al acuerdo celebrado entre los ocupantes y los dueños del inmueble"
+    }
+  ]
+}

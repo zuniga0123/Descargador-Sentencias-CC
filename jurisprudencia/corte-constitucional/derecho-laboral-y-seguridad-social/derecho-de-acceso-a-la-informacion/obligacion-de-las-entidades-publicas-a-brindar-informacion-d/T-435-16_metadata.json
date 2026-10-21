@@ -1,0 +1,59 @@
+{
+  "radicado": "T-435-16",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2016,
+  "fecha_creacion": "2016-08-12",
+  "magistrado_ponente": "Gloria Stella Ortiz Delgado",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "DERECHO DE ACCESO A LA INFORMACIÓN",
+  "subtema": "Obligación de las entidades públicas a brindar información de manera oportuna y eficiente, según ley 1712/14",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Decreto 3041 de 1966",
+    "Decreto 232 de 1984",
+    "Ley 100 de 1993",
+    "Ley 860 de 2003",
+    "Ley 1151 de 2007",
+    "Acto Legislativo 1 de 2005",
+    "Decreto 917 de 1999",
+    "Decreto 2463 de 2001",
+    "Ley 1712 de 2014",
+    "Ley 1724 de 2014"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2016/T-435-16.htm",
+  "fecha_descarga": "2026-10-21T11:49:52.516394+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2016-08-12",
+  "fecha_publicacion": null,
+  "numero": "T-435/16",
+  "tipo_cc": "T",
+  "prov_id": "9267",
+  "tema_relatoria": "PENSION DE INVALIDEZ. FECHA DE ESTRUCTURACION Y EL RETIRO MATERIAL Y EFECTIVO DEL MERCADO LABORAL.",
+  "resumen": "En dos acciones de tutela formuladas de manera independiente, se aborda una temática relacionada con el acceso a la pensión de invalidez de personas que han realizado cotizaciones con posterioridad a la fecha de estructuración de la misma y que al solicitar la prestación se enfrentan a la negativa de los Fondos Administradores de Pensiones que no toman en cuenta estos aportes para el reconocimiento del derecho pensional reclamado. Se reitera jurisprudencia relacionada con la protección constitucional del derecho a la seguridad social y su relación con el mínimo vital, al igual que sobre la fecha de estructuración de la invalidez y el retiro material y efectivo del mercado laboral. La Sala concluye que, en materia de pensión de invalidez, los Fondos Administradores de Pensiones al momento de resolver sobre el reconocimiento de este derecho pensional, están en la obligación constitucional y legal de establecer o verificar las cotizaciones realizadas por el solicitante con posterioridad a la fecha de estructuración de su enfermedad o accidente, para tenerlas en cuenta al proferir la decisión respectiva. Se CONCEDEN.",
+  "titulaciones": [
+    {
+      "tema": "DERECHO DE ACCESO A LA INFORMACIÓN",
+      "subtema": "Obligación de las entidades públicas a brindar información de manera oportuna y eficiente, según ley 1712/14"
+    },
+    {
+      "tema": "PENSION DE INVALIDEZ DE PERSONA CON ENFERMEDAD CRONICA, DEGENERATIVA O CONGENITA",
+      "subtema": "Fecha de estructuración de la invalidez desde el momento de la pérdida permanente y definitiva de la capacidad laboral"
+    },
+    {
+      "tema": "DERECHO DE ACCESO A LA INFORMACIÓN",
+      "subtema": "Administradoras de Fondos de pensiones deben garantizar el derecho a la información, bajo estrictos criterios de buena fe y veracidad"
+    },
+    {
+      "tema": "DERECHO A LA SEGURIDAD SOCIAL, MINIMO VITAL Y A LA VIDA DIGNA",
+      "subtema": "Orden a Colpensiones reconocer y pagar pensión de invalidez por cumplir con requisitos"
+    },
+    {
+      "tema": "PENSIÓN DE INVALIDEZ",
+      "subtema": "Se deben contabilizar semanas cotizadas con posterioridad a la fecha de estructuración de invalidez para cumplir con el requisito de las 50 semanas"
+    }
+  ]
+}

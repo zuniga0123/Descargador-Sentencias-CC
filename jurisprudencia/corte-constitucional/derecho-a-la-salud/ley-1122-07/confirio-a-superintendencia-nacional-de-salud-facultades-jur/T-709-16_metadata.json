@@ -1,0 +1,58 @@
+{
+  "radicado": "T-709-16",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2016,
+  "fecha_creacion": "2016-12-15",
+  "magistrado_ponente": "Luis Guillermo Guerrero Pérez",
+  "area": "Derecho a la Salud",
+  "tema": "LEY 1122/07",
+  "subtema": "Confirió a Superintendencia Nacional de Salud facultades jurisdiccionales para adelantar procedimientos que resuelvan controversias entre entidades promotoras de salud y usuarios",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 776 de 2002",
+    "Decreto 1295 de 1994",
+    "Ley 100 de 1993",
+    "Ley 1122 de 2007",
+    "Ley 1562 de 2012"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2016/T-709-16.htm",
+  "fecha_descarga": "2026-10-21T11:33:45.728252+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2016-12-15",
+  "fecha_publicacion": "2017-12-18",
+  "numero": "T-709/16",
+  "tipo_cc": "T",
+  "prov_id": "31798",
+  "tema_relatoria": "DERECHO A LA SALUD. GARANTIA POR EPS MIENTRAS SE REALIZA CALIFICACION DEL ORIGEN DEL ACCIDENTE O ENFERMEDAD.",
+  "resumen": "El actor pidió al juez constitucional amparar sus derechos fundamentales a la vida y a la salud y, en consecuencia, ordenar a la entidad accionada o a quien corresponda, garantizar la valoración y el tratamiento del quebranto de salud que lo aqueja en su columna y que le ha impedido laborar. Dicha afección, en su parecer, la produjo un accidente de trabajo que sufrió previamente. La referida situación originó una discrepancia entre la EPS y la ARL, en tanto no se definió quien de las dos debía tratarla, ni determinar su origen o realizar el dictamen de calificación respectivo. Se estudia temática referente al acceso a las prestaciones asistenciales y a las tecnologías en salud en el Sistema de Seguridad Social Integral, pese a la ausencia de la calificación del origen del accidente o la enfermedad. Se CONCEDE el amparo al derecho a la salud.",
+  "titulaciones": [
+    {
+      "tema": "LEY 1122/07",
+      "subtema": "Confirió a Superintendencia Nacional de Salud facultades jurisdiccionales para adelantar procedimientos que resuelvan controversias entre entidades promotoras de salud y usuarios"
+    },
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Garantía por EPS mientras se realiza calificación del origen del accidente o enfermedad"
+    },
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Orden a EPS garantizar y proporcionar las tecnologías en salud que el actor solicitó con ocasión de la afección que lo aqueja"
+    },
+    {
+      "tema": "INCAPACIDADES LABORALES POR ENFERMEDAD NO PROFESIONAL O ACCIDENTE COMUN",
+      "subtema": "Marco normativo"
+    },
+    {
+      "tema": "JURISDICCION ORDINARIA",
+      "subtema": "Competencia sobre conflictos en sistema de seguridad social integral"
+    },
+    {
+      "tema": "SISTEMA DE SEGURIDAD SOCIAL INTEGRAL",
+      "subtema": "Conformación"
+    }
+  ]
+}

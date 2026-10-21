@@ -1,0 +1,43 @@
+{
+  "radicado": "C-385-17",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2017,
+  "fecha_creacion": "2017-06-14",
+  "magistrado_ponente": "Carlos Bernal Pulido",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "DEMANDA DE INCONSTITUCIONALIDAD",
+  "subtema": "Concepto de violación",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 1564 de 2012",
+    "Decreto 2067 de 1991",
+    "Ley 489 de 1998"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2017/C-385-17.htm",
+  "fecha_descarga": "2026-10-21T11:28:59.067383+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2017-06-14",
+  "fecha_publicacion": null,
+  "numero": "C-385/17",
+  "tipo_cc": "C",
+  "prov_id": "10421",
+  "tema_relatoria": "EJECUCIÓN ENTIDADES PÚBLICAS. PLAZO PARA EJECUTAR CONDENAS A LA NACIÓN, NO INCLUYE ENTIDADES TERRITORIALES.",
+  "resumen": "Demanda de inconstitucionalidad contra el artículo 307 de la Ley 1564 de 2012, por medio de la cual se expide el Código General del Proceso y se dictan otras disposiciones. La demandante considera que la expresión acusada vulnera los principios de integridad territorial e igualdad de trato entre instituciones estatales. La Corte se declara INHIBIDA para emitir pronunciamiento de fondo, por la ineptitud sustantiva de la demanda.",
+  "titulaciones": [
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "Concepto de violación"
+    },
+    {
+      "tema": "CODIGO GENERAL DEL PROCESO",
+      "subtema": "Inhibición para decidir de fondo contra expresión “Nación” contenida en norma sobre ejecución contra entidades de derecho público, por ineptitud sustantiva de la demanda"
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "Cargos deben ser claros, ciertos, específicos, pertinentes y suficientes"
+    }
+  ]
+}

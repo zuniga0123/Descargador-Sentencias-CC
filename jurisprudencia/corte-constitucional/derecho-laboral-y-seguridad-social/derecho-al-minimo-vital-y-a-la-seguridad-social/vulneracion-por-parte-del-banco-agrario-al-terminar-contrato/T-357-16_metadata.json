@@ -1,0 +1,58 @@
+{
+  "radicado": "T-357-16",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2016,
+  "fecha_creacion": "2016-07-06",
+  "magistrado_ponente": "Jorge Iván Palacio Palacio",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "DERECHO AL MINIMO VITAL Y A LA SEGURIDAD SOCIAL",
+  "subtema": "Vulneración por parte del Banco Agrario al terminar contrato de trabajo desconociendo la condición de prepensionado del trabajador, a pesar de que éste estaba cobijado por una estabilidad laboral reforzada",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Decreto 2127 de 1945",
+    "Ley 797 de 2003",
+    "Ley 6 de 1945",
+    "Ley 64 de 1946",
+    "Decreto 2127 de 2915"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2016/T-357-16.htm",
+  "fecha_descarga": "2026-10-21T11:52:37.660042+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2016-07-06",
+  "fecha_publicacion": null,
+  "numero": "T-357/16",
+  "tipo_cc": "T",
+  "prov_id": "9114",
+  "tema_relatoria": "ESTABILIDAD LABORAL REFORZADA DE PERSONAS PROXIMAS A PENSIONARSE.",
+  "resumen": "Se aduce que el Banco Agrario vulneró derechos fundamentales del actor, al desvincularlo del servicio por expiración del plazo presuntivo, a pesar de tener conocimiento de que al momento de la terminación del vínculo laboral le faltaban menos de tres años para logar cumplir con los requisitos de acceso a la pensión de vejez. Se abordan los siguientes asuntos: 1º. La procedencia excepcional de la acción de tutela en el caso de las solicitudes de reintegro. 2º. Las reglas sobre el término de duración de los contratos laborales de los trabajadores oficiales y, 3º. El derecho a la estabilidad laboral reforzada de las personas próximas a pensionarse. La Corte considera que la terminación de la relación laboral vulneró derechos del actor, al desconocer su condición de prepensionable que lo hacía merecedor de una estabilidad laboral reforzada que impedía que fuese desvinculado hasta el otorgamiento de la prestación de vejez. Se CONCEDE el amparo y se ordena al Banco demandado reintegrar al peticionario, hasta tanto le sea reconocida la pensión y esté incluido en la nómina.",
+  "titulaciones": [
+    {
+      "tema": "DERECHO AL MINIMO VITAL Y A LA SEGURIDAD SOCIAL",
+      "subtema": "Vulneración por parte del Banco Agrario al terminar contrato de trabajo desconociendo la condición de prepensionado del trabajador, a pesar de que éste estaba cobijado por una estabilidad laboral reforzada"
+    },
+    {
+      "tema": "PREPENSIONADO",
+      "subtema": "Sujeto de especial protección"
+    },
+    {
+      "tema": "ACCION DE TUTELA PARA OBTENER REINTEGRO LABORAL",
+      "subtema": "Procedencia excepcional"
+    },
+    {
+      "tema": "CONTRATOS DE LOS TRABAJADORES OFICIALES",
+      "subtema": "Término de duración"
+    },
+    {
+      "tema": "ESTABILIDAD LABORAL REFORZADA DE PERSONAS PROXIMAS A PENSIONARSE",
+      "subtema": "Garantía"
+    },
+    {
+      "tema": "ESTABILIDAD LABORAL REFORZADA DE PERSONAS PROXIMAS A PENSIONARSE",
+      "subtema": "Orden al Banco Agrario reintegrar a trabajador hasta tanto le sea reconocida la pensión de vejez por parte de Colpensiones y haya sido incluido en la nómina de pensionados"
+    }
+  ]
+}

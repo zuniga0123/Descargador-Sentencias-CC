@@ -1,0 +1,50 @@
+{
+  "radicado": "T-598-16",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2016,
+  "fecha_creacion": "2016-10-31",
+  "magistrado_ponente": "Gabriel Eduardo Mendoza Martelo",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "ACCION DE TUTELA PARA EL RECONOCIMIENTO DE DERECHOS PENSIONALES",
+  "subtema": "Procedencia excepcional cuando el amparo lo solicita un sujeto de especial protección constitucional",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 1352 de 2013",
+    "Decreto 19 de 2012",
+    "Decreto 2591 de 1991",
+    "Ley 100 de 1993",
+    "Ley 860 de 2003",
+    "Decreto 917 de 1999"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2016/T-598-16.htm",
+  "fecha_descarga": "2026-10-21T11:49:22.249434+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2016-10-31",
+  "fecha_publicacion": null,
+  "numero": "T-598/16",
+  "tipo_cc": "T",
+  "prov_id": "9576",
+  "tema_relatoria": "PENSION DE INVALIDEZ. REQUISITOS.",
+  "resumen": "Se atribuye al Fondo de Pensiones y Cesantías Protección S.A. la vulneración de derechos fundamentales de la accionante, al negarle el reconocimiento y pago de la pensión de invalidez que reclamó, argumentando que el dictamen allegado como fundamento de la solicitud no fue válidamente emitido por la entidad encargada en primera instancia. Se aborda temática relacionada con la procedencia excepcional de la acción de tutela para el reconocimiento y pago de prestaciones sociales y, la pensión de invalidez y los requisitos exigidos para su reconocimiento. Se CONCEDE el amparo solicitado y se ordena a la demandada proceder a reconocer y pagar la pensión al actor, a partir de la fecha de estructuración de su invalidez.",
+  "titulaciones": [
+    {
+      "tema": "ACCION DE TUTELA PARA EL RECONOCIMIENTO DE DERECHOS PENSIONALES",
+      "subtema": "Procedencia excepcional cuando el amparo lo solicita un sujeto de especial protección constitucional"
+    },
+    {
+      "tema": "ACCION DE TUTELA PARA RECONOCIMIENTO DE PENSION DE INVALIDEZ",
+      "subtema": "Procedencia excepcional por afectación al mínimo vital y vida digna de sujetos de especial protección"
+    },
+    {
+      "tema": "PENSION DE INVALIDEZ Y MINIMO VITAL",
+      "subtema": "Orden a Fondo de Pensiones reconocer y pagar pensión de invalidez"
+    },
+    {
+      "tema": "PENSIÓN DE INVALIDEZ",
+      "subtema": "Requisitos para obtener reconocimiento y pago"
+    }
+  ]
+}

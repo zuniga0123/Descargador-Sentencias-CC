@@ -1,0 +1,47 @@
+{
+  "radicado": "T-418-16",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2016,
+  "fecha_creacion": "2016-08-09",
+  "magistrado_ponente": "Luis Guillermo Guerrero Pérez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "DESCUENTOS MAXIMOS PERMITIDOS A LAS MESADAS PENSIONALES",
+  "subtema": "Embargo no podrá exceder 50% de la mesada pensional",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 1527 de 2012",
+    "Decreto 2591 de 1991",
+    "Ley 100 de 1993",
+    "Decreto 1073 de 2002",
+    "Decreto 994 de 2003",
+    "Decreto 3770 de 2003",
+    "Decreto 2552 de 2015"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2016/T-418-16.htm",
+  "fecha_descarga": "2026-10-21T11:53:18.658921+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2016-08-09",
+  "fecha_publicacion": null,
+  "numero": "T-418/16",
+  "tipo_cc": "T",
+  "prov_id": "9240",
+  "tema_relatoria": "DESCUENTOS Y EMBARGOS REALIZADOS SOBRE LA MESADA PENSIONAL.",
+  "resumen": "Pretende el accionante que el juez constitucional deje sin efectos la decisión judicial adoptada en el marco de un proceso ejecutivo singular adelantado en su contra, mediante la cual se decretó el embargo del 30% del valor de su pensión. Lo anterior, debido a que el valor neto de la mesada que recibe, luego de las deducciones hechas por la administradora de pensiones, desciende a menos de un salario mínimo legal mensual vigente. Luego de analizar temática relacionada con los descuentos y embargos realizados sobre el valor de la mesada pensional y de analizar el caso en concreto, no encontró la Corte evidencia que mostrara que la mesada que efectivamente recibe el peticionario después del embargo y las libranzas efectuadas haya menguado o variado de forma negativa el monto neto que Colpensiones le ha venido pagando con anterioridad a dicho embargo para atender sus necesidades vitales. En consecuencia, se NIEGA el amparo invocado.",
+  "titulaciones": [
+    {
+      "tema": "DESCUENTOS MAXIMOS PERMITIDOS A LAS MESADAS PENSIONALES",
+      "subtema": "Embargo no podrá exceder 50% de la mesada pensional"
+    },
+    {
+      "tema": "DESCUENTOS MAXIMOS PERMITIDOS A LAS MESADAS PENSIONALES",
+      "subtema": "Improcedencia de tutela por cuanto no se ve afectado el mínimo vital después del embargo decretado y los descuentos por libranza realizados a la mesada pensional"
+    },
+    {
+      "tema": "REGULACION DE LIBRANZA O DESCUENTO DIRECTO",
+      "subtema": "Monto máximo a descontar será el consagrado en la ley 1527 de 2012"
+    }
+  ]
+}

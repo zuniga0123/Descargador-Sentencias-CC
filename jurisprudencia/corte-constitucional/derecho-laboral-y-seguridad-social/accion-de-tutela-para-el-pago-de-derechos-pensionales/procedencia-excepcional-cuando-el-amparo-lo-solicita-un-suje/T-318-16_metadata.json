@@ -1,0 +1,48 @@
+{
+  "radicado": "T-318-16",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2016,
+  "fecha_creacion": "2016-06-20",
+  "magistrado_ponente": "Gabriel Eduardo Mendoza Martelo",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "ACCION DE TUTELA PARA EL PAGO DE DERECHOS PENSIONALES",
+  "subtema": "Procedencia excepcional cuando el amparo lo solicita un sujeto de especial protección constitucional",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Ley 860 de 2003",
+    "Decreto 2591 de 1991",
+    "Decreto 1507 de 2014"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2016/T-318-16.htm",
+  "fecha_descarga": "2026-10-21T11:52:45.150249+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2016-06-20",
+  "fecha_publicacion": null,
+  "numero": "T-318/16",
+  "tipo_cc": "T",
+  "prov_id": "9045",
+  "tema_relatoria": "PROCEDENCIA EXCEPCIONAL DE LA ACCION DE TUTELA PARA EL RECONOCIMIENTO DE DERECHOS PENSIONALES. DEBER DE AFP DE TENER EN CUENTA SEMANAS COTIZADAS CON POSTERIORIDAD A FECHA DE ESTRUCTURACION EN CASOS DE ENFERMEDADES DEGENERATIVAS, CRONICAS O CONGENITAS.",
+  "resumen": "Se aduce que Colpensiones vulneró derechos fundamentales del actor, al negarle el reconocimiento y pago de la pensión que solicitó, bajo el supuesto incumplimiento del requisito relacionado con el número mínimo de semanas cotizadas con anterioridad a la fecha de estructuración de la invalidez. Se reitera doctrina constitucional relacionada con: 1º. Procedencia excepcional de la acción de tutela en materia de reconocimiento de prestaciones de carácter pensional y, 2º. El deber de las entidades administradoras de pensiones de considerar, para el estudio de la solicitud de prestación de invalidez, las semanas cotizadas con posterioridad a la fecha de estructuración de pérdida de capacidad laboral, cuando se trata de afiliados que padecen enfermedades degenerativas, crónicas o congénitas. Se CONCEDE el amparo solicitado.",
+  "titulaciones": [
+    {
+      "tema": "ACCION DE TUTELA PARA EL PAGO DE DERECHOS PENSIONALES",
+      "subtema": "Procedencia excepcional cuando el amparo lo solicita un sujeto de especial protección constitucional"
+    },
+    {
+      "tema": "PENSION DE INVALIDEZ DE PERSONA CON ENFERMEDAD CRONICA, DEGENERATIVA O CONGENITA",
+      "subtema": "Fecha de estructuración de la invalidez desde el momento de la pérdida permanente y definitiva de la capacidad laboral"
+    },
+    {
+      "tema": "DERECHO A LA SEGURIDAD SOCIAL, MINIMO VITAL Y A LA VIDA DIGNA",
+      "subtema": "Orden a Colpensiones reconocer y pagar pensión de invalidez por cumplir con requisitos"
+    },
+    {
+      "tema": "PENSIÓN DE INVALIDEZ",
+      "subtema": "Se deben contabilizar semanas cotizadas con posterioridad a la fecha de estructuración de invalidez para cumplir con el requisito de las 50 semanas"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "radicado": "T-691-16",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2016,
+  "fecha_creacion": "2016-12-07",
+  "magistrado_ponente": "Luis Guillermo Guerrero Pérez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "ACCION DE TUTELA PARA RECLAMAR PRESTACIONES ECONOMICAS PENSIONALES",
+  "subtema": "Reglas jurisprudenciales para la procedencia",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 100 de 1993",
+    "Decreto 3041 de 1966",
+    "Ley 90 de 1948",
+    "Decreto 758 de 1990",
+    "Ley 860 de 2003",
+    "Decreto 1507 de 2014",
+    "Ley 1346 de 2009",
+    "Decreto 19 de 2012",
+    "Decreto 1352 de 2013"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2016/T-691-16.htm",
+  "fecha_descarga": "2026-10-21T11:48:52.326704+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2016-12-07",
+  "fecha_publicacion": null,
+  "numero": "T-691/16",
+  "tipo_cc": "T",
+  "prov_id": "9737",
+  "tema_relatoria": "PENSION DE INVALIDEZ. SE DEBEN TENER EN CUENTA LAS SEMANAS COTIZADAS CON POSTERIORIDAD A LA FECHA DE ESTRUCTURACIÓN DE LA INVALIDEZ.",
+  "resumen": "La accionante considera que sus derechos fundamentales son vulnerados por la Administradora de Pensiones demandada, al no reconocerla como beneficiaria de la pensión de invalidez que solicitó, sin tener en consideración los aportes realizados al Sistema General de Seguridad Social y el carácter particularmente degenerativo y crónico de algunas de las patologías que padece. La entidad adujo que, a pesar de que la peticionaria tiene un porcentaje de pérdida de capacidad laboral superior al 50% y que presenta un número sustancial de semanas de cotización al Sistema, incumple con el requisito relacionado con el mínimo de semanas exigidas con anterioridad a la fecha de estructuración de la enfermedad, aunque con posterioridad a ella también efectuó aportes al Sistema. Se reiteran reglas jurisprudenciales relacionadas con : 1º. La procedencia excepcional de la acción de tutela para solicitar el reconocimiento de derechos y prerrogativas de carácter prestacional. 2º. El deber de las AFP de tener en cuenta las semanas cotizadas con posterioridad a la fecha de estructuración de invalidez de quienes se les diagnostica enfermedades degenerativas, congénitas o crónicas, como un elemento esencial para la configuración del derecho a la pensión de invalidez. Se CONCEDE.",
+  "titulaciones": [
+    {
+      "tema": "ACCION DE TUTELA PARA RECLAMAR PRESTACIONES ECONOMICAS PENSIONALES",
+      "subtema": "Reglas jurisprudenciales para la procedencia"
+    },
+    {
+      "tema": "PENSION DE INVALIDEZ DE PERSONA CON ENFERMEDAD CRONICA, DEGENERATIVA O CONGENITA",
+      "subtema": "Orden a Fondo de Pensiones reconocer y pagar pensión de invalidez"
+    },
+    {
+      "tema": "ACCION DE TUTELA PARA RECONOCIMIENTO DE PENSION DE INVALIDEZ",
+      "subtema": "Procedencia excepcional por afectación al mínimo vital y vida digna de sujetos de especial protección"
+    },
+    {
+      "tema": "PENSIÓN DE INVALIDEZ",
+      "subtema": "Se deben contabilizar semanas cotizadas con posterioridad a la fecha de estructuración de invalidez para cumplir con el requisito de las 50 semanas"
+    }
+  ]
+}

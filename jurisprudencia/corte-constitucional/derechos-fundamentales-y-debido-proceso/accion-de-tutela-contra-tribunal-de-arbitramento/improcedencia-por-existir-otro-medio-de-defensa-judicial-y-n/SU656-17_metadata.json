@@ -1,0 +1,51 @@
+{
+  "radicado": "SU656-17",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2017,
+  "fecha_creacion": "2017-10-26",
+  "magistrado_ponente": "Cristina Pardo Schlesinger",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCION DE TUTELA CONTRA TRIBUNAL DE ARBITRAMENTO",
+  "subtema": "Improcedencia por existir otro medio de defensa judicial y no acreditarse un perjuicio irremediable",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Decreto 1818 de 1998",
+    "Decreto 1382 de 2000",
+    "Decreto Ley 2591 de 1991",
+    "Ley 640 de 2001",
+    "Ley 1563 de 2012",
+    "Ley 446 de 1998"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2017/SU656-17.htm",
+  "fecha_descarga": "2026-10-21T11:32:17.643770+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2017-10-26",
+  "fecha_publicacion": "2017-12-15",
+  "numero": "SU.656/17",
+  "tipo_cc": "SU",
+  "prov_id": "31790",
+  "tema_relatoria": "ACCION DE TUTELA CONTRA TRIBUNAL DE ARBITRAMENTO. IMPROCEDENCIA POR EXISTIR OTRO MEDIO DE DEFENSA JUDICIAL Y NO ACREDITAR PERJUICIO IRREMEDIABLE.",
+  "resumen": "La Sociedad accionante considera que el Tribunal de Arbitramento demandado vulneró su derecho fundamental al debido proceso, al asumir competencia para dirimir un conflicto en relación con un inmueble que, en calidad de arrendataria, tenía la sociedad ExxonMobil de Colombia S.A.. Lo anterior por no tener en consideración que en dicho asunto ya existía un acta de conciliación previamente celebrada entre las partes, lo que configuraba el fenómeno de la cosa juzgada. La Corte advierte que la acción de tutela resulta IMPROCEDENTE por incumplimiento del requisito de subsidiariedad, en tanto no se agotó el mecanismo judicial que resultaba idóneo, esto es, el recurso de anulación, al igual que por no acreditarse la existencia de un perjuicio irremediable.",
+  "titulaciones": [
+    {
+      "tema": "ACCION DE TUTELA CONTRA TRIBUNAL DE ARBITRAMENTO",
+      "subtema": "Improcedencia por existir otro medio de defensa judicial y no acreditarse un perjuicio irremediable"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA LAUDO ARBITRAL",
+      "subtema": "Improcedencia general"
+    },
+    {
+      "tema": "RECURSO EXTRAORDINARIO DE ANULACION EN JUSTICIA ARBITRAL",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "RECURSO EXTRAORDINARIO DE ANULACION CONTRA LAUDO ARBITRAL",
+      "subtema": "Aspectos sustanciales"
+    }
+  ]
+}

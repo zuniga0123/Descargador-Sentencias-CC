@@ -1,0 +1,61 @@
+{
+  "radicado": "T-501-16",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2016,
+  "fecha_creacion": "2016-09-16",
+  "magistrado_ponente": "Luis Guillermo Guerrero Pérez",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCION DE TUTELA CONTRA PARTICULARES",
+  "subtema": "Requisitos de procedencia",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 80 de 1993",
+    "Decreto 2467 de 2015",
+    "Ley 30 de 1986",
+    "Ley 1787 de 2016"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2016/T-501-16.htm",
+  "fecha_descarga": "2026-10-21T11:47:37.330457+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2016-09-16",
+  "fecha_publicacion": null,
+  "numero": "T-501/16",
+  "tipo_cc": "T",
+  "prov_id": "9400",
+  "tema_relatoria": "ACCION DE TUTELA CONTRA ASEGURADORA. IMPROCEDENCIA POR INCUMPLIR REQUISITO DE SUBSIDIARIEDAD.",
+  "resumen": "Se atribuye a la empresa aseguradora accionada la vulneración de derechos fundamentales, a raíz de su negativa a pagar la póliza de vida adquirida por el compañero permanente de la actora y de la cual ella aparecía como beneficiaria principal en un porcentaje del 100%, argumentando la existencia de una reticencia en la información del tomador respecto al estado de riesgo, en cuanto omitió declarar el antecedente de ser un consumidor de marihuana desde hacía 20 años. Se aborda temática relacionada con la procedencia de la acción de tutela para dirimir controversias surgidas con ocasión del contrato de seguro, el principio de subsidiariedad; la relación de aseguramiento y el fenómeno de la reticencia. Se confirman las decisiones de instancia que declararon la IMPROCEDENCIA del amparo propuesto.",
+  "titulaciones": [
+    {
+      "tema": "ACCION DE TUTELA CONTRA PARTICULARES",
+      "subtema": "Requisitos de procedencia"
+    },
+    {
+      "tema": "ACCION DE TUTELA FRENTE A CONTRATO DE SEGUROS",
+      "subtema": "Subreglas para determinar en qué eventos el juez de tutela adquiere competencia para pronunciarse sobre relaciones contractuales en circunstancias que pueden afectar los derechos fundamentales del asegurado"
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA ENTIDADES FINANCIERAS Y ASEGURADORAS",
+      "subtema": "Procedencia excepcional cuando prestan un servicio público o actividad de interés público"
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA PARTICULARES",
+      "subtema": "Procedencia excepcional"
+    },
+    {
+      "tema": "RETICENCIA O INEXACTITUD EN EL CONTRATO DE SEGUROS",
+      "subtema": null
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA ASEGURADORA",
+      "subtema": "Improcedencia por incumplir requisito de subsidiaridad"
+    },
+    {
+      "tema": "ACCION DE TUTELA FRENTE A CONTRATO DE SEGUROS",
+      "subtema": "Procedencia excepcional cuando el margen de desigualdad existente entre las partes es tal que establece una situación de indefensión"
+    }
+  ]
+}
