@@ -1,0 +1,47 @@
+{
+  "radicado": "T-010-10",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2010,
+  "fecha_creacion": "2010-01-19",
+  "magistrado_ponente": "Dr NILSON PINILLA PINILLA",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "ACCIÓN DE TUTELA PARA EL RECONOCIMIENTO DE PENSIÓN DE VEJEZ",
+  "subtema": "Procedencia cuando se vulneran derechos fundamentales",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 100 de 1993",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2010/T-010-10.htm",
+  "fecha_descarga": "2026-10-21T17:59:12.833958+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2010-01-19",
+  "fecha_publicacion": null,
+  "numero": "T-010/10",
+  "tipo_cc": "T",
+  "prov_id": "375",
+  "tema_relatoria": null,
+  "resumen": "Seguridad social, mínimo vital. La accionante solicita el reconocimiento y pago de su pensión de vejez, la cual le ha sido negada pese ha haber cotizado 1209 semanas. La Sala realiza reiteración de jurisprudencia sobre la procedencia excepcional de la acción de tutela para obtener el reconocimiento y pago de la pensión de vejez, y se pronuncia sobre la afectación de los derechos por la negación al reconocimiento de una pensión de vejez, cuando el accionante acredita el cumplimiento de los requisitos exigidos en la ley, se concluye que la actora es un sujeto de especial protección debido a su edad, y cumple con los requisitos exigidos por la ley para acceder a la pensión, por lo tanto se ordene a la entidad accionada, acceder a su reconocimiento y pago. Concedida.",
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA PARA EL RECONOCIMIENTO DE PENSIÓN DE VEJEZ",
+      "subtema": "Procedencia cuando se vulneran derechos fundamentales"
+    },
+    {
+      "tema": "ACCION DE TUTELA TRANSITORIA",
+      "subtema": "Procedencia ante perjuicio irremediable a falta de idoneidad del mecanismo de defensa judicial"
+    },
+    {
+      "tema": "DERECHO AL DEBIDO PROCESO",
+      "subtema": "Vulneración por indebida aplicación de normas respecto a la acción popular y valoración probatoria"
+    },
+    {
+      "tema": "PENSION DE VEJEZ",
+      "subtema": "Afectación de derechos por la negativa de reconocimiento cuando se acredita el cumplimiento de los requisitos exigidos por la ley"
+    }
+  ]
+}

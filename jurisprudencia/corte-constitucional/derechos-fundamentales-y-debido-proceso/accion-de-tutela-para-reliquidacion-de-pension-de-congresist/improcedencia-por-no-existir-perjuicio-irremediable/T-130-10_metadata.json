@@ -1,0 +1,48 @@
+{
+  "radicado": "T-130-10",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2010,
+  "fecha_creacion": "2010-02-23",
+  "magistrado_ponente": "Dr JUAN CARLOS HENAO PÉREZ",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCION DE TUTELA PARA RELIQUIDACION DE PENSION DE CONGRESISTA",
+  "subtema": "Improcedencia por no existir perjuicio irremediable",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 1293 de 1994",
+    "Ley 100 de 1993",
+    "Decreto 1359 de 1993",
+    "Decreto 816 de 2002",
+    "Decreto 1622 de 2002",
+    "Ley 71 de 1988",
+    "Decreto 2591 de 1991",
+    "Decreto 1259 de 1993"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2010/T-130-10.htm",
+  "fecha_descarga": "2026-10-21T18:03:23.584091+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2010-02-23",
+  "fecha_publicacion": null,
+  "numero": "T-130/10",
+  "tipo_cc": "T",
+  "prov_id": "527",
+  "tema_relatoria": null,
+  "resumen": "Igualdad, debido proceso, seguridad social. El actor solicita le sea reconocida la pensión de jubilación pero con aplicación del Régimen Especial de Congresista consagrado en el Decreto 1359 de 1993. La Sala se pronuncia sobre el requisito de subsidiariedad como presupuesto de procedencia de la acción de tutela, se decide declara improcedente la acción debido a que cuenta con otro mecanismo judicial, no demostró la existencia de un perjuicio irremediable, ni la afectación al mínimo vital y no se encuentra constituida una vía de hecho administrativa. Improcedente.",
+  "titulaciones": [
+    {
+      "tema": "ACCION DE TUTELA PARA RELIQUIDACION DE PENSION DE CONGRESISTA",
+      "subtema": "Improcedencia por no existir perjuicio irremediable"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Reliquidación pensión de jubilación como Congresista"
+    },
+    {
+      "tema": "PRINCIPIO DE SUBSIDIARIEDAD DE LA ACCIÓN DE TUTELA",
+      "subtema": "Reiteración de jurisprudencia"
+    }
+  ]
+}

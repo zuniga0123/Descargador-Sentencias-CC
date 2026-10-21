@@ -1,0 +1,60 @@
+{
+  "radicado": "T-854-10",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2010,
+  "fecha_creacion": "2010-10-28",
+  "magistrado_ponente": "Humberto Antonio Sierra Porto",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "DERECHO AL DIAGNÓSTICO",
+  "subtema": "Comprende el derecho de los pacientes a conocer su situación con respecto a las enfermedades que padecen",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Decreto 917 de 1999",
+    "Ley 100 de 1993",
+    "Decreto 2463 de 2001"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2010/T-854-10.htm",
+  "fecha_descarga": "2026-10-21T17:53:28.454323+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2010-10-28",
+  "fecha_publicacion": null,
+  "numero": "T-854/10",
+  "tipo_cc": "T",
+  "prov_id": "1574",
+  "tema_relatoria": null,
+  "resumen": "Salud, vida, seguridad social. Al accionante le fueron ordenados algunos exámenes médicos por parte del ISS, para determinar el porcentaje de pérdida de capacidad laboral, sin embargo su EPS se ha negado a practicárselos, alegando que no era una orden proferida por el ISS y que no estaba en la obligación de acatarla. La Sala realiza reiteración de jurisprudencia sobre el derecho al diagnóstico médico como parte esencial de prestación del servicio de salud, el derecho al acceso al Sistema de Seguridad Social en Salud mediante la afiliación al Régimen Subsidiado, las obligaciones de las EPS como actor fundamental en el proceso de calificación de invalidez, se encuentra que los derechos fundamentales del actor fueron vulnerados al negarle un diagnóstico adecuado, aún cuando quien lo solicito fue un médico ajeno a la entidad, además no es de recibo el argumento dado por la EPS, en el cual se afirma que para el régimen subsidiado esta modalidad no aplica, se ordena autorizar la práctica de los exámenes requeridos. Concedida.",
+  "titulaciones": [
+    {
+      "tema": "DERECHO AL DIAGNÓSTICO",
+      "subtema": "Comprende el derecho de los pacientes a conocer su situación con respecto a las enfermedades que padecen"
+    },
+    {
+      "tema": "DERECHO AL DIAGNÓSTICO",
+      "subtema": "Vulneración por no práctica de exámenes requeridos a EPS-S para realizar calificación de estado de invalidez"
+    },
+    {
+      "tema": "DERECHO AL DIAGNÓSTICO",
+      "subtema": "EPS-S niega práctica de electrocardiograma y conceptos de especialistas requeridos por ISS para reconocimiento de pensión de invalidez por considerar que no aplica para EPS del régimen subsidiado"
+    },
+    {
+      "tema": "DERECHO AL DIAGNÓSTICO",
+      "subtema": "Fundamental como parte de la salud"
+    },
+    {
+      "tema": "ENTIDAD PROMOTORA DE SALUD Y JUNTA DE CALIFICACION DE INVALIDEZ",
+      "subtema": "Obligación de remitir información de carácter médico completa e idónea para sustentar reconocimiento o negación de la pensión de invalidez"
+    },
+    {
+      "tema": "DERECHO DE ACCESO AL SISTEMA DE SEGURIDAD SOCIAL EN SALUD",
+      "subtema": "Afiliación al Régimen Subsidiado"
+    },
+    {
+      "tema": "JUNTA DE CALIFICACIÓN DE INVALIDEZ",
+      "subtema": "Decisiones deben ser motivadas y expresar fundamentos de derecho y de hecho que dan origen a los dictámenes emitidos"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "radicado": "T-259-10",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2010,
+  "fecha_creacion": "2010-04-16",
+  "magistrado_ponente": "Mauricio González Cuervo",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "MORA JUDICIAL",
+  "subtema": "Procedencia de la acción de tutela cuando se compruebe dilación injustificada en el proceso",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 640 de 2001"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2010/T-259-10.htm",
+  "fecha_descarga": "2026-10-21T18:06:21.039579+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2010-04-16",
+  "fecha_publicacion": null,
+  "numero": "T-259/10",
+  "tipo_cc": "T",
+  "prov_id": "694",
+  "tema_relatoria": null,
+  "resumen": "Debido proceso, vida, petición. La accionante se considera víctima del delito de estafa, por lo cual interpuso denuncia contra la señora Lucia Posada, la Fiscalía accionada las cito a una audiencia de conciliación, la cual fue fallida, alega que luego de la audiencia el Despacho no ha adelantado ningún otro trámite, vulnerando de esta manera sus derechos fundamentales. La Sala no encuentra que exista una dilación injustificada en la siguiente etapa del proceso la cual es la práctica de pruebas ya que tal labor requiere de tiempo y esfuerzo judicial e investigativo considerable, por lo tanto no se percibe ni negligencia ni descuido por parte de quienes deben llevarlo a cabo tal labor, por lo tanto se decide no acceder a las pretensiones de la accionante. Niega.",
+  "titulaciones": [
+    {
+      "tema": "MORA JUDICIAL",
+      "subtema": "Procedencia de la acción de tutela cuando se compruebe dilación injustificada en el proceso"
+    },
+    {
+      "tema": "DEBIDO PROCESO",
+      "subtema": "No se vulnera cuando se configura el fenómeno de la hiperinflación procesal"
+    },
+    {
+      "tema": "DEBIDO PROCESO",
+      "subtema": "Improcedencia de amparo constitucional por cuanto las dilaciones que se han presentado en el proceso penal no son injustificadas al existir hiperinflación procesal"
+    }
+  ]
+}

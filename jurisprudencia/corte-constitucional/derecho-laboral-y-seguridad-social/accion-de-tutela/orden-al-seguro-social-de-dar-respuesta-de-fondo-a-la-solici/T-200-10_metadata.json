@@ -1,0 +1,61 @@
+{
+  "radicado": "T-200-10",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2010,
+  "fecha_creacion": "2010-03-23",
+  "magistrado_ponente": "Dr HUMBERTO ANTONIO SIERRA PORTO",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "ACCIÓN DE TUTELA",
+  "subtema": "Orden al Seguro Social de dar respuesta de fondo a la solicitud de la pensión de vejez sin exigir requisitos adicionales no previstos en la Constitución y la ley",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 100 de 1993",
+    "Decreto 758 de 1990",
+    "Decreto 510 de 2003",
+    "Ley 71 de 1988",
+    "Decreto 1406 de 1999",
+    "Ley 797 de 2003",
+    "Ley 33 de 1985",
+    "Decreto 656 de 1994"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2010/T-200-10.htm",
+  "fecha_descarga": "2026-10-21T18:04:59.861011+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2010-03-23",
+  "fecha_publicacion": null,
+  "numero": "T-200/10",
+  "tipo_cc": "T",
+  "prov_id": "624",
+  "tema_relatoria": null,
+  "resumen": "Debido proceso, igualdad, seguridad social, mínimo vital. Se acumulan expedientes por unidad de materia. Los actores solicitan el reconocimiento y pago de la pensión de vejez, la entidad accionada no les ha reconocido el derecho debido a que no han cotizado las 1.000 semanas requeridas, al Sistema General de Pensiones, ya que no tiene en cuenta las semanas que los accionantes aportaron como independientes, tiempo en el cual no realizaron aportes al Sistema de Seguridad Social en Salud. La Sala se pronuncia sobre el derecho a la seguridad social como derecho constitucional fundamental y su protección a través de la acción de tutela, la improcedencia general de la acción de tutela para ordenar el reconocimiento de la pensión de vejez, y su eventual reconocimiento, la violación del derecho al debido proceso en el reconocimiento de la pensión, exigencias extra legales y constitucionales, se concluye que el ISS vulneró los derechos de los accionantes al exigirles, el requisito adicional de haber cotizado a Salud, se decide reconocerles el derecho por medio de esta acción debido a que son sujetos de especial protección por ser personas de tercera edad y además su mínimo vital se encuentra afectado. Concedida.",
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Orden al Seguro Social de dar respuesta de fondo a la solicitud de la pensión de vejez sin exigir requisitos adicionales no previstos en la Constitución y la ley"
+    },
+    {
+      "tema": "DEBIDO PROCESO Y PRINCIPIO DE LEGALIDAD",
+      "subtema": "Vulneración por cuanto la entidad exigió requisitos adicionales a la actora para el reconocimiento y pago de la pensión de vejez"
+    },
+    {
+      "tema": "DEBIDO PROCESO",
+      "subtema": "Los aportes efectuados como independiente no requieren simultáneamente aportes a salud"
+    },
+    {
+      "tema": "DERECHO DE PETICIÓN EN MATERIA PENSIONAL",
+      "subtema": "Términos para resolver"
+    },
+    {
+      "tema": "SEGURIDAD SOCIAL",
+      "subtema": "Concepto y alcance"
+    },
+    {
+      "tema": "ACCION DE TUTELA PARA RECLAMAR EL RECONOCIMIENTO Y PAGO DE DERECHOS PENSIONALES",
+      "subtema": "Procedencia excepcional"
+    }
+  ]
+}

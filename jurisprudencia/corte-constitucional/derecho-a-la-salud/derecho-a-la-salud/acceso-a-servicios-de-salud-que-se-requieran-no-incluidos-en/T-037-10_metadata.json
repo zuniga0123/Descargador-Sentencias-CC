@@ -1,0 +1,54 @@
+{
+  "radicado": "T-037-10",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2010,
+  "fecha_creacion": "2010-02-01",
+  "magistrado_ponente": "Dr JORGE IVÁN PALACIO PALACIO",
+  "area": "Derecho a la Salud",
+  "tema": "DERECHO A LA SALUD",
+  "subtema": "Acceso a servicios de salud que se requieran, no incluidos en el POS",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 1122 de 2007",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2010/T-037-10.htm",
+  "fecha_descarga": "2026-10-21T17:59:46.098360+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2010-02-01",
+  "fecha_publicacion": null,
+  "numero": "T-037/10",
+  "tipo_cc": "T",
+  "prov_id": "407",
+  "tema_relatoria": null,
+  "resumen": "Salud, vida digna. Se acumulan expedientes por unidad de materia. Las accionantes sufren de obesidad mórbida, por lo tanto solicitan la autorización de la cirugía bypass gástrico, pero las EPS accionadas se han negado a emitir dicha autorización, en el primer caso por considerar que la cirugía no está incluida en el POS y en el segundo caso debido a que la actora no ha presentado solicitud a la entidad para realizar el procedimiento. La Sala realiza reiteración de jurisprudencia sobre el derecho a la Salud como derecho fundamental, el problema de la enfermedad denominada obesidad mórbida y la cirugía bariátrica, en cuanto al primer caso se encuentra que la accionante necesita la cirugía debido a que ya se le han realizado otros tipos de tratamientos y no ha presentado ninguna mejoría, por lo tanto se ordena a la EPS autorizar el tratamiento requerido y se le recuerda que ya se le hizo un llamado de atención en la sentencia T 1201/08 sobre el bypass gástrico y su inclusión el POS, por lo tanto se ordena al Ministerio de Protección Social, que comunique a todas las entidades que prestan el servicio de salud en el régimen contributivo, que la cirugía bariátrica de bypass gástrico hace parte del POS, en el segundo caso se encuentra que la accionante no ha realizado las diligencias necesarias para solicitar la autorización del tratamiento ya que después de interponer la tutela se solicitó la cita con el especialista en cirugía bariátrica, servicio que no le ha sido negado, de esta manera no se puede presumir la negación del servicio cuando la persona no ha acudido ante la EPS, ni allega prueba de que el servicio le halla sido negado.",
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Acceso a servicios de salud que se requieran, no incluidos en el POS"
+    },
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Cirugía de By pass Gástrico pertenece al POS"
+    },
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Criterios que se deben exigir para autorizar cirugía de by pass"
+    },
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Reiteración de jurisprudencia sobre el carácter de fundamental"
+    },
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Cirugía de by pass gástrico por obesidad mórbida excluida del POS"
+    },
+    {
+      "tema": "MINISTERIO DE LA PROTECCION SOCIAL",
+      "subtema": "Comunicación a todas las entidades prestadoras del servicio de salud que la cirugía de by pass gástrico hace parte del POS-C"
+    }
+  ]
+}

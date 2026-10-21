@@ -1,0 +1,49 @@
+{
+  "radicado": "T-482-10",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2010,
+  "fecha_creacion": "2010-06-16",
+  "magistrado_ponente": "Juan Carlos Henao Pérez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "DERECHO A LA PENSION DE VEJEZ",
+  "subtema": "Vulneración por parte del Instituto de Seguridad Social por no tener en cuenta las cotizaciones hechas al sistema de pensiones en el periodo que no se cotizó en el sistema de salud",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Decreto 758 de 1990",
+    "Decreto 510 de 2003",
+    "Ley 797 de 2003",
+    "Decreto 1818 de 1996",
+    "Decreto 1406 de 1999",
+    "Decreto 2591 de 1991",
+    "Ley 1250 de 2008",
+    "Acto Legislativo 1 de 2005"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2010/T-482-10.htm",
+  "fecha_descarga": "2026-10-21T17:57:10.796305+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2010-06-16",
+  "fecha_publicacion": null,
+  "numero": "T-482/10",
+  "tipo_cc": "T",
+  "prov_id": "955",
+  "tema_relatoria": null,
+  "resumen": "Debido proceso, igualdad, mínimo vital. El accionante solicita el reconocimiento y pago de su pensión de vejez, la cual le ha sido negada por no cumplir con el número de semanas requeridas para acceder a ella, ya que las cotizaciones realizadas a partir del año 2003 no se tuvieron en cuenta debido a que no acreditó el pago de aportes al Sistema de Salud. La Sala estudia la procedencia de la acción de tutela para el amparo del derecho a la seguridad social en lo que respecta al reconocimiento de la pensión de vejez, pasa a determinar si es un requisito constitucional y legal la cotización en el régimen de seguridad social en salud para que sean tenidas en cuenta las cotizaciones efectuadas en el régimen de seguridad social en pensiones, se enfatiza en que no cotizar al sistema de salud y sí al de pensiones, no genera como consecuencia que no se tengan en cuenta las semanas cotizadas en éste último, se reitera que la persona con capacidad de pago tiene la obligación de cotizar al sistema de salud, por lo tanto se considera que el ISS vulneró el derecho a la seguridad social del actor, por lo tanto se ordena el reconocimiento de la pensión de vejez, resultando procedente además el pago retroactivo de dicha pensión. Concede.",
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA PENSION DE VEJEZ",
+      "subtema": "Vulneración por parte del Instituto de Seguridad Social por no tener en cuenta las cotizaciones hechas al sistema de pensiones en el periodo que no se cotizó en el sistema de salud"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA PARA EL RECONOCIMIENTO DE PENSIÓN DE VEJEZ",
+      "subtema": "Causales excepcionales para su procedencia definidas por la Corte Constitucional"
+    },
+    {
+      "tema": "COTIZACION EN EL REGIMEN DE SEGURIDAD SOCIAL EN SALUD",
+      "subtema": "No es un requisito para que sean tenidas en cuenta las cotizaciones efectuadas en el régimen de seguridad social en pensión"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "radicado": "T-500-10",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2010,
+  "fecha_creacion": "2010-06-17",
+  "magistrado_ponente": "Dr GABRIEL EDUARDO MENDOZA MARTELO",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCIÓN DE TUTELA PARA EL RECONOCIMIENTO DE PENSIÓN DE VEJEZ",
+  "subtema": "Improcedencia cuando no se cumplió con el requisito de inmediatez",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 758 de 1990",
+    "Decreto 2709 de 1994",
+    "Ley 71 de 1988",
+    "Ley 71 de 1998",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2010/T-500-10.htm",
+  "fecha_descarga": "2026-10-21T17:49:18.958372+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2010-06-17",
+  "fecha_publicacion": null,
+  "numero": "T-500/10",
+  "tipo_cc": "T",
+  "prov_id": "988",
+  "tema_relatoria": null,
+  "resumen": "Vida, seguridad social, dignidad humana, debido proceso. El accionante solicita el reconocimiento y pago de su pensión de vejez, la cual no le ha sido reconocida debido a que la entidad accionada aduce que el actor no cumple con el número de semanas requeridas por la ley. La Sala se pronuncia sobre los requisitos de subsidiariedad e inmediatez como requisitos de procedibilidad de la acción de tutela, se decide no acceder a las pretensiones del actor por no cumplir con los requisitos de subsidiariedad e inmediatez. Niega",
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA PARA EL RECONOCIMIENTO DE PENSIÓN DE VEJEZ",
+      "subtema": "Improcedencia cuando no se cumplió con el requisito de inmediatez"
+    },
+    {
+      "tema": "PRINCIPIO DE SUBSIDIARIEDAD E INMEDIATEZ EN LA ACCION DE TUTELA",
+      "subtema": "Requisitos de procedibilidad"
+    },
+    {
+      "tema": "ACCION DE TUTELA PARA RECLAMAR EL RECONOCIMIENTO Y PAGO DE DERECHOS PENSIONALES",
+      "subtema": "Procedencia excepcional"
+    }
+  ]
+}

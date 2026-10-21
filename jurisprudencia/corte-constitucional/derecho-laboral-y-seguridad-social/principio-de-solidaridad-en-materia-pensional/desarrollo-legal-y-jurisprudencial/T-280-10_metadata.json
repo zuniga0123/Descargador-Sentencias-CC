@@ -1,0 +1,51 @@
+{
+  "radicado": "T-280-10",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2010,
+  "fecha_creacion": "2010-04-19",
+  "magistrado_ponente": "Dr HUMBERTO ANTONIO SIERRA PORTO",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "PRINCIPIO DE SOLIDARIDAD EN MATERIA PENSIONAL",
+  "subtema": "Desarrollo legal y jurisprudencial",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Ley 71 de 1988",
+    "Decreto 2591 de 1991",
+    "Ley 319 de 1996",
+    "Ley 74 de 1968",
+    "Ley 797 de 2003",
+    "Ley 712 de 2001"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2010/T-280-10.htm",
+  "fecha_descarga": "2026-10-21T18:07:06.191828+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2010-04-19",
+  "fecha_publicacion": null,
+  "numero": "T-280/10",
+  "tipo_cc": "T",
+  "prov_id": "715",
+  "tema_relatoria": null,
+  "resumen": "Debido proceso, seguridad social. El actor solicita se ordene al ISS, reliquidar su pensión de vejez de acuerdo con la legalidad vigente y el pago de su retroactivo pensional. La Sala se pronuncia sobre la procedencia excepcional de la acción de tutela en materia de prestaciones económicas, la seguridad social como derecho fundamental, se concluye que la acción de tutela resulta improcedente por cuanto el actor no ha agotado los mecanismos ordinarios de defensa. Niega.",
+  "titulaciones": [
+    {
+      "tema": "PRINCIPIO DE SOLIDARIDAD EN MATERIA PENSIONAL",
+      "subtema": "Desarrollo legal y jurisprudencial"
+    },
+    {
+      "tema": "ACCION DE TUTELA PARA RELIQUIDACION DE MESADA PENSIONAL",
+      "subtema": "Improcedencia por no cumplir con el requisito de iniciación de proceso judicial"
+    },
+    {
+      "tema": "ACCION DE TUTELA PARA RECONOCIMIENTO DE PRESTACIONES SOCIALES",
+      "subtema": "Presupuestos para su procedencia excepcional en caso de reajuste o reliquidación pensional"
+    },
+    {
+      "tema": "DERECHO A LA SEGURIDAD SOCIAL",
+      "subtema": "Carácter fundamental definido como derecho irrenunciable y servicio público obligatorio"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "radicado": "T-016-10",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2010,
+  "fecha_creacion": "2010-01-22",
+  "magistrado_ponente": "Dr JUAN CARLOS HENAO PÉREZ",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "DERECHO DE PETICIÓN",
+  "subtema": "Fundamental",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Decreto 656 de 1994",
+    "Ley 700 de 2001",
+    "Ley 6 de 1945",
+    "Ley 490 de 1998",
+    "Ley 1151 de 2007"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2010/T-016-10.htm",
+  "fecha_descarga": "2026-10-21T17:59:16.499560+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2010-01-22",
+  "fecha_publicacion": null,
+  "numero": "T-016/10",
+  "tipo_cc": "T",
+  "prov_id": "384",
+  "tema_relatoria": null,
+  "resumen": "Petición. La accionante solicita que se de respuesta de fondo a la petición presentada ante la entidad accionada desde febrero de 2009. La Sala se pronuncia sobre la procedibilidad de la acción de tutela para proteger el derecho de petición, el plazo para resolver las peticiones por parte de las entidades que prestan el trámite y reconocimiento de obligaciones pensionales y la situación particular de CAJANAL, se concluye que no existe justificación alguna del proceder de la entidad accionada, por lo tanto se ordena dar respuesta a la petición, de forma clara y precisa. Concedida.",
+  "titulaciones": [
+    {
+      "tema": "DERECHO DE PETICIÓN",
+      "subtema": "Fundamental"
+    },
+    {
+      "tema": "DERECHO DE PETICIÓN EN MATERIA PENSIONAL",
+      "subtema": "Términos para resolver"
+    },
+    {
+      "tema": "CAJA NACIONAL DE PREVISION SOCIAL",
+      "subtema": "Recuento sobre la situación particular"
+    },
+    {
+      "tema": "CAJA NACIONAL DE PREVISION SOCIAL",
+      "subtema": "Resolución recurso de reposición sobre reconocimiento de pensión de jubilación"
+    },
+    {
+      "tema": "DERECHO DE PETICIÓN",
+      "subtema": "Núcleo esencial"
+    }
+  ]
+}

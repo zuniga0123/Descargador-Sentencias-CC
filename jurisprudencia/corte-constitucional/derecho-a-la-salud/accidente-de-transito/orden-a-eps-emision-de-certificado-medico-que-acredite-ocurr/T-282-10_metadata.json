@@ -1,0 +1,57 @@
+{
+  "radicado": "T-282-10",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2010,
+  "fecha_creacion": "2010-04-19",
+  "magistrado_ponente": "Dr HUMBERTO ANTONIO SIERRA PORTO",
+  "area": "Derecho a la Salud",
+  "tema": "ACCIDENTE DE TRANSITO",
+  "subtema": "Orden a EPS emisión de certificado médico que acredite ocurrencia de accidente de tránsito",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2463 de 2001",
+    "Decreto 917 de 1999",
+    "Ley 100 de 1993",
+    "Decreto 3990 de 2007",
+    "Decreto 2591 de 1991",
+    "Ley 319 de 1996",
+    "Ley 74 de 1968",
+    "Decreto 663 de 1993",
+    "Ley 795 de 2003"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2010/T-282-10.htm",
+  "fecha_descarga": "2026-10-21T17:51:11.281749+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2010-04-19",
+  "fecha_publicacion": null,
+  "numero": "T-282/10",
+  "tipo_cc": "T",
+  "prov_id": "717",
+  "tema_relatoria": null,
+  "resumen": "Vida, igualdad, dignidad humana, debido proceso, salud. La accionante actúa como agente oficiosa de su compañero permanente, comenta que su compañero sufrió un grave accidente de transito, por lo tanto solicita se ordene a la EPS accionada que conforme un equipo médico interdisciplinario para calificar la perdida de capacidad laboral de su compañero o la remisión de su caso a la Junta Regional de Calificación de Invalidez, con el fin de diligenciar, ante la aseguradora que expidió el SOAT, el reconocimiento y pago de la indemnización por incapacidad total y permanente originada en accidente de tránsito. La Sala se pronuncia sobre la seguridad social en su doble dimensión, la normativa sobre el reconocimiento de la indemnización por incapacidad permanente como resultado de accidente tránsito, se ordena a la EPS emitir un certificado médico en donde se demuestre el suceso y a la Junta de Regional emitir el dictamen de pérdida de capacidad laboral. Concedida.",
+  "titulaciones": [
+    {
+      "tema": "ACCIDENTE DE TRANSITO",
+      "subtema": "Orden a EPS emisión de certificado médico que acredite ocurrencia de accidente de tránsito"
+    },
+    {
+      "tema": "DERECHO A LA SEGURIDAD SOCIAL",
+      "subtema": "Desarrollo legal y constitucional de su doble dimensión"
+    },
+    {
+      "tema": "DERECHO A INDEMNIZACION POR ACCIDENTE DE TRANSITO",
+      "subtema": "Orden a Junta Regional de Calificación de Invalidez expedir dictamen de pérdida de capacidad laboral para reconocimiento de indemnización"
+    },
+    {
+      "tema": "INDEMNIZACION DERIVADA DE INCAPACIDAD PERMANENTE CAUSADA POR ACCIDENTE DE TRANSITO",
+      "subtema": "Normativa aplicable para su reconocimiento"
+    },
+    {
+      "tema": "INDEMNIZACION DERIVADA DE INCAPACIDAD PERMANENTE CAUSADA POR ACCIDENTE DE TRANSITO",
+      "subtema": "Caso en que se solicita a la EPS dictamen sobre grado de incapacidad de víctima de accidente de tránsito para reconocimiento de indemnización"
+    }
+  ]
+}

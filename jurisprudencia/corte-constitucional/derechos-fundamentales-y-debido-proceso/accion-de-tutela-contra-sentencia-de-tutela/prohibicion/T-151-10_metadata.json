@@ -1,0 +1,45 @@
+{
+  "radicado": "T-151-10",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2010,
+  "fecha_creacion": "2010-03-05",
+  "magistrado_ponente": "Dr NILSON PINILLA PINILLA",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCION DE TUTELA CONTRA SENTENCIA DE TUTELA",
+  "subtema": "Prohibición",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 675 de 2001",
+    "Ley 153 de 1887",
+    "Ley 791 de 2002",
+    "Decreto Ley 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2010/T-151-10.htm",
+  "fecha_descarga": "2026-10-21T18:04:04.058074+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2010-03-05",
+  "fecha_publicacion": null,
+  "numero": "T-151/10",
+  "tipo_cc": "T",
+  "prov_id": "567",
+  "tema_relatoria": null,
+  "resumen": "Debido proceso. El actor considera que la sentencia proferida por el juzgado accionado fue arbitraria incurriendo en una vía de hecho al no dar aplicabilidad a las normas previstas para el caso en los procesos ejecutivos, el actor presentó acción de tutela ante el Juzgado 16 Civil del Circuito de Bogotá la cual fue negada por no haberse presentado reconocimiento de personería jurídica, debido a ello presentó una nueva acción de tutela. La Sala se pronuncia sobre la improcedencia de la acción de tutela contra sentencias de tutela, la temeridad en la interposición de las acciones de tutela, se concluye que el fallo del Juzgado 16 Civil del Circuito de Bogotá hizo tránsito a cosa juzgada, por lo tanto la acción es temeraria, no se evidencia comprometido el goce de algún derecho fundamental, se declara la improcedencia.",
+  "titulaciones": [
+    {
+      "tema": "ACCION DE TUTELA CONTRA SENTENCIA DE TUTELA",
+      "subtema": "Prohibición"
+    },
+    {
+      "tema": "ACCION DE TUTELA TEMERARIA",
+      "subtema": "Requisitos para que se configure"
+    },
+    {
+      "tema": "TEMERIDAD",
+      "subtema": "Configuración"
+    }
+  ]
+}

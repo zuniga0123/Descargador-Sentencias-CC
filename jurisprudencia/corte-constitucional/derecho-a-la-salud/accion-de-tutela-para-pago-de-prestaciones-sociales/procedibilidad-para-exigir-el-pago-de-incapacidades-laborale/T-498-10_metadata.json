@@ -1,0 +1,45 @@
+{
+  "radicado": "T-498-10",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2010,
+  "fecha_creacion": "2010-07-17",
+  "magistrado_ponente": "Dr GABRIEL EDUARDO MENDOZA MARTELO",
+  "area": "Derecho a la Salud",
+  "tema": "ACCION DE TUTELA PARA PAGO DE PRESTACIONES SOCIALES",
+  "subtema": "Procedibilidad para exigir el pago de incapacidades laborales cuando éstas constituyen una garantía a la salud del trabajador",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 1804 de 1999",
+    "Decreto 2591 de 1991",
+    "Ley 100 de 1993",
+    "Decreto 47 de 2000",
+    "Decreto 806 de 1998"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2010/T-498-10.htm",
+  "fecha_descarga": "2026-10-21T17:57:25.681175+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2010-07-17",
+  "fecha_publicacion": null,
+  "numero": "T-498/10",
+  "tipo_cc": "T",
+  "prov_id": "1182",
+  "tema_relatoria": null,
+  "resumen": "Mínimo vital, salud, seguridad social. El actor comenta que sufrió un accidente tránsito, el cual le ocasionó fractura de fémur, por lo tanto se le expidieron 119 días de incapacidad, los cuales la entidad accionada no ha cancelado alegando que el pago de aportes se realizó de manera extemporánea. La Sala realiza reiteración de jurisprudencia sobre la procedibilidad de la acción de tutela para exigir el pago de incapacidades laborales, la figura del allanamiento a la mora aplicada en los casos de incapacidades laborales, se evidencia que el empleador ha pagado los aporte al sistema de salud, sin embargo los ha realizado de manera tardía, pero la EPS accionada ha reconocido los pagos realizados por éste y los ha aceptado sin ninguna objeción, por lo tanto en este caso se desprende el allanamiento en mora, razón por la cual no puede negarse a reconocer las incapacidades, se decide amparar los derechos fundamentales invocados. Concede",
+  "titulaciones": [
+    {
+      "tema": "ACCION DE TUTELA PARA PAGO DE PRESTACIONES SOCIALES",
+      "subtema": "Procedibilidad para exigir el pago de incapacidades laborales cuando éstas constituyen una garantía a la salud del trabajador"
+    },
+    {
+      "tema": "ALLANAMIENTO A LA MORA",
+      "subtema": "La EPS no podrá negarse al pago de incapacidades laborales bajo el argumento de la cotización extemporánea"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Orden a la EPS de cancelar las incapacidades laborales del peticionario por cuanto ésta reconoció y aceptó pagos efectuados de manera tardía por parte de empleador"
+    }
+  ]
+}

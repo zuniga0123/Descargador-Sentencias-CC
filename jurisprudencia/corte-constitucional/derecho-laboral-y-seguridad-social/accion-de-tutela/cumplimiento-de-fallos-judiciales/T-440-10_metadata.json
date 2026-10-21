@@ -1,0 +1,55 @@
+{
+  "radicado": "T-440-10",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2010,
+  "fecha_creacion": "2010-06-04",
+  "magistrado_ponente": "Dr JORGE IGNACIO PRETELT CHALJUB",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "ACCIÓN DE TUTELA",
+  "subtema": "Cumplimiento de fallos judiciales",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Decreto 768 de 1993",
+    "Ley 100 de 1993"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2010/T-440-10.htm",
+  "fecha_descarga": "2026-10-21T17:55:34.558498+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2010-06-04",
+  "fecha_publicacion": null,
+  "numero": "T-440/10",
+  "tipo_cc": "T",
+  "prov_id": "902",
+  "tema_relatoria": null,
+  "resumen": "Mínimo vital, vida, seguridad social, igualdad. El actor solicita se ordene a la entidad accionada dar cumplimiento a las sentencia dictada por el Juzgado Quinto Laboral del Circuito de Cali, en la cual se le reconoce y ordena el pago de su pensión especial de vejez. . La Sala realiza reiteración de jurisprudencia sobre la procedencia de la acción de tutela para el cumplimiento de sentencias en firme, el derecho fundamental a la pensión de vejez, se concluye que la entidad accionada al no acatar la orden impartida en la citada sentencia pone en riesgo el mínimo vital del actor se le ordena a la entidad accionada adelantar las acciones necesarias para el efectivo cumplimiento a lo ordenado en la sentencia por la cual se le reconoció la pensión. Concede.",
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Cumplimiento de fallos judiciales"
+    },
+    {
+      "tema": "PENSION DE VEJEZ",
+      "subtema": "Garantía del mínimo vital del pensionado"
+    },
+    {
+      "tema": "DERECHO AL MINIMO VITAL DEL PENSIONADO",
+      "subtema": "Vulneración por no cumplir el fallo judicial donde se le reconoció la pensión de vejez al accionado"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Procede en el presente caso para hacer efectiva la inclusión en nómina del pensionado y la cancelación de las mesadas pensionales adeudadas"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Procedencia excepcional para el cumplimiento de fallo que genere una obligación de hacer o una obligación de dar"
+    },
+    {
+      "tema": "PENSION DE VEJEZ",
+      "subtema": "Fundamental"
+    }
+  ]
+}

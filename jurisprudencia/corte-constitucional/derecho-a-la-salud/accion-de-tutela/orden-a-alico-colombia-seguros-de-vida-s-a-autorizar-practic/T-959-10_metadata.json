@@ -1,0 +1,59 @@
+{
+  "radicado": "T-959-10",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2010,
+  "fecha_creacion": "2010-11-26",
+  "magistrado_ponente": "Humberto Antonio Sierra Porto",
+  "area": "Derecho a la Salud",
+  "tema": "ACCIÓN DE TUTELA",
+  "subtema": "Orden a Alico Colombia Seguros de Vida S.A., autorizar práctica de cirugía y prestar tratamiento integral ordenado por médico tratante",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Decreto 274 de 2000",
+    "Ley 389 de 1997"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2010/T-959-10.htm",
+  "fecha_descarga": "2026-10-21T17:53:13.623983+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2010-11-26",
+  "fecha_publicacion": null,
+  "numero": "T-959/10",
+  "tipo_cc": "T",
+  "prov_id": "1695",
+  "tema_relatoria": null,
+  "resumen": "Vida, salud. La accionante es beneficiaria de una póliza médica otorgada a su esposo, por el Ministerio de Relaciones Exteriores, comenta que necesita de manera urgente un tratamiento médico ambulatorio de citospexia, la cual no ha sido llevada a cabo por que la póliza se encuentra vencida, por lo tanto solicita le sea autorizada la prestación de los servicios médicos exigidos, y en caso de no ser prestados se responsabilice a la entidad demandada. La Sala realiza reiteración de jurisprudencia sobre el derecho a la salud como derecho fundamental y su protección constitucional, el principio de continuidad e integralidad en los contratos de seguros médicos celebrados con las compañías de seguro, el contrato de seguro en materia de salud y su alcance constitucional, se encuentra que la interpretación dada por la aseguradora vulnera los derechos fundamentales de la accionante, ya que el gasto médico fue impartido en vigencia de la póliza y por lo tanto asegurado en el reembolso, por lo tanto no podía levantar obstáculos para impedir su cumplimiento, se ordena suministrar a la accionante la atención integral que requiera. Concedida.",
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Orden a Alico Colombia Seguros de Vida S.A., autorizar práctica de cirugía y prestar tratamiento integral ordenado por médico tratante"
+    },
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Fundamental"
+    },
+    {
+      "tema": "CONTRATO DE SEGUROS EN MATERIA DE SALUD",
+      "subtema": "Naturaleza, alcance y tipo"
+    },
+    {
+      "tema": "CONTRATO DE SEGUROS EN MATERIA DE SALUD",
+      "subtema": "Alcance constitucional"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA COMPAÑIA DE SEGUROS DE VIDA",
+      "subtema": "Caso en que se niega autorización de práctica de cirugía"
+    },
+    {
+      "tema": "DERECHO A LA SALUD Y A LA VIDA",
+      "subtema": "Vulneración por cuanto el gasto médico para la intervención fue impartido en vigencia de la póliza"
+    },
+    {
+      "tema": "PRINCIPIO DE CONTINUIDAD E INTEGRIDAD EN SALUD",
+      "subtema": "Contratos de seguros médicos celebrados con las compañías de seguros"
+    }
+  ]
+}

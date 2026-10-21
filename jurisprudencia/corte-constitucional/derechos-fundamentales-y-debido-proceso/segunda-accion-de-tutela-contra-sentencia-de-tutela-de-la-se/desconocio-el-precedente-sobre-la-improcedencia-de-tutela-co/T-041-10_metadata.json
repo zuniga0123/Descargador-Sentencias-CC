@@ -1,0 +1,54 @@
+{
+  "radicado": "T-041-10",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2010,
+  "fecha_creacion": "2010-02-02",
+  "magistrado_ponente": "Dr NILSON PINILLA PINILLA",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "SEGUNDA ACCION DE TUTELA CONTRA SENTENCIA DE TUTELA DE LA SECCION QUINTA DEL CONSEJO DE ESTADO",
+  "subtema": "Desconoció el precedente sobre la improcedencia de tutela contra sentencia de tutela",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 153 de 1887"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2010/T-041-10.htm",
+  "fecha_descarga": "2026-10-21T17:59:53.473909+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2010-02-02",
+  "fecha_publicacion": null,
+  "numero": "T-041/10",
+  "tipo_cc": "T",
+  "prov_id": "410",
+  "tema_relatoria": null,
+  "resumen": "Debido proceso, igualdad, acceso a la administración de justicia. El accionante comenta que inició un proceso de nulidad y reestablecimiento del derecho contra la Procuraduría General de la Nación, alega que en el edicto de notificación de la sentencia se identificó el proceso con un código de radicación distinto al que se le asignó inicialmente, por lo tanto no pudo interponer el recurso correspondiente, ante lo cual interpuso acción de tutela solicitando la nulidad de la notificación, la acción fue denegada por el Consejo de Estado, mediante esta nueva acción solicita se revoque la decisión que negó la nulidad y se ordene al juzgado realizar nuevamente el trámite de notificación del fallo para presentar los recursos a que haya lugar. La Corte se pronuncia sobre la improcedencia de la acción de tutela contra acciones de tutela, en este caso es evidente que el actor interpuso acción de tutela contra tutela, bajo las mismas pretensiones y presupuestos de la primera acción, por lo tanto resulta improcedente. Niega.",
+  "titulaciones": [
+    {
+      "tema": "SEGUNDA ACCION DE TUTELA CONTRA SENTENCIA DE TUTELA DE LA SECCION QUINTA DEL CONSEJO DE ESTADO",
+      "subtema": "Desconoció el precedente sobre la improcedencia de tutela contra sentencia de tutela"
+    },
+    {
+      "tema": "ACCION DE TUTELA TEMERARIA",
+      "subtema": "La sentencia no se pronunció de fondo sobre el tema cuando el actor cumplía los requisitos para ser sancionado por temeridad"
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA SENTENCIA DE TUTELA DE LA SECCION CUARTA DEL CONSEJO DE ESTADO",
+      "subtema": "Improcedencia por cuanto se hizo tránsito a cosa juzgada constitucional"
+    },
+    {
+      "tema": "COSA JUZGADA CONSTITUCIONAL EN TUTELA",
+      "subtema": null
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA SENTENCIA DE TUTELA",
+      "subtema": "Prohibición"
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA SENTENCIA DE TUTELA",
+      "subtema": "Si se aceptara la acción perdería su efectividad"
+    }
+  ]
+}

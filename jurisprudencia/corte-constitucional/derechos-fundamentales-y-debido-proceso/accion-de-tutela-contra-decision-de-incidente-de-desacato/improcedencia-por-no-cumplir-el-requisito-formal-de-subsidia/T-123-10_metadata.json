@@ -1,0 +1,54 @@
+{
+  "radicado": "T-123-10",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2010,
+  "fecha_creacion": "2010-02-22",
+  "magistrado_ponente": "Dr LUIS ERNESTO VARGAS SILVA",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCION DE TUTELA CONTRA DECISION DE INCIDENTE DE DESACATO",
+  "subtema": "Improcedencia por no cumplir el requisito formal de subsidiariedad",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto Ley 2591 de 1991",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2010/T-123-10.htm",
+  "fecha_descarga": "2026-10-21T18:03:08.905046+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2010-02-22",
+  "fecha_publicacion": null,
+  "numero": "T-123/10",
+  "tipo_cc": "T",
+  "prov_id": "519",
+  "tema_relatoria": null,
+  "resumen": "Debido proceso. La empresa accionante, mediante sentencia T-516 de 2003 fue condenada al pago del reajuste pensional, contemplado en la Ley 4 de 1976, pero los pensionados han iniciado varios incidentes de desacato solicitando el cumplimiento de dicha sentencia pese a que el pago se ha realizado efectivamente, solicita se ordene al Juzgado accionado ante el cual se tramitan los incidentes de desacato se abstenga de continuar tramitando dichos incidentes. La Sala se pronuncia sobre la procedencia de la acción de tutela contra sentencias judiciales, el cumplimiento de las sentencias de tutela y el incidente de desacato, la subsidiariedad como requisito para la procedencia de la acción de tutela contra la decisión judicial que resuelve el incidente de desacato, se advierte que una orden genérica que impida el uso del incidente de desacato a un grupo de ciudadanos respecto de un asunto en particular, constituiría una grave violación de su derecho de acceso a la administración de justicia, solo resultará procedente la acción de tutela, para realizar este tipo de solicitudes, cuando las oportunidades para controvertir el desacato no hayan sido dispuestas o la decsión que resuelve el incidente incurra en una de las causales de procedencia, se decide declarar la improcedencia de la acción de tutela.",
+  "titulaciones": [
+    {
+      "tema": "ACCION DE TUTELA CONTRA DECISION DE INCIDENTE DE DESACATO",
+      "subtema": "Improcedencia por no cumplir el requisito formal de subsidiariedad"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Requisitos generales y especiales de procedibilidad"
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA DECISION DE INCIDENTE DE DESACATO",
+      "subtema": "Subsidiariedad como requisito formal para su procedencia"
+    },
+    {
+      "tema": "CUMPLIMIENTO SENTENCIA DE TUTELA E INCIDENTE DE DESACATO",
+      "subtema": "Trámite distinto"
+    },
+    {
+      "tema": "INCIDENTE DE DESACATO",
+      "subtema": "Sanción que tiene por objeto lograr la eficacia de las decisiones judiciales proferidas y orientadas a proteger derechos fundamentales"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Reiteración de jurisprudencia"
+    }
+  ]
+}

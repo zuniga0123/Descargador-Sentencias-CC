@@ -1,0 +1,48 @@
+{
+  "radicado": "T-450-10",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2010,
+  "fecha_creacion": "2010-06-15",
+  "magistrado_ponente": "Humberto Antonio Sierra Porto",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "DERECHO AL DEBIDO PROCESO EN PENSIONES",
+  "subtema": "Vulneración por desconocimiento del principio de legalidad en materia pensional al no contabilizar semanas cotizadas",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Decreto 2591 de 1991",
+    "Decreto 510 de 2003",
+    "Ley 797 de 2003",
+    "Decreto 1818 de 1996",
+    "Decreto 1406 de 1999",
+    "Ley 71 de 1988",
+    "Ley 33 de 1985"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2010/T-450-10.htm",
+  "fecha_descarga": "2026-10-21T17:56:00.651576+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2010-06-15",
+  "fecha_publicacion": null,
+  "numero": "T-450/10",
+  "tipo_cc": "T",
+  "prov_id": "924",
+  "tema_relatoria": null,
+  "resumen": "Debido proceso, seguridad social, mínimo vital. El accionante solicita se ordene al ISS expedir una resolución en donde se tenga en cuenta todas las semanas cotizadas al sistema general de pensiones de conformidad con el régimen de transición al que dice pertenecer y en el que se establece los requisitos especiales para acceder a la pensión de jubilación cuando se cotiza en el sector público y privado. La Sala se pronuncia sobre el tratamiento constitucional y legal al derecho fundamental de la seguridad social, la procedencia excepcional de la acción de tutela para ordenar el reconocimiento de pensiones, la violación del derecho al debido proceso en el reconocimiento de la pensión, se señala que la entidad accionada vulneró el derecho al debido proceso del accionante, ya que el ISS negó la petición por no cumplir con las cotizaciones mínimas requeridas, y dispuso que los aportes efectuados a partir del mes de agosto de 2003 a diciembre de 2006 no fueron tenidos en cuenta debido a que no presentó aportes a salud, esa afirmación carece de sustento jurídico ya que se encuentra demostrado dentro del expediente que el actor si realizo aportes a salud durante este periodo, se ordena a la entidad accionada que de una respuesta de fondo al actor teniendo en cuenta todos los aportes realizados al Sistema General de Pensiones. Concede.",
+  "titulaciones": [
+    {
+      "tema": "DERECHO AL DEBIDO PROCESO EN PENSIONES",
+      "subtema": "Vulneración por desconocimiento del principio de legalidad en materia pensional al no contabilizar semanas cotizadas"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA PARA EL RECONOCIMIENTO DE PENSIÓN DE VEJEZ",
+      "subtema": "Procedencia excepcional para evitar un perjuicio irremediable"
+    },
+    {
+      "tema": "DERECHO A LA SEGURIDAD SOCIAL",
+      "subtema": "Tratamiento constitucional y legal como servicio público y como derecho fundamental"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "radicado": "T-958-10",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2010,
+  "fecha_creacion": "2010-11-26",
+  "magistrado_ponente": "Humberto Antonio Sierra Porto",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCIÓN DE TUTELA",
+  "subtema": "Improcedencia por cuanto no se configuró vulneración de la Constitución",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 975 de 2005",
+    "Ley 734 de 2002",
+    "Decreto Ley 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2010/T-958-10.htm",
+  "fecha_descarga": "2026-10-21T17:53:09.906761+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2010-11-26",
+  "fecha_publicacion": null,
+  "numero": "T-958/10",
+  "tipo_cc": "T",
+  "prov_id": "1694",
+  "tema_relatoria": null,
+  "resumen": "Debido proceso. Al accionante se le inició un proceso disciplinario debido a que en su condición de Juez Segundo de Ejecución de Penas y Medidas de Seguridad de Armenia Quindío, aplico la ley de justicia y paz a un condenado que no cumplía con el lleno de los requisitos para acceder a ella, el accionante considera que le fue vulnerado el debido proceso porque no se contó con justificación probatoria alguna que demostrara la intención de incumplir con el ordenamiento jurídico. La Sala realiza reiteración de jurisprudencia sobre la procedencia de la acción de tutela contra providencias judiciales y las causales de procedibilidad, el deber de los jueces de argumentar y analizar los elementos fácticos para adoptar una decisión judicial, el carácter vinculante del precedente judicial horizontal y vertical en el ordenamiento colombiano, se concluye que el fallo disciplinario sancionatorio fue producto de una reflexión jurídica y adopto una perspectiva distinta a la del precedente citado por el actor que consistió en analizar la conducta a la luz del error cometido y su renuencia a corregirlo, por lo tanto se decide dejar en firme la sanción disciplinaria. Negada.",
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Improcedencia por cuanto no se configuró vulneración de la Constitución"
+    },
+    {
+      "tema": "DECISION JUDICIAL",
+      "subtema": "Deber de los jueces de argumentar y analizar los elementos fácticos necesarios para adoptarla"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Reiteración de jurisprudencia sobre requisitos generales y especiales de procedibilidad"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Vulneración directa de la Constitución"
+    },
+    {
+      "tema": "PRECEDENTE JUDICIAL HORIZONTAL Y VERTICAL",
+      "subtema": "Alcance y carácter vinculante"
+    }
+  ]
+}

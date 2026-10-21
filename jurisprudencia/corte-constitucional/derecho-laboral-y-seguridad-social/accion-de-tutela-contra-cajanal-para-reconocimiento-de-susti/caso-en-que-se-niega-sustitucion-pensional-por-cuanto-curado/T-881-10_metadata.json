@@ -1,0 +1,54 @@
+{
+  "radicado": "T-881-10",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2010,
+  "fecha_creacion": "2010-11-04",
+  "magistrado_ponente": "Jorge Iván Palacio Palacio",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "ACCION DE TUTELA CONTRA CAJANAL PARA RECONOCIMIENTO DE SUSTITUCION PENSIONAL",
+  "subtema": "Caso en que se niega sustitución pensional por cuanto curador de interdicto judicial no ha desplegado conductas necesarias con el fin de lograr calificación de invalidez",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 712 de 2001"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2010/T-881-10.htm",
+  "fecha_descarga": "2026-10-21T18:10:04.716895+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2010-11-04",
+  "fecha_publicacion": null,
+  "numero": "T-881/10",
+  "tipo_cc": "T",
+  "prov_id": "1601",
+  "tema_relatoria": null,
+  "resumen": "Seguridad social, mínimo vital, igualdad, petición. El accionante actúa en representación de su hermano quien fue declarado interdicto judicial por padecer de trastornos mentales, solicita se ordene el reconocimiento y pago de la sustitución pensional a que tiene derecho como causa del fallecimiento de sus padres. La Sala realiza reiteración de jurisprudencia sobre la procedencia excepcional de la acción de tutela para el reconocimiento de pensiones, el principio de inmediatez como requisito de procedencia de la acción de tutela, la necesidad de demostrar la existencia de un perjuicio irremediable, como condición de la procedencia de la tutela de manera transitoria, se encuentra que el accionante no ha agotado los trámites para que su hermano pueda acceder a la pensión de sobreviviente, por lo tanto se le ordena iniciar las gestiones necesarias, para lograr el dictamen de perdida de capacidad laboral y proceda a radicarlo para solicitar la sustitución pensional.",
+  "titulaciones": [
+    {
+      "tema": "ACCION DE TUTELA CONTRA CAJANAL PARA RECONOCIMIENTO DE SUSTITUCION PENSIONAL",
+      "subtema": "Caso en que se niega sustitución pensional por cuanto curador de interdicto judicial no ha desplegado conductas necesarias con el fin de lograr calificación de invalidez"
+    },
+    {
+      "tema": "ACCION DE TUTELA TRANSITORIA",
+      "subtema": "Para su procedencia es necesario demostrar la existencia de perjuicio irremediable"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Improcedencia por existir otro medio de defensa judicial"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Orden de iniciar actuaciones necesarias para lograr dictamen de pérdida de capacidad laboral por parte de la Junta de Calificación Laboral y seguidamente radicarlo ante CAJANAL para reconocimiento pensional"
+    },
+    {
+      "tema": "ACCION DE TUTELA PARA RECONOCIMIENTO DE PENSION",
+      "subtema": "Procedencia excepcional"
+    },
+    {
+      "tema": "PRINCIPIO DE INMEDIATEZ",
+      "subtema": "Requisito de procedibilidad de la tutela"
+    }
+  ]
+}

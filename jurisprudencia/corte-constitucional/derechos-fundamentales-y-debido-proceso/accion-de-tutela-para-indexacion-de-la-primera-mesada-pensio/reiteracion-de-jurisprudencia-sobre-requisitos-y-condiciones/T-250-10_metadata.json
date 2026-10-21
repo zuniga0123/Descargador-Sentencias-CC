@@ -1,0 +1,48 @@
+{
+  "radicado": "T-250-10",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2010,
+  "fecha_creacion": "2010-04-16",
+  "magistrado_ponente": "Dr NILSON PINILLA PINILLA",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCION DE TUTELA PARA INDEXACION DE LA PRIMERA MESADA PENSIONAL",
+  "subtema": "Reiteración de jurisprudencia sobre requisitos y condiciones necesarias para su procedencia",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 100 de 1993",
+    "Ley 33 de 1985",
+    "Ley 171 de 1961"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2010/T-250-10.htm",
+  "fecha_descarga": "2026-10-21T17:50:22.425430+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2010-04-16",
+  "fecha_publicacion": null,
+  "numero": "T-250/10",
+  "tipo_cc": "T",
+  "prov_id": "689",
+  "tema_relatoria": null,
+  "resumen": "Vida, debido proceso, igualdad. El actor comenta que la entidad bancaria accionada no le ha realizado la indexación de su primera mesada pensional y además le esta reteniendo su actual mesada por el concepto de mayores valores girados. La Sala realiza reiteración de jurisprudencia sobre la procedencia excepcional de las acciones de tutela contra decisiones judiciales, la necesidad de agotar todos los mecanismos ordinarios y extraordinarios de defensa, el reconocimiento de indexación de la primera mesada pensional a través de la acción de tutela, se encuentra que el actor no agotó los mecanismos ordinarios de defensa por lo tanto se declara la improcedencia del amparo constitucional.",
+  "titulaciones": [
+    {
+      "tema": "ACCION DE TUTELA PARA INDEXACION DE LA PRIMERA MESADA PENSIONAL",
+      "subtema": "Reiteración de jurisprudencia sobre requisitos y condiciones necesarias para su procedencia"
+    },
+    {
+      "tema": "INDEXACION DE LA PRIMERA MESADA PENSIONAL",
+      "subtema": "Agotamiento de otros medios de defensa ordinarios y extraordinarios"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Reiteración de jurisprudencia sobre requisitos generales y especiales de procedibilidad"
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA PROVIDENCIAS JUDICIALES PARA INDEXACION DE LA PRIMERA MESADA PENSIONAL",
+      "subtema": "Improcedencia no haber agotado los mecanismos de defensa judicial sin justificación de la inactividad por parte del actor"
+    }
+  ]
+}

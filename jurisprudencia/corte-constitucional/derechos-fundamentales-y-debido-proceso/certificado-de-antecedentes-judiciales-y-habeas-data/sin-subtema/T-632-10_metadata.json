@@ -1,0 +1,80 @@
+{
+  "radicado": "T-632-10",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2010,
+  "fecha_creacion": "2010-08-13",
+  "magistrado_ponente": null,
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "CERTIFICADO DE ANTECEDENTES JUDICIALES Y HABEAS DATA",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Decreto 3738 de 2003",
+    "Decreto 643 de 2004",
+    "Ley 906 de 2004",
+    "Ley 489 de 1998",
+    "Ley 1341 de 2009",
+    "Decreto 218 de 2000",
+    "Ley 1098 de 2006"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2010/T-632-10.htm",
+  "fecha_descarga": "2026-10-21T18:09:05.286374+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2010-08-13",
+  "fecha_publicacion": null,
+  "numero": "T-632/10",
+  "tipo_cc": "T",
+  "prov_id": "1287",
+  "tema_relatoria": null,
+  "resumen": "Buen nombre, igualdad, trabajo. El accionante solicita se le expida un certificado judicial en donde no se consigne la información relacionada con un antecedente penal que tiene por el delito de invasión de tierras, comenta que dicha condena fue cumplida hace más de 20 años y que dicha anotación le esta afectando en su vida laboral. La Sala empieza por aclarar que una autoridad no puede expedir un documento público, a solicitud de un particular, con un formato que le permita a un tercero inferir información relacionada con sus antecedentes penales, aunque la pena este cumplida o prescrita, sin justificarlo suficientemente, cuando el titular no ha consentido en la divulgación de esa información, dentro del proceso el DAS no justificó de forma suficiente la razón por la cual se esta exponiendo la información del accionante, por lo tanto se declara que los derechos del mismo han sido vulnerados, se ordena expedirle un nuevo certificado judicial en el que se excluya la información relacionada con la existencia de antecedentes penales. Concedida.",
+  "titulaciones": [
+    {
+      "tema": "CERTIFICADO DE ANTECEDENTES JUDICIALES Y HABEAS DATA",
+      "subtema": null
+    },
+    {
+      "tema": "CERTIFICADO JUDICIAL",
+      "subtema": "Divulgación de información relativa a la tenencia de antecedentes penales cuando el titular no desea que otras personas conozcan esos datos"
+    },
+    {
+      "tema": "CERTIFICADO DE ANTECEDENTES PENALES",
+      "subtema": "Supone una intervención en los derechos prima facie al buen nombre y al habeas data"
+    },
+    {
+      "tema": "PROHIBICION DE INTERFERENCIA EN LOS DERECHOS FUNDAMENTALES",
+      "subtema": "Criterios que existen para determinar la proporcionalidad de la incidencia"
+    },
+    {
+      "tema": "CERTIFICADO JUDICIAL Y ANTECEDENTES PENALES POR CONDENA YA CUMPLIDA",
+      "subtema": null
+    },
+    {
+      "tema": "CERTIFICADO JUDICIAL",
+      "subtema": "El DAS no puede expedir un documento público con un formato que le permita a un tercero inferir información relacionada con antecedentes penales cuando el titular no ha consentido en divulgar esa información"
+    },
+    {
+      "tema": "CERTIFICADO JUDICIAL",
+      "subtema": "Modificación del formato en cumplimiento de sentencias de la Corte Suprema de Justicia Sala Penal"
+    },
+    {
+      "tema": "CERTIFICADO JUDICIAL",
+      "subtema": "Hecho que motivó la tutela no ha sido superado porque el problema versa sobre el sentido del certificado en su integralidad"
+    },
+    {
+      "tema": "INVERSION DE LA CARGA DE LA PRUEBA Y LA ARGUMENTACION",
+      "subtema": "Criterios usados en la jurisprudencia constitucional"
+    },
+    {
+      "tema": "DIVULGACION DEL DATO",
+      "subtema": "Carga de demostrar la legitimidad o ilegitimidad constitucional"
+    },
+    {
+      "tema": "DEPARTAMENTO ADMINISTRATIVO DE SEGURIDAD",
+      "subtema": "Es el que debía ofrecer argumentos suficientes para justificar la legitimidad constitucional de la divulgación de la información relativa a los antecedentes penales del peticionario"
+    }
+  ]
+}

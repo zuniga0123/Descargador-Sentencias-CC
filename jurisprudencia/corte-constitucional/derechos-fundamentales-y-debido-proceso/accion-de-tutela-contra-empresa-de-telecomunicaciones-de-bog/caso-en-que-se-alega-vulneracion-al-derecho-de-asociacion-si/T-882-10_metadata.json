@@ -1,0 +1,53 @@
+{
+  "radicado": "T-882-10",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2010,
+  "fecha_creacion": "2010-11-04",
+  "magistrado_ponente": "Jorge Iván Palacio Palacio",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCION DE TUTELA CONTRA EMPRESA DE TELECOMUNICACIONES DE BOGOTA",
+  "subtema": "Caso en que se alega vulneración al derecho de asociación sindical por desvinculación de cinco afiliados sin informar a la organización SINTRATELEFONOS",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 142 de 1994",
+    "Ley 50 de 1990",
+    "Ley 599 de 2000",
+    "Ley 789 de 2002"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2010/T-882-10.htm",
+  "fecha_descarga": "2026-10-21T18:10:08.481407+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2010-11-04",
+  "fecha_publicacion": null,
+  "numero": "T-882/10",
+  "tipo_cc": "T",
+  "prov_id": "1602",
+  "tema_relatoria": null,
+  "resumen": "Asociación sindical, negociación colectiva. El accionante afirma que la ETB, realiza una persecución contra los trabajadores sindicalizados, considera que la desvinculación de cinco de sus afiliados por parte de la ETB es producto de la persecución sindical, además alegan que se desconoció la prevención contenida en la sentencia T-764/05, consistente en informar a la organización sindical toda desvinculación de los trabajadores afiliados. La Sala se pronuncia sobre la legitimación del sindicato para interponer la acción a favor de sus afiliados, la legitimación pasiva de la ETB, en su calidad de empleadora de los trabajadores despedidos miembros de SINTRATELFONOS, la improcedencia general de la acción de tutela con el objetivo de alcanzar el reintegro de trabajadores, en materia de asociación sindical, no se evidencia la existencia de un perjuicio irremediable que haga procedente la presente acción, aún mas siendo palpable la participación del ente sindical, además el ente sindical cuenta con adecuados medios de defensa judicial para hacer valer los derechos alegados. Niega.",
+  "titulaciones": [
+    {
+      "tema": "ACCION DE TUTELA CONTRA EMPRESA DE TELECOMUNICACIONES DE BOGOTA",
+      "subtema": "Caso en que se alega vulneración al derecho de asociación sindical por desvinculación de cinco afiliados sin informar a la organización SINTRATELEFONOS"
+    },
+    {
+      "tema": "ACCION DE TUTELA EN MATERIA DE ASOCIACION SINDICAL",
+      "subtema": "Improcedencia por no existir duda razonable que permita inferir actos retaliatorios o de menoscabo a la libertad sindical que afecten a sus miembros o al sindicato"
+    },
+    {
+      "tema": "ACCION DE TUTELA EN MATERIA DE ASOCIACION SINDICAL",
+      "subtema": "Improcedencia general para alcanzar reintegro de trabajadores sindicalizados"
+    },
+    {
+      "tema": "DERECHO DE ASOCIACIÓN SINDICAL",
+      "subtema": "Legitimación del Sindicato para interponer acción de tutela a favor de sus afiliados"
+    },
+    {
+      "tema": "DERECHO DE ASOCIACIÓN SINDICAL",
+      "subtema": "Legitimación pasiva de ETB, en calidad de empleadora de trabajadores despedidos miembros de SINTRATELEFONOS"
+    }
+  ]
+}

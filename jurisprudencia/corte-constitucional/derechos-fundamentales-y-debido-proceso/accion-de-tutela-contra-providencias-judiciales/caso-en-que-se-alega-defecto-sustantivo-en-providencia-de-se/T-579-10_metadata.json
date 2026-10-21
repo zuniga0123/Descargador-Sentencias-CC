@@ -1,0 +1,52 @@
+{
+  "radicado": "T-579-10",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2010,
+  "fecha_creacion": "2010-07-22",
+  "magistrado_ponente": "Gabriel Eduardo Mendoza Martelo",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+  "subtema": "Caso en que se alega defecto sustantivo en providencia de segunda instancia por no haber tenido en cuenta configuración del silencio administrativo positivo al decidir acción popular",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 388 de 1997",
+    "Decreto 1 de 1984",
+    "Decreto 2591 de 1991",
+    "Ley 9 de 1989",
+    "Ley 1285 de 2009",
+    "Ley 270 de 1996",
+    "Decreto 382 de 1992",
+    "Decreto Ley 1 de 1984"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2010/T-579-10.htm",
+  "fecha_descarga": "2026-10-21T18:13:29.849099+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2010-07-22",
+  "fecha_publicacion": null,
+  "numero": "T-579/10",
+  "tipo_cc": "T",
+  "prov_id": "1189",
+  "tema_relatoria": null,
+  "resumen": "Debido proceso. Tutela contra providencia judicial. En el trámite de una acción popular, el Tribunal demandando confirmó la decisión mediante la cual se accedió a las pretensiones del demandante, ordenando el retiro de una reja que había sido instalada para impedir la entrada de vehículos automotores extraños o desconocidos al barrio Ilarco. La reja en mención la colocaron los residentes del barrio, tras considerar que había sido aprobada su instalación, en los términos en que se había solicitado, por haberse configurado un acto administrativo presunto derivado del silencio administrativo positivo. Para los demandantes, el accionado, al resolver la impugnación de la acción popular, no estimó legalmente la prueba testimonial practicada, ni tampoco estimó en su conjunto las pruebas restantes. La Sala, luego de analizar los requisitos genéricos de procedencia de la acción de tutela, consideró que en materia probatoria los jueces de instancia no incurrieron en errores de una entidad tal, que configuraran un defecto fáctico y tampoco denotaron una actuación arbitraria o injustificada que diera lugar a la configuración de un defecto sustantivo. En este orden de ideas se resuelve NEGAR el amparo solicitado.",
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Caso en que se alega defecto sustantivo en providencia de segunda instancia por no haber tenido en cuenta configuración del silencio administrativo positivo al decidir acción popular"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Improcedencia por inexistencia de defecto sustantivo"
+    },
+    {
+      "tema": "DEFECTO MATERIAL O SUSTANTIVO",
+      "subtema": "Configuración"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Causales generales y específicas de procedibilidad"
+    }
+  ]
+}

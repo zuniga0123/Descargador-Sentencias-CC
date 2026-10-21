@@ -1,0 +1,43 @@
+{
+  "radicado": "T-028-10",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2010,
+  "fecha_creacion": "2010-01-28",
+  "magistrado_ponente": "Dr NILSON PINILLA PINILLA",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "RESOLUCION DE CONTRATOS DE SERVICIOS PUBLICOS DOMICILIARIOS",
+  "subtema": "Sujeción al debido proceso",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 142 de 1994",
+    "Ley 689 de 2001"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2010/T-028-10.htm",
+  "fecha_descarga": "2026-10-21T17:59:31.199140+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2010-01-28",
+  "fecha_publicacion": null,
+  "numero": "T-028/10",
+  "tipo_cc": "T",
+  "prov_id": "400",
+  "tema_relatoria": null,
+  "resumen": "Debido proceso. El actor adquirió un bien inmueble a través de remate, cuando tomo posesión del mismo, la empresa de energía eléctrica le hizo llegar facturas por el valor de novecientos mil pesos, ante lo cual solicitó que se rompiera la solidaridad con el deudor anterior y se le permitiera cancelar la energía facturada después de la entrega del inmueble, sin embargo la entidad accionada se negó a acceder a las pretensiones del accionante. La Sala se pronuncia sobre la acción de tutela ante la suspensión o corte en la prestación de servicios públicos domiciliarios, se aplica la regla de ruptura de solidaridad ya que la empresa no suspendió el servicio después de dos periodos facturados. Concedida.",
+  "titulaciones": [
+    {
+      "tema": "RESOLUCION DE CONTRATOS DE SERVICIOS PUBLICOS DOMICILIARIOS",
+      "subtema": "Sujeción al debido proceso"
+    },
+    {
+      "tema": "CONTRATO DE PRESTACION DE SERVICIOS PUBLICOS DOMICILIARIOS",
+      "subtema": "Solidaridad"
+    },
+    {
+      "tema": "RESOLUCION DE CONTRATOS DE SERVICIOS PUBLICOS DOMICILIARIOS",
+      "subtema": "Corte del servicio no tiene carácter definitivo"
+    }
+  ]
+}

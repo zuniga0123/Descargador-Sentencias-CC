@@ -1,0 +1,51 @@
+{
+  "radicado": "T-328-10",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2010,
+  "fecha_creacion": "2010-05-10",
+  "magistrado_ponente": "Dr JORGE IVAN PALACIO PALACIO",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "LEY 546 DE 1999",
+  "subtema": "No es posible la aplicación del parágrafo 3 del artículo 42 a contrato de mutuo comercial con intereses",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 546 de 1999",
+    "Decreto 2591 de 1991",
+    "Ley 456 de 1999"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2010/T-328-10.htm",
+  "fecha_descarga": "2026-10-21T18:08:05.777717+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2010-05-10",
+  "fecha_publicacion": null,
+  "numero": "T-328/10",
+  "tipo_cc": "T",
+  "prov_id": "776",
+  "tema_relatoria": null,
+  "resumen": "Vivienda digna, acceso a la administración de justicia, debido proceso, igualdad. La accionante considera vulnerados sus derechos fundamentales debido a que tanto los juzgados como el tribunal accionado rechazaron sus solicitudes de suspensión y nulidad de los autos que libraron contra ella mandamiento de pago de unas obligaciones contraídas con el banco accionado que fueron pactadas en UPAC y que habían sido suscritas antes de la entrada en vigencia de la Ley 546 de 1999, sin que sus obligaciones hubiesen sido reestructuradas. La Sala realiza reiteración de jurisprudencia sobre la procedencia de la acción de tutela contra providencias judiciales, el principio de inmediatez como criterio general de procedencia de la acción de tutela contra providencias judiciales, el alcance del inciso tercero del artículo 42 de la Ley 546 de 1999, la aplicación exclusiva de créditos hipotecarios de vivienda, se concluye que la acción impetrada carece de relevancia constitucional, ya que busca cuestionar decisiones que negaron la suspensión y nulidad de un proceso ejecutivo hipotecario adelantado para el cobro de un crédito diferente a los de financiación de vivienda, además carece de inmediatez, por lo tanto se decide no acceder a las pretensiones. Niega.",
+  "titulaciones": [
+    {
+      "tema": "LEY 546 DE 1999",
+      "subtema": "No es posible la aplicación del parágrafo 3 del artículo 42 a contrato de mutuo comercial con intereses"
+    },
+    {
+      "tema": "LEY 546 DE 1999",
+      "subtema": "Evolución jurisprudencial de la interpretación del parágrafo 3 del artículo 42"
+    },
+    {
+      "tema": "PROCESO EJECUTIVO HIPOTECARIO DE VIVIENDA Y PRINCIPIO DE INMEDIATEZ",
+      "subtema": null
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA PROVIDENCIAS JUDICIALES Y PRINCIPIO DE INMEDIATEZ",
+      "subtema": null
+    },
+    {
+      "tema": "PROCESO EJECUTIVO HIPOTECARIO POR INCUMPLIMIENTO DE CONTRATO DE MUTUO CON INTERESES",
+      "subtema": "Decisión de no suspenderlo y declararlo nulo"
+    }
+  ]
+}

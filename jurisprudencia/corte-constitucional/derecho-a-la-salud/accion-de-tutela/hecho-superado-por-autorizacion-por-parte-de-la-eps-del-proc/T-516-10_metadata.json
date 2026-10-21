@@ -1,0 +1,46 @@
+{
+  "radicado": "T-516-10",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2010,
+  "fecha_creacion": "2010-06-21",
+  "magistrado_ponente": "Mauricio González Cuervo",
+  "area": "Derecho a la Salud",
+  "tema": "ACCIÓN DE TUTELA",
+  "subtema": "Hecho superado por autorización por parte de la EPS del procedimiento quirúrgico incluida sutura para hombro en anclaje con titanio",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 100 de 1993"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2010/T-516-10.htm",
+  "fecha_descarga": "2026-10-21T17:49:55.954376+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2010-06-21",
+  "fecha_publicacion": null,
+  "numero": "T-516/10",
+  "tipo_cc": "T",
+  "prov_id": "1004",
+  "tema_relatoria": null,
+  "resumen": "Seguridad social, salud, vida digna. El demandante solicita se le autorice la entrega de la sutura para hombro con anclaje en titanio el cual no se encuentra incluido en el POS, dicho material se requiere para realizarle una cirugía de reparación de manguito rotador y acromioplastia, la cual ya se encuentra aprobada pero no se ha podido llevar a cabo por la falta de materiales. La Sala recuerda los requisitos para solicitar mediante tutela un tratamiento médico excluido de la regulación legal y reglamentaria del derecho a la salud, durante el trámite de la acción se envió por parte de la entidad accionada el respectivo reporte, informando que la cirugía ya fue realizada, por lo tanto se declara la carencia actual de objeto por configurarse un hecho superado.",
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Hecho superado por autorización por parte de la EPS del procedimiento quirúrgico incluida sutura para hombro en anclaje con titanio"
+    },
+    {
+      "tema": "TRATAMIENTO MEDICO O MEDICAMENTO EXCLUIDO DEL POS",
+      "subtema": "Criterios establecidos por la Corte Constitucional para solicitarlo mediante acción de tutela"
+    },
+    {
+      "tema": "CARENCIA ACTUAL DE OBJETO POR HECHO SUPERADO",
+      "subtema": "Interpretación y alcance constitucional"
+    },
+    {
+      "tema": "HECHO SUPERADO",
+      "subtema": "Circunstancias que se deben examinar con el fin de confirmar su existencia"
+    }
+  ]
+}

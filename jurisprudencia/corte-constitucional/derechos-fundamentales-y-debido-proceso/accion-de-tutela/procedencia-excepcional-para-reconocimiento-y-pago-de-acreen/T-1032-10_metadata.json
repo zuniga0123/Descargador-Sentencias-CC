@@ -1,0 +1,55 @@
+{
+  "radicado": "T-1032-10",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2010,
+  "fecha_creacion": "2010-12-10",
+  "magistrado_ponente": "Mauricio González Cuervo",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCIÓN DE TUTELA",
+  "subtema": "Procedencia excepcional para reconocimiento y pago de acreencias pensionales",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Decreto 13 de 2001",
+    "Ley 797 de 2003",
+    "Decreto 758 de 1990",
+    "Ley 33 de 1985",
+    "Decreto 2591 de 1991",
+    "Decreto 2633 de 1994"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2010/T-1032-10.htm",
+  "fecha_descarga": "2026-10-21T18:01:39.105895+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2010-12-10",
+  "fecha_publicacion": null,
+  "numero": "T-1032/10",
+  "tipo_cc": "T",
+  "prov_id": "1778",
+  "tema_relatoria": null,
+  "resumen": "Debido proceso administrativo. El accionante, al considerar que cumplía los requisitos legales para obtener la pensión de vejez, presentó la documentación correspondiente ante el ISS Seccional Antioquia. La entidad demandada le negó el reconocimiento de la prestación, bajo el argumento de no acreditar el requisito de tiempo exigido por alguno de los regímenes vigentes. El demandante interpuso los recursos de ley y el ISS confirmó la decisión en todas sus partes, reiterando que el peticionario no acreditaba el número de semanas establecido en la Ley 797 de 2003, por existir una presunta mora en el pago de los aportes. En la resolución que resolvió el recurso de apelación, se evidenció que uno de los empleadores no cotizó el periodo correspondiente al mes de enero de 1985, período que hacía falta para complementar las 1.100 semanas requeridas. La Sala analizó la procedencia excepcional de la acción de tutela para reclamar el reconocimiento y pago de derechos pensionales; la inoponibilidad de la mora patronal para el reconocimiento de la pensión de vejez y el derecho al debido proceso en las actuaciones administrativas con relación a solicitudes pensionales. Se establece que el actor cumple con los requisitos legales para acceder a la pensión y que la omisión de la entidad demandada en el cobro de los aportes, no es una razón válida, ni constitucionalmente admisible, para no reconocer y ordenar el pago de la prestación reclamada. CONCEDIDA.",
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Procedencia excepcional para reconocimiento y pago de acreencias pensionales"
+    },
+    {
+      "tema": "PRINCIPIO DE OFICIOSIDAD DE LA ACCION DE TUTELA",
+      "subtema": "Caso en que el demandante solicita el amparo como mecanismo transitorio pero se le concede con carácter definitivo"
+    },
+    {
+      "tema": "DERECHO AL DEBIDO PROCESO EN ACTUACIONES ADMINISTRATIVAS CON RELACION A SOLICITUDES PENSIONALES",
+      "subtema": null
+    },
+    {
+      "tema": "DERECHO A LA PENSION DE VEJEZ Y AUSENCIA DE COTIZACIONES",
+      "subtema": "Caso en que las semanas faltantes no son imputables al actor ya que se demostró que tenía vínculo laboral vigente en esa época"
+    },
+    {
+      "tema": "INOPONIBILIDAD DE LA MORA PATRONAL PARA RECONOCIMIENTO DE PENSION DE VEJEZ",
+      "subtema": "Reiteración de jurisprudencia"
+    }
+  ]
+}

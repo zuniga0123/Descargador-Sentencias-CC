@@ -1,0 +1,52 @@
+{
+  "radicado": "T-243-10",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2010,
+  "fecha_creacion": "2010-04-08",
+  "magistrado_ponente": "Dr NILSON PINILLA PINILLA",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "ACCIÓN DE TUTELA PARA RECONOCIMIENTO DE PENSIÓN DE SOBREVIVIENTES",
+  "subtema": "Protección constitucional como mecanismo transitorio para la protección de los derechos a la seguridad social y al mínimo vital",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 797 de 2003",
+    "Decreto 1406 de 1999",
+    "Ley 100 de 1993"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2010/T-243-10.htm",
+  "fecha_descarga": "2026-10-21T18:05:55.229992+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2010-04-08",
+  "fecha_publicacion": null,
+  "numero": "T-243/10",
+  "tipo_cc": "T",
+  "prov_id": "673",
+  "tema_relatoria": null,
+  "resumen": "Mínimo vital, igualdad. La accionante solicita el reconocimiento y pago de la pensión de sobrevivientes tanto para ella como para sus hijos quienes son menores de edad, causada por el fallecimiento de su esposo, la entidad accionada se niega a reconocerle el derecho debido a que la empresa para la cual trabajaba no realizó las cotizaciones correspondientes en el año 2005, requisito necesario para completar el número de semanas requeridas por la ley. La Sala se pronuncia sobre la procedencia de la acción de tutela contra particulares, el reconocimiento y pago de la pensión de sobrevivientes y la obligación de probar la existencia de un perjuicio irremediable, se concluye que la negligencia del cobro al empleador por parte de la administradora de pensiones no es oponible a la familia del fallecido, a la cual se le están vulnerando sus derechos fundamentales, se decide conceder el amparo de manera transitoria.",
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA PARA RECONOCIMIENTO DE PENSIÓN DE SOBREVIVIENTES",
+      "subtema": "Protección constitucional como mecanismo transitorio para la protección de los derechos a la seguridad social y al mínimo vital"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA PARA RECONOCIMIENTO DE PENSIÓN DE SOBREVIVIENTES",
+      "subtema": "Obligación de probar la existencia de un perjuicio irremediable para su procedencia"
+    },
+    {
+      "tema": "PENSIÓN DE SOBREVIVIENTES",
+      "subtema": "Caso en que se niega reconocimiento pensional por incumplimiento del pago de aportes a la seguridad social por parte del empleador"
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA PARTICULARES",
+      "subtema": "Procedencia excepcional en casos en que el solicitante se encuentra en estado de subordinación o indefensión"
+    },
+    {
+      "tema": "PERJUICIO IRREMEDIABLE",
+      "subtema": "Elementos para que se configure"
+    }
+  ]
+}

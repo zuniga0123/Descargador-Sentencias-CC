@@ -1,0 +1,42 @@
+{
+  "radicado": "T-128-10",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2010,
+  "fecha_creacion": "2010-02-23",
+  "magistrado_ponente": "Dr JUAN CARLOS HENAO PÉREZ",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+  "subtema": "Inexistencia de vulneración a derechos fundamentales por desconocimiento del precedente constitucional",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 50 de 1990",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2010/T-128-10.htm",
+  "fecha_descarga": "2026-10-21T18:03:19.925007+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2010-02-23",
+  "fecha_publicacion": null,
+  "numero": "T-128/10",
+  "tipo_cc": "T",
+  "prov_id": "525",
+  "tema_relatoria": null,
+  "resumen": "Debido proceso, acceso a la administración de justicia. La accionante inició proceso ordinario solicitando el pago de varios salarios adeudados por parte de su empleador, el juzgado accionado decidió no acceder a sus pretensiones, dándole la razón a la parte demandada, la cual alegó haberle pagado un salario integral proporcional a las horas laboradas, dicha decisión fue confirmada por el Tribunal, la accionante considera que esta afirmación se basa en una interpretación ajena a los postulados legales y desconoce el precedente jurisprudencial de la Sala Laboral de la Corte Suprema de Justicia, ya que en ningún caso el salario integral podrá ser inferior a diez salarios mínimos. La Sala se pronuncia sobre el derecho al acceso a la administración de justicia y la tutela judicial efectiva, la procedencia de la acción de tutela contra providencias judiciales, el desconocimiento de los precedentes en el presente caso, se concluye que las decisiones judiciales atacadas en ningún momento violan el precedente establecido en la sentencia C-565 de 1998, pues si bien se establece precedente sobre un tope mínimo para el salario integral, el mismo fallo reconoce que dicho tope debe ser congruente con el principio de proporcionalidad en la remuneración, el cual es corolario del derecho al trabajo en condiciones dignas y justas, por lo tanto las decisiones adoptadas por las entidades accionadas en ningún momento desconocen el precedente constitucional, sino que lo respaldan al aplicar el principio de proporcionalidad. Niega.",
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Inexistencia de vulneración a derechos fundamentales por desconocimiento del precedente constitucional"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Procedencia excepcional"
+    },
+    {
+      "tema": "DERECHO DE ACCESO A LA ADMINISTRACION DE JUSTICIA Y A LA TUTELA JUDICIAL EFECTIVA",
+      "subtema": "Vulneración por parte de autoridades judiciales cuando resuelven no admitir a trámite acciones de tutela interpuestas contra providencias judiciales"
+    }
+  ]
+}

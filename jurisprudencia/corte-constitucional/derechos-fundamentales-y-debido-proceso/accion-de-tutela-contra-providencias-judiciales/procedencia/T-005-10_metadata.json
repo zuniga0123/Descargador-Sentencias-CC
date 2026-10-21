@@ -1,0 +1,45 @@
+{
+  "radicado": "T-005-10",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2010,
+  "fecha_creacion": "2010-01-14",
+  "magistrado_ponente": "Dr JORGE IGNACIO PRETELT CHALJUB",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+  "subtema": "Procedencia",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2010/T-005-10.htm",
+  "fecha_descarga": "2026-10-21T17:59:05.452544+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2010-01-14",
+  "fecha_publicacion": null,
+  "numero": "T-005/10",
+  "tipo_cc": "T",
+  "prov_id": "369",
+  "tema_relatoria": null,
+  "resumen": "Debido proceso, acceso a la administración de justicia, igualdad. La accionante solicitó ante el Juzgado Segundo Laboral del Circuito de Cali, la reliquidación de su mesada pensional, dicha decisión fue apelada y el Tribunal accionado revocó el fallo por considerar que la controversia debía ser resuelta ante la Jurisdicción Contencioso Administrativa, pero no ordeno la remisión del expediente ante la autoridad competente, ni declaró la nulidad de todo lo actuado, por lo tanto la actora considera que se incurrió en un defecto procedimental. La Sala realiza el análisis de los requisitos generales de procedibilidad de la tutela contra providencias judiciales y los aplica al presente caso, se concluye que en este caso la acción de tutela no es el escenario apropiado para discutir las circunstancias planteadas, y que puede acudir al Jurisdicción Contenciosa Administrativa para invocar allí, la protección de sus derechos. Niega.",
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Procedencia"
+    },
+    {
+      "tema": "CADUCIDAD DE LA ACCION DE NULIDAD Y RESTABLECIMIENTO DEL DERECHO",
+      "subtema": "Finalidad de la excepción señalada para los actos que reconocen prestaciones periódicas"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Improcedencia por contar con posibilidad de acudir a la jurisdicción contenciosa administrativa, en cualquier tiempo, para reclamar la reliquidación de la mesada pensional"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Requisitos generales y especiales de procedibilidad"
+    }
+  ]
+}

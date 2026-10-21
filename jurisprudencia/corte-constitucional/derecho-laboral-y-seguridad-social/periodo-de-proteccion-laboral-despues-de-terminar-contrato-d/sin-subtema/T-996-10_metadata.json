@@ -1,0 +1,53 @@
+{
+  "radicado": "T-996-10",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2010,
+  "fecha_creacion": "2010-12-31",
+  "magistrado_ponente": "Luis Ernesto Vargas Silva",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "PERIODO DE PROTECCION LABORAL DESPUES DE TERMINAR CONTRATO DE TRABAJO",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 806 de 1998",
+    "Decreto 2591 de 1991",
+    "Ley 361 de 1997",
+    "Ley 82 de 1988",
+    "Ley 100 de 1993"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2010/T-996-10.htm",
+  "fecha_descarga": "2026-10-21T17:52:32.927278+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2010-12-31",
+  "fecha_publicacion": null,
+  "numero": "T-996/10",
+  "tipo_cc": "T",
+  "prov_id": "1814",
+  "tema_relatoria": null,
+  "resumen": "Seguridad social, vida digna, mínimo vital. El actor comenta que fue despedido pese a encontrarse enfermo y por lo tanto los servicios médicos, necesarios para poderle diagnosticar su enfermedad le fueron suspendidos, solicita ser reintegrado al cargo que venía desempeñando, hasta tanto le definan y subsista su enfermedad. La Sala realiza reiteración de jurisprudencia sobre la estabilidad laboral reforzada de quienes se encuentran en circunstancia de debilidad manifiesta e indefensión como resultado del deterioro de su estado de salud, y el principio de continuidad en la prestación de los servicios médicos, de las pruebas aportadas al expediente aparece demostrado que, los derechos del actor fueron desconocidos por la entidad accionada, por lo tanto se ordena efectuar el reintegro laboral a un cargo acorde con sus actuales condiciones de salud. Concedida.",
+  "titulaciones": [
+    {
+      "tema": "PERIODO DE PROTECCION LABORAL DESPUES DE TERMINAR CONTRATO DE TRABAJO",
+      "subtema": null
+    },
+    {
+      "tema": "REINTEGRO LABORAL POR VULNERACION DEL DERECHO FUNDAMENTAL A LA ESTABILIDAD LABORAL REFORZADA",
+      "subtema": "Caso en que el demandante padece hiperglicemia"
+    },
+    {
+      "tema": "PRINCIPIO DE PREVALENCIA DE LOS DERECHOS FUNDAMENTALES",
+      "subtema": null
+    },
+    {
+      "tema": "PRINCIPIO DE CONTINUIDAD EN LA PRESTACION DEL SERVICIO DE SALUD",
+      "subtema": "Imposibilidad de interrumpir de manera intempestiva servicio médico cuando no se ha logrado el restablecimiento pleno de la salud del paciente"
+    },
+    {
+      "tema": "DERECHO A LA ESTABILIDAD LABORAL REFORZADA DE PERSONA EN ESTADO DE DEBILIDAD MANIFIESTA POR RAZONES DE SALUD",
+      "subtema": "Reglas jurisprudenciales"
+    }
+  ]
+}

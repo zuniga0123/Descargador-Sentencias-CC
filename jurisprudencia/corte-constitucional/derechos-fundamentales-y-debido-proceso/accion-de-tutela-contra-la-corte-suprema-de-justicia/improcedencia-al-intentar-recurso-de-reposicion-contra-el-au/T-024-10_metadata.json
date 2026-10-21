@@ -1,0 +1,47 @@
+{
+  "radicado": "T-024-10",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2010,
+  "fecha_creacion": "2010-01-26",
+  "magistrado_ponente": "Dr JORGE IGNACIO PRETELT CHALJUB",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCION DE TUTELA CONTRA LA CORTE SUPREMA DE JUSTICIA",
+  "subtema": "Improcedencia al intentar recurso de reposición contra el auto inadmisorio de la demanda de casación",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 600 de 2000",
+    "Decreto 1382 de 2000",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2010/T-024-10.htm",
+  "fecha_descarga": "2026-10-21T17:59:27.563382+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2010-01-26",
+  "fecha_publicacion": null,
+  "numero": "T-024/10",
+  "tipo_cc": "T",
+  "prov_id": "393",
+  "tema_relatoria": null,
+  "resumen": "Debido proceso. El actor fue condenado por el delito de hurto agravado, dicha decisión fue confirmada por el Tribunal Superior de Bogota, interpuso recurso extraordinario de Casación, el cual fue indamitido y declarado desierto, señala que tan pronto se sucedió la notificación por estado, sin esperarse el término de ejecutoria ni ordenarse los traslados de ley respectivos, se produjo un auto claramente violatorio del debido proceso, ya que se declaro: “no es procedente el recurso de reposición contra la providencia mediante la cual se inadmite la demanda de casación”. La Sala realiza reiteración de jurisprudencia sobre la procedencia excepcional de la acción de tutela contra providencias judiciales, la vía de hecho en materia de interpretación de normas, se concluye que la Sala de Casación Penal de la Corte Suprema, al decidir sobre el recurso de reposición, se avenía a derecho, en razón de que la interpretación dada al inciso segundo del artículo 187, no es contraria al ordenamiento jurídico vigente, por lo tanto se decide no acceder a la protección de los derechos invocados por el actor. Niega",
+  "titulaciones": [
+    {
+      "tema": "ACCION DE TUTELA CONTRA LA CORTE SUPREMA DE JUSTICIA",
+      "subtema": "Improcedencia al intentar recurso de reposición contra el auto inadmisorio de la demanda de casación"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Reiteración de jurisprudencia sobre requisitos generales y especiales de procedibilidad"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Procedencia excepcional por vía de hecho judicial"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Procedencia"
+    }
+  ]
+}

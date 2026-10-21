@@ -1,0 +1,55 @@
+{
+  "radicado": "T-693-10",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2010,
+  "fecha_creacion": "2010-09-03",
+  "magistrado_ponente": "Dra María Victoria Calle Correa",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "DETENCION DOMICILIARIA",
+  "subtema": "Sustitución de detención preventiva por lugar de residencia cuando imputado es padre cabeza de familia si se constata incapacidad de la madre para proveer cuidado y protección de hijos menores de edad o con discapacidad",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 906 de 2004",
+    "Ley 82 de 1993",
+    "Ley 750 de 2002",
+    "Decreto 190 de 2003",
+    "Ley 790 de 2002",
+    "Ley 1142 de 2007",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2010/T-693-10.htm",
+  "fecha_descarga": "2026-10-21T18:11:15.048917+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2010-09-03",
+  "fecha_publicacion": null,
+  "numero": "T-693/10",
+  "tipo_cc": "T",
+  "prov_id": "1359",
+  "tema_relatoria": null,
+  "resumen": "detención preventiva intramuros por detención domiciliaria, por encontrar que el procesado ostentaba la calidad de padre cabeza de familia, ya que la madre de su hija sufre de trastornos depresivos y es bipolar, sin embargo la Sala Penal del Tribunal Superior del Distrito Judicial revocó la decisión, argumentando que si bien la madre la menor padece de un trastorno de personalidad, el mismo no la inhabilita para ejercer su rol de madre, alega que el Tribunal tergiversó el dictamen de medicina legal, por lo tanto solicita se reestablezcan los derechos de la menor y se suspenda la aplicación de la medida intramural. La Sala realiza reiteración de jurisprudencia sobre la procedencia de la acción de tutela contra providencias judiciales, la protección constitucional de la mujer cabeza de familia, la sustitución de la detención preventiva por la del lugar de la residencia cuando el imputado es padre cabeza de familia de menor de edad, la ausencia de desconocimiento del interés superior de la menor por la Sala Penal del Tribunal Superior del Distrito Judicial de Bogotá, del material probatorio aportado se desprende que el Tribunal cuestionado no incurrió en una violación del debido proceso al negarle la medida de detención domiciliaria al accionante ya que no reúne los requisitos legales para ser considerado padre cabeza de familia, pues la madre de la menor cuenta con la capacidad de continuar con el cuidado y protección de la menor y de si misma. Niega.",
+  "titulaciones": [
+    {
+      "tema": "DETENCION DOMICILIARIA",
+      "subtema": "Sustitución de detención preventiva por lugar de residencia cuando imputado es padre cabeza de familia si se constata incapacidad de la madre para proveer cuidado y protección de hijos menores de edad o con discapacidad"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Reiteración de jurisprudencia sobre requisitos generales y especiales de procedibilidad"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Improcedencia por cuanto el actor no reúne los requisitos de ley para ser considerado padre cabeza de familia"
+    },
+    {
+      "tema": "MUJER CABEZA DE FAMILIA",
+      "subtema": "Protección constitucional especial"
+    },
+    {
+      "tema": "DETENCION DOMICILIARIA",
+      "subtema": "No tiene por finalidad favorecer a uno u otro padre, sino la efectiva protección de quienes se encuentran en especial condición de vulnerabilidad y dependencia"
+    }
+  ]
+}

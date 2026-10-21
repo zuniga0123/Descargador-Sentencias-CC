@@ -1,0 +1,61 @@
+{
+  "radicado": "T-515-10",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2010,
+  "fecha_creacion": "2010-06-21",
+  "magistrado_ponente": "Mauricio González Cuervo",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "DERECHO A LA VIVIENDA DIGNA DE POBLACIÓN DESPLAZADA",
+  "subtema": "Reiteración del carácter fundamental respecto a la población en desplazamiento",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 591 de 2001",
+    "Decreto 4911 de 2009",
+    "Decreto 951 de 2001",
+    "Decreto 975 de 2004",
+    "Decreto 2591 de 1991",
+    "Decreto 4429 de 2005",
+    "Ley 387 de 1997",
+    "Decreto 2569 de 2000",
+    "Decreto 2100 de 2005"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2010/T-515-10.htm",
+  "fecha_descarga": "2026-10-21T17:57:51.606324+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2010-06-21",
+  "fecha_publicacion": null,
+  "numero": "T-515/10",
+  "tipo_cc": "T",
+  "prov_id": "1003",
+  "tema_relatoria": null,
+  "resumen": "Vivienda digna, mínimo vital, debido proceso. El actor manifiesta que la entidad accionada se ha negado a reconocerle un subsidio de vivienda, argumentando que uno de sus miembros es propietario de un predio en el lugar donde fueron desplazados. La Sala pasa a estudiar como asunto previo la temeridad en la presente acción, se encuentra que si bien la accionante presentó una anterior acción de tutela contra la misma entidad, los hechos no son los mismos, en consecuencia no se evidencia temeridad en el presente caso, luego se pronuncia sobre el retorno o reubicación como modalidades para el acceso de la población desplazada al subsidio de vivienda, y el derecho a la vivienda digna de la población desplazada, se concluye que la entidad accionada vulneró los derechos de la accionante, por lo tanto se ordena realizar un estudio de seguridad de la zona de retorno, para que la accionante pueda tomar una decisión sobre su retorno o reubicación, sí las condiciones de seguridad son adecuadas para que se produzca el retorno, no puede ser beneficiara del subsidio por cuanto un miembro de su grupo familiar es propietario de un bien en la zona de retorno. Concede.",
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA VIVIENDA DIGNA DE POBLACIÓN DESPLAZADA",
+      "subtema": "Reiteración del carácter fundamental respecto a la población en desplazamiento"
+    },
+    {
+      "tema": "DERECHO AL RETORNO Y A LA REUBICACION DE LA POBLACION DESPLAZADA",
+      "subtema": "Vulneración por parte de Fonvivienda al no demostrar certeza sobre las condiciones de seguridad que permitieran el retorno de la actora y su grupo familiar"
+    },
+    {
+      "tema": "DERECHO AL RETORNO Y A LA REUBICACION DE LA POBLACION DESPLAZADA",
+      "subtema": "Obligación del Estado de verificar las condiciones de seguridad para que se pueda hacer efectivo el retorno"
+    },
+    {
+      "tema": "ACCION DE TUTELA TEMERARIA",
+      "subtema": "Reiteración de jurisprudencia"
+    },
+    {
+      "tema": "SUBSIDIO DE VIVIENDA PARA LA POBLACION DESPLAZADA",
+      "subtema": "Alcance y contenido de las soluciones otorgadas por el Decreto 591 de 2001 y el Decreto 4911 de 2009 en materia de vivienda para las victimas del desplazamiento forzado"
+    },
+    {
+      "tema": "SUBSIDIO DE VIVIENDA PARA LA POBLACION DESPLAZADA",
+      "subtema": "No puede negarse argumentando que un miembro del núcleo familiar registra una propiedad, cuando el inmueble está ubicado en el lugar donde se generó el desplazamiento"
+    }
+  ]
+}

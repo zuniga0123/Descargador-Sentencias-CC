@@ -1,0 +1,45 @@
+{
+  "radicado": "T-919-10",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2010,
+  "fecha_creacion": "2010-11-17",
+  "magistrado_ponente": "Luis Ernesto Vargas Silva",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "DERECHO A LA PENSIÓN DE INVALIDEZ",
+  "subtema": "Entidades están obligadas a calificar el grado de invalidez de una persona conforme al artículo 41 de la Ley 100 de 1993",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Decreto 2591 de 1991",
+    "Ley 962 de 2005",
+    "Decreto 2463 de 2001",
+    "Decreto 917 de 1999"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2010/T-919-10.htm",
+  "fecha_descarga": "2026-10-21T18:10:45.036600+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2010-11-17",
+  "fecha_publicacion": null,
+  "numero": "T-919/10",
+  "tipo_cc": "T",
+  "prov_id": "1652",
+  "tema_relatoria": null,
+  "resumen": "Salud, igualdad. El actor solicita que se ordene a las entidades accionadas que efectúen una valoración de pérdida de capacidad laboral, sin tener que pagar por este servicio ya que no cuenta con los recursos suficientes para sufragarlo. La Sala se pronuncia sobre el carácter fundamental del derecho a la pensión de invalidez, y las entidades obligadas a calificar el grado de invalidez de una persona conforme al artículo 41 de la ley 100 de 1993, se concluye que el ISS vulneró los derechos a la seguridad social y al debido proceso del actor, por lo tanto se ordena que proceda a autorizar y realizar la calificación de pérdida de capacidad laboral. Concedida.",
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA PENSIÓN DE INVALIDEZ",
+      "subtema": "Entidades están obligadas a calificar el grado de invalidez de una persona conforme al artículo 41 de la Ley 100 de 1993"
+    },
+    {
+      "tema": "ACCION DE TUTELA PARA RECONOCIMIENTO DE PENSION DE INVALIDEZ",
+      "subtema": "Procede por cuanto los argumentos del ISS carecen de justificación legal para negar la solicitud"
+    },
+    {
+      "tema": "PENSIÓN DE INVALIDEZ",
+      "subtema": "Caso en que ISS niega calificación de pérdida de capacidad laboral, argumentando la calidad de inactivo del asegurado, así como ausencia de documentación indispensable para la experticia"
+    }
+  ]
+}

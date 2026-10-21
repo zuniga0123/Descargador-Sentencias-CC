@@ -1,0 +1,58 @@
+{
+  "radicado": "T-552-10",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2010,
+  "fecha_creacion": "2010-07-06",
+  "magistrado_ponente": "Dr JORGE IGNACIO PRETELT CHALJUB",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCIÓN DE TUTELA",
+  "subtema": "Procedencia excepcional para el reconocimiento y pago de acreencias laborales y pensionales",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 1151 de 2007",
+    "Ley 100 de 1993",
+    "Decreto 1295 de 1994",
+    "Decreto 2591 de 1991",
+    "Decreto Ley 1295 de 1994",
+    "Ley 776 de 2002"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2010/T-552-10.htm",
+  "fecha_descarga": "2026-10-21T17:58:50.635649+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2010-07-06",
+  "fecha_publicacion": null,
+  "numero": "T-552/10",
+  "tipo_cc": "T",
+  "prov_id": "1127",
+  "tema_relatoria": null,
+  "resumen": "Salud, vida digna, mínimo vital. El accionante sufrió un accidente de trabajo, lo cual le ha ocasionado varias incapacidades, que la ARP accionada no ha querido reconocer y pagar debido a que cuando sufrió el accidente se encontraba en proceso de traslado de ARP, y no estaba registrado en el sistema, solicita se ordene a su empleador el pago de las incapacidades hasta que exista un pronunciamiento de la ARP, además se le dio por terminado el contrato laboral quedando en estado de indefensión ya que se encuentra enfermo y desempleado. La Sala realiza reiteración de jurisprudencia sobre la procedencia excepcional de la acción de tutela para obtener el pago de las incapacidades laborales, las entidades competentes para el reconocimiento y pago de las prestaciones económicas derivadas de un accidente de trabajo, de las pruebas allegadas se concluye que la ARP, sí tenía conocimiento del accidente sufrido por el accionante y con ello se desvirtúa su argumento para negar el pago de las incapacidades consistente en no estar el actor en el sistema en el momento del accidente, por lo tanto se le vulneraron los derechos fundamentales, se ordena a la ARP accionada pagar las incapacidades laborales correspondientes. Concede.",
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Procedencia excepcional para el reconocimiento y pago de acreencias laborales y pensionales"
+    },
+    {
+      "tema": "PAGO DE INCAPACIDAD LABORAL POR ENFERMEDAD GENERAL",
+      "subtema": "Corresponde a Entidades Promotoras de Salud cuando son afiliados al régimen contributivo en salud"
+    },
+    {
+      "tema": "AFECTACION DEL MINIMO VITAL",
+      "subtema": "Cuando no se cumple con las prestaciones económicas que se derivan de incapacidades laborales por parte de la ARP"
+    },
+    {
+      "tema": "DERECHO AL MINIMO VITAL",
+      "subtema": "Vulneración por parte de la ARP al encontrarse probados los requisitos exigidos por la jurisprudencia para el pago de incapacidades laborales"
+    },
+    {
+      "tema": "INCAPACIDAD LABORAL",
+      "subtema": "Caso en que existe controversia sobre la entidad competente para el pago y reconocimiento de prestaciones económicas derivadas de accidente de trabajo"
+    },
+    {
+      "tema": "PAGO DE INCAPACIDAD LABORAL POR ENFERMEDAD PROFESIONAL O ACCIDENTE DE TRABAJO",
+      "subtema": "Corresponde a Administradoras de Riesgos Profesionales"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "radicado": "T-275-10",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2010,
+  "fecha_creacion": "2010-04-19",
+  "magistrado_ponente": "Dr JORGE IGNACIO PRETELT CHALJUB",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "ACCION DE TUTELA PARA RECONOCIMIENTO DE PRESTACIONES SOCIALES",
+  "subtema": "Procede excepcionalmente cuando se prueba de manera sumaria la configuración de un perjuicio irremediable a causa del no pago",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Ley 48 de 1993",
+    "Ley 71 de 1988",
+    "Decreto 2591 de 1991",
+    "Decreto 758 de 1990",
+    "Ley 33 de 1985",
+    "Ley 712 de 2001",
+    "Ley 1276 de 2009",
+    "Decreto 2709 de 1994"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2010/T-275-10.htm",
+  "fecha_descarga": "2026-10-21T18:06:58.754548+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2010-04-19",
+  "fecha_publicacion": null,
+  "numero": "T-275/10",
+  "tipo_cc": "T",
+  "prov_id": "710",
+  "tema_relatoria": null,
+  "resumen": "Seguridad social, mínimo vital, debido proceso, vida digna, igualdad. El accionante solicita el reconocimiento y pago de su mesada pensional, dicha pensión le ha sido negada por no cumplir con el número de semanas legalmente requerido. La Sala estudia la procedencia de la acción de tutela para controvertir actos administrativos, la procedencia excepcional de la acción de tutela para el reconocimiento de prestaciones sociales incluida la pensión, el régimen de transición en materia pensional, el principio de favorabilidad en la interpretación de normas laborales, se encuentra que el actor es beneficiario del régimen de transición y cumple con los requisito para acceder a la pensión de vejez, se ordena el reconocimiento y pago de dicha pensión. Concede.",
+  "titulaciones": [
+    {
+      "tema": "ACCION DE TUTELA PARA RECONOCIMIENTO DE PRESTACIONES SOCIALES",
+      "subtema": "Procede excepcionalmente cuando se prueba de manera sumaria la configuración de un perjuicio irremediable a causa del no pago"
+    },
+    {
+      "tema": "PRINCIPIO DE FAVORABILIDAD LABORAL",
+      "subtema": "Elementos"
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA ACTO ADMINISTRATIVO",
+      "subtema": "Procedencia excepcional"
+    },
+    {
+      "tema": "DERECHO AL REGIMEN DE TRANSICION EN MATERIA PENSIONAL",
+      "subtema": "Desarrollo legal de normativa aplicable"
+    },
+    {
+      "tema": "PRINCIPIO DE FAVORABILIDAD EN LA INTERPRETACION DE NORMAS LABORALES",
+      "subtema": "En caso de duda se hace imperativo que el funcionario judicial apoye la decisión más benéfica para el trabajador"
+    },
+    {
+      "tema": "PENSION DE VEJEZ",
+      "subtema": "Procedencia para el reconocimiento y pago por cuanto el actor es beneficiario del régimen de transición"
+    },
+    {
+      "tema": "TIEMPO DE PRESTACION DE SERVICIO MILITAR OBLIGATORIO",
+      "subtema": "Debe computarse como tiempo de servicio válido para trámite de pensión de jubilación"
+    }
+  ]
+}

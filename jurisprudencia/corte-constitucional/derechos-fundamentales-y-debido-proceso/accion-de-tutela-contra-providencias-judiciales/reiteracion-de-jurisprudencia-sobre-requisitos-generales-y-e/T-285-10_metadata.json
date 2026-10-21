@@ -1,0 +1,43 @@
+{
+  "radicado": "T-285-10",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2010,
+  "fecha_creacion": "2010-04-19",
+  "magistrado_ponente": "Dr GABRIEL EDUARDO MENDOZA MARTELO",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+  "subtema": "Reiteración de jurisprudencia sobre requisitos generales y especiales de procedibilidad",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Ley 797 de 2003",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2010/T-285-10.htm",
+  "fecha_descarga": "2026-10-21T18:07:09.876910+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2010-04-19",
+  "fecha_publicacion": null,
+  "numero": "T-285/10",
+  "tipo_cc": "T",
+  "prov_id": "719",
+  "tema_relatoria": null,
+  "resumen": "Debido proceso. El actor inició un proceso de exoneración de cuota alimentaría, debido a que se le esta descontando de su mesada pensional 350 mil pesos pese a que su hijo cuenta con mas de 25 años de edad, el juzgado accionado decidió no acceder a sus pretensiones debido a que el joven se encuentra en el último semestre de su carrera universitaria, el accionante considera que se incurrió en una vía de hecho al no valorar debidamente el material probatorio aportado ya que transcurrió mucho tiempo entre la época en que se graduó de bachiller y la época en que empezó a estudiar. La Sala realiza reiteración de jurisprudencia sobre la procedencia de la acción de tutela contra las providencias judiciales, se encuentra que la sentencia acusada no se enmarca en ninguno de los requisitos específicos de procedibilidad de la tutela contra providencias judiciales, por lo tanto se decide no acceder a las pretensiones del accionante. Niega.",
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Reiteración de jurisprudencia sobre requisitos generales y especiales de procedibilidad"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Improcedencia por no enmarcarse en ninguno de los requisitos especiales de procedibilidad"
+    },
+    {
+      "tema": "ALIMENTOS A HIJO",
+      "subtema": "Caso en que el actor pretende exoneración alimentaria por cuanto su hijo cumplió 25 años de edad"
+    }
+  ]
+}

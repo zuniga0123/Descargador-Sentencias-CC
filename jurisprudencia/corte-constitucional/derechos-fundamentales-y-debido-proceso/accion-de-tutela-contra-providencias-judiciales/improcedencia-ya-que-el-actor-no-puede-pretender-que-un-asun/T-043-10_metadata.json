@@ -1,0 +1,53 @@
+{
+  "radicado": "T-043-10",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2010,
+  "fecha_creacion": "2010-02-10",
+  "magistrado_ponente": "Dr NILSON PINILLA PINILLA",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+  "subtema": "Improcedencia ya que el actor no puede pretender que un asunto resuelto en derecho sea modificado por el juez de tutela",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 712 de 2001",
+    "Decreto 2591 de 1991",
+    "Ley 906 de 2004",
+    "Ley 222 de 1995",
+    "Decreto 204 de 1957"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2010/T-043-10.htm",
+  "fecha_descarga": "2026-10-21T18:00:00.962218+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2010-02-10",
+  "fecha_publicacion": null,
+  "numero": "T-043/10",
+  "tipo_cc": "T",
+  "prov_id": "444",
+  "tema_relatoria": null,
+  "resumen": "Debido proceso, asociación sindical, trabajo, seguridad social, mínimo vital. El actor comenta que fue despedido pese a que gozaba de fuero sindical, el Tribunal accionado en acción especial de fuero sindical, decidió no acceder a la protección del fuero argumentando que la empresa se encuentra en liquidación y por lo tanto ya no existe, el actor considera que dicha decisión incurrió en varias vías de hecho, en defecto sustantivo por aplicación indebida de la ley laboral, en defecto fáctico y orgánico por considerar sin pruebas que la empresa dejó de existir jurídicamente, solicita se deje sin efectos la sentencia proferida y se ordené su reintegro y los salarios dejados de percibir. La Sala se pronuncia sobre la procedencia de la acción de tutela contra decisiones judiciales, se concluye que el debido proceso fue acatado por lo tanto no se encontraron probadas las vías de hecho planteadas por el actor. Niega.",
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Improcedencia ya que el actor no puede pretender que un asunto resuelto en derecho sea modificado por el juez de tutela"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Procedencia excepcional"
+    },
+    {
+      "tema": "REINTEGRO DE TRABAJADORES AFORADOS EN EMPRESAS EN LIQUIDACION",
+      "subtema": "Reiteración de jurisprudencia relacionado con que el reintegro es física y jurídicamente imposible"
+    },
+    {
+      "tema": "PROCESOS ESPECIALES DE FUERO SINDICAL",
+      "subtema": "La decisión de primera instancia es apelable en el efecto suspensivo pero contra la decisión del Tribunal no cabe recurso alguno"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Requisitos generales y especiales de procedibilidad"
+    }
+  ]
+}

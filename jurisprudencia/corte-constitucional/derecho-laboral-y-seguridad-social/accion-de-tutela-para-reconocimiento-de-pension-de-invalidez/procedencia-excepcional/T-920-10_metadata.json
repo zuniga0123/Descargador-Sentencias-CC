@@ -1,0 +1,45 @@
+{
+  "radicado": "T-920-10",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2010,
+  "fecha_creacion": "2010-11-17",
+  "magistrado_ponente": "Nilson Pinilla Pinilla",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "ACCION DE TUTELA PARA RECONOCIMIENTO DE PENSION DE INVALIDEZ",
+  "subtema": "Procedencia excepcional",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Decreto 758 de 1990",
+    "Ley 100 de 1993",
+    "Decreto 1406 de 1999",
+    "Decreto 2633 de 1994"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2010/T-920-10.htm",
+  "fecha_descarga": "2026-10-21T18:10:48.754903+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2010-11-17",
+  "fecha_publicacion": null,
+  "numero": "T-920/10",
+  "tipo_cc": "T",
+  "prov_id": "1653",
+  "tema_relatoria": null,
+  "resumen": "Mínimo vital, seguridad social, vida digna. El accionante solicita el reconocimiento y pago de su pensión de vejez, la cual le ha sido negada por no cumplir con el número mínimo de semanas requeridas para acceder a la misma, debido a que el ISS no sumó las semanas en que trabajo con diferentes empresas. La Sala realiza reiteración de jurisprudencia sobre la procedencia excepcional de la acción de tutela para obtener el reconocimiento y pago de la pensión de vejez, la mora en el pago de aportes y cotizaciones pensionales, se encuentra que el ISS, no contabilizó los ciclos cotizados extemporáneamente como trabajador independiente, ni las semanas correspondientes a los períodos laborados por el actor con las dos empresas y pretende responsabilizarlo por la mora en el pago del empleador, vulnerando sus derechos fundamentales, por lo tanto se ordena reconocer y sumar los tiempos laborados por le mismo para que pueda acceder a su pensión de vejez. Concedida.",
+  "titulaciones": [
+    {
+      "tema": "ACCION DE TUTELA PARA RECONOCIMIENTO DE PENSION DE INVALIDEZ",
+      "subtema": "Procedencia excepcional"
+    },
+    {
+      "tema": "ALLANAMIENTO A LA MORA EN EL PAGO DE APORTES Y COTIZACIONES PENSIONALES",
+      "subtema": null
+    },
+    {
+      "tema": "PENSION DE VEJEZ",
+      "subtema": "Orden al ISS de reconocer mesada pensional con inclusión en la nómina, pagar valor total de mesadas adeudadas desde el momento en que ha debido reconocer la pensión"
+    }
+  ]
+}

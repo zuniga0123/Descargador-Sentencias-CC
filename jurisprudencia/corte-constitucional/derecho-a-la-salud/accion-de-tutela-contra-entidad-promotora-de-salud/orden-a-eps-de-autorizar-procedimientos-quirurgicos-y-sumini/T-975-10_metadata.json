@@ -1,0 +1,46 @@
+{
+  "radicado": "T-975-10",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2010,
+  "fecha_creacion": "2010-12-01",
+  "magistrado_ponente": "Mauricio González Cuervo",
+  "area": "Derecho a la Salud",
+  "tema": "ACCION DE TUTELA CONTRA ENTIDAD PROMOTORA DE SALUD",
+  "subtema": "Orden a EPS de autorizar procedimientos quirúrgicos y suministros requeridos, conforme a prescripción hecha por médico tratante",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 100 de 1993"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2010/T-975-10.htm",
+  "fecha_descarga": "2026-10-21T17:52:14.425178+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2010-12-01",
+  "fecha_publicacion": null,
+  "numero": "T-975/10",
+  "tipo_cc": "T",
+  "prov_id": "1723",
+  "tema_relatoria": null,
+  "resumen": "Salud, vida digna. A la accionante su médico tratante le recomendó una cirugía de corrección de flacidez de muslos y atrofia mamaria bilateral, la cual le fue negada por la Entidad accionada por considerar que se trata de una cirugía estética, alega la accionante que dicha cirugía debe ser considerada como parte del tratamiento integral derivada de una previa cirugía de BYPASS GASTRICO. La Sala realiza reiteración de jurisprudencia sobre el derecho fundamental a la salud y a la continuidad en la prestación del servicio, se estudia la Doctrina Constitucional sobre la cirugía plástica reconstructiva con carácter funcional y las cirugías estéticas con fines de embellecimiento, se encuentra que las cirugías ordenadas por el médico tratante son de carácter reconstructivo y funcional, por cuanto buscan corregir los problemas generados por obesidad mórbida, por lo tanto se ordena a la entidad accionada autorizar la",
+  "titulaciones": [
+    {
+      "tema": "ACCION DE TUTELA CONTRA ENTIDAD PROMOTORA DE SALUD",
+      "subtema": "Orden a EPS de autorizar procedimientos quirúrgicos y suministros requeridos, conforme a prescripción hecha por médico tratante"
+    },
+    {
+      "tema": "CIRUGÍA PLÁSTICA RECONSTRUCTIVA CON CARÁCTER FUNCIONAL",
+      "subtema": "Caso en que se niega la realización de dermolipectomía bilateral de muslos y corrección de prótesis mamaria bilateral ordenadas por el médico tratante"
+    },
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Doctrina constitucional sobre su carácter fundamental y la continuidad en la prestación del servicio"
+    },
+    {
+      "tema": "CIRUGÍA PLÁSTICA RECONSTRUCTIVA CON CARÁCTER FUNCIONAL",
+      "subtema": "Inclusión en el POS-C cuando buscan la reparación de la capacidad funcional y la corrección de alguna alteración anatómica que genere mal funcionamiento de parte del cuerpo u órgano del mismo"
+    }
+  ]
+}

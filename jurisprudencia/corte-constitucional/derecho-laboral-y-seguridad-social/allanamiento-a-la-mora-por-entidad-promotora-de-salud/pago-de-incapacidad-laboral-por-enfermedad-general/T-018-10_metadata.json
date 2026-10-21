@@ -1,0 +1,51 @@
+{
+  "radicado": "T-018-10",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2010,
+  "fecha_creacion": "2010-01-22",
+  "magistrado_ponente": "Dr JUAN CARLOS HENAO PÉREZ",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "ALLANAMIENTO A LA MORA POR ENTIDAD PROMOTORA DE SALUD",
+  "subtema": "Pago de incapacidad laboral por enfermedad general",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 1804 de 1999",
+    "Ley 100 de 1993",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2010/T-018-10.htm",
+  "fecha_descarga": "2026-10-21T17:59:20.140437+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2010-01-22",
+  "fecha_publicacion": null,
+  "numero": "T-018/10",
+  "tipo_cc": "T",
+  "prov_id": "386",
+  "tema_relatoria": null,
+  "resumen": "Mínimo vital, seguridad social, igualdad. El actor se encuentra cotizando a la empresa accionada como trabajador independiente, sufrió un trauma en el antebrazo por lo cual su médico tratante le emitió una serie de incapacidades, pero la entidad accionada se ha negado a cancelarlas debido a que el actor realizo el pago de algunos aportes de manera extemporánea, solicita se ordene el pago de las incapacidades adeudadas. La Sala se pronuncia sobre la procedencia excepcional de la acción de tutela para solicitar el pago de las acreencias laborales, el allanamiento a la mora en el pago de los aportes al sistema de seguridad social y el pago de licencias por incapacidad general y el allanamiento en mora, se ordena a la entidad accionada devolver el valor de la incapacidad por enfermedad general del actor. Concedida.",
+  "titulaciones": [
+    {
+      "tema": "ALLANAMIENTO A LA MORA POR ENTIDAD PROMOTORA DE SALUD",
+      "subtema": "Pago de incapacidad laboral por enfermedad general"
+    },
+    {
+      "tema": "INCAPACIDAD LABORAL",
+      "subtema": "Pago de la prestación económica surgido de la enfermedad general constituye una garantía para la salud, el mínimo vital y la seguridad social del trabajador"
+    },
+    {
+      "tema": "INCAPACIDAD POR ENFERMEDAD GENERAL Y ALLANAMIENTO A LA MORA",
+      "subtema": null
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Procedencia para reconocimiento y pago de acreencias laborales"
+    },
+    {
+      "tema": "INCAPACIDAD LABORAL",
+      "subtema": "Pago por allanamiento a la mora por EPS"
+    }
+  ]
+}

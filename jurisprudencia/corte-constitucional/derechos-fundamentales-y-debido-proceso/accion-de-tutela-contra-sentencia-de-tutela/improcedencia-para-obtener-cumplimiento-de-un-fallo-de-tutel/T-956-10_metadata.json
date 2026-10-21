@@ -1,0 +1,41 @@
+{
+  "radicado": "T-956-10",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2010,
+  "fecha_creacion": "2010-11-25",
+  "magistrado_ponente": "Jorge Iván Palacio Palacio",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCION DE TUTELA CONTRA SENTENCIA DE TUTELA",
+  "subtema": "Improcedencia para obtener cumplimiento de un fallo de tutela previo",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2010/T-956-10.htm",
+  "fecha_descarga": "2026-10-21T17:53:02.375083+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2010-11-25",
+  "fecha_publicacion": null,
+  "numero": "T-956/10",
+  "tipo_cc": "T",
+  "prov_id": "1692",
+  "tema_relatoria": null,
+  "resumen": "Vida digna, salud, familia. El accionante solicita se le de cumplimiento a las ordenes impartidas en un fallo de tutela anterior, en el que se autorizó realizar tratamiento para la fertilidad. La Sala estudia la procedencia de la acción de tutela para obtener el cumplimiento de un fallo de tutela previo, se concluye que la acción resulta improcedente, ya que lo que en este caso cabe es un incidente de desacato.",
+  "titulaciones": [
+    {
+      "tema": "ACCION DE TUTELA CONTRA SENTENCIA DE TUTELA",
+      "subtema": "Improcedencia para obtener cumplimiento de un fallo de tutela previo"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Improcedencia para solicitar cumplimiento de decisiones proferidas por juez constitucional"
+    },
+    {
+      "tema": "CUMPLIMIENTO FALLO DE TUTELA",
+      "subtema": "Incidente de desacato o solicitud de cumplimiento ante el juez de primera instancia como procedimiento expedito para obtener la ejecución de las órdenes impartidas en el amparo constitucional"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "radicado": "T-100-10",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2010,
+  "fecha_creacion": "2010-02-15",
+  "magistrado_ponente": "Dr JUAN CARLOS HENAO PÉREZ",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "PRINCIPIO DE INMEDIATEZ EN ACCION DE TUTELA",
+  "subtema": "Reglas generales",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2117 de 1994",
+    "Decreto 2631 de 1998",
+    "Decreto 3404 de 1983",
+    "Decreto 2591 de 1992",
+    "Decreto 2591 de 1991",
+    "Decreto 2361 de 1998"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2010/T-100-10.htm",
+  "fecha_descarga": "2026-10-21T18:01:05.189508+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2010-02-15",
+  "fecha_publicacion": null,
+  "numero": "T-100/10",
+  "tipo_cc": "T",
+  "prov_id": "480",
+  "tema_relatoria": null,
+  "resumen": "Debido proceso, igualdad, legalidad y acceso a la administración de justicia. El actor comenta que fue separado del servicio activo de la Policía Nacional, como resultado de una investigación de carácter disciplinario, contra el decreto que lo destituyó, el actor presentó acción de nulidad y reestablecimiento del derecho, en donde se declaró la nulidad del acto administrativo y se ordenó su reintegro, por otra parte la Procuraduría delegada para la Defensa de los Derechos Humanos, expidió resolución solicitando a la Policía su destitución, debido a esta resolución el accionante no fue reintegrado, por lo tanto presento nuevamente acción de nulidad y reestablecimiento del derecho, frente a las resoluciones de la Procuraduría y le Policía, en las cuales se decidió no reintegrarlo, la Corporación accionada determinó que las resoluciones se encontraban conformes a derecho y la decisión de la Policía de no reintegrarlo, se sujeta al cumplimiento de órdenes emitidas por autoridad competente. La Sala realiza reiteración de jurisprudencia de procedencia de la acción de tutela contra decisiones judiciales, el requisito de inmediatez como causal de procedibilidad de la acción de tutela, el desconocimiento del precedente horizontal como causal específica de procedibilidad, despues de realizar el análisis del caso se encuentra que al actor no se le vulneraron sus derechos fundamentales. Niega.",
+  "titulaciones": [
+    {
+      "tema": "PRINCIPIO DE INMEDIATEZ EN ACCION DE TUTELA",
+      "subtema": "Reglas generales"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Reiteración de jurisprudencia"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Improcedencia por cuanto no se desconoció el precedente horizontal"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Requisitos generales y especiales de procedibilidad"
+    }
+  ]
+}

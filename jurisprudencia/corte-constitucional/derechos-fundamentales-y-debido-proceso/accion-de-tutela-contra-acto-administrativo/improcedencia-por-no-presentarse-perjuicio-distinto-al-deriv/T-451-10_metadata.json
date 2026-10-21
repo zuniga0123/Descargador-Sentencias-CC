@@ -1,0 +1,51 @@
+{
+  "radicado": "T-451-10",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2010,
+  "fecha_creacion": "2010-06-15",
+  "magistrado_ponente": "Dr HUMBERTO ANTONIO SIERRA PORTO",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCION DE TUTELA CONTRA ACTO ADMINISTRATIVO",
+  "subtema": "Improcedencia por no presentarse perjuicio distinto al derivado de la imposición de una sanción disciplinaria que no tiene la condición de irremediable",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 734 de 2002",
+    "Decreto Ley 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2010/T-451-10.htm",
+  "fecha_descarga": "2026-10-21T17:56:04.408165+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2010-06-15",
+  "fecha_publicacion": null,
+  "numero": "T-451/10",
+  "tipo_cc": "T",
+  "prov_id": "925",
+  "tema_relatoria": null,
+  "resumen": "Debido proceso, defensa. La accionante comenta que fue sancionada con destitución e inhabilidad general durante 13 años como resultado de un proceso de investigación disciplinaria adelantado en su contra, sostiene que dentro de dicho proceso ocurrieron varias irregularidades como la falta de notificación y por lo tanto solicitó la nulidad del proceso, su petición no tuvo respuesta, debido a los hechos expuestos solicita se ordene la nulidad de los fallos de primera y segunda instancia proferidos por la entidad accionada. La Sala realiza reiteración de jurisprudencia sobre la procedibilidad excepcional de la acción de tutela contra actos administrativos, la improcedencia de la tutela, por regla general, cuando se dirige contra actos administrativos sancionatorios, se concluye que la sanción disciplinaria no se aprecia, como una limitación ilegítima de los derechos fundamentales de la accionante, pues los argumentos presentados por la entidad accionada resultan de una interpretación válida de las normas que rigen el procedimiento disciplinario, por lo tanto ante la ausencia de una amenaza que se aprecie como claramente ilegítima para el ejercicio de derechos fundamentales, se decide declara improcedente la acción impetrada",
+  "titulaciones": [
+    {
+      "tema": "ACCION DE TUTELA CONTRA ACTO ADMINISTRATIVO",
+      "subtema": "Improcedencia por no presentarse perjuicio distinto al derivado de la imposición de una sanción disciplinaria que no tiene la condición de irremediable"
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA LA PROCURADURIA GENERAL DE LA NACION",
+      "subtema": "Caso en que se pretende la anulación de acto administrativo por medio del cual se impuso sanción disciplinaria"
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA ACTO ADMINISTRATIVO",
+      "subtema": "Procedencia excepcional cuando se configura perjuicio irremediable"
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA ACTO ADMINISTRATIVO",
+      "subtema": "Improcedencia general"
+    },
+    {
+      "tema": "PERJUICIO IRREMEDIABLE",
+      "subtema": "Criterios para determinar su configuración"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "radicado": "T-962-10",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2010,
+  "fecha_creacion": "2010-11-26",
+  "magistrado_ponente": "Humberto Antonio Sierra Porto",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+  "subtema": "Reglas de procedencia y procedibilidad",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 99 de 1993",
+    "Ley 393 de 1997"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2010/T-962-10.htm",
+  "fecha_descarga": "2026-10-21T17:53:21.003401+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2010-11-26",
+  "fecha_publicacion": null,
+  "numero": "T-962/10",
+  "tipo_cc": "T",
+  "prov_id": "1698",
+  "tema_relatoria": null,
+  "resumen": "Debido proceso. El demandante actúa como apoderado judicial de la CAR, considera que el Tribunal accionado incurrió en un defecto sustantivo al señalar que no puede ordenarse el cumplimiento del numeral 8 del artículo 46 de la ley 1999 de 1993, puesto que tal disposición no establece una obligación, clara, expresa y exigible en cabeza del Distrito Capital de transferir el cincuenta por ciento de lo recaudado en virtud de multas o penas pecuniarias impuestas por violación a las leyes, reglamentos o actos administrativos de carácter general en materia ambiental a la CAR. La Sala realiza reiteración de jurisprudencia en torno a la procedencia de la acción de tutela contra providencias judiciales, se estudia el defecto sustantivo alegado, se concluye que la acción no cumple con el requisito de inmediatez, el cual en el presente caso debe ser analizado con mayor rigor ya que se esta impetrando contra una providencia judicial, pudiéndose vulnerar el debido proceso de la parte favorecida, por lo tanto se decide denegar el amparo. Niega.",
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Reglas de procedencia y procedibilidad"
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA SENTENCIA DE TRIBUNAL ADMINISTRATIVO",
+      "subtema": "Improcedencia por carecer del requisito de inmediatez"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Defectos"
+    },
+    {
+      "tema": "DEFECTO MATERIAL O SUSTANTIVO",
+      "subtema": "Configuración"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "radicado": "T-421-10",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2010,
+  "fecha_creacion": "2010-05-25",
+  "magistrado_ponente": "Dra María Victoria Calle Correa",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "ACCION DE TUTELA CONTRA CAJANAL EN LIQUIDACION",
+  "subtema": "Reconocimiento y pago transitorio de pensión según Ley 42/33",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 42 de 1933",
+    "Ley 114 de 1913",
+    "Ley 100 de 1993",
+    "Decreto 2591 de 1991",
+    "Ley 42 de 1993",
+    "Ley 962 de 2005",
+    "Ley 4 de 1966",
+    "Decreto 2150 de 1995"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2010/T-421-10.htm",
+  "fecha_descarga": "2026-10-21T17:55:08.756588+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2010-05-25",
+  "fecha_publicacion": null,
+  "numero": "T-421/10",
+  "tipo_cc": "T",
+  "prov_id": "866",
+  "tema_relatoria": null,
+  "resumen": "Seguridad social, mínimo vital. La accionante solicita el reconocimiento y pago de su pensión de vejez ya que cumple con los requisitos de edad y tiempo de cotización, le fue negado su derecho debido a que no cumplía con los requisitos contemplados en la Ley 42 de 1993, los cuales son tener mas de 70 años de edad y 15 años de prestación de servicios a establecimientos educativos. La Sala en el presente caso decide aplicar la presunción de buena fe teniendo en cuenta que además que la Caja Nacional de Prevision Social EICE, no desvirtuó durante el trámite administrativo la ocurrencia de los hechos que imposibilitaron a la tutelante aportar las certificaciones de su trabajo como docente en el Colegio San Luís Gonzaga, la entidad accionada tampoco se hizo presente durante el trámite de la acción, se decide tomar los testimonios de los alumnos del Colegio como prueba de que la accionante laboro por lo menos cuatro años en dicha institución, cumpliendo de esta manera el requisito de 15 años de servicios prestados en establecimientos educativos públicos o privados, se decide tutelar transitoriamente los derechos de la accionante. Concedida.",
+  "titulaciones": [
+    {
+      "tema": "ACCION DE TUTELA CONTRA CAJANAL EN LIQUIDACION",
+      "subtema": "Reconocimiento y pago transitorio de pensión según Ley 42/33"
+    },
+    {
+      "tema": "PENSION A DOCENTE CONFORME A LEY 42/33",
+      "subtema": "Caso en que se encuentra en estado de pobreza, tiene más de 70 años y servicios por más de 15 años a establecimientos educativos públicos y privados"
+    },
+    {
+      "tema": "DERECHO AL DEBIDO PROCESO Y MINIMO VITAL DE DOCENTE DE LA TERCERA EDAD",
+      "subtema": "Violación por negar pensión con actos no motivados, insuficientes y contrarios a la ley"
+    },
+    {
+      "tema": "REGIMEN DE TRANSICION",
+      "subtema": "Derecho a obtener pensión con edad, tiempo de servicios y monto establecidos en Ley 42/33"
+    },
+    {
+      "tema": "PRESUNCION DE BUENA FE Y VERACIDAD DE PARTICULARES ANTE AUTORIDADES PUBLICAS EN PENSIONES",
+      "subtema": "Aporte de declaraciones extrajuicio para acreditar tiempo de servicio como docente de colegio privado"
+    }
+  ]
+}

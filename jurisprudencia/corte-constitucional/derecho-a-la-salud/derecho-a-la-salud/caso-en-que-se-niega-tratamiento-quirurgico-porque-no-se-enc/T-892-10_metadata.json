@@ -1,0 +1,42 @@
+{
+  "radicado": "T-892-10",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2010,
+  "fecha_creacion": "2010-11-10",
+  "magistrado_ponente": "María Victoria Calle Correa",
+  "area": "Derecho a la Salud",
+  "tema": "DERECHO A LA SALUD",
+  "subtema": "Caso en que se niega tratamiento quirúrgico porque no se encuentra incluido en el POS",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 1122 de 2007",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2010/T-892-10.htm",
+  "fecha_descarga": "2026-10-21T18:10:23.122310+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2010-11-10",
+  "fecha_publicacion": null,
+  "numero": "T-892/10",
+  "tipo_cc": "T",
+  "prov_id": "1617",
+  "tema_relatoria": null,
+  "resumen": "Salud, vida digna. Al accionante le fue negado un tratamiento quirúrgico de próstata vía transuretral por láser verde por encontrarse excluido del POS. La Sala encuentra que la decisión del Comité Técnico Científico de negar el procedimiento no se basó en conceptos médicos especialistas, ni en un conocimiento completo y suficiente de la historia clínica del paciente, por lo tanto se ordena que, se valore al accionante nuevamente y se programen los tratamientos que se consideren convenientes teniendo",
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Caso en que se niega tratamiento quirúrgico porque no se encuentra incluido en el POS"
+    },
+    {
+      "tema": "DERECHO A LA SALUD DE PERSONA DE LA TERCERA EDAD",
+      "subtema": "Protección constitucional"
+    },
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Orden a EPS de realizar valoración médica con especialistas y programar tratamientos convenientes teniendo en cuenta el concepto del médico tratante"
+    }
+  ]
+}

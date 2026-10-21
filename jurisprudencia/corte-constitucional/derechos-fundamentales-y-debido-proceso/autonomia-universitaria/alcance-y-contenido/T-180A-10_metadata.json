@@ -1,0 +1,63 @@
+{
+  "radicado": "T-180A-10",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2010,
+  "fecha_creacion": "2010-03-16",
+  "magistrado_ponente": "Dr LUIS ERNESTO VARGAS SILVA",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "AUTONOMÍA UNIVERSITARIA",
+  "subtema": "Alcance y contenido",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2951 de 1991",
+    "Ley 30 de 1992",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2010/T-180A-10.htm",
+  "fecha_descarga": "2026-10-21T18:04:33.697024+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2010-03-16",
+  "fecha_publicacion": null,
+  "numero": "T-180A/10",
+  "tipo_cc": "T",
+  "prov_id": "598",
+  "tema_relatoria": null,
+  "resumen": "Educación, debido proceso, petición. El actor comenta que es estudiante de ingeniería industrial en la Universidad del Atlántico, y que debido a su precaria situación económica no pudo cancelar el pago de noveno semestre, sin embargo curso y aprobó todas las materias de dicho semestre, pero no pudo cancelar la nueva orden de pago, mediante derecho de petición solicitó un nuevo plazo para el pago del mismo, pero no obtuvo respuesta sinembargo se le generó el recibo de matricula de décimo semestre aun cuando en el sistema se encuentra inactivo, perdiendo así su calidad de estudiante, nuevamente formuló derecho de petición ratificando la voluntad de cancelar su obligación, pero nuevamente la Institución no le ha dado respuesta. La Sala en primer lugar encuentra que el derecho de petición del actor efectivamente ha sido vulnerado, luego se pronuncia sobre el principio de autonomía universitaria y el carácter vinculante del reglamento estudiantil, se encuentra que, el caso se enmarca en una de las excepciones sobre el cumplimiento de los requisitos impuestos por el reglamento estudiantil ya que la universidad avaló la matricula irregular o extraordinaria del estudiante, se decide amparar los derechos invocados. Concedida.",
+  "titulaciones": [
+    {
+      "tema": "AUTONOMÍA UNIVERSITARIA",
+      "subtema": "Alcance y contenido"
+    },
+    {
+      "tema": "PRINCIPIO DE LA BUENA FE",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "DERECHO A LA EDUCACIÓN",
+      "subtema": "Vulneración por desconocimiento de universidad del principio del respeto al acto propio"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Inaplicación de parte del estatuto estudiantil, conservación de cupo universitario"
+    },
+    {
+      "tema": "ACTO PROPIO",
+      "subtema": "Respeto"
+    },
+    {
+      "tema": "REGLAMENTO ESTUDIANTIL",
+      "subtema": "Excepción establecida por la jurisprudencia constitucional sobre el cumplimiento de requisitos"
+    },
+    {
+      "tema": "DERECHO DE PETICIÓN",
+      "subtema": "Subreglas relativas al contenido y su protección constitucional"
+    },
+    {
+      "tema": "REGLAMENTO UNIVERSITARIO",
+      "subtema": "Contenido"
+    }
+  ]
+}

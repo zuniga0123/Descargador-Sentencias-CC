@@ -1,0 +1,50 @@
+{
+  "radicado": "T-410-10",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2010,
+  "fecha_creacion": "2010-05-27",
+  "magistrado_ponente": "Dra MARIA VICTORIA CALLE CORREA",
+  "area": "Derecho a la Salud",
+  "tema": "DERECHO DE ACCESO AL SERVICIO DE SALUD QUE SE REQUIERE CON NECESIDAD",
+  "subtema": "Reiteración de jurisprudencia",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 1122 de 2007",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2010/T-410-10.htm",
+  "fecha_descarga": "2026-10-21T17:54:42.480537+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2010-05-27",
+  "fecha_publicacion": null,
+  "numero": "T-410/10",
+  "tipo_cc": "T",
+  "prov_id": "885",
+  "tema_relatoria": null,
+  "resumen": "Salud, vida digna. El accionante comenta que sufre de convulsiones, y que actualmente acude a un médico particular ya que después de encontrase bastante tiempo en tratamiento con médicos de la EPS accionada no obtuvo mejoría alguna, debido a su enfermedad su médico tratante le ha ordenado varios medicamentos que no le han sido suministrados por no haber sido ordenados por un médico adscrito a dicha entidad. la Sala se pronuncia sobre el derecho a acceder a los servicios de salud que se requieran con necesidad, el concepto científico del médico tratantes como principal criterio para establecer si se requiere un servicio de salud, el suministro de medicamentos sin necesidad de limitarse a su denominación genérica, se aclara que la EPS para no suministrar el medicamento debió justificar su negativa, y al no hacerlo vulneró los derechos del accionante, por lo tanto se ordena suministrar los medicamentos requeridos por el accionante, hasta que no descarte la necesidad de suministrarlos o modifique el tratamiento con base en las consideraciones del Comité Técnico Científico. Concedida.",
+  "titulaciones": [
+    {
+      "tema": "DERECHO DE ACCESO AL SERVICIO DE SALUD QUE SE REQUIERE CON NECESIDAD",
+      "subtema": "Reiteración de jurisprudencia"
+    },
+    {
+      "tema": "DERECHO A LA SALUD Y SUMINISTRO DE MEDICAMENTOS SIN LIMITARSE A SU DENOMINACION GENERICA",
+      "subtema": "Reiteración de jurisprudencia"
+    },
+    {
+      "tema": "DERECHO A LA SALUD Y SUMINISTRO DE MEDICAMENTOS",
+      "subtema": null
+    },
+    {
+      "tema": "CONCEPTO CIENTIFICO DEL MEDICO TRATANTE",
+      "subtema": "Reiteración de jurisprudencia"
+    },
+    {
+      "tema": "ENTIDAD PROMOTORA DE SALUD Y FOSYGA",
+      "subtema": "No se le puede pagar más del 50% del monto que esta tenga derecho a repetir, en la medida que no tramitó adecuadamente solicitud del accionante"
+    }
+  ]
+}

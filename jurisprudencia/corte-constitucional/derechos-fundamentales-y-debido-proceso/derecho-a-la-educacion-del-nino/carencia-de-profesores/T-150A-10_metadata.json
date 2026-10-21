@@ -1,0 +1,50 @@
+{
+  "radicado": "T-150A-10",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2010,
+  "fecha_creacion": "2010-03-05",
+  "magistrado_ponente": "Dr NILSON PINILLA PINILLA",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "DERECHO A LA EDUCACION DEL NIÑO",
+  "subtema": "Carencia de profesores",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 715 de 2001"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2010/T-150A-10.htm",
+  "fecha_descarga": "2026-10-21T18:04:00.394734+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2010-03-05",
+  "fecha_publicacion": null,
+  "numero": "T-150A/10",
+  "tipo_cc": "T",
+  "prov_id": "566",
+  "tema_relatoria": null,
+  "resumen": "Educación, igualdad. El actor interpuso acción de tutela en representación de varios padres de familia solicitando se proceda a nombrar en el menor tiempo posible un docente para la educación de veinte menores que estudian en el Centro Educativo Villanueva. La Sala realiza reiteración de jurisprudencia sobre la legitimación de los personeros municipales para interponer acción de tutela, se pronuncia sobre el alcance del derecho a la educación de niño, niñas y adolescentes, se ordena a la entidad accionada designar docentes capacitados a cabalidad para satisfacer las necesidades educacionales de los menores. Concedida.",
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA EDUCACION DEL NIÑO",
+      "subtema": "Carencia de profesores"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Orden a secretaría de educación de designar docentes capacitados a los menores"
+    },
+    {
+      "tema": "MENOR DE EDAD",
+      "subtema": "Sujeto de especial protección"
+    },
+    {
+      "tema": "DERECHO A LA EDUCACION DEL NIÑO",
+      "subtema": "Fundamental"
+    },
+    {
+      "tema": "LEGITIMACIÓN POR ACTIVA EN TUTELA",
+      "subtema": "Presentación por Personero Municipal"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "radicado": "T-211-10",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2010,
+  "fecha_creacion": "2010-03-23",
+  "magistrado_ponente": "Dr JUAN CARLOS HENAO PÉREZ",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCION DE TUTELA EN MATERIA DE DESPLAZAMIENTO FORZADO",
+  "subtema": "Procedibilidad como mecanismo para garantizar los derechos fundamentales de personas en situación de desplazamiento",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 387 de 1997",
+    "Ley 962 de 2005",
+    "Decreto 2569 de 2000",
+    "Decreto 2591 de 1991",
+    "Ley 418 de 1997"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2010/T-211-10.htm",
+  "fecha_descarga": "2026-10-21T18:05:18.447141+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2010-03-23",
+  "fecha_publicacion": null,
+  "numero": "T-211/10",
+  "tipo_cc": "T",
+  "prov_id": "635",
+  "tema_relatoria": null,
+  "resumen": "Vida, integridad física, dignidad humana, mínimo vital, igualdad, demás derechos de la población desplazada. Se acumulan expedientes por unidad de materia. Los accionantes solicitan su inscripción en el RUPD, pero la entidad accionada se ha negado a registrarlos debido a que no cumplen con los requisitos establecidos para realizar dicho registro. La Sala se pronuncia sobre la procedibilidad de la acción de tutela como mecanismo para garantizar los derechos fundamentales de las personas en situación de desplazamiento forzado, la condición de desplazado y su adquisición de facto y no por la inscripción en el RUPD, las directrices constitucionales en la interpretación de las causales de rechazo de inscripción en el RUPD, se ordena a la entidad accionada la inscripción en el RUPD y la entrega de la ayuda humanitaria correspondiente a los actores. Concedida.",
+  "titulaciones": [
+    {
+      "tema": "ACCION DE TUTELA EN MATERIA DE DESPLAZAMIENTO FORZADO",
+      "subtema": "Procedibilidad como mecanismo para garantizar los derechos fundamentales de personas en situación de desplazamiento"
+    },
+    {
+      "tema": "REGISTRO UNICO DE POBLACION DESPLAZADA",
+      "subtema": "Directrices constitucionales en la interpretación de las causales de rechazo de inscripción en el RUPD"
+    },
+    {
+      "tema": "REGISTRO UNICO DE POBLACION DESPLAZADA",
+      "subtema": "La declaración extemporánea no es óbice para rechazar la solicitud de inscripción en el RUPD cuando se mantiene la condición de desplazado"
+    },
+    {
+      "tema": "POBLACION DESPLAZADA",
+      "subtema": "La condición de desplazados se adquiere de facto y no por la inscripción que la autoridad administrativa haga en el RUPD"
+    },
+    {
+      "tema": "DESPLAZAMIENTO FORZADO",
+      "subtema": "Acción Social deberá inscribir a los peticionarios en el RUPD y suministrarles la ayuda humanitaria a que tienen derecho e informarles sobre los programas de estabilización socioeconómica"
+    },
+    {
+      "tema": "REGISTRO UNICO DE POBLACION DESPLAZADA Y PRESUNCION DE BUENA FE DEL DECLARANTE DESPLAZADO",
+      "subtema": "Supone una inversión de la carga de la prueba respecto a los hechos generadores del desplazamiento"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "radicado": "T-960-10",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2010,
+  "fecha_creacion": "2010-11-26",
+  "magistrado_ponente": "Humberto Antonio Sierra Porto",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "INDEMNIZACION SUSTITUTIVA Y PRINCIPIO DE BUENA FE",
+  "subtema": "ISS no puede recibir cotización después de reconocida la indemnización sustitutiva a un afiliado, en caso de que lo haga, crea en éste expectativa legitima para seguir a aportando a riesgos de vejez, inval",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Decreto 3041 de 1966",
+    "Decreto 1900 de 1983",
+    "Decreto 758 de 1990",
+    "Ley 100 de 1993",
+    "Ley 71 de 1988",
+    "Ley 712 de 2001"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2010/T-960-10.htm",
+  "fecha_descarga": "2026-10-21T17:53:17.370398+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2010-11-26",
+  "fecha_publicacion": null,
+  "numero": "T-960/10",
+  "tipo_cc": "T",
+  "prov_id": "1696",
+  "tema_relatoria": null,
+  "resumen": "Seguridad social, mínimo vital. El accionante solicita el reconocimiento y pago de la pensión de vejez, la cual le fue negada por cuanto solo llevaba 625 semanas cotizadas y de ellas únicamente 485 correspondían a los 20 años anteriores, por lo tanto mediante resolución le fue concedida una indemnización sustitutiva, resolución que solo fue conocida por el actor hasta febrero de 2008, cuando solicitó por segunda vez su pensión de vejez, comenta que hasta ese momento el siguió realizando las cotizaciones correspondientes, por lo tanto impugnó la resolución alegando que nunca tuvo conocimiento de la resolución y que no le fue pagada la indemnización. La Sala se pronuncia sobre la seguridad social como derecho constitucional fundamental y su protección por medio de la acción de tutela, la procedencia de la acción de tutela para reclamar el reconocimiento de la pensión de vejez, la indemnización sustitutiva y el principio de buena fe, se encuentra que el ISS no realizó ninguna actividad tendiente a informar al actor sobre la resolución que le reconocía la sustitución pensional, y siguió recibiendo las cotizaciones de aportes, ademán tiene 81 años de edad y lleva 1188 semanas cotizadas por lo que cumple con los requisitos para acceder a la pensión de vejez. Concedida.",
+  "titulaciones": [
+    {
+      "tema": "INDEMNIZACION SUSTITUTIVA Y PRINCIPIO DE BUENA FE",
+      "subtema": "ISS no puede recibir cotización después de reconocida la indemnización sustitutiva a un afiliado, en caso de que lo haga, crea en éste expectativa legitima para seguir a aportando a riesgos de vejez, inval"
+    },
+    {
+      "tema": "PENSION DE VEJEZ",
+      "subtema": "Orden al ISS de reconocer y pagar mesada pensional que corresponda por cumplir los requisitos para acceder a ésta"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA PARA EL RECONOCIMIENTO DE PENSIÓN DE VEJEZ",
+      "subtema": "Supuestos necesarios establecidos para el estudio por parte de autoridad judicial sobre su procedencia"
+    },
+    {
+      "tema": "DERECHO A LA SEGURIDAD SOCIAL",
+      "subtema": "Protección constitucional"
+    },
+    {
+      "tema": "PENSION DE VEJEZ",
+      "subtema": "Caso en que ISS vulnera derecho a la seguridad social al negar reconocimiento de pensión de vejez, por haber reconocido con anterioridad indemnización sustitutiva, la cual nunca fue notificada ni reclamada por el actor"
+    }
+  ]
+}

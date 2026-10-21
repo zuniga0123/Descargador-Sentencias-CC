@@ -1,0 +1,41 @@
+{
+  "radicado": "T-607-10",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2010,
+  "fecha_creacion": "2010-08-02",
+  "magistrado_ponente": "Dr NILSON PINILLA PINILLA",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "ACCIÓN DE TUTELA",
+  "subtema": "Hecho superado por cuanto ya fue afiliado a salud menor de edad",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2010/T-607-10.htm",
+  "fecha_descarga": "2026-10-21T18:11:29.845432+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2010-08-02",
+  "fecha_publicacion": null,
+  "numero": "T-607/10",
+  "tipo_cc": "T",
+  "prov_id": "1243",
+  "tema_relatoria": null,
+  "resumen": "Salud, seguridad social. La acciónate comenta que tanto ella como su menor hijo son beneficiarios de una pensión de sobrevivientes de la cual se les descuenta el 12% para el pago de servicios médicos asistenciales, sin embargo a su hijo no se le esta brindando el servicio de salud pese a que ha realizado frente a la entidad varias solicitudes y se están realizando los aportes, solicita se ordene a la entidad accionada reconocerle de inmediato a su hijo el acceso a los servicios de salud y se le entregue el carne de afiliado. Durante el trámite del proceso se le informó a esta corporación que la afiliación del menor se encuentra activa por lo tanto se declara la carencia actual de objeto por estar frente a un hecho superado.",
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Hecho superado por cuanto ya fue afiliado a salud menor de edad"
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA EL ISS",
+      "subtema": "Caso en que no se había afiliado a salud a menor desde el año 2006 cuando su padre falleció"
+    },
+    {
+      "tema": "HECHO SUPERADO",
+      "subtema": "Caso en que no se configuró"
+    }
+  ]
+}

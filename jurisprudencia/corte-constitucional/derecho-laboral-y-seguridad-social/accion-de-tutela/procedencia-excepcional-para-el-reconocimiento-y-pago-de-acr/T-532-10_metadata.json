@@ -1,0 +1,51 @@
+{
+  "radicado": "T-532-10",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2010,
+  "fecha_creacion": "2010-06-29",
+  "magistrado_ponente": "Dr LUIS ERNESTO VARGAS SILVA",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "ACCIÓN DE TUTELA",
+  "subtema": "Procedencia excepcional para el reconocimiento y pago de acreencias laborales y pensionales",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 860 de 2003",
+    "Ley 100 de 1993",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2010/T-532-10.htm",
+  "fecha_descarga": "2026-10-21T17:58:28.477305+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2010-06-29",
+  "fecha_publicacion": null,
+  "numero": "T-532/10",
+  "tipo_cc": "T",
+  "prov_id": "1047",
+  "tema_relatoria": null,
+  "resumen": "Seguridad social, mínimo vital. El accionante tiene una pérdida de capacidad laboral del 67.8%, solicita se ordene el reconocimiento de su pensión de invalidez, la cual le ha sido negada por no cumplir con el requisito de fidelidad. La Sala recuerda la decisión tomada en la sentencia C-428 de 2009, se concluye que el actor cumple con los requisitos actualmente vigentes para obtener la pensión de invalidez, por lo tanto se ordena su reconocimiento y pago. Concede.",
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Procedencia excepcional para el reconocimiento y pago de acreencias laborales y pensionales"
+    },
+    {
+      "tema": "REQUISITO DE FIDELIDAD PARA PENSION DE INVALIDEZ",
+      "subtema": "Carácter regresivo"
+    },
+    {
+      "tema": "PENSIÓN DE INVALIDEZ",
+      "subtema": "Procede amparo constitucional toda vez que el actor cumple con los requisitos actualmente vigentes para su reconocimiento"
+    },
+    {
+      "tema": "PENSIÓN DE INVALIDEZ",
+      "subtema": "Análisis constitucional del artículo 1 de la Ley 860 de 2003"
+    },
+    {
+      "tema": "REQUISITO DE FIDELIDAD PARA PENSION DE INVALIDEZ",
+      "subtema": "Entidades prestadoras del servicio público de seguridad social no están autorizadas para exigir requisito de fidelidad por cuanto fue declarado inexequible en sentencia C-428 de 2009"
+    }
+  ]
+}

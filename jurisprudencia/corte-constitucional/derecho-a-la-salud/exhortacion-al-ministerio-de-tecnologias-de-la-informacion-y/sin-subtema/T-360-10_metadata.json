@@ -1,0 +1,53 @@
+{
+  "radicado": "T-360-10",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2010,
+  "fecha_creacion": "2010-05-11",
+  "magistrado_ponente": "Dr NILSON PINILLA PINILLA",
+  "area": "Derecho a la Salud",
+  "tema": "EXHORTACION AL MINISTERIO DE TECNOLOGIAS DE LA INFORMACION Y LAS COMUNICACIONES Y A LA COMISION DE REGULACION DE COMUNICACIONES",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Decreto 195 de 2005",
+    "Ley 1341 de 2009",
+    "Decreto 1066 de 2001",
+    "Ley 99 de 1993"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2010/T-360-10.htm",
+  "fecha_descarga": "2026-10-21T18:08:46.509719+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2010-05-11",
+  "fecha_publicacion": null,
+  "numero": "T-360/10",
+  "tipo_cc": "T",
+  "prov_id": "803",
+  "tema_relatoria": null,
+  "resumen": "Vida, salud. La accionante comenta que se instaló junto a su casa una torre de telecomunicaciones, la cual emite una alta radiación, que hace que no se le pueda instalar un dispositivo que para mejorar el funcionamiento de su corazón ya que se descarga y se daña en menos de un mes, su médico tratante le recomendó alejarse de las torres pero no tiene otro lugar para residir, por ello solicita se ordene a la empresa demandada retirar definitivamente la torre en mención. La Sala realiza reiteración de jurisprudencia sobre el derecho a la salud de las personas de tercera edad como derecho fundamental, se pronuncia sobre el servicio público de telecomunicaciones, los campos electromagnéticos, los estudios y recomendaciones internacionales relevantes, acerca de la exposición de las personas en campos electromagnéticos, el derecho comparado, se aplica el principio de precaución a falta de certeza científica, se concluye que de las recomendaciones y los estudios científicos, no puede concluirse que la antena de telefonía móvil sea causa de la interferencia sobre el cardiodesfibrilador implantado a la demandante, toda ves que luego de una segunda cirugía dicho dispositivo se encuentra funcionando, sinembargo se exhorta al Ministerio de Tecnologías de la Información y las Comunicaciones y a la Comisión de Regulación de Comunicaciones, para que analice las recomendaciones establecidas internacionalmente en lo concerniente a establecer canales de comunicación e información con la comunidad, acerca de los posibles efectos adversos a la salud que puede generar la exposición a campos electromagnéticos y las medidas que puede tomar la población para minimizar los efectos, y en aplicación del principio de precaución se diseñe un proyecto encaminado a establecer una distancia prudente entre las torres de telefonía móvil y las instituciones educativas, hospitales y otros similares. Niega.",
+  "titulaciones": [
+    {
+      "tema": "EXHORTACION AL MINISTERIO DE TECNOLOGIAS DE LA INFORMACION Y LAS COMUNICACIONES Y A LA COMISION DE REGULACION DE COMUNICACIONES",
+      "subtema": null
+    },
+    {
+      "tema": "SERVICIO PUBLICO DE TELECOMUNICACIONES Y CAMPOS ELECTROMAGNETICOS",
+      "subtema": "Estudios y recomendaciones internacionales relevantes, acerca de la exposición de las personas a campos electromagnéticos"
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA COMCEL S.A.",
+      "subtema": "Caso en que la demandante manifiesta que la demandada instaló hace más de dos años una torre de telefonía móvil a 76 metros de su residencia"
+    },
+    {
+      "tema": "DERECHO A LA SALUD DE PERSONA DE LA TERCERA EDAD COMO DERECHO FUNDAMENTAL",
+      "subtema": "Reiteración de jurisprudencia"
+    },
+    {
+      "tema": "PRINCIPIO DE PRECAUCION",
+      "subtema": "En este caso a falta de certeza científica debe ser aplicado"
+    }
+  ]
+}

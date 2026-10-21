@@ -1,0 +1,55 @@
+{
+  "radicado": "T-904-10",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2010,
+  "fecha_creacion": "2010-11-12",
+  "magistrado_ponente": "Gabriel Eduardo Mendoza Martelo",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "ACCION DE LESIVIDAD",
+  "subtema": "Caso en que se afirma que podrá instaurarse si fuere el caso",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Ley 71 de 1988",
+    "Decreto 2527 de 2000",
+    "Ley 33 de 1985",
+    "Decreto 758 de 1990",
+    "Ley 797 de 2003",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2010/T-904-10.htm",
+  "fecha_descarga": "2026-10-21T18:12:37.436919+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2010-11-12",
+  "fecha_publicacion": null,
+  "numero": "T-904/10",
+  "tipo_cc": "T",
+  "prov_id": "1633",
+  "tema_relatoria": null,
+  "resumen": "Debido proceso, mínimo vital, seguridad social. El ISS le negó al accionante en varias oportunidades el reconocimiento y pago de la pensión de vejez, argumentando que no reunía los requisitos legales señalados en el Acuerdo 049 de 1990, toda vez que, aunque reunía 1004 semanas, sólo 396 se habían cotizado al Seguro Social y de ellas, 120 correspondían a los últimos 20 años anteriores al cumplimiento de la edad mínima requerida. La entidad accionada también argumentó que el demandante tampoco acreditó los presupuestos exigidos por las leyes 33 de 1985, 71 de 1988 y 100 de 1993. La Sala de Revisión reitera jurisprudencia constitucional relativa al Sistema General de Pensiones y al régimen de transición y decide CONCEDER el amparo solicitado y se ordenar al Instituto de Seguros Sociales que proceda a iniciar el trámite pertinente para reconocer y pagar la prestación reclamada por el actor-",
+  "titulaciones": [
+    {
+      "tema": "ACCION DE LESIVIDAD",
+      "subtema": "Caso en que se afirma que podrá instaurarse si fuere el caso"
+    },
+    {
+      "tema": "SISTEMA GENERAL DE PENSIONES PREVISTO EN LA LEY 100/93",
+      "subtema": "Reiteración de jurisprudencia"
+    },
+    {
+      "tema": "ACUMULACION DE TIEMPOS DE SERVICIOS PRESTADOS TANTO EN EL SECTOR PRIVADO COMO EN EL SECTOR PUBLICO",
+      "subtema": "Caso en que el demandante es beneficiario del régimen previsto en el artículo 7 de la Ley 71/88"
+    },
+    {
+      "tema": "REGIMEN DE TRANSICION PREVISTO EN EL ARTICULO 36 DE LA LEY 100 DE 1993",
+      "subtema": null
+    },
+    {
+      "tema": "ACCION DE TUTELA FRENTE AL RECONOCIMIENTO DE PENSIONES",
+      "subtema": "Caso en que se trata de una persona de 78 años que ha superado la expectativa de vida oficialmente reconocida en Colombia"
+    }
+  ]
+}

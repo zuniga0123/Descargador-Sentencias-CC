@@ -1,0 +1,54 @@
+{
+  "radicado": "T-872-10",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2010,
+  "fecha_creacion": "2010-11-04",
+  "magistrado_ponente": "Humberto Antonio Sierra Porto",
+  "area": "Derecho de Familia y Derechos de Niños, Niñas y Adolescentes",
+  "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+  "subtema": "Reiteración de jurisprudencia sobre requisitos generales y especiales de procedibilidad",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Decreto 2737 de 1989",
+    "Ley 1098 de 2006",
+    "Decreto 2282 de 1989",
+    "Decreto Ley 2591 de 1991",
+    "Decreto 2272 de 1989"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2010/T-872-10.htm",
+  "fecha_descarga": "2026-10-21T17:53:39.648853+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2010-11-04",
+  "fecha_publicacion": null,
+  "numero": "T-872/10",
+  "tipo_cc": "T",
+  "prov_id": "1592",
+  "tema_relatoria": null,
+  "resumen": "Debido proceso, mínimo vital, derechos de los niños y acceso a la administración de justicia. La accionante comenta que se redujo la cuota alimentaría establecida a favor de su hijo, en un proceso iniciado por el padre del menor, en el cual no fue notificada en debida manera para ejercer su derecho de defensa y el de su hijo. La Sala se pronuncia sobre el derecho fundamental de los menores a recibir alimentos, el proceso de disminución de cuota alimentaría, la acción de tutela frente a providencias judiciales, se encuentra que se configuró, defecto orgánico por indebida asignación de la competencia, defecto material al no aplicar el inciso octavo del artículo 129 del Código de Infancia y adolescencia, en lo referente a la actualización del monto de la cuota alimentaría dentro del proceso, la violación directa de la Constitución por indebida notificación a la representante del menor e inasistencia del Defensor de Familia, se declara la nulidad de todo lo actuado en el proceso de disminución de cuota alimentaria. Concedida.",
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Reiteración de jurisprudencia sobre requisitos generales y especiales de procedibilidad"
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA JUZGADO PROMISCUO DE FAMILIA",
+      "subtema": "Caso en que se vulneró debido proceso de menor por falta de notificación de audiencia de conciliación a Defensora de Familia en proceso de disminución de cuota alimentaría"
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA JUZGADO PROMISCUO DE FAMILIA",
+      "subtema": "Procedencia por configuración de defecto orgánico, material y violación directa a la Constitución Política por indebida notificación"
+    },
+    {
+      "tema": "CUOTA ALIMENTARIA",
+      "subtema": "Naturaleza de los procesos de disminución"
+    },
+    {
+      "tema": "DERECHO FUNDAMENTAL DE LOS NIÑOS A RECIBIR ALIMENTOS",
+      "subtema": "Protección constitucional"
+    }
+  ]
+}

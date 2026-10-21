@@ -1,0 +1,55 @@
+{
+  "radicado": "T-315-10",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2010,
+  "fecha_creacion": "2010-05-03",
+  "magistrado_ponente": "Dr HUMBERTO ANTONIO SIERRA PORTO",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+  "subtema": "Reiteración de jurisprudencia sobre procedencia excepcional",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 9 de 1989",
+    "Ley 388 de 1997",
+    "Decreto 564 de 2006",
+    "Decreto 1504 de 1998",
+    "Ley 1285 de 2009",
+    "Ley 270 de 1996"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2010/T-315-10.htm",
+  "fecha_descarga": "2026-10-21T18:07:50.952067+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2010-05-03",
+  "fecha_publicacion": null,
+  "numero": "T-315/10",
+  "tipo_cc": "T",
+  "prov_id": "756",
+  "tema_relatoria": null,
+  "resumen": "Debido proceso, derechos de los niños, vida, integridad física y educación. El Colegio la Quinta del Puente interpuso la presente acción mediante apoderado judicial, contra el Tribunal Administrativo de Santander en la cual se le ordenó al Colegio adecuar su infraestructura a los perfiles establecidos en el Plan de Ordenamiento Municipal de Floridablanca, y la adecuación del puente peatonal, que en el momento es de uso exclusivo del Colegio, para uso de toda la comunidad, alega el representante que contra la sentencia se presentó un incidente de nulidad que aún no ha sido resuelto por lo tanto no se puede ejecutar y que además los plazos dados para ejecutar las obras son demasiado reducidos. La Sala realiza reiteración de jurisprudencia sobre la constitucionalidad en torno a la procedencia de la acción de tutela contra providencias judiciales, se pronuncia sobre la revisión eventual de las sentencias de acción popular, el incidente de nulidad en curso contra la Sentencia acusada, se aclara que la acción de tutela es improcedente cuando están pendientes de decisión otros medios de defensa, como en el presente caso, que esta en curso una solicitud de nulidad, por lo tanto se decide declarar IMPROCEDENTE la presente acción.",
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Reiteración de jurisprudencia sobre procedencia excepcional"
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA PROVIDENCIA EN ACCION POPULAR",
+      "subtema": null
+    },
+    {
+      "tema": "RECURSO DE REPOSICION CONTRA AUTO DE ACLARACION DE SENTENCIA DE ACCION POPULAR",
+      "subtema": null
+    },
+    {
+      "tema": "INCIDENTE DE NULIDAD CONTRA SENTENCIA DE ACCION POPULAR",
+      "subtema": "Improcedencia de la acción de tutela por estar en curso incidente"
+    },
+    {
+      "tema": "REVISION EVENTUAL DE LAS SENTENCIAS DE ACCION POPULAR",
+      "subtema": "No es requisito para la procedencia de la acción de tutela contra las providencias judiciales de acción popular"
+    }
+  ]
+}

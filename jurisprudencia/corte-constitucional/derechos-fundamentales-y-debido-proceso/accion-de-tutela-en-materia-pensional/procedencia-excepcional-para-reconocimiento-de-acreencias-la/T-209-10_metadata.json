@@ -1,0 +1,47 @@
+{
+  "radicado": "T-209-10",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2010,
+  "fecha_creacion": "2010-03-23",
+  "magistrado_ponente": "Dr JUAN CARLOS HENAO PÉREZ",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCION DE TUTELA EN MATERIA PENSIONAL",
+  "subtema": "Procedencia excepcional para reconocimiento de acreencias laborales",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 100 de 1993",
+    "Ley 716 de 2001"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2010/T-209-10.htm",
+  "fecha_descarga": "2026-10-21T18:05:14.736210+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2010-03-23",
+  "fecha_publicacion": null,
+  "numero": "T-209/10",
+  "tipo_cc": "T",
+  "prov_id": "633",
+  "tema_relatoria": null,
+  "resumen": "Igualdad, dignidad humana, debido proceso, seguridad social, mínimo vital. Los actores solicitan el pago de los intereses moratorios y la indexación del capital de sus mesadas pensionales, pactado en la convención colectiva, con la entidad accionada. La Sala se pronuncia sobre la procedencia de la acción de tutela para el reconocimiento de acreencias laborales, se concluye que la presente acción resulta improcedente pues los peticionarios cuentan con un medio ordinario de defensa judicial, además no se demuestra la existencia de un perjuicio irremediable. Niega.",
+  "titulaciones": [
+    {
+      "tema": "ACCION DE TUTELA EN MATERIA PENSIONAL",
+      "subtema": "Procedencia excepcional para reconocimiento de acreencias laborales"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Improcedencia por cuanto no se probó que el no pago de los intereses de mora y la indexación del capital adeudado hubiera amenazado el derecho al mínimo vital y a la dignidad humana"
+    },
+    {
+      "tema": "DERECHO AL MINIMO VITAL",
+      "subtema": "Se presume afectación al mínimo vital cuando la cesación del pago de mesadas pensionales se ha prolongado en el tiempo"
+    },
+    {
+      "tema": "ACCION DE TUTELA EN MATERIA PENSIONAL",
+      "subtema": "Se debe probar así sea de forma sumaria la existencia de un perjuicio irremediable o la ineficacia del medio ordinario de defensa para su procedencia"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "radicado": "T-270-10",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2010,
+  "fecha_creacion": "2010-04-16",
+  "magistrado_ponente": "Dra MARÍA VICTORIA CALLE CORREA",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "CONTROVERSIAS RELATIVAS AL RECONOCIMIENTO Y PAGO DE LA DEVOLUCION DE SALDO",
+  "subtema": "Carácter inconstitucional del retraso a que es sometido el titular del derecho prestacional cuando existe discusión sobre la entidad obligada a realizar el reconocimiento y pago de",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 692 de 1994",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2010/T-270-10.htm",
+  "fecha_descarga": "2026-10-21T17:50:48.799958+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2010-04-16",
+  "fecha_publicacion": null,
+  "numero": "T-270/10",
+  "tipo_cc": "T",
+  "prov_id": "696",
+  "tema_relatoria": null,
+  "resumen": "Mínimo vital, seguridad social. La accionante solicita la devolución de aportes, la cual no le ha sido otorgada porque tanto el fondo privado como el ISS aseguran que no son responsables de realizar tal devolución. La Sala encuentra que en el presente caso el ISS, vulneró los derechos de la accionante ya que pese a ser consciente de que tiene la obligación de decidir sobre el reconocimiento y pago de la indemnización sustitutiva a la peticionaria se ha abstenido de hacerlo, se le ordena que decidir sobre el derecho a la devolución de aportes de la accionante y de tener derecho deberá pagarla a más tardar dentro de las 48 horas siguientes. Concede.",
+  "titulaciones": [
+    {
+      "tema": "CONTROVERSIAS RELATIVAS AL RECONOCIMIENTO Y PAGO DE LA DEVOLUCION DE SALDO",
+      "subtema": "Carácter inconstitucional del retraso a que es sometido el titular del derecho prestacional cuando existe discusión sobre la entidad obligada a realizar el reconocimiento y pago de"
+    },
+    {
+      "tema": "DERECHO AL MINIMO VITAL",
+      "subtema": "Vulneración por no reconocimiento y pago de la devolución de saldos a que tiene derecho la accionante luego de dirimir conflicto de multiafiliación"
+    },
+    {
+      "tema": "DERECHO A LA DEVOLUCION DE SALDOS",
+      "subtema": "Vulneración por abstención injustificada por parte de la entidad demandada para proferir la resolución donde reconoce y paga la prestación pensional"
+    }
+  ]
+}

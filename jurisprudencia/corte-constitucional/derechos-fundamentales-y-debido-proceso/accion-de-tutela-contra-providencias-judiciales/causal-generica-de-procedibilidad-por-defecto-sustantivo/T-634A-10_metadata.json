@@ -1,0 +1,43 @@
+{
+  "radicado": "T-634A-10",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2010,
+  "fecha_creacion": "2010-08-13",
+  "magistrado_ponente": "Mauricio Gonzalez Cuervo I",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+  "subtema": "Causal generica de procedibilidad por defecto sustantivo",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 472 de 1998",
+    "Decreto 986 de 1992",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2010/T-634A-10.htm",
+  "fecha_descarga": "2026-10-21T18:09:08.999165+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2010-08-13",
+  "fecha_publicacion": null,
+  "numero": "T-634A/10",
+  "tipo_cc": "T",
+  "prov_id": "1289",
+  "tema_relatoria": null,
+  "resumen": "Debido proceso, acceso a la administración de justicia. Tutela contra providencia judicial. En este caso el demandante presenta la tutela en contra de las decisiones judiciales que en primera y segunda instancia declararon la caducidad de una acción de grupo instaurada para obtener el reconocimiento y pago de los perjuicios causados por el funcionamiento del relleno sanitario de Palangana de la ciudad de Santa Marta. Según el actor, las autoridades judiciales dieron una interpretación errada al artículo 47 de la Ley 472 de 1998 y en tal sentido pretende, que se dejen sin efecto las providencias dictadas en el trámite de la acción de grupo o en su defecto, se ordene el rechazo de la excepción previa de caducidad por haberse interpuesto dicha acción en término. Luego de analizar el caso, la Sala de Revisión considera que no se configuró una causal especial de procedencia de la acción de tutela contra fallos judiciales por defecto sustantivo y en tal sentido decide confirmar las decisiones que en su momento negaron y ratificaron la acción de tutela interpuesta por el actor, por considerarla IMPROCEDENTE.",
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Causal generica de procedibilidad por defecto sustantivo"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Reiteración de jurisprudencia sobre los requisitos de procedibilidad"
+    },
+    {
+      "tema": "CADUCIDAD DE LA ACCION DE GRUPO",
+      "subtema": "Caso de operación de relleno sanitario en que se configura, de acuerdo con el término establecido en el artículo 47 de la Ley 472 de 1998"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "radicado": "T-549-10",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2010,
+  "fecha_creacion": "2010-07-06",
+  "magistrado_ponente": "Dr HUMBERTO ANTONIO SIERRA PORTO",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCION DE TUTELA CONTRA PROVIDENCIAS JUDICIALES POR VULNERACION AL DERECHO A LA DEFENSA TECNICA",
+  "subtema": "Alcance sobre interpretación del carácter facultativo en procesos de responsabilidad fiscal",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 610 de 2000",
+    "Ley 610 de 2002"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2010/T-549-10.htm",
+  "fecha_descarga": "2026-10-21T17:58:43.255814+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2010-07-06",
+  "fecha_publicacion": null,
+  "numero": "T-549/10",
+  "tipo_cc": "T",
+  "prov_id": "1124",
+  "tema_relatoria": null,
+  "resumen": "Debido proceso. El actor solicita se declare la nulidad del proceso que se adelanta en su contra por responsabilidad fiscal, alega que fue excluido del auto mediante el cual se designó defensor de oficio a los demás implicados, por lo cual careció de representación legal durante el adelantamiento del proceso en cuestión. La Sala realiza reiteración de jurisprudencia sobre las causales de procedibilidad de la acción de tutela contra providencias judiciales y actos administrativos, las causales de procedibilidad de la tutela contra sentencias y actos administrativos y la configuración de la vulneración de la Constitución como requisito, el alcance de la interpretación del carácter facultativo de la defensa técnica en los proceso de responsabilidad fiscal, se concluye que al actor no se le ha vulnerado el debido proceso ya que estuvo activo durante el proceso, presentó descargos y se notificó personalmente del auto de imputación de cargos, por lo tanto se decide no acceder a sus pretensiones. Niega.",
+  "titulaciones": [
+    {
+      "tema": "ACCION DE TUTELA CONTRA PROVIDENCIAS JUDICIALES POR VULNERACION AL DERECHO A LA DEFENSA TECNICA",
+      "subtema": "Alcance sobre interpretación del carácter facultativo en procesos de responsabilidad fiscal"
+    },
+    {
+      "tema": "DERECHO A LA DEFENSA TÉCNICA",
+      "subtema": "No resulta constitucionalmente legítimo trasladar eficacia de garantías procesales al propio investigado respecto al nombramiento de defensor de oficio"
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA ACTO ADMINISTRATIVO EN PROCESO DE RESPONSABILIDAD FISCAL",
+      "subtema": "Causales de procedibilidad y requisito de configuración de perjuicio iusfundamental"
+    },
+    {
+      "tema": "DERECHO DE DEFENSA TECNICA EN PROCESO DE RESPONSABILIDAD FISCAL",
+      "subtema": "No vulneración por cuanto el actor estuvo activo durante el proceso y se abstuvo de designar apoderado judicial"
+    },
+    {
+      "tema": "DERECHO A LA DEFENSA TÉCNICA",
+      "subtema": "Obligación de ostentar defensa técnica después del auto de imputación de cargos recae sobre el imputado de manera directa"
+    }
+  ]
+}

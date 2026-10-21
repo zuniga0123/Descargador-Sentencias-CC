@@ -1,0 +1,55 @@
+{
+  "radicado": "T-501-10",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2010,
+  "fecha_creacion": "2010-06-17",
+  "magistrado_ponente": "Dr GABRIEL EDUARDO MENDOZA MARTELO",
+  "area": "Derecho a la Salud",
+  "tema": "COBERTURA FAMILIAR EN EL REGIMEN CONTRIBUTIVO DE SEGURIDAD SOCIAL",
+  "subtema": "Beneficiarios de los afiliados al SGSSS",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 1703 de 2002",
+    "Decreto 2591 de 1991",
+    "Ley 100 de 1993",
+    "Decreto 806 de 1998",
+    "Decreto 2463 de 2001",
+    "Ley 92 de 1938",
+    "Decreto 1260 de 1970"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2010/T-501-10.htm",
+  "fecha_descarga": "2026-10-21T17:49:22.695389+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2010-06-17",
+  "fecha_publicacion": null,
+  "numero": "T-501/10",
+  "tipo_cc": "T",
+  "prov_id": "989",
+  "tema_relatoria": null,
+  "resumen": "Salud, vida digna. Comenta la accionante que se encuentra vinculada al Sistema General de Seguridad Social en Salud, mediante, en régimen contributivo, decidió trasladarse a Salud Total EPS para poder afiliar a su madre como beneficiaria, pero dicha afiliación no se ha podido realizar ya que le exigen adjuntar su registro civil de nacimiento para demostrar el parentesco, documento al cual no puede acceder ya que al momento de su nacimiento no existía una autoridad que expidiera el registro civil, y que, solo puede anexar la partida de bautismo expedida por el párroco del municipio donde nació, solicita se ordene la afiliación de su madre al régimen de salud, ya que se encuentra enferma y requiere tratamiento médico con urgencia. La Sala se pronuncia sobre la especial protección constitucional al derecho a la salud de las personas de tercera edad, la cobertura familiar de los afiliados al Sistema de Seguridad Social en Salud mediante el régimen contributivo, los requisitos para que un cotizante afilie a otra persona al Sistema de Seguridad Social en Salud, bajo la misma cobertura, se concluye que la accionante no acreditó la urgencia de un tratamiento o medicamento necesario para atender la condición de salud de su madre, y tampoco demostró la imposibilidad de acreditar el registro civil de nacimiento o de dar inicio, oportunamente a la diligencia",
+  "titulaciones": [
+    {
+      "tema": "COBERTURA FAMILIAR EN EL REGIMEN CONTRIBUTIVO DE SEGURIDAD SOCIAL",
+      "subtema": "Beneficiarios de los afiliados al SGSSS"
+    },
+    {
+      "tema": "DERECHO A LA SALUD DE PERSONA DE LA TERCERA EDAD",
+      "subtema": "Protección reforzada que se materializa en una prestación continua, permanente y eficiente"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Improcedencia para ordenar la afiliación de la madre de la actora al SGSSS sin el cumplimiento del requisito del registro civil de nacimiento"
+    },
+    {
+      "tema": "PLAN OBLIGATORIO DE SALUD EN EL REGIMEN CONTRIBUTIVO",
+      "subtema": "Requisito de adjuntar el registro civil de nacimiento para ser afiliado como beneficiario no vulnera el derecho a la salud"
+    },
+    {
+      "tema": "REGISTRO CIVIL DE NACIMIENTO",
+      "subtema": "Documento que se requiere para probar el parentesco"
+    }
+  ]
+}

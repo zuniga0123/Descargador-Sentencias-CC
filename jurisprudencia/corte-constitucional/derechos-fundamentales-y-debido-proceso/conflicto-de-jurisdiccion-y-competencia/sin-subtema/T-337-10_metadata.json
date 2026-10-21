@@ -1,0 +1,48 @@
+{
+  "radicado": "T-337-10",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2010,
+  "fecha_creacion": "2010-05-11",
+  "magistrado_ponente": "Dr JUAN CARLOS HENAO PÉREZ",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "CONFLICTO DE JURISDICCION Y COMPETENCIA",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 270 de 1996",
+    "Decreto 2303 de 1989",
+    "Decreto 2591 de 1991",
+    "Ley 1285 de 2009"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2010/T-337-10.htm",
+  "fecha_descarga": "2026-10-21T17:51:59.502147+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2010-05-11",
+  "fecha_publicacion": null,
+  "numero": "T-337/10",
+  "tipo_cc": "T",
+  "prov_id": "780",
+  "tema_relatoria": null,
+  "resumen": "Debido proceso. Alega la accionante que INVIAS construyó una carretera que pasó por un área de un lote de propiedad suya, por lo cual inició proceso ordinario solicitando obtener la restitución de la parte ocupada, INVIAS interpuso excepción previa de falta de jurisdicción y competencia, la cual fue declarada probada por el Juzgado Segundo Civil del Circuito de Cereté, y se ordenó la devolución de la demanda y los anexos a la accionante, quien considera que se incurrió en una vía de hecho, solicita que se produzca una nueva providencia para que el juez civil asuma la competencia para conocer del litigio por ella propuesto. La Sala realiza reiteración de jurisprudencia sobre la procedencia de la acción de tutela contra providencias judiciales, entra a estudiar el conflicto de jurisdicción y competencia, la providencia de declaratoria de excepción previa de falta de jurisdicción y la constitución de una vía de hecho, se decide confirmar el fallo de tutela proferido por la Sala de Casación Civil de la Corte Suprema de Justicia, en la cual se ordenó remitir el expediente al Tribunal Contencioso Administrativo de Córdoba.",
+  "titulaciones": [
+    {
+      "tema": "CONFLICTO DE JURISDICCION Y COMPETENCIA",
+      "subtema": null
+    },
+    {
+      "tema": "EXCEPCION PREVIA DE FALTA DE JURIDICCION",
+      "subtema": "Sentencia C-662/04"
+    },
+    {
+      "tema": "DECLARATORIA DE EXCEPCION PREVIA DE FALTA DE JURISDICCION",
+      "subtema": "Providencia es susceptible de constituir vía de hecho"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Reiteración de jurisprudencia"
+    }
+  ]
+}

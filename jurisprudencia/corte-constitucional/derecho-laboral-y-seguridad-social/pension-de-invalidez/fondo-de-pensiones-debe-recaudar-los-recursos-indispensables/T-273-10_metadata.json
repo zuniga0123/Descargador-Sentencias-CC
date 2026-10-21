@@ -1,0 +1,53 @@
+{
+  "radicado": "T-273-10",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2010,
+  "fecha_creacion": "2010-04-17",
+  "magistrado_ponente": "Dra MARIA VICTORIA CALLE CORREA",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "PENSIÓN DE INVALIDEZ",
+  "subtema": "Fondo de pensiones debe recaudar los recursos indispensables para liquidar y efectuar el pago de la pensión de conformidad con la ley",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 860 de 2003",
+    "Decreto 2591 de 1991",
+    "Ley 100 de 1993",
+    "Decreto 2633 de 1994",
+    "Ley 100 de 1994"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2010/T-273-10.htm",
+  "fecha_descarga": "2026-10-21T18:06:51.229043+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2010-04-17",
+  "fecha_publicacion": null,
+  "numero": "T-273/10",
+  "tipo_cc": "T",
+  "prov_id": "701",
+  "tema_relatoria": null,
+  "resumen": "Mínimo vital, seguridad social, salud. El accionante sufre de una pérdida de capacidad laboral del 70.5%, solicita el reconocimiento y pago de su pensión de invalidez, la cual no le fue otorgada por no cumplir con el requisito de haber cotizado 50 semanas antes de la fecha de estructuración de invalidez, sin embargo el actor comenta que para la fecha de estructuración había cotizado 49.40 semanas y por lo tanto estima que se debe ordenar el reconocimiento de su pensión. La Sala se pronuncia sobre los efectos para el empleador que elude sus deberes de afiliación al sistema de seguridad social, en los términos establecidos por la Ley, cuando por cuenta de esa omisión el trabajador no tiene derecho a ser pensionado por el Fondo, se encuentra que la empresa IMO Cia. es la responsable de la negativa del Fondo de Pensiones y debe ser quien asuma las consecuencias desfavorables de no haberlo afiliado al sistema general de pensiones como lo exigía la ley, y de omitir el pago de los aportes al mismo, por lo tanto se le ordena realizar dicho pago y al Fondo de Pensiones se le ordena reconocer el pago de la pensión al accionante. Concedida.",
+  "titulaciones": [
+    {
+      "tema": "PENSIÓN DE INVALIDEZ",
+      "subtema": "Fondo de pensiones debe recaudar los recursos indispensables para liquidar y efectuar el pago de la pensión de conformidad con la ley"
+    },
+    {
+      "tema": "PENSIÓN DE INVALIDEZ",
+      "subtema": "Caso en que se niega como consecuencia directa del incumplimiento del deber del empleador de realizar los aportes correspondientes al fondo de pensiones desde el inicio de la relación laboral"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA PARA EL RECONOCIMIENTO DE PENSIÓN DE INVALIDEZ",
+      "subtema": "Empleador debe cancelar los aportes adeudados al fondo de pensiones para que este reconozca la pensión de invalidez al tutelante"
+    },
+    {
+      "tema": "PENSIÓN DE INVALIDEZ",
+      "subtema": "Empleador debe pagar la prestación mes a mes cuando incumpla con la obligación de deducir el porcentaje legalmente estipulado del ingreso del trabajador y trasladar ese monto al fondo de pensiones"
+    },
+    {
+      "tema": "DEBERES DEL EMPLEADOR",
+      "subtema": "Efectos para el empleador que elude afiliación del trabajador al sistema de seguridad social en los términos establecidos por la Ley"
+    }
+  ]
+}

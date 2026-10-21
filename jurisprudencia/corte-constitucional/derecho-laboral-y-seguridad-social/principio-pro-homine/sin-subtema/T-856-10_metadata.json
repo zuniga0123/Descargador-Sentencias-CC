@@ -1,0 +1,57 @@
+{
+  "radicado": "T-856-10",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2010,
+  "fecha_creacion": "2010-10-29",
+  "magistrado_ponente": "Juan Carlos Henao Pérez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "PRINCIPIO PRO HOMINE",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 923 de 2004",
+    "Decreto 94 de 1989",
+    "Decreto 4433 de 2004",
+    "Decreto 2591 de 1991",
+    "Ley 712 de 2001",
+    "Decreto Ley 94 de 1989",
+    "Decreto 1796 de 2000",
+    "Decreto 1213 de 1990",
+    "Decreto Ley 89 de 1989"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2010/T-856-10.htm",
+  "fecha_descarga": "2026-10-21T17:53:32.189264+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2010-10-29",
+  "fecha_publicacion": null,
+  "numero": "T-856/10",
+  "tipo_cc": "T",
+  "prov_id": "1576",
+  "tema_relatoria": null,
+  "resumen": "Seguridad social, mínimo vital. En el presente caso la Sala de Revisión analizó si al demandante le asiste el derecho al reconocimiento y pago de la pensión de invalidez, con base en el dictamen emitido por el Tribunal Médico Laboral de Revisión Militar y de Policía que estableció su pérdida de la capacidad laboral en un 56.68%. La prestación fue negada por el Grupo de Prestaciones Sociales del Ministerio de Defensa bajo el argumento de que el porcentaje dictaminado no obedecía a una incapacidad permanente parcial en combate o en actos meritorios del servicio. De otra parte, los jueces de instancia negaron el amparo solicitado al considerar que la controversia giraba en torno al ámbito de aplicación del derecho fundamental de petición, el cual consideraron resuelto de fondo por el accionado, con la emisión de la resolución denegatoria de la pensión reclamada. En virtud del principio pro homine la Sala aprecia que resulta más conveniente acorde a los intereses del accionante, a su condición de discapacidad y al derecho aplicable a su situación jurídica, proteger sus derechos fundamentales en el contexto del sistema de seguridad social al cual hace parte y en tal sentido CONCEDE el amparo solicitado y ordena al accionado que reconozca la pensión de invalidez solicitada e incluya al actor en la nómina de pensionados.",
+  "titulaciones": [
+    {
+      "tema": "PRINCIPIO PRO HOMINE",
+      "subtema": null
+    },
+    {
+      "tema": "ACCION DE TUTELA PARA RECONOCIMIENTO DE PENSION DE INVALIDEZ",
+      "subtema": "Procedencia excepcional"
+    },
+    {
+      "tema": "PERDIDA DE CAPACIDAD LABORAL DE SOLDADO RETIRADO DEL SERVICIO",
+      "subtema": null
+    },
+    {
+      "tema": "DERECHO A LA SEGURIDAD SOCIAL Y AL MINIMO VITAL DE SOLDADO RETIRADO DEL SERVICIO",
+      "subtema": "Accidente sufrido con ocasión del servicio"
+    },
+    {
+      "tema": "PENSION DE INVALIDEZ EN REGIMEN ESPECIAL DE FUERZAS MILITARES",
+      "subtema": "Regulación"
+    }
+  ]
+}

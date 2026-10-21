@@ -1,0 +1,50 @@
+{
+  "radicado": "T-196-10",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2010,
+  "fecha_creacion": "2010-03-23",
+  "magistrado_ponente": "Dra MARÍA VICTORIA CALLE CORREA",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "TEMERIDAD",
+  "subtema": "Configuración",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto Ley 960 de 1970",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2010/T-196-10.htm",
+  "fecha_descarga": "2026-10-21T18:04:52.321328+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2010-03-23",
+  "fecha_publicacion": null,
+  "numero": "T-196/10",
+  "tipo_cc": "T",
+  "prov_id": "620",
+  "tema_relatoria": null,
+  "resumen": "Igualdad, debido proceso administrativo. El actor considera que la Notaría Única de Sahgún (Córdoba) debió ser excluida del concurso de notarios ya que en su sentir el cargo de notario lo ocupaba en propiedad, solicita que se declare su permanencia en dicho cargo hasta alcanzar la edad de retiro forzoso. La Sala se pronuncia sobre los requisitos de subsidiariedad e inmediatez como presupuestos de procedencia de la acción de tutela, se encuentra que la acción es improcedente por cuanto no cumple con el requisito de inmediatez y existen mecanismos ordinarios de defensa que el actor no ha hecho valer. Niega.",
+  "titulaciones": [
+    {
+      "tema": "TEMERIDAD",
+      "subtema": "Configuración"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Inexistencia de temeridad aunque se presenten dos tutelas"
+    },
+    {
+      "tema": "PERJUICIO IRREMEDIABLE",
+      "subtema": "Características"
+    },
+    {
+      "tema": "REVISION FALLO DE TUTELA",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "PRINCIPIO DE SUBSIDIARIEDAD E INMEDIATEZ EN LA ACCION DE TUTELA",
+      "subtema": "Requisitos de procedibilidad"
+    }
+  ]
+}

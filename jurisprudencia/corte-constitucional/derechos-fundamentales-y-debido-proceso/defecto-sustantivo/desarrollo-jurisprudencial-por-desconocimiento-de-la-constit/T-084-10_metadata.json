@@ -1,0 +1,56 @@
+{
+  "radicado": "T-084-10",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2010,
+  "fecha_creacion": "2010-02-11",
+  "magistrado_ponente": "Dra MARÍA VICTORIA CALLE CORREA",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "DEFECTO SUSTANTIVO",
+  "subtema": "Desarrollo jurisprudencial por desconocimiento de la Constitución",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto Ley 2651 de 1965",
+    "Decreto 1750 de 2003",
+    "Decreto 2591 de 1991",
+    "Ley 270 de 1996",
+    "Ley 80 de 1993",
+    "Ley 50 de 1990",
+    "Decreto 2350 de 1944",
+    "Ley 26 de 1946"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2010/T-084-10.htm",
+  "fecha_descarga": "2026-10-21T18:00:46.661825+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2010-02-11",
+  "fecha_publicacion": null,
+  "numero": "T-084/10",
+  "tipo_cc": "T",
+  "prov_id": "458",
+  "tema_relatoria": null,
+  "resumen": "Debido proceso, acceso a la administración de justicia, primacía de la realidad sobre las formas. El accionante comenta que inició un proceso ordinario laboral contra el ISS con el fin de que se declare la existencia de un contrato realidad y por lo tanto se le paguen todas las prestaciones legales, la existencia del contrato fue reconocida pero se estimaron prescritas las prestaciones reclamadas, debido a que se contabilizo desde el momento en que se causaron las obligaciones, solicita que se le de aplicación a primacía de la realidad sobre las formas y a acceder a la administración de justicia, y se de una interpretación menos lesiva, adoptada por la Sección Segunda del Consejo de Estado que consiste en contabilizar la prescripción desde que se declara la existencia del contrato realidad. La Sala se pronuncia sobre la procedencia de la acción de tutela contra providencias judiciales, sobre el defecto de las providencias judiciales cuando violan de forma directa alguna de las prohibiciones expresas o razonablemente deducibles de las disposiciones constitucionales, se pasa a estudiar si, las providencias cuestionadas vulneran la Constitución porque no satisficieron los principios de primacía de la realidad y de acceso a la justicia, se concluye que la prescripción de la acción para reclamar prestaciones laborales derivadas del contrato realidad, ha debido ser contada en alguna de las formas que pudiese beneficiar al actor, se decide conceder el amparo impetrado y dejar sin efectos las providencias laborales, se ordena volver a expedir la sentencia. Concedida.",
+  "titulaciones": [
+    {
+      "tema": "DEFECTO SUSTANTIVO",
+      "subtema": "Desarrollo jurisprudencial por desconocimiento de la Constitución"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Reiteración de jurisprudencia sobre requisitos generales y especiales de procedibilidad"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Caso en que se vulneró la Constitución al no satisfacer los principios de primacía de la realidad y acceso a la justicia en la mayor medida posible"
+    },
+    {
+      "tema": "ACREENCIAS LABORALES",
+      "subtema": "Formas hermenéuticas alternativas de contabilizar la prescripción cuando se declara existencia de contrato realidad"
+    },
+    {
+      "tema": "ACCION DE TUTELA PARA RECONOCIMIENTO DE ACREENCIAS LABORALES",
+      "subtema": "Prescripción de prestaciones sociales cuando se declara existencia de contrato realidad debe hacerse mediante alguna de las formas alternativas a la dominante por ser más favorable"
+    }
+  ]
+}

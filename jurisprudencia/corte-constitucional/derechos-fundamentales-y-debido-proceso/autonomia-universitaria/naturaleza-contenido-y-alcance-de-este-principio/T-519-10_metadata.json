@@ -1,0 +1,50 @@
+{
+  "radicado": "T-519-10",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2010,
+  "fecha_creacion": "2010-06-21",
+  "magistrado_ponente": "Mauricio González Cuervo",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "AUTONOMÍA UNIVERSITARIA",
+  "subtema": "Naturaleza, contenido y alcance de este principio",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 30 de 1992"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2010/T-519-10.htm",
+  "fecha_descarga": "2026-10-21T17:49:59.688107+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2010-06-21",
+  "fecha_publicacion": null,
+  "numero": "T-519/10",
+  "tipo_cc": "T",
+  "prov_id": "1006",
+  "tema_relatoria": null,
+  "resumen": "Debido proceso, educación, libertad de escoger profesión u oficio. Se acumulan expedientes por unida de materia. Los accionantes alegan que la Institución Universitaria accionada, anuló sus títulos profesionales, por haber presentado documentos falsos para acreditar el dominio básico de una segunda lengua, solicitan se declare la nulidad de las actuaciones de la Institución accionada y se ordene la entrega de sus títulos profesionales. La Sala realiza reiteración de jurisprudencia sobre la potestad disciplinaria de las instituciones universitarias, el derecho al debido proceso en los procesos administrativos y disciplinarios adelantados en las instituciones universitarias, se estudian precedentes jurisprudenciales donde se resolvió el mismo caso, en las sentencias T-768/09 y T-020/10 , en las cuales se estableció que la exigencia de un segundo idioma no es un requisito excesivo para obtener el título universitario, en el presente caso se concluye que la Institución accionada respetó el debido proceso administrativo en la anulación y en la imposición de la sanción disciplinaria a los estudiantes, resultando legítima su actuación, por lo tanto se decide no acceder a las pretensiones incoadas. Niega.",
+  "titulaciones": [
+    {
+      "tema": "AUTONOMÍA UNIVERSITARIA",
+      "subtema": "Naturaleza, contenido y alcance de este principio"
+    },
+    {
+      "tema": "AUTONOMÍA UNIVERSITARIA",
+      "subtema": "Exigencia de un segundo idioma como requisito para obtener el título profesional"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "No vulneración de derechos fundamentales a los actores con las actuaciones de la entidad demandada por encontrarse acorde a la Constitución y al reglamento interno"
+    },
+    {
+      "tema": "DEBIDO PROCESO EN ACTUACIONES DISCIPLINARIAS EN INSTITUCIONES EDUCATIVAS",
+      "subtema": "Reiteración de jurisprudencia"
+    },
+    {
+      "tema": "TITULO UNIVERSITARIO",
+      "subtema": "Caso en que se anularon los títulos profesionales de los actores por falsedad en documentos en la exigencia del segundo idioma"
+    }
+  ]
+}
