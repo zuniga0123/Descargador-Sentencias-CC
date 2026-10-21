@@ -1,0 +1,54 @@
+{
+  "radicado": "T-080-09",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2009,
+  "fecha_creacion": "2009-02-13",
+  "magistrado_ponente": "Dra CLARA ELENA REALES GUTIERREZ",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCION DE TUTELA TRANSITORIA",
+  "subtema": "Existencia de perjuicio irremediable",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 489 de 1998",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2009/T-080-09.htm",
+  "fecha_descarga": "2026-10-21T18:44:59.964160+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2009-02-13",
+  "fecha_publicacion": null,
+  "numero": "T-080/09",
+  "tipo_cc": "T",
+  "prov_id": "30775",
+  "tema_relatoria": null,
+  "resumen": "DERECHO AL DEBIDO PROCESO, A LA IGUALDAD Y A SER ELEGIDO DE CIUDADANO QUE ESTIMA VULNERADOS SUS DERECHOS POR NO HABER SIDO ESCOGIDO COMO REPRESENTANTES DE LOS TRABAJADORES NO SINDICALIZADOS ANTE EL CONSEJO DIRECTIVO DE CAFAM. IMPROCEDENCIA DE LA ACCION DE TUTELA COMO MECANISMO TRANSITORIO ANTE LA INEXISTENCIA DE UN PERJUICIO IRREMEDIABLE. NO SE ENCONTRO PROBADA LA POSIBLE CAUSACION DE UN PERJUICIO IRREMEDIABLE O EL DESCONOCIMIENTO DEL TRAMITE FIJADO EN LAS RESOLUCIONES QUE DISPONEN EN PROCEDIMIENTO PARA LA POSTULACION Y DESIGNACION COMO REPRESENTANTE DE LOS TRABAJADORES. NEGADA.",
+  "titulaciones": [
+    {
+      "tema": "ACCION DE TUTELA TRANSITORIA",
+      "subtema": "Existencia de perjuicio irremediable"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "No puede revivir términos vencidos ni subsanar omisiones del accionante"
+    },
+    {
+      "tema": "MEDIO DE DEFENSA JUDICIAL",
+      "subtema": "Competencia de la Jurisdicción contencioso administrativa para solucionar la controversia sobre la designación de los representantes de los trabajadores no sindicalizados ante el consejo directivo de Cafam"
+    },
+    {
+      "tema": "JUEZ CONSTITUCIONAL",
+      "subtema": "No tiene competencia para estudiar el procedimiento para designar a los miembros del consejo directivo de las cajas de compensación"
+    },
+    {
+      "tema": "PERJUICIO IRREMEDIABLE",
+      "subtema": "Inexistencia ya que el actor no demuestra de que forma lo perjudica el hecho de no haber sido designado miembro del consejo directivo de Cafam como representante de los trabajadores no sindicalizados"
+    },
+    {
+      "tema": "PERJUICIO IRREMEDIABLE",
+      "subtema": "Elementos para que se configure"
+    }
+  ]
+}

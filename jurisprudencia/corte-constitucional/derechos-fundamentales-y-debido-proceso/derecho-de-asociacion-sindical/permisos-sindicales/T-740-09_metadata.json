@@ -1,0 +1,49 @@
+{
+  "radicado": "T-740-09",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2009,
+  "fecha_creacion": "2009-10-16",
+  "magistrado_ponente": "Mauricio González Cuervo",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "DERECHO DE ASOCIACIÓN SINDICAL",
+  "subtema": "Permisos sindicales",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2009/T-740-09.htm",
+  "fecha_descarga": "2026-10-21T18:40:13.104770+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2009-10-16",
+  "fecha_publicacion": null,
+  "numero": "T-740/09",
+  "tipo_cc": "T",
+  "prov_id": "59",
+  "tema_relatoria": null,
+  "resumen": "Asociación sindical. El actor alega que su empleador no le ha concedido los permisos sindicales para realizar diligencias inherentes a la Organización Sindical. La Sala se pronuncia sobre la protección por vía de tutela de los derechos fundamentales de los sindicatos y de los trabajadores sindicalizados, la protección a la libertad de asociación sindical y el derecho a los permisos sindicales, el empleador puede abstenerse de conceder esta clase de permisos pero deberá justificarlo y, debe estructurarse en la grave afectación de sus actividades, de las pruebas aportadas se encuentra que los permisos fueron negados sin justificación alguna, los permisos sindicales hacen parte del derecho de asociación sindical, por lo tanto se declara que en este caso el derecho invocado ha sido vulnerado. Concedida.",
+  "titulaciones": [
+    {
+      "tema": "DERECHO DE ASOCIACIÓN SINDICAL",
+      "subtema": "Permisos sindicales"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Protección de los derechos de los sindicatos y de los trabajadores sindicalizados"
+    },
+    {
+      "tema": "DERECHO DE ASOCIACIÓN SINDICAL",
+      "subtema": "Vulneración por negativa de la empresa en conceder los permisos sindicales sin justificación alguna"
+    },
+    {
+      "tema": "PERMISO SINDICAL",
+      "subtema": "No establecen condiciones para su reconocimiento ni sujetan su ejercicio a un límite temporal, pero sí deben consultar un criterio de necesidad"
+    },
+    {
+      "tema": "PERMISO SINDICAL",
+      "subtema": "Empleador puede negarlos pero fundamentando su decisión en la grave afectación de sus actividades"
+    }
+  ]
+}

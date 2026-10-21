@@ -1,0 +1,49 @@
+{
+  "radicado": "T-874-09",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2009,
+  "fecha_creacion": "2009-11-27",
+  "magistrado_ponente": "Mauricio González Cuervo",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "DEBIDO PROCESO",
+  "subtema": "Vulneración por parte del juzgado demandado al incurrir en defecto fáctico por no existir prueba alguna dentro del expediente que fundamente su decisión",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2009/T-874-09.htm",
+  "fecha_descarga": "2026-10-21T18:47:16.104173+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2009-11-27",
+  "fecha_publicacion": null,
+  "numero": "T-874/09",
+  "tipo_cc": "T",
+  "prov_id": "230",
+  "tema_relatoria": null,
+  "resumen": "Debido proceso, acceso a la administración de justicia. El banco accionante pretende que se declare que el juzgado accionado incurrió en una vía de hecho al proferir una sentencia en la que decidió que el banco debe pagar al señor Mario Rojas la suma de $376.985.286 como perjuicios materiales por daño emergente y lucro cesante, así como la suma de $ 92.300.00 por daño moral, detrimento comercial y afectación del buen nombre, perjuicios derivados de las medidas cautelares decretadas y practicadas dentro del proceso ejecutivo que se adelantó en el juzgado accionado, en donde el señor Rojas propuso excepción de pago y el juzgado admitió la excepción, condenando al banco actor al pago de costas y perjuicios, se alega que el peritó aprobó la liquidación presentada por el abogado del señor Rojas sin ninguna fórmula de juicio y sin ningún soporte probatorio válido, ante lo cual se formuló objeción por error grave y se solicitó la nulidad de todo lo actuado, dichos recursos fueron negados. La Sala estudia la procedencia de la tutela contra providencias judiciales, se encuentra que el juzgado al decidir sobre el incidente de perjuicios, incurrió en evidentes errores fácticos de valoración probatoria, ya que extrajo la certeza de ocurrencia de perjuicios, en cuantías precisas, sin que en el expediente existiera fundamento probatorio alguno para llegar a esos montoso, por demás exorbitantes, saliéndose de los causes racionales, se decide dejar sin valor ni efecto jurídico el auto que decidió el incidente de regulación de perjuicios, y en su lugar, proceda a resolverlo nuevamente. Concedida.",
+  "titulaciones": [
+    {
+      "tema": "DEBIDO PROCESO",
+      "subtema": "Vulneración por parte del juzgado demandado al incurrir en defecto fáctico por no existir prueba alguna dentro del expediente que fundamente su decisión"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Reiteración de jurisprudencia sobre requisitos generales y especiales de procedibilidad"
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA PROVIDENCIAS JUDICIALES POR DEFECTO FACTICO",
+      "subtema": "Para su procedencia es necesario que en el expediente respectivo no exista ninguna prueba que permita conducir razonablemente a la conclusión alcanzada por el Juez"
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA PROVIDENCIAS JUDICIALES POR VIA DE HECHO",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "DEFECTO FACTICO",
+      "subtema": "Consiste en la aplicación del derecho sin contar con las pruebas que permitan demostrar los hechos determinantes del supuesto legal"
+    }
+  ]
+}

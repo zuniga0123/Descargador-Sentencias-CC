@@ -1,0 +1,54 @@
+{
+  "radicado": "T-823-09",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2009,
+  "fecha_creacion": "2009-11-19",
+  "magistrado_ponente": "Dr LUIS ERNESTO VARGAS SILVA",
+  "area": "Derecho de Familia y Derechos de Niños, Niñas y Adolescentes",
+  "tema": "ACCIÓN DE TUTELA",
+  "subtema": "Improcedencia para solicitar la regulación de cuota alimentaria",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 1098 de 2006",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2009/T-823-09.htm",
+  "fecha_descarga": "2026-10-21T18:48:25.982967+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2009-11-19",
+  "fecha_publicacion": null,
+  "numero": "T-823/09",
+  "tipo_cc": "T",
+  "prov_id": "172",
+  "tema_relatoria": null,
+  "resumen": "Debido proceso. Comenta la accionante que, la entidad accionada no ha realizado el embargo del 25 % del salario del padre de su hijo ordenado por el Juzgado Primero de Familia de Barranquilla, debido a que el señor ya tiene embargado el 50% del salario debido a otros procesos alimentarios. La Sala hace retiración de jurisprudencia sobre la procedencia de la acción de tutela para la regulación y pago de la cuota alimentaria de menores de edad, se concluye que esta corporación no es competente para modificar la cuota alimentaria del menor, en consecuencia, se deben acumular los procesos de alimentos para que el Juez fije el monto de las cuotas alimentarias, y se precisa que no es una decisión caprichosa ni arbitraria la de la entidad accionada, ya que ésta solo responde al cumplimiento de una orden judicial anterior. Niega.",
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Improcedencia para solicitar la regulación de cuota alimentaria"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Improcedencia para reclamar el pago de cuota alimentaria ordenada por un juez, cuando el pagador de la entidad se niega a realizar el pago por existir embargos anteriores por concepto de alimentos"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Improcedencia para alterar los porcentajes o los beneficiarios de cuota alimentaria fijados en cumplimiento de orden judicial anterior"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Procedencia pago de alimentos a menores por vulneración del mínimo vital"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Procedencia para solicitar cancelación de cuota alimentaria de menor cuando el municipio pagador justifica la falta de pago en un proceso de reestructuración"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Procedencia para el pago de cuotas alimentarias reconocidas a menores de edad cuando se ha alegado la insolvencia del alimentante por falta de cancelación de salarios"
+    }
+  ]
+}

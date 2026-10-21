@@ -1,0 +1,55 @@
+{
+  "radicado": "T-847-09",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2009,
+  "fecha_creacion": "2009-11-24",
+  "magistrado_ponente": "Dr JORGE IGNACIO PRETELT CHALJUB",
+  "area": "Derecho a la Salud",
+  "tema": "ACCIÓN DE TUTELA",
+  "subtema": "Orden a EPS de actualizar su base de datos e incluir dentro del sistema de seguridad social al accionante",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Decreto 1382 de 2000",
+    "Decreto 806 de 1998"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2009/T-847-09.htm",
+  "fecha_descarga": "2026-10-21T18:49:40.084028+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2009-11-24",
+  "fecha_publicacion": null,
+  "numero": "T-847/09",
+  "tipo_cc": "T",
+  "prov_id": "199",
+  "tema_relatoria": null,
+  "resumen": "Vida digna, salud, seguridad social. El actor solicita el suministro de un medicamento denominado Bimatoprost, el cual le fue recetado para controlar su problema de glaucoma, pero la EPS accionada se ha negado a suministrarle el tratamiento aduciendo que el actor no se encuentra adscrito a dicha EPS si no a otra llamada Salud Total, el accionante asegura no haber realizado el traslado de EPS, y solicita se le suministre el medicamento lo mas pronto posible. La Sala pasa a estudiar las reglas que deben cumplir las EPS para resolver el caso de múltiple afiliación, derecho fundamental autónomo a la salud de las personas de tercera edad y la procedencia excepcional de la acción de tutela para ordenar el suministro de medicamentos, exámenes o procedimientos no incluidos dentro del POS, se concluye que hubo un abuso por parte de la EPS, ya que no le brindo la oportunidad al afiliado de escoger la institución que le va a brindar el servicio de salud, dejándolo desprotegido, por lo tanto ordena se afilie nuevamente al señor a la EPS accionada y se le suministre el medicamento solicitado. Concedida.",
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Orden a EPS de actualizar su base de datos e incluir dentro del sistema de seguridad social al accionante"
+    },
+    {
+      "tema": "INAPLICACION DE NORMAS DEL PLAN OBLIGATORIOS DE SALUD",
+      "subtema": "Casos en que procede por exclusión de tratamientos y medicamentos de alto costo"
+    },
+    {
+      "tema": "ENTIDAD PROMOTORA DE SALUD",
+      "subtema": "Si hay afiliación múltiple no está autorizada para cancelar contrato automática y unilateralmente"
+    },
+    {
+      "tema": "ENTIDAD PROMOTORA DE SALUD",
+      "subtema": "Posición que debe adoptar frente a afiliación múltiple"
+    },
+    {
+      "tema": "DERECHO A LA SALUD DE PERSONA DE LA TERCERA EDAD",
+      "subtema": "Fundamental autónomo"
+    },
+    {
+      "tema": "INAPLICACION DE NORMAS DEL PLAN OBLIGATORIO DE SALUD",
+      "subtema": "Suministro del medicamento"
+    }
+  ]
+}

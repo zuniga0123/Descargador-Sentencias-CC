@@ -1,0 +1,64 @@
+{
+  "radicado": "T-698-09",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2009,
+  "fecha_creacion": "2009-10-02",
+  "magistrado_ponente": "Dr HUMBERTO ANTONIO SIERRA PORTO",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "PENSION DE JUBILACION",
+  "subtema": "Prohibición de múltiple vinculación a fondos de pensiones",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 797 de 2003",
+    "Ley 100 de 1993",
+    "Decreto 3800 de 2003",
+    "Decreto 3995 de 2008",
+    "Decreto 3935 de 2008",
+    "Ley 1251 de 2008",
+    "Decreto Ley 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2009/T-698-09.htm",
+  "fecha_descarga": "2026-10-21T19:02:11.221838+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2009-10-02",
+  "fecha_publicacion": null,
+  "numero": "T-698/09",
+  "tipo_cc": "T",
+  "prov_id": "4",
+  "tema_relatoria": null,
+  "resumen": "Seguridad social, mínimo vital. Solicita el reconocimiento de su pensión de vejez que no ha sido desembolsada debido a una multiafiliación al sistema de seguridad social, el actor argumenta que él se afilió al Porvenir S.A., pero nunca se realizaron aportes a esta administradora, solo se realizaron aportes al Seguro Social, esto ha generado que Porvenir se niegue a expedir el certificado de retiro del sistema general de pensiones y por esta razón el Seguro Social no lo incluye en nómina y no le desembolsa la mesada pensional. La Sala encuentra demostrada la afectación de los derechos fundamentales del actor y su familia, por no poder acceder a la mesada pensional del mismo, con base en el Decreto 3995 de 2008 se entiende que el actor se encuentra vinculado a la administradora que haya recibido el mayor número de cotizaciones, por lo tanto ordena a Porvenir que expida el certificado de retiro del servicio. Concedida.",
+  "titulaciones": [
+    {
+      "tema": "PENSION DE JUBILACION",
+      "subtema": "Prohibición de múltiple vinculación a fondos de pensiones"
+    },
+    {
+      "tema": "DERECHO A LA SEGURIDAD SOCIAL",
+      "subtema": "Fundamental"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Orden a PORVENIR de expedir el certificado de retiro del servicio y que el Seguro Social incluya en nómina de pensionados al actor"
+    },
+    {
+      "tema": "DERECHO AL MINIMO VITAL ANTE EL NO PAGO DE MESADAS PENSIONALES",
+      "subtema": "Requisitos para acreditar vulneración"
+    },
+    {
+      "tema": "DERECHO AL MINIMO VITAL DEL PENSIONADO",
+      "subtema": "Pago de mesadas pensionales adeudadas"
+    },
+    {
+      "tema": "DERECHO AL MINIMO VITAL DEL PENSIONADO",
+      "subtema": "Pago oportuno de mesadas"
+    },
+    {
+      "tema": "SISTEMA DE SEGURIDAD SOCIAL EN PENSIONES",
+      "subtema": "Multiafiliación simultánea a dos regímenes de pensión coexistentes en Colombia"
+    }
+  ]
+}

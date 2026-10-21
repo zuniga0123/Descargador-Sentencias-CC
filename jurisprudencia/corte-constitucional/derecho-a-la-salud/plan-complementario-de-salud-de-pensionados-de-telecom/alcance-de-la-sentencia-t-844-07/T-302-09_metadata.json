@@ -1,0 +1,50 @@
+{
+  "radicado": "T-302-09",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2009,
+  "fecha_creacion": "2009-04-27",
+  "magistrado_ponente": "Mauricio González Cuervo",
+  "area": "Derecho a la Salud",
+  "tema": "PLAN COMPLEMENTARIO DE SALUD DE PENSIONADOS DE TELECOM",
+  "subtema": "Alcance de la sentencia T-844/07",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Decreto 4781 de 2005",
+    "Decreto 1615 de 2003",
+    "Decreto 254 de 2000",
+    "Decreto 2591 de 1991",
+    "Decreto Ley 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2009/T-302-09.htm",
+  "fecha_descarga": "2026-10-21T18:59:36.696755+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2009-04-27",
+  "fecha_publicacion": null,
+  "numero": "T-302/09",
+  "tipo_cc": "T",
+  "prov_id": "31089",
+  "tema_relatoria": null,
+  "resumen": "DERECHO A LA SALUD QUE SE ALEGA VIOLADO DADO QUE, UNA VEZ ACAECIDA LA LIQUIDACION DE LA EMPRESA DEMANDADA, LE FUE SUSPENDIDO AL PETENTE LA PRESTACION DE LOS SERVICIOS DE SALUD DE PARTE DE LA EMPRESA COLSANITAS. EN VISTA DE QUE LA TUTELA FUE INTERPUESTA HASTA DOS (2) AÑOS DESPUES DE ACAECIDO EL HECHO VULNERANTE, SE DESCARTO LA PROCEDIBILIDAD DE LA MISMA POR INCUMPLIMIENTO DEL REQUISITO DE INMEDIATEZ. NEGADA",
+  "titulaciones": [
+    {
+      "tema": "PLAN COMPLEMENTARIO DE SALUD DE PENSIONADOS DE TELECOM",
+      "subtema": "Alcance de la sentencia T-844/07"
+    },
+    {
+      "tema": "ACCION DE TUTELA Y PRINCIPIO DE INMEDIATEZ",
+      "subtema": "Accionante se demoró dos años y medio después de la suspensión del contrato celebrado con COLSANITAS S.A. como consecuencia de la liquidación de TELECOM"
+    },
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "La sola suspensión de un beneficio convencional, la prestación del plan complementario de salud, no entraña, de suyo, violación del derecho a la salud"
+    },
+    {
+      "tema": "PLAN COMPLEMENTARIO DE SALUD DE PENSIONADOS DE TELECOM",
+      "subtema": "No configuración de vulneración a la prohibición de regresividad que afecte el derecho a la salud"
+    }
+  ]
+}

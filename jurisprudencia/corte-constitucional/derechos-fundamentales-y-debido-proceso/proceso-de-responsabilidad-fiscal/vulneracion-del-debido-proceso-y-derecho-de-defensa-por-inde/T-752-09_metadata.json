@@ -1,0 +1,39 @@
+{
+  "radicado": "T-752-09",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2009,
+  "fecha_creacion": "2009-10-22",
+  "magistrado_ponente": "Dr NILSON PINILLA PINILLA",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "PROCESO DE RESPONSABILIDAD FISCAL",
+  "subtema": "Vulneración del debido proceso y derecho de defensa por indebida notificación de la demandante",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 42 de 1993",
+    "Ley 610 de 2000"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2009/T-752-09.htm",
+  "fecha_descarga": "2026-10-21T18:58:15.862866+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2009-10-22",
+  "fecha_publicacion": null,
+  "numero": "T-752/09",
+  "tipo_cc": "T",
+  "prov_id": "81",
+  "tema_relatoria": null,
+  "resumen": "Debido proceso, derecho de defensa. La accionante señala que se llevo un proceso de responsabilidad fiscal en su contra y que al no ser debidamente notificada no pudo interponer las acciones contencioso administrativas contra la decisión final de la administración y tampoco tuvo apoderado de oficio. La Sala constata que se esta frente a un hecho superado ya que el Contralor Distrital revocó el fallo proferido contra la accionante y declaró la nulidad del auto mediante el cual se le imputó la responsabilidad fiscal, en razón de haberse incurrido en una evidente violación al debido proceso por indebida notificación, por lo tanto se declara carencia actual de objeto por existir hecho superado.",
+  "titulaciones": [
+    {
+      "tema": "PROCESO DE RESPONSABILIDAD FISCAL",
+      "subtema": "Vulneración del debido proceso y derecho de defensa por indebida notificación de la demandante"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Hecho superado por cuanto la Contraloría declaró la nulidad del auto por medio del cual se le imputó responsabilidad fiscal a la accionante"
+    }
+  ]
+}

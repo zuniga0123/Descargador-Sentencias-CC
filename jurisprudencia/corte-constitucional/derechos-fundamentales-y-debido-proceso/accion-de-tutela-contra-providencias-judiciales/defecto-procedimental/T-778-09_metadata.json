@@ -1,0 +1,56 @@
+{
+  "radicado": "T-778-09",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2009,
+  "fecha_creacion": "2009-10-30",
+  "magistrado_ponente": "Dr LUIS ERNESTO VARGAS SILVA",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+  "subtema": "Defecto procedimental",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 617 de 2000",
+    "Ley 270 de 1996",
+    "Decreto 2591 de 1991",
+    "Ley 446 de 1998"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2009/T-778-09.htm",
+  "fecha_descarga": "2026-10-21T18:41:34.169833+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2009-10-30",
+  "fecha_publicacion": null,
+  "numero": "T-778/09",
+  "tipo_cc": "T",
+  "prov_id": "118",
+  "tema_relatoria": null,
+  "resumen": "Debido proceso. El actor actúa como demandante dentro de un proceso electoral, en el cual después de haberse dictado sentencia de segunda instancia, dicho fallo fue anulado por un supuesto impedimento que no fue tenido en cuenta, luego se profiere nuevamente el fallo pero en un sentido totalmente contrario al que inicialmente se le dio. La Corte entra a estudiar la procedencia excepcional de las acciones de tutela contra providencias judiciales y el defecto procedimental constitutivo de vía de hecho el cual en el caso estudiado resulta evidente, ya que el juez se desvió por completo del procedimiento fijado por la ley, ya que se declaro la nulidad de una sentencia, sin haber razones para ello, por lo tanto se ordena la notificación de la sentencia que dictó el Tribunal Administrativo del Chocó, cuando tuvo conocimiento por primera vez. Concedida.",
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Defecto procedimental"
+    },
+    {
+      "tema": "DEBIDO PROCESO",
+      "subtema": "Impedimento de Magistrado no afectó el quórum decisorio y la decisión podía ser tomada por los Magistrados restantes"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Procedencia excepcional"
+    },
+    {
+      "tema": "DEBIDO PROCESO",
+      "subtema": "Nulidad de sentencia dentro de un proceso electoral alegando causales del C. de P.C. no aplicables al caso concreto"
+    },
+    {
+      "tema": "VIA DE HECHO POR DEFECTO PROCEDIMENTAL Y SUSTANTIVO",
+      "subtema": "Nulidad de lo actuado por parte del Tribunal del Chocó dentro de un proceso electoral"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Requisitos generales y especiales de procedibilidad"
+    }
+  ]
+}

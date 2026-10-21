@@ -1,0 +1,42 @@
+{
+  "radicado": "T-800-09",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2009,
+  "fecha_creacion": "2009-11-09",
+  "magistrado_ponente": "Dr Gabriel Eduardo Mendoza Martelo",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "AGENCIA OFICIOSA",
+  "subtema": "Elementos normativos",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 23 de 1981"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2009/T-800-09.htm",
+  "fecha_descarga": "2026-10-21T18:44:12.305983+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2009-11-09",
+  "fecha_publicacion": null,
+  "numero": "T-800/09",
+  "tipo_cc": "T",
+  "prov_id": "144",
+  "tema_relatoria": null,
+  "resumen": "Petición, igualdad, trabajo. Solicita se ordene a la entidad accionada que resuelva la situación militar de su hijo. La Sala hace reiteración de jurisprudencia relacionada con los eventos en los que se configura un hecho superado en la acción de tutela por carencia actual de objeto, legitimación por activa y agencia oficiosa en la acción de tutela, se concluye que respecto al derecho de petición se esta frente a un hecho superado ya que la entidad accionada dió una respuesta eficaz, y respecto a los derechos a la igualdad y al trabajo, la actora no tiene legitimidad para interponer la acción de tutela como agente oficiosa de su hijo ya que éste no es menor de edad y no se encuentra impedido para interponer la acción. Niega.",
+  "titulaciones": [
+    {
+      "tema": "AGENCIA OFICIOSA",
+      "subtema": "Elementos normativos"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Hecho superado por respuesta a petición"
+    },
+    {
+      "tema": "FALTA DE LEGITIMACION POR ACTIVA",
+      "subtema": "Madre en representación de hijo mayor de edad"
+    }
+  ]
+}

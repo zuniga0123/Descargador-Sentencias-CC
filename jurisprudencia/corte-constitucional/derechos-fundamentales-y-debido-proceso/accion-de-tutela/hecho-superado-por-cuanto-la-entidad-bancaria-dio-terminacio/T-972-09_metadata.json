@@ -1,0 +1,52 @@
+{
+  "radicado": "T-972-09",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2009,
+  "fecha_creacion": "2009-12-18",
+  "magistrado_ponente": "Mauricio González Cuervo",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCIÓN DE TUTELA",
+  "subtema": "Hecho superado por cuanto la entidad bancaria dio terminación el proceso ejecutivo",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 794 de 2003",
+    "Decreto 2591 de 1991",
+    "Ley 418 de 1997",
+    "Decreto 2282 de 1989"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2009/T-972-09.htm",
+  "fecha_descarga": "2026-10-21T18:49:14.179681+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2009-12-18",
+  "fecha_publicacion": null,
+  "numero": "T-972/09",
+  "tipo_cc": "T",
+  "prov_id": "345",
+  "tema_relatoria": null,
+  "resumen": "Debido proceso, paz, trabajo, igualdad, salud, buena fe. El actor comenta que adquirió una obligación económica con el banco accionado, la cual no ha podido cancelar debido a que fue desplazado, por lo tanto solicitó al banco en varias oportunidades la reliquidación de su deuda pero sus solicitudes no fueron atendidas y se le inició un proceso ejecutivo, solicita se maneje su deuda en las condiciones especiales que se requieren en vista de su situación particular. La Sala se pronuncia sobre la protección especial a la población desplazada en materia financiera y la aplicación de los postulados de solidaridad y buena fe en la exigencia de créditos bancarios, dentro del trámite de la acción se constató que el comité de activos de créditos de alto riesgo del Banco Agrario, decidió aprobar la extinción de la obligación a cargo del actor por lo tanto ceso la amenaza de sus derechos fundamentales, se declara la existencia de hecho superado.",
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Hecho superado por cuanto la entidad bancaria dio terminación el proceso ejecutivo"
+    },
+    {
+      "tema": "POBLACION DESPLAZADA",
+      "subtema": "Derecho a la protección de los bienes que han dejado abandonados por razones de la violencia"
+    },
+    {
+      "tema": "ENTIDAD BANCARIA",
+      "subtema": "Deber especial de solidaridad con desplazado que es deudor moroso"
+    },
+    {
+      "tema": "POBLACION DESPLAZADA",
+      "subtema": "Condición de especial vulnerabilidad exclusión y marginación"
+    },
+    {
+      "tema": "DESPLAZADOS POR LA VIOLENCIA",
+      "subtema": "Sujetos de especial protección constitucional"
+    }
+  ]
+}

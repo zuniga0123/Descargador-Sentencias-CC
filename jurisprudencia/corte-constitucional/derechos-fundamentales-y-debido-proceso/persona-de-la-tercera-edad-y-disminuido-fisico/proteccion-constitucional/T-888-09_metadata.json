@@ -1,0 +1,54 @@
+{
+  "radicado": "T-888-09",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2009,
+  "fecha_creacion": "2009-12-01",
+  "magistrado_ponente": "Dr LUIS ERNESTO VARGAS SILVA",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "PERSONA DE LA TERCERA EDAD Y DISMINUIDO FISICO",
+  "subtema": "Protección constitucional",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2009/T-888-09.htm",
+  "fecha_descarga": "2026-10-21T18:47:45.693291+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2009-12-01",
+  "fecha_publicacion": null,
+  "numero": "T-888/09",
+  "tipo_cc": "T",
+  "prov_id": "243",
+  "tema_relatoria": null,
+  "resumen": "Seguridad social, mínimo vital, debido proceso, defensa. Se acumulan procesos por unidad de materia. A los accionantes se les suspendió el pago de la mesada que percibían por parte del Grupo Interno de Trabajo para la Gestión del Pasivo Social de Puertos de Colombia, debido a que estaban recibiendo doble mesada pensional, los actores señalan que la actuación administrativa fue silenciosa, arbitraria y no atendió al consentimiento expreso y escrito del titular del derecho. La Sala entra a estudiar el desconocimiento de los derechos al debido proceso administrativo y a la defensa cuando se suspende o revoca un acto administrativo sin comunicar al afectado el inicio de la investigación sobre duplicidad pensional y los casos en que se requiere el consentimiento del afectado, la protección constitucional de las personas de tercera edad y los disminuidos físicos, la presunción de afectación al mínimo vital por suspensión de actos administrativos que reconocen y ordenan el pago de mesadas pensionales, se concluye que la actuación de la entidad accionada vulneró los derechos de los actores al debido proceso administrativo, por lo tanto se ordena reanudar el pago de las mesadas pensionales. Concedida",
+  "titulaciones": [
+    {
+      "tema": "PERSONA DE LA TERCERA EDAD Y DISMINUIDO FISICO",
+      "subtema": "Protección constitucional"
+    },
+    {
+      "tema": "REVOCATORIA DE ACTO ADMINISTRATIVO PARTICULAR Y CONCRETO",
+      "subtema": "Debe respetar el debido proceso administrativo"
+    },
+    {
+      "tema": "DERECHO AL MINIMO VITAL",
+      "subtema": "Presunción de afectación por suspensión de actos administrativos que reconocen y ordenan pago de mesadas pensionales"
+    },
+    {
+      "tema": "DERECHO AL MINIMO VITAL",
+      "subtema": "Dimensión positiva y negativa"
+    },
+    {
+      "tema": "DEBIDO PROCESO ADMINISTRATIVO",
+      "subtema": "Vulneración por cuanto no se comunicó a los accionantes el inicio de la actuación administrativa en su contra y suspendió arbitrariamente el pago de sus pensiones"
+    },
+    {
+      "tema": "REVOCATORIA DE ACTO ADMINISTRATIVO PARTICULAR Y CONCRETO",
+      "subtema": "Consentimiento expreso y escrito del titular"
+    }
+  ]
+}

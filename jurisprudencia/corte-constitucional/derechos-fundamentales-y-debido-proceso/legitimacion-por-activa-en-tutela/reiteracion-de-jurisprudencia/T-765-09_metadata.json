@@ -1,0 +1,45 @@
+{
+  "radicado": "T-765-09",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2009,
+  "fecha_creacion": "2009-10-29",
+  "magistrado_ponente": "Dr Nilson Pinilla Pinilla",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "LEGITIMACIÓN POR ACTIVA EN TUTELA",
+  "subtema": "Reiteración de jurisprudencia",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2009/T-765-09.htm",
+  "fecha_descarga": "2026-10-21T18:42:44.385690+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2009-10-29",
+  "fecha_publicacion": null,
+  "numero": "T-765/09",
+  "tipo_cc": "T",
+  "prov_id": "102",
+  "tema_relatoria": null,
+  "resumen": "Petición. El actor interpuso acción de tutela obrando a nombre propio, pero protegiendo el interés de su poderdante en un proceso ejecutivo, solicita se ordene al ISS que acate la orden impartida por el Juzgado Primero de Familia de Medellín, en el cual se ordena el embargo del 35% de la pensión que obtiene el demandado. La Sala encuentra que el actor no estaba legitimado para interponer la acción de tutela, ya que no mediaba ninguna petición suya sin resolver, ni por quien habría sido su poderdante en el proceso ejecutivo, ni mucho menos se encuentra legitimado para actuar a nombre del Juzgado donde se adelanto el proceso. Niega.",
+  "titulaciones": [
+    {
+      "tema": "LEGITIMACIÓN POR ACTIVA EN TUTELA",
+      "subtema": "Reiteración de jurisprudencia"
+    },
+    {
+      "tema": "DERECHO DE PETICIÓN",
+      "subtema": "El núcleo esencial es la resolución pronta y oportuna"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Hecho superado por cuanto el ISS si dio respuesta al juzgado sobre la orden de embargo impartida"
+    },
+    {
+      "tema": "FALTA DE LEGITIMACION POR ACTIVA",
+      "subtema": "El actor no estaba legitimado para interponer la acción de tutela"
+    }
+  ]
+}

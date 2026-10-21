@@ -1,0 +1,58 @@
+{
+  "radicado": "T-754-09",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2009,
+  "fecha_creacion": "2009-10-27",
+  "magistrado_ponente": "Dr JORGE IGNACIO PRETELT CHALJUB",
+  "area": "Derecho a la Salud",
+  "tema": "DERECHO A LA SALUD",
+  "subtema": "El concepto científico del médico tratante es el principal criterio para establecer si se requiere un servicio de salud, pero no es exclusivo",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 715 de 2001",
+    "Decreto 806 de 1998",
+    "Ley 12 de 1991",
+    "Ley 1098 de 2006",
+    "Ley 1122 de 2007"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2009/T-754-09.htm",
+  "fecha_descarga": "2026-10-21T18:42:22.326904+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2009-10-27",
+  "fecha_publicacion": null,
+  "numero": "T-754/09",
+  "tipo_cc": "T",
+  "prov_id": "86",
+  "tema_relatoria": null,
+  "resumen": "Vida digna, salud. El actor actúa en representación de su hijo menor, quien sufre de tumor en el cráneo, por lo cual se le instaló un catéter distal peritoneal, el cual debe ser cambiado, el padre del menor solicita a la EPS que el procedimiento sea llevado a cabo, por el médico que ha tratado al menor desde su nacimiento, la EPS se niega a autorizar el tratamiento por no estar incluido en el POS, alega no haber recibido ninguna solicitud de cambio de catéter, además dicho tratamiento no ha sido ordenado por un médico adscrito a la EPS. La Sala se pronuncia sobre, las reglas jurisprudenciales que definen el derecho a la salud en el caso de los niños, como un derecho fundamental autónomo, el diagnostico como elemento estructural del servicio a la salud en el marco del derecho fundamental a la salud, el diagnóstico de un médico tratante no adscrito a la entidad promotora de salud como un concepto válido para otorgar el tratamiento, se encuentra que los derechos del menor han sido vulnerados razón por la cual se decide tutelar los derecho invocados. Concedida.",
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "El concepto científico del médico tratante es el principal criterio para establecer si se requiere un servicio de salud, pero no es exclusivo"
+    },
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Incorpora el derecho al diagnóstico"
+    },
+    {
+      "tema": "ENTIDAD PROMOTORA DE SALUD",
+      "subtema": "Puede otorgar el tratamiento prescrito por un médico particular cuando ha habido negligencia de la entidad en la atención"
+    },
+    {
+      "tema": "DERECHO A LA SALUD DE NIÑOS, NIÑAS Y ADOLESCENTES",
+      "subtema": "Fundamental autónomo"
+    },
+    {
+      "tema": "DERECHO A LA SALUD DE NIÑOS, NIÑAS Y ADOLESCENTES",
+      "subtema": "Orden a la EPS-S de cambiar el cateter peritoneal del menor y el suministro del tratamiento integral"
+    },
+    {
+      "tema": "DERECHO A LA SALUD DE NIÑOS, NIÑAS Y ADOLESCENTES",
+      "subtema": "Cambio de cateter peritoneal por tumor en el cráneo no fue autorizado por la EPS-S"
+    }
+  ]
+}

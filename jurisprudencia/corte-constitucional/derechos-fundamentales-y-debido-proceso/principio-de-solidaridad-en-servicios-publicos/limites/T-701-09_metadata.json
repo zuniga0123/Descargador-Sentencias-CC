@@ -1,0 +1,53 @@
+{
+  "radicado": "T-701-09",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2009,
+  "fecha_creacion": "2009-10-02",
+  "magistrado_ponente": "Dr HUMBERTO ANTONIO SIERRA PORTO",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "PRINCIPIO DE SOLIDARIDAD EN SERVICIOS PUBLICOS",
+  "subtema": "Límites",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Decreto 3130 de 2003",
+    "Ley 142 de 1994",
+    "Ley 689 de 2001",
+    "Ley 142 de 1996"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2009/T-701-09.htm",
+  "fecha_descarga": "2026-10-21T18:41:48.963313+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2009-10-02",
+  "fecha_publicacion": null,
+  "numero": "T-701/09",
+  "tipo_cc": "T",
+  "prov_id": "7",
+  "tema_relatoria": null,
+  "resumen": "Dignidad humana, debido proceso, igualdad. La accionante solicita se ordene a la entidad demandada prestarle el servicio de acueducto y alcantarillado, el cual fue suspendido porque su arrendataria quedo en mora en 105 facturas. La Sala hace mención a la ruptura de solidaridad entre el propietario y el usuario de los servicios públicos cuando la empresa prestadora de los servicios públicos no suspende el servicio luego de dos periodos de facturación no cancelados, la Sala no encuentra vulnerados los derechos fundamentales de la accionante puesto que el inmueble afectado es un local comercial, y la afectación que puede llegar a sufrir sería simplemente económica, además cuenta con otro tipo de mecanismos para darle solución a su problema. Improcedente.",
+  "titulaciones": [
+    {
+      "tema": "PRINCIPIO DE SOLIDARIDAD EN SERVICIOS PUBLICOS",
+      "subtema": "Límites"
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA EMPRESA DE SERVICIOS PUBLICOS DOMICILIARIOS",
+      "subtema": "Improcedencia por cuanto la falta de prestación de servicio público no guarda relación de conexidad con algún derecho fundamental y no existe perjuicio irremediable"
+    },
+    {
+      "tema": "DERECHO A SERVICIOS PUBLICOS DOMICILIARIOS",
+      "subtema": "Fundamental"
+    },
+    {
+      "tema": "PRINCIPIO DE DIGNIDAD HUMANA",
+      "subtema": "Contenido material"
+    },
+    {
+      "tema": "PRINCIPIO DE SOLIDARIDAD EN CONTRATO DE SERVICIOS PUBLICOS",
+      "subtema": "Propietario y arrendatario"
+    }
+  ]
+}

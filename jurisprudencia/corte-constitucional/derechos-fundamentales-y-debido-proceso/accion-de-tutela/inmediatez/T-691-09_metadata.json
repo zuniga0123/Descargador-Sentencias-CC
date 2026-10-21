@@ -1,0 +1,53 @@
+{
+  "radicado": "T-691-09",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2009,
+  "fecha_creacion": "2009-10-02",
+  "magistrado_ponente": "Dr JORGE IVÁN PALACIO PALACIO",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCIÓN DE TUTELA",
+  "subtema": "Inmediatez",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2009/T-691-09.htm",
+  "fecha_descarga": "2026-10-21T18:43:46.728459+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2009-10-02",
+  "fecha_publicacion": null,
+  "numero": "T-691/09",
+  "tipo_cc": "T",
+  "prov_id": "31587",
+  "tema_relatoria": null,
+  "resumen": "Mínimo vital. Los accionantes fueron despedidos en enero de 2005, el ente público les reconoció una indemnización por despido injusto e intereses pero hasta el momento no han sido cancelados, solicitan el pago de dichas acreencias laborales, el Juez de primera instancia concede la acción y condena al pago de doscientos ochenta millones de pesos. La Sala menciona la improcedencia de la acción de tutela para el pago de acreencias laborales, y aclara que el pago de una indemnización por despido se destina a cubrir las necesidades básicas mientras la persona está cesante por eso esta supeditado al requisito de inmediatez, en este caso los accionantes dejaron pasar mucho tiempo así que no esta demostrado el principio de inmediatez y la medida del Juez resulta desproporcionada. Negada.",
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Inmediatez"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Improcedencia para el pago de acreencias laborales reconocidas en acuerdos de reestructuración de pasivos"
+    },
+    {
+      "tema": "ACCION DE TUTELA Y PRINCIPIO DE INMEDIATEZ",
+      "subtema": "Excepciones para aceptar que se presente en un extenso espacio de tiempo entre vulneración y presentación"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Debe ser ejercida dentro de un plazo razonable"
+    },
+    {
+      "tema": "ADMINISTRACION MUNICIPAL",
+      "subtema": "Adeuda a los accionantes la indemnización por despido injusto"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Demandantes no aportaron elementos que explicaran su larga demora para interponerla"
+    }
+  ]
+}

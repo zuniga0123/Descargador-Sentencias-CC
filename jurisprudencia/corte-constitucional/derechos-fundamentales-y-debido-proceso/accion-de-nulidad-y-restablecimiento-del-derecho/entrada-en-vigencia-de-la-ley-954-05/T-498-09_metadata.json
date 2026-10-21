@@ -1,0 +1,57 @@
+{
+  "radicado": "T-498-09",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2009,
+  "fecha_creacion": "2009-07-23",
+  "magistrado_ponente": "Dr JORGE IGNACIO PRETELT CHALJUB",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCION DE NULIDAD Y RESTABLECIMIENTO DEL DERECHO",
+  "subtema": "Entrada en vigencia de la Ley 954/05",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 954 de 2005",
+    "Decreto 2591 de 1991",
+    "Ley 446 de 1998",
+    "Decreto 597 de 1988",
+    "Decreto 2147 de 1989"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2009/T-498-09.htm",
+  "fecha_descarga": "2026-10-21T18:58:56.188138+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2009-07-23",
+  "fecha_publicacion": null,
+  "numero": "T-498/09",
+  "tipo_cc": "T",
+  "prov_id": "31362",
+  "tema_relatoria": null,
+  "resumen": "Debido proceso, acceso a la administración de justicia. El actor fue desvinculado del DAS en septiembre de 2002, la entidad lo declaró insubsistente sin ningún tipo de motivación, ante esta situación interpuso acción de nulidad y reestablecimiento del derecho el Tribunal accionado negó las pretensiones de la demanda, ante lo cual interpuso recuso de apelación, se negó el recurso debido a que el artículo 1 de la ley 954 de 2005 reformó las competencias y el proceso pasó de ser de primera instancia a uno de única instancia, pues al momento de interponerse la acción la cuantía no era superior a 100 smlmv, solicita el actor le sea aplicado el principio de doble instancia. La Corte no encuentra configurada la vía de hecho, por cuanto el actor interpuso el recurso de apelación estando en vigencia la Ley 954 de 2005 y en ese momento no cumplía con el requisito exigido de la cuantía para que el proceso fuese de doble instancia, el derecho a la doble instancia no es absoluto, puesto que el legislador, al tener cierto margen de configuración normativa, dispuso que ciertos temas contenciosos deben tramitarse en única instancia. Niega.",
+  "titulaciones": [
+    {
+      "tema": "ACCION DE NULIDAD Y RESTABLECIMIENTO DEL DERECHO",
+      "subtema": "Entrada en vigencia de la Ley 954/05"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Reglas de procedencia y procedibilidad conforme a la sentencia C-590/05"
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA PROVIDENCIAS QUE PONEN FIN AL PROCESO",
+      "subtema": "Procedencia"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Caso en que el demandante no pudo acceder a la segunda instancia por razón de la cuantía del proceso"
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA AUTO INTERLOCUTORIO QUE NIEGA RECURSO DE APELACION",
+      "subtema": null
+    },
+    {
+      "tema": "PRINCIPIO DE INMEDIATEZ EN ACCION DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Reiteración de jurisprudencia"
+    }
+  ]
+}

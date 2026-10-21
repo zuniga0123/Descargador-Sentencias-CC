@@ -1,0 +1,56 @@
+{
+  "radicado": "T-916-09",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2009,
+  "fecha_creacion": "2009-12-09",
+  "magistrado_ponente": "Dr NILSON PINILLA PINILLA",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "DERECHO A LA PENSION DE VEJEZ",
+  "subtema": "Seguro Social niega el reconocimiento por no cumplirse el total de semanas cotizadas",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 100 de 1993",
+    "Decreto 1406 de 1999",
+    "Decreto 2633 de 1994"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2009/T-916-09.htm",
+  "fecha_descarga": "2026-10-21T18:46:20.831249+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2009-12-09",
+  "fecha_publicacion": null,
+  "numero": "T-916/09",
+  "tipo_cc": "T",
+  "prov_id": "281",
+  "tema_relatoria": null,
+  "resumen": "Mínimo vital, seguridad social. El accionante solicita el reconocimiento y pago de su pensión de vejez, ya que esta le ha sido negada debido a que no cumple con el número de semanas requeridas para acceder a la pensión, el actor alega que si cumple con el número de semanas pero que dos de sus antiguos empleadores no han realizado los aportes, además se encuentra en estado de debilidad manifiesta debido a que sufrió un derrame cerebral que le ocasionó graves secuelas y por lo tanto se encuentra en incapacidad de seguir trabajando. La Sala hace reiteración de jurisprudencia sobre la procedencia excepcional de la acción de tutela para obtener el reconocimiento y pago de la pensión de vejez, se pronuncia sobre la mora en el pago de aportes y cotizaciones pensionales, se encuentra que con la expedición del acto administrativo que negó el reconocimiento del beneficio solicitado, el ISS vulneró los derechos fundamentales del actor, pues estando legalmente facultada para exigir coactivamente los aportes, no lo hizo y optó por negar a la pensión de vejez, por lo tanto el ente accionado debe soportar las consecuencias de su inactividad y asumir el valor de las semanas en mora, se ordena que se reconozca y sume el tiempo dejado de cotizar por parte de los empleadores. Concedida.",
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA PENSION DE VEJEZ",
+      "subtema": "Seguro Social niega el reconocimiento por no cumplirse el total de semanas cotizadas"
+    },
+    {
+      "tema": "MORA EN EL PAGO DE APORTES Y COTIZACIONES PENSIONALES",
+      "subtema": "No es admisible que la entidad administradora de pensiones alegue a su favor su propia negligencia en la implementación de las acciones de cobro"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Procedencia excepcional para ordenar reconocimiento y pago de pensiones"
+    },
+    {
+      "tema": "EMPLEADOR",
+      "subtema": "Asunción de responsabilidad por mora en aportes a seguridad social"
+    },
+    {
+      "tema": "SEGURO SOCIAL",
+      "subtema": "Responsabilidad por su inactividad por lo que deberá asumir el valor de las semanas en mora"
+    },
+    {
+      "tema": "SEGURO SOCIAL",
+      "subtema": "Vulneró los derechos del actor ya que debió exigir coactivamente los aportes"
+    }
+  ]
+}

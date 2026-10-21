@@ -1,0 +1,58 @@
+{
+  "radicado": "T-707-09",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2009,
+  "fecha_creacion": "2009-10-06",
+  "magistrado_ponente": "Dr JUAN CARLOS HENAO PÉREZ",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "DERECHO A LA SEGURIDAD SOCIAL",
+  "subtema": "Transmutación de derechos sociales",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2009/T-707-09.htm",
+  "fecha_descarga": "2026-10-21T18:42:00.116372+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2009-10-06",
+  "fecha_publicacion": null,
+  "numero": "T-707/09",
+  "tipo_cc": "T",
+  "prov_id": "19",
+  "tema_relatoria": null,
+  "resumen": "Seguridad social, mínimo vital. El accionante solicita el pago de la indemnización sustitutiva a que tiene derecho por haber cotizado entre los años 1960 y 1964, la entidad accionada le negó el derecho a la indemnización debido a que la cotización se realizó antes de la entrada en vigencia de la ley 100 de 1993 y por lo tanto las disposiciones allí contenidas no le son aplicables. La Sala aclara que el ámbito de aplicación temporal de la ley 100 no depende de la fecha en que se realizaron las cotizaciones por lo tanto se encuentra que la entidad demandada vulneró los derechos del actor. Concedida.",
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA SEGURIDAD SOCIAL",
+      "subtema": "Transmutación de derechos sociales"
+    },
+    {
+      "tema": "MEDIO DE DEFENSA JUDICIAL INEFICAZ",
+      "subtema": "El actor es sujeto de especial protección debido a su avanzada edad"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Procedencia para reconocimiento de derechos pensionales de personas de la tercera edad"
+    },
+    {
+      "tema": "DERECHO A LA SEGURIDAD SOCIAL",
+      "subtema": "Es en sí mismo fundamental, independiente y autónomo"
+    },
+    {
+      "tema": "DERECHO A LA SEGURIDAD SOCIAL EN PENSIONES",
+      "subtema": "Ambito de aplicación de la ley 100 de 1993"
+    },
+    {
+      "tema": "DERECHO A LA INDEMNIZACIÓN SUSTITUTIVA DE LA PENSIÓN DE VEJEZ",
+      "subtema": "Se deben tener en cuenta las semanas cotizadas con anterioridad a la entrada en vigencia de la ley 100 de 1993"
+    },
+    {
+      "tema": "DERECHO A LA INDEMNIZACIÓN SUSTITUTIVA DE LA PENSIÓN DE VEJEZ",
+      "subtema": "El peticionario cumple con la edad requerida pero no cumple con las semanas de cotización"
+    }
+  ]
+}

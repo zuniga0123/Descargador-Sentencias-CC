@@ -1,0 +1,47 @@
+{
+  "radicado": "T-785-09",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2009,
+  "fecha_creacion": "2009-10-30",
+  "magistrado_ponente": "Dra MARÍA VICTORIA CALLE CORREA",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "DERECHO DE PETICIÓN EN MATERIA PENSIONAL",
+  "subtema": "Omisión de responder dentro de término la solicitud de pensión",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 700 de 2001",
+    "Decreto 656 de 1994"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2009/T-785-09.htm",
+  "fecha_descarga": "2026-10-21T18:41:37.820992+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2009-10-30",
+  "fecha_publicacion": null,
+  "numero": "T-785/09",
+  "tipo_cc": "T",
+  "prov_id": "122",
+  "tema_relatoria": null,
+  "resumen": "Petición, habeas data. La accionante solicita el reconocimiento y pago de su pensión de vejez, la cual no ha sido otorgado por la entidad accionada, ésta a su vez argumenta que la actora se encuentra afiliada a otro fondo de pensiones y que es haya a donde debe dirigir su solicitud. La Corte encuentra que la solicitud de la accionante es improcedente, ya que en primer lugar no cumple con el requisito de subsidiariedad y en segundo lugar se parte de la inexistencia de una decisión de la entidad accionada, sin embargo del estudio del expediente se observa que existe vulneración de otros derechos que no fueron alegados en la acción, como son el de petición y el de habeas data, toda vez que la respuesta dada por la entidad accionada fue, tardía e inconsecuente con la información registrada en sus bases de datos, por lo tanto ordena se actualice la información de la accionante y se resuelva de fondo la solicitud de reconocimiento y pago de la pensión de jubilación. Concedida.",
+  "titulaciones": [
+    {
+      "tema": "DERECHO DE PETICIÓN EN MATERIA PENSIONAL",
+      "subtema": "Omisión de responder dentro de término la solicitud de pensión"
+    },
+    {
+      "tema": "DERECHO DE PETICIÓN EN MATERIA PENSIONAL",
+      "subtema": "Términos para resolver"
+    },
+    {
+      "tema": "DERECHO DE PETICIÓN EN MATERIA PENSIONAL",
+      "subtema": "Omisión del Seguro Social para responder la solicitud de reconocimiento y pago de la pensión de jubilación de la accionante"
+    },
+    {
+      "tema": "DERECHO AL HABEAS DATA",
+      "subtema": "Alcance y contenido"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "radicado": "T-676-09",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2009,
+  "fecha_creacion": "2009-09-28",
+  "magistrado_ponente": "Jorge Ignacio Pretelt Chaljub",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "ACCION DE TUTELA PARA RECLAMAR PENSION DE INVALIDEZ",
+  "subtema": "Improcedencia por cuanto no se cumplen las condiciones señaladas por la jurisprudencia para que el amparo sea procedente",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 232 de 1984",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2009/T-676-09.htm",
+  "fecha_descarga": "2026-10-21T19:01:41.566246+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2009-09-28",
+  "fecha_publicacion": null,
+  "numero": "T-676/09",
+  "tipo_cc": "T",
+  "prov_id": "31570",
+  "tema_relatoria": null,
+  "resumen": "Seguridad social, mínimo vital. El accionante sufre de una incapacidad del 51.59%, solicitó a la entidad accionada el reconocimiento de la pensión de invalidez, pero la entidad no le reconoció la pensión debido a que solo ha cotizado 209 semanas, de las cuales 37 corresponden a los 6 años anteriores a la fecha de estructuración de la invalidez. La Sala se pronuncia sobre la improcedencia de la acción de tutela para el reconocimiento y pago de derechos por pensión de invalidez, se encuentra que en el presente caso no aparece demostrado que la subsistencia del actor dependa exclusivamente de la pensión de invalidez que reclama, ni que su no reconocimiento constituya un perjuicio irremediable. Niega.",
+  "titulaciones": [
+    {
+      "tema": "ACCION DE TUTELA PARA RECLAMAR PENSION DE INVALIDEZ",
+      "subtema": "Improcedencia por cuanto no se cumplen las condiciones señaladas por la jurisprudencia para que el amparo sea procedente"
+    },
+    {
+      "tema": "DERECHO A LA PENSIÓN",
+      "subtema": "Fundamental por conexidad con la vida, integridad física y mínimo vital"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Procedencia para reconocimiento de pensiones"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Improcedencia general para reconocimiento de derechos pensionales"
+    },
+    {
+      "tema": "PENSIÓN DE INVALIDEZ",
+      "subtema": "Requisitos para obtener reconocimiento y pago"
+    }
+  ]
+}

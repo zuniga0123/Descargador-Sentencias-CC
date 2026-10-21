@@ -1,0 +1,61 @@
+{
+  "radicado": "T-786-09",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2009,
+  "fecha_creacion": "2009-10-30",
+  "magistrado_ponente": "Dra MARÍA VICTORIA CALLE CORREA",
+  "area": "Derecho a la Salud",
+  "tema": "ADMINISTRADORA DE RIESGOS PROFESIONALES",
+  "subtema": "Suspensión del pago de incapacidades laborales del actor",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 100 de 1993",
+    "Decreto 47 de 2000",
+    "Decreto 1295 de 1994",
+    "Decreto 783 de 2000"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2009/T-786-09.htm",
+  "fecha_descarga": "2026-10-21T18:41:41.498710+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2009-10-30",
+  "fecha_publicacion": null,
+  "numero": "T-786/09",
+  "tipo_cc": "T",
+  "prov_id": "123",
+  "tema_relatoria": null,
+  "resumen": "Mínimo vital, seguridad social. El accionante sufrió un accidente laboral, el cual le ha generado varias incapacidades, comenta que la ARP accionada corría con el costo de las prestaciones asistenciales y económicas, pero ha dejado de cancelarlas, al considerar que no estaba obligada a cubrirlas porque la enfermedad por la cual lo estaban incapacitando no tenían origen profesional. La Sala pasa a recordar su jurisprudencia sobre la procedibilidad excepcional de la tutela para obtener el pago de incapacidades laborales y a establecer a quién le corresponde correr en principio con el pago de las mismas en casos como el planteado por tutela, del expediente se desprende que las incapacidades originadas por el accidente laboral fueron canceladas, pero existe otra afección distinta por la cual se han otorgado las incapacidades sucesivas, la ARP considera que esta enfermedad no esta demostrada que sea de origen profesional y por lo tanto no se encuentra en la obligación de asumirla, se concluye que el actor esta desprotegido y hasta que se defina el origen de la enfermedad es la EPS quien debe cubrir las prestaciones económicas por incapacidad. Concedida.",
+  "titulaciones": [
+    {
+      "tema": "ADMINISTRADORA DE RIESGOS PROFESIONALES",
+      "subtema": "Suspensión del pago de incapacidades laborales del actor"
+    },
+    {
+      "tema": "ACCION DE TUTELA PARA RECLAMAR PAGO DE INCAPACIDADES LABORALES",
+      "subtema": "Procedencia excepcional"
+    },
+    {
+      "tema": "INCAPACIDAD LABORAL",
+      "subtema": "Controversias entre la EPS y la ARP respecto a su pago"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Orden para que sea la EPS la encargada de realizar el pago de las incapacidades, y si ésta concluye que era otro el responsable, podrá repetir contra él"
+    },
+    {
+      "tema": "INCAPACIDAD LABORAL",
+      "subtema": "Casos en que el pago está a cargo de la EPS, a cargo del empleador o a cargo de la ARS"
+    },
+    {
+      "tema": "INCAPACIDAD LABORAL",
+      "subtema": "Criterios legales y jurisprudenciales para definir quién está obligado a correr con el pago de las mismas"
+    },
+    {
+      "tema": "JUEZ DE TUTELA",
+      "subtema": "Puede señalar transitoriamente un responsable provisional para el pago de las incapacidades"
+    }
+  ]
+}

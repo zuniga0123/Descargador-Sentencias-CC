@@ -1,0 +1,58 @@
+{
+  "radicado": "T-500-09",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2009,
+  "fecha_creacion": "2009-07-23",
+  "magistrado_ponente": "Mauricio González Cuervo",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCION DE TUTELA CONTRA PARTICULARES",
+  "subtema": "Estado de indefensión de mujer embarazada",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Ley 797 de 2003",
+    "Ley 712 de 2001",
+    "Decreto 2591 de 1991",
+    "Ley 446 de 1998",
+    "Ley 75 de 1968"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2009/T-500-09.htm",
+  "fecha_descarga": "2026-10-21T18:57:02.188377+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2009-07-23",
+  "fecha_publicacion": null,
+  "numero": "T-500/09",
+  "tipo_cc": "T",
+  "prov_id": "31364",
+  "tema_relatoria": null,
+  "resumen": "Mínimo vital. Tras el fallecimiento del señor Sanmiguel al cual se le hacia un descuento de la mesada pensional para el pago de una obligación alimentaria a favor de la actora, ésta pretende que dicho descuento se siga realizando en la pensión de sobreviviente adquirida por la esposa de éste, la entidad accionada se niega a realizar dicho descuento debido a que no se encuentra facultada para afectar los derechos de dominio de la esposa del causante. La Sala entra a estudiar, la procedencia de la acción de tutela contra particulares, la procedencia de la acción de tutela como mecanismo transitorio ante la configuración de un perjuicio irremediable y la no procedencia de la tutela para definir derechos litigiosos de contenido económico, se encuentra que no le asiste razón a la accionante ya que no probo ningún tipo de perjuicio irremediable, ni el encontrarse en estado de debilidad manifiesta, por lo tanto debe recurrir a la justicia ordinaria para solucionar la controversia. Negada.",
+  "titulaciones": [
+    {
+      "tema": "ACCION DE TUTELA CONTRA PARTICULARES",
+      "subtema": "Estado de indefensión de mujer embarazada"
+    },
+    {
+      "tema": "DERECHOS LITIGIOSOS DE CONTENIDO ECONOMICO",
+      "subtema": "No procede la tutela para definirlos"
+    },
+    {
+      "tema": "OBLIGACION ALIMENTARIA",
+      "subtema": null
+    },
+    {
+      "tema": "ACCION DE TUTELA TRANSITORIA PARA EVITAR PERJUICIO IRREMEDIABLE",
+      "subtema": "Sólo por tratarse de una persona de la tercera edad no hace per se que el amparo constitucional deba prosperar"
+    },
+    {
+      "tema": "DERECHO DE ALIMENTOS",
+      "subtema": null
+    },
+    {
+      "tema": "SUSTITUCIÓN PENSIONAL",
+      "subtema": "Caso en que la demandante en su calidad de ex cónyuge del causante percibía cuota de alimentos"
+    }
+  ]
+}

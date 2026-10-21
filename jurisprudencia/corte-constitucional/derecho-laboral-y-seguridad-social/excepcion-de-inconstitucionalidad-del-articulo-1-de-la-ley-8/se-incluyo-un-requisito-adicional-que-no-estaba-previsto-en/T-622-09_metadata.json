@@ -1,0 +1,53 @@
+{
+  "radicado": "T-622-09",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2009,
+  "fecha_creacion": "2009-09-04",
+  "magistrado_ponente": "Dr Nilson Pinilla Pinilla",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "EXCEPCION DE INCONSTITUCIONALIDAD DEL ARTICULO 1 DE LA LEY 860/03",
+  "subtema": "Se incluyó un requisito adicional que no estaba previsto en el texto original del artículo 39 de la Ley 100/93",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 100 de 1993",
+    "Ley 860 de 2003",
+    "Decreto 758 de 1990",
+    "Ley 906 de 2004"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2009/T-622-09.htm",
+  "fecha_descarga": "2026-10-21T18:40:46.188202+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2009-09-04",
+  "fecha_publicacion": null,
+  "numero": "T-622/09",
+  "tipo_cc": "T",
+  "prov_id": "31506",
+  "tema_relatoria": null,
+  "resumen": "Seguridad social, mínimo vital. El accionante sufre de una invalidez de origen común del 75.8%, le fue negada la pensión de invalidez por no contar con el requisito de 20% fidelidad en la cotización, inició proceso ordinario y sus pretensiones le fueron denegadas. La Sala encuentra conforme a derecho, el fallo del Tribunal accionado (el cual aplico la normatividad vigente, en la fecha de estructuración de invalidez), y es el accionante quien no se encuentra de acuerdo con dicho fallo, por lo tanto no procede la vía de hecho debido a que el afectado dispone de otro mecanismo judicial que no ha sido agotado, el cual es la casación, por esta razón se decide negar la acción impetrada.",
+  "titulaciones": [
+    {
+      "tema": "EXCEPCION DE INCONSTITUCIONALIDAD DEL ARTICULO 1 DE LA LEY 860/03",
+      "subtema": "Se incluyó un requisito adicional que no estaba previsto en el texto original del artículo 39 de la Ley 100/93"
+    },
+    {
+      "tema": "PENSION DE INVALIDEZ Y REQUISITO DE FIDELIDAD",
+      "subtema": "Desconocimiento del precedente"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Improcedencia por inexistencia de vía de hecho y por no haber acudido a mecanismos idóneos para la defensa de sus intereses"
+    },
+    {
+      "tema": "DERECHO A LA PENSIÓN DE INVALIDEZ",
+      "subtema": "Aplicación del principio de la condición más beneficiosa"
+    },
+    {
+      "tema": "DERECHO A LA PENSIÓN DE INVALIDEZ",
+      "subtema": "Norma aplicable es la vigente al momento de la estructuración del estado de invalidez"
+    }
+  ]
+}

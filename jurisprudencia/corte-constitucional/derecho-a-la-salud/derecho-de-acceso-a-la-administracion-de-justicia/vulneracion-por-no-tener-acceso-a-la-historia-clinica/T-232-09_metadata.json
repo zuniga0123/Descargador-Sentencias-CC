@@ -1,0 +1,46 @@
+{
+  "radicado": "T-232-09",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2009,
+  "fecha_creacion": "2009-03-31",
+  "magistrado_ponente": "Dra CLARA ELENA REALES GUTIÉRREZ",
+  "area": "Derecho a la Salud",
+  "tema": "DERECHO DE ACCESO A LA ADMINISTRACIÓN DE JUSTICIA",
+  "subtema": "Vulneración por no tener acceso a la historia clínica",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 23 de 1981",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2009/T-232-09.htm",
+  "fecha_descarga": "2026-10-21T18:52:00.344180+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2009-03-31",
+  "fecha_publicacion": null,
+  "numero": "T-232/09",
+  "tipo_cc": "T",
+  "prov_id": "30996",
+  "tema_relatoria": null,
+  "resumen": "DERECHO DE PETICION DE PACIENTE DEL CIUDADANO ACCIONADO A QUIEN, PESE SUS REPETIDAS SOLICITUDES, NO LE HAN SIDO ENTREGADAS COPIAS DE LAS FOTOGRAFIAS TOMADAS PARA LA PRACTICA DE UNA INTERVENCION QUIRURGICA QUE LE FUERE EJECUTADA POR EL MISMO. LA SALA EVOCO LA REITERADA JURISPRUDENCIA CONSTITUCIONAL EN RELACION CON LA AFECTACION QUE IMPLICA LA NEGATIVA ANTE LA PETICION DE ENTREGA DE LA HISTORIA CLINICA. SE ORDENO AL ACCIONADO HACER LO PROPIO CON LAS FOTOGRAFIAS SOLICITADAS POR LA ACCIONANTE. CONCEDIDA",
+  "titulaciones": [
+    {
+      "tema": "DERECHO DE ACCESO A LA ADMINISTRACIÓN DE JUSTICIA",
+      "subtema": "Vulneración por no tener acceso a la historia clínica"
+    },
+    {
+      "tema": "DERECHO DE ACCESO A LA HISTORIA CLINICA",
+      "subtema": null
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA PARTICULAR ENCARGADO DE PRESTACION DE SERVICIO PUBLICO DE SALUD",
+      "subtema": "Procedencia para obtener información sobre historia clínica"
+    },
+    {
+      "tema": "DERECHO DE PETICIÓN",
+      "subtema": "Solicitud de la historia clínica"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "radicado": "T-305A-09",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2009,
+  "fecha_creacion": "2009-04-28",
+  "magistrado_ponente": "Mauricio González Cuervo",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCIÓN DE TUTELA",
+  "subtema": "Improcedencia para resolución de derechos litigiosos de contenido económico",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 550 de 1999",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2009/T-305A-09.htm",
+  "fecha_descarga": "2026-10-21T18:59:44.048987+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2009-04-28",
+  "fecha_publicacion": null,
+  "numero": "T-305A/09",
+  "tipo_cc": "T",
+  "prov_id": "31093",
+  "tema_relatoria": null,
+  "resumen": "Debido proceso. El actor interpuso derecho de petición ante el Municipio de Tolú, solicitando el reconocimiento, liquidación y pago de las acreencias de que es titular, el Municipio mediante resolución reconoció, liquidó y pago las acreencias, condicionando la cancelación a la aprobación del Comité de Vigilancia del Acuerdo de Reestructuración de Pasivos, pero el actor consideró que dicho procedimiento se encontraba extinto de pleno derecho debido a que la entidad incumplió el acuerdo de pago, por lo tanto interpuso acción de tutela, la cual fue concedida en primera instancia pero mediante sentencia T-897 de 2007 esta corporación revocó la decisión, debido a ello las sumas consignadas al actor a sus cesionarios fueran debitadas de sus respectivas cuentas por parte del Banco Agrario, los accionantes interpusieron una nueva acción de tutela solicitando el reembolso de los dineros que les fueron debitados irregularmente ya que según ellos no medió orden judicial. La Sala pasa a establecer si existe cosa juzgada constitucional respecto de los mismos actores, hechos y pretensiones y si la acción de tutela es el medio de defensa judicial para proteger el debido proceso de los actores, se analizan los siguientes temas las tutelas conocidas por esta corporación sobre hechos similares y la improcedencia de la tutela para la resolución de derechos litigiosos de contenido económico, se concluye que la acción de tutela no es el mecanismo idóneo ni adecuado para lograr el pago de sumas de dinero en conflicto, derivadas de un debate probatorio y relacionadas con un contrato de cuenta corriente, ya que para estos casos el escenario natural es la jurisdicción ordinaria, se decide negar la acción por improcedente.",
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Improcedencia para resolución de derechos litigiosos de contenido económico"
+    },
+    {
+      "tema": "DEBIDO PROCESO",
+      "subtema": "No procede amparo constitucional por cuanto no se acreditó ineficacia del medio de defensa judicial alternativo o perjuicio irremediable"
+    },
+    {
+      "tema": "ACCION DE TUTELA Y DERECHOS LITIGIOSOS DE CONTENIDO ECONOMICO",
+      "subtema": "No puede ser utilizada como mecanismo alternativo para reconocimiento de derechos económicos que se deriven de una relación contractual"
+    }
+  ]
+}

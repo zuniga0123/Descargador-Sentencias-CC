@@ -1,0 +1,47 @@
+{
+  "radicado": "T-076-09",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2009,
+  "fecha_creacion": "2009-02-12",
+  "magistrado_ponente": "Dra CLARA INÉS VARGAS HERNÁNDEZ",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCION DE TUTELA CONTRA EJECUCION DE LA PENA DE EXPULSION DEL TERRITORIO NACIONAL",
+  "subtema": "La existencia de hijos menores no puede aducirse como excusa para evadir el cumplimiento de decisiones judiciales",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 600 de 2000",
+    "Ley 906 de 2004"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2009/T-076-09.htm",
+  "fecha_descarga": "2026-10-21T18:44:56.339186+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2009-02-12",
+  "fecha_publicacion": null,
+  "numero": "T-076/09",
+  "tipo_cc": "T",
+  "prov_id": "30768",
+  "tema_relatoria": null,
+  "resumen": "DERECHO DE LOS MENORES INVOCADO POR MADRES DE HIJOS DE UN EXTRANJERO SANCIONADO CON PENA ACCESORIA DE EXPULSION DEL TERRITORIO NACIONAL. LAS PETENTES ALEGAN QUE TAL MEDIDA AFECTA A LOS MENORES, PORQUE LOS ALEJA GEOGRÁFICAMENTE DE SU PADRE. LA SALA REITERO LO DISPUESTO EN OTRAS SENTENCIAS EN LAS QUE SE HA DEFENDIDO LA IMPROCEDENCIA DE LA TUTELA, DADA LA EXISTENCIA Y DISPONIBILIDAD DE OTROS MEDIOS DE DEFENSA JUDICIAL. SE DESCARTO, ADEMAS, SU CONDUCENCIA COMO AMPARO TRANSITORIO, POR NO VISLUMBRARSE UN PERJUICIO IRREMEDIABLE, ENTRE OTRAS COSAS, PORQUE LA SENTENCIA CONDENATORIA FUE IMPUESTA HACE YA CINCO AÑOS. NEGADA VER SENTENCIAS: T-138/02, T-680/02 Y T-116/03",
+  "titulaciones": [
+    {
+      "tema": "ACCION DE TUTELA CONTRA EJECUCION DE LA PENA DE EXPULSION DEL TERRITORIO NACIONAL",
+      "subtema": "La existencia de hijos menores no puede aducirse como excusa para evadir el cumplimiento de decisiones judiciales"
+    },
+    {
+      "tema": "ACCION DE TUTELA TRANSITORIA CONTRA EJECUCION DE LA PENA DE EXPULSION DEL TERRITORIO NACIONAL",
+      "subtema": "Improcedencia ya que el padre de los menores no ha realizado gestión alguna para rechazar la imposición de la pena accesoria o legalizar su situación migratoria"
+    },
+    {
+      "tema": "ACCION DE TUTELA TRANSITORIA",
+      "subtema": "Existencia de perjuicio irremediable"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Subsidiariedad"
+    }
+  ]
+}

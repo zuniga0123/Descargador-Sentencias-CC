@@ -1,0 +1,52 @@
+{
+  "radicado": "T-700-09",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2009,
+  "fecha_creacion": "2009-10-02",
+  "magistrado_ponente": "Dr HUMBERTO ANTONIO SIERRA PORTO",
+  "area": "Derecho a la Salud",
+  "tema": "DERECHO A LA SALUD",
+  "subtema": "Fundamental autónomo",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 1122 de 2007",
+    "Decreto 806 de 1998",
+    "Ley 715 de 2001"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2009/T-700-09.htm",
+  "fecha_descarga": "2026-10-21T18:41:45.318479+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2009-10-02",
+  "fecha_publicacion": null,
+  "numero": "T-700/09",
+  "tipo_cc": "T",
+  "prov_id": "6",
+  "tema_relatoria": null,
+  "resumen": "Salud, vida digna. La accionante sufre de hipotoridismo, alega que la EPS no le ha prestado ni el tratamiento, ni el medicamento adecuados ocasionándole una grave afectación a su salud, por lo tanto solicita que se autorice la valoración por medicina interna y neurología, la práctica de los exámenes necesarios y el medicamento indicado por su médico tratante. La Sala encuentra que las entidades accionadas desconocieron los derechos fundamentales de la actora. Concedida.",
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Fundamental autónomo"
+    },
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Ordenes relacionadas con el derecho al recobro de servicios médicos no cubiertos por el plan de beneficios ante el Fosyga o las entidades territoriales"
+    },
+    {
+      "tema": "ADMINISTRADORA DEL REGIMEN SUBSIDIADO",
+      "subtema": "Obligaciones frente a servicios no incluidos en POS"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "EPS deberá autorizar remisión a medicina interna y valoración por neurología, práctica de tac de cráneo eco de tiroides y del medicamento lovotoroxina"
+    },
+    {
+      "tema": "INAPLICACION DE NORMAS DEL PLAN OBLIGATORIOS DE SALUD O PLAN OBLIGATORIO DE SALUD SUBSIDIADO",
+      "subtema": "Casos en que procede por exclusión de medicamentos, procedimientos y servicios médicos"
+    }
+  ]
+}
