@@ -1,0 +1,51 @@
+{
+  "radicado": "T-310-18",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2018,
+  "fecha_creacion": "2018-07-27",
+  "magistrado_ponente": "Carlos Bernal Pulido",
+  "area": "Otros - Sin clasificar",
+  "tema": "CARENCIA ACTUAL DE OBJETO POR HECHO SUPERADO",
+  "subtema": "Accionante fue inscrita en el RUV",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 1448 de 2011",
+    "Decreto 4800 de 2011",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2018/T-310-18.htm",
+  "fecha_descarga": "2026-10-21T10:21:21.851527+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2018-07-27",
+  "fecha_publicacion": "2018-08-06",
+  "numero": "T-310/18",
+  "tipo_cc": "T",
+  "prov_id": "32771",
+  "tema_relatoria": "CARENCIA ACTUAL DE OBJETO POR HECHO SUPERADO. ACCIONANTE FUE INSCRITA EN RUV.",
+  "resumen": "Se atribuye a la UARIV la vulneración de derechos fundamentales de la actora al negar su inclusión en el RUV y no reconocer el hecho victimizante de desaparición forzada de su hijo. La Sala encontró probada la existencia de un HECHO SUPERADO, toda vez que la entidad revocó su decisión y decidió acceder a la petición formulada por la accionante y, en consecuencia, ordenar su inclusión en el Registro Único de Víctimas.",
+  "titulaciones": [
+    {
+      "tema": "CARENCIA ACTUAL DE OBJETO POR HECHO SUPERADO",
+      "subtema": "Accionante fue inscrita en el RUV"
+    },
+    {
+      "tema": "CARENCIA ACTUAL DE OBJETO POR DAÑO CONSUMADO",
+      "subtema": "Configuración"
+    },
+    {
+      "tema": "CARENCIA ACTUAL DE OBJETO",
+      "subtema": "Fenómeno que se configura en los siguientes eventos: hecho superado, daño consumado o situación sobreviniente"
+    },
+    {
+      "tema": "CARENCIA ACTUAL DE OBJETO POR HECHO SUPERADO",
+      "subtema": "Configuración"
+    },
+    {
+      "tema": "CARENCIA ACTUAL DE OBJETO POR SITUACIÓN SOBREVINIENTE",
+      "subtema": "Configuración"
+    }
+  ]
+}

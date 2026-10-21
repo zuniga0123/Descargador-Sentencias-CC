@@ -1,0 +1,65 @@
+{
+  "radicado": "T-059-18",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2018,
+  "fecha_creacion": "2018-02-22",
+  "magistrado_ponente": "Antonio José Lizarazo Ocampo",
+  "area": "Derecho a la Salud",
+  "tema": "TEST DE IGUALDAD DEBIL",
+  "subtema": "Elementos",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 352 de 1997",
+    "Decreto 2591 de 1991",
+    "Ley 1751 de 2015",
+    "Ley 23 de 1981",
+    "Ley 1795 de 2000"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2018/T-059-18.htm",
+  "fecha_descarga": "2026-10-21T10:31:52.085830+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2018-02-22",
+  "fecha_publicacion": "2018-04-27",
+  "numero": "T-059/18",
+  "tipo_cc": "T",
+  "prov_id": "32257",
+  "tema_relatoria": "DERECHO A LA SALUD. VULNERACION POR IMPLANTE DE LENTE DE COLOR DIFERENTE AL COLOR NATURAL DEL IRIS.",
+  "resumen": "Al actor le diagnosticaron glaucoma en su ojo izquierdo y como consecuencia de ello, perdió la visión en dicho órgano. Luego de que le realizaran la cirugía para colocarle un lente de contacto, empezó a notar que el mismo era de color café oscuro y no verde, como el color natural de su iris. Al solicitar que le fuera realizado el cambio del mencionado dispositivo le indicaron que debía asumir un costo de $450.000 como reposición, no obstante ser el error una consecuencia de la óptica accionada. Se abordan los siguientes temas: 1º. El derecho a la salud y el derecho a recibir los tratamientos con implicaciones estéticas que no buscan el embellecimiento sino la recuperación del estado físico previo a accidente, enfermedad o trauma. 2º. El consentimiento informado y las intervenciones en el campo de la de la salud. Reiteración de jurisprudencia. Se CONCEDE el amparo invocado y se ordena a la óptica demandada suministrar el lento cosmoprotésico del color más próximo al del iris del peticionario y realizar el procedimiento de adaptación del mismo, previa autorización del paciente, asumiendo el costo total de dicho procedimiento.",
+  "titulaciones": [
+    {
+      "tema": "TEST DE IGUALDAD DEBIL",
+      "subtema": "Elementos"
+    },
+    {
+      "tema": "FUNDAMENTALIDAD DEL DERECHO A LA SALUD",
+      "subtema": "Principios rectores como oportunidad, eficiencia, calidad, integralidad y continuidad del servicio"
+    },
+    {
+      "tema": "CONSENTIMIENTO INFORMADO",
+      "subtema": "Concepto"
+    },
+    {
+      "tema": "CONSENTIMIENTO LIBRE E INFORMADO DEL PACIENTE",
+      "subtema": null
+    },
+    {
+      "tema": "CONSENTIMIENTO INFORMADO",
+      "subtema": "Intervenciones de la salud"
+    },
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Vulneración por implante de lente de color diferente al color natural del iris"
+    },
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Derecho a recibir los tratamientos con implicaciones estéticas, que no buscan el embellecimiento sino la recuperación del estado físico previo a accidente, enfermedad o trauma"
+    },
+    {
+      "tema": "DERECHO A LA SALUD, A LA INTEGRIDAD FISICA Y A UNA VIDA EN CONDICIONES DIGNAS",
+      "subtema": "Orden a óptica suministrar al demandante lente cosmoprotésico del color más próximo al de su iris, y realizar el procedimiento de adaptación de dicho dispositivo, previa autoriz"
+    }
+  ]
+}

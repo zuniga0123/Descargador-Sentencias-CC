@@ -1,0 +1,57 @@
+{
+  "radicado": "T-284-18",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2018,
+  "fecha_creacion": "2018-07-23",
+  "magistrado_ponente": "Antonio José Lizarazo Ocampo",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCION DE TUTELA PARA SOLICITAR PRISION DOMICILIARIA",
+  "subtema": "Se debió omitir pronunciamiento acerca del problema de fondo consistente en establecer si el accionante cumplía los requisitos materiales para acceder a la prisión domiciliaria",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 1395 de 2010",
+    "Decreto 2591 de 1991",
+    "Ley 906 de 2004",
+    "Ley 1709 de 2014",
+    "Decreto 2282 de 1989"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2018/T-284-18.htm",
+  "fecha_descarga": "2026-10-21T10:22:22.062170+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2018-07-23",
+  "fecha_publicacion": "2018-08-03",
+  "numero": "T-284/18",
+  "tipo_cc": "T",
+  "prov_id": "32755",
+  "tema_relatoria": "ACCION DE TUTELA PARA SOLICITAR PRISION DOMICILIARIA. IMPROCEDENCIA POR NO ACREDITAR PERJUICIO IRREMEDIABLE.",
+  "resumen": "Se ataca la decisión judicial que le negó al actor el reconocimiento del beneficio de prisión domiciliaria, pese a padecer unas complejas enfermedades que, a su parecer, impone que sea remitido a cumplir su condena en su domicilio. Se aborda temática relacionada con la procedencia de la acción de tutela contra providencias judiciales, las facultades del juez de tutela para fallar extra y ultra petita y la procedencia del amparo constitucional para sustituir la prisión en establecimiento carcelario por prisión domiciliaria. Se confirman las decisiones de instancia que NEGARON el amparo invocado. No obstante lo anterior se ordena al Establecimiento Penitenciario donde se encuentra el peticionario, que por intermedio de los profesionales de salud que desarrollen sus actividades en ese penal, brinden un concepto médico respecto de la compatibilidad de ese centro con el tratamiento y cuando clínico del mismo.",
+  "titulaciones": [
+    {
+      "tema": "ACCION DE TUTELA PARA SOLICITAR PRISION DOMICILIARIA",
+      "subtema": "Se debió omitir pronunciamiento acerca del problema de fondo consistente en establecer si el accionante cumplía los requisitos materiales para acceder a la prisión domiciliaria"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Procedencia excepcional"
+    },
+    {
+      "tema": "ACCION DE TUTELA PARA SOLICITAR PRISION DOMICILIARIA",
+      "subtema": "Requisitos para la prisión domiciliaria deben ser analizados por los jueces competentes para el efecto y no por la Sala de Revisión"
+    },
+    {
+      "tema": "ACCION DE TUTELA PARA SOLICITAR PRISION DOMICILIARIA",
+      "subtema": "Improcedencia por no acreditar perjuicio irremediable"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Requisitos generales y especiales de procedibilidad"
+    },
+    {
+      "tema": "JUEZ DE TUTELA",
+      "subtema": "Facultad de fallar extra y ultra petita"
+    }
+  ]
+}

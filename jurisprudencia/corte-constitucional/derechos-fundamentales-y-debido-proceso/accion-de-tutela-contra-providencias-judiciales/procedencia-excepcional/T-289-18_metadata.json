@@ -1,0 +1,42 @@
+{
+  "radicado": "T-289-18",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2018,
+  "fecha_creacion": "2018-07-23",
+  "magistrado_ponente": "Carlos Bernal Pulido",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+  "subtema": "Procedencia excepcional",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 794 de 2003"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2018/T-289-18.htm",
+  "fecha_descarga": "2026-10-21T10:21:33.345688+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2018-07-23",
+  "fecha_publicacion": "2018-08-03",
+  "numero": "T-289/18",
+  "tipo_cc": "T",
+  "prov_id": "32747",
+  "tema_relatoria": "ACCION DE TUTELA CONTRA PROVIDENCIAS JUDICIALES. IMPROCEDENCIA POR INCUMPLIR REQUISITOS.",
+  "resumen": "Se atribuye la vulneración de derechos fundamentales a las decisiones judiciales que rechazaron de plano la solicitud de nulidad que presentó el actor en contra de todo lo actuado, a partir del avalúo catastral, dentro de un proceso ejecutivo de mayor cuantía promovido en su contra. En su parecer, se presentaron varias irregularidades como la realización del remate con base en un avalúo que arrojó un valor inferior del bien inmueble objeto de las diligencias, y el desconocimiento de derechos de terceros en tanto se embargó y luego se secuestró la totalidad del referido bien sin advertir que se trataba de una propiedad en común y proindiviso de la cual él solo tenía la propiedad de la cuota parte del 50%. Luego de analizar temática relacionada con la procedencia de la acción de tutela contra providencias judiciales, la Corte considera que no cumple con los requisitos genéricos de procedibilidad referentes a la relevancia constitucional, subsidiariedad y efecto decisivo de la irregularidad alegada. Se declara la IMPROCEDENCIA de la solicitud de amparo invocada.",
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Procedencia excepcional"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Improcedencia por incumplir requisitos generales"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Requisitos generales y especiales de procedibilidad"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "radicado": "T-248-18",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2018,
+  "fecha_creacion": "2018-06-27",
+  "magistrado_ponente": "Carlos Bernal Pulido",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+  "subtema": "Improcedencia por cuanto de la decisión judicial impugnada no se deriva una afectación a los derechos fundamentales de la parte actora",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 797 de 2003",
+    "Decreto 2591 de 1991",
+    "Ley 1276 de 2009"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2018/T-248-18.htm",
+  "fecha_descarga": "2026-10-21T10:24:37.449459+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2018-06-27",
+  "fecha_publicacion": "2018-07-10",
+  "numero": "T-248/18",
+  "tipo_cc": "T",
+  "prov_id": "32651",
+  "tema_relatoria": "ACCION DE TUTELA CONTRA PROVIDENCIAS JUDICIALES. IMPROCEDENCIA POR INCUMPLIR REQUISITOS.",
+  "resumen": "Se aduce que la sentencia judicial cuestionada incurrió en un defecto fáctico porque la valoración probatoria no fue adecuada. La Corte confirma la decisión de instancia que declaró IMPROCEDENTE la solicitud de amparo por no acreditar los requisitos genéricos o de procedibilidad de la acción de tutela contra providencias judiciales. Esto, porque no se constató una afectación de las dimensiones constitucionales del debido proceso, sino que se proponía un debate propio de la justicia ordinaria. De otro lado, porque del fallo cuestionado no se derivaba una afectación a los derechos fundamentales de la peticionaria y, porque la demanda se restringió a cuestionar el sentido de la decisión adoptada por el Juez de Casación y la valoración que hizo en relación con las pruebas del expediente, lo que suponía el ejercicio de la acción constitucional como una instancia procesal adicional.",
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Improcedencia por cuanto de la decisión judicial impugnada no se deriva una afectación a los derechos fundamentales de la parte actora"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Improcedencia por cuanto no se acredita una afectación de las dimensiones constitucionales del debido proceso, sino que propone un debate propio de la justicia ordinaria y no de la constitucional"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Requisitos generales y especiales de procedibilidad"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Reiteración de jurisprudencia sobre procedencia excepcional"
+    }
+  ]
+}

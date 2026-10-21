@@ -1,0 +1,50 @@
+{
+  "radicado": "T-252-18",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2018,
+  "fecha_creacion": "2018-06-29",
+  "magistrado_ponente": "Diana Fajardo Rivera",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "COSA JUZGADA CONSTITUCIONAL",
+  "subtema": "Se configura cuando se presentan identidades procesales como objeto, causa petendi e identidad de partes",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto Ley 2591 de 1991",
+    "Decreto 1507 de 2014",
+    "Ley 79 de 1988",
+    "Decreto 455 de 2004",
+    "Ley 454 de 1998",
+    "Ley 222 de 1995",
+    "Decreto 2591 de 1991",
+    "Ley 795 de 2003",
+    "Decreto 2555 de 2010",
+    "Ley 50 de 1990"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2018/T-252-18.htm",
+  "fecha_descarga": "2026-10-21T10:24:41.145883+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2018-06-29",
+  "fecha_publicacion": "2018-07-10",
+  "numero": "T-252/18",
+  "tipo_cc": "T",
+  "prov_id": "32653",
+  "tema_relatoria": "ACCION DE TUTELA CONTRA EMPRESA EN LIQUIDACION. IMPROCEDENCIA.",
+  "resumen": "La accionante considera que sus derechos fundamentales fueron vulnerados como consecuencia del no pago de incapacidades laborales que fueron prescritas y por la no cancelación de los aportes correspondientes al Sistema de Seguridad Social, al igual que la de sus cesantías. La Corte encontró que frente a la pretensión relacionada con el reconocimiento y pago de incapacidades se configuró el fenómeno de la cosa juzgada constitucional y que la acción de tutela resulta improcedente para reclamar lo referente al pago de aportes a seguridad social y cesantías, por no encontrarse acreditado el requisito de subsidiariedad.",
+  "titulaciones": [
+    {
+      "tema": "COSA JUZGADA CONSTITUCIONAL",
+      "subtema": "Se configura cuando se presentan identidades procesales como objeto, causa petendi e identidad de partes"
+    },
+    {
+      "tema": "ACCION DE TUTELA EN MATERIA DE PAGO DE INCAPACIDADES LABORALES",
+      "subtema": "Improcedencia por configurarse cosa juzgada constitucional"
+    },
+    {
+      "tema": "ACCION DE TUTELA PARA SOLICITAR PAGO DE APORTES A SEGURIDAD SOCIAL Y CESANTIAS",
+      "subtema": "Improcedencia por no encontrarse acreditado el requisito de subsidiariedad"
+    }
+  ]
+}

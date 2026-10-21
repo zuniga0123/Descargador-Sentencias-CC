@@ -1,0 +1,65 @@
+{
+  "radicado": "C-100-18",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2018,
+  "fecha_creacion": "2018-10-24",
+  "magistrado_ponente": "Carlos Bernal Pulido",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "DEMANDA DE INCONSTITUCIONALIDAD",
+  "subtema": "Concepto de violación",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 1738 de 2014",
+    "Ley 418 de 1997",
+    "Decreto 2067 de 1991",
+    "Ley 1106 de 2006",
+    "Ley 1421 de 2010",
+    "Ley 1430 de 2010",
+    "Ley 223 de 1995",
+    "Decreto 4048 de 2008",
+    "Decreto 1321 de 2011"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2018/C-100-18.htm",
+  "fecha_descarga": "2026-10-21T10:36:04.124015+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2018-10-24",
+  "fecha_publicacion": "2019-02-12",
+  "numero": "C-100/18",
+  "tipo_cc": "C",
+  "prov_id": "33487",
+  "tema_relatoria": "CONTRATO Y CONCESION DE OBRA PÚBLICA. DEROGACIÓN DE LA CONTRIBUCIÓN DEL 5% DE LOS CONTRATOS Y CONCESIONES DE OBRA PÚBLICA.",
+  "resumen": "Demanda de inconstitucionalidad contra el parágrafo (parcial) del artículo 8 de la Ley 1738 de 2014, por medio de la cual se prorroga la Ley 418 de 1997, prorrogada y modificada por las Leyes 548 de 1999, 782 de 2002, 1106 de 2006 y 1421 de 2010. La demandante adujo que la expresión “y 6º” vulnera el principio de certeza tributaria que se deriva del inciso 1° del artículo 338 de la Constitución, al otorgar carácter permanente a un tributo contenido en una disposición que no se encuentra vigente (“contribución de los contratos de obra pública o concesión de obra pública y otras concesiones”, contenida en el artículo 6 de la Ley 1106 de 2006). La Corte declaró la EXEQUIBILIDAD de la expresión acusada y argumentó que a partir de la remisión que dicha frase hizo al artículo 6º de la Ley 1106 de 2006 que se encontraba vigente para la fecha de expedición de la Ley 1738 de 2014, esta última no fue controvertida por ninguno de los intervinientes, tampoco por la parte demandante y fue consecuente con la interpretación que de la disposición había hecho la jurisprudencia constitucional en las Sentencias C-930/17 y C-1153/08.",
+  "titulaciones": [
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "Concepto de violación"
+    },
+    {
+      "tema": "PRINCIPIO DE CERTEZA TRIBUTARIA",
+      "subtema": "No vulneración"
+    },
+    {
+      "tema": "CONCEPTO DE VIOLACION EN DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "Razones claras, ciertas, específicas, pertinentes y suficientes"
+    },
+    {
+      "tema": "ACCION PUBLICA DE INCONSTITUCIONALIDAD",
+      "subtema": "Requisitos"
+    },
+    {
+      "tema": "PRINCIPIO DE CERTEZA DE LA OBLIGACION TRIBUTARIA",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "PRINCIPIO DE CERTEZA Y LEGALIDAD DEL TRIBUTO",
+      "subtema": "No violación a pesar de que uno de los elementos del tributo no esté determinado en la ley pero si sea determinable"
+    },
+    {
+      "tema": "PRINCIPIO DE CERTEZA TRIBUTARIA",
+      "subtema": "Casos en que se vulnera"
+    }
+  ]
+}

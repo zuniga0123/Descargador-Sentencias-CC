@@ -1,0 +1,53 @@
+{
+  "radicado": "T-418-18",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2018,
+  "fecha_creacion": "2018-10-11",
+  "magistrado_ponente": "Diana Fajardo Rivera",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "DEBIDO PROCESO ADMINISTRATIVO",
+  "subtema": "Vulneración por Ejército, por cuanto no comunicó al accionante el inicio de la actuación administrativa en la que se determinaría si debía ser oído y ser retirado del servicio, así como exponer las razones que lo habían lleva",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto Ley 2591 de 1991",
+    "Ley 1407 de 2010",
+    "Ley 1755 de 2015",
+    "Decreto 1793 de 2000",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2018/T-418-18.htm",
+  "fecha_descarga": "2026-10-21T10:14:02.116360+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2018-10-11",
+  "fecha_publicacion": "2018-10-17",
+  "numero": "T-418/18",
+  "tipo_cc": "T",
+  "prov_id": "33114",
+  "tema_relatoria": "DERECHO AL DEBIDO PROCESO DE SOLDADO RETIRADO BAJO LA CAUSAL DE AUSENCIA INJUSTIFICADA POR MAS DE DIEZ DIAS.",
+  "resumen": "El actor fue desvinculado de la institución accionante bajo la causal de ausencia injustificada del servicio por más de 10 días, a pesar de conocer que dicha inasistencia se debía a las complejas situaciones de su núcleo familiar, las cuales informó a sus superiores. Se analiza temática relacionada con el alcance del derecho fundamental al debido proceso en el marco del retiro de los soldados profesionales. La Corte concluye que se dio una vulneración del derecho al debido proceso del peticionario, porque no se le informó el inicio del trámite administrativo que determinaría si debía ser retirado del servicio y tampoco fue escuchado antes de que se tomara la decisión, aun cuando se tenía conocimiento de su delicada situación familiar. Además, porque en el acto administrativo que resolvió su retiro del Ejército Nacional no se indicó cuáles recursos procedían para impugnarlo. Se CONCEDE.",
+  "titulaciones": [
+    {
+      "tema": "DEBIDO PROCESO ADMINISTRATIVO",
+      "subtema": "Vulneración por Ejército, por cuanto no comunicó al accionante el inicio de la actuación administrativa en la que se determinaría si debía ser oído y ser retirado del servicio, así como exponer las razones que lo habían lleva"
+    },
+    {
+      "tema": "DERECHO FUNDAMENTAL AL DEBIDO PROCESO ADMINISTRATIVO",
+      "subtema": "Alcance y contenido"
+    },
+    {
+      "tema": "DEBIDO PROCESO ADMINISTRATIVO",
+      "subtema": "Garantías mínimas del derecho de contradicción en el que se dispuso retiro del servicio de soldado por ausencia injustificada"
+    },
+    {
+      "tema": "DEBIDO PROCESO ADMINISTRATIVO",
+      "subtema": "Orden a Ejército Nacional reincorporar al servicio, a soldado retirado"
+    },
+    {
+      "tema": "DERECHO AL DEBIDO PROCESO ADMINISTRATIVO",
+      "subtema": "Caso en que soldado fue retirado del servicio bajo la causal de ausencia injustificada por más de diez días"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "radicado": "T-260-18",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2018,
+  "fecha_creacion": "2018-07-06",
+  "magistrado_ponente": "Alejandro Linares Cantillo",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCION DE TUTELA CONTRA SALUDCOOP EPS EN LIQUIDACION",
+  "subtema": "Improcedencia por existir otro medio de defensa judicial en proceso liquidatorio",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Decreto 663 de 1993",
+    "Ley 1437 de 2011",
+    "Ley 1797 de 2016",
+    "Ley 100 de 1993",
+    "Ley 1122 de 2007"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2018/T-260-18.htm",
+  "fecha_descarga": "2026-10-21T10:23:52.627398+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2018-07-06",
+  "fecha_publicacion": "2018-07-18",
+  "numero": "T-260/18",
+  "tipo_cc": "T",
+  "prov_id": "32678",
+  "tema_relatoria": "ACCION DE TUTELA CONTRA SALUDCOOP EN LIQUIDACON. IMPROCEDENCIA POR EXISTIR OTRO MEDIO DE DEFENSA JUDICIAL.",
+  "resumen": "La Contraloría General de la República le pidió al juez constitucional amparar sus derechos fundamentales y, en consecuencia, ordenar a la E.P.S. Saludcoop (en liquidación) resolver de fondo los recursos que oportunamente presentó, así como garantizar el pago de sus acreencias con la venta de activos como Cafesalud E.P.S. y Esimed. Subsidiariamente pidió la accionante que, en caso de no accederse a la segunda pretensión, se garantice la disponibilidad de recursos hasta tanto sean resueltas las controversias judiciales que promovió. La Corte considera que en el presente caso no se cumple el requisito de subsidiariedad de la acción de tutela, en tanto existe un mecanismo judicial que permite dirimir adecuadamente las controversias planteadas por la accionante. Se confirman las decisiones de instancia que declararon IMPROCEDENTE el amparo invocado y se RECHAZA la solicitud de medida cautelar formulada.",
+  "titulaciones": [
+    {
+      "tema": "ACCION DE TUTELA CONTRA SALUDCOOP EPS EN LIQUIDACION",
+      "subtema": "Improcedencia por existir otro medio de defensa judicial en proceso liquidatorio"
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA ACTOS ADMINISTRATIVOS",
+      "subtema": "Procedencia excepcional como mecanismo transitorio para evitar un perjuicio irremediable"
+    },
+    {
+      "tema": "ACCION DE NULIDAD Y RESTABLECIMIENTO DEL DERECHO COMO MECANISMO DE DEFENSA EN PROCESOS LIQUIDATORIOS",
+      "subtema": "Reiteración de jurisprudencia"
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA ACTO ADMINISTRATIVO",
+      "subtema": "Improcedencia general"
+    }
+  ]
+}

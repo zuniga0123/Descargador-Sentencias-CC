@@ -1,0 +1,59 @@
+{
+  "radicado": "T-036-18",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2018,
+  "fecha_creacion": "2018-02-15",
+  "magistrado_ponente": "Diana Fajardo Rivera",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "DEBIDO PROCESO ADMINISTRATIVO",
+  "subtema": "Relación con el derecho fundamental de petición",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto Ley 2591 de 1991",
+    "Decreto 2591 de 1991",
+    "Ley 700 de 2001"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2018/T-036-18.htm",
+  "fecha_descarga": "2026-10-21T10:31:02.199902+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2018-02-15",
+  "fecha_publicacion": "2018-05-09",
+  "numero": "T-036/18",
+  "tipo_cc": "T",
+  "prov_id": "32292",
+  "tema_relatoria": "IMPRESCRIPTIBILIDAD DE LOS DERECHOS PENSIONALES Y PRESCRIPCION DE LAS MESADAS PENSIONALES.",
+  "resumen": "La accionante estuvo vinculada al Distrito demandado mediante contrato de prestación de servicios por un período de 21 años, desempeñando funciones de profesora y bibliotecaria en una institución educativa adscrita a dicha entidad territorial. En varias oportunidades solicitó el reconocimiento de la pensión de jubilación o de vejez y nunca obtuvo respuesta de fondo. Ante el silencio de la entidad presentó demanda de nulidad y restablecimiento del derecho solicitando entre otras pretensiones, que se le diera el carácter de empleada oficial y que se declarara la nulidad de los actos administrativos fictos o presuntos, con ocasión del silencio administrativo que operó frente a sus solicitudes. El fallo de segunda de instancia fue favorable para la demandante. La vulneración de derechos se atribuye a la respuesta dada a las solicitudes referentes al pago del retroactivo reclamado. Se aborda la siguiente temática: 1º. El derecho al debido proceso administrativo y su relación con el derecho fundamental de petición. 2º. El derecho a la seguridad social como derecho fundamental. 3º. La imprescriptibilidad de los derechos pensionales y la prescripción de las mesadas pensionales. La Corte determinó que las accionadas no vulneraron derecho fundamental alguno por cuanto dieron respuesta de fondo a las solicitudes elevadas y no desconocieron la imprescriptibilidad del derecho a la pensión, a pesar de haber aplicado la regla de la prescripción trianual de las mesadas pensionales. Se confirma la decisión de instancia que NEGÓ el amparo invocado.",
+  "titulaciones": [
+    {
+      "tema": "DEBIDO PROCESO ADMINISTRATIVO",
+      "subtema": "Relación con el derecho fundamental de petición"
+    },
+    {
+      "tema": "IRRENUNCIABILIDAD E IMPRESCRIPTIBILIDAD DE LOS DERECHOS PENSIONALES",
+      "subtema": null
+    },
+    {
+      "tema": "IMPRESCRIPTIBILIDAD DE DERECHOS PENSIONALES Y PRESCRIPCION DE MESADAS PENSIONALES",
+      "subtema": null
+    },
+    {
+      "tema": "DERECHO A LA SEGURIDAD SOCIAL",
+      "subtema": "Servicio público de carácter obligatorio y derecho irrenunciable"
+    },
+    {
+      "tema": "ACCION DE TUTELA PARA SOLICITAR EL PAGO RETROACTIVO DE MESADAS PENSIONALES",
+      "subtema": "Improcedencia para reconocer pago de mesadas pensionales prescritas"
+    },
+    {
+      "tema": "DERECHO DE PETICIÓN EN MATERIA PENSIONAL",
+      "subtema": "Término de cuatro y seis meses para resolver reconocimiento y pago"
+    },
+    {
+      "tema": "PRESCRIPCION DE MESADAS PENSIONALES",
+      "subtema": "Opera respecto de mesadas no reclamadas pero no del derecho a la pensión"
+    }
+  ]
+}

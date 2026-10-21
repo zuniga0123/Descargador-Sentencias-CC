@@ -1,0 +1,44 @@
+{
+  "radicado": "T-216-18",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2018,
+  "fecha_creacion": "2018-06-05",
+  "magistrado_ponente": "Diana Fajardo Rivera",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "CARENCIA ACTUAL DE OBJETO POR HECHO SUPERADO",
+  "subtema": "Se reconoció pensión de invalidez",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 100 de 1993",
+    "Ley 860 de 2003",
+    "Ley 860 de 1993"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2018/T-216-18.htm",
+  "fecha_descarga": "2026-10-21T10:27:05.085399+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2018-06-05",
+  "fecha_publicacion": "2018-06-14",
+  "numero": "T-216/18",
+  "tipo_cc": "T",
+  "prov_id": "32524",
+  "tema_relatoria": "CARENCIA ACTUAL DE OBJETO POR HECHO SUPERADO. COLPENSIONES RECONOCIO PENSION DE INVALIDEZ.",
+  "resumen": "El actor, una persona con un diagnóstico de VIH y una calificación de pérdida de capacidad laboral del 62.27%, aduce que Colpensiones vulneró sus derechos fundamentales al negarle el reconocimiento y pago de la pensión de invalidez que reclamó, alegando el incumplimiento de los requisitos contenidos en la Ley 860 de 2003. El peticionario considera que cumple con las exigencias del Acuerdo 049 de 1990, las cuales le son aplicables en virtud del principio de la condición más beneficiosa. En sede de revisión la entidad informó a la Sala que a motu proprio accedió a la petición del actor y le reconoció la prestación reclamada. La Corte declara IMPROCEDENTE la acción de tutela formulada, por configurarse la carencia actual de objeto por hecho superado.",
+  "titulaciones": [
+    {
+      "tema": "CARENCIA ACTUAL DE OBJETO POR HECHO SUPERADO",
+      "subtema": "Se reconoció pensión de invalidez"
+    },
+    {
+      "tema": "ACCION DE TUTELA PARA EL RECONOCIMIENTO DE PENSION DE INVALIDEZ A ENFERMO DE VIH/SIDA",
+      "subtema": "Procedencia por ser el mecanismo idóneo para la defensa de los derechos fundamentales del accionante y para lograr el reconocimiento de la prestación pensional"
+    },
+    {
+      "tema": "CARENCIA ACTUAL DE OBJETO",
+      "subtema": "Fenómeno que se configura en los siguientes eventos: hecho superado, daño consumado o situación sobreviniente"
+    }
+  ]
+}

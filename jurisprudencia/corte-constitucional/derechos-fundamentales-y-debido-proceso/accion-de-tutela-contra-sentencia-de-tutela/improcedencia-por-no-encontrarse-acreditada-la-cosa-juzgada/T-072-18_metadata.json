@@ -1,0 +1,50 @@
+{
+  "radicado": "T-072-18",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2018,
+  "fecha_creacion": "2018-02-27",
+  "magistrado_ponente": "Carlos Bernal Pulido",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCION DE TUTELA CONTRA SENTENCIA DE TUTELA",
+  "subtema": "Improcedencia por no encontrarse acreditada la cosa juzgada fraudulenta",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Decreto Ley 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2018/T-072-18.htm",
+  "fecha_descarga": "2026-10-21T10:33:49.143097+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2018-02-27",
+  "fecha_publicacion": "2018-03-22",
+  "numero": "T-072/18",
+  "tipo_cc": "T",
+  "prov_id": "32111",
+  "tema_relatoria": "ACCION DE TUTELA CONTRA PROVIDENCIA DE TUTELA. IMPROCEDENCIA GENERAL.",
+  "resumen": "Se cuestiona la sentencia de tutela que ordenó a la Mesa Directiva del Concejo Distrital de Santa Marta realizar un nuevo cronograma para la selección y elección de un nuevo Contralor para esa ciudad. Se aduce que dicha providencia es contraria a otra proferida por el Consejo de Estado, pues ordenó retrotraer toda la actuación administrativa, mientras que la otra ordenó elegir de la lista de elegibles ya conformada. Luego de reiterar jurisprudencia relacionada con los requisitos generales y específicos de procedencia de la acción de tutela contra providencias judiciales, de manera particular en contra de sentencia de tutela, la Corte considera que la solicitud de amparo invocada es IMPROCEDENTE.",
+  "titulaciones": [
+    {
+      "tema": "ACCION DE TUTELA CONTRA SENTENCIA DE TUTELA",
+      "subtema": "Improcedencia por no encontrarse acreditada la cosa juzgada fraudulenta"
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA SENTENCIA DE TUTELA",
+      "subtema": "Improcedencia general"
+    },
+    {
+      "tema": "CARENCIA ACTUAL DE OBJETO",
+      "subtema": "Configuración y características"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Requisitos generales y especiales de procedibilidad"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Reiteración de jurisprudencia sobre procedencia excepcional"
+    }
+  ]
+}

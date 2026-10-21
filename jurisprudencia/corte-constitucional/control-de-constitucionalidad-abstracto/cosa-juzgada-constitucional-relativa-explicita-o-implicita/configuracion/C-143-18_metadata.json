@@ -1,0 +1,61 @@
+{
+  "radicado": "C-143-18",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2018,
+  "fecha_creacion": "2018-12-05",
+  "magistrado_ponente": "José Fernando Reyes Cuartas",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "COSA JUZGADA CONSTITUCIONAL RELATIVA EXPLICITA O IMPLICITA",
+  "subtema": "Configuración",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 91 de 1989",
+    "Decreto Ley 2067 de 1991",
+    "Decreto Ley 889 de 2017",
+    "Decreto 81 de 1976",
+    "Ley 24 de 1988",
+    "Ley 29 de 1989",
+    "Ley 43 de 1975",
+    "Ley 812 de 2003",
+    "Acto Legislativo 1 de 2005",
+    "Ley 114 de 1913",
+    "Ley 91 de 1981",
+    "Ley 116 de 1928",
+    "Ley 37 de 1933"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2018/C-143-18.htm",
+  "fecha_descarga": "2026-10-21T10:37:44.188524+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2018-12-05",
+  "fecha_publicacion": "2018-12-18",
+  "numero": "C-143/18",
+  "tipo_cc": "C",
+  "prov_id": "33323",
+  "tema_relatoria": "FONDO NACIONAL DE PRESTACIONES SOCIALES DEL MAGISTERIO. LÍMITES TEMPORALES PARA OBTENER PENSIÓN GRACIA. MONTO DE LA PENSIÓN DE JUBILACIÓN PARA DOCENTES NACIONALES Y NACIONALIZADOS VINCULADOS A PARTIR DEL 1 DE ENERO DE 1981.",
+  "resumen": "Demanda de inconstitucionalidad contra el artículo 15 (parcial) de la Ley 91 de 1989, por la cual se crea el Fondo Nacional de Prestaciones Sociales del Magisterio. Los demandantes consideran que la norma acusada vulnera el Preámbulo y los artículos 1, 2, 4, 25, 48, 53, 58, 83, 93, 94, 121 y 129 de la Constitución, al igual que el artículo 22 de la Declaración Universal de Derechos Humanos y los artículos 2 y 4 del Pacto Internacional de los Derechos Económicos, Sociales y Culturales, al violar el principio de progresividad y la prohibición de retroceso de los derechos sociales, la prohibición de retroactividad de la ley y, el principio de buena fe y confianza legítima. La Corte dispuso estarse a lo resuelto en las Sentencias C-084/99 en relación con la expresión “a partir del 1 de enero de 1981”, C-489/00 en relación con la expresión “hasta el 31 de diciembre de 1980” y C-506/06, en relación con la expresión “sólo” contenidas en el artículo 15 de la Ley 91 de 1989, en su orden, en el numeral 2º literal b), numeral 2º literal a) y numeral 2º literal b).",
+  "titulaciones": [
+    {
+      "tema": "COSA JUZGADA CONSTITUCIONAL RELATIVA EXPLICITA O IMPLICITA",
+      "subtema": "Configuración"
+    },
+    {
+      "tema": "COSA JUZGADA CONSTITUCIONAL ABSOLUTA Y RELATIVA",
+      "subtema": "Distinción"
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "Se configuró el fenómeno de la cosa juzgada constitucional"
+    },
+    {
+      "tema": "COSA JUZGADA CONSTITUCIONAL FORMAL Y MATERIAL",
+      "subtema": "Diferencias"
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD CONTRA NORMAS QUE REGULAN LA CREACION DEL FONDO NACIONAL DE PRESTACIONES SOCIALES DEL MAGISTERIO",
+      "subtema": "Estarse a lo resuelto en Sentencias C-084 de 1999, C-489 de 2000 y C-506 de 2006"
+    }
+  ]
+}

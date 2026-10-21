@@ -1,0 +1,53 @@
+{
+  "radicado": "T-008-18",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2018,
+  "fecha_creacion": "2018-01-26",
+  "magistrado_ponente": "Alberto Rojas Ríos",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "ACCION DE TUTELA PARA RECLAMAR PAGO DE INCAPACIDADES LABORALES",
+  "subtema": "Procedencia excepcional",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 1753 de 2015",
+    "Decreto 2591 de 1991",
+    "Decreto Ley 19 de 2012",
+    "Ley 100 de 1993",
+    "Decreto 2463 de 2001"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2018/T-008-18.htm",
+  "fecha_descarga": "2026-10-21T10:34:48.776412+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2018-01-26",
+  "fecha_publicacion": "2018-03-13",
+  "numero": "T-008/18",
+  "tipo_cc": "T",
+  "prov_id": "32076",
+  "tema_relatoria": "DERECHO AL PAGO DE INCAPACIDAD LABORAL GENERADAS CON POSTERIORIDAD A LA CALIFICACION DE PERDIDA DE CAPACIDAD LABORAL.",
+  "resumen": "Se atribuye a Colpensiones la vulneración de derechos fundamentales del actor al suspenderle el pago de las incapacidades que le venía cancelando, argumentando que le correspondía a la E.P.S. Sanitas continuar asumiéndolas, porque su obligación quedó satisfecha cuando le practicó el examen de pérdida de capacidad laboral al accionante, el cual tuvo como resultado un porcentaje del 43.24%, que no le generaba obligación de reconocer pensión de invalidez ni pagos generados por incapacidades. Se aborda la siguiente temática: 1º. El reconocimiento y pago de incapacidades laborales por medio de la acción de tutela y, 2º. El pago de las incapacidades generadas con posterioridad a la calificación de la pérdida de capacidad laboral. Con relación a las entidades obligadas al pago de incapacidades se recuerda que: a). hasta el día 180 debe hacerlo la E.P.S. b). entre el día 181 al 540, lo debe asumir las Administradoras de Fondos de Pensiones y, c). desde el día 541 hasta cuando se recupere el afiliado o hasta que se le reconozca la pensión de invalidez, el pago por concepto de incapacidad le corresponde a la E.P.S. Se CONCEDE la protección invocada y se imparten una serie de órdenes conducentes a hacer efectivo el goce de los derechos amparados.",
+  "titulaciones": [
+    {
+      "tema": "ACCION DE TUTELA PARA RECLAMAR PAGO DE INCAPACIDADES LABORALES",
+      "subtema": "Procedencia excepcional"
+    },
+    {
+      "tema": "DERECHO AL PAGO DE INCAPACIDAD LABORAL",
+      "subtema": "Orden a Colpensiones pagar incapacidades laborales a accionante"
+    },
+    {
+      "tema": "INCAPACIDAD LABORAL SUPERIOR A 540 DIAS",
+      "subtema": "Marco normativo y jurisprudencial"
+    },
+    {
+      "tema": "PAGO DE INCAPACIDADES GENERADAS CON POSTERIORIDAD A LA CALIFICACION DE PERDIDA DE CAPACIDAD LABORAL",
+      "subtema": "Reiteración de jurisprudencia"
+    },
+    {
+      "tema": "PAGO DE INCAPACIDAD LABORAL SUPERIOR A 180 DIAS",
+      "subtema": "Está a cargo de la Administradora de Fondos de Pensiones a la cual se encuentra afiliado el trabajador"
+    }
+  ]
+}
