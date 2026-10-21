@@ -1,0 +1,57 @@
+{
+  "radicado": "T-413-16",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2016,
+  "fecha_creacion": "2016-08-08",
+  "magistrado_ponente": "Alejandro Linares Cantillo",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "DERECHO A LA DEVOLUCION DE SALDOS",
+  "subtema": "Caso en que accionante solicitó pensión de invalidez y al no reunir requisitos, solicita devolución de saldos",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 48 de 1993",
+    "Ley 100 de 1993",
+    "Ley 860 de 2003",
+    "Decreto 3798 de 2003",
+    "Decreto 2591 de 1991",
+    "Ley 712 de 2001",
+    "Ley 1564 de 2012",
+    "Ley 797 de 2003",
+    "Ley 2 de 1945",
+    "Ley 126 de 1959",
+    "Decreto Ley 2339 de 1971",
+    "Decreto Ley 2400 de 1968",
+    "Decreto 1950 de 1973"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2016/T-413-16.htm",
+  "fecha_descarga": "2026-10-21T11:54:29.597955+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2016-08-08",
+  "fecha_publicacion": null,
+  "numero": "T-413/16",
+  "tipo_cc": "T",
+  "prov_id": "9235",
+  "tema_relatoria": "ACUMULACION DE TIEMPO Y SEMANAS COTIZADAS PARA DEVOLUCION DE SALDOS DE QUIENES PRESTARON EL SERVICIO MILITAR.",
+  "resumen": "Se pide al juez constitucional ordenar a Porvenir S.A. realizar el reconocimiento y pago de la pensión de invalidez reclamada por el actor, desde el momento en que perdió su capacidad laboral y teniendo en cuenta el tiempo de prestación del servicio militar obligatoria. Esta prestación había sido denegada bajo el supuesto incumplimiento del requisito de las 50 semanas de cotización en los tres años anteriores a la fecha de estructuración de la invalidez. Se analiza temática relacionada con la pensión de invalidez y la obligación de acumular las semanas cotizadas durante la prestación del servicio militar, al tiempo cotizado en el Sistema General de Pensiones. La Sala verifica que el actor tiene una pérdida de capacidad laboral superior al 50%, pero que no cumple con los requisitos establecidos en el artículo 1º de la Ley 860 de 2003 para acceder a la pensión de invalidez. Se ordena a la accionada reconocer y pagar la devolución de saldos a la que tiene derecho el peticionario, teniendo en cuenta el tiempo de prestación del servicio militar.",
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA DEVOLUCION DE SALDOS",
+      "subtema": "Caso en que accionante solicitó pensión de invalidez y al no reunir requisitos, solicita devolución de saldos"
+    },
+    {
+      "tema": "PENSIÓN DE INVALIDEZ",
+      "subtema": "Finalidad"
+    },
+    {
+      "tema": "ACUMULACION DE TIEMPO Y SEMANAS COTIZADAS DURANTE LA PRESTACION DEL SERVICIO MILITAR OBLIGATORIO EN EL SISTEMA GENERAL DE PENSIONES",
+      "subtema": null
+    },
+    {
+      "tema": "PENSIÓN DE INVALIDEZ",
+      "subtema": "Requisitos para obtener reconocimiento y pago"
+    }
+  ]
+}

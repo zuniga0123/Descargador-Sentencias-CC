@@ -1,0 +1,39 @@
+{
+  "radicado": "T-677-16",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2016,
+  "fecha_creacion": "2016-12-02",
+  "magistrado_ponente": "Luis Guillermo Guerrero Pérez",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCION DE TUTELA PARA REEMBOLSO DE GASTOS MEDICOS",
+  "subtema": "Improcedencia para gastos de examen, cuyo valor lo asumió la accionante",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 1571 de 2015",
+    "Ley 1122 de 2007"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2016/T-677-16.htm",
+  "fecha_descarga": "2026-10-21T12:05:22.866220+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2016-12-02",
+  "fecha_publicacion": null,
+  "numero": "T-677/16",
+  "tipo_cc": "T",
+  "prov_id": "9721",
+  "tema_relatoria": "ACCION DE TUTELA PARA REEMBOLSO DE GASTOS MEDICOS. IMPROCEDENCIA GENERAL.",
+  "resumen": "Se atribuye a la E.P.S. Compensar la vulneración de derechos fundamentales de la actora, como consecuencia de la falta de autorización y práctica del examen de diagnóstico denominado Oncotype DX, bajo el argumento de ser un servicio que se presta fuera del territorio nacional. En sede de revisión la peticionaria informó a la Sala que dada la urgencia con que requería los resultados del examen procedió a solicitar un préstamo y a asumir directamente el valor de su costo, siendo remitidas las muestras a Estados Unidos, en donde se efectúo el análisis. Con base en lo anterior se declara la carencia actual de objeto.",
+  "titulaciones": [
+    {
+      "tema": "ACCION DE TUTELA PARA REEMBOLSO DE GASTOS MEDICOS",
+      "subtema": "Improcedencia para gastos de examen, cuyo valor lo asumió la accionante"
+    },
+    {
+      "tema": "CARENCIA ACTUAL DE OBJETO",
+      "subtema": "Caso en que accionante pagó el valor del examen que fue negado por la EPS, por cuanto éste se realiza en el exterior"
+    }
+  ]
+}

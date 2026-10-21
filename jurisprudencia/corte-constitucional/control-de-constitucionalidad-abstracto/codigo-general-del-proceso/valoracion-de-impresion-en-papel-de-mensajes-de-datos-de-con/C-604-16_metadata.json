@@ -1,0 +1,52 @@
+{
+  "radicado": "C-604-16",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2016,
+  "fecha_creacion": "2016-11-02",
+  "magistrado_ponente": "Luis Ernesto Vargas Silva",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "CODIGO GENERAL DEL PROCESO",
+  "subtema": "Valoración de impresión en papel de mensajes de datos de conformidad con las reglas generales de documentos",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 1564 de 2012",
+    "Decreto 2067 de 1991",
+    "Decreto Ley 2067 de 1991",
+    "Ley 527 de 1999",
+    "Ley 599 de 2000",
+    "Ley 594 de 2000",
+    "Ley 572 de 1999",
+    "Ley 1712 de 2014"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2016/C-604-16.htm",
+  "fecha_descarga": "2026-10-21T12:11:47.137789+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2016-11-02",
+  "fecha_publicacion": null,
+  "numero": "C-604/16",
+  "tipo_cc": "C",
+  "prov_id": "9589",
+  "tema_relatoria": "MENSAJES DE DATOS. VALORACIÓN COMO PRUEBA DOCUMENTAL DE LA IMPRESIÓN EN PAPEL.",
+  "resumen": "Demanda de inconstitucionalidad contra el artículo 247 (parcial) de la Ley 1564 de 2012, por medio de la cual se expide el Código General del Proceso y se dictan otras disposiciones. En dos expedientes acumulados consideran los demandantes que el inciso acusado vulnera el debido proceso, en específico, el derecho a la contradicción probatoria, entendido como la posibilidad de oponerse a un acto realizado por la contraparte dentro de un proceso judicial y controlar la legalidad de las pruebas allegadas. Sostienen, que el apartado normativo al establecer la obligación de valorar un mensaje de datos a partir de su impresión en papel y conforme a las reglas generales de los documentos, desconoce la garantía citada, por cuanto dicha prueba resulta imposible de controvertir a causa del riesgo de que su contenido haya sido modificado o suprimido. La Corte considera que el cargo de inconstitucionalidad carece de certeza, requisito sin el cual no es posible un pronunciamiento de fondo, en la medida en que si el objeto de la impugnación es equivocado, también lo son los reproches de inconstitucionalidad que sobre la supuesta norma se hagan. Consecuentemente con la anterior consideración, la Sal Plena decide declarase INHIBIDA de emitir pronunciamiento de fondo, por ineptitud sustancial de la demanda.",
+  "titulaciones": [
+    {
+      "tema": "CODIGO GENERAL DEL PROCESO",
+      "subtema": "Valoración de impresión en papel de mensajes de datos de conformidad con las reglas generales de documentos"
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "Requisitos de claridad, certeza, especificidad, pertinencia y suficiencia"
+    },
+    {
+      "tema": "NORMA DEL CODIGO GENERAL DEL PROCESO SOBRE VALORACION DE MENSAJES DE DATOS",
+      "subtema": "Inhibición para decidir de fondo por ineptitud sustantiva de la demanda"
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "Requisitos mínimos"
+    }
+  ]
+}

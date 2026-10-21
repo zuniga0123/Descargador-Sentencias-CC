@@ -1,0 +1,64 @@
+{
+  "radicado": "T-220-16",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2016,
+  "fecha_creacion": "2016-05-02",
+  "magistrado_ponente": "Luis Ernesto Vargas Silva",
+  "area": "Derecho a la Salud",
+  "tema": "SERVICIO DE CUIDADOR PERMANENTE",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 1438 de 2011",
+    "Decreto 19 de 2012",
+    "Decreto 2591 de 1991",
+    "Ley 100 de 1993"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2016/T-220-16.htm",
+  "fecha_descarga": "2026-10-21T11:57:28.358910+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2016-05-02",
+  "fecha_publicacion": null,
+  "numero": "T-220/16",
+  "tipo_cc": "T",
+  "prov_id": "8878",
+  "tema_relatoria": "SERVICIO DE TRANSPORTE Y ALOJAMIENTO DE PACIENTES Y ACOMPAÑANTES EN EL SISTEMA DE SALUD.",
+  "resumen": "Se atribuye a varias Empresas Prestadoras de Salud la vulneración de derechos fundamentales, como consecuencia de no suministrar o autorizar a los actores los elementos, insumos o servicios que requieren para el manejo de sus patologías. Lo pedido es la atención domiciliaria de fisioterapia y enfermería, servicios de transporte y estadía para los pacientes y sus acompañantes, procedimientos quirúrgicos y sillas de ruedas. Se reitera jurisprudencia sobre: 1º. La procedencia de los servicios de atención médica y cuidador domiciliario. 2º. La cobertura del servicio de transporte y alojamiento de pacientes y acompañantes en el sistema de seguridad social en salud y, 3º. La orden de autorización de procedimientos no incluidos en el POS y la prueba de incapacidad económica. En cuatro de los cinco asuntos revisados se CONCEDE el amparo solicitado.",
+  "titulaciones": [
+    {
+      "tema": "SERVICIO DE CUIDADOR PERMANENTE",
+      "subtema": null
+    },
+    {
+      "tema": "SUMINISTRO DE MEDICAMENTOS, TRATAMIENTOS Y PROCEDIMIENTOS EXCLUIDOS DEL POS",
+      "subtema": "Orden a EPS suministrar silla de ruedas"
+    },
+    {
+      "tema": "ATENCION DOMICILIARIA",
+      "subtema": "Procedencia del servicio de cuidador domiciliario en circunstancias especiales"
+    },
+    {
+      "tema": "INCAPACIDAD ECONOMICA EN MATERIA DE SALUD",
+      "subtema": "Reglas jurisprudenciales sobre la prueba"
+    },
+    {
+      "tema": "ATENCION DOMICILIARIA",
+      "subtema": "Orden a EPS realizar valoración médica en la que especialista tratante determine si el accionante requiere o no servicio médico domiciliario"
+    },
+    {
+      "tema": "SUMINISTRO DE MEDICAMENTOS, TRATAMIENTOS Y PROCEDIMIENTOS EXCLUIDOS DEL POS",
+      "subtema": "Requisitos"
+    },
+    {
+      "tema": "SERVICIO DE CUIDADOR PERMANENTE",
+      "subtema": "Improcedencia de tutela por cuanto el cuidado domiciliario de la paciente representa una carga soportable para sus familiares"
+    },
+    {
+      "tema": "CUBRIMIENTO DE GASTOS DE TRANSPORTE PARA PACIENTE Y ACOMPAÑANTE POR EPS",
+      "subtema": "Reglas jurisprudenciales"
+    }
+  ]
+}

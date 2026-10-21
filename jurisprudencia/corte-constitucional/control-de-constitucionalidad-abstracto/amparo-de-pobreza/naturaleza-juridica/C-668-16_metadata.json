@@ -1,0 +1,53 @@
+{
+  "radicado": "C-668-16",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2016,
+  "fecha_creacion": "2016-11-30",
+  "magistrado_ponente": "Alberto Rojas Ríos",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "AMPARO DE POBREZA",
+  "subtema": "Naturaleza jurídica",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 1564 de 2012",
+    "Decreto 2067 de 1991",
+    "Ley 103 de 1923",
+    "Ley 105 de 1931",
+    "Decreto 1400 de 1970",
+    "Decreto 2282 de 1989",
+    "Ley 721 de 2001",
+    "Ley 75 de 1968",
+    "Ley 1564 de 2015"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2016/C-668-16.htm",
+  "fecha_descarga": "2026-10-21T12:15:15.975058+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2016-11-30",
+  "fecha_publicacion": null,
+  "numero": "C-668/16",
+  "tipo_cc": "C",
+  "prov_id": "9712",
+  "tema_relatoria": "AMPARO DE POBREZA PARA QUIEN NO ESTÉ EN CAPACIDAD DE ATENDER LOS GASTOS DEL PROCESO, SALVO CUANDO PRETENDA HACER VALER UN TÍTULO ONEROSO.",
+  "resumen": "Demanda de inconstitucionalidad contra el artículo 151 (parcial) de la ley 1564 de 2012, por medio de la cual se expide el Código General del Proceso y se dictan otras disposiciones. Los demandantes plantearon cargos por violación del principio de solidaridad; desconocimiento de la garantía de los derechos fundamentales, vulneración del derechos a la igualdad y, trasgresión del derecho de acceso a la administración de justicia. El incumplimiento de las condiciones de certeza, suficiencia y pertinencia de los cargos formulados contra la limitación al amparo de pobreza prevista en el Código General del Proceso, no permitió a la Corte proferir un fallo sobre su constitucionalidad. En consecuencia, la Sala se declaró INHIBIDA para emitir pronunciamiento, por ineptitud sustantiva de la demanda.",
+  "titulaciones": [
+    {
+      "tema": "AMPARO DE POBREZA",
+      "subtema": "Naturaleza jurídica"
+    },
+    {
+      "tema": "AMPARO DE POBREZA",
+      "subtema": "Regulación estatutaria y legal"
+    },
+    {
+      "tema": "CODIGO GENERAL DEL PROCESO",
+      "subtema": "Inhibición para emitir un pronunciamiento de fondo sobre expresión “salvo cuando pretenda hacer valer un derecho litigioso a título oneroso” contenida en norma de procedencia del amparo de pobreza"
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "Requisitos mínimos"
+    }
+  ]
+}

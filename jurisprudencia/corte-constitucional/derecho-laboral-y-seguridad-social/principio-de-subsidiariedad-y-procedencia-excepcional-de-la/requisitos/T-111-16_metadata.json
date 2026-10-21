@@ -1,0 +1,58 @@
+{
+  "radicado": "T-111-16",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2016,
+  "fecha_creacion": "2016-03-04",
+  "magistrado_ponente": "Luis Guillermo Guerrero Pérez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "PRINCIPIO DE SUBSIDIARIEDAD Y PROCEDENCIA EXCEPCIONAL DE LA ACCION DE TUTELA PARA RECONOCIMIENTO Y PAGO DE DERECHOS PENSIONALES",
+  "subtema": "Requisitos",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 100 de 1993",
+    "Ley 860 de 2003",
+    "Decreto 1507 de 2014",
+    "Ley 1581 de 2012",
+    "Decreto 1377 de 2013",
+    "Ley 712 de 2001",
+    "Ley 1564 de 2012",
+    "Ley 1562 de 2012",
+    "Ley 776 de 2002"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2016/T-111-16.htm",
+  "fecha_descarga": "2026-10-21T11:58:59.213916+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2016-03-04",
+  "fecha_publicacion": null,
+  "numero": "T-111/16",
+  "tipo_cc": "T",
+  "prov_id": "8681",
+  "tema_relatoria": "PENSION DE INVALIDEZ Y REQUISITOS PARA SU RECONOCIMIENTO. FECHA DE ESTRUCTURACION Y CONTABILIZACION DE SEMANAS COTIZADAS CON POSTERIORIDAD A ESTA.",
+  "resumen": "El actor tuvo un diagnóstico de neurosífiles y en virtud de éste, una calificación de pérdida de capacidad laboral cercana al 70%. La accionada le negó su solicitud de reconocimiento y pago de la pensión de invalidez, argumentando que no cumplía con el requisito de 50 semanas de cotización dentro de los 3 años anteriores a la estructuración de la misma, pero sin tener en cuenta que sí las cotizó con posterioridad a dicha fecha. Se aborda la siguiente temática: 1º. La procedencia excepcional de la acción de tutela para el reconocimiento de derechos pensionales. 2º. La pensión de invalidez y los requisitos para su reconocimiento y 3º. El dictamen de pérdida de capacidad laboral y la fecha de estructuración. En aplicación de las reglas jurisprudenciales relacionadas con la contabilización de las semanas cotizadas con posterioridad a la fecha de estructuración, en el caso puntual de enfermedades degenerativas, crónicas o congénitas, la Sala decide CONCEDER el amparo de los derechos al mínimo vital y a la seguridad social.",
+  "titulaciones": [
+    {
+      "tema": "PRINCIPIO DE SUBSIDIARIEDAD Y PROCEDENCIA EXCEPCIONAL DE LA ACCION DE TUTELA PARA RECONOCIMIENTO Y PAGO DE DERECHOS PENSIONALES",
+      "subtema": "Requisitos"
+    },
+    {
+      "tema": "FECHA DE ESTRUCTURACIÓN DE INVALIDEZ POR PÉRDIDA DE CAPACIDAD LABORAL",
+      "subtema": "Se deben tener en cuenta historia clínica y exámenes médicos"
+    },
+    {
+      "tema": "ACCION DE TUTELA PARA ORDENAR RECONOCIMIENTO Y PAGO DE LA PENSION DE INVALIDEZ",
+      "subtema": "Caso en que se debió determinar la fecha inicial de reconocimiento de la prestación económica solicitada, a efectos de contabilizar la prescripción"
+    },
+    {
+      "tema": "PENSIÓN DE INVALIDEZ",
+      "subtema": "Orden a Colpensiones reconocer pensión de invalidez por cuanto el actor no sólo cumple con las 50 semanas exigidas, sino que excede de tal número, gracias a las cotizaciones que en virtud de la capacidad laboral residual el accionante"
+    },
+    {
+      "tema": "PENSIÓN DE INVALIDEZ",
+      "subtema": "Reglas establecidas por la Corte Constitucional para determinar la fecha de estructuración de la invalidez en los casos de enfermedad degenerativa, crónica o congénita"
+    }
+  ]
+}

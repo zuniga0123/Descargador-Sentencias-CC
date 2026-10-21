@@ -1,0 +1,557 @@
+{
+  "radicado": "C-335-16",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2016,
+  "fecha_creacion": "2016-06-29",
+  "magistrado_ponente": null,
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "ACCION DE INCONSTITUCIONALIDAD",
+  "subtema": "Derecho político de todo ciudadano",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Decreto 1282 de 1994",
+    "Decreto Ley 1282 de 1994",
+    "Decreto Ley 1302 de 1994",
+    "Decreto 2067 de 1991",
+    "Decreto 2067 de 2011",
+    "Decreto Ley 1295 de 1994",
+    "Acto Legislativo 1 de 2005",
+    "Decreto 1557 de 1996",
+    "Decreto 1283 de 1994",
+    "Ley 1437 de 2011",
+    "Ley 32 de 1961",
+    "Decreto 1282 de 1991",
+    "Decreto 1302 de 1994",
+    "Decreto 2090 de 2003",
+    "Decreto 1443 de 2014",
+    "Decreto Ley 1284 de 1994",
+    "Decreto 1295 de 1994",
+    "Ley 776 de 2002",
+    "Decreto 6 de 1973",
+    "Decreto 1507 de 2014",
+    "Ley 1282 de 1994",
+    "Decreto 60 de 1973",
+    "Ley 1448 de 2011",
+    "Decreto 1557 de 1995",
+    "Ley 12 de 1947",
+    "Decreto Ley 1282 de 1992",
+    "Decreto 758 de 1990",
+    "Ley 71 de 1988",
+    "Ley 1328 de 2009",
+    "Decreto 824 de 2001",
+    "Ley 446 de 1998",
+    "Ley 794 de 2003"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2016/C-335-16.htm",
+  "fecha_descarga": "2026-10-21T12:14:41.321249+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2016-06-29",
+  "fecha_publicacion": null,
+  "numero": "C-335/16",
+  "tipo_cc": "C",
+  "prov_id": "9091",
+  "tema_relatoria": "PENSIÓN DE INVALIDEZ AVIADORES POR PÉRDIDA DE LA LICENCIA PARA VOLAR, POR CAUSA DE ORIGEN PROFESIONAL O NO PROFESIONAL. RÉGIMEN ESPECIAL.",
+  "resumen": "Demanda de inconstitucionalidad contra los artículos 11 y 12 del Decreto Ley 1282 de 1994 y el artículo 3º del Decreto Ley 1302 de 1994, por medio de los cuales se establece y adiciona el Régimen Pensional de los Aviadores Civiles. El demandante expuso diversas acusaciones en contra de los preceptos acusados, no sólo respecto del contenido de tales disposiciones, sino, en relación con el uso que hizo el legislador delegado de las facultades que dieron lugar a dichos enunciados. La Corte determinó que en la regulación de la pensión de invalidez por pérdida de la licencia de vuelo no se incurrió en un exceso en el desarrollo de las facultades extraordinarias conferidas por la Ley 100 de 1993, para ajustar y armonizar el régimen de pensiones de los aviadores civiles, como tampoco, vulneró el debido proceso ni el derecho a la igualdad. EXEQUIBLES.",
+  "titulaciones": [
+    {
+      "tema": "ACCION DE INCONSTITUCIONALIDAD",
+      "subtema": "Derecho político de todo ciudadano"
+    },
+    {
+      "tema": "DECRETO LEY SOBRE REGIMEN PENSIONAL DE LOS AVIADORES CIVILES FRENTE AL PRINCIPIO DE IGUALDAD",
+      "subtema": "Comparación entre las prestaciones del régimen pensional de los aviadores y el régimen pensional general"
+    },
+    {
+      "tema": "DECRETO LEY SOBRE REGIMEN PENSIONAL DE LOS AVIADORES CIVILES",
+      "subtema": "Pérdida de la licencia de vuelo impide el ejercicio de su actividad"
+    },
+    {
+      "tema": "DERECHO A LA SEGURIDAD SOCIAL",
+      "subtema": "Protección de la pensión de invalidez"
+    },
+    {
+      "tema": "DERECHO AL DEBIDO PROCESO",
+      "subtema": "Asistencia de la Junta Especial de Calificación de Invalidez al aviador civil activo o pensionado sujeto de evaluación"
+    },
+    {
+      "tema": "COSA JUZGADA",
+      "subtema": "Efectos"
+    },
+    {
+      "tema": "CONTROL DE CONSTITUCIONALIDAD",
+      "subtema": "Juicio integrado de igualdad"
+    },
+    {
+      "tema": "FACULTADES EXTRAORDINARIAS CONFERIDAS AL PRESIDENTE DE LA REPUBLICA",
+      "subtema": "Jurisprudencia constitucional"
+    },
+    {
+      "tema": "FACULTADES EXTRAORDINARIAS",
+      "subtema": "Finalidad"
+    },
+    {
+      "tema": "JUNTA ESPECIAL DE CALIFICACION DE INVALIDEZ FRENTE A LA SEGURIDAD SOCIAL",
+      "subtema": "Soporte constitucional"
+    },
+    {
+      "tema": "JUNTA ESPECIAL DE CALIFICACION DE INVALIDEZ",
+      "subtema": "Determina en única instancia la calificación de la invalidez"
+    },
+    {
+      "tema": "JUNTA ESPECIAL DE CALIFICACION DE INVALIDEZ",
+      "subtema": "Funciones"
+    },
+    {
+      "tema": "JUNTA ESPECIAL DE CALIFICACION DE INVALIDEZ",
+      "subtema": "Corresponde la calificación que conduce a la pérdida de la licencia de vuelo"
+    },
+    {
+      "tema": "JUNTA ESPECIAL DE CALIFICACION DE INVALIDEZ",
+      "subtema": "Funcionamiento sujeto a criterios técnicos que implica su labor"
+    },
+    {
+      "tema": "PERDIDA DE LA LICENCIA DE VUELO",
+      "subtema": "Declaración de invalidez no conduce a que se considere al pensionado en situación de máxima invalidez"
+    },
+    {
+      "tema": "EXCLUSION DE LA SEGUNDA INSTANCIA",
+      "subtema": "No debe ser arbitraria e irrazonable"
+    },
+    {
+      "tema": "PRINCIPIO DE DOBLE INSTANCIA",
+      "subtema": "Excepciones no instituyen reserva legal"
+    },
+    {
+      "tema": "PRESIDENTE DE LA REPUBLICA",
+      "subtema": "Agotamiento de las facultades"
+    },
+    {
+      "tema": "PRINCIPIO DE IGUALDAD",
+      "subtema": "Relevancia"
+    },
+    {
+      "tema": "PRINCIPIO DE LA DOBLE INSTANCIA",
+      "subtema": "Desconocimiento"
+    },
+    {
+      "tema": "PRINCIPIO DE LA DOBLE INSTANCIA",
+      "subtema": "Jurisprudencia constitucional"
+    },
+    {
+      "tema": "PRINCIPIO DE LA DOBLE INSTANCIA",
+      "subtema": "Circunstancias a tener en cuenta al evaluar una medida presuntamente infractora"
+    },
+    {
+      "tema": "PRINCIPIO DE LA DOBLE INSTANCIA",
+      "subtema": "Exigencias"
+    },
+    {
+      "tema": "PRINCIPIO DE LA DOBLE INSTANCIA",
+      "subtema": "No hace parte del núcleo del debido proceso"
+    },
+    {
+      "tema": "LICENCIA DE VUELO",
+      "subtema": "Requerimiento por motivos de seguridad"
+    },
+    {
+      "tema": "MARGEN DE CONFIGURACION DEL LEGISLADOR",
+      "subtema": "No excluye al Presidente cuando lo hace como legislador delegado"
+    },
+    {
+      "tema": "DOBLE INSTANCIA",
+      "subtema": "Status jurídico"
+    },
+    {
+      "tema": "DOBLE INSTANCIA",
+      "subtema": "Ambito judicial"
+    },
+    {
+      "tema": "DOBLE INSTANCIA",
+      "subtema": "Implicaciones"
+    },
+    {
+      "tema": "DOBLE INSTANCIA",
+      "subtema": "Proporcionalidad y razonabilidad"
+    },
+    {
+      "tema": "DECRETO LEY SOBRE REGIMEN PENSIONAL DE LOS AVIADORES CIVILES Y DECRETO LEY QUE LO ADICIONA",
+      "subtema": "Jurisprudencia constitucional"
+    },
+    {
+      "tema": "DECRETO LEY SOBRE REGIMEN PENSIONAL DE LOS AVIADORES CIVILES",
+      "subtema": "Establecimiento de la Junta Especial de Calificación de Invalidez"
+    },
+    {
+      "tema": "DERECHO A LA IGUALDAD",
+      "subtema": "Test de igualdad"
+    },
+    {
+      "tema": "DERECHO A LA IMPUGNACION Y SEGUNDA INSTANCIA",
+      "subtema": "Diferencia"
+    },
+    {
+      "tema": "DELEGACION DE FACULTADES",
+      "subtema": "Presidente no es un legislador permanente en determinada materia durante un delimitado periodo"
+    },
+    {
+      "tema": "DECRETO LEY SOBRE REGIMEN PENSIONAL DE LOS AVIADORES CIVILES Y DECRETO LEY QUE LO ADICIONA",
+      "subtema": "Juicio de igualdad"
+    },
+    {
+      "tema": "COSA JUZGADA RELATIVA",
+      "subtema": "Configuración"
+    },
+    {
+      "tema": "FACULTADES EXTRAORDINARIAS CONFERIDAS AL PRESIDENTE DE LA REPUBLICA POR EL LEGISLADOR",
+      "subtema": "Límites"
+    },
+    {
+      "tema": "FACULTADES EXTRAORDINARIAS CONFERIDAS AL PRESIDENTE DE LA REPUBLICA",
+      "subtema": "Agotamiento"
+    },
+    {
+      "tema": "JUNTA ESPECIAL DE CALIFICACION DE INVALIDEZ",
+      "subtema": "Configuración"
+    },
+    {
+      "tema": "JUNTA ESPECIAL DE CALIFICACION DE INVALIDEZ",
+      "subtema": "Finalidad"
+    },
+    {
+      "tema": "JUNTA ESPECIAL DE CALIFICACION DE INVALIDEZ",
+      "subtema": "Órgano de creación legal"
+    },
+    {
+      "tema": "PRESIDENTE DE LA REPUBLICA",
+      "subtema": "Facultades conferidas por el Congreso"
+    },
+    {
+      "tema": "TITULARIDAD DE LA LICENCIA DE VUELO",
+      "subtema": "Disposiciones de orden internacional"
+    },
+    {
+      "tema": "TEST ESTRICTO DE IGUALDAD",
+      "subtema": "Procedencia"
+    },
+    {
+      "tema": "TEST INTERMEDIO DE IGUALDAD",
+      "subtema": "Características"
+    },
+    {
+      "tema": "UNIDAD ADMINISTRATIVA ESPECIAL DE LA AERONAUTICA CIVIL",
+      "subtema": "Normativa ordena el porte de la licencia de vuelo y el correspondiente certificado médico de soporte"
+    },
+    {
+      "tema": "DOBLE INSTANCIA",
+      "subtema": "Principio, garantía y derecho"
+    },
+    {
+      "tema": "PRINCIPIO DE IGUALDAD",
+      "subtema": "Mandatos que comprende"
+    },
+    {
+      "tema": "TEST INTERMEDIO DE IGUALDAD",
+      "subtema": "Aplicación"
+    },
+    {
+      "tema": "TEST INTERMEDIO DE IGUALDAD",
+      "subtema": "Jurisprudencia constitucional"
+    },
+    {
+      "tema": "PENSIÓN DE INVALIDEZ",
+      "subtema": "Finalidad"
+    },
+    {
+      "tema": "CONTROL DE CONSTITUCIONALIDAD DE NORMAS DEROGADAS",
+      "subtema": "Aplicabilidad y efectos de la disposición demandada"
+    },
+    {
+      "tema": "AUTORIZACION DEL LEGISLADOR DELEGADO",
+      "subtema": "Parámetro de control de la actividad legislativa del Presidente de la República"
+    },
+    {
+      "tema": "COMPETENCIA DEL LEGISLADOR ORDINARIO",
+      "subtema": "Respeto por la separación de poderes y el principio democrático"
+    },
+    {
+      "tema": "COSA JUZGADA RELATIVA",
+      "subtema": "Verificación requiere doble escrutinio"
+    },
+    {
+      "tema": "COSA JUZGADA",
+      "subtema": "Fundamentos"
+    },
+    {
+      "tema": "CONTROL DE CONSTITUCIONALIDAD",
+      "subtema": "Aplicabilidad y vigencia de la disposición demandada"
+    },
+    {
+      "tema": "EXCLUSION DE LA SEGUNDA INSTANCIA",
+      "subtema": "Condiciones para su omisión"
+    },
+    {
+      "tema": "FACULTADES EXTRAORDINARIAS CONFERIDAS AL PRESIDENTE DE LA REPUBLICA",
+      "subtema": "Límite material"
+    },
+    {
+      "tema": "FACULTADES EXTRAORDINARIAS",
+      "subtema": "Requisitos"
+    },
+    {
+      "tema": "FACULTADES EXTRAORDINARIAS",
+      "subtema": "Se otorgan cuando la necesidad lo exija o la conveniencia pública lo aconseje"
+    },
+    {
+      "tema": "NORMA EXPEDIDA POR EL PRESIDENTE DE LA REPUBLICA Y DELEGACION HECHA POR EL CONGRESO",
+      "subtema": "Relación"
+    },
+    {
+      "tema": "PENSIÓN DE INVALIDEZ",
+      "subtema": "Protección vía acción de tutela"
+    },
+    {
+      "tema": "PERDIDA DE LA CAPACIDAD LABORAL",
+      "subtema": "Jurisprudencia de la Corte Suprema de Justicia"
+    },
+    {
+      "tema": "PERDIDA DE LA LICENCIA PARA VOLAR Y DE LA CAPACIDAD LABORAL",
+      "subtema": "Factores de la pensión de invalidez"
+    },
+    {
+      "tema": "PERDIDA DE LA LICENCIA DE VUELO",
+      "subtema": "Declaración de invalidez siempre y cuando no haya sido provocada intencionalmente por el afectado"
+    },
+    {
+      "tema": "PENSION DE INVALIDEZ DE AVIADOR CIVIL",
+      "subtema": "Jurisprudencia de la Corte Suprema de Justicia"
+    },
+    {
+      "tema": "PENSION DE INVALIDEZ DE LOS AVIADORES CIVILES",
+      "subtema": "Porcentaje de pérdida de la capacidad laboral no implica la máxima prestación ni comporta el desconocimiento de la capacidad laboral que preserve el pensionado"
+    },
+    {
+      "tema": "PENSION DE INVALIDEZ DE LOS AVIADORES CIVILES",
+      "subtema": "No cabe decir que las declaraciones de invalidez conducen indefectiblemente al monto máximo de la prestación"
+    },
+    {
+      "tema": "LICENCIA DE VUELO",
+      "subtema": "Requerimiento resulta exigible como garantía de idoneidad"
+    },
+    {
+      "tema": "LEGISLADOR DELEGADO",
+      "subtema": "Extralimitación en que incurra debe ser evidente y notoria"
+    },
+    {
+      "tema": "REGIMENES DE SEGURIDAD SOCIAL",
+      "subtema": "Son complejos e incluyen diferentes tipos de prestaciones"
+    },
+    {
+      "tema": "REGIMENES PENSIONALES DISTINTOS",
+      "subtema": "Comparación para evaluar si se configura o no violación del derecho a la igualdad"
+    },
+    {
+      "tema": "REGULACION DE LA PENSION DE INVALIDEZ POR PERDIDA DE LA LICENCIA DE VUELO",
+      "subtema": "No se incurre en exceso en el desarrollo de las facultades extraordinarias conferidas por la Ley 100 de 1993, para ajustar y armonizar el régimen de pensiones de los aviadores civil"
+    },
+    {
+      "tema": "DICTAMEN DE LA JUNTA DE CALIFICACION DE INVALIDEZ",
+      "subtema": "Motivación"
+    },
+    {
+      "tema": "DICTAMEN DE LA JUNTA DE CALIFICACION DE INVALIDEZ",
+      "subtema": "No tiene status de sentencia ni de carácter condenatorio"
+    },
+    {
+      "tema": "DOBLE INSTANCIA",
+      "subtema": "Restricciones del legislador"
+    },
+    {
+      "tema": "DICTAMEN DE LA JUNTA DE CALIFICACION DE INVALIDEZ",
+      "subtema": "Procedencia de la acción de tutela"
+    },
+    {
+      "tema": "DOBLE INSTANCIA",
+      "subtema": "Consagración constitucional"
+    },
+    {
+      "tema": "EJERCICIO DE FACULTADES LEGISLATIVAS DELEGADAS",
+      "subtema": "No es razón para valorar como inconstitucional una disposición que haya exceptuado la doble instancia"
+    },
+    {
+      "tema": "DICTAMEN DE LA JUNTA DE CALIFICACION DE INVALIDEZ",
+      "subtema": "Competencia de la justicia laboral"
+    },
+    {
+      "tema": "DOBLE INSTANCIA",
+      "subtema": "Dimensiones"
+    },
+    {
+      "tema": "DOBLE INSTANCIA",
+      "subtema": "Mecanismo de protección de derechos"
+    },
+    {
+      "tema": "EJERCICIO DE LAS FACULTADES DELEGADAS",
+      "subtema": "Jurisprudencia constitucional"
+    },
+    {
+      "tema": "DERECHO A LA IGUALDAD",
+      "subtema": "Carácter relacional"
+    },
+    {
+      "tema": "DECRETO LEY SOBRE REGIMEN PENSIONAL DE LOS AVIADORES CIVILES FRENTE A LA PENSION DE INVALIDEZ",
+      "subtema": "Derecho a la seguridad social integral"
+    },
+    {
+      "tema": "DECRETO LEY SOBRE REGIMEN PENSIONAL DE LOS AVIADORES CIVILES Y DECRETO LEY QUE LO ADICIONA FRENTE A LA PENSION DE INVALIDEZ",
+      "subtema": "Aplicación del test intermedio de igualdad"
+    },
+    {
+      "tema": "DECRETO LEY SOBRE REGIMEN PENSIONAL DE LOS AVIADORES CIVILES Y DECRETO LEY QUE LO ADICIONA",
+      "subtema": "Facultades extraordinarias"
+    },
+    {
+      "tema": "DECRETO LEY SOBRE REGIMEN PENSIONAL DE LOS AVIADORES CIVILES Y PENSION DE INVALIDEZ FRENTE AL PRINCIPIO DE IGUALDAD",
+      "subtema": "Comparación entre destinatarios de la norma y afiliados al sistema de pensiones"
+    },
+    {
+      "tema": "DELEGACION LEGISLATIVA COMO PARAMETRO DE CONTROL CONSTITUCIONAL",
+      "subtema": "Contenido material"
+    },
+    {
+      "tema": "DECRETO LEY SOBRE REGIMEN PENSIONAL DE LOS AVIADORES CIVILES FRENTE AL PRINCIPIO DE IGUALDAD",
+      "subtema": "Régimen de transición"
+    },
+    {
+      "tema": "DECRETO LEY SOBRE REGIMEN PENSIONAL DE LOS AVIADORES CIVILES",
+      "subtema": "Decreto ley que lo adiciona no incluyó disposiciones sobre porcentaje de pérdida de la capacidad laboral"
+    },
+    {
+      "tema": "DECRETO LEY SOBRE REGIMEN PENSIONAL DE LOS AVIADORES CIVILES",
+      "subtema": "Perdida de la licencia para volar y de la capacidad laboral como factores de la pensión de invalidez"
+    },
+    {
+      "tema": "DECRETO LEY SOBRE REGIMEN PENSIONAL DE LOS AVIADORES CIVILES FRENTE A LA PENSION DE INVALIDEZ",
+      "subtema": "Lo faltante se regirá por lo consagrado en la Ley 100 de 1993"
+    },
+    {
+      "tema": "DECRETO LEY SOBRE REGIMEN PENSIONAL DE LOS AVIADORES CIVILES Y DECRETO LEY QUE LO ADICIONA FRENTE A LA PENSION DE INVALIDEZ",
+      "subtema": "Test estricto de igualdad"
+    },
+    {
+      "tema": "DECRETO LEY SOBRE REGIMEN PENSIONAL DE LOS AVIADORES CIVILES Y DECRETO LEY QUE LO ADICIONA",
+      "subtema": "Porcentaje de pérdida de la capacidad laboral por invalidez por pérdida de la licencia de vuelo"
+    },
+    {
+      "tema": "DECRETO LEY SOBRE REGIMEN PENSIONAL DE LOS AVIADORES CIVILES",
+      "subtema": "Pérdida de la licencia de vuelo como causal de invalidez del trabajador"
+    },
+    {
+      "tema": "COSA JUZGADA RELATIVA Y COSA JUZGADA ABSOLUTA",
+      "subtema": "Distinción"
+    },
+    {
+      "tema": "FACULTADES EXTRAORDINARIAS",
+      "subtema": "Concepto de precisión y amplitud no son excluyentes entre sí"
+    },
+    {
+      "tema": "FACULTADES LEGISLATIVAS DELEGADAS",
+      "subtema": "Exigencia de precisión y agotamiento"
+    },
+    {
+      "tema": "FACULTADES EXTRAORDINARIAS",
+      "subtema": "Reiteración de jurisprudencia"
+    },
+    {
+      "tema": "JUNTA ESPECIAL DE CALIFICACION DE INVALIDEZ",
+      "subtema": "Carácter excepcional"
+    },
+    {
+      "tema": "JUNTA ESPECIAL DE CALIFICACION DE INVALIDEZ",
+      "subtema": "Especificidades"
+    },
+    {
+      "tema": "JUNTA ESPECIAL DE CALIFICACION DE INVALIDEZ",
+      "subtema": "Naturaleza de sus dictámenes"
+    },
+    {
+      "tema": "JUNTA ESPECIAL DE CALIFICACION DE INVALIDEZ",
+      "subtema": "Status jurídico"
+    },
+    {
+      "tema": "JUNTA ESPECIAL DE CALIFICACION DE INVALIDEZ",
+      "subtema": "Órgano de única instancia"
+    },
+    {
+      "tema": "JUNTA ESPECIAL DE CALIFICACION DE INVALIDEZ",
+      "subtema": "Reconocimiento por la jurisdicción ordinaria de la Sala Laboral de la Corte Suprema de Justicia"
+    },
+    {
+      "tema": "PENSIÓN DE INVALIDEZ",
+      "subtema": "Estado de invalidez no provocado intencionalmente según la Ley 100 de 1993"
+    },
+    {
+      "tema": "PERDIDA DE LA CAPACIDAD LABORAL",
+      "subtema": "No se asimila a la invalidez"
+    },
+    {
+      "tema": "PENSION DE INVALIDEZ DE LOS AVIADORES CIVILES",
+      "subtema": "Se tiene en cuenta la condición física y capacidad productiva del piloto para determinar la invalidez y establecer el monto"
+    },
+    {
+      "tema": "PENSION DE INVALIDEZ DE LOS AVIADORES CIVILES",
+      "subtema": "No coincide con el porcentaje de la pérdida de capacidad laboral"
+    },
+    {
+      "tema": "PRINCIPIO DE LA DOBLE INSTANCIA",
+      "subtema": "Admite excepciones"
+    },
+    {
+      "tema": "PRINCIPIO DE LA DOBLE INSTANCIA",
+      "subtema": "No tiene carácter absoluto"
+    },
+    {
+      "tema": "PRESIDENTE COMO LEGISLADOR DELEGADO",
+      "subtema": "Sujeto a límites y restricciones cuando decide omitir la consagración de la segunda instancia"
+    },
+    {
+      "tema": "POTESTAD DELEGADA",
+      "subtema": "No es posible expedir nuevas disposiciones sobre lo regulado por el legislador delegado"
+    },
+    {
+      "tema": "TEST DE IGUALDAD",
+      "subtema": "Objetos de análisis"
+    },
+    {
+      "tema": "TEST DE IGUALDAD",
+      "subtema": "Intensidad"
+    },
+    {
+      "tema": "TEST DE IGUALDAD",
+      "subtema": "Tipos"
+    },
+    {
+      "tema": "TITULARIDAD DE LA LICENCIA DE VUELO",
+      "subtema": "Normas y procedimientos internacionales"
+    },
+    {
+      "tema": "SEGUNDA INSTANCIA",
+      "subtema": "Amplio margen de configuración del legislador"
+    },
+    {
+      "tema": "PRINCIPIO DE IGUALDAD",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "Razones claras, ciertas, específicas, pertinentes y suficientes"
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "Objeto y concepto de la violación"
+    }
+  ]
+}

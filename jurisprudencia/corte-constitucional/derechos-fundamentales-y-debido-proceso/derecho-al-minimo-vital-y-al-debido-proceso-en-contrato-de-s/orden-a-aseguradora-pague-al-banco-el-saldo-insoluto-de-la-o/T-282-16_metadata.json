@@ -1,0 +1,50 @@
+{
+  "radicado": "T-282-16",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2016,
+  "fecha_creacion": "2016-06-01",
+  "magistrado_ponente": "Gloria Stella Ortiz Delgado",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "DERECHO AL MINIMO VITAL Y AL DEBIDO PROCESO EN CONTRATO DE SEGUROS",
+  "subtema": "Orden a Aseguradora pague al Banco el saldo insoluto de la obligación hipotecaria por póliza de vida que respalda crédito",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Decreto Ley 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2016/T-282-16.htm",
+  "fecha_descarga": "2026-10-21T12:00:02.523026+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2016-06-01",
+  "fecha_publicacion": null,
+  "numero": "T-282/16",
+  "tipo_cc": "T",
+  "prov_id": "8997",
+  "tema_relatoria": "ACCION DE TUTELA CONTRA ASEGURADORA. OBLIGACION DE PROBAR NEXO DE CAUSALIDAD ENTRE LA PREEXISTENCIA ALEGADA Y LA OCURRENCIA DEL SINIESTRO.",
+  "resumen": "La vulneración de derechos fundamentales por parte de la Aseguradora y Banco accionados se atribuye, respectivamente en su orden, a la negativa de pagar la póliza correspondiente al contrato de seguro suscrito con la accionante y; al inicio de un proceso ejecutivo para hacer efectivo el cobro de las obligaciones crediticias adquiridas por ésta. La Aseguradora adujo que la actora omitió dar información completa de su estado de salud, particularmente, de una cirugía de columna lumbar que le fue practicada antes de firmar el contrato, lo cual configuraba una reticencia. Esto lo aseveró, a pesar de que la causa de la pérdida de capacidad laboral estaba relacionada con la ocurrencia de un Accidente Cerebro Vascular. El Banco por su parte argumentó, que el proceso ejecutivo se debió al incumplimiento de la peticionaria frente a las obligaciones adquiridas con la entidad financiera. Se aborda el análisis de los siguientes temas: 1º. Verificación de los requisitos generales de procedibilidad de la acción de tutela. 2º. Vulneración de los derechos fundamentales al debido proceso y al mínimo vital, en virtud de las actuaciones desplegadas por las demandadas y, 3º. La obligación de las aseguradoras de probar el nexo de causalidad entre la preexistencia alegada y la ocurrencia del siniestro. Se CONCEDE la protección solicitada y se ordena a la Aseguradora efectuar el trámite necesario para pagar al Banco BBVA S.A. el saldo insoluto de las obligaciones crediticias adquiridas por la demandante. Se ordena comunicar esta decisión al juzgado que adelanta el proceso ejecutivo, para que suspenda el trámite del mismo y, para que una vez la seguradora cancele la deuda al banco, solicita a la Oficina de Instrumentos Públicos de Neiva, la cancelación de la medida cautelar de embargo correspondiente.",
+  "titulaciones": [
+    {
+      "tema": "DERECHO AL MINIMO VITAL Y AL DEBIDO PROCESO EN CONTRATO DE SEGUROS",
+      "subtema": "Orden a Aseguradora pague al Banco el saldo insoluto de la obligación hipotecaria por póliza de vida que respalda crédito"
+    },
+    {
+      "tema": "DEBIDO PROCESO EN CONTRATO DE SEGUROS",
+      "subtema": "Obligación de las aseguradoras de probar el nexo de causalidad entre la preexistencia alegada y la ocurrencia del siniestro"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA COMPAÑIA DE SEGUROS DE VIDA",
+      "subtema": "Procedencia para el pago de póliza cuando se trata de sujetos de especial protección constitucional y los medios ordinarios no son idóneos"
+    },
+    {
+      "tema": "PRINCIPIO DE LA BUENA FE EN CONTRATO DE SEGUROS",
+      "subtema": "Se predica tanto de tomador como de asegurador"
+    },
+    {
+      "tema": "RETICENCIA O INEXACTITUD EN EL CONTRATO DE SEGUROS",
+      "subtema": "Las aseguradoras sólo podrán eximirse de la responsabilidad de realizar el pago de la indemnización, cuando se encuentre debidamente probada la mala fe del tomador del seguro"
+    }
+  ]
+}

@@ -1,0 +1,264 @@
+{
+  "radicado": "C-328-16",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2016,
+  "fecha_creacion": "2016-06-22",
+  "magistrado_ponente": null,
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "DERECHOS FUNDAMENTALES DE LOS CIUDADANOS CONDENADOS PENALMENTE",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 599 de 2000",
+    "Ley 1709 de 2014",
+    "Ley 65 de 1993",
+    "Ley 55 de 1985",
+    "Decreto 2067 de 1991",
+    "Ley 1123 de 2007",
+    "Ley 24 de 1992",
+    "Ley 941 de 2005"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2016/C-328-16.htm",
+  "fecha_descarga": "2026-10-21T12:14:33.283716+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2016-06-22",
+  "fecha_publicacion": null,
+  "numero": "C-328/16",
+  "tipo_cc": "C",
+  "prov_id": "9069",
+  "tema_relatoria": "MECANISMOS ALTERNATIVOS A LA PRISION. POR SOLICITUD DEL ABOGADO DEFENSOR PÚBLICO.",
+  "resumen": "Demanda de inconstitucionalidad contra el artículo 5º (parcial) de la Ley 1709 de 2014, por medio de la cual se reforman algunos artículos de la Ley 65 de 1993, de la Ley 599 de 2000, de la Ley 55 de 1985 y se dictan otras disposiciones. El demandante acusó de inconstitucional la expresión “defensoría pública”, por la supuesta vulneración del artículo 13 Superior. Aduce, que dicha frase crea un trato desigual entre los abogados que ejercen el litigio penal, porque concede una prerrogativa a los defensores públicos para solicitar al juez la sustitución de la pena de prisión de su representado, e impide a los abogados de confianza el libre ejercicio de su actividad, pues no les concede la facultar para elevar la misma solicitud. Acorde con el principio de defensa técnica, la función constitucional de resocialización de la pena y el derecho a la igualdad la Corte declaró la EXEQUIBILIDAD CONDICIONADA del texto normativo acusado, en el entendido de que el apoderado de confianza de la persona privada de la libertad puede solicitar la aplicación de mecanismos alternativos o sustitutivos de la pena de prisión.",
+  "titulaciones": [
+    {
+      "tema": "DERECHOS FUNDAMENTALES DE LOS CIUDADANOS CONDENADOS PENALMENTE",
+      "subtema": null
+    },
+    {
+      "tema": "CONCEPTO DE VIOLACION EN DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "Exigencias argumentativas"
+    },
+    {
+      "tema": "DEBERES Y DERECHOS RECIPROCOS ENTRE INTERNOS Y AUTORIDADES CARCELARIAS",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "Aplicación del principio pro actione"
+    },
+    {
+      "tema": "PENA DE PRISION",
+      "subtema": "Medidas alternativas y sustitutivas"
+    },
+    {
+      "tema": "PENA",
+      "subtema": "Fines en el Código Penal colombiano"
+    },
+    {
+      "tema": "LIBERTAD DE CONFIGURACION LEGISLATIVA EN MATERIA PENAL",
+      "subtema": "Límites constitucionales"
+    },
+    {
+      "tema": "DERECHO PENAL",
+      "subtema": "Importancia constitucional del derecho fundamental a la defensa técnica y el papel de los apoderados judiciales"
+    },
+    {
+      "tema": "DERECHO PROCESAL",
+      "subtema": "Características"
+    },
+    {
+      "tema": "DERECHOS FUNDAMENTALES DE LOS INTERNOS",
+      "subtema": "Obligación del Estado a procurar su protección y respeto"
+    },
+    {
+      "tema": "DERECHO A LA DEFENSA TÉCNICA",
+      "subtema": "Instrumentos internacionales"
+    },
+    {
+      "tema": "DEFENSA TECNICA",
+      "subtema": "Naturaleza"
+    },
+    {
+      "tema": "FUNCIONES Y FINES DE LA PENA",
+      "subtema": "Teoría de la prevención general negativa"
+    },
+    {
+      "tema": "FUNCIONES Y FINES DE LA PENA",
+      "subtema": "Teoría de la expiación"
+    },
+    {
+      "tema": "FUNCIONES Y FINES DE LA PENA",
+      "subtema": "Teoría de la prevención general positiva"
+    },
+    {
+      "tema": "FUNCIONES Y FINES DE LA PENA",
+      "subtema": "Teorías mixtas"
+    },
+    {
+      "tema": "FUNCIONES Y FINES DE LA PENA",
+      "subtema": "Prevención especial"
+    },
+    {
+      "tema": "FUNCIONES Y FINES DE LA PENA",
+      "subtema": "Teorías que no otorgan preferencia a la retribución"
+    },
+    {
+      "tema": "JUICIO O TEST DE IGUALDAD",
+      "subtema": "Jurisprudencia constitucional"
+    },
+    {
+      "tema": "LIBERTAD CONDICIONAL",
+      "subtema": "Observancia de obligaciones por parte de los beneficiarios"
+    },
+    {
+      "tema": "PENA DE PRISION",
+      "subtema": "No despoja a la persona de su titularidad en relación con los derechos humanos"
+    },
+    {
+      "tema": "PENA PRIVATIVA DE LA LIBERTAD",
+      "subtema": "Alcance constitucional"
+    },
+    {
+      "tema": "RELACIONES DE ESPECIAL SUJECION ENTRE LOS INTERNOS Y EL ESTADO",
+      "subtema": "Garantía y respeto de derechos fundamentales del interno"
+    },
+    {
+      "tema": "SISTEMA NACIONAL DE DEFENSORIA PUBLICA",
+      "subtema": "Regulación"
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "Razones claras, ciertas, específicas, pertinentes y suficientes"
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "Requisitos mínimos"
+    },
+    {
+      "tema": "APODERADO DE CONFIANZA DE PERSONA PRIVADA DE LA LIBERTAD",
+      "subtema": "Puede solicitar la aplicación de mecanismos alternativos o sustitutivos de la pena de prisión, acorde con el principio de defensa técnica, la función constitucional de resocialización de la pena y e"
+    },
+    {
+      "tema": "ABOGADOS DE CONFIANZA",
+      "subtema": "Limitación y restricción legal sobre los internos que ellos representan en norma sobre aplicación de mecanismos alternativos o sustitutivos de la pena de prisión"
+    },
+    {
+      "tema": "DEFENSOR PÚBLICO",
+      "subtema": "Funciones"
+    },
+    {
+      "tema": "DERECHO DE ACCESO A LA ADMINISTRACION DE JUSTICIA Y A LA TUTELA JUDICIAL EFECTIVA",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "Finalidad de requisitos mínimos"
+    },
+    {
+      "tema": "DERECHO A LA TUTELA JUDICIAL EFECTIVA",
+      "subtema": "Efectividad"
+    },
+    {
+      "tema": "DERECHO A LA TUTELA JUDICIAL EFECTIVA",
+      "subtema": "Naturaleza"
+    },
+    {
+      "tema": "NORMA",
+      "subtema": "No utilización de signo de puntuación en la estructura de oración genera nivel de confusión gramatical que permite derivar una interpretación restrictiva"
+    },
+    {
+      "tema": "PENA PRIVATIVA DE LA LIBERTAD",
+      "subtema": "Mecanismos sustitutivos"
+    },
+    {
+      "tema": "PENAS",
+      "subtema": "Clases"
+    },
+    {
+      "tema": "FINES CONSTITUCIONALES DE LA PENA",
+      "subtema": "Jurisprudencia constitucional"
+    },
+    {
+      "tema": "MECANISMO ALTERNATIVO A LA PENA PRIVATIVA DE LA LIBERTAD",
+      "subtema": "Prisión domiciliaria"
+    },
+    {
+      "tema": "MECANISMOS ALTERNATIVOS O SUSTITUTIVOS DE LA PENA DE PRISION COMO INSTRUMENTOS QUE PERMITEN ALCANZAR LOS FINES DE RESOCIALIZACION DE LA SANCION PENAL",
+      "subtema": "Alcance constitucional"
+    },
+    {
+      "tema": "MECANISMOS DE PARTICIPACION CIUDADANA",
+      "subtema": "Uso adecuado y responsable"
+    },
+    {
+      "tema": "PRINCIPIO DE IGUALDAD EN EL PROCESO PENAL",
+      "subtema": "Proyección en el ejercicio de las garantías procesales fundamentales de los condenados"
+    },
+    {
+      "tema": "LIBERTAD CONDICIONAL",
+      "subtema": "Exigencias"
+    },
+    {
+      "tema": "DERECHOS FUNDAMENTALES DE LOS INTERNOS",
+      "subtema": "Clasificación"
+    },
+    {
+      "tema": "DERECHO A LA DEFENSA TÉCNICA",
+      "subtema": "Contenido"
+    },
+    {
+      "tema": "FUNCIONES Y FINES DE LA PENA",
+      "subtema": "Teorías absolutas"
+    },
+    {
+      "tema": "FUNCIONES Y FINES DE LA PENA",
+      "subtema": "Teorías relativas"
+    },
+    {
+      "tema": "FUNCIONES Y FINES DE LA PENA",
+      "subtema": "Teorías que otorgan preferencia a la retribución"
+    },
+    {
+      "tema": "FUNCIONES Y FINES DE LA PENA",
+      "subtema": "Teoría de la retribución"
+    },
+    {
+      "tema": "JURISPRUDENCIA CONSTITUCIONAL",
+      "subtema": "Trato igual a los iguales y desigual a los desiguales"
+    },
+    {
+      "tema": "LIBERTAD DE CONFIGURACION LEGISLATIVA EN MATERIA PENAL Y PENITENCIARIA",
+      "subtema": "Contenido y alcance"
+    },
+    {
+      "tema": "PERSONAS PRIVADAS DE LA LIBERTAD",
+      "subtema": "Se encuentran en especial situación de indefensión producto de la relación de sujeción frente al Estado"
+    },
+    {
+      "tema": "TEORIAS QUE JUSTIFICAN LA IMPOSICION DE PENAS",
+      "subtema": "Teorías absolutas o relativas"
+    },
+    {
+      "tema": "TEST DE IGUALDAD",
+      "subtema": "Elementos"
+    },
+    {
+      "tema": "SUSPENSION CONDICIONAL DE LA EJECUCION DE LA PENA",
+      "subtema": "Requisitos"
+    },
+    {
+      "tema": "TEST DE IGUALDAD",
+      "subtema": "Niveles de intensidad"
+    },
+    {
+      "tema": "DERECHOS FUNDAMENTALES DE PERSONAS PRIVADAS DE LA LIBERTAD",
+      "subtema": "Clasificación en tres grupos: derechos suspendidos, derechos intocables y derechos restringidos o limitados"
+    },
+    {
+      "tema": "RECLUSION DOMICILIARIA U HOSPITALARIA POR ENFERMEDAD MUY GRAVE",
+      "subtema": "Exigencias"
+    }
+  ]
+}

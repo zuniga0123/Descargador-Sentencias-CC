@@ -1,0 +1,55 @@
+{
+  "radicado": "T-411-16",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2016,
+  "fecha_creacion": "2016-08-05",
+  "magistrado_ponente": "Alberto Rojas Ríos",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "ACCION DE TUTELA PARA OBTENER EL CUMPLIMIENTO DE PROVIDENCIAS JUDICIALES",
+  "subtema": "Procedencia cuando se está ante la posible vulneración de derechos fundamentales",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Decreto 4107 de 2011",
+    "Ley 114 de 1913",
+    "Ley 116 de 1928",
+    "Ley 37 de 1933",
+    "Ley 91 de 1989",
+    "Decreto 81 de 1976",
+    "Ley 43 de 1975",
+    "Ley 4 de 1992",
+    "Ley 100 de 1993",
+    "Ley 102 de 1927"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2016/T-411-16.htm",
+  "fecha_descarga": "2026-10-21T11:54:25.905531+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2016-08-05",
+  "fecha_publicacion": null,
+  "numero": "T-411/16",
+  "tipo_cc": "T",
+  "prov_id": "9233",
+  "tema_relatoria": "PENSION GRACIA. NATURALEZA JURIDICA. CUMPLIMIENTO DE SENTENCIA QUE ORDENO PAGO DE PENSION GRACIA.",
+  "resumen": "Se aduce que la UGPP vulneró derecho fundamentales de la accionante, al abstenerse de dar cumplimiento a las órdenes proferidas mediante un fallo judicial en su contra, relacionadas con el pago de la pensión gracia post mortem que le correspondía a su esposo antes de su fallecimiento y a la sustitución de la misma a su favor, en calidad de cónyuge supérstite. La entidad se opuso a las pretensiones, alegando que el causante no generó derecho a la prestación por no cumplir con los requisitos de ley y, porque pagarla en esas circunstancias iría en contravía del principio de sostenibilidad financiera del sistema. Se aborda temática relacionada con la naturaleza jurídica de la pensión gracia y la procedencia de la acción de tutela para ordenar el cumplimiento de las providencias judiciales cuando se está ante una posible vulneración de derechos fundamentales. Se confirma la decisión de instancia que concedió la protección solicitada. Se advierte, que en casos excepcionales de falsedad o ausencia de documentación, en los cuales una persona obtiene indebidamente el reconocimiento y pago de una pensión gracia, la Administración puede acudir ante la jurisdicción de lo contencioso administrativo a efectos de pretender dejar sin efectos el respectivo acto de reconocimiento y evitar que se configure un perjuicio grave al Sistema General de Seguridad Social.",
+  "titulaciones": [
+    {
+      "tema": "ACCION DE TUTELA PARA OBTENER EL CUMPLIMIENTO DE PROVIDENCIAS JUDICIALES",
+      "subtema": "Procedencia cuando se está ante la posible vulneración de derechos fundamentales"
+    },
+    {
+      "tema": "DERECHO DE ACCESO A LA ADMINISTRACION DE JUSTICIA Y AL CUMPLIMIENTO DE FALLOS JUDICIALES",
+      "subtema": "Vulneración por negativa del pago de pensión gracia ordenado en fallo judicial"
+    },
+    {
+      "tema": "ACCION DE TUTELA PARA CUMPLIMIENTO DE SENTENCIAS",
+      "subtema": "Obligación de hacer a cargo de una entidad pública"
+    },
+    {
+      "tema": "PENSION GRACIA",
+      "subtema": "Naturaleza jurídica"
+    }
+  ]
+}

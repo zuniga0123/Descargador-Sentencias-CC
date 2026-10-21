@@ -1,0 +1,643 @@
+{
+  "radicado": "C-181-16",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2016,
+  "fecha_creacion": "2016-04-13",
+  "magistrado_ponente": null,
+  "area": "Derecho Penal y Sistema Acusatorio",
+  "tema": "ANTECEDENTES PENALES",
+  "subtema": "Jurisprudencia de la Corte Suprema de Justicia",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 1453 de 2011",
+    "Decreto 2067 de 1991",
+    "Ley 599 de 2000",
+    "Ley 890 de 2004",
+    "Ley 1762 de 2015",
+    "Decreto 522 de 1971",
+    "Ley 734 de 2002",
+    "Decreto 196 de 1971",
+    "Ley 975 de 2005",
+    "Ley 74 de 1968",
+    "Ley 16 de 1972"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2016/C-181-16.htm",
+  "fecha_descarga": "2026-10-21T12:13:42.986606+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2016-04-13",
+  "fecha_publicacion": null,
+  "numero": "C-181/16",
+  "tipo_cc": "C",
+  "prov_id": "8801",
+  "tema_relatoria": "ESTABLECIMIENTO DE REINCIDENCIA COMO CIRCUNSTANCIA DE AGRAVACION PUNITIVA DE LA PENA DE MULTA NO INFRINGE PROHIBICIÓN DE SER JUZGADO DOS VECES POR EL MISMO HECHO. PENA DE MULTA EN PROCESO PENAL",
+  "resumen": "Demanda de inconstitucionalidad contra el artículo 46 de la Ley 1453 de 2011, por medio de la cual se reforma el Código Penal, el Código de Procedimiento Penal, el Código de Infancia y Adolescencia, las reglas sobre extinción de dominio y se dictan otras disposiciones en materia de seguridad. El actor adujo que la norma demandada es inconstitucional, al habilitar una doble valoración del delito cometido de forma precedente al delito sancionado con pena de multa, de tal suerte que se juzga dos veces respecto de una conducta que ya fue objeto de pronunciamiento judicial. La Corte considera que, establecer la reincidencia como circunstancia de agravación punitiva de la pena de multa, no infringe la prohibición de ser juzgado dos veces por el mismo hecho, por ser un elemento de dosimetría de la pena y no de culpabilidad. Se declara la EXEQUIBILIDAD de la expresión “la unidad multa se duplicará en aquellos casos en que la persona haya sido condenada por delito doloso o preterintencional dentro de los diez (10) años anteriores” demandada.",
+  "titulaciones": [
+    {
+      "tema": "ANTECEDENTES PENALES",
+      "subtema": "Jurisprudencia de la Corte Suprema de Justicia"
+    },
+    {
+      "tema": "ANTIJURIDICIDAD",
+      "subtema": "Consagrada en el Código Penal"
+    },
+    {
+      "tema": "AGRAVACION DE LA PENA DE MULTA POR REINCIDENCIA EN DELITO DOLOSO O PRETERINTENCIONAL",
+      "subtema": "Resulta constitucional a condición de delimitarla temporalmente"
+    },
+    {
+      "tema": "AGRAVANTE",
+      "subtema": "Afectan la pena más no el delito"
+    },
+    {
+      "tema": "ANTIJURIDICIDAD EN EL DERECHO PENAL CONSTITUCIONALIZADO",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "CODIGO PENAL, CODIGO DE PROCEDIMIENTO PENAL Y CODIGO DE INFANCIA Y ADOLESCENCIA",
+      "subtema": "Pena de multa en proceso penal"
+    },
+    {
+      "tema": "CODIGO PENAL, CODIGO DE PROCEDIMIENTO PENAL Y CODIGO DE INFANCIA Y ADOLESCENCIA",
+      "subtema": "Duplicación de pena de unidad de multa cuando persona haya sido condenada por delito doloso o preterintencional"
+    },
+    {
+      "tema": "CONGRESO DE LA REPUBLICA",
+      "subtema": "Competencia para hacer leyes, expedir y reformar códigos"
+    },
+    {
+      "tema": "CULPABILIDAD PENAL CONSTITUCIONALIZADA",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "DEBIDO PROCESO",
+      "subtema": "Toda persona se presume inocente mientras no se demuestre lo contrario"
+    },
+    {
+      "tema": "CULPABILIDAD EN MATERIA PENAL",
+      "subtema": "Interpretación"
+    },
+    {
+      "tema": "CULPABILIDAD",
+      "subtema": "Toda persona se presume inocente mientras no sea declarado judicialmente culpable"
+    },
+    {
+      "tema": "CULPABILIDAD, TIPICIDAD Y ANTIJURIDICIDAD",
+      "subtema": "Elementos estructurales de la responsabilidad penal"
+    },
+    {
+      "tema": "CULPABILIDAD",
+      "subtema": "Hace parte de la dogmática penal"
+    },
+    {
+      "tema": "CONTROL CONSTITUCIONAL DE NORMAS PENALES",
+      "subtema": "Dimensión material del principio non bis in ídem"
+    },
+    {
+      "tema": "PENA",
+      "subtema": "Función resocializadora"
+    },
+    {
+      "tema": "PENA",
+      "subtema": "Configura sanción legal por realización de acto considerado típicamente como delito"
+    },
+    {
+      "tema": "PENA DE MULTA",
+      "subtema": "Finalidad"
+    },
+    {
+      "tema": "PENA PRIVATIVA DE LA LIBERTAD",
+      "subtema": "Individualización"
+    },
+    {
+      "tema": "PENA",
+      "subtema": "Fin preventivo y resocializador"
+    },
+    {
+      "tema": "PENA",
+      "subtema": "Funciones"
+    },
+    {
+      "tema": "PENA",
+      "subtema": "Imposición no es discrecional sino sujeta a la ley"
+    },
+    {
+      "tema": "MARGEN DE CONFIGURACION DEL LEGISLADOR EN MATERIA PENAL",
+      "subtema": "Bloque de constitucionalidad y otras normas constitucionales"
+    },
+    {
+      "tema": "MARGEN DE CONFIGURACION DEL LEGISLADOR EN MATERIA PENAL",
+      "subtema": "Principio de legalidad"
+    },
+    {
+      "tema": "MEDICION DE LA PENA",
+      "subtema": "Circunstancias de menor o mayor punibilidad"
+    },
+    {
+      "tema": "MULTA",
+      "subtema": "Conversión en arrestos de fin de semana cuando no sea pagada por el condenado"
+    },
+    {
+      "tema": "MOVILIDAD EN CUARTOS PUNITIVOS",
+      "subtema": "Valoración de la reincidencia penal del delincuente"
+    },
+    {
+      "tema": "MULTA",
+      "subtema": "Condiciones para fijación de la cuantía"
+    },
+    {
+      "tema": "POLITICA CRIMINAL DEL ESTADO",
+      "subtema": "Competencia del Legislador"
+    },
+    {
+      "tema": "PRINCIPIO DE LEGALIDAD PENAL",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "PRINCIPIO DE TIPICIDAD",
+      "subtema": "Hace parte del núcleo esencial del principio de legalidad en materia penal"
+    },
+    {
+      "tema": "PRINCIPIO DE LEGALIDAD PENAL",
+      "subtema": "Dimensiones"
+    },
+    {
+      "tema": "PRINCIPIO DE LEGALIDAD",
+      "subtema": "Materializa el derecho al debido proceso y garantiza la libertad individual e igualdad de las personas ante la ley"
+    },
+    {
+      "tema": "PRINCIPIO DEL NON BIS IN IDEM",
+      "subtema": "Aplicación al derecho sancionatorio"
+    },
+    {
+      "tema": "ESTADO SOCIAL DE DERECHO",
+      "subtema": "Carácter político"
+    },
+    {
+      "tema": "MARGEN DE CONFIGURACION DEL LEGISLADOR EN MATERIA PENAL",
+      "subtema": "Principio de culpabilidad"
+    },
+    {
+      "tema": "MARGEN DE CONFIGURACION DEL LEGISLADOR EN MATERIA PENAL",
+      "subtema": "Principio de necesidad de intervención penal en relación con carácter subsidiario, fragmentario y última ratio del derecho penal"
+    },
+    {
+      "tema": "MOVILIDAD EN CUARTOS PUNITIVOS",
+      "subtema": "Presencia o ausencia de circunstancias atenuantes de la pena"
+    },
+    {
+      "tema": "MULTA",
+      "subtema": "Modalidades"
+    },
+    {
+      "tema": "LIBERTAD DE CONFIGURACION NORMATIVA",
+      "subtema": "Determinación de causales de agravación y atenuación de la pena aplicable a cada delito"
+    },
+    {
+      "tema": "PRINCIPIO DEL NON BIS IN IDEM",
+      "subtema": "Aplicación directa e inmediata"
+    },
+    {
+      "tema": "PRINCIPIO DEL NON BIS IN IDEM",
+      "subtema": "Dimensión procedimental y material"
+    },
+    {
+      "tema": "DIGNIDAD HUMANA",
+      "subtema": "Respeto"
+    },
+    {
+      "tema": "DOSIFICACION PUNITIVA EN MATERIA DE PRIVACION DE LA LIBERTAD",
+      "subtema": "Principios de proporcionalidad y razonabilidad de la pena"
+    },
+    {
+      "tema": "DERECHO PENAL",
+      "subtema": "Expresión de la política criminal del Estado"
+    },
+    {
+      "tema": "FUNCIONES Y FINES DE LA PENA",
+      "subtema": "Teorías absolutas"
+    },
+    {
+      "tema": "FUNCIONES Y FINES DE LA PENA",
+      "subtema": "Teorías relativas"
+    },
+    {
+      "tema": "FUNCIONES Y FINES DE LA PENA",
+      "subtema": "Teorías"
+    },
+    {
+      "tema": "FUNCIONES Y FINES DE LA PENA",
+      "subtema": "Teorías que otorgan preferencia a la retribución"
+    },
+    {
+      "tema": "IMPOSICION DE LA PENA O MEDIDA DE SEGURIDAD",
+      "subtema": "Principios"
+    },
+    {
+      "tema": "FUNCIONES Y FINES DE LA PENA",
+      "subtema": "Teoría de la retribución"
+    },
+    {
+      "tema": "POLITICA CRIMINAL DEL ESTADO",
+      "subtema": "Principio democrático y soberanía popular"
+    },
+    {
+      "tema": "REINCIDENCIA PENAL",
+      "subtema": "Concepto"
+    },
+    {
+      "tema": "REINCIDENCIA",
+      "subtema": "Derecho penal Colombiano"
+    },
+    {
+      "tema": "RESPONSABILIDAD PENAL",
+      "subtema": "Establecimiento a partir de la verificación de culpabilidad"
+    },
+    {
+      "tema": "REINCIDENCIA PENAL",
+      "subtema": "Aspectos generales"
+    },
+    {
+      "tema": "REINCIDENCIA PENAL",
+      "subtema": "Naturaleza jurídica"
+    },
+    {
+      "tema": "REINCIDENCIA",
+      "subtema": "Causal de agravación de la pena impuesta"
+    },
+    {
+      "tema": "REINCIDENCIA",
+      "subtema": "Derecho penal comparado Latinoamericano"
+    },
+    {
+      "tema": "REINCIDENCIA PENAL",
+      "subtema": "Jurisprudencia constitucional"
+    },
+    {
+      "tema": "REINCIDENCIA",
+      "subtema": "Característica objetiva"
+    },
+    {
+      "tema": "REINCIDENCIA",
+      "subtema": "Rasgos identificadores"
+    },
+    {
+      "tema": "PUNIBILIDAD",
+      "subtema": "Trascendencia constitucional"
+    },
+    {
+      "tema": "PROCESO DE INDIVIDUALIZACION DE LA PENA EN EL CODIGO PENAL",
+      "subtema": "División del ámbito punitivo de movilidad en cuartos"
+    },
+    {
+      "tema": "REINCIDENCIA PENAL",
+      "subtema": "Características"
+    },
+    {
+      "tema": "REINCIDENCIA",
+      "subtema": "Clases"
+    },
+    {
+      "tema": "REINCIDENCIA",
+      "subtema": "Tipicidad, antijuridicidad, culpabilidad y punibilidad"
+    },
+    {
+      "tema": "TIPICIDAD Y TIPO PENAL",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "UNIDAD DE MULTA PROGRESIVA",
+      "subtema": "Característica"
+    },
+    {
+      "tema": "TIPICIDAD Y TIPO PENAL",
+      "subtema": "Teoría del delito"
+    },
+    {
+      "tema": "PUNIBILIDAD",
+      "subtema": "Restricción de la libertad personal"
+    },
+    {
+      "tema": "REINCIDENCIA",
+      "subtema": "Elementos"
+    },
+    {
+      "tema": "AGRAVANTE",
+      "subtema": "Término de origen etimológico"
+    },
+    {
+      "tema": "ANTIJURIDICIDAD",
+      "subtema": "Conexión con el principio de proporcionalidad o prohibición de exceso"
+    },
+    {
+      "tema": "ANTIJURIDICIDAD",
+      "subtema": "Concepción dual"
+    },
+    {
+      "tema": "ANTIJURIDICIDAD O INJUSTO PENAL",
+      "subtema": "Concepto"
+    },
+    {
+      "tema": "CODIGO PENAL COLOMBIANO",
+      "subtema": "Funciones de la pena"
+    },
+    {
+      "tema": "CODIGO PENAL COLOMBIANO",
+      "subtema": "Clases de penas"
+    },
+    {
+      "tema": "CULPABILIDAD",
+      "subtema": "Imposición proporcional de la pena"
+    },
+    {
+      "tema": "DUPLICACION DE PENA DE UNIDAD DE MULTA POR REINCIDENCIA EN DELITO DOLOSO O PRETERINTENCIONAL",
+      "subtema": "Exequibilidad al no desconocer principio del non bis in ídem"
+    },
+    {
+      "tema": "FINES CONSTITUCIONALES DE LA PENA FRENTE A FINES DE RESOCIALIZACION PREVENTIVA ESPECIAL",
+      "subtema": "Jurisprudencia constitucional"
+    },
+    {
+      "tema": "MOVILIDAD EN CUARTOS PUNITIVOS",
+      "subtema": "Falta de antecedentes penales"
+    },
+    {
+      "tema": "MEDICION DE LA PENA",
+      "subtema": "Graduación de la sanción en cada caso"
+    },
+    {
+      "tema": "MARGEN DE CONFIGURACION DEL LEGISLADOR EN MATERIA PENAL",
+      "subtema": "Principio de exclusiva protección de bienes jurídicos"
+    },
+    {
+      "tema": "MARGEN DE CONFIGURACION DEL LEGISLADOR EN MATERIA PENAL",
+      "subtema": "Principios de racionabilidad y proporcionalidad"
+    },
+    {
+      "tema": "MOVILIDAD EN CUARTOS PUNITIVOS Y AUSENCIA DE ANTECEDENTES PENALES",
+      "subtema": "Causal de atenuación de la sanción que permite al juez dosificar la pena a imponer"
+    },
+    {
+      "tema": "MULTA",
+      "subtema": "Amortización mediante trabajo"
+    },
+    {
+      "tema": "PENA DE MULTA EN EL CODIGO PENAL",
+      "subtema": "Regulación"
+    },
+    {
+      "tema": "PENA",
+      "subtema": "Fines en el Código Penal colombiano"
+    },
+    {
+      "tema": "PENA",
+      "subtema": "Graduación"
+    },
+    {
+      "tema": "PENA",
+      "subtema": "Dosimetría"
+    },
+    {
+      "tema": "PRINCIPIO DEL NON BIS IN IDEM",
+      "subtema": "Dimensión de derecho fundamental"
+    },
+    {
+      "tema": "PRINCIPIO DEL NON BIS IN IDEM",
+      "subtema": "Facetas"
+    },
+    {
+      "tema": "PRINCIPIO DEL NON BIS IN IDEM",
+      "subtema": "Identidades de supuestos de aplicación"
+    },
+    {
+      "tema": "PRINCIPIO DE QUE NO HAY DELITO SIN CONDUCTA",
+      "subtema": "Nadie podrá ser juzgado sino conforme a las leyes preexistentes al acto que se le imputa"
+    },
+    {
+      "tema": "PRINCIPIO DEL NON BIS IN IDEM",
+      "subtema": "Consagración internacional"
+    },
+    {
+      "tema": "PRINCIPIO DEL NON BIS IN IDEM",
+      "subtema": "Se fundamenta en la seguridad jurídica y la justicia material"
+    },
+    {
+      "tema": "ESTABLECIMIENTO DE REINCIDENCIA COMO CIRCUNSTANCIA DE AGRAVACION PUNITIVA DE LA PENA DE MULTA",
+      "subtema": "No infringe la prohibición de ser juzgado dos veces por el mismo hecho, por ser un elemento de dosimetría de la pena y no de culpabilidad"
+    },
+    {
+      "tema": "MARGEN DE CONFIGURACION DEL LEGISLADOR EN MATERIA PENAL",
+      "subtema": "Límites"
+    },
+    {
+      "tema": "MARGEN DE CONFIGURACION DEL LEGISLADOR",
+      "subtema": "No es absoluto"
+    },
+    {
+      "tema": "MEDICION DE LA PENA",
+      "subtema": "Límites de la pena"
+    },
+    {
+      "tema": "LIBERTAD DE CONFIGURACION NORMATIVA DEL LEGISLADOR EN MATERIA PENAL",
+      "subtema": "Establecimiento de atenuantes y agravantes punitivos"
+    },
+    {
+      "tema": "REINCIDENCIA DESDE LA DOGMATICA PENAL CONSTITUCIONALIZADA",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "REINCIDENCIA",
+      "subtema": "Forma de agravación punitiva"
+    },
+    {
+      "tema": "DOGMATICA PENAL CONSTITUCIONALIZADA",
+      "subtema": "Importancia"
+    },
+    {
+      "tema": "DOSIFICACION PUNITIVA DE PENA DE PRISION",
+      "subtema": "Ausencia de antecedentes penales"
+    },
+    {
+      "tema": "DOSIMETRIA PENAL",
+      "subtema": "Principios de razonabilidad y proporcionalidad"
+    },
+    {
+      "tema": "DUPLICACION DE PENA DE UNIDAD DE MULTA POR REINCIDENCIA EN DELITO DOLOSO O PRETERINTENCIONAL",
+      "subtema": "No concurren identidad de objeto ni identidad de causa"
+    },
+    {
+      "tema": "DEBIDO PROCESO",
+      "subtema": "Nadie podrá ser juzgado sino conforme a las leyes preexistentes al acto que se le imputa"
+    },
+    {
+      "tema": "CULPABILIDAD",
+      "subtema": "Fundamento constitucional"
+    },
+    {
+      "tema": "CULPABILIDAD",
+      "subtema": "Principio de presunción de inocencia"
+    },
+    {
+      "tema": "DEBIDO PROCESO",
+      "subtema": "Obligaciones del Legislador"
+    },
+    {
+      "tema": "DEBIDO PROCESO",
+      "subtema": "Respeto en el ejercicio legítimo del poder punitivo del Estado"
+    },
+    {
+      "tema": "CULPABILIDAD",
+      "subtema": "Concepto"
+    },
+    {
+      "tema": "CULPABILIDAD",
+      "subtema": "Proscripción de cualquier forma de responsabilidad objetiva"
+    },
+    {
+      "tema": "DERECHO PUNITIVO",
+      "subtema": "Amplio margen del Legislador en el ámbito penal"
+    },
+    {
+      "tema": "FUNCIONES Y FINES DE LA PENA",
+      "subtema": "Teoría de la prevención general negativa"
+    },
+    {
+      "tema": "FUNCIONES Y FINES DE LA PENA",
+      "subtema": "Teoría de la expiación"
+    },
+    {
+      "tema": "FUNCIONES Y FINES DE LA PENA",
+      "subtema": "Teoría de la prevención general positiva"
+    },
+    {
+      "tema": "FUNCIONES Y FINES DE LA PENA",
+      "subtema": "Teorías mixtas"
+    },
+    {
+      "tema": "FUNCIONES Y FINES DE LA PENA",
+      "subtema": "Prevención especial"
+    },
+    {
+      "tema": "FUNCIONES Y FINES DE LA PENA",
+      "subtema": "Teorías que no otorgan preferencia a la retribución"
+    },
+    {
+      "tema": "INFRACCION A LEYES PENALES",
+      "subtema": "Responsabilidad de los particulares"
+    },
+    {
+      "tema": "PENA DE MULTA",
+      "subtema": "Determinación y graduación de la sanción"
+    },
+    {
+      "tema": "PENA DE MULTA",
+      "subtema": "Naturaleza pecuniaria"
+    },
+    {
+      "tema": "PENA",
+      "subtema": "Trascendencia constitucional"
+    },
+    {
+      "tema": "POTESTAD DE CONFIGURACION DEL LEGISLADOR EN MATERIA PUNITIVA",
+      "subtema": "Juicio de proporcionalidad"
+    },
+    {
+      "tema": "PRINCIPIO DE LEGALIDAD EN EL DERECHO PENAL",
+      "subtema": "Definición"
+    },
+    {
+      "tema": "PRINCIPIO DE NO HAY DELITO SIN CONDUCTA",
+      "subtema": "Derecho penal de acto y no de autor"
+    },
+    {
+      "tema": "PRINCIPIO DEL NON BIS IN IDEM",
+      "subtema": "Finalidad"
+    },
+    {
+      "tema": "PRINCIPIO DEL NON BIS IN IDEM",
+      "subtema": "No se encuentra delimitado por las disposiciones penales"
+    },
+    {
+      "tema": "PRINCIPIO DEL NON BIS IN IDEM",
+      "subtema": "Quien sea sindicado tiene derecho a no ser juzgado dos veces por el mismo hecho"
+    },
+    {
+      "tema": "PRINCIPIO DE TIPICIDAD",
+      "subtema": "Elementos"
+    },
+    {
+      "tema": "PRINCIPIO DEL NON BIS IN IDEM",
+      "subtema": "Consagración constitucional"
+    },
+    {
+      "tema": "PRINCIPIO DEL NON BIS IN IDEM",
+      "subtema": "Forma parte del derecho al debido proceso sancionador"
+    },
+    {
+      "tema": "PRINCIPIO DEL NON BIS IN IDEM",
+      "subtema": "Jurisprudencia de la Corte Suprema de Justicia"
+    },
+    {
+      "tema": "PRINCIPIO DEL NON BIS IN IDEM",
+      "subtema": "Prohibición de doble incriminación"
+    },
+    {
+      "tema": "PROCESO DE INDIVIDUALIZACION DE LA PENA EN EL CODIGO PENAL",
+      "subtema": "Concurrencia de circunstancias de atenuación y agravación punitiva"
+    },
+    {
+      "tema": "REINCIDENCIA",
+      "subtema": "Naturaleza jurídico dogmática"
+    },
+    {
+      "tema": "TIPICIDAD PENAL Y PRINCIPIO DE LEGALIDAD",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "TIPICIDAD Y TIPO PENAL",
+      "subtema": "Definición"
+    },
+    {
+      "tema": "TEORIA DEL DELITO",
+      "subtema": "Análisis tripartito"
+    },
+    {
+      "tema": "TIPICIDAD",
+      "subtema": "Manifestación como principio"
+    },
+    {
+      "tema": "UNIDAD DE MULTA",
+      "subtema": "Pago íntegro e inmediato una vez sentencia condenatoria haya quedado en firme"
+    },
+    {
+      "tema": "UNIDAD MULTA",
+      "subtema": "Duplicación cuando persona haya sido condenada por delito doloso o preterintencional"
+    },
+    {
+      "tema": "REINCIDENCIA EN EL DERECHO PENAL COLOMBIANO",
+      "subtema": "Jurisprudencia constitucional"
+    },
+    {
+      "tema": "REINCIDENCIA",
+      "subtema": "Derecho penal comparado Europeo"
+    },
+    {
+      "tema": "REINCIDENCIA",
+      "subtema": "Concebida como causal de agravación de la pena impuesta viola las garantías de non bis in ídem y los principios de lesividad y culpabilidad"
+    },
+    {
+      "tema": "REINCIDENCIA",
+      "subtema": "Importancia para el derecho penal"
+    },
+    {
+      "tema": "UNIDAD DE MULTA",
+      "subtema": "Excepción de pago a plazos"
+    },
+    {
+      "tema": "REINCIDENCIA",
+      "subtema": "Alcance"
+    }
+  ]
+}

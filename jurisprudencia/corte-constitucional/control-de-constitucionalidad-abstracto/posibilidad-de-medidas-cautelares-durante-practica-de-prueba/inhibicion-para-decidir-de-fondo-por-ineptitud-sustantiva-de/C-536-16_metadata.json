@@ -1,0 +1,52 @@
+{
+  "radicado": "C-536-16",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2016,
+  "fecha_creacion": "2016-10-05",
+  "magistrado_ponente": "Alejandro Linares Cantillo",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "POSIBILIDAD DE MEDIDAS CAUTELARES DURANTE PRACTICA DE PRUEBAS EXTRAPROCESALES",
+  "subtema": "Inhibición para decidir de fondo por ineptitud sustantiva de la demanda",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 1564 de 2012",
+    "Decreto Ley 2067 de 1991",
+    "Ley 23 de 1982",
+    "Ley 256 de 1996"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2016/C-536-16.htm",
+  "fecha_descarga": "2026-10-21T12:17:08.782643+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2016-10-05",
+  "fecha_publicacion": null,
+  "numero": "C-536/16",
+  "tipo_cc": "C",
+  "prov_id": "9469",
+  "tema_relatoria": "PROPIEDAD INTELECTUAL. MEDIDAS CAUTELARES EXTRAPROCESALES.",
+  "resumen": "Demanda de inconstitucionalidad contra el artículo 589 de la Ley 1564 de 2012, por medio de la cual se expide el Código General del Proceso y se dictan otras disposiciones. Considera la actora que la norma acusada vulnera el artículo 13 de la Constitución, al establecer un privilegio procesal en las casos donde se soliciten medidas anticipadas o extraprocesales en asuntos relacionados con violaciones a la propiedad intelectual y la competencia desleal. La Corte considera que la acusación formulada contra la posibilidad de medidas cautelares durante la práctica de pruebas en ciertos procesos, por vulneración del principio de igualdad, no cumple con los requisitos para proferir un fallo de mérito. En consecuencia, la Sala Plena se declara INHIBIDA para emitir pronunciamiento de fondo, por ineptitud sustantiva de la demanda.",
+  "titulaciones": [
+    {
+      "tema": "POSIBILIDAD DE MEDIDAS CAUTELARES DURANTE PRACTICA DE PRUEBAS EXTRAPROCESALES",
+      "subtema": "Inhibición para decidir de fondo por ineptitud sustantiva de la demanda"
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD POR VIOLACION DEL MANDATO DE TRATO IGUAL",
+      "subtema": "Requerimientos particulares"
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD POR VIOLACION DEL MANDATO DE TRATO DIFERENTE",
+      "subtema": "Requerimientos particulares"
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD POR VULNERACION DEL DERECHO A LA IGUALDAD",
+      "subtema": "Carga argumentativa adicional"
+    },
+    {
+      "tema": "ACCION PUBLICA DE INCONSTITUCIONALIDAD",
+      "subtema": "Competencia rogada"
+    }
+  ]
+}

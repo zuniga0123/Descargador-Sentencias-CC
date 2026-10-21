@@ -1,0 +1,48 @@
+{
+  "radicado": "T-617-16",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2016,
+  "fecha_creacion": "2016-11-09",
+  "magistrado_ponente": "Luis Guillermo Guerrero Pérez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "ACCION DE TUTELA PARA RECONOCIMIENTO DE PENSION DE INVALIDEZ",
+  "subtema": "Orden a Fondo de Pensiones reconocer, liquidar y pagar la pensión de invalidez",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 100 de 1993",
+    "Ley 860 de 2003",
+    "Ley 100 de 1994"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2016/T-617-16.htm",
+  "fecha_descarga": "2026-10-21T12:05:49.257353+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2016-11-09",
+  "fecha_publicacion": null,
+  "numero": "T-617/16",
+  "tipo_cc": "T",
+  "prov_id": "9614",
+  "tema_relatoria": "PENSION DE INVALIDEZ. RECONOCIMIENTO POR CUANTO EMPLEADORES PAGARON COTIZACONES EN MORA QUE DEBIAN AL SISTEMA GENERAL DE PENSIONES.",
+  "resumen": "La entidad accionada le negó al actor el reconocimiento y pago de la pensión de invalidez que solicitó, argumentando el incumplimiento de los requisitos previstos en el artículo 39 de la Ley 100 de 1993, modificado por el artículo 1º de la Ley 860 de 2003, esto es, no contar con 50 semanas de cotización dentro de los últimos 3 años anteriores a la fecha de estructuración de su invalidez, pese a que con posterioridad a dicho momento los empleadores pagaron las cotizaciones en mora que debían al Sistema General de Pensiones, con ocasión del tiempo laborado por el peticionario. Luego de abordar temática relacionada con las implicaciones de la mora en el pago de las cotizaciones al Sistema, la Sala decide CONCEDER el amparo de los derechos fundamentales invocados y, en consecuencia, ordenar a la entidad reconocer, liquidar y pagar la prestación a la que tiene derecho el demandante, en los términos de la Ley 100 de 1993.",
+  "titulaciones": [
+    {
+      "tema": "ACCION DE TUTELA PARA RECONOCIMIENTO DE PENSION DE INVALIDEZ",
+      "subtema": "Orden a Fondo de Pensiones reconocer, liquidar y pagar la pensión de invalidez"
+    },
+    {
+      "tema": "DERECHO A LA SEGURIDAD SOCIAL Y AL MINIMO VITAL",
+      "subtema": "Vulneración por Fondo de Pensiones al no computar los aportes que se pagaron y que recibieron de forma extemporánea para efectos de contabilizar las semanas cotizadas durante los tres años anteriores a la fe"
+    },
+    {
+      "tema": "ACCION DE TUTELA PARA RECONOCIMIENTO DE PENSION DE INVALIDEZ",
+      "subtema": "Procedencia excepcional cuando medio judicial no resulte idóneo o para evitar perjuicio irremediable"
+    },
+    {
+      "tema": "MORA EN EL PAGO DE APORTES Y COTIZACIONES PENSIONALES",
+      "subtema": "No es admisible que la entidad administradora de pensiones alegue a su favor su propia negligencia en la implementación de las acciones de cobro"
+    }
+  ]
+}

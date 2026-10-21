@@ -1,0 +1,62 @@
+{
+  "radicado": "T-716-16",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2016,
+  "fecha_creacion": "2016-12-15",
+  "magistrado_ponente": "Jorge Iván Palacio Palacio",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "ACCION DE TUTELA PARA RECONOCIMIENTO DE PENSION DE INVALIDEZ",
+  "subtema": "Procedencia excepcional por afectación al mínimo vital y vida digna de sujetos de especial protección",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 100 de 1993",
+    "Decreto 758 de 1990",
+    "Ley 860 de 2003",
+    "Decreto 1507 de 2014",
+    "Decreto 917 de 1999",
+    "Decreto 3041 de 1966",
+    "Ley 962 de 2005",
+    "Decreto 692 de 1995",
+    "Decreto 232 de 1984"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2016/T-716-16.htm",
+  "fecha_descarga": "2026-10-21T12:06:11.750843+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2016-12-15",
+  "fecha_publicacion": null,
+  "numero": "T-716/16",
+  "tipo_cc": "T",
+  "prov_id": "9775",
+  "tema_relatoria": "PENSION DE INVALIDEZ. EVOLUCION LEGISLATIVA.",
+  "resumen": "En dos acciones de tutela presentadas de manera independiente alegan los actores que Colpensiones vulneró sus derechos fundamentales, al negarles el reconocimiento y pago de su pensión de invalidez argumentando que no figuran en la entidad semanas cotizadas con anterioridad a la fecha de estructuración de la invalidez, pese a que con posterioridad a ella laboraron y efectuaron aportes al sistema general de pensiones. Se analizan los siguientes ejes temáticos: 1º. Procedencia excepcional de la acción de tutela para solicitar el reconocimiento y pago de la pensión de invalidez. 2º. Evolución legislativa y apartes jurisprudenciales sobre pensión de invalidez y, 3º. Casos en los que la fecha de estructuración de la invalidez debe corresponder a aquella en la cual se presenta una pérdida permanente y definitiva de la capacidad. laboral. Se AMPARAN los derechos invocados y se ordena a Colpensiones reconocer y pagar las prestaciones reclamadas por los accionantes.",
+  "titulaciones": [
+    {
+      "tema": "ACCION DE TUTELA PARA RECONOCIMIENTO DE PENSION DE INVALIDEZ",
+      "subtema": "Procedencia excepcional por afectación al mínimo vital y vida digna de sujetos de especial protección"
+    },
+    {
+      "tema": "DERECHO A LA SEGURIDAD SOCIAL, A LA IGUALDAD Y AL MINIMO VITAL",
+      "subtema": "Vulneración por Colpensiones al negarles el reconocimiento y pago de la pensión de invalidez a los actores bajo el argumento de no contar con anterioridad a la fecha de estructuración con sema"
+    },
+    {
+      "tema": "PENSIÓN DE INVALIDEZ",
+      "subtema": "Evolución legislativa y régimen aplicable"
+    },
+    {
+      "tema": "PENSION DE INVALIDEZ DE PERSONA CON ENFERMEDAD CRONICA, DEGENERATIVA O CONGENITA",
+      "subtema": "Fecha de estructuración de la invalidez desde el momento de la pérdida permanente y definitiva de la capacidad laboral"
+    },
+    {
+      "tema": "PENSION DE INVALIDEZ DE PERSONA CON ENFERMEDAD CRONICA, DEGENERATIVA O CONGENITA",
+      "subtema": "Orden a Colpensiones reconocer y pagar pensión de invalidez"
+    },
+    {
+      "tema": "PENSIÓN DE INVALIDEZ",
+      "subtema": "Finalidad"
+    }
+  ]
+}
