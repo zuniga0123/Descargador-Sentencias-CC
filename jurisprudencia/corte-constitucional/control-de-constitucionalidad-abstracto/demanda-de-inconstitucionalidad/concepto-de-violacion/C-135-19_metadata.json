@@ -1,0 +1,65 @@
+{
+  "radicado": "C-135-19",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2019,
+  "fecha_creacion": "2019-03-27",
+  "magistrado_ponente": "Alejandro Linares Cantillo",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "DEMANDA DE INCONSTITUCIONALIDAD",
+  "subtema": "Concepto de violación",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto Ley 2067 de 1991",
+    "Ley 25 de 1992",
+    "Decreto 2067 de 1991",
+    "Ley 1 de 1976",
+    "Ley 294 de 1996"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2019/C-135-19.htm",
+  "fecha_descarga": "2026-10-21T10:03:30.351732+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2019-03-27",
+  "fecha_publicacion": "2019-04-12",
+  "numero": "C-135/19",
+  "tipo_cc": "C",
+  "prov_id": "33723",
+  "tema_relatoria": "DIVORCIO. FACULTAD PARA SOLICITAR EL DIVORCIO ES DEL CÓNYUGE QUE NO HAYA DADO LUGAR A LOS HECHOS QUE LO MOTIVAN.",
+  "resumen": "Demanda de Inconstitucionalidad contra los artículos 154 y 156 del Código Civil, modificados por la Ley 1ª de 1976 y los arts. 6 y 10 de la Ley 25 de 1992. El demandante considera que las normas acusadas vulneran los artículos 13, 15, 16 y 42 de la Constitución Política porque si bien es cierto el contrato de matrimonio se constituye y perfecciona por el libre y mutuo consentimiento, también lo es, que dicha condición no puede desconocer la primacía de los derechos inalienables de la persona. La corte decide estarse a lo resuelto en sentencia C-394/17, en la cual se declararon EXEQUIBLES las expresiones “solo” y “por el cónyuge que no haya dado lugar a los hechos que lo motivan”, contenidas en el artículo 156 del Código Civil; y DECLARARSE INHIBIDA para pronunciarse sobre la constitucionalidad de los artículo 154 y 156 del Código Civil, por ineptitud sustancial de la demanda.",
+  "titulaciones": [
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "Concepto de violación"
+    },
+    {
+      "tema": "COSA JUZGADA",
+      "subtema": "Efectos"
+    },
+    {
+      "tema": "CONCEPTO DE VIOLACION EN DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "Razones claras, ciertas, específicas, pertinentes y suficientes"
+    },
+    {
+      "tema": "COSA JUZGADA CONSTITUCIONAL",
+      "subtema": "Tipos"
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "Aplicación del principio pro actione"
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "Se configuró el fenómeno de la cosa juzgada constitucional"
+    },
+    {
+      "tema": "INHIBICION DE LA CORTE CONSTITUCIONAL POR INEPTITUD SUSTANTIVA DE LA DEMANDA",
+      "subtema": "Incumplimiento de requisitos de especificidad, pertinencia y suficiencia en los cargos"
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD CONTRA CAUSALES DE DIVORCIO EN CODIGO CIVIL",
+      "subtema": "Estarse a lo resuelto en sentencia C-394 de 2017"
+    }
+  ]
+}

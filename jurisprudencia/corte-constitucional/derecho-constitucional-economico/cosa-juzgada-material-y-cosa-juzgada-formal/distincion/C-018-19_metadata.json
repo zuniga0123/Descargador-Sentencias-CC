@@ -1,0 +1,60 @@
+{
+  "radicado": "C-018-19",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2019,
+  "fecha_creacion": "2019-01-23",
+  "magistrado_ponente": "Luis Guillermo Guerrero Pérez",
+  "area": "Derecho Constitucional Económico",
+  "tema": "COSA JUZGADA MATERIAL Y COSA JUZGADA FORMAL",
+  "subtema": "Distinción",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 1819 de 2016",
+    "Decreto 2067 de 1991",
+    "Decreto 889 de 2017",
+    "Ley 142 de 1994",
+    "Ley 1150 de 2007",
+    "Ley 143 de 1994",
+    "Ley 270 de 1996",
+    "Ley 97 de 1913"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2019/C-018-19.htm",
+  "fecha_descarga": "2026-10-21T10:04:49.685509+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2019-01-23",
+  "fecha_publicacion": "2019-02-22",
+  "numero": "C-018/19",
+  "tipo_cc": "C",
+  "prov_id": "33553",
+  "tema_relatoria": "IMPUESTO ALUMBRADO PÚBLICO. FACTURACIÓN O RECAUDO POR EL COMERCIALIZADOR DE ENERGÍA.",
+  "resumen": "Demanda de inconstitucionalidad contra el artículo 352 (parcial) de la Ley 1819 de 2016, por medio de la cual se adopta una reforma tributaria estructural, se fortalecen los mecanismos para la lucha contra la evasión y la elusión fiscal y se dictan otras disposiciones. Según los demandantes, los apartes normativos acusados son contrarios al preámbulo y a los artículos 333, 365 y 367 de la Constitución, al establecer que el servicio de facturación y recaudo del impuesto de alumbrado público, el cual puede ser prestado por las empresas comercializadoras de energía, no tiene ninguna contraprestación. Lo anterior, porque con ello se vulnera la libertad económica y la libre competencia; la sostenibilidad de las empresas que deben incurrir en costos de facturación y recaudo para dicho fin, y, el régimen jurídico especial al cual están sometidos los servicios públicos domiciliarios. La Corte se declaró INHIBIDA para emitir pronunciamiento de fondo respecto de los cargos relacionados con la vulneración del preámbulo y de los artículos 333 (en lo relativo a la libre competencia económica), 365 y 367 de la Constitución. Así mismo, decidió ESTARSE A LO RESUELTO en la Sentencia C-088/18 en lo que respecta al cargo relacionado con la violación del artículo 333 de la Carta, en lo referente al supuesto desconocimiento de la libertad económica.",
+  "titulaciones": [
+    {
+      "tema": "COSA JUZGADA MATERIAL Y COSA JUZGADA FORMAL",
+      "subtema": "Distinción"
+    },
+    {
+      "tema": "COSA JUZGADA CONSTITUCIONAL",
+      "subtema": "Tipos"
+    },
+    {
+      "tema": "COSA JUZGADA ABSOLUTA Y COSA JUZGADA RELATIVA",
+      "subtema": "Distinción"
+    },
+    {
+      "tema": "INHIBICION DE LA CORTE CONSTITUCIONAL POR INEPTITUD SUSTANTIVA DE LA DEMANDA",
+      "subtema": "Procedencia"
+    },
+    {
+      "tema": "LEY QUE ADOPTA REFORMA TRIBUTARIA ESTRUCTURAL Y SE FORTALECEN MECANISMOS PARA LA LUCHA CONTRA LA EVASION Y LA ELUSION FISCAL",
+      "subtema": "Estarse a lo resuelto en sentencia C-088 de 2018"
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "Razones claras, ciertas, específicas, pertinentes y suficientes"
+    }
+  ]
+}

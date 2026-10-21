@@ -1,0 +1,52 @@
+{
+  "radicado": "C-201-19",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2019,
+  "fecha_creacion": "2019-05-15",
+  "magistrado_ponente": "Luis Guillermo Guerrero Pérez",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "DEMANDA DE INCONSTITUCIONALIDAD",
+  "subtema": "Inhibición en relación con el cargo por vulneración del derecho a la igualdad",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 1905 de 2018",
+    "Decreto 2067 de 1991",
+    "Decreto 1365 de 2013",
+    "Ley 1905 de 2019"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2019/C-201-19.htm",
+  "fecha_descarga": "2026-10-21T09:58:28.600405+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2019-05-15",
+  "fecha_publicacion": "2019-08-30",
+  "numero": "C-201/19",
+  "tipo_cc": "C",
+  "prov_id": "34262",
+  "tema_relatoria": "EXAMEN DE ESTADO PARA ABOGADOS REALIZADO POR EL CONSEJO SUPERIOR DE LA JUDICATURA O A TRAVÉS DE UNA INSTITUCIÓN. REQUISITO PARA EJERCER LA PROFESIÓN.",
+  "resumen": "Demanda de inconstitucionalidad contra la Ley 1905 de 2018, por la cual se dictan disposiciones relacionadas con el ejercicio de la profesión de abogado. La demandante considera que la ley cuestionada es incompatible con los artículos 13, 67 y 69 de la Constitución Política. Teniendo en cuenta que la Corte constató la configuración de la cosa juzgada constitucional, por cuanto previamente se pronunció respecto a constitucionalidad del artículo 2º de la Ley 1905 de 2018, por el cargo relativo a la diferencia de trato dada a sus destinatarios a partir del momento en el cual inician sus estudios de derecho, la Sala decidió ESTARSE A LO RESUELTO en la Sentencia C-138/19, mediante la cual declaró su exequibilidad. Respecto a los cuestionamientos hechos al resto de la ley, la Corporación se INHIBIÓ de emitir pronunciamiento de fondo, por la ineptitud sustantiva de la demanda.",
+  "titulaciones": [
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "Inhibición en relación con el cargo por vulneración del derecho a la igualdad"
+    },
+    {
+      "tema": "INHIBICION DE LA CORTE CONSTITUCIONAL POR INEPTITUD SUSTANTIVA DE LA DEMANDA",
+      "subtema": "Incumplimiento de requisitos de certeza, especificidad y suficiencia en los cargos"
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "Se configuró el fenómeno de la cosa juzgada constitucional"
+    },
+    {
+      "tema": "PRINCIPIO PRO ACTIONE EN DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "Existencia de cargo"
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD CONTRA NORMA QUE REGULA EL EJERCICIO DE LA PROFESION DE ABOGADO",
+      "subtema": "Estarse a lo resuelto en Sentencia C-138 de 2019"
+    }
+  ]
+}

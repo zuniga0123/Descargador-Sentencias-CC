@@ -1,0 +1,45 @@
+{
+  "radicado": "T-445-18",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2018,
+  "fecha_creacion": "2018-11-13",
+  "magistrado_ponente": "Luis Guillermo Guerrero Pérez",
+  "area": "Derecho a la Salud",
+  "tema": "ACCION DE TUTELA CONTRA EPS",
+  "subtema": "Caso en que se negó suministro de medicamento prescrito que no se encuentra cubierto por el Plan de Beneficios en Salud para tratar a menor de edad diagnosticado con acné severo",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 1751 de 2015",
+    "Ley 1122 de 2007",
+    "Ley 1438 de 2011",
+    "Ley 100 de 1993"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2018/T-445-18.htm",
+  "fecha_descarga": "2026-10-21T10:11:32.636865+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2018-11-13",
+  "fecha_publicacion": "2018-11-21",
+  "numero": "T-445/18",
+  "tipo_cc": "T",
+  "prov_id": "33218",
+  "tema_relatoria": "ACCION DE TUTELA CONTRA E.P.S.S. IMPROCEDENCIA PARA ORDENAR MEDICAMENTOS PRESCRITO QUE SE ENCUENTRA FUERA DEL PBS.",
+  "resumen": "La accionante, actuando en representación de un hijo adolescente, aduce que la E.P.S. accionada vulneró derechos fundamentales al negar el suministro de un medicamento prescrito por el dermatólogo adscrito a la entidad para tratar el problema de acné severo que padece el joven. El Comité Técnico Científico no accedió a lo solicitado, discutiendo que si bien la historia clínica del paciente indicaba que la patología requería manejo farmacológico, la medicina ordenada por el galeno era considerada un tratamiento de tipo estético excluido de la cobertura del Plan Obligatorio de Salud. En sede de revisión la Sala conoció que el propio especialista de la salud que inicialmente atendió al menor le formuló otro medicamento para tratar su patología, el cual sí está cubierto por PBS y cuya autorización fue expedida por la accionada. La Corte concluye que no es procedente el reconocimiento de las cápsulas requeridas en sede de tutela, pues independientemente de que su suministro tenga implicaciones de tipo estético o, por el contrario, un propósito clínico relacionado con la recuperación de la capacidad funcional de las glándulas cebáceas del paciente, se trata de un fármaco que, por no estar cubierto por el PBS con cargo a la UPC, tuvo que haber sido prescrito luego de que el galeno tratante hubiese agotado o descartado las posibilidades técnicas y científicas de las tecnologías en salud que si están contenidas en dicho Plan, situación que no ocurrió en el presente caso. Se confirma la decisión de instancia que NEGÓ el amparo invocado.",
+  "titulaciones": [
+    {
+      "tema": "ACCION DE TUTELA CONTRA EPS",
+      "subtema": "Caso en que se negó suministro de medicamento prescrito que no se encuentra cubierto por el Plan de Beneficios en Salud para tratar a menor de edad diagnosticado con acné severo"
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA EPS",
+      "subtema": "Improcedencia para ordenar medicamento prescrito que no se encuentra en el Plan de Beneficios en Salud"
+    },
+    {
+      "tema": "TECNOLOGIAS EN SALUD NO CUBIERTAS POR EL PLAN DE BENEFICIOS EN SALUD CON IMPLICACIONES COSMETICAS",
+      "subtema": "Deben ser prescritas luego de haber agotado o descartado las posibilidades técnicas y científicas de las tecnologías en salud que sí están contenidas en el P"
+    }
+  ]
+}

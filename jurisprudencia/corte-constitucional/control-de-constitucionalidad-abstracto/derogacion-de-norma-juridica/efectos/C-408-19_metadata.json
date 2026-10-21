@@ -1,0 +1,60 @@
+{
+  "radicado": "C-408-19",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2019,
+  "fecha_creacion": "2019-09-03",
+  "magistrado_ponente": "Carlos Bernal Pulido",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "DEROGACION DE NORMA JURIDICA",
+  "subtema": "Efectos",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 62 de 1937",
+    "Decreto 2811 de 1974",
+    "Decreto Ley 2811 de 1974",
+    "Ley 48 de 1993",
+    "Decreto 2067 de 1991",
+    "Decreto 7 de 1984",
+    "Ley 734 de 2002",
+    "Ley 600 de 2000",
+    "Decreto 2666 de 1953",
+    "Ley 58 de 1931",
+    "Decreto Ley 1591 de 1989",
+    "Decreto Ley 2078 de 1940"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2019/C-408-19.htm",
+  "fecha_descarga": "2026-10-21T09:57:58.540915+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2019-09-03",
+  "fecha_publicacion": "2019-09-09",
+  "numero": "C-408/19",
+  "tipo_cc": "C",
+  "prov_id": "34291",
+  "tema_relatoria": "OBRAS DE UTILIDAD PUBLICA EN LA CIUDAD DE CARTAGENA.",
+  "resumen": "Demanda de inconstitucionalidad en contra de los artículos 1, 7, 8 y 9 de la ley 62 de 1937, por la cual se decretar la construcción de varias obras de utilidad pública en la ciudad de Cartagena y se dictan otras disposiciones. El actor indicó que la disposición cuestionada vulnera el artículo 1º de la Constitución, pues un Estado Social de Derecho supone la prevalencia del interés general. La Corte consideró que al tratarse de una norma preconstitucional expedida hace 82 años para construcción específica de unas obras de utilidad pública, en unas áreas determinadas y con una fuente precisa de financiación, la misma no se encuentra produciendo efectos al operar el fenómeno de agotamiento de su objeto. Para la Sala resultó evidente que la ley acusada no cuenta materialmente con la capacidad de seguir proyectando sus efectos jurídicos con posterioridad al mencionado agotamiento de su objeto. Con base en lo anterior se declaró INHIBIDA para emitir pronunciamiento de fondo, por haberse configurado la carencia actual de objeto.",
+  "titulaciones": [
+    {
+      "tema": "DEROGACION DE NORMA JURIDICA",
+      "subtema": "Efectos"
+    },
+    {
+      "tema": "DEROGACION",
+      "subtema": "Clases"
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD CONTRA NORMA QUE DECRETA LA CONSTRUCCION DE OBRAS DE UTILIDAD PUBLICA EN CARTAGENA",
+      "subtema": "Inhibición por carencia actual de objeto"
+    },
+    {
+      "tema": "INHIBICION DE LA CORTE CONSTITUCIONAL",
+      "subtema": "Carencia actual de objeto"
+    },
+    {
+      "tema": "INHIBICION DE LA CORTE CONSTITUCIONAL",
+      "subtema": "Procedencia frente a norma que no se encuentra vigente ni está produciendo efectos jurídicos"
+    }
+  ]
+}

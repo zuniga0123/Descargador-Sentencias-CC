@@ -1,0 +1,50 @@
+{
+  "radicado": "C-085-19",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2019,
+  "fecha_creacion": "2019-02-27",
+  "magistrado_ponente": "Cristina Pardo Schlesinger",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "OMISION LEGISLATIVA ABSOLUTA",
+  "subtema": "Configuración",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2067 de 1991",
+    "Decreto 1260 de 1970",
+    "Ley 1934 de 2018",
+    "Ley 153 de 1887",
+    "Ley 797 de 2003",
+    "Ley 1098 de 2006"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2019/C-085-19.htm",
+  "fecha_descarga": "2026-10-21T10:03:22.757435+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2019-02-27",
+  "fecha_publicacion": "2019-04-12",
+  "numero": "C-085/19",
+  "tipo_cc": "C",
+  "prov_id": "33724",
+  "tema_relatoria": "ORDEN HEREDITARIO. PRIMER ORDEN: HIJOS LEGÍTIMOS, ADOPTIVOS Y EXTRAMATRIMONIALES.",
+  "resumen": "Demanda de inconstitucionalidad contra el artículo 1045 (parcial) del Código Civil. El demandante considera que la expresión “hijos” contenida en la norma acusada es inconstitucional porque excluye a los hijos de crianza del primer orden sucesoral, violando así los artículos 1, 13, 42 y 95 de la Constitución Política y generando un trato abiertamente discriminatorio sobre los hijos de crianza, frente a los hijos biológicos o adoptivos. Para la Sala Plena, en la legislación no existe la familia de crianza de la cual se derivaría una relación de filiación, por tanto, no se trata de una omisión legislativa relativa sino de omisión legislativa absoluta ante la cual, esta Corte carece de competencia y se declara INHIBIDA para emitir pronunciamiento en relación con el cargo formulado.",
+  "titulaciones": [
+    {
+      "tema": "OMISION LEGISLATIVA ABSOLUTA",
+      "subtema": "Configuración"
+    },
+    {
+      "tema": "OMISION LEGISLATIVA",
+      "subtema": "Clases"
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "Inhibición para emitir un pronunciamiento de fondo por falta de competencia"
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD POR OMISION LEGISLATIVA ABSOLUTA",
+      "subtema": "Incompetencia de la Corte Constitucional"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "radicado": "T-076-19",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2019,
+  "fecha_creacion": "2019-02-26",
+  "magistrado_ponente": "Carlos Bernal Pulido",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "DERECHO A LA CALIFICACION DE LA PERDIDA DE LA CAPACIDAD LABORAL DE MENOR, QUIEN SUFRIO ACCIDENTE DE TRANSITO",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2463 de 2001",
+    "Decreto 19 de 2012",
+    "Decreto 132 de 2017",
+    "Ley 2591 de 1991",
+    "Decreto 56 de 2015",
+    "Decreto 1352 de 2013",
+    "Decreto Ley 19 de 2012",
+    "Ley 100 de 1993",
+    "Decreto 2591 de 1991",
+    "Ley 962 de 2005"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2019/T-076-19.htm",
+  "fecha_descarga": "2026-10-21T09:47:42.451430+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2019-02-26",
+  "fecha_publicacion": "2019-03-05",
+  "numero": "T-076/19",
+  "tipo_cc": "T",
+  "prov_id": "33591",
+  "tema_relatoria": "DERECHO A LA CALIFICACION DE PERDIDA DE CAPACIDAD LABORAL DE MENOR, QUIEN SUFRIO ACCIDENTE DE TRANSITO.",
+  "resumen": "La accionante aduce que Seguros del Estado S.A. vulneró derechos fundamentales, al negarse a realizar el dictamen de pérdida de capacidad laboral de su menor hijo, quien en un accidente de tránsito sufrió fractura de clavícula y traumatismos en diferentes partes del cuerpo. Así mismo, por no haber accedido a la solicitud de pago de honorarios a favor de la Junta Regional de Calificación de Invalidez, para que efectuara la precitada valoración. En sede de revisión la Sala encontró acreditada la configuración de una carencia actual de objeto por HECHO SUPERADO, por cuanto la accionada sufragó el valor de los honorarios de la Junta Regional de Invalidez de Bolívar y, en consecuencia, ésta llevó a cabo la valoración de pérdida de capacidad laboral pretendida.",
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA CALIFICACION DE LA PERDIDA DE LA CAPACIDAD LABORAL DE MENOR, QUIEN SUFRIO ACCIDENTE DE TRANSITO",
+      "subtema": null
+    },
+    {
+      "tema": "CARENCIA ACTUAL DE OBJETO POR HECHO SUPERADO",
+      "subtema": "Aseguradora sufragó los honorarios de la Junta Regional de Calificación de Invalidez"
+    },
+    {
+      "tema": "CALIFICACION DE LA PERDIDA DE LA CAPACIDAD LABORAL",
+      "subtema": "Determinación de la competencia en los eventos de accidentes de tránsito y eventos catastróficos"
+    }
+  ]
+}

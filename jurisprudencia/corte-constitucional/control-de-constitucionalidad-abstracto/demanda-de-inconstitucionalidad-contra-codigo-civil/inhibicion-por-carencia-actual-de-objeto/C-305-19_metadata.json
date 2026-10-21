@@ -1,0 +1,81 @@
+{
+  "radicado": "C-305-19",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2019,
+  "fecha_creacion": "2019-07-10",
+  "magistrado_ponente": "Cristina Pardo Schlesinger",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "DEMANDA DE INCONSTITUCIONALIDAD CONTRA CODIGO CIVIL",
+  "subtema": "Inhibición por carencia actual de objeto",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 153 de 1887",
+    "Decreto 2067 de 1991",
+    "Decreto 2820 de 1974",
+    "Decreto Ley 2028 de 1974",
+    "Ley 57 de 1887",
+    "Ley 28 de 1932",
+    "Decreto Ley 2820 de 1974",
+    "Decreto 2737 de 1989",
+    "Ley 1098 de 2006",
+    "Ley 222 de 1995",
+    "Ley 79 de 1988",
+    "Decreto Ley 1480 de 1989",
+    "Ley 27 de 1977",
+    "Ley 1306 de 2009",
+    "Acto Legislativo 1 de 1936",
+    "Ley 200 de 1936",
+    "Decreto 2028 de 1974",
+    "Ley 84 de 1873",
+    "Ley 863 de 2003",
+    "Ley 1111 de 2006",
+    "Ley 22 de 1987"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2019/C-305-19.htm",
+  "fecha_descarga": "2026-10-21T09:59:33.427563+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2019-07-10",
+  "fecha_publicacion": "2019-07-23",
+  "numero": "C-305/19",
+  "tipo_cc": "C",
+  "prov_id": "34100",
+  "tema_relatoria": "ACCIÓN DE RESCISIÓN. PLAZOS PARA INTERPONERLA POR PARTE DE PERSONAS JURÍDICAS.",
+  "resumen": "Demanda de inconstitucionalidad contra el inciso 4º del artículo 1750 del Código Civil. Los demandantes argumentaron que pese a que el artículo mencionado preceptúa, de forma general, que el término para interponer la acción de rescisión es de cuatro años, el inciso cuestionado distingue entre personas naturales y jurídicas y establece que en el caso de las últimas, por asimilación a los menores adultos, el término para pedir la declaración de nulidad es de ocho años, lo cual constituye un trato discriminatorio injustificado a favor de las personas jurídicas que vulnera el artículo 13 de la Constitución, al otorgar un trato desigual entre iguales. La Corte constató que en el presente caso se configuró el fenómeno de la carencia actual de objeto por dirigirse la demanda en contra de una norma que fue tácitamente derogada por el artículo 60 del Decreto 2028 de 1974 y en la actualidad no produce efectos jurídicos comprobados. Con base en lo anterior la Sala Plena se declaró INHIBIDA para emitir pronunciamiento de fondo.",
+  "titulaciones": [
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD CONTRA CODIGO CIVIL",
+      "subtema": "Inhibición por carencia actual de objeto"
+    },
+    {
+      "tema": "DEROGATORIA EXPRESA Y DEROGATORIA TACITA",
+      "subtema": "Distinción"
+    },
+    {
+      "tema": "DEROGATORIA",
+      "subtema": "Clasificación"
+    },
+    {
+      "tema": "DEROGATORIA ORGANICA",
+      "subtema": "Definición"
+    },
+    {
+      "tema": "CONTROL DE CONSTITUCIONALIDAD DE NORMA DEROGADA",
+      "subtema": "Competencia de la Corte Constitucional"
+    },
+    {
+      "tema": "DEROGATORIA DE LEY",
+      "subtema": "Concepto"
+    },
+    {
+      "tema": "NULIDAD ABSOLUTA Y RELATIVA",
+      "subtema": "Eventos que dan lugar a su declaratoria"
+    },
+    {
+      "tema": "SUBROGACION",
+      "subtema": "Concepto"
+    }
+  ]
+}

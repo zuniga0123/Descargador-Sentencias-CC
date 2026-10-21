@@ -1,0 +1,56 @@
+{
+  "radicado": "SU349-19",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2019,
+  "fecha_creacion": "2019-07-31",
+  "magistrado_ponente": "Diana Fajardo Rivera",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCION DE TUTELA CONTRA SENTENCIA DE TUTELA",
+  "subtema": "Improcedencia por cuanto se pretende reabrir debate probatorio o sustantivo concluido por jueces constitucionales en un trámite de amparo anterior",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 270 de 1996",
+    "Decreto 1382 de 2000",
+    "Decreto Ley 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2019/SU349-19.htm",
+  "fecha_descarga": "2026-10-21T10:07:00.707549+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2019-07-31",
+  "fecha_publicacion": "2019-08-14",
+  "numero": "SU.349/19",
+  "tipo_cc": "SU",
+  "prov_id": "34187",
+  "tema_relatoria": "ACCION DE TUTELA CONTRA SENTENCIA DE TUTELA. IMPROCEDENCIA",
+  "resumen": "En este caso se analizó la procedencia de la acción de tutela formulada por un grupo de 18 ciudadanos que pretendían que se protegiera su derecho a la igualdad, presuntamente vulnerado por una empresa privada a quien le solicitaron la extensión de los efectos de dos sentencias de la Corte Constitucional (T-936/13 y T-658/14), pese a que ya habían instaurado acciones constitucionales previas cuyos expedientes no fueron seleccionados para la revisión por parte de la Corporación. La Sala Plena advirtió de entrada que la solicitud de amparo es improcedente por varias razones: i) pretende hacer exigible a la demandada una actuación respecto de la cual carece de competencia; (ii) el objeto de la tutela, en el fondo, corresponde a un asunto que ya ha hecho tránsito a cosa juzgada constitucional; (iii) a través del recurso de amparo se busca, en realidad, controvertir decisiones de tutela, pese a que ello es improcedente; (iv) Existe una clara ausencia de inmediatez en el ejercicio de la tutela; y, (v) no se evidencia una trasgresión palmaria de derechos fundamentales, si se tiene en cuenta que, por un lado, las sentencias mencionadas tienen estrictos efectos inter partes, y por otro, no se demuestra cómo la situación de los actores es necesariamente comparable con los asuntos allí decididos. Se confirman las decisiones de instancia que declararon IMPROCEDENTE la acción de tutela promovida.",
+  "titulaciones": [
+    {
+      "tema": "ACCION DE TUTELA CONTRA SENTENCIA DE TUTELA",
+      "subtema": "Improcedencia por cuanto se pretende reabrir debate probatorio o sustantivo concluido por jueces constitucionales en un trámite de amparo anterior"
+    },
+    {
+      "tema": "COSA JUZGADA CONSTITUCIONAL EN TUTELA",
+      "subtema": "A pesar de existir unas reglas especiales, era viable aplicar una excepción que permitiera detener una evidente y palmaria desigualdad presentada entre los casos que no fueron seleccionados por la Corte y los que sí q"
+    },
+    {
+      "tema": "LEGITIMACION EN LA CAUSA POR PASIVA EN TUTELA",
+      "subtema": "Compañía accionada no le es posible extender efectos “inter comunis” a las sentencias T-936 de 2013 y T-658 de 2014"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Improcedencia por incumplir requisito de inmediatez"
+    },
+    {
+      "tema": "CORTE CONSTITUCIONAL",
+      "subtema": "Competencia para darle efectos “Inter Pares” e “inter comunis” a sus providencias"
+    },
+    {
+      "tema": "EFECTOS DE SENTENCIAS DE LA CORTE CONSTITUCIONAL EN SEDE DE REVISION",
+      "subtema": "Efectos inter partes y efectos inter comunis"
+    }
+  ]
+}

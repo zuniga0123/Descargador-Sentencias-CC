@@ -1,0 +1,46 @@
+{
+  "radicado": "T-048-19",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2019,
+  "fecha_creacion": "2019-02-08",
+  "magistrado_ponente": "Alberto Rojas Ríos",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "CUMPLIMIENTO DE FALLOS JUDICIALES",
+  "subtema": "Imperativo del Estado Social de Derecho",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Decreto 4121 de 2011"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2019/T-048-19.htm",
+  "fecha_descarga": "2026-10-21T09:49:20.598072+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2019-02-08",
+  "fecha_publicacion": "2019-02-13",
+  "numero": "T-048/19",
+  "tipo_cc": "T",
+  "prov_id": "33496",
+  "tema_relatoria": "DERECHO DE ACCESO A LA ADMINISTRACION DE JUSTICIA Y AL CUMPLIMIENTO DE FALLOS JUDICIALES.",
+  "resumen": "Se aduce que Colpensiones vulneró derechos fundamentales al omitir el oportuno cumplimiento de las órdenes de reconocimiento y pago de la pensión de vejez del actor, proferidas mediante sentencia judicial en un proceso ordinario laboral. La entidad pidió que se negara la solicitud de amparo y señaló que el término establecido para acatar las decisiones judiciales era de 10 meses, según lo dispuesto en el artículo 307 del Código General del Proceso. Lo anterior, debido a que se deben adelantar las gestiones preparatorias y de ejecución para garantizar el cumplimiento de los fallos. Se reitera jurisprudencia relacionada con el deber y obligación de las autoridades públicas de cumplir oportunamente los fallos judiciales ejecutoriados como garantía de los derechos fundamentales al debido proceso y al acceso a la administración de justicia. En sede de revisión se le informó a la Sala que la entidad dio cumplimiento a la providencia del proceso ordinario laboral, reconociendo y pagando la prestación reclamada por el actor. Se declara la carencia actual de objeto por HECHO SUPERADO pero se advierte a Colpensiones que se abstenga de dilatar el reconocimiento de prestaciones pensionales reconocidas judicialmente, con base en el término dispuesto en el artículo 37 del Código General del Proceso",
+  "titulaciones": [
+    {
+      "tema": "CUMPLIMIENTO DE FALLOS JUDICIALES",
+      "subtema": "Imperativo del Estado Social de Derecho"
+    },
+    {
+      "tema": "DERECHO DE ACCESO A LA ADMINISTRACION DE JUSTICIA Y AL CUMPLIMIENTO DE FALLOS JUDICIALES",
+      "subtema": "Plazo razonable para el cumplimiento de decisiones judiciales"
+    },
+    {
+      "tema": "DERECHO DE ACCESO A LA ADMINISTRACION DE JUSTICIA Y AL CUMPLIMIENTO DE FALLOS JUDICIALES",
+      "subtema": "Vulneración por Colpensiones al omitir cumplimiento de sentencia judicial que ordenó reconocimiento y pago de la pensión de vejez"
+    },
+    {
+      "tema": "CARENCIA ACTUAL DE OBJETO POR HECHO SUPERADO",
+      "subtema": "Colpensiones dio cumplimiento al fallo que ordenó reconocimiento y pago de la pensión de vejez"
+    }
+  ]
+}

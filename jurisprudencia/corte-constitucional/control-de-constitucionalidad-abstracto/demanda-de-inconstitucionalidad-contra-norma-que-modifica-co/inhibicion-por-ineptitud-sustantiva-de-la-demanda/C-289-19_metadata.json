@@ -1,0 +1,52 @@
+{
+  "radicado": "C-289-19",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2019,
+  "fecha_creacion": "2019-06-26",
+  "magistrado_ponente": "Carlos Bernal Pulido",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "DEMANDA DE INCONSTITUCIONALIDAD CONTRA NORMA QUE MODIFICA CODIGO SUSTANTIVO DEL TRABAJO",
+  "subtema": "Inhibición por ineptitud sustantiva de la demanda",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 789 de 2002",
+    "Ley 797 de 2003",
+    "Ley 1753 de 2015",
+    "Ley 21 de 1982",
+    "Ley 1221 de 2008",
+    "Ley 70 de 1931",
+    "Ley 65 de 1993",
+    "Ley 100 de 1993"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2019/C-289-19.htm",
+  "fecha_descarga": "2026-10-21T10:00:05.383670+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2019-06-26",
+  "fecha_publicacion": "2019-07-19",
+  "numero": "C-289/19",
+  "tipo_cc": "C",
+  "prov_id": "34091",
+  "tema_relatoria": "SUBSIDIO FAMILIAR EN DINERO A FAVOR DE LOS HIJOS MENORES DE EDAD DE LOS TRABAJADORES, SIN INCLUIR A LOS HIJOS DE CRIANZA.",
+  "resumen": "Demanda de inconstitucionalidad en contra del numeral 1º del parágrafo 1º del artículo 3 (parcial) de la Ley 789 de 2002, por la cual se dictan normas para apoyar el empleo y ampliar la protección social y se modifican algunos artículos del Código Sustantivo de Trabajo. Los actores consideran que la expresión “los hijos que no sobrepasen la edad de 18 años, legítimos, naturales, adoptivos y los hijastros” desconoce los artículos 13, 42 y 44 de la Constitución. Lo anterior, por no incluir a los hijos de crianza como beneficiarios del subsidio familiar en dinero. La Sala Plena encontró que no era viable adelantar un examen de fondo de la disposición acusada, por cuanto el Legislador no ha regulado la figura de la familia de crianza y los demandantes no solicitaron la subsanación de una omisión legislativa relativa sino la de una omisión legislativa absoluta. Dado que no existe un deber constitucional explícito de que el Legislador otorgue a los hijos de crianza el beneficio del subsidio de salud, la Corte considera que carece de competencia para pronunciarse de fondo y, por ello, se declara INHIBIDA.",
+  "titulaciones": [
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD CONTRA NORMA QUE MODIFICA CODIGO SUSTANTIVO DEL TRABAJO",
+      "subtema": "Inhibición por ineptitud sustantiva de la demanda"
+    },
+    {
+      "tema": "OMISION LEGISLATIVA ABSOLUTA Y RELATIVA",
+      "subtema": "Distinción"
+    },
+    {
+      "tema": "CONTROL DE CONSTITUCIONALIDAD DE OMISION LEGISLATIVA ABSOLUTA",
+      "subtema": "Incompetencia de la Corte Constitucional"
+    },
+    {
+      "tema": "INHIBICION DE LA CORTE CONSTITUCIONAL",
+      "subtema": "Cargo fundado en omisión legislativa absoluta"
+    }
+  ]
+}

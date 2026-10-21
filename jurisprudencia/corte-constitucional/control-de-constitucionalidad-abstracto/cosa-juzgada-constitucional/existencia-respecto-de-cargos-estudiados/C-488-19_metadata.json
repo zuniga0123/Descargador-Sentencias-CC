@@ -1,0 +1,55 @@
+{
+  "radicado": "C-488-19",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2019,
+  "fecha_creacion": "2019-10-22",
+  "magistrado_ponente": "Carlos Bernal Pulido",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "COSA JUZGADA CONSTITUCIONAL",
+  "subtema": "Existencia respecto de cargos estudiados",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 1564 de 2012",
+    "Ley 1564 de 2014",
+    "Decreto 2067 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2019/C-488-19.htm",
+  "fecha_descarga": "2026-10-21T09:56:10.149772+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2019-10-22",
+  "fecha_publicacion": "2019-11-07",
+  "numero": "C-488/19",
+  "tipo_cc": "C",
+  "prov_id": "34487",
+  "tema_relatoria": "DURACIÓN DEL PROCESO. PLAZOS MÁXIMOS PARA RESOLVER EN PRIMERA Y SEGUNDA INSTANCIA",
+  "resumen": "Demanda de inconstitucionalidad en contra del artículo 121 de la Ley 1564 de 2012, por medio de la cual se expide el Código General del Proceso y se dictan otras disposiciones. El actor adujo que la disposición cuestionada vulneraba los artículos 29, 209, 228 y 229 de la Constitución. Lo anterior, por cuanto dilata, de manera innecesaria, la duración del proceso y crea una barrera injustificada para el acceso a la administración de justicia, al prever como consecuencia del incumplimiento del término para proferir el fallo, la pérdida automática de competencia y la nulidad de pleno derecho de las actuaciones judiciales. La Corte encontró la configuración de la cosa juzgada constitucional y la ineptitud sustantiva de la demanda, por lo que resolvió ESTARSE A LO RESUELTO en la sentencia C-443/19 y declararse INHIBIDA para proferir un pronunciamiento de fondo.",
+  "titulaciones": [
+    {
+      "tema": "COSA JUZGADA CONSTITUCIONAL",
+      "subtema": "Existencia respecto de cargos estudiados"
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD CONTRA CODIGO GENERAL DEL PROCESO, ARTICULO 121",
+      "subtema": "Inhibición por ineptitud sustantiva de la demanda"
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "Inhibición por ineptitud sustantiva de la demanda"
+    },
+    {
+      "tema": "COSA JUZGADA CONSTITUCIONAL",
+      "subtema": "Criterios para determinar su existencia"
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD CONTRA CODIGO GENERAL DEL PROCESO, ARTICULO 121",
+      "subtema": "Estarse a lo resuelto en sentencia C-443 de 2019"
+    },
+    {
+      "tema": "CONCEPTO DE VIOLACION EN DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "Razones claras, ciertas, específicas, pertinentes y suficientes"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "radicado": "T-077-19",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2019,
+  "fecha_creacion": "2019-02-26",
+  "magistrado_ponente": "Carlos Bernal Pulido",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCION DE TUTELA PARA PROTEGER DERECHO DE PETICION",
+  "subtema": "Caso en que el accionante considera vulnerados sus derechos, por cuanto no se le dio contestación a su solicitud",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 1755 de 2015",
+    "Ley 600 de 2000"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2019/T-077-19.htm",
+  "fecha_descarga": "2026-10-21T09:47:46.138471+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2019-02-26",
+  "fecha_publicacion": "2019-03-05",
+  "numero": "T-077/19",
+  "tipo_cc": "T",
+  "prov_id": "33592",
+  "tema_relatoria": "ACCION DE TUTELA PARA PROTEGER DERECHO DE PETICION. IMPROCEDENCIA POR EXISTIR OTRO MEDIO DE DEFENSA JUDICIAL Y NO ACREDITAR PERJUICIO IRREMEDIABLE.",
+  "resumen": "El accionante alega que la Corporación Sisma Mujer vulneró sus derechos fundamentales al no dar respuesta a la solicitud que formuló para obtener información respecto a la naturaleza, características y resultado del tratamiento médico, psicológico o de trabajo social brindado en dicha Institución a dos mujeres que fueron reconocidas como presuntas víctimas, en un proceso penal adelantado en su contra por los delitos de acto sexual violento y tortura psicológica en persona protegida. La accionada pidió declarar improcedente la acción de tutela por temeridad y falta del requisito de subsidiariedad. La Corte concluyó que la solicitud de amparo resulta IMPROCEDENTE, toda vez que el peticionario cuenta con un mecanismo judicial ordinario, como lo es el proceso penal que se adelanta en su contra, que resulta eficaz para proteger sus derechos fundamentales, solicitar la documentación que requiere para su defensa, examinar la razonabilidad y proporcionalidad de su petición y controvertir la eventual negativa de la entidad para entregar o aportar dicha documentación a la causa penal.",
+  "titulaciones": [
+    {
+      "tema": "ACCION DE TUTELA PARA PROTEGER DERECHO DE PETICION",
+      "subtema": "Caso en que el accionante considera vulnerados sus derechos, por cuanto no se le dio contestación a su solicitud"
+    },
+    {
+      "tema": "ACCION DE TUTELA PARA PROTEGER DERECHO DE PETICION",
+      "subtema": "Se omitió el estudio de un requisito de procedencia previo de la acción como es la legitimación de las partes"
+    },
+    {
+      "tema": "ACTUACION TEMERARIA Y COSA JUZGADA EN MATERIA DE TUTELA",
+      "subtema": "Configuración"
+    },
+    {
+      "tema": "ACCION DE TUTELA PARA PROTEGER DERECHO DE PETICION",
+      "subtema": "No existía ninguna amenaza o vulneración al acceso a la administración de justicia del accionante"
+    },
+    {
+      "tema": "ACCION DE TUTELA PARA PROTEGER DERECHO DE PETICION",
+      "subtema": "Improcedencia por existir otro medio de defensa judicial y no acreditar perjuicio irremediable"
+    }
+  ]
+}

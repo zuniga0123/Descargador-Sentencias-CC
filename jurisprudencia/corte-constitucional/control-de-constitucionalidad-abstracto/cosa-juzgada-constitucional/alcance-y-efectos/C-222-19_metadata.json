@@ -1,0 +1,51 @@
+{
+  "radicado": "C-222-19",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2019,
+  "fecha_creacion": "2019-05-22",
+  "magistrado_ponente": "Carlos Bernal Pulido",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "COSA JUZGADA CONSTITUCIONAL",
+  "subtema": "Alcance y efectos",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 84 de 1989",
+    "Decreto 2811 de 1974",
+    "Ley 1774 de 2016",
+    "Decreto Ley 2811 de 1974",
+    "Decreto 4183 de 2011",
+    "Decreto 2067 de 1991",
+    "Ley 270 de 1996"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2019/C-222-19.htm",
+  "fecha_descarga": "2026-10-21T10:02:17.920561+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2019-05-22",
+  "fecha_publicacion": "2019-06-05",
+  "numero": "C-222/19",
+  "tipo_cc": "C",
+  "prov_id": "33898",
+  "tema_relatoria": "CAZA Y PESCA DEPORTIVA. PROHIBICIONES Y CASOS EN QUE ESTÁN PERMITIDAS.",
+  "resumen": "Demanda de inconstitucionalidad contra los artículos 8 y 30 (parciales) de la Ley 84 de 1989, por la cual se adopta el Estatuto Nacional de Protección de los Animales y se crean unas contravenciones y se regula lo referente a su procedimiento y competencia. El actor adujo que las excepciones previstas en los artículos cuestionados desconocen los artículos 79 y 95-8 Superiores. Estas disposiciones constitucionales prevén los deberes generales de protección del medio ambiente y los recursos naturales a cargo del Estado y los individuos. La Corte encontró configurado el efecto de la cosa juzgada constitucional puesto que, sobre ese mismo asunto ya existe un pronunciamiento de fondo. Por lo anterior, resolvió ESTARSE A LO RESUELTO en la Sentencia C-045/19 que declaró: (i) la exequibilidad condicionada del artículo 8 de la Ley 84 de 1989, bajo el entendido de que la caza deportiva no queda exceptuada de lo dispuesto en los literales a), c), d) y f) del artículo 6 de la misma ley, y (ii) la inexequibilidad de la palabra “deportivos” del literal b) del artículo 30 ibídem por resultar contraria al deber del Estado y de los colombianos de protección del medio ambiente, su diversidad e integridad.",
+  "titulaciones": [
+    {
+      "tema": "COSA JUZGADA CONSTITUCIONAL",
+      "subtema": "Alcance y efectos"
+    },
+    {
+      "tema": "ANIMALES",
+      "subtema": "Considerarlos “seres sintientes”, concede mayor protección a la vida animal, que a la vida de seres humanos concebidos y no nacidos"
+    },
+    {
+      "tema": "COSA JUZGADA CONSTITUCIONAL",
+      "subtema": "Tipos"
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD CONTRA LA LEY 84 DE 1989 ARTICULOS 8 Y 30",
+      "subtema": "Estarse a lo resuelto en Sentencia C-045 de 2019"
+    }
+  ]
+}

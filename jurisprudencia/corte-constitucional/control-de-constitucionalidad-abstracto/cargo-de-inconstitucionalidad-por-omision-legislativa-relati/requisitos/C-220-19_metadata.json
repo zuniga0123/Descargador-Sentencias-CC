@@ -1,0 +1,57 @@
+{
+  "radicado": "C-220-19",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2019,
+  "fecha_creacion": "2019-05-22",
+  "magistrado_ponente": "Alejandro Linares Cantillo",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "CARGO DE INCONSTITUCIONALIDAD POR OMISION LEGISLATIVA RELATIVA",
+  "subtema": "Requisitos",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 1861 de 2017",
+    "Decreto Ley 2067 de 1991",
+    "Decreto 2067 de 1991",
+    "Ley 48 de 1993",
+    "Decreto 1227 de 2015",
+    "Ley 48 de 1998",
+    "Decreto 2700 de 1991",
+    "Decreto 624 de 1989",
+    "Ley 546 de 1999"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2019/C-220-19.htm",
+  "fecha_descarga": "2026-10-21T10:02:32.887409+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2019-05-22",
+  "fecha_publicacion": "2019-05-24",
+  "numero": "C-220/19",
+  "tipo_cc": "C",
+  "prov_id": "33871",
+  "tema_relatoria": "SERVICIO MILITAR. OBLIGATORIEDAD DE ESTE SERVICIO SOLO PARA VARONES.",
+  "resumen": "Demanda de inconstitucionalidad contra el inciso primero (parcial) del artículo 11 de la Ley 1861 de 2017, por la cual se reglamenta el servicio de reclutamiento control de reservas y la movilización. Los demandantes pretenden que la Corte Constitucional declare la exequibilidad condicionada de la norma cuestionada, bajo el entendido de que el término “varón” también cobija a los hombres transgénero. Consideran importante que este grupo de personas cuenten con un procedimiento que les permita definir su situación militar y obtener la respectiva libreta militar, como documento característico de su masculinidad, en condiciones que respeten y garanticen su dignidad humana, su libre desarrollo de la personalidad, la igualdad y sus demás derechos fundamentales. La Corte concluyó que el actor incumplió con el requisito de certeza y, por ello, decidió declararse INHIBIDA para emitir pronunciamiento de fondo por la ineptitud sustantiva de la demanda.",
+  "titulaciones": [
+    {
+      "tema": "CARGO DE INCONSTITUCIONALIDAD POR OMISION LEGISLATIVA RELATIVA",
+      "subtema": "Requisitos"
+    },
+    {
+      "tema": "INHIBICION DE LA CORTE CONSTITUCIONAL POR INEPTITUD SUSTANTIVA DE LA DEMANDA",
+      "subtema": "Procedencia"
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD CONTRA NORMA QUE REGULA EL SERVICIO DE RECLUTAMIENTO",
+      "subtema": "Inhibición por ineptitud sustantiva de la demanda"
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "Concepto de violación"
+    },
+    {
+      "tema": "CONCEPTO DE VIOLACION EN DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "Razones claras, ciertas, específicas, pertinentes y suficientes"
+    }
+  ]
+}

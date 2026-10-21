@@ -1,0 +1,60 @@
+{
+  "radicado": "C-247-19",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2019,
+  "fecha_creacion": "2019-06-05",
+  "magistrado_ponente": "Alejandro Linares Cantillo",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "COSA JUZGADA",
+  "subtema": "Efectos",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 768 de 2002",
+    "Ley 1625 de 2013",
+    "Decreto Ley 2067 de 1991",
+    "Decreto 2067 de 1991",
+    "Ley 99 de 1993",
+    "Ley 1450 de 2011",
+    "Decreto 141 de 2011",
+    "Decreto 20 de 2011"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2019/C-247-19.htm",
+  "fecha_descarga": "2026-10-21T10:01:08.164404+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2019-06-05",
+  "fecha_publicacion": "2019-06-25",
+  "numero": "C-247/19",
+  "tipo_cc": "C",
+  "prov_id": "33976",
+  "tema_relatoria": "COMPETENCIA AMBIENTAL. AUTORIDADES AMBIENTALES EN ENTIDADES TERRITORIALES Y ÁREAS METROPOLITANAS.",
+  "resumen": "Demanda de inconstitucionalidad contra el artículo 13 (parcial) de la Ley 768 de 2002, por la cual se adopta el Régimen Político, Administrativo y Fiscal de los Distritos Portuario e Industrial de Barranquilla, Turístico y Cultural de Cartagena de Indias y Turístico, Cultural e Histórico de Santa Marta, y el artículo 7º (parcial) de la Ley 1625 de 2013, por la cual se deroga la Ley Orgánica 1º28 de 1994 y se expide el Régimen para las Áreas Metropolitanas. El demandante adujo que las normas cuestionadas vulneran la Constitución. La Corte reafirmó que es el Legislador el competente para establecer el régimen de las entidades descentralizadas en el orden nacional y en el nivel territorial, lo cual se complementa con la creación de los establecimientos públicos por parte de los Concejos, a iniciativa del alcalde. Decidió la Sala ESTARSE A LO RESUELTO en la Sentencia C-063/02 que declaró infundada la objeción en contra del artículo 13 del proyecto de ley número 22/99 Senado y 06/00 Cámara y, en consecuencia, declarar la EXEQUIBILIDAD del artículo 13 de la Ley 768 de 2002. Así mismo, decidió declararse INHIBIDA para pronunciarse sobre la constitucionalidad del parágrafo del artículo 7º de la Ley1625 de 2013, por la ineptitud sustancial de la demanda.",
+  "titulaciones": [
+    {
+      "tema": "COSA JUZGADA",
+      "subtema": "Efectos"
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "Se configuró el fenómeno de la cosa juzgada constitucional"
+    },
+    {
+      "tema": "COSA JUZGADA ABSOLUTA Y COSA JUZGADA RELATIVA",
+      "subtema": "Distinción"
+    },
+    {
+      "tema": "COSA JUZGADA CONSTITUCIONAL MATERIAL",
+      "subtema": "Configuración"
+    },
+    {
+      "tema": "INHIBICION DE LA CORTE CONSTITUCIONAL POR INEPTITUD SUSTANTIVA DE LA DEMANDA",
+      "subtema": "Incumplimiento del requisito de especificidad en los cargos"
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD CONTRA NORMA DEL REGIMEN POLITICO, ADMINISTRATIVO Y FISCAL DE LOS DISTRITOS ESPECIALES",
+      "subtema": "Estarse a lo resuelto en sentencia C-063 de 2002"
+    }
+  ]
+}

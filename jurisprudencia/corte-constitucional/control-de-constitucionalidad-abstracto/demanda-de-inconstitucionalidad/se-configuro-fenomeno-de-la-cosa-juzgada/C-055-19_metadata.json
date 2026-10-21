@@ -1,0 +1,56 @@
+{
+  "radicado": "C-055-19",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2019,
+  "fecha_creacion": "2019-02-13",
+  "magistrado_ponente": "Alejandro Linares Cantillo",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "DEMANDA DE INCONSTITUCIONALIDAD",
+  "subtema": "Se configuró fenómeno de la cosa juzgada",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 1819 de 2016",
+    "Decreto Ley 2067 de 1991",
+    "Decreto 2067 de 1991",
+    "Ley 617 de 2000",
+    "Ley 97 de 1913",
+    "Ley 84 de 1915",
+    "Ley 136 de 1994",
+    "Decreto 1421 de 1993"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2019/C-055-19.htm",
+  "fecha_descarga": "2026-10-21T10:04:38.241805+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2019-02-13",
+  "fecha_publicacion": "2019-03-04",
+  "numero": "C-055/19",
+  "tipo_cc": "C",
+  "prov_id": "33596",
+  "tema_relatoria": "ALUMBRADO PÚBLICO. HECHO GENERADOR, DESTINACIÓN Y LÍMITE DEL IMPUESTO",
+  "resumen": "Demanda de inconstitucionalidad contra los artículos 349 y 350 (parciales) y 351 de la Ley 1819 de 2016, por medio de la cual se adopta una reforma tributaria estructural, se fortalecen los mecanismos para la lucha contra la evasión y la elusión fiscal y se dictan otras disposiciones. El demandante considera que las disposiciones acusadas vulneran los artículos 287, 338, 352 y 362 de la Constitución. La Corte decidió ESTARSE A LO RESUELTO en la sentencia C-130/18, mediante la cual se declaró EXEQUIBLE tanto la expresión “en la determinación del impuesto” contenida en el parágrafo 2º del artículo 349 de la Ley 1819 de 2016, como los apartes “exclusivamente” del artículo 350 y “de conformidad con la metodología para la determinación de costos establecida por el Ministerio de Minas y Energía, o la entidad que delegue el Ministerio” del artículo 351 ibídem. Así mismo, resolvió declararse INHIBIDA para pronunciarse sobre la constitucionalidad de la expresión “el beneficio por” contenida en el inciso segundo del artículo 349; la expresión “exclusivamente” contenida en el artículo 350 y los artículos 349, parágrafo 2º (parcial) y 351 (parcial) de la Ley 1819 de 2016, por la ineptitud sustantiva de la demanda.",
+  "titulaciones": [
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "Se configuró fenómeno de la cosa juzgada"
+    },
+    {
+      "tema": "LEY QUE ADOPTA REFORMA TRIBUTARIA ESTRUCTURAL Y SE FORTALECEN MECANISMOS PARA LA LUCHA CONTRA LA EVASION Y LA ELUSION FISCAL",
+      "subtema": "Estarse a lo resuelto en sentencia C-130 de 2018"
+    },
+    {
+      "tema": "COSA JUZGADA CONSTITUCIONAL",
+      "subtema": "Tipos"
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "Se configuró el fenómeno de la cosa juzgada constitucional"
+    },
+    {
+      "tema": "INHIBICION DE LA CORTE CONSTITUCIONAL",
+      "subtema": "Ineptitud sustantiva de la demanda"
+    }
+  ]
+}

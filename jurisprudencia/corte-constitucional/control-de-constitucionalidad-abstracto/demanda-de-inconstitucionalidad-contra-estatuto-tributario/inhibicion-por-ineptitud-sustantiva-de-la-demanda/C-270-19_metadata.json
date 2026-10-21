@@ -1,0 +1,65 @@
+{
+  "radicado": "C-270-19",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2019,
+  "fecha_creacion": "2019-06-12",
+  "magistrado_ponente": "Diana Fajardo Rivera",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "DEMANDA DE INCONSTITUCIONALIDAD CONTRA ESTATUTO TRIBUTARIO",
+  "subtema": "Inhibición por ineptitud sustantiva de la demanda",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 624 de 1989",
+    "Ley 1819 de 2016",
+    "Decreto 2067 de 1991",
+    "Decreto Ley 2067 de 1991",
+    "Ley 75 de 1986",
+    "Ley 43 de 1987",
+    "Decreto 1073 de 2015",
+    "Ley 685 de 2001",
+    "Decreto 2390 de 2002",
+    "Ley 1816 de 2016",
+    "Ley 863 de 2003",
+    "Ley 788 de 2002",
+    "Decreto 1102 de 2017"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2019/C-270-19.htm",
+  "fecha_descarga": "2026-10-21T10:00:40.134329+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2019-06-12",
+  "fecha_publicacion": "2019-07-04",
+  "numero": "C-270/19",
+  "tipo_cc": "C",
+  "prov_id": "34025",
+  "tema_relatoria": "ESTATUTO TRIBUTARIO. EL EXPORTADOR DE ORO PODRA SOLICITAR LA DEVOLUCION DE SALDOS ORIGINADOS EN LA DECLARACION DEL IMPUESTO SOBRE LAS VENTAS.",
+  "resumen": "Demanda de inconstitucionalidad contra el parágrafo 3 del artículo 850 del Decreto 624 de 1989, Estatuto Tributario, adicionado por el artículo 267 de la Ley 1819 de 2016. El actor considera que la norma acusada vulnera los principios de igualdad, de equidad y de progresividad tributaria establecidos en los artículos 13 y 363 de la Constitución Política. La ausencia de certeza, especificidad y suficiencia del cargo de vulneración de la igualdad, no permitió a la Corte contar con los elementos de juicio para realizar un examen de fondo y proferir un fallo de mérito. INHIBIDA.",
+  "titulaciones": [
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD CONTRA ESTATUTO TRIBUTARIO",
+      "subtema": "Inhibición por ineptitud sustantiva de la demanda"
+    },
+    {
+      "tema": "EQUIDAD TRIBUTARIA",
+      "subtema": "Vertical y horizontal"
+    },
+    {
+      "tema": "INHIBICION DE LA CORTE CONSTITUCIONAL POR INEPTITUD SUSTANTIVA DE LA DEMANDA",
+      "subtema": "Incumplimiento de requisitos de certeza, especificidad y suficiencia en los cargos"
+    },
+    {
+      "tema": "PRINCIPIOS CONSTITUCIONALES DE IGUALDAD, EQUIDAD Y PROGRESIVIDAD TRIBUTARIA",
+      "subtema": "Contenido y alcance"
+    },
+    {
+      "tema": "PRINCIPIO PRO ACTIONE EN ACCION PUBLICA DE INCONSTITUCIONALIDAD",
+      "subtema": "Aplicación"
+    },
+    {
+      "tema": "CONCEPTO DE VIOLACION EN DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "Razones claras, ciertas, específicas, pertinentes y suficientes"
+    }
+  ]
+}

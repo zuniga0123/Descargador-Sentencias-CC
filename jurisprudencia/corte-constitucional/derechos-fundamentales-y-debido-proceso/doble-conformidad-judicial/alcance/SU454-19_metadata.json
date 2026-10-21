@@ -1,0 +1,56 @@
+{
+  "radicado": "SU454-19",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2019,
+  "fecha_creacion": "2019-10-03",
+  "magistrado_ponente": "Carlos Bernal Pulido",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "DOBLE CONFORMIDAD JUDICIAL",
+  "subtema": "Alcance",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Acto Legislativo 1 de 2018",
+    "Ley 906 de 2004",
+    "Ley 600 de 2000"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2019/SU454-19.htm",
+  "fecha_descarga": "2026-10-21T10:06:18.410577+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2019-10-03",
+  "fecha_publicacion": "2019-10-31",
+  "numero": "SU.454/19",
+  "tipo_cc": "SU",
+  "prov_id": "34469",
+  "tema_relatoria": "ACCION DE TUTELA CONTRA PROVIDENCIAS JUDICIALES. IMPROCEDENCIA POR CUANTO NO SE VULNERÓ EL PRINCIPIO DE LA DOBLE CONFORMIDAD.",
+  "resumen": "En dos acciones de tutela formuladas de manera independiente se cuestionan decisiones judiciales adoptadas en sede de casación por la Sala Penal de la Corte Suprema de Justicia. Se aduce que en dichos fallos se configuraron los siguientes defectos: 1º. Violación directa de la Constitución. 2º. Fáctico 3º. Procedimental absoluto y, 4º. Desconocimiento del precedente. De forma común los actores también alegaron la vulneración del derecho a la doble conformidad, por cuanto no se les permitió impugnar la decisión que los condenó por primera vez, en segunda instancia. Luego de verificar que ninguno de los presuntos defectos alegados se configuró en las sentencias cuestionadas, la Sala Plena de la Corporación decidió confirmar las decisiones de instancia que NEGARON el amparo invocado.",
+  "titulaciones": [
+    {
+      "tema": "DOBLE CONFORMIDAD JUDICIAL",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Requisitos generales y especiales de procedibilidad"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES DE ALTAS CORPORACIONES",
+      "subtema": "Procedencia más restrictiva, en la medida que solo tiene cabida cuando se configura una anomalía de tal entidad que exige la imperiosa intervención del juez constitucional"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Improcedencia por cuanto no se configuraron los defectos alegados, ni hubo vulneración de principio de la doble conformidad"
+    },
+    {
+      "tema": "DOBLE CONFORMIDAD JUDICIAL",
+      "subtema": "Garantía"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES DE ALTAS CORPORACIONES",
+      "subtema": "Requisitos generales y especiales de procedibilidad son más estrictos"
+    }
+  ]
+}

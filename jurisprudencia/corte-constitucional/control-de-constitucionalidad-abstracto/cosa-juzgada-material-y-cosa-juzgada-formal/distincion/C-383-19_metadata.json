@@ -1,0 +1,51 @@
+{
+  "radicado": "C-383-19",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2019,
+  "fecha_creacion": "2019-08-21",
+  "magistrado_ponente": "Alejandro Linares Cantillo",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "COSA JUZGADA MATERIAL Y COSA JUZGADA FORMAL",
+  "subtema": "Distinción",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 1819 de 2016",
+    "Decreto Ley 2067 de 1991",
+    "Ley 488 de 1998"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2019/C-383-19.htm",
+  "fecha_descarga": "2026-10-21T09:57:51.073527+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2019-08-21",
+  "fecha_publicacion": "2019-09-10",
+  "numero": "C-383/19",
+  "tipo_cc": "C",
+  "prov_id": "34293",
+  "tema_relatoria": "IMPUESTO SOBRE LAS VENTAS. TARIFA DEL 5% PARA COMPRESAS Y TAMPONES HIGIÉNICOS.",
+  "resumen": "Demanda de inconstitucionalidad contra el artículo 185 (parcial) de la Ley 1819 de 2016, por medio de la cual se adopta una reforma tributaria estructural, se fortalecen los mecanismos para la lucha contra la evasión y la elusión fiscal y se dictan otras disposiciones. La demandante considera que la disposición acusada vulnera los artículos 2, 13, 43 y 363 de la Constitución. La existencia de la cosa juzgada constitucional formal y absoluta respecto de la inconstitucionalidad de gravar con el IVA la venta de compresas y tampones higiénicos, llevó a la Corte a decidir ESTARSE A LO RESUELTO en la Sentencia C-117/18, mediante la cual se declaró inexequible la partida 96.19 del artículo 185 de la Ley 1819 de 2016, que grava las toallas higiénicas y tampones con una tarifa del 5% del IVA.",
+  "titulaciones": [
+    {
+      "tema": "COSA JUZGADA MATERIAL Y COSA JUZGADA FORMAL",
+      "subtema": "Distinción"
+    },
+    {
+      "tema": "COSA JUZGADA CONSTITUCIONAL",
+      "subtema": "Tipos"
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "Se configuró el fenómeno de la cosa juzgada constitucional"
+    },
+    {
+      "tema": "COSA JUZGADA ABSOLUTA Y COSA JUZGADA RELATIVA",
+      "subtema": "Distinción"
+    },
+    {
+      "tema": "LEY QUE ADOPTA REFORMA TRIBUTARIA ESTRUCTURAL Y SE FORTALECEN MECANISMOS PARA LA LUCHA CONTRA LA EVASION Y LA ELUSION FISCAL",
+      "subtema": "Estarse a lo resuelto en Sentencia C-117 de 2018"
+    }
+  ]
+}

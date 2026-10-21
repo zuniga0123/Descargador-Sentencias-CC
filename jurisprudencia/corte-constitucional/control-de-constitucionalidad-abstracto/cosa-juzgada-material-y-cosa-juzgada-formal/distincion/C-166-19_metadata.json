@@ -1,0 +1,57 @@
+{
+  "radicado": "C-166-19",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2019,
+  "fecha_creacion": "2019-04-10",
+  "magistrado_ponente": "Alberto Rojas Ríos",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "COSA JUZGADA MATERIAL Y COSA JUZGADA FORMAL",
+  "subtema": "Distinción",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 906 de 2004",
+    "Decreto Ley 2067 de 1991",
+    "Ley 1453 de 2011",
+    "Ley 600 de 2000",
+    "Ley 270 de 1996"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2019/C-166-19.htm",
+  "fecha_descarga": "2026-10-21T09:59:40.925983+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2019-04-10",
+  "fecha_publicacion": "2019-07-23",
+  "numero": "C-166/19",
+  "tipo_cc": "C",
+  "prov_id": "34094",
+  "tema_relatoria": "OMISIÓN LEGISLATIVA RELATIVA AL NO INCLUIR A LAS VÍCTIMAS ENTRE QUIENES PUEDEN SOLICITAR EL CAMBIO DE RADICACIÓN ANTES DE INICIARSE LA AUDIENCIA DEL JUICIO ORAL.",
+  "resumen": "Demanda de inconstitucionalidad contra el artículo 47 (parcial) de la Ley 906 de 2004, por la cual se expide el Código de Procedimiento Penal. Los demandantes consideran que la disposición acusada vulnera el Preámbulo y los artículos 1, 2, 5, 13, 29, 86, 87, 88, 93, 94, 215-2, 228 y 229 Superiores, en consonancia con los artículos 8º de la Convención Americana sobre Derechos Humanos y 14 del Pacto Internacional de Derechos Civiles y Políticos. A juicio de ellos, la expresión “… las partes o el Ministerio Público” omite a las víctimas como legitimadas para solicitar de manera directa ante el Juez de Garantías el cambio de radicación, aun cuando dicha medida está consagrada para la protección de sus derechos. Luego de verificar que en el presente caso se configura el efecto de la cosa juzgada constitucional, la Corte decidió ESTARSE A LO RESUELTO en la sentencia C-031/18, mediante la cual se declaró la exequibilidad condicionada del texto acusado en esta oportunidad.",
+  "titulaciones": [
+    {
+      "tema": "COSA JUZGADA MATERIAL Y COSA JUZGADA FORMAL",
+      "subtema": "Distinción"
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD CONTRA CODIGO DE PROCEDIMIENTO PENAL",
+      "subtema": "Estarse a lo resuelto en sentencia C-031 de 2018"
+    },
+    {
+      "tema": "COSA JUZGADA CONSTITUCIONAL",
+      "subtema": "Configuración"
+    },
+    {
+      "tema": "COSA JUZGADA CONSTITUCIONAL",
+      "subtema": "Tipos"
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "Se configuró el fenómeno de la cosa juzgada constitucional"
+    },
+    {
+      "tema": "COSA JUZGADA ABSOLUTA Y COSA JUZGADA RELATIVA",
+      "subtema": "Distinción"
+    }
+  ]
+}
