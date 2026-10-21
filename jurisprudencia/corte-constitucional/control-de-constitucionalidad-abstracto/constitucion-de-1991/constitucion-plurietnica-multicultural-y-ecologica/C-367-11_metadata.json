@@ -1,0 +1,57 @@
+{
+  "radicado": "C-367-11",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2011,
+  "fecha_creacion": "2011-05-11",
+  "magistrado_ponente": "Juan Carlos Henao Perez",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "CONSTITUCION DE 1991",
+  "subtema": "Constitución pluriétnica, multicultural y ecológica",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 1382 de 2010",
+    "Ley 685 de 2001",
+    "Decreto 2067 de 1991",
+    "Ley 70 de 1993",
+    "Decreto 373 de 2010",
+    "Ley 21 de 1991",
+    "Ley 1021 de 2006",
+    "Ley 1152 de 2007",
+    "Ley 99 de 1993"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2011/C-367-11.htm",
+  "fecha_descarga": "2026-10-21T17:15:05.098188+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2011-05-11",
+  "fecha_publicacion": null,
+  "numero": "C-367/11",
+  "tipo_cc": "C",
+  "prov_id": "2257",
+  "tema_relatoria": "COSA JUZGADA CONSTITUCIONAL EN REFORMA AL CODIGO DE MINAS",
+  "resumen": "Demanda de Inconstitucionalidad en contra de la Ley 1382 de 2010. Modificatoria de la Ley 685 de 2001. El demandante sostiene que la norma demandada vulnera varios artículos de la Constitución Política y el Convenio 169 de la OIT, porque no se surtió el trámite de la consulta previa a las comunidades indígenas. La Corte estima que por haberse resuelto la demanda de la Ley 1382 en la Sentencia C-366/11 sobre el mismo cargo, se configura en el caso concreto el fenómeno de la cosa juzgada constitucional. Se resuelve ESTARSE A LO RESUELTO en la sentencia C-366/11 que declaró la inexequibilidad de la ley 1382 de 2010.",
+  "titulaciones": [
+    {
+      "tema": "CONSTITUCION DE 1991",
+      "subtema": "Constitución pluriétnica, multicultural y ecológica"
+    },
+    {
+      "tema": "SENTENCIA DE EXEQUIBILIDAD TEMPORAL O INEXEQUIBILIDAD DIFERIDA",
+      "subtema": "Procedencia en relación con ley de reforma al Código de Minas que omitió la consulta previa de comunidades indígenas y afrodescendientes para la protección del ambiente"
+    },
+    {
+      "tema": "INEXEQUIBILIDAD POR OMISION DE CONSULTA PREVIA EN LEY DE REFORMA AL CODIGO DE MINAS",
+      "subtema": "Configuración por cuanto omisión constituye una desprotección de valores constitucionales de comunidades indígenas y afrodescendientes"
+    },
+    {
+      "tema": "REFORMA AL CODIGO DE MINAS",
+      "subtema": "Cosa juzgada constitucional respecto de la inexequibilidad por exigencia de la realización de consulta previa a las comunidades indígenas y afrodescendientes"
+    },
+    {
+      "tema": "SENTENCIA DE EXEQUIBILIDAD TEMPORAL O INEXEQUIBILIDAD DIFERIDA",
+      "subtema": "Alternativa frente a dilemas que plantea una decisión de inconstitucionalidad pura y simple"
+    }
+  ]
+}

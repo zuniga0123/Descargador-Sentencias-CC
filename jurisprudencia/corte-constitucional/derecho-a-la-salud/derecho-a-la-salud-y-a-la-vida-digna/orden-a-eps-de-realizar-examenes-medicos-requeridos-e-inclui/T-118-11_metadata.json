@@ -1,0 +1,51 @@
+{
+  "radicado": "T-118-11",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2011,
+  "fecha_creacion": "2011-02-28",
+  "magistrado_ponente": "Jorge Ignacio Pretelt Chaljub",
+  "area": "Derecho a la Salud",
+  "tema": "DERECHO A LA SALUD Y A LA VIDA DIGNA",
+  "subtema": "Orden a EPS de realizar exámenes médicos requeridos e incluir a la paciente en programa de transplante renal cadavérico",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 100 de 1993",
+    "Decreto 2357 de 1995"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2011/T-118-11.htm",
+  "fecha_descarga": "2026-10-21T17:09:34.019065+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2011-02-28",
+  "fecha_publicacion": null,
+  "numero": "T-118/11",
+  "tipo_cc": "T",
+  "prov_id": "1972",
+  "tema_relatoria": null,
+  "resumen": "Salud, vida digna. La accionante solicita se ordene a SALUDCOOP EPS, autorice la exoneración de copagos y cuotas moderadoras, ya que sufre de insuficiencia renal crónica, su médico tratante determinó iniciarle un estudio a fin de ingresarla al programa de transplante renal cadavérico, para analizar la viabilidad se deben realizar una serie de exámenes prescritos por su médico tratante, pero no ha podido realizarlos porque no cuenta con el dinero para costear los copagos que demandan los exámenes, dada su difícil situación económica. La Sala realiza reiteración de jurisprudencia sobre la exigencia de cuotas moderadoras y copagos en el régimen contributivo, se recuerdan las reglas probatorias para establecer la capacidad económica, se establece que la accionante se encuentra en grave peligro ante la enfermedad crónica terminal que padece, por lo que requiere con urgencia que se tomen las medidas para que le sea brindado el tratamiento de manera inmediata, se decide eximirla del pago de cuotas moderadoras y de los copagos. Concedida.",
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA SALUD Y A LA VIDA DIGNA",
+      "subtema": "Orden a EPS de realizar exámenes médicos requeridos e incluir a la paciente en programa de transplante renal cadavérico"
+    },
+    {
+      "tema": "PRESTACION DE SERVICIOS NO CUBIERTOS POR EL POS",
+      "subtema": "Reglas probatorias para establecer la capacidad económica"
+    },
+    {
+      "tema": "PRESUNCION DE INCAPACIDAD ECONOMICA FRENTE A PERSONAS QUE SE ENCUENTRAN INSCRITAS EN EL SISBEN",
+      "subtema": null
+    },
+    {
+      "tema": "CUOTAS MODERADORAS Y COPAGOS EN REGIMEN CONTRIBUTIVO",
+      "subtema": null
+    },
+    {
+      "tema": "EXONERACION DE CUOTAS MODERADORAS Y COPAGOS",
+      "subtema": "Reglas jurisprudenciales"
+    }
+  ]
+}

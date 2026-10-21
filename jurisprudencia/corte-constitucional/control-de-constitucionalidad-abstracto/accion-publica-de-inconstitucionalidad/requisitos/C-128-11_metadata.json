@@ -1,0 +1,60 @@
+{
+  "radicado": "C-128-11",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2011,
+  "fecha_creacion": "2011-03-02",
+  "magistrado_ponente": "Juan Carlos Henao Pere",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "ACCION PUBLICA DE INCONSTITUCIONALIDAD",
+  "subtema": "Requisitos",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2067 de 1991",
+    "Ley 1142 de 2007",
+    "Ley 906 de 2004",
+    "Acto Legislativo 3 de 2002"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2011/C-128-11.htm",
+  "fecha_descarga": "2026-10-21T17:16:02.120383+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2011-03-02",
+  "fecha_publicacion": null,
+  "numero": "C-128/11",
+  "tipo_cc": "C",
+  "prov_id": "1982",
+  "tema_relatoria": "FALLO INHIBITORIO POR INEPTITUD DE DEMANDA DE INCONSTITUCIONALIDAD CONTRA NORMA DEL CODIGO DE PROCEDIMIENTO PENAL",
+  "resumen": "Ley 906 de 2004. Código de Procedimiento Penal. Demanda de Inconstitucionalidad contra los artículos 177 y 286. Los artículos demandados se relacionan con los efectos en que se concede la apelación y el concepto de la formulación de imputación. Para el actor, la totalidad del artículo 177 es contrario a la Constitución por omisión legislativa relativa, como quiera que por razones lógicas y jurídicas tendría que hallarse incluido en el acto de formulación de la imputación, que al no estar, genera una imperfección que lo hace inequitativo, inoperante e ineficiente. Respecto al artículo 286 atacado, considera que es contrario al artículo 29 superior, por cuanto la formulación de la imputación, al ser considerada como un acto de mera comunicación, no podría ser objeto de contradicción, con lo cual se vulnera los derechos constitucionales de defensa y debido proceso. La Corte se declara INHIBIDA para pronunciarse de fondo sobre la inconstitucionalidad de los artículos impugnados, por ineptitud sustancial de la demanda.",
+  "titulaciones": [
+    {
+      "tema": "ACCION PUBLICA DE INCONSTITUCIONALIDAD",
+      "subtema": "Requisitos"
+    },
+    {
+      "tema": "ACCION DE INCONSTITUCIONALIDAD",
+      "subtema": "Naturaleza jurídica"
+    },
+    {
+      "tema": "ACCION DE INCONSTITUCIONALIDAD",
+      "subtema": "Condiciones para su ejercicio"
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "Concepto de violación"
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "Fallo inhibitorio por ineptitud sustantiva"
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD POR OMISION LEGISLATIVA RELATIVA",
+      "subtema": "Requisitos"
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "Requisitos de claridad, certeza, especificidad, pertinencia y suficiencia"
+    }
+  ]
+}

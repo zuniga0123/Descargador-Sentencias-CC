@@ -1,0 +1,44 @@
+{
+  "radicado": "T-046-11",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2011,
+  "fecha_creacion": "2011-02-11",
+  "magistrado_ponente": "Maria Victoria Calle Correa",
+  "area": "Derecho a la Salud",
+  "tema": "DERECHO A LA SALUD DE LOS NIÑOS Y NIÑAS MENORES DE UN AÑO DE EDAD Y DERECHO AL DIAGNÓSTICO",
+  "subtema": "Caso en que la entidad de salud restringió razonablemente este derecho",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 100 de 1993",
+    "Ley 1098 de 2006",
+    "Ley 1295 de 2009"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2011/T-046-11.htm",
+  "fecha_descarga": "2026-10-21T17:02:11.718956+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2011-02-11",
+  "fecha_publicacion": null,
+  "numero": "T-046/11",
+  "tipo_cc": "T",
+  "prov_id": "1926",
+  "tema_relatoria": null,
+  "resumen": "Vida, salud. La demandante actúa en nombre de su hijo recién nacido porque consideró que su E.P.S. le estaba vulnerando los derechos fundamentales a la salud y a la vida, al no haber diagnosticado una enfermedad que padecía el menor, luego de estar por más de un mes hospitalizado en la unidad de cuidados intensivos, sin brindarle el tratamiento adecuado para salvar su vida. Durante el trámite de revisión, la Sala encontró que el menor afectado había fallecido luego de haberse proferido el fallo de instancia, sin embargo, realizó un estudio de fondo para determinar si efectivamente hubo vulneración de los derechos fundamentales del menor, encontrando que la entidad accionada se apoyó en los conceptos científicos de los médicos tratantes del bebé. La Sala declara la carencia actual de objeto por fallecimiento del menor.",
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA SALUD DE LOS NIÑOS Y NIÑAS MENORES DE UN AÑO DE EDAD Y DERECHO AL DIAGNÓSTICO",
+      "subtema": "Caso en que la entidad de salud restringió razonablemente este derecho"
+    },
+    {
+      "tema": "DERECHO AL DIAGNOSTICO MEDICO DE LOS RECIEN NACIDOS",
+      "subtema": null
+    },
+    {
+      "tema": "DERECHO AL DIANOSTICO MEDICO DE BEBES PREMATUROS",
+      "subtema": "Caso en que al menor se le practicaron las pruebas, exámenes y estudios médicos ordenados, excepto la resonancia magnética, dada la inestabilidad del paciente"
+    }
+  ]
+}

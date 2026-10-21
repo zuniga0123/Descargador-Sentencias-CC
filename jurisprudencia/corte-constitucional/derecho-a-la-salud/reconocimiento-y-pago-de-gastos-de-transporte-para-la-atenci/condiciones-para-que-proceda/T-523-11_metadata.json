@@ -1,0 +1,51 @@
+{
+  "radicado": "T-523-11",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2011,
+  "fecha_creacion": "2011-07-05",
+  "magistrado_ponente": "Mauricio Gonzalez Cuervo I",
+  "area": "Derecho a la Salud",
+  "tema": "RECONOCIMIENTO Y PAGO DE GASTOS DE TRANSPORTE PARA LA ATENCION DEL PACIENTE",
+  "subtema": "Condiciones para que proceda",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 100 de 1993",
+    "Decreto 1703 de 2002"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2011/T-523-11.htm",
+  "fecha_descarga": "2026-10-21T17:11:33.080965+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2011-07-05",
+  "fecha_publicacion": null,
+  "numero": "T-523/11",
+  "tipo_cc": "T",
+  "prov_id": "2470",
+  "tema_relatoria": null,
+  "resumen": "Seguridad social, vida digna, salud, integridad física. El accionante, paciente con una insuficiencia renal crónica, recibía el tratamiento de hemodiálisis tres veces a la semana, el cual tenía una duración de 4 horas por cada sesión. La acción de tutela se instauró para que la E.P.S. SALUD TOTAL cubriera los gastos de transporte para desplazarse de su casa a la I.P.S. donde le practicaban el procedimiento, ya que su delicado estado de salud y la falta de recursos económicos dificultaban su traslado. La entidad accionada alegó el suministro de todos los medicamentos y tratamientos ordenados por los médicos tratantes, pero la imposibilidad de acceder a las pretensiones del demandante, por considerar que las mismas ern cargas económicas que no podían ser asumidas por la institución. Como quiera que el accionante falleció en el trámite de la acción de tutela la Sala estudió si la actuación de la entidad accionada menoscabó los derechos invocados y declaró el amparo improcedente al configurarse una carencia actual de objeto, por daño consumado.",
+  "titulaciones": [
+    {
+      "tema": "RECONOCIMIENTO Y PAGO DE GASTOS DE TRANSPORTE PARA LA ATENCION DEL PACIENTE",
+      "subtema": "Condiciones para que proceda"
+    },
+    {
+      "tema": "JUEZ DE TUTELA",
+      "subtema": "Incumplimiento del término para enviar el expediente a revisión de la Corte Constitucional"
+    },
+    {
+      "tema": "DOCTRINA CONSTITUCIONAL SOBRE CARENCIA ACTUAL DE OBJETO POR HECHO SUPERADO O DAÑO CONSUMADO",
+      "subtema": null
+    },
+    {
+      "tema": "CARENCIA ACTUAL DE OBJETO POR FALLECIMIENTO DEL PACIENTE",
+      "subtema": "Reiteración de jurisprudencia"
+    },
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Casos en que el Estado y las EPS deben asumir costos de transporte de pacientes de sus lugares de residencia a los centros médicos"
+    }
+  ]
+}

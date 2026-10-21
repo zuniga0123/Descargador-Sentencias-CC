@@ -1,0 +1,48 @@
+{
+  "radicado": "T-558-11",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2011,
+  "fecha_creacion": "2011-07-12",
+  "magistrado_ponente": "María Victoria Calle Correa",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "DERECHO AL MINIMO VITAL Y A LA SEGURIDAD SOCIAL",
+  "subtema": "Orden al ISS que le de trámite a la impugnación del dictamen de calificación de la pérdida de capacidad laboral la cual fue indebidamente notificada",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Decreto 2591 de 1991",
+    "Decreto 917 de 1999",
+    "Decreto 2463 de 2001"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2011/T-558-11.htm",
+  "fecha_descarga": "2026-10-21T17:10:26.125890+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2011-07-12",
+  "fecha_publicacion": null,
+  "numero": "T-558/11",
+  "tipo_cc": "T",
+  "prov_id": "2508",
+  "tema_relatoria": null,
+  "resumen": "Mínimo vital, seguridad social. En el presente caso la Sala de Revisión tutela derechos fundamentales del accionante, a quien el Instituto de Seguros Sociales le negó el reconocimiento y pago de la pensión de invalidez, bajo el argumento de no cumplir con el requisito de haber cotizado 50 semanas en los tres años anteriores a la fecha de estructuración de su estado de invalidez. El tutelante argumenta que en el escrito en el cual se le comunicó el resultado del dictamen, sólo se le informó el porcentaje de su invalidez pero no la fecha de estructuración de la misma. Por su parte, el instituto demandado arguyó que respetó el debido proceso y derecho de defensa del actor, sólo que en la oportunidad legal no hizo uso de los recursos de ley y no le es viable abrir un nuevo proceso de valoración del caso. La Sala tutela los derechos del demandante y deja sin efectos la resolución del ISS por la cual se negó el reconocimiento de la pensión de invalidez reclamada por el actor. De manera simultánea ordena al demandado remitir el dictamen de la pérdida de capacidad laboral del accionante a la Junta Regional de Calificación de Invalidez del Atlántico para que revise el caso y establezca la fecha de estructuración de la invalidez. SE CONCEDE.",
+  "titulaciones": [
+    {
+      "tema": "DERECHO AL MINIMO VITAL Y A LA SEGURIDAD SOCIAL",
+      "subtema": "Orden al ISS que le de trámite a la impugnación del dictamen de calificación de la pérdida de capacidad laboral la cual fue indebidamente notificada"
+    },
+    {
+      "tema": "DICTAMEN QUE CALIFICA PERDIDA DE CAPACIDAD LABORAL",
+      "subtema": "Debe ser notificado personalmente al afiliado calificado"
+    },
+    {
+      "tema": "PENSIÓN DE INVALIDEZ",
+      "subtema": "Fecha de estructuración del estado de invalidez para personas que padecen enfermedad crónica degenerativa"
+    },
+    {
+      "tema": "DEBIDO PROCESO ADMINISTRATIVO",
+      "subtema": "Importancia de la notificación de los actos administrativos de carácter particular y concreto"
+    }
+  ]
+}

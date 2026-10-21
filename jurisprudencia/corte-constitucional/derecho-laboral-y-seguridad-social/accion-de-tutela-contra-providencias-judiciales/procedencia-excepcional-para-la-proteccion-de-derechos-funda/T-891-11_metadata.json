@@ -1,0 +1,54 @@
+{
+  "radicado": "T-891-11",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2011,
+  "fecha_creacion": "2011-11-29",
+  "magistrado_ponente": "Juan Carlos Henao Pérez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+  "subtema": "Procedencia excepcional para la protección de derechos fundamentales",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 33 de 1985",
+    "Ley 100 de 1993",
+    "Decreto 2591 de 1991",
+    "Ley 12 de 1975",
+    "Ley 62 de 1985",
+    "Ley 33 de 1973"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2011/T-891-11.htm",
+  "fecha_descarga": "2026-10-21T17:05:21.724546+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2011-11-29",
+  "fecha_publicacion": null,
+  "numero": "T-891/11",
+  "tipo_cc": "T",
+  "prov_id": "2962",
+  "tema_relatoria": null,
+  "resumen": "Igualdad, debido proceso. Tutela contra decisión judicial. Dentro de una acción de nulidad y restablecimiento del derecho iniciada por la actora contra las resoluciones emitidas por CAJANAL, mediante las cuales se negó el reconocimiento y pago de una sustitución pensional, el Tribunal accionado revocó la sentencia de primera instancia y denegó las suplicas de la demanda. A juicio de la demandante, la sentencia atacada incurrió en una vía de hecho al desconocer el precedente judicial respecto de la aplicación retrospectiva de la ley en virtud del principio de favorabilidad, para reconocer la pensión sustitutiva en aquellos casos en que el causante falleció con anterioridad a la promulgación de la Ley 100 de 1993. La Sala estima que, la peticionaria cumple con los requisitos establecidos en la ley y la jurisprudencia para tener derecho a la pensión de sobrevivientes solicitada, motivo por el cual ampara los derechos invocados y revoca la decisión objetada, confirmando el fallo de primera instancia que dentro del proceso de nulidad y restablecimiento del derecho, condenó a CAJANAL a reconocer y pagar, la pensión de sobrevivientes a favor de la accionante. CONCEDIDA.",
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Procedencia excepcional para la protección de derechos fundamentales"
+    },
+    {
+      "tema": "PENSIÓN DE SOBREVIVIENTES",
+      "subtema": "Tribunal desconoció precedente tanto vertical como horizontal para la aplicación retrospectiva de la ley 100 de 1993, artículo 46"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Improcedencia por regla general"
+    },
+    {
+      "tema": "JURISPRUDENCIA DEL CONSEJO DE ESTADO EN MATERIA DE PENSIONES",
+      "subtema": "Aplicación retrospectiva de la ley en pensión de sobrevivientes"
+    },
+    {
+      "tema": "DESCONOCIMIENTO DEL PRECEDENTE COMO CAUSAL ESPECIFICA DE PROCEDIBILIDAD DE LA ACCION DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Reiteración de jurisprudencia"
+    }
+  ]
+}

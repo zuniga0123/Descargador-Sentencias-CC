@@ -1,0 +1,49 @@
+{
+  "radicado": "T-175-11",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2011,
+  "fecha_creacion": "2011-03-14",
+  "magistrado_ponente": "Jorge Iván Palacio Palacio",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "ACCIÓN DE TUTELA",
+  "subtema": "Improcedencia por no ejercicio previo de recursos ordinarios",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Decreto 758 de 1990",
+    "Ley 1123 de 2007",
+    "Decreto 2879 de 1985",
+    "Decreto 1474 de 1997"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2011/T-175-11.htm",
+  "fecha_descarga": "2026-10-21T17:07:51.312341+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2011-03-14",
+  "fecha_publicacion": null,
+  "numero": "T-175/11",
+  "tipo_cc": "T",
+  "prov_id": "2034",
+  "tema_relatoria": null,
+  "resumen": "Debido proceso, vida digna, mínimo vital, tercera edad. A cada uno de los accionantes les fue concedida, por parte de la Empresa de Servicios Públicos de Cartagena, pensión de jubilación en diferentes cuantías, atendiendo el monto del salario y el cargo que desempeñaban en la entidad, al momento de sus respectivas desvinculaciones. De manera posterior, el ISS accedió el reconocimiento de una pensión de vejez a favor de cada uno de ellos. En razón del reconocimiento de la segunda pensión, la Empresa de Servicios Públicos ordenó compartir la pensión de jubilación con la pensión de vejez. Los demandantes exponen que con esta decisión se incurrió en una doble vía de hecho, porque se disminuyó de un tajo el valor adquirido sin que mediara autorización expresa del titular del derecho y porque la notificación de dicha decisión se realizó a través de edicto emplazatorio y no de manera personal, como legalmente se debía. En sede de revisión, la Sala consideró, luego de un análisis pormenorizado de cada uno de los casos en particular, que no se presentaba afectación de derecho fundamental alguno de los accionantes, que pudiera hacer necesaria la protección constitucional por vía de tutela, por lo cual declaró la improcedencia de la acción",
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Improcedencia por no ejercicio previo de recursos ordinarios"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Requisitos de procedibilidad"
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA ACTO ADMINISTRATIVO",
+      "subtema": "Procedencia excepcional"
+    },
+    {
+      "tema": "PRINCIPIO DE INMEDIATEZ",
+      "subtema": "Plazo razonable para presentar tutela debe determinarse con base en las circunstancias del caso concreto"
+    }
+  ]
+}

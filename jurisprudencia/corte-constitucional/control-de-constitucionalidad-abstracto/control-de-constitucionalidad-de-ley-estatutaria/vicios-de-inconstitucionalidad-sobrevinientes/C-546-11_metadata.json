@@ -1,0 +1,51 @@
+{
+  "radicado": "C-546-11",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2011,
+  "fecha_creacion": "2011-07-06",
+  "magistrado_ponente": "Gabriel Eduardo Mendoza Martelo",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "CONTROL DE CONSTITUCIONALIDAD DE LEY ESTATUTARIA",
+  "subtema": "Vicios de inconstitucionalidad sobrevinientes",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 270 de 1996",
+    "Decreto 2067 de 1991",
+    "Ley 5 de 1992"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2011/C-546-11.htm",
+  "fecha_descarga": "2026-10-21T17:22:05.730118+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2011-07-06",
+  "fecha_publicacion": null,
+  "numero": "C-546/11",
+  "tipo_cc": "C",
+  "prov_id": "2485",
+  "tema_relatoria": "COSA JUZGADA CONSTITUCIONAL EN LICENCIA NO REMUNERADA PARA FUNCIONARIOS Y EMPLEADOS DE LA RAMA JUDICIAL",
+  "resumen": "Ley 270 de 1996. Estatutaria de la Administración de Justicia. Demanda de Inconstitucionalidad contra el artículo 142 (parcial). La demandante considera que el inciso segundo de la disposición atacada es abiertamente contrario al principio de igualdad consagrado en el artículo 13 de la Constitución, en cuanto establece tácitamente una discriminación injustificada entre funcionarios y empleados de la Rama Judicial, en la medida que, mientras en el primer inciso de la referida disposición se establece una licencia no remunerada de hasta 3 meses tanto para unos como para los otros, en el inciso segundo sólo se otorga a los funcionarios, el derecho a la licencia no remunerada hasta por dos años, para adelantar cursos de especialización. La Sala constata que la Corte Constitucional efectuó el control automático, definitivo e integral del proyecto de ley que dio origen a la Ley 270 de 1996, por lo que la misma se encuentra amparada por una providencia que ha hecho tránsito a cosa juzgada constitucional y en tal sentido decide, ESTARSE A LO RESUELTO en la sentencia C-037/96.",
+  "titulaciones": [
+    {
+      "tema": "CONTROL DE CONSTITUCIONALIDAD DE LEY ESTATUTARIA",
+      "subtema": "Vicios de inconstitucionalidad sobrevinientes"
+    },
+    {
+      "tema": "CONTROL DE CONSTITUCIONALIDAD DE LEY ESTATUTARIA CON POSTERIORIDAD A REVISION PREVIA",
+      "subtema": "Situaciones para su procedencia"
+    },
+    {
+      "tema": "CONTROL DE CONSTITUCIONALIDAD DE LEY ESTATUTARIA",
+      "subtema": "Caso excepcional en que procede nuevo juicio por vía de la acción pública de inconstitucionalidad"
+    },
+    {
+      "tema": "LICENCIA NO REMUNERADA PARA FUNCIONARIOS Y EMPLEADOS DE LA RAMA JUDICIAL",
+      "subtema": "Cosa juzgada constitucional"
+    },
+    {
+      "tema": "CONTROL DE CONSTITUCIONALIDAD DE PROYECTO DE LEY ESTATUTARIA",
+      "subtema": "Características"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "radicado": "T-045-11",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2011,
+  "fecha_creacion": "2011-02-04",
+  "magistrado_ponente": "María Victoria Calle Correa",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "DERECHO AL DEBIDO PROCESO, TRABAJO Y ACCESO A CARGOS PUBLICOS",
+  "subtema": "Vulneración por CNSC al excluir de concurso para dragoneante con fundamento en un requisito que no es necesario para el adecuado desempeño de las funciones",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 760 de 2005",
+    "Decreto 2591 de 1991",
+    "Decreto 1227 de 2005",
+    "Ley 270 de 1996"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2011/T-045-11.htm",
+  "fecha_descarga": "2026-10-21T17:02:08.050831+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2011-02-04",
+  "fecha_publicacion": null,
+  "numero": "T-045/11",
+  "tipo_cc": "T",
+  "prov_id": "1882",
+  "tema_relatoria": null,
+  "resumen": "Acceso y ejercicio de cargos públicos. El actor presentó acción de tutela en contra de la Comisión Nacional del Servicio Civil, por cuanto fue excluido de la convocatoria No. 127 del 2009 para la provisión de cargos de dragoneante en el INPEC, justo en la etapa de realización de exámenes médicos donde calificó como no apto, por padecer desviación septal superior al 30%. Comenta que este cargo lo desempeñó en forma provisional durante 6 meses, desde que inició el concurso y que durante ese tiempo no sufrió ninguna afección relacionada con el diagnóstico, motivo por el cual solicitó revocar la decisión y permitirle continuar en el proceso de selección . La Sala decidió con base en la jurisprudencia existente en la procedencia excepcional de la tutela contra actos administrativos que reglamentan un concurso de méritos y sobre la proporcionalidad y racionalidad de los requisitos médicos y físicos para el cargo de dragoneantes, considerando que la CNSC exigió en la convocatoria requisitos que no son necesarios para el adecuado desempeño de las funciones del cargo a proveer. Concedida.",
+  "titulaciones": [
+    {
+      "tema": "DERECHO AL DEBIDO PROCESO, TRABAJO Y ACCESO A CARGOS PUBLICOS",
+      "subtema": "Vulneración por CNSC al excluir de concurso para dragoneante con fundamento en un requisito que no es necesario para el adecuado desempeño de las funciones"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Procedencia excepcional contra actos administrativos que reglamentan un concurso de méritos"
+    },
+    {
+      "tema": "PROPORCIONALIDAD Y RACIONALIDAD DE LOS REQUISITOS MEDICOS Y FISICOS EXIGIDOS PARA EL CARGO DE DRAGONEANTE DEL INPEC",
+      "subtema": "Jurisprudencia constitucional"
+    }
+  ]
+}

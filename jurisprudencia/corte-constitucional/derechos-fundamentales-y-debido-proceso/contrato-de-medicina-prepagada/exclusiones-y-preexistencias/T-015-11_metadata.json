@@ -1,0 +1,54 @@
+{
+  "radicado": "T-015-11",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2011,
+  "fecha_creacion": "2011-01-17",
+  "magistrado_ponente": "Gabriel Eduardo Mendoza Martelo",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "CONTRATO DE MEDICINA PREPAGADA",
+  "subtema": "Exclusiones y preexistencias",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Decreto 806 de 1998",
+    "Ley 100 de 1993",
+    "Decreto 1570 de 1993",
+    "Decreto 1486 de 1994",
+    "Decreto 1222 de 1994"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2011/T-015-11.htm",
+  "fecha_descarga": "2026-10-21T17:01:15.821366+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2011-01-17",
+  "fecha_publicacion": null,
+  "numero": "T-015/11",
+  "tipo_cc": "T",
+  "prov_id": "1830",
+  "tema_relatoria": null,
+  "resumen": "Salud, vida. El señor Henry Prado Castaño suscribió un contrato con la empresa Colmédica Medicina Prepagada para la prestación de los servicios de salud integral, los cuales se venían prestando sin objeción alguna durante un lapso aproximado de 8 años, y de manera posterior es informado que la e hipertensión arterial que padece es preexistente a la vigencia del contrato realizado y que por ende, se debe activar dentro del contrato esa preexistencia y consecuentemente excluir. la atención de la misma. El accionante pretende que no se incluya esta preexistencia y que se le continúen prestando todos los servicios médicos sin restricción alguna. La Sala considera que a pesar de que a los contratos de medicina prepagada los rigen las normas del derecho privado, en este caso es procedente la tutela por cuanto está comprometida la salud y la vida del accionante y no le es viable a Colmédica dejar de prestar un servicio amparado en una omisión, en la que ella misma incurrió, al momento de suscribir el contrato. Concede.",
+  "titulaciones": [
+    {
+      "tema": "CONTRATO DE MEDICINA PREPAGADA",
+      "subtema": "Exclusiones y preexistencias"
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA EMPRESA DE MEDICINA PREPAGADA",
+      "subtema": "Orden de exclusión de preexistencia"
+    },
+    {
+      "tema": "ACCION DE TUTELA PARA RESOLVER CONTROVERSIAS DERIVADAS DE LOS CONTRATOS DE MEDICINA PREPAGADA",
+      "subtema": "Procedencia excepcional"
+    },
+    {
+      "tema": "CONTRATO DE MEDICINA PREPAGADA",
+      "subtema": "Naturaleza y alcance"
+    },
+    {
+      "tema": "PLANES ADICIONALES DE SALUD EN EL SISTEMA GENERAL DE SEGURIDAD SOCIAL EN SALUD",
+      "subtema": "Naturaleza"
+    }
+  ]
+}

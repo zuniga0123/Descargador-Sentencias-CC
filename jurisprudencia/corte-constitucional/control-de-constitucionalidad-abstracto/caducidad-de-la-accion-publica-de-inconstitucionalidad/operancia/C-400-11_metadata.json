@@ -1,0 +1,43 @@
+{
+  "radicado": "C-400-11",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2011,
+  "fecha_creacion": "2011-05-18",
+  "magistrado_ponente": "Jorge Ignacio Pretelt Chaljub",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "CADUCIDAD DE LA ACCION PUBLICA DE INCONSTITUCIONALIDAD",
+  "subtema": "Operancia",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2067 de 1991",
+    "Ley 1328 de 2009",
+    "Ley 1238 de 2009"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2011/C-400-11.htm",
+  "fecha_descarga": "2026-10-21T17:18:05.840576+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2011-05-18",
+  "fecha_publicacion": null,
+  "numero": "C-400/11",
+  "tipo_cc": "C",
+  "prov_id": "2323",
+  "tema_relatoria": "FALLO INHIBITORIO POR INEPTITUD DE DEMANDA DE INCONSTITUCIONALIDAD CONTRA NORMAS EN MATERIA FINANCIERA, DE SEGUROS Y MERCADO DE VALORES",
+  "resumen": "Ley 1238 de 2010. Por la cual se dictan normas en materia financiera, de seguros, del mercado de valores y otras disposiciones. Demanda de Inconstitucionalidad contra el artículo 100. Para el demandante, la ley acusada no contempló en su texto original la figura de los corresponsales bancarios, como tampoco fue objeto de debate en las Comisiones Constitucionales Permanentes de Asuntos Económicos de la Cámara de Representantes, ni del Senado de la República. Alega igualmente que en el Pliego de Modificaciones al proyecto de Ley inicial, ni en las ponencias para segundo debate al interior de las dos Cámaras, se hizo mención alguna sobre lo que efectivamente quedó estipulado en el artículo 100 de la Ley 1238 de 2010, con lo cual se dio un quebrantamiento al principio de consecutividad establecido en la Constitución Política. La demanda de inconstitucionalidad se presentó cuando ya había transcurrido algo más de un año para solicitar el estudio del vicio de procedimiento señalado por el actor, operando en este caso el principio de caducidad de la acción, que conduce a la Corte a declarase INHIBIDA para emitir un pronunciamiento de fondo.",
+  "titulaciones": [
+    {
+      "tema": "CADUCIDAD DE LA ACCION PUBLICA DE INCONSTITUCIONALIDAD",
+      "subtema": "Operancia"
+    },
+    {
+      "tema": "ACCION DE INCONSTITUCIONALIDAD POR VICIOS DE FORMA",
+      "subtema": "Caduca en el término de un año, contado desde la publicación del acto"
+    },
+    {
+      "tema": "NORMAS EN MATERIA FINANCIERA, DE SEGUROS Y MERCADO DE VALORES",
+      "subtema": "Inhibición por haber operado el fenómeno de la caducidad de la acción pública de inconstitucionalidad"
+    }
+  ]
+}

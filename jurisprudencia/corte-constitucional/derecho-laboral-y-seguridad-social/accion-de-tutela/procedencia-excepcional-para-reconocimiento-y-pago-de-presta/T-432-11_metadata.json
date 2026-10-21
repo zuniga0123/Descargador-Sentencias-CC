@@ -1,0 +1,64 @@
+{
+  "radicado": "T-432-11",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2011,
+  "fecha_creacion": "2011-05-23",
+  "magistrado_ponente": "Mauricio Gonzalez Cuervo",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "ACCIÓN DE TUTELA",
+  "subtema": "Procedencia excepcional para reconocimiento y pago de prestaciones sociales",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 860 de 2003",
+    "Decreto 2591 de 1991",
+    "Ley 100 de 1993",
+    "Decreto 917 de 1999"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2011/T-432-11.htm",
+  "fecha_descarga": "2026-10-21T16:59:46.348388+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2011-05-23",
+  "fecha_publicacion": null,
+  "numero": "T-432/11",
+  "tipo_cc": "T",
+  "prov_id": "2342",
+  "tema_relatoria": null,
+  "resumen": "Seguridad social, mínimo vital. La entidad accionada negó el reconocimiento y pago de la pensión de invalidez al demandante, bajo el argumento de no cumplir con los requisitos establecidos en el artículo 1º de la Ley 860 de 2003. El demandante fue calificado con una pérdida de la capacidad laboral del 51.75% de origen común, con fecha de estructuración 23 de febrero de 2006 y presentó la solicitud para el reconocimiento de la prestación en el año 2010. La Sala concluyó que, en casos de pensiones de invalidez causadas por enfermedades congénitas, crónicas o degenerativas, cuando se señala como fecha de estructuración de la invalidez la fecha en que al paciente le apareció el primer síntoma y no la fecha en que por su estado de salud ya no pudo volver a trabajar, el no contabilizar las semanas cotizadas después de la fecha de estructuración, vulnera derechos fundamentales. En el presente caso se concede el amparo y se ordena al ISS iniciar el trámite para el reconocimiento y pago de la pensión del invalidez al actor. CONCEDIDA.",
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Procedencia excepcional para reconocimiento y pago de prestaciones sociales"
+    },
+    {
+      "tema": "PENSION DE INVALIDEZ Y FECHA DE ESTRUCTURACION DE LA INVALIDEZ",
+      "subtema": "Enfermedades en las que la situación del paciente empeora con el paso del tiempo"
+    },
+    {
+      "tema": "POBLACION EN SITUACION DE DISCAPACIDAD COMO GRUPO SOCIAL DE ESPECIAL PROTECCION CONSTITUCIONAL",
+      "subtema": null
+    },
+    {
+      "tema": "ACCION DE TUTELA PARA RECONOCIMIENTO DE PRESTACIONES SOCIALES",
+      "subtema": "Procedencia excepcional"
+    },
+    {
+      "tema": "PENSION DE INVALIDEZ Y FECHA DE ESTRUCTURACION DE LA INVALIDEZ",
+      "subtema": "Dificultad en contabilizar las semanas de cotización por el carácter progresivo y degenerativo de la enfermedad"
+    },
+    {
+      "tema": "PENSION DE INVALIDEZ POR ENFERMEDAD NO PROFESIONAL",
+      "subtema": "Requisitos establecidos en el artículo 1 de la Ley 860/03"
+    },
+    {
+      "tema": "PENSIÓN DE INVALIDEZ",
+      "subtema": "Caso en que se debe tener como fecha de estructuración del estado de invalidez, la de elaboración del dictamen"
+    },
+    {
+      "tema": "PENSIÓN DE INVALIDEZ",
+      "subtema": "Requisitos para obtener reconocimiento y pago"
+    }
+  ]
+}

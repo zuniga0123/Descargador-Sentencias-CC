@@ -1,0 +1,51 @@
+{
+  "radicado": "T-477-11",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2011,
+  "fecha_creacion": "2011-06-13",
+  "magistrado_ponente": "María Victoria Calle Correa",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "DEBIDO PROCESO Y MINIMO VITAL",
+  "subtema": "Vulneración al revocar acto administrativo que reconoció pensión de jubilación, por considerar que accionante no tenía derecho",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 797 de 2003",
+    "Ley 33 de 1985",
+    "Ley 62 de 1985",
+    "Decreto 287 de 1991",
+    "Decreto 2318 de 1988",
+    "Decreto 2591 de 1991",
+    "Ley 600 de 2000"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2011/T-477-11.htm",
+  "fecha_descarga": "2026-10-21T17:00:00.936583+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2011-06-13",
+  "fecha_publicacion": null,
+  "numero": "T-477/11",
+  "tipo_cc": "T",
+  "prov_id": "2410",
+  "tema_relatoria": null,
+  "resumen": "Debido proceso, confianza legítima, garantía de los derechos adquiridos, mínimo vital, seguridad social. Se interpone la acción de tutela alegando la vulneración de derechos fundamentales, en virtud de la revocatoria unilateral que hiciera el Ministerio de la Protección Social de la resolución mediante la cual la Empresa Puertos de Colombia le había reconocido al actor una pensión de jubilación. El Ministerio argumentó que la decisión se produjo en un contexto en el cual se sometió a revisión todas las pensiones reconocidas por Foncolpuertos y en el hecho de haber verificado en el caso del accionante, que éste no cumplía con los requisitos para acceder a la prestación, toda vez que la naturaleza del cargo que ocupó en la extinta empresa era de empleado público y no de trabajador oficial, por lo que no podía ser beneficiario de prerrogativas contempladas en la convención colectiva de trabajo que regía en esa época y sobre la cual se le reconoció erróneamente la pensión. La Sala evidencia que el Ministerio accionado no observó los requisitos para revocar conforme a derecho su propio acto, en tanto no inició el proceso judicial correspondiente para derogar el reconocimiento de la pensión del actor y porque tal reconocimiento tampoco se dio en virtud de algunos de los dos supuestos excepcionales en los cuales se puede revocar un acto particular y concreto, sin contar con el consentimiento expreso del beneficiario. SE CONCEDE.",
+  "titulaciones": [
+    {
+      "tema": "DEBIDO PROCESO Y MINIMO VITAL",
+      "subtema": "Vulneración al revocar acto administrativo que reconoció pensión de jubilación, por considerar que accionante no tenía derecho"
+    },
+    {
+      "tema": "PENSION DE JUBILACION",
+      "subtema": "Naturaleza jurídica"
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA GRUPO INTERNO DE TRABAJO PARA EL PASIVO SOCIAL DE PUERTOS DE COLOMBIA DEL MINISTERIO DE TRABAJO",
+      "subtema": "Orden de reanudar el pago de la pensión de jubilación"
+    },
+    {
+      "tema": "REVOCATORIA UNILATERAL DE ACTO ADMINISTRATIVO",
+      "subtema": "Prohibición de revocar unilateralmente derecho pensional, sin existir pronunciamiento judicial o el consentimiento expreso del beneficiario del acto"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "radicado": "C-028-11",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2011,
+  "fecha_creacion": "2011-01-26",
+  "magistrado_ponente": "María Victoria Calle Correa",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "INHIBICION DE LA CORTE CONSTITUCIONAL",
+  "subtema": "Debate legal sin relevancia constitucional",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 446 de 1998",
+    "Decreto 2067 de 1991",
+    "Ley 58 de 1982",
+    "Ley 270 de 1996"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2011/C-028-11.htm",
+  "fecha_descarga": "2026-10-21T17:16:17.129596+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2011-01-26",
+  "fecha_publicacion": null,
+  "numero": "C-028/11",
+  "tipo_cc": "C",
+  "prov_id": "1845",
+  "tema_relatoria": "FALLO INHIBITORIO POR INEPTITUD DE DEMANDA DE INCONSTITUCIONALIDAD CONTRA NORMA QUE REGULA LA COMPETENCIA DE LOS JUECES ADMINISTRATIVOS EN PRIMERA INSTANCIA.",
+  "resumen": "Ley 446 de 1998, demanda de inconstitucionalidad contre el artículo 134 B, numeral 6 adicionado por el artículo 42 “Por el cual se reforma el Código Contencioso Administrativo”, la norma regula la competencia de los jueces administrativos en primera instancia, el aparte acusado es el siguiente “De los de reparación directa cuando la cuantía no exceda de quinientos (500) salarios mínimos legales mensuales”, el demandante considera que la norma acusada vulnera, los artículos 2, 29, 31, 90, 121, 150, 152, 228 y 229 de la Constitución, ya que asigna a los Tribunales Administrativos y al Consejo de Estado una competencia privativa para conocer de los procesos de reparación directa en los cuales el título jurídico de imputación sea el error jurisdiccional, la privación injusta de la libertad y el defectuoso funcionamiento de la administración de justicia independientemente de su cuantía. La Corte determina que existe una ineptitud sustancial de la demanda para emitir un pronunciamiento de fondo, por lo tanto decide declararse INHIBIDA.",
+  "titulaciones": [
+    {
+      "tema": "INHIBICION DE LA CORTE CONSTITUCIONAL",
+      "subtema": "Debate legal sin relevancia constitucional"
+    },
+    {
+      "tema": "INHIBICION DE LA CORTE CONSTITUCIONAL",
+      "subtema": "Ineptitud sustantiva de la demanda"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "radicado": "T-755-11",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2011,
+  "fecha_creacion": "2011-10-06",
+  "magistrado_ponente": "Jorge Iván Palacio Palacio",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "DERECHO AL MINIMO VITAL Y SEGURIDAD SOCIAL",
+  "subtema": "Orden para reconocer y pagar pensión de invalidez",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 860 de 2003",
+    "Decreto 2591 de 1991",
+    "Ley 100 de 1993",
+    "Ley 797 de 2003",
+    "Ley 270 de 1996"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2011/T-755-11.htm",
+  "fecha_descarga": "2026-10-21T17:06:47.699257+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2011-10-06",
+  "fecha_publicacion": null,
+  "numero": "T-755/11",
+  "tipo_cc": "T",
+  "prov_id": "2787",
+  "tema_relatoria": null,
+  "resumen": "Mínimo vital, seguridad social, debido proceso. La demandante tuvo una pérdida de la capacidad laboral superior al 50% y al solicitar al ISS el reconocimiento y pago de la pensión de invalidez por riesgo común, la petición fue negada por no cumplir con el requisito de fidelidad al sistema, el cual estaba vigente al momento de estructuración de la invalidez. Luego de precisar jurisprudencia constitucional relacionada con la procedencia excepcional de la acción de tutela para el reconocimiento de la pensión de invalidez y la inaplicación e inconstitucionalidad del requisito de fidelidad consagrado en la Ley 860 de 2003, por desconocimiento del principio de progresividad, la Sala decide CONCEDER el amparo solicitado y ordenar a la entidad accionada que expida la resolución de reconocimiento de la prestación a favor de la actora y le empiece a pagar la correspondiente mesada pensional.",
+  "titulaciones": [
+    {
+      "tema": "DERECHO AL MINIMO VITAL Y SEGURIDAD SOCIAL",
+      "subtema": "Orden para reconocer y pagar pensión de invalidez"
+    },
+    {
+      "tema": "ACCION DE TUTELA PARA RECONOCIMIENTO DE PENSION DE INVALIDEZ",
+      "subtema": "Procedencia excepcional"
+    },
+    {
+      "tema": "REQUISITO DE FIDELIDAD PARA PENSION DE INVALIDEZ",
+      "subtema": "Inaplicabilidad e inconstitucionalidad en el sistema pensional, consagrado en el numeral 2° del artículo 1° de la ley 860 de 2003, por desconocimiento del principio de progresividad"
+    }
+  ]
+}

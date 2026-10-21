@@ -1,0 +1,58 @@
+{
+  "radicado": "C-787-11",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2011,
+  "fecha_creacion": "2011-10-20",
+  "magistrado_ponente": "Jorge Ignacio Pretelt Chaljub",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "CONTROL DE CONSTITUCIONALIDAD DE PROYECTO DE LEY ESTATUTARIA",
+  "subtema": "Consideración de naturaleza ordinaria al efectuarse el análisis",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 1285 de 2009",
+    "Ley 270 de 1996",
+    "Decreto 2067 de 1991",
+    "Ley 1194 de 2009",
+    "Ley 1395 de 2010",
+    "Ley 1395 de 2009"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2011/C-787-11.htm",
+  "fecha_descarga": "2026-10-21T17:20:38.559175+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2011-10-20",
+  "fecha_publicacion": null,
+  "numero": "C-787/11",
+  "tipo_cc": "C",
+  "prov_id": "2811",
+  "tema_relatoria": "COSA JUZGADA CONSTITUCIONAL EN NORMA ESTATUTARIA QUE REGULA LA PERENCION EN PROCESOS EJECUTIVOS",
+  "resumen": "Demanda de inconstitucionalidad contra el artículo 23 de la Ley 1285 de 2009, por medio de la cual se reforma la Ley 270 de 1996 Estatutaria de la Administración de Justicia. El actor pretende que la Corte Constitucional realice un pronunciamiento de fondo a la norma demandada por considerar que respecto a ella existe un vicio de fondo que no fue estudiado en su momento en la sentencia C-713-08. Sostiene que, a pesar de encontrarse contenida en una Ley Estatutaria, su contenido es propio de una Ley Ordinaria. La Corte advierte que el artículo demandado hace parte de una Ley Estatutaria que fue objeto de control previo de constitucionalidad, la cual fue estudiada por la Corporación y encontrada ajustada al ordenamiento constitucional. Por haber operado la cosa juzgada constitucional se decide ESTARSE A LO RESUELTO en la sentencia C-713/08.",
+  "titulaciones": [
+    {
+      "tema": "CONTROL DE CONSTITUCIONALIDAD DE PROYECTO DE LEY ESTATUTARIA",
+      "subtema": "Consideración de naturaleza ordinaria al efectuarse el análisis"
+    },
+    {
+      "tema": "NORMA ESTATUTARIA QUE REGULA LA PERENCION EN PROCESOS EJECUTIVOS",
+      "subtema": "Cosa juzgada constitucional"
+    },
+    {
+      "tema": "LEY ESTATUTARIA",
+      "subtema": "Características"
+    },
+    {
+      "tema": "CONTROL DE CONSTITUCIONALIDAD DE LEY ESTATUTARIA CON POSTERIORIDAD A REVISION PREVIA",
+      "subtema": "Reglas de procedencia excepcional"
+    },
+    {
+      "tema": "LEYES ESTATUTARIAS",
+      "subtema": "Alcance del control constitucional"
+    },
+    {
+      "tema": "LEYES ESTATUTARIAS",
+      "subtema": "Requisitos de procedimiento"
+    }
+  ]
+}

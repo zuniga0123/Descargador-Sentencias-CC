@@ -1,0 +1,58 @@
+{
+  "radicado": "C-301-11",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2011,
+  "fecha_creacion": "2011-04-27",
+  "magistrado_ponente": "Juan Carlos Henao Pérez",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "COMPETENCIA DEL LEGISLADOR PARA ESTABLECER TIPOS PENALES",
+  "subtema": "Discrecionalidad",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2067 de 1991",
+    "Ley 599 de 2000",
+    "Ley 1142 de 2007",
+    "Ley 1032 de 2006",
+    "Decreto 100 de 1980",
+    "Ley 890 de 2004"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2011/C-301-11.htm",
+  "fecha_descarga": "2026-10-21T17:14:53.612693+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2011-04-27",
+  "fecha_publicacion": null,
+  "numero": "C-301/11",
+  "tipo_cc": "C",
+  "prov_id": "2182",
+  "tema_relatoria": "FALLO INHIBITORIO POR INEPTITUD DE DEMANDA DE INCONSTITUCIONALIDAD CONTRA NORMA DEL CODIGO PENAL",
+  "resumen": "Demanda de Inconstitucionalidad contra el artículo 240, numeral 4º de la Ley 599 de 2000, modificado por la Ley 1142 de 2007, artículo 37 (parcial). El aparte acusado es el siguiente: “4º. Con escalonamiento, o con llave sustraída o falsa, ganzúa o cualquier otro instrumento similar, o violando o superando seguridades electrónicas u otras semejantes. Para el demandante, la norma acusada viola el artículo 29 de la Constitución Política, por cuanto a través suyo se consagra una norma legal vaga y ambigua que resulta contraria a los principios de tipicidad y legalidad. Para el actor, las conductas punibles deben estar descritas de manera expresa, clara e inequívoca, pues sólo de tal forma las personas pueden conocer con exactitud los comportamientos prohibidos que se les imputa. Para la Corte, los argumentos del actor no despiertan ninguna incertidumbre sobre la constitucionalidad de la norma impugnada, factor indispensable en la argumentación del demandante para hacer un pronunciamiento de fondo. En tal virtud, la Sala se declara INHIBIDA para resolver de fondo, por ineptitud sustancial de la demanda.",
+  "titulaciones": [
+    {
+      "tema": "COMPETENCIA DEL LEGISLADOR PARA ESTABLECER TIPOS PENALES",
+      "subtema": "Discrecionalidad"
+    },
+    {
+      "tema": "PRINCIPIOS DE LEGALIDAD Y TIPICIDAD EN MATERIA PENAL",
+      "subtema": "No significan configuración exclusiva, cerrada y unívoca de los tipos penales"
+    },
+    {
+      "tema": "PRINCIPIO PRO ACTIONE",
+      "subtema": "Inaplicación"
+    },
+    {
+      "tema": "ACCION PUBLICA DE INCONSTITUCIONALIDAD",
+      "subtema": "Requisitos"
+    },
+    {
+      "tema": "ACCION DE INCONSTITUCIONALIDAD",
+      "subtema": "Naturaleza jurídica"
+    },
+    {
+      "tema": "INHIBICION DE LA CORTE CONSTITUCIONAL POR INEPTITUD SUSTANTIVA DE LA DEMANDA",
+      "subtema": "Incumplimiento de requisitos de certeza, especificidad, pertinencia y suficiencia en los cargos"
+    }
+  ]
+}

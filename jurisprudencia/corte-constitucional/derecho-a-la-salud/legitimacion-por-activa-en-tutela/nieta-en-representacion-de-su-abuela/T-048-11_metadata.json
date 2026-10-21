@@ -1,0 +1,43 @@
+{
+  "radicado": "T-048-11",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2011,
+  "fecha_creacion": "2011-02-04",
+  "magistrado_ponente": "María Victoria Calle Correa",
+  "area": "Derecho a la Salud",
+  "tema": "LEGITIMACIÓN POR ACTIVA EN TUTELA",
+  "subtema": "Nieta en representación de su abuela",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 1122 de 2007",
+    "Decreto 2591 de 1991",
+    "Ley 1438 de 2011"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2011/T-048-11.htm",
+  "fecha_descarga": "2026-10-21T17:02:15.429490+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2011-02-04",
+  "fecha_publicacion": null,
+  "numero": "T-048/11",
+  "tipo_cc": "T",
+  "prov_id": "1884",
+  "tema_relatoria": null,
+  "resumen": "Salud, seguridad social.. La accionante actúa en calidad de agente oficiosa de su abuela, mujer de 63 años de edad afiliada al Régimen Subsidiado de Salud SISBEN Nivel 2, a quien su médico tratante le diagnosticó un quiste hepático y le ordenó la práctica de un TAC abdominal contrastado. La E.P.S. S. ECOOPSOS le negó el servicio requerido por no estar el mismo incluido en el POS-S y por requerir por parte de la Dirección Seccional de Salud la respectiva autorización del procedimiento. Esta última entidad le indicó que la competencia recaía en la E.P.S.S y que ésta a su vez podía repetir ante el Fosyga por los costos en que incurriera. La segunda instancia negó el amparo solicitado porque consideró que la agente oficiosa no probó las razones por las cuales su agenciada no podía ejercer la acción directamente. La Sala estudió tanto el tema de la agencia oficiosa como lo dispuesto en la T-760/08 respecto a la violación al derecho a la salud cuando una entidad de salud se niega a autorizar un servicio que no está incluido en el POS, cuando éste se requiera con necesidad. Concede.",
+  "titulaciones": [
+    {
+      "tema": "LEGITIMACIÓN POR ACTIVA EN TUTELA",
+      "subtema": "Nieta en representación de su abuela"
+    },
+    {
+      "tema": "RECOBRO ANTE EL FOSYGA",
+      "subtema": "No surge de la jurisprudencia sino de la Ley y la reglamentación"
+    },
+    {
+      "tema": "DERECHO A LA SALUD DE PERSONA AFILIADA AL REGIMEN SUBSIDIADO DE SALUD",
+      "subtema": "Examen médico que no se encuentra incluido en el POS-S"
+    }
+  ]
+}

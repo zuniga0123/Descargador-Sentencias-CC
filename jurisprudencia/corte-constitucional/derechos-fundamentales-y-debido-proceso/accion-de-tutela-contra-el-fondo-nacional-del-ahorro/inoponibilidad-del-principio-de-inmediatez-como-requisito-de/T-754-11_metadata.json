@@ -1,0 +1,47 @@
+{
+  "radicado": "T-754-11",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2011,
+  "fecha_creacion": "2011-10-06",
+  "magistrado_ponente": "Jorge Ivan Palacio Palacio",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCION DE TUTELA CONTRA EL FONDO NACIONAL DEL AHORRO",
+  "subtema": "Inoponibilidad del principio de inmediatez como requisito de procedibilidad en los casos en que se han variado las condiciones iniciales del crédito de pesos a UVR",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 546 de 1999",
+    "Ley 1395 de 2010",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2011/T-754-11.htm",
+  "fecha_descarga": "2026-10-21T17:06:44.066900+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2011-10-06",
+  "fecha_publicacion": null,
+  "numero": "T-754/11",
+  "tipo_cc": "T",
+  "prov_id": "2786",
+  "tema_relatoria": null,
+  "resumen": "Con la presente sentencia la Corte ampara el derecho fundamental al debido proceso del accionante y ordena al Fondo Nacional de Ahorro restablecer las condiciones iniciales del crédito hipotecario otorgado al actor, en cuanto al sistema de amortización, plazo y número de cuotas, las cuales deben ser en su orden, en pesos, 15 años y 180 cuotas mensuales. De manera concomitante, se ordena al accionado brindar información clara, completa, precisa y comprensible sobre el estado del crédito y del comportamiento del mismo en caso de convenir su modificación con el fin de adecuarlo a las exigencias legales y jurisprudenciales. Así mismo, se establece que de ser necesario variar las condiciones iniciales del crédito, éste deberá continuar en pesos y será imprescindible contra con el consentimiento del deudor, en cuyo caso contrario se mantendrán las condiciones inicialmente pactadas. CONCEDIDA.",
+  "titulaciones": [
+    {
+      "tema": "ACCION DE TUTELA CONTRA EL FONDO NACIONAL DEL AHORRO",
+      "subtema": "Inoponibilidad del principio de inmediatez como requisito de procedibilidad en los casos en que se han variado las condiciones iniciales del crédito de pesos a UVR"
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA EL FONDO NACIONAL DEL AHORRO",
+      "subtema": "Procedencia por violación al debido proceso y los principios de buena fe y respeto por el acto propio al variar unilateralmente las condiciones del contrato de mutuo para la adquisición de vivienda"
+    },
+    {
+      "tema": "FONDO NACIONAL DEL AHORRO",
+      "subtema": "Deber de informar a usuarios la redenominación de créditos hipotecarios"
+    },
+    {
+      "tema": "FONDO NACIONAL DEL AHORRO",
+      "subtema": "Orden para que restablezca las condiciones iniciales del crédito hipotecario en pesos y a un plazo de 15 años y 180 cuotas"
+    }
+  ]
+}

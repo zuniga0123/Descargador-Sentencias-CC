@@ -1,0 +1,59 @@
+{
+  "radicado": "T-466-11",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2011,
+  "fecha_creacion": "2011-06-09",
+  "magistrado_ponente": null,
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCIÓN DE TUTELA CONTRA LAUDO ARBITRAL",
+  "subtema": "Procedencia excepcional",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 80 de 1993",
+    "Decreto 2649 de 1993",
+    "Decreto 1818 de 1998",
+    "Ley 142 de 1994",
+    "Decreto 2591 de 1991",
+    "Ley 689 de 2001",
+    "Decreto 1279 de 1989"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2011/T-466-11.htm",
+  "fecha_descarga": "2026-10-21T16:59:23.958771+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2011-06-09",
+  "fecha_publicacion": null,
+  "numero": "T-466/11",
+  "tipo_cc": "T",
+  "prov_id": "2398",
+  "tema_relatoria": null,
+  "resumen": "Debido proceso. Ante una controversia generada en un contrato, su cesión y la solicitud de liberar la obligación de pagar las pérdidas operativas generadas en el mismo, las partes contractuales (Conhydra S.A. E.SP., Municipio de Turbo y Aguas de Urabá S.A. E.S.P. ), solicitaron la conformación de un Tribunal de Arbitramento que dirimiera sus diferencias. El trámite arbitral culminó en un laudo, frente al cual se solicitó la aclaración, corrección y complementación, petición que fue desatendida por el panel de árbitros. Por existir inconformidad con la decisión arbitral, se presentó un recurso de anulación ante la Sección Tercera de la Sala Contencioso Administrativa del Consejo de Estado, quien declaró infundado el recurso. El accionante considera que el Tribunal de Arbitramento desconoció su derecho fundamental al debido proceso y la Sala concluye que efectivamente el laudo arbitral constituye una vía de hecho por defecto fáctico, toda vez que existió una valoración defectuosa del acervo probatorio que incidió de manera directa en el sentido de la decisión, la cual derivó en un quebrantamiento del derecho al debido proceso de la entidad accionante, toda vez que el plenario apuntaba inequívocamente a una conclusión diametralmente opuesta. CONCEDIDA",
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA LAUDO ARBITRAL",
+      "subtema": "Procedencia excepcional"
+    },
+    {
+      "tema": "DEBIDO PROCESO",
+      "subtema": "Vulneración por parte de Tribunal de Arbitramento que realizó valoración defectuosa del acervo probatorio y condenó a pagar al Municipio de Turbo"
+    },
+    {
+      "tema": "VIA DE HECHO EN MATERIA ARBITRAL POR DEFECTO SUSTANTIVO",
+      "subtema": "Configuración"
+    },
+    {
+      "tema": "ARBITRAMENTO",
+      "subtema": "Definición"
+    },
+    {
+      "tema": "ARBITRAMENTO",
+      "subtema": "Características"
+    },
+    {
+      "tema": "VIA DE HECHO EN MATERIA ARBITRAL POR DEFECTO FACTICO",
+      "subtema": "Configuración"
+    }
+  ]
+}

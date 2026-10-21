@@ -1,0 +1,64 @@
+{
+  "radicado": "C-901-11",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2011,
+  "fecha_creacion": "2011-11-30",
+  "magistrado_ponente": "Jorge Iván Palacio Palacio",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "DEROGACION NORMATIVA",
+  "subtema": "Clasificación",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 153 de 1887",
+    "Ley 1438 de 2011",
+    "Decreto 2067 de 1991",
+    "Ley 1233 de 2008",
+    "Ley 1429 de 2010",
+    "Decreto 2025 de 2011",
+    "Ley 1450 de 2011",
+    "Decreto 4588 de 2006"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2011/C-901-11.htm",
+  "fecha_descarga": "2026-10-21T17:18:24.533362+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2011-11-30",
+  "fecha_publicacion": null,
+  "numero": "C-901/11",
+  "tipo_cc": "C",
+  "prov_id": "2966",
+  "tema_relatoria": "FALLO INHIBITORIO POR DEROGATORIA DE DISPOSICIÓN QUE NO ESTÁ PRODUCIENDO EFECTOS JURÍDICOS",
+  "resumen": "Demanda de Inconstitucionalidad contra el parágrafo transitorio del artículo 103 de la Ley 1438 de 2011, Por medio de la cual se reforma el Sistema General de Seguridad Social en Salud y se dictan otras disposiciones. El demandante centra la acusación en el parágrafo del artículo 103, el cual establece la vigencia de la prohibición de vincular personal misional permanente de las instituciones públicas prestadoras de salud, mediante cooperativas de trabajo asociado que hagan intermediación laboral. La Corte no encuentra fundamento alguno para realizar pronunciamiento de fondo, ya que lo acusado fue derogado tácitamente por el artículo 276 de la Ley 1450 de 2011 y está produciendo efectos jurídicos. Decide INHIBIRSE de emitir pronunciamiento alguno.",
+  "titulaciones": [
+    {
+      "tema": "DEROGACION NORMATIVA",
+      "subtema": "Clasificación"
+    },
+    {
+      "tema": "DEROGACION TACITA",
+      "subtema": "Definición"
+    },
+    {
+      "tema": "DEROGATORIA TACITA EN EL CONTROL DE CONSTITUCIONALIDAD",
+      "subtema": "Fundamento"
+    },
+    {
+      "tema": "NORMA JURIDICA",
+      "subtema": "Derogatoria"
+    },
+    {
+      "tema": "DEROGACION ORGANICA",
+      "subtema": "Definición"
+    },
+    {
+      "tema": "DEROGACION EXPRESA",
+      "subtema": "Definición"
+    },
+    {
+      "tema": "VIGENCIA DE LA PROHIBICION DE CONTRATAR PERSONAL POR LAS EMPRESAS SOCIALES DEL ESTADO MEDIANTE COOPERATIVAS DE TRABAJO ASOCIADO",
+      "subtema": "Inhibición por derogatoria tácita"
+    }
+  ]
+}

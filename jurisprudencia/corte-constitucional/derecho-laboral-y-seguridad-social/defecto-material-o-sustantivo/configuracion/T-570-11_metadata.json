@@ -1,0 +1,48 @@
+{
+  "radicado": "T-570-11",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2011,
+  "fecha_creacion": "2011-07-21",
+  "magistrado_ponente": "Jorge Ivan Palacio Palacio",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "DEFECTO MATERIAL O SUSTANTIVO",
+  "subtema": "Configuración",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 48 de 1968",
+    "Decreto 2282 de 1989",
+    "Ley 794 de 2003"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2011/T-570-11.htm",
+  "fecha_descarga": "2026-10-21T17:12:32.582806+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2011-07-21",
+  "fecha_publicacion": null,
+  "numero": "T-570/11",
+  "tipo_cc": "T",
+  "prov_id": "2534",
+  "tema_relatoria": null,
+  "resumen": "Debido proceso, trabajo en condiciones dignas, seguridad social. Tutela contra decisión judicial. Dentro de un proceso ordinario laboral, el Tribunal accionado falló en segunda instancia negando la declaración de ineficacia de un despido por la existencia de un fuero circunstancial y declaró la prescripción de la acción de reintegro por despido injusto. Según la actora, la providencia atacada incurrió en un defecto procesal y en ausencia de argumentación, debido a que en ella no se estudió la totalidad de las pretensiones contenidas en la demanda. Las Salas de Casación que consideraron la acción, denegaron la protección de los derechos, aduciendo que la actora no interpuso la solicitud de adición de la demanda y que la formulación de cargos contenida en el recurso de apelación, no invocó con claridad la ineficacia del despido por la existencia de fuero circunstancial. La Sala concluye que el amparo interpuesto no cumple con el segundo requisito de procedibilidad de la acción de tutela contra providencias judiciales, lo que impide hacer más consideraciones sobre el caso y consecuencialmente se declara su IMPROCEDENCIA.",
+  "titulaciones": [
+    {
+      "tema": "DEFECTO MATERIAL O SUSTANTIVO",
+      "subtema": "Configuración"
+    },
+    {
+      "tema": "DEFECTO PROCEDIMENTAL",
+      "subtema": "Configuración"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Reiteración de jurisprudencia sobre requisitos generales y especiales de procedibilidad"
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA TRIBUNAL SUPERIOR",
+      "subtema": "Improcedencia por cuanto accionante no interpuso recurso de adición"
+    }
+  ]
+}

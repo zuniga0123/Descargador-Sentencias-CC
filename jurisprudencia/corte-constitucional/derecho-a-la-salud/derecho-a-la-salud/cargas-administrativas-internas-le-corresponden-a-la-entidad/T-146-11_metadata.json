@@ -1,0 +1,50 @@
+{
+  "radicado": "T-146-11",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2011,
+  "fecha_creacion": "2011-03-07",
+  "magistrado_ponente": "Mauricio Gonzalez Cuervo",
+  "area": "Derecho a la Salud",
+  "tema": "DERECHO A LA SALUD",
+  "subtema": "Cargas administrativas internas le corresponden a la entidad y no al usuario",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 1122 de 2007"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2011/T-146-11.htm",
+  "fecha_descarga": "2026-10-21T17:07:28.757106+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2011-03-07",
+  "fecha_publicacion": null,
+  "numero": "T-146/11",
+  "tipo_cc": "T",
+  "prov_id": "2004",
+  "tema_relatoria": null,
+  "resumen": "Salud, vida digna. En una brigada de salud realizada en la ciudad de Ocaña (Norte de Santander), organizada por la ONG Somos Especialistas, un cirujano plástico le diagnosticó a la demandante una Hipertrofia Mamaria Bilateral y le indicó que debía someterse a una operación de mamoplastia reductora. Mediante derecho de petición la actora solicitó al Instituto Departamental de Salud de Norte de Santander la autorización para que se le practicara la cirugía sugerida y obtuvo una respuesta negativa, bajo los argumentos de que tal procedimiento quirúrgico estaba por fuera del POS y que ella no había sido valorada por un médico adscrito a la entidad, ni por junta médica que indicara que la cirugía era funcional y no meramente estética. La Sala analizó si la posición de la entidad demandada de no validar un diagnóstico de un médico no adscrito a la E.P.S., que ordenaba una intervención no incluida en el Plan Obligatorio de Salud, vulneró los derechos fundamentales de la actora. Se concluyó que los argumentos expuestos por la accionada se constituyeron en una barrera al acceso a la salud, por cuanto se trataban de trámites administrativos internos que no tenían que convertirse en una carga para la accionante. Igualmente reiteró que un dictamen médico de un profesional no adscrito a la E.P.S. puede vincular a la misma, cuando ésta no hace una evaluación técnica y especializada del concepto con el fin de aceptarlo, modificarlo o rechazarlo. SE CONCEDE.",
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Cargas administrativas internas le corresponden a la entidad y no al usuario"
+    },
+    {
+      "tema": "DERECHO AL DIAGNÓSTICO",
+      "subtema": "Fundamental como parte de la salud"
+    },
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Vulneración por interrupción de la prestación del servicio de salud por confusión en documento de identidad de la accionante"
+    },
+    {
+      "tema": "MEDICO TRATANTE",
+      "subtema": "Concepto del médico tratante no adscrito a la EPS resulta vinculante"
+    },
+    {
+      "tema": "DERECHO A LA SALUD, A LA VIDA DIGNA E INTEGRIDAD PERSONAL",
+      "subtema": "Orden de realizar estudio para cirugía de mamoplastia"
+    }
+  ]
+}

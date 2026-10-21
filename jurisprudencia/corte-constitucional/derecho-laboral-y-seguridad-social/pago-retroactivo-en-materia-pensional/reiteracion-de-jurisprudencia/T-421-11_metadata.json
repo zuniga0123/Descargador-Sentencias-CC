@@ -1,0 +1,54 @@
+{
+  "radicado": "T-421-11",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2011,
+  "fecha_creacion": "2011-05-17",
+  "magistrado_ponente": "Juan Carlos Henao Pérez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "PAGO RETROACTIVO EN MATERIA PENSIONAL",
+  "subtema": "Reiteración de jurisprudencia",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 860 de 2003",
+    "Ley 270 de 1996",
+    "Ley 100 de 1993",
+    "Decreto 2591 de 1991",
+    "Ley 712 de 2001",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2011/T-421-11.htm",
+  "fecha_descarga": "2026-10-21T16:58:35.641632+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2011-05-17",
+  "fecha_publicacion": null,
+  "numero": "T-421/11",
+  "tipo_cc": "T",
+  "prov_id": "2303",
+  "tema_relatoria": null,
+  "resumen": "Seguridad social. En el 2006 el ISS le informó al accionante sobre la pérdida de su capacidad laboral en un 57.30%, con fecha de estructuración de invalidez a partir de octubre del año 2005. Luego de solicitar la pensión, el Instituto negó la prestación bajo el argumento principal de no cumplir con el requisito de fidelidad en la cotización al Sistema de Seguridad Social en materia de pensiones. La decisión fue objeto de los recursos de ley, los cuales fueron resueltos confirmando la negativa. En el año 2010, el accionante requirió la reapertura del expediente y solicitó al Seguro Social el reconocimiento de la pensión con fundamento en la sentencia C-428-09, que declaró la inexequibilidad del requisito de fidelidad y esta petición fue nuevamente negada. En el presente asunto la Sala de Revisión entró a determinar si el ISS vulneró derechos fundamentales del actor, al negarse a reconocerle la pensión, so pretexto de no cumplir con los requisitos exigidos en la ley 860 de 2003 al momento de estructuración de la invalidez y luego de analizar temática relacionada con la procedencia excepcional de la acción de tutela para el reconocimiento y pago de la pensión de invalidez; la inexequibilidad parcial del artículo 1º. De la Ley 860 de 2003 y el amparo definitivo y retroactivo en materia de acción de tutela, decide conceder el amparo invocado y ordenar al ISS proceder a reconocer y pagar a favor del actor, la prestación por él reclamada. CONCEDIDA.",
+  "titulaciones": [
+    {
+      "tema": "PAGO RETROACTIVO EN MATERIA PENSIONAL",
+      "subtema": "Reiteración de jurisprudencia"
+    },
+    {
+      "tema": "INEXEQUIBILIDAD PARCIAL DEL ARTICULO 1 DE LA LEY 860/03 Y PRINCIPIO DE PROGRESIVIDAD",
+      "subtema": "Reiteración de jurisprudencia"
+    },
+    {
+      "tema": "ACCION DE TUTELA PARA RECONOCIMIENTO DE PENSION DE INVALIDEZ",
+      "subtema": "Procedencia excepcional"
+    },
+    {
+      "tema": "PENSION DE INVALIDEZ Y REQUISITO DE FIDELIDAD",
+      "subtema": "Fecha de estructuración de la invalidez es anterior al momento de la declaratoria de inexequibilidad, pero al momento de resolver recursos existía una posición que resultaba más favorable"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Requisitos generales de procedibilidad"
+    }
+  ]
+}
