@@ -1,0 +1,52 @@
+{
+  "radicado": "T-425-14",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2014,
+  "fecha_creacion": "2014-07-02",
+  "magistrado_ponente": "Andrés Mutis Vanegas",
+  "area": "Derechos Étnicos y Consulta Previa",
+  "tema": "INDIGENAS URBANOS",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Decreto 1397 de 1996",
+    "Decreto 2164 de 1995",
+    "Ley 89 de 1890",
+    "Decreto 1088 de 1993",
+    "Ley 21 de 1991",
+    "Ley 74 de 1968",
+    "Decreto 2893 de 2011"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2014/T-425-14.htm",
+  "fecha_descarga": "2026-10-21T13:10:40.604798+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2014-07-02",
+  "fecha_publicacion": null,
+  "numero": "T-425/14",
+  "tipo_cc": "T",
+  "prov_id": "6382",
+  "tema_relatoria": null,
+  "resumen": "Se aduce que la Dirección de Asuntos Indígenas ROM y Minorías del Ministerio del Interior vulneró los derechos a la igualdad y al reconocimiento y protección de la diversidad étnica, al no acceder a realizar el estudio etnológico solicitado por la comunidad INGA ubicada en el Villavicencio, requerida para ser reconocidos como una parcialidad y poder así, como pueblo indígena, reclamar todos los derechos a los que legal y constitucionalmente pueden acceder. La entidad señaló que el reconocimiento solicitado no resulta viable, pues implicaría otorgarles ciertos derechos colectivos que en ciudades resultarían impracticables. Se aborda temática relacionada con la protección que debe el Estado a la identidad e integridad étnica, cultural, social y económica de los pueblos indígenas; al igual que sobre el territorio y la estructura de estos pueblos de conformidad con la Constitución y las leyes colombianas. Se CONCEDE la tutela y se ordena la realización del estudio etnológico solicitado. Se insta a la Presidencia de la República, a las entidades nacionales y territoriales, y a los pueblos indígenas y sus organizaciones, a realizar con la mayor celeridad e idoneidad posibles, el Programa Presidencial para la Formulación de Estrategias y Acciones para el Desarrollo Integral de los Pueblos Indígenas de Colombia, frente a la política pública para las comunidades asentadas en espacios urbanos, con el fin de garantizar el goce y de sus derechos y el fortalecimiento y reproducción cultural.",
+  "titulaciones": [
+    {
+      "tema": "INDIGENAS URBANOS",
+      "subtema": null
+    },
+    {
+      "tema": "TERRITORIO Y ESTRUCTURA DE LOS PUEBLOS INDIGENAS DE CONFORMIDAD CON LA CONSTITUCION Y LAS LEYES COLOMBIANAS",
+      "subtema": null
+    },
+    {
+      "tema": "PROTECCION QUE DEBE EL ESTADO A LA IDENTIDAD E INTEGRIDAD ETNICA, CULTURAL, SOCIAL Y ECONOMICA DE LOS PUEBLOS INDIGENAS",
+      "subtema": null
+    },
+    {
+      "tema": "DERECHO AL RECONOCIMIENTO Y PROTECCION DE LA DIVERSIDAD ETNICA DE LA PARCIALIDAD INDIGENA DE LA COMUNDIDAD INGA",
+      "subtema": "Orden de iniciar estudio etnológico de dicha comunidad"
+    }
+  ]
+}

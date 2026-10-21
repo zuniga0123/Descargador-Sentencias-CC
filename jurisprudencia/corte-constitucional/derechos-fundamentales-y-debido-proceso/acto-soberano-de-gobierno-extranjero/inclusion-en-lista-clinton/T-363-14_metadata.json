@@ -1,0 +1,45 @@
+{
+  "radicado": "T-363-14",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2014,
+  "fecha_creacion": "2014-06-11",
+  "magistrado_ponente": "Nilson Pinilla Pinilla",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACTO SOBERANO DE GOBIERNO EXTRANJERO",
+  "subtema": "Inclusión en lista Clinton",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2014/T-363-14.htm",
+  "fecha_descarga": "2026-10-21T13:27:39.538042+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2014-06-11",
+  "fecha_publicacion": null,
+  "numero": "T-363/14",
+  "tipo_cc": "T",
+  "prov_id": "6300",
+  "tema_relatoria": null,
+  "resumen": "La actora fue beneficiaria en el 2009 de un subsidio otorgado por Acción Social y, recibió un primer pago a través del Banco Agrario. El Segundo desembolso no se hizo efectivo, debido a que la entidad bancaria argumentó el reporte del número de su cédula de ciudadanía, en la llamada Lista Clinton, lo que motivó la cancelación de la cuenta. Al solicitar información a la Registraduría Nacional del Estado Civil sobre el particular, a la actora se le indicó que sus datos estaban bien, sin novedad alguna y que correspondían a su documento de identidad. Por el contrario, la Superintendencia Financiera le informó que su número de cédula se encontraba vinculado a la Lista Clinton desde mediados del año 2007 y, que estaba asociado a sus dos primeros nombres y primer apellido, lo cual la dejaba sin la posibilidad de reclamar el subsidio. La Sala reitera jurisprudencia relacionada con la procedencia de la acción de tutela para la protección del habeas data frente a información proveniente de gobiernos o entidades extranjeras. Como quiera que con fecha de actualización marzo 8 de 2014, se consultó la comúnmente denominada Lista Clinton, verificando que en ella no se hallaba reporte de la accionante, se decide declarar la carencia actual de objeto por configurarse un HECHO SUPERADO.",
+  "titulaciones": [
+    {
+      "tema": "ACTO SOBERANO DE GOBIERNO EXTRANJERO",
+      "subtema": "Inclusión en lista Clinton"
+    },
+    {
+      "tema": "ACCION DE TUTELA PARA LA PROTECCION DEL DERECHO AL HABEAS DATA FRENTE A INFORMACION PROVENIENTE DE GOBIERNOS O ENTIDADES EXTRANJERAS",
+      "subtema": "Procedencia respecto a las consecuencias internas derivadas de la aplicación de la lista de datos como es la lista Clinton"
+    },
+    {
+      "tema": "CARENCIA ACTUAL DE OBJETO POR HECHO SUPERADO",
+      "subtema": "Desplazada por la violencia a quien el Banco Agrario canceló la cuenta por aparecer en la lista Clinton ya no necesita tener cuenta en el Banco para recibir la ayuda humanitaria"
+    },
+    {
+      "tema": "CARENCIA ACTUAL DE OBJETO POR HECHO SUPERADO",
+      "subtema": "No impide a la Corte Constitucional pronunciamiento de fondo sobre la existencia de una violación de derechos fundamentales y futuras violaciones"
+    }
+  ]
+}

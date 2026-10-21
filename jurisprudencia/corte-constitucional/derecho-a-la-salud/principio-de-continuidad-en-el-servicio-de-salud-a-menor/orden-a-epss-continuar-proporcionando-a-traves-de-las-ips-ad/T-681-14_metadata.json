@@ -1,0 +1,61 @@
+{
+  "radicado": "T-681-14",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2014,
+  "fecha_creacion": "2014-09-10",
+  "magistrado_ponente": "Jorge Iván Palacio Palacio",
+  "area": "Derecho a la Salud",
+  "tema": "PRINCIPIO DE CONTINUIDAD EN EL SERVICIO DE SALUD A MENOR",
+  "subtema": "Orden a EPSS continuar proporcionando a través de las IPS adscritas a su red de entidades prestadoras de servicios el respectivo servicio al menor cada vez que su médico tratante lo considere",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 1438 de 2011",
+    "Ley 100 de 1993",
+    "Ley 715 de 2001",
+    "Decreto 2591 de 1991",
+    "Decreto 55 de 2007"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2014/T-681-14.htm",
+  "fecha_descarga": "2026-10-21T13:14:38.283298+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2014-09-10",
+  "fecha_publicacion": null,
+  "numero": "T-681/14",
+  "tipo_cc": "T",
+  "prov_id": "6728",
+  "tema_relatoria": null,
+  "resumen": "Vida digna, integridad física, salud, seguridad social. Se acumulan expedientes por unidad de materia. Se le endilga a las entidades accionadas la vulneración de derechos fundamentales, al negar a sujetos de especial protección la continuidad de un tratamiento o procedimiento que requiere, argumentando que la E.P.S. receptora a la cual se le reasignó un paciente no está obligada a asumir la prestación de los servicios pendientes y autorizados en virtud de una sentencia previa de tutela o, que los servicios reclamados no están previstos en el POS. Se reitera jurisprudencia relacionada con: 1º. La salud como derecho fundamental. 2º. El principio de continuidad en la prestación del servicio. 3º. La continuidad en la prestación del servicio cuando se presenta un traslado excepcional de los afiliados a una E.P.S, debido a que le ha sido revocada la licencia de funcionamiento o le ha sido ordenada su liquidación y, 4º. Los principios que rigen la actividad médica en relación con los menores de edad. Se CONCEDE la protección solicitada y se imparten una serie de órdenes conducentes a hacer efectivos los derechos amparados.",
+  "titulaciones": [
+    {
+      "tema": "PRINCIPIO DE CONTINUIDAD EN EL SERVICIO DE SALUD A MENOR",
+      "subtema": "Orden a EPSS continuar proporcionando a través de las IPS adscritas a su red de entidades prestadoras de servicios el respectivo servicio al menor cada vez que su médico tratante lo considere"
+    },
+    {
+      "tema": "PRINCIPIOS QUE RIGEN LA ACTIVIDAD MEDICA RESPECTO DE MENORES EN SITUACION DE DISCAPACIDAD",
+      "subtema": "Integralidad y accesibilidad en la prestación del servicio"
+    },
+    {
+      "tema": "DERECHO A LA VIDA DIGNA, A LA INTEGRIDAD FISICA, A LA SALUD Y A LA SEGURIDAD SOCIAL",
+      "subtema": "Orden EPSS suministrar los medicamentos e insumos ordenados por los médicos tratantes del accionante"
+    },
+    {
+      "tema": "EXONERACION DE CUOTAS MODERADORAS Y COPAGOS",
+      "subtema": "Orden a EPS exonerar del pago de copagos y cuotas moderadoras por falta de capacidad económica"
+    },
+    {
+      "tema": "PRINCIPIO DE CONTINUIDAD EN LA PRESTACION DEL SERVICIO DE SALUD",
+      "subtema": "Casos en que hay un traslado excepcional de los afiliados de una EPS a otra EPS cuando no ha sido revocada su licencia de funcionamiento o ha sido ordenada su liquidación"
+    },
+    {
+      "tema": "PRINCIPIO DE CONTINUIDAD EN LA PRESTACION DEL SERVICIO DE SALUD",
+      "subtema": "Imposibilidad de interrumpir de manera intempestiva servicio médico cuando no se ha logrado el restablecimiento pleno de la salud del paciente"
+    },
+    {
+      "tema": "DERECHO A LA SALUD COMO DERECHO FUNDAMENTAL AUTONOMO",
+      "subtema": "Reiteración de jurisprudencia"
+    }
+  ]
+}

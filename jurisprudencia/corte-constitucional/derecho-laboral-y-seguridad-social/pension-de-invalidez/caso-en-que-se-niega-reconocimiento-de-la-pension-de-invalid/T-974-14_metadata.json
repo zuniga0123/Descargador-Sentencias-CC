@@ -1,0 +1,50 @@
+{
+  "radicado": "T-974-14",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2014,
+  "fecha_creacion": "2014-12-16",
+  "magistrado_ponente": "Luis Ernesto Vargas Silva",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "PENSIÓN DE INVALIDEZ",
+  "subtema": "Caso en que se niega reconocimiento de la pensión de invalidez, por incumplir el requisito de cotización de 50 semanas dentro de los 3 años inmediatamente anteriores a la fecha de estructuración de la invalidez",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2463 de 2001",
+    "Decreto 2591 de 1991",
+    "Ley 820 de 2003",
+    "Decreto 758 de 1990",
+    "Ley 860 de 2003",
+    "Ley 100 de 1993"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2014/T-974-14.htm",
+  "fecha_descarga": "2026-10-21T13:33:05.415362+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2014-12-16",
+  "fecha_publicacion": null,
+  "numero": "T-974/14",
+  "tipo_cc": "T",
+  "prov_id": "7124",
+  "tema_relatoria": null,
+  "resumen": "Luego de que fuera valorado con una pérdida de capacidad laboral del 63.42%, el actor solicitó a la entidad accionada el reconocimiento y pago de la pensión de invalidez. Esta prestación fue denegada por el incumplimiento del requisito de haber cotizado cincuenta semanas dentro de los tres últimos años anteriores a la fecha de estructuración de la invalidez. Se hace alusión a la jurisprudencia en materia de reconocimiento de la pensión de invalidez mediante la acción de tutela y, el precedente en materia del principio de la condición más beneficiosa. Se CONCEDE la protección de los derechos fundamentales a la seguridad social y al mínimo vital.",
+  "titulaciones": [
+    {
+      "tema": "PENSIÓN DE INVALIDEZ",
+      "subtema": "Caso en que se niega reconocimiento de la pensión de invalidez, por incumplir el requisito de cotización de 50 semanas dentro de los 3 años inmediatamente anteriores a la fecha de estructuración de la invalidez"
+    },
+    {
+      "tema": "DERECHO A LA SEGURIDAD SOCIAL Y AL MINIMO VITAL",
+      "subtema": "Orden a Fondo de Pensiones reconocer pensión de invalidez"
+    },
+    {
+      "tema": "ACCION DE TUTELA PARA RECLAMAR EL RECONOCIMIENTO Y PAGO DE DERECHOS PENSIONALES",
+      "subtema": "Procedencia excepcional"
+    },
+    {
+      "tema": "PRINCIPIO DE LA CONDICION MAS BENEFICIOSA EN MATERIA PENSIONAL",
+      "subtema": "Jurisprudencia de la Corte Suprema de Justicia"
+    }
+  ]
+}

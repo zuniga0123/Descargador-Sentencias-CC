@@ -1,0 +1,47 @@
+{
+  "radicado": "T-093-14",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2014,
+  "fecha_creacion": "2014-02-20",
+  "magistrado_ponente": "Nilson Pinilla Pinilla",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+  "subtema": "Improcedencia por regla general",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 906 de 2004",
+    "Ley 1564 de 2012"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2014/T-093-14.htm",
+  "fecha_descarga": "2026-10-21T13:24:20.355288+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2014-02-20",
+  "fecha_publicacion": null,
+  "numero": "T-093/14",
+  "tipo_cc": "T",
+  "prov_id": "5887",
+  "tema_relatoria": null,
+  "resumen": "Debido proceso. Tutela contra providencia judicial. Considera la accionante que la autoridad judicial demandada vulneró su derecho fundamental al debido proceso, al haber fallado ultra petita en segunda instancia dentro de un proceso ejecutivo singular ordenando seguir adelante con la ejecución, con fundamento en una pretensión que no había sido incluida en la demanda, ni pedida o alegada en la apelación interpuesta por la parte ejecutante. Luego de reiterar la regla general que establece que la tutela no procede contra decisiones judiciales y de analizar el caso en concreto, la Sala de Revisión decide confirmar las sentencias de instancia que DENEGARON el amparo solicitado.",
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Improcedencia por regla general"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Improcedencia al no haberse fallado ultra petita y haber guardado congruencia con lo pretendido en la demanda sin extrapolar lo pedido"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Requisitos generales y especiales de procedibilidad"
+    },
+    {
+      "tema": "JUEZ DE TUTELA",
+      "subtema": "Facultad de fallar extra y ultra petita"
+    }
+  ]
+}

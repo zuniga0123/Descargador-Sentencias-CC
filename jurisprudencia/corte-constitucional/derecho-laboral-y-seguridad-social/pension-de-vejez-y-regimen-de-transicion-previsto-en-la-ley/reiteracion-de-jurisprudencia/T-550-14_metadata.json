@@ -1,0 +1,48 @@
+{
+  "radicado": "T-550-14",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2014,
+  "fecha_creacion": "2014-07-22",
+  "magistrado_ponente": "Luis Ernesto Vargas Silva",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "PENSION DE VEJEZ Y REGIMEN DE TRANSICION PREVISTO EN LA LEY 100/93",
+  "subtema": "Reiteración de jurisprudencia",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Decreto Ley 2591 de 1991",
+    "Decreto 2591 de 1991",
+    "Acto Legislativo 1 de 2005"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2014/T-550-14.htm",
+  "fecha_descarga": "2026-10-21T13:15:31.057945+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2014-07-22",
+  "fecha_publicacion": null,
+  "numero": "T-550/14",
+  "tipo_cc": "T",
+  "prov_id": "6528",
+  "tema_relatoria": null,
+  "resumen": "Colpensiones le negó al actor el reconocimiento y pago de la pensión de vejez, argumentando que no contaba con el número mínimo de semanas de cotización requeridas, pero omitiendo que en la historia laboral existían registros que indicaban que un empleador no realizó pagos a seguridad social durante la vinculación del trabajador. Se abordan los siguientes temas: 1º. Procedencia de la acción de tutela para el reconocimiento de la pensión de vejez y, 2º. Régimen de transición en Colombia; reglas para ser beneficiario de una pensión de vejez e inoponibilidad de trámites para su reconocimiento. Se CONCEDE el amparo de los derechos fundamentales al mínimo vital y a la seguridad social.",
+  "titulaciones": [
+    {
+      "tema": "PENSION DE VEJEZ Y REGIMEN DE TRANSICION PREVISTO EN LA LEY 100/93",
+      "subtema": "Reiteración de jurisprudencia"
+    },
+    {
+      "tema": "DERECHO A LA SEGURIDAD SOCIAL Y AL MINIMO VITAL",
+      "subtema": "Orden a Colpensiones reconocer y pagar pensión de vejez y pagar mesadas dejadas de percibir"
+    },
+    {
+      "tema": "REGIMEN DE TRANSICION EN PENSIONES",
+      "subtema": "Beneficiarios y requisitos para acceder a la pensión"
+    },
+    {
+      "tema": "ACCION DE TUTELA PARA EL RECONOCIMIENTO Y PAGO DE PENSION DE VEJEZ",
+      "subtema": "Procedencia excepcional"
+    }
+  ]
+}

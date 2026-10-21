@@ -1,0 +1,46 @@
+{
+  "radicado": "T-545-14",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2014,
+  "fecha_creacion": "2014-07-21",
+  "magistrado_ponente": "Gloria Stella Ortiz Delgado",
+  "area": "Derecho a la Salud",
+  "tema": "PRESTACION DE TRATAMIENTOS Y MEDICAMENTOS NO INCLUIDOS EN EL POS",
+  "subtema": "La EPS no está autorizada a rechazar de manera absoluta y sin fundamento científico, el concepto de un médico no adscrito a su entidad",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Decreto 489 de 1996"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2014/T-545-14.htm",
+  "fecha_descarga": "2026-10-21T13:11:17.861883+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2014-07-21",
+  "fecha_publicacion": null,
+  "numero": "T-545/14",
+  "tipo_cc": "T",
+  "prov_id": "6521",
+  "tema_relatoria": null,
+  "resumen": "Se le atribuye al Fondo de Pasivo Social de Ferrocarriles Nacionales de Colombia EAS la vulneración de los derechos fundamentales a la salud y a la vida en condiciones dignas, por el hecho de negarle al actor un procedimiento quirúrgico consistente en el reemplazo total de hombro, bajo el argumento de haber sido ordenado por un médico externo a la E.P.S.. Por su parte, la accionada adujo que el procedimiento quirúrgico ordenado por los especialistas de la entidad era una reducción abierta de luxación, reparación manguito rotador, reconstrucción ligamentaria, el cual fue autorizado, pero que el paciente se negó a realizárselo. La Sala reiteró la regla jurisprudencial relativa a la obligación para las E.P.S. de aceptar el criterio de un médico particular y decidió TUTELAR los derechos fundamentales invocados. Se ordena a la entidad demandada practicar una valoración médica al actor, la cual debe estar a cargo de dos especialistas en el manejo de la patología que padece, adscritos a la entidad y diferentes al que inicialmente lo valoró, para que determinen la necesidad de la cirugía prescrita por el médico y, en caso de que ellos consideren pertinente autorizar los servicios solicitados a través de la presente acción de tutela, realizarlos sin exigirle al demandante o a sus acudientes, trámites administrativos que obstaculicen el goce efectivo del derecho fundamental a la salud.",
+  "titulaciones": [
+    {
+      "tema": "PRESTACION DE TRATAMIENTOS Y MEDICAMENTOS NO INCLUIDOS EN EL POS",
+      "subtema": "La EPS no está autorizada a rechazar de manera absoluta y sin fundamento científico, el concepto de un médico no adscrito a su entidad"
+    },
+    {
+      "tema": "MEDICO TRATANTE",
+      "subtema": "Concepto del médico tratante no adscrito a la EPS resulta vinculante"
+    },
+    {
+      "tema": "ENTIDAD PROMOTORA DE SALUD",
+      "subtema": "Deber de aceptar, rechazar o modificar, mediante conceptos médicos o científicos, el concepto de un médico tratante no adscrito a la entidad que ordenó a un usuario un servicio de salud"
+    },
+    {
+      "tema": "VALIDEZ DEL CONCEPTO EMITIDO POR MEDICO NO ADSCRITO A EPS",
+      "subtema": "Reiteración de jurisprudencia"
+    }
+  ]
+}

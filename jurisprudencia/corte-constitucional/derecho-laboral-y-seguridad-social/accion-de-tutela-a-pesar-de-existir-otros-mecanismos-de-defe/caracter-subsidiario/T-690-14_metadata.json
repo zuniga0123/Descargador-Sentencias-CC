@@ -1,0 +1,59 @@
+{
+  "radicado": "T-690-14",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2014,
+  "fecha_creacion": "2014-09-11",
+  "magistrado_ponente": null,
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "ACCION DE TUTELA A PESAR DE EXISTIR OTROS MECANISMOS DE DEFENSA JUDICIAL",
+  "subtema": "Carácter subsidiario",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 100 de 1993",
+    "Decreto 758 de 1990"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2014/T-690-14.htm",
+  "fecha_descarga": "2026-10-21T13:14:53.339204+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2014-09-11",
+  "fecha_publicacion": null,
+  "numero": "T-690/14",
+  "tipo_cc": "T",
+  "prov_id": "6744",
+  "tema_relatoria": null,
+  "resumen": "La vulneración de derechos por parte de COLPENSIONES se predica de la falta de reconocimiento de la pensión de vejez solicitada por el actor, alegando el incumplimiento de los requisitos establecidos en cuanto al número de semanas, toda vez que varias de las cotizaciones registradas como realizadas, no fueron canceladas por el empleador, por lo que le resultaba necesario al afiliado asumir dicha responsabilidad. Se realiza un análisis de la jurisprudencia relacionada con el derecho a la seguridad social, su concepto, naturaleza y protección constitucional. Igualmente, sobre el derecho a la pensión de vejez y la obligación de pago de cotización y, la procedencia excepcional de la acción de tutela cuando existen mecanismos ordinarios de protección. Se CONCEDE el amparo de los derechos fundamentales al mínimo vital, a la seguridad social y a la vida en condiciones dignas.",
+  "titulaciones": [
+    {
+      "tema": "ACCION DE TUTELA A PESAR DE EXISTIR OTROS MECANISMOS DE DEFENSA JUDICIAL",
+      "subtema": "Carácter subsidiario"
+    },
+    {
+      "tema": "DERECHO A LA SEGURIDAD SOCIAL",
+      "subtema": "Concepto"
+    },
+    {
+      "tema": "DERECHO A LA SEGURIDAD SOCIAL, MINIMO VITAL Y A LA VIDA DIGNA",
+      "subtema": "Orden a Colpensiones reconocer y pagar pensión de vejez y sumas adeudas por concepto del retroactivo"
+    },
+    {
+      "tema": "DERECHO A LA SEGURIDAD SOCIAL",
+      "subtema": "Naturaleza"
+    },
+    {
+      "tema": "PERJUICIO IRREMEDIABLE",
+      "subtema": "Criterios para determinar su configuración"
+    },
+    {
+      "tema": "EMPLEADOR",
+      "subtema": "Responsabilidad por omisión en el pago de aportes patronales y traslado de cotizaciones al sistema general de pensiones"
+    },
+    {
+      "tema": "DERECHO A LA PENSION DE VEJEZ",
+      "subtema": "Obligación de pago de cotizaciones"
+    }
+  ]
+}

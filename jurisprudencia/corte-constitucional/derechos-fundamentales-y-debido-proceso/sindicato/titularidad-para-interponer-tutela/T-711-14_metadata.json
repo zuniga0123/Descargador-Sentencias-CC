@@ -1,0 +1,62 @@
+{
+  "radicado": "T-711-14",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2014,
+  "fecha_creacion": "2014-09-15",
+  "magistrado_ponente": "Luis Guillermo Guerrero Pérez",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "SINDICATO",
+  "subtema": "Titularidad para interponer tutela",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 962 de 2005",
+    "Decreto 89 de 2014",
+    "Decreto 2591 de 1991",
+    "Ley 50 de 1990",
+    "Ley 1453 de 2011",
+    "Decreto 2264 de 2013"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2014/T-711-14.htm",
+  "fecha_descarga": "2026-10-21T13:21:57.143439+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2014-09-15",
+  "fecha_publicacion": null,
+  "numero": "T-711/14",
+  "tipo_cc": "T",
+  "prov_id": "6769",
+  "tema_relatoria": null,
+  "resumen": "La Asociación Colombiana de Aviadores Civiles interpuso la acción de tutela contra la empresa Tampa Cargo S.A.S., por la presunta vulneración del derecho a la negociación sindical de dicha organización, al negarse a dar inicio a la negociación colectiva bajo argumentos errados y apartados de la jurisprudencia constitucional, al considerar que, conforme a la legislación nacional, resultaba imposible que coexistieran dos sindicatos en una empresa; que no era viable que hubiese dos convenciones colectivas y, que una organización sindical de industria no tenía legitimación para proponer una negociación colectiva, cuando sólo algunos de sus miembros eran empleados de la empresa. Igualmente, por ofrecer programas de beneficios para trabajadores no sindicalizados, con el fin de fomentar la desafiliación de los miembros de la asociación. La negativa se presentó a pesar de existir requerimiento a la empresa por parte del Ministerio del Trabajo. Se reitera jurisprudencia de la Corporación relacionada con el deber del empleador de dar inicio a la etapa de arreglo ante la presentación de un pliego de peticiones. Se CONCEDE el amparo solicitado.",
+  "titulaciones": [
+    {
+      "tema": "SINDICATO",
+      "subtema": "Titularidad para interponer tutela"
+    },
+    {
+      "tema": "PRINCIPIO DE SUBSIDIARIEDAD E INMEDIATEZ EN LA ACCION DE TUTELA",
+      "subtema": "Requisitos de procedibilidad"
+    },
+    {
+      "tema": "DERECHO DE ASOCIACION SINDICAL Y NEGOCIACION COLECTIVA",
+      "subtema": "Vulneración por la omisión reiterada de una empresa de iniciar conversaciones colectivas con el sindicato, aun cuando existe una Resolución del Ministerio del Trabajo ordenando su inicio"
+    },
+    {
+      "tema": "DERECHO DE ASOCIACION SINDICAL Y NEGOCIACION COLECTIVA",
+      "subtema": "Orden a empresa proceder a designar el árbitro correspondiente para convocar al tribunal de arbitramento para dirimir el conflicto colectivo de carácter económico"
+    },
+    {
+      "tema": "LEGITIMACION POR ACTIVA Y LEGITIMACION POR PASIVA EN TUTELA",
+      "subtema": "Requisitos generales de procedencia"
+    },
+    {
+      "tema": "PERSONAS JURIDICAS",
+      "subtema": "Legitimación por activa en tutela"
+    },
+    {
+      "tema": "DERECHO DE NEGOCIACION COLECTIVA",
+      "subtema": "Garantía constitucional"
+    }
+  ]
+}

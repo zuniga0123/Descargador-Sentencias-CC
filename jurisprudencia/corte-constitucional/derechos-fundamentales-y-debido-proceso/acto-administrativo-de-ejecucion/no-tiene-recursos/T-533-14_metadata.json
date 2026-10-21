@@ -1,0 +1,55 @@
+{
+  "radicado": "T-533-14",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2014,
+  "fecha_creacion": "2014-07-18",
+  "magistrado_ponente": "Luis Guillermo Guerrero Pérez",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACTO ADMINISTRATIVO DE EJECUCION",
+  "subtema": "No tiene recursos",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Decreto 1158 de 1994",
+    "Decreto 1730 de 2001",
+    "Decreto 2591 de 1991",
+    "Ley 1437 de 2011",
+    "Ley 1564 de 2012",
+    "Decreto 2282 de 1989"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2014/T-533-14.htm",
+  "fecha_descarga": "2026-10-21T13:11:03.214633+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2014-07-18",
+  "fecha_publicacion": null,
+  "numero": "T-533/14",
+  "tipo_cc": "T",
+  "prov_id": "6508",
+  "tema_relatoria": null,
+  "resumen": "La vulneración de derechos fundamentales por parte de la entidad accionada se predica del hecho de haber reconocido en la liquidación de la indemnización sustitutiva de la pensión a favor de la actora, un valor diferente al que correspondía y haber negado los recursos de ley contra dicho acto. Se reitera jurisprudencia de la Corporación referente al debido proceso administrativo y se concede el amparo solicitado. Se le ordena a la demandada dar trámite y pronunciarse de forma concreta y específica sobre los recursos administrativos interpuestos por la actora, teniendo en cuenta los argumentos por ella esbozados en su impugnación.",
+  "titulaciones": [
+    {
+      "tema": "ACTO ADMINISTRATIVO DE EJECUCION",
+      "subtema": "No tiene recursos"
+    },
+    {
+      "tema": "ACTO ADMINISTRATIVO DEFINITIVO",
+      "subtema": "Proceden los recursos de reposición, apelación y queja"
+    },
+    {
+      "tema": "DERECHO FUNDAMENTAL AL DEBIDO PROCESO ADMINISTRATIVO",
+      "subtema": "Vulneración por parte de la UGPP, al declarar improcedentes los recursos interpuestos por la accionante, privándola de la posibilidad de controvertir la legalidad de un acto definitivo"
+    },
+    {
+      "tema": "DERECHO FUNDAMENTAL AL DEBIDO PROCESO ADMINISTRATIVO",
+      "subtema": "Orden a la UGPP dar trámite y pronunciarse sobre los recursos administrativos interpuestos por la accionante contra resolución de reconocimiento de indemnización sustitutiva"
+    },
+    {
+      "tema": "DEBIDO PROCESO ADMINISTRATIVO",
+      "subtema": "Reiteración de jurisprudencia"
+    }
+  ]
+}

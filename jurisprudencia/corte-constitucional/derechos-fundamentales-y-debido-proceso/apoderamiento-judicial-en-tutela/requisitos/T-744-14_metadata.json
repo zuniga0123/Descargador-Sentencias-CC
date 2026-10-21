@@ -1,0 +1,48 @@
+{
+  "radicado": "T-744-14",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2014,
+  "fecha_creacion": "2014-10-08",
+  "magistrado_ponente": "Mauricio González Cuervo",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "APODERAMIENTO JUDICIAL EN TUTELA",
+  "subtema": "Requisitos",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 4579 de 2010",
+    "Ley 393 de 1997",
+    "Ley 1474 de 2011",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2014/T-744-14.htm",
+  "fecha_descarga": "2026-10-21T13:22:19.515528+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2014-10-08",
+  "fecha_publicacion": null,
+  "numero": "T-744/14",
+  "tipo_cc": "T",
+  "prov_id": "6825",
+  "tema_relatoria": null,
+  "resumen": "En este asunto, cerca de 1400 accionantes solicitaron al juez de tutela que se ordenara a la Unidad Nacional para la Gestión del Riesgo y el Desastre, pagarles el subsidio de $1.500.000 anunciado por el Gobierno Nacional para los damnificados de la ola invernal ocurrida en el país, durante el segundo semestre del año 2011. Los actores consideraron vulnerados sus derechos, porque el subsidio, por un mal manejo administrativo de las alcaldías, no les fue entregado. La Corte precisó que la acción de tutela debe ser declarada improcedente, cuando, como en los casos estudiados, se presentó a través de apoderado judicial y no se adjuntaron los poderes y, cuando no es presentada dentro de un lapso razonable.",
+  "titulaciones": [
+    {
+      "tema": "APODERAMIENTO JUDICIAL EN TUTELA",
+      "subtema": "Requisitos"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Improcedencia por omisión en el cumplimiento de los requisitos del apoderamiento judicial e incumplir requisito de inmediatez"
+    },
+    {
+      "tema": "PODER PARA INTERPONER ACCION DE TUTELA",
+      "subtema": "Requisitos"
+    },
+    {
+      "tema": "DERECHOS DE PERSONAS AFECTADAS POR DESASTRES NATURALES",
+      "subtema": "Improcedencia por cuanto por los mismos hechos ya hay pronunciamiento con efectos inter comunis modulados en sentencia T-648/13, en cuyo caso procede incidente de desacato"
+    }
+  ]
+}

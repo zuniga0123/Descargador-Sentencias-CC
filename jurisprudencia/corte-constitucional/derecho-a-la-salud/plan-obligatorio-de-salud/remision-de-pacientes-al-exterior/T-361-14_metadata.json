@@ -1,0 +1,62 @@
+{
+  "radicado": "T-361-14",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2014,
+  "fecha_creacion": "2014-06-10",
+  "magistrado_ponente": "Jorge Ignacio Pretelt Chaljub",
+  "area": "Derecho a la Salud",
+  "tema": "PLAN OBLIGATORIO DE SALUD",
+  "subtema": "Remisión de pacientes al exterior",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 508 de 1999",
+    "Decreto 4109 de 2011",
+    "Decreto 2591 de 1991",
+    "Ley 100 de 1993",
+    "Decreto 1938 de 1994",
+    "Decreto 806 de 1998"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2014/T-361-14.htm",
+  "fecha_descarga": "2026-10-21T13:27:32.253634+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2014-06-10",
+  "fecha_publicacion": null,
+  "numero": "T-361/14",
+  "tipo_cc": "T",
+  "prov_id": "6291",
+  "tema_relatoria": null,
+  "resumen": "Se inició la acción de tutela en contra de la E.P.S. SURA, para invocar la protección de los derechos fundamentales a la vida en condiciones dignas, a la integridad física y a la salud, los cuales se consideran vulnerados al negarle a la actora el examen especializado denominado “secuencia de ADN mitocondrial para determinación de encefalopatía mitocondrial”, prescrito por su médico tratante para el manejo de la patología que le fue diagnosticada, esto es, Síndrome de Melas y Wolff Parkinson White. El Comité Técnico Científico de la entidad accionada afirma que sí existe riesgo inminente para la vida de la paciente, pero niega el servicio por exceder los alcances del Plan de Beneficios del Sistema de Seguridad Social en Colombia, ya que no es realizado a nivel nacional y es una exclusión del Sistema, según el artículo 49 del Acuerdo 029 de 2011. Se reiteran precedentes constitucionales referentes al derecho a la salud como derecho fundamental y su protección constitucional; la universalidad y continuidad del servicio de salud; el derecho al diagnóstico como parte del derecho fundamental a la salud; la inaplicación de normas del Plan Obligatorio de Salud y, el principio de integralidad en el derecho a la salud. Al encontrar vulnerados derechos fundamentales de raigambre constitucional se decide CONCEDER el amparo solicitado e impartir una serie de órdenes conducentes",
+  "titulaciones": [
+    {
+      "tema": "PLAN OBLIGATORIO DE SALUD",
+      "subtema": "Remisión de pacientes al exterior"
+    },
+    {
+      "tema": "DERECHO FUNDAMENTAL A LA SALUD",
+      "subtema": "Protección constitucional especial"
+    },
+    {
+      "tema": "DERECHO A LA SALUD Y AL DIAGNÓSTICO",
+      "subtema": "Reiteración de jurisprudencia"
+    },
+    {
+      "tema": "DERECHO A LA SALUD Y A LA VIDA DIGNA",
+      "subtema": "Vulneración por no realizarse examen diagnóstico ordenado por médico tratante"
+    },
+    {
+      "tema": "DERECHO A LA SALUD, AL DIAGNÓSTICO Y A LA VIDA DIGNA",
+      "subtema": "Orden a EPS autorice examen diagnóstico en Colombia, y si no es posible en el exterior"
+    },
+    {
+      "tema": "DERECHO A LA CONTINUIDAD EN EL SERVICIO DE SALUD",
+      "subtema": "Deber de las EPS de garantizar a los pacientes el acceso efectivo a los servicios de salud bajo los principios de eficiencia, universalidad y solidaridad"
+    },
+    {
+      "tema": "DERECHO FUNDAMENTAL A LA SALUD",
+      "subtema": "Principios de integralidad, continuidad, confianza legítima como garantía de acceso a los servicios de salud"
+    }
+  ]
+}

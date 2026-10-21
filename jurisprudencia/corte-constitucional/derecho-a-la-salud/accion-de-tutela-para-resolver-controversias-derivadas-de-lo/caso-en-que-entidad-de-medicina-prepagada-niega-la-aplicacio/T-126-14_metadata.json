@@ -1,0 +1,60 @@
+{
+  "radicado": "T-126-14",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2014,
+  "fecha_creacion": "2014-03-11",
+  "magistrado_ponente": "Luis Ernesto Vargas Silva",
+  "area": "Derecho a la Salud",
+  "tema": "ACCION DE TUTELA PARA RESOLVER CONTROVERSIAS DERIVADAS DE LOS CONTRATOS DE MEDICINA PREPAGADA",
+  "subtema": "Caso en que Entidad de Medicina Prepagada niega la aplicación de toxina botulínica para tratar la enfermedad que padece un menor",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Decreto 806 de 1998",
+    "Ley 100 de 1993",
+    "Decreto 94 de 1992"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2014/T-126-14.htm",
+  "fecha_descarga": "2026-10-21T13:25:32.256036+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2014-03-11",
+  "fecha_publicacion": null,
+  "numero": "T-126/14",
+  "tipo_cc": "T",
+  "prov_id": "5942",
+  "tema_relatoria": null,
+  "resumen": "Se le endilga a Colmedica Medicina Prepagada la vulneración de derechos fundamentales de un menor de edad, al negar la autorización del tratamiento de infiltración con toxina botulínica, que en anteriores ocasiones había permitido, argumentando que dicho medicamento no estaba cubierto por el contrato suscrito entre las partes. Los padres del menor indicaron que la interrupción del tratamiento conllevaría a que el niño perdiera gran autonomía y capacidad de movimiento en la pierna afectada, lo cual le impediría realizar funciones básicas como caminar, correr o jugar, además de la práctica de una cirugía que, aunque podría ayudarle, tiene el carácter de invasiva y comporta un mayor riesgo para la vida y la salud del menor. Se efectúa una breve reiteración de jurisprudencia constitucional sobre la procedencia de la acción de tutela para la solución de controversias surgidas en contratos de medicina prepagada y, el derecho fundamental de los menores de edad a la salud, teniendo en cuenta que son un grupo poblacional vulnerable que merece una especial protección constitucional. Se declara la improcedencia del amparo solicitado por haberse presentado una carencia actual de objeto por daño consumado, toda vez que al menor representado se le practicó la cirugía que se pretendía evitar. Pese a lo anterior, se previene a la accionada para que en lo sucesivo, se abstenga de interrumpir los tratamientos médicos que necesitan sus usuarios, especialmente cuando se trata del derecho a la salud de los menores de edad, y para que respete el principio de la buena fe contractual, conforme a la cual debe actuar durante toda la ejecución del contrato. Igualmente, se ordena compulsar copia del expediente de tutela a la Superintendencia Nacional de Salud, para que investigue la actuación de la demandada.",
+  "titulaciones": [
+    {
+      "tema": "ACCION DE TUTELA PARA RESOLVER CONTROVERSIAS DERIVADAS DE LOS CONTRATOS DE MEDICINA PREPAGADA",
+      "subtema": "Caso en que Entidad de Medicina Prepagada niega la aplicación de toxina botulínica para tratar la enfermedad que padece un menor"
+    },
+    {
+      "tema": "DERECHO A LA SALUD DE NIÑOS, NIÑAS Y ADOLESCENTES COMO SUJETOS DE ESPECIAL PROTECCION CONSTITUCIONAL",
+      "subtema": "Reiteración de jurisprudencia"
+    },
+    {
+      "tema": "ACCION DE TUTELA PARA RESOLVER CONTROVERSIAS DERIVADAS DE LOS CONTRATOS DE MEDICINA PREPAGADA",
+      "subtema": "Procedencia excepcional por vulneración de un derecho fundamental"
+    },
+    {
+      "tema": "CARENCIA ACTUAL DE OBJETO POR DAÑO CONSUMADO",
+      "subtema": "Demora en el suministro del medicamento hizo que éste procedimiento ya no fuese pertinente para tratar la enfermedad en su momento, y que fuera necesario realizar una intervención quirúrgica"
+    },
+    {
+      "tema": "PRINCIPIO DE CONTINUIDAD EN EL SERVICIO DE SALUD",
+      "subtema": "Prestación de los servicios de salud prepagada"
+    },
+    {
+      "tema": "PRINCIPIO DE CONTINUIDAD EN EL SERVICIO DE SALUD",
+      "subtema": "Prevenir a Entidad de Medicina Prepagada para que se abstenga de interrumpir los tratamientos médicos que necesitan sus usuarios, especialmente cuando se trate de menores de edad"
+    },
+    {
+      "tema": "CARENCIA ACTUAL DE OBJETO POR DAÑO CONSUMADO",
+      "subtema": "No impide a la Corte Constitucional pronunciamiento de fondo sobre la existencia de una violación de derechos fundamentales y futuras violaciones"
+    }
+  ]
+}

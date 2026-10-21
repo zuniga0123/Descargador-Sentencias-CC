@@ -1,0 +1,47 @@
+{
+  "radicado": "T-040-14",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2014,
+  "fecha_creacion": "2014-01-30",
+  "magistrado_ponente": "Mauricio González Cuervo",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "DEBIDO PROCESO ADMINISTRATIVO EN MATERIA PENSIONAL",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Decreto 2195 de 1994",
+    "Decreto 758 de 1990"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2014/T-040-14.htm",
+  "fecha_descarga": "2026-10-21T13:19:21.306265+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2014-01-30",
+  "fecha_publicacion": null,
+  "numero": "T-040/14",
+  "tipo_cc": "T",
+  "prov_id": "5809",
+  "tema_relatoria": null,
+  "resumen": "La vulneración de derechos fundamentales se predica en este caso por el hecho de haber negado al actor la reliquidación de la mesada pensional a través de la expedición de un nuevo acto administrativo, sin que se hubieran resueltos los recursos ordinarios interpuestos en contra de la resolución que le concedió la pensión. La Sala de Revisión concluye que, se viola el derecho al debido proceso y de contera, los derechos a la seguridad social y al mínimo vital, cuando una administradora de pensiones al momento de resolver un recurso administrativo, omite pronunciarse sobre el mismo y en su lugar, proferir una nueva decisión con base en información errada. CONCEDIDA.",
+  "titulaciones": [
+    {
+      "tema": "DEBIDO PROCESO ADMINISTRATIVO EN MATERIA PENSIONAL",
+      "subtema": null
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Subsidiariedad e inmediatez como requisitos genéricos de procedencia"
+    },
+    {
+      "tema": "DEBIDO PROCESO ADMINISTRATIVO EN MATERIA PENSIONAL",
+      "subtema": "Caso en que entidad administradora de pensiones al momento de resolver un recurso administrativo, omite pronunciarse sobre el mismo y, en su lugar, profiere una nueva decisión con base en información erra"
+    },
+    {
+      "tema": "DEBIDO PROCESO ADMINISTRATIVO EN MATERIA PENSIONAL",
+      "subtema": "Orden a Colpensiones resolver los recursos de reposición y apelación teniendo en cuenta que debe actualizar y corregir la historia laboral del afiliado"
+    }
+  ]
+}

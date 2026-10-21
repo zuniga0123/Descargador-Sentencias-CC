@@ -1,0 +1,59 @@
+{
+  "radicado": "T-575-14",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2014,
+  "fecha_creacion": "2014-08-04",
+  "magistrado_ponente": "Gabriel Eduardo Mendoza Martelo",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "LEGITIMACION POR ACTIVA DE PERSONA JURIDICA EN TUTELA",
+  "subtema": "Recae sobre su representante",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 14 de 1983",
+    "Ley 383 de 1997",
+    "Decreto 2591 de 1991",
+    "Ley 100 de 1993",
+    "Ley 1564 de 2012",
+    "Ley 43 de 1990",
+    "Ley 145 de 1960"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2014/T-575-14.htm",
+  "fecha_descarga": "2026-10-21T13:13:40.877116+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2014-08-04",
+  "fecha_publicacion": null,
+  "numero": "T-575/14",
+  "tipo_cc": "T",
+  "prov_id": "6579",
+  "tema_relatoria": null,
+  "resumen": "Tutela contra providencia judicial. La E.P.S. aduce que la autoridad judicial demandada vulneró su derecho fundamental al debido proceso, así como los derechos de sus usuarios a la salud y a la seguridad social, al proferir sentencia dentro de un proceso de nulidad y restablecimiento del derecho que promovió en contra de varios actos administrativos dictados por la Secretaría de Hacienda Distrital de Bogotá, negando las pretensiones de la demanda. Alega, que en dicho fallo se incurrió en un defecto fáctico, porque no se le dio valor probatorio a una certificación del revisor fiscal de la empresa. Se abordan los temas de la procedencia de la acción de tutela contra providencias judiciales y el del defecto fáctico por indebida valoración probatoria. Se NIEGA el amparo solicitado.",
+  "titulaciones": [
+    {
+      "tema": "LEGITIMACION POR ACTIVA DE PERSONA JURIDICA EN TUTELA",
+      "subtema": "Recae sobre su representante"
+    },
+    {
+      "tema": "LEGITIMACION POR PASIVA EN TUTELA",
+      "subtema": "Entidad pública"
+    },
+    {
+      "tema": "PRINCIPIO DE INMEDIATEZ EN ACCION DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Término razonable debe valorarse en cada caso concreto"
+    },
+    {
+      "tema": "DEFECTO FACTICO POR INDEBIDA VALORACION PROBATORIA",
+      "subtema": "Improcedencia por cuanto las sentencias del proceso de nulidad y restablecimiento del derecho fueron congruentes con lo pedido y recayeron sobre aspectos de pertinencia"
+    },
+    {
+      "tema": "DEFECTO FACTICO POR INDEBIDA VALORACION PROBATORIA",
+      "subtema": "Configuración"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Requisitos generales y especiales de procedibilidad"
+    }
+  ]
+}

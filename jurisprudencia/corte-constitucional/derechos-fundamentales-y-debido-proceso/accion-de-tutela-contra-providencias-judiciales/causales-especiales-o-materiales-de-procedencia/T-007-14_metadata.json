@@ -1,0 +1,58 @@
+{
+  "radicado": "T-007-14",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2014,
+  "fecha_creacion": "2014-01-13",
+  "magistrado_ponente": "Mauricio González Cuervo",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+  "subtema": "Causales especiales o materiales de procedencia",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 71 de 1988",
+    "Ley 100 de 1993",
+    "Decreto 2709 de 1994",
+    "Ley 712 de 2001",
+    "Decreto 758 de 1990",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2014/T-007-14.htm",
+  "fecha_descarga": "2026-10-21T13:17:05.068470+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2014-01-13",
+  "fecha_publicacion": null,
+  "numero": "T-007/14",
+  "tipo_cc": "T",
+  "prov_id": "5763",
+  "tema_relatoria": null,
+  "resumen": "Debido proceso, mínimo vital, seguridad social. Tutela contra providencia judicial. Se acumulan expedientes por unidad de materia. Se demandan en sede de tutela las decisiones judiciales que, dentro del trámite de procesos ordinarios, revocaron las sentencias de primera instancia y en su lugar negaron el reconocimiento de las pensiones reclamadas por los actores. Luego de reiterar jurisprudencia relacionada con la procedencia de la acción de tutela contra providencias judiciales y de resaltar la caracterización del defecto sustantivo, La Sala de Revisión decide CONCEDER el amparo solicitado y ordenar el reconocimiento y pago de las pensiones de jubilación reclamadas",
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Causales especiales o materiales de procedencia"
+    },
+    {
+      "tema": "DEFECTO MATERIAL O SUSTANTIVO",
+      "subtema": "Configuración"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Caso en que se niega reconocimiento y pago de la pensión de jubilación incurriéndose en defecto sustantivo por exigir requisitos inexistentes en la norma aplicable al caso concreto"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Requisitos generales o formales de procedencia"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Caso en que se niega reconocimiento y pago de la pensión de jubilación incurriéndose en defecto sustantivo al no tener en cuenta la norma legal aplicable"
+    },
+    {
+      "tema": "DERECHO A LA SEGURIDAD SOCIAL Y AL DEBIDO PROCESO",
+      "subtema": "Orden a Colpensiones expedir resolución correspondiente al reconocimiento definitivo de pensión de jubilación"
+    }
+  ]
+}

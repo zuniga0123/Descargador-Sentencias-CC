@@ -1,0 +1,47 @@
+{
+  "radicado": "T-918-14",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2014,
+  "fecha_creacion": "2014-12-01",
+  "magistrado_ponente": null,
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+  "subtema": "Requisitos generales y especiales de procedibilidad",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 600 de 2000",
+    "Decreto 2591 de 1991",
+    "Ley 906 de 2004"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2014/T-918-14.htm",
+  "fecha_descarga": "2026-10-21T13:35:06.163411+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2014-12-01",
+  "fecha_publicacion": null,
+  "numero": "T-918/14",
+  "tipo_cc": "T",
+  "prov_id": "7042",
+  "tema_relatoria": null,
+  "resumen": "Debido proceso, defensa técnica, administración de justicias. Tutela contra providencia judicial. El actor aduce que las autoridades judiciales accionadas vulneraron sus derechos fundamentales, al vincularlo a un proceso penal como persona ausente, a pesar de saber dónde podía ser localizado, toda vez que se encontraba privado de la libertad en el Centro Penitenciario de Moniquirá (Boyacá). Igualmente, porque se le asignó como defensor de oficio dentro de dicha actuación, a un estudiante de la Universidad Santo Tomás y no, a un profesional del derecho. Luego de verificar el cumplimiento de los presupuestos formales de procedibilidad de la acción de tutela contra providencias judiciales, la Sala concluyó que en la actuación por vinculación de apersona ausente, no se presentaron los defectos alegados. Se NIEGA el amparo solicitado.",
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Requisitos generales y especiales de procedibilidad"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Improcedencia por no vulneración del debido proceso y a la defensa por cuanto las autoridades judiciales adelantaron acciones encaminadas a localizar al accionante sin obtener resultados, por lo cual se decl"
+    },
+    {
+      "tema": "DERECHO A LA DEFENSA TÉCNICA",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "DECLARACION DE PERSONA AUSENTE",
+      "subtema": "Vinculación al proceso penal conforme a la ley 600 de 2000"
+    }
+  ]
+}

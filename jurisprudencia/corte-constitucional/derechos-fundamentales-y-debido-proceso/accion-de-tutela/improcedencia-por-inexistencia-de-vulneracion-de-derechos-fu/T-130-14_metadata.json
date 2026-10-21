@@ -1,0 +1,41 @@
+{
+  "radicado": "T-130-14",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2014,
+  "fecha_creacion": "2014-03-11",
+  "magistrado_ponente": "Luis Guillermo Guerrero Pérez",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCIÓN DE TUTELA",
+  "subtema": "Improcedencia por inexistencia de vulneración de derechos fundamentales",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2014/T-130-14.htm",
+  "fecha_descarga": "2026-10-21T13:25:39.497276+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2014-03-11",
+  "fecha_publicacion": null,
+  "numero": "T-130/14",
+  "tipo_cc": "T",
+  "prov_id": "5946",
+  "tema_relatoria": null,
+  "resumen": "La accionante, en calidad de agente oficioso de un hijo de 29 años de edad que sufre de esquizofrenia paranoide, solicita al juez constitucional que ampare los derechos fundamentales a la vida digna y a la seguridad social presuntamente vulnerados por la E.P.S.S. EMSSANAR y, que en consecuencia, se le ordene a esta entidad suministrar a su hijo una atención integral y un manejo interdisciplinario para tratar la patología que le aqueja, al igual que su internación en un centro psiquiátrico para lograr estabilizarlo. Luego del análisis detallado del caso, la Sala decide revocar la decisión de instancia y en su lugar declarar IMPROCEDENTE la acción de tutela deprecada.",
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Improcedencia por inexistencia de vulneración de derechos fundamentales"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Improcedencia de tutela por inexistencia de vulneración de derecho a la salud por cuanto no existe un hecho generador de la presunta afectación"
+    },
+    {
+      "tema": "DERECHO DE LA SALUD",
+      "subtema": "Caso en que madre en calidad de agente oficioso solicita a EPS atención integral y manejo interdisciplinario para tratar la esquizofrenia paranoide de su hijo"
+    }
+  ]
+}

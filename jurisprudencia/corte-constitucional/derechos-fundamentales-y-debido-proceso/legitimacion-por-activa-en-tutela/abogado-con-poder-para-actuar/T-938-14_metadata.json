@@ -1,0 +1,57 @@
+{
+  "radicado": "T-938-14",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2014,
+  "fecha_creacion": "2014-12-03",
+  "magistrado_ponente": "Mauricio González Cuervo",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "LEGITIMACIÓN POR ACTIVA EN TUTELA",
+  "subtema": "Abogado con poder para actuar",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 712 de 2001",
+    "Ley 100 de 1993",
+    "Ley 797 de 2003",
+    "Decreto 2591 de 1991",
+    "Ley 1276 de 2009"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2014/T-938-14.htm",
+  "fecha_descarga": "2026-10-21T13:21:26.773375+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2014-12-03",
+  "fecha_publicacion": null,
+  "numero": "T-938/14",
+  "tipo_cc": "T",
+  "prov_id": "7064",
+  "tema_relatoria": null,
+  "resumen": "La accionante aduce que la no autorización para cambiar del régimen de ahorro individual con solidaridad, al régimen de prima media con prestación definida, vulnera sus derechos fundamentales al debido proceso, a la igualdad, a la seguridad social en pensiones y a la libre escogencia del régimen pensional. Dicho traslado no fue aprobado porque al momento de la solicitud, la actora contaba con 56 años de edad, es decir, se encontraba dentro de la limitante contemplada en el literal 3) del artículo 13 de la Ley 100 de 1993, modificada por el artículo 2 de la Ley 797 de 2003, es decir, estaba dentro de los últimos 10 años para el cumplimiento de la edad exigida para pensionarse, lo que la imposibilitaba para regresar el régimen de prima media con prestación definida. Igualmente, porque no era beneficiaria del régimen de transición. La Sala considera que la acción de tutela resulta IMPROCEDENTE por incumplimiento del requisito de subsidiariedad y por no encontrarse probado la ocurrencia de un perjuicio irremediable.",
+  "titulaciones": [
+    {
+      "tema": "LEGITIMACIÓN POR ACTIVA EN TUTELA",
+      "subtema": "Abogado con poder para actuar"
+    },
+    {
+      "tema": "PRINCIPIO DE SUBSIDIARIEDAD E INMEDIATEZ EN LA ACCION DE TUTELA",
+      "subtema": "Requisitos de procedibilidad"
+    },
+    {
+      "tema": "PERSONA DE LA TERCERA EDAD ES QUIEN TENGA UNA EDAD SUPERIOR A LA EXPECTATIVA DE VIDA OFICIALMENTE RECONOCIDA EN COLOMBIA",
+      "subtema": null
+    },
+    {
+      "tema": "ADULTO MAYOR O PERSONA DE LA TERCERA EDAD",
+      "subtema": "Personas que tengan 60 años o más, según ley 1276/09"
+    },
+    {
+      "tema": "LEGITIMACION POR PASIVA EN TUTELA",
+      "subtema": "Empresa industrial y comercial del Estado"
+    },
+    {
+      "tema": "TRASLADO DE REGIMEN DE AHORRO INDIVIDUAL CON SOLIDARIDAD A REGIMEN DE PRIMA MEDIA CON PRESTACION DEFINIDA",
+      "subtema": "Improcedencia por cuanto se puede acudir ante la jurisdicción ordinaria"
+    }
+  ]
+}
