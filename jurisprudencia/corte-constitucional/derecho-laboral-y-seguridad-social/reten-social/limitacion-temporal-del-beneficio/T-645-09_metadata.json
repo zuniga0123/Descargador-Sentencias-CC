@@ -1,0 +1,57 @@
+{
+  "radicado": "T-645-09",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2009,
+  "fecha_creacion": "2009-09-17",
+  "magistrado_ponente": "Dr JUAN CARLOS HENAO PÉREZ",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "RETEN SOCIAL",
+  "subtema": "Limitación temporal del beneficio",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 790 de 2002",
+    "Ley 100 de 1993",
+    "Decreto 1615 de 2003",
+    "Decreto 1781 de 2005",
+    "Decreto Ley 254 de 2000",
+    "Ley 812 de 2003",
+    "Decreto 1915 de 2005",
+    "Decreto 2591 de 1991",
+    "Ley 813 de 2003"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2009/T-645-09.htm",
+  "fecha_descarga": "2026-10-21T19:08:20.172479+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2009-09-17",
+  "fecha_publicacion": null,
+  "numero": "T-645/09",
+  "tipo_cc": "T",
+  "prov_id": "31533",
+  "tema_relatoria": null,
+  "resumen": "Seguridad social, mínimo vital. La accionante solicita el pago de sus salarios hasta que le sea reconocida la pensión de vejez. La señora fue despedida cuando se liquidó la entidad accionada, a pesar de que tan solo le hacían falta once meses y quince días para alcanzar la calidad de pensionada. Por su parte el PAR argumenta que la accionante estuvo vinculada como parte del retén social, para el momento en que fue despedida no gozaba de la calidad de prepensionada ya que todos los beneficios convencionales una vez suscrita el acta de liquidación de TELECOM desaparecieron para los trabajadores. La Sala aclara que la protección de la que gozan las personas que hacen parte del reten social, solo perdura durante la existencia jurídica de la empresa, en vista de que la empresa ya no existe, no es obligación del PAR el cancelarle a la demandante los salarios y prestaciones hasta que cumpla la edad para pensionarse. Negada.",
+  "titulaciones": [
+    {
+      "tema": "RETEN SOCIAL",
+      "subtema": "Limitación temporal del beneficio"
+    },
+    {
+      "tema": "RETEN SOCIAL",
+      "subtema": "Finalidad y protección"
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA TELECOM",
+      "subtema": "Improcedencia para ordenar el pago de los salarios dejados de percibir hasta tanto le sea reconocida la pensión de jubilación"
+    },
+    {
+      "tema": "RETEN SOCIAL",
+      "subtema": "Aplicación Ley 790 de 2002 a situaciones de liquidación forzosa administrativa de entidades descentralizadas de orden territorial"
+    },
+    {
+      "tema": "RETEN SOCIAL",
+      "subtema": "Fecha hasta la cual debe extenderse protección laboral"
+    }
+  ]
+}

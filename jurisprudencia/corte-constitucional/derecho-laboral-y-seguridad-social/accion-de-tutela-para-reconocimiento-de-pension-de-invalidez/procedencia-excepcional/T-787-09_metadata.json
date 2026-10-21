@@ -1,0 +1,43 @@
+{
+  "radicado": "T-787-09",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2009,
+  "fecha_creacion": "2009-10-30",
+  "magistrado_ponente": "Dra MARÍA VICTORIA CALLE CORREA",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "ACCION DE TUTELA PARA RECONOCIMIENTO DE PENSION DE INVALIDEZ",
+  "subtema": "Procedencia excepcional",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Decreto 2591 de 1991",
+    "Ley 860 de 2003"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2009/T-787-09.htm",
+  "fecha_descarga": "2026-10-21T19:08:09.238104+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2009-10-30",
+  "fecha_publicacion": null,
+  "numero": "T-787/09",
+  "tipo_cc": "T",
+  "prov_id": "124",
+  "tema_relatoria": null,
+  "resumen": "Mínimo vital, salud, seguridad social. La accionante solicita el reconocimiento y pago de la pensión de invalidez, ya que sufre de una perdida de capacidad laboral superior al 63.8%, la entidad se ha negado a reconocerla debido a que la accionante no cotizó 26 semanas en el año anterior a la fecha de estructuración de la invalidez. La Sala encuentra que la accionante no tiene derecho al reconocimiento de su pensión de invalidez, de todas maneras la entidad accionada vulneró los derechos de la accionante al no informarle que tiene derecho a la indemnización sustitutiva, por lo tanto se ordena el reconocimiento y pago de la misma. Concede parcialmente.",
+  "titulaciones": [
+    {
+      "tema": "ACCION DE TUTELA PARA RECONOCIMIENTO DE PENSION DE INVALIDEZ",
+      "subtema": "Procedencia excepcional"
+    },
+    {
+      "tema": "DERECHO A LA SEGURIDAD SOCIAL Y AL MINIMO VITAL",
+      "subtema": "Vulneración por cuanto el ISS no informó a la peticionaria que le asistía el derecho a recibir la indemnización sustitutiva"
+    },
+    {
+      "tema": "CORTE CONSTITUCIONAL",
+      "subtema": "Por la situación precaria de la accionante se ordenará al ISS el reconocimiento de la indemnización sustitutiva dejando a la actora en libertad para repudiarla"
+    }
+  ]
+}

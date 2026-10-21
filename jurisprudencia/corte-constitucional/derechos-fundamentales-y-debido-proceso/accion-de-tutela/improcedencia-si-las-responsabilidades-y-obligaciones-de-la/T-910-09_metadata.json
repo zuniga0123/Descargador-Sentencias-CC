@@ -1,0 +1,45 @@
+{
+  "radicado": "T-910-09",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2009,
+  "fecha_creacion": "2009-12-07",
+  "magistrado_ponente": "Dr NILSON PINILLA PINILLA",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCIÓN DE TUTELA",
+  "subtema": "Improcedencia si las responsabilidades y obligaciones de la fiduciaria frente a los fideicomitentes y el beneficiario emanan del contrato y no de las decisiones judiciales",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2009/T-910-09.htm",
+  "fecha_descarga": "2026-10-21T19:05:55.883291+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2009-12-07",
+  "fecha_publicacion": null,
+  "numero": "T-910/09",
+  "tipo_cc": "T",
+  "prov_id": "270",
+  "tema_relatoria": null,
+  "resumen": "Debido proceso, acceso a la administración de justicia. El actor celebró contrato de compraventa de acciones y otros derechos sobre Bancolombia, como garantía para el cumplimiento de la obligación se celebró un contrato de fiducia irrevocable, por problemas en el contrato se inició un laudo arbitral resultando condenado el aquí accionante, posteriormente se decretó la nulidad del laudo arbitral y se esta en espera la decisión del recurso extraordinario de revisión interpuesto por Bancolombia. El actor interpuso acción de tutela contra la fiduciaria para que se le reembolsen las garantías fiduciarias. La Sala concluye que la controversia planteada por el actor es de materia contractual y por lo tanto la acción de tutela no resulta procedente en este caso, además el actor no se encuentra en estado de desequilibrio frente a la entidad bancaria, se declara la improcedencia de la acción y se ordena al actor reconstituir la garantía fiduciaria más intereses. Niega.",
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Improcedencia si las responsabilidades y obligaciones de la fiduciaria frente a los fideicomitentes y el beneficiario emanan del contrato y no de las decisiones judiciales"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Fiduciaria demandada se negó a cumplir las decisiones judiciales sobre su obligación de liquidación y devolución de bienes entregados en garantía fiduciaria"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Improcedencia por cuanto se trata de un conflicto económico"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Improcedencia para resolver controversias contractuales"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "radicado": "C-899-09",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2009,
+  "fecha_creacion": "2009-12-02",
+  "magistrado_ponente": null,
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "INHIBICION DE LA CORTE CONSTITUCIONAL POR INEPTITUD SUSTANTIVA DE LA DEMANDA",
+  "subtema": "Incumplimiento de requisitos de certeza, especificidad y suficiencia en los cargos",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2067 de 1991",
+    "Ley 1296 de 2009",
+    "Ley 1148 de 2007",
+    "Ley 617 de 2000",
+    "Ley 821 de 2003",
+    "Ley 821 de 2004"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2009/C-899-09.htm",
+  "fecha_descarga": "2026-10-21T19:26:05.005838+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2009-12-02",
+  "fecha_publicacion": null,
+  "numero": "C-899/09",
+  "tipo_cc": "C",
+  "prov_id": "253",
+  "tema_relatoria": "FALLO INHIBITORIO POR INEPTITUD DE DEMANDA DE INCONSTITUCIONALIDAD CONTRA NORMA DE LA LEY 1296 DE 2009",
+  "resumen": "Ley 1269 de 2009, artículo 1, dice los siguiente “los cónyuges o compañeros permanentes de los gobernadores, diputados, alcaldes municipales y distritales, concejales municipales y distritales y sus parientes dentro del cuarto grado de consanguinidad, segundo de afinidad, o primero civil no podrán ser contratistas del respectivo departamento, distrito o municipio, o de sus entidades descentralizadas, ni directa, ni indirectamente”, el demandante considera que la norma es incompatible con el artículo 292 de la Constitución Política, considera que se transgrede el límite constitucional en la regulación de las inhabilidades al ampliarlas hasta el cuarto grado de consanguinidad. La Corte encuentra que no hay suficiencia en el planteamiento del cargo, ya que la argumentación esbozada por el demandante resulta deficiente en la medida que se centra en cuestionar el umbral de parentesco que establece la norma acusada como fuente de la inhabilidad, sin incorporar en su análisis del resto del precepto a que refiere esa prohibición a los contratistas, se establece que hay falta de certeza, especificidad y suficiencia en las razones que sustentan cargo planteado en la demanda, por lo tanto decide declararse inhibida para emitir un pronunciamiento de fondo. Inhibida.",
+  "titulaciones": [
+    {
+      "tema": "INHIBICION DE LA CORTE CONSTITUCIONAL POR INEPTITUD SUSTANTIVA DE LA DEMANDA",
+      "subtema": "Incumplimiento de requisitos de certeza, especificidad y suficiencia en los cargos"
+    },
+    {
+      "tema": "ACCION PUBLICA DE INCONSTITUCIONALIDAD",
+      "subtema": "Requisitos"
+    },
+    {
+      "tema": "ACCION PUBLICA DE INCONSTITUCIONALIDAD",
+      "subtema": "Oportunidad para la verificación de los requisitos de procedibilidad"
+    }
+  ]
+}

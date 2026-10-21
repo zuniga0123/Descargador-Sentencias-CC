@@ -1,0 +1,53 @@
+{
+  "radicado": "C-667-09",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2009,
+  "fecha_creacion": "2009-09-22",
+  "magistrado_ponente": "Dr JORGE IGNACIO PRETELT CHALJUB",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "DEMANDA DE INCONSTITUCIONALIDAD POR VULNERACION DEL PRINCIPIO DE IGUALDAD",
+  "subtema": "Inadmisibilidad de figuras procesales de otras legislaciones y sistemas de justicia como criterio de comparación",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2067 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2009/C-667-09.htm",
+  "fecha_descarga": "2026-10-21T19:20:19.516339+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2009-09-22",
+  "fecha_publicacion": "2010-02-02",
+  "numero": "C-667/09",
+  "tipo_cc": "C",
+  "prov_id": "31554",
+  "tema_relatoria": "LLAMAMIENTO EN GARANTÍA EN EL PROCESO CIVIL-LIMITACIÓN PARA EL TERCERO CON DERECHO LEGAL O CONTRACTUAL NO DESCONOCE EL DEBIDO PROCESO NI EL ACCESO A LA ADMINISTRACIÓN DE JUSTICIA",
+  "resumen": "Código de Procedimiento Civil artículo 57 parcial, la norma demandada regula el llamamiento en garantía, las expresiones demandadas son, “a un tercero” y “de aquél”, el demandante encuentra la norma contraria al Preámbulo Constitucional, debido a que afecta el pronto acceso a la justicia, al requerirse varios procesos judiciales para definir un asunto que puede ser debatido y decidido en una misma línea, además considera que se vulnera el principio de igualdad, ya que se consagran una desigualdad de oportunidades ante la ley entre los terceros y las partes de un litigio “pues frente a terceros se puede ejercitar el llamamiento en garantía pero entre las mismas partes tal actividad adjetiva se encuentra limitada ante la enunciación de esos vocablos que dan lugar a posiciones rígidas de los jueces que no admiten esta intervención que sí ha sido adoptada en otras legislaciones y sistemas de justicia”. La Corte luego de analizar las condiciones que deben reunir los cargos de inconstitucionalidad, concluye que la demanda no se formulo en debida forma y por ello se inhibe para conocer de la constitucionalidad de las expresiones demandadas.",
+  "titulaciones": [
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD POR VULNERACION DEL PRINCIPIO DE IGUALDAD",
+      "subtema": "Inadmisibilidad de figuras procesales de otras legislaciones y sistemas de justicia como criterio de comparación"
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD POR VULNERACION DEL PRINCIPIO DE IGUALDAD",
+      "subtema": "Requisitos"
+    },
+    {
+      "tema": "ACCION DE INCONSTITUCIONALIDAD",
+      "subtema": "Requisitos de procedibilidad"
+    },
+    {
+      "tema": "INHIBICION DE LA CORTE CONSTITUCIONAL POR INEPTITUD SUSTANTIVA DE LA DEMANDA",
+      "subtema": "Incumplimiento de requisitos de pertinencia y suficiencia"
+    },
+    {
+      "tema": "LLAMAMIENTO EN GARANTIA EN EL PROCESO CIVIL",
+      "subtema": "Facultad y medio de defensa del demandado"
+    },
+    {
+      "tema": "LLAMAMIENTO EN GARANTIA EN EL PROCESO CIVIL",
+      "subtema": "Limitación para el tercero con derecho legal o contractual no desconoce el debido proceso ni el acceso a la administración de justicia"
+    }
+  ]
+}

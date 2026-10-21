@@ -1,0 +1,39 @@
+{
+  "radicado": "T-358-09",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2009,
+  "fecha_creacion": "2009-05-20",
+  "magistrado_ponente": "Dr GABRIEL EDUARDO MENDOZA MARTELO",
+  "area": "Derecho a la Salud",
+  "tema": "ACCIÓN DE TUTELA",
+  "subtema": "Hecho superado por cuanto el padre del demandante ya está vinculado a una EPS y recibe tratamiento médico",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 100 de 1993",
+    "Ley 91 de 1989"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2009/T-358-09.htm",
+  "fecha_descarga": "2026-10-21T19:18:02.438007+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2009-05-20",
+  "fecha_publicacion": null,
+  "numero": "T-358/09",
+  "tipo_cc": "T",
+  "prov_id": "31167",
+  "tema_relatoria": null,
+  "resumen": "DERECHO A LA SALUD DEMANDADO A FAVOR DE AFILIADO A LA EMPRESA PROMOTORA DE SALUD DEMANDADA, QUE RESULTO DESVINCULADO DE LA MISMA UNA VEZ TERMINO LA RELACION DE TRABAJO CON SU ANTIGUO EMPLEADOR. EN VISTA DE QUE LA DEMANDADA ES UNA IPS, SE PRECISO QUE LA MISMA NO ESTA OBLIGADA A ACEPTAR AL PETENTE COMO COTIZANTE INDEPENDIENTE. ELLO, AUNADO A LA DISPONIBILIDAD DE OTRAS ALTERNATIVAS DE DEFENSA, CONDUJO A LA IMPROCEDENCIA DE LA TUTELA. NEGADA",
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Hecho superado por cuanto el padre del demandante ya está vinculado a una EPS y recibe tratamiento médico"
+    },
+    {
+      "tema": "DERECHO A LA SALUD DE PERSONA DE LA TERCERA EDAD",
+      "subtema": "No se puede pedir específicamente afiliación a una EPS que en este caso sólo presta servicios a los afiliados al Régimen del Magisterio"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "radicado": "C-558-09",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2009,
+  "fecha_creacion": "2009-08-20",
+  "magistrado_ponente": "Dr GABRIEL EDUARDO MENDOZA MARTELO",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "INHIBICION DE LA CORTE CONSTITUCIONAL",
+  "subtema": "Ineptitud sustantiva de la demanda",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 906 de 2004",
+    "Decreto 2067 de 1991",
+    "Acto Legislativo 3 de 2002",
+    "Ley 600 de 2000",
+    "Decreto 2700 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2009/C-558-09.htm",
+  "fecha_descarga": "2026-10-21T19:24:11.538575+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2009-08-20",
+  "fecha_publicacion": null,
+  "numero": "C-558/09",
+  "tipo_cc": "C",
+  "prov_id": "31443",
+  "tema_relatoria": "DEMANDA DE INCONSTITUCIONALIDAD POR OMISION LEGISLATIVA RELATIVA. INEXISTENCIA",
+  "resumen": "Demanda de constitucionalidad contra la Ley 906 de 2004 “por la cual se expide el Código de Procedimiento Penal” artículos 175 y 294 (parcial). El artículo 175 regula el término de que dispone la Fiscalía para formular la acusación y a su vez el artículo 294 regula que sucede una vez ha vencido dicho término. El primer cargo que formula el actor al artículo 175 es referente al debido proceso, ya que en su criterio, no define un término para el lapso que transcurre entre el inicio de la indagación y el momento formular la imputación, como consecuencia se permite que el proceso penal tenga una duración indefinida, en cuanto al artículo 294, considera que es inconstitucional por cuanto el legislador omitió establecer con precisión el término que tiene el superior para designar un nuevo fiscal al proceso. La Corte encuentra que el cargo formulado por el actor contra el artículo 175 es insuficiente, en cuanto al artículo 294 no se presenta una omisión legislativa contraria a la Constitución, porque de una interpretación integral del ordenamiento procesal penal se desprende que la eventual demora en la designación del nuevo fiscal no tiene efecto dilatorio sobre el proceso penal. La Corte decide Inhibirse de emitir un pronunciamiento de fondo en relación con el artículo 175 y declarar Exequible el artículo 294.",
+  "titulaciones": [
+    {
+      "tema": "INHIBICION DE LA CORTE CONSTITUCIONAL",
+      "subtema": "Ineptitud sustantiva de la demanda"
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD POR OMISION LEGISLATIVA RELATIVA",
+      "subtema": "Inexistencia"
+    },
+    {
+      "tema": "INHIBICION DE LA CORTE CONSTITUCIONAL EN DEMANDA DE INCONSTITUCIONALIDAD POR OMISION LEGISLATIVA",
+      "subtema": "No cumplimiento de los requisitos de procedibilidad"
+    },
+    {
+      "tema": "INTEGRACION DE UNIDAD NORMATIVA",
+      "subtema": "Procedencia excepcional"
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD POR OMISION LEGISLATIVA RELATIVA",
+      "subtema": "Requisitos"
+    }
+  ]
+}

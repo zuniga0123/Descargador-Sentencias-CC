@@ -1,0 +1,55 @@
+{
+  "radicado": "T-625-09",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2009,
+  "fecha_creacion": "2009-09-04",
+  "magistrado_ponente": "Dr JUAN CARLOS HENAO PÉREZ",
+  "area": "Derecho de Familia y Derechos de Niños, Niñas y Adolescentes",
+  "tema": "DERECHO A LA SALUD DE NIÑOS, NIÑAS Y ADOLESCENTES",
+  "subtema": "Fundamental",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Decreto Ley 1795 de 2000",
+    "Ley 100 de 1993",
+    "Decreto 806 de 1998",
+    "Ley 1098 de 2006",
+    "Decreto 1889 de 1994",
+    "Decreto 1795 de 2000"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2009/T-625-09.htm",
+  "fecha_descarga": "2026-10-21T19:05:44.691811+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2009-09-04",
+  "fecha_publicacion": null,
+  "numero": "T-625/09",
+  "tipo_cc": "T",
+  "prov_id": "31509",
+  "tema_relatoria": null,
+  "resumen": "Seguridad social, salud, vida digna. Solicita el accionante se ordene a la entidada demandada, la afiliación de su nieto al Sistema de Salud de las Fuerzas Militares en calidad de beneficiario suyo, debido a que la madre del menor es menor de edad y tanto ella como el menor se encuentran bajo su custodia. La entidad accionada basa su negativa en el Decreto Ley 1795 de 2000, artículo 24 en donde no se considera a los nietos de los cotizantes como sus beneficiarios. La Sala encuentra que el caso del menor es especial debido a que se le debería afiliar como cotizante independiente y esta figura es inexistente en el régimen de salud de las Fuerzas Militares y Policía Nacional, esta es una carga que el menor no debe soportar, al ser un sujeto de especial protección, claro esta la afiliación del menor solo perdurara mientras perdure la custodia en cabeza del abuelo. Concedida",
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA SALUD DE NIÑOS, NIÑAS Y ADOLESCENTES",
+      "subtema": "Fundamental"
+    },
+    {
+      "tema": "FUERZAS MILITARES Y POLICIA NACIONAL",
+      "subtema": "Régimen especial en materia de salud"
+    },
+    {
+      "tema": "LEGITIMACIÓN POR ACTIVA EN TUTELA",
+      "subtema": "Abuelo cotizante del Sistema de Salud de las Fuerzas Militares en representación de su nieto hijo de menor de edad"
+    },
+    {
+      "tema": "DIRECCION GENERAL DE SANIDAD MILITAR",
+      "subtema": "Orden de afiliación a nieto de afiliado como cotizante dependiente, hasta la regulación de dicha figura o hasta cuando los padres del menor modifiquen su calidad de beneficiarios al sistema de seguridad social"
+    },
+    {
+      "tema": "FONDO NACIONAL DE PRESTACIONES SOCIALES DEL MAGISTERIO",
+      "subtema": "Régimen especial de seguridad social en salud para los docentes"
+    }
+  ]
+}

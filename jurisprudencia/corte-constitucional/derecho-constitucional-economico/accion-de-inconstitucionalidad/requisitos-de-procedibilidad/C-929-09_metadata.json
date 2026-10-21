@@ -1,0 +1,45 @@
+{
+  "radicado": "C-929-09",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2009,
+  "fecha_creacion": "2009-12-10",
+  "magistrado_ponente": "Dr JUAN CARLOS HENAO PEREZ",
+  "area": "Derecho Constitucional Económico",
+  "tema": "ACCION DE INCONSTITUCIONALIDAD",
+  "subtema": "Requisitos de procedibilidad",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 1066 de 2006",
+    "Decreto 2067 de 1991",
+    "Ley 599 de 2000",
+    "Ley 510 de 1999",
+    "Ley 45 de 1990"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2009/C-929-09.htm",
+  "fecha_descarga": "2026-10-21T19:20:08.403025+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2009-12-10",
+  "fecha_publicacion": "2010-04-05",
+  "numero": "C-929/09",
+  "tipo_cc": "C",
+  "prov_id": "290",
+  "tema_relatoria": "FALLO INHIBITORIO POR INEPTITUD DE DEMANDA DE INCONSTITUCIONALIDAD CONTRA NORMA DE LA LEY 1066 DE 2006",
+  "resumen": "Ley 1066 de 2006, artículo 12 inciso 1 “por la cual se dictan normas para la normalización de la cartera pública y se dictan otras disposiciones”, la norma acusada modifica el artículo 635 del Estatuto Tributario, en cuanto a la determinación de la tasa de interés moratorio, el aparte acusado es el siguiente “equivalente a la tasa efectiva de usura”, los demandantes consideran que la Administración impone al contribuyente una sanción que resulta contraría al principio de legalidad de las actuaciones estatales al cobrar intereses moratorios a una tas calificada como delito por la legislación penal. La Corte se pronuncia sobre los presupuestos para la existencia de un cargo de inconstitucionalidad, luego analiza los cargos expuestos por los demandantes y se inhibe de proferir una decisión de fondo por ineptitud sustantiva de la demanda.",
+  "titulaciones": [
+    {
+      "tema": "ACCION DE INCONSTITUCIONALIDAD",
+      "subtema": "Requisitos de procedibilidad"
+    },
+    {
+      "tema": "INHIBICION DE LA CORTE CONSTITUCIONAL POR INEPTITUD SUSTANTIVA DE LA DEMANDA",
+      "subtema": "Incumplimiento de requisitos de certeza, especificidad, pertinencia y suficiencia en los cargos"
+    },
+    {
+      "tema": "TASAS DE INTERES MORATORIO PARA EFECTOS TRIBUTARIOS",
+      "subtema": "Equivalente a la tasa efectiva de usura"
+    }
+  ]
+}

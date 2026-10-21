@@ -1,0 +1,50 @@
+{
+  "radicado": "T-222-09",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2009,
+  "fecha_creacion": "2009-03-27",
+  "magistrado_ponente": "Mauricio González Cuervo",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCION DE TUTELA Y REINTEGRO DEL TRABAJADOR",
+  "subtema": "Procedencia excepcional para ordenarlo transitoriamente",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 1295 de 1994",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2009/T-222-09.htm",
+  "fecha_descarga": "2026-10-21T19:14:22.504784+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2009-03-27",
+  "fecha_publicacion": null,
+  "numero": "T-222/09",
+  "tipo_cc": "T",
+  "prov_id": "30985",
+  "tema_relatoria": null,
+  "resumen": "DERECHOS A LA VIDA DIGNA, SALUD Y TRABAJO EVOCADOS POR CIUDADANA A QUIEN NO SE LE HA DADO RESPUESTA FRENTE A SU SOLICITUD DE RECONOCIMIENTO DE LOS PERJUICIOS DERIVADOS DE UN ACCIDENTE DE TRABAJO. IMPROCEDENCIA DE LA ACCION DE TUTELA ANTE LA EXISTENCIA DE OTROS MEDIOS DE DEFENSA JUDICIAL. AUSENCIA DE PERJUICIO IRREMEDIABLE POR DESCONOCIMIENTO DE LA REGLA DE INMEDIATEZ. LA INSTAURACION DE LA TUTELA SE HIZO EN UN PLAZO NO RAZONABLE, PUES TRANSCURRIERON MAS DE TRES AÑOS DESDE LA CONFIGURACION DEL ALEGADO HECHO VULNERANTE Y SU INTERPOSICION. NEGADA",
+  "titulaciones": [
+    {
+      "tema": "ACCION DE TUTELA Y REINTEGRO DEL TRABAJADOR",
+      "subtema": "Procedencia excepcional para ordenarlo transitoriamente"
+    },
+    {
+      "tema": "DERECHO A LA SEGURIDAD SOCIAL Y A LA SALUD EN CONEXIDAD CON LA VIDA",
+      "subtema": "Deberes tanto de las EPS como de las ARP frente a un accidente de trabajo"
+    },
+    {
+      "tema": "INCAPACIDAD LABORAL POR ACCIDENTE DE TRABAJO",
+      "subtema": null
+    },
+    {
+      "tema": "PROTECCION LABORAL DE PERSONAS QUE SE ENCUENTRAN LIMITADAS FISICAMENTE",
+      "subtema": null
+    },
+    {
+      "tema": "COOPERATIVAS DE TRABAJO ASOCIADO Y REINTEGRO DE EMPLEADO",
+      "subtema": "Caso en que en un accidente de trabajo sufrió quemaduras en sus pies"
+    }
+  ]
+}

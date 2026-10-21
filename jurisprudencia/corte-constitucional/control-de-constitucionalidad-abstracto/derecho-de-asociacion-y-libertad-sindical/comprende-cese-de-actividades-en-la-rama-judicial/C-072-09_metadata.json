@@ -1,0 +1,54 @@
+{
+  "radicado": "C-072-09",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2009,
+  "fecha_creacion": "2009-02-12",
+  "magistrado_ponente": "Dr Nilson Pinilla Pinilla",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "DERECHO DE ASOCIACION Y LIBERTAD SINDICAL",
+  "subtema": "Comprende cese de actividades en la Rama Judicial",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2067 de 1991",
+    "Decreto 3955 de 2008",
+    "Decreto 2474 de 2008",
+    "Decreto 3935 de 2008",
+    "Ley 270 de 1996",
+    "Decreto 3929 de 2008"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2009/C-072-09.htm",
+  "fecha_descarga": "2026-10-21T19:27:40.282209+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2009-02-12",
+  "fecha_publicacion": null,
+  "numero": "C-072/09",
+  "tipo_cc": "C",
+  "prov_id": "30765",
+  "tema_relatoria": "INCONSTITUCIONALIDAD POR CONSENCUENCIA EN CONMOCION INTERIOR-MEDIDAS PARA AGILIZAR TRÁMITE DE NOTIFICACIONES PERSONALES Y SUSPENSIÓN DE TÉRMINOS POR LA SALA ADMINISTRATIVA DEL CONSEJO SUPERIOR DE LA JUDICATURA",
+  "resumen": "REVISION DE CONSTITUCIONALIDAD DEL DECRETO 3955 DEL 11 DE OCTUBRE DE 2008, “POR EL CUAL SE OTORGAN FACULTADES A LA SALA ADMINISTRATIVA DEL CONSEJO SUPERIOR DE LA JUDICATURA Y SE DICTAN OTRAS DISPOSICIONES”. EN RELACION CON EL DECRETO DEMANDADO SE DEBE ALEGAR LA INEXEQUIBILIDAD POR CONSECUENCIA, TODA VEZ QUE FUE EXPEDIDO CON BASE EN EL DECRETO 3929 DE 2008 DECLARADO INCONSTITUCIONAL MEDIANTE SENTENCIA C-070 DE 2009. INEXEQUIBLE",
+  "titulaciones": [
+    {
+      "tema": "DERECHO DE ASOCIACION Y LIBERTAD SINDICAL",
+      "subtema": "Comprende cese de actividades en la Rama Judicial"
+    },
+    {
+      "tema": "DERECHO DE ASOCIACION Y LIBERTAD SINDICAL",
+      "subtema": "Extensivo a los empleados y funcionarios judiciales"
+    },
+    {
+      "tema": "DECLARACION DE ESTADO DE CONMOCION INTERIOR",
+      "subtema": "Responsabilidad del Presidente de la República y Ministros"
+    },
+    {
+      "tema": "INCONSTITUCIONALIDAD POR CONSENCUENCIA EN CONMOCION INTERIOR",
+      "subtema": "Medidas para agilizar trámite de notificaciones personales y suspensión de términos por la Sala Administrativa del Consejo Superior de la Judicatura"
+    },
+    {
+      "tema": "INCONSTITUCIONALIDAD POR CONSECUENCIA",
+      "subtema": "Configuración"
+    }
+  ]
+}

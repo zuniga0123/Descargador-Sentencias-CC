@@ -1,0 +1,62 @@
+{
+  "radicado": "T-298-09",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2009,
+  "fecha_creacion": "2009-04-23",
+  "magistrado_ponente": null,
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "LIBERTAD DE EXPRESION Y LIMITACIONES ADMISIBLES",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 51 de 1975",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2009/T-298-09.htm",
+  "fecha_descarga": "2026-10-21T19:16:07.003978+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2009-04-23",
+  "fecha_publicacion": null,
+  "numero": "T-298/09",
+  "tipo_cc": "T",
+  "prov_id": "31081",
+  "tema_relatoria": null,
+  "resumen": "Derechos vulnerados buen nombre. Solicita ordenarle al diario accionado la rectificación de la información referida a él y que además le sea entregado el documento de el cual el periodista obtuvo la información que luego fue publicada. La sala recuerda que la reserva de la fuente, es una garantía constitucional y que por lo tanto el accionado no se encuentra en la obligación de revelarla, en cuanto a la rectificación de la información, se encuentra que ya fue publicada por el diario accionado, aclarando de donde provenía la información que se publicó en la noticia, por lo tanto no se encuentran vulnerados los derechos del actor y se decide negar el amparo de tutela.",
+  "titulaciones": [
+    {
+      "tema": "LIBERTAD DE EXPRESION Y LIMITACIONES ADMISIBLES",
+      "subtema": null
+    },
+    {
+      "tema": "MEDIOS DE COMUNICACION Y RESERVA DE LA FUENTE",
+      "subtema": "Caso en que se entrega un documento bajo esta figura"
+    },
+    {
+      "tema": "RESERVA DE LA FUENTE",
+      "subtema": "Alcance de la figura"
+    },
+    {
+      "tema": "DEBERES CONSTITUCIONALES DE LOS MEDIOS DE COMUNICACIÓN",
+      "subtema": null
+    },
+    {
+      "tema": "DERECHO A LA LIBERTAD DE EXPRESION E INFORMACION",
+      "subtema": null
+    },
+    {
+      "tema": "VERACIDAD E IMPARCIALIDAD A QUE ESTAN SOMETIDOS MEDIOS DE COMUNICACION",
+      "subtema": null
+    },
+    {
+      "tema": "DERECHO DE PETICION CONTRA MEDIO DE COMUNICACION",
+      "subtema": "Caso en que se solicita que se suministre un documento que ha sido entregado bajo la figura de la reserva de la fuente"
+    },
+    {
+      "tema": "RECTIFICACION DE INFORMACION",
+      "subtema": "Caso en que hubo vulneración del principio de imparcialidad"
+    }
+  ]
+}

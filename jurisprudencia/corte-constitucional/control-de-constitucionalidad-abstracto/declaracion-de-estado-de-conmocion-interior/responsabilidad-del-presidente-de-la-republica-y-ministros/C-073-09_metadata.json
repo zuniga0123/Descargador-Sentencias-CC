@@ -1,0 +1,50 @@
+{
+  "radicado": "C-073-09",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2009,
+  "fecha_creacion": "2009-02-12",
+  "magistrado_ponente": "Mauricio González Cuervo",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "DECLARACION DE ESTADO DE CONMOCION INTERIOR",
+  "subtema": "Responsabilidad del Presidente de la República y Ministros",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 446 de 1998",
+    "Decreto 2474 de 2008",
+    "Decreto 3990 de 2008",
+    "Decreto 3929 de 2008",
+    "Decreto 3930 de 2008",
+    "Ley 270 de 1996",
+    "Ley 1194 de 2008",
+    "Ley 50 de 1990",
+    "Decreto 753 de 1956",
+    "Decreto 3090 de 2008"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2009/C-073-09.htm",
+  "fecha_descarga": "2026-10-21T19:20:30.667190+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2009-02-12",
+  "fecha_publicacion": "2009-10-13",
+  "numero": "C-073/09",
+  "tipo_cc": "C",
+  "prov_id": "30766",
+  "tema_relatoria": "INCONSTITUCIONALIDAD POR CONSECUENCIA EN CONMOCION INTERIOR. FACULTADES A LA SALA ADMINISTRATIVA Y JURISDICCIONAL DISCIPLINARIA DEL CONSEJO SUPERIOR DE LA JUDICATURA",
+  "resumen": "Control automático de constitucionalidad del Decreto legislativo 3990 de 2008 “por el cual se le otorgan facultades a la Sala Administrativa y Jurisdiccional Disciplinaria del Consejo Superior de la Judicatura y se dictan otras disposiciones”. La Corte declara inexequible el Decreto por cuanto se dictó en desarrollo de la una norma declara inconstitucional, la cual es el Decreto 3929 “por el cual se declara el Estado de conmoción interior.”",
+  "titulaciones": [
+    {
+      "tema": "DECLARACION DE ESTADO DE CONMOCION INTERIOR",
+      "subtema": "Responsabilidad del Presidente de la República y Ministros"
+    },
+    {
+      "tema": "INCONSTITUCIONALIDAD POR CONSENCUENCIA EN CONMOCION INTERIOR",
+      "subtema": "Adopción del Plan Nacional de Descongestión por la Sala Administrativa del Consejo Superior de la Judicatura"
+    },
+    {
+      "tema": "INCONSTITUCIONALIDAD POR CONSECUENCIA",
+      "subtema": "Configuración"
+    }
+  ]
+}

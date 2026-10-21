@@ -1,0 +1,41 @@
+{
+  "radicado": "T-766-09",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2009,
+  "fecha_creacion": "2009-10-29",
+  "magistrado_ponente": "Dr NILSON PINILLA PINILLA",
+  "area": "Derecho a la Salud",
+  "tema": "ACCIÓN DE TUTELA",
+  "subtema": "Hecho superado por cancelación de los aportes en salud",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2009/T-766-09.htm",
+  "fecha_descarga": "2026-10-21T19:15:14.362139+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2009-10-29",
+  "fecha_publicacion": null,
+  "numero": "T-766/09",
+  "tipo_cc": "T",
+  "prov_id": "103",
+  "tema_relatoria": null,
+  "resumen": "Salud, vida digna. El actor obrando en representación de su padre solicita a la entidad accionada que realice el pago de aportes a salud, ya que esta entidad pese a descontar de la mesada pensional el valor de dichos aportes lleva varios meses en mora y por lo tanto a su padre y a su madre se les ha suspendido la prestación de los servicios de salud. Para decidir el caso la Sala recuerda que no puede haber suspensión del servicio de salud por mora en el pago de aportes, en el transcurso del trámite se allegaron pruebas en donde se demuestra que ya se efectuó el pago de aportes y por lo tanto se esta frente a un hecho superado.",
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Hecho superado por cancelación de los aportes en salud"
+    },
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "No suspensión por mora en el pago de aportes por empleador"
+    },
+    {
+      "tema": "PRINCIPIO DE CONTINUIDAD EN EL SERVICIO DE SALUD",
+      "subtema": "Alcance"
+    }
+  ]
+}

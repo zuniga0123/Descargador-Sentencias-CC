@@ -1,0 +1,65 @@
+{
+  "radicado": "C-559-09",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2009,
+  "fecha_creacion": "2009-08-20",
+  "magistrado_ponente": "Dr NILSON PINILLA PINILLA",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "CONFESION EN EL PROCEDIMIENTO CIVIL",
+  "subtema": "Clases",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 794 de 2003",
+    "Decreto 2067 de 1991",
+    "Ley 16 de 1972",
+    "Decreto 1400 de 1970",
+    "Ley 105 de 1931"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2009/C-559-09.htm",
+  "fecha_descarga": "2026-10-21T19:24:34.544260+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2009-08-20",
+  "fecha_publicacion": null,
+  "numero": "C-559/09",
+  "tipo_cc": "C",
+  "prov_id": "31444",
+  "tema_relatoria": "INTERROGATORIO DE PARTE EN PROCESO CIVIL. PRÁCTICA NO VULNERA EL PRINCIPIO DE NO AUTOINCRIMINACIÓN",
+  "resumen": "Demanda de inconstitucionalidad contra el artículo 208 (parcial) del Código de Procedimiento Civil, modificado por el artículo 21 de la Ley 794 de 2003, el artículo regula la práctica de interrogatorio, el aparte acusado se refiere a cuando el interrogado se negare a contestar o diere respuestas evasivas y la facultad del juez de amonestarlo para que responda, los demandantes consideran que el aparte demandado vulnera los artículos 1, 2, 29. 33 y 74, ya que dicho aparte no consagro de manera directa la expresión “salvo las excepciones legales”, violando de esta manera garantías constitucionales como la del secreto profesional, a la no auto incriminación y a no declarar contra sus familiares más cercanos. La Corte realiza el estudio de cada cargo y concluye que el aparte demandado no vulnera ningún derecho constitucional. Exequible.",
+  "titulaciones": [
+    {
+      "tema": "CONFESION EN EL PROCEDIMIENTO CIVIL",
+      "subtema": "Clases"
+    },
+    {
+      "tema": "INTERROGATORIO DE PARTE EN PROCESO CIVIL",
+      "subtema": "Atribuciones del juez, prohibiciones y deberes"
+    },
+    {
+      "tema": "INTERROGATORIO DE PARTE EN PROCESO CIVIL",
+      "subtema": "Eventos en que configura una confesión"
+    },
+    {
+      "tema": "INTERROGATORIO DE PARTE EN PROCESO CIVIL",
+      "subtema": "Práctica no vulnera el principio de no autoincriminación"
+    },
+    {
+      "tema": "CONFESION",
+      "subtema": "Concepto"
+    },
+    {
+      "tema": "INTERROGATORIO DE PARTE EN PROCESO CIVIL",
+      "subtema": "Apremio del juramento"
+    },
+    {
+      "tema": "INTERROGATORIO DE PARTE EN PROCESO CIVIL",
+      "subtema": "Finalidad"
+    },
+    {
+      "tema": "PRINCIPIO DE NO AUTOINCRIMINACION",
+      "subtema": "No se opone a la confesión siempre que ésta sea libre"
+    }
+  ]
+}

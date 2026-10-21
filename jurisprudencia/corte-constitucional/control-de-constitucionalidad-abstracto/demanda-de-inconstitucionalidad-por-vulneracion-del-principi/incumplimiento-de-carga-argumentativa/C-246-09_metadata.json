@@ -1,0 +1,47 @@
+{
+  "radicado": "C-246-09",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2009,
+  "fecha_creacion": "2009-04-01",
+  "magistrado_ponente": "Dra Clara Elena Reales Gutiérrez",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "DEMANDA DE INCONSTITUCIONALIDAD POR VULNERACION DEL PRINCIPIO DE IGUALDAD",
+  "subtema": "Incumplimiento de carga argumentativa",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 23 de 1982",
+    "Decreto 2067 de 1991",
+    "Ley 44 de 1993"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2009/C-246-09.htm",
+  "fecha_descarga": "2026-10-21T19:28:37.070927+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2009-04-01",
+  "fecha_publicacion": null,
+  "numero": "C-246/09",
+  "tipo_cc": "C",
+  "prov_id": "31009",
+  "tema_relatoria": "FALLO INHIBITORIO POR INEPTITUD DE DEMANDA DE INCONSTITUCIONALIDAD CONTRA NORMA DE LA LEY 23/1982",
+  "resumen": "LEY 23 DE 1982, ARTICULOS 160 Y 162 “SOBRE DERECHOS DE AUTOR”. DE ACUERDO CON QUIEN ACCIONA, LAS NORMAS ACUSADAS COMPORTAN UNA OMISION LEGISLATIVA EN EL SENTIDO DE QUE NO PREVEN LA POSIBILIDAD DE QUE LOS ORGANISMOS DE RADIODIFUSION Y LOS RESPONSABLES DE LA REALIZACION DE ESPECTACULOS O AUDICIONES PUBLICAS NEGOCIEN LOS DERECHOS DE AUTOR CON SUS TITULARES O CON LAS SOCIEDADES QUE LES REPRESENTAN, MIENTRAS QUE EL ARTICULO 73 HACE LO PROPIO CON LOS DEMAS USUARIOS. LA CORTE ENCONTRO QUE LA DMANDA DE LA REFERENCIA (I) NO PARTIO DE UNA PREMISA NORMATIVA CIERTA, PUES SE FUNDA EN LA INTERPRETACION PARTICULAR DE LA NORMA ACUSADA; (II) NO FUERON ARGÜIDOS ARGUMENTOS CLAROS Y ESPECIFICOS Y (III) ESTOS CARECIAN DE PERTINENCIA DADO QUE NO SE PLANTEO PROBLEMA ALGUNO DE NATURALEZA CONSTITUCIONAL. INHIBIDA.",
+  "titulaciones": [
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD POR VULNERACION DEL PRINCIPIO DE IGUALDAD",
+      "subtema": "Incumplimiento de carga argumentativa"
+    },
+    {
+      "tema": "INHIBICION DE LA CORTE CONSTITUCIONAL POR INEPTITUD SUSTANTIVA DE LA DEMANDA",
+      "subtema": "Incumplimiento de requisitos de claridad, certeza, especificidad y pertinencia en los cargos"
+    },
+    {
+      "tema": "ACCION PUBLICA DE INCONSTITUCIONALIDAD",
+      "subtema": "Improcedencia para cuestionar aplicación de disposiciones en casos específicos"
+    },
+    {
+      "tema": "INHIBICION DE LA CORTE CONSTITUCIONAL",
+      "subtema": "Efectos"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "radicado": "T-001-09",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2009,
+  "fecha_creacion": "2009-01-15",
+  "magistrado_ponente": "Dr Nilson Pinilla Pinilla",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "PENSIÓN DE INVALIDEZ",
+  "subtema": "La negó el ISS por no cumplirse el requisito de las semanas de cotización en el año anterior a la fecha de la estructuración de la invalidez",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 100 de 1993",
+    "Ley 860 de 2003"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2009/T-001-09.htm",
+  "fecha_descarga": "2026-10-21T19:10:37.258567+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2009-01-15",
+  "fecha_publicacion": null,
+  "numero": "T-001/09",
+  "tipo_cc": "T",
+  "prov_id": "30628",
+  "tema_relatoria": null,
+  "resumen": "DERECHO A LA SEGURIDAD SOCIAL, SALUD Y MÍNIMO VITAL DE CIUDADANO A QUIEN LE HA SIDO NEGADO, POR PARTE DE LA ACCIONADA, EL RECONOCIMIENTO DE LA PENSIÓN DE INVALIDEZ POR EL APARENTE INCUMPLIMIENTO DEL REQUISITO DE FIDELIDAD AL SISTEMA. PROCEDENCIA EXCEPCIONAL DE LA ACCIÓN DE TUTELA PARA IMPETRAR EL RECONOCIMIENTO DE PENSIONES. LA TUTELA PUEDE PROSPERA EN ESTOS EVENTOS DE ENCONTRARSE INSUFIFIENTES LOS MEDIOS ORDINARIOS DE DEFENSA JUDICIAL PARA EVITAR LA OCURRENCIA DE UN PERJUICIO IRREMEDIABLE. NATURALEZA DE LA INDEMNIZACIÓN SUSTITUTIVA E INOPERANCIA DE LA PRESCRIPCIÓN PARA SOLICITAR SU RECONOCIMIENTO. REITERACIÓN JURISPRUDENCIAL SE INSISTIÓ, ADEMÁS, EN QUE EL DERECHO A LA OBTENCIÓN DE ESTA PRESTACIÓN ES IMPRESCRIPTIBLE Y QUE EL INTERESADO PUEDE OPTAR POR RECLAMAR SU ENTREGA O SEGUIR COTIZANDO HASTA REUNIR LOS REQUERIMIENTOS FALTANTES. EN VISTA DE QUE EL ACTO NO REÚNE LAS CONDICIONES PARA EL RECONOCIMIENTO DE LA IMNDEMNIZACIÓN RESPECTIVA, SE NEGÓ EL AMPARO.",
+  "titulaciones": [
+    {
+      "tema": "PENSIÓN DE INVALIDEZ",
+      "subtema": "La negó el ISS por no cumplirse el requisito de las semanas de cotización en el año anterior a la fecha de la estructuración de la invalidez"
+    },
+    {
+      "tema": "INDEMNIZACION SUSTITUTIVA",
+      "subtema": "Naturaleza e inoperancia de la prescripción para solicitar su reconocimiento"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Improcedencia por no cumplir el actor con los requisitos para obtener la pensión de invalidez"
+    },
+    {
+      "tema": "PENSIÓN DE INVALIDEZ",
+      "subtema": "Requisitos para el reconocimiento según Ley 860 de 2003"
+    },
+    {
+      "tema": "ACCION DE TUTELA PARA RECLAMAR EL RECONOCIMIENTO Y PAGO DE DERECHOS PENSIONALES",
+      "subtema": "Procedencia excepcional"
+    }
+  ]
+}
