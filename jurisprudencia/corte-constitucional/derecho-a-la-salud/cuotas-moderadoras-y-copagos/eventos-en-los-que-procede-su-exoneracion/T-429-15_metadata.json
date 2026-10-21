@@ -1,0 +1,50 @@
+{
+  "radicado": "T-429-15",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2015,
+  "fecha_creacion": "2015-07-08",
+  "magistrado_ponente": "Mauricio González Cuervo",
+  "area": "Derecho a la Salud",
+  "tema": "CUOTAS MODERADORAS Y COPAGOS",
+  "subtema": "Eventos en los que procede su exoneración",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 129 de 2009",
+    "Decreto 2591 de 1991",
+    "Ley 1438 de 2011",
+    "Ley 100 de 1993",
+    "Ley 1122 de 2007",
+    "Ley 1438 de 2010"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2015/T-429-15.htm",
+  "fecha_descarga": "2026-10-21T12:33:54.348023+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2015-07-08",
+  "fecha_publicacion": null,
+  "numero": "T-429/15",
+  "tipo_cc": "T",
+  "prov_id": "7822",
+  "tema_relatoria": "SERVICIOS MEDICOS NO INCLUIDOS EN EL POS. SUMINISTRO DE INSUMOS MEDICOS.",
+  "resumen": "Solicitan protección al negar suministrar insumos médicos que requieren con necesidad por estar excluidos del Plan Obligatorio de Salud y exonerar del pago de copagos y cuotas moderadoras. Temas a tratar: Requisito de inmediatez y subsidiariedad, Derecho a la salud, Acceso a servicios médicos no contemplados en el Plan Obligatorio de Salud, Naturaleza jurídica de copagos y eventos donde procede exoneración. Se ordena suministrar silla de ruedas conforme especificaciones dictadas por médico tratante, pañales desechables, insumos médicos, servicio de ambulancia, atención integral y exoneración de copagos y cuotas moderadoras",
+  "titulaciones": [
+    {
+      "tema": "CUOTAS MODERADORAS Y COPAGOS",
+      "subtema": "Eventos en los que procede su exoneración"
+    },
+    {
+      "tema": "CUOTAS MODERADORAS Y COPAGOS",
+      "subtema": "Naturaleza jurídica"
+    },
+    {
+      "tema": "SERVICIOS MEDICOS NO INCLUIDOS EN EL POS",
+      "subtema": "Presupuestos jurisprudenciales para acceder a estos servicios"
+    },
+    {
+      "tema": "SERVICIOS MEDICOS NO INCLUIDOS EN EL POS",
+      "subtema": "Suministro de pañales, sillas de ruedas y servicio de enfermería"
+    }
+  ]
+}

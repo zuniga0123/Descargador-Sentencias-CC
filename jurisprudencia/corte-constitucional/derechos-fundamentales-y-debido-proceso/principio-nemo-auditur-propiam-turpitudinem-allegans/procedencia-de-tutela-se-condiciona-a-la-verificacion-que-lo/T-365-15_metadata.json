@@ -1,0 +1,71 @@
+{
+  "radicado": "T-365-15",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2015,
+  "fecha_creacion": "2015-06-16",
+  "magistrado_ponente": null,
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "PRINCIPIO NEMO AUDITUR PROPIAM TURPITUDINEM ALLEGANS",
+  "subtema": "Procedencia de tutela se condiciona a la verificación que los hechos que dan origen a la vulneración no son consecuencia de la culpa, imprudencia o voluntad del actor",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 906 de 2004",
+    "Decreto 2067 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2015/T-365-15.htm",
+  "fecha_descarga": "2026-10-21T12:38:27.659064+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2015-06-16",
+  "fecha_publicacion": null,
+  "numero": "T-365/15",
+  "tipo_cc": "T",
+  "prov_id": "7729",
+  "tema_relatoria": "DERECHO A LA EDUCACION SUPERIOR. PERDIDA TOTAL DE CUPO ACADEMICO POR ERRORES ADMINISTRATIVOS DE LA UNIVERSIDAD.",
+  "resumen": "Se aduce que la Universidad del Rosario vulneró derechos fundamentales de la accionante, al negarse a retirar la materia “latín” que ella incluyó como electiva en su plan de estudios en el segundo semestre del año 2000; anular algunos exámenes preparatorios y el examen de validación de la asignatura “cátedra rosarista” y; disponer la pérdida definitiva de su cupo académico alegando el incumplimiento del requisito de reingreso establecido por el Consejo Académico en sesión realizada a finales del 2009, en el cual se condicionó su reincorporación a que en dos años debía ver de manera presencial las asignaturas pendientes del plan de estudios, cursar 9 créditos de actualización y cumplir los requisitos de grado. Se reitera jurisprudencia de la Corporación relativa a los límites del principio de autonomía universitaria, particularmente sobre la regla específica para resolver la tensión en el caso de errores administrativos que afectan los avances en el proceso educativo. Para la Corte, la vulneración de derechos fundamentales se presentó cuando la universidad decidió anular algunos exámenes presentados por la estudiante y cuando dispuso la pérdida definitiva de su cupo en la institución, porque lo hizo casi un año después de haberse vencido el plazo impuesto por ella misma. Es decir, que no podía exigirle a la actora el estricto acatamiento de las condiciones de reingreso, cuando ella misma las incumplió y creó una nueva situación jurídica y académica que debía resolver en arreglo a la orientación jurisprudencial de la Corte Constitucional. En síntesis, la conducta permisiva de la universidad generó en la estudiante la legítima expectativa de ampliación del plazo inicialmente establecido, por lo que basada en ello y, por fuera del término, invirtió tiempo y dedicación en satisfacer los requisitos académicos indispensables para obtener su grado, sin estimar que su expectativa surgió de errores de la institución. Se CONCEDE la tutela de los derechos fundamentales a la educación y al debido proceso.",
+  "titulaciones": [
+    {
+      "tema": "PRINCIPIO NEMO AUDITUR PROPIAM TURPITUDINEM ALLEGANS",
+      "subtema": "Procedencia de tutela se condiciona a la verificación que los hechos que dan origen a la vulneración no son consecuencia de la culpa, imprudencia o voluntad del actor"
+    },
+    {
+      "tema": "DERECHO A LA EDUCACION SUPERIOR Y DEBIDO PROCESO",
+      "subtema": "Vulneración al declarar la pérdida definitiva de cupo académico a estudiante de Jurisprudencia, sin tener en cuenta errores administrativos en que incurrió la universidad"
+    },
+    {
+      "tema": "DERECHO A LA EDUCACION SUPERIOR Y DEBIDO PROCESO",
+      "subtema": "Orden a Universidad del Rosario autorice reingreso a la carrera de Jurisprudencia a la accionante para obtener título de abogada"
+    },
+    {
+      "tema": "PRINCIPIO DE CONFIANZA LEGÍTIMA EN MATERIA DE EDUCACIÓN",
+      "subtema": "No vulneración por cuanto estudiante de universidad incumplió plazo concedido para requisitos de grado"
+    },
+    {
+      "tema": "AUTONOMÍA UNIVERSITARIA",
+      "subtema": "Naturaleza, contenido y límites"
+    },
+    {
+      "tema": "PRINCIPIO NEMO AUDITUR PROPIAM TURPITUDINEM ALLEGANS",
+      "subtema": "Incumplimiento del plazo concedido para requisitos de grado de abogado por parte de la accionante"
+    },
+    {
+      "tema": "DERECHO A LA EDUCACION Y DERECHO A LA AUTONOMIA UNIVERSITARIA",
+      "subtema": "Juicio de ponderación"
+    },
+    {
+      "tema": "DERECHO A LA EDUCACIÓN SUPERIOR",
+      "subtema": "No vulneración por cuanto estudiante incumplió deber de respeto por las reglas y compromisos académicos adquiridos para obtener grado de abogada"
+    },
+    {
+      "tema": "DERECHO A LA EDUCACIÓN",
+      "subtema": "Regla específica para resolver la tensión en el caso de errores administrativos de institución educativa que afectan los avances del proceso educativo"
+    },
+    {
+      "tema": "CONFLICTO ENTRE EL DERECHO A LA EDUCACION Y LA AUTONOMIA DE LOS CENTROS EDUCATIVOS",
+      "subtema": "El juez debe hacer un juicio de ponderación a favor de la educación"
+    }
+  ]
+}

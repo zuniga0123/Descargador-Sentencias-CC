@@ -1,0 +1,48 @@
+{
+  "radicado": "T-200-15",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2015,
+  "fecha_creacion": "2015-04-20",
+  "magistrado_ponente": null,
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "ACCION DE TUTELA PARA RECONOCIMIENTO DE PRESTACIONES SOCIALES EN MATERIA PENSIONAL",
+  "subtema": "Procedencia excepcional",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Decreto 2591 de 1991",
+    "Ley 797 de 2003",
+    "Decreto 3995 de 2008"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2015/T-200-15.htm",
+  "fecha_descarga": "2026-10-21T12:39:54.309023+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2015-04-20",
+  "fecha_publicacion": null,
+  "numero": "T-200/15",
+  "tipo_cc": "T",
+  "prov_id": "7457",
+  "tema_relatoria": null,
+  "resumen": "Se atribuye la vulneración de derechos fundamentales a la negativa de las entidades accionadas, de autorizar el traslado del actor del régimen de ahorro individual con solidaridad, al de prima media, bajo el argumento de encontrarse a diez años o menos del requisito de tiempo para pensionarse. Se reitera jurisprudencia referente a: 1º. La procedencia de la acción de tutela para el reconocimiento de prestaciones de carácter prestacional y, 2º. El contenido y alcance del derecho al traslado de régimen pensional, en el caso de los beneficiarios del régimen de transición. Se confirman las decisiones de instancia que decidieron denegar el amparo solicitado.",
+  "titulaciones": [
+    {
+      "tema": "ACCION DE TUTELA PARA RECONOCIMIENTO DE PRESTACIONES SOCIALES EN MATERIA PENSIONAL",
+      "subtema": "Procedencia excepcional"
+    },
+    {
+      "tema": "JURISPRUDENCIA CONSTITUCIONAL SOBRE EL TRASLADO DEL REGIMEN DE AHORRO INDIVIDUAL AL REGIMEN DE PRIMA MEDIA EN EL CASO DE BENEFICIARIOS DEL REGIMEN DE TRANSICION",
+      "subtema": null
+    },
+    {
+      "tema": "TRASLADO DEL REGIMEN DE AHORRO INDIVIDUAL AL REGIMEN DE PRIMA MEDIA EN EL CASO DE BENEFICIARIOS DEL REGIMEN DE TRANSICION",
+      "subtema": "Se niega el amparo ya que el actor no acreditó haber cotizado para el 1º de abril de 1994, un mínimo de 750 semanas"
+    },
+    {
+      "tema": "TRASLADO DEL REGIMEN DE AHORRO INDIVIDUAL AL REGIMEN DE PRIMA MEDIA EN EL CASO DE BENEFICIARIOS DEL REGIMEN DE TRANSICION",
+      "subtema": "Existe inconsistencia al contar dentro de las semanas cotizadas para el traslado, el tiempo que permaneció el accionante como estudia"
+    }
+  ]
+}

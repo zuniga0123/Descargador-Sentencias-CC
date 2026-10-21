@@ -1,0 +1,47 @@
+{
+  "radicado": "T-101-15",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2015,
+  "fecha_creacion": "2015-03-11",
+  "magistrado_ponente": "Gloria Stella Ortiz Delgado",
+  "area": "Derecho a la Salud",
+  "tema": "CARENCIA ACTUAL DE OBJETO POR HECHO SUPERADO",
+  "subtema": "A la agenciada ya se le está prestando el servicio de salud y se está adelantando un proceso de jurisdicción voluntaria con la finalidad de anular el registro civil de defunción",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Decreto 999 de 1988",
+    "Decreto 1260 de 1970"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2015/T-101-15.htm",
+  "fecha_descarga": "2026-10-21T12:41:24.745234+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2015-03-11",
+  "fecha_publicacion": null,
+  "numero": "T-101/15",
+  "tipo_cc": "T",
+  "prov_id": "7304",
+  "tema_relatoria": null,
+  "resumen": "A través de la figura de la agencia oficiosa se interpone la acción de tutela en contra de la Registraduría Nacional del Estado Civil, alegando la vulneración de los derechos fundamentales a la personalidad jurídica y a la salud de la representada, en tanto la E.P.S. Cafesalud se negó a prestarle los servicios médicos, con el argumento de que en su base de datos aparecía como fallecida. La entidad expidió resolución mediante la cual declaró que la cédula de ciudadanía de la agenciada se encontraba vigente y que había sido desvinculada del Registro Civil de Defunción. No obstante lo anterior, señaló que para anular el mencionado registro, el cual se encontraba vigente y produciendo efectos jurídico, debía iniciarse un proceso administrativo o de jurisdicción voluntaria, pues el mismo había sido expedido de conformidad con la legislación vigente en la materia. Se confirma la decisión de instancia que negó el amparo solicitado, por haberse configurado una carencia actual de objeto por HECHO SUPERADO.",
+  "titulaciones": [
+    {
+      "tema": "CARENCIA ACTUAL DE OBJETO POR HECHO SUPERADO",
+      "subtema": "A la agenciada ya se le está prestando el servicio de salud y se está adelantando un proceso de jurisdicción voluntaria con la finalidad de anular el registro civil de defunción"
+    },
+    {
+      "tema": "ERROR EN REGISTRO CIVIL",
+      "subtema": "Caso en que EPS se negó a prestar el servicio de salud debido a que la agenciada aparecía como fallecida en su base de datos como consecuencia a que se había expedido un registro civil de defunción con su identificación, sin que se"
+    },
+    {
+      "tema": "DERECHO DE ACCESO A LA ADMINISTRACION DE JUSTICIA E INFORMACION",
+      "subtema": "Exhortar a EPS para que se abstenga de realizar conductas procesales que afecten la administración de justicia, y entregue la información de forma célere y efectiva"
+    },
+    {
+      "tema": "CARENCIA ACTUAL DE OBJETO",
+      "subtema": "Fenómeno que puede presentarse a partir de dos eventos que a su vez sugieren consecuencias distintas: hecho superado y daño consumado"
+    }
+  ]
+}

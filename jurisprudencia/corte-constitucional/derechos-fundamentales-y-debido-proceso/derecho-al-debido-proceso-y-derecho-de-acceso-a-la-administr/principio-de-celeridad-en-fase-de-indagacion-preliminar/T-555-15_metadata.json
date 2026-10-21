@@ -1,0 +1,54 @@
+{
+  "radicado": "T-555-15",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2015,
+  "fecha_creacion": "2015-08-27",
+  "magistrado_ponente": "Alberto Rojas Ríos",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "DERECHO AL DEBIDO PROCESO Y DERECHO DE ACCESO A LA ADMINISTRACION DE JUSTICIA",
+  "subtema": "Principio de celeridad en fase de indagación preliminar",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Decreto 1382 de 2000",
+    "Ley 906 de 2004",
+    "Decreto 2700 de 1991",
+    "Ley 734 de 2002",
+    "Ley 1453 de 2011"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2015/T-555-15.htm",
+  "fecha_descarga": "2026-10-21T12:31:25.670499+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2015-08-27",
+  "fecha_publicacion": null,
+  "numero": "T-555/15",
+  "tipo_cc": "T",
+  "prov_id": "8038",
+  "tema_relatoria": "CARENCIA ACTUAL DE OBJETO. POLICIA NACIONAL YA RESPONDIO DERECHO DE PETICION Y FISCALIA ADELANTA PROCESO DE INVESTIGACION POR FALLECIMIENTO DE HIJO DE LA ACCIONANTE.",
+  "resumen": "La accionante reclama la protección de su derecho fundamental de petición, supuestamente vulnerado por las entidades demandadas, al no encauzar sus actuaciones y ofrecer respuesta a la solicitud con la que pretendía conseguir que se adoptaran las medidas correspondientes para esclarecer el homicidio de que fue víctima su hijo, al parecer, por parte de miembros activos del Ejército Nacional que venían hostigándolo. Se abordan los siguientes temas: 1º. Cumplimiento de los requisitos de procedibilidad de la acción de tutela. 2º. El derecho de petición. 3º. La fase de indagación preliminar en el sistema acusatorio. 4º. La duración de la indagación frente a los derechos al debido proceso y al acceso a la administración de justicia y, 5º. El fenómeno de la carencia actual de objeto. Al corroborar que a la actora se le dio respuesta oportuna a la solicitud presentada, la Sala decide NEGAR la protección del derecho fundamental de petición invocado. Frente a los derechos al debido proceso y de acceso a la administración de justicia, se declara la carencia actual de objeto por configurarse un hecho superado. Pese a lo anterior, se conmina a la Fiscalía General de la Nación para que en lo sucesivo se abstenga de incurrir en las mismas conductas violatorias de los derechos que en esta sentencia se han denunciado, toda vez que con el incumplimiento de su deber institucional no sólo están vulnerando a las personas directamente afectadas, sino que están transgrediendo los principios constitucionales que propenden por un orden social justo.",
+  "titulaciones": [
+    {
+      "tema": "DERECHO AL DEBIDO PROCESO Y DERECHO DE ACCESO A LA ADMINISTRACION DE JUSTICIA",
+      "subtema": "Principio de celeridad en fase de indagación preliminar"
+    },
+    {
+      "tema": "CARENCIA ACTUAL DE OBJETO POR HECHO SUPERADO",
+      "subtema": "Policía Nacional ya respondió el derecho de petición y Fiscalía está adelantando proceso de investigación por el fallecimiento del hijo de la accionante"
+    },
+    {
+      "tema": "DERECHO DE PETICIÓN",
+      "subtema": "Alcance y características"
+    },
+    {
+      "tema": "SISTEMA PENAL ACUSATORIO",
+      "subtema": "Fase de indagación preliminar"
+    },
+    {
+      "tema": "ACCION DE TUTELA EN MATERIA DE DERECHO DE PETICION",
+      "subtema": "Procedencia de manera directa por ser derecho fundamental de aplicación inmediata"
+    }
+  ]
+}

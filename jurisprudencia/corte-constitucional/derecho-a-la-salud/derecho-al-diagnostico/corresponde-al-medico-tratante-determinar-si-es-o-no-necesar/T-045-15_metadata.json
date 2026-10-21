@@ -1,0 +1,57 @@
+{
+  "radicado": "T-045-15",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2015,
+  "fecha_creacion": "2015-02-11",
+  "magistrado_ponente": "Mauricio González Cuervo I",
+  "area": "Derecho a la Salud",
+  "tema": "DERECHO AL DIAGNÓSTICO",
+  "subtema": "Corresponde al médico tratante determinar si es o no necesario realizar exámenes para conocer el estado de salud de las personas, así como el posible tratamiento a seguir",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 1011 de 2006",
+    "Decreto 2591 de 1991",
+    "Ley 1306 de 2009",
+    "Ley 1122 de 2007",
+    "Ley 100 de 1993"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2015/T-045-15.htm",
+  "fecha_descarga": "2026-10-21T12:42:31.935992+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2015-02-11",
+  "fecha_publicacion": null,
+  "numero": "T-045/15",
+  "tipo_cc": "T",
+  "prov_id": "7213",
+  "tema_relatoria": null,
+  "resumen": "La accionante, en representación de un hijo mayor de edad que padece desde hace más de trece años de esquizofrenia paranoide con cuadros de agresividad, desorientación y compromiso de su comportamiento cognitivo, solicita que se imparta la orden a la entidad demandada de internarlo permanentemente en un centro psiquiátrico en el municipio de Ibagué o en uno cercano, que sea idóneo para atender la condición de salud que lo aqueja y en donde le presten todos los servicios de salud que requiere. De manera subsidiaria pidió, que se le ordene a la E.P.S.S realizar una valoración médica a su hijo, con el fin de establecer que más servicios médicos necesita. Se abordan los siguientes temas: 1º. El derecho a la salud en la jurisprudencia constitucional y, 2º. El derecho al diagnóstico. Reiteración de jurisprudencia. La Corte precisa que: i). acorde con los artículos 13 y 47 de la Carta, el Estado tiene el deber de brindar una especial protección a las personas que por sus condiciones económicas, físicas o mentales, se encuentran en circunstancias de debilidad manifiesta. ii) cuando no hay orden del médico tratante pero existe una duda razonable sobre la necesidad del servicio solicitado y el juez de tutela no cuenta con los conocimientos necesarios para determinar la necesidad o urgencia del servicio, debe ordenar la valoración del paciente por parte del equipo médico de la entidad accionada. Se CONCEDE la tutela al derecho fundamental a la salud.",
+  "titulaciones": [
+    {
+      "tema": "DERECHO AL DIAGNÓSTICO",
+      "subtema": "Corresponde al médico tratante determinar si es o no necesario realizar exámenes para conocer el estado de salud de las personas, así como el posible tratamiento a seguir"
+    },
+    {
+      "tema": "DERECHO A LA SALUD MENTAL",
+      "subtema": "Protección constitucional e internacional"
+    },
+    {
+      "tema": "DERECHO A LA SALUD Y A LA VIDA DEL ENFERMO MENTAL",
+      "subtema": "Orden a EPS realizar nueva valoración psiquiátrica para determinar si requiere internación"
+    },
+    {
+      "tema": "DERECHO A LA SALUD DE PERSONAS CON DISCAPACIDAD MENTAL",
+      "subtema": "Suministro de tratamiento integral"
+    },
+    {
+      "tema": "DERECHO A LA SALUD COMO DERECHO FUNDAMENTAL",
+      "subtema": "Jurisprudencia constitucional"
+    },
+    {
+      "tema": "DERECHO A LA SALUD DE PERSONAS CON DISCAPACIDAD MENTAL",
+      "subtema": "Caso en que se solicita internación permanente a enfermo de esquizofrenia paranoide"
+    }
+  ]
+}

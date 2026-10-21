@@ -1,0 +1,54 @@
+{
+  "radicado": "T-580-15",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2015,
+  "fecha_creacion": "2015-09-04",
+  "magistrado_ponente": "Mauricio González Cuervo",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCION DE TUTELA CONTRA UGPP",
+  "subtema": "Requisito de inmediatez ameritaba un estudio flexible",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 546 de 1971",
+    "Ley 4 de 1992",
+    "Acto Legislativo 1 de 2005",
+    "Decreto 2591 de 1991",
+    "Ley 1151 de 2007",
+    "Decreto 2195 de 1994"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2015/T-580-15.htm",
+  "fecha_descarga": "2026-10-21T12:31:47.625141+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2015-09-04",
+  "fecha_publicacion": null,
+  "numero": "T-580/15",
+  "tipo_cc": "T",
+  "prov_id": "8083",
+  "tema_relatoria": "ACCION DE TUTELA CONTRA PROVIDENCIAS JUDICIALES. IMPROCEDENCIA POR EXISTIR OTRO MEDIO DE DEFENSA JUDICIAL. TOPE MAXIMO DE MESADA PENSIONAL DE 25 SMLMV.",
+  "resumen": "En este caso se tiene que la UGPP, en cumplimiento de la sentencia C-258/13, aplicó a la mesada pensional reconocida al actor el ajuste automático del tope de los 25 SMLV. A juicio del demandante, su derecho pensional no se relaciona con el régimen especial de los congresistas, sino al previsto en el Decreto 546 de 1971 para los servidores de la Rama Judicial y el Ministerio Público. Se solicita al juez constitucional la protección de los derechos fundamentales al debido proceso y al derecho a la igualdad, en tanto que un asunto similar al del actor fue tutelado por la Sección Segunda del Consejo de Estado. Para la Corte, la acción de tutela es IMPROCEDENTE cuando el presunto afectado, como en el caso concreto, es una persona con formación y experiencia jurídica, que no acredita la existencia de un perjuicio irremediable, no justifica el amplio lapso de inactividad en el ejercicio de la defensa de los derechos presuntamente vulnerados, ni ejerce los medios judiciales a su disposición.",
+  "titulaciones": [
+    {
+      "tema": "ACCION DE TUTELA CONTRA UGPP",
+      "subtema": "Requisito de inmediatez ameritaba un estudio flexible"
+    },
+    {
+      "tema": "PRINCIPIO DE INMEDIATEZ EN ACCION DE TUTELA",
+      "subtema": "Inaplicación cuando violación de derechos persiste en el tiempo"
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA UGPP",
+      "subtema": "Descuentos de mayores valores consignados por concepto de pensión deben respetar la congrua subsistencia del actor"
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA UGPP",
+      "subtema": "Improcedencia por existir otro medio de defensa judicial y no cumplir con requisito de inmediatez en caso sobre tope máximo de mesada pensional"
+    },
+    {
+      "tema": "PRINCIPIO DE SUBSIDIARIEDAD E INMEDIATEZ EN LA ACCION DE TUTELA",
+      "subtema": "Requisitos de procedibilidad"
+    }
+  ]
+}

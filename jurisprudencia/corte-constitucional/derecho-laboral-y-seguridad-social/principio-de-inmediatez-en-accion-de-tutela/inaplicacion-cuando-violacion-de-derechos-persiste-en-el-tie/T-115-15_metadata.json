@@ -1,0 +1,71 @@
+{
+  "radicado": "T-115-15",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2015,
+  "fecha_creacion": "2015-03-23",
+  "magistrado_ponente": "Mauricio González Cuervo",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "PRINCIPIO DE INMEDIATEZ EN ACCION DE TUTELA",
+  "subtema": "Inaplicación cuando violación de derechos persiste en el tiempo",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 758 de 1990",
+    "Ley 100 de 1993",
+    "Ley 33 de 1985",
+    "Decreto 2591 de 1991",
+    "Decreto 2195 de 1994",
+    "Ley 100 de 1900",
+    "Decreto 2282 de 1989"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2015/T-115-15.htm",
+  "fecha_descarga": "2026-10-21T12:39:35.652377+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2015-03-23",
+  "fecha_publicacion": null,
+  "numero": "T-115/15",
+  "tipo_cc": "T",
+  "prov_id": "7323",
+  "tema_relatoria": "DERECHO A LA INDEMNIZACION SUSTITUTIVA.",
+  "resumen": "Servidora pública solicita aplicar principio de favorabilidad por negar reconocimiento de indemnización sustitutiva argumentando que no registra afiliación en base de datos. Temas a tratar: Requisitos específicos para la procedencia de la acción de tutela contra providencias judiciales, Fallos extra y ultra petita en trámite de tutela, Derecho a la seguridad social en pensiones e indemnización sustitutiva, Vulneración del derecho a la seguridad social en pensiones por falta de reconocimiento de indemnización sustitutiva. Se ordena actualizar historia laboral y de encontrarse vigente afiliación si se solicita, reconocer indemnización sustitutiva previa verificación de requisitos del artículo 37 de Ley 100 de 1993",
+  "titulaciones": [
+    {
+      "tema": "PRINCIPIO DE INMEDIATEZ EN ACCION DE TUTELA",
+      "subtema": "Inaplicación cuando violación de derechos persiste en el tiempo"
+    },
+    {
+      "tema": "DERECHO A LA INDEMNIZACION SUSTITUTIVA",
+      "subtema": "Las entidades administradoras de pensiones vulneran el derecho a la seguridad social en pensiones cuando niegan a un afiliado su reconocimiento argumentando que no registra en sus bases de datos y existe prueba en co"
+    },
+    {
+      "tema": "INDEMNIZACION SUSTITUTIVA DE LA PENSION DE VEJEZ",
+      "subtema": "Finalidad"
+    },
+    {
+      "tema": "INDEMNIZACION SUSTITUTIVA",
+      "subtema": "Derecho suplementario para quienes no logran acreditar los requisitos para obtener la pensión"
+    },
+    {
+      "tema": "DERECHO AL RECONOCIMIENTO DE PENSION DE VEJEZ",
+      "subtema": null
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Procedencia por desconocimiento del principio de favorabilidad de beneficiaria del régimen de transición, ante la negativa de Colpensiones en reconocer indemnización sustitutiva"
+    },
+    {
+      "tema": "DERECHO A LA SEGURIDAD SOCIAL EN PENSIONES",
+      "subtema": "Orden a Colpensiones actualizar historia laboral y reconocer indemnización sustitutiva"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Requisitos generales y especiales de procedibilidad"
+    },
+    {
+      "tema": "JUEZ DE TUTELA",
+      "subtema": "Facultad de fallar extra y ultra petita"
+    }
+  ]
+}

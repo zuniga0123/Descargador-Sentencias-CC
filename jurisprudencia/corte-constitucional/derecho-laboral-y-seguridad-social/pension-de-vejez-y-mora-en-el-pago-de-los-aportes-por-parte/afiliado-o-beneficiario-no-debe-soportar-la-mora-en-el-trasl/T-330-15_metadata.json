@@ -1,0 +1,52 @@
+{
+  "radicado": "T-330-15",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2015,
+  "fecha_creacion": "2015-06-01",
+  "magistrado_ponente": "Alberto Rojas Ríos",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "PENSION DE VEJEZ Y MORA EN EL PAGO DE LOS APORTES POR PARTE DEL EMPLEADOR",
+  "subtema": "Afiliado o beneficiario no debe soportar la mora en el traslado de los aportes al sistema ni la inacción de Colpensiones o las administradoras de fondos de pensiones en el cobro",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Acto Legislativo 1 de 2005",
+    "Ley 100 de 1993",
+    "Decreto 758 de 1990"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2015/T-330-15.htm",
+  "fecha_descarga": "2026-10-21T12:28:54.456059+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2015-06-01",
+  "fecha_publicacion": "2015-07-22",
+  "numero": "T-330/15",
+  "tipo_cc": "T",
+  "prov_id": "7669",
+  "tema_relatoria": "PENSION DE VEJEZ. OBLIGACION DEL PAGO DE COTIZACIONES",
+  "resumen": "Se aduce que Colpensiones vulneró derechos fundamentales del actor, al negarle el reconocimiento y pago de la pensión de vejez que reclamó al tener más de 500 semanas cotizadas en los 20 años anteriores al cumplimiento de la edad mínima para hacerse acreedor del derecho prestacional, argumentando que no satisfizo el requisito de las 1000 semanas cotizadas en cualquier tiempo. El actor alegó que la entidad no tuvo en cuenta la cotización de numerosas semanas que en efecto fueron reportadas pero que estaban en mora por parte de quienes en este entonces fungieron como sus empleadores. Se analiza jurisprudencia constitucional relacionada con: 1º. El derecho a la seguridad social. Su concepto, naturaleza y protección constitucional. 2º. El derecho a la pensión de vejez y la obligación de pago de las cotizaciones y, 3º. La procedencia excepcional de la acción de tutela cuando existen mecanismos ordinarios de protección. Al encontrar satisfechos los requisitos establecidos en el literal b) del artículo 12 del Acuerdo 049 de 1990 para que al actor se le reconozca la prestación reclamada, la Sala CONCEDE el amparo de los derechos fundamentales al mínimo vital, a la seguridad social y a la vida en condiciones dignas.",
+  "titulaciones": [
+    {
+      "tema": "PENSION DE VEJEZ Y MORA EN EL PAGO DE LOS APORTES POR PARTE DEL EMPLEADOR",
+      "subtema": "Afiliado o beneficiario no debe soportar la mora en el traslado de los aportes al sistema ni la inacción de Colpensiones o las administradoras de fondos de pensiones en el cobro"
+    },
+    {
+      "tema": "DERECHO AL MINIMO VITAL Y A LA SEGURIDAD SOCIAL",
+      "subtema": "Orden a Colpensiones reconocer y pagar pensión de vejez por cumplir con semanas cotizadas que no se tuvieron en cuenta por mora del empleador"
+    },
+    {
+      "tema": "DERECHO A LA PENSION DE VEJEZ",
+      "subtema": "Obligación de pago de cotizaciones"
+    },
+    {
+      "tema": "DERECHO FUNDAMENTAL A LA SEGURIDAD SOCIAL EN PENSIONES Y LA IMPORTANCIA DE LA PENSION DE VEJEZ",
+      "subtema": "Concepto, naturaleza y protección constitucional"
+    },
+    {
+      "tema": "INOPONIBILIDAD DE LA MORA PATRONAL PARA RECONOCIMIENTO DE PENSION DE VEJEZ",
+      "subtema": "Reiteración de jurisprudencia"
+    }
+  ]
+}

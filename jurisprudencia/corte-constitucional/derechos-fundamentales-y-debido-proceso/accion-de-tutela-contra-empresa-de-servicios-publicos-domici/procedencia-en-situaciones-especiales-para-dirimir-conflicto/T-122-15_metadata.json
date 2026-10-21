@@ -1,0 +1,45 @@
+{
+  "radicado": "T-122-15",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2015,
+  "fecha_creacion": "2015-03-26",
+  "magistrado_ponente": "Luis Guillermo Guerrero Pérez",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCION DE TUTELA CONTRA EMPRESA DE SERVICIOS PUBLICOS DOMICILIARIOS",
+  "subtema": "Procedencia en situaciones especiales para dirimir conflictos con usuarios",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2015/T-122-15.htm",
+  "fecha_descarga": "2026-10-21T12:39:50.531725+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2015-03-26",
+  "fecha_publicacion": null,
+  "numero": "T-122/15",
+  "tipo_cc": "T",
+  "prov_id": "7352",
+  "tema_relatoria": null,
+  "resumen": "Se aduce que Electricaribe S.A. vulneró los derechos fundamentales a la vida y a la seguridad social de la actora, al negarse a cambiar un poste de energía eléctrica que está ubicado cerca de su residencia, a pesar de que el mismo se encuentra en mal estado y representa un peligro. Se reitera jurisprudencia relacionada con la procedencia excepcional de la acción de tutela contra las empresas prestadoras de servicios públicos, con el derecho a la seguridad personal y, con el principio de coherencia, según el cual no se puede ir contra los propios actos. Se CONCEDE.",
+  "titulaciones": [
+    {
+      "tema": "ACCION DE TUTELA CONTRA EMPRESA DE SERVICIOS PUBLICOS DOMICILIARIOS",
+      "subtema": "Procedencia en situaciones especiales para dirimir conflictos con usuarios"
+    },
+    {
+      "tema": "DERECHO A LA VIDA Y A LA SEGURIDAD PERSONAL",
+      "subtema": "Orden a empresa de energía adelantar trámites para que poste de energía sea normalizado, reparado o sustituido por otro que no atente contra la vida ni la seguridad personal de la accionante"
+    },
+    {
+      "tema": "DERECHO A LA VIDA Y A LA SEGURIDAD PERSONAL",
+      "subtema": "Solicitud de cambio de poste de energía que está cerca de la vivienda de la accionante y se encuentra en mal estado"
+    },
+    {
+      "tema": "DERECHO A LA SEGURIDAD PERSONAL",
+      "subtema": "Se deben invocar o probar sumariamente los hechos sobre existencia de un riesgo extraordinario"
+    }
+  ]
+}

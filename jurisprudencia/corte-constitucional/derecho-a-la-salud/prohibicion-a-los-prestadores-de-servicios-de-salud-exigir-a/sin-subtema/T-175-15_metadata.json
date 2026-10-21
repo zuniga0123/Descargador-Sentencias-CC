@@ -1,0 +1,64 @@
+{
+  "radicado": "T-175-15",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2015,
+  "fecha_creacion": "2015-04-16",
+  "magistrado_ponente": "Jorge Iván Palacio Palacio",
+  "area": "Derecho a la Salud",
+  "tema": "PROHIBICION A LOS PRESTADORES DE SERVICIOS DE SALUD, EXIGIR A LOS USUARIOS Y/O A SUS FAMILIARES PAGARES PARA CUBRIR LOS SERVICIOS MEDICOS PRESTADOS AL PACIENTE",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 715 de 2001",
+    "Ley 100 de 1993",
+    "Ley 1122 de 2007",
+    "Ley 1438 de 2009",
+    "Decreto 1725 de 1999",
+    "Ley 1266 de 2008",
+    "Ley 1436 de 2009",
+    "Ley 1438 de 2011",
+    "Decreto 345 de 2008",
+    "Ley 1176 de 2007",
+    "Decreto 17 de 2011",
+    "Acto Legislativo 4 de 2007"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2015/T-175-15.htm",
+  "fecha_descarga": "2026-10-21T12:42:09.474494+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2015-04-16",
+  "fecha_publicacion": null,
+  "numero": "T-175/15",
+  "tipo_cc": "T",
+  "prov_id": "7428",
+  "tema_relatoria": null,
+  "resumen": "Alega el actor que las entidades accionadas vulneraron sus derechos fundamentales, al obligarlo a suscribir un pagaré por un valor superior a los seis millones de pesos como condición para la entrega del cadáver de su tía, quien falleció en las instalaciones del Hospital Simón Bolívar. Esta entidad por su parte adujo, que brindó el servicio de salud a la familiar del demandante, de conformidad con las mejores prácticas médicas y, que requirió el respaldo económico con el pagaré, porque la E.P.S de la paciente no autorizó el desembolso debido a un error en el registro de afiliados y falencias en el sistema de copagos. . Igualmente, que no era posible la anulación del título valor, por tratarse de recursos públicos, cuya omisión en su recuperación generaría detrimento patrimonial e implicaría a la vez, responsabilidad fiscal. Se estudian los siguientes temas: 1º. El cobro de copagos y cuotas de recuperación dentro del esquema del régimen subsidiado del sistema de seguridad en salud y casos en los que hay lugar a su exoneración. 2º. La obligación de los prestadores de servicios de salud de abstenerse de imponer cargas injustificadas y desproporcionadas a los usuarios. 3º. La prohibición a los prestadores de servicios de salud de pedir a los usuarios y/o a sus familiares, pagarés para cubrir los servicios médicos prestados al paciente y, 4º. La obligación de consignar información fidedigna en las bases de datos y de mantenerlas actualizadas. Se TUTELA el derecho al mínimo vital y se ordena la devolución del pagaré referenciado.",
+  "titulaciones": [
+    {
+      "tema": "PROHIBICION A LOS PRESTADORES DE SERVICIOS DE SALUD, EXIGIR A LOS USUARIOS Y/O A SUS FAMILIARES PAGARES PARA CUBRIR LOS SERVICIOS MEDICOS PRESTADOS AL PACIENTE",
+      "subtema": null
+    },
+    {
+      "tema": "DERECHO DE ACCESO AL SERVICIO DE SALUD",
+      "subtema": "Debe ser sin demoras y cargas administrativas que no les corresponde asumir a los usuarios"
+    },
+    {
+      "tema": "DERECHO FUNDAMENTAL AL MINIMO VITAL",
+      "subtema": "Vulneración por hospital, al exigir pagaré para garantizar el pago de servicios médicos prestados a paciente fallecida, a pesar de que se encontraba exonerada de su pago, como condición para entregarle su cuerpo"
+    },
+    {
+      "tema": "DERECHO AL HABEAS DATA EN BASES DE DATOS DE ENTIDADES DEL SISTEMA GENERAL DE SEGURIDAD SOCIAL EN SALUD",
+      "subtema": "Información debe ser almacenada y actualizada con exactitud y prontitud en bases de datos"
+    },
+    {
+      "tema": "DERECHO FUNDAMENTAL AL MINIMO VITAL",
+      "subtema": "Orden a Hospital devolver al accionante el pagaré que suscribió para cubrir la factura correspondiente al servicio médico prestado a familiar fallecido"
+    },
+    {
+      "tema": "EXONERACION DE COPAGOS Y CUOTAS DE RECUPERACION EN EL REGIMEN SUBSIDIADO DE SALUD",
+      "subtema": "Reglas jurisprudenciales"
+    }
+  ]
+}

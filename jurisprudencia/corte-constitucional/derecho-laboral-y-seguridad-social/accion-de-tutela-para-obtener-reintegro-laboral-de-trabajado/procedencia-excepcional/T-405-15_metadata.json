@@ -1,0 +1,50 @@
+{
+  "radicado": "T-405-15",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2015,
+  "fecha_creacion": "2015-06-30",
+  "magistrado_ponente": "María Victoria Calle Correa",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "ACCION DE TUTELA PARA OBTENER REINTEGRO LABORAL DE TRABAJADOR DISCAPACITADO QUE GOCE DE ESTABILIDAD LABORAL REFORZADA",
+  "subtema": "Procedencia excepcional",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 361 de 1997",
+    "Decreto 2591 de 1991",
+    "Ley 972 de 2005",
+    "Decreto 2738 de 2012",
+    "Decreto 19 de 2012",
+    "Ley 1474 de 2011"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2015/T-405-15.htm",
+  "fecha_descarga": "2026-10-21T12:27:54.383608+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2015-06-30",
+  "fecha_publicacion": "2015-07-31",
+  "numero": "T-405/15",
+  "tipo_cc": "T",
+  "prov_id": "7782",
+  "tema_relatoria": "ESTABILIDAD LABORAL REFORZADA DE PERSONAS CON DISMINUCIÓN FISICA.",
+  "resumen": "Mínimo vital, estabilidad laboral reforzada, salud. Se acumulan expedientes por unidad de materia. El hecho común que se considera trasgresor de derechos fundamentales por parte de las empresas accionadas, es la terminación de los contratos de trabajo suscritos con los demandantes, sin tener en cuenta que éstos presentaban problemas de salud que eran conocidos por ellas y que no solicitaron autorización al Ministerio del Trabajo. Se analizan los siguientes temas: 1º. La procedibilidad de la acción de tutela para la protección del derecho a la estabilidad laboral reforzada de trabajadores disminuidos físicamente. 2º. El derecho fundamental a la estabilidad laboral reforzada de quienes se encuentran en circunstancias de debilidad manifiesta o indefensión por sufrir disminuciones físicas, mentales o sensoriales. Luego de analizar cada caso, la Sala decide lo pertinente de acuerdo a las particularidades presentadas en ellos.",
+  "titulaciones": [
+    {
+      "tema": "ACCION DE TUTELA PARA OBTENER REINTEGRO LABORAL DE TRABAJADOR DISCAPACITADO QUE GOCE DE ESTABILIDAD LABORAL REFORZADA",
+      "subtema": "Procedencia excepcional"
+    },
+    {
+      "tema": "DERECHO A LA ESTABILIDAD LABORAL REFORZADA DE PERSONA CON LIMITACIONES FISICAS, PSIQUICAS O SENSORIALES",
+      "subtema": "Garantías contenidas en la Ley 361 de 1997 y jurisprudencia constitucional sobre su aplicación"
+    },
+    {
+      "tema": "DERECHO A LA ESTABILIDAD LABORAL REFORZADA DE PERSONA EN CONDICION DE DISCAPACIDAD",
+      "subtema": "Orden de reintegro, pago de indemnización equivalente a 180 días de salario y reconocimiento y pago de salarios y prestaciones sociales dejadas de percibir"
+    },
+    {
+      "tema": "DERECHO A LA ESTABILIDAD LABORAL REFORZADA DE PERSONA EN ESTADO DE DEBILIDAD MANIFIESTA O INDEFENSION",
+      "subtema": "Protección no puede ser la misma que la que se aplica para las personas en situación de discapacidad"
+    }
+  ]
+}

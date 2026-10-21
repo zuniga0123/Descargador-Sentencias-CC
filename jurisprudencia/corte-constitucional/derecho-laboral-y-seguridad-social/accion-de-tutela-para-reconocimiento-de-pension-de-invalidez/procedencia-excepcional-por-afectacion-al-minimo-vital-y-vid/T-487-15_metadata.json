@@ -1,0 +1,49 @@
+{
+  "radicado": "T-487-15",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2015,
+  "fecha_creacion": "2015-08-05",
+  "magistrado_ponente": "Jorge Ignacio Pretelt Chaljub",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "ACCION DE TUTELA PARA RECONOCIMIENTO DE PENSION DE INVALIDEZ",
+  "subtema": "Procedencia excepcional por afectación al mínimo vital y vida digna de sujetos de especial protección",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Decreto 758 de 1990",
+    "Ley 100 de 1993",
+    "Ley 797 de 2003",
+    "Ley 860 de 2003"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2015/T-487-15.htm",
+  "fecha_descarga": "2026-10-21T12:34:20.673608+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2015-08-05",
+  "fecha_publicacion": null,
+  "numero": "T-487/15",
+  "tipo_cc": "T",
+  "prov_id": "7940",
+  "tema_relatoria": "PENSION DE INVALIDEZ. APORTES REALIZADOS ENTRE LA FECHA DE ESTRUCTURACION Y LA CALIFICACION DE INVALIDEZ DEBEN TENERSE EN CUENTA.",
+  "resumen": "Se atribuye a Colpensiones la vulneración de derechos fundamentales, en virtud del hecho de negar el reconocimiento y pago de la pensión de invalidez a la que considera tener derecho el actor por presentar una pérdida de capacidad laboral superior al 70%, bajo el argumento de no acreditar 150 semanas de cotización dentro de los seis años anteriores a la fecha de estructuración o 300 en cualquier tiempo. Se analizan los siguientes temas: 1º. La procedencia excepcional de la acción de tutela para solicitar el reconocimiento y pago de la pensión de invalidez. 2º. Marco normativo que regula esta prestación económica y, 3º. Jurisprudencia constitucional respecto de esta pensión, específicamente cuando no se tienen en cuenta las semanas cotizadas entre la fecha de estructuración y la de calificación de la invalidez. Se CONCEDE de manera transitoria la tutela de los derechos fundamentales al mínimo vital, a la igualdad y a la seguridad social.",
+  "titulaciones": [
+    {
+      "tema": "ACCION DE TUTELA PARA RECONOCIMIENTO DE PENSION DE INVALIDEZ",
+      "subtema": "Procedencia excepcional por afectación al mínimo vital y vida digna de sujetos de especial protección"
+    },
+    {
+      "tema": "DERECHO A LA SEGURIDAD SOCIAL, A LA IGUALDAD, AL MÍNIMO VITAL Y A LA VIDA DIGNA",
+      "subtema": "Orden a Colpensiones reconocer pensión de invalidez"
+    },
+    {
+      "tema": "PENSION DE INVALIDEZ DE PERSONA CON ENFERMEDAD CRONICA, DEGENERATIVA O CONGENITA",
+      "subtema": "Fecha de estructuración de la invalidez desde el momento de la pérdida permanente y definitiva de la capacidad laboral"
+    },
+    {
+      "tema": "PENSIÓN DE INVALIDEZ",
+      "subtema": "Régimen legal aplicable"
+    }
+  ]
+}

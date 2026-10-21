@@ -1,0 +1,62 @@
+{
+  "radicado": "T-472-15",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2015,
+  "fecha_creacion": "2015-07-28",
+  "magistrado_ponente": "Mauricio González Cuervo",
+  "area": "Derecho a la Salud",
+  "tema": "ACCION DE TUTELA CONTRA EPS",
+  "subtema": "Orden de efectuar los análisis médicos necesarios con el fin de determinar si medicamento sustituto incluido en el POS, resulta idóneo para el tratamiento requerido por la accionante",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 100 de 1993"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2015/T-472-15.htm",
+  "fecha_descarga": "2026-10-21T12:25:26.891756+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2015-07-28",
+  "fecha_publicacion": "2015-09-07",
+  "numero": "T-472/15",
+  "tipo_cc": "T",
+  "prov_id": "7894",
+  "tema_relatoria": "SUMINISTRO DE MEDICAMENTOS NO INCLUIDOS EN EL POS Y NO REGISTRADOS ANTE EL INVIMA.",
+  "resumen": "Solicitan medicamentos prescritos por médico tratante al ser negados argumentando no estar incluidos en el POS y no contar con aprobación del Invima. Temas a tratar: Derecho a la salud, Derecho al diagnóstico, Acceso a servicios médicos no contemplados en el Plan Obligatorio de Salud, Suministro de medicamentos no aprobados por el Invima, Continuidad y permanencia en la prestación del servicio de salud. Se ordena efectuar análisis médicos necesarios para determinar si medicamento incluido en el POS es idóneo para tratamiento de Lupus Eritomatoso Sistémico y en caso de ser pertinente autorizar suministro y, valorar estado de salud actual del afiliado para determinar si existe medicamento idóneo en el POS para tratamiento de artropatía sarcoidosica y en caso afirmativo proceder a su entrega",
+  "titulaciones": [
+    {
+      "tema": "ACCION DE TUTELA CONTRA EPS",
+      "subtema": "Orden de efectuar los análisis médicos necesarios con el fin de determinar si medicamento sustituto incluido en el POS, resulta idóneo para el tratamiento requerido por la accionante"
+    },
+    {
+      "tema": "ACCION DE TUTELA PARA SUMINISTRO DE MEDICAMENTOS QUE NO TIENEN REGISTRO INVIMA",
+      "subtema": null
+    },
+    {
+      "tema": "MEDICAMENTOS QUE NO HAN SIDO APROBADOS POR EL INVIMA",
+      "subtema": "Suministro para el tratamiento de las patologías que padecen los demandantes"
+    },
+    {
+      "tema": "DERECHO AL DIAGNÓSTICO",
+      "subtema": "Reiteración de jurisprudencia"
+    },
+    {
+      "tema": "PRINCIPIO DE CONTINUIDAD EN LA PRESTACION DEL SERVICIO DE SALUD",
+      "subtema": "Caso en que no se cumplen los requisitos establecidos en la jurisprudencia para medicamentos NO POS por contar con capacidad económica para asumir costo"
+    },
+    {
+      "tema": "GARANTIA DE LA CONTINUIDAD Y PERMANENCIA EN PRESTACION DEL SERVICIO DE SALUD",
+      "subtema": "Reiteración de jurisprudencia"
+    },
+    {
+      "tema": "PRINCIPIO DE CONTINUIDAD EN LA PRESTACION DEL SERVICIO DE SALUD",
+      "subtema": "Caso en que se suspendió la entrega del medicamento que se había venido autorizando desde hace 2 años"
+    },
+    {
+      "tema": "SERVICIOS MEDICOS NO CONTEMPLADOS EN EL POS",
+      "subtema": "Presupuestos jurisprudenciales para acceder a éstos"
+    }
+  ]
+}

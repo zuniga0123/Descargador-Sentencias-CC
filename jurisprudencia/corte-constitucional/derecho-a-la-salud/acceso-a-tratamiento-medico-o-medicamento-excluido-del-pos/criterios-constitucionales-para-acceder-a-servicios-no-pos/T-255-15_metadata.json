@@ -1,0 +1,50 @@
+{
+  "radicado": "T-255-15",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2015,
+  "fecha_creacion": "2015-05-04",
+  "magistrado_ponente": "Luis Ernesto Vargas Silva",
+  "area": "Derecho a la Salud",
+  "tema": "ACCESO A TRATAMIENTO MEDICO O MEDICAMENTO EXCLUIDO DEL POS",
+  "subtema": "Criterios constitucionales para acceder a servicios no POS",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 100 de 1993"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2015/T-255-15.htm",
+  "fecha_descarga": "2026-10-21T12:36:57.498623+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2015-05-04",
+  "fecha_publicacion": null,
+  "numero": "T-255/15",
+  "tipo_cc": "T",
+  "prov_id": "7538",
+  "tema_relatoria": null,
+  "resumen": "Salud. Se acumulan expedientes por unidad de materia. Se atribuye la vulneración de derechos fundamentales a la negativa de las E.P.S. accionadas, de autorizar y sufragar los gastos de transporte y alojamiento que requieren los actores, para acudir con sus acompañantes a tratamientos médicos prescritos por sus galenos tratantes, en un municipio distinto al de su residencia. Se reitera jurisprudencia relacionada con: 1º. La cobertura del servicio de transporte y alojamiento de pacientes y acompañantes en el Sistema de Seguridad Social en Salud. 2º. La orden de autorización de procedimientos no incluidos en el POS y la prueba de incapacidad económica y, 3º. Los deberes oficiosos del juez de tutela. Se CONCEDIO el amparo solicitado. Simultáneamente, se decidió compulsar copias a la Superintendencia Nacional de Salud para que investigue la presunta negligencia de las E.P.S. demandadas al negar una prestación incluida en el plan obligatorio de salud y para que, de ser procedente, imponga las sanciones del caso. Igualmente, se condenó a las entidades en costas y se les ordenó complementar las respuestas que entregan en sus contestaciones de tutela a los jueces. A éstos últimos, se les ordenó rendir un informe del cumplimiento de la atención a los pacientes objeto del amparo concedido.",
+  "titulaciones": [
+    {
+      "tema": "ACCESO A TRATAMIENTO MEDICO O MEDICAMENTO EXCLUIDO DEL POS",
+      "subtema": "Criterios constitucionales para acceder a servicios no POS"
+    },
+    {
+      "tema": "TRANSPORTE Y ALOJAMIENTO EN EL SISTEMA DE SALUD",
+      "subtema": "Regulación"
+    },
+    {
+      "tema": "CUBRIMIENTO DE GASTOS DE TRANSPORTE PARA PACIENTE Y ACOMPAÑANTE POR EPS",
+      "subtema": "Orden EPS autorizar transporte de accionantes con un acompañante, junto con su alojamiento, cada vez que programen procedimientos médicos en municipios distintos al de sus domicilios"
+    },
+    {
+      "tema": "INCAPACIDAD ECONOMICA EN MATERIA DE SALUD",
+      "subtema": "Reglas jurisprudenciales sobre la prueba"
+    },
+    {
+      "tema": "JUEZ DE TUTELA",
+      "subtema": "Facultad oficiosa para esclarecer las actuaciones u omisiones que amenazan o vulneran derechos fundamentales"
+    }
+  ]
+}

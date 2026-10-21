@@ -1,0 +1,60 @@
+{
+  "radicado": "T-344-15",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2015,
+  "fecha_creacion": "2015-06-04",
+  "magistrado_ponente": null,
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "CONCORDATO Y LIQUIDACION OBLIGATORIA",
+  "subtema": "Ley 222 de 1995, artículo 148 parágrafo",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 222 de 1995",
+    "Ley 169 de 1896",
+    "Decreto 2591 de 1991",
+    "Ley 600 de 2000"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2015/T-344-15.htm",
+  "fecha_descarga": "2026-10-21T12:38:46.663099+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2015-06-04",
+  "fecha_publicacion": null,
+  "numero": "T-344/15",
+  "tipo_cc": "T",
+  "prov_id": "7697",
+  "tema_relatoria": "ACCION DE TUTELA CONTRA PROVIDENCIA JUDICIAL. IMPROCEDENCIA POR EXISTIR OTRO MEDIO DE DEFENSA JUDICIAL.",
+  "resumen": "Tutela contra providencia judicial. Se acumulan expedientes por unidad de materia. Se atacan decisiones judiciales proferidas al interior de cinco procesos ordinarios laborales contra la Compañía de Inversiones de la Flota Mercante S.A. en Liquidación, los cuales fueron favorables a las peticiones de los demandantes, quienes luego adelantaron el proceso ejecutivo para que les pagaran las sumas reconocidas. Ante la orden de librar mandamiento de pago, las autoridades judiciales, esto es, Salas Laborales del Tribunal Superior de Bogotá, profirieron decisiones contradictorias sobre el sujeto pasivo de la obligación. Se alega un defecto sustantivo, básicamente por la interpretación del artículo 148 de la Ley 222 de 1995 y de la sentencia SU-1023/01. Se reitera jurisprudencia relacionada con la procedencia de la acción de tutela contra sentencias judiciales; el principio de la subsidiariedad y el agotamiento de los recursos cuando el proceso se encuentra en curso. Igualmente, se analiza la causal genérica denominada defecto sustantivo; el alcance del parágrafo del artículo 148 de la Ley 222 de 1995 y la sentencias C-510/97 y SU-1023/01. Al comprobar el incumplimiento de la subsidiariedad como requisito formal de la tutela contra providencia judicial en cada uno de los casos estudiados, la Sala decide confirmar las decisiones de instancia que negaron el amparo solicitado.",
+  "titulaciones": [
+    {
+      "tema": "CONCORDATO Y LIQUIDACION OBLIGATORIA",
+      "subtema": "Ley 222 de 1995, artículo 148 parágrafo"
+    },
+    {
+      "tema": "REGLAS JURISPRUDENCIALES EN MATERIA DE SUBSIDIARIEDAD DE LA ACCION DE TUTELA",
+      "subtema": null
+    },
+    {
+      "tema": "CARACTERIZACION DEL DEFECTO MATERIAL O SUSTANTIVO COMO CAUSAL DE PROCEDIBILIDAD DE LA ACCION DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Reiteración de jurisprudencia"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Improcedencia por existir otro medio de defensa judicial en proceso ejecutivo laboral"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Concebida como juicio de validez no como juicio de corrección del fallo cuestionado"
+    },
+    {
+      "tema": "CONCORDATO Y LIQUIDACION OBLIGATORIA",
+      "subtema": "Sentencia C-510/97 y SU1023/01"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Requisitos generales y especiales de procedibilidad"
+    }
+  ]
+}

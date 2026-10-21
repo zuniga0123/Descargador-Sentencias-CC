@@ -1,0 +1,57 @@
+{
+  "radicado": "T-346-15",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2015,
+  "fecha_creacion": "2015-06-05",
+  "magistrado_ponente": "Jorge Ignacio Pretelt Chaljub",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCION DE TUTELA CONTRA ENTIDAD FINANCIERA",
+  "subtema": "Procedencia por prestación de servicio público",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 546 de 1999",
+    "Decreto 145 de 2000",
+    "Decreto Ley 2591 de 1991",
+    "Decreto 663 de 1993",
+    "Decreto 856 de 1999"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2015/T-346-15.htm",
+  "fecha_descarga": "2026-10-21T12:29:09.354622+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2015-06-05",
+  "fecha_publicacion": "2015-07-21",
+  "numero": "T-346/15",
+  "tipo_cc": "T",
+  "prov_id": "7699",
+  "tema_relatoria": "RELIQUIDACION DE CREDITOS UPAC SIN CONSENTIMIENTO DEL TITULAR.",
+  "resumen": "Debido proceso, confianza legítima. Se aduce que el Banco BBVA vulneró el derecho al debido proceso del actor, al modificar de manera unilateral el crédito adquirido con dicha entidad, adecuándolo sin su consentimiento a la Ley 546 de 1999 y a las circulares de la Superintendencia Bancaria y, consecuentemente, cambiándolo de UPAC a UVR, ampliando el tiempo en el cual debía ser cancelada la obligación. Se aborda la siguiente temática: 1º. Procedencia de la acción de tutela contra entidades financieras. 2º. Contextualización de la Ley 546 de 1999 y, 3º. Jurisprudencia constitucional relacionada con el respeto de los derechos al debido proceso y a la información de los deudores en los procedimientos de reliquidación de créditos de vivienda a largo plazo pactados bajo el sistema UPAC. La Sala considera que si bien las entidades financieras tenían la obligación de cambiar los créditos hipotecarios pactados en UPAC al sistema UVR, los deudores tenían el derecho a ser informados previamente de manera clara, precisa, comprensible y oportuna sobre cualquier tipo de cambio, a fin de que tuvieran la oportunidad de ejercer sus derechos frente a la eventual modificación. Concluye, que la omisión del procedimiento de información previa al deudor, de conformidad con los lineamientos legales y jurisprudenciales, constituye una afectación de los derechos fundamentales. Se CONCEDE.",
+  "titulaciones": [
+    {
+      "tema": "ACCION DE TUTELA CONTRA ENTIDAD FINANCIERA",
+      "subtema": "Procedencia por prestación de servicio público"
+    },
+    {
+      "tema": "LEY 546 DE 1999",
+      "subtema": "Créditos hipotecarios pactados en UPAC deben ser reliquidados para ser convertidos en contratos en UVR"
+    },
+    {
+      "tema": "RELIQUIDACION DE CREDITO DE UPAC",
+      "subtema": "Deber de información y respeto del debido proceso de los usuarios de créditos de vivienda a largo plazo"
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA ENTIDAD FINANCIERA",
+      "subtema": "Caso en que se realizó reliquidación de crédito de manera unilateral sin permitir el ejercicio del derecho de contradicción del titular y obtener su consentimiento para modificación de circunstancias pactadas"
+    },
+    {
+      "tema": "DEBIDO PROCESO EN RELIQUIDACION DE CREDITO HIPOTECARIO",
+      "subtema": "Vulneración por cuanto demandante no recibió información sobre reliquidación y redenominación de crédito en moneda legal a UVR"
+    },
+    {
+      "tema": "LEY 546/99 Y DIFERENCIACION ENTRE DEUDORES QUE SE ENCONTRABAN EN MORA Y LOS QUE ESTABAN AL DIA",
+      "subtema": "Aspecto que se declaró inexequible y se desprendieron algunas consecuencias procesales que no quedaron claramente expuestas en la ley"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "radicado": "T-105-15",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2015,
+  "fecha_creacion": "2015-03-25",
+  "magistrado_ponente": "Gloria Stella Ortiz Delgado",
+  "area": "Derecho a la Salud",
+  "tema": "ACCESO A TRATAMIENTO MEDICO O MEDICAMENTO EXCLUIDO DEL POS",
+  "subtema": "Improcedencia por cuanto no se demostró ausencia de capacidad económica para comprar el medicamento prescrito",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Decreto 677 de 1995",
+    "Ley 1751 de 2015",
+    "Ley 100 de 1993",
+    "Decreto 2078 de 2012"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2015/T-105-15.htm",
+  "fecha_descarga": "2026-10-21T12:41:28.545924+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2015-03-25",
+  "fecha_publicacion": null,
+  "numero": "T-105/15",
+  "tipo_cc": "T",
+  "prov_id": "7325",
+  "tema_relatoria": null,
+  "resumen": "La accionante sufre una dermatitis atópica con compromiso de piel y pulmón, de origen inmunológico y sin respuesta al tratamiento convencional. En vista de lo anterior, solicitó a su E.P.S. el suministro de un medicamento especial, ordenando por el médico tratante, para el manejo de su patología. No obstante, la entidad rechazó la petición, argumentando que el mismo no estaba aprobado por el INVIMA para el tratamiento de su enfermedad, ni estaba incluido en el Plan Obligatorio de Salud. Se analizan los siguientes temas: 1º. La Ley Estatutaria 1751 de 2015, por medio de la cual se regula el derecho fundamental a la salud y se dictan otras disposiciones. 2º. Las reglas jurisprudenciales para ordenar un medicamento cuyo uso no esté aprobado por el INVIMA para un determinado tratamiento. 3º. Reglas jurisprudencias para inaplicar el POS y ordenar medicamentos, procedimientos y elementos que estén excluidos de él. A pesar de negar el amparo solicitado, la Corte hace una serie de exhortos al Ministerio de Salud, al Instituto Nacional de Salud, al INVIMA y al Gobierno Nacional, por conducto del Ministerio de Salud y Protección Social y la Dirección de Regulación de Beneficios, Costos y Tarifas del Aseguramiento en Salud.",
+  "titulaciones": [
+    {
+      "tema": "ACCESO A TRATAMIENTO MEDICO O MEDICAMENTO EXCLUIDO DEL POS",
+      "subtema": "Improcedencia por cuanto no se demostró ausencia de capacidad económica para comprar el medicamento prescrito"
+    },
+    {
+      "tema": "ACCESO A TRATAMIENTO MEDICO O MEDICAMENTO EXCLUIDO DEL POS",
+      "subtema": "Criterios constitucionales para acceder a servicios no POS"
+    },
+    {
+      "tema": "ACCION DE TUTELA PARA SUMINISTRO DE MEDICAMENTOS QUE NO TIENEN REGISTRO INVIMA",
+      "subtema": "Procedencia siempre y cuando no se trate de medicamento en fase experimental"
+    },
+    {
+      "tema": "LEY ESTATUTARIA QUE REGULA EL DERECHO FUNDAMENTAL A LA SALUD",
+      "subtema": "Ley Estatutaria 1751 de 2015"
+    },
+    {
+      "tema": "SUMINISTRO DE MEDICAMENTO QUE NO TIENE APROBACION DEL INVIMA",
+      "subtema": "Deben ser suministrados cuando una persona los requiera con base en la mejor evidencia científica disponible"
+    },
+    {
+      "tema": "INSTITUTO NACIONAL DE VIGILANCIA DE MEDICAMENTOS Y ALIMENTOS-INVIMA",
+      "subtema": "Funciones"
+    }
+  ]
+}

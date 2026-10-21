@@ -1,0 +1,56 @@
+{
+  "radicado": "T-001-15",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2015,
+  "fecha_creacion": "2015-01-15",
+  "magistrado_ponente": "Mauricio González Cuervo",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "INSCRIPCION EN EL REGISTRO UNICO DE POBLACION DESPLAZADA",
+  "subtema": "Marco normativo para la inscripción y pautas jurisprudenciales que determinan su aplicación",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 1448 de 2011",
+    "Ley 387 de 1997",
+    "Decreto 2591 de 1991",
+    "Decreto 2569 de 2000"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2015/T-001-15.htm",
+  "fecha_descarga": "2026-10-21T12:35:24.006235+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2015-01-15",
+  "fecha_publicacion": null,
+  "numero": "T-001/15",
+  "tipo_cc": "T",
+  "prov_id": "7136",
+  "tema_relatoria": null,
+  "resumen": "Se endilga vulneración de derechos, a la omisión de la entidad accionada de responder el derecho de petición impetrado por el actor, por medio del cual, alegando su condición de desplazado, pretendía su inclusión en el Registro Único de Víctimas (RUV). Se reitera jurisprudencia relacionada con el contenido y alcance del derecho fundamental de petición y; sobre el marco normativo para la inscripción en el RUV y las pautas jurisprudenciales que determinan su aplicación. La Sala concluyó que la entidad sí vulneró el derecho fundamental de petición del actor, porque en la respuesta que expidió no le informó los hechos en los cuales se basó, para determinar que no cumplía con los requisitos para ser incluido como desplazado. Se CONCEDE el amparo solicitado.",
+  "titulaciones": [
+    {
+      "tema": "INSCRIPCION EN EL REGISTRO UNICO DE POBLACION DESPLAZADA",
+      "subtema": "Marco normativo para la inscripción y pautas jurisprudenciales que determinan su aplicación"
+    },
+    {
+      "tema": "DERECHO FUNDAMENTAL DE PETICION DE POBLACION DESPLAZADA",
+      "subtema": "Orden a la UARIV decida sobre la inclusión en el RUV del accionante y su grupo familiar"
+    },
+    {
+      "tema": "DERECHO DE PETICIÓN",
+      "subtema": "Respuesta debe ser de fondo, oportuna, congruente y tener notificación efectiva"
+    },
+    {
+      "tema": "DERECHO FUNDAMENTAL DE PETICION DE POBLACION DESPLAZADA",
+      "subtema": "Vulneración de la UARIV por no responder solicitud de inclusión, de manera oportuna, de fondo, clara, precisa y congruente con lo solicitado, y no informarle al peticionario cuáles fueron los motivos"
+    },
+    {
+      "tema": "REGISTRO UNICO DE POBLACION DESPLAZADA Y PRESUNCION DE BUENA FE DEL DECLARANTE DESPLAZADO",
+      "subtema": "Supone una inversión de la carga de la prueba respecto a los hechos generadores del desplazamiento"
+    },
+    {
+      "tema": "DERECHO DE PETICIÓN",
+      "subtema": "Alcance y contenido"
+    }
+  ]
+}

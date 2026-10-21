@@ -1,0 +1,50 @@
+{
+  "radicado": "T-004-15",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2015,
+  "fecha_creacion": "2015-01-15",
+  "magistrado_ponente": "Mauricio González Cuervo",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "PENSIÓN DE SOBREVIVIENTES",
+  "subtema": "Convivencia como requisito para el reconocimiento de la pensión sustitutiva al cónyuge o compañero supérstite",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Decreto 2591 de 1991",
+    "Ley 979 de 2003",
+    "Ley 797 de 2003",
+    "Ley 44 de 1980",
+    "Ley 1276 de 2009"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2015/T-004-15.htm",
+  "fecha_descarga": "2026-10-21T12:35:35.016732+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2015-01-15",
+  "fecha_publicacion": null,
+  "numero": "T-004/15",
+  "tipo_cc": "T",
+  "prov_id": "7139",
+  "tema_relatoria": null,
+  "resumen": "La entidad accionada negó a la actora el reconocimiento y pago de la pensión de sobrevivientes solicitada a raíz del fallecimiento de su compañero permanente, con el argumento de la falta de acreditación del requisito de convivencia con el causante, durante los últimos cinco años anteriores a su muerte. Lo anterior, al considerar que no ameritaba darle credibilidad a las declaraciones extraproceso aportadas por la peticionaria. Se analiza temática relacionada con el derecho a la seguridad social; el régimen jurídico de la sustitución pensional y de la pensión de sobrevivientes y; los requisitos para el reconocimiento de esta prestación, establecidos por la Ley 100 de 1993. La Sala concluye que, las entidades administradoras de pensiones vulneran los derechos a la seguridad social y al mínimo vital, cuando niegan a un beneficiario que tiene la calidad de compañero permanente supérstite, el reconocimiento de una sustitución pensional, argumentando que no cumplió con el requisito de la convivencia exigido en la ley 100, sin haber realizado antes una valoración detallada y conjunta de cada una de las pruebas que aportó el peticionario con su solicitud, entre ellas, la declaración extra juicio por medio de la cual el propio causante afirma que existió unión marital y que la convivencia fue permanente y continua. Se CONCEDE.",
+  "titulaciones": [
+    {
+      "tema": "PENSIÓN DE SOBREVIVIENTES",
+      "subtema": "Convivencia como requisito para el reconocimiento de la pensión sustitutiva al cónyuge o compañero supérstite"
+    },
+    {
+      "tema": "DERECHO A LA PENSION DE SOBREVIVIENTES Y A LA SUSTITUCION PENSIONAL",
+      "subtema": "Naturaleza jurídica y finalidad"
+    },
+    {
+      "tema": "DERECHO A LA SEGURIDAD SOCIAL Y MINIMO VITAL",
+      "subtema": "Orden a la UGPP reconocer y pagar pensión de sobrevivientes por acreditar requisito de convivencia"
+    },
+    {
+      "tema": "SUSTITUCION PENSIONAL Y PENSION DE SOBREVIVIENTES",
+      "subtema": "Diferencias"
+    }
+  ]
+}

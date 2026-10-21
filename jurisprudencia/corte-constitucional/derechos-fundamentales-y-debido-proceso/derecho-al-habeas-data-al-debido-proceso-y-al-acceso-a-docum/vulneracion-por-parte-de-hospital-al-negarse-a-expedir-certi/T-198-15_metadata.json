@@ -1,0 +1,57 @@
+{
+  "radicado": "T-198-15",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2015,
+  "fecha_creacion": "2015-04-20",
+  "magistrado_ponente": null,
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "DERECHO AL HABEAS DATA, AL DEBIDO PROCESO Y AL ACCESO A DOCUMENTOS PUBLICOS",
+  "subtema": "Vulneración por parte de Hospital, al negarse a expedir certificado laboral requerido para trámite de pensión, con base en que los documentos no reposan en los archivos",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 50 de 1886",
+    "Ley 50 de 1986",
+    "Ley 1712 de 2014",
+    "Ley 1437 de 2011",
+    "Ley 1655 de 2013",
+    "Ley 687 de 2001",
+    "Ley 49 de 1909",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2015/T-198-15.htm",
+  "fecha_descarga": "2026-10-21T12:39:24.407951+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2015-04-20",
+  "fecha_publicacion": null,
+  "numero": "T-198/15",
+  "tipo_cc": "T",
+  "prov_id": "7456",
+  "tema_relatoria": null,
+  "resumen": "Se aduce que la entidad accionada vulneró derechos fundamentales de la actora, al negarse a expedir la constancia de tiempo de servicios prestados entre los años 1969 y 1971, la cual requiere para el trámite de la pensión de jubilación. La entidad argumentó que en sus archivos no reposaba ningún indicio que diera cuenta de la relación laboral existente en la época, motivo por el cual debía acreditar tal circunstancia, mediante el procedimiento previsto en la ley 50 de 1886. Se reitera jurisprudencia en torno a: 1º. Procedencia excepcional de la acción de tutela por su naturaleza subsidiaria. 2º. El derecho fundamental al habeas data y al acceso a la información y, 3º. La reconstrucción de documentos o información cuando se ha extraviado o destruido. Se CONCEDE la tutela a los derechos al habas data, al debido proceso y al acceso a documentos públicos. Se advierte a la entidad, que tiene el deber constitucional de implementar mecanismos diligentes y eficaces para la custodia, administración y conservación de los archivos a su cargo.",
+  "titulaciones": [
+    {
+      "tema": "DERECHO AL HABEAS DATA, AL DEBIDO PROCESO Y AL ACCESO A DOCUMENTOS PUBLICOS",
+      "subtema": "Vulneración por parte de Hospital, al negarse a expedir certificado laboral requerido para trámite de pensión, con base en que los documentos no reposan en los archivos"
+    },
+    {
+      "tema": "DERECHO AL HABEAS DATA Y DERECHO A LA INFORMACION",
+      "subtema": null
+    },
+    {
+      "tema": "DERECHO AL HABEAS DATA, AL DEBIDO PROCESO Y AL ACCESO A DOCUMENTOS PUBLICOS",
+      "subtema": "Orden a Hospital reconstruir expediente laboral, de no ser cumplida la orden en el término previsto, deberá expedir el certificado laboral solicitado por la accionante"
+    },
+    {
+      "tema": "PRINCIPIO DE SUBSIDIARIEDAD COMO REQUISITO DE PROCEDIBILIDAD DE LA ACCION DE TUTELA",
+      "subtema": "Reiteración de jurisprudencia"
+    },
+    {
+      "tema": "RECONSTRUCCION DE DOCUMENTOS PUBLICOS",
+      "subtema": "Mecanismo análogo a reconstrucción de expedientes para recuperar documentos destruidos o extraviados"
+    }
+  ]
+}

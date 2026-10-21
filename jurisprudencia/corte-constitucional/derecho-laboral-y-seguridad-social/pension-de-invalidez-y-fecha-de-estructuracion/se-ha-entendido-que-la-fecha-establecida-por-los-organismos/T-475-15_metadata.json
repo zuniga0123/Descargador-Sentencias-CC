@@ -1,0 +1,58 @@
+{
+  "radicado": "T-475-15",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2015,
+  "fecha_creacion": "2015-07-28",
+  "magistrado_ponente": "Myriam Ávila Roldán",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "PENSION DE INVALIDEZ Y FECHA DE ESTRUCTURACION",
+  "subtema": "Se ha entendido que la fecha establecida por los organismos calificadores de la invalidez es ficta y el Juez puede desvirtuarla a favor del beneficiario",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 860 de 2003",
+    "Ley 100 de 1993",
+    "Decreto 917 de 1999",
+    "Decreto 19 de 2012",
+    "Decreto 692 de 1995"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2015/T-475-15.htm",
+  "fecha_descarga": "2026-10-21T12:26:16.033241+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2015-07-28",
+  "fecha_publicacion": "2015-08-25",
+  "numero": "T-475/15",
+  "tipo_cc": "T",
+  "prov_id": "7896",
+  "tema_relatoria": "PENSION DE INVALIDEZ DE PERSONA QUE SUFRE ENFERMEDAD CONGENITA DEGENERATIVA.",
+  "resumen": "Solicita reconocimiento y pago de pensión de invalidez y mesadas causadas desde cumplimiento de requisitos. Temas a tratar: Procedencia de la acción de tutela para el amparo de derechos pensionales, Derecho a pensión de invalidez en caso de enfermedad crónica, degenerativa o congénita, Determinación de fecha de estructuración de pérdida de capacidad laboral. Se ordena reconocer y pagar pensión de invalidez",
+  "titulaciones": [
+    {
+      "tema": "PENSION DE INVALIDEZ Y FECHA DE ESTRUCTURACION",
+      "subtema": "Se ha entendido que la fecha establecida por los organismos calificadores de la invalidez es ficta y el Juez puede desvirtuarla a favor del beneficiario"
+    },
+    {
+      "tema": "ACCION DE TUTELA PARA RECONOCIMIENTO DE DERECHOS PENSIONALES",
+      "subtema": "Subreglas y elementos"
+    },
+    {
+      "tema": "PENSIÓN DE INVALIDEZ",
+      "subtema": "Juez de tutela debe evaluar, con fundamento en las pruebas, si es determinable la fecha material o real de configuración de la invalidez"
+    },
+    {
+      "tema": "PENSION DE INVALIDEZ DE UN AFILIADO QUE PADECE ENFERMEDAD CRONICA, DEGENERATIVA O CONGENITA",
+      "subtema": "Caso en que se le ha determinado una fecha de estructuración de invalidez en forma retroactiva"
+    },
+    {
+      "tema": "DERECHO A LA PENSION DE INVALIDEZ EN CASO DE ENFERMEDADES CRONICAS, DEGENERATIVAS O CONGENITAS",
+      "subtema": "Debe determinarse la fecha real o material de estructuración de pérdida de capacidad laboral"
+    },
+    {
+      "tema": "PENSIÓN DE INVALIDEZ",
+      "subtema": "Reconocimiento a persona que sufre enfermedad congénita degenerativa"
+    }
+  ]
+}

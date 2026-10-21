@@ -1,0 +1,51 @@
+{
+  "radicado": "T-486-15",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2015,
+  "fecha_creacion": "2015-08-05",
+  "magistrado_ponente": "Gloria Stella Ortiz Delgado",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "ACCION DE TUTELA PARA RECLAMAR PRESTACIONES ECONOMICAS PENSIONALES",
+  "subtema": "Reglas jurisprudenciales para la procedencia",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Decreto 3041 de 1966",
+    "Ley 90 de 1946",
+    "Decreto 917 de 1999",
+    "Decreto 2463 de 2001",
+    "Ley 860 de 2003",
+    "Ley 100 de 1993"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2015/T-486-15.htm",
+  "fecha_descarga": "2026-10-21T12:34:16.998225+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2015-08-05",
+  "fecha_publicacion": null,
+  "numero": "T-486/15",
+  "tipo_cc": "T",
+  "prov_id": "7939",
+  "tema_relatoria": "PENSION DE INVALIDEZ. RECONOCIMIENTO DE SEMANAS COTIZADAS CON POSTERIORIDAD A FECHA DE RESTRUCTURACION.",
+  "resumen": "Solicita reconocimiento y pago pensión de invalidez y retroactivo a partir de fecha de estructuración de invalidez. Procedencia excepcional de la acción de tutela para reconocimiento de derechos pensionales, Derecho a la seguridad social y relación con el derecho al mínimo vital de personas con discapacidad, Fecha estructuración de invalidez y retiro material y efectivo del mercado laboral. Obligación de fondos administradores de pensiones de establecer o verificar cotizaciones realizadas con posterioridad a fecha de estructuración de enfermedad o accidente. Se ordenar reconocer y pagar pensión de invalidez conforme Ley 100 de 1993 artículos 39 y siguientes modificado por Ley 860 de 2003 artículo 1. De igual manera reconocer y pagar retroactivos no prescritos",
+  "titulaciones": [
+    {
+      "tema": "ACCION DE TUTELA PARA RECLAMAR PRESTACIONES ECONOMICAS PENSIONALES",
+      "subtema": "Reglas jurisprudenciales para la procedencia"
+    },
+    {
+      "tema": "DERECHO AL MINIMO VITAL",
+      "subtema": "Fundamental dada su estrecha relación con la dignidad humana y con la garantía al trabajo, a la seguridad social y a la vida digna"
+    },
+    {
+      "tema": "PENSION DE INVALIDEZ DE PERSONA CON ENFERMEDAD CRONICA, DEGENERATIVA O CONGENITA",
+      "subtema": "Fecha de estructuración de la invalidez desde el momento de la pérdida permanente y definitiva de la capacidad laboral"
+    },
+    {
+      "tema": "PENSIÓN DE INVALIDEZ",
+      "subtema": "Reconocimiento y pago por cuanto trabajador que padece enfermedad degenerativa laboró y siguió cotizando con posterioridad a la fecha de estructuración de invalidez"
+    }
+  ]
+}
