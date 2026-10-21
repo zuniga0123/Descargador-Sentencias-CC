@@ -1,0 +1,47 @@
+{
+  "radicado": "T-252-21",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-08-03",
+  "magistrado_ponente": "Paola Andrea Meneses Mosquera",
+  "area": "Derecho Administrativo y Función Pública",
+  "tema": "ACCION DE NULIDAD Y RESTABLECIMIENTO DEL DERECHO",
+  "subtema": "Medio de defensa judicial eficaz para controvertir la legalidad de los actos administrativos",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Decreto Ley 2591 de 1991",
+    "Decreto Ley 1791 de 2000"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2021/T-252-21.htm",
+  "fecha_descarga": "2026-10-21T08:34:59.366451+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2021-08-03",
+  "fecha_publicacion": "2021-08-24",
+  "numero": "T-252/21",
+  "tipo_cc": "T",
+  "prov_id": "36194",
+  "tema_relatoria": "ACCION DE TUTELA PARA SOLICITAR TRASLADO LABORAL-IMPROCEDENCIA POR CUANTO NO SE AGOTARON MEDIOS DE DEFENSA JUDICIAL Y NO SE DEMOSTRO PERJUICIO IRREMEDIABLE.",
+  "resumen": "En este caso se solicita al juez constitucional que ordene a la Dirección de Talento Humano de la Policía Nacional autorizar el traslado de un patrullero al municipio de Tulúa (Valle del Cauca), donde residen su hijo y su cónyuge. En su criterio, las condiciones de salud del menor y el hecho de que la madre se encuentra asumiendo sola la crianza del niño, justifican que dicha entidad acceda a su petición de traslado. Luego de verificar si la solicitud de amparo satisface los requisitos de procedibilidad, la Corte decidió DENEGARLO, por no cumplir el de subsidiariedad. Para la Sala, la decisión adoptada por la accionada no es ostensiblemente arbitraria y tampoco afecta de forma clara, grave y directa los derechos fundamentales del peticionario y de su hijo. Se confirma la decisión de instancia que declaró IMPROCEDENTE la solicitud de amparo.",
+  "titulaciones": [
+    {
+      "tema": "ACCION DE NULIDAD Y RESTABLECIMIENTO DEL DERECHO",
+      "subtema": "Medio de defensa judicial eficaz para controvertir la legalidad de los actos administrativos"
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA ACTO ADMINISTRATIVO QUE ORDENA TRASLADO DE SERVIDOR PUBLICO",
+      "subtema": "Improcedencia por cuanto no se probó afectación a derechos fundamentales ni ruptura del núcleo familiar"
+    },
+    {
+      "tema": "TRASLADO LABORAL",
+      "subtema": "Necesidades del servicio público no implica ruptura de lazos familiares"
+    },
+    {
+      "tema": "PRINCIPIO DE SUBSIDIARIEDAD EN MATERIA DE TRASLADO DE SERVIDOR PUBLICO",
+      "subtema": "Reglas"
+    }
+  ]
+}

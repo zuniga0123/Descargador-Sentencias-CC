@@ -1,0 +1,51 @@
+{
+  "radicado": "C-106-21",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-04-22",
+  "magistrado_ponente": "Paola Andrea Meneses Mosquera",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "COSA JUZGADA CONSTITUCIONAL FORMAL Y MATERIAL",
+  "subtema": "Diferencias",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 1564 de 2012",
+    "Ley 794 de 2003",
+    "Decreto 2067 de 1991",
+    "Decreto 2287 de 1989",
+    "Decreto 2282 de 1989",
+    "Ley 820 de 2003",
+    "Ley 1562 de 2012"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2021/C-106-21.htm",
+  "fecha_descarga": "2026-10-21T08:47:58.410097+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2021-04-22",
+  "fecha_publicacion": "2021-07-23",
+  "numero": "C-106/21",
+  "tipo_cc": "C",
+  "prov_id": "36113",
+  "tema_relatoria": "RESTITUCIÓN INMUEBLE ARRENDADO. CONSIGNACIÓN PREVIA CANON DE ARRENDAMIENTO ADEUDADO PARA PODER SER OÍDO EN EL PROCESO. PROCESO DE ÚNICA INSTANCIA CUANDO LA CAUSAL DE RESTITUCIÓN ES EXCLUSIVAMENTE LA MORA EN EL PAGO DEL CANON.",
+  "resumen": "Demanda de inconstitucionalidad en contra del artículo 384 (parcial) de la Ley 1564 de 2012, por medio de la cual se expide el Código General del Proceso y se dictan otras disposiciones. El demandante argumentó que las expresiones “este no será oído en el proceso” e “y si no lo hiciere dejará de ser oído hasta cuando presente el título de depósito respectivo” vulneran el preámbulo de la Constitución, al igual que el principio de prevalencia del derecho sustancial, los derechos al debido proceso y de acceso a la administración de justicia y el principio de igualdad, contemplados en los artículos 228, 29, 229 y 13 Superiores. La Corte concluyó que el fenómeno de la cosa juzgada material se configura en relación con las expresiones demandadas en el presente caso, habida cuenta de que su constitucionalidad fue examinada de manera previa en el marco del control abstracto de constitucionalidad. Además, La Sala advirtió que no se acreditó supuesto alguno que permitiera enervar los efectos de la cosa juzgada y, por ello, DECIDIÓ ESTARSE A LO RESUELTO en las sentencias C-056/96 y C-070/93, mediante las cuales dichas expresiones fueron declaradas exequibles.",
+  "titulaciones": [
+    {
+      "tema": "COSA JUZGADA CONSTITUCIONAL FORMAL Y MATERIAL",
+      "subtema": "Diferencias"
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "Incumplimiento de requisitos de especificidad y certeza"
+    },
+    {
+      "tema": "CONTROL CONSTITUCIONAL",
+      "subtema": "Alcance de la competencia de la Corte Constitucional"
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD CONTRA LA LEY 1564 DE 2021",
+      "subtema": "Estarse a lo resuelto en las sentencias C-056 de 1996 y C-070 de 1993"
+    }
+  ]
+}

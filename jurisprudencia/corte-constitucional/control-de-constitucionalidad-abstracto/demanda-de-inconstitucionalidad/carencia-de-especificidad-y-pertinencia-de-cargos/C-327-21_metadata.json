@@ -1,0 +1,56 @@
+{
+  "radicado": "C-327-21",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-09-24",
+  "magistrado_ponente": "Jorge Enrique Ibáñez Najar",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "DEMANDA DE INCONSTITUCIONALIDAD",
+  "subtema": "Carencia de especificidad y pertinencia de cargos",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Acto Legislativo 1 de 2020",
+    "Decreto 2067 de 1991",
+    "Ley 742 de 2002",
+    "Ley 270 de 1996"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2021/C-327-21.htm",
+  "fecha_descarga": "2026-10-21T08:43:28.405891+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2021-09-24",
+  "fecha_publicacion": "2022-02-04",
+  "numero": "C-327/21",
+  "tipo_cc": "C",
+  "prov_id": "37042",
+  "tema_relatoria": "TEMA PRISIÓN PERPETUA REVISABLE. REFORMA EL ARTÍCULO 34 DE LA CONSTITUCIÓN, PARA PERMITIR LA IMPOSICIÓN DE ESTA PENA PARA CIERTOS DELITOS.",
+  "resumen": "Demanda de inconstitucionalidad en contra del Acto Legislativo 01 de 2020, por medio del cual se modifica el artículo 34 de la Constitución Política, suprimiendo la prohibición de la pena de prisión perpetua y estableciendo la prisión perpetua revisable. En tres demandas formuladas de manera independiente los actores cuestionan el ejercicio de la competencia del Congreso para reformar la Constitución, por considerar que se habría excedido. Lo anterior, por cuanto al dictar el precitado Acto se sustituyó la Constitución, pues reemplazó un eje definitorio de su identidad por otro diametralmente opuesto. La Sala Plena advirtió que en este caso se configura el fenómeno de la cosa juzgada formal y absoluta. Precisó que, por un lado existe cosa juzgada formal porque sobre la totalidad del Acto Legislativo 01 de 2020 ya existe un pronunciamiento de la Corporación, mediante el cual se decidió declarar su inexequibilidad. Por el otro explico que, se da la cosa juzgada absoluta, porque con dicha declaración se agotó todo el debate sobre la constitucionalidad de dicha norma, lo que hace inviable emprender un nuevo estudio. Con base en lo anterior decidió ESTARSE A LO RESUELTO en la Sentencia C-294/21.",
+  "titulaciones": [
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "Carencia de especificidad y pertinencia de cargos"
+    },
+    {
+      "tema": "CONTROL DE CONSTITUCIONALIDAD DE ACTO REFORMATORIO DE LA CONSTITUCION POR SUSTITUCION",
+      "subtema": "Aspectos definitorios de la Constitución"
+    },
+    {
+      "tema": "COSA JUZGADA CONSTITUCIONAL",
+      "subtema": "Clasificación"
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD CONTRA ACTOS LEGISLATIVOS",
+      "subtema": "Término de caducidad"
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD CONTRA ACTO LEGISLATIVO 01 DE 2020",
+      "subtema": "Estarse a lo resuelto en la sentencia C-294 de 2021"
+    },
+    {
+      "tema": "COSA JUZGADA CONSTITUCIONAL FORMAL Y ABSOLUTA",
+      "subtema": "Configuración"
+    }
+  ]
+}

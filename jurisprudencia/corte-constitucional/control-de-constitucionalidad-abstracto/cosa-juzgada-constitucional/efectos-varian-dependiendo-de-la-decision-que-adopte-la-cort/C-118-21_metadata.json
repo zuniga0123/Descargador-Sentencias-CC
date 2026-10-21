@@ -1,0 +1,50 @@
+{
+  "radicado": "C-118-21",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-04-29",
+  "magistrado_ponente": "Gloria Stella Ortiz Delgado",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "COSA JUZGADA CONSTITUCIONAL",
+  "subtema": "Efectos varían dependiendo de la decisión que adopte la Corte Constitucional en sus fallos de control abstracto, ya sea de exequibilidad o inexequibilidad",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 1996 de 2019",
+    "Decreto 2067 de 1991",
+    "Ley 1346 de 2009",
+    "Ley 270 de 1996",
+    "Ley 1564 de 2012",
+    "Ley 1346 de 2019"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2021/C-118-21.htm",
+  "fecha_descarga": "2026-10-21T08:48:55.417366+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2021-04-29",
+  "fecha_publicacion": "2021-06-28",
+  "numero": "C-118/21",
+  "tipo_cc": "C",
+  "prov_id": "36026",
+  "tema_relatoria": "CAPACIDAD LEGAL. REGLAS ESPECIALES PARA LAS PERSONAS MAYORES DE EDAD EN SITUACIÓN DE DISCAPACIDAD.",
+  "resumen": "Demanda de inconstitucionalidad contra los artículos 8º a 39, 41 a 50, y 53 de la Ley 1996 de 2019, por medio de la cual se establece el régimen para el ejercicio de la capacidad legal de las personas con discapacidad mayores de edad. El accionante adujo que las disposiciones acusadas desconocen la reserva de ley estatutaria consagrada en los artículos 152 y 153 de la Constitución. A su juicio, los apartes acusados “desarrollan los procedimientos y recursos judiciales y extrajudiciales para la protección del derecho fundamental a la capacidad jurídica”, razón por la cual debieron cumplir con el trámite de ley estatutaria. Tras comprobar que en el caso concreto operó el fenómeno de la cosa juzgada constitucional, en particular la cosa juzgada relativa explícita, la Corte decidió ESTARSE A LO RESUELTO en la Sentencia C-022/21, mediante la cual se declaró exequible la totalidad de la ley 1996 de 2019 en relación con el cargo de reserva de ley estatutaria, en tanto concluyó que los procedimientos y recursos regulados en esa normativa, entre otras cosas, no están sometidos a dicha reserva.",
+  "titulaciones": [
+    {
+      "tema": "COSA JUZGADA CONSTITUCIONAL",
+      "subtema": "Efectos varían dependiendo de la decisión que adopte la Corte Constitucional en sus fallos de control abstracto, ya sea de exequibilidad o inexequibilidad"
+    },
+    {
+      "tema": "COSA JUZGADA FORMAL Y MATERIAL, COSA JUZGADA ABSOLUTA Y RELATIVA Y COSA JUZGADA APARENTE",
+      "subtema": "Conceptos"
+    },
+    {
+      "tema": "COSA JUZGADA CONSTITUCIONAL RELATIVA EXPLICITA",
+      "subtema": "Configuración"
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD CONTRA LA LEY 1996 DE 2019",
+      "subtema": "Estarse a lo resuelto en la sentencia C-022 de 2021"
+    }
+  ]
+}

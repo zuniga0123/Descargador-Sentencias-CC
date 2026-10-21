@@ -1,0 +1,46 @@
+{
+  "radicado": "C-435-21",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-12-07",
+  "magistrado_ponente": "Alberto Rojas Ríos",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "CONCEPTO DE VIOLACION EN DEMANDA DE INCONSTITUCIONALIDAD",
+  "subtema": "Jurisprudencia constitucional",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2067 de 1991",
+    "Ley 153 de 1887",
+    "Ley 133 de 1994",
+    "Ley 35 de 1888",
+    "Ley 20 de 1974",
+    "Ley 153 de 1997"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2021/C-435-21.htm",
+  "fecha_descarga": "2026-10-21T08:41:36.641844+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2021-12-07",
+  "fecha_publicacion": "2022-06-24",
+  "numero": "C-435/21",
+  "tipo_cc": "C",
+  "prov_id": "37848",
+  "tema_relatoria": "LEGISLACIÓN CANÓNICA. SUJECIÓN DE LAS AUTORIDADES DE LA REPÚBLICA A LA LEGISLACIÓN CANÓNICA.",
+  "resumen": "Demanda de inconstitucionalidad contra el artículo 16 (parcial) de la ley 153 de 1887, por la cual se adiciona y reforma los códigos nacionales, la ley 61 de 1886 y la ley 57 de 1887. El actor cuestiona la expresión “pero será solemnemente respetada por las autoridades de la República” por la supuesta vulneración de los artículos 1°, 2° inc.1, 4° inc.1 y 19 de la Constitución. Según el demandante, la solemnidad a la que se refiere la disposición acusada implica el acatamiento al derecho canónico y, por tanto, a cumplir los requisitos exigidos por la ley católica por parte de los servidores públicos, lo cual afecta la neutralidad del Estado al darle categoría de fuente formal del derecho a la regulación canónica. Con base en lo anterior formuló cargos por violación de los principios de pluralismo religioso, supremacía de la Constitución y libertad de cultos. La Sala Plena encontró que demanda es inepta porque parte de la premisa que la disposición censurada establece un mandato de aplicación normativa preferente del derecho canónico sobre el derecho estatal, lo cual, es equivocado, pues tomada la literalidad de la disposición, la misma no prescribe que las autoridades deban aplicar preferentemente el derecho eclesiástico y, por el contrario, el enunciado indica que el derecho civil es separado y diferente del canónico. Con base en lo anterior, la Sala Plena se declara INHIBIDA para emitir un pronunciamiento de fondo",
+  "titulaciones": [
+    {
+      "tema": "CONCEPTO DE VIOLACION EN DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "Jurisprudencia constitucional"
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD POR VIOLACIÓN AL PRINCIPIO DE SEPARACIÓN ENTRE LA IGLESIA Y EL ESTADO",
+      "subtema": "Análisis autónomo del cargo"
+    },
+    {
+      "tema": "INHIBICION DE LA CORTE CONSTITUCIONAL POR INEPTITUD SUSTANTIVA DE LA DEMANDA",
+      "subtema": "Incumplimiento de requisitos de claridad, certeza, especificidad, pertinencia y suficiencia en los cargos"
+    }
+  ]
+}

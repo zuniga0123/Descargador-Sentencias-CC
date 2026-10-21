@@ -1,0 +1,54 @@
+{
+  "radicado": "C-423-21",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-12-01",
+  "magistrado_ponente": null,
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "COSA JUZGADA CONSTITUCIONAL",
+  "subtema": "Aparente, formal y material, absoluta y relativa",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 2081 de 2021",
+    "Decreto 2067 de 1991",
+    "Ley 599 de 2000",
+    "Ley 2081 de 2020",
+    "Ley 1154 de 2007",
+    "Acto Legislativo 2 de 2001",
+    "Ley 906 de 2004",
+    "Ley 270 de 1996",
+    "Ley 2098 de 2021",
+    "Ley 65 de 1993"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2021/C-423-21.htm",
+  "fecha_descarga": "2026-10-21T08:41:55.559937+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2021-12-01",
+  "fecha_publicacion": "2022-04-29",
+  "numero": "C-423/21",
+  "tipo_cc": "C",
+  "prov_id": "37592",
+  "tema_relatoria": "IMPRESCRIPTIBILIDAD DE LA ACCIÓN PENAL FRENTE AL DELITO DE INCESTO Y AQUELLOS CONTRA LA LIBERTAD, INTEGRIDAD Y FORMACIÓN SEXUAL DE NIÑOS, NIÑAS Y ADOLESCENTES. ESTARSE A LO RESUELTO EN LA SENTENCIA C-422/21.",
+  "resumen": "Demanda de inconstitucionalidad contra la Ley 2081 de 2021, por la cual se declara imprescriptible la acción penal en caso de delitos contra la libertad, integridad y formación sexuales, o el delito de incesto, cometidos en menores de 18 años “No más silencio”. En dos demandas de inconstitucionalidad formuladas de manera independiente, se aduce que la disposición cuestionada trasgrede el artículo 28 de la Constitución, por desconocer la prohibición de la imprescriptibilidad de la acción penal, toda vez que la prevé para algunos delitos cometidos en menores de 18 años. Argumentaron que la prescripción de la acción penal es una institución de orden público que tiene doble connotación: como garantía a favor del procesado y como sanción a la inactividad del Estado. La Sala Plena constató que en el presente asunto se configuró la cosa juzgada formal y relativa explícita y, por ello, decidió ESTARSE A LO RESUELTO en la Sentencia C-422/21.",
+  "titulaciones": [
+    {
+      "tema": "COSA JUZGADA CONSTITUCIONAL",
+      "subtema": "Aparente, formal y material, absoluta y relativa"
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD CONTRA LA LEY 2081 DE 2021",
+      "subtema": "Estarse a lo resuelto en la sentencia C-422 de 2021"
+    },
+    {
+      "tema": "COSA JUZGADA CONSTITUCIONAL RELATIVA EXPLICITA",
+      "subtema": "Configuración"
+    },
+    {
+      "tema": "COSA JUZGADA CONSTITUCIONAL Y SEGURIDAD JURIDICA",
+      "subtema": "Conexidad"
+    }
+  ]
+}

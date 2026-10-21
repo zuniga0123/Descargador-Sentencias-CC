@@ -1,0 +1,54 @@
+{
+  "radicado": "T-265-21",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-08-09",
+  "magistrado_ponente": "Gloria Stella Ortiz Delgado",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCIÓN DE TUTELA",
+  "subtema": "Informalidad de la acción de tutela no exonera al actor de probar, aunque sea de manera sumaria, los hechos en los que basa sus pretensiones",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 361 de 1997",
+    "Ley 712 de 2001",
+    "Ley 50 de 1990",
+    "Decreto 4369 de 2006",
+    "Decreto Ley 2158 de 1948"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2021/T-265-21.htm",
+  "fecha_descarga": "2026-10-21T08:34:06.766842+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2021-08-09",
+  "fecha_publicacion": "2021-09-03",
+  "numero": "T-265/21",
+  "tipo_cc": "T",
+  "prov_id": "36295",
+  "tema_relatoria": "ACCION DE TUTELA EN MATERIA DE DERECHO A LA ESTABILIDAD LABORAL REFORZADA-IMPROCEDENCIA DE REINTEGRO POR EXISTIR OTRO MEDIO DE DEFENSA JUDICIAL Y NO ACREDITAR PERJUICIO IRREMEDIABLE",
+  "resumen": "La acción de tutela la promueve una trabajadora en misión que padece una patología que desarrolló en vigencia de la relación laboral, la cual se agudizó por el ejercicio cotidiano de sus funciones. La vulneración de derechos se predica de la terminación del contrato sin la autorización del Ministerio de Trabajo. Se solicita el reintegro laboral, la cancelación de los salarios, prestaciones sociales y aportes a seguridad social desde su desvinculación y sin solución de continuidad, al igual que el pago de la indemnización prevista en el inciso 2º del artículo 26 de la Ley 361 de 1997. En la impugnación la peticionaria agregó que las empresas demandadas utilizaron el contrato de obra o labor para simular la realidad contractual que las unía, pues su vinculación superó el término previsto en la legislación para este tipo de contratos (12 meses). Se analiza temática relacionada con: 1º. El carácter subsidiario de la acción de tutela y su procedencia excepcional cuando se pretende la protección de la estabilidad laboral reforzada y, 2º. La necesidad de demostrar los hechos en los que se basan las pretensiones y el carácter célere y sumario del trámite de tutela. La Corte concluyó que el recurso de amparo es IMPROCEDENTE, en razón a que existe un medio ordinario de defensa judicial para debatir las pretensiones y el material probatorio que obra en el expediente no resultó conclusivo sobre los aspectos fácticos necesarios para evidenciar la vulneración de un derecho fundamental. En ese orden de ideas, la Sala consideró que el asunto debe ser analizado mediante los mecanismos propios del proceso laboral ordinario, escenario donde la accionante puede debatir tanto la presunta ilegalidad de la terminación del contrato de trabajo, como los demás cuestionamientos expresados en este caso.",
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Informalidad de la acción de tutela no exonera al actor de probar, aunque sea de manera sumaria, los hechos en los que basa sus pretensiones"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA PARA PROTEGER EL DERECHO A LA ESTABILIDAD LABORAL REFORZADA",
+      "subtema": "Improcedencia por existir otro medio de defensa judicial"
+    },
+    {
+      "tema": "ACCION DE TUTELA PARA RECLAMAR DERECHOS INCIERTOS Y DISCUTIBLES",
+      "subtema": "Improcedencia"
+    },
+    {
+      "tema": "DERECHO A LA ESTABILIDAD LABORAL REFORZADA DE PERSONA EN ESTADO DE DEBILIDAD MANIFIESTA POR RAZONES DE SALUD",
+      "subtema": "Reiteración de jurisprudencia sobre protección por vía de tutela de manera excepcional"
+    },
+    {
+      "tema": "PERJUICIO IRREMEDIABLE",
+      "subtema": "Inexistencia"
+    }
+  ]
+}

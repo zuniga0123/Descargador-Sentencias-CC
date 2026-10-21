@@ -1,0 +1,44 @@
+{
+  "radicado": "T-498-20",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2020,
+  "fecha_creacion": "2020-12-02",
+  "magistrado_ponente": "José Fernando Reyes Cuartas",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "DEBIDO PROCESO EN LA EXPEDICION DE LOS DICTAMENES DE PERDIDA DE LA CAPACIDAD LABORAL",
+  "subtema": "Reiteración de jurisprudencia",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 1352 de 2013",
+    "Decreto 2591 de 1991",
+    "Ley 100 de 1993",
+    "Decreto 1072 de 2015"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2020/T-498-20.htm",
+  "fecha_descarga": "2026-10-21T08:54:41.644606+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2020-12-02",
+  "fecha_publicacion": "2021-02-12",
+  "numero": "T-498/20",
+  "tipo_cc": "T",
+  "prov_id": "35668",
+  "tema_relatoria": "DEBIDO PROCESO EN EL TRAMITE ANTE LAS JUNTAS DE CALIFICACION DE INVALIDEZ",
+  "resumen": "En este caso se atribuye a las Juntas Nacional y Regional de Calificación de Invalidez de Bogotá la vulneración de derechos fundamentales de la actora, como consecuencia de los dictámenes que establecieron como fecha de estructuración de la pérdida de capacidad laboral el día 2 de junio de 2017, a pesar de haber sido diagnosticada con trastornos afectivo bipolar y depresivo aproximadamente veinte años atrás y que dicha fecha correspondía al momento en que la Junta Regional le practicó el examen físico correspondiente. La accionante relató que la UGPP le negó el reconocimiento de la sustitución pensional que solicitó en calidad de hija en situación de invalidez, argumentando que la fecha de estructuración mencionada era posterior a la muerte de su progenitora. Se reitera jurisprudencia relacionada con el derecho a la seguridad social y el debido proceso en los trámites seguidos ante las Juntas de Calificación de invalidez. Teniendo en cuenta que en sede de revisión se estableció que la fecha de estructuración fue el 8 de febrero de 2008, se declaró la carencia actual de objeto por el acaecimiento de una situación sobreviniente.",
+  "titulaciones": [
+    {
+      "tema": "DEBIDO PROCESO EN LA EXPEDICION DE LOS DICTAMENES DE PERDIDA DE LA CAPACIDAD LABORAL",
+      "subtema": "Reiteración de jurisprudencia"
+    },
+    {
+      "tema": "CARENCIA ACTUAL DE OBJETO POR SITUACIÓN SOBREVINIENTE",
+      "subtema": "Se realizó nuevo dictamen con fecha de estructuración acorde a historia clínica de la accionante"
+    },
+    {
+      "tema": "DEBIDO PROCESO EN EL TRÁMITE ANTE LAS JUNTAS DE CALIFICACIÓN DE INVALIDEZ",
+      "subtema": "Vulneración cuando expiden dictámenes de pérdida de la capacidad laboral sin atender las reglas establecidas en la normatividad y la jurisprudencia constitucional"
+    }
+  ]
+}

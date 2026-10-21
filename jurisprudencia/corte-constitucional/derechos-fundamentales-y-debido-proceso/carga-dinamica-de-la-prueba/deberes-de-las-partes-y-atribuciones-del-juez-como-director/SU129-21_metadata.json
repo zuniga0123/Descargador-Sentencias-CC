@@ -1,0 +1,98 @@
+{
+  "radicado": "SU129-21",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-05-06",
+  "magistrado_ponente": "Jorge Enrique Ibáñez Najar",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "CARGA DINÁMICA DE LA PRUEBA",
+  "subtema": "Deberes de las partes y atribuciones del juez como director del proceso",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 80 de 1993",
+    "Ley 100 de 1993",
+    "Decreto 528 de 1964",
+    "Decreto 2651 de 1991",
+    "Ley 446 de 1998",
+    "Ley 62 de 1993",
+    "Ley 180 de 1995",
+    "Decreto 1213 de 1990",
+    "Decreto 2127 de 1945",
+    "Decreto 1792 de 2000",
+    "Ley 16 de 1969",
+    "Decreto Ley 528 de 1964",
+    "Ley 270 de 1996",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2021/SU129-21.htm",
+  "fecha_descarga": "2026-10-21T08:53:10.875765+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2021-05-06",
+  "fecha_publicacion": "2021-07-16",
+  "numero": "SU.129/21",
+  "tipo_cc": "SU",
+  "prov_id": "36107",
+  "tema_relatoria": "ACCION DE TUTELA CONTRA PROVIDENCIAS JUDICIALES-PROCEDENCIA POR DEFECTO FÁCTICO, EN SU DIMENSIÓN NEGATIVA, POR FALTA DE PRÁCTICA DE PRUEBAS EN PROCESO LABORAL",
+  "resumen": "La accionante inició un proceso ordinario laboral con el objeto de que allí se declarara la existencia del contrato de trabajo entre ella y la Policía Nacional. La pretensión de dicha demanda era el reconocimiento de una pensión sanción, así como el pago de las demás prestaciones y emolumentos que de tal declaración se derivaran. Primera instancia consideró que sí había existido una relación laboral y que por ello era viable acceder a las prestaciones económicas reclamadas. En grado jurisdiccional de consulta, la autoridad judicial concluyó que, aunque la peticionaria sí había trabajado para la Policía Nacional, de las pruebas que obraban en el expediente no podía desprenderse certeza alguna respecto a los extremos de duración de esa relación. También sostuvo que, por esta razón, no era procedente condenar a la demandada. Esta conclusión fue compartida por la Sala de Casación Laboral de la Corte Suprema de Justicia, quien además consideró que, las deficiencias probatorias del expediente eran evidentes y que era responsabilidad de la demandante probar los hechos que alegaba. Esto sólo lo mencionó, pues previamente había advertido que el cargo presentado contra la sentencia del ad quem no prosperaba por deficiencias técnicas en su formulación. Se aduceque estos dos fallos vulneraron el derecho fundamental al debido proceso, al incurrir en los defectos fáctico, procedimental absoluto, violación directa de la Constitución y desconocimiento del precedente jurisprudencial. De manera específica se reprochó una indebida valoración probatoria que derivó en un contrasentido de la decisión, esto es, declarar la existencia de una relación laboral pero no ordenar el pago de prestación alguna La corte analizó si los derechos de la accionante al debido proceso y al acceso a la administración de justicia habían sido desconocidos por las autoridades demandadas y, para el efecto, cuestionó si éstas habían incurrido en un defecto fáctico positivo por cuenta de un eventual análisis probatorio deficiente; o si habían incurrido en un defecto fáctico negativo, en tanto y en cuanto se pudo omitir, por su parte, el deber de actuar oficiosamente a fin de acceder a la verdad procesal. Se CONCEDE el amparo invocado, se dejan sin efectos los fallos cuestionados y se ordena al Tribunal accionado reiniciar el estudio del proceso en el grado jurisdiccional de consulta, así como decretar y practicar todas las pruebas que considere necesarias a fin de establecer los extremos temporales de la relación laboral, para que una vez se encuentren disipadas las dudas sobre esta cuestión, dicte sentencia de fondo.",
+  "titulaciones": [
+    {
+      "tema": "CARGA DINÁMICA DE LA PRUEBA",
+      "subtema": "Deberes de las partes y atribuciones del juez como director del proceso"
+    },
+    {
+      "tema": "PRUEBAS DE OFICIO EN MATERIA LABORAL",
+      "subtema": "Jurisprudencia de la Corte Suprema de Justicia"
+    },
+    {
+      "tema": "DEFECTO FACTICO",
+      "subtema": "Dimensión negativa por no decretar y practicar pruebas de oficio"
+    },
+    {
+      "tema": "VALORACION PROBATORIA DE DOCUMENTOS",
+      "subtema": "Reglas generales"
+    },
+    {
+      "tema": "ACCESO A LA ADMINISTRACION DE JUSTICIA Y A LA TUTELA JUDICIAL EFECTIVA",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "PRINCIPIO DE OFICIOSIDAD DEL JUEZ LABORAL",
+      "subtema": "Obligación de decretar y practicar pruebas de oficio, cuando existen elementos que indican que no asumir esa tarea puede llevar a que el fallo se aparte de la verdad de los hechos"
+    },
+    {
+      "tema": "DEFECTO FACTICO",
+      "subtema": "Dimensión positiva por indebida apreciación probatoria"
+    },
+    {
+      "tema": "GRADO JURISDICCIONAL DE CONSULTA EN PROCESO LABORAL",
+      "subtema": "Pruebas de oficio"
+    },
+    {
+      "tema": "VALORACION PROBATORIA DE TESTIMONIOS",
+      "subtema": "Reglas de evaluación de aspectos subjetivos"
+    },
+    {
+      "tema": "VALORACION PROBATORIA DE TESTIMONIOS",
+      "subtema": "Reglas generales"
+    },
+    {
+      "tema": "VALORACION PROBATORIA DE TESTIMONIOS",
+      "subtema": "Reglas de evaluación procedimental"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Procedencia por defecto fáctico en su dimensión negativa, al omitir la práctica de pruebas en proceso laboral"
+    },
+    {
+      "tema": "DEFECTO FACTICO POR INDEBIDA VALORACION PROBATORIA",
+      "subtema": "Configuración"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Requisitos generales y especiales de procedibilidad"
+    }
+  ]
+}

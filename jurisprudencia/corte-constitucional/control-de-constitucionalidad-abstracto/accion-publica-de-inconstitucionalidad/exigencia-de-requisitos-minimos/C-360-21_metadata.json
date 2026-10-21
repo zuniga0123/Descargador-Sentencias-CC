@@ -1,0 +1,49 @@
+{
+  "radicado": "C-360-21",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-10-21",
+  "magistrado_ponente": "Antonio José Lizarazo Ocampo",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "ACCION PUBLICA DE INCONSTITUCIONALIDAD",
+  "subtema": "Exigencia de requisitos mínimos",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 1098 de 2006",
+    "Decreto Ley 2067 de 1991",
+    "Ley 1878 de 2018",
+    "Ley 12 de 1991",
+    "Ley 74 de 1968",
+    "Ley 75 de 1968",
+    "Ley 258 de 1996",
+    "Ley 319 de 1996",
+    "Decreto 2067 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2021/C-360-21.htm",
+  "fecha_descarga": "2026-10-21T08:43:55.701175+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2021-10-21",
+  "fecha_publicacion": "2022-01-11",
+  "numero": "C-360/21",
+  "tipo_cc": "C",
+  "prov_id": "36854",
+  "tema_relatoria": "RESTABLECIMIENTO DE DERECHOS A FAVOR DE UN NIÑO, NIÑA O ADOLESCENTE. PROCESO ADMINISTRATIVO DE DECLARATORIA DE ADOPTABILIDAD.",
+  "resumen": "Demanda de inconstitucionalidad contra los artículos 100 (parcial) y 108 (parcial) de la Ley 1098 de 2006, por la cual se expide el Código de la Infancia y la Adolescencia. El demandante formuló un único cargo por vulneración del artículo 9.1 de la Convención de los Derechos del Niño, aprobada mediante la Ley 12 de 1991, que establece que los Estados Partes velarán por que el niño no sea separado de sus padres contra la voluntad de éstos, excepto cuando, a reserva de revisión judicial, las autoridades competentes determinen, de conformidad con la ley y los procedimientos aplicables, que tal separación es necesaria en el interés superior del niño. Indica que tal determinación puede ser necesaria en casos particulares, por ejemplo, en los casos en que el niño sea objeto de maltrato o descuido por parte de sus padres o cuando éstos viven separados y debe adoptarse una decisión acerca del lugar de residencia del niño. Considera además, que esta disposición funge de parámetro de constitucionalidad frente al caso, en virtud del inciso primero del artículo 93 Superior. Por no cumplir con los requisitos de claridad, pertinencia, especificidad y suficiencia y, en consecuencia, presentarse una demanda inepta, la Corte decidió declararse INHIBIDA para emitir pronunciamiento de fondo.",
+  "titulaciones": [
+    {
+      "tema": "ACCION PUBLICA DE INCONSTITUCIONALIDAD",
+      "subtema": "Exigencia de requisitos mínimos"
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "Ineptitud sustantiva de la demanda cuando no se cumplen los requisitos"
+    },
+    {
+      "tema": "INHIBICION DE LA CORTE CONSTITUCIONAL POR INEPTITUD SUSTANTIVA DE LA DEMANDA",
+      "subtema": "Incumplimiento de requisitos de claridad, especificidad, pertinencia y suficiencia en los cargos"
+    }
+  ]
+}

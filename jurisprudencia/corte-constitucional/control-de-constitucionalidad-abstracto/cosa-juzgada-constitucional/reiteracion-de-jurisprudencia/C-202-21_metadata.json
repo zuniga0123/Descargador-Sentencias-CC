@@ -1,0 +1,59 @@
+{
+  "radicado": "C-202-21",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-06-23",
+  "magistrado_ponente": "Alejandro Linares Cantillo",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "COSA JUZGADA CONSTITUCIONAL",
+  "subtema": "Reiteración de jurisprudencia",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 2008 de 2019",
+    "Decreto Ley 2067 de 1991",
+    "Decreto 111 de 1996",
+    "Decreto 2067 de 1991",
+    "Ley 38 de 1989",
+    "Ley 179 de 1994",
+    "Ley 225 de 1995"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2021/C-202-21.htm",
+  "fecha_descarga": "2026-10-21T08:48:32.570121+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2021-06-23",
+  "fecha_publicacion": "2021-07-16",
+  "numero": "C-202/21",
+  "tipo_cc": "C",
+  "prov_id": "36065",
+  "tema_relatoria": "SERVICIOS PUERTOS PRIVADOS. AUTORIZACIÓN PARA PRESTARLOS A TERCEROS QUE NO ESTÉN VINCULADOS ECONÓMICA O JURÍDICAMENTE CON LA SOCIEDAD PORTUARIA, RELACIONADOS CON METAS DEL PLAN NACIONAL DE DESARROLLO Y PREVIO CONCEPTO FAVORABLE DEL CONPES.",
+  "resumen": "SERVICIOS PUERTOS PRIVADOS. AUTORIZACIÓN PARA PRESTARLOS A TERCEROS QUE NO ESTÉN VINCULADOS ECONÓMICA O JURÍDICAMENTE CON LA SOCIEDAD PORTUARIA, RELACIONADOS CON METAS DEL PLAN NACIONAL DE DESARROLLO Y PREVIO CONCEPTO FAVORABLE DEL CONPES. Demanda de inconstitucionalidad contra el artículo 140 de la Ley 2008 de 2019 por la cual se decreta el Presupuesto de Rentas y Recursos de Capital y Ley de Apropiaciones para la vigencia fiscal del 1° de enero al 31 de diciembre de 2020. La demandante considera que la precitada Ley es contraria a la Constitución Política, al infringir sus artículos 157, 158 y 160, al no guardar conexidad con la materia, por tener vocación de permanencia y, por tratarse de un asunto que solo fue introducido en el segundo debate, sin tener conexión o identidad con los otros temas que sí fueron considerados en el primer debate del trámite legislativo. La Sala Plena resolvió ESTARSE A LO RESUELTO en la sentencia C-178/21, la cual declaró la inexequibilidad de la disposición demandada por violación al principio de unidad de materia. Igualmente, al encontrar acreditada la existencia de cosa juzgada formal y absoluta, como consecuencia de la señalada declaratoria de inexequibilidad, la Corte decidió no pronunciarse respecto del cargo por vulneración a los principios de consecutividad e identidad flexible formulados en el presente asunto, por sustracción de materia.",
+  "titulaciones": [
+    {
+      "tema": "COSA JUZGADA CONSTITUCIONAL",
+      "subtema": "Reiteración de jurisprudencia"
+    },
+    {
+      "tema": "COSA JUZGADA CONSTITUCIONAL ABSOLUTA Y COSA JUZGADA CONSTITUCIONAL RELATIVA",
+      "subtema": "Concepto"
+    },
+    {
+      "tema": "COSA JUZGADA CONSTITUCIONAL",
+      "subtema": "Configuración y efectos"
+    },
+    {
+      "tema": "COSA JUZGADA CONSTITUCIONAL",
+      "subtema": "Tipos"
+    },
+    {
+      "tema": "COSA JUZGADA CONSTITUCIONAL FORMAL Y MATERIAL",
+      "subtema": "Diferencias"
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD CONTRA EL ARTICULO 140 DE LA LEY 2008 DE 2019",
+      "subtema": "Estarse a lo resuelto en la sentencia C-178 de 2021"
+    }
+  ]
+}

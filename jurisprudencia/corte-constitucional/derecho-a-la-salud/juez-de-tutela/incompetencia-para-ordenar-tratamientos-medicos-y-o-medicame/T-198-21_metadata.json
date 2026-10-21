@@ -1,0 +1,50 @@
+{
+  "radicado": "T-198-21",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-06-22",
+  "magistrado_ponente": "Jorge Enrique Ibáñez Najar",
+  "area": "Derecho a la Salud",
+  "tema": "JUEZ DE TUTELA",
+  "subtema": "Incompetencia para ordenar tratamientos médicos y/o medicamentos no prescritos por el médico tratante",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 1751 de 2015"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2021/T-198-21.htm",
+  "fecha_descarga": "2026-10-21T08:33:24.395701+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2021-06-22",
+  "fecha_publicacion": "2021-09-20",
+  "numero": "T-198/21",
+  "tipo_cc": "T",
+  "prov_id": "36348",
+  "tema_relatoria": "CARENCIA ACTUAL DE OBJETO POR HECHO SUPERADO. SE SUMINISTRÓ SUPLEMENTO ENSURE A PERSONA DE LA TERCERA EDAD",
+  "resumen": "A través de la figura de la agencia oficiosa se instaura la acción de tutela en favor de una persona de 85 años de edad que presenta un estado terminal de salud, por lo que se encuentra vinculado al programa de cuidados paliativos en la E.P.S. accionada. Debido al avanzado estado del cáncer que padece se comprometieron los músculos y tejidos de la cara necesarios para recibir alimentación sólida y se le diagnosticó desnutrición proteicocalórica severa, para lo cual se le formuló ensure clinical líquido para administración sucesiva de dos dosis diarias. La E.P.S. negó en dos oportunidades el suministro del suplemento dietético mencionado y, por ello, se inició la presente acción constitucional. Teniendo en cuenta que la pretensión principal se satisfizo antes de la adopción de la sentencia de primera instancia declaró la carencia actual de objeto por HECHO SUPERADO.",
+  "titulaciones": [
+    {
+      "tema": "JUEZ DE TUTELA",
+      "subtema": "Incompetencia para ordenar tratamientos médicos y/o medicamentos no prescritos por el médico tratante"
+    },
+    {
+      "tema": "DERECHO A LA SALUD DE PERSONA DE LA TERCERA EDAD",
+      "subtema": "Imposibilidad de EPS de modificar las condiciones en que han prestado un servicio médico, insumo o medicamento mientras no haya sido autorizado por el respectivo médico tratante"
+    },
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Protección cuando se obstaculiza el acceso al servicio, al trasladarle al usuario cargas administrativas y burocráticas que le corresponde asumir a la EPS"
+    },
+    {
+      "tema": "FUNCION JURISDICCIONAL POR SUPERINTENDENCIA NACIONAL DE SALUD",
+      "subtema": "No desplaza a juez de tutela cuando se trata de proteger el acceso efectivo al derecho fundamental a la salud"
+    },
+    {
+      "tema": "CARENCIA ACTUAL DE OBJETO POR HECHO SUPERADO",
+      "subtema": "Configuración"
+    }
+  ]
+}

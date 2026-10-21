@@ -1,0 +1,68 @@
+{
+  "radicado": "T-250-21",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-08-02",
+  "magistrado_ponente": "Diana Fajardo Rivera",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "PRINCIPIO DE JUSTICIA MATERIAL",
+  "subtema": "Alcance",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto Ley 2591 de 1991",
+    "Ley 1098 de 2006",
+    "Decreto 2591 de 1991",
+    "Ley 1564 de 2012"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2021/T-250-21.htm",
+  "fecha_descarga": "2026-10-21T08:35:10.823215+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2021-08-02",
+  "fecha_publicacion": "2021-08-24",
+  "numero": "T-250/21",
+  "tipo_cc": "T",
+  "prov_id": "36201",
+  "tema_relatoria": "COSA JUZGADA CONSTITUCIONAL. NO HAY RAZONES IMPERIOSAS QUE JUSTIFIQUEN REABRIR EL ESTUDIO CONSTITUCIONAL",
+  "resumen": "La accionante se encuentra cumpliendo una condena dentro del establecimiento carcelario de Neiva e interpuso acción de tutela contra el Instituto Colombiano de Bienestar Familiar (ICBF), debido a la declaración en situación de adoptabilidad de sus dos hijos. Para la peticionaria tal decisión se tomó con violación al debido proceso, pues no pudo asistir a la audiencia de práctica de pruebas y fallo adelantado por el Instituto, al encontrarse aislada por motivos de la pandemia por Covid-19. Antes de pasar a estudiar el fondo del caso, la Sala advirtió la configuración de la cosa juzgada constitucional puesto que la accionante ya había presentado otra solicitud de amparo contra la misma entidad, por los mismos hechos y con idénticas pretensiones; proceso que obtuvo una decisión de fondo dentro del expediente T-8.034.468, el cual hizo tránsito a cosa juzgada, con independencia que esta Sala de Revisión comparta o no su sentido. Tampoco se observa en el trámite de restablecimiento de derechos de los menores, un escenario de extrema injusticia material capaz de desvirtuar el principio de seguridad jurídica. Por el contrario, el ICBF aportó los elementos suficientes para demostrar que la decisión responde razonablemente al interés superior de los menores. Con base en lo anterior se declaró la IMPROCEDENCIA de la acción de tutela impetrada.",
+  "titulaciones": [
+    {
+      "tema": "PRINCIPIO DE JUSTICIA MATERIAL",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "PRINCIPIOS DE JUSTICIA MATERIAL Y PREVALENCIA DEL DERECHO SUSTANCIAL",
+      "subtema": "Aplicación"
+    },
+    {
+      "tema": "TEMERIDAD",
+      "subtema": "Inexistencia para el caso"
+    },
+    {
+      "tema": "COSA JUZGADA CONSTITUCIONAL EN TUTELA",
+      "subtema": "Triple identidad conlleva improcedencia"
+    },
+    {
+      "tema": "COSA JUZGADA CONSTITUCIONAL EN TUTELA",
+      "subtema": "Configuración"
+    },
+    {
+      "tema": "COSA JUZGADA CONSTITUCIONAL SOBRE FALLOS DE TUTELA NO SELECCIONADOS POR LA CORTE CONSTITUCIONAL",
+      "subtema": "Tiene como fundamento la salvaguarda del principio a la seguridad jurídica"
+    },
+    {
+      "tema": "ACCION DE TUTELA TEMERARIA",
+      "subtema": "Para que se configure temeridad debe evidenciarse la mala fe en el actuar del peticionario"
+    },
+    {
+      "tema": "PRINCIPIO DE JUSTICIA MATERIAL",
+      "subtema": "Concepto"
+    },
+    {
+      "tema": "PREVALENCIA DEL DERECHO SUSTANCIAL",
+      "subtema": "No puede el juez desconocer la justicia material por un exceso ritual probatorio que se oponga a la prevalencia del derecho sustancial"
+    }
+  ]
+}

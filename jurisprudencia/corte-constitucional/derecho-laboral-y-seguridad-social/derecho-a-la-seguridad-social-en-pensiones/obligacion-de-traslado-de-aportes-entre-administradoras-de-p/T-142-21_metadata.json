@@ -1,0 +1,54 @@
+{
+  "radicado": "T-142-21",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-05-18",
+  "magistrado_ponente": "Antonio José Lizarazo Ocampo",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "DERECHO A LA SEGURIDAD SOCIAL EN PENSIONES",
+  "subtema": "Obligación de traslado de aportes entre Administradoras de pensiones, cajas o fondos de pensiones",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 100 de 1993",
+    "Ley 1581 de 2012",
+    "Ley 797 de 2003",
+    "Decreto 309 de 2017",
+    "Decreto 2921 de 1948",
+    "Decreto 1848 de 1969",
+    "Decreto 3135 de 1968",
+    "Ley 33 de 1985",
+    "Ley 71 de 1988",
+    "Ley 490 de 1998",
+    "Ley 1066 de 2006",
+    "Decreto 1730 de 1991",
+    "Decreto 2920 de 1982"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2021/T-142-21.htm",
+  "fecha_descarga": "2026-10-21T08:38:40.060180+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2021-05-18",
+  "fecha_publicacion": "2021-06-15",
+  "numero": "T-142/21",
+  "tipo_cc": "T",
+  "prov_id": "35962",
+  "tema_relatoria": "CARENCIA ACTUAL DE OBJETO POR HECHO SUPERADO-SE RECONOCIÓ PENSIÓN DE VEJEZ",
+  "resumen": "El actor aduce que las entidades demandadas vulneraron sus derechos fundamentales, al impedirle acceder a la pensión de vejez a la que considera tener derecho. Colpensiones le negó su solicitud debido a que, tras haberse trasladado del Régimen de ahorro individual con solidaridad (RAIS) al Régimen de prima media, no le tuvo en cuenta varias semanas que cotizó a la AFP Porvenir. Entre las precitadas Administradoras se discute el traslado, el recibo y la contabilización de los aportes del afiliado correspondientes a 138 semanas de cotización. Luego de constatar que se logró satisfacer de manera completa las pretensiones del accionante. La Corte decidió declarar la carencia actual de objeto por HECHO SUPERADO. Ello, en cuanto Porvenir S.A. realizó la devolución de todos los valores que recibió con motivo de la afiliación del peticionario y Colpensiones reconoció la prestación reclamada con su respectivo retroactivo.",
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA SEGURIDAD SOCIAL EN PENSIONES",
+      "subtema": "Obligación de traslado de aportes entre Administradoras de pensiones, cajas o fondos de pensiones"
+    },
+    {
+      "tema": "CARENCIA ACTUAL DE OBJETO POR HECHO SUPERADO",
+      "subtema": "Se reconoció pensión de vejez"
+    },
+    {
+      "tema": "INCONSISTENCIAS EN HISTORIA LABORAL",
+      "subtema": "Administradoras de pensiones deben desplegar las actuaciones necesarias para garantizar la veracidad, claridad y precisión de las historias laborales, y no trasladar la carga de su negligencia a los afiliados"
+    }
+  ]
+}

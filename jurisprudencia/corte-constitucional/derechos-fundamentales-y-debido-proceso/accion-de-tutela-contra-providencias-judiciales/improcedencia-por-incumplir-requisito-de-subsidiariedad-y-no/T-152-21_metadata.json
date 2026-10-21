@@ -1,0 +1,42 @@
+{
+  "radicado": "T-152-21",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-05-24",
+  "magistrado_ponente": "Antonio José Lizarazo Ocampo",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+  "subtema": "Improcedencia por incumplir requisito de subsidiariedad y no acreditar perjuicio irremediable",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 1250 de 1970",
+    "Decreto Ley 960 de 1970",
+    "Decreto 2148 de 1983",
+    "Decreto 2591 de 1991",
+    "Decreto 1671 de 1997",
+    "Decreto 1400 de 1970"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2021/T-152-21.htm",
+  "fecha_descarga": "2026-10-21T08:34:25.338804+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2021-05-24",
+  "fecha_publicacion": "2021-09-02",
+  "numero": "T-152/21",
+  "tipo_cc": "T",
+  "prov_id": "36288",
+  "tema_relatoria": "CARENCIA ACTUAL DE OBJETO POR HECHO SUPERADO.SE DICTO SENTENCIA EN RECURSO EXTRAORDINARIO DE REVISION",
+  "resumen": "En este caso se interpuso la acción de tutela en contra de una decisión judicial adoptada en el marco de un proceso reivindicatorio. La Corte no encontró acreditado el requisito de subsidiariedad, en tanto se encontraba pendiente de fallo el recurso extraordinario de revisión presentado por los actores ante la Corte Suprema de Justicia, según lo establecido en la Sentencia T-211/09. Con base en lo anterior se declaró IMPROCEDENTE el amparo invocado. Se indica que, de haber superado los requisitos de procedencia la decisión habría sido la declaratoria de una carencia actual de objeto por hecho superado, en tanto en sede de revisión la Sala fue informada que el precitado recurso fue decidido y que con él se dejó sin efectos el fallo cuestionado en esta oportunidad.",
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Improcedencia por incumplir requisito de subsidiariedad y no acreditar perjuicio irremediable"
+    },
+    {
+      "tema": "CARENCIA ACTUAL DE OBJETO POR HECHO SUPERADO",
+      "subtema": "Configuración"
+    }
+  ]
+}

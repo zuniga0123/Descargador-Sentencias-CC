@@ -1,0 +1,51 @@
+{
+  "radicado": "C-044-21",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-02-25",
+  "magistrado_ponente": "Alejandro Linares Cantillo",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "DEMANDA DE INCONSTITUCIONALIDAD CONTRA NORMA DEL CODIGO SUSTANTIVO DEL TRABAJO",
+  "subtema": "Inhibición por incumplimiento de los requisitos mínimos",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 50 de 1990",
+    "Ley 789 de 2002",
+    "Decreto Ley 2067 de 1991",
+    "Decreto 2067 de 1991",
+    "Ley 319 de 1996",
+    "Ley 789 de 2000",
+    "Ley 780 de 2002"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2021/C-044-21.htm",
+  "fecha_descarga": "2026-10-21T08:49:57.199573+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2021-02-25",
+  "fecha_publicacion": "2021-05-25",
+  "numero": "C-044/21",
+  "tipo_cc": "C",
+  "prov_id": "35915",
+  "tema_relatoria": "TERMINACIÓN UNILATERAL DEL CONTRATO DE TRABAJO. DA LUGAR A UNA INDEMNIZACIÓN A FAVOR DEL TRABAJADOR, CUANDO LA TERMINACIÓN SE DA POR DECISIÓN DEL EMPLEADOR SIN JUSTA CAUSA COMPROBADA",
+  "resumen": "Demanda de inconstitucionalidad contra el artículo 64 (parcial) del Código Sustantivo del Trabajo, modificado por el artículo 6 de la Ley 50 de 1990 y el artículo 28 de la Ley 789 de 2002. El actor aduce que la disposición cuestionada, al otorgar una permisión a los empleadores para optar por el despido de los trabajadores sin que medie una justa causa, siempre que se otorgue una indemnización, infringe el artículo 7, literal d), del Protocolo de San Salvador, en armonía con lo dispuesto en los artículos 9 y 93.1 del Texto Superior. Teniendo en cuenta que hay una ineptitud sustantiva de la demanda por cuanto no satisface las cargas mínimas de certeza, pertinencia, especificidad y suficiencia requeridas, la Corte decidió declararse INHIBIDA para adoptar una decisión de fondo.",
+  "titulaciones": [
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD CONTRA NORMA DEL CODIGO SUSTANTIVO DEL TRABAJO",
+      "subtema": "Inhibición por incumplimiento de los requisitos mínimos"
+    },
+    {
+      "tema": "INHIBICION DE LA CORTE CONSTITUCIONAL POR INEPTITUD SUSTANTIVA DE LA DEMANDA",
+      "subtema": "Incumplimiento de requisitos de certeza, especificidad, pertinencia y suficiencia en los cargos"
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "Aun cuando debe ser evaluada de acuerdo con el principio pro actione, en todo caso es necesario que en ella concurran unas condiciones mínimas de procedibilidad"
+    },
+    {
+      "tema": "CONCEPTO DE VIOLACION EN DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "Razones claras, ciertas, específicas, pertinentes y suficientes"
+    }
+  ]
+}

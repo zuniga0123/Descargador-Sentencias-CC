@@ -1,0 +1,53 @@
+{
+  "radicado": "C-024-21",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-02-04",
+  "magistrado_ponente": "Diana Fajardo Rivera",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "CONCEPTO DE VIOLACION EN DEMANDA DE INCONSTITUCIONALIDAD",
+  "subtema": "Razones claras, ciertas, específicas, pertinentes y suficientes",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto Ley 2245 de 2011",
+    "Decreto 2067 de 1991",
+    "Decreto Ley 2067 de 1991",
+    "Ley 1430 de 2010",
+    "Ley 9 de 1991",
+    "Decreto 2245 de 2011",
+    "Ley 100 de 1993",
+    "Ley 610 de 2000",
+    "Ley 680 de 2001"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2021/C-024-21.htm",
+  "fecha_descarga": "2026-10-21T08:50:40.224799+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2021-02-04",
+  "fecha_publicacion": "2021-03-17",
+  "numero": "C-024/21",
+  "tipo_cc": "C",
+  "prov_id": "35734",
+  "tema_relatoria": "SANCIONES CAMBIARIAS. PRESCRIPCIÓN EN CASO DE INFRACCIONES CONTINUADAS.",
+  "resumen": "Demanda de inconstitucionalidad contra el artículo 5 (parcial) del Decreto Ley 2245 de 2011, Por el cual se establece el Régimen Sancionatorio y el Procedimiento Administrativo Cambiario a seguir por la Dirección de Impuestos y Aduanas Nacionales. Los demandantes consideran que en el aparte normativo censurado se establece que en las infracciones continuadas, vale decir, en los casos en que con varias acciones u omisiones se viole una misma norma cambiaria, así estas se ejecuten en momentos diferentes, el término de prescripción se contará a partir de la ocurrencia del último hecho constitutivo de la infracción, lo cual vulnera los artículos 13, 29, 93 y 363 de la Carta Política al resultar ambigua y dar lugar a diversas interpretaciones por parte de la administración. Solicitan la declaratoria de inexequibilidad o, en su defecto, el condicionamiento, en el entendido de que el operador jurídico debe darle a dicha norma una interpretación ajustada a la Constitución. La Sala Plena de la Corporación concluye que el cargo formulado no cumple con los requisitos de certeza, suficiencia y pertinencia requeridos. Se precisa que, la falta de certeza radicó en que la demanda desestimó que el aparte censurado sí contiene elementos para definir cuándo se puede configurar una infracción cambiaria continuada, y por ende, fijar el término de prescripción. La ausencia de suficiencia se evidenció en que la demanda no identificó una postura o interpretación reiterada y consistente de la DIAN sobre la norma demandada que pudiera ser objeto de análisis constitucional y, la carencia de pertinencia se constató en el hecho de que el cargo se estructuró a partir de eventuales interpretaciones del precepto acusado o situaciones meramente hipotéticas. Con base en lo anterior, la Sala se declaró INHIBIDA para pronunciarse de fondo, por la ineptitud sustantiva de la demanda.",
+  "titulaciones": [
+    {
+      "tema": "CONCEPTO DE VIOLACION EN DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "Razones claras, ciertas, específicas, pertinentes y suficientes"
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD CONTRA INTERPRETACIONES JUDICIALES Y ADMINISTRATIVAS",
+      "subtema": "Incumplimiento del requisito de suficiencia"
+    },
+    {
+      "tema": "INHIBICION DE LA CORTE CONSTITUCIONAL POR INEPTITUD SUSTANTIVA DE LA DEMANDA",
+      "subtema": "Incumplimiento de requisitos de certeza, pertinencia y suficiencia en los cargos"
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "Requisitos mínimos"
+    }
+  ]
+}

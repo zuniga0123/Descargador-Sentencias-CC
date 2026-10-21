@@ -1,0 +1,54 @@
+{
+  "radicado": "T-514-20",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2020,
+  "fecha_creacion": "2020-12-14",
+  "magistrado_ponente": "Richard S",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "PAGO DE INCAPACIDAD LABORAL SUPERIOR A 180 DIAS",
+  "subtema": "Está a cargo de la Administradora de Fondos de Pensiones a la cual se encuentra afiliado el trabajador",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Decreto 2943 de 2013",
+    "Ley 100 de 1993",
+    "Ley 1438 de 2011",
+    "Decreto 3135 de 1968",
+    "Decreto 2463 de 2001"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2020/T-514-20.htm",
+  "fecha_descarga": "2026-10-21T08:55:00.401371+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2020-12-14",
+  "fecha_publicacion": "2021-02-09",
+  "numero": "T-514/20",
+  "tipo_cc": "T",
+  "prov_id": "35648",
+  "tema_relatoria": "CARENCIA ACTUAL DE OBJETO POR HECHO SUPERADO-SE RECONOCIÓ PENSIÓN DE INVALIDEZ",
+  "resumen": "El actor fue diagnosticado con un tumor maligno del encéfalo y con epilepsia y, virtud de este diagnóstico, su EPS le expidió y pagó en su favor y de manera ininterrumpida ocho incapacidades. Teniendo en cuenta que ya llevaba incapacitado más de 278 días, su empleador suspendió el pago de nómina y de cualquier emolumento de carácter salarial y prestacional, así como el auxilio de enfermedad, pero dispuso continuar cancelando los aportes al Sistema General de Seguridad Social en Pensión y Salud. La vulneración de derechos fundamentales se atribuye a Colpensiones y a la empresa empleadora, por la falta de pago de las incapacidades expedidas con posterioridad al día 180, por cuanto este auxilio se constituye en la única fuente de ingresos para solventar sus gastos y los de su familia. Teniendo en cuenta que en sede de revisión la Sala constató que el peticionario está recibiendo la pensión de vejez por incapacidad, la Corte decidió declarar la carencia actual de objeto por hecho superado. En lo que tiene que ver con la solicitud de pago de salarios y de prestaciones sociales y el recobro de la empleadora al fondo de pensiones, la Sala confirmó la decisión de instancia que declaró la improcedencia de la tutela, por no superar el análisis de subsidiariedad.",
+  "titulaciones": [
+    {
+      "tema": "PAGO DE INCAPACIDAD LABORAL SUPERIOR A 180 DIAS",
+      "subtema": "Está a cargo de la Administradora de Fondos de Pensiones a la cual se encuentra afiliado el trabajador"
+    },
+    {
+      "tema": "INCAPACIDAD LABORAL POR ENFERMEDAD COMUN",
+      "subtema": "Pago por EPS de los primeros 180 días"
+    },
+    {
+      "tema": "DERECHO AL PAGO DE INCAPACIDAD LABORAL",
+      "subtema": "Procedencia de tutela cuando afecta mínimo vital del trabajador y su familia"
+    },
+    {
+      "tema": "CARENCIA ACTUAL DE OBJETO POR HECHO SUPERADO",
+      "subtema": "Se reconoció pensión de invalidez"
+    },
+    {
+      "tema": "ENTIDAD PROMOTORA DE SALUD",
+      "subtema": "Obligación de pagar incapacidades hasta el día 180"
+    }
+  ]
+}

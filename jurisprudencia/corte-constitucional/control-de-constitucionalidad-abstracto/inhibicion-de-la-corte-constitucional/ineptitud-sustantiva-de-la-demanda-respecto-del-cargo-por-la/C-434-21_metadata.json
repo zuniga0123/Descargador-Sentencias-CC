@@ -1,0 +1,54 @@
+{
+  "radicado": "C-434-21",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-12-07",
+  "magistrado_ponente": "Alberto Rojas Ríos",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "INHIBICION DE LA CORTE CONSTITUCIONAL",
+  "subtema": "Ineptitud sustantiva de la demanda respecto del cargo por la supuesta violación de los principios de igualdad y debido proceso",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 1908 de 2018",
+    "Decreto Ley 2067 de 1991",
+    "Ley 599 de 2000",
+    "Acto Legislativo 2 de 2017",
+    "Decreto Ley 893 de 2017",
+    "Ley 1453 de 2011"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2021/C-434-21.htm",
+  "fecha_descarga": "2026-10-21T08:42:10.520315+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2021-12-07",
+  "fecha_publicacion": "2022-03-11",
+  "numero": "C-434/21",
+  "tipo_cc": "C",
+  "prov_id": "37282",
+  "tema_relatoria": "FABRICACIÓN, TRÁFICO, PORTE O TENENCIA DE ARMAS DE FUEGO ACCESORIAS, PARTES O MUNICIONES. DESCRIPCIÓN DEL TIPO PENAL",
+  "resumen": "Demanda de inconstitucionalidad contra el artículo 8º de la Ley 1908 de 2018, por medio de la cual se fortalecen la investigación y judicialización de organizaciones criminales, se adoptan medidas para su sujeción a la justicia y se dictan otras disposiciones. La disposición acusada adiciona un agravante punitivo al delito de importación, transporte, almacenamiento, distribución, venta, suministro, reparación, fabricación, tráfico o porte de armas de fuego, accesorios, partes o municiones, contemplado en el artículo 365 del Código Penal. La pena ordinaria atribuida a este delito oscila entre nueve y doce años de prisión, pero al aplicársele cualquiera de los ocho agravantes punitivos, incluido el que es objeto de la censura, aumenta de doce a veinticuatro años de prisión. Según el actor, se genera una transgresión de los artículos 13 y 29 de la Constitución, al generar contextos territoriales diferenciados de aplicación de pena. El incumplimiento de los presupuestos de certeza y pertinencia obligó a la Corte a declararse INHIBIDA para emitir un pronunciamiento de mérito, por la ineptitud sustantiva de la demanda.",
+  "titulaciones": [
+    {
+      "tema": "INHIBICION DE LA CORTE CONSTITUCIONAL",
+      "subtema": "Ineptitud sustantiva de la demanda respecto del cargo por la supuesta violación de los principios de igualdad y debido proceso"
+    },
+    {
+      "tema": "PROGRAMAS DE DESARROLLO CON ENFOQUE TERRITORIAL",
+      "subtema": "Cobertura geográfica"
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "Cumplimiento de requisitos"
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "Oportunidad procesal para definir la aptitud de la demanda"
+    },
+    {
+      "tema": "PROGRAMAS DE DESARROLLO CON ENFOQUE TERRITORIAL",
+      "subtema": "Finalidad"
+    }
+  ]
+}

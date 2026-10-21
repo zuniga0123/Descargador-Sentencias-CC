@@ -1,0 +1,62 @@
+{
+  "radicado": "T-036-21",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-02-23",
+  "magistrado_ponente": "Jorge Enrique Ibáñez Najar",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "PENSION DE INVALIDEZ E INDEMNIZACION SUSTITUTIVA",
+  "subtema": "Reconocimiento previo de indemnización sustitutiva no es justificación para negar pensión de invalidez si cumple los requisitos",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Ley 860 de 2003",
+    "Ley 1564 de 2012",
+    "Decreto 2591 de 1991",
+    "Ley 90 de 1946",
+    "Decreto 1833 de 2016",
+    "Decreto 4121 de 2011",
+    "Ley 1151 de 2007",
+    "Acto Legislativo 1 de 2005",
+    "Decreto 3041 de 1966",
+    "Decreto 758 de 1990",
+    "Ley 71 de 1988",
+    "Decreto 692 de 1994",
+    "Ley 33 de 1985"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2021/T-036-21.htm",
+  "fecha_descarga": "2026-10-21T08:37:51.040657+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2021-02-23",
+  "fecha_publicacion": "2021-06-24",
+  "numero": "T-036/21",
+  "tipo_cc": "T",
+  "prov_id": "36020",
+  "tema_relatoria": "CARENCIA ACTUAL DE OBJETO POR ACAECIMIENTO DE UNA SITUACION SOBREVINIENTE-FALLECIMIENTO DEL ACCIONANTE",
+  "resumen": "En tres acciones de tutela formuladas de manera independiente se atribuye a dos Fondos de Pensiones la vulneración de derechos fundamentales, como consecuencia de negar el reconocimiento y pago de la pensión de invalidez reclamada por los actores, a quienes les calificaron una pérdida de capacidad laboral superior al 50%. En dos expedientes el accionado fue Colpensiones quien negó la prestación, en un caso, alegando que al afiliado se le había cancelado una indemnización sustitutiva de la vejez y, en otro, argumentando el incumplimiento del requisito de las 50 semanas de cotización dentro de los tres años previos a la fecha de estructuración de la invalidez, así como el de las condiciones necesarias para hacer el reconocimiento en aplicación del principio de la condición más beneficiosa. La otra administradora accionada argumentó también el incumplimiento de las 50 semanas de cotización en los tres años previos a la estructuración e instó a la afiliada a recibir la devolución de aportes o continuar cotizando con el objeto de obtener una pensión de vejez. Teniendo en cuenta que en dos asuntos se logró probar que quienes fungían como accionantes fallecieron mientras se tramitan las acciones de tutela, se declaró la CARENCIA ACTUAL DE OBJETO por hecho sobreviniente y se centra el análisis en un solo expediente. Para el efecto se abordó temática relacionada con el marco normativo y jurisprudencial vigente sobre la presunta exclusión del sistema pensional por cuenta del reconocimiento de una indemnización sustitutiva de vejez. Como quiera que en favor del peticionario se reconoció una pensión de vejez anticipada por discapacidad, se declaró la carencia actual de objeto por HECHO SUPERADO.",
+  "titulaciones": [
+    {
+      "tema": "PENSION DE INVALIDEZ E INDEMNIZACION SUSTITUTIVA",
+      "subtema": "Reconocimiento previo de indemnización sustitutiva no es justificación para negar pensión de invalidez si cumple los requisitos"
+    },
+    {
+      "tema": "CARENCIA ACTUAL DE OBJETO POR SITUACIÓN SOBREVINIENTE",
+      "subtema": "Fallecimiento del accionante"
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA COLPENSIONES",
+      "subtema": "Caso en el que negó el reconocimiento de la pensión de invalidez, debido al pago previo de una indemnización sustitutiva de vejez"
+    },
+    {
+      "tema": "CARENCIA ACTUAL DE OBJETO POR HECHO SUPERADO",
+      "subtema": "Se reconoció pensión de vejez anticipada"
+    },
+    {
+      "tema": "INDEMNIZACION SUSTITUTIVA DE PENSION DE VEJEZ Y PENSION DE INVALIDEZ",
+      "subtema": "Son compatibles"
+    }
+  ]
+}

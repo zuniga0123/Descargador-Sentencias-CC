@@ -1,0 +1,64 @@
+{
+  "radicado": "C-192-21",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-06-17",
+  "magistrado_ponente": "Gloria Stella Ortiz Delgado",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "DEMANDA DE INCONSTITUCIONALIDAD POR VULNERACION DEL PRINCIPIO DE IGUALDAD",
+  "subtema": "Incumplimiento de carga argumentativa",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 712 de 2001",
+    "Decreto 2067 de 1991",
+    "Ley 270 de 1996",
+    "Ley 1996 de 2019"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2021/C-192-21.htm",
+  "fecha_descarga": "2026-10-21T08:47:16.108901+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2021-06-17",
+  "fecha_publicacion": "2021-08-11",
+  "numero": "C-192/21",
+  "tipo_cc": "C",
+  "prov_id": "36175",
+  "tema_relatoria": "PROCESO LABORAL. MEDIDA CAUTELAR EN PROCESO ORDINARIO LABORAL.",
+  "resumen": "Demanda de inconstitucionalidad en contra del artículo 37-A de la Ley 712 de 2001, por la cual se reforma el Código Procesal del Trabajo. Los demandantes consideran que la norma acusada desconoce las garantías del debido proceso y de la tutela judicial efectiva previstas en los artículos 29, 228 y 229 de la Constitución. La pretensión principal fue la declaratoria de inexequibilidad y, en consecuencia, la aplicación al proceso ordinario laboral de las medidas cautelares previstas en el Código General del Proceso para los procesos declarativos. En subsidio, se pidió la exequibilidad condicionada de la norma impugnada, en el sentido de precisar que, además de la medida cautelar que prevé, también se admitan en el proceso ordinario laboral las medidas cautelares establecidas en el CGP para los procesos declarativos. La Corte consideró que en el caso analizado se estaba ante el fenómeno de la cosa juzgada formal. Esto debido a que, si bien en esta oportunidad el cargo planteado gravitaba alrededor de la presunta vulneración del derecho de acceso a la justicia y tutela judicial efectiva, el problema jurídico era idéntico al estudiado por la Corte en la Sentencia C-043/21, esto es, definir si se incurría en un déficit de protección que afectaba a quienes acudían al proceso ordinario laboral, por el hecho de que en ese trámite no fueran aplicables las medidas cautelares contenidas en el Código General del Proceso. Como esa materia fue resuelta en la mencionada decisión y a través de fallo de exequibilidad condicionada, la Sala Plena de la Corporación decidió ESTARSE A LO RESUELTO en el precitado fallo. Con la anterior decisión se reitera que en el proceso ordinario laboral es viable ordenar las medidas cautelares innominadas previstas en el Código General del Proceso.",
+  "titulaciones": [
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD POR VULNERACION DEL PRINCIPIO DE IGUALDAD",
+      "subtema": "Incumplimiento de carga argumentativa"
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "Inhibición en relación con el cargo por vulneración del derecho a la igualdad"
+    },
+    {
+      "tema": "COSA JUZGADA FORMAL",
+      "subtema": "Configuración"
+    },
+    {
+      "tema": "CONTROL DE CONSTITUCIONALIDAD",
+      "subtema": "Aplicación del test leve de igualdad"
+    },
+    {
+      "tema": "COSA JUZGADA CONSTITUCIONAL",
+      "subtema": "Jurisprudencia constitucional"
+    },
+    {
+      "tema": "COSA JUZGADA CONSTITUCIONAL",
+      "subtema": "Efectos respecto de inexequibilidad"
+    },
+    {
+      "tema": "COSA JUZGADA FORMAL Y MATERIAL, COSA JUZGADA ABSOLUTA Y RELATIVA Y COSA JUZGADA APARENTE",
+      "subtema": "Conceptos"
+    },
+    {
+      "tema": "COSA JUZGADA CONSTITUCIONAL",
+      "subtema": "Contenido y alcance"
+    }
+  ]
+}

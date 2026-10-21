@@ -1,0 +1,58 @@
+{
+  "radicado": "T-301-21",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-09-08",
+  "magistrado_ponente": "Cristina Pardo Schlesinger",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCIÓN DE TUTELA",
+  "subtema": "Informalidad de la acción de tutela no exonera al actor de probar, aunque sea de manera sumaria, los hechos en los que basa sus pretensiones",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 1751 de 2015",
+    "Ley 100 de 1993",
+    "Ley 1295 de 1994",
+    "Decreto 19 de 2012",
+    "Decreto 1072 de 2015",
+    "Decreto 2463 de 2001",
+    "Decreto 2463 de 2011",
+    "Ley 712 de 2001",
+    "Decreto 1295 de 1994"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2021/T-301-21.htm",
+  "fecha_descarga": "2026-10-21T08:31:46.217816+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2021-09-08",
+  "fecha_publicacion": "2021-10-25",
+  "numero": "T-301/21",
+  "tipo_cc": "T",
+  "prov_id": "36568",
+  "tema_relatoria": "ACCION DE TUTELA PARA SOLICITAR CALIFICACION DE PERDIDA DE CAPACIDAD LABORAL-IMPROCEDENCIA POR INCUMPLIR REQUISITO DE SUBSIDIARIEDAD",
+  "resumen": "Se atribuye a Savia Salud EPS-S la vulneración de derechos fundamentales del actor, debido a la negativa de realizar la calificación de pérdida de capacidad laboral que a su turno le permita acceder a un eventual reconocimiento de su pensión de invalidez. Al analizar el caso concluyó la Corte que la solicitud de amparo es IMPROCEDENTE, por el incumplimiento del requisito de subsidiariedad. Ello, debido a que la acción de tutela no ha sido constituida como medio judicial para preconstituir las pruebas que deben aportarse a un eventual proceso ordinario laboral, como de manera clara se pudo establecer que ese es el fin último del peticionario.",
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Informalidad de la acción de tutela no exonera al actor de probar, aunque sea de manera sumaria, los hechos en los que basa sus pretensiones"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Improcedencia por cuanto no se encuentra probada la existencia de una relación laboral"
+    },
+    {
+      "tema": "PRINCIPIO ONUS PROBANDI INCUMBIT ACTORI",
+      "subtema": null
+    },
+    {
+      "tema": "PRINCIPIO DE SUBSIDIARIEDAD DE LA ACCION DE TUTELA Y SUS EXCEPCIONES EN MATERIA DE DICTAMENES DE PERDIDA DE LA CAPACIDAD LABORAL",
+      "subtema": "Procedencia cuando afecta derechos fundamentales"
+    },
+    {
+      "tema": "DICTAMEN QUE CALIFICA PERDIDA DE CAPACIDAD LABORAL",
+      "subtema": "Improcedencia de la acción de tutela"
+    }
+  ]
+}

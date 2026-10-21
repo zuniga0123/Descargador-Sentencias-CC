@@ -1,0 +1,45 @@
+{
+  "radicado": "T-184-21",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-06-15",
+  "magistrado_ponente": "Alejandro Linares Cantillo",
+  "area": "Derecho Penal y Sistema Acusatorio",
+  "tema": "MEDIDAS DE ASEGURAMIENTO PRIVATIVAS DE LA LIBERTAD",
+  "subtema": "Alcance del control judicial",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 1983 de 2017",
+    "Decreto 2591 de 1991",
+    "Ley 906 de 2004",
+    "Ley 1709 de 2014",
+    "Ley 1564 de 2012"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2021/T-184-21.htm",
+  "fecha_descarga": "2026-10-21T08:37:24.547099+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2021-06-15",
+  "fecha_publicacion": "2021-07-09",
+  "numero": "T-184/21",
+  "tipo_cc": "T",
+  "prov_id": "36047",
+  "tema_relatoria": "ACCION DE TUTELA PARA SOLICITAR SUSTITUCION DE MEDIDA DE ASEGURAMIENTO-IMPROCEDENCIA",
+  "resumen": "La accionante actúa en calidad de agente oficiosa de su progenitor, quien fue privado de la libertad en virtud de un proceso penal por los delitos de lavado de activos y concierto para delinquir agravado, los cuales a su vez tuvieron origen en presuntas actividades de narcotráfico transnacional. La peticionaria aduce que su padre se encuentra recluido en un lugar que presenta altos índices de hacinamiento y condiciones insalubres para los internos, especialmente para él que tiene más de 60 años de edad y algunas situaciones de salud que a su juicio, lo exponen a un grave riesgo en caso de contagio por el virus Covid 19. Por lo anterior se solicitó en la acción de tutela que se amparen los derechos a la vida y a la salud y, como consecuencia de ello, el juez constitucional ordene la sustitución de la medida de aseguramiento en el lugar de domicilio. La Corte declaró IMPROCEDENTE la acción de tutela deprecada, por cuanto evidenció que la actora no elevó la solicitud de sustitución de medida de aseguramiento, la cual constituye su pretensión, ante el juez ordinario penal, quien en virtud de lo previsto en la normatividad procesal aplicable es el competente para ello. Asimismo, porque tampoco evidenció la configuración de un perjuicio irremediable que permitiera discutir la idoneidad y eficacia del mecanismo ordinario.",
+  "titulaciones": [
+    {
+      "tema": "MEDIDAS DE ASEGURAMIENTO PRIVATIVAS DE LA LIBERTAD",
+      "subtema": "Alcance del control judicial"
+    },
+    {
+      "tema": "PRINCIPIO DE SUBSIDIARIEDAD DE LA ACCIÓN DE TUTELA",
+      "subtema": "Improcedente porque el accionante tiene a su alcance otros medios de defensa"
+    },
+    {
+      "tema": "CONFLICTO NEGATIVO DE COMPETENCIA APARENTE",
+      "subtema": "Las reglas de reparto no generan conflictos de competencia en materia de tutela"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "radicado": "T-511-20",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2020,
+  "fecha_creacion": "2020-12-11",
+  "magistrado_ponente": "Richard S",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "CONCEPTO DE PROVIDENCIA JUDICIAL",
+  "subtema": "Comprende también autos interlocutorios",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 173 de 1994",
+    "Ley 1437 de 2011",
+    "Ley 906 de 2004",
+    "Ley 600 de 2000",
+    "Ley 1563 de 2012"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2020/T-511-20.htm",
+  "fecha_descarga": "2026-10-21T08:55:30.430644+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2020-12-11",
+  "fecha_publicacion": "2021-01-25",
+  "numero": "T-511/20",
+  "tipo_cc": "T",
+  "prov_id": "35611",
+  "tema_relatoria": "ACCION DE TUTELA CONTRA AUTO QUE DECRETO MEDIDA CAUTELAR. IMPROCEDENCIA",
+  "resumen": "El accionante, un ciudadano italiano casado por el rito civil con una ciudadana colombiana, alega que la autoridad judicial accionada vulneró sus derechos fundamentales al decidir, en el trámite de una demanda de divorcio presentada en su contra, imponer como medida cautelar la prohibición de salir del país hasta tanto prestara garantía suficiente para respaldar el cumplimiento de la obligación de suministrar alimentos a su menor hija, hasta por dos años. La Sala constató que la acción de tutela no satisfizo el requisito de subsidiariedad porque el accionante: i) tuvo a su disposición diversos instrumentos jurídicos para controvertir dicha medida en el curso del proceso judicial; y, además, ii) interpuso la acción de tutela cuando aún estaba pendiente por resolver la solicitud de levantamiento de medidas cautelares. Igualmente, porque se descartó la configuración de un perjuicio irremediable que habilitara la procedencia de la acción de tutela como mecanismo transitorio. Se confirma la decisión de instancia que declaró IMPROCEDENTE la solicitud de amparo.",
+  "titulaciones": [
+    {
+      "tema": "CONCEPTO DE PROVIDENCIA JUDICIAL",
+      "subtema": "Comprende también autos interlocutorios"
+    },
+    {
+      "tema": "ACCION DE TUTELA PARA SOLICITAR LEVANTAMIENTO DE MEDIDA CAUTELAR",
+      "subtema": "Improcedencia por cuanto el proceso se encuentra en trámite y no se acreditó perjuicio irremediable"
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA AUTOS INTERLOCUTORIOS",
+      "subtema": "Procedencia excepcional"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Requisitos generales y especiales de procedibilidad"
+    }
+  ]
+}

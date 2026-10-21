@@ -1,0 +1,98 @@
+{
+  "radicado": "C-214-21",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-07-08",
+  "magistrado_ponente": "Jorge Enrique Ibáñez Najar",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "CONCILIACION EXTRAJUDICIAL EN ASUNTOS DE LO CONTENCIOSO ADMINISTRATIVO",
+  "subtema": "Intervención del Ministerio Público y aprobación de las actas por el juez competente",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 640 de 2001",
+    "Decreto 2067 de 1991",
+    "Ley 1437 de 2011",
+    "Ley 2080 de 2021",
+    "Ley 270 de 1996",
+    "Ley 1285 de 2009",
+    "Decreto 2279 de 1989",
+    "Decreto Ley 1 de 1983",
+    "Ley 23 de 1991",
+    "Ley 446 de 1998",
+    "Ley 1563 de 2012",
+    "Decreto Ley 2279 de 1989",
+    "Decreto 2651 de 1991",
+    "Decreto 1818 de 1998",
+    "Ley 1564 de 2012",
+    "Decreto 1716 de 2009",
+    "Ley 80 de 1993",
+    "Ley 1395 de 2010"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2021/C-214-21.htm",
+  "fecha_descarga": "2026-10-21T08:43:59.507761+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2021-07-08",
+  "fecha_publicacion": "2022-01-11",
+  "numero": "C-214/21",
+  "tipo_cc": "C",
+  "prov_id": "36852",
+  "tema_relatoria": "CONCILIACIÓN EN LO CONTENCIOSO ADMINISTRATIVO",
+  "resumen": "Demanda de inconstitucionalidad contra el artículo 24 (parcial) de la Ley 640 de 2001, por la cual se modifican normas relativas a la conciliación y se dictan otras disposiciones. El actor considera que la disposición acusada, bajo la interpretación efectuada por el Consejo de Estado, Sala de lo Contencioso Administrativo, Sección Tercera, en auto de unificación del 24 de noviembre de 2014, que posibilitó la aprobación parcial de los acuerdos conciliatorios por parte del juez vulnera los artículos 13, 14, 16, 121 y 230 de la Constitución. Específicamente adujo que viola los principios de autonomía de la voluntad y de legalidad. Frente al primer cargo consideró la Corte que la conciliación en materia de lo contencioso administrativo no se rige de manera absoluta o exclusiva por de la voluntad de las partes, ni está sometida a la sola expresión del acuerdo entre las mismas, dado que, la interpretación ajustada a la Constitución Política parte de la base de que se ha dispuesto la intervención esencial del juez de la jurisdicción de lo contencioso administrativo, por cuanto el acuerdo tienen efectos sobre el patrimonio público y versa sobre responsabilidades de las entidades estatales, de manera que, el acuerdo conciliatorio en esta materia no tiene efectos jurídicos, esto es, no nace a la vida jurídica sin la aprobación del juez competente. El juez contencioso administrativo sólo puede homologar el acuerdo luego de efectuar el control de legalidad y si el acuerdo fue aprobado parcialmente o improbado por parte del juez administrativo, las partes interesadas pueden impugnar la decisión, si así lo deciden, acudir oportunamente ante la jurisdicción habiendo agotado el requisito de procedibilidad; o, intentar una nueva conciliación, acogiendo un acuerdo antes de que opere la caducidad, en el que se respeten los límites legales advertidos por el juez en su providencia de improbación. Frente al segundo cargo concluyó la Corte que tampoco se desconoce, pues es la propia Constitución Política la que consagra el sometimiento del juez al imperio de la ley, y es la misma ley la que le otorga al juez el deber de realizar control de legalidad al acuerdo conciliatorio. De allí se deriva la facultad de aprobarlo o improbarlo según se cumplan los requisitos para ello. Lo que decidió la Sección Tercera del Consejo de Estado en la sentencia de unificación del 24 de noviembre de 2014, fue advertir la facultad de la aprobación parcial cuando el juez verifique el cumplimiento de los requisitos para tal fin. EXEQUIBLE.",
+  "titulaciones": [
+    {
+      "tema": "CONCILIACION EXTRAJUDICIAL EN ASUNTOS DE LO CONTENCIOSO ADMINISTRATIVO",
+      "subtema": "Intervención del Ministerio Público y aprobación de las actas por el juez competente"
+    },
+    {
+      "tema": "CONCILIACION CONTENCIOSO ADMINISTRATIVA",
+      "subtema": "Naturaleza y marco normativo"
+    },
+    {
+      "tema": "CONCILIACION EXTRAJUDICIAL OBLIGATORIA EN ASUNTOS DE LO CONTENCIOSO ADMINISTRATIVO",
+      "subtema": "Requisito de procedibilidad"
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "Competencia de la Corte para conocer cargos sobre interpretación y aplicación de normas"
+    },
+    {
+      "tema": "PRECEDENTE CONSTITUCIONAL",
+      "subtema": "Vigencia de principios de seguridad jurídica, confianza legítima e igualdad"
+    },
+    {
+      "tema": "ACUERDO CONCILIATORIO",
+      "subtema": "Hace tránsito a cosa juzgada y es obligatorio para las partes"
+    },
+    {
+      "tema": "ACCION PUBLICA DE INCONSTITUCIONALIDAD",
+      "subtema": "Cumplimiento de carga argumentativa"
+    },
+    {
+      "tema": "ACCION PUBLICA DE INCONSTITUCIONALIDAD",
+      "subtema": "Exigencias que condicionan su ejercicio"
+    },
+    {
+      "tema": "CONCILIACION EXTRAJUDICIAL OBLIGATORIA EN MATERIA CONTENCIOSO ADMINISTRATIVA",
+      "subtema": "Jurisprudencia del Consejo de Estado"
+    },
+    {
+      "tema": "CONCILIACION JUDICIAL EN MATERIA DE LO CONTENCIOSO ADMINISTRATIVO",
+      "subtema": "Trámite"
+    },
+    {
+      "tema": "CONCILIACION COMO MECANISMO DE SOLUCION DE CONFLICTOS",
+      "subtema": "Objeto"
+    },
+    {
+      "tema": "DERECHO VIVIENTE EN LA JURISPRUDENCIA",
+      "subtema": "Requisitos sine qua non para la conformación"
+    },
+    {
+      "tema": "PRINCIPIO DE AUTONOMIA DE LA VOLUNTAD PRIVADA",
+      "subtema": "Límites"
+    }
+  ]
+}
