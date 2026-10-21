@@ -1,0 +1,50 @@
+{
+  "radicado": "T-724-14",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2014,
+  "fecha_creacion": "2014-09-16",
+  "magistrado_ponente": "María Victoria Calle Correa",
+  "area": "Derecho a la Salud",
+  "tema": "PRINCIPIO DE CONTINUIDAD EN EL SERVICIO DE SALUD",
+  "subtema": "Orden a EPS en caso de no llegar a un acuerdo en cuanto al pago de las cotizaciones adeudadas, acompañar a la accionante en los trámites para ingresar al régimen subsidiado",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 100 de 1993"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2014/T-724-14.htm",
+  "fecha_descarga": "2026-10-21T13:49:19.354222+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2014-09-16",
+  "fecha_publicacion": null,
+  "numero": "T-724/14",
+  "tipo_cc": "T",
+  "prov_id": "6788",
+  "tema_relatoria": null,
+  "resumen": "A la actora se le ordenó un procedimiento clínico para tratar los cálculos renales que tiene y Coomeva E.P.S. autorizó este servicio y ella canceló el copago correspondiente. La entidad suspendió la práctica de la intervención, alegando la mora en el pago de los aportes al Sistema de Salud. Se reitera jurisprudencia constitucional en relación con la faceta de continuidad del derecho a la salud, a través de la cual se garantiza que no haya interrupciones injustificadas en los procedimientos de salud o en el suministro de medicamentos, como tampoco en la práctica de un examen o intervención, con base en razones ajenas al conocimiento médico. Se concluye que, los usuarios del Sistema de Salud tienen derecho a acceder a los servicios médicos indispensables para tratar una enfermedad que les causa dolor y deteriora la salud, de forma oportuna y continúa, incluso, si existe mora en el pago de las cotizaciones, pues la protección efectiva del derecho fundamental a la salud prevalece siempre, frente a cualquier contingencia de tipo administrativo. En consecuencia, precisa, que las entidades de salud deben, primero, suministrar los medicamentos y practicar los procedimientos idóneos para el restablecimiento de la salud de sus usuarios y, luego, sí, adoptar medidas legítimas para exigir el cumplimiento de las obligaciones correlativas del interesado. Se precisa, que en cualquier caso la suspensión del servicio de salud es una medida inconstitucional para exigir el pago de una cotización que está en mora. Se AMPARA el derecho fundamental a la salud, en su faceta de continuidad.",
+  "titulaciones": [
+    {
+      "tema": "PRINCIPIO DE CONTINUIDAD EN EL SERVICIO DE SALUD",
+      "subtema": "Orden a EPS en caso de no llegar a un acuerdo en cuanto al pago de las cotizaciones adeudadas, acompañar a la accionante en los trámites para ingresar al régimen subsidiado"
+    },
+    {
+      "tema": "PRINCIPIO DE CONTINUIDAD EN EL SERVICIO DE SALUD",
+      "subtema": "Orden a EPS practicar intervención médica y garantizar los servicios que los médicos determinen como idóneos para la recuperación postoperatoria"
+    },
+    {
+      "tema": "ALLANAMIENTO A LA MORA",
+      "subtema": "Se configura cuando la EPS o la ARP no utilizan los instrumentos legales para obligar al empleador a trasladar los dineros correspondientes al pago de aportes"
+    },
+    {
+      "tema": "PRINCIPIO DE CONTINUIDAD EN EL SERVICIO DE SALUD",
+      "subtema": "Mora en el pago de aportes por empleador"
+    },
+    {
+      "tema": "TRABAJADOR INDEPENDIENTE",
+      "subtema": "Mora en aportes en salud"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "radicado": "T-005-14",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2014,
+  "fecha_creacion": "2014-01-13",
+  "magistrado_ponente": "Mauricio González Cuervo",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCION DE TUTELA PARA REINTEGRO AL CARGO",
+  "subtema": "Improcedencia por existir otro medio de defensa judicial y no existir perjuicio irremediable",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 361 de 1997",
+    "Decreto 1340 de 1995",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2014/T-005-14.htm",
+  "fecha_descarga": "2026-10-21T13:36:50.293795+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2014-01-13",
+  "fecha_publicacion": null,
+  "numero": "T-005/14",
+  "tipo_cc": "T",
+  "prov_id": "5761",
+  "tema_relatoria": null,
+  "resumen": "En este caso se aduce vulneración de derechos fundamentales de la actora, en virtud de la terminación unilateral de su contrato laboral sin justa causa, a pesar de encontrarse incapacitada tras sufrir un accidente de trabajo. Se pretende con la acción constitucional que se ordene el reintegro, el pago de los salarios dejados de percibir desde el despido, así como el de la sanción consagrada en la Ley 361 de 1997. Luego de determinar que lo que intenta la accionante es que se declare la existencia de un contrato laboral con el fin de que le sean aplicables las normas que regulan esta forma contractual y beneficiarse del fuero laboral de las personas con discapacidades, la Sala decide declarar IMPROCEDENTE la acción de tutela impetrada, por no cumplir con el requisito de subsidiariedad, toda vez que cuenta con otro medio judicial de defensa idóneo y eficaz y no se acreditó la inminencia de un perjuicio irremediable.",
+  "titulaciones": [
+    {
+      "tema": "ACCION DE TUTELA PARA REINTEGRO AL CARGO",
+      "subtema": "Improcedencia por existir otro medio de defensa judicial y no existir perjuicio irremediable"
+    },
+    {
+      "tema": "ACCION DE TUTELA PARA RESOLVER CONTROVERSIAS DERIVADAS DEL CONTRATO DE TRABAJO",
+      "subtema": "Procedencia excepcional como mecanismo transitorio para evitar perjuicio irremediable"
+    },
+    {
+      "tema": "IDONEIDAD Y EFICACIA DEL MEDIO ORDINARIO DE DEFENSA JUDICIAL",
+      "subtema": "Proceso ordinario laboral"
+    },
+    {
+      "tema": "PRINCIPIO DE SUBSIDIARIEDAD E INMEDIATEZ EN LA ACCION DE TUTELA",
+      "subtema": "Requisitos de procedibilidad"
+    }
+  ]
+}

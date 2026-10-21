@@ -1,0 +1,56 @@
+{
+  "radicado": "T-408-14",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2014,
+  "fecha_creacion": "2014-06-26",
+  "magistrado_ponente": "Jorge Iván Palacio Palacio",
+  "area": "Derecho a la Salud",
+  "tema": "ACCION DE TUTELA CONTRA PARTICULAR ENCARGADO DE PRESTACION DE SERVICIO PUBLICO DE SALUD",
+  "subtema": "Procedencia para obtener información sobre historia clínica",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 23 de 1981",
+    "Ley 1437 de 2011",
+    "Decreto 2591 de 1991",
+    "Decreto 3380 de 1981"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2014/T-408-14.htm",
+  "fecha_descarga": "2026-10-21T13:45:15.845616+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2014-06-26",
+  "fecha_publicacion": null,
+  "numero": "T-408/14",
+  "tipo_cc": "T",
+  "prov_id": "6359",
+  "tema_relatoria": null,
+  "resumen": "El hecho común en los asuntos objeto de revisión tiene que ver con la negativa de las accionadas de suministrar a los actores copia de las historias clínicas de los familiares cercanos fallecidos o atendidos en dichas entidades, bajo el argumento de ser documentos privados sometidos a reserva que solo pueden ser conocidos por terceros previa autorización del paciente o, en los casos previstos por la ley. Se reitera jurisprudencia relacionada con la procedencia de la acción de tutela en relación con la entrega de la historia clínica y su acceso por parte de los familiares del paciente. En un caso se concede el amparo de los derechos a la información y al acceso a la justicia y se le indica a la peticionaria que la copia suministrada es para su uso exclusivo y reservado. En los otros dos asuntos se niega, en un caso por improcedente por falta de legitimación del solicitante y, en el otro, por no existir prueba que acreditara que el delicado estado de salud de la paciente implicaba incapacidad física o mental que le impidiera solicitar directamente su historia clínica o impartir la correspondiente autorización para que alguien la solicitara a su nombre.",
+  "titulaciones": [
+    {
+      "tema": "ACCION DE TUTELA CONTRA PARTICULAR ENCARGADO DE PRESTACION DE SERVICIO PUBLICO DE SALUD",
+      "subtema": "Procedencia para obtener información sobre historia clínica"
+    },
+    {
+      "tema": "RESERVA DE HISTORIA CLINICA DE PERSONA FALLECIDA",
+      "subtema": "Requisitos mínimos para permitir el acceso por parte de los familiares"
+    },
+    {
+      "tema": "HISTORIA CLINICA",
+      "subtema": "Concepto"
+    },
+    {
+      "tema": "HISTORIA CLINICA",
+      "subtema": "Requisitos para acceder al documento por parte del núcleo familiar del fallecido y del que no se encuentra en condiciones de autorizar a sus familiares por su estado de salud mental o físico"
+    },
+    {
+      "tema": "HISTORIA CLINICA",
+      "subtema": "Vulneración de derechos fundamentales de información, libre acceso a la administración de justicia y a la verdad al negar su suministro a esposa de fallecido"
+    },
+    {
+      "tema": "RESERVA DE HISTORIA CLINICA",
+      "subtema": "No le es oponible a los familiares más cercanos de una persona fallecida"
+    }
+  ]
+}

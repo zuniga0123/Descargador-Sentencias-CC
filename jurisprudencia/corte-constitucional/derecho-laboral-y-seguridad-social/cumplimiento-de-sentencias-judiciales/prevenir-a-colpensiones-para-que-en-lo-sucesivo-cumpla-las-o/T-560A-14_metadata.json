@@ -1,0 +1,45 @@
+{
+  "radicado": "T-560A-14",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2014,
+  "fecha_creacion": "2014-07-29",
+  "magistrado_ponente": "Gloria Stella Ortiz Delgado",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "CUMPLIMIENTO DE SENTENCIAS JUDICIALES",
+  "subtema": "Prevenir a Colpensiones para que en lo sucesivo cumpla las órdenes judiciales que reconozcan derechos pensionales",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2014/T-560A-14.htm",
+  "fecha_descarga": "2026-10-21T13:56:44.622587+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2014-07-29",
+  "fecha_publicacion": null,
+  "numero": "T-560A/14",
+  "tipo_cc": "T",
+  "prov_id": "6552",
+  "tema_relatoria": null,
+  "resumen": "Luego de que al actor le fue reconocida mediante sentencia judicial la pensión de vejez, solicitó a COLPENSIONES el pago de dicha prestación. Al no obtener respuesta alguna frente a su requerimiento interpuso la acción de tutela, pero aun así, la entidad no se pronunció sobre el particular, continuando renuente al pago. Se analizan las reglas para la procedencia excepcional de la acción de tutela para el cumplimiento de sentencias que reconocen derechos pensionales y se TUTELAN los derechos fundamentales de petición, dignidad humana, prevalencia del interés superior de las personas de la tercera edad, la seguridad social y el mínimo vital. Se ordena a COLPENSIONES dar cumplimiento al mencionado fallo judicial.",
+  "titulaciones": [
+    {
+      "tema": "CUMPLIMIENTO DE SENTENCIAS JUDICIALES",
+      "subtema": "Prevenir a Colpensiones para que en lo sucesivo cumpla las órdenes judiciales que reconozcan derechos pensionales"
+    },
+    {
+      "tema": "CUMPLIMIENTO DE SENTENCIAS JUDICIALES",
+      "subtema": "Procedencia excepcional de la acción de tutela para cumplimiento de providencia que reconoce derechos pensionales"
+    },
+    {
+      "tema": "ACCION DE TUTELA PARA CUMPLIMIENTO DE SENTENCIAS",
+      "subtema": "Obligaciones de dar y hacer"
+    },
+    {
+      "tema": "CUMPLIMIENTO DE SENTENCIAS JUDICIALES",
+      "subtema": "Orden a Colpensiones dar cumplimiento a la sentencia judicial mediante la cual le fue reconocida la pensión de vejez al accionante, y en esa medida, proceder a incluirlo en la nómina de pensionados y cancelar la total"
+    }
+  ]
+}

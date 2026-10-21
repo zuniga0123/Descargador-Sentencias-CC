@@ -1,0 +1,51 @@
+{
+  "radicado": "T-808-14",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2014,
+  "fecha_creacion": "2014-11-04",
+  "magistrado_ponente": "Luis Ernesto Vargas Silva",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "DERECHO A LA INDEMNIZACIÓN SUSTITUTIVA DE LA PENSIÓN DE VEJEZ",
+  "subtema": "Se deben tener en cuenta las semanas cotizadas con anterioridad a la entrada en vigencia de la ley 100 de 1993",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Decreto 2591 de 1991",
+    "Decreto 1730 de 2001",
+    "Decreto 4640 de 2005",
+    "Decreto 1848 de 1969",
+    "Decreto 3135 de 1968",
+    "Decreto 2921 de 1948"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2014/T-808-14.htm",
+  "fecha_descarga": "2026-10-21T13:53:49.405025+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2014-11-04",
+  "fecha_publicacion": null,
+  "numero": "T-808/14",
+  "tipo_cc": "T",
+  "prov_id": "6917",
+  "tema_relatoria": null,
+  "resumen": "La entidad accionada negó el reconocimiento y pago de la indemnización sustitutiva reclamada por el actor, argumentando que dicha prestación no cobija los casos de personas con aportes efectuados con anterioridad a la entrada en vigencia de la Ley 100 de 1993. Se hace alusión a la jurisprudencia en materia de reconocimiento de la indemnización sustitutiva de la pensión de vejez mediante la acción de tutela y se analiza el caso en concreto. Se CONCEDE la protección de los derechos fundamentales a la seguridad social y al mínimo vital y, se ordena el reconocimiento y pago de la prestación reclamada.",
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA INDEMNIZACIÓN SUSTITUTIVA DE LA PENSIÓN DE VEJEZ",
+      "subtema": "Se deben tener en cuenta las semanas cotizadas con anterioridad a la entrada en vigencia de la ley 100 de 1993"
+    },
+    {
+      "tema": "ACCION DE TUTELA PARA EL RECONOCIMIENTO DE INDEMNIZACION SUSTITUTIVA DE PENSION DE VEJEZ",
+      "subtema": "Procedencia cuando afecta mínimo vital y demás derechos de personas de la tercera edad"
+    },
+    {
+      "tema": "DERECHO A LA INDEMNIZACIÓN SUSTITUTIVA DE LA PENSIÓN DE VEJEZ",
+      "subtema": "Orden a entidad accionada de reconocer y pagar indemnización sustitutiva de la pensión de vejez"
+    },
+    {
+      "tema": "INDEMNIZACIÓN SUSTITUTIVA DE PENSIÓN DE VEJEZ",
+      "subtema": "Caso en que CAJANAL niega la prestación porque la última cotización se realizó antes de entrar en vigencia la Ley 100 de 1993"
+    }
+  ]
+}

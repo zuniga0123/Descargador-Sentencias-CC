@@ -1,0 +1,54 @@
+{
+  "radicado": "T-712-14",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2014,
+  "fecha_creacion": "2014-09-15",
+  "magistrado_ponente": "Luis Guillermo Guerrero Pérez",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCION DE TUTELA PARA SOLICITAR PROTECCION DEL DERECHO AL AGUA",
+  "subtema": "Procedencia excepcional",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 302 de 2000",
+    "Decreto 2591 de 1991",
+    "Ley 142 de 1994",
+    "Decreto 3050 de 2013",
+    "Ley 388 de 1997",
+    "Ley 99 de 1993"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2014/T-712-14.htm",
+  "fecha_descarga": "2026-10-21T13:47:53.406984+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2014-09-15",
+  "fecha_publicacion": null,
+  "numero": "T-712/14",
+  "tipo_cc": "T",
+  "prov_id": "6770",
+  "tema_relatoria": null,
+  "resumen": "Se atribuye a las Empresas Públicas de Medellín E.S.P. la vulneración de derechos fundamentales de la actora y de sus hijos menores de edad, por la negativa de instalar un contador de agua en su inmueble, a pesar de que sus vecinos si cuentan con distribución de agua potable. La empresa adujo que la vivienda de la peticionaria no cumplía con los requerimientos técnicos de desagüe que exige la normatividad vigente, toda vez que realiza el vertimiento de sus aguas negras a una quebrada natural y; que hasta que el apartamento no se encontrara conectado al alcantarillado del sector, la entidad no estaba facultada para prestar el servicio de agua potable. Como solución alterna la E.P.M le propuso a la peticionaria tramitar una licencia ambiental que le posibilitara la conexión del servicio público. Se desarrolla la siguiente temática: 1º. La procedencia de la acción de tutela para solicitar la conexión del servicio de acueducto. 2º. El derecho fundamental al agua potable y la prestación del precitado servicio y, 3º. Las condiciones normativas para conectar el servicio de acueducto. Análisis de la condición señalada en el numeral 4º del artículo 7º del Decreto 302 de 2000. Se CONCEDE el amparo de los derechos fundamentales al agua y al mínimo vital. Se imparten una serie de órdenes conducentes a hacer efectivo el goce de los derechos tutelados.",
+  "titulaciones": [
+    {
+      "tema": "ACCION DE TUTELA PARA SOLICITAR PROTECCION DEL DERECHO AL AGUA",
+      "subtema": "Procedencia excepcional"
+    },
+    {
+      "tema": "DERECHO AL SERVICIO DE ACUEDUCTO",
+      "subtema": null
+    },
+    {
+      "tema": "DERECHO FUNDAMENTAL AL AGUA POTABLE",
+      "subtema": "Orden a Empresas Públicas conectar servicio de acueducto y garantizar el suministro diario por lo menos de 50 litros de agua potable por persona"
+    },
+    {
+      "tema": "DERECHO AL CONSUMO DE AGUA POTABLE",
+      "subtema": "Fundamental autónomo"
+    },
+    {
+      "tema": "DERECHO AL AGUA POTABLE",
+      "subtema": "Vulneración por no suministro del servicio de agua a sujeto de especial protección"
+    }
+  ]
+}

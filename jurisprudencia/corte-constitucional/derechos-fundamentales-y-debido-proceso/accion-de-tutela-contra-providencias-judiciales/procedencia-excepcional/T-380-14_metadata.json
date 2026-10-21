@@ -1,0 +1,54 @@
+{
+  "radicado": "T-380-14",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2014,
+  "fecha_creacion": "2014-06-13",
+  "magistrado_ponente": "Jorge Ignacio Pretelt Chaljub",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+  "subtema": "Procedencia excepcional",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 1437 de 2011"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2014/T-380-14.htm",
+  "fecha_descarga": "2026-10-21T13:46:27.030256+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2014-06-13",
+  "fecha_publicacion": null,
+  "numero": "T-380/14",
+  "tipo_cc": "T",
+  "prov_id": "6318",
+  "tema_relatoria": null,
+  "resumen": "Pretenden los actores que se amparen sus derechos fundamentales al debido proceso y al acceso a la administración de justicia y en consecuencia se declare que el Juzgado Veintidós Administrativo de Oralidad del Circuito de Bogotá carecía de competencia para decidir sobre la remisión a la jurisdicción civil del expediente contentivo de la acción de grupo que impetraron contra Codensa S.A E.S.P., porque la autoridad competente para tramitarla es la contenciosa administrativa. Alegan que las autoridades accionadas desconocieron el artículo 155 de la Ley 1437 de 2011 que asigna la competencia a los jueces administrativos en primera instancia, cuando los asuntos se refieren a la protección de derechos e intereses colectivos o reparación de daños causados a un grupo, por las autoridades del nivel departamental, distrital o municipal, o las personas privadas que ejercen funciones públicas dentro de esos mismos ámbitos. Se analiza temática relacionada con la procedencia excepcional de la acción de tutela contra providencias judiciales, haciendo alusión a la procedencia contra autos interlocutorios y se precisan los requisitos generales de procedencia y especiales de procedibilidad. Por no estar acreditado el cumplimiento del requisito de subsidiariedad y estar ante la imposibilidad de continuar con el examen de procedencia de la acción de tutela contra providencias judiciales, la Sala de Revisión decide confirmar las decisiones de instancia que declararon IMPROCEDENTE el amparo solicitado.",
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Procedencia excepcional"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Requisitos generales y especiales de procedibilidad"
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA AUTO INTERLOCUTORIO",
+      "subtema": "Improcedencia por cuanto juez de tutela no puede inmiscuirse dentro de la órbita de competencias de la Sala Jurisdiccional Disciplinaria del Consejo Superior de la Judicatura"
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA AUTO INTERLOCUTORIO",
+      "subtema": "Procedencia excepcional por vulneración de derechos fundamentales"
+    },
+    {
+      "tema": "CONCEPTO DE PROVIDENCIA JUDICIAL",
+      "subtema": "Comprende también autos interlocutorios"
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA AUTO INTERLOCUTORIO",
+      "subtema": "Improcedencia por cuanto no existe pronunciamiento de fondo y están en suspenso los recursos ordinarios de defensa, incumpliendo requisito de subsidiariedad"
+    }
+  ]
+}

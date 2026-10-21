@@ -1,0 +1,63 @@
+{
+  "radicado": "T-122-14",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2014,
+  "fecha_creacion": "2014-03-03",
+  "magistrado_ponente": "Nilson Pinilla Pinilla",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "PENSION POR APORTES Y PENSION DE VEJEZ",
+  "subtema": "Incompatibilidad según Decreto 2709/94",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Ley 71 de 1988",
+    "Decreto 2591 de 1991",
+    "Acto Legislativo 1 de 2005",
+    "Decreto 1359 de 1993",
+    "Ley 48 de 1962",
+    "Decreto 1723 de 1964",
+    "Ley 33 de 1985",
+    "Ley 19 de 1987",
+    "Decreto 1293 de 1994",
+    "Decreto 2011 de 2012"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2014/T-122-14.htm",
+  "fecha_descarga": "2026-10-21T13:39:03.805815+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2014-03-03",
+  "fecha_publicacion": null,
+  "numero": "T-122/14",
+  "tipo_cc": "T",
+  "prov_id": "5925",
+  "tema_relatoria": null,
+  "resumen": "Se alega la vulneración de derechos fundamentales por la negativa del reconocimiento de la pensión especial de congresista a la que considera el actor tener derecho. La Sala aborda el estudio de temática relacionada con el régimen especial de pensiones de Congresistas y la pensión por aportes de la Ley 71 de 1988. Luego del análisis particular del caso, la Corte precisa que el actor se excluye de la aplicación del régimen especial de congresistas y que su situación particular se subsume dentro de los supuestos de hechos previstos en la Ley 71 de 1988, en cuanto a la pensión por aportes. Se TUTELAN los derechos fundamentales a la seguridad social, a la vida digna y al mínimo vital y se ordena a COLPENSIONES reconocer y pagar la pensión por aportes que le corresponde al accionante, de acuerdo con las normas legales que regulan tal prestación.",
+  "titulaciones": [
+    {
+      "tema": "PENSION POR APORTES Y PENSION DE VEJEZ",
+      "subtema": "Incompatibilidad según Decreto 2709/94"
+    },
+    {
+      "tema": "REGIMEN ESPECIAL DE PENSIONES DE LOS CONGRESISTAS",
+      "subtema": "Caso en que se negó el reconocimiento de la pensión especial de Congresista"
+    },
+    {
+      "tema": "REGIMEN DE PENSIONES DE CONGRESISTAS",
+      "subtema": "Regulación"
+    },
+    {
+      "tema": "REGIMEN DE TRANSICION ESTABLECIDO PARA CONGRESISTAS",
+      "subtema": "Orden a Colpensiones reconocer y pagar la pensión por aportes"
+    },
+    {
+      "tema": "REGIMEN ESPECIAL DE PENSIONES DE LOS CONGRESISTAS",
+      "subtema": "Desarrollo normativo"
+    },
+    {
+      "tema": "REGIMEN DE PENSIONES DE CONGRESISTAS",
+      "subtema": "Requisitos"
+    }
+  ]
+}

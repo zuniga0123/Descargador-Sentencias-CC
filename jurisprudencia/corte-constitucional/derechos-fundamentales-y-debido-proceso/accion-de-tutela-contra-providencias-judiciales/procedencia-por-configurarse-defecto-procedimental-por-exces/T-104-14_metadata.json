@@ -1,0 +1,55 @@
+{
+  "radicado": "T-104-14",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2014,
+  "fecha_creacion": "2014-02-26",
+  "magistrado_ponente": "Jorge Iván Palacio Palacio",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+  "subtema": "Procedencia por configurarse defecto procedimental por exceso ritual manifiesto y defecto fáctico por omisión en la valoración de la prueba de letra de cambio falsa que sirvió de base en proceso ejecutivo",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto Ley 2591 de 1991",
+    "Ley 906 de 2004",
+    "Ley 600 de 2000"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2014/T-104-14.htm",
+  "fecha_descarga": "2026-10-21T13:38:33.965929+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2014-02-26",
+  "fecha_publicacion": null,
+  "numero": "T-104/14",
+  "tipo_cc": "T",
+  "prov_id": "5905",
+  "tema_relatoria": null,
+  "resumen": "Alega el accionante que la autoridad judicial demandada vulneró sus derechos fundamentales al debido proceso, al acceso a la administración de justicia, a la intimidad y al buen nombre, al resolver seguir adelante con la ejecución de un proceso ejecutivo singular seguido en su contra, pese a que logró demostrar a través de dictámenes grafológicos expedidos por autoridades competentes, que el título valor que sirvió de origen al proceso, era falso. En esa medida, consideró que debió dar aplicación a la prejudicialidad invocada y, en consecuencia, suspender la orden de avalúo y remate de los bienes que le fueron embargados y secuestrados. Se analiza la siguiente temática: 1º. Procedencia de la acción de tutela contra providencias judiciales. 2º. El defecto fáctico. 3º. La materialización del exceso ritual manifiesto dentro de las actuaciones judiciales y 4º. La concurrencia de defecto fáctico con defecto procedimental al omitir la práctica de una prueba que se insinuaba necesaria. Se CONCEDE de manera transitoria el amparo de los derechos al debido proceso y al acceso real y efectivo a la administración de justicia y se ordena al juzgado accionado suspender el remate de los bienes embargados y secuestrados del actor, hasta tanto la jurisdicción penal resuelva de fondo la denuncia penal interpuesta en contra de los ejecutantes por fraude procesal y falsedad en documento público.",
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Procedencia por configurarse defecto procedimental por exceso ritual manifiesto y defecto fáctico por omisión en la valoración de la prueba de letra de cambio falsa que sirvió de base en proceso ejecutivo"
+    },
+    {
+      "tema": "DEFECTO FACTICO POR VALORACION DEFECTUOSA DEL MATERIAL PROBATORIO",
+      "subtema": null
+    },
+    {
+      "tema": "DEFECTO PROCEDIMENTAL ABSOLUTO Y DEFECTO PROCEDIMENTAL POR EXCESO RITUAL MANIFIESTO",
+      "subtema": null
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA PROVIDENCIAS JUDICIALES PROFERIDAS EN EL CURSO DE PROCESO EJECUTIVO",
+      "subtema": "Procedencia por vulneración del debido proceso, cuando se ordena continuar adelante la ejecución con base en un título ejecutivo falso"
+    },
+    {
+      "tema": "ERROR EN JUICIO VALORATIVO DE LA PRUEBA",
+      "subtema": "Debe ser ostensible, flagrante, manifiesto y tener incidencia directa en la decisión"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Requisitos generales y especiales de procedibilidad"
+    }
+  ]
+}

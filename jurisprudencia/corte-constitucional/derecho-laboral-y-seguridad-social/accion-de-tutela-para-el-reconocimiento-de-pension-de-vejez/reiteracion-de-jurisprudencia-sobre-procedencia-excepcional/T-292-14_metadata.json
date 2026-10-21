@@ -1,0 +1,58 @@
+{
+  "radicado": "T-292-14",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2014,
+  "fecha_creacion": "2014-05-21",
+  "magistrado_ponente": "Nilson Pinilla Pinilla",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "ACCIÓN DE TUTELA PARA EL RECONOCIMIENTO DE PENSIÓN DE VEJEZ",
+  "subtema": "Reiteración de jurisprudencia sobre procedencia excepcional",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 100 de 1993",
+    "Decreto 758 de 1990",
+    "Ley 71 de 1988",
+    "Decreto 656 de 1994",
+    "Ley 700 de 2001"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2014/T-292-14.htm",
+  "fecha_descarga": "2026-10-21T13:42:49.975476+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2014-05-21",
+  "fecha_publicacion": null,
+  "numero": "T-292/14",
+  "tipo_cc": "T",
+  "prov_id": "6191",
+  "tema_relatoria": null,
+  "resumen": "Mínimo vital, petición, salud, vida, seguridad social. Se acumulan expedientes por unidad de materia. Se acusa a COLPENSIONES de vulnerar derechos fundamentales, por el hecho de negarse a responder las solicitudes de reconocimiento de las pensiones de vejez presentadas por los accionantes. Se analizan los siguientes temas: 1º. El derecho a la seguridad social en materia pensional y la procedencia excepcional de la acción de tutela para el reconocimiento y pago de la pensión de vejez. 2º. Requisitos para acceder al régimen de transición de la Ley 100 de 1993 y para obtener la pensión de vejez acorde con los lineamientos establecidos en el Decreto 758 de 1990 y la Ley 71 de 1988. 3º. El derecho de petición en materia pensional y, 4º. La inoponibilidad de trámites administrativos respecto de quien cumplió los requisitos para obtener una prestación. En un caso se declara la carencia actual de objeto por daño consumado y, en el otro, se concede el amparo de los derechos fundamentales invocados.",
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA PARA EL RECONOCIMIENTO DE PENSIÓN DE VEJEZ",
+      "subtema": "Reiteración de jurisprudencia sobre procedencia excepcional"
+    },
+    {
+      "tema": "REQUISITOS DEL REGIMEN DE TRANSICION DE LA LEY 100/93 Y REGIMEN DEL DECRETO 758/90",
+      "subtema": null
+    },
+    {
+      "tema": "DERECHO A LA SEGURIDAD SOCIAL EN MATERIA PENSIONAL",
+      "subtema": "Fundamental"
+    },
+    {
+      "tema": "DERECHO A LA PENSION Y MINIMO VITAL",
+      "subtema": "Orden a Colpensiones reconocer pensión de vejez al accionante, quien cumple con requisitos"
+    },
+    {
+      "tema": "DERECHO DE PETICIÓN EN MATERIA PENSIONAL",
+      "subtema": "Término de cuatro y seis meses para resolver reconocimiento y pago"
+    },
+    {
+      "tema": "PENSION DE VEJEZ",
+      "subtema": "Inoponibilidad de trámites administrativos respecto de quien cumplió requisitos para obtener la pensión"
+    }
+  ]
+}

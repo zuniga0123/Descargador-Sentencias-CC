@@ -1,0 +1,52 @@
+{
+  "radicado": "T-017-14",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2014,
+  "fecha_creacion": "2014-01-23",
+  "magistrado_ponente": "Alberto Rojas Ríos",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "PODER DISCRECIONAL DE LA ADMINISTRACION",
+  "subtema": "Libertad limitada sobre traslados",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 65 de 1993",
+    "Ley 1709 de 2014",
+    "Ley 906 de 2004"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2014/T-017-14.htm",
+  "fecha_descarga": "2026-10-21T13:36:09.120675+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2014-01-23",
+  "fecha_publicacion": null,
+  "numero": "T-017/14",
+  "tipo_cc": "T",
+  "prov_id": "5779",
+  "tema_relatoria": null,
+  "resumen": "A través de la figura de la agencia oficiosa se presenta la acción de tutela a favor de una persona que se encuentra recluida en un establecimiento penitenciario en la ciudad de Cartagena de Indias. Se solicita el amparo de varios derechos fundamentales y como consecuencia de ello, se pretende que se ordene el traslado del recluso a la cárcel de Yopal (Casanare), donde reside su hija menor de edad y su compañera permanente. Así mismo, se solicita que, mientras surte efecto el traslado se le otorgue la debida seguridad, toda vez que recibe amenazas por parte de miembros de grupos armados ilegales que se encuentran recluidos en el mismo penal. Se analiza temática relacionada con la legitimación por activa en la acción de tutela y la agencia oficiosa. Igualmente, sobre la facultad de traslados y el alcance de la protección al núcleo familiar de las personas privadas de la libertad. La Sala de Revisión NIEGA el amparo constitucional solicitado por compartir plenamente las razones que tuvo el INPEC para negar la solicitud de traslado, habida cuenta que el agenciado se encuentra a órdenes de un juzgado ubicado en la misma ciudad de reclusión.",
+  "titulaciones": [
+    {
+      "tema": "PODER DISCRECIONAL DE LA ADMINISTRACION",
+      "subtema": "Libertad limitada sobre traslados"
+    },
+    {
+      "tema": "LEGITIMACION EN LA CAUSA POR ACTIVA Y AGENCIA OFICIOSA EN LA ACCION DE TUTELA",
+      "subtema": "Requisitos"
+    },
+    {
+      "tema": "DERECHO A LA UNIDAD FAMILIAR DE PERSONAS PRIVADAS DE LA LIBERTAD",
+      "subtema": "Alcance de la garantía"
+    },
+    {
+      "tema": "TRASLADO DE INTERNO",
+      "subtema": "Improcedencia por afectar garantía de comparecencia en el juicio penal"
+    },
+    {
+      "tema": "AGENCIA OFICIOSA EN TUTELA",
+      "subtema": "Se pueden agenciar derechos ajenos cuando el titular de los mismos no esté en condiciones de promover su propia defensa"
+    }
+  ]
+}

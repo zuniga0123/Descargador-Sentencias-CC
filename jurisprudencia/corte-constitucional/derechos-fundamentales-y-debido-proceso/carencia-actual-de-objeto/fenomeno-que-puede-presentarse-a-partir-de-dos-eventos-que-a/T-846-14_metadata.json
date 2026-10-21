@@ -1,0 +1,52 @@
+{
+  "radicado": "T-846-14",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2014,
+  "fecha_creacion": "2014-11-11",
+  "magistrado_ponente": "Mauricio González Cuervo",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "CARENCIA ACTUAL DE OBJETO",
+  "subtema": "Fenómeno que puede presentarse a partir de dos eventos que a su vez sugieren consecuencias distintas: hecho superado y daño consumado",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 1260 de 1970",
+    "Decreto 2188 de 2001",
+    "Ley 136 de 1994",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2014/T-846-14.htm",
+  "fecha_descarga": "2026-10-21T13:51:16.626026+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2014-11-11",
+  "fecha_publicacion": null,
+  "numero": "T-846/14",
+  "tipo_cc": "T",
+  "prov_id": "6959",
+  "tema_relatoria": null,
+  "resumen": "El personero municipal de Heliconia (Antioquia) interpuso la acción de tutela en representación de una joven, que por haber nacido en un circo no ha podido obtener su registro civil de nacimiento, toda vez que no ha logrado acreditar este hecho con documentos auténticos, con copia de las actas de las partidas parroquiales de las personas bautizadas o, en su defecto, con dos testimonios de quienes hayan presenciado, asistido o tenido noticia directa o fidedigna del nacimiento. En sede de revisión, La Sala conoció que la menor agenciada ya se encontraba registrada y contaba con copia del respectivo documento. En virtud de lo anterior, se declara la carencia actual de objeto por presentarse un hecho superado.",
+  "titulaciones": [
+    {
+      "tema": "CARENCIA ACTUAL DE OBJETO",
+      "subtema": "Fenómeno que puede presentarse a partir de dos eventos que a su vez sugieren consecuencias distintas: hecho superado y daño consumado"
+    },
+    {
+      "tema": "LEGITIMACION POR PASIVA EN TUTELA",
+      "subtema": "Entidad pública"
+    },
+    {
+      "tema": "CARENCIA ACTUAL DE OBJETO POR HECHO SUPERADO",
+      "subtema": "Caso en que se realizó el registro civil de nacimiento de menor"
+    },
+    {
+      "tema": "LEGITIMACION POR ACTIVA",
+      "subtema": "Personería Municipal en representación de menor"
+    },
+    {
+      "tema": "PRINCIPIO DE SUBSIDIARIEDAD E INMEDIATEZ EN LA ACCION DE TUTELA",
+      "subtema": "Requisitos de procedibilidad"
+    }
+  ]
+}

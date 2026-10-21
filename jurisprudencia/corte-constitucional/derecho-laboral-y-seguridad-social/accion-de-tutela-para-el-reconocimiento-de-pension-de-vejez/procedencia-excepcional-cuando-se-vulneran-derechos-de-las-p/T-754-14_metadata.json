@@ -1,0 +1,53 @@
+{
+  "radicado": "T-754-14",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2014,
+  "fecha_creacion": "2014-10-10",
+  "magistrado_ponente": "Gabriel Eduardo Mendoza Martelo",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "ACCIÓN DE TUTELA PARA EL RECONOCIMIENTO DE PENSIÓN DE VEJEZ",
+  "subtema": "Procedencia excepcional cuando se vulneran derechos de las personas de la tercera edad",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Acto Legislativo 1 de 2005",
+    "Decreto 2591 de 1991",
+    "Decreto 758 de 1990",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2014/T-754-14.htm",
+  "fecha_descarga": "2026-10-21T13:53:15.835968+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2014-10-10",
+  "fecha_publicacion": null,
+  "numero": "T-754/14",
+  "tipo_cc": "T",
+  "prov_id": "6834",
+  "tema_relatoria": null,
+  "resumen": "Colpensiones negó el reconocimiento y pago de la pensión de vejez reclamada por los accionantes, en su condición de beneficiarios del régimen de transición, bajo el argumento de no cumplir con el número de semanas exigido por la ley. Se abordan los siguientes temas: 1º. Procedencia de la acción de tutela para el reconocimiento y pago de prestaciones sociales. 2º. Régimen de transición para el reconocimiento y pago de la pensión de vejez. 3º. Imposibilidad de que las consecuencias negativas derivadas de los problemas interadministrativos entre empleador y administradora del fondo de pensiones, recaiga sobre el afiliado. La Sala encontró que la entidad vulneró los derechos fundamentales de los actores a la seguridad social y al mínimo vital y, en consecuencia, CONCEDIO el amparo constitucional deprecado.",
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA PARA EL RECONOCIMIENTO DE PENSIÓN DE VEJEZ",
+      "subtema": "Procedencia excepcional cuando se vulneran derechos de las personas de la tercera edad"
+    },
+    {
+      "tema": "DERECHO AL MINIMO VITAL Y A LA SEGURIDAD SOCIAL",
+      "subtema": "Orden a Colpensiones reconocer y pagar pensión de vejez por cumplir con semanas cotizadas que no se tuvieron en cuenta por mora del empleador"
+    },
+    {
+      "tema": "PENSION DE VEJEZ",
+      "subtema": "Mora en pago de cotizaciones por parte del empleador o problemas interadministrativos entre éste y la entidad administradora de pensiones no pueden ser invocadas como causales para negar su reconocimiento"
+    },
+    {
+      "tema": "REGIMEN DE TRANSICION EN PENSION DE VEJEZ",
+      "subtema": "Alcance de la jurisprudencia constitucional"
+    },
+    {
+      "tema": "PENSION DE VEJEZ Y MORA EN EL PAGO DE LOS APORTES POR PARTE DEL EMPLEADOR",
+      "subtema": "Afiliado o beneficiario no debe soportar la mora en el traslado de los aportes al sistema ni la inacción de Colpensiones o las administradoras de fondos de pensiones en el cobro"
+    }
+  ]
+}

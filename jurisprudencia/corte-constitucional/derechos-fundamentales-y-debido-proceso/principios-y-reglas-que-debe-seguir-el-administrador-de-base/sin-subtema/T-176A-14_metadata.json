@@ -1,0 +1,64 @@
+{
+  "radicado": "T-176A-14",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2014,
+  "fecha_creacion": "2014-03-25",
+  "magistrado_ponente": "Jorge Ignacio Pretelt Chaljub",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "PRINCIPIOS Y REGLAS QUE DEBE SEGUIR EL ADMINISTRADOR DE BASES DE DATOS",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 906 de 2004",
+    "Ley 1581 de 2012",
+    "Ley 1591 de 2012"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2014/T-176A-14.htm",
+  "fecha_descarga": "2026-10-21T13:40:16.531040+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2014-03-25",
+  "fecha_publicacion": null,
+  "numero": "T-176A/14",
+  "tipo_cc": "T",
+  "prov_id": "6007",
+  "tema_relatoria": null,
+  "resumen": "Considera el actor que las entidades accionadas vulneraron sus derechos fundamentales al habeas data, al buen nombre y al trabajo, al reportar en sus bases de datos información subjetiva y desactualizada sobre el hurto de su tracto camión y de la mercancía que en él transportaba, la cual pertenecía a la empresa Transporte Humadea S.A.. Para el demandante, dichos actos han generado que nadie quiera contratar sus servicios de transporte y que en virtud de ello, se está viendo comprometida su subsistencia y la de su familia. Se analiza la siguiente temática: 1º. La procedencia de la acción de tutela contra particulares. 2º. El carácter autónomo de las garantías constitucionales al buen nombre y al habeas data. 3º. Los principios y las reglas que debe seguir el administrador de bases de datos y, 4º. La dimensión subjetiva del derecho al habeas data y la facultad del titular de la información de exigir la supresión de ésta de las bases de datos. Se CONCEDE el amparo de los derechos invocados.",
+  "titulaciones": [
+    {
+      "tema": "PRINCIPIOS Y REGLAS QUE DEBE SEGUIR EL ADMINISTRADOR DE BASES DE DATOS",
+      "subtema": null
+    },
+    {
+      "tema": "DERECHO AL BUEN NOMBRE Y AL HABEAS DATA",
+      "subtema": "Orden a empresa transportadora eliminar de sus bases de datos cualquier información subjetiva que dé a entender que el actor se encuentra implicado, como victimario, de un hurto de un tracto camión"
+    },
+    {
+      "tema": "DERECHO AL HABEAS DATA",
+      "subtema": "Facultad a su titular de conocer la información recogida en bancos de datos o archivos ya se trate de entidades públicas o privadas"
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA PARTICULARES",
+      "subtema": "Procedencia"
+    },
+    {
+      "tema": "DERECHO AL BUEN NOMBRE Y AL HABEAS DATA",
+      "subtema": "En el caso se evidencia la publicidad indiscriminada de una información que al no ser actualizada, carece de certeza, lo que constituye una clara violación al principio de veracidad"
+    },
+    {
+      "tema": "DERECHO AL BUEN NOMBRE Y AL HABEAS DATA",
+      "subtema": "Caso en que empresa transportadora reporta en sus bases de datos información subjetiva y desactualizada sobre el hurto de un tracto camión y de la mercancía que el actor transportaba en el"
+    },
+    {
+      "tema": "DERECHO AL BUEN NOMBRE Y AL HABEAS DATA",
+      "subtema": "Fundamental"
+    },
+    {
+      "tema": "DERECHO AL BUEN NOMBRE Y AL HABEAS DATA",
+      "subtema": "Carácter autónomo"
+    }
+  ]
+}

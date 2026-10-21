@@ -1,0 +1,45 @@
+{
+  "radicado": "T-205-14",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2014,
+  "fecha_creacion": "2014-04-01",
+  "magistrado_ponente": "Nilson Pinilla Pinilla",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCION DE TUTELA CONTRA SENTENCIA DE TUTELA",
+  "subtema": "Caso en que se vulnera el derecho al debido proceso por falta de notificación a un tercero con interés legítimo impidiendo defenderse en dicha acción",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2014/T-205-14.htm",
+  "fecha_descarga": "2026-10-21T13:41:12.454159+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2014-04-01",
+  "fecha_publicacion": null,
+  "numero": "T-205/14",
+  "tipo_cc": "T",
+  "prov_id": "6041",
+  "tema_relatoria": null,
+  "resumen": "Debido proceso, defensa. Tutela contra providencia judicial. La vulneración de derechos fundamentales se predica del hecho de haber fallado una acción de tutela sin haber notificado a la ahora accionante como tercero con interés legítimo en el asunto que se resolvió, por estimar el operador jurídico que no era necesario vincularla al contradictorio, porque en la acción constitucional no se alegó la propiedad objeto del litigio, sino el trámite y procedimiento que se impartió a una querella civil de policía por perturbación a la posesión. Se reitera jurisprudencia relacionada con la improcedencia de la acción de tutela para controvertir sentencias de amparo y tras corroborar que a la demandante se le violaron derechos fundamentales, se decide confirmar la decisión de instancia que CONCEDIÓ el amparo deprecado.",
+  "titulaciones": [
+    {
+      "tema": "ACCION DE TUTELA CONTRA SENTENCIA DE TUTELA",
+      "subtema": "Caso en que se vulnera el derecho al debido proceso por falta de notificación a un tercero con interés legítimo impidiendo defenderse en dicha acción"
+    },
+    {
+      "tema": "JUEZ DE TUTELA TIENE EL DEBER DE REMITIR EL EXPEDIENTE PARA SU EVENTUAL REVISION A LA CORTE CONSTITUCIONAL",
+      "subtema": null
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA SENTENCIA DE TUTELA",
+      "subtema": "Improcedencia para controvertir decisiones que se adoptan en procesos de esta naturaleza"
+    },
+    {
+      "tema": "COSA JUZGADA INMUTABLE Y DEFINITIVA EN TUTELA",
+      "subtema": "Una vez la Corte Constitucional no selecciona proceso de tutela, adquiere los efectos de cosa juzgada"
+    }
+  ]
+}

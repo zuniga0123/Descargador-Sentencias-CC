@@ -1,0 +1,44 @@
+{
+  "radicado": "T-059-14",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2014,
+  "fecha_creacion": "2014-02-03",
+  "magistrado_ponente": "Nilson Pinilla Pinilla",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+  "subtema": "Caso en que banco solicita que se deje sin efectos la providencia proferida dentro de un proceso de nulidad y restablecimiento del derecho iniciado por él en contra de la DIAN",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 633 de 2000",
+    "Decreto 187 de 1975",
+    "Ley 906 de 2004"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2014/T-059-14.htm",
+  "fecha_descarga": "2026-10-21T13:37:34.845990+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2014-02-03",
+  "fecha_publicacion": null,
+  "numero": "T-059/14",
+  "tipo_cc": "T",
+  "prov_id": "5828",
+  "tema_relatoria": null,
+  "resumen": "Debido proceso. Tutela contra providencia judicial. Pretende el banco accionante que vía tutela se deje sin efectos la providencia proferida dentro de un proceso de nulidad y restablecimiento de derecho iniciado por él en contra de la DIAN y que se ordene a la autoridad judicial accionada, que dicte una nueva sentencia en la que dé aplicación a las normas tributarias pertinentes. La Sala de Revisión, al compartir íntegramente las decisiones de instancia que declararon la IMPROCEDENCIA de la acción de tutela impetrada por DAVIVIENDA, decide confirmarlas.",
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Caso en que banco solicita que se deje sin efectos la providencia proferida dentro de un proceso de nulidad y restablecimiento del derecho iniciado por él en contra de la DIAN"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Improcedencia por no configurarse defecto sustantivo alegado por la sociedad accionante"
+    },
+    {
+      "tema": "SENTENCIA DE REVISION DE TUTELA",
+      "subtema": "Breve justificación cuando no revoquen, modifiquen o unifiquen jurisprudencia de decisiones de instancia, según artículo 35 del Decreto 2591 de 1991"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "radicado": "T-603-14",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2014,
+  "fecha_creacion": "2014-08-22",
+  "magistrado_ponente": "María Victoria Calle Correa",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "ACCION DE TUTELA PARA RECONOCIMIENTO DE PRESTACIONES SOCIALES",
+  "subtema": "Orden a Colpensiones reconocer y pagar de manera definitiva pensión de vejez",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Decreto 758 de 1990",
+    "Decreto 2591 de 1991",
+    "Ley 1266 de 2008",
+    "Ley 1581 de 2012"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2014/T-603-14.htm",
+  "fecha_descarga": "2026-10-21T13:48:23.459969+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2014-08-22",
+  "fecha_publicacion": null,
+  "numero": "T-603/14",
+  "tipo_cc": "T",
+  "prov_id": "6633",
+  "tema_relatoria": null,
+  "resumen": "La actora solicitó en reiteradas oportunidades su derecho a la pensión de vejez, y esta pretensión siempre fue denegada con el argumento del incumplimiento del número de semanas requeridas.. A su juicio, no solo cumple con los requisitos para ser beneficiaria del régimen de transición, sino que le es aplicable lo dispuesto en el Decreto 758 de 1990. Cada una de las resoluciones expedidas para negar la pensión reclamada, se fundamentó un una certificación que contenía datos diferentes e inconsistentes sobre el número de semanas cotizadas por la peticionaria. Se aborda temática relacionada con la procedencia excepcional de la acción de tutela, la protección constitucional ante las inconsistencias en la historia laboral y el derecho al habeas data. En sede de revisión la Sala constató que respecto del derecho al habeas data existe un HECHO SUPERADO; toda vez que la accionada llevó a cabo la corrección de la historia laboral de la actora, logrando que los datos consignados en ella reflejaran su verdadera realidad laboral. No obstante, la Corte encuentra que a la actora no se le ha reconocido la pensión de vejez a pesar de haber reunido los requisitos exigidos en la norma, conforme al régimen que le resulta aplicable. Se TUTELAN los derechos fundamentales a la seguridad social y al mínimo vital y ordena el reconocimiento y pago de la prestación reclamada.",
+  "titulaciones": [
+    {
+      "tema": "ACCION DE TUTELA PARA RECONOCIMIENTO DE PRESTACIONES SOCIALES",
+      "subtema": "Orden a Colpensiones reconocer y pagar de manera definitiva pensión de vejez"
+    },
+    {
+      "tema": "ACCION DE TUTELA PARA RECONOCIMIENTO DE PRESTACIONES SOCIALES",
+      "subtema": "Procedencia excepcional"
+    },
+    {
+      "tema": "CARENCIA ACTUAL DE OBJETO POR HECHO SUPERADO",
+      "subtema": "Colpensiones corrigió la historia laboral de la accionante"
+    },
+    {
+      "tema": "DERECHO AL HABEAS DATA",
+      "subtema": "En relación con la información contenida en la historia laboral"
+    },
+    {
+      "tema": "ENTIDAD ADMINISTRADORA DE PENSIONES",
+      "subtema": "Deber de custodia, conservación y guarda de la información concerniente al Sistema de Seguridad Social"
+    },
+    {
+      "tema": "HABEAS DATA",
+      "subtema": "Posibilidad de ejercerlo cuando se presenta inexactitud en historia laboral para solicitar pensión de vejez"
+    }
+  ]
+}

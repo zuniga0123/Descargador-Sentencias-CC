@@ -1,0 +1,63 @@
+{
+  "radicado": "T-549-14",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2014,
+  "fecha_creacion": "2014-07-22",
+  "magistrado_ponente": "Luis Ernesto Vargas Silva",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "DERECHO AL MINIMO VITAL Y A LA SEGURIDAD SOCIAL",
+  "subtema": "Orden a Fondo de Pensiones reconocer y pagar pensión de invalidez",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 758 de 1990",
+    "Decreto 2591 de 1991",
+    "Ley 860 de 2003",
+    "Ley 100 de 1993",
+    "Decreto 917 de 1999",
+    "Decreto 19 de 2012",
+    "Decreto 692 de 1995"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2014/T-549-14.htm",
+  "fecha_descarga": "2026-10-21T13:56:22.600760+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2014-07-22",
+  "fecha_publicacion": null,
+  "numero": "T-549/14",
+  "tipo_cc": "T",
+  "prov_id": "6527",
+  "tema_relatoria": null,
+  "resumen": "Seguridad social, mínimo vital. Se acumulan expedientes por unidad de materia. En todos los casos estudiados la situación común tiene que ver con el hecho de que a los accionantes les negaron el reconocimiento y pago de la pensión de invalidez reclamada, con el argumento de no cumplir con el requisito establecido en el artículo 1º de la Ley 860 de 2003, según el cual, debían haber aportado por lo menos cincuenta semanas de cotización, dentro de los tres años anteriores a la fecha de estructuración de la invalidez. En algunos casos, los actores padecen enfermedades que la jurisprudencia constitucional ha catalogado como crónicas, degenerativas o congénitas, por lo que la fecha dictaminada como de estructuración, no corresponde con la fecha real en que perdieron definitivamente la capacidad para seguir laborando. En otros casos, los accionantes no hicieron cotizaciones dentro de los tres años anteriores a la fecha de estructuración, pero, realizaron aportes al sistema pensional desde varios años atrás, cumpliendo así los requisitos para acceder a la prestación, pero bajo la vigencia de regímenes pensionales anteriores. Se reitera jurisprudencia de la Corporación referente a: 1º. La procedencia excepcional de la acción de tutela para el reconocimiento de la pensión de vejez. 2º. Las reglas respecto al derecho a la pensión de invalidez en casos de enfermedades crónicas, degenerativas o congénitas, en donde debe determinarse la fecha real o material de estructuración de la pérdida de capacidad laboral y, 3º. La figura de la condición más beneficiosa, en lo que respecta al cumplimiento de requisitos pensionales bajo regímenes anteriores a la Ley 100 de 1993. En un caso se niega el amparo solicitado, mientras que en los siete restantes, se concede.",
+  "titulaciones": [
+    {
+      "tema": "DERECHO AL MINIMO VITAL Y A LA SEGURIDAD SOCIAL",
+      "subtema": "Orden a Fondo de Pensiones reconocer y pagar pensión de invalidez"
+    },
+    {
+      "tema": "PENSION DE INVALIDEZ DE PERSONA CON ENFERMEDAD CRONICA, DEGENERATIVA O CONGENITA",
+      "subtema": "Fecha de estructuración de la invalidez desde el momento de la pérdida permanente y definitiva de la capacidad laboral"
+    },
+    {
+      "tema": "DERECHO AL MINIMO VITAL Y A LA SEGURIDAD SOCIAL",
+      "subtema": "Orden a Colpensiones reconocer y pagar pensión de invalidez"
+    },
+    {
+      "tema": "ACCION DE TUTELA PARA RECONOCIMIENTO DE PENSION DE INVALIDEZ",
+      "subtema": "Improcedencia por no cumplir requisito de haber cotizado al menos 50 semanas en los 3 años anteriores a la estructuración de invalidez"
+    },
+    {
+      "tema": "ACCION DE TUTELA PARA RECLAMAR EL RECONOCIMIENTO Y PAGO DE DERECHOS PENSIONALES",
+      "subtema": "Procedencia excepcional"
+    },
+    {
+      "tema": "PRINCIPIO DE LA CONDICION MAS BENEFICIOSA EN MATERIA PENSIONAL",
+      "subtema": "Jurisprudencia de la Corte Suprema de Justicia"
+    },
+    {
+      "tema": "APLICACION DEL PRINCIPIO DE LA CONDICION MAS BENEFICIOSA A LA PENSION DE INVALIDEZ",
+      "subtema": "Jurisprudencia constitucional"
+    }
+  ]
+}

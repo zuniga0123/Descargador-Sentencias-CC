@@ -1,0 +1,50 @@
+{
+  "radicado": "T-076-14",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2014,
+  "fecha_creacion": "2014-02-07",
+  "magistrado_ponente": "Mauricio González Cuervo I",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "SERVICIO MILITAR OBLIGATORIO",
+  "subtema": "Improcedencia de exoneración por la omisión de cualquier trámite administrativo previo, acudiéndose de manera directa a la tutela",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 48 de 1993",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2014/T-076-14.htm",
+  "fecha_descarga": "2026-10-21T13:38:07.863620+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2014-02-07",
+  "fecha_publicacion": null,
+  "numero": "T-076/14",
+  "tipo_cc": "T",
+  "prov_id": "5858",
+  "tema_relatoria": null,
+  "resumen": "La vulneración de derechos fundamentales se predica del reclutamiento del accionante para la prestación del servicio militar obligatorio, a pesar de encontrarse estudiando y con problemas de salud. Se solicita el desacuartelamiento y la expedición de la respectiva libreta militar. La Sala de Revisión concluye que la acción de tutela resulta IMPROCEDENTE, porque no se evidenció que el demandante o su agente oficioso realizaran solicitud de desacuartelamiento ante la autoridad competente, petición que resulta necesaria para que el juez constitucional determine si existió o no una conducta vulneratoria de derechos fundamentales.",
+  "titulaciones": [
+    {
+      "tema": "SERVICIO MILITAR OBLIGATORIO",
+      "subtema": "Improcedencia de exoneración por la omisión de cualquier trámite administrativo previo, acudiéndose de manera directa a la tutela"
+    },
+    {
+      "tema": "PRINCIPIO DE SUBSIDIARIEDAD E INMEDIATEZ EN LA ACCION DE TUTELA",
+      "subtema": "Requisitos de procedibilidad"
+    },
+    {
+      "tema": "AGENCIA OFICIOSA EN TUTELA",
+      "subtema": "Caso en que personera municipal en calidad de agente oficiosa solicita desacuartelamiento de soldado"
+    },
+    {
+      "tema": "LEGITIMACION POR PASIVA EN TUTELA",
+      "subtema": "Autoridad pública"
+    },
+    {
+      "tema": "LEGITIMACIÓN POR ACTIVA EN TUTELA",
+      "subtema": "Presentación por Personero Municipal en representación de joven reclutado para prestar servicio militar"
+    }
+  ]
+}
