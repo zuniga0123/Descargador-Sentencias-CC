@@ -1,0 +1,48 @@
+{
+  "radicado": "T-411-10",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2010,
+  "fecha_creacion": "2010-05-27",
+  "magistrado_ponente": "Dra MARÍA VICTORIA CALLE CORREA",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "DERECHO AL MINIMO VITAL, SEGURIDAD SOCIAL Y VIDA DIGNA",
+  "subtema": "Vulneración por desconocimiento de los términos para que una autoridad de respuesta a una petición en materia pensional",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 656 de 1994",
+    "Ley 700 de 2001",
+    "Ley 2591 de 1991",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2010/T-411-10.htm",
+  "fecha_descarga": "2026-10-21T17:46:55.074557+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2010-05-27",
+  "fecha_publicacion": null,
+  "numero": "T-411/10",
+  "tipo_cc": "T",
+  "prov_id": "886",
+  "tema_relatoria": null,
+  "resumen": "Seguridad social, mínimo vital. El accionante solicitó al Instituto de Seguro Social, el reconocimiento y pago de la pensión de sobreviviente, no obstante después de ocho meses de haber presentado la solicitud no ha recibido ningún tipo de respuesta. La Sala encuentra que la petición del accionante no fue respondida conforme a los plazos estipulados en reiterada jurisprudencia de esta corporación, se determina que el ISS vulneró los derechos sus derechos, por lo tanto se le ordena proferir el acto administrativo correspondiente que resuelva de fondo sobre la solicitud de reconocimiento de la pensión de sobreviviente.",
+  "titulaciones": [
+    {
+      "tema": "DERECHO AL MINIMO VITAL, SEGURIDAD SOCIAL Y VIDA DIGNA",
+      "subtema": "Vulneración por desconocimiento de los términos para que una autoridad de respuesta a una petición en materia pensional"
+    },
+    {
+      "tema": "DERECHO DE PETICIÓN EN MATERIA PENSIONAL",
+      "subtema": "Términos"
+    },
+    {
+      "tema": "DERECHO DE PETICIÓN EN MATERIA PENSIONAL",
+      "subtema": "Vulneración por ISS al no responder después de 8 meses de presentado"
+    },
+    {
+      "tema": "PRESUNCIÓN DE VERACIDAD EN TUTELA",
+      "subtema": "Aplicación por no rendición de informe del ISS aunque accionante no adjuntó copia del derecho de petición para reconocimiento de pensión de sobrevivientes"
+    }
+  ]
+}

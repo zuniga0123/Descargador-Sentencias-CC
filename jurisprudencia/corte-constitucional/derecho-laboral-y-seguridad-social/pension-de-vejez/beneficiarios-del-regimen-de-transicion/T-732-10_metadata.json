@@ -1,0 +1,49 @@
+{
+  "radicado": "T-732-10",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2010,
+  "fecha_creacion": "2010-09-13",
+  "magistrado_ponente": "Dr GABRIEL EDUARDO MENDOZA MARTELO",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "PENSION DE VEJEZ",
+  "subtema": "Beneficiarios del régimen de transición",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 100 de 1993",
+    "Decreto 758 de 1990",
+    "Decreto 510 de 2003",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2010/T-732-10.htm",
+  "fecha_descarga": "2026-10-21T17:37:35.634911+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2010-09-13",
+  "fecha_publicacion": null,
+  "numero": "T-732/10",
+  "tipo_cc": "T",
+  "prov_id": "1403",
+  "tema_relatoria": null,
+  "resumen": "Debido proceso, mínimo vital, seguridad social. El actor solicita el reconocimiento y pago de su pensión de vejez ya que cumple con los requisitos de edad y tiempo para acceder a ella, sin embargo dicho reconocimiento le fue negado debido a que el ISS asegura que, sólo cuenta con 774 semanas cotizadas de las cuales 276, fueron cotizadas durante los últimos 20 años, sin embargo existe un reporte expedido por la vicepresidencia de pensiones del ISS, donde se certifica que ha cotizado 1002 semanas. La Sala realiza reiteración de jurisprudencia sobre la procedencia de la acción de tutela para reclamar el pago de las prestaciones sociales, la pensión de vejez y los requisitos para su obtención en el Régimen de Prima media con prestación definida, la imposibilidad de exigir los requisitos adicionales para obtener la pensión de vejez, se observa que el actor tiene 68 años de edad, y cuenta con 1002 semanas de cotización, cumpliendo así los requisitos para acceder a la pensión de vejez, por lo tanto se ordena reconocer y pagar al actor la pensión de vejez. Concedida.",
+  "titulaciones": [
+    {
+      "tema": "PENSION DE VEJEZ",
+      "subtema": "Beneficiarios del régimen de transición"
+    },
+    {
+      "tema": "DERECHO A LA PENSION DE VEJEZ EN REGIMEN DE PRIMA MEDIA CON PRESTACION DEFINIDA",
+      "subtema": "Requisitos"
+    },
+    {
+      "tema": "ACCION DE TUTELA PARA PAGO DE PRESTACIONES SOCIALES",
+      "subtema": "Reiteración de jurisprudencia sobre requisitos de procedencia excepcional"
+    },
+    {
+      "tema": "PENSION DE VEJEZ",
+      "subtema": "Vulneración al debido proceso por desconocimiento al principio de legalidad al exigir requisitos no contemplados en la Constitución o en la Ley para su reconocimiento"
+    }
+  ]
+}

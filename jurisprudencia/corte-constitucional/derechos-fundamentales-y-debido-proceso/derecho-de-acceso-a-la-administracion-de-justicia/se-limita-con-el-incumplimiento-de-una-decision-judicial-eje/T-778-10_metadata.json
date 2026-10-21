@@ -1,0 +1,51 @@
+{
+  "radicado": "T-778-10",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2010,
+  "fecha_creacion": "2010-09-29",
+  "magistrado_ponente": "Dr GABRIEL EDUARDO MENDOZA MARTELO",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "DERECHO DE ACCESO A LA ADMINISTRACIÓN DE JUSTICIA",
+  "subtema": "Se limita con el incumplimiento de una decisión judicial ejecutoriada",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Decreto 2148 de 1992",
+    "Ley 790 de 2003"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2010/T-778-10.htm",
+  "fecha_descarga": "2026-10-21T17:44:41.539987+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2010-09-29",
+  "fecha_publicacion": null,
+  "numero": "T-778/10",
+  "tipo_cc": "T",
+  "prov_id": "1465",
+  "tema_relatoria": null,
+  "resumen": "Vida digna, mínimo vital, debido proceso, acceso efectivo a la administración de justicia. El accionante solicita se ordene el reconocimiento y pago de la pensión de sobreviviente a que considera tener derecho, debido al deceso de su cónyuge, por lo cual inició un proceso ordinario en donde se condeno al ISS a pagar la pensión de sobreviviente, sin embargo dicho instituto se ha negado a acatar la orden del juzgado. La Sala se pronuncia sobre el aspecto de procedibilidad de la acción de tutela como mecanismo de protección de los derechos fundamentales, en el caso del cumplimiento de providencias judiciales, el derecho al debido proceso y las garantías que lo conforman, se encuentra que al accionante el ISS le esta vulnerando sus derechos fundamentales al no acatar el cumplimiento de la sentencia por lo tanto, se ordena incluirlo en nómina e iniciar el pago de las mesadas pensionales atrasadas. Concedida.",
+  "titulaciones": [
+    {
+      "tema": "DERECHO DE ACCESO A LA ADMINISTRACIÓN DE JUSTICIA",
+      "subtema": "Se limita con el incumplimiento de una decisión judicial ejecutoriada"
+    },
+    {
+      "tema": "DERECHO AL DEBIDO PROCESO",
+      "subtema": "Naturaleza, definición y garantías que lo conforman"
+    },
+    {
+      "tema": "ACCESO A LA ADMINISTRACION DE JUSTICIA",
+      "subtema": "Deber jurídico de acatamiento de providencias por parte de autoridades, concretándose tanto con la adopción de la respectiva decisión judicial como en su ejecución real"
+    },
+    {
+      "tema": "DERECHO AL MINIMO VITAL, DEBIDO PROCESO Y ACCESO EFECTIVO A LA ADMINISTRACION DE JUSTICIA",
+      "subtema": "ISS vulneró derechos fundamentales al negarse a acatar órdenes contenidas en sentencia judicial en el marco de un proceso ordinario laboral que ordenó reconocimiento"
+    },
+    {
+      "tema": "PENSIÓN DE SOBREVIVIENTES",
+      "subtema": "Caso en que ISS se niega a pagar mesada pensional reconocida por medio de providencia judicial a adulto mayor por cuanto la autoridad judicial que profirió el fallo no ha remitido certificado de no embargos"
+    }
+  ]
+}

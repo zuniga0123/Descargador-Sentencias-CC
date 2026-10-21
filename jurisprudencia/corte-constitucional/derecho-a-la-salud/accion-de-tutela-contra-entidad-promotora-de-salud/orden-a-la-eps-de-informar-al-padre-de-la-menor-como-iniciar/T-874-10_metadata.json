@@ -1,0 +1,62 @@
+{
+  "radicado": "T-874-10",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2010,
+  "fecha_creacion": "2010-11-04",
+  "magistrado_ponente": "Humberto Antonio Sierra Porto",
+  "area": "Derecho a la Salud",
+  "tema": "ACCION DE TUTELA CONTRA ENTIDAD PROMOTORA DE SALUD",
+  "subtema": "Orden a la EPS de informar al padre de la menor como iniciar trámite para que le sea entregado el medicamento",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 100 de 1993"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2010/T-874-10.htm",
+  "fecha_descarga": "2026-10-21T17:42:42.568540+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2010-11-04",
+  "fecha_publicacion": null,
+  "numero": "T-874/10",
+  "tipo_cc": "T",
+  "prov_id": "1594",
+  "tema_relatoria": null,
+  "resumen": "Salud, vida digna. Se acumulan expedientes por unidad de materia. Los accionantes solicitan servicios de enfermería y medicamentos, los cuales no les han sido otorgados por sus EPS-S. La Sala realiza reiteración de jurisprudencia sobre el derecho fundamental a la salud, el acceso a los servicios médicos y los medicamentos excluidos del POS, en el primer caso se determina que la asistencia de enfermería no ha sido prescrita por el médico tratante y por lo tanto no cumple con los requisitos establecidos en la jurisprudencia para ser otorgada, en el segundo caso se encuentra que el tratamiento no fue prescrito por un médico adscrito a la entidad, por lo tanto se ordena a Salducoop que informe al accionante cuales son los pasos que debe adelantar con el fin de que le sea entregado el medicamento. Niega.",
+  "titulaciones": [
+    {
+      "tema": "ACCION DE TUTELA CONTRA ENTIDAD PROMOTORA DE SALUD",
+      "subtema": "Orden a la EPS de informar al padre de la menor como iniciar trámite para que le sea entregado el medicamento"
+    },
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Caso en que padre de menor de 9 años solicitó medicamento recetado por médico adscrito a un ente de salud departamental y que fue negado por parte del SISBEN, porque la menor pertenece al régimen contributivo"
+    },
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Reiteración de jurisprudencia sobre el carácter de fundamental"
+    },
+    {
+      "tema": "DERECHO AL ACCESO A TRATAMIENTO MEDICO O MEDICAMENTO EXCLUIDO DEL POS",
+      "subtema": "Corte debió ordenar a EPS determinar la viabilidad de este tratamiento, aclarando que solo razones médico-científicas podrían justificar una respuesta negativa por parte de la entidad"
+    },
+    {
+      "tema": "ACCESO A TRATAMIENTO MEDICO O MEDICAMENTO EXCLUIDO DEL POS",
+      "subtema": "Criterios constitucionales para acceder a servicios no POS"
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA ENTIDAD PROMOTORA DE SALUD",
+      "subtema": "Caso en que procede para ordenar servicio de enfermería a adulto mayor con la finalidad de facilitar y supervisar la movilidad de la accionante"
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA ENTIDAD PROMOTORA DE SALUD",
+      "subtema": "Improcedencia para ordenar servicio de enfermería por cuanto éste no fue ordenado por médico adscrito a la EPS y la peticionaria se encuentra afiliada medicina prepagada"
+    },
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Caso en que EPS niega servicio de enfermería por considerar que los cuidados requeridos por adulto mayor son básicos y no de tipo profesional"
+    }
+  ]
+}

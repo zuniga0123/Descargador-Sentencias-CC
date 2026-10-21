@@ -1,0 +1,48 @@
+{
+  "radicado": "T-719-10",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2010,
+  "fecha_creacion": "2010-09-09",
+  "magistrado_ponente": "Dr NILSON PINILLA PINILLA",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCION DE TUTELA PARA CUMPLIMIENTO DE SENTENCIAS",
+  "subtema": "Cuando lo ordenado en providencia incumplida verse sobre una obligación de dar debe certificarse que no exista otro mecanismo que asegure su cumplimiento",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Decreto 4689 de 2005",
+    "Decreto 359 de 1995",
+    "Ley 179 de 1994"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2010/T-719-10.htm",
+  "fecha_descarga": "2026-10-21T17:39:16.039012+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2010-09-09",
+  "fecha_publicacion": null,
+  "numero": "T-719/10",
+  "tipo_cc": "T",
+  "prov_id": "1389",
+  "tema_relatoria": null,
+  "resumen": "Mínimo vital, vida digna. La accionante fue despedida con motivo de la reestructuración de la ESE Rafael Uribe de Medellín, inició una demanda especial de reintegro por fuero sindical la cual culminó con sentencia condenatoria ordenando a la ESE el pago de una indemnización equivalente a los salarios dejados de percibir desde noviembre de 2006 hasta julio de 2008, solicitó el cumplimiento de la sentencia a FIDUAGRARIA la cual es la empresa responsable de realizar el pago, pero a la fecha de interponer la acción aun no se ha realizado, por lo tanto solicita se ordene a las entidades accionadas realizar el pago de inmediato ya que no cuenta con los recursos económicos que le permitan vivir dignamente. La Sala realiza reiteración de jurisprudencia sobre la subsidiariedad y existencia de perjuicio irremediable para la procedencia de la acción de tutela, y la procedencia excepcional para solicitar el cumplimiento de la sentencia judicial, se concluye que la accionante no demostró la existencia de un perjuicio irremediable y existen otros mecanismos judiciales para buscar la protección de sus derechos. Niega.",
+  "titulaciones": [
+    {
+      "tema": "ACCION DE TUTELA PARA CUMPLIMIENTO DE SENTENCIAS",
+      "subtema": "Cuando lo ordenado en providencia incumplida verse sobre una obligación de dar debe certificarse que no exista otro mecanismo que asegure su cumplimiento"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Improcedencia para cumplimiento de fallo que genere obligaciones de dar por existencia de otro mecanismo judicial"
+    },
+    {
+      "tema": "ACCION DE TUTELA PARA CUMPLIMIENTO DE SENTENCIAS",
+      "subtema": "Procedencia excepcional"
+    },
+    {
+      "tema": "PRINCIPIO DE SUBSIDIARIEDAD DE LA ACCIÓN DE TUTELA",
+      "subtema": "Procedencia excepcional como mecanismo transitorio para evitar un perjuicio irremediable"
+    }
+  ]
+}

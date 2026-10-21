@@ -1,0 +1,46 @@
+{
+  "radicado": "T-1061-10",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2010,
+  "fecha_creacion": "2010-12-16",
+  "magistrado_ponente": "Gabriel Eduardo Mendoza Martelo",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "CADUCIDAD DEL DATO FINANCIERO NEGATIVO",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 1266 de 2008",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2010/T-1061-10.htm",
+  "fecha_descarga": "2026-10-21T17:31:06.184414+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2010-12-16",
+  "fecha_publicacion": null,
+  "numero": "T-1061/10",
+  "tipo_cc": "T",
+  "prov_id": "1811",
+  "tema_relatoria": null,
+  "resumen": "Habeas data, buen nombre. Se acumularon dos expedientes por unidad de materia. En el primer caso, la accionante solicito a Datacrédito que fuese rectificado en la base de datos el reporte negativo realizado por la empresa Metrotel S.A., toda vez que la obligación por la cual fue reportada se encontraba cancelada desde el mes de mayo de 2008. La entidad demandada no accedió a la petición, argumentando que el término de caducidad del dato es de dos años contados a partir de la fecha del pago de la obligación. En el segundo proceso, el peticionario solicita igualmente que retiren su nombre de la lista de deudores morosos, por cuanto mediante sentencia judicial, en un proceso ejecutivo singular de menor cuantía, se declaró la prescripción de la acción cambiaria y se declaró terminado el proceso. La accionada negó la petición, bajo el supuesto de que la circunstancia legal mediante la cual opera la prescripción de la acción cambiaria del título cobrado, es distinta de la cancelación del crédito. La Sala reitera jurisprudencia con respecto al alcance y contenido de los derechos fundamentales al buen nombre y al habeas data, así como sobre la caducidad del dato financiero negativo. Se concede.",
+  "titulaciones": [
+    {
+      "tema": "CADUCIDAD DEL DATO FINANCIERO NEGATIVO",
+      "subtema": null
+    },
+    {
+      "tema": "OBLIGACIONES INSOLUTAS Y CADUCIDAD DEL DATO NEGATIVO",
+      "subtema": null
+    },
+    {
+      "tema": "REPORTE NEGATIVO A CENTRALES DE RIESGO Y PRESCRIPCION DE LA ACCION CAMBIARIA",
+      "subtema": null
+    },
+    {
+      "tema": "DERECHO AL BUEN NOMBRE Y AL HABEAS DATA",
+      "subtema": "Fundamental"
+    }
+  ]
+}

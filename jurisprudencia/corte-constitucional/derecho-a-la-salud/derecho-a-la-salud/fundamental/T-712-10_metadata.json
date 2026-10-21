@@ -1,0 +1,53 @@
+{
+  "radicado": "T-712-10",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2010,
+  "fecha_creacion": "2010-09-08",
+  "magistrado_ponente": "Dr JORGE IVÁN PALACIO PALACIO",
+  "area": "Derecho a la Salud",
+  "tema": "DERECHO A LA SALUD",
+  "subtema": "Fundamental",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 100 de 1993",
+    "Decreto 806 de 1998",
+    "Ley 715 de 2001",
+    "Ley 1122 de 2007"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2010/T-712-10.htm",
+  "fecha_descarga": "2026-10-21T17:40:45.005469+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2010-09-08",
+  "fecha_publicacion": null,
+  "numero": "T-712/10",
+  "tipo_cc": "T",
+  "prov_id": "1381",
+  "tema_relatoria": null,
+  "resumen": "Salud, seguridad social, vida digna, igualdad. La accionante actúa en representación de su menor hija la cual sufre de apiñamiento dental y mala oclusión para lo cual su odontólogo le recomendó un tratamiento de ortodoncia, sin embargo este fue negado por no encontrarse incluido en el POS. La Sala se pronuncia sobre el derecho a la salud como derecho fundamental, el acceso a los servicios que se encuentran excluidos del POS y del POS-S, se encuentra que en el presente caso se cumplen todos los requisitos señalados por la jurisprudencia para otorgar el tratamiento por vía de tutela, ya que es una menor de edad, su familia se encuentra afiliada al Sistema de Seguridad Social de SISBEN nivel I y el diagnostico fue prescrito por una odontóloga inscrita a la entidad de salud, se ordena autorizar el tratamiento de ortodoncia. Concedida",
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Fundamental"
+    },
+    {
+      "tema": "ACCESO A TRATAMIENTO MEDICO O MEDICAMENTO EXCLUIDO DEL POS",
+      "subtema": "Criterios constitucionales para acceder a servicios no POS"
+    },
+    {
+      "tema": "ACCION DE TUTELA Y TRATAMIENTO DE ORTODONCIA",
+      "subtema": "Procede excepcionalmente en aquellos casos en que la falta de tratamientos de ortodoncia afecta la salud, la vida en condiciones dignas y la integridad del menor"
+    },
+    {
+      "tema": "DERECHO A LA SALUD DEL MENOR",
+      "subtema": "Caso en que se reúnen todos los requisitos para otorgar, por vía de tutela, tratamiento de ortodoncia"
+    },
+    {
+      "tema": "DERECHO A LA SALUD DEL MENOR",
+      "subtema": "Procede tratamiento odontológico para dar solución a problemas funcionales que padece el paciente"
+    }
+  ]
+}

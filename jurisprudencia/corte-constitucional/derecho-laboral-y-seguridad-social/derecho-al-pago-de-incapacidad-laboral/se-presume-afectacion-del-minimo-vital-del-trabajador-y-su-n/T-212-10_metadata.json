@@ -1,0 +1,58 @@
+{
+  "radicado": "T-212-10",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2010,
+  "fecha_creacion": "2010-03-23",
+  "magistrado_ponente": "Dr JUAN CARLOS HENAO PÉREZ",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "DERECHO AL PAGO DE INCAPACIDAD LABORAL",
+  "subtema": "Se presume afectación del mínimo vital del trabajador y su núcleo familiar por el no pago de la prestación económica",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 1295 de 1994",
+    "Decreto 2148 de 1992",
+    "Decreto 2463 de 2001",
+    "Decreto 2591 de 1991",
+    "Decreto 2351 de 1965",
+    "Decreto 1373 de 1966",
+    "Decreto 2177 de 1989",
+    "Ley 100 de 1993",
+    "Decreto 917 de 1999",
+    "Ley 962 de 2005"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2010/T-212-10.htm",
+  "fecha_descarga": "2026-10-21T17:34:16.689476+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2010-03-23",
+  "fecha_publicacion": null,
+  "numero": "T-212/10",
+  "tipo_cc": "T",
+  "prov_id": "636",
+  "tema_relatoria": null,
+  "resumen": "Mínimo vital, vida digna, seguridad social, petición, debido proceso. El actor solicita el pago de sus incapacidades que superan los 180 días, la negativa en el pago radica en que la EPS considera que es el fondo de pensiones el que debe responder por este pago. La Sala realiza reiteración de jurisprudencia sobre el pago de acreencias laborales, el marco normativo de las prestaciones por enfermedad no profesional o por accidente común, se considera que al actor se le ha vulnerado su mínimo vital y la negligencia proviene del Fondo de Pensiones al no haber iniciado los trámites para determinar la perdida de capacidad laboral, por lo tanto se le ordena pagar las incapacidades hasta tanto quede en firme el dictamen. Concedida.",
+  "titulaciones": [
+    {
+      "tema": "DERECHO AL PAGO DE INCAPACIDAD LABORAL",
+      "subtema": "Se presume afectación del mínimo vital del trabajador y su núcleo familiar por el no pago de la prestación económica"
+    },
+    {
+      "tema": "ACCION DE TUTELA PARA RECLAMAR PAGO DE INCAPACIDADES LABORALES",
+      "subtema": "Procedencia excepcional"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Orden a Fondo de Pensiones y Cesantías del pago de incapacidades laborales dejadas de pagar por el empleador al trabajador"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Procedencia excepcional pago de acreencias laborales"
+    },
+    {
+      "tema": "INCAPACIDAD MEDICA",
+      "subtema": "Pago sustituye salario"
+    }
+  ]
+}

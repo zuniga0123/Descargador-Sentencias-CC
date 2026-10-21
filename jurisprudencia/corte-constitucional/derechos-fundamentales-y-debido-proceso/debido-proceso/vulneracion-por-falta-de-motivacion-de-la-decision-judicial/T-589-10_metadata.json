@@ -1,0 +1,53 @@
+{
+  "radicado": "T-589-10",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2010,
+  "fecha_creacion": "2010-07-26",
+  "magistrado_ponente": "Dra María Victoria Calle Correa",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "DEBIDO PROCESO",
+  "subtema": "Vulneración por falta de motivación de la decisión judicial",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2010/T-589-10.htm",
+  "fecha_descarga": "2026-10-21T17:35:41.782240+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2010-07-26",
+  "fecha_publicacion": null,
+  "numero": "T-589/10",
+  "tipo_cc": "T",
+  "prov_id": "1198",
+  "tema_relatoria": null,
+  "resumen": "Debido proceso. La accionante dejó su carro en un taller automotriz para que fuera reparado y cuando llego al taller su auto estaba incinerado, por lo que inició un proceso de responsabilidad civil contra el dueño del taller, alega que en dicho proceso no se tuvo en cuenta su pretensión de condena por responsabilidad extracontractual, bajo el argumento de que no probó nexo de causalidad entre el daño y los actos del demandado, ni tampoco la culpa de éste último, ni la cuantía de los perjuicios, según la peticionaria la desestimación de su demanda es violatoria de sus derechos porque, el régimen probatorio debía ser el propio de las actividades peligrosas, el cual no exige probar culpa del victimario, y de otro lado, porque los demás elementos de la responsabilidad que se tienen como no demostrados, tienen respaldo probatorio, el cual no fue valorado como era debido. La Sala realiza reiteración de jurisprudencia sobre la procedibilidad de la acción de tutela contra providencias judiciales, se encuentra que la falta de motivación de la decisión judicial amerita la prosperidad del amparo y por lo tanto existe una vulneración al debido proceso, el desconocimiento del precedente vertical vinculante cuando el juez distingue de un modo aceptable el caso a decidir de la clase de casos resulta por el precedente, además se incurrió en un error fáctico al no tomar como medio de prueba la confesión ficta en virtud de la cual se daban por probados los hechos, se decide conceder el amparo del derecho invocado. Concedida.",
+  "titulaciones": [
+    {
+      "tema": "DEBIDO PROCESO",
+      "subtema": "Vulneración por falta de motivación de la decisión judicial"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Requisitos generales de procedibilidad y configuración de defectos"
+    },
+    {
+      "tema": "ALCANCE DE LA CONFESION FICTA",
+      "subtema": "Caso de incineración de vehículo en taller de mecánica"
+    },
+    {
+      "tema": "DEFECTO FACTICO",
+      "subtema": "Amerita prosperidad del amparo constitucional cuando, corregido, tiene la virtualidad de alterar el sentido de la decisión"
+    },
+    {
+      "tema": "DEBIDO PROCESO",
+      "subtema": "Vulneración por cuanto la autoridad judicial accionada ignoro medio de prueba-confesión ficta-"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Caso en que se vulneró el debido proceso dentro de proceso de responsabilidad civil extracontractual por falta de motivación en decisión judicial y desconocimiento de medio de prueba-confesión ficta-"
+    }
+  ]
+}

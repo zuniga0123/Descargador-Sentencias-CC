@@ -1,0 +1,49 @@
+{
+  "radicado": "T-469-10",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2010,
+  "fecha_creacion": "2010-06-16",
+  "magistrado_ponente": "Dr JORGE IVÁN PALACIO PALACIO",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "ACCIÓN DE TUTELA",
+  "subtema": "Carencia actual de objeto por hecho superado al haberse proferido las resoluciones en las cuales se le reconoció la pensión de invalidez y se ordenó la expedición de los carnés de servicios médicos",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Decreto 1795 de 2000",
+    "Decreto 1211 de 1990",
+    "Decreto 41 de 1994",
+    "Decreto 1091 de 1995"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2010/T-469-10.htm",
+  "fecha_descarga": "2026-10-21T17:47:57.686944+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2010-06-16",
+  "fecha_publicacion": null,
+  "numero": "T-469/10",
+  "tipo_cc": "T",
+  "prov_id": "943",
+  "tema_relatoria": null,
+  "resumen": "Petición, salud, seguridad social, mínimo vital. El actor mientras prestaba servició militar sufrió un accidente y fue dado de baja, sin embargo hasta el momento en que interpuso la acción no se le ha resuelto su situación pensional, esto lo esta afectando gravemente en cuanto a sus ingresos y no tiene acceso al servicio de salud. La Sala se pronuncia sobre el derecho a la Salud de los miembros de la Fuerza Pública, la importancia del reconocimiento pensional por concepto de invalidez de los ex miembros de la Fuerza Pública, durante el tramite de la acción se informó por parte de la entidad accionada que ya se expidieron las resoluciones en las cuales se le reconoce al actor la pensión de invalidez y la indemnización por disminución en la capacidad laboral, por lo tanto se presenta la figura de carencia actual de objeto por hecho superado.",
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Carencia actual de objeto por hecho superado al haberse proferido las resoluciones en las cuales se le reconoció la pensión de invalidez y se ordenó la expedición de los carnés de servicios médicos"
+    },
+    {
+      "tema": "CARENCIA ACTUAL DE OBJETO POR HECHO SUPERADO",
+      "subtema": "Interpretación y alcance constitucional"
+    },
+    {
+      "tema": "DERECHO A LA SALUD DE LOS MIEMBROS DE LA FUERZA PUBLICA",
+      "subtema": "Obligación del Estado de garantizarlo teniendo en cuenta su régimen especial"
+    },
+    {
+      "tema": "PENSION DE INVALIDEZ PARA LOS MIEMBROS DE LA FUERZA PUBLICA",
+      "subtema": "Caso en que un ex soldado no puede acceder a los servicios de salud por cuanto no se ha expedido resolución de reconocimiento de pensión por invalidez"
+    }
+  ]
+}

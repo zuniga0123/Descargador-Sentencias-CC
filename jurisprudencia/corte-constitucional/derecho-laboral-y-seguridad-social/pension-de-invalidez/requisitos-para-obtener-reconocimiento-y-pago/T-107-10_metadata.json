@@ -1,0 +1,51 @@
+{
+  "radicado": "T-107-10",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2010,
+  "fecha_creacion": "2010-02-11",
+  "magistrado_ponente": "Dr JORGE IVAN PALACIO PALACIO",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "PENSIÓN DE INVALIDEZ",
+  "subtema": "Requisitos para obtener reconocimiento y pago",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 100 de 1993",
+    "Decreto 758 de 1990"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2010/T-107-10.htm",
+  "fecha_descarga": "2026-10-21T17:31:09.844897+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2010-02-11",
+  "fecha_publicacion": null,
+  "numero": "T-107/10",
+  "tipo_cc": "T",
+  "prov_id": "461",
+  "tema_relatoria": null,
+  "resumen": "Debido proceso, igualdad, seguridad social. El accionante sufre de una pérdida de capacidad laboral del 66.8%, solicita el reconocimiento y pago de su pensión de invalidez, la cual no le ha sido otorgada por no cumplir con los requisitos establecidos en el Decreto 758//90. La Sala se pronuncia sobre la procedencia excepcional de la acción de tutela para obtener el pago de la pensión de invalidez, el perjuicio irremediable, las personas discapacitadas, la pensión de invalidez como parte integral del derecho a la seguridad social, se concluye que de las pruebas allegadas al proceso no hay lugar a deducir que el derecho pensional que reclama el demandante fue negado de manera caprichosa o arbitraria. Niega.",
+  "titulaciones": [
+    {
+      "tema": "PENSIÓN DE INVALIDEZ",
+      "subtema": "Requisitos para obtener reconocimiento y pago"
+    },
+    {
+      "tema": "PENSION DE INVALIDEZ COMO PARTE INTEGRAL DEL DERECHO A LA SEGURIDAD SOCIAL Y COMO MATERIALIZACION DEL PRINCIPIO DE SOLIDARIDAD",
+      "subtema": null
+    },
+    {
+      "tema": "ACCION DE TUTELA PARA RECONOCIMIENTO DE PENSION DE INVALIDEZ",
+      "subtema": "Improcedencia por cuanto el actor no cumple con los requisitos establecidos para acceder a ella"
+    },
+    {
+      "tema": "ACCION DE TUTELA PARA RECONOCIMIENTO DE PENSION DE INVALIDEZ",
+      "subtema": "Procedencia excepcional para obtener el pago cuando hay perjuicio irremediable"
+    },
+    {
+      "tema": "PENSION DE INVALIDEZ COMO COMPONENTE ESENCIAL DE LA SEGURIDAD SOCIAL",
+      "subtema": "Fundamentos"
+    }
+  ]
+}

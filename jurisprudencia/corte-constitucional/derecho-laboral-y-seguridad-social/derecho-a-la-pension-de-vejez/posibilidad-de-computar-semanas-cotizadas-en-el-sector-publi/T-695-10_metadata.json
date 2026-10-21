@@ -1,0 +1,44 @@
+{
+  "radicado": "T-695-10",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2010,
+  "fecha_creacion": "2010-09-03",
+  "magistrado_ponente": null,
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "DERECHO A LA PENSION DE VEJEZ",
+  "subtema": "Posibilidad de computar semanas cotizadas en el sector público antes de entrar en vigencia la ley 100 de 1993 con las que se hayan cotizado como empleado del sector privado en cualquier tiempo",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Decreto 758 de 1990",
+    "Decreto 2591 de 1991",
+    "Ley 1650 de 1977"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2010/T-695-10.htm",
+  "fecha_descarga": "2026-10-21T17:40:30.310509+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2010-09-03",
+  "fecha_publicacion": null,
+  "numero": "T-695/10",
+  "tipo_cc": "T",
+  "prov_id": "1361",
+  "tema_relatoria": null,
+  "resumen": "Seguridad social, mínimo vital. La accionante solicita se ordene el reconocimiento y pago de su pensión de vejez a la cual considera tener derecho, por haber cumplido con el tiempo y la edad para acceder a ella, el ISS alega que la señora no cumplió con el número de semanas exigido en el Acuerdo 049 de 1990, ya que pese a que la accionante aportó mas de 500 semanas al Sistema de Seguridad Social en los 20 años anteriores al cumplimento de la edad mínima para pensionarse, esos aportes no fueron aportados con exclusividad al ISS. La Sala recuerda que la entidad encargada de garantizar el acceso a la pensión vulnera los derechos a la seguridad social y al mínimo vital cuando niega a una persona el reconocimiento de su pensión, por no cumplir con el requisito de semanas de cotización exclusivamente ante esta entidad, cuando la persona si cumplió el requisito ante el Sistema General de Pensiones, como ocurre en el presente caso, por lo tanto se decide acceder a las pretensiones de la accionante. Concede.",
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA PENSION DE VEJEZ",
+      "subtema": "Posibilidad de computar semanas cotizadas en el sector público antes de entrar en vigencia la ley 100 de 1993 con las que se hayan cotizado como empleado del sector privado en cualquier tiempo"
+    },
+    {
+      "tema": "PENSION DE VEJEZ",
+      "subtema": "Vulneración por parte del ISS al negar reconocimiento pese a que se cumplían los requisitos de edad y semanas cotizadas frente al Sistema de Pensiones"
+    },
+    {
+      "tema": "PENSION DE VEJEZ",
+      "subtema": "Caso en que se vulneraron derechos al mínimo vital y seguridad social al no reconocer derecho pensional porque los aportes no fueron cotizados con exclusividad al ISS"
+    }
+  ]
+}

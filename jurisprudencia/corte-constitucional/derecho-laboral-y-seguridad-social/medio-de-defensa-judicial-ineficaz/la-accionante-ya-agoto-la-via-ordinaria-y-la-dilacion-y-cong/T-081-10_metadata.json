@@ -1,0 +1,54 @@
+{
+  "radicado": "T-081-10",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2010,
+  "fecha_creacion": "2010-02-11",
+  "magistrado_ponente": "Dr LUIS ERNESTO VARGAS SILVA",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "MEDIO DE DEFENSA JUDICIAL INEFICAZ",
+  "subtema": "La accionante ya agotó la vía ordinaria y la dilación y congestión de los procesos no darían solución a su caso",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 100 de 1993"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2010/T-081-10.htm",
+  "fecha_descarga": "2026-10-21T17:27:47.626061+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2010-02-11",
+  "fecha_publicacion": null,
+  "numero": "T-081/10",
+  "tipo_cc": "T",
+  "prov_id": "455",
+  "tema_relatoria": null,
+  "resumen": "Seguridad social, mínimo vital y movil. La accionante es una persona de tercera edad, solicitó la pensión de sobrevivientes causada por la muerte de su hijo dicha pensión fue negada mediante fallo judicial, por lo tanto solicitó a la entidad accionada que le reconociera la indemnización sustitutiva pero la entidad se negó a cancelar la indemnización alegando que ha operado el fenómeno de prescripción, por lo tanto mediante esta acción solicita el reconocimiento y pago de la indemnización sustitutiva junto con los intereses moratorios. La Sala realiza reiteración de jurisprudencia, sobre la procedencia excepcional de la acción de tutela frente a la existencia de otros mecanismos de defensa judicial para garantizar el reconocimiento y pago de prestaciones sociales, la indemnización sustitutiva y la inoperancia de la prescripción para solicitar su reconocimiento, se considera que los derechos de la accionante han sido vulnerados y por lo tanto se ordena a la entidad accionada que realice el reconocimiento y pago de la indemnización sustitutiva de la pensión de sobreviviente. Concedida.",
+  "titulaciones": [
+    {
+      "tema": "MEDIO DE DEFENSA JUDICIAL INEFICAZ",
+      "subtema": "La accionante ya agotó la vía ordinaria y la dilación y congestión de los procesos no darían solución a su caso"
+    },
+    {
+      "tema": "SUJETOS DE ESPECIAL PROTECCIÓN CONSTITUCIONAL",
+      "subtema": "Persona que por su edad de 81 años y por su condición, encuadra dentro de esta clasificación"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Procedencia excepcional para el reconocimiento de derechos prestacionales"
+    },
+    {
+      "tema": "INDEMNIZACION SUSTITUTIVA DE PENSION DE SOBREVIVIENTES",
+      "subtema": "Reconocimiento y pago por vulneración del mínimo vital de la accionante beneficiaria de su hijo"
+    },
+    {
+      "tema": "IMPRESCRIPTIBILIDAD DEL DERECHO PENSIONAL",
+      "subtema": "Opera en cuanto al reconocimiento pero no en cuanto a la solicitud de pago"
+    },
+    {
+      "tema": "IMPRESCRIPTIBILIDAD DE LA INDEMNIZACION SUSTITUTIVA",
+      "subtema": "Puede ser solicitada en cualquier tiempo"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "radicado": "T-804-10",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2010,
+  "fecha_creacion": "2010-10-07",
+  "magistrado_ponente": "Juan Carlos Henao Pérez",
+  "area": "Derecho a la Salud",
+  "tema": "DERECHO A LA SALUD DEL INTERNO",
+  "subtema": "No vulneración por cuanto el actor se encuentra afiliado al SGSSS, por lo tanto desaparece la obligación del INPEC de afiliarlo",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 65 de 1993",
+    "Ley 1122 de 2007"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2010/T-804-10.htm",
+  "fecha_descarga": "2026-10-21T17:43:16.051256+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2010-10-07",
+  "fecha_publicacion": null,
+  "numero": "T-804/10",
+  "tipo_cc": "T",
+  "prov_id": "1502",
+  "tema_relatoria": null,
+  "resumen": "Salud, vida digna. El acciónate se encuentra recluido en su domicilio, afirma que como tiene una herida abierta y molestias en los dientes, solicitó al Director de la Cárcel de Villahermosa de Cali, atención médica y odontológica, la cual le ha sido negada debido a que se encuentra afiliado a una EPS que le puede prestar los servicios. La Sala realiza reiteración de jurisprudencia sobre el alcance del derecho ala salud y su protección por vía de tutela, la obligación del Estado de satisfacer el derecho a la salud de la población reclusa, se concluye que el actor se encuentra afiliado a la EPS-S CAPRECOM, por lo tanto el INPEC no tiene la obligación de afiliarlo al SGSS, como consecuencia de ello la prestación de servicios corresponde a la EPS. Niega.",
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA SALUD DEL INTERNO",
+      "subtema": "No vulneración por cuanto el actor se encuentra afiliado al SGSSS, por lo tanto desaparece la obligación del INPEC de afiliarlo"
+    },
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Protección por medio de la acción de tutela"
+    },
+    {
+      "tema": "DERECHO A LA SALUD DEL INTERNO",
+      "subtema": "Obligación del Estado de garantizar prestación por intermedio del sistema carcelario en condiciones dignas y sin dilaciones en el servicio integral"
+    },
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA EL INPEC",
+      "subtema": "Improcedencia por cuanto la prestación de los servicios de salud corresponde a la EPS-S la cual se encuentra afiliado el recluso"
+    }
+  ]
+}

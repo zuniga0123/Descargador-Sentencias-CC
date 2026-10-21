@@ -1,0 +1,47 @@
+{
+  "radicado": "T-711-10",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2010,
+  "fecha_creacion": "2010-09-08",
+  "magistrado_ponente": "Dr JORGE IVÁN PALACIO PALACIO",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "SERVICIO MILITAR OBLIGATORIO",
+  "subtema": "Incorporación como soldado bachiller",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 48 de 1993",
+    "Decreto 2048 de 1993"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2010/T-711-10.htm",
+  "fecha_descarga": "2026-10-21T17:40:41.347802+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2010-09-08",
+  "fecha_publicacion": null,
+  "numero": "T-711/10",
+  "tipo_cc": "T",
+  "prov_id": "1380",
+  "tema_relatoria": null,
+  "resumen": "Libertad de enseñanza, aprendizaje, investigación y cátedra. El accionante comenta que debido a un error en el trámite de sus documentos al momento de ingresar a prestar el servicio militar, fue reclutado como soldado regular y no como soldado bachiller, solicita se rectifique la información para poder prestar su servicio como soldado bachiller. La Sala se pronuncia sobre la prestación del servicio militar obligatorio y la incorporación como soldado bachiller, se concluye que es la entidad accionada la encargada de dirigir y asesorar al futuro soldado para que cumpla con su obligación constitucional, se ordena adelantar las respectivas actuaciones administrativas a fin de que se modifique la modalidad y la expedición de la respectiva libreta militar.",
+  "titulaciones": [
+    {
+      "tema": "SERVICIO MILITAR OBLIGATORIO",
+      "subtema": "Incorporación como soldado bachiller"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Orden de modificar modalidad en que fue incorporado el actor al servicio militar, esto es, de soldado regular a soldado bachiller con el fin de salvaguardar su derecho al debido proceso administrativo"
+    },
+    {
+      "tema": "SERVICIO MILITAR OBLIGATORIO",
+      "subtema": "Modalidades sobre la prestación del servicio"
+    },
+    {
+      "tema": "SERVICIO MILITAR OBLIGATORIO",
+      "subtema": "Caso en que estudiante fue incorporado al servicio militar como soldado regular, aún cuando con posterioridad a la fecha de inscripción, acredito calidad de bachiller académico"
+    }
+  ]
+}

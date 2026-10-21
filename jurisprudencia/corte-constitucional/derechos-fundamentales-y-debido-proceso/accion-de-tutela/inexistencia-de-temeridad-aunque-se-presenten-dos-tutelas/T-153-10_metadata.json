@@ -1,0 +1,46 @@
+{
+  "radicado": "T-153-10",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2010,
+  "fecha_creacion": "2010-03-05",
+  "magistrado_ponente": "Dr JORGE IGNACIO PRETELT CHALJUB",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCIÓN DE TUTELA",
+  "subtema": "Inexistencia de temeridad aunque se presenten dos tutelas",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 640 de 2001"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2010/T-153-10.htm",
+  "fecha_descarga": "2026-10-21T17:32:16.786918+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2010-03-05",
+  "fecha_publicacion": null,
+  "numero": "T-153/10",
+  "tipo_cc": "T",
+  "prov_id": "569",
+  "tema_relatoria": null,
+  "resumen": "Igualdad, debido proceso, autonomía de la voluntad. El representante de la entidad accionante solicita se ordene la cancelación de la instancia de amigable composición, instaurada por la entidad accionada, en vista de que ellos no pactaron en el contrato este tipo de conciliación como mecanismo de solución de sus conflictos. La Sala se pronuncia sobre la duplicidad en la presentación de acciones de tutela, la cosa juzgada constitucional y las acciones temerarias, se concluye que los problemas jurídicos que se pretenden resolver en esta acción de tutela son idénticos a los estudiados en un proceso de tutela anterior, pero no se incurrió en una acción temeraria por cuanto el actor siempre puso de presente que se había instaurado una acción anterior y fundó la nueva acción con la certeza de que a su parecer sucedieron nuevos hechos. Niega.",
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Inexistencia de temeridad aunque se presenten dos tutelas"
+    },
+    {
+      "tema": "COSA JUZGADA FORMAL Y MATERIAL",
+      "subtema": "Configuración"
+    },
+    {
+      "tema": "ACCION DE TUTELA TEMERARIA",
+      "subtema": "Requisitos para que se configure"
+    },
+    {
+      "tema": "ACCION DE TUTELA TEMERARIA",
+      "subtema": "Casos en que pese a la identidad de procesos no se configura temeridad"
+    }
+  ]
+}

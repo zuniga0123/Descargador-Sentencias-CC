@@ -1,0 +1,54 @@
+{
+  "radicado": "T-227-10",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2010,
+  "fecha_creacion": "2010-03-23",
+  "magistrado_ponente": "Mauricio González Cuervo",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCION DE TUTELA EN MATERIA LABORAL",
+  "subtema": "Procedibilidad general",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 1158 de 1994",
+    "Ley 55 de 1990",
+    "Ley 4 de 1992",
+    "Decreto 1016 de 1991",
+    "Decreto 1661 de 1991",
+    "Decreto 1624 de 1991",
+    "Ley 332 de 1996",
+    "Decreto 691 de 1994",
+    "Ley 100 de 1993",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2010/T-227-10.htm",
+  "fecha_descarga": "2026-10-21T17:34:50.037784+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2010-03-23",
+  "fecha_publicacion": null,
+  "numero": "T-227/10",
+  "tipo_cc": "T",
+  "prov_id": "651",
+  "tema_relatoria": null,
+  "resumen": "Debido proceso, igualdad, seguridad social, mínimo vital, vida digna. El actor alega que la entidad accionada realizó una errónea cotización al sistema de seguridad social en pensiones, dado que la accionada no utilizo como base de cotización el valor total del salario que devengaba en el cargo de Consejero Presidencial para Antioquia, ya que se omitió cotizar lo devengado mensualmente como prima técnica, la entidad accionada considera que la prima técnica en los años en que se realizaron las cotizaciones no era un factor salarial. La Sala se pronuncia sobre el carácter subsidiario de la acción de tutela y sus requisitos generales de procedibilidad, la procedibilidad general de la acción de tutela en materia laboral, se encuentra que el actor no agotó todos los mecanismos de defensa judiciales para la defensa de sus derechos, además no se vislumbra un perjuicio irremediable para el demandante, se decide declarar la improcedencia de la acción impetrada. Niega.",
+  "titulaciones": [
+    {
+      "tema": "ACCION DE TUTELA EN MATERIA LABORAL",
+      "subtema": "Procedibilidad general"
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA LA PRESIDENCIA DE LA REPUBLICA",
+      "subtema": "Improcedencia por existencia de otro medio de defensa judicial y no demostrar perjuicio irremediable"
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA LA PRESIDENCIA DE LA REPUBLICA",
+      "subtema": "Caso en que Departamento Administrativo de la entidad demandada omitió incluir prima técnica en el salario que sirvió de base para cotizar en el sistema general de pensiones"
+    },
+    {
+      "tema": "ACCION DE TUTELA Y PRINCIPIO DE SUBSIDIARIEDAD",
+      "subtema": "Requisitos generales y especiales de procedibilidad"
+    }
+  ]
+}

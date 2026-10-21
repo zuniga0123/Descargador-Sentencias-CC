@@ -1,0 +1,58 @@
+{
+  "radicado": "T-164-10",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2010,
+  "fecha_creacion": "2010-03-08",
+  "magistrado_ponente": "Dr JORGE IVAN PALACIO PALACIO",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "DERECHO AL HABEAS DATA",
+  "subtema": "Alcance y contenido",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 1266 de 2008"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2010/T-164-10.htm",
+  "fecha_descarga": "2026-10-21T17:32:47.331274+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2010-03-08",
+  "fecha_publicacion": null,
+  "numero": "T-164/10",
+  "tipo_cc": "T",
+  "prov_id": "579",
+  "tema_relatoria": null,
+  "resumen": "Habeas data. El actor comenta que fue reportado a en las centrales de riesgo por haber incumplido con el pago de las cuotas de tarjeta de crédito adquiridas con la entidad accionada en el año de 1989, alega que el término máximo de actualización de datos de personas que no han cancelado sus obligaciones crediticias es de diez años, por lo tanto solicita se actualice en las centrales de riesgos su historia crediticia, retirando el reporte negativo existente respecto de sus obligaciones incumplidas. La Sala en primer lugar pasa a verificar la procedencia de la acción de tutela, en el presente caso, se encuentra que el actor agotó el requisito consistente en acudir a la entidad que realizó el reporte por lo tanto el estudio de la acción es procedente, luego realiza reiteración de jurisprudencia sobre el derecho fundamental al habeas data, y el límite temporal del dato negativo, se concluye que si bien el incumplimiento de la obligación de dio en 1989, dicha obligación se hizo exigible en el año 2000 por lo tanto no han transcurrido diez años desde la extinción de la obligación, es más las obligaciones que originaron el reporte aún son jurídicamente relevantes y exigibles por lo tanto se decide no acceder a las pretensiones del actor. Niega.",
+  "titulaciones": [
+    {
+      "tema": "DERECHO AL HABEAS DATA",
+      "subtema": "Alcance y contenido"
+    },
+    {
+      "tema": "DATO FINANCIERO NEGATIVO",
+      "subtema": "Término de permanencia de cuatro (4) años contados a partir del momento en que se extinga la obligación por cualquier modo"
+    },
+    {
+      "tema": "DERECHO AL HABEAS DATA",
+      "subtema": "No se vulnera cuando la entidad se abstiene de eliminar reporte negativo si la obligación civil permanece insoluta y ha transcurrido un término menor a 10 años desde la fecha de su exigibilidad"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Improcedencia por cuanto solo han transcurrido 9 años y 3 meses desde el momento en que la obligación insoluta del actor se hizo exigible y en consecuencia esta no se ha extinguido"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Improcedencia por no vulneración del derecho al habeas data al no cumplir el actor con el término de prescripción señalado en el articulo 2536 del Código Civil para que se alegue extinguida la obligación insoluta"
+    },
+    {
+      "tema": "ACCION DE TUTELA PARA SOLICITAR LA PROTECCION DEL DERECHO AL HABEAS DATA",
+      "subtema": "Requisitos de procedibilidad"
+    },
+    {
+      "tema": "DATO FINANCIERO NEGATIVO",
+      "subtema": "Limite temporal cuando el deudor nunca paga"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "radicado": "T-046-10",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2010,
+  "fecha_creacion": "2010-02-02",
+  "magistrado_ponente": "Dr GABRIEL EDUARDO MENDOZA MARTELO",
+  "area": "Derecho a la Salud",
+  "tema": "DERECHO A LA SALUD",
+  "subtema": "Confianza con el médico particular que viene atendiendo a la actora de tiempo atrás por la enfermedad psiquiátrica que padece",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 100 de 1993",
+    "Decreto 806 de 1998"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2010/T-046-10.htm",
+  "fecha_descarga": "2026-10-21T17:39:01.307304+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2010-02-02",
+  "fecha_publicacion": null,
+  "numero": "T-046/10",
+  "tipo_cc": "T",
+  "prov_id": "413",
+  "tema_relatoria": null,
+  "resumen": "Vida, salud, seguridad social. La accionante sufre de trastorno depresivo el cual ha sido tratado con fluoxetina medicamento que se encuentra incluido en el POS, sin embargo no presentó ningún tipo de mejoría, por lo tanto acudió a un médico particular el cual le recetó el medicamento well butrín el cual no se encuentra incluido en el POS y su EPS se niega a autorizar su entrega ya que no fue prescrito por un médico adscrito, solicita el suministro del medicamento requerido. La Sala se pronuncia sobre las circunstancias en las que el concepto proferido por un médico tratante no adscrito vincula a la EPS obligándola a acatarlo, modificarlo o desvirtuarlo con base en criterios científicos y los requisitos jurisprudenciales para que la EPS proceda a autorizar un tratamiento o medicamento no POS, se ordena someter a estudio de un grupo multidisciplinario de especialistas del Comité Técnico Científico de la entidad accionada para que se evalúe el diagnostico y la prescripción emitida por el médico tratante y de encontrarse ajustado a las necesidades de la actora se autorice el tratamiento con el médico tratante. Concedida.",
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Confianza con el médico particular que viene atendiendo a la actora de tiempo atrás por la enfermedad psiquiátrica que padece"
+    },
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "El concepto científico del médico tratante es el principal criterio para establecer si se requiere un servicio de salud, pero no es exclusivo"
+    },
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Reconocimiento excepcional de tratamiento médico o medicamento por médico no adscrito a la EPS"
+    },
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "La EPS vulneró los derechos de la accionante porque negó de plano su solicitud de medicamento no POS sin que fuera valorada por el Comité Técnico Científico"
+    },
+    {
+      "tema": "ENTIDAD PROMOTORA DE SALUD",
+      "subtema": "Si el servicio médico se encuentra excluido del POS se requiere someter el concepto del médico tratante a consideración del Comité Técnico Científico"
+    }
+  ]
+}

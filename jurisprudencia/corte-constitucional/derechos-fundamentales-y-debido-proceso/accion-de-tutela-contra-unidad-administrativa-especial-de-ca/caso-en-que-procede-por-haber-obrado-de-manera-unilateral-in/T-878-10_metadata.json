@@ -1,0 +1,57 @@
+{
+  "radicado": "T-878-10",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2010,
+  "fecha_creacion": "2010-11-04",
+  "magistrado_ponente": "Jorge Iván Palacio Palacio",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCION DE TUTELA CONTRA UNIDAD ADMINISTRATIVA ESPECIAL DE CATASTRO DISTRITAL",
+  "subtema": "Caso en que procede por haber obrado de manera unilateral inconsulta y unilateral sin producir actuación por escrito que hubiera sido notificada a la sociedad demandante",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 352 de 2002",
+    "Ley 675 de 2001",
+    "Ley 14 de 1983",
+    "Decreto 3496 de 1983",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2010/T-878-10.htm",
+  "fecha_descarga": "2026-10-21T17:42:57.572857+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2010-11-04",
+  "fecha_publicacion": null,
+  "numero": "T-878/10",
+  "tipo_cc": "T",
+  "prov_id": "1598",
+  "tema_relatoria": null,
+  "resumen": "Debido proceso. La compañía demandante es poseedora de las mejoras que se concretan en un apartamento ubicado en un edificio en la ciudad de Bogotá, razón por la cual desde hace más de diecinueve años ha venido declarando y pagando oportunamente el impuesto predial correspondiente, teniendo en cuenta para ello la respectiva cédula catastral que tiene el inmueble. Según los hechos de la demanda, Catastro Distrital canceló la referida cédula catastral y la incorporó dentro de otra que existía a nombre de la sociedad propietaria del terreno, pero después reincorporó las mejoras al registro cancelado, situación que comunicó a través de oficio. La acción de tutela se interpone porque la Unidad Administrativa accionada no ha resuelto la solicitud que se elevara, respecto a expedir el Boletín Catastral contentivo del chip y de la cédula catastral del bien referido, para poder declarar y pagar su impuesto predial. La Sala analiza jurisprudencia de la Corporación en relación con la procedencia de la acción de tutela cuando lo que se reclama es la protección del derecho al debido proceso por la revocatoria de actos particulares y concretos sin previo consentimiento del administrado. Así mismo se pronuncia, sobre el debido proceso administrativo, el principio de buena fe y el respeto por el acto propio. Se CONCEDE el amparo impetrado, se dejan sin efectos las actuaciones de la demandada respecto a la cancelación de la cédula catastral y la inclusión del apartamento como parte de otro predio y se le ordena reincorporar en el archivo catastral el predio referido.",
+  "titulaciones": [
+    {
+      "tema": "ACCION DE TUTELA CONTRA UNIDAD ADMINISTRATIVA ESPECIAL DE CATASTRO DISTRITAL",
+      "subtema": "Caso en que procede por haber obrado de manera unilateral inconsulta y unilateral sin producir actuación por escrito que hubiera sido notificada a la sociedad demandante"
+    },
+    {
+      "tema": "DEBIDO PROCESO ADMINISTRATIVO Y PRINCIPIO DE LA BUENA FE",
+      "subtema": null
+    },
+    {
+      "tema": "PRINCIPIO DE INMEDIATEZ COMO REQUISITO DE PROCEDIBILIDAD DE LA ACCION DE TUTELA",
+      "subtema": "Caso en que se negó por la UAECD el boletín catastral al demandante quien lo había solicitado para informarse del avalúo correspondiente al año 2009"
+    },
+    {
+      "tema": "DERECHO AL DEBIDO PROCESO POR REVOCATORIA DE ACTOS PARTICULARES Y CONCRETOS SIN PREVIO CONSENTIMIENTO DEL ADMINISTRADO",
+      "subtema": null
+    },
+    {
+      "tema": "RESPETO POR EL ACTO PROPIO",
+      "subtema": null
+    },
+    {
+      "tema": "DEBIDO PROCESO ADMINISTRATIVO",
+      "subtema": "Caso en que mejoras en apartamento se encontraban inscritas como predio independiente en el registro catastral y se borraron de manera inconsulta y unilateral del archivo catastral"
+    }
+  ]
+}

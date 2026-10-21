@@ -1,0 +1,60 @@
+{
+  "radicado": "T-163-10",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2010,
+  "fecha_creacion": "2010-03-08",
+  "magistrado_ponente": "Dr JORGE IVÁN PALACIO PALACIO",
+  "area": "Derecho a la Salud",
+  "tema": "ACCIÓN DE TUTELA",
+  "subtema": "Hecho superado por cuanto se practicó operación de pólipo de fosas nasales y se realizaron controles correspondientes durante el trámite de la revisión",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Decreto 1485 de 1994",
+    "Decreto 806 de 1998",
+    "Ley 1122 de 2007",
+    "Decreto 1406 de 1999",
+    "Ley 100 de 1993",
+    "Decreto 2665 de 1988",
+    "Decreto 1725 de 1999"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2010/T-163-10.htm",
+  "fecha_descarga": "2026-10-21T17:32:43.683567+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2010-03-08",
+  "fecha_publicacion": null,
+  "numero": "T-163/10",
+  "tipo_cc": "T",
+  "prov_id": "578",
+  "tema_relatoria": null,
+  "resumen": "Vida, salud, seguridad social, libertad de escogencia de EPS, igualdad. Se acumulan expedientes. En el primer caso, el accionante se encontraba afiliado a la EPS Cafam, pero la entidad dejo de operar en el Distrito de Bogotá, por lo tanto fue trasladado sin su consentimiento a la EPS Ecoopos, comenta que no se sintió a gusto con dicha EPS y por ello solicitó su traslado, el cual no le fue realizado por no encontrarse en periodo de traslados autorizados. En el segundo caso, al accionante se le programó una intervención quirúrgica ambulatoria luego de cuatro meses desde la fecha en que se le autorizó dicha intervención. La Sala se pronuncia sobre la protección del derecho fundamental a la salud y el principio de continuidad en la prestación del servicio, la libre escogencia de EPS en el régimen subsidiado, la libre escogencia de la EPS-S y debida prestación del servicio, en cuanto al primer caso se encuentra que el accionante tiene todo el derecho de elegir EPS, por lo tanto, se ordena autorizar su traslado, en el segundo caso se evidencia que al accionante se le dieron las autorizaciones correspondientes y se le prestaron los servicios necesarios, por lo tanto se decide declarar la carencia actual de objeto por hecho superado.",
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Hecho superado por cuanto se practicó operación de pólipo de fosas nasales y se realizaron controles correspondientes durante el trámite de la revisión"
+    },
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Vulneración por no autorización de traslado de EPS-S cuando el afiliado cumple con el año de permanencia exigido"
+    },
+    {
+      "tema": "CARENCIA ACTUAL DE OBJETO POR HECHO SUPERADO",
+      "subtema": "Reiteración de jurisprudencia"
+    },
+    {
+      "tema": "DERECHO A LA LIBRE ESCOGENCIA DE ENTIDAD PROMOTORA DE SALUD",
+      "subtema": "Régimen subsidiado"
+    },
+    {
+      "tema": "DERECHO A LA SALUD Y PRINCIPIO DE CONTINUIDAD EN LA PRESTACION DEL SERVICIO",
+      "subtema": "Prohibición a EPS de interrumpir procedimientos, tratamientos o suministros de medicamentos cuando se pongan en peligro derechos fundamentales del paciente"
+    },
+    {
+      "tema": "PRINCIPIO DE CONTINUIDAD EN LA PRESTACION DEL SERVICIO",
+      "subtema": "EPS o EPS-S debe brindar de manera inmediata los servicios requeridos cuando se presente cambio de entidad prestadora sin dilaciones administrativas o burocráticas"
+    }
+  ]
+}

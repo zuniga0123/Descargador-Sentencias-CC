@@ -1,0 +1,54 @@
+{
+  "radicado": "T-601-10",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2010,
+  "fecha_creacion": "2010-07-27",
+  "magistrado_ponente": "Dr JUAN CARLOS HENAO PÉREZ",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCION DE TUTELA CONTRA OFICINA DE BONOS PENSIONALES DEL MINISTERIO DE HACIENDA",
+  "subtema": "Vulneración por omitir aplicar Decreto 1474 de 1997 norma vigente al momento en que se traslado de régimen",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Decreto 1474 de 1997",
+    "Decreto 2591 de 1991",
+    "Decreto 1513 de 1998",
+    "Decreto 3798 de 2003",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2010/T-601-10.htm",
+  "fecha_descarga": "2026-10-21T17:41:21.862623+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2010-07-27",
+  "fecha_publicacion": null,
+  "numero": "T-601/10",
+  "tipo_cc": "T",
+  "prov_id": "1214",
+  "tema_relatoria": null,
+  "resumen": "Debido proceso, seguridad social vida, salud. Se acumulan expedientes por unidad de materia. Las accionantes cotizaron a diferentes Fondos de Pensiones, comentan que se encuentran en imposibilidad de seguir cotizando, por lo tanto solicitaron la devolución de sus aportes de sus cuentas de ahorro individual, sin embargo, dichas solicitudes fueron negadas, argumentando que no cumplen con el número de semanas requeridos para la devolución de aportes. La Sala se pronuncia sobre la procedencia de la acción de tutela para controversias referentes al reconocimiento y pago de acreencias pensionales, se realiza reiteración de jurisprudencia sobre la adquisición del derecho al bono pensional, se encuentra que los Fondos de Pensiones accionados no tienen derecho a retener la devolución de aportes, más aún si se tiene en cuenta que las accionantes debido a su edad se encuentran en incapacidad de seguir cotizando por lo tanto se ordena emitir los bonos pensionales a que tienen derecho. Concedia.",
+  "titulaciones": [
+    {
+      "tema": "ACCION DE TUTELA CONTRA OFICINA DE BONOS PENSIONALES DEL MINISTERIO DE HACIENDA",
+      "subtema": "Vulneración por omitir aplicar Decreto 1474 de 1997 norma vigente al momento en que se traslado de régimen"
+    },
+    {
+      "tema": "ACCION DE TUTELA PARA EL RECONOCIMIENTO DE ACREENCIAS PENSIONALES",
+      "subtema": "Procedencia excepcional cuando con base en la edad del accionante resulta ineficaz someterlo a un proceso ordinario"
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA FONDO DE PENSIONES",
+      "subtema": "Procedencia por cuanto no se puede exigir requisito de 1150 semanas de cotización a una persona que ha manifestado la imposibilidad de seguir cotizando"
+    },
+    {
+      "tema": "DERECHO AL BONO PENSIONAL",
+      "subtema": "Se adquiere en el momento en que la persona decide trasladarse del régimen de prima media con prestación definida al de ahorro individual con solidaridad"
+    },
+    {
+      "tema": "DERECHO A LA DEVOLUCION DE SALDOS",
+      "subtema": "Casos en que entidades demandadas niegan devolución por no cumplir con los requisitos exigidos en los artículos 61 y 65 de la Ley 100 de 1993, respectivamente"
+    }
+  ]
+}

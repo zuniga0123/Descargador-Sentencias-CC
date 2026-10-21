@@ -1,0 +1,58 @@
+{
+  "radicado": "T-105-10",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2010,
+  "fecha_creacion": "2010-02-16",
+  "magistrado_ponente": "Dr JORGE IVÁN PALACIO PALACIO",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+  "subtema": "Caso en que hay error inducido o vía de hecho por consecuencia",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 600 de 2000",
+    "Decreto 2077 de 1991",
+    "Ley 906 de 2004",
+    "Ley 65 de 1993",
+    "Decreto 3664 de 1986"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2010/T-105-10.htm",
+  "fecha_descarga": "2026-10-21T17:30:36.020843+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2010-02-16",
+  "fecha_publicacion": null,
+  "numero": "T-105/10",
+  "tipo_cc": "T",
+  "prov_id": "502",
+  "tema_relatoria": null,
+  "resumen": "Debido proceso, habeas data, igualdad. El actor comenta que el juzgado accionado incurrió en vía de hecho por haber adelantado un proceso penal en su contra, sin haberlo vinculado estando privado de la libertad, solicita se declaré probada la vía de hecho. La Sala realiza reiteración de jurisprudencia de la procedencia excepcional de la acción de tutela contra providencias judiciales, el debido proceso en materia penal y la especial protección del derecho de defensa, la declaratoria de persona ausente como forma de vinculación en el proceso penal, el carácter obligatorio de la notificación personal en relación con el debido proceso penal de las personas privadas de la libertad, el derecho al habeas data de las personas privadas de la libertad en contra de quienes se adelantan distintas causas penales, se concluye que al juzgado accionado le correspondía informar y solicitar la conducción del actor dentro de las etapas procesales que se surtieron a partir de que asumió el conocimiento del presente asunto, por lo tanto se le vulneró al actor su derecho de defensa, se decide declarar la nulidad de las actuaciones surtidas con posterioridad al auto por medio del cual el Juzgado accionado avocó el conocimiento del asunto estudiado, se ordena notificar personalmente al actor, en el centro carcelario donde se encuentre recluido, con el fin que lo conozca y pueda ejercer su derecho de defensa, se hace una advertencia a las autoridades encargadas de actualizar las bases de datos de las personas privadas de la libertad. Concede.",
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Caso en que hay error inducido o vía de hecho por consecuencia"
+    },
+    {
+      "tema": "DEBIDO PROCESO PENAL",
+      "subtema": "Carácter obligatorio de la notificación personal a persona privada de la libertad"
+    },
+    {
+      "tema": "DEBIDO PROCESO PENAL Y DERECHO DE DEFENSA COMO GARANTIA PROCESAL",
+      "subtema": null
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Reglas de procedencia y procedibilidad"
+    },
+    {
+      "tema": "DERECHO DE HABEAS DATA DE PERSONA PRIVADA DE LA LIBERTAD",
+      "subtema": "Deberes, obligaciones y responsabilidades de fuentes de información"
+    },
+    {
+      "tema": "DECLARATORIA DE PERSONA AUSENTE EN PROCESO PENAL",
+      "subtema": "Lineamientos constitucionales"
+    }
+  ]
+}

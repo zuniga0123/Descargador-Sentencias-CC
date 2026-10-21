@@ -1,0 +1,50 @@
+{
+  "radicado": "T-789-10",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2010,
+  "fecha_creacion": "2010-10-01",
+  "magistrado_ponente": "Dr JORGE IGNACIO PRETELT CHALJUB",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCION DE TUTELA CONTRA LA GOBERNACION DEL VALLE DEL CAUCA",
+  "subtema": "Caso en que se solicita protección a la educación de niños que habitan vereda, por cuanto la ausencia de docente dejó sin clases por tres meses a veinte niños y niñas",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 472 de 1998",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2010/T-789-10.htm",
+  "fecha_descarga": "2026-10-21T17:36:23.750665+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2010-10-01",
+  "fecha_publicacion": null,
+  "numero": "T-789/10",
+  "tipo_cc": "T",
+  "prov_id": "1484",
+  "tema_relatoria": null,
+  "resumen": "Educación, derechos de los niños y las niñas. La accionante en calidad de Personera Municipal, promueve la acción en representación de los menores de la vereda El Pacífico, Valle, comenta que la escuela de la vereda no cuenta con un docente y que debido a ello los menores no han podido iniciar sus clases. La Sala se pronuncia sobre los derechos fundamentales a la educación y la igualdad de los niños y niñas, vulnerados por la ausencia del servicio de un docente, se encuentra que durante el proceso fue nombrado un docente, por lo tanto se declara la carencia actual de objeto.",
+  "titulaciones": [
+    {
+      "tema": "ACCION DE TUTELA CONTRA LA GOBERNACION DEL VALLE DEL CAUCA",
+      "subtema": "Caso en que se solicita protección a la educación de niños que habitan vereda, por cuanto la ausencia de docente dejó sin clases por tres meses a veinte niños y niñas"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Hecho superado por cuanto se realizó nombramiento de docente"
+    },
+    {
+      "tema": "LEGITIMACION POR ACTIVA",
+      "subtema": "Personería Municipal en representación de 20 niños y niñas de la vereda El Pacífico"
+    },
+    {
+      "tema": "DERECHO A LA EDUCACIÓN",
+      "subtema": "Vulneración por falta del oportuno nombramiento de docentes que se requieran de acuerdo con la necesidad del servicio educativo, que garantice la continuidad en la prestación del mismo"
+    },
+    {
+      "tema": "CARENCIA ACTUAL DE OBJETO POR HECHO SUPERADO",
+      "subtema": "Configuración"
+    }
+  ]
+}

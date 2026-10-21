@@ -1,0 +1,48 @@
+{
+  "radicado": "T-753-10",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2010,
+  "fecha_creacion": "2010-09-20",
+  "magistrado_ponente": "Dr GABRIEL EDUARDO MENDOZA MARTELO",
+  "area": "Derecho Administrativo y Función Pública",
+  "tema": "ACCION DE TUTELA CONTRA LA PROCURADURIA GENERAL DE LA NACION",
+  "subtema": "Improcedencia de reintegro al cargo por inexistencia de perjuicio irremediable",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 82 de 1993",
+    "Ley 790 de 2002",
+    "Decreto Ley 262 de 2000",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2010/T-753-10.htm",
+  "fecha_descarga": "2026-10-21T17:44:18.919182+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2010-09-20",
+  "fecha_publicacion": null,
+  "numero": "T-753/10",
+  "tipo_cc": "T",
+  "prov_id": "1433",
+  "tema_relatoria": null,
+  "resumen": "Debido proceso administrativo, trabajo, mínimo vital. El accionante fue desvinculado de un cargo que venía ocupando en provisionalidad en la entidad accionada, durante diez años sin que su despido hubiese sido motivado. La Sala se pronuncia sobre la obligación de motivar el acto administrativo por el cual se desvincula a una persona de un cargo de carrera, para el que fue nombrado en provisionalidad, se evidencia que no se esta ante la inminencia de un perjuicio irremediable y por lo tanto el amparo no resulta procedente. Niega.",
+  "titulaciones": [
+    {
+      "tema": "ACCION DE TUTELA CONTRA LA PROCURADURIA GENERAL DE LA NACION",
+      "subtema": "Improcedencia de reintegro al cargo por inexistencia de perjuicio irremediable"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Improcedencia para solicitar reintegro de quienes han sido desvinculados de cargos de carrera administrativa ocupados en provisionalidad, salvo que se presente un perjuicio irremediable"
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA LA PROCURADURIA GENERAL DE LA NACION",
+      "subtema": "Caso en que se decide no renovar nombramiento en provisionalidad de un cargo de carrera"
+    },
+    {
+      "tema": "ACTO ADMINISTRATIVO QUE DESVINCULA A UNA PERSONA DE UN CARGO DE CARRERA PARA EL QUE FUE NOMBRADO EN PROVISIONALIDAD",
+      "subtema": "Todos los actos administrativos deben ser motivados, así sea de manera sumaria, salvo excepciones consagradas de forma expresa en la Ley"
+    }
+  ]
+}

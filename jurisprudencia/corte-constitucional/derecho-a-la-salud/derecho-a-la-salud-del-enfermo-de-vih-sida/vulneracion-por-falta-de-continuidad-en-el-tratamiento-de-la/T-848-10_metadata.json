@@ -1,0 +1,55 @@
+{
+  "radicado": "T-848-10",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2010,
+  "fecha_creacion": "2010-10-28",
+  "magistrado_ponente": "Luis Ernesto Vargas Silva",
+  "area": "Derecho a la Salud",
+  "tema": "DERECHO A LA SALUD DEL ENFERMO DE VIH/SIDA",
+  "subtema": "Vulneración por falta de continuidad en el tratamiento de la patología",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 857 de 2003",
+    "Decreto 1796 de 2000",
+    "Decreto 1791 de 2000",
+    "Decreto 94 de 1989",
+    "Decreto Ley 2591 de 1991",
+    "Decreto Ley 94 de 1989",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2010/T-848-10.htm",
+  "fecha_descarga": "2026-10-21T17:42:31.040398+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2010-10-28",
+  "fecha_publicacion": null,
+  "numero": "T-848/10",
+  "tipo_cc": "T",
+  "prov_id": "1568",
+  "tema_relatoria": null,
+  "resumen": "Vida, salud, igualdad, especial protección a la familia. El accionante fue retirado del servicio activo de la Policía Nacional, se le asignó un porcentaje de pérdida de capacidad laboral del 40%, sin embargo sostiene que sufre de VIH, la cual es una enfermedad degenerativa, además debido a su retiro, le fue suspendido el tratamiento que venía recibiendo, solicita se ordene al Tribunal Médico Laboral de Revisión Militar asignarle un porcentaje de pérdida de capacidad laboral superior al 75%. La Sala se pronuncia sobre la procedencia excepcional de la acción de tutela para controvertir los conceptos emitidos por el Tribunal Médico Laboral de Revisión Militar y de Policía, la obligación de las Fuerzas Militares y de Policía Nacional de prestar asistencia médica a sus miembros retirados dentro del principio de continuidad, la especial protección de la que son objeto por parte del Estado las personas que padecen de enfermedades catastróficas o ruinosas como el VIH, en cuanto al porcentaje de pérdida de capacidad laboral no se evidencia que el Tribunal Médico Laboral, hubiera vulnerado los derechos del accionante ya que en el momento en que se realizó la calificación era portador mas no había desarrollado la enfermedad, sin embargo frente a la EPS, si se encuentra que vulneró los derechos del actor al no respetar la continuidad del servicio, por lo tanto se ordena a la Dirección Nacional de la Policía Nacional a prestar todos los servicios médicos requeridos, hasta que se verifique la efectiva inclusión del accionante en el sistema general de seguridad social. Concede parcialmente.",
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA SALUD DEL ENFERMO DE VIH/SIDA",
+      "subtema": "Vulneración por falta de continuidad en el tratamiento de la patología"
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA DIRECCION DE SANIDAD DE LA POLICIA NACIONAL",
+      "subtema": "Orden de prestar servicios médicos y asistenciales que se requiera en el tratamiento de la patología VIH/SIDA hasta que el accionante se encuentre cubierto por el SGSS"
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA DIRECCION DE SANIDAD DE LA POLICIA NACIONAL",
+      "subtema": "Procedencia excepcional para controvertir conceptos emitidos por el Tribunal Laboral de Revisión Militar y de Policía"
+    },
+    {
+      "tema": "DERECHO A LA SALUD DEL ENFERMO DE SIDA",
+      "subtema": "Protección constitucional especial"
+    },
+    {
+      "tema": "DERECHO A LA SALUD DEL PERSONAL RETIRADO DEL SERVICIO ACTIVO DE LAS FUERZAS MILITARES Y POLICIA NACIONAL",
+      "subtema": "Obligación de prestar asistencia médica a sus miembros retirados dentro del principio de continuidad"
+    }
+  ]
+}

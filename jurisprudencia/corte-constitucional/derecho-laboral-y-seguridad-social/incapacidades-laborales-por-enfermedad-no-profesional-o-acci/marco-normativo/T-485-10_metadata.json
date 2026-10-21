@@ -1,0 +1,50 @@
+{
+  "radicado": "T-485-10",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2010,
+  "fecha_creacion": "2010-06-16",
+  "magistrado_ponente": "Dr JUAN CARLOS HENAO PÉREZ",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "INCAPACIDADES LABORALES POR ENFERMEDAD NO PROFESIONAL O ACCIDENTE COMUN",
+  "subtema": "Marco normativo",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2463 de 2001",
+    "Decreto 2591 de 1991",
+    "Ley 100 de 1993",
+    "Decreto 2177 de 1989",
+    "Decreto 2461 de 2001",
+    "Ley 962 de 2005"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2010/T-485-10.htm",
+  "fecha_descarga": "2026-10-21T17:48:27.531169+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2010-06-16",
+  "fecha_publicacion": null,
+  "numero": "T-485/10",
+  "tipo_cc": "T",
+  "prov_id": "958",
+  "tema_relatoria": null,
+  "resumen": "Mínimo vital, vida digna, dignidad humana. La accionante sufre de osteoartritis degenerativa generalizada, actualmente se encuentra en espera de ser calificada por la Junta Nacional de Calificación de Invalidez, solicita se ordene el pago del auxilio de incapacidad hasta tanto se resuelva su acceso a la pensión de invalidez. La Sala realiza reiteración de jurisprudencia sobre la procedencia excepcional de la acción de tutela para reclamar el pago de acreencias laborales, se pronuncia sobre el marco normativo de las disposiciones constitucionales y legales aplicables en materia de incapacidades laborales generadas por enfermedad común, se encuentra que a la accionante se le están vulnerando sus derechos fundamentales, por lo tanto se decide acceder a la protección de los mismos, se ordena a la EPS autorizar las incapacidades laborales expedidas por el médico tratante y las remita al Fondo de Pensiones para que efectúe el pago de las mismas hasta que se emita un concepto favorable de recuperación o hasta que se lleve a cabo una nueva evaluación de su capacidad laboral que le permita acceder a la pensión de invalidez. Concede.",
+  "titulaciones": [
+    {
+      "tema": "INCAPACIDADES LABORALES POR ENFERMEDAD NO PROFESIONAL O ACCIDENTE COMUN",
+      "subtema": "Marco normativo"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Procedencia excepcional para el reconocimiento y pago de acreencias laborales y pensionales"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "La Administradora de Fondos de Pensiones debe pagar las incapacidades que superen los 180 días hasta completar los 360 días a menos que la peticionaria reanude sus labores en su lugar de trabajo"
+    },
+    {
+      "tema": "PAGO DE INCAPACIDAD LABORAL SUPERIOR A 180 DIAS",
+      "subtema": "Está a cargo de la Administradora de Fondos de Pensiones a la cual se encuentra afiliado el trabajador"
+    }
+  ]
+}

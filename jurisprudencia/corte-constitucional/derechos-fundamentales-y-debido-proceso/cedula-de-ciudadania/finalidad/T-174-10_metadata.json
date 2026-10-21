@@ -1,0 +1,44 @@
+{
+  "radicado": "T-174-10",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2010,
+  "fecha_creacion": "2010-03-08",
+  "magistrado_ponente": "Mauricio González Cuervo",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "CEDULA DE CIUDADANIA",
+  "subtema": "Finalidad",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto Ley 1260 de 1970",
+    "Decreto 999 de 1998",
+    "Decreto 1 de 1984",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2010/T-174-10.htm",
+  "fecha_descarga": "2026-10-21T17:33:05.750439+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2010-03-08",
+  "fecha_publicacion": null,
+  "numero": "T-174/10",
+  "tipo_cc": "T",
+  "prov_id": "587",
+  "tema_relatoria": null,
+  "resumen": "Libre desarrollo de la personalidad, libertad de asociación, trabajo. El actor comenta que la entidad accionada se ha negado a expedirle su cédula de ciudadanía bajo el argumento de que su nacimiento se registró en dos ocasiones, en notarías de ciudades distantes, con nombres y fechas diferentes, por lo tanto solicita se ordene la expedición de su cédula de ciudadanía. La Sala realiza reiteración de jurisprudencia sobre la vulneración de los derechos fundamentales por la no expedición de la cédula de ciudadanía, se decide declarar la carencia actual de objeto por configurarse un hecho superado.",
+  "titulaciones": [
+    {
+      "tema": "CEDULA DE CIUDADANIA",
+      "subtema": "Finalidad"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Hecho superado por expedición de la cédula de ciudadanía y reconocimiento de pensión de vejez"
+    },
+    {
+      "tema": "REGISTRADURIA NACIONAL DEL ESTADO CIVIL",
+      "subtema": "Afectación al ciudadano y a la sociedad por la no expedición oportuna de la cédula de ciudadanía"
+    }
+  ]
+}

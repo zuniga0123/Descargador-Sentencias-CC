@@ -1,0 +1,54 @@
+{
+  "radicado": "T-224-10",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2010,
+  "fecha_creacion": "2010-03-23",
+  "magistrado_ponente": "Mauricio González Cuervo",
+  "area": "Derecho a la Salud",
+  "tema": "DERECHO A LA CONTINUIDAD EN EL SERVICIO DE SALUD",
+  "subtema": "EPS no puede suspender un tratamiento o un medicamento necesario para salvaguardar la vida, la salud y la integridad de un paciente en razón a que fue desvinculado de su lugar de trabajo",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 100 de 1993"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2010/T-224-10.htm",
+  "fecha_descarga": "2026-10-21T17:34:46.331017+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2010-03-23",
+  "fecha_publicacion": null,
+  "numero": "T-224/10",
+  "tipo_cc": "T",
+  "prov_id": "648",
+  "tema_relatoria": null,
+  "resumen": "Vida digna, seguridad social. La accionante actúa como agente oficioso de su madre quien sufre de hernia umbilical, para lo cual le fue programada una cirugía, sinembargo su contrato de trabajo fue cancelado y tanto ella como su madre que era su beneficiaria quedaron excluidas del sistema de salud y por lo tanto no se le pudo practicar la cirugía. La Sala realiza reiteración de jurisprudencia sobre la protección constitucional del derecho a la salud y la continuidad en la prestación del servicio, se decide acceder a la protección de los derechos invocados por la representada, debido a que es un sujeto de especial protección, por lo tanto se ordena a la EPS prestar los servicios médicos requeridos hasta que el estado de salud de la representada quede reestablecido y realizar los trámites necesarios para afiliarla al régimen subsidiado. Concede.",
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA CONTINUIDAD EN EL SERVICIO DE SALUD",
+      "subtema": "EPS no puede suspender un tratamiento o un medicamento necesario para salvaguardar la vida, la salud y la integridad de un paciente en razón a que fue desvinculado de su lugar de trabajo"
+    },
+    {
+      "tema": "LEGITIMACION EN LA CAUSA POR ACTIVA EN TUTELA",
+      "subtema": "Hija en representación de su mamá enferma"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Orden a la EPS de instruir a la actora en lo pertinente a la afiliación al sistema a través del régimen subsidiado"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "EPS debe programar valoración médica con el fin de determinar si es procedente realizar cirugía a la madre de la peticionaria y proporcionarle todos los exámenes, valoraciones y medicamentos necesarios para atender su patología"
+    },
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Protección constitucional"
+    },
+    {
+      "tema": "DERECHO A LA CONTINUIDAD EN EL SERVICIO DE SALUD",
+      "subtema": "Característica principal del servicio a la salud como servicio público esencial"
+    }
+  ]
+}

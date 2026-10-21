@@ -1,0 +1,48 @@
+{
+  "radicado": "T-365-10",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2010,
+  "fecha_creacion": "2010-05-11",
+  "magistrado_ponente": "Dra MARÍA VICTORIA CALLE CORREA",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "DERECHO A LA PENSION DE JUBILACION",
+  "subtema": "Aplicación del artículo 7 de la Ley 71/88 que permite acumulación de aportes realizados en el sector público y en el sector privado",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 71 de 1988",
+    "Decreto 2591 de 1991",
+    "Ley 100 de 1993",
+    "Ley 33 de 1985"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2010/T-365-10.htm",
+  "fecha_descarga": "2026-10-21T17:45:55.740239+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2010-05-11",
+  "fecha_publicacion": null,
+  "numero": "T-365/10",
+  "tipo_cc": "T",
+  "prov_id": "807",
+  "tema_relatoria": null,
+  "resumen": "Mínimo vital, vida digna, seguridad social. El accionante solicita se ordene a la entidad accionada reconocerle y pagarle su pensión de vejez, a la cual considera tener derecho por cumplir con la edad y el tiempo de cotización requeridos, pese a que dichas cotizaciones no se hicieron solo ante la entidad accionada, sino ante otras entidades, cumpliendo ampliamente el número de semanas requeridas para poder acceder a la pensión de vejez. La Sala realiza reiteración de jurisprudencia sobre la procedibilidad de la acción de tutela frente a controversias laborales, se aclara que los requisitos que se impongan para acceder a los beneficios de la Seguridad Social se cumplen ante el Sistema y no ante entidades u órganos que lo compongan, se encuentra que el ISS vulneró los derechos a la seguridad social y al mínimo vital del accionante al negarle el reconocimiento de su pensión, por no cumplir con el requisito de semanas de cotización a esta entidad, dado que el accionante cotizó más tiempo del exigido al Sistema general de pensiones, por lo tanto se decide acceder a la pretensión del reconocimiento pensional por vejez. Concedida.",
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA PENSION DE JUBILACION",
+      "subtema": "Aplicación del artículo 7 de la Ley 71/88 que permite acumulación de aportes realizados en el sector público y en el sector privado"
+    },
+    {
+      "tema": "DERECHO A LA PENSION DE JUBILACION",
+      "subtema": "El ISS vulneró los derechos a la seguridad social y al mínimo vital del accionante, al negarle el reconocimiento de la pensión dado que cotizó más tiempo del exigido al Sistema General de Pensiones"
+    },
+    {
+      "tema": "ACCION DE TUTELA FRENTE A CONTROVERSIAS LABORALES",
+      "subtema": "Casos de procedencia"
+    },
+    {
+      "tema": "DERECHO A LA PENSION DE JUBILACION",
+      "subtema": "Requisitos que se impongan para acceder a los beneficios de la seguridad social se cumplen ante el sistema, no ante entidades u órganos que lo compongan"
+    }
+  ]
+}

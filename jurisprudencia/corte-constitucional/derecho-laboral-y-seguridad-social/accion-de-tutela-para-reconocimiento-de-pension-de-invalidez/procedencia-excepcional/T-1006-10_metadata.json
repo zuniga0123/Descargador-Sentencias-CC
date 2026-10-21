@@ -1,0 +1,50 @@
+{
+  "radicado": "T-1006-10",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2010,
+  "fecha_creacion": "2010-12-06",
+  "magistrado_ponente": "Juan Carlos Henao Pérez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "ACCION DE TUTELA PARA RECONOCIMIENTO DE PENSION DE INVALIDEZ",
+  "subtema": "Procedencia excepcional",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 860 de 2003",
+    "Ley 100 de 1993",
+    "Decreto 2591 de 1991",
+    "Ley 797 de 2003",
+    "Decreto 917 de 1999",
+    "Decreto 246 de 2001"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2010/T-1006-10.htm",
+  "fecha_descarga": "2026-10-21T17:28:50.856260+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2010-12-06",
+  "fecha_publicacion": null,
+  "numero": "T-1006/10",
+  "tipo_cc": "T",
+  "prov_id": "1745",
+  "tema_relatoria": null,
+  "resumen": "Seguridad social, vida digna. El demandante padece una enfermedad de carácter progresivo y degenerativa denominada carcinoma in situ de próstata que le generó una pérdida de la capacidad laboral del 59%. El ISS negó la pensión de invalidez argumentando que su situación no estaba acorde con los requisitos contemplados en la normatividad que regula el asunto, en tanto no acreditaba la cotización de 50 semanas durante los tres años anteriores a la estructuración de la enfermedad y, por no cumplir con el requisito de fidelidad en la cotización para con el Sistema General de Pensiones consagrado en la Ley 860 de 2003. La Sala se pronuncia sobre la procedibilidad de la acción de tutela para solicitar el reconocimiento y pago de la pensión de invalidez, así mismo, sobre el entorno normativo de dicha prestación a partir de la Ley 100 de 1993 y la declaratoria inconstitucionalidad del requisito de fidelidad en la cotización. Se CONCEDE el amparo solicitado y se ordena al ISS reconocer y pagar la prestación reclamada por el demandante.",
+  "titulaciones": [
+    {
+      "tema": "ACCION DE TUTELA PARA RECONOCIMIENTO DE PENSION DE INVALIDEZ",
+      "subtema": "Procedencia excepcional"
+    },
+    {
+      "tema": "PENSIÓN DE INVALIDEZ",
+      "subtema": "Desarrollo y evolución legal"
+    },
+    {
+      "tema": "ACCION DE TUTELA PARA RECONOCIMIENTO DE PENSION DE INVALIDEZ",
+      "subtema": "Procedencia excepcional por afectación al mínimo vital y vida digna de sujetos de especial protección"
+    },
+    {
+      "tema": "PENSION DE INVALIDEZ E INCONSTITUCIONALIDAD DEL REQUISITO DE FIDELIDAD EN LA COTIZACION",
+      "subtema": "Artículo 1 de la Ley 860/03"
+    }
+  ]
+}

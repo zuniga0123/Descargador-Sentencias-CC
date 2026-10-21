@@ -1,0 +1,75 @@
+{
+  "radicado": "T-208-10",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2010,
+  "fecha_creacion": "2010-03-23",
+  "magistrado_ponente": "Dr JUAN CARLOS HENAO PÉREZ",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "DERECHO A LA SEGURIDAD SOCIAL",
+  "subtema": "Caso en que no se practica dictamen de calificación de invalidez por discrepancia entre la EPS y la Junta Regional de Calificación de Invalidez respecto a quien debe cancelar los honorarios de los miembros de ésta y el origen",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Ley 962 de 2005",
+    "Decreto 2463 de 2005",
+    "Decreto 2463 de 2001",
+    "Decreto 2591 de 1991",
+    "Decreto 1295 de 1994",
+    "Decreto 1295 de 1995",
+    "Ley 776 de 2002",
+    "Decreto 1266 de 1994",
+    "Decreto 1346 de 1994",
+    "Decreto 524 de 2000"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2010/T-208-10.htm",
+  "fecha_descarga": "2026-10-21T17:34:09.154345+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2010-03-23",
+  "fecha_publicacion": null,
+  "numero": "T-208/10",
+  "tipo_cc": "T",
+  "prov_id": "632",
+  "tema_relatoria": null,
+  "resumen": "Seguridad social, mínimo vital, salud, igualdad, debido proceso. La accionante solicita se ordene a la Junta Regional de Calificación de Invalidez de Bogotá, que emita el dictamen de calificación de invalidez correspondiente, teniendo en cuenta que desde julio de 2008 su EPS radicó la documentación necesaria para emitir dicha calificación, la Junta se niega a realizar el dictamen hasta tanto sus honorarios no hayan sido cancelados, el problema radica en la duda sobre el origen de la enfermedad y por lo tanto la EPS como la accionante se niegan a cancelarlos. La Sala se pronuncia sobre la calificación de invalidez y el pago de honorarios de los miembros de las Juntas de Calificación de Invalidez, el estudio de las normas constitucionales sobre seguridad social y especial protección al trabajo, y la persona a quien le corresponde asumir los costos relativos a la verificación de una eventual incapacidad laboral, la calificación del origen del accidente, la enfermedad o la muerte en el sistema de riesgos profesionales, la diferencia entre la discapacidad de origen común y la discapacidad de origen profesional, se decide amparar los derechos fundamentales de la accionante por lo tanto se ordena a la EPS y a la ARP que conformen una junta para resolver la discrepancia sobre el origen de la enfermedad, en caso de que persista la controversia deberá resolverla la Junta Regional y el costo de los honorarios será asumido por la entidad que resulte responsable del pago de la prestación correspondiente.",
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA SEGURIDAD SOCIAL",
+      "subtema": "Caso en que no se practica dictamen de calificación de invalidez por discrepancia entre la EPS y la Junta Regional de Calificación de Invalidez respecto a quien debe cancelar los honorarios de los miembros de ésta y el origen"
+    },
+    {
+      "tema": "DISCAPACIDAD",
+      "subtema": "Diferencia entre la discapacidad por origen común y la discapacidad por origen profesional"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Orden a la EPS y a la ARP de conformar una junta de calificación para resolver controversia respecto al origen de la discapacidad"
+    },
+    {
+      "tema": "DERECHO A LA SEGURIDAD SOCIAL, A LA SALUD Y A LA VIDA",
+      "subtema": "Vulneración por no practicar dictamen de calificación de invalidez al existir discrepancia sobre el origen de la discapacidad"
+    },
+    {
+      "tema": "JUNTA NACIONAL DE CALIFICACION DE INVALIDEZ",
+      "subtema": "Honorarios a cargo de la entidad de previsión o seguridad social correspondiente"
+    },
+    {
+      "tema": "PROCEDIMIENTO PARA CALIFICACION DEL ESTADO DE INVALIDEZ",
+      "subtema": "Análisis del artículo 41 de la Ley 100 de 1993 reformado por el artículo 52 de la Ley 962 de 2005"
+    },
+    {
+      "tema": "JUNTA REGIONAL DE CALIFICACION DE INVALIDEZ",
+      "subtema": "Corresponde el pago de honorarios a la entidad de previsión o seguridad social o sociedad administradora a la que este afiliado el solicitante"
+    },
+    {
+      "tema": "PENSION DE INVALIDEZ POR RIESGO COMUN Y PENSION DE INVALIDEZ POR RIESGOS PROFESIONALES",
+      "subtema": "El monto varía dependiendo del origen de la discapacidad"
+    },
+    {
+      "tema": "RIESGOS PROFESIONALES",
+      "subtema": "Clasificación del origen del accidente, la enfermedad o la muerte en el sistema"
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "radicado": "T-168-10",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2010,
+  "fecha_creacion": "2010-03-08",
+  "magistrado_ponente": "Dr GABRIEL EDUARDO MENDOZA MARTELO",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "DERECHO AL HABEAS DATA",
+  "subtema": "Núcleo esencial",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 791 de 2002"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2010/T-168-10.htm",
+  "fecha_descarga": "2026-10-21T17:32:58.451340+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2010-03-08",
+  "fecha_publicacion": null,
+  "numero": "T-168/10",
+  "tipo_cc": "T",
+  "prov_id": "583",
+  "tema_relatoria": null,
+  "resumen": "Intimidad, buen nombre, honra, habeas data. La accionante comenta que se encuentra reportada a data crédito, pese a que no existe autorización para realizar el reporte y es falsa la información que sobre ella se suministró, además lleva más de dos meses solicitando las copias de los documentos que soportan la existencia de la obligación, así como de la autorización otorgada para realizar el reporte, sin que a la fecha le hayan sido entregados. La Sala realiza reiteración de jurisprudencia sobre el alcance del derecho de habeas data, las condiciones en que procede el reporte negativo a las centrales de riesgo, se concluye que COMCEL no le esta vulnerado los derechos a la actora debido a que se aportaron comprobantes de la deuda y el consentimiento firmado por ella de ser reportada a las centrales de riesgos, en cuanto a la entidad que realizó el reporte y el derecho de petición presentado por la accionante solicitando información sobre si las entidades se encontraban legitimadas para realizar el reporte, se ordena darle respuesta y de no estar autorizadas, deberá DATACREDITO S.A. proceder a cancelar el reporte. Concede parcialmente.",
+  "titulaciones": [
+    {
+      "tema": "DERECHO AL HABEAS DATA",
+      "subtema": "Núcleo esencial"
+    },
+    {
+      "tema": "DATO FINANCIERO NEGATIVO",
+      "subtema": "Término de permanencia de cuatro (4) años contados a partir del momento en que se extinga la obligación, incluye la prescripción"
+    },
+    {
+      "tema": "DATO FINANCIERO NEGATIVO",
+      "subtema": "Término único de caducidad, carente de gradualidad es contrario a la constitución"
+    },
+    {
+      "tema": "DATO FINANCIERO NEGATIVO",
+      "subtema": "Caducidad por mora inferior a dos (2) años"
+    },
+    {
+      "tema": "DATO FINANCIERO NEGATIVO",
+      "subtema": "Término de permanencia de cuatro (4) años contados a partir del momento en que se extinga la obligación"
+    },
+    {
+      "tema": "DATO FINANCIERO NEGATIVO",
+      "subtema": "Permanencia"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Orden a DATACREDITO de verificar si entidades que remiten datos para divulgación"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Orden a DATACREDITO de verificar si entidades que remiten datos para divulgación se encontraban autorizadas para hacer el reporte que actualmente se mantiene en las bases de datos"
+    },
+    {
+      "tema": "BANCO DE DATOS",
+      "subtema": "Reglas para el manejo de la información que reposa en las centrales de riesgo"
+    },
+    {
+      "tema": "DERECHO DE PETICIÓN",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "DERECHO DE PETICION FRENTE A ENTIDAD FINANCIERA",
+      "subtema": "Respuesta oportuna y de fondo"
+    },
+    {
+      "tema": "DERECHO AL HABEAS DATA",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "DERECHO DE PETICIÓN",
+      "subtema": "Notificación de respuesta al interesado"
+    }
+  ]
+}

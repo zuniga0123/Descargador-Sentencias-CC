@@ -1,0 +1,48 @@
+{
+  "radicado": "T-436-10",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2010,
+  "fecha_creacion": "2010-06-03",
+  "magistrado_ponente": "Dr LUIS ERNESTO VARGAS SILVA",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "ACCION DE TUTELA EN MATERIA PENSIONAL",
+  "subtema": "Procedencia excepcional para obtener el pago de mesadas pensionales atrasadas",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 3041 de 1996",
+    "Decreto 2879 de 1985",
+    "Decreto 758 de 1990",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2010/T-436-10.htm",
+  "fecha_descarga": "2026-10-21T17:47:28.420674+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2010-06-03",
+  "fecha_publicacion": null,
+  "numero": "T-436/10",
+  "tipo_cc": "T",
+  "prov_id": "901",
+  "tema_relatoria": null,
+  "resumen": "Seguridad social, debido proceso, mínimo vital. La accionante comenta que a su esposo le fue otorgada una pensión compartida entre el ISS y la entidad accionada, debido al fallecimiento de su esposo le fue reconocida la pensión de sobreviviente, sin embargo desde agosto de 2009 la entidad accionada dejó de cancelarle su parte proporcional de la mesada pensional, dejándola desprotegida, solicita se ordene el pago proporcional de la mesada pensional a cargo de la empresa accionada, y de las mesadas en mora desde mes de agosto de dos mil nueve. La Sala constata que en el caso estudiado ha cesado la vulneración de los derechos fundamentales de la accionante por cuanto se reanudó el pago de las mesadas pensionales, se declara la improcedencia de la acción de tutela por carencia actual de objeto, por hecho superado.",
+  "titulaciones": [
+    {
+      "tema": "ACCION DE TUTELA EN MATERIA PENSIONAL",
+      "subtema": "Procedencia excepcional para obtener el pago de mesadas pensionales atrasadas"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Hecho superado por pago de la suma correspondiente a las mesadas dejadas de cancelar por parte de la empresa en liquidación"
+    },
+    {
+      "tema": "HECHO SUPERADO",
+      "subtema": "Interpretación y alcance constitucional"
+    },
+    {
+      "tema": "PENSION COMPARTIDA ENTRE EL ISS Y EMPRESA EN LIQUIDACION",
+      "subtema": "Caso en que por error la empresa en liquidación no paga su cuota parte"
+    }
+  ]
+}

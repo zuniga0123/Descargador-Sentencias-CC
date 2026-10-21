@@ -1,0 +1,48 @@
+{
+  "radicado": "T-783-10",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2010,
+  "fecha_creacion": "2010-09-30",
+  "magistrado_ponente": "Dr HUMBERTO ANTONIO SIERRA PORTO",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+  "subtema": "Causales de procedibilidad y configuración de la vulneración de la Constitución como requisito",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 244 de 1995",
+    "Ley 50 de 1990",
+    "Decreto Ley 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2010/T-783-10.htm",
+  "fecha_descarga": "2026-10-21T17:44:56.421708+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2010-09-30",
+  "fecha_publicacion": null,
+  "numero": "T-783/10",
+  "tipo_cc": "T",
+  "prov_id": "1475",
+  "tema_relatoria": null,
+  "resumen": "Debido proceso, igualdad. A los accionantes se les reconoció una indemnización moratoria por el pago de cesantías mal liquidadas, y se dispuso que dicha indemnización se empezaría a calcular pasados los 45 días después de proferida la sentencia, alegan los actores que el mismo Tribunal en una sentencia anterior, decidió un caso con hechos idénticos, en el que dispuso que la indemnización moratoria se calcularía desde la fecha en que se causó el derecho. La Sala como asunto previo pasa a revisar las causales de procedibilidad de la acción de tutela contra providencias judiciales y el requisito de configuración de un perjuicio ius fundamental, luego realiza reiteración de jurisprudencia sobre el carácter vinculante del precedente judicial horizontal y vertical en el ordenamiento colombiano, se concluye que el juez del caso se apartó de un precedente, en lo referente a la fórmula para calcular unos intereses moratorios específicos en algunos casos igualmente específicos y esto como tema genérico no tiene una relación directa con derechos constitucionales, por lo que se decide no acceder a las pretensiones de los actores. Niega",
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Causales de procedibilidad y configuración de la vulneración de la Constitución como requisito"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Improcedencia por cuanto la aplicación de fórmula para calcular intereses moratorios no tiene relación directa con derechos fundamentales"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Causales de procedibilidad y requisito de configuración de perjuicio iusfundamental"
+    },
+    {
+      "tema": "PRECEDENTE JUDICIAL HORIZONTAL Y VERTICAL",
+      "subtema": "Alcance y carácter vinculante"
+    }
+  ]
+}

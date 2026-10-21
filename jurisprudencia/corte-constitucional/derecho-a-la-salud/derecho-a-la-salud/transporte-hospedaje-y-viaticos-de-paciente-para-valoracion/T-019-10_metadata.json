@@ -1,0 +1,49 @@
+{
+  "radicado": "T-019-10",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2010,
+  "fecha_creacion": "2010-01-22",
+  "magistrado_ponente": "Dr JUAN CARLOS HENAO PÉREZ",
+  "area": "Derecho a la Salud",
+  "tema": "DERECHO A LA SALUD",
+  "subtema": "Transporte, hospedaje y viáticos de paciente para valoración con el especialista de neurología",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 715 de 2001",
+    "Ley 1122 de 2007",
+    "Acto Legislativo 1 de 2001",
+    "Ley 100 de 1993"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2010/T-019-10.htm",
+  "fecha_descarga": "2026-10-21T17:38:35.377363+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2010-01-22",
+  "fecha_publicacion": null,
+  "numero": "T-019/10",
+  "tipo_cc": "T",
+  "prov_id": "387",
+  "tema_relatoria": null,
+  "resumen": "Salud, vida digna. El actor fue víctima de la explosión de una bomba, ante lo cual requiere tratamiento médico especializado en la ciudad de Florencia, pero no tiene dinero para desplazarse y la EPS accionada no cubre los gastos de transporte por no encontrarse incluidos en el POS, además pese encontrarse afiliado al sistema de salud subsidiado en el nivel I le están exigiendo el pago de las cuotas moderadoras. La Sala se pronuncia sobre el cubrimiento del transporte y la estadía como medio para acceder a un servicio de salud, la exoneración de realizar los pagos moderadores, se encuentra que el actor es un sujeto de especial protección debido a su edad, por lo tanto se decide conceder la protección de sus derechos fundamentales y por encontrarse en el nivel I del SISBEN se le debe exonerar del pago de cuotas moderadoras. Concedida.",
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Transporte, hospedaje y viáticos de paciente para valoración con el especialista de neurología"
+    },
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "El transporte y la estadía como medio para acceder a un servicio"
+    },
+    {
+      "tema": "SISTEMA GENERAL DE SEGURIDAD SOCIAL EN SALUD",
+      "subtema": "Cuotas moderadoras o copagos no pueden convertirse en barreras de acceso al servicio para personas que no tienen recursos económicos"
+    },
+    {
+      "tema": "SISTEMA GENERAL DE SEGURIDAD SOCIAL EN SALUD",
+      "subtema": "Exoneración de pagos compartidos, cuotas moderadoras y copagos"
+    }
+  ]
+}

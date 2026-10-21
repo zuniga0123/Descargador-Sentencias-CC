@@ -1,0 +1,58 @@
+{
+  "radicado": "T-845-10",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2010,
+  "fecha_creacion": "2010-10-28",
+  "magistrado_ponente": "Luis Ernesto Vargas Silva",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "DERECHO AL ACCESO A LA EDUCACION SUPERIOR Y A LA LIBERTAD DE ESCOGER PROFESION U OFICIO",
+  "subtema": "Vulneración por parte del Comité de Créditos del Icetex por exceder marco de acción al imponer requisito adicional para acceso a crédito educativo",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2951 de 1991",
+    "Ley 30 de 1992",
+    "Decreto 3155 de 1968",
+    "Decreto 726 de 1989",
+    "Decreto 276 de 2004",
+    "Ley 1002 de 2005"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2010/T-845-10.htm",
+  "fecha_descarga": "2026-10-21T17:42:19.152712+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2010-10-28",
+  "fecha_publicacion": null,
+  "numero": "T-845/10",
+  "tipo_cc": "T",
+  "prov_id": "1565",
+  "tema_relatoria": null,
+  "resumen": "Educación, libertad de escoger profesión u oficio. La accionante comenta que tramitó un crédito ante el ICETEX el cual no fue aprobado debido a que el Instituto de Educación Superior, al que se encuentra matriculada no tiene convenio con el ICETEX. La Sala se pronuncia sobre el derecho fundamental a la educación y la obligación estatal de fomentar la educación superior, el debido proceso, la confianza legítima y la buena fe, se concluye que el ICETEX, no puede adoptar decisiones que condicionen el acceso al crédito educativo por parte de los ciudadanos, a la suscripción de convenios entre los centros educativos y el mismo, pues su obligación principal es velar porque sus recursos lleguen a toda la población, por lo tanto se ordena una vez actualizados los datos, autorizar el crédito si la accionante aún lo desea.",
+  "titulaciones": [
+    {
+      "tema": "DERECHO AL ACCESO A LA EDUCACION SUPERIOR Y A LA LIBERTAD DE ESCOGER PROFESION U OFICIO",
+      "subtema": "Vulneración por parte del Comité de Créditos del Icetex por exceder marco de acción al imponer requisito adicional para acceso a crédito educativo"
+    },
+    {
+      "tema": "DERECHO A LA EDUCACIÓN",
+      "subtema": "Estado tiene la obligación de fomentar la educación superior"
+    },
+    {
+      "tema": "DERECHO A LA EDUCACION SUPERIOR Y DEBIDO PROCESO",
+      "subtema": "Vulneración por rechazo de crédito con base en un requisito desconocido"
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA EL ICETEX",
+      "subtema": "Caso en que no se aprobó solicitud de crédito debido a que la Institución de Educación Superior en que se encuentra matriculada la estudiante no presenta contrato vigente con el Icetex"
+    },
+    {
+      "tema": "DERECHO A LA EDUCACIÓN SUPERIOR",
+      "subtema": "Principio de buena fe en sus dimensiones de respeto al acto propio y confianza legítima"
+    },
+    {
+      "tema": "DERECHO A LA EDUCACIÓN",
+      "subtema": "Fundamental"
+    }
+  ]
+}

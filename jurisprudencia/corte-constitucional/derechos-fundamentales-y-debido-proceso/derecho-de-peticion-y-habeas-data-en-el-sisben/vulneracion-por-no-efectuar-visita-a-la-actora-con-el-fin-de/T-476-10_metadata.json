@@ -1,0 +1,51 @@
+{
+  "radicado": "T-476-10",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2010,
+  "fecha_creacion": "2010-06-16",
+  "magistrado_ponente": "Dr JUAN CARLOS HENAO PÉREZ",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "DERECHO DE PETICION Y HABEAS DATA EN EL SISBEN",
+  "subtema": "Vulneración por no efectuar visita a la actora con el fin de determinar su residencia definitiva y no elaborar encuesta individual para fijar su nueva calificación",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 100 de 1993",
+    "Ley 715 de 2001"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2010/T-476-10.htm",
+  "fecha_descarga": "2026-10-21T17:48:12.766876+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2010-06-16",
+  "fecha_publicacion": null,
+  "numero": "T-476/10",
+  "tipo_cc": "T",
+  "prov_id": "949",
+  "tema_relatoria": null,
+  "resumen": "Salud, vida digna. La accionante solicita la actualización sus datos y los de su menor hijo en el SISBEN teniendo en cuenta que actualmente reside en la ciudad de Bogotá. La Sala realiza reiteración de jurisprudencia sobre el derecho a la actualización en el SISBEN y la procedencia de la acción de tutela para ordenar la reclasificación en dicho sistema, se concluye que la accionante es un sujeto de especial protección ya que es madre cabeza de familia así como también lo es su hijo, el cual tiene menos de un año de edad, por lo tanto se ordena a la Secretaria Distrital responsable de la focalización del gasto social, que efectúe un visita a la accionante, donde determine si su residencia en la Ciudad de Bogotá es definitiva y le elabore una encuesta individual para fijar su clasificación en el SISBEN, según las circunstancias del caso. Concede.",
+  "titulaciones": [
+    {
+      "tema": "DERECHO DE PETICION Y HABEAS DATA EN EL SISBEN",
+      "subtema": "Vulneración por no efectuar visita a la actora con el fin de determinar su residencia definitiva y no elaborar encuesta individual para fijar su nueva calificación"
+    },
+    {
+      "tema": "DERECHO DE HABEAS DATA EN EL SISBEN",
+      "subtema": "Guarda estrecha relación con la inclusión y actualización de datos en el sistema"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Procedencia para ordenar la recalificación en el SISBEN"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Secretaria Distrital de Planeación deberá visitar a la peticionaria para determinar su residencia definitiva y elaborar encuesta individual para recalificarla"
+    },
+    {
+      "tema": "SISBEN",
+      "subtema": "Actualización de datos"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "radicado": "T-847-10",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2010,
+  "fecha_creacion": "2010-10-28",
+  "magistrado_ponente": "Dr LUIS ERNESTO VARGAS SILVA",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "HABEAS DATA FINANCIERO",
+  "subtema": "Administradores informáticos deben obtener autorización previa y expresa de los titulares del dato financiero que se pretende recopilar, tratar o divulgar",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 1266 de 2008",
+    "Decreto 2649 de 1993"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2010/T-847-10.htm",
+  "fecha_descarga": "2026-10-21T17:42:26.977520+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2010-10-28",
+  "fecha_publicacion": null,
+  "numero": "T-847/10",
+  "tipo_cc": "T",
+  "prov_id": "1567",
+  "tema_relatoria": null,
+  "resumen": "Buen nombre, rectificación de información, habeas data. La accionante comenta que fue reportada a las centrales de riesgo debido a un error cometido, por la entidad bancaria accionada, la cual antes de reportarla no verificó la exactitud y veracidad de la información. La Sala se pronuncia sobre los derechos al buen nombre y al hábeas data como derechos fundamentales constitucionales, el derecho fundamental al hábeas data financiero respecto de las informaciones que suministran las fuentes sobre datos bancarios y crediticios a las centrales de riesgo, se concluye que el historial crediticio de la accionante fue afectado al igual que su reputación financiera, por lo tanto se ordena retirar cualquier tipo de reporte de la obligación de consumo aquí mencionada, por encontrarse inexistente ante la ausencia relevante de documentos de soporte que la contengan o la demuestren. Concedida.",
+  "titulaciones": [
+    {
+      "tema": "HABEAS DATA FINANCIERO",
+      "subtema": "Administradores informáticos deben obtener autorización previa y expresa de los titulares del dato financiero que se pretende recopilar, tratar o divulgar"
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA PARTICULARES",
+      "subtema": "Entidades bancarias prestan un servicio público"
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA PARTICULARES",
+      "subtema": "Reiteración de jurisprudencia y aplicación a la relación entre el deudor y el acreedor"
+    },
+    {
+      "tema": "DERECHO AL BUEN NOMBRE, AL HABEAS DATA Y DERECHO DE PETICION",
+      "subtema": "Derechos de carácter fundamental"
+    },
+    {
+      "tema": "DERECHO AL BUEN NOMBRE Y AL HABEAS DATA",
+      "subtema": "Vulneración por desconocimiento de requisitos ineludibles para que proceda el reporte de un dato negativo ante las centrales de riesgos"
+    },
+    {
+      "tema": "DERECHO AL BUEN NOMBRE Y AL HABEAS DATA",
+      "subtema": "Vulneración por parte de entidad bancaria al remitir información negativa a centrales de riesgos sin verificar la exactitud y veracidad de la información crediticia en mora y sin autorización expresa, específica y e"
+    }
+  ]
+}

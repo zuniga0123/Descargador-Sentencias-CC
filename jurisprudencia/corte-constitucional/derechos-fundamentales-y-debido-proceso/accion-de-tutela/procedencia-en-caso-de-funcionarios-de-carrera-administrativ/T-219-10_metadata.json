@@ -1,0 +1,47 @@
+{
+  "radicado": "T-219-10",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2010,
+  "fecha_creacion": "2010-03-23",
+  "magistrado_ponente": "Mauricio González Cuervo",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCIÓN DE TUTELA",
+  "subtema": "Procedencia en caso de funcionarios de carrera administrativa nombrados en provisionalidad separados del cargo mediante acto sin motivación",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 734 de 2000",
+    "Decreto 2591 de 1991",
+    "Decreto 2304 de 1989"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2010/T-219-10.htm",
+  "fecha_descarga": "2026-10-21T17:34:38.963900+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2010-03-23",
+  "fecha_publicacion": null,
+  "numero": "T-219/10",
+  "tipo_cc": "T",
+  "prov_id": "643",
+  "tema_relatoria": null,
+  "resumen": "Debido proceso, trabajo, mínimo vital. Se acumulan expedientes por unidad de materia. Los actores solicitan se ordene la nulidad de los actos administrativos que los declararon insubsistentes y se ordene su reintegro. La Sala se pronuncia sobre la procedencia de la acción de tutela interpuesta en el caso de despido sin motivación de funcionarios nombrados en provisionalidad en cargos de carrera, la necesidad de motivación de los actos administrativos como desarrollo del principio de publicidad de la función pública, la finalidad de la vía gubernativa, se encuentra que las actuaciones administrativas fueron motivadas y por lo tanto los actores pudieron recurrir a la jurisdicción ordinaria, por lo tanto la acción de tutela no resulta procedente. Niega.",
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Procedencia en caso de funcionarios de carrera administrativa nombrados en provisionalidad separados del cargo mediante acto sin motivación"
+    },
+    {
+      "tema": "MOTIVACION DE LOS ACTOS ADMINISTRATIVOS QUE DECLARAN LA INSUBSISTENCIA DE LOS NOMBRAMIENTOS EN PROVISIONALIDAD EN CARGOS DE CARRERA",
+      "subtema": null
+    },
+    {
+      "tema": "MOTIVACION DE LOS ACTOS ADMINISTRATIVOS QUE DECLARAN LA INSUBSISTENCIA DE LOS NOMBRAMIENTOS EN PROVISIONALIDAD EN CARGOS DE CARRERA",
+      "subtema": "Explicación de manera clara, detallada y precisa sobre las razones sobre las cuales se prescindirá del servicio"
+    },
+    {
+      "tema": "VIA GUBERNATIVA",
+      "subtema": "Finalidad del agotamiento"
+    }
+  ]
+}

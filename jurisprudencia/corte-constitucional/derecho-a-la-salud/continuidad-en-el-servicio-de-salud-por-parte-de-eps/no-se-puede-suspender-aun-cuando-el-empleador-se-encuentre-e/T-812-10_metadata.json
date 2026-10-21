@@ -1,0 +1,52 @@
+{
+  "radicado": "T-812-10",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2010,
+  "fecha_creacion": "2010-10-08",
+  "magistrado_ponente": "María Victoria Calle Correa",
+  "area": "Derecho a la Salud",
+  "tema": "CONTINUIDAD EN EL SERVICIO DE SALUD POR PARTE DE EPS",
+  "subtema": "No se puede suspender aun cuando el empleador se encuentre en mora en el pago de los aportes",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2463 de 2001",
+    "Ley 100 de 1993",
+    "Decreto 2591 de 1991",
+    "Decreto 2461 de 2001"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2010/T-812-10.htm",
+  "fecha_descarga": "2026-10-21T17:43:34.853061+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2010-10-08",
+  "fecha_publicacion": null,
+  "numero": "T-812/10",
+  "tipo_cc": "T",
+  "prov_id": "1510",
+  "tema_relatoria": null,
+  "resumen": "Salud, seguridad social. El demandante instaura la acción de tutela para que Cafesalud E.P.S. le continué prestando los servicios médicos que requiere para tratar las secuelas de un accidente de tránsito que sufrió y que le generó varias fracturas en su cuerpo y una incapacidad superior a 180 días. En sede de revisión la Sala tiene conocimiento de que la situación que ponía en riesgo los derechos fundamentales del actor desapareció y en tal sentido declara la carencia actual de objeto por HECHO SUPERADO.",
+  "titulaciones": [
+    {
+      "tema": "CONTINUIDAD EN EL SERVICIO DE SALUD POR PARTE DE EPS",
+      "subtema": "No se puede suspender aun cuando el empleador se encuentre en mora en el pago de los aportes"
+    },
+    {
+      "tema": "ALLANAMIENTO A LA MORA",
+      "subtema": "Caso de atención a empleado que sufrió un accidente"
+    },
+    {
+      "tema": "CARENCIA ACTUAL DE OBJETO POR HECHO SUPERADO",
+      "subtema": "Caso en que al demandante se le está atendiendo por parte de la EPS y está siendo valorado por el Fondo de Pensiones para determinar la pérdida de capacidad laboral"
+    },
+    {
+      "tema": "PAGO DE INCAPACIDAD LABORAL SUPERIOR A 180 DIAS",
+      "subtema": "Está a cargo de la Administradora de Fondos de Pensiones a la cual se encuentra afiliado el trabajador"
+    },
+    {
+      "tema": "DECRETO 2463 DE 2001",
+      "subtema": "Artículo 23"
+    }
+  ]
+}

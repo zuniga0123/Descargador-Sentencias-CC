@@ -1,0 +1,47 @@
+{
+  "radicado": "T-725-10",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2010,
+  "fecha_creacion": "2010-09-13",
+  "magistrado_ponente": "Dr JUAN CARLOS HENAO PÉREZ",
+  "area": "Derecho a la Salud",
+  "tema": "DERECHO A LA SALUD DE PERSONA DE LA TERCERA EDAD",
+  "subtema": "Alcance",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2357 de 1995",
+    "Decreto 2591 de 1991",
+    "Ley 1122 de 2007"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2010/T-725-10.htm",
+  "fecha_descarga": "2026-10-21T17:39:30.785551+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2010-09-13",
+  "fecha_publicacion": null,
+  "numero": "T-725/10",
+  "tipo_cc": "T",
+  "prov_id": "1396",
+  "tema_relatoria": null,
+  "resumen": "Salud, vida digna, dignidad humana. La accionante actúa en representación de su padre quien fue hospitalizado y le cobraron un copago por la suma de de $446.869, informa que ni ella ni su padre cuentan con el dinero para sufragar tales gastos por lo que solicita se ordene la exoneración de copagos. La Sala se pronuncia sobre el derecho a la salud, tratándose de sujetos de especial protección como adultos mayores, el régimen subsidiado de salud y copagos, la carga de la prueba de la capacidad económica del usuario, con base en las pruebas aportadas se concluye que el representado no tiene recursos económicos para sostenerse y que depende únicamente de su hija quien devenga el salario mínimo, por lo tanto se ordena la exoneración de copagos y su reclasificación en el Sisbén. Concede.",
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA SALUD DE PERSONA DE LA TERCERA EDAD",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "ACCION DE TUTELA PARA EXONERACION DE COPAGOS Y CUOTAS MODERADORAS",
+      "subtema": "Orden de exoneración de copagos por cuanto el actor es sujeto de especial protección constitucional y no tiene recursos económicos para realizar el pago"
+    },
+    {
+      "tema": "REGIMEN SUBSIDIADO DE SALUD Y COPAGOS",
+      "subtema": "Creación, naturaleza y justificación de su existencia"
+    },
+    {
+      "tema": "REGIMEN SUBSIDIADO DE SALUD",
+      "subtema": "Capacidad de pago del usuario y carga de la prueba"
+    }
+  ]
+}

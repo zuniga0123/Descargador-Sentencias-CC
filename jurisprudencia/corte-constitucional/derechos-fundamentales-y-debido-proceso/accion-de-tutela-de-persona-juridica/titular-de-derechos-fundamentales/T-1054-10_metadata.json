@@ -1,0 +1,56 @@
+{
+  "radicado": "T-1054-10",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2010,
+  "fecha_creacion": "2010-12-16",
+  "magistrado_ponente": "Gabriel Eduardo Mendoza Martelo",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCION DE TUTELA DE PERSONA JURIDICA",
+  "subtema": "Titular de derechos fundamentales",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 550 de 1999",
+    "Decreto 2591 de 1991",
+    "Decreto 2282 de 1989",
+    "Ley 57 de 1887"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2010/T-1054-10.htm",
+  "fecha_descarga": "2026-10-21T17:30:43.599981+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2010-12-16",
+  "fecha_publicacion": null,
+  "numero": "T-1054/10",
+  "tipo_cc": "T",
+  "prov_id": "1804",
+  "tema_relatoria": null,
+  "resumen": "Debido proceso, vía de hecho. El Gobernador del Departamento de Bolívar presentó acción de tutela en contra del Juzgado Séptimo Laboral del Circuito de Cartagena, por la presunta vulneración del derecho al debido proceso y la existencia de vía de hecho por defectos orgánico y sustantivo, en la resolución de un proceso ordinario laboral en donde se aprobó una transacción y se rechazó una recusación presentada por el apoderado del ente demandado y los recursos interpuestos contra dicha decisión. La Sala recuerda que cuando la acción de tutela se interpone contra providencias judiciales, el principio de subsidiaridad, es una exigencia fundamental para la procedibilidad de la acción. Negada.",
+  "titulaciones": [
+    {
+      "tema": "ACCION DE TUTELA DE PERSONA JURIDICA",
+      "subtema": "Titular de derechos fundamentales"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Caso en que sólo se encuentran presentes algunos de los criterios requeridos, existe ausencia del presupuesto de subsidiariedad"
+    },
+    {
+      "tema": "PRINCIPIO DE SUBSIDIARIEDAD DE LA ACCIÓN DE TUTELA",
+      "subtema": "Caso en que resulta improcedente para dejar sin valor decisión adoptada por juzgado que aprobó una transacción"
+    },
+    {
+      "tema": "REGLAS JURISPRUDENCIALES EN MATERIA DE SUBSIDIARIEDAD DE LA ACCION DE TUTELA",
+      "subtema": null
+    },
+    {
+      "tema": "ACCION DE TUTELA TEMERARIA",
+      "subtema": "Caso en que no existe porque han sido interpuestas por motivos diferentes"
+    },
+    {
+      "tema": "ACCION DE TUTELA TRANSITORIA PARA EVITAR PERJUICIO IRREMEDIABLE",
+      "subtema": "Procedencia"
+    }
+  ]
+}

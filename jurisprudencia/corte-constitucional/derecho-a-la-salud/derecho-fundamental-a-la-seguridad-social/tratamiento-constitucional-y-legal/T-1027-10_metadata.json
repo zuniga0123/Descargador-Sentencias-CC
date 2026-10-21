@@ -1,0 +1,55 @@
+{
+  "radicado": "T-1027-10",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2010,
+  "fecha_creacion": "2010-12-10",
+  "magistrado_ponente": "Humberto Antonio Sierra Porto",
+  "area": "Derecho a la Salud",
+  "tema": "DERECHO FUNDAMENTAL A LA SEGURIDAD SOCIAL",
+  "subtema": "Tratamiento constitucional y legal",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 100 de 1993",
+    "Ley 1122 de 2007"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2010/T-1027-10.htm",
+  "fecha_descarga": "2026-10-21T17:29:46.657108+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2010-12-10",
+  "fecha_publicacion": null,
+  "numero": "T-1027/10",
+  "tipo_cc": "T",
+  "prov_id": "1773",
+  "tema_relatoria": null,
+  "resumen": "Salud, mínimo vital, seguridad social. La accionante actúa en representación de su nieto quien padece de Leucemia, solicita se autoricen las sesiones de quimioterapia formuladas por el médico tratante las cuales no han sido llevadas a cabo porque el Instituto Departamental de Salud de Caqueta no tiene contrato con el Instituto Nacional de Cancerología, además solicita se autorice el transplante de donante compatible. La Sala recuerda el tratamiento constitucional y legal al derecho fundamental a la seguridad social, se encuentra que durante el transcurso del proceso el tratamiento de quimioterapia ya fue autorizado, por lo tanto frente a este hecho se declara la carencia actual de objeto, sin embargo en cuanto a la solicitud del transplante no se encuentra evidencia de que el procedimiento se este llevando a cabo, por lo tanto se ordena al médico tratante estudiar la viabilidad de disponer el trasplante para efectos de ofrecerle una posibilidad de recuperación de la enfermedad que padece el menor. Concedida.",
+  "titulaciones": [
+    {
+      "tema": "DERECHO FUNDAMENTAL A LA SEGURIDAD SOCIAL",
+      "subtema": "Tratamiento constitucional y legal"
+    },
+    {
+      "tema": "PLAN OBLIGATORIO DE SALUD SUBSIDIADO",
+      "subtema": "Caso en que el servicio no está incluido y se requiera con necesidad se impone al Juez de Tutela restablecerlo"
+    },
+    {
+      "tema": "DERECHO A LA SALUD Y CONCEPTO DE REQUERIR CON NECESIDAD",
+      "subtema": "Subreglas"
+    },
+    {
+      "tema": "CARENCIA ACTUAL DE OBJETO",
+      "subtema": "Fenómeno que puede presentarse a partir de dos eventos que a su vez sugieren consecuencias distintas: hecho superado y daño consumado"
+    },
+    {
+      "tema": "DERECHO A LA SALUD DEL MENOR",
+      "subtema": "Caso en que se debe evaluar la viabilidad de disponer el transplante prescrito a efectos de ofrecerle una posibilidad de recuperación de la leucemia que padece"
+    },
+    {
+      "tema": "DERECHO A LA SALUD DEL MENOR",
+      "subtema": "Caso en que se presentó carencia actual de objeto por hecho superado en lo que respecta a los servicios médicos requeridos"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "radicado": "T-746-10",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2010,
+  "fecha_creacion": "2010-09-15",
+  "magistrado_ponente": "Mauricio González Cuervo",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCION DE TUTELA PARA LA PROTECCION DE LOS DERECHOS FUNDAMENTALES DE LA POBLACION DESPLAZADA",
+  "subtema": "Procedencia",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 387 de 1997",
+    "Ley 397 de 1997",
+    "Ley 962 de 2005",
+    "Decreto 2591 de 1991",
+    "Decreto 2569 de 2000",
+    "Ley 163 de 1994"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2010/T-746-10.htm",
+  "fecha_descarga": "2026-10-21T17:38:05.538441+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2010-09-15",
+  "fecha_publicacion": null,
+  "numero": "T-746/10",
+  "tipo_cc": "T",
+  "prov_id": "1419",
+  "tema_relatoria": null,
+  "resumen": "Debido proceso, defensa y demás derechos de la población desplazada. El accionante solicita se ordene su inscripción y la de su grupo familiar en el RUPD, y en consecuencia se ordene la entrega de ayuda humanitaria requerida y la inclusión en todos los planes, programas y proyectos que tengan beneficios para la población desplazada. La Sala realiza reiteración de jurisprudencia sobre la procedencia de la acción de tutela como mecanismo para garantizar los derechos fundamentales de las personas en situación de desplazamiento forzado, el principio de buena fe y favorabilidad aplicado a las declaraciones rendidas por las personas en situación de desplazamiento, el derecho fundamental al reconocimiento de la condición de desplazamiento por autoridad administrativa mediante la inscripción en el RUPD, se concluye que los argumentos dados por Acción Social no desvirtúan el hecho del desplazamiento ya que a pesar de encontrarse en las bases de datos del SISBEN, el FOSYGA y estar registrado en el Censo Electoral no se configura un hecho indicador que demuestre que el desplazamiento no existió, por ende se decide ordenar las reales condiciones del desplazamiento alegado con el fin de determinar si los hechos narrados tuvieron lugar dando aplicación al principio de favorabilidad y buena fe. Concedida.",
+  "titulaciones": [
+    {
+      "tema": "ACCION DE TUTELA PARA LA PROTECCION DE LOS DERECHOS FUNDAMENTALES DE LA POBLACION DESPLAZADA",
+      "subtema": "Procedencia"
+    },
+    {
+      "tema": "REGISTRO UNICO DE POBLACION DESPLAZADA",
+      "subtema": "Derecho fundamental al reconocimiento de la condición de desplazamiento por autoridad administrativa mediante inscripción"
+    },
+    {
+      "tema": "DESPLAZAMIENTO FORZADO Y PRINCIPIO DE BUENA FE Y FAVORABILIDAD",
+      "subtema": "Responsabilidad por parte de las autoridades públicas de desvirtuar las declaraciones del interesado"
+    },
+    {
+      "tema": "INSCRIPCION EN EL REGISTRO UNICO DE POBLACION DESPLAZADA",
+      "subtema": "Orden a Acción Social de evaluar condiciones reales del desplazamiento"
+    },
+    {
+      "tema": "INSCRIPCION EN EL REGISTRO UNICO DE POBLACION DESPLAZADA",
+      "subtema": "Disposiciones normativas respecto de la encuesta SISBEN y la inscripción en el censo electoral no puede usarse como argumento para la no inscripción"
+    }
+  ]
+}

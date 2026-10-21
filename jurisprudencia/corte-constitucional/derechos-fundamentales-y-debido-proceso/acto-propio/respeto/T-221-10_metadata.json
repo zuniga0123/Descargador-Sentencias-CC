@@ -1,0 +1,64 @@
+{
+  "radicado": "T-221-10",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2010,
+  "fecha_creacion": "2010-03-23",
+  "magistrado_ponente": "Mauricio González Cuervo",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACTO PROPIO",
+  "subtema": "Respeto",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 546 de 1999",
+    "Decreto 2591 de 1991",
+    "Decreto 145 de 2000",
+    "Ley 432 de 1998"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2010/T-221-10.htm",
+  "fecha_descarga": "2026-10-21T17:34:42.710114+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2010-03-23",
+  "fecha_publicacion": null,
+  "numero": "T-221/10",
+  "tipo_cc": "T",
+  "prov_id": "645",
+  "tema_relatoria": null,
+  "resumen": "Debido proceso, igualdad, vivienda digna. El actor adquirió un préstamo para vivienda con la entidad accionada, con un plazo para el pago de 15 años o 180 cuotas con un interés del 15% anual, afirma que a partir del año 2002 continuo cancelando sus cuotas con formato UVR, sin que se le hubiese explicado en que consistía el cambio, comenta que ya canceló las 180 cuotas pactadas pero la entidad accionada le dice que quedan pendientes 42 cuotas adicionales. La Sala se pronuncia sobre el principio de buena fe y respeto a los actos propios, el deber del Fondo Nacional del Ahorro de concretar con los deudores la aprobación de las modificaciones en las condiciones de los créditos con ellos pactados, se concluye que los derechos del actor fueron vulnerados, ya que se alteraron las condiciones contractuales pactadas en relación con su crédito de vivienda en ausencia de un procedimiento previo que le permitiera comprender de manera clara, precisa y detallada el cambio de las condiciones del crédito y le hiciera factible manifestar su aquiescencia con tal modificación, por lo tanto se ordena a la entidad accionada restablecer el crédito en pesos según lo pactado inicialmente con el demandante en el contrato de compraventa. Concede",
+  "titulaciones": [
+    {
+      "tema": "ACTO PROPIO",
+      "subtema": "Respeto"
+    },
+    {
+      "tema": "FONDO NACIONAL DEL AHORRO",
+      "subtema": "Deber de informar a usuarios la redenominación de créditos hipotecarios"
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA EL FONDO NACIONAL DEL AHORRO",
+      "subtema": "Procedencia por violación al debido proceso y los principios de buena fe y respeto por el acto propio al variar unilateralmente las condiciones del contrato de mutuo para la adquisición de vivienda"
+    },
+    {
+      "tema": "DERECHO AL DEBIDO PROCESO",
+      "subtema": "Modificación unilateral a préstamos de vivienda"
+    },
+    {
+      "tema": "PRINCIPIO DE LA BUENA FE",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "DERECHO A LA INFORMACIÓN",
+      "subtema": "Redenominación de créditos hipotecarios"
+    },
+    {
+      "tema": "FONDO NACIONAL DEL AHORRO",
+      "subtema": "Modificación unilateral de lo inicialmente pactado en el crédito"
+    },
+    {
+      "tema": "FONDO NACIONAL DEL AHORRO",
+      "subtema": "Vulneración de derechos al modificar el crédito de pesos a UVR sin información y aceptación previa del titular"
+    }
+  ]
+}

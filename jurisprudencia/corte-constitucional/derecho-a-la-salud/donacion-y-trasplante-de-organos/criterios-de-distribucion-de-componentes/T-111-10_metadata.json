@@ -1,0 +1,45 @@
+{
+  "radicado": "T-111-10",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2010,
+  "fecha_creacion": "2010-02-16",
+  "magistrado_ponente": "Mauricio González Cuervo",
+  "area": "Derecho a la Salud",
+  "tema": "DONACION Y TRASPLANTE DE ORGANOS",
+  "subtema": "Criterios de distribución de componentes",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2493 de 2004",
+    "Decreto 2309 de 2002",
+    "Ley 9 de 1979",
+    "Ley 73 de 1988",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2010/T-111-10.htm",
+  "fecha_descarga": "2026-10-21T17:31:17.310560+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2010-02-16",
+  "fecha_publicacion": null,
+  "numero": "T-111/10",
+  "tipo_cc": "T",
+  "prov_id": "506",
+  "tema_relatoria": null,
+  "resumen": "Salud, vida e igualdad. La accionante solicita se ordene asignarle un componente anatómico ya que sufre de insuficiencia renal y necesita un transplante de riñón, señaló que la asignación de turnos de rescate de órganos con fines de transplantes que realiza la Secretaría Distrital de Salud, toma en consideración el número de días de cada mes y el número de IPS que tienen programas de transplantes, sin tomar a consideración el número de pacientes que manejan, así las cosas como la IPS a la que esta afiliada tiene muchos mas pacientes que otras aun no se le ha asignado ningún órgano, y lleva al momento de interponer la acción 1380 días en espera para ser transplantada. La Sala se pronuncia sobre el régimen aplicable para la donación y transplante de órganos, los criterios de distribución de los componentes anatómicos, se encuentra que la actuación de las entidades demandadas se ajustó a la normatividad que regula lo referente a turnos de rescate y asignación de componentes anatómicos, que se encuentran conformes a los principios de justicia y equidad por cuanto las IPS después de evaluar a sus pacientes aptos para transplante, los incluyen en una lista de espera de la Coordinación Regional con los datos que envía cada IPS, para luego verificar la compatibilidad con el donante efectivo que resultó de turno de rescate y asignar el órgano al mejor receptor posible, así la accionante ha sido incluida en la lista de asignación pero han sido otros receptores los que han tenido mayor compatibilidad frente a la petente. Negada.",
+  "titulaciones": [
+    {
+      "tema": "DONACION Y TRASPLANTE DE ORGANOS",
+      "subtema": "Criterios de distribución de componentes"
+    },
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Legislación aplicable para la donación y trasplante de órganos"
+    },
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "No vulneración por cuanto el proceder de la IPS se ajusta a los criterios técnico-científicos entre donante y receptor para la asignación de órganos"
+    }
+  ]
+}

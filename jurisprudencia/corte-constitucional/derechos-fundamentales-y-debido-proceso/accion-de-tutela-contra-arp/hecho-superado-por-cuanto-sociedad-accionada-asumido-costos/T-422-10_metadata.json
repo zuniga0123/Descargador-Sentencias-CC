@@ -1,0 +1,64 @@
+{
+  "radicado": "T-422-10",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2010,
+  "fecha_creacion": "2010-05-25",
+  "magistrado_ponente": "Dra María Victoria Calle Correa",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCION DE TUTELA CONTRA ARP",
+  "subtema": "Hecho superado por cuanto sociedad accionada asumido costos de atención integral por lesión de espalda y cancelo incapacidades laborales por accidente de trabajo",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 1295 de 1994",
+    "Decreto 1772 de 1999",
+    "Decreto 2591 de 1991",
+    "Decreto 1772 de 1994"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2010/T-422-10.htm",
+  "fecha_descarga": "2026-10-21T17:47:09.981630+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2010-05-25",
+  "fecha_publicacion": null,
+  "numero": "T-422/10",
+  "tipo_cc": "T",
+  "prov_id": "867",
+  "tema_relatoria": null,
+  "resumen": "Mínimo vital, petición, trabajo, seguridad social. El accionante solicita se ordene el pago de las incapacidades laborales, derivadas de un accidente de trabajo que le han sido negadas por no haber estado afiliado a la ARP en la fecha del accidente. La Sala se pronuncia sobre la procedencia excepcional de la acción de tutela para reclamar las acreencias laborales, se realiza reiteración de jurisprudencia sobre el hecho superado, dentro del expediente aparece demostrado que la ARP realizó el pago de las incapcidades, sin embargo se previene a la entidad para que de ser necesario continúe pagando las incapacidades derivadas del accidente.",
+  "titulaciones": [
+    {
+      "tema": "ACCION DE TUTELA CONTRA ARP",
+      "subtema": "Hecho superado por cuanto sociedad accionada asumido costos de atención integral por lesión de espalda y cancelo incapacidades laborales por accidente de trabajo"
+    },
+    {
+      "tema": "ACCION DE TUTELA PARA PAGO DE INCAPACIDAD LABORAL",
+      "subtema": "Unica fuente de ingresos de trabajador y su familia"
+    },
+    {
+      "tema": "DERECHO AL MINIMO VITAL DEL TRABAJADOR",
+      "subtema": "Procedencia por tratarse de persona disminuida físicamente cuya única fuente de ingresos es su salario"
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA ARP",
+      "subtema": "Empleador pretende restitución de salarios pagados al trabajador durante tiempo de incapacidad"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA PARA RECLAMAR ACREENCIAS LABORALES",
+      "subtema": "Procedencia excepcional"
+    },
+    {
+      "tema": "LLAMADO A PREVENCION A ARP",
+      "subtema": "Continuidad pago de incapacidades laborales por accidente de trabajo de acuerdo a condición de salud del actor"
+    },
+    {
+      "tema": "INCAPACIDAD LABORAL",
+      "subtema": "Pago por allanamiento a la mora por EPS"
+    },
+    {
+      "tema": "SISTEMA GENERAL DE RIESGOS PROFESIONALES",
+      "subtema": "Tesis del allanamiento a la mora es aplicable cuando las EPS y ARS se niegan a cancelar a los trabajadores una incapacidad laboral"
+    }
+  ]
+}

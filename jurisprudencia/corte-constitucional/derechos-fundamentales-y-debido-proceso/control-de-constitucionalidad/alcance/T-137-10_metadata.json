@@ -1,0 +1,45 @@
+{
+  "radicado": "T-137-10",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2010,
+  "fecha_creacion": "2010-02-24",
+  "magistrado_ponente": "Dr GABRIEL EDUARDO MENDOZA MARTELO",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "CONTROL DE CONSTITUCIONALIDAD",
+  "subtema": "Alcance",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2010/T-137-10.htm",
+  "fecha_descarga": "2026-10-21T17:31:58.221242+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2010-02-24",
+  "fecha_publicacion": null,
+  "numero": "T-137/10",
+  "tipo_cc": "T",
+  "prov_id": "539",
+  "tema_relatoria": null,
+  "resumen": "Debido proceso, seguridad social. El actor adelanto dos procesos ordinarios solicitando la indexación de su mesada pensional los cuales le fueron negados, el segundo proceso lo inició debido al cambio de jurisprudencial en la materia, sinembargo sus pretensiones fueron negadas al existir cosa juzgada, además interpuso dos acciones de tutela las cuales a su vez también fueron negadas y no fueron seleccionadas para revisión por parte de esta corporación, solicita conceder el amparo definitivo de sus derechos fundamentales y se dejen sin efecto las sentencias que le negaron el derecho a la indexación de su mesada pensional. La Sala realiza reiteración de jurisprudencia sobre la improcedencia de la acción de tutela cuando se trata de hechos que ya han sido decididos en sede de control de constitucionalidad, se estima que el asunto relacionado con el reconocimiento de la indexación de la primera mesada pensional ya fue debatido en sede de tutela y que analizado el texto de la demanda no se agrega nada nuevo, por lo tanto se decide negar el amparo invocado. Niega.",
+  "titulaciones": [
+    {
+      "tema": "CONTROL DE CONSTITUCIONALIDAD",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA SENTENCIA DE TUTELA",
+      "subtema": "Improcedencia"
+    },
+    {
+      "tema": "COSA JUZGADA CONSTITUCIONAL",
+      "subtema": "El juez de tutela no tiene competencia funcional para pronunciarse sobre hechos que ya han sido decididos en otra acción de tutela"
+    },
+    {
+      "tema": "INDEXACION DE LA PRIMERA MESADA PENSIONAL",
+      "subtema": "Improcedencia de la tutela por cuanto el presente asunto ya fue debatido en sede de tutela"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "radicado": "T-215-10",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2010,
+  "fecha_creacion": "2010-03-23",
+  "magistrado_ponente": "Dr GABRIEL EDUARDO MENDOZA MARTELO",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "ACCIÓN DE TUTELA",
+  "subtema": "Hecho superado por cuanto le fue reconocida la pensión de vejez por el Seguro Social",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Ley 797 de 2003",
+    "Decreto 1818 de 1996",
+    "Decreto 1406 de 1999",
+    "Decreto 758 de 1990",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2010/T-215-10.htm",
+  "fecha_descarga": "2026-10-21T17:34:27.817654+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2010-03-23",
+  "fecha_publicacion": null,
+  "numero": "T-215/10",
+  "tipo_cc": "T",
+  "prov_id": "639",
+  "tema_relatoria": null,
+  "resumen": "Seguridad social, mínimo vital. La accionante solicita el reconocimiento y pago de su pensión de vejez la cual le ha sido negada por no cumplir con el número de semanas requeridas para obtenerla. La Sala encuentra que se esta frente a un hecho superado debido a que durante el trámite de la acción se le reconoció la pensión de vejez. Se declara la carencia actual de objeto por hecho superado.",
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Hecho superado por cuanto le fue reconocida la pensión de vejez por el Seguro Social"
+    },
+    {
+      "tema": "LEGITIMACIÓN POR ACTIVA EN TUTELA",
+      "subtema": "Configuración"
+    }
+  ]
+}

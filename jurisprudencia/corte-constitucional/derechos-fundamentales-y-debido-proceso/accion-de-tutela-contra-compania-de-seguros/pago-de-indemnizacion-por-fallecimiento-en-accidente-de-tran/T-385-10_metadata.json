@@ -1,0 +1,49 @@
+{
+  "radicado": "T-385-10",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2010,
+  "fecha_creacion": "2010-05-21",
+  "magistrado_ponente": "Nilson Pinilla Pinilla",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCION DE TUTELA CONTRA COMPAÑIA DE SEGUROS",
+  "subtema": "Pago de indemnización por fallecimiento en accidente de tránsito",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Decreto 63 de 1993",
+    "Ley 100 de 1993",
+    "Decreto 1283 de 1995",
+    "Decreto 663 de 1993",
+    "Ley 769 de 2002",
+    "Decreto 3990 de 2007",
+    "Ley 35 de 1993",
+    "Decreto 1283 de 1996"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2010/T-385-10.htm",
+  "fecha_descarga": "2026-10-21T17:46:10.908569+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2010-05-21",
+  "fecha_publicacion": null,
+  "numero": "T-385/10",
+  "tipo_cc": "T",
+  "prov_id": "842",
+  "tema_relatoria": null,
+  "resumen": "Petición, mínimo vital. La accionante solicita se ordene a la entidad accionada, que proceda a darle respuesta de fondo al derecho de petición presentado por ella solicitando se haga efectiva la póliza por muerte en accidente de tránsito de su cónyuge. La Sala pasa a estudiar el seguro obligatorio de accidentes de transito y realiza reiteración de jurisprudencia en cuanto a la subsidiariedad de la acción de tutela, se concluye que los derechos de la accionante no fueron vulnerados ya que se le dio respuesta a su derecho de petición indicándole los trámites que debía seguir para obtener el pago de la póliza, el cual se debe adelantar mediante otro mecanismo de defensa judicial, por lo tanto se decide negar la protección de los derechos invocados. Niega.",
+  "titulaciones": [
+    {
+      "tema": "ACCION DE TUTELA CONTRA COMPAÑIA DE SEGUROS",
+      "subtema": "Pago de indemnización por fallecimiento en accidente de tránsito"
+    },
+    {
+      "tema": "SUBSIDIARIEDAD DE LA ACCION DE TUTELA Y PAGO DE INDEMNIZACION POR SOAT",
+      "subtema": null
+    },
+    {
+      "tema": "SEGURO OBLIGATORIO DE ACCIDENTES DE TRÁNSITO",
+      "subtema": "Este tipo de reclamación no involucra per se un derecho fundamental"
+    }
+  ]
+}

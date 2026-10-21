@@ -1,0 +1,52 @@
+{
+  "radicado": "T-525-10",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2010,
+  "fecha_creacion": "2010-06-21",
+  "magistrado_ponente": "Dr JUAN CARLOS HENAO PÉREZ",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCION DE TUTELA PARA PAGO DE SUBSIDIO FAMILIAR",
+  "subtema": "Caso en que no se reúnen condiciones de procedibilidad para el reclamo de acreencias de tipo laboral",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 21 de 1982",
+    "Ley 362 de 1997",
+    "Ley 1123 de 2007"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2010/T-525-10.htm",
+  "fecha_descarga": "2026-10-21T17:26:29.192875+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2010-06-21",
+  "fecha_publicacion": "2010-12-15",
+  "numero": "T-525/10",
+  "tipo_cc": "T",
+  "prov_id": "1012",
+  "tema_relatoria": null,
+  "resumen": "Igualdad, seguridad social, mínimo vital. El accionante es apoderado de 62 demandantes los cuales solicitan se ordene el reconocimiento del subsidio familiar a que consideran tener derecho, el cual se le adeuda a las cajas de compensación, por parte de la alcaldía accionada, comentan que en varias ocasiones han realizado la solicitud al municipio sin obtener ningún tipo de respuesta. La Sala realiza reiteración de jurisprudencia sobre los elementos objetivos de procedencia de la acción de tutela, circunstancias excepcionales que determinan la procedibilidad de la tutela, la acción de tutela respecto de las acreencias de carácter laboral y en especial, frente al subsidio familiar, la igualdad ante la ley y el precedente, se concluye que la acción de tutela es improcedente en el presente caso, por cuanto no cumple con los requisitos de subsidiariedad, inmediatez, ni se esta ante la inminencia de un perjuicio irremediable, por lo tanto se decide revocar las sentencias de primera y segunda instancia y se ordena al representante de los demandantes restituir el dinero pagado, ya que se ha perdido el fundamento jurídico de las sentencias y por lo tanto carece de justo título, además se remite copia del expedientes a las autoridades competentes para que inicien las investigaciones correspondientes para esclarecer la responsabilidad tanto del abogado como de los jueces de instancia. Niega.",
+  "titulaciones": [
+    {
+      "tema": "ACCION DE TUTELA PARA PAGO DE SUBSIDIO FAMILIAR",
+      "subtema": "Caso en que no se reúnen condiciones de procedibilidad para el reclamo de acreencias de tipo laboral"
+    },
+    {
+      "tema": "DERECHO A LA IGUALDAD ANTE LA LEY",
+      "subtema": "Precedente vertical"
+    },
+    {
+      "tema": "ACCION DE TUTELA PARA RECONOCIMIENTO DE ACREENCIAS LABORALES",
+      "subtema": "Caso en que se solicita el pago de subsidio familiar"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Elementos objetivos de procedibilidad"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Circunstancias excepcionales que determinan la procedibilidad"
+    }
+  ]
+}

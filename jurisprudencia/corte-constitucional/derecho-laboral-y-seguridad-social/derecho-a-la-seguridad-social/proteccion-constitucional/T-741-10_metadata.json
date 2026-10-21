@@ -1,0 +1,46 @@
+{
+  "radicado": "T-741-10",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2010,
+  "fecha_creacion": "2010-09-14",
+  "magistrado_ponente": "Dr HUMBERTO ANTONIO SIERRA PORTO",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "DERECHO A LA SEGURIDAD SOCIAL",
+  "subtema": "Protección constitucional",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 10 de 1992",
+    "Ley 274 de 2000",
+    "Ley 797 de 2003",
+    "Decreto 10 de 1992",
+    "Decreto 274 de 2000"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2010/T-741-10.htm",
+  "fecha_descarga": "2026-10-21T17:38:01.918647+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2010-09-14",
+  "fecha_publicacion": null,
+  "numero": "T-741/10",
+  "tipo_cc": "T",
+  "prov_id": "1413",
+  "tema_relatoria": null,
+  "resumen": "Seguridad social. La accionante trabajó como miembro del cuerpo diplomático, alega que al momento de la liquidación de su pensión no se tuvo en cuenta el salario realmente devengado, por lo cual inició demanda laboral contra el ISS, sin embargo la sentencia le fue adversa aduciendo que la pensión fue otorgada de acuerdo a los aportes realizados por el Ministerio y que éste es el responsable, por lo tanto la actora solicita se ordene al Ministerio accionado realizar los aportes con base en los salarios realmente devengados. La Sala se pronuncia sobre la seguridad social como derecho constitucional fundamental y su protección por medio de la acción de tutela, realiza reiteración de jurisprudencia sobre el ingreso base de cotización de los funcionarios que han prestado sus servicios en el Ministerio de Relaciones Exteriores el cual debe obedecer al salario realmente devengado y no a su equivalente en la planta interna, se encuentra que a la accionante no se le están vulnerando sus derechos fundamentales, por cuanto esta recibiendo su pensión no se le esta afectando el mínimo vital, y el proceso ordinario aún esta en trámite, se decide declarar improcedente la acción. Niega",
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA SEGURIDAD SOCIAL",
+      "subtema": "Protección constitucional"
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA EL MINISTERIO DE RELACIONES EXTERIORES",
+      "subtema": "Improcedencia por cuanto se debe acudir a la jurisdicción contencioso administrativa para establecer si existe alguna infracción al Sistema de la Seguridad Social"
+    },
+    {
+      "tema": "FUNCIONARIOS DEL CUERPO DIPLOMATICO DEL MINISTERIO DE RELACIONES EXTERIORES",
+      "subtema": "Ingreso base de cotización para fijar el monto de la pensión de jubilación debe obedecer al salario realmente devengado y no a su equivalente en la planta interna"
+    }
+  ]
+}

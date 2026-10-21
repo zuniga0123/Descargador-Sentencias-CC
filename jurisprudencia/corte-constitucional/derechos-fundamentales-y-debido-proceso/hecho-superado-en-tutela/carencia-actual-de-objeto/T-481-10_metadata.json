@@ -1,0 +1,37 @@
+{
+  "radicado": "T-481-10",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2010,
+  "fecha_creacion": "2010-06-16",
+  "magistrado_ponente": "Dr JUAN CARLOS HENAO PÉREZ",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "HECHO SUPERADO EN TUTELA",
+  "subtema": "Carencia actual de objeto",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2010/T-481-10.htm",
+  "fecha_descarga": "2026-10-21T17:48:20.050635+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2010-06-16",
+  "fecha_publicacion": null,
+  "numero": "T-481/10",
+  "tipo_cc": "T",
+  "prov_id": "954",
+  "tema_relatoria": null,
+  "resumen": "Petición. El actor en noviembre de 2008, solicitó a la entidad accionada mediante derecho de petición, le fuera suministrada la relación de tiempo de servicios actualizada y en original, con el fin de obtener su pensión de vejez ante Caprecom, interpuso la acción de tutela en abril de 2009, debido a que aún no se le había dado respuesta. Se encuentra que durante el trámite de la acción se le dio respuesta al derecho de petición, por lo tanto se esta frente a un hecho superado.",
+  "titulaciones": [
+    {
+      "tema": "HECHO SUPERADO EN TUTELA",
+      "subtema": "Carencia actual de objeto"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Hecho superado por cuanto se recibió respuesta a la petición"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "radicado": "T-929-10",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2010,
+  "fecha_creacion": "2010-11-23",
+  "magistrado_ponente": "Luis Ernesto Vargas Silva",
+  "area": "Derecho a la Salud",
+  "tema": "DERECHO A LA SALUD Y A LA SEGURIDAD SOCIAL",
+  "subtema": "Protección constitucional especial a niños y niñas en relación al suministro de vacunas",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 1373 de 2010",
+    "Decreto 2591 de 1991",
+    "Ley 12 de 1991",
+    "Ley 1098 de 2006"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2010/T-929-10.htm",
+  "fecha_descarga": "2026-10-21T17:44:11.566036+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2010-11-23",
+  "fecha_publicacion": null,
+  "numero": "T-929/10",
+  "tipo_cc": "T",
+  "prov_id": "1665",
+  "tema_relatoria": null,
+  "resumen": "Salud, vida digna, igualdad, especial protección a los menores. La accionante solicita se le aplique a su hija las vacunas de rotavirus y neumococo, la entidad accionada se ha negado a suministrarlas alegando que dichas vacunas solo son suministradas a menores prematuros o de alto riesgo. La Sala realiza reiteración de jurisprudencia sobre el derecho a la salud y a la seguridad social de los niños y las niñas relacionado con el suministro de vacunas, se concluye que en el presente caso no se cumplen los requisitos establecidos por la jurisprudencia constitucional para acceder a las vacunas ni existe el incumplimiento de un mandato legal, por tanto los derechos de la menor no han sido vulnerados. Niega.",
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA SALUD Y A LA SEGURIDAD SOCIAL",
+      "subtema": "Protección constitucional especial a niños y niñas en relación al suministro de vacunas"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Improcedencia por no configuración de requisitos establecidos por la jurisprudencia constitucional para acceder a vacunas ni existe incumplimiento de mandato legal por parte de EPS"
+    },
+    {
+      "tema": "DERECHO A LA SALUD DE NIÑOS, NIÑAS Y ADOLESCENTES",
+      "subtema": "Casos en que se desconoce respecto a la aplicación de vacunas a menores"
+    }
+  ]
+}

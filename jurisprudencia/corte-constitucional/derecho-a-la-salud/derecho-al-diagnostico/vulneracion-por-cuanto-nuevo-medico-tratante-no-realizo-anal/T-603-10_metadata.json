@@ -1,0 +1,50 @@
+{
+  "radicado": "T-603-10",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2010,
+  "fecha_creacion": "2010-07-27",
+  "magistrado_ponente": "Dr JUAN CARLOS HENAO PÉREZ",
+  "area": "Derecho a la Salud",
+  "tema": "DERECHO AL DIAGNÓSTICO",
+  "subtema": "Vulneración por cuanto nuevo médico tratante no realizó análisis de la historia clínica de los pacientes para emitir nuevo tratamiento",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 100 de 1993"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2010/T-603-10.htm",
+  "fecha_descarga": "2026-10-21T17:41:29.232339+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2010-07-27",
+  "fecha_publicacion": null,
+  "numero": "T-603/10",
+  "tipo_cc": "T",
+  "prov_id": "1216",
+  "tema_relatoria": null,
+  "resumen": "Salud, vida digna. Los accionantes comentan que sufren de esclerosis múltiple y que venían recibiendo el tratamiento requerido en el Instituto Colombiano de Neuropedagogía sin embargo la EPS accionada cambió de manera injustificada dicha IPS, alegan que esta situación afecta gravemente su recuperación ya que la institución mencionada venía prestándoles el tratamiento desde hace mucho tiempo y que la calidad del servicio obtenido es excelente al punto que les ha permitido reintegrarlos de una manera más activa a la sociedad. La Sala se pronuncia sobre el carácter fundamental del derecho a la seguridad social y a la salud, el derecho a la libre escogencia de IPS por parte del usuario del sistema general de seguridad social en salud y el derecho de las EPS a escoger con que IPS contratar, se concluye que la EPS accionada vulneró los derechos fundamentales de los actores por lo tanto se ordena continuar prestando todos los servicios neurológicos requeridos por los accionantes de manera inmediata y permanente en el I.C.N. Concede.",
+  "titulaciones": [
+    {
+      "tema": "DERECHO AL DIAGNÓSTICO",
+      "subtema": "Vulneración por cuanto nuevo médico tratante no realizó análisis de la historia clínica de los pacientes para emitir nuevo tratamiento"
+    },
+    {
+      "tema": "DERECHO A LA SALUD Y DERECHO A LA SEGURIDAD SOCIAL",
+      "subtema": "EPS debe iniciar trámites administrativos necesarios para volver a prestar los servicios en salud a los accionantes con su antigua IPS"
+    },
+    {
+      "tema": "DERECHO A LA SALUD Y DERECHO A LA SEGURIDAD SOCIAL",
+      "subtema": "Fundamentales"
+    },
+    {
+      "tema": "DERECHO A LA LIBRE ESCOGENCIA DE IPS POR PARTE DEL USUARIO Y DERECHO DE LA EPS A ESCOGER CON QUE IPS CONTRATAR",
+      "subtema": "Análisis jurisprudencial sobre alcance y afectación respecto a la prestación integral en el servicio de salud"
+    },
+    {
+      "tema": "DERECHO A LA LIBRE ESCOGENCIA DE IPS POR PARTE DEL USUARIO",
+      "subtema": "EPS cambió de manera injustificada IPS que prestaba tratamiento de rehabilitación integral de afiliados con esclerosis múltiple vulnerando derecho a la salud y seguridad social"
+    }
+  ]
+}

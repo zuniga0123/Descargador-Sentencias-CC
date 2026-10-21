@@ -1,0 +1,46 @@
+{
+  "radicado": "T-133-10",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2010,
+  "fecha_creacion": "2010-02-24",
+  "magistrado_ponente": "Dr NILSON PINILLA PINILLA",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+  "subtema": "Reiteración de jurisprudencia sobre requisitos generales y especiales de procedibilidad",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 600 de 2000",
+    "Decreto 2591 de 1991",
+    "Decreto 2700 de 1991",
+    "Decreto 2100 de 1991",
+    "Ley 906 de 2004",
+    "Ley 553 de 2000"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2010/T-133-10.htm",
+  "fecha_descarga": "2026-10-21T17:31:47.070869+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2010-02-24",
+  "fecha_publicacion": null,
+  "numero": "T-133/10",
+  "tipo_cc": "T",
+  "prov_id": "533",
+  "tema_relatoria": null,
+  "resumen": "Debido proceso, defensa, favorabilidad. El actor fue condenado como coautor del delito de hurto agravado, por lo tanto interpuso recurso extraordinario de casación, la Corte Suprema inadmitió la demandada y el consecuente recurso de reposición, el accionante considera vulnerados sus derechos debido ya que, se saltó un acto procesal de la calificación de la demanda, pretermitiendo el concepto obligatorio del Agente del Ministerio Público y violando la estructura del debido proceso. La Corte se pronuncia sobre la procedencia de la acción de tutela contra decisiones judiciales, el auto que inadmite la demanda de casación, proferido dentro de un proceso adelantado según la Ley 600 de 2000, no es impugnable, por lo tanto no resulta procedente la presente acción, pues las conclusiones de la Corte Suprema no son arbitrarias ni constituyen vías de hecho. Niega.",
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Reiteración de jurisprudencia sobre requisitos generales y especiales de procedibilidad"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Improcedencia por tener ésta carácter subsidiario o supletorio"
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA AUTO QUE INADMITE CASACION",
+      "subtema": "Improcedencia por cuanto un proceso tramitado bajo Ley 600 de 2000 no es impugnable"
+    }
+  ]
+}

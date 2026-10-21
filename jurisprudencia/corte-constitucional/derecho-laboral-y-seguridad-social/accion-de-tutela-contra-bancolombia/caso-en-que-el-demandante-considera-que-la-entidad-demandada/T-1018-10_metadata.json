@@ -1,0 +1,41 @@
+{
+  "radicado": "T-1018-10",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2010,
+  "fecha_creacion": "2010-12-09",
+  "magistrado_ponente": "Nilson Pinilla Pinilla",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "ACCION DE TUTELA CONTRA BANCOLOMBIA",
+  "subtema": "Caso en que el demandante considera que la entidad demandada le está vulnerando derechos fundamentales, al negar la condonación de una deuda",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2010/T-1018-10.htm",
+  "fecha_descarga": "2026-10-21T17:29:20.586471+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2010-12-09",
+  "fecha_publicacion": null,
+  "numero": "T-1018/10",
+  "tipo_cc": "T",
+  "prov_id": "1763",
+  "tema_relatoria": null,
+  "resumen": "Mínimo vital, salud, alimentación. El accionante es una persona de 72 años de edad, que tiene una perdida de capacidad laboral del 58.12% y recibe una mesada pensional de novecientos cincuenta mil pesos, por lo tanto solicita a la entidad bancaria accionada la condonación de las deudas crediticias adquiridas, ya que para tal fin tomó el seguro de vida e invalidez ofrecido por dicha entidad. La Sala constata que se esta ante un hecho superado ya que durante el trámite de la acción Bancolombia allegó un paz y salvo donde se condonan las deudas que el actor presentaba con la entidad, sin embargo se aclara que la acción ha debido concederse en primera instancia.",
+  "titulaciones": [
+    {
+      "tema": "ACCION DE TUTELA CONTRA BANCOLOMBIA",
+      "subtema": "Caso en que el demandante considera que la entidad demandada le está vulnerando derechos fundamentales, al negar la condonación de una deuda"
+    },
+    {
+      "tema": "CARENCIA ACTUAL DE OBJETO POR HECHO SUPERADO",
+      "subtema": "Caso en que hubo condonación de las deudas"
+    },
+    {
+      "tema": "DERECHO AL MINIMO VITAL Y SEGURO DE VIDA",
+      "subtema": "Fue quebrantado al tener que seguir abonando a una obligación crediticia, no obstante estar cubierto con el seguro"
+    }
+  ]
+}

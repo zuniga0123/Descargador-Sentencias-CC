@@ -1,0 +1,46 @@
+{
+  "radicado": "T-1001-10",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2010,
+  "fecha_creacion": "2010-12-06",
+  "magistrado_ponente": "Jorge Ignacio Pretelt Chaljub",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCION DE TUTELA CONTRA PARTICULARES",
+  "subtema": "Caso en que se solicita protección de derechos fundamentales de víctimas del secuestro y desaparición forzada y de sus familias en el marco de un proceso ejecutivo",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 986 de 2005",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2010/T-1001-10.htm",
+  "fecha_descarga": "2026-10-21T17:28:32.097684+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2010-12-06",
+  "fecha_publicacion": null,
+  "numero": "T-1001/10",
+  "tipo_cc": "T",
+  "prov_id": "1740",
+  "tema_relatoria": null,
+  "resumen": "Igualdad, mínimo vital, vida digna. La accionante comenta que su esposo se encuentra desaparecido desde marzo de 2004, sin embargo el Edifico Cambriles, Propiedad Horizontal, inició un proceso ejecutivo contra su esposo, por mora en el pago de las cuotas de administración, debido a ello en varias oportunidades ha intentado llegar a un acuerdo con la administración del Edificio y ha solicitado la condonación de los intereses en mora, ya que su esposo era el único proveedor económico del hogar y no cuenta con los recursos económicos para realizar el pago de dichas cuotas, agrega que la diligencia de remate esta próxima a realizarse. La Sala se pronuncia sobre la protección de los derechos fundamentales de las personas secuestradas o desaparecidas y sus familias en el marco de un proceso ejecutivo, el principio de solidaridad frente a las personas víctimas del secuestro o desaparecimiento forzado y su núcleo familiar, se concluye que la acción resulta improcedente por cuanto el esposo de la accionante no es parte dentro del proceso ejecutivo y tampoco es propietario del bien, se encuentra que existe un conflicto legal sobre la propiedad del inmueble pero este conflicto se escapa a la competencia del juez constitucional.",
+  "titulaciones": [
+    {
+      "tema": "ACCION DE TUTELA CONTRA PARTICULARES",
+      "subtema": "Caso en que se solicita protección de derechos fundamentales de víctimas del secuestro y desaparición forzada y de sus familias en el marco de un proceso ejecutivo"
+    },
+    {
+      "tema": "AMPLIACION DE LAS MEDIDAS DE PROTECCION QUE ESTABLECE LA LEY 986/05 PARA PERSONAS VICTIMAS DE DESAPARICION FORZADA",
+      "subtema": null
+    },
+    {
+      "tema": "PRINCIPIO DE SOLIDARIDAD FRENTE A PERSONAS SECUESTRADAS O DESAPARECIDAS",
+      "subtema": null
+    },
+    {
+      "tema": "DERECHOS FUNDAMENTALES DE LAS PERSONAS SECUESTRADAS O DESAPARECIDAS Y SUS FAMILIAS EN EL MARCO DE UN PROCESO EJECUTIVO",
+      "subtema": "Protección"
+    }
+  ]
+}
