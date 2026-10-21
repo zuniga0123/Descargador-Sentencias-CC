@@ -1,0 +1,55 @@
+{
+  "radicado": "T-424-13",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2013,
+  "fecha_creacion": "2013-07-10",
+  "magistrado_ponente": "Gabriel Eduardo Mendoza Martelo",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCION DE TUTELA CONTRA EMPRESA DE SERVICIOS PUBLICOS DOMICILIARIOS",
+  "subtema": "Improcedencia cuando el actor ha hecho uso de una vía ilegal para obtener el suministro de agua potable",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 142 de 1994",
+    "Ley 689 de 2011"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2013/T-424-13.htm",
+  "fecha_descarga": "2026-10-21T14:15:40.413057+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2013-07-10",
+  "fecha_publicacion": null,
+  "numero": "T-424/13",
+  "tipo_cc": "T",
+  "prov_id": "5047",
+  "tema_relatoria": null,
+  "resumen": "Se promueve la acción de tutela en contra de las Empresas Públicas de Medellín E.S.P. y del municipio de Medellín, para reclamar la protección de los derechos fundamentales a una vida en condiciones dignas y al agua potable, vulnerados por dichas entidades al suspender el servicio de agua en la vivienda de la actora debido al incumplimiento consecutivo en el pago de las obligaciones facturadas, sin tener en cuenta que en el inmueble residen sujetos de especial protección. Se reitera jurisprudencia constitucional referente a la procedencia excepcional de la acción de tutela para proteger el derecho fundamental al agua potable y sobre el deber de las empresas de servicios públicos domiciliarios de suspender el servicio al deudor moroso. Se DENIEGA el amparo solicitado pero se ordena a las E.P.M. E.S.P. que, al momento de que la actora lo solicite, realice un acuerdo de pago respecto del valor de la deuda que se ajuste a sus ingresos económicos, caso en el cual deberá normalizar la prestación del servicio, pero sujeto a que se cumpla lo acordado",
+  "titulaciones": [
+    {
+      "tema": "ACCION DE TUTELA CONTRA EMPRESA DE SERVICIOS PUBLICOS DOMICILIARIOS",
+      "subtema": "Improcedencia cuando el actor ha hecho uso de una vía ilegal para obtener el suministro de agua potable"
+    },
+    {
+      "tema": "DERECHO AL AGUA POTABLE",
+      "subtema": "Se debió garantizar un consumo mínimo del servicio de agua por cuanto residen menores, sujetos de especial protección constitucional, a pesar de haberse realizado reconexión fraudulenta"
+    },
+    {
+      "tema": "EMPRESAS DE SERVICIOS PUBLICOS DOMICILIARIOS",
+      "subtema": "Deber de suspender el servicio al deudor moroso"
+    },
+    {
+      "tema": "ACCION DE TUTELA PARA SOLICITAR PROTECCION DEL DERECHO AL AGUA",
+      "subtema": "Juez debe examinar si se ha efectuado reconexión fraudulenta, en cuyo caso no procede la protección"
+    },
+    {
+      "tema": "EMPRESAS PRESTADORAS DE SERVICIOS PUBLICOS DOMICILIARIOS",
+      "subtema": "En caso de incumplimiento en el pago del servicio de agua, debe elaborar acuerdos de pago, teniendo en cuenta la capacidad de pago de los usuarios"
+    },
+    {
+      "tema": "ACCION DE TUTELA PARA SOLICITAR PROTECCION DEL DERECHO AL AGUA",
+      "subtema": "Procedencia excepcional"
+    }
+  ]
+}

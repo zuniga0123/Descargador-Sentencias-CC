@@ -1,0 +1,51 @@
+{
+  "radicado": "T-384-13",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2013,
+  "fecha_creacion": "2013-06-28",
+  "magistrado_ponente": "María Victoria Calle Correa",
+  "area": "Derecho a la Salud",
+  "tema": "DERECHO A LA SALUD",
+  "subtema": "Vulneración por demora injustificada en la atención debido a trámites administrativos",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 715 de 2001",
+    "Decreto 2591 de 1991",
+    "Acto Legislativo 1 de 2001"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2013/T-384-13.htm",
+  "fecha_descarga": "2026-10-21T14:17:11.284271+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2013-06-28",
+  "fecha_publicacion": null,
+  "numero": "T-384/13",
+  "tipo_cc": "T",
+  "prov_id": "4997",
+  "tema_relatoria": null,
+  "resumen": "Alega el demandante que la E.P.S.S CAPRECOM vulnera su derecho fundamental a la salud, al no brindarle la atención postquirúrgica adecuada que requiere para recuperarse de la laparotomía que le fue practicada, ni hacer efectivas las citas que le son programadas con diferentes especialistas. La entidad accionada argumentó haber suministrado todos los servicios requeridos por el actor y que se encontraban incluidos en el POS, porque los que no estén en dicho plan deber ser garantizados por la Secretaría de Salud del municipio. La Sala reitera que todos los usuarios del Sistema de Salud tienen derecho a acceder a los servicios que requieran con necesidad, sin que los inconvenientes que se susciten en relación con la prestación de los servicios entre las distintas entidades que integran el sistema, interrumpan su prestación efectiva. Se PROTEGE el derecho fundamental invocado y se imparten una serie de órdenes conducentes a hacer efectivo el goce del mismo.",
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Vulneración por demora injustificada en la atención debido a trámites administrativos"
+    },
+    {
+      "tema": "OPORTUNIDAD EN LA PRESTACION DEL SERVICIO DE SALUD",
+      "subtema": "Obligación de las EPS"
+    },
+    {
+      "tema": "ACCESIBILIDAD A SERVICIOS MÉDICOS REQUERIDOS CON NECESIDAD",
+      "subtema": "Procedencia de la acción de tutela para su protección"
+    },
+    {
+      "tema": "ENTIDAD PRESTADORA DE SERVICIOS DE SALUD",
+      "subtema": "No puede imponerles a los usuarios el cumplimiento de trámites administrativos o burocráticos que obstaculicen el acceso a los servicios de salud"
+    },
+    {
+      "tema": "PRINCIPIO DE INTEGRALIDAD DEL DERECHO A LA SALUD",
+      "subtema": "Orden a EPS para realizar tratamiento post operatorio ordenado por médico tratante, sin dilaciones injustificadas"
+    }
+  ]
+}

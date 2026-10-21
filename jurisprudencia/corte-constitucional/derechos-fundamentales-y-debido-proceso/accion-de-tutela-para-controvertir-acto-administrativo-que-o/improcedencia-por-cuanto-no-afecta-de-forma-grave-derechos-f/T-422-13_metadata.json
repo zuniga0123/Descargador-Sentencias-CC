@@ -1,0 +1,44 @@
+{
+  "radicado": "T-422-13",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2013,
+  "fecha_creacion": "2013-07-10",
+  "magistrado_ponente": "Gabriel Eduardo Mendoza Martelo",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCION DE TUTELA PARA CONTROVERTIR ACTO ADMINISTRATIVO QUE ORDENA UN TRASLADO",
+  "subtema": "Improcedencia por cuanto no afecta de forma grave derechos fundamentales de la docente y su núcleo familiar y obedece a necesidades del servicio",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 715 de 2001",
+    "Decreto 1278 de 2002",
+    "Decreto 520 de 2010"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2013/T-422-13.htm",
+  "fecha_descarga": "2026-10-21T14:15:32.831888+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2013-07-10",
+  "fecha_publicacion": null,
+  "numero": "T-422/13",
+  "tipo_cc": "T",
+  "prov_id": "5045",
+  "tema_relatoria": null,
+  "resumen": "En este caso la conducta que se considera vulneradora de derechos fundamentales es la relacionada con la expedición de un acto administrativo mediante el cual se impartió la orden de trasladar a la accionante a otra institución educativa. A efecto de resolver el problema planteado, la Sala realizó un análisis jurisprudencial sobre la procedencia excepcional de la acción de tutela para controvertir actos administrativos que ordenan traslados laborales y los límites de empleador al ejercicio ius variandi Se confirma la decisión de instancia que declaró IMPROCEDENTE la acción de tutela impetrada.",
+  "titulaciones": [
+    {
+      "tema": "ACCION DE TUTELA PARA CONTROVERTIR ACTO ADMINISTRATIVO QUE ORDENA UN TRASLADO",
+      "subtema": "Improcedencia por cuanto no afecta de forma grave derechos fundamentales de la docente y su núcleo familiar y obedece a necesidades del servicio"
+    },
+    {
+      "tema": "ACCION DE TUTELA PARA CONTROVERTIR ACTOS ADMINISTRATIVOS QUE ORDENAN TRASLADOS LABORALES",
+      "subtema": "Procedencia excepcional"
+    },
+    {
+      "tema": "EJERCICIO DEL IUS VARIANDI Y SUS LIMITES CONSTITUCIONALES EN CASOS DE TRASLADO DE DOCENTES",
+      "subtema": "Límites a la discrecionalidad de la administración cuando vulnera derechos del docente y su núcleo familiar"
+    }
+  ]
+}

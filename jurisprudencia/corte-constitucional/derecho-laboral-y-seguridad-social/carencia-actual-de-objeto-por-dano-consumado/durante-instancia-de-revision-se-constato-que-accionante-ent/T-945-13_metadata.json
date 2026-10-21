@@ -1,0 +1,48 @@
+{
+  "radicado": "T-945-13",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2013,
+  "fecha_creacion": "2013-12-16",
+  "magistrado_ponente": "María Victoria Calle Correa",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "CARENCIA ACTUAL DE OBJETO POR DAÑO CONSUMADO",
+  "subtema": "Durante instancia de revisión se constató que accionante entró a prestar sus servicios laborales a otra empleadora y en esa medida obtuvo cubrimiento total de tratamiento médico",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Ley 361 de 1997",
+    "Decreto 2591 de 1991",
+    "Ley 789 de 2002"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2013/T-945-13.htm",
+  "fecha_descarga": "2026-10-21T14:15:02.724922+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2013-12-16",
+  "fecha_publicacion": null,
+  "numero": "T-945/13",
+  "tipo_cc": "T",
+  "prov_id": "5733",
+  "tema_relatoria": null,
+  "resumen": "La actora aduce que sus derechos fundamentales al trabajo, a la estabilidad laboral reforzada, a la salud y al mínimo vital fueron vulnerados, al ser terminado unilateralmente su contrato verbal de trabajo, sin tener en consideración que tenía historial de cáncer de mama. Por su parte, el empleador accionado consideró válido el despido, porque el mismo no se dio por la condición médica de la demandante, sino por el hecho de que la E.P.S. S.O.S. no la afilió al Sistema de Salud como contribuyente y, en cumplimiento de la ley, no podía mantenerla vinculada laboralmente sin seguridad social. La E.P.S. adujo que no puedo afiliar a la actora, porque una medida especial de la Superintendencia de Salud, le impidió realizar nuevas afiliaciones. Pese a encontrar que la empresa demandada vulneró derechos fundamentales, la Sala advierte que se configuró el fenómeno de la carencia actual de objeto, porque la actora tiene un nuevo trabajo y está afiliada al Sistema de Seguridad Social. Se CONCEDE la tutela, se declara la CARENCIA ACTUAL DE OBJETO y se advierte a la empresa demandada, que en lo sucesivo, se abstenga de repetir la conducta que fue objeto de análisis y, que, si al intentar afiliar a alguno de sus trabajadores encuentra una barrera de acceso al Sistema, no puede argumentar que ésta sea una causa que justifique un despido",
+  "titulaciones": [
+    {
+      "tema": "CARENCIA ACTUAL DE OBJETO POR DAÑO CONSUMADO",
+      "subtema": "Durante instancia de revisión se constató que accionante entró a prestar sus servicios laborales a otra empleadora y en esa medida obtuvo cubrimiento total de tratamiento médico"
+    },
+    {
+      "tema": "ESTABILIDAD LABORAL DE MADRE CABEZA DE FAMILIA",
+      "subtema": "Protección especial a trabajadores en condiciones de debilidad manifiesta"
+    },
+    {
+      "tema": "AFILIACION AL SISTEMA DE SEGURIDAD SOCIAL EN SALUD Y DERECHO AL TRABAJO",
+      "subtema": "No es admisible que el empleador alegue a su favor su propia negligencia para terminar relación laboral, bajo el argumento que no pudo afiliar a una única EPS a trabajadora madre cabe"
+    },
+    {
+      "tema": "DERECHO A LA SALUD Y DERECHO AL TRABAJO",
+      "subtema": "Vulneración por empleador al terminar contrato verbal a término indefinido bajo el argumento que no pudo afiliar a la trabajadora a una única EPS"
+    }
+  ]
+}

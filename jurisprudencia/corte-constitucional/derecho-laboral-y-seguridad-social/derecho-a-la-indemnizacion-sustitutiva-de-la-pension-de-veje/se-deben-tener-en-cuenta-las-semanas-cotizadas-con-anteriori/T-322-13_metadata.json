@@ -1,0 +1,48 @@
+{
+  "radicado": "T-322-13",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2013,
+  "fecha_creacion": "2013-05-30",
+  "magistrado_ponente": "Luis Guillermo Guerrero Pérez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "DERECHO A LA INDEMNIZACIÓN SUSTITUTIVA DE LA PENSIÓN DE VEJEZ",
+  "subtema": "Se deben tener en cuenta las semanas cotizadas con anterioridad a la entrada en vigencia de la ley 100 de 1993",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Ley 100 de 1003",
+    "Decreto 2591 de 1991",
+    "Decreto 1730 de 2001"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2013/T-322-13.htm",
+  "fecha_descarga": "2026-10-21T14:18:19.722571+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2013-05-30",
+  "fecha_publicacion": null,
+  "numero": "T-322/13",
+  "tipo_cc": "T",
+  "prov_id": "4918",
+  "tema_relatoria": null,
+  "resumen": "La conducta que genera la vulneración de derechos fundamentales está asociada con la negativa de CAJANAL de reconocerle y pagarle al actor la indemnización sustitutiva de la pensión, bajo el argumento de haber dejado de efectuar cotizaciones al Sistema con anterioridad a la Ley 100 de 1993 y porque para ese momento, no contaba aún con la edad requerida para acceder a la pensión de vejez. La Sala de Revisión reitera la siguiente jurisprudencia constitucional: 1º. el carácter subsidiario y excepcional de la acción de tutela para reclamar el reconocimiento de prestaciones sociales y, 2º. El derecho a la indemnización sustitutiva a favor de las personas que efectuaron cotizaciones al Sistema con anterioridad a la entrada en vigencia de la Ley 100 de 1993. Se CONCEDE el amparo solicitado y se ordena el reconocimiento y pago de la prestación reclamada.",
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA INDEMNIZACIÓN SUSTITUTIVA DE LA PENSIÓN DE VEJEZ",
+      "subtema": "Se deben tener en cuenta las semanas cotizadas con anterioridad a la entrada en vigencia de la ley 100 de 1993"
+    },
+    {
+      "tema": "ACCION DE TUTELA PARA EL RECONOCIMIENTO DE INDEMNIZACION SUSTITUTIVA DE PENSION DE VEJEZ",
+      "subtema": "Procedencia cuando afecta mínimo vital y demás derechos de personas de la tercera edad"
+    },
+    {
+      "tema": "ACCION DE TUTELA PARA RECONOCIMIENTO DE PRESTACIONES SOCIALES",
+      "subtema": "Procedencia excepcional"
+    },
+    {
+      "tema": "INDEMNIZACIÓN SUSTITUTIVA DE PENSIÓN DE VEJEZ",
+      "subtema": "Caso en que CAJANAL niega la prestación porque la última cotización se realizó antes de entrar en vigencia la Ley 100 de 1993"
+    }
+  ]
+}

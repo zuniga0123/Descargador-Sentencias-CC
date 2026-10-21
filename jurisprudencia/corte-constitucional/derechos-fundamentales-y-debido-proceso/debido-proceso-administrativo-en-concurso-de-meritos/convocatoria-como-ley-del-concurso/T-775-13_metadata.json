@@ -1,0 +1,57 @@
+{
+  "radicado": "T-775-13",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2013,
+  "fecha_creacion": "2013-11-07",
+  "magistrado_ponente": "María Victoria Calle Correa",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "DEBIDO PROCESO ADMINISTRATIVO EN CONCURSO DE MERITOS",
+  "subtema": "Convocatoria como ley del concurso",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 909 de 2004",
+    "Decreto 2591 de 1991",
+    "Ley 1122 de 2007",
+    "Ley 1127 de 2008",
+    "Ley 489 de 1998",
+    "Ley 115 de 1994",
+    "Ley 10 de 1990",
+    "Acto Legislativo 1 de 2008",
+    "Ley 448 de 1998",
+    "Ley 6 de 1945",
+    "Decreto 1848 de 1969",
+    "Ley 1551 de 2007",
+    "Acto Legislativo 1 de 2005"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2013/T-775-13.htm",
+  "fecha_descarga": "2026-10-21T14:13:29.712558+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2013-11-07",
+  "fecha_publicacion": null,
+  "numero": "T-775/13",
+  "tipo_cc": "T",
+  "prov_id": "5509",
+  "tema_relatoria": null,
+  "resumen": "El accionante presentó la acción de tutela en contra de COLPENSIONES, por considerar vulnerados sus derechos fundamentales a la igualdad, al debido proceso y al trabajo, en tanto no fue nombrado en la entidad a pesar de haber participado en un proceso de selección realizado por la empresa ADECCO SERVICIOS COLOMBIA S.A. y haber obtenido el puntaje más alto en el mismo. La conducta que se cuestiona, es el hecho de que con los mejores puntajes se conformó una terna que no estaba prevista en las bases del concurso y, por tanto, según el accionante, al momento de la selección se debió seguir las reglas de un concurso de méritos, en el cual se forma una lista de elegibles a partir de la que se designa a aquel aspirante que obtenga el primer puesto, que para el caso concreto, sería él. La accionada por su parte argumentó que las bases del concurso se respetaron, en tanto en ellas se había advertido que hasta el momento de envío de la terna se respetarían los puntajes, pero que luego COLPENSIONES podía designar de esos tres nombres a la persona que más se ajustara a las necesidades de la entidad. Luego de reiterar jurisprudencia constitucional en torno a las obligaciones que rigen las convocatorias para proveer un cargo en una entidad del Estado, la Sala de Revisión concluyó que COLPENSIONES no vulneró los derechos fundamentales alegados por el actor. SE DENIEGA.",
+  "titulaciones": [
+    {
+      "tema": "DEBIDO PROCESO ADMINISTRATIVO EN CONCURSO DE MERITOS",
+      "subtema": "Convocatoria como ley del concurso"
+    },
+    {
+      "tema": "ACCION DE TUTELA EN CONCURSO DE MERITOS",
+      "subtema": "Improcedencia por cuanto en la convocatoria no se definió que se nombraría al primero de mejor puntaje sino se conformarían ternas de las cuales Colpensiones podría discrecionalmente elegir"
+    },
+    {
+      "tema": "ACCION DE TUTELA EN CONCURSO DE MERITOS",
+      "subtema": "Procedencia excepcional cuando a pesar de existir otro medio de defensa judicial, éste no resulta idóneo para evitar un perjuicio irremediable"
+    },
+    {
+      "tema": "DERECHO AL DEBIDO PROCESO, A LA IGUALDAD Y AL TRABAJO",
+      "subtema": "No vulneración en concurso para cargo en entidad del Estado, por cuanto en la convocatoria no se definió que se nombraría al primero de mejor puntaje sino se conformarían ternas"
+    }
+  ]
+}

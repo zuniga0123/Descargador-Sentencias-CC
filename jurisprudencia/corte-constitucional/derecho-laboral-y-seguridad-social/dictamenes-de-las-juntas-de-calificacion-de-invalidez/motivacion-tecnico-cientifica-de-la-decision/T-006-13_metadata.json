@@ -1,0 +1,44 @@
+{
+  "radicado": "T-006-13",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2013,
+  "fecha_creacion": "2013-01-11",
+  "magistrado_ponente": "Mauricio González Cuervo I",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "DICTAMENES DE LAS JUNTAS DE CALIFICACION DE INVALIDEZ",
+  "subtema": "Motivación técnico-científica de la decisión",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 100 de 1993",
+    "Decreto 917 de 1999",
+    "Decreto 2463 de 2001"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2013/T-006-13.htm",
+  "fecha_descarga": "2026-10-21T14:20:33.439801+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2013-01-11",
+  "fecha_publicacion": null,
+  "numero": "T-006/13",
+  "tipo_cc": "T",
+  "prov_id": "4489",
+  "tema_relatoria": null,
+  "resumen": "En este caso se presenta la acción de tutela para solicitar que se imparta la orden a la Junta Nacional de Calificación de Invalidez, de revocar un dictamen pero únicamente en lo relacionado con la fecha de estructuración de la invalidez. La Sala de Revisión no estima conculcados los derechos invocados por la accionante, en la medida que las pruebas aportadas al proceso no demostraron que el dictamen impugnado haya sido arbitrario o contrario a las formas propias del procedimiento de calificación consagradas en el Manual Único de Calificación de Invalidez,, toda vez que se evidenció que la fecha de estructuración se determinó con base en toda de la historia clínica, sin desconocer los diagnósticos de las enfermedades que la actora sufrió previamente. Se resuelve NEGAR el amparo deprecado.",
+  "titulaciones": [
+    {
+      "tema": "DICTAMENES DE LAS JUNTAS DE CALIFICACION DE INVALIDEZ",
+      "subtema": "Motivación técnico-científica de la decisión"
+    },
+    {
+      "tema": "DEBIDO PROCESO EN LA EXPEDICION DE LOS DICTAMENES DE PERDIDA DE LA CAPACIDAD LABORAL",
+      "subtema": "No vulneración por cuanto fecha de estructuración se determinó con base en toda la historia clínica, sin desconocer los diagnósticos de las enfermedades que accionante su"
+    },
+    {
+      "tema": "PRINCIPIO DE SUBSIDIARIEDAD DE LA ACCION DE TUTELA Y SUS EXCEPCIONES EN MATERIA DE DICTAMENES DE PERDIDA DE LA CAPACIDAD LABORAL",
+      "subtema": "Procedencia cuando afecta derechos fundamentales"
+    }
+  ]
+}

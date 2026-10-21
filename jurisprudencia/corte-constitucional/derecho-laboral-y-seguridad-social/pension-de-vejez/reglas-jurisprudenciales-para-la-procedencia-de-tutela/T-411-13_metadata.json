@@ -1,0 +1,57 @@
+{
+  "radicado": "T-411-13",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2013,
+  "fecha_creacion": "2013-07-04",
+  "magistrado_ponente": "Nilson Pinilla Pinilla",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "PENSION DE VEJEZ",
+  "subtema": "Reglas jurisprudenciales para la procedencia de tutela",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 71 de 1988",
+    "Decreto 2011 de 2012",
+    "Ley 100 de 1993",
+    "Decreto 1406 de 1999",
+    "Decreto 2633 de 1994",
+    "Ley 33 de 1985",
+    "Acto Legislativo 1 de 2005",
+    "Decreto 3041 de 1966"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2013/T-411-13.htm",
+  "fecha_descarga": "2026-10-21T14:16:30.237928+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2013-07-04",
+  "fecha_publicacion": null,
+  "numero": "T-411/13",
+  "tipo_cc": "T",
+  "prov_id": "5027",
+  "tema_relatoria": null,
+  "resumen": "Seguridad social, mínimo vital. Se acumulan expedientes por unidad de materia. Los actores solicitaron a ISS y COLPENSIONES el reconocimiento y pago de la pensión de vejez, al considerar que tenían derecho a esta prestación al pertenecer al régimen de transición y cumplir con las semanas exigidas por la ley. Las entidades accionadas negaron la prestación argumentando el incumplimiento de las semanas de cotización. A juicio de los actores, la situación se generó por omisión o error de los empleadores al no efectuar en debida forma los aportes correspondientes y de las administradoras de pensiones, al no requerir el cobro de estas cotizaciones. Se analiza temática relacionada con el derecho a la seguridad social en materia pensional y la procedencia de la acción de tutela para reclamar la pensión de vejez. Luego de estudiar cada caso en particular, la Sala de Revisión decide CONCEDER el amparo solicitado.",
+  "titulaciones": [
+    {
+      "tema": "PENSION DE VEJEZ",
+      "subtema": "Reglas jurisprudenciales para la procedencia de tutela"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA PARA EL RECONOCIMIENTO DE PENSIÓN DE VEJEZ",
+      "subtema": "Procedencia excepcional cuando se vulneran derechos de las personas de la tercera edad"
+    },
+    {
+      "tema": "DERECHO AL MINIMO VITAL Y A LA SEGURIDAD SOCIAL",
+      "subtema": "Orden a Colpensiones reconocer y pagar pensión de vejez por cumplir con semanas cotizadas que no se tuvieron en cuenta por mora del empleador"
+    },
+    {
+      "tema": "MORA EN EL PAGO DE APORTES Y COTIZACIONES PENSIONALES",
+      "subtema": "La entidad administradora de pensiones tiene el deber de exigir al patrono la cancelación de los aportes pensionales"
+    },
+    {
+      "tema": "PENSION DE VEJEZ",
+      "subtema": "Finalidad"
+    }
+  ]
+}

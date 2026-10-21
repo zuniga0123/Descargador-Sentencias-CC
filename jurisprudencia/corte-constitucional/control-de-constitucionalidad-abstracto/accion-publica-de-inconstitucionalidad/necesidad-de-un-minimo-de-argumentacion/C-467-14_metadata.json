@@ -1,0 +1,49 @@
+{
+  "radicado": "C-467-14",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2014,
+  "fecha_creacion": "2014-07-09",
+  "magistrado_ponente": "Alberto Rojas Ríos",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "ACCION PUBLICA DE INCONSTITUCIONALIDAD",
+  "subtema": "Necesidad de un mínimo de argumentación",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2067 de 1991",
+    "Ley 1098 de 2006",
+    "Ley 29 de 1982",
+    "Ley 1592 de 2012",
+    "Ley 5 de 1975"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2014/C-467-14.htm",
+  "fecha_descarga": "2026-10-21T14:04:57.888864+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2014-07-09",
+  "fecha_publicacion": null,
+  "numero": "C-467/14",
+  "tipo_cc": "C",
+  "prov_id": "6431",
+  "tema_relatoria": "FALLO INHIBITORIO POR INEPTITUD DE DEMANDA DE INCONSTITUCIONALIDAD CONTRA CONDICION DE LEGITIMARIOS EN CODIGO CIVIL",
+  "resumen": "Demanda de inconstitucionalidad contra el artículo 1240 numeral 4º, del Código Civil. Consideran los demandantes que la norma cuestionada viola el principio de igualdad, porque consagra que sólo los padres de sangre de los hijos adoptivos de forma simple, pueden ser legitimarios de estos y no sus demás ascendientes consanguíneos. La Corte encontró que el cargo formulado en el presente caso carece de la certeza que se exige para que pueda entrarse a efectuar un examen y decisión de fondo, toda vez que la interpretación de la que parten los demandantes no corresponde al contenido normativo de la disposición acusada, sino a una apreciación subjetiva, aislada y ajena a lo que se dispone en el citado Código sobre la materia. Además, la demanda adolece de suficiencia para cuestionar la validez de la norma por una omisión legislativa relativa, originada en el presunto desconocimiento del derecho a la igualdad, como quiera que no se aportan los elementos que exige un cargo de esta naturaleza, en cuanto a los supuestos o grupos a comparar frente al deber constitucional supuestamente omitido por el legislador. La Sala se INHIBE de emitir un pronunciamiento de fondo, por ineptitud sustantiva de la demanda.",
+  "titulaciones": [
+    {
+      "tema": "ACCION PUBLICA DE INCONSTITUCIONALIDAD",
+      "subtema": "Necesidad de un mínimo de argumentación"
+    },
+    {
+      "tema": "INHIBICION DE LA CORTE CONSTITUCIONAL POR INEPTITUD SUSTANTIVA DE LA DEMANDA",
+      "subtema": "Incumplimiento de requisitos de certeza y suficiencia en los cargos"
+    },
+    {
+      "tema": "ACCION PUBLICA DE INCONSTITUCIONALIDAD",
+      "subtema": "Requisitos"
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "Razones claras, ciertas, específicas, pertinentes y suficientes"
+    }
+  ]
+}

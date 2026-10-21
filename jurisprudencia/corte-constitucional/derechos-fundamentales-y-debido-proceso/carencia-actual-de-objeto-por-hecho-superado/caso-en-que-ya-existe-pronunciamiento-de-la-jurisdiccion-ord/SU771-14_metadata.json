@@ -1,0 +1,48 @@
+{
+  "radicado": "SU771-14",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2014,
+  "fecha_creacion": "2014-10-16",
+  "magistrado_ponente": null,
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "CARENCIA ACTUAL DE OBJETO POR HECHO SUPERADO",
+  "subtema": "Caso en que ya existe pronunciamiento de la jurisdicción ordinaria laboral respecto a controversia por suspensión de beneficios contenidos en convención colectiva de pensionado de la Empresa de Energía de Bogot",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 4 de 1976",
+    "Acto Legislativo 1 de 2005",
+    "Ley 100 de 1993"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2014/SU771-14.htm",
+  "fecha_descarga": "2026-10-21T14:12:06.823163+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2014-10-16",
+  "fecha_publicacion": null,
+  "numero": "SU.771/14",
+  "tipo_cc": "SU",
+  "prov_id": "6864",
+  "tema_relatoria": null,
+  "resumen": "Sentencia de unificación. La Sala Plena decidió sobre la acción de tutela interpuesta en contra de la Empresa de Energía de Bogotá, para cuestionar la cancelación que hiciera al actor, de ciertos beneficios convencionales que desde el reconocimiento de la pensión, le habían sido otorgados. La medida adoptada por la entidad se sustentó en la entrada en vigencia de una cláusula del Acto Legislativo 1 de 2005, conforme a la cual, desde agosto de 2010 no puede haber beneficios pensionales diferentes a los previstos en el Sistema General de Pensiones. La acción de tutela le fue concedida al actor en ambas instancias, aunque como mecanismo transitorio, a partir de lo cual intentó también la acción ordinaria laboral. Durante el trámite de revisión ante este Tribunal, el actor informó sobre la decisión favorable de esta última acción, incluso, en sede de casación. Así las cosas, teniendo en cuenta además que el juez de tutela es, por regla general, incompetente para decidir controversias relacionadas con el otorgamiento o negación de beneficios de carácter convencional, salvo excepcionalmente, en caso de verdadera vulneración de derechos fundamentales, la Corte concluyó que no podía pronunciarse sobre lo planteado, pues a más de no presentarse la situación de vulnerabilidad, esa controversia ya fue resuelta de fondo, y en sentido favorable al actor por el juez competente, esto es, el juez de la jurisdicción laboral. Se declara la carencia actual de objeto por HECHO SUPERADO.",
+  "titulaciones": [
+    {
+      "tema": "CARENCIA ACTUAL DE OBJETO POR HECHO SUPERADO",
+      "subtema": "Caso en que ya existe pronunciamiento de la jurisdicción ordinaria laboral respecto a controversia por suspensión de beneficios contenidos en convención colectiva de pensionado de la Empresa de Energía de Bogot"
+    },
+    {
+      "tema": "CARENCIA ACTUAL DE OBJETO POR HECHO SUPERADO",
+      "subtema": "Reiteración de jurisprudencia"
+    },
+    {
+      "tema": "JUEZ DE TUTELA",
+      "subtema": "No es competente para resolver controversias en torno a interpretación y aplicación de reglas convencionales"
+    },
+    {
+      "tema": "UNIFICACION DE JURISPRUDENCIA",
+      "subtema": "Importancia"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "radicado": "T-323-13",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2013,
+  "fecha_creacion": "2013-05-30",
+  "magistrado_ponente": "Jorge Ignacio Pretelt Chaljub",
+  "area": "Derecho a la Salud",
+  "tema": "CARENCIA ACTUAL DE OBJETO POR HECHO SUPERADO",
+  "subtema": "Reiteración de jurisprudencia",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 100 de 1993",
+    "Ley 1122 de 2007"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2013/T-323-13.htm",
+  "fecha_descarga": "2026-10-21T14:18:23.459305+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2013-05-30",
+  "fecha_publicacion": null,
+  "numero": "T-323/13",
+  "tipo_cc": "T",
+  "prov_id": "4919",
+  "tema_relatoria": null,
+  "resumen": "En este asunto el demandante presentó solicitud de tutela contra Sanitas E.P.S., invocando la protección de sus derechos fundamentales a la salud, al diagnóstico y a la vida digna, los que consideró vulnerados por la entidad al no brindarle un tratamiento integral para la diabetes que padecía y que requería de manera previa a la práctica de una cirugía de prostatectomía abierta que le fue ordenada por su médico tratante adscrito a la entidad. La vulneración también se alega por la falta de pronunciamiento respecto al examen prescrito por un especialista externo a la E.P.S., para establecer la viabilidad de la cirugía por medio de la técnica de láser verde. La Sala reitera precedentes constitucionales relacionados con: 1º. El carácter fundamental autónomo del derecho de la salud. 2º. El derecho fundamental a la salud de las personas de la tercera edad y, 3º. Procedencia excepcional de la acción de tutela para poder ordenar el suministro de tratamientos, procedimientos o medicamentos excluidos del POS. En sede de revisión la Sala conoció que al actor se le practicó una cirugía de ablación prostática con láser de luz verde sin complicación y que la misma fue realizada por médico especialista particular, cuyo costo fue asumido por el actor. A pesar de declarar la carencia actual de objeto por hecho superado, la Sala impartió una serie de órdenes a la accionada y la previno para que no vuelva a incurrir en conductas como las que dieron origen a la presentación de la presente acción de tutela y garantice todos los servicios y el tratamiento integral de salud que requieran sus afiliados.",
+  "titulaciones": [
+    {
+      "tema": "CARENCIA ACTUAL DE OBJETO POR HECHO SUPERADO",
+      "subtema": "Reiteración de jurisprudencia"
+    },
+    {
+      "tema": "CARENCIA ACTUAL DE OBJETO POR HECHO SUPERADO",
+      "subtema": "Caso en que al accionante le fue realizada cirugía por médico particular"
+    },
+    {
+      "tema": "DERECHO A LA SALUD COMO DERECHO FUNDAMENTAL AUTONOMO",
+      "subtema": "Reiteración de jurisprudencia"
+    },
+    {
+      "tema": "ACCION DE TUTELA PARA ORDENAR SUMINISTRO DE MEDICAMENTOS, EXAMENES O PROCEDIMIENTOS EXCLUIDOS DEL POS",
+      "subtema": "Reiteración de jurisprudencia sobre procedencia excepcional"
+    },
+    {
+      "tema": "ACCION DE TUTELA PARA REEMBOLSO DE GASTOS MEDICOS",
+      "subtema": "Improcedencia general"
+    },
+    {
+      "tema": "DERECHO A LA SALUD DE PERSONAS DE LA TERCERA EDAD",
+      "subtema": "Fundamental autónomo"
+    },
+    {
+      "tema": "DERECHO A LA SALUD Y A LA VIDA DIGNA DE ADULTO MAYOR",
+      "subtema": "Vulneración por EPS al no realizar cirugía a paciente enfermo de próstata"
+    }
+  ]
+}

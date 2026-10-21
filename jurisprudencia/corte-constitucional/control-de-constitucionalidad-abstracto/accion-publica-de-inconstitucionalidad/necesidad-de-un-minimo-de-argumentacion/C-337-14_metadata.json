@@ -1,0 +1,54 @@
+{
+  "radicado": "C-337-14",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2014,
+  "fecha_creacion": "2014-06-04",
+  "magistrado_ponente": null,
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "ACCION PUBLICA DE INCONSTITUCIONALIDAD",
+  "subtema": "Necesidad de un mínimo de argumentación",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 1474 de 2011",
+    "Decreto 2067 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2014/C-337-14.htm",
+  "fecha_descarga": "2026-10-21T14:10:58.596379+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2014-06-04",
+  "fecha_publicacion": null,
+  "numero": "C-337/14",
+  "tipo_cc": "C",
+  "prov_id": "6266",
+  "tema_relatoria": "FALLO INHIBITORIO POR INEPTITUD DE DEMANDA DE INCONSTITUCIONALIDAD CONTRA LA PROCEDENCIA DE CESACION DE LA ACCION FISCAL",
+  "resumen": "Demanda de inconstitucionalidad contra el artículo 111 (parcial) de la Ley 1474 de 2011, por la cual se dictan normas orientadas a fortalecer los mecanismos de prevención, investigación y sanción de actos de corrupción y la efectividad del control de la gestión pública. La demandante considera que el legislador incurrió en una omisión legislativa relativa al establecer que procedería la cesación de la acción fiscal, entre otros casos, por la aplicación del principio de oportunidad, sin haberlo contemplado frente a quienes se beneficien con la preclusión de la investigación penal, generando un trato discriminatorio frente a estos últimos, contrario al artículo 13 Superior. Manifiesta que, no obstante existen diferencias entre el principio de oportunidad y la preclusión de la investigación como figuras propias de la ley procesal penal, tienen en común que ambas conllevan la extinción de la acción penal y deberían general en igualdad de condiciones, la cesación de la acción fiscal. Para la Sala, el cargo carece de certeza al no estar dirigido contra una proposición jurídica real, sino contra una deducida de manera descontextualizada y asistemática por la actora, lo que no permite una confrontación entre la norma legal y la disposición constitucional supuestamente trasgredida. INHIBID",
+  "titulaciones": [
+    {
+      "tema": "ACCION PUBLICA DE INCONSTITUCIONALIDAD",
+      "subtema": "Necesidad de un mínimo de argumentación"
+    },
+    {
+      "tema": "PROCEDENCIA DE CESACION DE LA ACCION FISCAL",
+      "subtema": "Contexto normativo"
+    },
+    {
+      "tema": "PROCEDENCIA DE CESACION DE LA ACCION FISCAL",
+      "subtema": "Inhibición para decidir de fondo respecto de la disposición acusada por ineptitud de demanda"
+    },
+    {
+      "tema": "ACCION PUBLICA DE INCONSTITUCIONALIDAD",
+      "subtema": "Requisitos"
+    },
+    {
+      "tema": "ACCION PUBLICA DE INCONSTITUCIONALIDAD",
+      "subtema": "Oportunidad para la verificación de los requisitos de procedibilidad"
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "Razones claras, ciertas, específicas, pertinentes y suficientes"
+    }
+  ]
+}

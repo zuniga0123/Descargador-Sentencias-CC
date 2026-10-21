@@ -1,0 +1,79 @@
+{
+  "radicado": "T-419-13",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2013,
+  "fecha_creacion": "2013-07-08",
+  "magistrado_ponente": null,
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCION DE TUTELA CONTRA PARTICULARES",
+  "subtema": "Procedencia por ser la actividad bancaria un servicio público",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto Ley 2591 de 1991",
+    "Ley 222 de 1995",
+    "Ley 1266 de 2008"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2013/T-419-13.htm",
+  "fecha_descarga": "2026-10-21T14:15:25.336205+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2013-07-08",
+  "fecha_publicacion": null,
+  "numero": "T-419/13",
+  "tipo_cc": "T",
+  "prov_id": "5036",
+  "tema_relatoria": null,
+  "resumen": "En este asunto considera el accionante que el Banco de Occidente vulnera sus derechos fundamentales de petición, al buen nombre y al habeas data, en virtud de haberlo reportado desfavorablemente a centrales de riesgo crediticio, basándose en el incumplimiento de obligaciones financieras que no adquirió y que, por esa razón, no podía predicar que estaba en mora en su pago. Igualmente, alega el actor que las respuestas dadas por el Banco a sus solicitudes no cumplen el contenido mínimo del derecho de petición, puesto que no se trata de una respuesta de fondo que explique por qué, a pesar de no tener evidencia sobre la existencia de las obligaciones motivo de reporte, la entidad llevó a cabo el mismo. La Sala analiza jurisprudencia relacionada con el derecho fundamental de petición, los principios de finalidad y veracidad del dato personal y, los deberes de las fuentes de información personal de contenido comercial, financiero y crediticio. Se CONCEDE la tutela y se ordena al banco accionado proceder a rectificar ante las centrales de riesgo la información personal del actor, en el sentido de eliminar definitivamente todos los reportes financieros negativos o desfavorables derivados de la relación contractual y de créditos entre ambos.",
+  "titulaciones": [
+    {
+      "tema": "ACCION DE TUTELA CONTRA PARTICULARES",
+      "subtema": "Procedencia por ser la actividad bancaria un servicio público"
+    },
+    {
+      "tema": "BANCO DE DATOS PERSONALES DE CONTENIDO FINANCIERO",
+      "subtema": "Deberes y obligaciones que impone a los titulares, administradores y usuarios de la información personal"
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA PARTICULARES",
+      "subtema": "Procedencia respecto de entidad financiera"
+    },
+    {
+      "tema": "PRINCIPIOS DE FINALIDAD Y VERACIDAD DE DATOS PERSONALES DE CONTENIDO CREDITICIO",
+      "subtema": null
+    },
+    {
+      "tema": "DERECHO AL BUEN NOMBRE Y AL HABEAS DATA FINANCIERO",
+      "subtema": "Orden a Banco de Occidente rectificar ante las centrales de riesgo la información personal para eliminar definitivamente los reportes financieros negativos"
+    },
+    {
+      "tema": "DERECHO DE PETICIÓN ANTE PARTICULARES",
+      "subtema": "Situaciones que se presentan"
+    },
+    {
+      "tema": "DERECHO A LA AUTODETERMINACION INFORMATICA",
+      "subtema": "Contenido y requisitos"
+    },
+    {
+      "tema": "DERECHO AL BUEN NOMBRE Y AL HABEAS DATA FINANCIERO",
+      "subtema": "Vulneración por Banco al reportar al accionante en centrales de riesgo por obligaciones inexistentes, pues no cuentan con el soporte físico"
+    },
+    {
+      "tema": "DERECHO DE PETICIÓN",
+      "subtema": "Requisitos de la respuesta"
+    },
+    {
+      "tema": "DERECHO DE PETICIÓN",
+      "subtema": "Elementos"
+    },
+    {
+      "tema": "HABEAS DATA",
+      "subtema": "Características del dato personal"
+    },
+    {
+      "tema": "HABEAS DATA FINANCIERO",
+      "subtema": "Principios de finalidad y veracidad"
+    }
+  ]
+}

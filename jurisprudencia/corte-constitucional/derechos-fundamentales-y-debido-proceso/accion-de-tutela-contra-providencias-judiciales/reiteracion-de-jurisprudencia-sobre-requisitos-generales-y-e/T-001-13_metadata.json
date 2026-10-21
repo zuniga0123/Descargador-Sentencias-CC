@@ -1,0 +1,65 @@
+{
+  "radicado": "T-001-13",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2013,
+  "fecha_creacion": "2013-01-11",
+  "magistrado_ponente": "Mauricio González Cuervo I",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+  "subtema": "Reiteración de jurisprudencia sobre requisitos generales y especiales de procedibilidad",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2013/T-001-13.htm",
+  "fecha_descarga": "2026-10-21T14:20:26.029587+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2013-01-11",
+  "fecha_publicacion": null,
+  "numero": "T-001/13",
+  "tipo_cc": "T",
+  "prov_id": "4484",
+  "tema_relatoria": null,
+  "resumen": "Debido proceso. Tutela contra providencia judicial. Se interpone la acción de tutela en contra de las decisiones judiciales adoptadas por el Juzgado Quinto Administrativo de Popayán y el Tribunal Administrativo del Cauca dentro de un proceso de reparación directa, mediante las cuales se declaró la responsabilidad y se condenó al pago de perjuicios morales en cuantía de cien salarios mínimos legales mensuales vigentes al Ministerio de Educación Nacional y al ICFES, por la presunta omisión en sus funciones de inspección y vigilancia sobre la Universidad Libre de Popayán, al no haber cumplido esta institución educativa la obligación de registrar previamente en el SNIE, el pénsum de la carrera de derecho cursada por el demandante. Se alega la configuración de defectos sustantivo, fáctico y desconocimiento del precedente jurisprudencial. La Sala de Revisión concluye que, las autoridades judiciales demandadas vulneraron el derecho constitucional al debido proceso de las entidades accionantes, al desconocer las reglas y principios establecidos por la jurisprudencia del Consejo de Estado en relación con la tasación de perjuicios morales. Se indica, que se vulnera el precitado derecho cuando una autoridad judicial desconoce o se aparta del precedente judicial establecido por los máximos órganos judiciales de su respectiva jurisdicción, si justificar de manera suficiente y razonada su decisión. Se CONCEDE la tutela y se ordena dictar sentencia de reemplazo en la que se observen los parámetros y criterios sentados en esta sentencia, respecto a la obligación de motivar la decisión sobre la cuantía de la condena por perjuicios morales, con base en los principios de equidad, razonabilidad y reparación integral establecidos en la jurisprudencia del Consejo de Estado.",
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Reiteración de jurisprudencia sobre requisitos generales y especiales de procedibilidad"
+    },
+    {
+      "tema": "RACIONALIDAD Y RAZONABILIDAD",
+      "subtema": "Diferencia"
+    },
+    {
+      "tema": "DEBIDO PROCESO DEL ICFES",
+      "subtema": "Ausencia de motivación en la sentencia en relación con la tasación del daño moral"
+    },
+    {
+      "tema": "DESCONOCIMIENTO DEL PRECEDENTE EN LA TASACION DE LOS PERJUICIOS MORALES",
+      "subtema": null
+    },
+    {
+      "tema": "PRINCIPIOS DEL PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO DEL NUEVO CODIGO",
+      "subtema": "Deben respeto por la jurisprudencia"
+    },
+    {
+      "tema": "LINEA JURISPRUDENCIAL DEL CONSEJO DE ESTADO EN MATERIA DE DAÑO MORAL Y TASACION DE PERJUICIOS MORALES",
+      "subtema": "Principios de equidad, razonabilidad y reparación integral en la tasación de perjuicios morales"
+    },
+    {
+      "tema": "DERECHO A LA IGUALDAD Y AL DEBIDO PROCESO",
+      "subtema": "Vulneración por desconocimiento del precedente judicial en fallo de Reparación directa que adolece de motivación en cuantificación del daño moral que aplicó monto máximo contra el ICFES"
+    },
+    {
+      "tema": "DEBIDO PROCESO DEL ICFES EN TASACION DE PERJUICIOS MORALES",
+      "subtema": "Precedente en sentencias T-351 y T-464 de 2011 y T-212/12"
+    },
+    {
+      "tema": "SEPARACION DEL PRECEDENTE",
+      "subtema": "Ante situaciones fácticas iguales corresponde la misma solución jurídica, a menos que el juez competente exprese razones serias y suficientes para apartarse del precedente"
+    }
+  ]
+}

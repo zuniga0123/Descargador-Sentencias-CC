@@ -1,0 +1,60 @@
+{
+  "radicado": "C-091-14",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2014,
+  "fecha_creacion": "2014-02-19",
+  "magistrado_ponente": "Gabriel Eduardo Mendoza Martelo",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "DEMANDA DE INCONSTITUCIONALIDAD",
+  "subtema": "Admisión no obliga a la Corte a proferir sentencia de fondo",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 906 de 2004",
+    "Decreto 2067 de 1991",
+    "Ley 1453 de 2011",
+    "Ley 600 de 2000"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2014/C-091-14.htm",
+  "fecha_descarga": "2026-10-21T14:08:17.793560+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2014-02-19",
+  "fecha_publicacion": null,
+  "numero": "C-091/14",
+  "tipo_cc": "C",
+  "prov_id": "5884",
+  "tema_relatoria": "FALLO INHIBITORIO POR INEPTITUD DE DEMANDA DE INCONSTITUCIONALIDAD CONTRA CONCEPTO DE EXTRADICION DE LA CORTE SUPREMA DE JUSTICIA, CONTENIDO EN EL CODIGO DE PROCEDIMIENTO PENAL",
+  "resumen": "Demanda de inconstitucionalidad en contra de los artículos 501, 506 y 509 de la Ley 906 de 2004, por la cual se expide el Código de Procedimiento Penal. Según el actor, la disposición acusada, al no establecer un término judicial dentro del cual la Corte Suprema de Justicia deba emitir el concepto previo y necesario para que el Gobierno Nacional profiera la resolución que concede o niega la extradición, vulnera el artículo 29 Superior, toda vez que genera una prolongación injustificada de la privación de la libertad. La Corte determinó que el demandante no aportó los elementos de especificidad y pertinencia requeridos para que se pudiera abordar de fondo el cargo por omisión legislativa relativa. La Sala Plena se declara INHIBIDA para emitir pronunciamiento de fondo, por ineptitud sustantiva de la demanda.",
+  "titulaciones": [
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "Admisión no obliga a la Corte a proferir sentencia de fondo"
+    },
+    {
+      "tema": "INHIBICION DE LA CORTE CONSTITUCIONAL EN DEMANDA POR OMISION LEGISLATIVA",
+      "subtema": "Ineptitud sustantiva por incumplimiento de requisitos de suficiencia y especificidad"
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD POR OMISION LEGISLATIVA RELATIVA",
+      "subtema": "Impone al demandante una mayor carga argumentativa"
+    },
+    {
+      "tema": "CONSTITUCIONALIDAD DE OMISION LEGISLATIVA RELATIVA",
+      "subtema": "Supuesto debe derivarse del contenido normativo demandado"
+    },
+    {
+      "tema": "DELITO DE TOMA DE REHENES",
+      "subtema": "Requisito que exige para la tipificación, que privación de la libertad del rehén se condicione a la satisfacción de exigencias formuladas \"a la otra parte\" del conflicto armado desconoce bloque de constitucionalidad"
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "Aplicación del principio pro actione"
+    },
+    {
+      "tema": "EXTRADICION",
+      "subtema": "Concepto de la Corte Suprema de Justicia"
+    }
+  ]
+}

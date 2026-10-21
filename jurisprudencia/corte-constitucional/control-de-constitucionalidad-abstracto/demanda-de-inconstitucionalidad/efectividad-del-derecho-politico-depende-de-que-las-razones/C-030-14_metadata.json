@@ -1,0 +1,60 @@
+{
+  "radicado": "C-030-14",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2014,
+  "fecha_creacion": "2014-01-29",
+  "magistrado_ponente": "María Victoria Calle Correa",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "DEMANDA DE INCONSTITUCIONALIDAD",
+  "subtema": "Efectividad del derecho político depende de que las razones presentadas por el actor sean claras, ciertas, específicas, pertinentes y suficientes",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 1564 de 2012",
+    "Decreto 2067 de 1991",
+    "Ley 1437 de 2011",
+    "Ley 196 de 2011",
+    "Ley 1444 de 2011",
+    "Decreto Ley 4085 de 2011",
+    "Ley 790 de 2002",
+    "Decreto 4085 de 2011",
+    "Ley 472 de 1998",
+    "Decreto 1365 de 2013",
+    "Decreto 1795 de 2007",
+    "Ley 819 de 2003"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2014/C-030-14.htm",
+  "fecha_descarga": "2026-10-21T14:05:51.922584+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2014-01-29",
+  "fecha_publicacion": null,
+  "numero": "C-030/14",
+  "tipo_cc": "C",
+  "prov_id": "5795",
+  "tema_relatoria": "FALLO INHIBITORIO POR INEPTITUD DE DEMANDA DE INCONSTITUCIONALIDAD CONTRA EL CÓDIGO GENERAL DEL PROCESO Y SE DICTAN OTRAS DISPOSICIONES.",
+  "resumen": "Demanda de inconstitucionalidad contra los incisos 6 y 7 del artículo 612 de la Ley 1564 de 2012, por medio de la cual se expide el Código General del Proceso y se dictan otras disposiciones. Considera la accionante que la norma acusada, al ordenar a los jueces a notificar personalmente a la Agencia para la Defensa Jurídica del Estado dentro de cualquier proceso en contra del Estado, desconoce los derechos al debido proceso, a la defensa y a la adecuada protección de los recursos públicos, al pretender alcanzarse una finalidad adecuada pero a través de un medio irrazonable y desproporcionado. La ausencia de cargos pertinentes y suficientes impidió a la Corte realizar un examen del caso y por ello, decidió INHIBIRSE de emitir un pronunciamiento de fondo, por ineptitud sustantiva de la demanda.",
+  "titulaciones": [
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "Efectividad del derecho político depende de que las razones presentadas por el actor sean claras, ciertas, específicas, pertinentes y suficientes"
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "Inhibición por ausencia de cargos"
+    },
+    {
+      "tema": "CRITICA A TECNICA LEGISLATIVA EMPLEADA POR EL CONGRESO",
+      "subtema": "No sustenta necesariamente una inconstitucionalidad"
+    },
+    {
+      "tema": "ERROR DE TECNICA LEGISLATIVA",
+      "subtema": "No es, per se, una violación del orden constitucional vigente"
+    },
+    {
+      "tema": "LEY GENERAL DE PROCESO",
+      "subtema": "Modificaciones al Código de Procedimiento administrativo y de lo Contencioso Administrativo sobre notificación del auto admisorio de la demanda a la Agencia Nacional de Defensa Jurídica del Estado"
+    }
+  ]
+}

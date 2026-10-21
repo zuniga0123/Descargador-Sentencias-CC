@@ -1,0 +1,58 @@
+{
+  "radicado": "T-415-13",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2013,
+  "fecha_creacion": "2013-07-05",
+  "magistrado_ponente": "Mauricio González Cuervo I",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "LEY DE VICTIMAS",
+  "subtema": "Ley 1448 de 2011 artículo 74 incluye bienes baldíos",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 1448 de 2011",
+    "Ley 160 de 1994",
+    "Decreto 2591 de 1991",
+    "Decreto 747 de 1992",
+    "Ley 1564 de 2012",
+    "Decreto 1400 de 1970"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2013/T-415-13.htm",
+  "fecha_descarga": "2026-10-21T14:16:45.307321+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2013-07-05",
+  "fecha_publicacion": null,
+  "numero": "T-415/13",
+  "tipo_cc": "T",
+  "prov_id": "5031",
+  "tema_relatoria": null,
+  "resumen": "Debido proceso. En este caso los accionantes pretenden que en sede de tutela se les restablezca el derecho a la propiedad y se deje sin efecto el acto administrativo proferido por el INCODER para negar la solicitud de revocatoria directa de la resolución que adjudicó a favor de terceros el predio denominado “La Luna”, del cual eran poseedores. Aducen los demandantes que en dicha decisión se desconoció el hecho de que no habitaban el predio al momento de la adjudicación, debido al desplazamiento forzado del que fueron víctimas. La Sala precisa que el proceso de restitución de tierras establecido en la Ley 1448 de 2011 es el medio idóneo y eficaz para establecer los derechos de la población víctima del despojo o abandono forzado de tierras, por ello, cuando no se agote previamente este recurso ordinario de defensa judicial, como en el caso concreto, la acción de tutela debe ser declarada IMPROCEDENTE por incumplir con el requisito de subsidiariedad.",
+  "titulaciones": [
+    {
+      "tema": "LEY DE VICTIMAS",
+      "subtema": "Ley 1448 de 2011 artículo 74 incluye bienes baldíos"
+    },
+    {
+      "tema": "PROCESO DE RESTITUCION DE TIERRAS",
+      "subtema": "Plazo de duración acorde con el art. 91 de la ley 1448 de 2011"
+    },
+    {
+      "tema": "VICTIMAS DE DESPOJO, USURPACION Y ABANDONO FORZADO DE TIERRAS",
+      "subtema": "Improcedencia de acción de tutela por cuanto existe el mecanismo ordinario de defensa establecido en la ley 1448 de 2011 y no haberse demostrado perjuicio irremediable"
+    },
+    {
+      "tema": "PERJUICIO IRREMEDIABLE",
+      "subtema": "Características"
+    },
+    {
+      "tema": "RESTITUCION DE TIERRAS A VICTIMAS DEL CONFLICTO ARMADO",
+      "subtema": "Procedimiento de la acción de restitución"
+    },
+    {
+      "tema": "LEY DE VICTIMAS",
+      "subtema": "Ley 1448 de 2011 ha implementado mecanismos de defensa especializados en resolver el fenómeno del despojo de tierras"
+    }
+  ]
+}

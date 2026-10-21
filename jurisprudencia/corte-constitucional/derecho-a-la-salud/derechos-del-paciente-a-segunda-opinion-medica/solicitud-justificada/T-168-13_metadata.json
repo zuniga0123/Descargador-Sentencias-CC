@@ -1,0 +1,41 @@
+{
+  "radicado": "T-168-13",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2013,
+  "fecha_creacion": "2013-04-01",
+  "magistrado_ponente": "Nilson Pinilla Pinilla",
+  "area": "Derecho a la Salud",
+  "tema": "DERECHOS DEL PACIENTE A SEGUNDA OPINION MEDICA",
+  "subtema": "Solicitud justificada",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2013/T-168-13.htm",
+  "fecha_descarga": "2026-10-21T14:20:59.781543+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2013-04-01",
+  "fecha_publicacion": null,
+  "numero": "T-168/13",
+  "tipo_cc": "T",
+  "prov_id": "4711",
+  "tema_relatoria": null,
+  "resumen": "Salud, vida en condiciones dignas. Advierte la accionante que luego de presentar unas dolencias físicas y de ser tratada por un médico general sin que los síntomas disminuyeran., fue remitida a consulta con un cirujano vascular, quien después de realizarle varios exámenes le practicó una cirugía de varices. Esta intervención, según la demandante, se realizó con fallas técnicas y cuando la enfermedad ya había avanzado, circunstancias que condujeron a que el resultado no fuera óptimo. Se pretende con la acción constitucional que la E,P.S. SALUDCOOP autorice la consulta con otro especialista vascular para que dictamine el real estado de salud de la actora y determine si el tratamiento realizado fue el adecuado. Se pretende igualmente que, si para cumplir la petición principal se requiere el traslado de la paciente fuera de su lugar de residencia, la accionada asuma los costos pertinentes. Se reitera jurisprudencia relacionada con la salud como derecho fundamental y el derecho del paciente a la segunda opinión médica. Se CONCEDE la tutela y se imparten una serie de órdenes conducentes a hacer efectivo el goce de los derechos amparados.",
+  "titulaciones": [
+    {
+      "tema": "DERECHOS DEL PACIENTE A SEGUNDA OPINION MEDICA",
+      "subtema": "Solicitud justificada"
+    },
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Vulneración por EPS al negarse a remitir a la paciente con especialista en cirugía vascular"
+    },
+    {
+      "tema": "DERECHOS DEL PACIENTE A SEGUNDA OPINION MEDICA",
+      "subtema": "Orden a EPS disponga practicar a su costa la valoración de otro cirujano vascular"
+    }
+  ]
+}

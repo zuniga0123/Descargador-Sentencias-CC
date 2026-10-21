@@ -1,0 +1,53 @@
+{
+  "radicado": "T-944-13",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2013,
+  "fecha_creacion": "2013-12-16",
+  "magistrado_ponente": "María Victoria Calle Correa",
+  "area": "Derecho a la Salud",
+  "tema": "DERECHO DE ACCESO AL SERVICIO DE SALUD QUE SE REQUIERE CON NECESIDAD",
+  "subtema": "Suministro de pañales para persona en situación de discapacidad",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2013/T-944-13.htm",
+  "fecha_descarga": "2026-10-21T14:14:59.018291+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2013-12-16",
+  "fecha_publicacion": null,
+  "numero": "T-944/13",
+  "tipo_cc": "T",
+  "prov_id": "5732",
+  "tema_relatoria": null,
+  "resumen": "Se presenta la acción de tutela en contra de la Nueva E.P.S., por considerar que esta entidad vulnera derechos fundamentales del esposo de la accionante, al negarle la prestación de los servicios asistenciales que se consideran indispensables para su cuidado diario y para el manejo del diagnóstico de demencia y alteraciones del comportamiento que presenta, el cual le causa, entre otras cosas, riesgo de auto y heteroagresión. En términos específicos se solicita el ingreso del paciente a una clínica donde pueda recibir un tratamiento adecuado para sus episodios de agresión, al igual que el suministro de pañales desechables y el servicio de enfermería domiciliaria. Se AMPARAN los derechos constitucionales a la salud y a la vida digna del agenciado, se ordena a la accionada autorizar el servicio de una enfermera domiciliaria 12 horas y el suministro de pañales desechables, en cantidad proporcional a las necesidades diarias. Igualmente, se ordena a la demandada realizar una valoración diagnóstica general del paciente y con base en los resultados obtenidos, determinar si es necesario internarlo en una institución que le brinde los servicios médicos acordes con las enfermedades que padece.",
+  "titulaciones": [
+    {
+      "tema": "DERECHO DE ACCESO AL SERVICIO DE SALUD QUE SE REQUIERE CON NECESIDAD",
+      "subtema": "Suministro de pañales para persona en situación de discapacidad"
+    },
+    {
+      "tema": "DERECHO A LA SALUD Y A LA VIDA DEL ENFERMO MENTAL",
+      "subtema": "Orden a EPS realizar nueva valoración psiquiátrica para determinar si requiere internación"
+    },
+    {
+      "tema": "DERECHO A LA SALUD Y A LA VIDA DIGNA DE PERSONA DE LA TERCERA EDAD",
+      "subtema": "Orden a EPS autorice servicio de enfermera domiciliaria de medio tiempo, suministro de pañales desechables que requiere con necesidad"
+    },
+    {
+      "tema": "INAPLICACION DE NORMAS DEL PLAN OBLIGATORIO DE SALUD",
+      "subtema": "Subreglas cuando la prestación del servicio se requiere con necesidad"
+    },
+    {
+      "tema": "SUMINISTRO DE PAÑALES EXCLUIDOS DEL POS",
+      "subtema": "Presupuestos jurisprudenciales"
+    },
+    {
+      "tema": "ACCESIBILIDAD A SERVICIOS MÉDICOS REQUERIDOS CON NECESIDAD",
+      "subtema": "En caso de no existir orden de médico tratante se protege la salud en la faceta de diagnóstico"
+    }
+  ]
+}

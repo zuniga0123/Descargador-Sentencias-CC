@@ -1,0 +1,54 @@
+{
+  "radicado": "T-900-13",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2013,
+  "fecha_creacion": "2013-12-03",
+  "magistrado_ponente": "Nilson Pinilla Pinilla",
+  "area": "Derecho Constitucional Económico",
+  "tema": "DERECHO A LA VIVIENDA, DERECHO A LA SALUD Y A LA VIDA",
+  "subtema": "Negligencia de la empresa de Acueducto y Alcantarillado a la solicitud de independizar caja de aguas residuales que genera malos olores",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 142 de 1994"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2013/T-900-13.htm",
+  "fecha_descarga": "2026-10-21T14:13:56.010339+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2013-12-03",
+  "fecha_publicacion": null,
+  "numero": "T-900/13",
+  "tipo_cc": "T",
+  "prov_id": "5675",
+  "tema_relatoria": null,
+  "resumen": "Se aduce en este caso que la Empresa de Acueducto y Alcantarillado de Bogotá (EAAB) vulneró los derechos a la igualdad, al medio ambiente sano, a la salud y a la vida digna de los demandantes, al abstenerse de realizar la individualización de la caja de aguas residuales de su vivienda y conectarla a la red principal de alcantarillado, argumentando que no es posible hacer la obra porque frente al inmueble pasa un colector principal que no puede ser intervenido. Se aborda la siguiente temática: 1º. El derecho al ambiente sano. 2º. La procedencia de la acción de tutela para la protección del derecho a la vivienda digna en conexidad con la salud y la vida y, 3º. El derecho al servicio público de alcantarillado. Para la Sala fueron insuficientes los argumentos esgrimidos por la demandada para omitir y retardar la prestación del servicio público solicitado y por ello decidió TUTELAR los derechos fundamentales invocados y ordenar a la EAAB iniciar las gestiones pertinentes para conectar el predio de los actores a la red principal de alcantarillado e independizar la caja residual de aguas negras que comparte con el inmueble vecino.",
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA VIVIENDA, DERECHO A LA SALUD Y A LA VIDA",
+      "subtema": "Negligencia de la empresa de Acueducto y Alcantarillado a la solicitud de independizar caja de aguas residuales que genera malos olores"
+    },
+    {
+      "tema": "DERECHO A LA VIVIENDA DIGNA",
+      "subtema": "Fundamental por conexidad con la salud y la vida"
+    },
+    {
+      "tema": "DERECHO AL AMBIENTE SANO",
+      "subtema": "Orden a la Empresa de Acueducto para que inicie gestiones para conectar el predio del accionante a la red principal de alcantarillado e independizar la caja residual de aguas negras que comparte con el inmueble vecino"
+    },
+    {
+      "tema": "DERECHO AL SERVICIO DE ALCANTARILLADO",
+      "subtema": "Protección excepcional por tutela"
+    },
+    {
+      "tema": "DERECHO AL AMBIENTE SANO",
+      "subtema": "Garantía constitucional que tienen los habitantes del territorio colombiano para gozar de un entorno saludable"
+    },
+    {
+      "tema": "DERECHO A LA INTIMIDAD PERSONAL Y FAMILIAR Y DERECHO A LA VIVIENDA DIGNA",
+      "subtema": "Vulneración por estar expuestos a olores nauseabundos o a vectores de enfermedad provenientes del entorno ambiental que afectan la salud"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "radicado": "T-711-13",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2013,
+  "fecha_creacion": "2013-10-16",
+  "magistrado_ponente": "Gabriel Eduardo Mendoza Martelo",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+  "subtema": "Improcedencia por existir otro medio de defensa judicial como es la acción de revisión en proceso penal",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 600 de 2000",
+    "Decreto Ley 2591 de 1991",
+    "Decreto 2591 de 1991",
+    "Ley 1564 de 2012",
+    "Ley 2700 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2013/T-711-13.htm",
+  "fecha_descarga": "2026-10-21T14:12:25.534484+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2013-10-16",
+  "fecha_publicacion": "2015-08-21",
+  "numero": "T-711/13",
+  "tipo_cc": "T",
+  "prov_id": "5418",
+  "tema_relatoria": "ACCION DE TUTELA CONTRA PROVIDENCIAS JUDICIALES. IMPROCEDENCIA POR EXISTIR OTRO MEDIO DE DEFENSA JUDICIAL.",
+  "resumen": "Solicita se declare la nulidad de la declaratoria como persona ausente en proceso penal al incurrir en defecto procedimental por indebida notificación durante etapa de investigación y juzgamiento al no haber sido vinculado personalmente y, fallas en la defensa técnica brindada por defensor de oficio. Temas a tratar: Procedencia excepcional de la tutela contra providencias judiciales, Principio de subsidiariedad e idoneidad, Decisiones emitidas en ejercicio del control concreto de constitucionalidad sobre improcedencia de la acción de tutela. Improcedencia ante la posibilidad de acudir al juez natural mediante acción de revisión.",
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Improcedencia por existir otro medio de defensa judicial como es la acción de revisión en proceso penal"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "No se debió declarar la improcedencia, por cuanto la acción de revisión en proceso penal no es el medio de defensa judicial"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Relevancia constitucional como requisito de procedibilidad"
+    },
+    {
+      "tema": "DEBIDO PROCESO PENAL",
+      "subtema": "Vinculación y comparecencia personal del sindicado como regla general"
+    },
+    {
+      "tema": "VINCULACION DE PERSONA AUSENTE AL PROCESO PENAL",
+      "subtema": "Defecto procedimental por indebida notificación"
+    },
+    {
+      "tema": "ACCION DE REVISION",
+      "subtema": "Procedencia contra sentencias condenatorias"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Requisitos generales y especiales de procedibilidad"
+    }
+  ]
+}
