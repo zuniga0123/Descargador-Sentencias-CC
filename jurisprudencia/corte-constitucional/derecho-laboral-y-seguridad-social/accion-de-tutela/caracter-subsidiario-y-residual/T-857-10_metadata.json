@@ -1,0 +1,50 @@
+{
+  "radicado": "T-857-10",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2010,
+  "fecha_creacion": "2010-10-29",
+  "magistrado_ponente": "Gabriel Eduardo Mendoza Martelo",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "ACCIÓN DE TUTELA",
+  "subtema": "Carácter subsidiario y residual",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Decreto 384 de 1993"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2010/T-857-10.htm",
+  "fecha_descarga": "2026-10-21T18:14:31.602207+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2010-10-29",
+  "fecha_publicacion": null,
+  "numero": "T-857/10",
+  "tipo_cc": "T",
+  "prov_id": "1577",
+  "tema_relatoria": null,
+  "resumen": "El accionante estaba en servicio activo en el Ejército Nacional cuando obtuvo un préstamo para vivienda en la modalidad de libranza por nómina con el banco GNB SUDAMERIS S.A.. Entre las condiciones del crédito se establecía la suscripción de una póliza con la empresa Liberty Seguros para cubrir los riesgos de invalidez permanente total y muerte del deudor. De manera simultánea, el deudor suscribió una solicitud para que fuera incluido en la póliza de seguro de vida grupo deudores, en la que el banco Sudameris aparecía como contratante y beneficiario. En ejercicio de sus funciones y como consecuencia de la explosión de una mina anti persona, al demandante le fue amputada la pierna derecha por debajo de la rodilla y, le fue dictaminada una disminución de la capacidad laboral del 91.05%, lo que generó el retiro del servicio y el reconocimiento de una pensión de invalidez. Luego de solicitar al banco la extinción del crédito, la petición fue denegada debido a que la aseguradora objetó el pago de la póliza, argumentando que la amputación sufrida y la calificación de invalidez obtenida no generaban una incapacidad total y permanente en los términos de la definición del amparo y, que le quedaba una capacidad residual al asegurado que le permitía desempeñar cualquier actividad remunerativa. Se pretende con la acción de tutela que se ordene a las entidades demandadas disponer la extinción del crédito por la causal liberatoria de “incapacidad total permanente para laboral” que figura en la póliza de seguros y, que se ordene a Datacrédito excluirlo de las lista de deudores, debido a que la entidad financiero lo reportó como moroso. . La Sala decide CONCEDER el amparo al derecho al mínimo vital del actor y dispone que por la Junta Regional de Calificación de Invalidez se le practique una valoración de pérdida de capacidad laboral, de donde, si el porcentaje es mayor al 50% conforme al régimen ordinario, se entenderá cumplida la condición establecida en la póliza de seguro de vida grupo y en consecuencia, la aseguradora deberá pagar el saldo del crédito y el deudor quedará librado de la obligación. De ser el porcentaje inferior al 50%, no habrá lugar al pago de la póliza pero se ordena al Banco accionado acordar con el deudor una reestructuración del crédito, teniendo en cuenta sus actuales circunstancias del actor. En este evento se establecen una pautas específicas relacionadas conlos intereses y el plazo de la obligación.",
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Carácter subsidiario y residual"
+    },
+    {
+      "tema": "DERECHO AL MINIMO VITAL",
+      "subtema": "Vulneración por entidad bancaria al aplicar de manera unilateral una interpretación a la cláusula contractual sin tener en cuenta las especiales condiciones del asegurado"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Procedencia excepcional para resolver controversias contractuales"
+    },
+    {
+      "tema": "JURISPRUDENCIA CORTE SUPREMA DE JUSTICIA",
+      "subtema": "Alcance y aplicación frente a seguros de vida grupo deudores"
+    },
+    {
+      "tema": "TEORIA DE LA IMPREVISION",
+      "subtema": "En principio esta excluida de los contratos aleatorios, sin embargo su revisión, debe hacerse en condiciones que consulten las actuales circunstancias sociales, económicas y jurídicas del tomador"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "radicado": "T-679-10",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2010,
+  "fecha_creacion": "2010-09-02",
+  "magistrado_ponente": "Dr NILSON PINILLA PINILLA",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "DERECHO A LA IGUALDAD EN MATERIA JUDICIAL",
+  "subtema": "Para su aplicación concreta autoridades deben otorgar idéntica protección, trato y definición a quienes se encuentren en similares situaciones de hecho como condición sine qua non",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 546 de 1999",
+    "Ley 906 de 2004"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2010/T-679-10.htm",
+  "fecha_descarga": "2026-10-21T18:16:52.841064+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2010-09-02",
+  "fecha_publicacion": null,
+  "numero": "T-679/10",
+  "tipo_cc": "T",
+  "prov_id": "1345",
+  "tema_relatoria": null,
+  "resumen": "Debido proceso, vivienda digna, prevalencia del derecho sustancial. Comentan los accionantes que en el año de 1996 adquirieron un crédito de vivienda otorgado en UPAC, por el cual se les inició un proceso ejecutivo, en diciembre de 2008, formularon incidente, solicitando la nulidad de todo lo actuado con posterioridad al 31 de Diciembre de 1999, incluyendo el auto de mandamiento de pago con fundamento en el parágrafo tercero del artículo 42 de la Ley 546 de 1999, que estipula que todo proceso iniciado con anterioridad al 31 de Diciembre de 1999, siempre que el crédito se encuentre reliquidado, debe darse por terminado. La Sala realiza reiteración de jurisprudencia sobre la procedencia excepcional de las acciones de tutela contra las providencias judiciales, la obligación de terminar los procesos ejecutivos que se encontraban en curso a diciembre 31 de 1999, con título hipotecario a partir de un crédito hipotecario UPAC, la igualdad en materia judicial, se encuentra que los presupuestos para dar por terminado el proceso se han cumplido, por lo tanto no hay razón para que el proceso siga y se vulnere el derecho a la igualdad de los accionantes ya que este beneficio a sido otorgado a sujetos con idénticas circunstancias de hecho, se ordena al juzgado accionado decretar la nulidad de todo lo actuado a partir del mandamiento de pago. Concede.",
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA IGUALDAD EN MATERIA JUDICIAL",
+      "subtema": "Para su aplicación concreta autoridades deben otorgar idéntica protección, trato y definición a quienes se encuentren en similares situaciones de hecho como condición sine qua non"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Reiteración de jurisprudencia sobre requisitos generales y especiales de procedibilidad"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Improcedencia general"
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA PROVIDENCIAS JUDICIALES EN PROCESOS EJECUTIVOS HIPOTECARIOS",
+      "subtema": "Procedencia por cuanto se vulnero derecho a la igualdad, debido proceso y vivienda digna al no dar por terminado proceso hipotecario cuando se cumplían los dos requisitos"
+    },
+    {
+      "tema": "PROCESO EJECUTIVO HIPOTECARIO",
+      "subtema": "Obligación de terminar procesos ejecutivos que se encontraban en curso a diciembre 31 de 1999, con titulo hipotecario a partir de crédito UPAC"
+    }
+  ]
+}

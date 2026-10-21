@@ -1,0 +1,42 @@
+{
+  "radicado": "T-787-10",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2010,
+  "fecha_creacion": "2010-09-30",
+  "magistrado_ponente": "Dr Luis Ernesto Vargas Silva",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "DERECHO AL HABEAS DATA",
+  "subtema": "Caso en que se niega tramitar eliminación de información negativa relacionada con obligación no exigible judicialmente por cuanto las acciones ordinarias establecidas para este fin prescribieron o caducaron",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Decreto Ley 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2010/T-787-10.htm",
+  "fecha_descarga": "2026-10-21T18:15:34.957936+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2010-09-30",
+  "fecha_publicacion": null,
+  "numero": "T-787/10",
+  "tipo_cc": "T",
+  "prov_id": "1479",
+  "tema_relatoria": null,
+  "resumen": "Buen nombre, intimidad y habeas data. Los accionantes comentan que adquirieron una obligación crediticia con la entidad accionada, en calidad de deudores solidarios, fueron reportados en las centrales de riesgos debido a mora en el pago, por lo que elevaron un derecho de petición ante las entidades accionadas solicitando reportar la prescripción de la obligación y eliminar el dato negativo de la obligación crediticia, alegando que han transcurrido once años desde que contrajeron la obligación. La Sala encuentra que de las pruebas aportadas en el expediente, quedó demostrado que la entidad accionada solicitó formalmente a las centrales de riesgo el retiro del dato negativo financiero, se declara la carencia actual de objeto por hecho superado.",
+  "titulaciones": [
+    {
+      "tema": "DERECHO AL HABEAS DATA",
+      "subtema": "Caso en que se niega tramitar eliminación de información negativa relacionada con obligación no exigible judicialmente por cuanto las acciones ordinarias establecidas para este fin prescribieron o caducaron"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Hecho superado por cuanto fue eliminado el reporte negativo de CIFIN y Datacrédito"
+    },
+    {
+      "tema": "CARENCIA ACTUAL DE OBJETO POR HECHO SUPERADO",
+      "subtema": "Reiteración de jurisprudencia"
+    }
+  ]
+}

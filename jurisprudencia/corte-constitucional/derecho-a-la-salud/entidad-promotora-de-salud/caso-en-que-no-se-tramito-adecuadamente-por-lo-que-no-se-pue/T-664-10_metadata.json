@@ -1,0 +1,51 @@
+{
+  "radicado": "T-664-10",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2010,
+  "fecha_creacion": "2010-08-30",
+  "magistrado_ponente": "Dr LUIS ERNESTO VARGAS SILVA",
+  "area": "Derecho a la Salud",
+  "tema": "ENTIDAD PROMOTORA DE SALUD",
+  "subtema": "Caso en que no se tramitó adecuadamente por lo que no se puede pagar más del 50% del monto que ésta tenga derecho a repetir",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 1122 de 2007",
+    "Ley 74 de 1968"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2010/T-664-10.htm",
+  "fecha_descarga": "2026-10-21T18:17:41.011653+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2010-08-30",
+  "fecha_publicacion": null,
+  "numero": "T-664/10",
+  "tipo_cc": "T",
+  "prov_id": "1331",
+  "tema_relatoria": null,
+  "resumen": "Salud, vida, dignidad humana. El accionante fue herido con un arma de fuego y quedó parapléjico por lo tanto requiere el suministro de pañales desechables, los cuales le fueron ordenados y justificados por su médico tratante, pero su EPS se ha negado a suministrarle los pañales por no encontrarse incluidos en el POS. La Sala se pronuncia sobre el ámbito de procedencia de la acción de tutela para reclamar la protección del derecho a la salud y a la vida digna de un discapacitado, se realiza reiteración de jurisprudencia sobre el suministro de pañales y las sub reglas que se han establecido para inaplicar el POS cuando la prestación del servicio se requiere con necesidad, se verifica que en el presente caso se cumple con los requisitos señalados por la jurisprudencia, por lo tanto se decide ordenar el suministro de pañales requerido. Concedia.",
+  "titulaciones": [
+    {
+      "tema": "ENTIDAD PROMOTORA DE SALUD",
+      "subtema": "Caso en que no se tramitó adecuadamente por lo que no se puede pagar más del 50% del monto que ésta tenga derecho a repetir"
+    },
+    {
+      "tema": "INAPLICACION DE NORMAS DEL PLAN OBLIGATORIO DE SALUD",
+      "subtema": "Subreglas cuando la prestación del servicio se requiere con necesidad"
+    },
+    {
+      "tema": "REGLA DE RECOBRO PARCIAL APLICABLE A ENTIDAD PROMOTORA DE SALUD",
+      "subtema": null
+    },
+    {
+      "tema": "DERECHO A LA SALUD Y A LA VIDA DIGNA DE DISCAPACITADO",
+      "subtema": "Procedencia de tutela en el presente caso para el suministro de pañales"
+    },
+    {
+      "tema": "DERECHO A LA SALUD Y A LA VIDA DIGNA DEL DISCAPACITADO",
+      "subtema": "Ambito de procedencia de la acción de tutela para reclamar la protección"
+    }
+  ]
+}

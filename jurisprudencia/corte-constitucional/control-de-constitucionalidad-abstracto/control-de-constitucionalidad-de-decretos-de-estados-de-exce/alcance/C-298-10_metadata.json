@@ -1,0 +1,65 @@
+{
+  "radicado": "C-298-10",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2010,
+  "fecha_creacion": "2010-04-26",
+  "magistrado_ponente": "Dr JORGE IGNACIO PRETELT CHALJUB",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "CONTROL DE CONSTITUCIONALIDAD DE DECRETOS DE ESTADOS DE EXCEPCION",
+  "subtema": "Alcance",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2067 de 1991",
+    "Decreto 74 de 2010",
+    "Ley 137 de 1994",
+    "Decreto 4975 de 2009",
+    "Ley 33 de 1986",
+    "Decreto Ley 1032 de 1991",
+    "Ley 100 de 1993",
+    "Ley 1122 de 2007",
+    "Decreto 4985 de 2009"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2010/C-298-10.htm",
+  "fecha_descarga": "2026-10-21T18:24:22.813374+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2010-04-26",
+  "fecha_publicacion": null,
+  "numero": "C-298/10",
+  "tipo_cc": "C",
+  "prov_id": "734",
+  "tema_relatoria": "INCONSTITUCIONALIDAD POR CONSECUENCIA DE DECRETO LEGISLATIVO DE ESTADO DE EMERGENCIA SOCIAL",
+  "resumen": "Revisión de constitucionalidad del Decreto Legislativo 074 de 2010 “Por medio del cual se introducen modificaciones al régimen del Fondo de Seguro Obligatorio de Accidentes FONSAT y se dictan otras disposiciones”. La Corte decide declarar la inexequibilidad por consecuencia del decreto estudiado ya que mediante sentencia C-252 de 2010, se declaró la inexequibilidad del Decreto 4975 de 2009, por el cual se declaró el estado de emergencia social.",
+  "titulaciones": [
+    {
+      "tema": "CONTROL DE CONSTITUCIONALIDAD DE DECRETOS DE ESTADOS DE EXCEPCION",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "DECRETO LEGISLATIVO QUE DESARROLLA EL ESTADO DE EMERGENCIA SOCIAL",
+      "subtema": "No contiene medidas que establezcan fuentes tributarias de financiación orientadas al goce del derecho a la salud"
+    },
+    {
+      "tema": "CONTROL DE CONSTITUCIONALIDAD DE DECRETO LEGISLATIVO DE DESARROLLO DE ESTADO DE EMERGENCIA SOCIAL EN MATERIA DE SALUD",
+      "subtema": "Efectos diferidos"
+    },
+    {
+      "tema": "CONTROL DE CONSTITUCIONALIDAD DE DECRETO LEGISLATIVO DE DESARROLLO DE ESTADO DE EMERGENCIA SOCIAL EN MATERIA DE SALUD",
+      "subtema": "Sentencia diferida ultra activa desconoce los fundamentos constitucionales de la ratio decidendi"
+    },
+    {
+      "tema": "CONTROL DE CONSTITUCIONALIDAD DE DECRETO LEGISLATIVO DE DESARROLLO DE ESTADO DE EMERGENCIA SOCIAL EN MATERIA DE SALUD",
+      "subtema": "Inexequibilidad diferida"
+    },
+    {
+      "tema": "CONTROL DE CONSTITUCIONALIDAD DE DECRETO LEGISLATIVO DE DESARROLLO DE ESTADO DE EMERGENCIA SOCIAL",
+      "subtema": "Efectos de la Inexequibilidad"
+    },
+    {
+      "tema": "INCONSTITUCIONALIDAD POR CONSECUENCIA EN DECLARACION DE EMERGENCIA",
+      "subtema": "Configuración"
+    }
+  ]
+}

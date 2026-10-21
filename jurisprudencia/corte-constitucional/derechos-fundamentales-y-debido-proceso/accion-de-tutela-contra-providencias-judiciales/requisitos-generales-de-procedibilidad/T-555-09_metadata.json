@@ -1,0 +1,50 @@
+{
+  "radicado": "T-555-09",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2009,
+  "fecha_creacion": "2009-08-19",
+  "magistrado_ponente": "Dr LUIS ERNESTO VARGAS SILVA",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+  "subtema": "Requisitos generales de procedibilidad",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 600 de 2000",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2009/T-555-09.htm",
+  "fecha_descarga": "2026-10-21T18:37:13.656824+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2009-08-19",
+  "fecha_publicacion": null,
+  "numero": "T-555/09",
+  "tipo_cc": "T",
+  "prov_id": "31440",
+  "tema_relatoria": null,
+  "resumen": "Derecho vulnerado debido proceso. El accionante solicita, sea revocada la sentencia proferida por la entidad accionada. Considera que esta corporación lo condenó sin contar con el respaldo probatorio exigido por el ordenamiento jurídico penal y que además los grupos de pruebas en que se basaron para tomar la decisión son inexistentes. La sala después de analizar el soporte probatorio referido, no encuentra acreditado el error fáctico denunciado por el actor, por el contrario, observa un análisis juicioso de los medios de prueba en los que se basó la Corte Suprema de Justicia para proferir la sentencia.",
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Requisitos generales de procedibilidad"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Improcedencia por cuanto los soportes probatorios que sustentan el fallo tienen en si misma la capacidad suficiente para desvirtuar el cargo de la demanda de la inexistencia absoluta de fundamento probatorio"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Improcedencia por cuanto no se presenta desconocimiento del precedente constitucional, dado que no se acoge a los presupuestos metodológicos ni a los requerimientos demostrativos y de argumentación"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Improcedencia por no violación directa de la Constitución"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Clases de defectos"
+    }
+  ]
+}

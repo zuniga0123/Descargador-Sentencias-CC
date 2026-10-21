@@ -1,0 +1,50 @@
+{
+  "radicado": "T-735-10",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2010,
+  "fecha_creacion": "2010-09-13",
+  "magistrado_ponente": "Mauricio González Cuervo",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCION DE TUTELA CONTRA PARTICULARES",
+  "subtema": "Procedencia",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 616 de 1954",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2010/T-735-10.htm",
+  "fecha_descarga": "2026-10-21T18:16:15.693919+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2010-09-13",
+  "fecha_publicacion": null,
+  "numero": "T-735/10",
+  "tipo_cc": "T",
+  "prov_id": "1406",
+  "tema_relatoria": null,
+  "resumen": "Petición. El accionante solicita se le de una respuesta de fondo, sobre el vínculo laboral con la empresa accionada hasta el año 2004, y solicita además el pago de incremento salarial. La Sala estudia la procedencia del acción de tutela contra particulares, en el caso se encuentra que es procedente debido a que, el accionante se encuentra en estado de subordinación frente a la empresa accionada, luego se pronuncia sobre el derecho de petición respecto de entidades privadas y su aplicación a las relaciones laborales ya extintas, de las pruebas aportadas al expediente se encuentra que su petición fue resuelta de manera clara, puntual y oportuna, por lo tanto se decide no acceder a sus pretensiones y además se le hace una advertencia sobre las consecuencias que trae presentar la acción de tutela de manera temeraria.",
+  "titulaciones": [
+    {
+      "tema": "ACCION DE TUTELA CONTRA PARTICULARES",
+      "subtema": "Procedencia"
+    },
+    {
+      "tema": "DERECHO DE PETICIÓN",
+      "subtema": "Falta de reglamentación frente a organizaciones privadas o particulares no exime a éstas de pronunciarse sobre la solicitud"
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA PARTICULARES",
+      "subtema": "Improcedencia por cuanto el derecho de petición fue resuelto de manera clara, puntual y oportuna"
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA PARTICULARES CUANDO EL AFECTADO SE ENCUENTRA EN ESTADO DE INDEFENSION",
+      "subtema": "Factores que integran situaciones de indefensión y subordinación"
+    },
+    {
+      "tema": "DERECHO DE PETICIÓN",
+      "subtema": "Respecto de entidades privadas y su aplicación a las relaciones laborales ya extintas"
+    }
+  ]
+}

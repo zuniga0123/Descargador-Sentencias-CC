@@ -1,0 +1,59 @@
+{
+  "radicado": "T-950A-09",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2009,
+  "fecha_creacion": "2009-12-16",
+  "magistrado_ponente": "Mauricio González Cuervo",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCION DE REPETICION",
+  "subtema": "Definición",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 678 de 2001",
+    "Decreto 1214 de 2000",
+    "Decreto 2591 de 1991",
+    "Ley 906 de 2004",
+    "Decreto 1 de 1984",
+    "Ley 23 de 1991",
+    "Ley 288 de 1996"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2009/T-950A-09.htm",
+  "fecha_descarga": "2026-10-21T18:35:18.944766+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2009-12-16",
+  "fecha_publicacion": null,
+  "numero": "T-950A/09",
+  "tipo_cc": "T",
+  "prov_id": "318",
+  "tema_relatoria": null,
+  "resumen": "Debido proceso. La entidad accionante considera que tanto el Juzgado como el Tribunal accionados, al inaplicar por inconstitucional la decisión del Comité de Conciliación de la Procuraduría General de no adelantar la acción de repetición ordenada por el Tribunal Administrativo de San Andres, vulnera el debido proceso, además considera que se incurrió en defecto sustantivo por interpretación errónea de la ley 678 de 2001. La Sala realiza reiteración de jurisprudencia sobre las causales de procedibilidad de la acción de tutela contra providencias judiciales, la acción de tutela contra providencias de acción de cumplimiento, normatividad sobre la acción de repetición, se concluye que el Tribunal si incurrió en una vía de hecho, por defecto sustancial por aplicación retroactiva de una ley. Concedida.",
+  "titulaciones": [
+    {
+      "tema": "ACCION DE REPETICION",
+      "subtema": "Definición"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Improcedencia para controvertir sentencia proferida en acción de cumplimiento"
+    },
+    {
+      "tema": "ACCION DE REPETICION",
+      "subtema": "Desarrollo legal"
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA PROVIDENCIAS JUDICIALES POR VIA DE HECHO",
+      "subtema": "Causales genéricas y especiales de procedencia"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Caso en que se presentó defecto sustantivo por aplicación retroactiva de la ley"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Procedencia excepcional para controvertir sentencia proferida en acción de cumplimiento"
+    }
+  ]
+}

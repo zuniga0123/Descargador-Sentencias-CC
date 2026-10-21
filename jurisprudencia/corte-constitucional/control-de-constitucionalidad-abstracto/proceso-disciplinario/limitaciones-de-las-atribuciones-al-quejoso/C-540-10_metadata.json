@@ -1,0 +1,48 @@
+{
+  "radicado": "C-540-10",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2010,
+  "fecha_creacion": "2010-06-30",
+  "magistrado_ponente": "Dr JORGE IGNACIO PRETELT CHALJUB",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "PROCESO DISCIPLINARIO",
+  "subtema": "Limitaciones de las atribuciones al quejoso",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 1123 de 2007",
+    "Decreto 2067 de 1991",
+    "Ley 734 de 2002",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2010/C-540-10.htm",
+  "fecha_descarga": "2026-10-21T18:26:57.592332+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2010-06-30",
+  "fecha_publicacion": null,
+  "numero": "C-540/10",
+  "tipo_cc": "C",
+  "prov_id": "1055",
+  "tema_relatoria": "FALLO INHIBITORIO POR INEPTITUD DE DEMANDA DE INCONSTITUCIONALIDAD CONTRA NORMA DEL CODIGO DISCIPLINARIO DEL ABOGADO",
+  "resumen": "Ley 1123 de 2007, parágrafo artículo 66 “Por la cual se establece el Código Disciplinario del Abogado” la norma regula las facultades de los intervinientes en el proceso, el parágrafo acusado es el siguiente: “El quejoso solamente podrá concurrir al disciplinario para la formulación y ampliación de la queja bajo la gravedad de juramento, aporte de pruebas e impugnación de las decisiones que pongan fin a la actuación, distintas a la sentencia. Para este efecto podrá conocerlas en la Secretaría de la Sala respectiva” el cargo formulado por el actor, es la vulneración de los artículo 1 y 229 constitucionales, ya que considera que se desconoce la prevalencia del interés general, al no existir la posibilidad de que el quejoso interponga el recurso de apelación contra la sentencia de primer grado en el proceso disciplinario contra abogados, desconociéndose la garantía procedimental de que todas las decisiones proferidas por la autoridad competente sean revisadas por el superior. La Corte encuentra que existe una ineptitud sustancial de la demanda por insuficiencia de cargos, por lo tanto decide inhibirse de emitir un pronunciamiento de fondo. Inhibida.",
+  "titulaciones": [
+    {
+      "tema": "PROCESO DISCIPLINARIO",
+      "subtema": "Limitaciones de las atribuciones al quejoso"
+    },
+    {
+      "tema": "PROCESO DISCIPLINARIO",
+      "subtema": "Sujetos procesales"
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "Razones suficientes"
+    },
+    {
+      "tema": "INHIBICION DE LA CORTE CONSTITUCIONAL POR INEPTITUD SUSTANTIVA DE LA DEMANDA",
+      "subtema": "Falta de suficiencia en la exposición del concepto de violación"
+    }
+  ]
+}

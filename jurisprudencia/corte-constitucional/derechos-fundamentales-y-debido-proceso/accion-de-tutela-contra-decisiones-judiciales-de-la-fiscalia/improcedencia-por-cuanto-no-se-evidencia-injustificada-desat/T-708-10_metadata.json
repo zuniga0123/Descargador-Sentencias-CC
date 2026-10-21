@@ -1,0 +1,46 @@
+{
+  "radicado": "T-708-10",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2010,
+  "fecha_creacion": "2010-09-08",
+  "magistrado_ponente": "Dr JORGE IVÁN PALACIO PALACIO",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCION DE TUTELA CONTRA DECISIONES JUDICIALES DE LA FISCALIA",
+  "subtema": "Improcedencia por cuanto no se evidencia injustificada desatención a reglas de valoración probatoria y a la sana critica",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 600 de 2000"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2010/T-708-10.htm",
+  "fecha_descarga": "2026-10-21T18:15:27.538207+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2010-09-08",
+  "fecha_publicacion": null,
+  "numero": "T-708/10",
+  "tipo_cc": "T",
+  "prov_id": "1377",
+  "tema_relatoria": null,
+  "resumen": "Debido proceso, vida, honra, buen nombre, administración de justicia. El accionante solicita dejar sin efectos las providencias judiciales proferidas por la Fiscalía Cuarenta Seccional Bogotá, que se inhibió para abrir instrucción penal y la Fiscalía 22 Delegada ante el Tribunal Superior de Bogotá, que confirmó dicha decisión y se ordene a la fiscalía general de la nación, que por conducto del funcionario competente ordene abrir la correspondiente acción penal, en el caso de la muerte del joven Mauricio Correa Quintero. La Sala realiza reiteración de jurisprudencia sobre la procedencia excepcional de la acción de tutela contra providencias judiciales, la resolución inhibitoria dentro del ordenamiento colombiano, se concluye que conforme a lo valorado, las decisiones atacadas se apoyaron en una valoración armónica y sistemática del material probatorio, además no hacen tránsito a cosa juzgada ya que de exisistir una nueva prueba que desvirtúe las analizadas puede variar la decisión, quedando otra vía judicial al alcance de los interesados, por lo tanto no se encuentran motivos fundados que hagan procedentes. Niega.",
+  "titulaciones": [
+    {
+      "tema": "ACCION DE TUTELA CONTRA DECISIONES JUDICIALES DE LA FISCALIA",
+      "subtema": "Improcedencia por cuanto no se evidencia injustificada desatención a reglas de valoración probatoria y a la sana critica"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Reiteración de jurisprudencia sobre requisitos generales y especiales de procedibilidad"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Simple discrepancia en valoración probatoria hecha por autoridad judicial no genera configuración de defecto para su procedencia"
+    },
+    {
+      "tema": "RESOLUCION INHIBITORIA DENTRO DEL ORDENAMIENTO PENAL",
+      "subtema": "Autoridad encargada de adelantar averiguaciones preliminares puede dar por terminada la investigación previa"
+    }
+  ]
+}

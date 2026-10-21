@@ -1,0 +1,50 @@
+{
+  "radicado": "T-803-10",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2010,
+  "fecha_creacion": "2010-10-07",
+  "magistrado_ponente": "Dr JUAN CARLOS HENAO PÉREZ",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "DERECHO AL HABEAS DATA Y LAS CENTRALES DE RIESGOS",
+  "subtema": "Información suministrada debe estar regida por el principio de exactitud, veracidad e integridad",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 1266 de 2008"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2010/T-803-10.htm",
+  "fecha_descarga": "2026-10-21T18:16:12.030653+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2010-10-07",
+  "fecha_publicacion": null,
+  "numero": "T-803/10",
+  "tipo_cc": "T",
+  "prov_id": "1501",
+  "tema_relatoria": null,
+  "resumen": "Intimidad, trabajo, vida digna. La accionante comenta que extravió su cédula en el año 2005, debido a ello fue víctima de suplantación en DAVIVIENDA y MOVISTAR, siendo reportada a las centrales de riesgo, después de una investigación interna por parte de estas entidades se demostró que no fue la señora quien suscribió el contrato con dichas entidades y por lo tanto se retiraron sus datos de las centrales de riesgos, a principios del año 2010 solicitó un crédito bancario el cual le fue negado por que aparece un dato negativo a su nombre reportado por INSCRA S.A./ LE BON, ante lo cual presentó un derecho de petición solicitando que se elimine el reporte, pero la entidad se negó a hacerlo alegando que la investigación de suplantación le corresponde a las entidades judiciales competentes. La Sala realiza reiteración de jurisprudencia sobre la procedencia de la acción de tutela contra particulares para proteger el derecho fundamental al habeas data, el principio de exactitud, veracidad e integridad de la información que suministran las fuentes de las centrales de riesgo, las consultas y reclamos a las centrales de riesgo, se concluye que la accionante no puede verse perjudicada por la negligencia de la empresa accionada, en cuanto a la verificación diligente de los documentos presentados para la solicitud del crédito, máxime si se tiene en cuenta que por causa del reporte negativo la actividad económica de la actora se ve afectada dada su calidad de comerciante que requiere la capacidad de contraer nuevas obligaciones de tipo crediticio, se incumplió el requisito de dar una respuesta completa al titular y vulneró los derecho de habeas data, se ordena retirar el reporte negativo de las centrales de riesgos. Concedida.",
+  "titulaciones": [
+    {
+      "tema": "DERECHO AL HABEAS DATA Y LAS CENTRALES DE RIESGOS",
+      "subtema": "Información suministrada debe estar regida por el principio de exactitud, veracidad e integridad"
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA PARTICULARES",
+      "subtema": "Casos en que procede con el fin de salvaguardar derechos fundamentales"
+    },
+    {
+      "tema": "DERECHO AL HABEAS DATA",
+      "subtema": "Reconoce facultades especifica a la persona de la cual se tiene datos de contenido créditicio almacenado"
+    },
+    {
+      "tema": "DERECHO AL HABEAS DATA",
+      "subtema": "Fundamental y características propias"
+    },
+    {
+      "tema": "DERECHO AL HABEAS DATA",
+      "subtema": "Vulneración por permanencia de dato negativo en centrales de riesgos en caso de suplantación de identidad"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "radicado": "C-305-10",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2010,
+  "fecha_creacion": "2010-04-28",
+  "magistrado_ponente": "Dr Luis Ernesto Vargas Silva",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "REQUISITO DE ANUNCIO PREVIO DE VOTACION EN TRAMITE LEGISLATIVO",
+  "subtema": "Criterios jurisprudenciales para determinar la existencia y validez del anuncio",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2067 de 1991",
+    "Ley 1347 de 2009",
+    "Acto Legislativo 1 de 2003",
+    "Ley 145 de 2007"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2010/C-305-10.htm",
+  "fecha_descarga": "2026-10-21T18:30:12.922178+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2010-04-28",
+  "fecha_publicacion": null,
+  "numero": "C-305/10",
+  "tipo_cc": "C",
+  "prov_id": "746",
+  "tema_relatoria": "CONTROL DE CONSTITUCIONALIDAD DEL ACUERDO ENTRE EL GOBIERNO DE COLOMBIA Y LA ORGANIZACIÓN DE LAS NACIONES UNIDAS PARA LA EDUCACIÓN, LA CIENCIA Y LA CULTURA (UNESCO) RELATIVO AL ESTABLECIMIENTO DEL CENTRO REGIONAL SOBRE LA GESTIÓN DEL AGUA EN LAS ZONAS URBANAS PARA AMÉRICA LATINA Y EL CARIBE, BAJO LOS AUSPICIOS DE LA UNESCO",
+  "resumen": "Revisión de constitucionalidad de la Ley 1347 de 2009 “acuerdo entre el gobierno de Colombia y la Organización de las Naciones Unidas para la Educación, la Ciencia y la Cultura (UNESCO) relativo al establecimiento del centro regional sobre la gestión del agua en las zonas urbanas para América Latina y el Caribe, bajo los auspicios de la UNESCO”. La Corte se pronuncia sobre la naturaleza del control de constitucionalidad de las leyes aprobatorias de tratados, pasa realizar la revisión sobre los aspectos formales de la norma estudiada, por último pasa a realizar un análisis sustancial de constitucionalidad, se concluye que respecto al aspecto formal el Estado estuvo debidamente representado durante el proceso de negociación, celebración y suscripción del Acuerdo, además se observaron las reglas propias del trámite legislativo que precedieron la aprobación de la ley, por otra parte la norma estudiada se adecua a los postulados constitucionales en materia de protección al medio ambiente, el manejo y aprovechamiento de los recursos naturales en el marco del desarrollo sostenible, en consecuencia se declara Exequible.",
+  "titulaciones": [
+    {
+      "tema": "REQUISITO DE ANUNCIO PREVIO DE VOTACION EN TRAMITE LEGISLATIVO",
+      "subtema": "Criterios jurisprudenciales para determinar la existencia y validez del anuncio"
+    },
+    {
+      "tema": "ACUERDO RELATIVO AL ESTABLECIMIENTO DEL CENTRO REGIONAL SOBRE LA GESTION DEL AGUA EN LAS ZONAS URBANAS PARA AMERICA LATINA Y EL CARIBE, BAJO LOS AUSPICIOS DE LA UNESCO",
+      "subtema": "Composición y estructura normativa"
+    },
+    {
+      "tema": "ACUERDO RELATIVO AL ESTABLECIMIENTO DEL CENTRO REGIONAL SOBRE LA GESTION DEL AGUA EN LAS ZONAS URBANAS PARA AMERICA LATINA Y EL CARIBE, BAJO LOS AUSPICIOS DE LA UNESCO",
+      "subtema": "Se adecúa a los postulados constitucionales en materia de protección al medio ambiente,"
+    },
+    {
+      "tema": "LEY APROBATORIA DE TRATADO INTERNACIONAL",
+      "subtema": "Trámite de ley ordinaria"
+    },
+    {
+      "tema": "TRAMITE LEGISLATIVO DE LEY APROBATORIA DE TRATADO INTERNACIONAL",
+      "subtema": "Cumplimiento de límites temporales"
+    }
+  ]
+}

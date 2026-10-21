@@ -1,0 +1,47 @@
+{
+  "radicado": "T-760-10",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2010,
+  "fecha_creacion": "2010-09-21",
+  "magistrado_ponente": "María Victoria Calle Correa",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "ACCIÓN DE TUTELA",
+  "subtema": "Procedencia excepcional para el reconocimiento y pago de acreencias laborales y pensionales",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Decreto 2591 de 1991",
+    "Decreto 758 de 1990",
+    "Ley 71 de 1988",
+    "Decreto 806 de 1998",
+    "Decreto 1214 de 1990",
+    "Decreto 1160 de 1989"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2010/T-760-10.htm",
+  "fecha_descarga": "2026-10-21T18:18:25.925455+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2010-09-21",
+  "fecha_publicacion": null,
+  "numero": "T-760/10",
+  "tipo_cc": "T",
+  "prov_id": "1440",
+  "tema_relatoria": null,
+  "resumen": "Seguridad social, mínimo vital. Al accionante, persona de 75 años de edad, el ISS le negó su derecho a la pensión bajo el argumento de no contar con el número mínimo de semanas exigido por la ley. El actor por su parte considera, que si lo empleadores no cumplieron con el pago de los aportes, pese a haber realizado el descuento, debió la entidad demandada proceder a efectuar el respectivo cobro, antes de tomar la decisión de negar la prestación solicitada. Para resolver el caso la Sala reitera jurisprudencia relacionada con la procedencia excepcional de la acción de tutela para el reconocimiento y cobro de las acreencias laborales y pensionales y con el cumplimiento de los requisitos de acceso a la pensión respecto del Sistema General de Pensiones. Se resuelve tutelar los derechos invocados y se ordena a la entidad accionada que proceda al reconocimiento y pago de la pensión de vejez a favor del accionante. CONCEDIDA.",
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Procedencia excepcional para el reconocimiento y pago de acreencias laborales y pensionales"
+    },
+    {
+      "tema": "DERECHO A LA SEGURIDAD SOCIAL",
+      "subtema": "Requisitos para acceder a los derechos derivados de la Seguridad Social, se cumplen ante el Sistema, no ante autoridad u órgano que lo compongan"
+    },
+    {
+      "tema": "PENSION DE VEJEZ",
+      "subtema": "Caso en que ISS niega pensión, alegando incumplimiento en requisito de semanas mínimas cotizadas, a pesar de que la persona cotizó el tiempo requerido si se suman aportes a otras entidades"
+    }
+  ]
+}

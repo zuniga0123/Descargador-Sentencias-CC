@@ -1,0 +1,49 @@
+{
+  "radicado": "T-681-10",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2010,
+  "fecha_creacion": "2010-09-02",
+  "magistrado_ponente": "Dr NILSON PINILLA PINILLA",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+  "subtema": "Improcedencia por cuanto están cursando procesos dentro de los cuales la parte actora podría hallar otros medios de defensa si así lo requiriere y por no demostrar un posible perjuicio irremediable",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 153 de 1887",
+    "Ley 906 de 2004",
+    "Ley 820 de 2003",
+    "Decreto 1382 de 2000"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2010/T-681-10.htm",
+  "fecha_descarga": "2026-10-21T18:16:56.594762+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2010-09-02",
+  "fecha_publicacion": null,
+  "numero": "T-681/10",
+  "tipo_cc": "T",
+  "prov_id": "1347",
+  "tema_relatoria": null,
+  "resumen": "Debido proceso, defensa. El apoderado de la Federación Nacional de Cafeteros, solicita se deje sin efecto la sentencia proferida en Noviembre de 2008 por el Juzgado 29 Civil del Circuito de Bogotá, dentro de un proceso abreviado de restitución de inmueble arrendado, mediante la cual se declaró concluido, el contrato de arrendamiento celebrado entre la sociedad Chevor S.A. como cesionaria del la arrendadora inicial Federación Nacional de Cafeteros y la sociedad Gran Cadena de Almacenes Colombianos S.A. Cadenalco S.A. (hoy almacenes Éxito), por considerar que se vulneraron sus derechos fundamentales, al incurrir en cuatro vías de hecho, por no haber sido vinculada al proceso, pese a solicitarlo en varias oportunidades. La Sala en primer lugar pasa a determinar si en el presente caso resulta procedente el desistimiento presentado por la sociedad accionante, se decide no aceptar el desistimiento por cuanto en la sede revisión está de por medio un indudable interés público, pues su trámite y decisión importa a toda la colectividad, luego se estudia la procedencia de la acción de tutela contra decisiones judiciales, se encuentra que las decisiones atacadas en esta providencia no se encuentran en firme ya que mediante sentencia T-268/10, fueron revocadas, por lo tanto se decide declarar la improcedencia de la acción de tutela.",
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Improcedencia por cuanto están cursando procesos dentro de los cuales la parte actora podría hallar otros medios de defensa si así lo requiriere y por no demostrar un posible perjuicio irremediable"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Reiteración de jurisprudencia sobre requisitos generales y especiales de procedibilidad"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Improcedencia contra decisiones judiciales que hayan puesto fin a un proceso"
+    },
+    {
+      "tema": "DESISTIMIENTO DE TUTELA",
+      "subtema": "Es improcedente cuando esté surtiendo eventual revisión por parte de la Corte Constitucional"
+    }
+  ]
+}

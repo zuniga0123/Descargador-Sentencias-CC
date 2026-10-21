@@ -1,0 +1,52 @@
+{
+  "radicado": "T-800-10",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2010,
+  "fecha_creacion": "2010-10-06",
+  "magistrado_ponente": "Mauricio Gonzalez Cuervo",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCIÓN DE TUTELA",
+  "subtema": "Procedencia excepcional en casos de vulneración de derechos colectivos si con dicha vulneración también se han visto afectados derechos individuales fundamentales",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 1594 de 1984",
+    "Ley 996 de 2005",
+    "Ley 472 de 1998",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2010/T-800-10.htm",
+  "fecha_descarga": "2026-10-21T18:16:04.649192+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2010-10-06",
+  "fecha_publicacion": null,
+  "numero": "T-800/10",
+  "tipo_cc": "T",
+  "prov_id": "1498",
+  "tema_relatoria": null,
+  "resumen": "Salubridad pública, medio ambiente. El accionante, residente de un barrio del municipio de Purificación, manifiesta que en este sector se viene presentando una grave situación de salubridad pública y de contaminación del medio ambiente, como consecuencia de dos situaciones específicas: 1º. el vertimiento al río Magdalena de las aguas negras del alcantarillado del barrio donde está ubicada su vivienda y 2º. El vertimiento de las aguas negras que hace el municipio a través de las tuberías de la planta de tratamiento, por no estar esta en funcionamiento por falta de presupuesto. Indica el actor que estos desagües caen a un brazo del río que colinda con el barrio en el que reside y que debido a la baja de su nivel, estas aguas servidas se empozan generando fuertes olores, con la consecuente proliferación de toca clase de insectos que se convierten en fuente directa de múltiples enfermedades La Sala se refiere sobre los mecanismos de protección que existen para amparar derechos tanto los colectivos como los fundamentales y sobre los criterios jurisprudenciales que existen frente a la procedencia excepcional de la acción de tutela, como mecanismo de protección de los derechos colectivos. Negada.",
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Procedencia excepcional en casos de vulneración de derechos colectivos si con dicha vulneración también se han visto afectados derechos individuales fundamentales"
+    },
+    {
+      "tema": "DERECHOS COLECTIVOS",
+      "subtema": "Mecanismos de protección"
+    },
+    {
+      "tema": "DERECHOS COLECTIVOS",
+      "subtema": "Acción de tutela debe prevalecer sobre otros medios de defensa judicial cuando brinde una protección mucho más eficiente"
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA ALCALDIA MUNICIPAL",
+      "subtema": "Improcedencia por cumplirse con los criterios jurisprudenciales establecidos en la sentencia T-1451 de 2000 de esta Corporación"
+    },
+    {
+      "tema": "DERECHOS COLECTIVOS",
+      "subtema": "Conexidad con derechos fundamentales hace procedente la tutela"
+    }
+  ]
+}

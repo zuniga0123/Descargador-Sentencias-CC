@@ -1,0 +1,57 @@
+{
+  "radicado": "C-743-10",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2010,
+  "fecha_creacion": "2010-09-15",
+  "magistrado_ponente": "Dr JORGE IVÁN PALACIO PALACIO",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "INHIBICION DE LA CORTE CONSTITUCIONAL",
+  "subtema": "Falta de certeza y pertinencia en razones de inconstitucionalidad",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 906 de 2004",
+    "Ley 1142 de 2007",
+    "Decreto 2067 de 1991",
+    "Decreto 2700 de 1991",
+    "Ley 600 de 2000",
+    "Decreto 1222 de 1986",
+    "Decreto 624 de 1989",
+    "Ley 546 de 1999",
+    "Ley 106 de 1993",
+    "Decreto Ley 1228 de 1995",
+    "Decreto 100 de 1980",
+    "Ley 61 de 1993",
+    "Ley 333 de 1996"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2010/C-743-10.htm",
+  "fecha_descarga": "2026-10-21T18:22:17.368428+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2010-09-15",
+  "fecha_publicacion": null,
+  "numero": "C-743/10",
+  "tipo_cc": "C",
+  "prov_id": "1418",
+  "tema_relatoria": "FALLO INHIBITORIO POR INEPTITUD DE DEMANDA DE INCONSTITUCIONALIDAD CONTRA NORMA DEL CODIGO DE PROCEDIMIENTO PENAL",
+  "resumen": "Ley 906 de 2004, “Por la cual se expide el Código de Procedimiento Penal”, artículo 37 parcial, la norma regula los procesos que deben conocer los jueces penales municipales, el aparte acusado es el siguiente “3. De los procesos por delitos que requieren querella aunque el sujeto pasivo sea un menor de edad, un inimputable, o la persona haya sido sorprendida en flagrancia e implique investigación oficiosa. La investigación de oficio no impide aplicar, cuando la decisión se considere necesaria, los efectos propios de la querella para beneficio y reparación integral de la víctima del injusto”, el demandante explica que los incisos 2 y 3 de la norma demandada son abiertamente contradictorios, ya que mientras el inciso 2 otorga competencia a los jueces penales municipales para conocer de delitos contra el patrimonio económico según la cuantía que debe ser inferior a los 150 salarios mínimos legales mensuales vigentes, el inciso 3 otorga competencia para conocer de los delitos que requieren querella, resultando los dos jueces competentes para conocer de un delito, ya que son pocos los delitos contra el patrimonio económico que no son querellables, considera que esta situación vulnera el derecho a la igualdad ya que un mismo delito puede resultar siendo juzgado por jueces diferentes. La Corte resuelve declararse inhibida para tomar una decisión de fondo por falta de pertinencia y certeza en la argumentación.",
+  "titulaciones": [
+    {
+      "tema": "INHIBICION DE LA CORTE CONSTITUCIONAL",
+      "subtema": "Falta de certeza y pertinencia en razones de inconstitucionalidad"
+    },
+    {
+      "tema": "ACCION PUBLICA DE INCONSTITUCIONALIDAD",
+      "subtema": "Requisitos"
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "Inadmisión y corrección"
+    },
+    {
+      "tema": "ACCION PUBLICA DE INCONSTITUCIONALIDAD",
+      "subtema": "Improcedencia de solicitud de sentencia condicionada"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "radicado": "C-641-10",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2010,
+  "fecha_creacion": "2010-08-18",
+  "magistrado_ponente": "Dr GABRIEL EDUARDO MENDOZA MARTELO",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "ACCION DE INCONSTITUCIONALIDAD",
+  "subtema": "Requisitos mínimos",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 1274 de 2009",
+    "Decreto 2067 de 1991",
+    "Decreto 2310 de 1974",
+    "Decreto Ley 1760 de 2003",
+    "Decreto 2067 de 1992",
+    "Ley 1234 de 2009"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2010/C-641-10.htm",
+  "fecha_descarga": "2026-10-21T18:31:44.195747+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2010-08-18",
+  "fecha_publicacion": null,
+  "numero": "C-641/10",
+  "tipo_cc": "C",
+  "prov_id": "1302",
+  "tema_relatoria": "FALLO INHIBITORIO POR INEPTITUD DE DEMANDA DE INCONSTITUCIONALIDAD CONTRA NORMA DE AVALUO DE SERVIDUMBRES PETROLERAS",
+  "resumen": "Ley 1274 de 2009 artículo 5 numeral 5 “Por la cual se establece el procedimiento de avalúo para las servidumbres petroleras” la norma regula el trámite de solicitud de avalúo, el aparte demandado es “integral”, el actor considera que dicho aparte vulnera el artículo 58 de la Constitución Política, ya que al disponer que para el avalúo de los daños y perjuicios derivados de la imposición de una servidumbre de hidrocarburos se atienda al criterio de indemnización integral, y en cuanto de ello se sigue que tal indemnización comprende tanto los perjuicios materiales como los morales, resulta contraria al mandato del artículo 58 de la Constitución, de acuerdo con el cual, en la expropiación por motivos de utilidad pública, la indemnización se fijará consultando los intereses de la comunidad y del afectado. La Corte no encuentra que en el presente caso se hayan reunido los requisitos mínimos que la habilitan para pronunciarse sobre el fondo del asunto planteado, motivo por el cual decide declarase inhibida por ineptitud sustancial de la demanda.",
+  "titulaciones": [
+    {
+      "tema": "ACCION DE INCONSTITUCIONALIDAD",
+      "subtema": "Requisitos mínimos"
+    },
+    {
+      "tema": "AVALUO DE SERVIDUMBRES PETROLERAS",
+      "subtema": "Inhibición por ineptitud sustancial de la demanda"
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "Razones claras, ciertas, específicas, pertinentes y suficientes"
+    }
+  ]
+}

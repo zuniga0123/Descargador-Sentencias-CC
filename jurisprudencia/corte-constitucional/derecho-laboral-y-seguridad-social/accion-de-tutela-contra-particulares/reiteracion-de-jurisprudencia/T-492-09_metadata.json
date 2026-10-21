@@ -1,0 +1,50 @@
+{
+  "radicado": "T-492-09",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2009,
+  "fecha_creacion": "2009-07-23",
+  "magistrado_ponente": "Dr LUIS ERNESTO VARGAS SILVA",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "ACCION DE TUTELA CONTRA PARTICULARES",
+  "subtema": "Reiteración de jurisprudencia",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 79 de 1988",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2009/T-492-09.htm",
+  "fecha_descarga": "2026-10-21T18:39:00.603030+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2009-07-23",
+  "fecha_publicacion": null,
+  "numero": "T-492/09",
+  "tipo_cc": "T",
+  "prov_id": "31356",
+  "tema_relatoria": null,
+  "resumen": "Mínimo vital. El accionante se asoció a las cooperativas accionadas mientras su contrato de trabajo se encontraba vigente, ahora que su contrato ha terminado solicita el pago del auxilio de despido, el cual no le ha sido reconocido por no encontrarse al día en el pago de aportes y por haber sido despedido por ausentarse del lugar de trabajo. La Sala considera que el amparo de los derechos resulta improcedente, ya que la acción interpuesta no cumple con el requisito de inmediatez y existen otros mecanismos de defensa judicial. Negada.",
+  "titulaciones": [
+    {
+      "tema": "ACCION DE TUTELA CONTRA PARTICULARES",
+      "subtema": "Reiteración de jurisprudencia"
+    },
+    {
+      "tema": "PRINCIPIO DE INMEDIATEZ",
+      "subtema": "Caso en que se instauró la acción de tutela luego de un año desde el momento en que se originó la alegada violación de derechos fundamentales"
+    },
+    {
+      "tema": "ACCION DE TUTELA Y EXISTENCIA DE OTRO MEDIO DE DEFENSA JUDICIAL",
+      "subtema": null
+    },
+    {
+      "tema": "AUXILIO DE DESPIDO",
+      "subtema": "Caso en que no se le canceló al demandante cuando fue despedido"
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA COOPERATIVA",
+      "subtema": "Solicitud de pago de auxilio de despido"
+    }
+  ]
+}

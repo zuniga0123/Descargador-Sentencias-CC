@@ -1,0 +1,74 @@
+{
+  "radicado": "C-916-10",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2010,
+  "fecha_creacion": "2010-11-16",
+  "magistrado_ponente": "Mauricio González Cuervo",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "DEMANDA DE INCONSTITUCIONALIDAD",
+  "subtema": "Incompetencia de la Corte Constitucional para conocer asuntos que no tienen naturaleza ni fuerza material de ley",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 3135 de 1968",
+    "Decreto 1848 de 1969",
+    "Ley 65 de 1967",
+    "Decreto 2663 de 1950",
+    "Decreto Ley 2158 de 1948",
+    "Decreto Ley 3135 de 1968"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2010/C-916-10.htm",
+  "fecha_descarga": "2026-10-21T18:21:19.650074+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2010-11-16",
+  "fecha_publicacion": null,
+  "numero": "C-916/10",
+  "tipo_cc": "C",
+  "prov_id": "1647",
+  "tema_relatoria": "ESTABLECIMIENTO DE UNA PRESCRIPCION ESPECIFICA EN MATERIA LABORAL. NO DESCONOCE DERECHOS AL TRABAJO, IGUALDAD Y DEMÁS GARANTÍAS CONSTITUCIONALES DE LOS TRABAJADORES",
+  "resumen": "Código Sustantivo del Trabajo artículo 488, 151 Código Procesal del Trabajo y de la Seguridad Social, Decreto Ley 3135 de 1968 artículo 41 y Decreto 1848 de 1969 artículo 102, los artículos regulan la prescripción de las acciones laborales, en los apartes se hace énfasis en que se contará el término desde que la obligación se haya hecho exigible, el demandante considera vulnerados los artículos 53 y 93 constitucionales por desconocimiento del artículo 12 numeral 2 del Convenio 95 de la OIT. La Corte en primer lugar aclara que no es competente para conocer de demandas presentadas contra el Decreto 1848 de 1969, por cuanto su contenido normativo no tiene fuerza de ley ni tampoco fuerza material de tal, se encuentra que frente los artículos 488 y 151 existe cosa juzgada constitucional ya que en la sentencia C-072 de 1994, se analizaron las disposiciones normativas acusadas, y con respecto al artículo 41 del Decreto Ley 3135 de 1968 se decide acoger los fundamentos de la citada sentencia y por lo tanto declarar su Exequibilidad.",
+  "titulaciones": [
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "Incompetencia de la Corte Constitucional para conocer asuntos que no tienen naturaleza ni fuerza material de ley"
+    },
+    {
+      "tema": "ESTABLECIMIENTO DE UNA PRESCRIPCION ESPECIFICA EN MATERIA LABORAL",
+      "subtema": "No desconoce los derechos al trabajo, igualdad y demás garantías constitucionales de los trabajadores"
+    },
+    {
+      "tema": "INTEGRACION DE UNIDAD NORMATIVA",
+      "subtema": "Eventos en que procede"
+    },
+    {
+      "tema": "INTEGRACION DE UNIDAD NORMATIVA",
+      "subtema": "Procedencia excepcional"
+    },
+    {
+      "tema": "COSA JUZGADA CONSTITUCIONAL",
+      "subtema": "Configuración"
+    },
+    {
+      "tema": "PRESCRIPCION DE CORTO PLAZO",
+      "subtema": "Finalidad"
+    },
+    {
+      "tema": "PRESCRIPCION DE CORTO PLAZO",
+      "subtema": "Conveniencia"
+    },
+    {
+      "tema": "PRESCRIPCION DE LA ACCION LABORAL",
+      "subtema": "Término"
+    },
+    {
+      "tema": "OPORTUNIDAD EN DERECHO",
+      "subtema": "Concepto"
+    },
+    {
+      "tema": "PRESCRIPCION DE LA ACCION LABORAL",
+      "subtema": "Contenido"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "radicado": "T-798-10",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2010,
+  "fecha_creacion": "2010-10-06",
+  "magistrado_ponente": "Mauricio González Cuervo",
+  "area": "Derecho a la Salud",
+  "tema": "CARENCIA ACTUAL DE OBJETO POR HECHO SUPERADO",
+  "subtema": "Caso en que el procedimiento quirúrgico Lipectomía Circunferencial fue autorizado por la EPS",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2010/T-798-10.htm",
+  "fecha_descarga": "2026-10-21T18:15:57.169758+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2010-10-06",
+  "fecha_publicacion": null,
+  "numero": "T-798/10",
+  "tipo_cc": "T",
+  "prov_id": "1496",
+  "tema_relatoria": null,
+  "resumen": "Salud, vida digna, seguridad social. La accionante solicita se autorice el tratamiento prescrito por su médico tratante denominado “lipectomía circunferencial”, ya que tiene secuelas de una cirugía bariátrica. La Sala encuentra que frente al presente caso se presenta carencia actual de objeto por hecho superado, sin embargo se advierte a la EPS para que no vuelva a incurrir en actuaciones dilatatorias injustificadas ya que atenta contra las garantías constitucionales de los usuarios.",
+  "titulaciones": [
+    {
+      "tema": "CARENCIA ACTUAL DE OBJETO POR HECHO SUPERADO",
+      "subtema": "Caso en que el procedimiento quirúrgico Lipectomía Circunferencial fue autorizado por la EPS"
+    },
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Vulneración por demora injustificada para expedir autorización de cirugía solicitada, toda vez que el procedimiento si se encuentra incluido en el POS"
+    },
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Caso en que entidad accionada niega autorización práctica de procedimiento quirúrgico Lipectomía Circunferencial, por estar excluido del POS"
+    },
+    {
+      "tema": "JURISPRUDENCIA CONSTITUCIONAL SOBRE LA CARENCIA ACTUAL DE OBJETO",
+      "subtema": "Hecho superado y daño consumado"
+    }
+  ]
+}

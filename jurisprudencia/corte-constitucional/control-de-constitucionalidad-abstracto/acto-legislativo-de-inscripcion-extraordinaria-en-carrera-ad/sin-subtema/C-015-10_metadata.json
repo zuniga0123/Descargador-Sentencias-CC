@@ -1,0 +1,42 @@
+{
+  "radicado": "C-015-10",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2010,
+  "fecha_creacion": "2010-01-20",
+  "magistrado_ponente": "Dr HUMBERTO ANTONIO SIERRA PORTO",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "ACTO LEGISLATIVO DE INSCRIPCION EXTRAORDINARIA EN CARRERA ADMINISTRATIVA SIN PREVIO CONCURSO",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Acto Legislativo 1 de 2008",
+    "Decreto 2067 de 1991",
+    "Decreto 681 de 2009",
+    "Ley 909 de 2004",
+    "Ley 270 de 1996",
+    "Decreto 274 de 2000"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2010/C-015-10.htm",
+  "fecha_descarga": "2026-10-21T18:25:23.602878+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2010-01-20",
+  "fecha_publicacion": null,
+  "numero": "C-015/10",
+  "tipo_cc": "C",
+  "prov_id": "380",
+  "tema_relatoria": "ACTO LEGISLATIVO DE INSCRIPCION EXTRAORDINARIA EN CARRERA ADMINISTRATIVA SIN PREVIO CONCURSO",
+  "resumen": "Demanda de inconstitucionalidad contra el Acto Legislativo 01 de 2008, artículo 1, el accionante alega que dicho artículo vulnera el artículo 125 de la Constitución. La Corte aclara que se configura cosa juzgada constitucional ya que el artículo demandado fue declarado inexequible en la sentencia C-588 del 2009.",
+  "titulaciones": [
+    {
+      "tema": "ACTO LEGISLATIVO DE INSCRIPCION EXTRAORDINARIA EN CARRERA ADMINISTRATIVA SIN PREVIO CONCURSO",
+      "subtema": null
+    },
+    {
+      "tema": "COSA JUZGADA CONSTITUCIONAL",
+      "subtema": "Configuración"
+    }
+  ]
+}

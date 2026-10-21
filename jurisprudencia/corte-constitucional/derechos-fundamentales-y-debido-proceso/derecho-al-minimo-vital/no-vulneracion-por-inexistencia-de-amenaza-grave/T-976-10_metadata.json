@@ -1,0 +1,43 @@
+{
+  "radicado": "T-976-10",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2010,
+  "fecha_creacion": "2010-12-01",
+  "magistrado_ponente": "Mauricio González Cuervo",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "DERECHO AL MINIMO VITAL",
+  "subtema": "No vulneración por inexistencia de amenaza grave",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 797 de 2003",
+    "Decreto 2591 de 1991",
+    "Ley 712 de 2001"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2010/T-976-10.htm",
+  "fecha_descarga": "2026-10-21T18:18:47.970590+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2010-12-01",
+  "fecha_publicacion": null,
+  "numero": "T-976/10",
+  "tipo_cc": "T",
+  "prov_id": "1724",
+  "tema_relatoria": null,
+  "resumen": "Defensa, debido proceso administrativo, mínimo vital. Se acumulan varios expedientes por unidad de materia. Los accionantes fueron pensionados pro la extinta Empresa Puertos de Colombia, de acuerdo a los requisitos establecidos en la Convención de Trabajo vigente al momento de su desvinculación de la empresa. De manera sorpresiva notaron que el valor de su mesada pensional fue disminuido, sin que mediara de por medio alguna notificación o comunicación sobre el hecho. Frente al caso, elevaron derechos de petición al Ministerio de la Protección Social, el cual les respondió que, mediante acto administrativo se le había revocado las resoluciones que habían reconocido la mesada pensional, con fundamento en una decisión judicial que resolvió la situación jurídica del Ex director de Foncolpuertos. Para la Sala, las solicitudes de amparo invocadas no cumplieron con el requisito de inmediatez, que permitía excepcionalmente avocar el estudio de fondo de la cuestión planteada, por lo que se declara la improcedencia de las acciones de tutela estudiadas",
+  "titulaciones": [
+    {
+      "tema": "DERECHO AL MINIMO VITAL",
+      "subtema": "No vulneración por inexistencia de amenaza grave"
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA MINISTERIO DE LA PROTECCION SOCIAL Y GRUPO INTERNO DE TRABAJO DE PUERTOS DE COLOMBIA",
+      "subtema": "Casos en que alega vulneración al debido proceso y mínimo vital por expedición de resoluciones que dispusieron ajuste de mesada pensional"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Improcedencia por cuanto en los presentes casos se desconoce el principio de inmediatez, se constata la existencia de otros mecanismos de defensa y no se percibe perjuicio irremediable"
+    }
+  ]
+}

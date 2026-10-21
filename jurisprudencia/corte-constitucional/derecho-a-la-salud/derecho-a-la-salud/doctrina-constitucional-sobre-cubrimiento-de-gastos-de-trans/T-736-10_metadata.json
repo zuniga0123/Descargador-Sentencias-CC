@@ -1,0 +1,45 @@
+{
+  "radicado": "T-736-10",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2010,
+  "fecha_creacion": "2010-09-13",
+  "magistrado_ponente": "Mauricio González Cuervo",
+  "area": "Derecho a la Salud",
+  "tema": "DERECHO A LA SALUD",
+  "subtema": "Doctrina constitucional sobre cubrimiento de gastos de transporte para pacientes y sus acompañantes por las EPS",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2010/T-736-10.htm",
+  "fecha_descarga": "2026-10-21T18:16:19.404521+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2010-09-13",
+  "fecha_publicacion": null,
+  "numero": "T-736/10",
+  "tipo_cc": "T",
+  "prov_id": "1407",
+  "tema_relatoria": null,
+  "resumen": "Salud, vida digna. La accionante solicita se realice la cirugía de By pass gástrico por laparoscopia, junto con los procedimientos y medicamentos dependientes del tratamiento y los gastos de transporte y estadía al lugar en donde se realice la cirugía, dicha autorización le fue negada ya que el Comité Técnico Científico consideró que tal procedimiento no resultaba suficientemente justificado. La Sala se pronuncia sobre la autorización por parte de las Entidades Promotoras de Salud de la cirugía baríatrica y derecho al diagnostico, se encuentra que, no hay una valoración adecuada del usuario por parte de la EPS, pues la entidad no ha sometido a consideración del personal médico adscrito la situación de la accionante, por lo tanto se ordena realizar una valoración por un grupo multidisciplinario de especialistas, que le suministre a la accionante la información pertinente en forma clara y concreta, sobre los riesgo de la cirugía, y si manifiesta su voluntad de someterse a la misma, se autorice y gestione la práctica. Concedida.",
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Doctrina constitucional sobre cubrimiento de gastos de transporte para pacientes y sus acompañantes por las EPS"
+    },
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Caso en que médico particular ordenó práctica de cirugía bypass gástrico por laparoscopia pero EPS niega autorización por que la paciente no ha sido valorada por un grupo multidisciplinario"
+    },
+    {
+      "tema": "DERECHO A LA SALUD Y CIRUGIA BARIATRICA O BY PASS GASTRICO POR EPS",
+      "subtema": "Procede práctica de intervención quirúrgica de conformidad con las prescripciones e indicaciones del grupo interdisciplinario de especialistas de la EPS"
+    },
+    {
+      "tema": "DERECHO A LA SALUD Y AL DIAGNÓSTICO",
+      "subtema": "EPS está obligada a autorizar cirugía bariátrica cuando tiene conocimiento del concepto médico externo pero no lo desecha con base en información científica emitida por personal médico adscrito a la entidad"
+    }
+  ]
+}

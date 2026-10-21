@@ -1,0 +1,41 @@
+{
+  "radicado": "C-1007-10",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2010,
+  "fecha_creacion": "2010-12-06",
+  "magistrado_ponente": "Humberto Antonio Sierra Porto",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "PRESUNCION DE CULPA O DOLO EN MATERIA DE INFRACCION AMBIENTAL",
+  "subtema": "Existencia de cosa juzgada constitucional",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 1333 de 2009",
+    "Decreto 2067 de 1991",
+    "Ley 99 de 1993",
+    "Ley 768 de 2002",
+    "Ley 165 de 1994"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2010/C-1007-10.htm",
+  "fecha_descarga": "2026-10-21T18:28:01.366723+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2010-12-06",
+  "fecha_publicacion": null,
+  "numero": "C-1007/10",
+  "tipo_cc": "C",
+  "prov_id": "1738",
+  "tema_relatoria": "COSA JUZGADA CONSTITUCIONAL EN PRESUNCION DE CULPA O DOLO EN MATERIA DE INFRACCION AMBIENTAL",
+  "resumen": "Ley 1333 de 2009 “Por la cual se establece el procedimiento sancionatorio ambiental y se dictan otras disposiciones”, artículo 1, parágrafo 1, y artículo 5 parágrafo 1, los parágrafos acusados disponen la presunción del dolo del infractor en materia ambiental, el demandante considera que estas disposiciones vulneran, el debido proceso y desconocen el principio de presunción de inocencia. La Corte decide estarse a lo resuelto en la sentencia C-595 de 2010.",
+  "titulaciones": [
+    {
+      "tema": "PRESUNCION DE CULPA O DOLO EN MATERIA DE INFRACCION AMBIENTAL",
+      "subtema": "Existencia de cosa juzgada constitucional"
+    },
+    {
+      "tema": "PRESUNCION DE CULPA O DOLO EN MATERIA DE INFRACCIONES AMBIENTALES",
+      "subtema": "No resulta violatoria de la presunción de inocencia"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "radicado": "C-013-10",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2010,
+  "fecha_creacion": "2010-01-20",
+  "magistrado_ponente": "Mauricio González Cuervo",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "INHIBICION DE LA CORTE CONSTITUCIONAL EN DEMANDA POR OMISION LEGISLATIVA EN LEY QUE ESTABLECE LA LICENCIA POR LUTO",
+  "subtema": "Falta de argumentación",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 1280 de 2009",
+    "Decreto 2067 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2010/C-013-10.htm",
+  "fecha_descarga": "2026-10-21T18:30:35.669296+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2010-01-20",
+  "fecha_publicacion": null,
+  "numero": "C-013/10",
+  "tipo_cc": "C",
+  "prov_id": "378",
+  "tema_relatoria": "FALLO INHIBITORIO POR INEPTITUD DE DEMANDA DE INCONSTITUCIONALIDAD CONTRA CÓDIGO SUSTANTIVO DEL TRABAJO QUE ESTABLECE LA LICENCIA DE LUTO",
+  "resumen": "Ley 1280 de 2009, artículos 1 y 2 “por la cual se adiciona el numeral 10 del artículo 57 del Código Sustantivo del Trabajo y se establece la licencia de luto”, los actores consideran vulnerados los artículos 13 y 5 de la Constitución, debido a que ofrece un tratamiento desigual a trabajadores públicos y empleados privados, y desconoce el valor y solidaridad que proporciona una familia para soportar el dolor que genera la perdida de un ser querido. La Corte concluye que las razones aducidas no constituyen un cargo y por lo tanto decide declararse inhibida para pronunciarse de fondo sobre los apartes acusados. Inhibida",
+  "titulaciones": [
+    {
+      "tema": "INHIBICION DE LA CORTE CONSTITUCIONAL EN DEMANDA POR OMISION LEGISLATIVA EN LEY QUE ESTABLECE LA LICENCIA POR LUTO",
+      "subtema": "Falta de argumentación"
+    },
+    {
+      "tema": "INHIBICION DE LA CORTE CONSTITUCIONAL",
+      "subtema": "La demanda presenta argumentos sobre hechos indeterminados que no son de orden constitucional"
+    },
+    {
+      "tema": "INHIBICION DE LA CORTE CONSTITUCIONAL POR INEPTITUD SUSTANTIVA DE LA DEMANDA",
+      "subtema": "Ausencia de carga mínima de argumentación"
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "Cargos deben ser claros, ciertos, específicos, pertinentes y suficientes"
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "Requisitos mínimos"
+    }
+  ]
+}

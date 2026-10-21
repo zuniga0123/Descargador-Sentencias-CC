@@ -1,0 +1,41 @@
+{
+  "radicado": "T-716-10",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2010,
+  "fecha_creacion": "2010-09-08",
+  "magistrado_ponente": "Dra MARIA VICTORIA CALLE CORREA",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCION DE TUTELA CONTRA EMPRESA DE SERVICIOS PUBLICOS DOMICILIARIOS",
+  "subtema": "Procedencia excepcional para cuestionar actuaciones u omisiones cuando se reclama una respuesta institucional urgente para prevenir un daño grave e inminente",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2010/T-716-10.htm",
+  "fecha_descarga": "2026-10-21T18:19:46.601488+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2010-09-08",
+  "fecha_publicacion": null,
+  "numero": "T-716/10",
+  "tipo_cc": "T",
+  "prov_id": "1385",
+  "tema_relatoria": null,
+  "resumen": "Petición, acceso a los servicios públicos. La accionante solicita se ordene a EMCALI, revisar el contador de energía de su casa, ya que dicha revisión no se ha llevado a cabo pese a sus insistentes solicitudes, comenta que esta situación la esta afectando tanto a ella como a su familia, ya que en varias ocasiones ha incumplido con su obligación de pago debido al alto costo de las facturas. La Sala se pronuncia sobre la procedencia excepcional de la acción de tutela para cuestionar las actuaciones u omisiones de las empresas de servicios públicos, cuando se reclame una respuesta institucional urgente para prevenir un daño grave e inminente, se encuentra que no existen elementos suficientes para concluir que los derechos de la demandante y su familia están siendo vulnerados, por lo tanto se procede a negar el amparo de los derechos fundamentales.",
+  "titulaciones": [
+    {
+      "tema": "ACCION DE TUTELA CONTRA EMPRESA DE SERVICIOS PUBLICOS DOMICILIARIOS",
+      "subtema": "Procedencia excepcional para cuestionar actuaciones u omisiones cuando se reclama una respuesta institucional urgente para prevenir un daño grave e inminente"
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA EMPRESA DE SERVICIOS PUBLICOS DOMICILIARIOS",
+      "subtema": "Improcedencia por cuanto no está probada la situación de menoscabo de los derechos invocados"
+    },
+    {
+      "tema": "DERECHOS FUNDAMENTALES",
+      "subtema": "Cuando hay elementos de juicio aceptables pero ellos no son suficientes para concluir que se vulneró un derecho fundamental, debe concluirse que el derecho no fue desconocido"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "radicado": "T-964-10",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2010,
+  "fecha_creacion": "2010-11-29",
+  "magistrado_ponente": "Juan Carlos Henao Pérez",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "DERECHO AL HABEAS DATA",
+  "subtema": "Protección",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 1266 de 2008",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2010/T-964-10.htm",
+  "fecha_descarga": "2026-10-21T18:19:20.949984+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2010-11-29",
+  "fecha_publicacion": null,
+  "numero": "T-964/10",
+  "tipo_cc": "T",
+  "prov_id": "1701",
+  "tema_relatoria": null,
+  "resumen": "Habeas data. El accionante fue reportado a la central de riesgos por una obligación, que según él ya se encuentra prescrita, por lo tanto solicita se oficie a DATACREDITO a reiterar su nombre en la central de riesgo. La Sala realiza reiteración de jurisprudencia sobre la procedencia de la acción de tutela contra particulares para proteger el derecho fundamental al habeas data, el habeas data, el principio de autorización de la administración de los datos personales, el límite temporal del dato negativo en los casos en los que la obligación no se ha cumplido, se concluye que los derechos del actor fueron vulnerados ya que el acreedor no demostró la existencia de autorización por parte del actor para incluir posibles reportes negativos a las bases de datos, por lo tanto se ordena retirar el reporte de la obligación referida.",
+  "titulaciones": [
+    {
+      "tema": "DERECHO AL HABEAS DATA",
+      "subtema": "Protección"
+    },
+    {
+      "tema": "DERECHO AL HABEAS DATA",
+      "subtema": "Fundamental y características propias"
+    },
+    {
+      "tema": "DATO FINANCIERO NEGATIVO",
+      "subtema": "Término de permanencia de cuatro (4) años contados a partir del momento en que se extinga la obligación por cualquier modo"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Orden de retirar reporte que se hizo a DATACREDITO"
+    },
+    {
+      "tema": "ACCION DE TUTELA PARA LA PROTECCION DEL DERECHO AL HABEAS DATA",
+      "subtema": "Procedencia"
+    },
+    {
+      "tema": "PRINCIPIO DE AUTORIZACION DE LA ADMINISTRACION DE DATOS",
+      "subtema": "Divulgación de información debe ser autorizada por el titular de la misma"
+    },
+    {
+      "tema": "HABEAS DATA FINANCIERO",
+      "subtema": "Límite temporal del dato negativo en los casos en los que la obligación no se ha cumplido"
+    }
+  ]
+}

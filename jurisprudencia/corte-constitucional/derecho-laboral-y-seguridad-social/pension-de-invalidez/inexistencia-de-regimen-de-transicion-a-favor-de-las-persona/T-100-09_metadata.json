@@ -1,0 +1,64 @@
+{
+  "radicado": "T-100-09",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2009,
+  "fecha_creacion": "2009-02-19",
+  "magistrado_ponente": "Dra CLARA INÉS VARGAS HERNÁNDEZ",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "PENSIÓN DE INVALIDEZ",
+  "subtema": "Inexistencia de régimen de transición a favor de las personas que han cotizado durante la vigencia de las modificaciones legales para el reconocimiento",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Decreto 758 de 1990",
+    "Ley 860 de 2003",
+    "Ley 100 de 1993"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2009/T-100-09.htm",
+  "fecha_descarga": "2026-10-21T18:32:50.084372+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2009-02-19",
+  "fecha_publicacion": "2010-07-07",
+  "numero": "T-100/09",
+  "tipo_cc": "T",
+  "prov_id": "30815",
+  "tema_relatoria": null,
+  "resumen": "Igualdad, seguridad social, trabajo, mínimo vital, dignidad humana. El accionante fue calificado con una pérdida de capacidad laboral del 71.03%, solicita el reconocimiento y pago de su pensión de vejez, la cual le ha sido negada por no cumplir con el requisito del 20% de fidelidad. La Sala realiza reiteración de jurisprudencia sobre la procedencia excepcional de la acción de tutela para el reconocimiento y pago de prestaciones sociales, la protección fundamental de los derechos de contenido prestacional y el carácter progresivo del derecho a la seguridad social, se concluye que en el presente caso resulta indispensable aplicar el artículo 39 de la ley 100 de 1993 en su versión original para efectos del reconocimiento de la pensión de invalidez del accionante, por lo tanto se ordena al ISS, que proceda a iniciar el trámite para el reconocimiento y pago de la pensión de invalidez respectiva. Concedida.",
+  "titulaciones": [
+    {
+      "tema": "PENSIÓN DE INVALIDEZ",
+      "subtema": "Inexistencia de régimen de transición a favor de las personas que han cotizado durante la vigencia de las modificaciones legales para el reconocimiento"
+    },
+    {
+      "tema": "ACCION DE TUTELA PARA RECONOCIMIENTO DE PENSION DE INVALIDEZ",
+      "subtema": "Procedencia excepcional"
+    },
+    {
+      "tema": "DERECHO A LA SEGURIDAD SOCIAL",
+      "subtema": "Carácter progresivo"
+    },
+    {
+      "tema": "DERECHO A LA SEGURIDAD SOCIAL",
+      "subtema": "Contenido prestacional"
+    },
+    {
+      "tema": "DERECHOS SOCIALES PRESTACIONALES",
+      "subtema": "Frente a una medida regresiva debe presumirse su inconstitucionalidad"
+    },
+    {
+      "tema": "REQUISITO DE FIDELIDAD",
+      "subtema": "Vulneración de derechos fundamentales por requisitos más gravosos para el acceso a la pensión por invalidez"
+    },
+    {
+      "tema": "REQUISITO DE FIDELIDAD PARA PENSION DE INVALIDEZ",
+      "subtema": "Carácter regresivo"
+    },
+    {
+      "tema": "DERECHO A LA SEGURIDAD SOCIAL",
+      "subtema": "Concepto, naturaleza y protección constitucional"
+    }
+  ]
+}

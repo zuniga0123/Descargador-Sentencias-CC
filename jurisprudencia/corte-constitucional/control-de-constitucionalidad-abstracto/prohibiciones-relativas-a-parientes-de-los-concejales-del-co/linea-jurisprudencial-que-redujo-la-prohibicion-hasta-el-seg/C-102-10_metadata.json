@@ -1,0 +1,53 @@
+{
+  "radicado": "C-102-10",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2010,
+  "fecha_creacion": "2010-02-15",
+  "magistrado_ponente": "Dr JUAN CARLOS HENAO PEREZ",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "PROHIBICIONES RELATIVAS A PARIENTES DE LOS CONCEJALES, DEL CONTRALOR, DEL PERSONERO, DEL SECRETARIO DEL CONCEJO, DE LOS AUDITORES Y REVISORES",
+  "subtema": "Línea jurisprudencial que redujo la prohibición hasta el segundo grado, conforme al señalamiento del artículo 292",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2067 de 1991",
+    "Ley 78 de 1986",
+    "Ley 821 de 2003",
+    "Ley 617 de 2000",
+    "Ley 53 de 1990"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2010/C-102-10.htm",
+  "fecha_descarga": "2026-10-21T18:25:12.419493+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2010-02-15",
+  "fecha_publicacion": null,
+  "numero": "C-102/10",
+  "tipo_cc": "C",
+  "prov_id": "466",
+  "tema_relatoria": "FALLO INHIBITORIO POR INEPTITUD DE DEMANDA DE INCONSTITUCIONALIDAD CONTRA NORMA DEL CÓDIGO DE RÉGIMEN MUNICIPAL",
+  "resumen": "Ley 53 de 1990 artículo 19 parcial, el aparte demandado es el siguiente “ni los parientes dentro del cuarto grado de consanguinidad, segundo de afinidad o primero civil del acalde, de los concejales municipales o suplentes, del Contralor, del Personero, del Secretario del Concejo, de los Auditores o Revisores”, no podrán ser nombrados ni elegidos para cargo alguno en ninguna dependencia del respectivo municipio, ni contratar con el mismo, dentro del período para el cual fueron elegidos, el demandante considera que el precepto acusado vulnera los artículos 4, 29, 243 y 292 de la Constitución. La Corte se pronuncia sobre la naturaleza jurídica de la acción de inconstitucionalidad, los requisitos del artículo 2 del Decreto 2067 de 1991 y la interpretación constitucional sobre los mismos, se concluye que hay una ineptitud sustantiva de la demanda, por no ofrecer elementos de juicio ciertos, ni específicos además no cumple con el requisito de certeza, por lo tanto no se reúnen los requisitos mínimos para pronunciarse sobre el asunto, decide declararse inhibida.",
+  "titulaciones": [
+    {
+      "tema": "PROHIBICIONES RELATIVAS A PARIENTES DE LOS CONCEJALES, DEL CONTRALOR, DEL PERSONERO, DEL SECRETARIO DEL CONCEJO, DE LOS AUDITORES Y REVISORES",
+      "subtema": "Línea jurisprudencial que redujo la prohibición hasta el segundo grado, conforme al señalamiento del artículo 292"
+    },
+    {
+      "tema": "ACCION PUBLICA DE INCONSTITUCIONALIDAD",
+      "subtema": "Requisitos"
+    },
+    {
+      "tema": "ACCION DE INCONSTITUCIONALIDAD",
+      "subtema": "Naturaleza jurídica"
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "Cumplimiento de requisitos"
+    },
+    {
+      "tema": "INHIBICION DE LA CORTE CONSTITUCIONAL POR INEPTITUD SUSTANTIVA DE LA DEMANDA",
+      "subtema": "Incumplimiento de requisitos de certeza, especificidad, pertinencia y suficiencia en los cargos"
+    }
+  ]
+}

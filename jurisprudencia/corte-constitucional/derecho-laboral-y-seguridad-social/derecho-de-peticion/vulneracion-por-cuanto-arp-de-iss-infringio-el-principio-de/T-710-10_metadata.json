@@ -1,0 +1,42 @@
+{
+  "radicado": "T-710-10",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2010,
+  "fecha_creacion": "2010-09-08",
+  "magistrado_ponente": "Dr JORGE IVÁN PALACIO PALACIO",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "DERECHO DE PETICIÓN",
+  "subtema": "Vulneración por cuanto ARP de ISS infringió el principio de veracidad de la información al suministrar datos ambiguos y erróneos respecto a la afiliación de cónyuge fallecido",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 1295 de 1994",
+    "Ley 142 de 1994"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2010/T-710-10.htm",
+  "fecha_descarga": "2026-10-21T18:15:31.289409+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2010-09-08",
+  "fecha_publicacion": null,
+  "numero": "T-710/10",
+  "tipo_cc": "T",
+  "prov_id": "1379",
+  "tema_relatoria": null,
+  "resumen": "Mínimo vital, vida digna, seguridad social. La accionante solicita se ordene a la ARP la Previsora a reconocer y pagar la pensión de sobreviviente ocasionada debido a la muerte de su esposo, el cual falleció en hechos violentos mientras ejercía sus funciones laborales como Personero Municipal de El Paso (Cesar), la ARP alega que al momento de la ocurrencia del accidente el señor no se encontraba afiliado. La Sala encuentra que frente a las bases de datos y la información aportada por la accionante se presentan varias inconsistencias, se concluye que la ARP del Seguro Social infringe el principio de veracidad de la información, se decide conceder la tutela de los derechos invocados y se ordena iniciar las diligencias para verificar los datos existentes relativos a la afiliación del Señor Blanco, e iniciar el trámite para el pago de la pensión. Concedida.",
+  "titulaciones": [
+    {
+      "tema": "DERECHO DE PETICIÓN",
+      "subtema": "Vulneración por cuanto ARP de ISS infringió el principio de veracidad de la información al suministrar datos ambiguos y erróneos respecto a la afiliación de cónyuge fallecido"
+    },
+    {
+      "tema": "DERECHO DE PETICIÓN",
+      "subtema": "Orden a entidad demandada iniciar diligencia de verificación de datos relativos a afiliación del cónyuge fallecido para reconocer pensión de sobrevivientes"
+    },
+    {
+      "tema": "PENSIÓN DE SOBREVIVIENTES",
+      "subtema": "Caso en que ISS niega mesada pensional indicando que cónyuge fallecido no presenta afiliación ni pagos a administradora de riesgos profesionales"
+    }
+  ]
+}

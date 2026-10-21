@@ -1,0 +1,52 @@
+{
+  "radicado": "C-304-10",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2010,
+  "fecha_creacion": "2010-04-28",
+  "magistrado_ponente": "Dr LUIS ERNESTO VARGAS SILVA",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "ACCIONES DE GRUPO",
+  "subtema": "Reglas y principios encaminados a facilitar su ejercicio",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2067 de 1991",
+    "Ley 472 de 1998",
+    "Ley 42 de 1998",
+    "Ley 142 de 1998"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2010/C-304-10.htm",
+  "fecha_descarga": "2026-10-21T18:21:12.175545+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2010-04-28",
+  "fecha_publicacion": "2010-08-03",
+  "numero": "C-304/10",
+  "tipo_cc": "C",
+  "prov_id": "39632",
+  "tema_relatoria": "FALLO INHIBITORIO POR INEPTITUD DE DEMANDA DE INCONSTITUCIONALIDAD CONTRA NORMAS DE ACCIONES DE GRUPO Y ACCIONES POPULARES",
+  "resumen": "Demanda de inconstitucionalidad (parcial) contra el artículo 55 de la Ley 472 de 1998, por la cual se desarrolla el artículo 88 de la Constitución Política de Colombia en relación con el ejercicio de las acciones populares y de grupo y se dictan otras disposiciones. La demandante considera que la expresión “antes de la apertura a pruebas” vulnera el principio de igualdad, el debido proceso y el derecho de acceso a la administración de justicia de las víctimas del hecho dañoso, en razón a que mientras que la ley permite la vinculación de posibles responsables en cualquier momento procesal, no contempla similar regla para los afectados. Así mismo, la actora alega que la norma introduce una desproporcionada e irrazonable limitación al ejercicio de los derechos de los afectados en el proceso, al condicionar su intervención al momento procesal que contempla la expresión acusada. Por la ineptitud sustantiva de la demanda, la Sala Plena de la Corte Constitucional se declaró INHIBIDA para emitir un pronunciamiento de fondo.",
+  "titulaciones": [
+    {
+      "tema": "ACCIONES DE GRUPO",
+      "subtema": "Reglas y principios encaminados a facilitar su ejercicio"
+    },
+    {
+      "tema": "ACCIONES POPULARES Y DE GRUPO",
+      "subtema": "Distinción"
+    },
+    {
+      "tema": "ACCION PUBLICA DE INCONSTITUCIONALIDAD",
+      "subtema": "Requisitos"
+    },
+    {
+      "tema": "ACCION DE GRUPO",
+      "subtema": "Características"
+    },
+    {
+      "tema": "SENTENCIA DE LA CORTE CONSTITUCIONAL",
+      "subtema": "Inhibición por ineptitud sustantiva de la demanda"
+    }
+  ]
+}

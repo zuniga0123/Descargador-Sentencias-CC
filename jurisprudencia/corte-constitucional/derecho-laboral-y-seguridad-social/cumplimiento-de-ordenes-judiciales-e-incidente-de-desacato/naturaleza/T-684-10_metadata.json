@@ -1,0 +1,49 @@
+{
+  "radicado": "T-684-10",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2010,
+  "fecha_creacion": "2010-09-02",
+  "magistrado_ponente": "Dr NILSON PINILLA PINILLA",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "CUMPLIMIENTO DE ORDENES JUDICIALES E INCIDENTE DE DESACATO",
+  "subtema": "Naturaleza",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 100 de 1993",
+    "Decreto Ley 1295 de 1994",
+    "Ley 776 de 2002",
+    "Decreto 2463 de 2001"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2010/T-684-10.htm",
+  "fecha_descarga": "2026-10-21T18:17:04.017293+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2010-09-02",
+  "fecha_publicacion": null,
+  "numero": "T-684/10",
+  "tipo_cc": "T",
+  "prov_id": "1350",
+  "tema_relatoria": null,
+  "resumen": "Salud, mínimo vital. El actor comenta que sufrió un accidente laboral, el cual le ha generado más de 540 días de incapacidad, por lo cual tanto la AFP como la EPS se han negado a seguir cancelando las incapacidades, pese a que interpuso una acción de tutela anterior a esta donde se le reconocieron y pagaron las anteriores incapacidades adeudadas, inició un incidente de desacato pero el juez de tutela se negó a darle tramite por considerar que se había realizado el pago de las incapacidades durante el tiempo establecido, el accionante solicita se siga cancelando el pago de las incapacidades hasta tanto se defina su derecho a la pensión de invalidez. La Sala realiza reiteración de jurisprudencia sobre procedencia excepcional de la acción de tutela para ordenar el pago de incapacidades laborales, el cumplimiento de las ordenes judiciales y el incidente de desacato, se concluye que los derechos del actor fueron protegidos mediante la primera acción instaurada, por lo tanto la presente acción resulta improcedente, se oficia al Juzgado Séptimo Penal Municipal con Funciones de Conocimiento de Cali para que haga cumplir la decisión que tomó al tutelar los derechos del actor, de manera que se continúe el cubrimiento de sus incapacidades, hasta que medie un concepto favorable de recuperación o se pueda llevar a cabo una nueva calificación de invalidez por parte de la entidad competente para ello, verificando además la obligación del empleador de mantener el vínculo laboral.",
+  "titulaciones": [
+    {
+      "tema": "CUMPLIMIENTO DE ORDENES JUDICIALES E INCIDENTE DE DESACATO",
+      "subtema": "Naturaleza"
+    },
+    {
+      "tema": "ACCION DE TUTELA PARA RECLAMAR PAGO DE INCAPACIDADES LABORALES",
+      "subtema": "Procedencia excepcional"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Orden de continuar pago de incapacidades hasta que medie concepto favorable o nueva calificación de invalidez"
+    },
+    {
+      "tema": "INCAPACIDAD LABORAL",
+      "subtema": "Fondo de pensiones debe continuar con el pago hasta que médico tratante emita concepto favorable o se efectué nueva calificación de invalidez"
+    }
+  ]
+}

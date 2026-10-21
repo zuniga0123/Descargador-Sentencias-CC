@@ -1,0 +1,42 @@
+{
+  "radicado": "T-545-09",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2009,
+  "fecha_creacion": "2009-08-06",
+  "magistrado_ponente": "Dra MARIA VICTORIA CALLE CORREA",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "DEBIDO PROCESO ADMINISTRATIVO",
+  "subtema": "Vulneración por no haberse tenido en cuenta requisitos de procedibilidad básicos para la admisión de la querella, ni los dictámenes periciales ordenados",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 1889 de 1989",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2009/T-545-09.htm",
+  "fecha_descarga": "2026-10-21T18:36:58.874227+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2009-08-06",
+  "fecha_publicacion": null,
+  "numero": "T-545/09",
+  "tipo_cc": "T",
+  "prov_id": "31421",
+  "tema_relatoria": null,
+  "resumen": "Debido proceso, la accionante solicita sea revocada la decisión proferida por la Alcaldía accionada, debido a la continua omisión de pruebas y testimonios, determinantes para el fallo. La Sala encuentra que se incurrió en una indebida valoración probatoria y por lo tanto en una de las causales de vía de hecho. Concedida.",
+  "titulaciones": [
+    {
+      "tema": "DEBIDO PROCESO ADMINISTRATIVO",
+      "subtema": "Vulneración por no haberse tenido en cuenta requisitos de procedibilidad básicos para la admisión de la querella, ni los dictámenes periciales ordenados"
+    },
+    {
+      "tema": "PRUEBA PERICIAL",
+      "subtema": "Características conforme al Código de Procedimiento Civil"
+    },
+    {
+      "tema": "DERECHO FUNDAMENTAL AL DEBIDO PROCESO ADMINISTRATIVO",
+      "subtema": "Alcance y contenido"
+    }
+  ]
+}

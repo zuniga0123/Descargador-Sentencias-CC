@@ -1,0 +1,64 @@
+{
+  "radicado": "C-292-10",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2010,
+  "fecha_creacion": "2010-04-21",
+  "magistrado_ponente": "Dr HUMBERTO ANTONIO SIERRA PORTO",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "CONTROL DE CONSTITUCIONALIDAD DE DECRETOS DE ESTADOS DE EXCEPCION",
+  "subtema": "Alcance",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2067 de 1991",
+    "Decreto 135 de 2010",
+    "Ley 137 de 1994",
+    "Decreto 4975 de 2009",
+    "Ley 793 de 2002",
+    "Ley 975 de 2005",
+    "Ley 792 de 2003",
+    "Decreto 2568 de 2003"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2010/C-292-10.htm",
+  "fecha_descarga": "2026-10-21T18:28:34.368516+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2010-04-21",
+  "fecha_publicacion": null,
+  "numero": "C-292/10",
+  "tipo_cc": "C",
+  "prov_id": "726",
+  "tema_relatoria": "INCONSTITUCIONALIDAD POR CONSECUENCIA DE DECRETO LEGISLATIVO DE ESTADO DE EMERGENCIA SOCIAL",
+  "resumen": "Decreto Legislativo número 135 del 21 de enero de 2010, “por medio del cual se distribuyen recursos del FRISCO para el fortalecimiento de la Política Nacional para la Reducción del Consumo de Sustancias Psicoactivas y su Impacto y se dictan otras disposiciones”. La Corte decide declarar la inconstitucionalidad del Decreto Legislativo en cuestión debido a que fue expedido en virtud del estado de emergencia social adoptado por medio del Decreto 4975 de 2009 y por lo tanto, a raíz de la declaratoria de inexequibilidad de este último, deviene a su vez en inconstitucional.",
+  "titulaciones": [
+    {
+      "tema": "CONTROL DE CONSTITUCIONALIDAD DE DECRETOS DE ESTADOS DE EXCEPCION",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "DECRETO LEGISLATIVO QUE DESARROLLA EL ESTADO DE EMERGENCIA SOCIAL",
+      "subtema": "No contiene medidas que establezcan fuentes tributarias de financiación orientadas al goce del derecho a la salud"
+    },
+    {
+      "tema": "CONTROL DE CONSTITUCIONALIDAD DE DECRETO LEGISLATIVO DE DESARROLLO DE ESTADO DE EMERGENCIA SOCIAL EN MATERIA DE SALUD",
+      "subtema": "Efectos diferidos"
+    },
+    {
+      "tema": "CONTROL DE CONSTITUCIONALIDAD DE DECRETO LEGISLATIVO DE DESARROLLO DE ESTADO DE EMERGENCIA SOCIAL EN MATERIA DE SALUD",
+      "subtema": "Sentencia diferida ultra activa desconoce los fundamentos constitucionales de la ratio decidendi"
+    },
+    {
+      "tema": "CONTROL DE CONSTITUCIONALIDAD DE DECRETO LEGISLATIVO DE DESARROLLO DE ESTADO DE EMERGENCIA SOCIAL EN MATERIA DE SALUD",
+      "subtema": "Inexequibilidad diferida"
+    },
+    {
+      "tema": "CONTROL DE CONSTITUCIONALIDAD DE DECRETO LEGISLATIVO DE DESARROLLO DE ESTADO DE EMERGENCIA SOCIAL",
+      "subtema": "Efectos de la Inexequibilidad"
+    },
+    {
+      "tema": "INCONSTITUCIONALIDAD POR CONSECUENCIA EN DECLARACION DE EMERGENCIA",
+      "subtema": "Configuración"
+    }
+  ]
+}

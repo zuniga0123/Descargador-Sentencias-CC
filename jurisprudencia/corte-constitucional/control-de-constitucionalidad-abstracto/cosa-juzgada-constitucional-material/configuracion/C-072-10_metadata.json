@@ -1,0 +1,45 @@
+{
+  "radicado": "C-072-10",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2010,
+  "fecha_creacion": "2010-02-10",
+  "magistrado_ponente": "Dr GABRIEL EDUARDO MENDOZA MARTELO",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "COSA JUZGADA CONSTITUCIONAL MATERIAL",
+  "subtema": "Configuración",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 270 de 1996",
+    "Decreto 2067 de 1991",
+    "Acto Legislativo 1 de 2004",
+    "Acto Legislativo 1 de 2009",
+    "Ley 5 de 1992"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2010/C-072-10.htm",
+  "fecha_descarga": "2026-10-21T18:25:04.959560+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2010-02-10",
+  "fecha_publicacion": null,
+  "numero": "C-072/10",
+  "tipo_cc": "C",
+  "prov_id": "441",
+  "tema_relatoria": "INHABILIDADES PARA EJERCER CARGOS EN LA RAMA JUDICIAL",
+  "resumen": "Ley 270 de 1996 artículo 150 numeral 6 “ESTATUTARIA DE LA ADMINISTRACIÓN DE JUSTICIA”, la norma regula las inhabilidades para ejercer cargos en la rama el aparte demandado es el siguiente “Quien haya sido declarado responsable de la comisión de cualquier hecho punible, excepto por delitos políticos culposos”, el demandante considera que la norma acusada desconoce los artículos 13, 25 y 28 de la Constitución Política, debido a que se impone una pena perpetua a quien haya cometido un delito pese ha haber cumplido con la pena, vulnerando así los derechos a la igualdad, al trabajo y a la garantía de prohibición de imprescriptibilidad de las penas, además considera vulnerado el artículo 122 constitucional al establecer una inhabilidad más estricta que la prevista por la norma constitucional para el efecto. La Corte pasa a establecer si respectó del numeral 6 operó el fenómeno de cosa juzgada constitucional, entra a estudiar la jurisprudencia relativa al control constitucional de los proyectos de ley estatutaria, se concluye que el cargo presentado por el demandante, según el cual la norma acusada desconoce el inciso 5 del artículo 122 de la Carta no puede prosperar y se ordena estarse a lo resuelto en la Sentencia C-037 de 1996, por haber operado el fenómeno de cosa juzgada constitucional.",
+  "titulaciones": [
+    {
+      "tema": "COSA JUZGADA CONSTITUCIONAL MATERIAL",
+      "subtema": "Configuración"
+    },
+    {
+      "tema": "INHABILIDADES PARA EJERCER CARGOS EN LA RAMA JUDICIAL",
+      "subtema": "Modificación a la Carta no implica cambio en parámetro constitucional empleado por la Corte en sentencia C-037 de 1996"
+    },
+    {
+      "tema": "CONTROL DE CONSTITUCIONALIDAD DE PROYECTO DE LEY ESTATUTARIA",
+      "subtema": "Características"
+    }
+  ]
+}

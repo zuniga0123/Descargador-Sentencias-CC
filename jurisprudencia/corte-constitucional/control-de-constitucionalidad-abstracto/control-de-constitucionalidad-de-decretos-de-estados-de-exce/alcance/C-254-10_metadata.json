@@ -1,0 +1,57 @@
+{
+  "radicado": "C-254-10",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2010,
+  "fecha_creacion": "2010-04-16",
+  "magistrado_ponente": "Mauricio González Cuervo I",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "CONTROL DE CONSTITUCIONALIDAD DE DECRETOS DE ESTADOS DE EXCEPCION",
+  "subtema": "Alcance",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 137 de 1994",
+    "Decreto 4975 de 2009",
+    "Ley 1122 de 2007",
+    "Ley 1151 de 2007",
+    "Decreto 4976 de 2009"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2010/C-254-10.htm",
+  "fecha_descarga": "2026-10-21T18:28:23.183861+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2010-04-16",
+  "fecha_publicacion": null,
+  "numero": "C-254/10",
+  "tipo_cc": "C",
+  "prov_id": "685",
+  "tema_relatoria": "INCONSTITUCIONALIDAD POR CONSECUENCIA DE DECRETO LEGISLATIVO DE ESTADO DE EMERGENCIA SOCIAL",
+  "resumen": "Revisión de constitucionalidad del Decreto legislativo No 4976 de 2009, “Por el cual se expiden medidas excepcionales con el fin de liberar recursos que permitan garantizar la continuidad en la prestación de los servicios de salud de la población beneficiaria y de dictan otras disposiciones”. La Corte decide declarar la inconstitucionalidad por consecuencia al haber desaparecido del ordenamiento el fundamento jurídico que sirvió de sustento a la expedición del Decreto Legislativo revisado, por lo tanto se decide declararlo Inexequible.",
+  "titulaciones": [
+    {
+      "tema": "CONTROL DE CONSTITUCIONALIDAD DE DECRETOS DE ESTADOS DE EXCEPCION",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "CONTROL DE CONSTITUCIONALIDAD DE DECRETO LEGISLATIVO DE DESARROLLO DE ESTADO DE EMERGENCIA SOCIAL EN MATERIA DE SALUD",
+      "subtema": "Efectos diferidos"
+    },
+    {
+      "tema": "CONTROL DE CONSTITUCIONALIDAD DE DECRETO LEGISLATIVO DE DESARROLLO DE ESTADO DE EMERGENCIA SOCIAL EN MATERIA DE SALUD",
+      "subtema": "Sentencia diferida ultra activa desconoce los fundamentos constitucionales de la ratio decidendi"
+    },
+    {
+      "tema": "CONTROL DE CONSTITUCIONALIDAD DE DECRETO LEGISLATIVO DE DESARROLLO DE ESTADO DE EMERGENCIA SOCIAL EN MATERIA DE SALUD",
+      "subtema": "Inexequibilidad diferida"
+    },
+    {
+      "tema": "CONTROL DE CONSTITUCIONALIDAD DE DECRETO LEGISLATIVO DE DESARROLLO DE ESTADO DE EMERGENCIA SOCIAL",
+      "subtema": "Efectos de la Inexequibilidad"
+    },
+    {
+      "tema": "INCONSTITUCIONALIDAD POR CONSECUENCIA EN DECLARACION DE EMERGENCIA",
+      "subtema": "Configuración"
+    }
+  ]
+}

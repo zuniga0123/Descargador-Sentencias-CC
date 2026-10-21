@@ -1,0 +1,51 @@
+{
+  "radicado": "C-870-10",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2010,
+  "fecha_creacion": "2010-11-03",
+  "magistrado_ponente": "Mauricio González Cuervo",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "DEMANDA DE INCONSTITUCIONALIDAD POR VULNERACION DEL PRINCIPIO DE IGUALDAD",
+  "subtema": "Requisitos en la carga argumentativa",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 769 de 2002",
+    "Ley 1383 de 2010",
+    "Decreto 1344 de 1970"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2010/C-870-10.htm",
+  "fecha_descarga": "2026-10-21T18:22:47.651926+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2010-11-03",
+  "fecha_publicacion": null,
+  "numero": "C-870/10",
+  "tipo_cc": "C",
+  "prov_id": "1588",
+  "tema_relatoria": "FALLO INHIBITORIO POR INEPTITUD DE DEMANDA DE INCONSTITUCIONALIDAD CONTRA NORMA SOBRE EDAD MINIMA PARA CONDUCIR VEHICULOS DE SERVICIO PUBLICO",
+  "resumen": "Ley 1383 de 2010 artículo 5 (parcial) “Por la cual se reforma la Ley 769 de 2002 Código Nacional de Transito y se dictan otras disposiciones” el artículo regula los requisitos para obtener por primera vez la licencia de conducción, el aparte demandado es el siguiente “a excepción de la mínima que será de 18 años cumplidos”, el demandante considera vulnerado el artículo 13 constitucional, ya que la norma realiza una diferenciación respecto de la edad para adquirir licencias ya sea para vehículos de uso público o vehículos de uso particular. La Corte encuentra que el cargo formulado por la accionante, resulta falto de certeza, pertinencia y especificidad, ya que no se integró un a proposición jurídica completa, debido a ello no se puede entrar a complementar las grandes falencias del cargo por cuanto se estaría generando una especie de control automático, por lo tanto decide declararse Inhibida.",
+  "titulaciones": [
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD POR VULNERACION DEL PRINCIPIO DE IGUALDAD",
+      "subtema": "Requisitos en la carga argumentativa"
+    },
+    {
+      "tema": "PROPOSICION JURIDICA COMPLETA EN DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "Exigencia"
+    },
+    {
+      "tema": "EDAD MINIMA PARA CONDUCIR VEHICULOS DE SERVICIO PUBLICO",
+      "subtema": "Inhibición por ineptitud sustantiva de la demanda"
+    },
+    {
+      "tema": "PROPOSICION JURIDICA COMPLETA",
+      "subtema": "Integración"
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "Requisitos de claridad, certeza, especificidad, pertinencia y suficiencia"
+    }
+  ]
+}

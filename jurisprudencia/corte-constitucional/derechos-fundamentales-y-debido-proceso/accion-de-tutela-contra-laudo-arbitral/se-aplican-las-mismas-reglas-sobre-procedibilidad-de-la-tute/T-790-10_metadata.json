@@ -1,0 +1,53 @@
+{
+  "radicado": "T-790-10",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2010,
+  "fecha_creacion": "2010-10-01",
+  "magistrado_ponente": "Dr JORGE IGNACIO PRETELT CHALJUB",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCIÓN DE TUTELA CONTRA LAUDO ARBITRAL",
+  "subtema": "Se aplican las mismas reglas sobre procedibilidad de la tutela contra providencias judiciales",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Decreto 1818 de 1998",
+    "Ley 222 de 1995",
+    "Decreto 1382 de 2000",
+    "Ley 446 de 1998"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2010/T-790-10.htm",
+  "fecha_descarga": "2026-10-21T18:15:42.461717+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2010-10-01",
+  "fecha_publicacion": null,
+  "numero": "T-790/10",
+  "tipo_cc": "T",
+  "prov_id": "1485",
+  "tema_relatoria": null,
+  "resumen": "Debido proceso, acceso a la administración de justicia. El accionante solicita se declare que el Tribunal de Arbitramento y la Sala Civil del Tribunal Superior del Distrito Judicial incurrieron en varios defectos orgánicos y fácticos al dictar sus providencias ya que el Tribunal de Arbitramento carecía de competencia para conocer la solicitud de indemnización por abuso del derecho porque para la fecha en que dicha pretensión fue formulada, la cláusula compromisoria ya había sido eliminada de los estatutos de la sociedad, además alega que incurrió en un defecto fáctico al valorar una prueba obtenida de manera ilegal, y por último considera que se incurrió en un defecto procedimental ya que en el laudo se dio una decisión ultra petita, pues reconoció intereses bancarios no solicitados. La Sala en primer lugar estudia un asunto previo sobre, la competencia del juez de tutela de primera instancia, se determina que es una autoridad judicial que integra la jurisdicción constitucional, y que tiene asiento donde ocurrió la presunta vulneración de los derechos fundamentales, y en segundo término fue resuelta por una sala distinta a la que fue demanda en la tutela, por lo tanto en atención a los principios de prevalencia del derecho sustancial, celeridad y sumariedad, la tutela fue resuelta en primera instancia por una autoridad judicial del lugar donde ocurrió la presunta violación de los derechos fundamentales y por lo tanto es competente, luego se pasa a realizar reiteración de jurisprudencia sobre la procedencia de la acción de tutela contra laudos arbítrales, requisitos generales de procedencia excepcional de la acción de tutela contra providencias judiciales y laudos arbítrales, los requisitos especiales de procedibilidad excepcional de la acción de tutela contra providencias judiciales y laudos arbítrales, los defectos fácticos, orgánicos y sustantivos en materia de arbitramento, se encuentra que el Tribunal Superior de Medellín, al negarse a declarar que la pretensión por la que el actor fue condenado ya había prescrito cuando fue formulada dentro del proceso, incurrió en un defecto sustantivo, por lo tanto se ordena revocar el laudo arbitral. Concedida.",
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA LAUDO ARBITRAL",
+      "subtema": "Se aplican las mismas reglas sobre procedibilidad de la tutela contra providencias judiciales"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA LAUDO ARBITRAL",
+      "subtema": "Improcedencia por cuanto las interpretaciones en pugna no involucran vulneración o amenaza de derechos fundamentales"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA LAUDO ARBITRAL",
+      "subtema": "Requisitos generales y especiales de procedibilidad"
+    },
+    {
+      "tema": "DEFECTOS FACTICO, ORGANICO Y SUSTANTIVO EN MATERIA DE ARBITRAMENTO",
+      "subtema": "Configuración y características especiales"
+    },
+    {
+      "tema": "DERECHO AL DEBIDO PROCESO",
+      "subtema": "Vulneración por configuración de defecto sustantivo por no declarar la prescripción de la pretensión relacionada con un presunto abuso del derecho"
+    }
+  ]
+}

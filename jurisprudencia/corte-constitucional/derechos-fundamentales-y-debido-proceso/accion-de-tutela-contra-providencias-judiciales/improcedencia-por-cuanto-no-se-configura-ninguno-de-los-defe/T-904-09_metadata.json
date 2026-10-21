@@ -1,0 +1,43 @@
+{
+  "radicado": "T-904-09",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2009,
+  "fecha_creacion": "2009-12-07",
+  "magistrado_ponente": "Mauricio González Cuervo",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+  "subtema": "Improcedencia por cuanto no se configura ninguno de los defectos ni causales señaladas",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 142 de 1994",
+    "Ley 45 de 1990",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2009/T-904-09.htm",
+  "fecha_descarga": "2026-10-21T18:32:57.513345+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2009-12-07",
+  "fecha_publicacion": "2010-06-24",
+  "numero": "T-904/09",
+  "tipo_cc": "T",
+  "prov_id": "264",
+  "tema_relatoria": null,
+  "resumen": "Debido proceso. Dentro del proceso ejecutivo adelantado por COMCEL contra la ETB, se ordenó la liquidación con base al interés moratorio mercantil, y no a la tasa del 6% anual, como se había ordenado en primera instancia, por lo tanto la ETB considera vulnerado su derecho al debido proceso, solicita la revocación de la sentencia y ordene el pago de intereses civiles moratorios. La Sala pasa a estudiar como requisito de procedibilidad la procedencia de la acción de tutela en el presente caso, se concluye que se cumplen los requisitos generales de procedibilidad de la acción y pasa a estudiar de fondo el caso, la Corte concluye que no se encuentra que la providencia impugnada vulnere la Constitución. Niega.",
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Improcedencia por cuanto no se configura ninguno de los defectos ni causales señaladas"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Improcedencia para reconocimiento exclusivo de intereses moratorios"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Requisitos generales y especiales de procedibilidad"
+    }
+  ]
+}

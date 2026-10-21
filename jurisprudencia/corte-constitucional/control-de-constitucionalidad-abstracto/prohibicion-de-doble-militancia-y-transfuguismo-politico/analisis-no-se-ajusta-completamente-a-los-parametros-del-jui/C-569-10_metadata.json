@@ -1,0 +1,49 @@
+{
+  "radicado": "C-569-10",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2010,
+  "fecha_creacion": "2010-07-14",
+  "magistrado_ponente": "Juan Carlos Henao Pérez",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "PROHIBICION DE DOBLE MILITANCIA Y TRANSFUGUISMO POLITICO",
+  "subtema": "Análisis no se ajusta completamente a los parámetros del juicio de sustitución",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Acto Legislativo 1 de 2009",
+    "Decreto 2067 de 1991",
+    "Decreto Ley 2067 de 1991",
+    "Ley 974 de 2005",
+    "Acto Legislativo 1 de 2003"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2010/C-569-10.htm",
+  "fecha_descarga": "2026-10-21T18:25:46.025668+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2010-07-14",
+  "fecha_publicacion": null,
+  "numero": "C-569/10",
+  "tipo_cc": "C",
+  "prov_id": "1147",
+  "tema_relatoria": "COSA JUZGADA CONSTITUCIONAL EN EXCEPCION TRANSITORIA A LA PROHIBICION DE LA DOBLE MILITANCIA POLITICA",
+  "resumen": "Demanda de inconstitucionalidad contra el Acto Legislativo 01 de 2009 “Por el cual se modifican y adicionan unos artículos de la Constitución Política”, el parágrafo transitorio demandado es el siguiente “Sin perjuicio de lo dispuesto por el artículo 134, dentro de los dos (2) meses siguientes a la entrada en vigencia del presente acto legislativo, autorizarse, por una sola vez, a los miembros de los Cuerpos Colegiados de elección popular, o a quienes hubieren renunciado a su curul con anterioridad a la vigencia del presente acto legislativo, para inscribirse en un partido distinto al que los avaló, sin renunciar a la curul o incurrir en doble militancia”, la accionante considera que el aparte transitorio es contrario al artículo 375 de la Constitución, el cual establece la competencia del Congreso para adelantar reformas constitucionales a través de actos legislativos, y en el presente caso el poder de reforma del Congreso desborda los límites de sus atribuciones convirtiéndose en poder constituyente y sustituyendo la Constitución de 1991 al alterarle sus principios y valores. La Corte encuentra que en este caso se configura la existencia del fenómeno de cosa juzgada constitucional por los cargos de la demanda, por lo tanto se decide estarse a lo resuelto en la sentencia C-303 de 2010.",
+  "titulaciones": [
+    {
+      "tema": "PROHIBICION DE DOBLE MILITANCIA Y TRANSFUGUISMO POLITICO",
+      "subtema": "Análisis no se ajusta completamente a los parámetros del juicio de sustitución"
+    },
+    {
+      "tema": "CONTROL DE CONSTITUCIONALIDAD DE ACTO LEGISLATIVO",
+      "subtema": "Configuración de cosa juzgada constitucional"
+    },
+    {
+      "tema": "ACCION PUBLICA DE INCONSTITUCIONALIDAD CONTRA ACTO LEGISLATIVO",
+      "subtema": "Requisito de caducidad"
+    },
+    {
+      "tema": "EXCEPCION TRANSITORIA A LA PROHIBICION DE DOBLE MILITANCIA POLITICA",
+      "subtema": "Existencia de cosa juzgada constitucional"
+    }
+  ]
+}

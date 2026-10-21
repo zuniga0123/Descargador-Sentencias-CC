@@ -1,0 +1,50 @@
+{
+  "radicado": "T-536-09",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2009,
+  "fecha_creacion": "2009-08-06",
+  "magistrado_ponente": "Dr HUMBERTO ANTONIO SIERRA PORTO",
+  "area": "Derecho a la Salud",
+  "tema": "ACCIÓN DE TUTELA",
+  "subtema": "Improcedencia por cuanto la Superintendencia Nacional de Salud no desconoció el derecho al debido proceso administrativo a SALUDCOOP por haberse garantizado el ejercicio del derecho de defensa",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 100 de 1993",
+    "Ley 1122 de 2007",
+    "Ley 1122 de 2005",
+    "Ley 222 de 1995",
+    "Ley 2 de 2006"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2009/T-536-09.htm",
+  "fecha_descarga": "2026-10-21T18:36:36.677996+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2009-08-06",
+  "fecha_publicacion": null,
+  "numero": "T-536/09",
+  "tipo_cc": "T",
+  "prov_id": "31412",
+  "tema_relatoria": null,
+  "resumen": "Derecho al debido proceso administrativo, la EPS accionante considera que la superintendencia no esta aplicando la sentencia C-1041-07, en donde esta corporación aclaró, que el límite del 30% de integración vertical entre las EPS y sus propias IPS no comprendía la atención de urgencias, ni tampoco el porcentaje atinente al ejercicio de derecho a al libre elección del usuario; y acordó un plazo de un año para que las EPS que excedieran dicho porcentaje, lo ajustaran, según la accionante la superintendencia no ha procedido a fijar los criterios objetivos, para determinar que son IPS propias, además ha hecho extensible este 30% a los gastos de urgencias y a los casos de libre escogencia. La Sala considera que la entidad accionada no violo el debido proceso administrativo por que en noviembre de 2007 se fijaron los criterios objetivos para precisar el sentido y el alcance de la expresión “sus propias IPS” y en ningún momento se han desconocido los casos especiales donde no debe aplicarse el porcentaje límite del 30%. Por estas razones decide negar la tutela.",
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Improcedencia por cuanto la Superintendencia Nacional de Salud no desconoció el derecho al debido proceso administrativo a SALUDCOOP por haberse garantizado el ejercicio del derecho de defensa"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Procedencia excepcional para controvertir actos administrativos"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Improcedencia general para controvertir actos administrativos"
+    },
+    {
+      "tema": "INTEGRACION VERTICAL DE EPS CON SUS PROPIAS IPS",
+      "subtema": "Alcance de la Sentencia C-1041de 2007"
+    }
+  ]
+}

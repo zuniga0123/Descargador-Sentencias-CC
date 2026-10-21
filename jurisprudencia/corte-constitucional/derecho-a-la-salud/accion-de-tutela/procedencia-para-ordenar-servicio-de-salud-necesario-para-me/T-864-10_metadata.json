@@ -1,0 +1,52 @@
+{
+  "radicado": "T-864-10",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2010,
+  "fecha_creacion": "2010-11-03",
+  "magistrado_ponente": "Dr JORGE IGNACIO PRETELT CHALJUB",
+  "area": "Derecho a la Salud",
+  "tema": "ACCIÓN DE TUTELA",
+  "subtema": "Procedencia para ordenar servicio de salud necesario para mejorar la calidad de vida de una persona",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 100 de 1993",
+    "Ley 715 de 2001",
+    "Decreto 806 de 1998"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2010/T-864-10.htm",
+  "fecha_descarga": "2026-10-21T18:14:53.946189+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2010-11-03",
+  "fecha_publicacion": null,
+  "numero": "T-864/10",
+  "tipo_cc": "T",
+  "prov_id": "1589",
+  "tema_relatoria": null,
+  "resumen": "Salud, vida digna. La accionante pertenece al régimen subsidiado Nivel I, comenta que sufre de problemas de salud, por lo que su médico tratante le ordenó varios exámenes para determinar el origen de su enfermedad, sin embargo hasta la fecha en que interpuso la acción no ha recibido ningún tratamiento médico ni le han autorizado los exámenes especializados. La Sala se pronuncia sobre la procedencia de figura de agencia oficiosa en materia de tutela en los casos de aquellas personas que actúan a nombre de otra, el carácter fundamental del derecho a la salud, la procedencia de la acción de tutela para ordenar el servicio de salud necesario para mejorar la calidad de vida de una persona, las obligaciones exigibles a las empresas promotoras de servicios de salud del Régimen Subsidiado en la prestación de servicios excluidos del POS, y los entes territoriales responsables de la atención médica a la población subsidiada, se concluye que la vulneración alegada por la accionante se encuentra demostrada, por lo tanto se decide acceder al amparo de los derechos invocados y se ordena autorizar los procedimientos especializados y el tratamiento de la enfermedad de manera integral. Concedida.",
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Procedencia para ordenar servicio de salud necesario para mejorar la calidad de vida de una persona"
+    },
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Caso en que EPS-S niega autorización de exámenes y tratamientos prescritos por médico tratante, por no estar incluidos en el POS-S"
+    },
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Orden a Secretaría de Salud autorizar exámenes ordénanos por médico tratante y demás tratamientos, incluyendo transportes y hospedaje en el caso concreto"
+    },
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Reiteración de jurisprudencia sobre carácter fundamental y procedencia para su protección"
+    },
+    {
+      "tema": "DERECHO A LA SALUD Y REGIMEN SUBSIDIADO DE SALUD",
+      "subtema": "Obligaciones exigibles a EPS-S en la prestación de servicios excluidos del POS-S, y los entes territoriales responsables de la atención médica a la población subsidiada"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "radicado": "C-288-10",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2010,
+  "fecha_creacion": "2010-04-21",
+  "magistrado_ponente": "Dr LUIS ERNESTO VARGAS SILVA",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "CONTROL DE CONSTITUCIONALIDAD DE DECRETO DECLARATORIO DE ESTADO DE EMERGENCIA EN MATERIA DE SALUD",
+  "subtema": "Modulación de efectos del fallo en relación con las medidas tributarias resulta contradictorio y riesgoso",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2067 de 1991",
+    "Decreto 128 de 2010",
+    "Ley 137 de 1994",
+    "Decreto 4975 de 2009",
+    "Ley 1266 de 2009",
+    "Ley 100 de 1993",
+    "Ley 1122 de 2007",
+    "Decreto 127 de 2010",
+    "Ley 50 de 1990",
+    "Decreto Ley 1281 de 2002"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2010/C-288-10.htm",
+  "fecha_descarga": "2026-10-21T18:23:44.713654+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2010-04-21",
+  "fecha_publicacion": null,
+  "numero": "C-288/10",
+  "tipo_cc": "C",
+  "prov_id": "722",
+  "tema_relatoria": "INCONSTITUCIONALIDAD POR CONSECUENCIA DE DECRETO LEGISLATIVO DE ESTADO DE EMERGENCIA SOCIAL",
+  "resumen": "Revisión de constitucionalidad del Decreto Legislativo 128 de 21 de enero de 2010, “por medio del cual se regulan las prestaciones excepcionales de salud y se dictan otras disposiciones”. La Corte decide declarar la inconstitucionalidad del mencionado Decreto debido a que en la sentencia C-252 de 2010, se declaró integralmente inexequible el Decreto 4975 de 2009, por el cual se declaró el estado de emergencia social, el cual sirvió de sustento normativo a la expedición del Decreto 128 de 2010. Inexequible.",
+  "titulaciones": [
+    {
+      "tema": "CONTROL DE CONSTITUCIONALIDAD DE DECRETO DECLARATORIO DE ESTADO DE EMERGENCIA EN MATERIA DE SALUD",
+      "subtema": "Modulación de efectos del fallo en relación con las medidas tributarias resulta contradictorio y riesgoso"
+    },
+    {
+      "tema": "CONTROL DE CONSTITUCIONALIDAD DE DECRETOS DE ESTADOS DE EXCEPCION",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "SENTENCIA DE LA CORTE CONSTITUCIONAL",
+      "subtema": "Inexequibilidad de una norma y la prolongación en el tiempo de la vigencia de la misma conlleva a una contradicción jurídica"
+    },
+    {
+      "tema": "CONTROL DE CONSTITUCIONALIDAD DE DECRETO LEGISLATIVO DE DESARROLLO DE ESTADO DE EMERGENCIA SOCIAL EN MATERIA DE SALUD",
+      "subtema": "Efectos diferidos"
+    },
+    {
+      "tema": "CONTROL DE CONSTITUCIONALIDAD DE DECRETO LEGISLATIVO DE DESARROLLO DE ESTADO DE EMERGENCIA SOCIAL EN MATERIA DE SALUD",
+      "subtema": "Sentencia diferida ultra activa desconoce los fundamentos constitucionales de la ratio decidendi"
+    },
+    {
+      "tema": "CONTROL DE CONSTITUCIONALIDAD DE DECRETO LEGISLATIVO DE DESARROLLO DE ESTADO DE EMERGENCIA SOCIAL EN MATERIA DE SALUD",
+      "subtema": "Inexequibilidad diferida"
+    },
+    {
+      "tema": "INCONSTITUCIONALIDAD POR CONSECUENCIA EN DECLARACION DE EMERGENCIA",
+      "subtema": "Configuración"
+    },
+    {
+      "tema": "PRESTACIONES EXCEPCIONALES EN SALUD",
+      "subtema": "Inconstitucionalidad por consecuencia"
+    }
+  ]
+}

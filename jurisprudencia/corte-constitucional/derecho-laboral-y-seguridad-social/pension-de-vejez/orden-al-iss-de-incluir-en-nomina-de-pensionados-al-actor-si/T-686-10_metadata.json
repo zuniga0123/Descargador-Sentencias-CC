@@ -1,0 +1,62 @@
+{
+  "radicado": "T-686-10",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2010,
+  "fecha_creacion": "2010-09-02",
+  "magistrado_ponente": "Dr HUMBERTO ANTONIO SIERRA PORTO",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "PENSION DE VEJEZ",
+  "subtema": "Orden al ISS de incluir en nómina de pensionados al actor si se encuentran cumplidos los requisitos para ello",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 3995 de 2008",
+    "Decreto 2591 de 1991",
+    "Ley 100 de 1993",
+    "Ley 797 de 2003",
+    "Decreto 3935 de 2008",
+    "Decreto Ley 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2010/T-686-10.htm",
+  "fecha_descarga": "2026-10-21T18:17:11.404539+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2010-09-02",
+  "fecha_publicacion": null,
+  "numero": "T-686/10",
+  "tipo_cc": "T",
+  "prov_id": "1352",
+  "tema_relatoria": null,
+  "resumen": "Seguridad social, mínimo vital. El accionante solicita el reconocimiento y pago de su pensión de vejez, ya que cumple con la edad y el número de semanas requeridas, comenta que dicha pensión le ha sido negada debido a que aparecía con múltiple afiliación al ISS y a City Colfondos, dichas entidades acordaron que era la última quien debía pagar la pensión, pero el actor alega que el traslado de régimen no le fue consultado y que a esta entidad no se le realizaron aportes. La Sala pasa a determinar si el hecho de que en los registros del sistema de información de afiliados se encuentre inscrito el actor en el Régimen de Ahorro Individual, cuando sus aportes han sido recaudados por el ISS, es razón suficiente para negar la solicitud de reconocimiento de pensión de vejez, realiza reiteración de jurisprudencia sobre la posibilidad constitucional de reclamo mediante acción de tutela de derechos de seguridad social en materia de pensiones, la mesada pensional como concreción del derecho a la seguridad social y el derecho al mínimo vital, la multi afiliación al Sistema General de Pensiones, se concluye que al actor se le han vulnerado sus derechos fundamentales ya que ha sido obligado a soportar un perjuicio derivado de una situación administrativa que está fuera de su alcance, se ordena al ISS, atender la solicitud de reconocimiento de pensión, y hacer caso omiso de la afiliación a City Colfondos, para que sea incluido en la nómina de pensionados, si se encuentran cumplidos los requisitos para ello. Concedida.",
+  "titulaciones": [
+    {
+      "tema": "PENSION DE VEJEZ",
+      "subtema": "Orden al ISS de incluir en nómina de pensionados al actor si se encuentran cumplidos los requisitos para ello"
+    },
+    {
+      "tema": "MESADA PENSIONAL",
+      "subtema": "Concreción del derecho a la seguridad social y el derecho al mínimo vital"
+    },
+    {
+      "tema": "SISTEMA DE SEGURIDAD SOCIAL EN PENSIONES",
+      "subtema": "Multiafiliación simultánea a dos regímenes de pensión coexistentes en Colombia"
+    },
+    {
+      "tema": "ACCION DE TUTELA EN MATERIA PENSIONAL",
+      "subtema": "Procedencia excepcional para reconocimiento de derechos de seguridad social"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA PARA EL RECONOCIMIENTO DE PENSIÓN DE VEJEZ",
+      "subtema": "Procede reconocimiento por cuanto el actor no está obligado a soportar un perjuicio como consecuencia directa del problema administrativo de multiafiliación"
+    },
+    {
+      "tema": "PENSION DE VEJEZ",
+      "subtema": "Caso en que el actor cumple con todos los requisitos legales para su reconocimiento pero se le niega por multiafiliación"
+    },
+    {
+      "tema": "SISTEMA DE SEGURIDAD SOCIAL EN PENSIONES",
+      "subtema": "Decreto 3995 de 2008, en caso de multiafiliación se entenderá vinculado a la administradora que haya recibido el mayor numero de cotizaciones"
+    }
+  ]
+}

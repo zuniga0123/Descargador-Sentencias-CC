@@ -1,0 +1,64 @@
+{
+  "radicado": "C-316-10",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2010,
+  "fecha_creacion": "2010-05-05",
+  "magistrado_ponente": "Mauricio González Cuervo",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "INHIBICION DE LA CORTE EN DEMANDA DE INCONSTITUCIONALIDAD DE INTERPRETACION JUDICIAL",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 72 de 1926",
+    "Ley 97 de 1913",
+    "Acto Legislativo 2 de 1908",
+    "Ley 397 de 2007",
+    "Ley 397 de 1997",
+    "Acto Legislativo 1 de 1945",
+    "Ley 3640 de 1954",
+    "Decreto 3640 de 1954",
+    "Ley 153 de 1887",
+    "Ley 33 de 1968",
+    "Decreto 3133 de 1968",
+    "Decreto Ley 3133 de 1968",
+    "Ley 1421 de 1993",
+    "Ley 1 de 1992",
+    "Decreto 1421 de 1993",
+    "Decreto 423 de 1996"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2010/C-316-10.htm",
+  "fecha_descarga": "2026-10-21T18:21:04.566458+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2010-05-05",
+  "fecha_publicacion": "2010-08-26",
+  "numero": "C-316/10",
+  "tipo_cc": "C",
+  "prov_id": "1700",
+  "tema_relatoria": "FALLO INHIBITORIO POR INEPTITUD DE DEMANDA DE INCONSTITUCIONALIDAD CONTRA NORMA SOBRE FACULTADES AL MUNICIPIO DE BOGOTÁ",
+  "resumen": "Ley 72 de 1926 artículo 17, la norma regula las facultades del Municipio de Bogotá el aparte acusado es el siguiente “vigentes todas las disposiciones especiales que se han dictado sobre rentas y percepción de ellas en municipio de Bogotá”, el actor considera vulnerados los artículos 114, 150, 151. 157, 160 y 338 de la Constitución, en términos generales, la argumentación gira en torno a la vulneración del principio de legalidad, toda vez que la disposición acusada elevó a rango legal unas disposiciones locales, que no son ley, sin surtir el trámite legislativo correspondiente. La Sala pasa a estudiar la vigencia de la norma demandada, se concluye que ninguna de las modificaciones de orden legal modificaron o sustituyeron el fragmento demandado, se pasa a estudiar el sentido de la norma demandada, y se analizan los cargos de inconstitucionalidad, no se encuentra que la norma acusada tenga la naturaleza de una disposición tributaria, ni siquiera por vía de convalidación, por lo tanto habría una deficiencia insuperable en los cargos, ante lo cual se concluye que esta corporación no es competente para resolver divergencias interpretativas de orden legal o hermenéutico sobre el alcance de una determinada disposición legal, por lo tanto decide declararse Inhibida para pronunciarse sobre la constitucionalidad del aparte acusado.",
+  "titulaciones": [
+    {
+      "tema": "INHIBICION DE LA CORTE EN DEMANDA DE INCONSTITUCIONALIDAD DE INTERPRETACION JUDICIAL",
+      "subtema": null
+    },
+    {
+      "tema": "INHIBICION DE LA CORTE CONSTITUCIONAL EN DEMANDA CONTRA NORMA PRECONSTITUCIONAL DE ALCANCE INTERPRETATIVO",
+      "subtema": null
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD CONTRA NORMA PRECONSTITUCIONAL",
+      "subtema": "Parámetros de control constitucional por vicios de forma"
+    },
+    {
+      "tema": "INHIBICION DE LA CORTE CONSTITUCIONAL EN DEMANDA CONTRA NORMA PRECONSTITUCIONAL QUE ESTABLECE REGLA DE VIGENCIAS NORMATIVAS",
+      "subtema": "Ausencia de requisito de certeza"
+    },
+    {
+      "tema": "PRINCIPIO DE LEGALIDAD TRIBUTARIA",
+      "subtema": "Aplicación"
+    }
+  ]
+}

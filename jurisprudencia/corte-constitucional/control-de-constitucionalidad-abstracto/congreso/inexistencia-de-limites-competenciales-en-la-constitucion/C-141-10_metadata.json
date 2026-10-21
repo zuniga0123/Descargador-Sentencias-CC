@@ -1,0 +1,1020 @@
+{
+  "radicado": "C-141-10",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2010,
+  "fecha_creacion": "2010-02-26",
+  "magistrado_ponente": null,
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "CONGRESO",
+  "subtema": "Inexistencia de límites competenciales en la Constitución",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 134 de 1994",
+    "Ley 130 de 1994",
+    "Ley 1354 de 2009",
+    "Decreto 4742 de 2008",
+    "Ley 242 de 2008",
+    "Ley 489 de 1998",
+    "Acto Legislativo 1 de 2003",
+    "Ley 974 de 2005",
+    "Acto Legislativo 1 de 2009",
+    "Acto Legislativo 2 de 2004",
+    "Decreto 2067 de 1991",
+    "Acto Legislativo 3 de 1910",
+    "Ley 5 de 1992",
+    "Ley 996 de 2005",
+    "Ley 796 de 2003",
+    "Ley 152 de 1994",
+    "Ley 1021 de 2006",
+    "Ley 1152 de 2007",
+    "Ley 1151 de 2007",
+    "Ley 628 de 2000",
+    "Ley 819 de 2003",
+    "Acto Legislativo 1 de 2004",
+    "Ley 136 de 1994",
+    "Decreto 1010 de 2000",
+    "Decreto 895 de 2000",
+    "Ley 573 de 2000",
+    "Ley 754 de 2002",
+    "Ley 57 de 1985",
+    "Ley 403 de 1997",
+    "Ley 756 de 2003",
+    "Acto Legislativo 1 de 2008",
+    "Ley 796 de 2004",
+    "Acto Legislativo 1 de 1997",
+    "Decreto 4241 de 2005",
+    "Acto Legislativo 3 de 2002",
+    "Ley 365 de 1997",
+    "Acto Legislativo 1 de 2007",
+    "Ley 182 de 1995",
+    "Ley 335 de 1996",
+    "Ley 31 de 1992"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2010/C-141-10.htm",
+  "fecha_descarga": "2026-10-21T18:28:12.549757+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2010-02-26",
+  "fecha_publicacion": null,
+  "numero": "C-141/10",
+  "tipo_cc": "C",
+  "prov_id": "546",
+  "tema_relatoria": "LEY QUE CONVOCA A REFERENDO CONSTITUCIONAL SOBRE SEGUNDA REELECCION PRESIDENCIAL INMEDIATA",
+  "resumen": "Revisión de constitucionalidad de la Ley 1354 de 2009 “Por medio de la cual se convoca a un referendo constitucional y se somete a consideración del pueblo un proyecto de reforma constitucional”. La Corte se pronuncia sobre la competencia y la naturaleza del control ejercido por esta Corporación sobre la Ley 1354 de 2009, el respeto a las reglas procedimentales como un componente sustancial del modelo democrático, el trámite ante la organización electoral de la iniciativa legislativa ciudadana que dio origen a la Ley 1354 de 2009, el trámite en el Congreso de la República al proyecto de Ley 1354 de 2009, el examen del texto de la ley 1354 de 2009, la sustitución de la Constitución, se considera que una segunda reelección presidencial sustituye ejes estructurales de la Constitución Política y, la ley estudiada lo que busca es hacer posible una reforma constitucional que la instituya, por lo tanto vulnera la Carta y debe ser declarada INEXEQUIBLE en su totalidad.",
+  "titulaciones": [
+    {
+      "tema": "CONGRESO",
+      "subtema": "Inexistencia de límites competenciales en la Constitución"
+    },
+    {
+      "tema": "CONTROL DE CONSTITUCIONALIDAD DE DECRETO DE CONVOCATORIA A SESIONES EXTRAORDINARIAS",
+      "subtema": "Excepcionalidad"
+    },
+    {
+      "tema": "CONTROL DE CONSTITUCIONALIDAD DE LEY QUE CONVOCA A REFERENDO",
+      "subtema": "Financiación de la campaña de recolección de firmas de la iniciativa ciudadana para el referendo"
+    },
+    {
+      "tema": "CONTROL DE CONSTITUCIONALIDAD DE LEY QUE CONVOCA A REFERENDO",
+      "subtema": "Razones de discrepancia sobre el voto y transfuguismo de miembros de partido político"
+    },
+    {
+      "tema": "CONGRESO",
+      "subtema": "Inexistencia de límites al poder de reforma de la Constitución"
+    },
+    {
+      "tema": "CONTROL DE CONSTITUCIONALIDAD DE LEY QUE CONVOCA A REFERENDO POR VICIOS DE COMPETENCIA",
+      "subtema": "Competencia de la Corte Constitucional"
+    },
+    {
+      "tema": "CONTROL DE CONSTITUCIONALIDAD DE LEY QUE CONVOCA A REFERENDO",
+      "subtema": "Competencia de la Corte Constitucional"
+    },
+    {
+      "tema": "CONTROL DE CONSTITUCIONALIDAD DE LEY QUE CONVOCA A REFERENDO",
+      "subtema": "Limita e incluso anula el poder de reforma radicado en el pueblo soberano"
+    },
+    {
+      "tema": "CONTROL DE CONSTITUCIONALIDAD DE REFORMA CONSTITUCIONAL POR VICIOS DE COMPETENCIA",
+      "subtema": "Corresponde a un control de carácter político"
+    },
+    {
+      "tema": "CONTROL DE REFORMA CONSTITUCIONAL POR VICIOS DE SUSTITUCION DE LA CONSTITUCION",
+      "subtema": "Control subjetivo"
+    },
+    {
+      "tema": "CONGRESO",
+      "subtema": "Contenido normativo de la convocatoria a sesiones extraordinarias"
+    },
+    {
+      "tema": "CONSTITUCION POLITICA VIGENTE",
+      "subtema": "Expresión del poder constituyente originario"
+    },
+    {
+      "tema": "COMITE PROMOTOR DE REFORMA CONSTITUCIONAL",
+      "subtema": "Elección de vocero"
+    },
+    {
+      "tema": "COMITE PROMOTOR DE REFORMA CONSTITUCIONAL",
+      "subtema": "Usurpación de sus funciones constituye desconocimiento del legislador estatutario y principios constitucionales"
+    },
+    {
+      "tema": "CONVOCATORIA A SESIONES EXTRAORDINARIAS DEL CONGRESO",
+      "subtema": "No constituye un vicio su convocatoria cuando el Congreso aún esta sesionando de manera ordinaria"
+    },
+    {
+      "tema": "CORTE CONSTITUCIONAL",
+      "subtema": "Desconoció y desbordó los límites de su propia competencia, al emprender el control material de las leyes convocatorias al referendo y los actos reformatorios de la Constitución"
+    },
+    {
+      "tema": "CONTROL DE CONSTITUCIONALIDAD DE LEY QUE CONVOCA A REFERENDO",
+      "subtema": "Contradicciones en las que se incurre al negar el hecho de que la ley 1354 de 2009, efectivamente convocaba al pueblo a referendo"
+    },
+    {
+      "tema": "CONTROL DE CONSTITUCIONALIDAD DE LEY QUE CONVOCA A REFERENDO",
+      "subtema": "Régimen de bancadas y la competencia sancionatoria de los partidos políticos"
+    },
+    {
+      "tema": "CONTROL DE REFORMA CONSTITUCIONAL POR VICIOS DE SUSTITUCION DE LA CONSTITUCION",
+      "subtema": "Termina confundiéndose con un control material sobre el contenido de las disposiciones reformadas"
+    },
+    {
+      "tema": "CONTROL POR VICIOS DE COMPETENCIA",
+      "subtema": "Desconoce la inexistencia de límites al poder de reforma del Congreso"
+    },
+    {
+      "tema": "CONTROL DE CONSTITUCIONALIDAD DE LEY DE REFERENDO POR VICIOS DE SUSTITUCION DE LA CONSTITUCION",
+      "subtema": "Constituye un exceso en las atribuciones de la Corte Constitucional"
+    },
+    {
+      "tema": "CONTROL DE CONSTITUCIONALIDAD DE LEY DE REFERENDO POR VICIOS DE SUSTITUCION DE LA CONSTITUCION",
+      "subtema": "Implicaciones negativas de su ejercicio"
+    },
+    {
+      "tema": "CONTROL DE CONSTITUCIONALIDAD DE LEY QUE CONVOCA A REFERENDO CONSTITUCIONAL",
+      "subtema": "Tesis de los vicios de sustitución conlleva a un control material del acto reformatorio que desborda el alcance de la competencia de la Corte"
+    },
+    {
+      "tema": "CONTROL DE CONSTITUCIONALIDAD POR VICIOS DE SUSTITUCION",
+      "subtema": "Característica de rigidez de la Constitución"
+    },
+    {
+      "tema": "CONTROL DE LA LEY QUE CONVOCA A REFERENDO DE INICIATIVA POPULAR",
+      "subtema": "Control estricto de las reglas que rigen las actuaciones adelantadas"
+    },
+    {
+      "tema": "CONTROL DE REFORMA CONSTITUCIONAL POR VICIOS DE SUSTITUCION DE LA CONSTITUCION",
+      "subtema": "Control de carácter político"
+    },
+    {
+      "tema": "CONTROL POR VICIOS DE SUSTITUCION DE LA CONSTITUCION",
+      "subtema": "Contradice la naturaleza del control de constitucionalidad"
+    },
+    {
+      "tema": "CONVOCATORIA A SESIONES EXTRAORDINARIAS DEL CONGRESO",
+      "subtema": "Se predica del momento para el cual se convoca y no del momento en que se convoca"
+    },
+    {
+      "tema": "DEMOCRACIA",
+      "subtema": "Carácter reglado del modelo democrático"
+    },
+    {
+      "tema": "DEMOCRACIA",
+      "subtema": "Elemento estructural del nuevo orden"
+    },
+    {
+      "tema": "CERTIFICACION DEL REGISTRADOR SOBRE TOPES DE FINANCIACION DE LA CAMPAÑA",
+      "subtema": "Constituye un requisito de carácter sustancial para el trámite del proyecto de ley de iniciativa popular"
+    },
+    {
+      "tema": "CONSTITUCION POLITICA",
+      "subtema": "No consagra competencias diferenciales para el Congreso de la República en el trámite de las leyes"
+    },
+    {
+      "tema": "ELEGIBILIDAD, INELEGIBILIDAD E IRREELEGIBILIDAD",
+      "subtema": "Conceptos"
+    },
+    {
+      "tema": "MODIFICACIONES EN TRAMITE DE LEY DE REFERENDO EN EL CONGRESO DE LA REPUBLICA",
+      "subtema": "Reglas de identidad flexible y consecutividad"
+    },
+    {
+      "tema": "PRINCIPIO DE CONSECUTIVIDAD EN TRAMITE LEGISLATIVO DE PROYECTO DE LEY DE INICIATIVA POPULAR QUE CONVOCA A UN REFERENDO CONSTITUCIONAL",
+      "subtema": "Requisitos para su cumplimiento"
+    },
+    {
+      "tema": "PRINCIPIOS DE PLURALISMO POLITICO E IGUALDAD EN MECANISMOS DE PARTICIPACION CIUDADANA",
+      "subtema": "Se garantizan con la fijación de topes máximos a ingresos y gastos en las campañas"
+    },
+    {
+      "tema": "PRINCIPIO DE SUFICIENCIA ARGUMENTATIVA EN CONTROL DE CONSTITUCIONALIDAD DE LEY DE REFERENDO",
+      "subtema": "Cumplimiento"
+    },
+    {
+      "tema": "PRINCIPIO DE SEPARACION DE PODERES",
+      "subtema": "Elemento fundante de la Constitución de 1991"
+    },
+    {
+      "tema": "PRINCIPIO DE TRANSPARENCIA EN ACTOS ELECTORALES",
+      "subtema": "Contenido y alcance"
+    },
+    {
+      "tema": "PRINCIPIOS DE PLURALISMO POLITICO E IGUALDAD EN MECANISMOS DE PARTICIPACION CIUDADANA",
+      "subtema": "Contenido y alcance"
+    },
+    {
+      "tema": "PRINCIPIO DE LAS MAYORIAS EN PROCESO LEGISLATIVO",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "ENMIENDAS O MODIFICACIONES INTRODUCIDAS A PROYECTOS EN TRAMITE LEGISLATIVO",
+      "subtema": "Carácter formal y sustancial"
+    },
+    {
+      "tema": "LIBERTAD DEL ELECTOR EN LEY DE REFERENDO",
+      "subtema": "Exigencia de lealtad y claridad en la redacción del texto impone límites a la configuración legislativa"
+    },
+    {
+      "tema": "LEY DE CONVOCATORIA A REFERENDO",
+      "subtema": "Carencia de enunciado normativo constituye un vicio material"
+    },
+    {
+      "tema": "PROYECTO DE LEY DE INICIATIVA POPULAR DE REFERENDO PARA SEGUNDA REELECCION PRESIDENCIAL INMEDIATA",
+      "subtema": "Supuesta desviación de poder en trámite no constituye vicio de procedimiento"
+    },
+    {
+      "tema": "REFERENDO DE INICIATIVA LEGISLATIVA CIUDADANA",
+      "subtema": "No es sinónimo de democracia directa"
+    },
+    {
+      "tema": "REFORMA CONSTITUCIONAL ADOPTADA POR REFERENDO",
+      "subtema": "Sometida a dos fases de control jurídico"
+    },
+    {
+      "tema": "REGIMEN DE BANCADAS",
+      "subtema": "Excepción a la regla general"
+    },
+    {
+      "tema": "REGIMEN DE BANCADAS",
+      "subtema": "Reglas de funcionamiento"
+    },
+    {
+      "tema": "REFERENDO DE INICIATIVA LEGISLATIVA CIUDADANA",
+      "subtema": "Sujeto a controles"
+    },
+    {
+      "tema": "REGIMEN DE BANCADAS",
+      "subtema": "Sanción disciplinaria aplicada por Comité de Etica del Partido burlada por cambio de partido"
+    },
+    {
+      "tema": "REFERENDO",
+      "subtema": "Clases"
+    },
+    {
+      "tema": "REFERENDO",
+      "subtema": "Participación de la ciudadanía como poder constituido y no como constituyente primario"
+    },
+    {
+      "tema": "REFORMA DE LA CONSTITUCION MEDIANTE REFERENDO",
+      "subtema": "Requisitos"
+    },
+    {
+      "tema": "REGIMEN DE BANCADAS",
+      "subtema": "Régimen disciplinario aplicable"
+    },
+    {
+      "tema": "PRUEBA DE LA RESISTENCIA DEL VOTO EN PROYECTO DE LEY DE INICIATIVA POPULAR DE REFERENDO",
+      "subtema": "Aplicación conduce a la configuración de un vicio de procedimiento insubsanable"
+    },
+    {
+      "tema": "DEMOCRACIA CONSTITUCIONAL",
+      "subtema": "Modelo que preconiza límites a todo poder y procedimientos que garantizan la manifestación de una pluralidad"
+    },
+    {
+      "tema": "DEMOCRACIA",
+      "subtema": "Noción contemporánea"
+    },
+    {
+      "tema": "DEMOCRACIA PARTICIPATIVA Y PLURALISMO",
+      "subtema": "Características"
+    },
+    {
+      "tema": "DERECHO A LA IGUALDAD EN SEGUNDA REELECCION PRESIDENCIAL INMEDIATA",
+      "subtema": "Violación por referendo de carácter singular y particular"
+    },
+    {
+      "tema": "CORTE CONSTITUCIONAL",
+      "subtema": "Control ejercido sobre convocatoria de referendos constitucionales es reforzado"
+    },
+    {
+      "tema": "FACULTADES DEL CONGRESO PARA INTRODUCIR CAMBIOS EN LAS LEYES CONVOCATORIAS A REFERENDO",
+      "subtema": "Jurisprudencia constitucional"
+    },
+    {
+      "tema": "FORMA POLITICA",
+      "subtema": "Concepto"
+    },
+    {
+      "tema": "FORMULARIOS DE SUSCRIPCION DE APOYOS",
+      "subtema": "Elaboración y entrega a cargo de la Registraduría Nacional del Estado Civil"
+    },
+    {
+      "tema": "FORMA DE GOBIERNO",
+      "subtema": "Concepto"
+    },
+    {
+      "tema": "INICIATIVA LEGISLATIVA DE ORIGEN POPULAR EN TRAMITE DE LEY DE REFERENDO CONSTITUCIONAL",
+      "subtema": "Competencia de la Corte Constitucional"
+    },
+    {
+      "tema": "INICIATIVA LEGISLATIVA POPULAR",
+      "subtema": "Concepto"
+    },
+    {
+      "tema": "INICIATIVA LEGISLATIVA POPULAR",
+      "subtema": "Regulación de la campaña"
+    },
+    {
+      "tema": "INICIATIVA LEGISLATIVA DE ORIGEN POPULAR EN TRAMITE DE LEY DE REFERENDO CONSTITUCIONAL",
+      "subtema": "Objeto de investigación administrativa por el Consejo Nacional Electoral por irregularidades en su financiación"
+    },
+    {
+      "tema": "INICIATIVA LEGISLATIVA POPULAR",
+      "subtema": "Campaña sometida a límites en cuanto a su financiación"
+    },
+    {
+      "tema": "JUICIO DE SUSTITUCION DE LA CONSTITUCION",
+      "subtema": "Alcance respecto de la segunda reelección presidencial"
+    },
+    {
+      "tema": "JUICIO DE SUSTITUCION DE LA CONSTITUCION",
+      "subtema": "Metodología"
+    },
+    {
+      "tema": "JUICIO DE SUSTITUCION DE LA CONSTITUCION",
+      "subtema": "Conlleva el riesgo de petrificar determinados preceptos de la Constitución"
+    },
+    {
+      "tema": "JUICIO DE SUSTITUCION DE LA CONSTITUCION",
+      "subtema": "Metodología aplicada reafirma el carácter material del control que se ejercita"
+    },
+    {
+      "tema": "LAPSO ENTRE DEBATES EN TRAMITE LEGISLATIVO",
+      "subtema": "Reglas"
+    },
+    {
+      "tema": "LEY QUE CONVOCA A UN REFERENDO",
+      "subtema": "Control constitucional comprende etapas anteriores al trámite de la ley en el Congreso"
+    },
+    {
+      "tema": "JUICIO DE SUSTITUCION DE LA CONSTITUCION",
+      "subtema": "Características"
+    },
+    {
+      "tema": "JUICIO DE SUSTITUCION DE LA CONSTITUCION",
+      "subtema": "Constituye la máxima expresión del subjetivismo judicial"
+    },
+    {
+      "tema": "JUICIO DE SUSTITUCION DE LA CONSTITUCION",
+      "subtema": "No es un juicio de intangibilidad"
+    },
+    {
+      "tema": "LEY CONVOCATORIA A REFERENDO PARA SEGUNDA REELECCION PRESIDENCIAL",
+      "subtema": "Sustituye ejes estructurales de la Constitución Política"
+    },
+    {
+      "tema": "LEY DE CONVOCATORIA A REFERENDO",
+      "subtema": "Carácter singular y particular"
+    },
+    {
+      "tema": "LEY DE CONVOCATORIA A REFERENDO",
+      "subtema": "Inexequibilidad de pregunta de voto en blanco"
+    },
+    {
+      "tema": "LEY QUE CONVOCA A REFERENDO CONSTITUCIONAL",
+      "subtema": "Trámite en el Congreso"
+    },
+    {
+      "tema": "LEY QUE CONVOCA A REFERENDO",
+      "subtema": "Control automático de constitucionalidad"
+    },
+    {
+      "tema": "LEY QUE CONVOCA A UN REFERENDO",
+      "subtema": "Alcance del control de la Corte respecto del trámite de ley de convocatoria de iniciativa popular"
+    },
+    {
+      "tema": "IMPEDIMENTOS Y RECUSACIONES DE CONGRESISTAS EN PROYECTO DE LEY DE INICIATIVA POPULAR DE REFERENDO PARA SEGUNDA REELECCION PRESIDENCIAL INMEDIATA",
+      "subtema": "Declaración por parte de uno o varios miembros del congreso resulta indiferente en análisis de exequibilidad"
+    },
+    {
+      "tema": "INICIATIVA LEGISLATIVA POPULAR",
+      "subtema": "Justificación de la exigencia de topes individuales y globales a la financiación privada"
+    },
+    {
+      "tema": "PODER CONSTITUYENTE ORIGINARIO Y PODER CONSTITUYENTE DERIVADO",
+      "subtema": "Conceptos y características"
+    },
+    {
+      "tema": "PRESIDENTE DE LA REPUBLICA",
+      "subtema": "Duración del periodo presidencial en la historia constitucional colombiana"
+    },
+    {
+      "tema": "PODER DE REFORMA DE LA CONSTITUCION",
+      "subtema": "Inexistencia de límites materiales"
+    },
+    {
+      "tema": "PRESENTACION DE INICIATIVA LEGISLATIVA DE ORIGEN POPULAR ANTE EL CONGRESO",
+      "subtema": "Requisitos y trámite"
+    },
+    {
+      "tema": "PRECEDENTE CONSTITUCIONAL",
+      "subtema": "Aplicación"
+    },
+    {
+      "tema": "PRINCIPIOS DE IDENTIDAD Y CONSECUTIVIDAD EN LEY DE INICIATIVA POPULAR QUE CONVOCA A REFERENDO",
+      "subtema": "Desconocimiento acarrea un vicio insubsanable"
+    },
+    {
+      "tema": "PRINCIPIO DE PUBLICIDAD EN PROCESO LEGISLATIVO",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "PRINCIPIO DE TRANSPARENCIA EN CAMPAÑA DE INICIATIVA LEGISLATIVA POPULAR",
+      "subtema": "Vulneración por maniobras del Comité de Promotores del Referendo"
+    },
+    {
+      "tema": "PROYECTO DE LEY DE INICIATIVA POPULAR QUE CONVOCA A UN REFERENDO CONSTITUCIONAL",
+      "subtema": "Trámite ordinario salvo el requisito de su aprobación por la mayoría de los miembros de una y otra cámara"
+    },
+    {
+      "tema": "PRINCIPIO DEMOCRATICO EN TRAMITE LEGISLATIVO",
+      "subtema": "Manifestación"
+    },
+    {
+      "tema": "PRUEBA DE LA RESISTENCIA DEL VOTO",
+      "subtema": "Concepto"
+    },
+    {
+      "tema": "REQUISITO DE ANUNCIO PREVIO DE VOTACION EN TRAMITE LEGISLATIVO",
+      "subtema": "Finalidad"
+    },
+    {
+      "tema": "REQUISITO DE ANUNCIO PREVIO DE VOTACION EN TRAMITE LEGISLATIVO",
+      "subtema": "Inexistencia de vicio, cuando a pesar de la ruptura de la cadena de anuncios, en sesión anterior a la de aprobación del proyecto, éste fue anunciado para votación"
+    },
+    {
+      "tema": "SEGUNDA REELECCION PRESIDENCIAL INMEDIATA",
+      "subtema": "Concentración del poder"
+    },
+    {
+      "tema": "SEGUNDA REELECCION PRESIDENCIAL INMEDIATA",
+      "subtema": "Vulnera el principio de separación de poderes"
+    },
+    {
+      "tema": "SOLICITUD DE INICIATIVA POPULAR",
+      "subtema": "Requisitos"
+    },
+    {
+      "tema": "SUSTITUCION DE LA CONSTITUCION",
+      "subtema": "Criterios jurisprudenciales en torno al concepto"
+    },
+    {
+      "tema": "TRAMITE LEGISLATIVO DE PROYECTO DE LEY DE INICIATIVA POPULAR QUE CONVOCA A UN REFERENDO CONSTITUCIONAL",
+      "subtema": "Irregularidades encontradas"
+    },
+    {
+      "tema": "REFERENDO DE INICIATIVA LEGISLATIVA CIUDADANA",
+      "subtema": "Vía de reforma de la Constitución"
+    },
+    {
+      "tema": "REFERENDO",
+      "subtema": "Manifestación del poder constituyente derivado"
+    },
+    {
+      "tema": "RUPTURA O QUEBRANTAMIENTO DE LA CONSTITUCION",
+      "subtema": "Efecto de la reelección presidencial por una sola vez"
+    },
+    {
+      "tema": "SOBERANIA NACIONAL",
+      "subtema": "Concepto"
+    },
+    {
+      "tema": "RUPTURA O QUEBRANTAMIENTO DE LA CONSTITUCION",
+      "subtema": "Concepto"
+    },
+    {
+      "tema": "SEGUNDA REELECCION PRESIDENCIAL INMEDIATA",
+      "subtema": "Fortalece el poder nominador del ejecutivo con incidencia directa en el sistema de frenos y contrapesos"
+    },
+    {
+      "tema": "SEGUNDA REELECCION PRESIDENCIAL INMEDIATA",
+      "subtema": "Altera el perfil de un sistema presidencial"
+    },
+    {
+      "tema": "SISTEMA PRESIDENCIAL DE GOBIERNO",
+      "subtema": "Afianzamiento con la Constitución de 1991"
+    },
+    {
+      "tema": "VOTO EN BLANCO EN REFERENDO CONSTITUCIONAL",
+      "subtema": "Inexequible por cuanto la Constitución Política sólo prevé voto afirmativo o negativo"
+    },
+    {
+      "tema": "VERIFICACION DE REQUISITOS DE APOYO A INICIATIVA LEGISLATIVA",
+      "subtema": "Trámite de certificación por la Registraduría"
+    },
+    {
+      "tema": "VERIFICACION DEL CUMPLIMIENTO DE REQUISITOS E INSCRIPCION DE SOLICITUD DE INICIATIVA CIUDADANA",
+      "subtema": "Trámite y procedimiento en la Registraduría"
+    },
+    {
+      "tema": "TITULO DE LEY",
+      "subtema": "No configura norma con eficacia jurídica"
+    },
+    {
+      "tema": "CLAUSULA GENERAL DE COMPETENCIA LEGISLATIVA",
+      "subtema": "Facultad de enmienda limitada en proyecto de ley de iniciativa popular"
+    },
+    {
+      "tema": "COMISIÓN ACCIDENTAL DE CONCILIACIÓN EN TRÁMITE LEGISLATIVO DE PROYECTOS DE LEY",
+      "subtema": "Atribuciones"
+    },
+    {
+      "tema": "COMISIÓN ACCIDENTAL DE CONCILIACIÓN EN TRÁMITE LEGISLATIVO DE PROYECTOS DE LEY",
+      "subtema": "Integración"
+    },
+    {
+      "tema": "COMISIÓN ACCIDENTAL DE CONCILIACIÓN EN TRÁMITE LEGISLATIVO DE PROYECTOS DE LEY",
+      "subtema": "Alcance de la facultad"
+    },
+    {
+      "tema": "COMITE PROMOTOR DE REFORMA CONSTITUCIONAL",
+      "subtema": "Indeterminación del plazo para su inscripción"
+    },
+    {
+      "tema": "COMITE PROMOTOR DE REFORMA CONSTITUCIONAL",
+      "subtema": "Funciones y gestiones a cargo del Comité son intransferibles e indelegables"
+    },
+    {
+      "tema": "COMITE PROMOTOR DE REFORMA CONSTITUCIONAL",
+      "subtema": "Conformación"
+    },
+    {
+      "tema": "CERTIFICACION DEL REGISTRADOR SOBRE TOPES DE FINANCIACION DE LA CAMPAÑA EN PROYECTO DE LEY DE INICIATIVA POPULAR",
+      "subtema": "Ausencia en trámite legislativo afecta la validez del trámite"
+    },
+    {
+      "tema": "CERTIFICACION DEL REGISTRADOR SOBRE TOPES DE FINANCIACION DE LA CAMPAÑA",
+      "subtema": "Carencia en trámite del proyecto de ley de iniciativa popular constituye un vicio de procedimiento insubsanable"
+    },
+    {
+      "tema": "DEMOCRACIA PARTICIPATIVA",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "DEMOCRACIA",
+      "subtema": "Principio jurídico fundante del Estado constitucional"
+    },
+    {
+      "tema": "CONTROL “JURIDICO” DE CONSTITUCIONALIDAD DE LAS REFORMAS CONSTITUCIONALES",
+      "subtema": "Basado en límites normativos internacionales al poder constituyente expresivo del poder soberano"
+    },
+    {
+      "tema": "CONSTITUCION DE 1991",
+      "subtema": "Institucionalizó al pueblo como titular de la soberanía pero para su ejercicio le estableció cauces precisos"
+    },
+    {
+      "tema": "CONSTITUCION POLITICA VIGENTE",
+      "subtema": "Límites al poder de reforma constitucional"
+    },
+    {
+      "tema": "CONSTITUCION POLITICA VIGENTE",
+      "subtema": "Interpretación sistemática teniendo en cuenta además los propósitos del Constituyente"
+    },
+    {
+      "tema": "CONTROL DE CONSTITUCIONALIDAD DE LEY QUE CONVOCA A REFERENDO",
+      "subtema": "Incompetencia de la Corte Constitucional para analizar la constitucionalidad del mecanismo de iniciativa legislativa ciudadana"
+    },
+    {
+      "tema": "CONTROL DE CONSTITUCIONALIDAD DE LEY QUE CONVOCA A REFERENDO",
+      "subtema": "Razones de discrepancia sobre sesiones extraordinarias del Congreso de la República"
+    },
+    {
+      "tema": "CONTROL DE CONSTITUCIONALIDAD DE LEY DE REFERENDO POR VICIOS DE SUSTITUCION DE LA CONSTITUCION",
+      "subtema": "Constituye una inaceptable ampliación al alcance de la competencia de la Corte Constitucional"
+    },
+    {
+      "tema": "CONTROL DE CONSTITUCIONALIDAD DE LEY QUE CONVOCA A REFERENDO",
+      "subtema": "No hubo incumplimiento de los requisitos de identidad flexible y consecutividad en el trámite legislativo"
+    },
+    {
+      "tema": "CONTROL DE CONSTITUCIONALIDAD DE LEY DE CONVOCATORIA A REFERENDO",
+      "subtema": "Competencia de la Corte Constitucional solo por vicios de procedimiento"
+    },
+    {
+      "tema": "CONTROL DE CONSTITUCIONALIDAD DE LEY DE REFERENDO POR VICIOS DE SUSTITUCION DE LA CONSTITUCION",
+      "subtema": "Constituye una ampliación al alcance de la competencia de la Corte Constitucional"
+    },
+    {
+      "tema": "CONTROL DE CONSTITUCIONALIDAD DE LEY QUE CONVOCA A REFERENDO",
+      "subtema": "Razones de discrepancia sobre vigencia de la sanción al momento de la votación"
+    },
+    {
+      "tema": "CONTROL POR VICIOS DE COMPETENCIA DE LA CONSTITUCION",
+      "subtema": "Contradice la naturaleza del control de constitucionalidad"
+    },
+    {
+      "tema": "CONTROL DE CONSTITUCIONALIDAD DE LEY DE REFERENDO POR VICIOS DE SUSTITUCION DE LA CONSTITUCION",
+      "subtema": "Desconoce el poder de reforma previsto en la misma Constitución"
+    },
+    {
+      "tema": "CONTROL DE CONSTITUCIONALIDAD DE LEY QUE CONVOCA A REFERENDO",
+      "subtema": "Cambios introducidos al texto no introducen temas nuevos ni alejados de la iniciativa ciudadana"
+    },
+    {
+      "tema": "CONTROL JURIDICO Y CONTROL POLITICO",
+      "subtema": "Diferencias"
+    },
+    {
+      "tema": "CONTROL POR VICIOS DE SUSTITUCION DE LA CONSTITUCION",
+      "subtema": "Configura un control de contenido"
+    },
+    {
+      "tema": "INICIATIVA LEGISLATIVA DE ORIGEN POPULAR EN TRAMITE DE LEY DE REFERENDO CONSTITUCIONAL",
+      "subtema": "Irregularidades presentadas violan principios de transparencia y respeto del pluralismos político del elector"
+    },
+    {
+      "tema": "INICIATIVA LEGISLATIVA DE ORIGEN POPULAR",
+      "subtema": "Procesos que comprende"
+    },
+    {
+      "tema": "INICIATIVA LEGISLATIVA DE REFERENDO REFORMATORIO DE LA CONSTITUCION",
+      "subtema": "Presentación"
+    },
+    {
+      "tema": "INICIATIVA LEGISLATIVA POPULAR DE REFERENDO CONSTITUCIONAL",
+      "subtema": "Constituyen dos campañas sometidas a regulaciones diferentes en materia de financiación"
+    },
+    {
+      "tema": "INSCRIPCION DEL COMITE PROMOTOR ANTE LA REGISTRADURIA NACIONAL DEL ESTADO CIVIL",
+      "subtema": "Requisitos"
+    },
+    {
+      "tema": "INICIATIVA LEGISLATIVA DE ORIGEN POPULAR EN TRAMITE DE LEY DE REFERENDO CONSTITUCIONAL",
+      "subtema": "Ejercicio de control constitucional no desplaza otros controles"
+    },
+    {
+      "tema": "INICIATIVA LEGISLATIVA DE ORIGEN POPULAR",
+      "subtema": "Marco normativo de su trámite ante la Organización Electoral"
+    },
+    {
+      "tema": "INICIATIVA LEGISLATIVA DE REFERENDO REFORMATORIO DE LA CONSTITUCION",
+      "subtema": "Legitimación"
+    },
+    {
+      "tema": "INICIATIVA LEGISLATIVA POPULAR",
+      "subtema": "Inicio y culminación de la campaña"
+    },
+    {
+      "tema": "JUICIO DE SUSTITUCION DE LA CONSTITUCION",
+      "subtema": "No es un juicio de violación de contenido material de la Constitución"
+    },
+    {
+      "tema": "JUICIO DE SUSTITUCION DE LA CONSTITUCION",
+      "subtema": "Situaciones inaceptables que se derivan de su aplicación"
+    },
+    {
+      "tema": "PARTIDOS, ORGANIZACIONES Y MOVIMIENTOS POLITICOS",
+      "subtema": "Constituyen una faceta institucional del pluralismo"
+    },
+    {
+      "tema": "MODIFICACIONES SUSTANCIALES O ACCESORIAS DE REFORMA CONSTITUCIONAL",
+      "subtema": "Consecuencias"
+    },
+    {
+      "tema": "PODER DE REFORMA DE LA CONSTITUCION",
+      "subtema": "Titulares"
+    },
+    {
+      "tema": "PODER DE REFORMA O PODER CONSTITUYENTE DERIVADO",
+      "subtema": "Capacidad de ciertos órganos del Estado de modificar una Constitución existente"
+    },
+    {
+      "tema": "PRINCIPIO DE CONSECUTIVIDAD E IDENTIDAD FLEXIBLE EN TRAMITE LEGISLATIVO",
+      "subtema": "Jurisprudencia constitucional"
+    },
+    {
+      "tema": "PRINCIPIO DE IDENTIDAD EN TRAMITE LEGISLATIVO DE PROYECTO DE LEY DE INICIATIVA POPULAR QUE CONVOCA A UN REFERENDO CONSTITUCIONAL",
+      "subtema": "Mayor rigor"
+    },
+    {
+      "tema": "PRINCIPIO DEMOCRATICO EN TRAMITE LEGISLATIVO",
+      "subtema": "Principios básicos"
+    },
+    {
+      "tema": "PRINCIPIOS DE IDENTIDAD Y CONSECUTIVIDAD EN LEY DE INICIATIVA POPULAR QUE CONVOCA A REFERENDO",
+      "subtema": "Vulnerados por cambio de pregunta en el Congreso a la planteada en la iniciativa popular"
+    },
+    {
+      "tema": "PRINCIPIO DEMOCRATICO EN TRAMITE LEGISLATIVO",
+      "subtema": "Principios que lo integran en la actividad congresual"
+    },
+    {
+      "tema": "PRINCIPIO DE SEPARACION DE PODERES",
+      "subtema": "Aplicación"
+    },
+    {
+      "tema": "PRINCIPIO DE SEPARACION DE PODERES",
+      "subtema": "Estimula el ejercicio del poder limitado y evita su concentración"
+    },
+    {
+      "tema": "PRINCIPIO DE SEPARACION DE PODERES",
+      "subtema": "Sistema de frenos y contrapesos"
+    },
+    {
+      "tema": "PRINCIPIO DE SEPARACIÓN DE PODERES PÚBLICOS",
+      "subtema": "Finalidad"
+    },
+    {
+      "tema": "PRINCIPIO DE PLURALISMO POLITICO EN PROCESO LEGISLATIVO",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "LIBERTAD DEL ELECTOR EN LEY DE CONVOCATORIA A REFERENDO",
+      "subtema": "Reiteración de criterios fijados en sentencia de constitucionalidad"
+    },
+    {
+      "tema": "ENMIENDAS O MODIFICACIONES A PROYECTO DE LEY DE INICIATIVA POPULAR QUE CONVOCA A UN REFERENDO CONSTITUCIONAL",
+      "subtema": "Improcedencia respecto de aquellas que cambien el sentido de lo apoyado por los ciudadanos"
+    },
+    {
+      "tema": "ENMIENDAS O MODIFICACIONES INTRODUCIDAS A PROYECTOS EN TRAMITE LEGISLATIVO",
+      "subtema": "Condiciones de Procedencia"
+    },
+    {
+      "tema": "LEY DE CONVOCATORIA A REFERENDO",
+      "subtema": "Carece de contenido normativo autónomo"
+    },
+    {
+      "tema": "LEY DE CONVOCATORIA A REFERENDO",
+      "subtema": "Límites a preguntas que se formulan por exigencia de lealtad y claridad"
+    },
+    {
+      "tema": "LEY QUE CONVOCA A REFERENDO DE INICIATIVA POPULAR",
+      "subtema": "Combinación de formas de democracia representativa y democracia participativa"
+    },
+    {
+      "tema": "LEY QUE CONVOCA A UN REFERENDO",
+      "subtema": "Características del control de constitucionalidad"
+    },
+    {
+      "tema": "LIMITES Y FACULTADES DEL CONGRESO DE LA REPUBLICA FRENTE A INICIATIVAS ENCAMINADAS A PROMULGACION DE LEY CONVOCATORIA A REFERENDO",
+      "subtema": "Precedente vinculante"
+    },
+    {
+      "tema": "LEY DE CONVOCATORIA A REFERENDO",
+      "subtema": "Naturaleza del control ejercido por la Corte Constitucional"
+    },
+    {
+      "tema": "LEY DE REFERENDO",
+      "subtema": "Parámetros de control"
+    },
+    {
+      "tema": "LEY QUE CONVOCA A UN REFERENDO",
+      "subtema": "Alcance del control de la Corte"
+    },
+    {
+      "tema": "PROCEDIMIENTO LEGISLATIVO",
+      "subtema": "Principios por los que se rige"
+    },
+    {
+      "tema": "PRINCIPIO DE PUBLICIDAD EN CONVOCATORIA A SESIONES EXTRAORDINARIAS DEL CONGRESO",
+      "subtema": "Vulneración por publicación de decreto de convocatoria con posterioridad al inicio de sesiones"
+    },
+    {
+      "tema": "PRINCIPIO DE SEPARACION DE PODERES",
+      "subtema": "Modelos"
+    },
+    {
+      "tema": "RECOLECCION DE FIRMAS",
+      "subtema": "Plazo"
+    },
+    {
+      "tema": "PROYECTO DE LEY DE INICIATIVA POPULAR DE REFERENDO PARA SEGUNDA REELECCION PRESIDENCIAL INMEDIATA",
+      "subtema": "Requisito de plena prueba para que vicios de la voluntad tengan consecuencias en juicio de constitucionalidad"
+    },
+    {
+      "tema": "PRINCIPIOS DE IDENTIDAD Y CONSECUTIVIDAD EN LEY DE INICIATIVA POPULAR QUE CONVOCA A REFERENDO",
+      "subtema": "Inexistencia de precedente aplicable"
+    },
+    {
+      "tema": "PRINCIPIOS DE PLURALISMO POLITICO E IGUALDAD EN CAMPAÑA DE INICIATIVA LEGISLATIVA POPULAR",
+      "subtema": "Vulneración por excesos tanto en los topes individuales como globales de la campaña"
+    },
+    {
+      "tema": "DOCTRINA Y JURISPRUDENCIA CONSTITUCIONAL",
+      "subtema": "Distinción entre poder constituyente en sentido estricto y poder de reforma"
+    },
+    {
+      "tema": "DECRETO DE CONVOCATORIA A SESIONES EXTRAORDINARIAS",
+      "subtema": "Naturaleza"
+    },
+    {
+      "tema": "FORMA DE GOBIERNO REPUBLICANA",
+      "subtema": "Características"
+    },
+    {
+      "tema": "FORMULARIOS DE SUSCRIPCION DE APOYOS",
+      "subtema": "Contenido"
+    },
+    {
+      "tema": "INICIATIVA LEGISLATIVA DE ORIGEN POPULAR",
+      "subtema": "Características"
+    },
+    {
+      "tema": "INICIATIVA LEGISLATIVA DE REFERENDO PARA SEGUNDA REELECCION PRESIDENCIAL INMEDIATA",
+      "subtema": "Financiación de la campaña tiene relevancia constitucional"
+    },
+    {
+      "tema": "LEY DE REFERENDO",
+      "subtema": "Control ejercido por la Corte Constitucional es posterior a la sanción y promulgación"
+    },
+    {
+      "tema": "LEY DE REFERENDO",
+      "subtema": "Examen de la Corte no excluye estudio de eventuales vicios de competencia"
+    },
+    {
+      "tema": "LEY ESTATUTARIA",
+      "subtema": "Asuntos sujetos a su trámite"
+    },
+    {
+      "tema": "LEY ESTATUTARIA",
+      "subtema": "Leyes reforzadas por su vocación de permanencia"
+    },
+    {
+      "tema": "LEY DE REFERENDO",
+      "subtema": "Restricción del artículo 379 C.P. no implica que la Corte no tome en consideración otras normas constitucionales"
+    },
+    {
+      "tema": "LEY QUE CONVOCA A UN REFERENDO",
+      "subtema": "Alcance del control de la Corte en tratándose de un acto jurídico complejo"
+    },
+    {
+      "tema": "PRESIDENTE DE LA REPUBLICA",
+      "subtema": "Importancia de un período presidencial fijo"
+    },
+    {
+      "tema": "PRESIDENTE DE LA REPUBLICA",
+      "subtema": "Periodo presidencial"
+    },
+    {
+      "tema": "PRESIDENTE DE LA REPUBLICA",
+      "subtema": "Posibilidad de reelección por una sola vez"
+    },
+    {
+      "tema": "PODER CONSTITUYENTE ORIGINARIO",
+      "subtema": "Actos son fundacionales y por ello escapan al control jurisdiccional"
+    },
+    {
+      "tema": "PODER DE REFORMA O PODER CONSTITUYENTE DERIVADO",
+      "subtema": "Establecido por la Constitución bajo condiciones fijadas por ella misma"
+    },
+    {
+      "tema": "REQUISITO DE ANUNCIO PREVIO DE VOTACION EN TRAMITE LEGISLATIVO",
+      "subtema": "Reglas por las que se rige"
+    },
+    {
+      "tema": "SEGUNDA REELECCION PRESIDENCIAL INMEDIATA",
+      "subtema": "Sustituye el principio de alternación en el poder político"
+    },
+    {
+      "tema": "REGIMEN POLITICO",
+      "subtema": "Concepto"
+    },
+    {
+      "tema": "REFERENDO",
+      "subtema": "Constituye un mecanismo de reforma de la Constitución sujeto a controles judiciales"
+    },
+    {
+      "tema": "REGIMEN DE BANCADAS",
+      "subtema": "Fundamento normativo"
+    },
+    {
+      "tema": "SEGUNDA REELECCION PRESIDENCIAL INMEDIATA",
+      "subtema": "Configura una sustitución de la constitución"
+    },
+    {
+      "tema": "PROYECTO DE LEY DE INICIATIVA POPULAR QUE CONVOCA A UN REFERENDO CONSTITUCIONAL",
+      "subtema": "Procedimiento legislativo a que está sometido"
+    },
+    {
+      "tema": "REFORMA DE LA CONSTITUCION",
+      "subtema": "Mecanismos"
+    },
+    {
+      "tema": "REGIMEN DE BANCADAS",
+      "subtema": "Elementos esenciales que lo caracterizan"
+    },
+    {
+      "tema": "REELECCION PRESIDENCIAL",
+      "subtema": "Jurisprudencia constitucional"
+    },
+    {
+      "tema": "PROYECTO DE LEY DE INICIATIVA POPULAR DE REFERENDO PARA SEGUNDA REELECCION PRESIDENCIAL INMEDIATA",
+      "subtema": "Forma como se votaron los impedimentos de los Congresistas no afecta la validez del trámite"
+    },
+    {
+      "tema": "SOLICITUD DE INICIATIVA POPULAR",
+      "subtema": "Desistimiento"
+    },
+    {
+      "tema": "TEORIA DE LA SUSTITUCION DE LA CONSTITUCION",
+      "subtema": "Contradicciones"
+    },
+    {
+      "tema": "SISTEMA PRESIDENCIAL DE GOBIERNO Y PRESIDENCIALISMO",
+      "subtema": "Diferencias"
+    },
+    {
+      "tema": "CONTROL DE CONSTITUCIONALIDAD DE LEY DE REFERENDO",
+      "subtema": "Aplicación del precedente constituido por la sentencia C-551/03"
+    },
+    {
+      "tema": "VOTACIONES EN TRAMITE LEGISLATIVO DE PROYECTO DE LEY DE INICIATIVA POPULAR QUE CONVOCA A UN REFERENDO CONSTITUCIONAL",
+      "subtema": "Requisitos de aprobación por mayoría de miembros de ambas Cámaras y votación nominal"
+    },
+    {
+      "tema": "VOTO EN BLANCO EN REFERENDO CONSTITUCIONAL",
+      "subtema": "Contraría exigencia de lealtad y claridad"
+    },
+    {
+      "tema": "TRANSFUGUISMO POLITICO",
+      "subtema": "Maniobra para escapar del poder disciplinario de bancada"
+    },
+    {
+      "tema": "VERIFICACION DE REQUISITOS DE APOYO A INICIATIVA LEGISLATIVA DE REFERENDO",
+      "subtema": "Reducir a una sola la certificación a cargo de la Registraduría negaría efecto útil a disposición de rango estatutario"
+    },
+    {
+      "tema": "SUSTITUCION DE LA CONSTITUCION",
+      "subtema": "Concepto no acabado"
+    },
+    {
+      "tema": "SUSTITUCION DE LA CONSTITUCION",
+      "subtema": "Metodología del examen"
+    },
+    {
+      "tema": "TRAMITE LEGISLATIVO DE LEY DE INICIATIVA POPULAR QUE CONVOCA A REFERENDO CONSTITUCIONAL",
+      "subtema": "Irregularidades configuraron vicios que afectan la constitucionalidad de la ley"
+    },
+    {
+      "tema": "TRAMITE LEGISLATIVO DE PROYECTO DE LEY DE INICIATIVA POPULAR DE REFERENDO",
+      "subtema": "Cambio de pregunta por el Congreso constituye un vicio de procedimiento por extralimitación en la facultad de enmienda"
+    },
+    {
+      "tema": "TRAMITE LEGISLATIVO DE PROYECTO DE LEY DE INICIATIVA POPULAR",
+      "subtema": "Cambio de pregunta por el Congreso de la República modificó el sentido de la iniciativa popular y cambió su esencia"
+    },
+    {
+      "tema": "VERIFICACION DE REQUISITOS DE APOYO A INICIATIVA LEGISLATIVA DE REFERENDO",
+      "subtema": "Aspectos que comprenden las dos certificaciones que expide la Registraduría"
+    },
+    {
+      "tema": "VOTO EN BLANCO EN REFERENDO CONSTITUCIONAL",
+      "subtema": "Afecta la libertad del elector"
+    },
+    {
+      "tema": "REFERENDO CONSTITUCIONAL DE INICIATIVA POPULAR",
+      "subtema": "Etapas que deben surtirse de manera sucesiva"
+    },
+    {
+      "tema": "REFERENDO",
+      "subtema": "Acto complejo"
+    },
+    {
+      "tema": "REFERENDO",
+      "subtema": "Concepto"
+    },
+    {
+      "tema": "SISTEMA DE GOBIERNO",
+      "subtema": "Concepto"
+    },
+    {
+      "tema": "SEGUNDA REELECCION PRESIDENCIAL INMEDIATA",
+      "subtema": "Participación del Presidente de la República en elección de altos dignatarios del Estado"
+    },
+    {
+      "tema": "SENTENCIA INTEGRADORA EN LEY DE CONVOCATORIA A REFERENDO",
+      "subtema": "Improcedencia"
+    },
+    {
+      "tema": "SOBERANIA POPULAR",
+      "subtema": "Concepto"
+    },
+    {
+      "tema": "SESIONES EXTRAORDINARIAS DEL CONGRESO",
+      "subtema": "Efectos cuando se realizan sin los requisitos constitucionales y reglamentarios"
+    }
+  ]
+}

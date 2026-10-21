@@ -1,0 +1,65 @@
+{
+  "radicado": "C-399-10",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2010,
+  "fecha_creacion": "2010-05-26",
+  "magistrado_ponente": "Dra MARÍA VICTORIA CALLE CORREA",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "DECRETO LEGISLATIVO DE ESTADO DE EMERGENCIA SOCIAL",
+  "subtema": "Aplicación de efectos retroactivos del fallo desde el nacimiento de la norma",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 4975 de 2009",
+    "Decreto 73 de 2010",
+    "Decreto 2067 de 1991",
+    "Ley 137 de 1994",
+    "Decreto 4976 de 2009",
+    "Ley 715 de 2001",
+    "Decreto 1636 de 2006",
+    "Decreto 127 de 2010",
+    "Ley 270 de 1996"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2010/C-399-10.htm",
+  "fecha_descarga": "2026-10-21T18:24:34.431323+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2010-05-26",
+  "fecha_publicacion": null,
+  "numero": "C-399/10",
+  "tipo_cc": "C",
+  "prov_id": "870",
+  "tema_relatoria": "INCONSTITUCIONALIDAD POR CONSECUENCIA DE DECRETO LEGISLATIVO DE ESTADO DE EMERGENCIA SOCIAL",
+  "resumen": "Revisión de constitucionalidad del Decreto 073 de 2010, “por el cual se expiden medidas excepcionales con el fin de liberar recursos de los saldos excedentes del situado fiscal y del sistema general de participaciones –Aportes Patronales que permitan financiar la atención a la población pobre no asegurada y los eventos no cubiertos por el plan obligatorio de salud del régimen subsidiado, y se dictan otras disposiciones”. La Corte declara la inexequibilidad por consecuencia, debido a que mediante la sentencia C-252 de 2010, se declaró la inexequibilidad del Decreto 4975 de 2009 en el cual se declaró estado de emergencia económica y social.",
+  "titulaciones": [
+    {
+      "tema": "DECRETO LEGISLATIVO DE ESTADO DE EMERGENCIA SOCIAL",
+      "subtema": "Aplicación de efectos retroactivos del fallo desde el nacimiento de la norma"
+    },
+    {
+      "tema": "INCONSTITUCIONALIDAD POR CONSECUENCIA DE DECRETO LEGISLATIVO DE ESTADO DE EMERGENCIA SOCIAL",
+      "subtema": "Efectos retroactivos"
+    },
+    {
+      "tema": "INCONSTITUCIONALIDAD POR CONSECUENCIA DE DECRETO LEGISLATIVO DE ESTADO DE EMERGENCIA SOCIAL",
+      "subtema": "Medidas para liberar recursos de saldos excedentes del situado fiscal y del sistema general de participaciones"
+    },
+    {
+      "tema": "SENTENCIA DE INCONSTITUCIONALIDAD SIN EFECTOS DIFERIDOS",
+      "subtema": "Norma no genera rentas de origen tributario"
+    },
+    {
+      "tema": "SENTENCIA DE INEXEQUIBILIDAD POR CONSECUENCIA",
+      "subtema": "Improcedencia de la modulación de efectos temporales"
+    },
+    {
+      "tema": "SENTENCIA DE LA CORTE CONSTITUCIONAL",
+      "subtema": "Modulación de efectos"
+    },
+    {
+      "tema": "INCONSTITUCIONALIDAD POR CONSECUENCIA",
+      "subtema": "Configuración"
+    }
+  ]
+}
