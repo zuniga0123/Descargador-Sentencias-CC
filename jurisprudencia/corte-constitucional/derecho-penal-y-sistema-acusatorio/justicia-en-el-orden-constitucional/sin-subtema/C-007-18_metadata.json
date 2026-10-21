@@ -1,0 +1,768 @@
+{
+  "radicado": "C-007-18",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2018,
+  "fecha_creacion": "2018-03-01",
+  "magistrado_ponente": null,
+  "area": "Derecho Penal y Sistema Acusatorio",
+  "tema": "JUSTICIA EN EL ORDEN CONSTITUCIONAL",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 1820 de 2016",
+    "Decreto 2067 de 1991",
+    "Decreto 121 de 2017",
+    "Acto Legislativo 1 de 2016",
+    "Decreto 2052 de 2016",
+    "Acto Legislativo 1 de 2012",
+    "Acto Legislativo 1 de 2017",
+    "Acto Legislativo 2 de 2017",
+    "Ley 1448 de 2011",
+    "Ley 599 de 2000",
+    "Acto Legislativo 2 de 2012",
+    "Acto Legislativo 3 de 2003",
+    "Ley 1 de 2016",
+    "Acto Legislativo 1 de 2003",
+    "Ley 65 de 1993",
+    "Ley 975 de 2005",
+    "Ley 1448 de 2014",
+    "Ley 418 de 1997",
+    "Ley 1098 de 2006",
+    "Ley 1806 de 2016",
+    "Ley 137 de 1994",
+    "Ley 906 de 2004",
+    "Ley 600 de 2000",
+    "Decreto 277 de 2017",
+    "Decreto Ley 588 de 2017",
+    "Decreto 4151 de 2011",
+    "Ley 1708 de 2014",
+    "Ley 5 de 1992",
+    "Ley 1698 de 2013",
+    "Ley 1820 de 2017",
+    "Decreto Ley 277 de 2017",
+    "Decreto 706 de 2017",
+    "Decreto Ley 2204 de 2016",
+    "Decreto Ley 2204 de 2017",
+    "Decreto Ley 2266 de 1991",
+    "Ley 270 de 1996",
+    "Ley 3 de 1992",
+    "Acto Legislativo 2 de 2004",
+    "Acto Legislativo 2 de 2015",
+    "Acto Legislativo 3 de 2002"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2018/C-007-18.htm",
+  "fecha_descarga": "2026-10-21T10:42:36.935806+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2018-03-01",
+  "fecha_publicacion": "2018-04-24",
+  "numero": "C-007/18",
+  "tipo_cc": "C",
+  "prov_id": "32242",
+  "tema_relatoria": "LEY DE AMNISTIA, INDULTO Y TRATAMIENTOS PENALES ESPECIALES.",
+  "resumen": "Revisión de constitucionalidad de la Ley 1820 de 2016, por medio de la cual se dictan disposiciones sobre amnistía, indulto y tratamientos penales especiales y otras disposiciones. Luego de realizar el control automático y definitivo a la precitada ley, la Corte la declaró exequible en lo que se refiere a la competencia del Congreso de la República y al Procedimiento Legislativo especial surtido para su trámite y aprobación. En lo relacionado a su contenido declaró la exequibilidad de la mayor parte de sus normas, salvo algunos aspectos que fueron declarados exequibles condicionados y otros con inexequibilidad parcial.",
+  "titulaciones": [
+    {
+      "tema": "JUSTICIA EN EL ORDEN CONSTITUCIONAL",
+      "subtema": null
+    },
+    {
+      "tema": "CONSULTA PREVIA EN PROCEDIMIENTO LEGISLATIVO ESPECIAL PARA LA PAZ “FAST TRACK”",
+      "subtema": "Aplicación de reglas generales ante ausencia de regla especial"
+    },
+    {
+      "tema": "AMNISTIA DE SALA EN EL MARCO DEL ACUERDO FINAL PARA LA TERMINACION DEL CONFLICTO Y CONSTRUCCION DE UNA PAZ ESTABLE Y DURADERA",
+      "subtema": "Conductas susceptibles de ser perpetradas en el contexto de disturbios públicos y el ejercicio de la protesta social"
+    },
+    {
+      "tema": "AMNISTIA, INDULTO Y TRATAMIENTOS ESPECIALES EN EL MARCO DEL ACUERDO FINAL PARA LA TERMINACION DEL CONFLICTO Y CONSTRUCCION DE UNA PAZ ESTABLE Y DURADERA",
+      "subtema": "Debido proceso y garantías procesales"
+    },
+    {
+      "tema": "AMNISTIA CONCEDIDA POR SALA DE AMNISTIAS E INDULTOS DE LA JUSTICIA ESPECIAL PARA LA PAZ",
+      "subtema": "Ámbito de competencia personal"
+    },
+    {
+      "tema": "AMNISTIA E INDULTO EN EL MARCO DEL ACUERDO FINAL PARA LA TERMINACION DEL CONFLICTO Y CONSTRUCCION DE UNA PAZ ESTABLE Y DURADERA",
+      "subtema": "Efectos"
+    },
+    {
+      "tema": "AMNISTIA POR DELITO POLITICO",
+      "subtema": "Desarrollo normativo"
+    },
+    {
+      "tema": "AMNISTIA, INDULTO Y TRATAMIENTOS PENALES ESPECIALES EN EL MARCO DEL ACUERDO FINAL PARA LA TERMINACION DEL CONFLICTO Y CONSTRUCCION DE UNA PAZ ESTABLE Y DURADERA",
+      "subtema": "Procedimiento para la implementación de la amnistía de iure"
+    },
+    {
+      "tema": "ACUERDO FINAL PARA LA TERMINACION DEL CONFLICTO Y LA CONSTRUCCION DE UNA PAZ ESTABLE Y DURADERA",
+      "subtema": "Ejes temáticos"
+    },
+    {
+      "tema": "AMNISTIA DE IURE EN EL MARCO DEL ACUERDO FINAL PARA LA TERMINACION DEL CONFLICTO Y CONSTRUCCION DE UNA PAZ ESTABLE Y DURADERA",
+      "subtema": "Ámbito de aplicación"
+    },
+    {
+      "tema": "AMNISTIA DE SALA EN EL MARCO DE LA JURISDICCION ESPECIAL PARA LA PAZ",
+      "subtema": "Se concede en el ámbito de un proceso judicial especializado y de transición"
+    },
+    {
+      "tema": "AMNISTIA, INDULTO Y TRATAMIENTOS PENALES ESPECIALES EN EL MARCO DEL ACUERDO FINAL PARA LA TERMINACION DEL CONFLICTO Y CONSTRUCCION DE UNA PAZ ESTABLE Y DURADERA",
+      "subtema": "Régimen de libertades"
+    },
+    {
+      "tema": "AMNISTIAS E INDULTOS, BENEFICIOS APLICABLES EXCLUSIVAMENTE POR DELITOS POLITICOS",
+      "subtema": "Contenido"
+    },
+    {
+      "tema": "AMNISTIA EN EL DERECHO INTERNACIONAL HUMANITARIO, DERECHO INTERNACIONAL DE DERECHOS HUMANOS, DERECHO PENAL INTERNACIONAL Y CONSTITUCION POLITICA",
+      "subtema": "Contenido y alcance"
+    },
+    {
+      "tema": "CONFIGURACION LEGISLATIVA PARA DEFINIR EL DELITO POLITICO Y CONEXOS",
+      "subtema": "Definición del umbral de edad no puede ser arbitraria"
+    },
+    {
+      "tema": "CONFIGURACION LEGISLATIVA PARA DEFINIR EL DELITO POLITICO",
+      "subtema": "Parámetros esenciales para analizar la validez"
+    },
+    {
+      "tema": "DELITO POLITICO",
+      "subtema": "Amplio margen de configuración legislativa en cuanto a concepto y conductas punibles conexas"
+    },
+    {
+      "tema": "DERECHO A LA VERDAD EN EL MARCO DE JUSTICIA TRANSICIONAL",
+      "subtema": "Características"
+    },
+    {
+      "tema": "DERECHO A SABER",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "DERECHO A LA VERDAD",
+      "subtema": "Carácter irrenunciable"
+    },
+    {
+      "tema": "DERECHO A LA VERDAD",
+      "subtema": "Criterios jurisprudenciales"
+    },
+    {
+      "tema": "DERECHO A LA VERDAD",
+      "subtema": "En el marco del proceso penal, constituye una faceta del derecho al acceso a la administración de justicia"
+    },
+    {
+      "tema": "NIÑOS, NIÑAS Y ADOLESCENTES VICTIMAS DE RECLUTAMIENTO FORZADO Y CONDUCTAS AFINES",
+      "subtema": "Medidas adicionales de protección"
+    },
+    {
+      "tema": "NIÑOS, NIÑAS Y ADOLESCENTES",
+      "subtema": "Marco de protección constitucional frente al conflicto armado"
+    },
+    {
+      "tema": "PAZ",
+      "subtema": "Derecho, deber y fin constitucional"
+    },
+    {
+      "tema": "PAZ",
+      "subtema": "Derecho, valor y principio"
+    },
+    {
+      "tema": "PRINCIPIO DE LEGALIDAD EN DERECHO PENAL",
+      "subtema": "Importancia"
+    },
+    {
+      "tema": "PRINCIPIO DE LEGALIDAD",
+      "subtema": "Respeto en materia de inhabilidades"
+    },
+    {
+      "tema": "LEY DE AMNISTIA, INDULTO Y TRATAMIENTOS PENALES ESPECIALES PARA MIEMBROS DE LAS FARC EN EL MARCO DEL ACUERDO FINAL PARA LA TERMINACION DEL CONFLICTO Y CONSTRUCCION DE UNA PAZ ESTABLE Y DURADERA",
+      "subtema": "Principio de prevalencia no impide la selección de tutelas p"
+    },
+    {
+      "tema": "LEY DE AMNISTIA, INDULTO Y TRATAMIENTOS PENALES ESPECIALES EN EL MARCO DEL ACUERDO FINAL PARA LA TERMINACION DEL CONFLICTO Y CONSTRUCCION DE UNA PAZ ESTABLE Y DURADERA",
+      "subtema": "Ámbito de las conductas no amnistiables"
+    },
+    {
+      "tema": "LEY DE AMNISTIA, INDULTO Y TRATAMIENTOS PENALES ESPECIALES EN EL MARCO DEL ACUERDO FINAL PARA LA TERMINACION DEL CONFLICTO Y CONSTRUCCION DE UNA PAZ ESTABLE Y DURADERA",
+      "subtema": "Principio de legalidad"
+    },
+    {
+      "tema": "LEYES ORDINARIAS, DE AMNISTIA Y ESTATUTARIAS",
+      "subtema": "Diferencias de trámite en el fast track"
+    },
+    {
+      "tema": "LIBERTAD CONDICIONADA",
+      "subtema": "Supuestos de procedencia"
+    },
+    {
+      "tema": "JUSTICIA TRANSICIONAL",
+      "subtema": "Escenario donde la justicia y la paz entran en tensiones insalvables y deben ponderarse"
+    },
+    {
+      "tema": "JUSTICIA",
+      "subtema": "Condición de validez y elemento identitario del ordenamiento constitucional"
+    },
+    {
+      "tema": "JUSTICIA",
+      "subtema": "Fundamento y fin esencial del Estado"
+    },
+    {
+      "tema": "LEY DE AMNISTIA E INDULTO EN EL MARCO DEL ACUERDO FINAL PARA LA TERMINACION DEL CONFLICTO Y CONSTRUCCION DE UNA PAZ ESTABLE Y DURADERA",
+      "subtema": "Efectos de la cesación de procedimiento y la suspensión condicional de la ejecución de la pena"
+    },
+    {
+      "tema": "LEY DE AMNISTIA E INDULTO EN EL MARCO DEL ACUERDO FINAL PARA LA TERMINACION DEL CONFLICTO Y CONSTRUCCION DE UNA PAZ ESTABLE Y DURADERA",
+      "subtema": "Tratamiento penal especial diferenciado para agentes del Estado"
+    },
+    {
+      "tema": "LEY DE AMNISTIA, INDULTO Y TRATAMIENTOS PENALES ESPECIALES PARA MIEMBROS DE LAS FARC EN EL MARCO DEL ACUERDO FINAL PARA LA TERMINACION DEL CONFLICTO Y CONSTRUCCION DE UNA PAZ ESTABLE Y DURADERA",
+      "subtema": "Amnistías e indultos “de iure” y “de sala”"
+    },
+    {
+      "tema": "LEY DE AMNISTIA, INDULTO Y TRATAMIENTOS PENALES ESPECIALES EN EL MARCO DEL ACUERDO FINAL PARA LA TERMINACION DEL CONFLICTO Y CONSTRUCCION DE UNA PAZ ESTABLE Y DURADERA",
+      "subtema": "Expresión “graves” referida a crímenes de guerra resulta innecesaria y equívoca"
+    },
+    {
+      "tema": "PROYECTOS DE LEY Y ACTO LEGISLATIVO TRAMITADOS MEDIANTE EL PROCEDIMIENTO LEGISLATIVO ESPECIAL",
+      "subtema": "Principios de unidad de materia, consecutividad e identidad flexible"
+    },
+    {
+      "tema": "RECLUTAMIENTO DE NIÑOS, NIÑAS Y ADOLESCENTES EN CONFLICTO",
+      "subtema": "Tipos penales"
+    },
+    {
+      "tema": "DERECHOS DE LAS VICTIMAS Y DE LA SOCIEDAD Y EL DEBER DE INVESTIGAR, JUZGAR Y SANCIONAR EN PROCESOS DE JUSTICIA TRANSICIONAL",
+      "subtema": "Jurisprudencia constitucional"
+    },
+    {
+      "tema": "CRIMEN DE GUERRA",
+      "subtema": "Definición"
+    },
+    {
+      "tema": "DECRETOS LEY DICTADOS EN EJERCICIO DE FACULTADES PRESIDENCIALES PARA LA PAZ",
+      "subtema": "Carencia de competencia para dictar la normativa"
+    },
+    {
+      "tema": "DEBER DE INVESTIGAR, JUZGAR Y SANCIONAR",
+      "subtema": "Precisiones en el contexto de transición"
+    },
+    {
+      "tema": "DERECHO INTERNACIONAL HUMANITARIO EN BLOQUE DE CONSTITUCIONALIDAD",
+      "subtema": "Integración"
+    },
+    {
+      "tema": "DERECHOS DE LAS VICTIMAS EN VIGENCIA DE UN PROCESO DE JUSTICIA TRANSICIONAL",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "FAVORABILIDAD DEL DERECHO PENAL Y LA INTERPRETACION MAS FAVORABLE A LAS VICTIMAS",
+      "subtema": "Ponderación"
+    },
+    {
+      "tema": "JUSTICIA TRANSICIONAL",
+      "subtema": "Alcance del concepto"
+    },
+    {
+      "tema": "JUSTICIA TRANSICIONAL",
+      "subtema": "Criterios de priorización para el ejercicio de la acción penal"
+    },
+    {
+      "tema": "INTERES SUPERIOR DEL NIÑO",
+      "subtema": "Jurisprudencia constitucional"
+    },
+    {
+      "tema": "JUSTICIA TRANSICIONAL",
+      "subtema": "Mecanismos"
+    },
+    {
+      "tema": "JURISDICCIÓN ESPECIAL PARA LA PAZ",
+      "subtema": "Fines"
+    },
+    {
+      "tema": "JURISDICCIÓN ESPECIAL PARA LA PAZ",
+      "subtema": "Prevalencia de sus decisiones no puede incluir las decisiones adoptadas por la Corte Constitucional"
+    },
+    {
+      "tema": "JURISDICCIÓN ESPECIAL PARA LA PAZ",
+      "subtema": "Seguridad jurídica no equivale a una situación en la que sus decisiones sean intocables, pues en el orden constitucional toda providencia judicial debe ajustarse a la vigencia efectiva de los derechos fundamentales"
+    },
+    {
+      "tema": "JUSTICIA Y PAZ",
+      "subtema": "Relación de tensión y complementariedad"
+    },
+    {
+      "tema": "LEY DE AMNISTIA EN LA TRANSICION DEL CONFLICTO A LA PAZ",
+      "subtema": "Conductas excluidas de beneficios"
+    },
+    {
+      "tema": "LEY DE AMNISTIA, INDULTO Y TRATAMIENTOS PENALES ESPECIALES PARA MIEMBROS DE LAS FARC EN EL MARCO DEL ACUERDO FINAL PARA LA TERMINACION DEL CONFLICTO Y CONSTRUCCION DE UNA PAZ ESTABLE Y DURADERA",
+      "subtema": "Reconocimiento del delito político como principio"
+    },
+    {
+      "tema": "LEY DE AMNISTIA, INDULTO Y TRATAMIENTOS PENALES ESPECIALES EN EL MARCO DEL ACUERDO FINAL PARA LA TERMINACION DEL CONFLICTO Y CONSTRUCCION DE UNA PAZ ESTABLE Y DURADERA",
+      "subtema": "Características que contiene la regla de exclusión de beneficios por reclutamiento de n"
+    },
+    {
+      "tema": "LEY ESTATUTARIA",
+      "subtema": "Procedimiento de expedición más riguroso"
+    },
+    {
+      "tema": "INSTRUMENTOS PARA FACILITAR Y ASEGURAR LA IMPLEMENTACION Y DESARROLLO NORMATIVO DEL ACUERDO FINAL PARA LA TERMINACION DEL CONFLICTO Y CONSTRUCCION DE UNA PAZ ESTABLE Y DURADERA",
+      "subtema": "Procedimiento legislativo especial para la paz (fast track)"
+    },
+    {
+      "tema": "JURISDICCIÓN ESPECIAL PARA LA PAZ",
+      "subtema": "Debe asumir una tarea de interpretación y aplicación del derecho que exige la armonía entre el orden interno e internacional"
+    },
+    {
+      "tema": "NORMA SOBRE AMNISTIA, INDULTO Y TRATAMIENTOS ESPECIALES EN EL MARCO DEL ACUERDO FINAL PARA LA TERMINACION DEL CONFLICTO Y CONSTRUCCION DE UNA PAZ ESTABLE Y DURADERA",
+      "subtema": "Competencia del Congreso y procedimiento especial surtido para su trámite y aprobación"
+    },
+    {
+      "tema": "PAZ",
+      "subtema": "Eje identitario de la Constitución"
+    },
+    {
+      "tema": "PAZ",
+      "subtema": "Importancia constitucional"
+    },
+    {
+      "tema": "PAZ",
+      "subtema": "Derecho y deber de obligatorio cumplimiento"
+    },
+    {
+      "tema": "PRINCIPIO DE DIGNIDAD HUMANA",
+      "subtema": "Naturaleza"
+    },
+    {
+      "tema": "PRINCIPIO DE EFICACIA DE DERECHOS",
+      "subtema": "Jurisprudencia constitucional"
+    },
+    {
+      "tema": "PRINCIPIO DE LEGALIDAD PENAL",
+      "subtema": "Prohibición de la retroactividad"
+    },
+    {
+      "tema": "PRINCIPIO DE LEGALIDAD",
+      "subtema": "Elemento fundamental del debido proceso"
+    },
+    {
+      "tema": "PRINCIPIO DE LEGALIDAD",
+      "subtema": "Doctrina"
+    },
+    {
+      "tema": "PROTECCION A LOS DERECHOS DE LAS VICTIMAS",
+      "subtema": "Instrumentos internacionales"
+    },
+    {
+      "tema": "PROYECTOS DE LEY Y ACTO LEGISLATIVO TRAMITADOS MEDIANTE EL PROCEDIMIENTO LEGISLATIVO ESPECIAL",
+      "subtema": "Respeto al principio de publicidad en trámite legislativo"
+    },
+    {
+      "tema": "PROYECTOS DE LEY Y ACTO LEGISLATIVO TRAMITADOS MEDIANTE EL PROCEDIMIENTO LEGISLATIVO ESPECIAL",
+      "subtema": "Exigencia de conexidad con el Acuerdo Final"
+    },
+    {
+      "tema": "PROYECTOS DE LEY Y ACTO LEGISLATIVO TRAMITADOS MEDIANTE EL PROCEDIMIENTO LEGISLATIVO ESPECIAL",
+      "subtema": "Trámite en el Congreso"
+    },
+    {
+      "tema": "PROCESO PENAL EN EL MARCO DE UN CONTEXTO TRANSICIONAL",
+      "subtema": "Constitucionalmente admisible asumir el deber de investigar atendiendo criterios de priorización y selección, garantizando como contrapartida los derechos de las víctimas"
+    },
+    {
+      "tema": "RENUNCIA CONDICIONADA A LA PERSECUCION PENAL EN EL MARCO DEL ACUERDO FINAL PARA LA TERMINACION DEL CONFLICTO Y CONSTRUCCION DE UNA PAZ ESTABLE Y DURADERA",
+      "subtema": "Efectos"
+    },
+    {
+      "tema": "RESERVA DE LEY ESTATUTARIA",
+      "subtema": "Carácter excepcional"
+    },
+    {
+      "tema": "SALA DE DEFINICION DE SITUACIONES JURIDICAS DE LA JURISDICCION ESPECIAL PARA LA PAZ",
+      "subtema": "Criterios de selección y priorización como herramientas de investigación en escenarios de justicia transicional"
+    },
+    {
+      "tema": "RESERVA DE LEY ESTATUTARIA",
+      "subtema": "Materias objeto de regulación"
+    },
+    {
+      "tema": "TRATAMIENTO ESPECIAL DIFERENCIADO PARA AGENTES DEL ESTADO EN LEY DE AMNISTIA E INDULTO EN EL MARCO DEL ACUERDO FINAL PARA LA TERMINACION DEL CONFLICTO Y CONSTRUCCION DE UNA PAZ ESTABLE Y DURADERA",
+      "subtema": "Régimen de libertades"
+    },
+    {
+      "tema": "SALA DE DEFINICION DE SITUACIONES JURIDICAS EN LEY DE AMNISTIA EN LA TRANSICION DEL CONFLICTO A LA PAZ",
+      "subtema": "Competencia y funciones"
+    },
+    {
+      "tema": "SALA DE AMNISTIA E INDULTO EN EL MARCO DE LA JURISDICCION ESPECIAL PARA LA PAZ",
+      "subtema": "Ámbito de aplicación personal"
+    },
+    {
+      "tema": "SISTEMA INTEGRAL DE VERDAD, JUSTICIA, REPARACION Y NO REPETICION",
+      "subtema": "Inclusión de enfoque territorial, diferencial y de género"
+    },
+    {
+      "tema": "PRINCIPIO DE UNIDAD DE MATERIA",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "AMNISTIA DE IURE EN EL MARCO DEL ACUERDO FINAL PARA LA TERMINACION DEL CONFLICTO Y CONSTRUCCION DE UNA PAZ ESTABLE Y DURADERA",
+      "subtema": "Condiciones"
+    },
+    {
+      "tema": "AMNISTIA DE SALA EN EL MARCO DE LA JURISDICCION ESPECIAL PARA LA PAZ",
+      "subtema": "Importancia"
+    },
+    {
+      "tema": "AMNISTIA DE SALA EN EL MARCO DEL ACUERDO FINAL PARA LA TERMINACION DEL CONFLICTO Y CONSTRUCCION DE UNA PAZ ESTABLE Y DURADERA",
+      "subtema": "Presentación del listado de personas integrantes de la organización rebelde que haya suscrito el Acuerdo Final de Paz, por los re"
+    },
+    {
+      "tema": "AMNISTIA, INDULTO Y TRATAMIENTOS ESPECIALES",
+      "subtema": "Tratamiento penal diferenciado para miembros de la Fuerza Pública"
+    },
+    {
+      "tema": "ACUERDO FINAL PARA LA TERMINACION DEL CONFLICTO Y LA CONSTRUCCION DE UNA PAZ ESTABLE Y DURADERA",
+      "subtema": "Admite un amplio marco de configuración de los mecanismos de justicia transicional, y muy especialmente para la protección de los derechos de las víctimas"
+    },
+    {
+      "tema": "ACUERDO FINAL PARA LA TERMINACION DEL CONFLICTO Y LA CONSTRUCCION DE UNA PAZ ESTABLE Y DURADERA",
+      "subtema": "Garantías para la movilización y la protesta"
+    },
+    {
+      "tema": "ACTO LEGISLATIVO 01 DE 2016",
+      "subtema": "Criterios constitucionales para la formación de leyes en el marco del procedimiento legislativo especial"
+    },
+    {
+      "tema": "COMISION DE LA VERDAD",
+      "subtema": "Según la Corte Interamericana de Derechos Humanos, contribuye a la construcción y preservación de la memoria histórica, esclarecimiento de los hechos y a la determinación de responsabilidades institucionales, sociales y políticas"
+    },
+    {
+      "tema": "CONFLICTO ARMADO EN COLOMBIA",
+      "subtema": "Antecedentes históricos"
+    },
+    {
+      "tema": "CRIMENES DE LESA HUMANIDAD EN ESTATUTO DE ROMA DE LA CORTE PENAL INTERNACIONAL",
+      "subtema": "Definición"
+    },
+    {
+      "tema": "DELITO POLITICO O CONEXO",
+      "subtema": "Margen de acción en cabeza de los órganos políticos para superar situaciones de conflicto y conjurar graves situaciones de orden público"
+    },
+    {
+      "tema": "DELITO POLITICO",
+      "subtema": "Concepto en el marco de la estrategia para alcanzar la paz"
+    },
+    {
+      "tema": "DELITO POLITICO COMO PRINCIPIO CONTENIDO EN LEY DE AMNISTIA, INDULTO Y TRATAMIENTOS PENALES ESPECIALES EN EL MARCO DEL ACUERDO FINAL PARA LA PAZ",
+      "subtema": "Caracterización"
+    },
+    {
+      "tema": "CONTRIBUCION A LA SATISFACCION DE DERECHOS DE LAS VICTIMAS EN LEY DE AMNISTIA EN LA TRANSICION DEL CONFLICTO A LA PAZ",
+      "subtema": "Constitucionalidad en el entendido que se enmarca dentro del régimen de condicionalidades del Sistema Integral de Verdad, Justicia, Repa"
+    },
+    {
+      "tema": "NORMA SOBRE AMNISTIA, INDULTO Y TRATAMIENTOS ESPECIALES EN EL MARCO DEL ACUERDO FINAL PARA LA TERMINACION DEL CONFLICTO Y CONSTRUCCION DE UNA PAZ ESTABLE Y DURADERA",
+      "subtema": "Control constitucional sobre el procedimiento de formación"
+    },
+    {
+      "tema": "NORMA SOBRE AMNISTIA, INDULTO Y TRATAMIENTOS ESPECIALES EN EL MARCO DEL ACUERDO FINAL PARA LA TERMINACION DEL CONFLICTO Y CONSTRUCCION DE UNA PAZ ESTABLE Y DURADERA",
+      "subtema": "Trámite de mayorías calificadas, previsto en el numeral 17 del artículo 150 de la Constitu"
+    },
+    {
+      "tema": "PAZ",
+      "subtema": "Valor no absoluto"
+    },
+    {
+      "tema": "PAZ EN EL ORDEN CONSTITUCIONAL",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "ESTATUTO DE ROMA DE LA CORTE PENAL INTERNACIONAL",
+      "subtema": "Eventual indeterminación de definición de ciertas conductas y principio de legalidad no desconoce el artículo 29 de la Constitución Política"
+    },
+    {
+      "tema": "NORMA SOBRE AMNISTIA, INDULTO Y TRATAMIENTOS ESPECIALES EN EL MARCO DEL ACUERDO FINAL PARA LA TERMINACION DEL CONFLICTO Y CONSTRUCCION DE UNA PAZ ESTABLE Y DURADERA",
+      "subtema": "Seguridad jurídica como garantía asociada al debido proceso"
+    },
+    {
+      "tema": "NORMA SOBRE AMNISTIA, INDULTO Y TRATAMIENTOS ESPECIALES EN EL MARCO DEL ACUERDO FINAL PARA LA TERMINACION DEL CONFLICTO Y CONSTRUCCION DE UNA PAZ ESTABLE Y DURADERA",
+      "subtema": "Premisas para el control constitucional"
+    },
+    {
+      "tema": "OBLIGACION DE INVESTIGAR, JUZGAR Y SANCIONAR LAS GRAVES VIOLACIONES DE DERECHOS HUMANOS",
+      "subtema": "Parámetros fijados por la Corte Interamericana de Derechos Humanos"
+    },
+    {
+      "tema": "NIÑOS, NIÑAS Y ADOLESCENTES EN EL CONFLICTO ARMADO",
+      "subtema": "Participación como crimen de guerra y estándar de edad del sujeto pasivo como persona menor de 15 años"
+    },
+    {
+      "tema": "PRINCIPIO DE FAVORABILIDAD EN EL MARCO DE LA LEY 1820 DE 2016",
+      "subtema": "Interpretación y aplicación mediante ejercicios de armonización y sistematización"
+    },
+    {
+      "tema": "POSIBILIDAD DE RENUNCIA CONDICIONADA A LA PERSECUCION PENAL EN EL MARCO DE UN PROCESO DE TRANSICION",
+      "subtema": "Jurisprudencia constitucional"
+    },
+    {
+      "tema": "PROCEDIMIENTO DE FORMACION DE LA LEY, DE ORIGEN CONSTITUCIONAL Y ORGANICO APLICABLES DENTRO DEL FAST TRACK",
+      "subtema": "Requisitos generales"
+    },
+    {
+      "tema": "PRINCIPIO DE JURISDICCION UNIVERSAL",
+      "subtema": "Concepto"
+    },
+    {
+      "tema": "PRINCIPIO DE LEGALIDAD",
+      "subtema": "Estándares internacionales"
+    },
+    {
+      "tema": "PRINCIPIO DE LEGALIDAD EN TERMINOS DEL NULLUM CRIMEN SINE IURE",
+      "subtema": "Jurisprudencia constitucional"
+    },
+    {
+      "tema": "PRINCIPIO DE LEGALIDAD",
+      "subtema": "Relación con otros mandatos"
+    },
+    {
+      "tema": "PROCESO DE PAZ",
+      "subtema": "Resultan válidos algunos mecanismos tendientes a evitar la sanción penal, como la amnistía, el indulto y la renuncia a la persecución penal"
+    },
+    {
+      "tema": "LEY DE AMNISTIA E INDULTO EN EL MARCO DEL ACUERDO FINAL PARA LA TERMINACION DEL CONFLICTO Y CONSTRUCCION DE UNA PAZ ESTABLE Y DURADERA",
+      "subtema": "Prescripción"
+    },
+    {
+      "tema": "LEY DE AMNISTIA, INDULTO Y TRATAMIENTOS PENALES ESPECIALES PARA MIEMBROS DE LAS FARC EN EL MARCO DEL ACUERDO FINAL PARA LA TERMINACION DEL CONFLICTO Y CONSTRUCCION DE UNA PAZ ESTABLE Y DURADERA",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "LEY DE AMNISTIA, INDULTO Y TRATAMIENTOS PENALES ESPECIALES EN EL MARCO DEL ACUERDO FINAL PARA LA TERMINACION DEL CONFLICTO Y CONSTRUCCION DE UNA PAZ ESTABLE Y DURADERA",
+      "subtema": "Criterios de valoración"
+    },
+    {
+      "tema": "LUCHA CONTRA LA CRIMINALIDAD ORGANIZADA",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "LIBERTAD EN LEY DE AMNISTIA E INDULTO EN EL MARCO DEL ACUERDO FINAL PARA LA TERMINACION DEL CONFLICTO Y CONSTRUCCION DE UNA PAZ ESTABLE Y DURADERA",
+      "subtema": "Acta formal de compromiso"
+    },
+    {
+      "tema": "LIBERTAD POR EFECTO DE LA APLICACION DE LA AMNISTIA O DE LA RENUNCIA A LA PERSECUCION PENAL",
+      "subtema": "Condiciones"
+    },
+    {
+      "tema": "NIÑOS, NIÑAS Y ADOLESCENTES",
+      "subtema": "Protección en el marco del derecho internacional de derechos humanos y Derecho Internacional Humanitario"
+    },
+    {
+      "tema": "LEY DE AMNISTIA, INDULTO Y TRATAMIENTOS PENALES ESPECIALES PARA MIEMBROS DE LAS FARC EN EL MARCO DEL ACUERDO FINAL PARA LA TERMINACION DEL CONFLICTO Y CONSTRUCCION DE UNA PAZ ESTABLE Y DURADERA",
+      "subtema": "Principios básicos del componente del Sistema Integral de Ve"
+    },
+    {
+      "tema": "LEY DE AMNISTIA, INDULTO Y TRATAMIENTOS PENALES ESPECIALES EN EL MARCO DEL ACUERDO FINAL PARA LA TERMINACION DEL CONFLICTO Y CONSTRUCCION DE UNA PAZ ESTABLE Y DURADERA",
+      "subtema": "Beneficiarios e intensidad"
+    },
+    {
+      "tema": "LEY DE AMNISTIA, INDULTO Y TRATAMIENTOS PENALES ESPECIALES EN EL MARCO DEL ACUERDO FINAL PARA LA TERMINACION DEL CONFLICTO Y CONSTRUCCION DE UNA PAZ ESTABLE Y DURADERA",
+      "subtema": "Principios aplicables"
+    },
+    {
+      "tema": "LEY SOBRE CONCESION DE INDULTOS, AMNISTIAS Y TRATAMIENTOS PENALES DIFERENCIADOS",
+      "subtema": "Obligatoriedad de adoptar un enfoque de género en análisis de constitucionalidad"
+    },
+    {
+      "tema": "LEYES ORDINARIAS, DE AMNISTIA Y ESTATUTARIAS",
+      "subtema": "Diferencias de trámite"
+    },
+    {
+      "tema": "PROTOCOLO II DE GINEBRA",
+      "subtema": "Forma parte del bloque de constitucionalidad"
+    },
+    {
+      "tema": "PROHIBICIONES EN MATERIA DE AMNISTIA",
+      "subtema": "Jurisprudencia de la Corte Interamericana de Derechos Humanos"
+    },
+    {
+      "tema": "RECLUTAMIENTO DE NIÑOS, NIÑAS Y ADOLESCENTES",
+      "subtema": "Ordenamiento jurídico acerca de la prohibición y castigo penal"
+    },
+    {
+      "tema": "RECLUTAMIENTO DE NIÑOS, NIÑAS Y ADOLESCENTES",
+      "subtema": "Diferencias entre los tipos penales internos y el crimen de guerra definido en el Estatuto de Roma"
+    },
+    {
+      "tema": "DERECHOS DE LAS VICTIMAS",
+      "subtema": "Características"
+    },
+    {
+      "tema": "DERECHOS HUMANOS Y DERECHO INTERNACIONAL HUMANITARIO",
+      "subtema": "Obligación del Estado investigar, juzgar y condenar a los responsables de violaciones"
+    },
+    {
+      "tema": "DETERMINACIONES PARA EL INGRESO A LA JURISDICCION ESPECIAL PARA LA PAZ",
+      "subtema": "Jurisprudencia constitucional"
+    },
+    {
+      "tema": "DERECHO A LA PAZ EN EL DERECHO INTERNACIONAL",
+      "subtema": "Propósito fundamental"
+    },
+    {
+      "tema": "DERECHO A LA PAZ",
+      "subtema": "Dimensiones"
+    },
+    {
+      "tema": "DERECHO A LA CONSULTA PREVIA",
+      "subtema": "Jurisprudencia constitucional"
+    },
+    {
+      "tema": "DERECHO INTERNACIONAL HUMANITARIO",
+      "subtema": "Obligaciones de los Estados"
+    },
+    {
+      "tema": "DERECHOS DE LAS VICTIMAS Y DE LA SOCIEDAD Y EL DEBER DE INVESTIGAR, JUZGAR Y SANCIONAR EN PROCESOS DE JUSTICIA TRANSICIONAL",
+      "subtema": "Obligaciones positivas"
+    },
+    {
+      "tema": "DERECHOS DE LAS VICTIMAS",
+      "subtema": "Principios y preceptos"
+    },
+    {
+      "tema": "DERECHOS DE LAS VICTIMAS",
+      "subtema": "Inclusión de la verdad dentro de los bienes que deben protegerse"
+    },
+    {
+      "tema": "JUSTICIA ESPECIAL PARA LA PAZ Y JURISDICCION ESPECIAL INDIGENA",
+      "subtema": "Reglas desarrolladas por la jurisprudencia Constitucional ante eventuales conflictos de competencia"
+    },
+    {
+      "tema": "JUSTICIA TRANSICIONAL",
+      "subtema": "Mecanismos judiciales o extrajudiciales"
+    },
+    {
+      "tema": "JUSTICIA TRANSICIONAL",
+      "subtema": "Propósitos"
+    },
+    {
+      "tema": "JUSTICIA TRANSICIONAL, PAZ, AMNISTIA Y TRATAMIENTO PENAL ESPECIAL DIFERENCIADO",
+      "subtema": "Elementos de juicio"
+    },
+    {
+      "tema": "JUSTICIA Y PAZ",
+      "subtema": "Ponderación"
+    },
+    {
+      "tema": "LA VERDAD",
+      "subtema": "Elemento necesario para consolidar un proceso de paz, contribuir a la reconciliación y restaurar la democracia"
+    },
+    {
+      "tema": "LEY DE AMNISTIA E INDULTO EN EL MARCO DEL ACUERDO FINAL PARA LA TERMINACION DEL CONFLICTO Y CONSTRUCCION DE UNA PAZ ESTABLE Y DURADERA",
+      "subtema": "Mecanismos de tratamiento especial diferenciado para agentes del Estado"
+    },
+    {
+      "tema": "LEY DE AMNISTIA EN LA TRANSICION DEL CONFLICTO A LA PAZ",
+      "subtema": "Tratamientos penales especiales diferenciados resultan constitucionales, pero no significa que todos sean válidos, pues ello se analiza en cada una de las disposiciones que los desarrollan"
+    },
+    {
+      "tema": "LEY DE AMNISTIA, INDULTO Y TRATAMIENTOS PENALES ESPECIALES PARA MIEMBROS DE LAS FARC EN EL MARCO DEL ACUERDO FINAL PARA LA TERMINACION DEL CONFLICTO Y CONSTRUCCION DE UNA PAZ ESTABLE Y DURADERA",
+      "subtema": "Formas principales de acceder a las amnistías e indultos"
+    },
+    {
+      "tema": "LEY DE AMNISTIA, INDULTO Y TRATAMIENTOS PENALES ESPECIALES EN EL MARCO DEL ACUERDO FINAL PARA LA TERMINACION DEL CONFLICTO Y CONSTRUCCION DE UNA PAZ ESTABLE Y DURADERA",
+      "subtema": "Ámbito de aplicación a hechos ocurridos en el contexto de disturbios públicos y el ejer"
+    },
+    {
+      "tema": "LEY DE AMNISTIA, INDULTO Y TRATAMIENTOS PENALES ESPECIALES EN EL MARCO DEL ACUERDO FINAL PARA LA TERMINACION DEL CONFLICTO Y CONSTRUCCION DE UNA PAZ ESTABLE Y DURADERA",
+      "subtema": "Principio de favorabilidad"
+    },
+    {
+      "tema": "JURISDICCIÓN ESPECIAL PARA LA PAZ",
+      "subtema": "No busca exclusivamente la imposición de una sanción, sino que prevé la concesión de amplios beneficios"
+    },
+    {
+      "tema": "LEY DE AMNISTIA E INDULTO EN EL MARCO DEL ACUERDO FINAL PARA LA TERMINACION DEL CONFLICTO Y CONSTRUCCION DE UNA PAZ ESTABLE Y DURADERA",
+      "subtema": "Información a otros Estados"
+    },
+    {
+      "tema": "LEY DE AMNISTIA, INDULTO Y TRATAMIENTOS PENALES ESPECIALES PARA MIEMBROS DE LAS FARC EN EL MARCO DEL ACUERDO FINAL PARA LA TERMINACION DEL CONFLICTO Y CONSTRUCCION DE UNA PAZ ESTABLE Y DURADERA",
+      "subtema": "Extensión al ámbito administrativo y a la renuncia a la pers"
+    },
+    {
+      "tema": "LEY DE AMNISTIA, INDULTO Y TRATAMIENTOS PENALES ESPECIALES EN EL MARCO DEL ACUERDO FINAL PARA LA TERMINACION DEL CONFLICTO Y CONSTRUCCION DE UNA PAZ ESTABLE Y DURADERA",
+      "subtema": "Calificativo de expresión “graves” referido a los crímenes de guerra no contemplada en"
+    },
+    {
+      "tema": "LEY DE AMNISTIA, INDULTO Y TRATAMIENTOS PENALES ESPECIALES EN EL MARCO DEL ACUERDO FINAL PARA LA TERMINACION DEL CONFLICTO Y CONSTRUCCION DE UNA PAZ ESTABLE Y DURADERA",
+      "subtema": "No estaba sometida a reserva de ley estatutaria en lo que tiene que ver con el desarrol"
+    },
+    {
+      "tema": "JURISDICCIÓN ESPECIAL PARA LA PAZ",
+      "subtema": "Incorporación de ciertas competencias o funciones en cabeza de la Sala de Definición de Situaciones Jurídicas como uno de los órganos que compone dicha jurisdicción, no desconoce la reserva de ley estatutaria"
+    },
+    {
+      "tema": "SALA DE AMNISTIA EN EL MARCO DEL ACUERDO FINAL PARA LA TERMINACION DEL CONFLICTO Y CONSTRUCCION DE UNA PAZ ESTABLE Y DURADERA",
+      "subtema": "Ampliación de información cuando lo estime necesario"
+    },
+    {
+      "tema": "RENUNCIA CONDICIONADA A LA PERSECUCION PENAL EN EL MARCO DE UN PROCESO DE TRANSICION",
+      "subtema": "Medida que impone una restricción a los derechos de las víctimas y, especialmente, a la obligación de investigar, juzgar y sancionar las graves violaciones de derechos hu"
+    },
+    {
+      "tema": "RESERVA DE LEY ESTATUTARIA EN RELACION CON LA ADMINISTRACION DE JUSTICIA",
+      "subtema": "Resulta aplicable a los asuntos estructurales pero no a la definición de asuntos procedimentales, que pueden ser asumidos a través de la facultad prevista en el artículo 150.2 de la"
+    },
+    {
+      "tema": "RESOLUCIONES PROFERIDAS POR LA SALA DE DEFINICION DE SITUACIONES JURIDICAS DE LA JURISDICCION ESPECIAL PARA LA PAZ",
+      "subtema": "Procedimiento y efectos"
+    },
+    {
+      "tema": "REGIMEN DE LIBERTADES EN LEY DE AMNISTIA E INDULTO EN EL MARCO DEL ACUERDO FINAL PARA LA TERMINACION DEL CONFLICTO Y CONSTRUCCION DE UNA PAZ ESTABLE Y DURADERA",
+      "subtema": "Procedimiento"
+    },
+    {
+      "tema": "PROYECTO DE LEY",
+      "subtema": "Sujeción a las reglas que regulan el quorum y las mayorías para su aprobación"
+    },
+    {
+      "tema": "PROYECTOS DE LEY Y ACTO LEGISLATIVO TRAMITADOS MEDIANTE EL PROCEDIMIENTO LEGISLATIVO ESPECIAL",
+      "subtema": "Cumplimiento de los plazos del debate"
+    },
+    {
+      "tema": "TRATAMIENTO ESPECIAL DIFERENCIADO PARA AGENTES DEL ESTADO EN LEY DE AMNISTIA E INDULTO EN EL MARCO DEL ACUERDO FINAL PARA LA TERMINACION DEL CONFLICTO Y CONSTRUCCION DE UNA PAZ ESTABLE Y DURADERA",
+      "subtema": "Procedimiento"
+    },
+    {
+      "tema": "TRATAMIENTO ESPECIAL DIFERENCIADO PARA AGENTES DEL ESTADO EN LEY DE AMNISTIA E INDULTO EN EL MARCO DEL ACUERDO FINAL PARA LA TERMINACION DEL CONFLICTO Y CONSTRUCCION DE UNA PAZ ESTABLE Y DURADERA",
+      "subtema": "Privación de la libertad en unidad militar o policial para"
+    },
+    {
+      "tema": "TRATAMIENTO PENAL ESPECIAL DIFERENCIADO EN EL MARCO DE UN PROCESO DE PAZ",
+      "subtema": "Contenido y alcance"
+    },
+    {
+      "tema": "SALA DE DEFINICION DE SITUACIONES JURIDICAS DE LA JURISDICCION ESPECIAL PARA LA PAZ",
+      "subtema": "Criterios de valoración"
+    },
+    {
+      "tema": "RESERVA DE LEY ESTATUTARIA",
+      "subtema": "Principios"
+    },
+    {
+      "tema": "SELECCION Y REVISION DE TUTELAS CONTRA PROVIDENCIAS DE LA JURISDICCION ESPECIAL PARA LA PAZ",
+      "subtema": "Sujeción a las reglas generales establecidas en la Constitución y la Ley"
+    },
+    {
+      "tema": "INTERÉS SUPERIOR DE LOS NIÑOS, NIÑAS Y ADOLESCENTES",
+      "subtema": "Protección constitucional e internacional"
+    },
+    {
+      "tema": "DERECHO DE LAS VÍCTIMAS A LA VERDAD, LA JUSTICIA Y LA REPARACIÓN",
+      "subtema": "Obligaciones del Estado"
+    }
+  ]
+}

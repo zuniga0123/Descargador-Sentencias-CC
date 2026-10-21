@@ -1,0 +1,62 @@
+{
+  "radicado": "T-697-17",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2017,
+  "fecha_creacion": "2017-11-27",
+  "magistrado_ponente": "Cristina Pardo Schlesinger",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "DERECHO A LA PENSION DE VEJEZ",
+  "subtema": "Orden a Colpensiones reconocer y pagar pensión de vejez al accionante",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Decreto 758 de 1990",
+    "Ley 100 de 1993",
+    "Acto Legislativo 1 de 2005",
+    "Ley 71 de 1988",
+    "Ley 797 de 2003",
+    "Decreto 1748 de 1995",
+    "Decreto 3798 de 2003",
+    "Decreto 1887 de 1994",
+    "Decreto Ley 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2017/T-697-17.htm",
+  "fecha_descarga": "2026-10-21T10:52:47.561819+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2017-11-27",
+  "fecha_publicacion": "2018-02-01",
+  "numero": "T-697/17",
+  "tipo_cc": "T",
+  "prov_id": "31894",
+  "tema_relatoria": "PENSION DE VEJEZ. POSIBILIDAD DE ACUMULAR TIEMPOS DE SERVICIOS A CAJAS DE PREVISION Y AL ISS.",
+  "resumen": "Se atribuye a Colpensiones la vulneración de derechos fundamentales de la actora, al negarle el reconocimiento y pago de la pensión de vejez que solicitó alegando el incumplimiento de los requisitos de semanas de cotización requeridos por el Acuerdo 049 de 1990, la imposibilidad de acumular tiempos de servicios cotizados ante Administradoras de Fondos de Pensiones diferentes al ISS y, no ser posible tener en cuenta los períodos pagados de manera extemporánea por una empleadora porque no hizo la afiliación. Se aborda temática relacionada con: 1º. La posibilidad de acumular tiempos de servicios cotizados ante las Cajas de Previsión diferentes al ISS, y, 2º. Normatividad aplicable a la omisión por parte del empleador de afiliar a sus trabajadores y la obligación de trasladar, con base en el cálculo actuarial, la suma correspondiente a los aportes adeudados. Se CONCEDE el amparo invocado y se ordena el reconocimiento y pago de la prestación reclamada.",
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA PENSION DE VEJEZ",
+      "subtema": "Orden a Colpensiones reconocer y pagar pensión de vejez al accionante"
+    },
+    {
+      "tema": "ACUMULACION DE TIEMPOS DE SERVICIOS PRESTADOS TANTO EN EL SECTOR PRIVADO COMO EN EL SECTOR PUBLICO",
+      "subtema": "Válida no solo para los casos en que fueron acreditadas 1000 semanas en cualquier tiempo, sino también para los eventos en los que se demostró haber reunido"
+    },
+    {
+      "tema": "DERECHO A LA PENSION DE VEJEZ",
+      "subtema": "Orden a empresa afiliar a la accionante a Colpensiones en calidad de trabajadora, solicitar cálculo actuarial de las cotizaciones correspondientes al tiempo de servicios a dicha empresa y pagar la suma resultante de la operac"
+    },
+    {
+      "tema": "PENSION DE VEJEZ BAJO EL REGIMEN CONTEMPLADO EN EL ACUERDO 049 DE 1990",
+      "subtema": "Posibilidad de acumular tiempos de servicios prestados en entidades públicas cotizados en cajas o fondos de previsión social con los aportes realizados al ISS"
+    },
+    {
+      "tema": "ACCION DE TUTELA PARA EL RECONOCIMIENTO Y PAGO DE PENSION DE VEJEZ",
+      "subtema": "Procedencia excepcional"
+    },
+    {
+      "tema": "PENSION DE VEJEZ",
+      "subtema": "Al momento de computar las semanas requeridas se debe tener en cuenta el tiempo de servicios del trabajador con un empleador que por omisión no lo hubiese afiliado al sistema general de pensiones"
+    }
+  ]
+}

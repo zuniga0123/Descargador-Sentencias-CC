@@ -1,0 +1,47 @@
+{
+  "radicado": "C-104-18",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2018,
+  "fecha_creacion": "2018-10-24",
+  "magistrado_ponente": "Luis Guillermo Guerrero Pérez",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "COSA JUZGADA MATERIAL Y COSA JUZGADA FORMAL",
+  "subtema": "Distinción",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 1737 de 2014",
+    "Ley 270 de 1996",
+    "Decreto 2067 de 1991",
+    "Decreto Ley 121 de 2017",
+    "Ley 1485 de 2011",
+    "Ley 1593 de 2012",
+    "Ley 1687 de 2013"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2018/C-104-18.htm",
+  "fecha_descarga": "2026-10-21T10:39:17.624050+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2018-10-24",
+  "fecha_publicacion": "2018-11-21",
+  "numero": "C-104/18",
+  "tipo_cc": "C",
+  "prov_id": "33216",
+  "tema_relatoria": "CORPORACION PARA EL DESARROLLO SOSTENIBLE DE LA MACARENA. SU JURISDICCIÓN ESTÁ CONFORMADA POR TODO EL DEPARTAMENTO DEL META, INCLUIDA EL ÁREA DE MANEJO ESPECIAL DE LA MACARENA.",
+  "resumen": "Demanda de inconstitucionalidad contra el artículo 103 de la Ley 1737 de 2014, por la cual se decreta el Presupuesto de Rentas y Recursos de Capital y Ley de Apropiaciones para la vigencia fiscal del 1º de enero al 31 de diciembre de 2015. El accionante considera que la norma acusada desconoce el principio de unidad de materia contemplado en el artículo 158 de la Constitución. La existencia de un pronunciamiento previo de la Corte frente a la disposición objeto de litigio por un cargo igual al propuesto en esta oportunidad condujo a la Sala Plena a decidir ESTARSE A LO RESUELTO en la Sentencia C-047/18, en la cual se declaró la inexequibilidad del artículo demandado.",
+  "titulaciones": [
+    {
+      "tema": "COSA JUZGADA MATERIAL Y COSA JUZGADA FORMAL",
+      "subtema": "Distinción"
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "Se configuró el fenómeno de la cosa juzgada constitucional"
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD CONTRA NORMA QUE REGULA EL PRESUPUESTO DE RENTAS Y RECURSOS DE CAPITAL",
+      "subtema": "Estarse a lo resuelto en sentencia C-047 de 2018"
+    }
+  ]
+}

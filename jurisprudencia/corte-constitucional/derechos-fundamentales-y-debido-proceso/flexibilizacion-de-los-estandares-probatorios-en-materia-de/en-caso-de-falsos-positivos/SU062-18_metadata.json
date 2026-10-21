@@ -1,0 +1,53 @@
+{
+  "radicado": "SU062-18",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2018,
+  "fecha_creacion": "2018-06-07",
+  "magistrado_ponente": "Alejandro Linares Cantillo",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "FLEXIBILIZACIÓN DE LOS ESTÁNDARES PROBATORIOS EN MATERIA DE GRAVES VIOLACIONES A LOS DERECHOS HUMANOS",
+  "subtema": "En caso de falsos positivos",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Decreto Ley 2591 de 1991",
+    "Decreto 1 de 1984",
+    "Ley 270 de 1996",
+    "Ley 1285 de 2009"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2018/SU062-18.htm",
+  "fecha_descarga": "2026-10-21T10:44:17.649199+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2018-06-07",
+  "fecha_publicacion": "2018-08-27",
+  "numero": "SU.062/18",
+  "tipo_cc": "SU",
+  "prov_id": "32886",
+  "tema_relatoria": "ACCION DE TUTELA CONTRA PROVIDENCIAS JUDICIALES. PROCEDENCIA POR DEFECTO FACTICO POR NO INCORPORAR, PRACTICAR O VALORAR PRUEBAS EN PROCESO DE REPARACION DIRECTA.",
+  "resumen": "La vulneración de derechos fundamentales se atribuye a providencias judiciales proferidas al interior de un proceso de reparación directa iniciado por el actor en virtud de la muerte de su hermano por miembros de la Fuerza Armada en medio de un combate militar. Se alega que el fallo de segunda instancia, al revocar la decisión que declaró la responsabilidad del Estado, incurrió en un defecto fáctico por indebida valoración probatoria al darle mayor importancia a los testimonios de militares que a las pruebas documentales obrantes en el expediente. Así mismo, se aduce que la providencia que resolvió el recurso de revisión incurrió en un defecto procedimental por exceso ritual manifiesto, al no incorporar ni valorar como prueba la declaración de un tercero, señalando la falta de oportunidad probatoria. Se analizan los siguientes temas: 1º. Requisitos específicos de procedibilidad de la acción de tutela contra providencias judiciales. 2º. El defecto procedimental por exceso ritual manifiesto y el defecto fáctico en su dimensión negativa por omisión de incorporar, practicar o valorar pruebas solicitadas o decretadas. La Corte precisa que en posibles casos de ejecuciones extrajudiciales o denominados “falsos positivos” se debe valorar todo el acervo probatorio y tener en cuenta, especialmente, la flexibilización probatoria en materia de graves violaciones a los derechos humanos y, la relevancia de los indicios para valorar el acervo probatorio en tal tipo de eventos, tal como lo señaló la SU.035/18. Se CONCEDE el amparo invocado.",
+  "titulaciones": [
+    {
+      "tema": "FLEXIBILIZACIÓN DE LOS ESTÁNDARES PROBATORIOS EN MATERIA DE GRAVES VIOLACIONES A LOS DERECHOS HUMANOS",
+      "subtema": "En caso de falsos positivos"
+    },
+    {
+      "tema": "DEFECTO PROCEDIMENTAL POR EXCESO RITUAL MANIFIESTO Y DEFECTO FACTICO POR OMISION EN LA VALORACION DE LAS PRUEBAS",
+      "subtema": null
+    },
+    {
+      "tema": "DEFECTO FACTICO",
+      "subtema": "Dimensión negativa por no incorporar, practicar o valorar pruebas solicitadas o decretadas"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Procedencia por defecto procedimental por exceso ritual manifiesto y defecto fáctico por cuanto no incorporó ni valoró prueba en proceso de reparación directa por ejecuciones extrajudiciales-falsos positiv"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Requisitos generales y especiales de procedibilidad"
+    }
+  ]
+}

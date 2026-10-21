@@ -1,0 +1,56 @@
+{
+  "radicado": "SU003-18",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2018,
+  "fecha_creacion": "2018-02-08",
+  "magistrado_ponente": "Carlos Bernal Pulido",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "TEST DE VULNERABILIDAD",
+  "subtema": "Aplicación a modo de obiter dicta perjudica considerablemente los derechos fundamentales de las personas que se encuentran en circunstancias de debilidad manifiesta, como quiera que con el mismo no serán sujetos de especial protecci",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 909 de 2004",
+    "Decreto 785 de 2005",
+    "Decreto 2591 de 1991",
+    "Decreto 2067 de 1991",
+    "Decreto 306 de 1992",
+    "Decreto Ley 2591 de 1991",
+    "Decreto 1 de 1984",
+    "Ley 790 de 2002"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2018/SU003-18.htm",
+  "fecha_descarga": "2026-10-21T10:45:27.264780+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2018-02-08",
+  "fecha_publicacion": "2018-03-21",
+  "numero": "SU.003/18",
+  "tipo_cc": "SU",
+  "prov_id": "32101",
+  "tema_relatoria": "SERVIDORES PREPENSIONADOS QUE OCUPAN CARGOS DE LIBRE NOMBRAMIENTO Y REMOCION NO GOZAN DE ESTABILIDAD CUANDO EL UNICO REQUISITO FALTANTE PARA ACCEDER A LA PENSION ES LA EDAD.",
+  "resumen": "El actor le pidió al juez constitucional dejar sin efectos la resolución que lo declaró insubsistente y ordenar su reintegro en el cargo que desempeñaba en la entidad demandada. Alega que tiene la condición de prepensionable, toda vez que contaba con más de 1300 semanas de cotización cuando fue declarado insubsistente y le restaban menos de 3 años para cumplir con el requisito de edad para el momento de presentar la acción constitucional. La entidad solicitó declarar la improcedencia de la tutela por el incumplimiento del requisito de subsidiariedad, por la inexistencia de un perjuicio irremediable y porque la figura de estabilidad laboral basada en la condición de prepensionable no puede ser alegada por una persona que ocupa un cargo de libre nombramiento y remoción, como el caso del peticionario. Para los fines de unificación de jurisprudencia la Corte analizó los siguientes tópicos: 1º. Alcance de la estabilidad laboral reforzada para los servidores públicos que ocupan cargos de libre nombramiento y remoción y, 2º. El alcance de la figura de prepensionable. Se establecen los siguientes criterios: 1º. Los empleados públicos de libre nombramiento y remoción por regla general no gozan de estabilidad laboral reforzada, toda vez que la alta calidad y elevadas responsabilidades que demandan los convierte en empleos públicos que exigen el máximo grado de confianza por parte de los nominadores y, por tanto, éstos están revestidos de discrecionalidad en cuanto a su nombramiento y remoción. 2º. Cuando el único requisito faltante para acceder a la pensión de vejez es la edad, dado que se acredita el cumplimiento del número mínimo de semanas de cotización, no hay lugar a considerar que una persona sea beneficiaria del fuero de estabilidad laboral reforzada de prepensionable, dado que el requisito faltante de edad puede ser cumplido de manera posterior, con o sin vinculación laboral vigente. Es decir, que en estos casos no se frustra el acceso a la referida prestación. Se DENIEGA,",
+  "titulaciones": [
+    {
+      "tema": "TEST DE VULNERABILIDAD",
+      "subtema": "Aplicación a modo de obiter dicta perjudica considerablemente los derechos fundamentales de las personas que se encuentran en circunstancias de debilidad manifiesta, como quiera que con el mismo no serán sujetos de especial protecci"
+    },
+    {
+      "tema": "SERVIDORES PREPENSIONADOS QUE OCUPAN CARGOS DE LIBRE NOMBRAMIENTO Y REMOCION",
+      "subtema": "No gozan de estabilidad cuando el único requisito faltante para acceder a la pensión de vejez es el de la edad"
+    },
+    {
+      "tema": "ACCION DE TUTELA PARA RECLAMAR ESTABILIDAD LABORAL REFORZADA DE PREPENSIONADO",
+      "subtema": "Improcedencia por cuanto el cargo que desempeñaba el accionante era de libre nombramiento y remoción y no se acreditó el riesgo de frustración de su derecho pensional"
+    },
+    {
+      "tema": "ESTABILIDAD LABORAL REFORZADA DE SERVIDORES PUBLICOS QUE OCUPAN CARGOS DE LIBRE NOMBRAMIENTO Y REMOCION",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "PREPENSIONADO",
+      "subtema": "Alcance del concepto"
+    }
+  ]
+}

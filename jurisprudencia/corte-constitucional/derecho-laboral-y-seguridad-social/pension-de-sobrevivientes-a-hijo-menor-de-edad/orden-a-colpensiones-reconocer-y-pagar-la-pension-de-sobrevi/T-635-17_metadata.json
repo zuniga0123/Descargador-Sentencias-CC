@@ -1,0 +1,50 @@
+{
+  "radicado": "T-635-17",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2017,
+  "fecha_creacion": "2017-10-17",
+  "magistrado_ponente": "Alejandro Linares Cantillo",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "PENSION DE SOBREVIVIENTES A HIJO MENOR DE EDAD",
+  "subtema": "Orden a Colpensiones reconocer y pagar la pensión de sobrevivientes",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 100 de 1993",
+    "Ley 797 de 2003",
+    "Decreto Ley 2591 de 1991",
+    "Ley 1151 de 2007",
+    "Acto Legislativo 1 de 2005"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2017/T-635-17.htm",
+  "fecha_descarga": "2026-10-21T10:56:13.641825+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2017-10-17",
+  "fecha_publicacion": "2017-11-29",
+  "numero": "T-635/17",
+  "tipo_cc": "T",
+  "prov_id": "31699",
+  "tema_relatoria": "PENSION DE SOBREVIVIENTES. VULNERACION POR COLPENSIONES AL NEGAR RECONOCIMIENTO POR FALTA DE PAGO DE APORTES POR EMPLEADOR.",
+  "resumen": "La accionante, actuando como agente oficiosa de una menor de edad, aduce que Colpensiones vulneró derechos fundamentales de su agenciada al negarle el reconocimiento de la pensión de sobrevivientes con ocasión del deceso de su padre, argumentando que sus empleadores no cotizaron de manera oportuna 50 semanas dentro de los tres años anteriores a su fallecimiento. Se reitera jurisprudencia constitucional relacionada con las implicaciones de la mora en el pago de las cotizaciones al Sistema General de Pensiones, se CONCEDE el amparo invocado y se ordena el reconocimiento y pago de la prestación reclamada.",
+  "titulaciones": [
+    {
+      "tema": "PENSION DE SOBREVIVIENTES A HIJO MENOR DE EDAD",
+      "subtema": "Orden a Colpensiones reconocer y pagar la pensión de sobrevivientes"
+    },
+    {
+      "tema": "DERECHO A LA PENSIÓN DE SOBREVIVIENTES",
+      "subtema": "Vulneración por parte de Colpensiones al negar pensión de sobrevivientes a menor de edad, argumentando que no pueden ser tenidas en cuenta las semanas canceladas por el empleador de manera extemporánea"
+    },
+    {
+      "tema": "AGENCIA OFICIOSA EN TUTELA",
+      "subtema": "Requisitos"
+    },
+    {
+      "tema": "MORA EN EL PAGO DE APORTES Y COTIZACIONES PENSIONALES",
+      "subtema": "No es admisible que la entidad administradora de pensiones alegue a su favor su propia negligencia en la implementación de las acciones de cobro"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "radicado": "T-562-17",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2017,
+  "fecha_creacion": "2017-09-04",
+  "magistrado_ponente": "Antonio José Lizarazo Ocampo",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "REGIMEN DE TRANSICION PREVISTO EN EL ARTICULO 36 DE LA LEY 100 DE 1993",
+  "subtema": "Requisitos",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Decreto 758 de 1990",
+    "Acto Legislativo 1 de 2005",
+    "Decreto 2591 de 1991",
+    "Ley 712 de 2011",
+    "Decreto 2552 de 2015"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2017/T-562-17.htm",
+  "fecha_descarga": "2026-10-21T10:59:55.305754+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2017-09-04",
+  "fecha_publicacion": "2017-10-09",
+  "numero": "T-562/17",
+  "tipo_cc": "T",
+  "prov_id": "10709",
+  "tema_relatoria": "REGIMEN DE TRANSICION EN PENSIONES.",
+  "resumen": "Se ataca el fallo judicial que revocó la sentencia que había ordenado a Colpensiones el reconocimiento de la pensión de vejez a favor del accionante. Según el peticionario, dicha decisión vulneró sus derechos fundamentales al desconocer las pruebas aportadas al proceso ordinario, que permitían establecer que al momento de entrada en vigencia del Acto Legislativo 01 de 2005 contaba con 845.29 semanas cotizadas y no con 737, lo cual le permitía conservar el régimen de transición. Se aborda temática relacionada con la procedencia excepcional de la acción de tutela contra providencias judiciales, el derecho fáctico; el régimen de transición consagrado en el artículo 36 de la Ley 100 de 1993 y el requisito para la extensión de sus beneficios hasta diciembre de 2014. Tras comprobar que la providencia atacada incurrió en un defecto fáctico que vulneró el derecho fundamental al debido proceso del actor, se CONCEDE el amparo invocado.",
+  "titulaciones": [
+    {
+      "tema": "REGIMEN DE TRANSICION PREVISTO EN EL ARTICULO 36 DE LA LEY 100 DE 1993",
+      "subtema": "Requisitos"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Procedencia excepcional"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Procedencia por cuanto se configuró defecto fáctico por indebida valoración probatoria en reconocimiento de pensión de vejez"
+    },
+    {
+      "tema": "CARACTERIZACION DEL DEFECTO FACTICO COMO CAUSAL ESPECIFICA DE PROCEDIBILIDAD DE LA ACCION DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": null
+    },
+    {
+      "tema": "REGIMEN DE TRANSICION PREVISTO EN EL ARTICULO 36 DE LA LEY 100/93",
+      "subtema": "Reiteración de jurisprudencia"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Requisitos generales y especiales de procedibilidad"
+    }
+  ]
+}

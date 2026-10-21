@@ -1,0 +1,50 @@
+{
+  "radicado": "T-729-17",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2017,
+  "fecha_creacion": "2017-12-12",
+  "magistrado_ponente": "Alberto Rojas Ríos",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+  "subtema": "Improcedencia por cuanto se presenta contra una acción de tutela",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 388 de 1997"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2017/T-729-17.htm",
+  "fecha_descarga": "2026-10-21T10:48:31.029694+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2017-12-12",
+  "fecha_publicacion": "2018-05-11",
+  "numero": "T-729/17",
+  "tipo_cc": "T",
+  "prov_id": "32312",
+  "tema_relatoria": "TUTELA CONTRA PROVIDENCIA JUDICIAL. IMPROCEDENCIA POR FALTA DE LEGITIMIDAD EN LA CAUSA",
+  "resumen": "Se pretende con la acción de tutela que se revoque la providencia que resolvió un incidente de desacato en el que se otorgó un plazo improrrogable de dos meses para el cumplimiento de una orden de demolición por parte de la administración. Se aduce que con dicha decisión se desconocieron garantías fundamentales de una menor de edad, en tanto se afectó el derecho de posesión que mantenía sobre el predio objeto de la medida administrativa. Otra pretensión de la solicitud de amparo es que se declare nula la providencia de tutela que dio origen al precitado desacato, pues en ella no se vinculó a la peticionaria a pesar de tener interés legítimo para ello. Según la parte demandante, el predio fue perturbado por personas que tuvieron responsabilidad directa en la muerte de los abuelos y la madre de la menor. Se indica que en una sentencia proferida en un proceso ordinario agrario (acción posesoria de recuperación) se negó el derecho a la niña de recuperar la posesión del predio despojado, al no encontrar elementos que probaran la posesión que sus abuelos manifestaban ejercer sobre los mismos. Luego de concluir que la menor carece de legitimidad para exigir que la administración ejecute la orden de demoler las viviendas construidas en terrenos que no son de su propiedad o sobre los que carece de derecho alguno, se declara la IMPROCEDENCIA del amparo invocado.",
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Improcedencia por cuanto se presenta contra una acción de tutela"
+    },
+    {
+      "tema": "AGENCIA OFICIOSA EN TUTELA",
+      "subtema": "Requisitos"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Improcedencia por falta de legitimación por activa"
+    },
+    {
+      "tema": "LEGITIMACION POR ACTIVA EN TUTELA Y AGENCIA OFICIOSA",
+      "subtema": "Si del escrito de tutela se desprende la imposibilidad del titular del derecho de acudir en su propio nombre para su defensa, el juez puede hacer la interpretación que se acude como agente oficioso"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Requisitos generales y especiales de procedibilidad"
+    }
+  ]
+}

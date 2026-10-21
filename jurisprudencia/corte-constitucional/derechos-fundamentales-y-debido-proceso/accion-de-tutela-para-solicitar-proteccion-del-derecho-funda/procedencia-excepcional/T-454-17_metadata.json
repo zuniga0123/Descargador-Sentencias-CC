@@ -1,0 +1,60 @@
+{
+  "radicado": "T-454-17",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2017,
+  "fecha_creacion": "2017-07-17",
+  "magistrado_ponente": "Cristina Pardo Schlesinger",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCION DE TUTELA PARA SOLICITAR PROTECCION DEL DERECHO FUNDAMENTAL A LA VIVIENDA",
+  "subtema": "Procedencia excepcional",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 675 de 2001",
+    "Decreto 2591 de 1991",
+    "Ley 16 de 1985",
+    "Decreto Ley 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2017/T-454-17.htm",
+  "fecha_descarga": "2026-10-21T10:58:28.589824+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2017-07-17",
+  "fecha_publicacion": "2017-11-10",
+  "numero": "T-454/17",
+  "tipo_cc": "T",
+  "prov_id": "31618",
+  "tema_relatoria": "ACCION DE TUTELA CONTRA PROPIEDAD HORIZONTAL POR DAÑOS GENERADOS POR OBRAS REALIZADAS. IMPROCEDENCIA POR EXISTIR OTROS MEDIOS DE DEFENSA JUDICIAL.",
+  "resumen": "Los accionantes alegan que sus derechos fundamentales fueron vulnerados por la Administración de la Unidad Residencial donde residen, debido a que realizaron obras para recoger aguas escorrentías por lluvias en un lote de terreno colindante, el cual, a pesar de ser espacio público es utilizado por la copropiedad como cancha de fútbol y zona verde para la comunidad en general. Se aduce que con dichos arreglos se generó humedades e inundaciones en su vivienda. Se analiza jurisprudencia relacionada con: 1º. La subsidiariedad de la acción de tutela como requisito de procedencia general. 2º. La aplicación de este presupuesto en casos de propiedad horizontal y en asunto s en los que se invoca la protección del derecho a la vivienda digna por daños ocasionados por obras de infraestructura o hechos de terceros. La Sala reitera que tratándose de controversias en el marco de relaciones de propiedad horizontal, por regla general, debe acudirse a los mecanismos ordinarios de defensa judicial. Excepcionalmente, en los casos en los que se demuestre la afectación de necesidades básicas vitales que implique la violación de derechos fundamentales, procederá la acción de tutela por resultar imperiosa su protección. De la misma forma, frente a fallas presentadas en una vivienda por hechos de terceros particulares, la acción de tutela será procedente cuando se infiera un riesgo concreto, inminente y de tal gravedad que exija la intervención del juez constitucional con miras a proteger garantías constitucionales. IMPROCEDENTE.",
+  "titulaciones": [
+    {
+      "tema": "ACCION DE TUTELA PARA SOLICITAR PROTECCION DEL DERECHO FUNDAMENTAL A LA VIVIENDA",
+      "subtema": "Procedencia excepcional"
+    },
+    {
+      "tema": "PRINCIPIO DE SUBSIDIARIEDAD DE LA ACCIÓN DE TUTELA",
+      "subtema": "Juez debe verificar si ante la existencia de otro medio de defensa judicial, éste es eficaz e idóneo"
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA PROPIEDAD HORIZONTAL",
+      "subtema": "Procedencia en casos de conflictos entre habitantes de copropiedad o bienes sometidos al régimen de propiedad horizontal, cuando afecta derechos fundamentales"
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA PROPIEDAD HORIZONTAL POR DAÑOS GENERADOS A VIVIENDA COMO CONSECUENCIA DE OBRAS REALIZADAS EN LUGARES COLINDANTES",
+      "subtema": "Improcedencia por existir otro medio de defensa judicial y no acreditar perjuicio irremediable"
+    },
+    {
+      "tema": "DERECHO A LA VIVIENDA DIGNA",
+      "subtema": "Reiteración de jurisprudencia"
+    },
+    {
+      "tema": "DERECHO A LA VIVIENDA DIGNA",
+      "subtema": "Alcance y contenido"
+    },
+    {
+      "tema": "DERECHO A LA VIVIENDA DIGNA",
+      "subtema": "Instrumentos internacionales de protección"
+    }
+  ]
+}

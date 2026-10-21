@@ -1,0 +1,43 @@
+{
+  "radicado": "T-625-17",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2017,
+  "fecha_creacion": "2017-10-09",
+  "magistrado_ponente": "Carlos Bernal Pulido",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "CARENCIA ACTUAL DE OBJETO POR HECHO SUPERADO",
+  "subtema": "Se efectuó el desembolso del subsidio familiar de vivienda",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2190 de 2009",
+    "Decreto 1077 de 2015",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2017/T-625-17.htm",
+  "fecha_descarga": "2026-10-21T10:58:51.256894+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2017-10-09",
+  "fecha_publicacion": "2017-10-31",
+  "numero": "T-625/17",
+  "tipo_cc": "T",
+  "prov_id": "10813",
+  "tema_relatoria": "CARENCIA ACTUAL DE OBJETO POR HECHO SUPERADO. SE REALIZO DESEMBOLSO DE SUBSIDIO FAMILIAR DE VIVIENDA",
+  "resumen": "La vulneración de derechos fundamentales por parte de la Caja de Compensación accionada se atribuye a la negativa de realizar el desembolso del subsidio familiar de vivienda que le otorgó a la actora desde el año 2012. Teniendo en cuenta que en sede de revisión la pretensión de la accionante fue satisfecha en su totalidad, la Corte declaró la carencia actual de objeto por HECHO SUPERADO.",
+  "titulaciones": [
+    {
+      "tema": "CARENCIA ACTUAL DE OBJETO POR HECHO SUPERADO",
+      "subtema": "Se efectuó el desembolso del subsidio familiar de vivienda"
+    },
+    {
+      "tema": "ACCION DE TUTELA PARA SOLICITAR SUBSIDIO DE VIVIENDA",
+      "subtema": "Improcedencia por configurarse carencia actual de objeto por hecho superado"
+    },
+    {
+      "tema": "CARENCIA ACTUAL DE OBJETO",
+      "subtema": "Fenómeno que se configura en los siguientes eventos: hecho superado, daño consumado o situación sobreviniente"
+    }
+  ]
+}

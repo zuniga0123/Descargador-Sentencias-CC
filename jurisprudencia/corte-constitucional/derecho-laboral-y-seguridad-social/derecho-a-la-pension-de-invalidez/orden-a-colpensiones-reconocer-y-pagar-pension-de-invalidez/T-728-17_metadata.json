@@ -1,0 +1,47 @@
+{
+  "radicado": "T-728-17",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2017,
+  "fecha_creacion": "2017-12-12",
+  "magistrado_ponente": "Alberto Rojas Ríos",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "DERECHO A LA PENSIÓN DE INVALIDEZ",
+  "subtema": "Orden a Colpensiones reconocer y pagar pensión de invalidez, incluyendo las mesadas dejadas de percibir",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 100 de 1993",
+    "Decreto 604 de 2013",
+    "Decreto Ley 2591 de 1991",
+    "Ley 860 de 2003",
+    "Decreto 1730 de 2001",
+    "Decreto 2983 de 2013"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2017/T-728-17.htm",
+  "fecha_descarga": "2026-10-21T10:53:32.526542+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2017-12-12",
+  "fecha_publicacion": "2018-01-25",
+  "numero": "T-728/17",
+  "tipo_cc": "T",
+  "prov_id": "31850",
+  "tema_relatoria": "PENSION DE INVALIDEZ E INDEMNIZACION SUSTITUTIVA, RECONOCIMIENTO PREVIO DE INDEMNIZACION NO ES JUSTIFICACION PARA NO OTORGAR PENSION DE INVALIDEZ SI SE CUMPLE CON REQUISITOS.",
+  "resumen": "Se atribuye a Colpensiones la vulneración de derechos fundamentales de la accionante, como consecuencia de haber negado la pensión de invalidez de origen común que reclamó, bajo el supuesto reconocimiento previo de una indemnización sustitutiva de la pensión de vejez, la cual resultaba incompatible con la prestación pedida. Se aborda temática relacionada con los requisitos para acceder a la pensión de invalidez por riesgo común, el otorgamiento previo de una indemnización sustitutiva y el reconocimiento de la pensión de invalidez. La Sala considera que Colpensiones no sólo desconoció el precedente fijado por la Corporación, sino que además inaplicó el principio de favorabilidad laboral reconocido en el artículo 53 de la Constitución, en tanto debió dar prevalencia a la pensión de invalidez sobre la indemnización sustitutiva y los posibles Beneficios Económicos Periódicos (BEPS ) que hubiera podido recibir la accionante en el marco de dicho programa, ya que la mencionada prestación social garantizaba en mejor medida las contingencias de su discapacidad. Se CONCEDE.",
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA PENSIÓN DE INVALIDEZ",
+      "subtema": "Orden a Colpensiones reconocer y pagar pensión de invalidez, incluyendo las mesadas dejadas de percibir"
+    },
+    {
+      "tema": "PENSION DE INVALIDEZ E INDEMNIZACION SUSTITUTIVA",
+      "subtema": "Reconocimiento previo de indemnización sustitutiva no es justificación para negar pensión de invalidez si cumple los requisitos"
+    },
+    {
+      "tema": "PENSION DE INVALIDEZ POR RIESGO COMUN",
+      "subtema": "Requisitos para el reconocimiento"
+    }
+  ]
+}

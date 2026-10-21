@@ -1,0 +1,41 @@
+{
+  "radicado": "C-122-18",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2018,
+  "fecha_creacion": "2018-11-14",
+  "magistrado_ponente": "Carlos Bernal Pulido",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "TERMINO PARA RESOLVER IMPUGNACION EN LOS PROCESOS DE TUTELA",
+  "subtema": "No es óbice para que solicitudes de tutela se resuelvan en 10 días",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2018/C-122-18.htm",
+  "fecha_descarga": "2026-10-21T10:38:54.861920+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2018-11-14",
+  "fecha_publicacion": "2018-11-29",
+  "numero": "C-122/18",
+  "tipo_cc": "C",
+  "prov_id": "33244",
+  "tema_relatoria": "ACCIÓN DE TUTELA. TÉRMINO DE VEINTE (20) DÍAS PARA PROFERIR EL FALLO DE SEGUNDA INSTANCIA.",
+  "resumen": "Demanda de inconstitucionalidad en contra del artículo 32 (parcial) del Decreto 2591 de 1991, por el cual se reglamenta la acción de tutela consagrada en el artículo 86 de la Constitución Política. Alegan los demandantes que la expresión cuestionada vulnera el artículo 86 Superior, al disponer un término superior a diez días para resolver la impugnación de los procesos de tutela. La Corte considera que el aparte normativo demandado es EXEQUIBLE por cuanto no desconoce la Carta Política. Lo anterior, toda vez que el término de 20 días previsto para proferir el fallo de segunda instancia no es óbice para que las solicitudes de tutela se resuelvan en diez días y es, en todo caso un término razonable y proporcional que le permite al juez decretar nuevas pruebas y valorar con detenimiento las razones de la impugnación.",
+  "titulaciones": [
+    {
+      "tema": "TERMINO PARA RESOLVER IMPUGNACION EN LOS PROCESOS DE TUTELA",
+      "subtema": "No es óbice para que solicitudes de tutela se resuelvan en 10 días"
+    },
+    {
+      "tema": "TERMINO PARA RESOLVER IMPUGNACION EN LOS PROCESOS DE TUTELA",
+      "subtema": "No desconoce el artículo 86 de la Constitución Política"
+    },
+    {
+      "tema": "TERMINO PARA RESOLVER IMPUGNACION EN LOS PROCESOS DE TUTELA",
+      "subtema": "Razonable y proporcional"
+    }
+  ]
+}
