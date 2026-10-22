@@ -1,0 +1,61 @@
+{
+  "radicado": "T-203-04",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2004,
+  "fecha_creacion": "2004-03-04",
+  "magistrado_ponente": "Dra CLARA INÉS VARGAS HERNÁNDEZ",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "FUERO SINDICAL Y PROCESOS DE REESTRUCTURACION ADMINISTRATIVA",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 50 de 1990",
+    "Decreto 2351 de 1965",
+    "Ley 712 de 2001",
+    "Ley 362 de 1997"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2004/T-203-04.htm",
+  "fecha_descarga": "2026-10-22T21:59:10.623639+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2004-03-04",
+  "fecha_publicacion": null,
+  "numero": "T-203/04",
+  "tipo_cc": "T",
+  "prov_id": "23307",
+  "tema_relatoria": "DERECHOS AL DEBIDO PROCESO LABORAL Y LIBERTAD DE ASOCIACION. VIA DE HECHO. SOLICITUD REINTEGRO POR DESPIDO SIN JUSTA CAUSA. SUPRESION DE CARGOS. REESTRUCTURACION ADMINISTRATIVA. FUERO SINDICAL. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "FUERO SINDICAL Y PROCESOS DE REESTRUCTURACION ADMINISTRATIVA",
+      "subtema": null
+    },
+    {
+      "tema": "DERECHO DE ASOCIACIÓN SINDICAL",
+      "subtema": "Vulneración por despidos colectivos por reestructuración"
+    },
+    {
+      "tema": "DEBIDO PROCESO DE TRABAJADORES OFICIALES SINDICALIZADOS",
+      "subtema": "Vulneración por despidos colectivos por reestructuración y sin autorización judicial"
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA PROVIDENCIAS JUDICIALES Y DEBIDO PROCESO LABORAL",
+      "subtema": "Procedencia excepcional por vía de hecho judicial"
+    },
+    {
+      "tema": "ACCION DE REINTEGRO DE TRABAJADOR CON FUERO SINDICAL",
+      "subtema": null
+    },
+    {
+      "tema": "VIA DE HECHO EN PROCESO LABORAL",
+      "subtema": "Vulneración de derechos fundamentales"
+    },
+    {
+      "tema": "RETIRO DEL SERVICIO DE SERVIDOR PUBLICO AFORADO",
+      "subtema": "Calificación judicial del juez laboral"
+    }
+  ]
+}

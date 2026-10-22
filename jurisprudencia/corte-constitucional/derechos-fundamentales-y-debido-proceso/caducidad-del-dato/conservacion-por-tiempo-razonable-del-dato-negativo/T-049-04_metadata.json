@@ -1,0 +1,83 @@
+{
+  "radicado": "T-049-04",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2004,
+  "fecha_creacion": "2004-01-29",
+  "magistrado_ponente": "Dr JAIME CÓRDOBA TRIVIÑO",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "CADUCIDAD DEL DATO",
+  "subtema": "Conservación por tiempo razonable del dato negativo",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto Ley 2591 de 1991",
+    "Ley 716 de 2001",
+    "Acto Legislativo 2 de 2003"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2004/T-049-04.htm",
+  "fecha_descarga": "2026-10-22T21:43:21.468463+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2004-01-29",
+  "fecha_publicacion": null,
+  "numero": "T-049/04",
+  "tipo_cc": "T",
+  "prov_id": "23143",
+  "tema_relatoria": "DERECHOS A LA INTIMIDAD BUEN NOMBRE Y HABEAS DATA DE DEUDOR TARJETA DE CREDITO. ACTUALIZACION Y PERMANENCIA INFORMACION FINANCIERA NEGATIVA. ADMINISTRACION Y CADUCIDAD DE DATOS PERSONALES. EFECTO JURIDICO DE DECISIONES JUDICIALES. COSA JUZGADA CONSTITUCIO",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "CADUCIDAD DEL DATO",
+      "subtema": "Conservación por tiempo razonable del dato negativo"
+    },
+    {
+      "tema": "PRINCIPIO DE CADUCIDAD",
+      "subtema": "Compatibilidad con caducidad del dato negativo"
+    },
+    {
+      "tema": "BANCO DE DATOS",
+      "subtema": "Límite temporal de datos negativos"
+    },
+    {
+      "tema": "BANCO DE DATOS",
+      "subtema": "Límites a la recopilación de información financiera"
+    },
+    {
+      "tema": "CADUCIDAD DEL DATO",
+      "subtema": "Límite temporal"
+    },
+    {
+      "tema": "CADUCIDAD DEL DATO",
+      "subtema": "Consecuencias de la eliminación inmediata del registro negativo"
+    },
+    {
+      "tema": "PRINCIPIO DE INCORPORACION",
+      "subtema": "Caducidad del dato negativo"
+    },
+    {
+      "tema": "PRINCIPIO DE NECESIDAD",
+      "subtema": "Compatibilidad con caducidad del dato negativo"
+    },
+    {
+      "tema": "HABEAS DATA",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "JUEZ DE TUTELA",
+      "subtema": "Imposibilidad de aplicar disposiciones inconstitucionales"
+    },
+    {
+      "tema": "PRINCIPIO DE UTILIDAD",
+      "subtema": "Compatibilidad con caducidad del dato negativo"
+    },
+    {
+      "tema": "PRINCIPIOS EN LA ADMINISTRACION DE DATOS PERSONALES",
+      "subtema": "Alcance y contenido"
+    },
+    {
+      "tema": "SENTENCIA DE INEXEQUIBILIDAD",
+      "subtema": "Efectos"
+    }
+  ]
+}

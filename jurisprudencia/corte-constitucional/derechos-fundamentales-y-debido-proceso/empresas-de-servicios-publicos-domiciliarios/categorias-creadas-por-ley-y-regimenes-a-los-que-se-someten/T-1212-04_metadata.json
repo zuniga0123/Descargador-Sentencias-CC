@@ -1,0 +1,69 @@
+{
+  "radicado": "T-1212-04",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2004,
+  "fecha_creacion": "2004-12-03",
+  "magistrado_ponente": "Dr RODRIGO ESCOBAR GIL",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "EMPRESAS DE SERVICIOS PUBLICOS DOMICILIARIOS",
+  "subtema": "Categorías creadas por ley y regímenes a los que se someten",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 142 de 1994",
+    "Ley 489 de 1998",
+    "Decreto 2591 de 1991",
+    "Ley 143 de 1994",
+    "Decreto 2649 de 1993"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2004/T-1212-04.htm",
+  "fecha_descarga": "2026-10-22T21:56:25.592106+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2004-12-03",
+  "fecha_publicacion": null,
+  "numero": "T-1212/04",
+  "tipo_cc": "T",
+  "prov_id": "24489",
+  "tema_relatoria": "DERECHO AL DEBIDO PROCESO LA DEFENSA Y LA IGUALDAD DE PERSONA JURIDICA COMERCIALIZADORA DE ENERGIA ELECTRICA POR ISA NEGARSE A CANCELAR EL REGISTRO Y EL DESPACHO DEL CONTRATO DE SUMINISTRO DE ENERGIA DE CONFORMIDAD CON EL CELEBRADO POR LA DEMANDANTE. SOLI",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "EMPRESAS DE SERVICIOS PUBLICOS DOMICILIARIOS",
+      "subtema": "Categorías creadas por ley y regímenes a los que se someten"
+    },
+    {
+      "tema": "INDEFENSION DE PERSONA JURIDICA",
+      "subtema": "Ampliación del concepto"
+    },
+    {
+      "tema": "PERSONA JURIDICA",
+      "subtema": "Titularidad de derechos fundamentales"
+    },
+    {
+      "tema": "SUBORDINACION E INDEFENSION",
+      "subtema": "Diferencias"
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA PARTICULARES",
+      "subtema": "Eventos en los que procede"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Improcedencia por no ejercicio previo de recursos ordinarios"
+    },
+    {
+      "tema": "INDEFENSION DE PERSONA JURIDICA",
+      "subtema": "Caso en que se encuentra incursa en causal de disolución obligatoria"
+    },
+    {
+      "tema": "SUBORDINACION",
+      "subtema": "Se puede presentar en relación jurídica de carácter reglamentario"
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA EMPRESA DE SERVICIOS PUBLICOS DOMICILIARIOS",
+      "subtema": "Improcedencia por no existir la relación usuario-servidor"
+    }
+  ]
+}

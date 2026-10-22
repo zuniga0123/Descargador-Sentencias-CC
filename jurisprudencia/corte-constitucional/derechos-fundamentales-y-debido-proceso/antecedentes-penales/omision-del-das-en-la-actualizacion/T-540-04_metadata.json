@@ -1,0 +1,46 @@
+{
+  "radicado": "T-540-04",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2004,
+  "fecha_creacion": "2004-05-28",
+  "magistrado_ponente": "Dr JAIME CÓRDOBA TRIVIÑO",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ANTECEDENTES PENALES",
+  "subtema": "Omisión del DAS en la actualización",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Decreto 2398 de 1986"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2004/T-540-04.htm",
+  "fecha_descarga": "2026-10-22T21:49:39.619436+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2004-05-28",
+  "fecha_publicacion": null,
+  "numero": "T-540/04",
+  "tipo_cc": "T",
+  "prov_id": "23681",
+  "tema_relatoria": "DERECHO AL HABEAS DATA Y DEBIDO PROCESO. SOLICITUD EXPEDICION CERTIFICADO JUDICIAL SIN ANTECEDENTES. ACTUALIZACION DE INFORMACION. CONDENA EXTINGUIDA EN PROCESO POR DELITO DE PORTE ILEGAL DE ARMAS. HOMONIMIA O SUPLANTACION DE PERSONAS. PRESUNCION DE ACIER",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ANTECEDENTES PENALES",
+      "subtema": "Omisión del DAS en la actualización"
+    },
+    {
+      "tema": "HABEAS DATA",
+      "subtema": "Rectificación en banco de datos oficiales de condena penal"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Procedencia excepcional en casos de homónimos"
+    },
+    {
+      "tema": "HOMONIMO",
+      "subtema": "Debe haber prueba suficiente para que proceda tutela"
+    }
+  ]
+}

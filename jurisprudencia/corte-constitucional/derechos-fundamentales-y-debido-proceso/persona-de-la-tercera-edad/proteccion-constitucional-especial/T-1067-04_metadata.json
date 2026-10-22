@@ -1,0 +1,50 @@
+{
+  "radicado": "T-1067-04",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2004,
+  "fecha_creacion": "2004-10-28",
+  "magistrado_ponente": "Dr HUMBERTO ANTONIO SIERRA PORTO",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "PERSONA DE LA TERCERA EDAD",
+  "subtema": "Protección constitucional especial",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2004/T-1067-04.htm",
+  "fecha_descarga": "2026-10-22T21:45:22.918866+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2004-10-28",
+  "fecha_publicacion": null,
+  "numero": "T-1067/04",
+  "tipo_cc": "T",
+  "prov_id": "24311",
+  "tema_relatoria": "DERECHO AL DEBIDO PROCESO ADMINISTRATIVO DE PENSIONADA A QUIEN LE FUERA RECONOCIDA LA PENSION MENSUAL VITALICIA Y CON POSTERIORIDAD SE LE REVOCA EN TODAS SUS PARTES LA RESOLUCIÓN DE RECONOCIMIENTO. SOLICITA LA SUSPENSION DE LA ACCION PERTURBADORA QUE LA P",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "PERSONA DE LA TERCERA EDAD",
+      "subtema": "Protección constitucional especial"
+    },
+    {
+      "tema": "DEBIDO PROCESO ADMINISTRATIVO",
+      "subtema": "Vulneración por revocar actos administrativo de carácter particular y concreto sin consentimiento del titular del mismo"
+    },
+    {
+      "tema": "DEBIDO PROCESO ADMINISTRATIVO",
+      "subtema": "Vulneración por suspensión unilateral de la pensión de vejez"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Procedencia por vulneración al mínimo vital cuando se revoca el acto administrativo que otorga la pensión"
+    },
+    {
+      "tema": "ACTO ADMINISTRATIVO DE CARACTER PARTICULAR Y CONCRETO",
+      "subtema": "Eventos en los que se puede revocar unilateralmente"
+    }
+  ]
+}

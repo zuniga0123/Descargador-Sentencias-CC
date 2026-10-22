@@ -1,0 +1,60 @@
+{
+  "radicado": "T-033-04",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2004,
+  "fecha_creacion": "2004-01-22",
+  "magistrado_ponente": "Dr MARCO GERARDO MONROY CABRA",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "ACCIÓN DE TUTELA",
+  "subtema": "Cumplimiento de obligaciones de hacer ordenadas en providencias judiciales",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Decreto 1295 de 1995",
+    "Decreto 1346 de 1994",
+    "Decreto 524 de 2000"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2004/T-033-04.htm",
+  "fecha_descarga": "2026-10-22T21:43:06.609527+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2004-01-22",
+  "fecha_publicacion": null,
+  "numero": "T-033/04",
+  "tipo_cc": "T",
+  "prov_id": "23127",
+  "tema_relatoria": "DERECHOS A LA SEGURIDAD SOCIAL DEBIDO PROCESO Y ACCESO A LA ADMINISTRACION DE JUSTICIA DE PERSONAS DISCAPACITADAS. SOLICITUD RECONOCIMIENTO Y PAGO PENSION DE INVALIDEZ. PERDIDA CAPACIDAD LABORAL. PAGO COSTO DICTAMEN JUNTA REGIONAL DE CALIFICACION DE INVAL",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Cumplimiento de obligaciones de hacer ordenadas en providencias judiciales"
+    },
+    {
+      "tema": "JUNTA DE CALIFICACIÓN DE INVALIDEZ",
+      "subtema": "Honorarios corresponde reconocerlos a la entidad de previsión a que esté afiliado el solicitante"
+    },
+    {
+      "tema": "SEGURO SOCIAL",
+      "subtema": "Pago de honorarios a junta de calificación de invalidez para valoración de incapacidad laboral"
+    },
+    {
+      "tema": "DERECHO DE ACCESO A LA ADMINISTRACION DE JUSTICIA Y EFECTIVO CUMPLIMIENTO DE LAS PROVIDENCIAS JUDICIALES",
+      "subtema": null
+    },
+    {
+      "tema": "PENSIÓN DE INVALIDEZ",
+      "subtema": "Fundamental por conexidad"
+    },
+    {
+      "tema": "JUNTA DE CALIFICACIÓN DE INVALIDEZ",
+      "subtema": "Determinación de la pérdida de capacidad laboral"
+    },
+    {
+      "tema": "JUNTA DE CALIFICACIÓN DE INVALIDEZ",
+      "subtema": "No está obligada a practicar la valoración médica si no se le cancelan los honorarios respectivos"
+    }
+  ]
+}

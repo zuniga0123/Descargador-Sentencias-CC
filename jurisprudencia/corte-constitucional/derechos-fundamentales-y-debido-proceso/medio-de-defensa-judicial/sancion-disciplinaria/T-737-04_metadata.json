@@ -1,0 +1,54 @@
+{
+  "radicado": "T-737-04",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2004,
+  "fecha_creacion": "2004-08-05",
+  "magistrado_ponente": "Dra CLARA INÉS VARGAS HERNÁNDEZ",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "MEDIO DE DEFENSA JUDICIAL",
+  "subtema": "Sanción disciplinaria",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 200 de 1995"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2004/T-737-04.htm",
+  "fecha_descarga": "2026-10-22T21:36:56.528112+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2004-08-05",
+  "fecha_publicacion": "2004-08-27",
+  "numero": "T-737/04",
+  "tipo_cc": "T",
+  "prov_id": "23939",
+  "tema_relatoria": "DERECHO AL DEBIDO PROCESO LA IGUALDAD LA DOBLE INSTANCIA Y EL BUEN NOMBRE DE EX VICECONTRALOR GENERAL DE LA REPUBLICA CONTRA QUIEN LA PROCURADURIA GENERAL DE LA NACION PROFIRIO FALLO SANCIONATORIO POR FALTAS DISCIPLINARIAS. SOLICITA LA TUTELA COMO MECAN",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "MEDIO DE DEFENSA JUDICIAL",
+      "subtema": "Sanción disciplinaria"
+    },
+    {
+      "tema": "SANCION DISCIPLINARIA",
+      "subtema": "Existencia de otro mecanismo de defensa judicial"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "No sustituye mecanismos de defensa judicial"
+    },
+    {
+      "tema": "JURISDICCION CONTENCIOSO ADMINISTRATIVA",
+      "subtema": "Revisión de actos administrativos de orden disciplinario"
+    },
+    {
+      "tema": "JUEZ DE TUTELA",
+      "subtema": "Respeto de jurisdicciones establecidas"
+    },
+    {
+      "tema": "PERJUICIO IRREMEDIABLE",
+      "subtema": "Inexistencia por sanción disciplinaria"
+    }
+  ]
+}

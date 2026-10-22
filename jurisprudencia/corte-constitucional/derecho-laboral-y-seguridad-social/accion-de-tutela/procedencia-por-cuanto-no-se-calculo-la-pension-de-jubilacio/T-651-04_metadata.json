@@ -1,0 +1,60 @@
+{
+  "radicado": "T-651-04",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2004,
+  "fecha_creacion": "2004-07-08",
+  "magistrado_ponente": "Dr MARCO GERARDO MONROY CABRA",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "ACCIÓN DE TUTELA",
+  "subtema": "Procedencia por cuanto no se calculó la pensión de jubilación con base en el régimen de transición",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 546 de 1971",
+    "Ley 100 de 1993",
+    "Decreto 717 de 1978",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2004/T-651-04.htm",
+  "fecha_descarga": "2026-10-22T21:38:50.725865+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2004-07-08",
+  "fecha_publicacion": null,
+  "numero": "T-651/04",
+  "tipo_cc": "T",
+  "prov_id": "23820",
+  "tema_relatoria": "DERECHOS AL DEBIDO PROCESO TRABAJO SEGURIDAD SOCIAL VIDA DIGNA Y DERECHOS ADQUIRIDOS. SOLICITUD LIQUIDACION DE PENSION SEGÚN REGIMEN DE FUNCIONARIOS Y EMPLEADOS DE LA RAMA JUDICIAL TUTELA COMO MECANISMO TRANSITORIO. IMPUGNACION LEGALIDAD ACTO ADMINISTRATI",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Procedencia por cuanto no se calculó la pensión de jubilación con base en el régimen de transición"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Subsidiariedad"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Improcedencia para impugnar legalidad del acto administrativo de reconocimiento pensional"
+    },
+    {
+      "tema": "PENSION DE SERVIDOR PUBLICO",
+      "subtema": "Ingreso base de liquidación hace parte del régimen de transición"
+    },
+    {
+      "tema": "PENSION DE EXFUNCIONARIOS DE LA RAMA JUDICIAL",
+      "subtema": "Ingreso base de liquidación se calculó con fundamento en Decreto 546 de 1971"
+    },
+    {
+      "tema": "VIA DE HECHO POR CAJA NACIONAL DE PREVISION SOCIAL",
+      "subtema": "Ingreso base de liquidación pensional no se calculó con fundamento en Decreto 546 de 1971"
+    },
+    {
+      "tema": "PERJUICIO IRREMEDIABLE",
+      "subtema": "Elementos para que se configure"
+    }
+  ]
+}

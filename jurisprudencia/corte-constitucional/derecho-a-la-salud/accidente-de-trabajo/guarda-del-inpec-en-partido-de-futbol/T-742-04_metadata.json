@@ -1,0 +1,48 @@
+{
+  "radicado": "T-742-04",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2004,
+  "fecha_creacion": "2004-08-06",
+  "magistrado_ponente": "Dr MANUEL JOSÉ CEPEDA ESPINOSA",
+  "area": "Derecho a la Salud",
+  "tema": "ACCIDENTE DE TRABAJO",
+  "subtema": "Guarda del INPEC en partido de fútbol",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Decreto 1295 de 1994",
+    "Ley 100 de 1993",
+    "Ley 50 de 1990"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2004/T-742-04.htm",
+  "fecha_descarga": "2026-10-22T21:38:18.031103+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2004-08-06",
+  "fecha_publicacion": null,
+  "numero": "T-742/04",
+  "tipo_cc": "T",
+  "prov_id": "23944",
+  "tema_relatoria": "DERECHO A LA INTEGRIDAD EN CONEXIDAD CON EL DERECHO A LA SALUD DE GUARDIA DEL INPEC ACCIDENTADO EN PARTIDO DE FÚTBOL. PRESTACIÓN OPORTUNA DE SERVICIOS DE SALUD EXISTIENDO CONTROVERSIA ENTRE EPS Y ARP SOBRE CONFIGURACIÓN ACCIDENTE DE TRABAJO PARA PRECISAR",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCIDENTE DE TRABAJO",
+      "subtema": "Guarda del INPEC en partido de fútbol"
+    },
+    {
+      "tema": "ENTIDAD PROMOTORA DE SALUD Y ACCIDENTE DE TRABAJO",
+      "subtema": "Derecho a repetir contra la ARP si la jurisdicción laboral decide que fue accidente"
+    },
+    {
+      "tema": "ENTIDAD PROMOTORA DE SALUD Y ADMINISTRADORA DE RIESGOS PROFESIONALES",
+      "subtema": "Controversia sobre prestación de servicios médicos"
+    },
+    {
+      "tema": "ENTIDAD PROMOTORA DE SALUD",
+      "subtema": "Atención médica al afiliado derivada de accidente de trabajo mientras se resuelve controversia en la jurisdicción"
+    }
+  ]
+}

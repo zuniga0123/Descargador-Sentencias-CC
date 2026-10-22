@@ -1,0 +1,49 @@
+{
+  "radicado": "T-518-04",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2004,
+  "fecha_creacion": "2004-05-20",
+  "magistrado_ponente": "Dr MARCO GERARDO MONROY CABRA",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "ENTIDAD ADMINISTRADORA DE PENSIONES",
+  "subtema": "Reconocimiento aunque empleador no hubiere cotizado algunos meses",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Ley 33 de 1985",
+    "Decreto 1818 de 1996",
+    "Ley 71 de 1988",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2004/T-518-04.htm",
+  "fecha_descarga": "2026-10-22T21:49:09.917800+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2004-05-20",
+  "fecha_publicacion": null,
+  "numero": "T-518/04",
+  "tipo_cc": "T",
+  "prov_id": "23632",
+  "tema_relatoria": "DERECHO A LA SEGURIDAD SOCIAL Y MINIMO VITAL. SOLICITUD RECONOCIMIENTO Y PAGO PENSION DE JUBILACION. CUMPLIMIENTO DE REQUISITOS. MORA PAGO DE APORTES POR EMPLEADOR. ACCION DE REPETICION. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ENTIDAD ADMINISTRADORA DE PENSIONES",
+      "subtema": "Reconocimiento aunque empleador no hubiere cotizado algunos meses"
+    },
+    {
+      "tema": "DERECHO A LA PENSION DE JUBILACION",
+      "subtema": "El hecho de no cotizarle lo debido no afecta su reconocimiento"
+    },
+    {
+      "tema": "DERECHO A LA SEGURIDAD SOCIAL",
+      "subtema": "Empleado no puede sufrir las consecuencias por la mora del empleador en pago de aportes"
+    },
+    {
+      "tema": "DERECHO A LA PENSIÓN",
+      "subtema": "Fundamental por conexidad"
+    }
+  ]
+}

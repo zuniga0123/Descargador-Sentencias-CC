@@ -1,0 +1,56 @@
+{
+  "radicado": "T-685-04",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2004,
+  "fecha_creacion": "2004-07-22",
+  "magistrado_ponente": null,
+  "area": "Derecho a la Salud",
+  "tema": "ADMINISTRADORA DEL REGIMEN SUBSIDIADO",
+  "subtema": "Obligaciones frente a tratamientos, procedimientos o medicamentos no incluidos en el POS-S",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 806 de 1998",
+    "Ley 715 de 2001",
+    "Ley 100 de 1993",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2004/T-685-04.htm",
+  "fecha_descarga": "2026-10-22T21:42:33.671238+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2004-07-22",
+  "fecha_publicacion": null,
+  "numero": "T-685/04",
+  "tipo_cc": "T",
+  "prov_id": "23858",
+  "tema_relatoria": "DERECHO A LA SALUD Y SEGURIDAD SOCIAL EN CONEXIDAD CON LA VIDA DIGNA Y LA PROTECCION ESPECIAL DE PERSONA DE LA TERCERA EDAD AFILIADA AL REGIMEN SUBSIDIADO QUE SUFRIO TROMBOSIS Y SE TRASLADO DE MUNICIPIO. SOLICITUD MEDICAMENTOS TRATAMIENTO Y PROCEDIMIENTOS",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ADMINISTRADORA DEL REGIMEN SUBSIDIADO",
+      "subtema": "Obligaciones frente a tratamientos, procedimientos o medicamentos no incluidos en el POS-S"
+    },
+    {
+      "tema": "PRINCIPIO DE CONTINUIDAD EN EL SERVICIO DE SALUD",
+      "subtema": null
+    },
+    {
+      "tema": "ACCION DE TUTELA TRANSITORIA",
+      "subtema": "Debe realizarse proceso de identificación, selección y afiliación ante Secretaria de Salud para atención médica en otro lugar de residencia"
+    },
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Cambio de municipio no es obstáculo para continuar con el tratamiento médico"
+    },
+    {
+      "tema": "DERECHO A LA SALUD DE PERSONA DE LA TERCERA EDAD AFILIADA AL REGIMEN SUBSIDIADO",
+      "subtema": "Atención en caso de traslado de residencia a otro municipio"
+    },
+    {
+      "tema": "REGIMEN SUBSIDIADO DE SEGURIDAD SOCIAL EN SALUD",
+      "subtema": "Procedimiento a seguir en caso de traslado de residencia a otro municipio"
+    }
+  ]
+}

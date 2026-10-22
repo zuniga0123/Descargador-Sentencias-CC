@@ -1,0 +1,47 @@
+{
+  "radicado": "T-766-04",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2004,
+  "fecha_creacion": "2004-08-12",
+  "magistrado_ponente": "Dr ALFREDO BELTRÁN SIERRA",
+  "area": "Derecho a la Salud",
+  "tema": "NASCITURUS",
+  "subtema": "Protección",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 1889 de 1994",
+    "Ley 100 de 1993",
+    "Decreto 1938 de 1994"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2004/T-766-04.htm",
+  "fecha_descarga": "2026-10-22T21:40:58.796597+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2004-08-12",
+  "fecha_publicacion": null,
+  "numero": "T-766/04",
+  "tipo_cc": "T",
+  "prov_id": "23971",
+  "tema_relatoria": "DERECHO A LA SALUD EN CONEXIDAD CON EL DERECHO A LA VIDA Y LA DIGNIDAD HUMANA DE HIJA MAYOR DE EDAD CON DISCAPACIDAD MENTAL Y EN ESTADO DE EMBARAZO DESAFILIADA DEL REGIMEN DE SEGURIDAD SOCIAL POR MAYORIA DE EDAD. AFILIACIÓN AL REGIMEN DE SEGURIDAD SOCIAL",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "NASCITURUS",
+      "subtema": "Protección"
+    },
+    {
+      "tema": "MADRE SOLTERA",
+      "subtema": "No ha constituido núcleo familiar independiente"
+    },
+    {
+      "tema": "DERECHO A LA SALUD DEL DISCAPACITADO MENTAL",
+      "subtema": "Por ser mayor de edad fue excluida como beneficiaria de su padre"
+    },
+    {
+      "tema": "SISTEMA GENERAL DE SEGURIDAD SOCIAL EN SALUD",
+      "subtema": "La calidad de beneficiario debe ser establecida en cada caso"
+    }
+  ]
+}

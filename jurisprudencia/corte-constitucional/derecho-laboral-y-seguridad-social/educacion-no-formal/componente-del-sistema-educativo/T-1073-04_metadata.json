@@ -1,0 +1,60 @@
+{
+  "radicado": "T-1073-04",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2004,
+  "fecha_creacion": "2004-10-28",
+  "magistrado_ponente": "Dra CLARA INÉS VARGAS HERNÁNDEZ",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "EDUCACION NO FORMAL",
+  "subtema": "Componente del sistema educativo",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Decreto 1889 de 1994",
+    "Ley 115 de 1994",
+    "Decreto 114 de 1996"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2004/T-1073-04.htm",
+  "fecha_descarga": "2026-10-22T21:45:37.433996+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2004-10-28",
+  "fecha_publicacion": null,
+  "numero": "T-1073/04",
+  "tipo_cc": "T",
+  "prov_id": "24317",
+  "tema_relatoria": "DERECHOS A LA SEGURIDAD SOCIAL Y AL MINIMO VITAL DE BENEFICIARIA Y AFILIADA AL REGIMEN CONTRIBUTIVO AL NO RECONOCÉRSELE LOS ESTUDIOS NO FORMALES COMO REQUISITOS PARA ACCEDER AL SISTEMA DE SEGURIDAD SOCIAL Y PARA ACCEDER A LA PENSION DE SOBREVIVIENTES. D",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "EDUCACION NO FORMAL",
+      "subtema": "Componente del sistema educativo"
+    },
+    {
+      "tema": "DERECHO A LA EDUCACIÓN",
+      "subtema": "Fundamental"
+    },
+    {
+      "tema": "DERECHO A LA SEGURIDAD SOCIAL EN SALUD",
+      "subtema": "Calidad de estudiante no puede predicarse solo de los matriculados en instituciones de educación formal"
+    },
+    {
+      "tema": "DERECHO A LA EDUCACIÓN",
+      "subtema": "Imposibilidad de las entidades públicas o privadas de excluir a quienes cursan programas de educación no formal"
+    },
+    {
+      "tema": "DERECHO A LA EDUCACIÓN",
+      "subtema": "Igual protección a la educación formal y no formal"
+    },
+    {
+      "tema": "DERECHO A LA EDUCACIÓN",
+      "subtema": "Protección frente a todos los ámbitos del sistema educativo"
+    },
+    {
+      "tema": "PENSIÓN DE SOBREVIVIENTES",
+      "subtema": "Calidad de estudiante no puede predicarse solo de estudiantes matriculados en instituciones de educación formal"
+    }
+  ]
+}

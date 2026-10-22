@@ -1,0 +1,57 @@
+{
+  "radicado": "T-1076-04",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2004,
+  "fecha_creacion": "2004-10-28",
+  "magistrado_ponente": "Dra CLARA INÉS VARGAS HERNÁNDEZ",
+  "area": "Derecho a la Salud",
+  "tema": "DERECHO A LA SALUD",
+  "subtema": "Fundamental por conexidad",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2004/T-1076-04.htm",
+  "fecha_descarga": "2026-10-22T21:35:35.476283+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2004-10-28",
+  "fecha_publicacion": "2004-12-09",
+  "numero": "T-1076/04",
+  "tipo_cc": "T",
+  "prov_id": "24320",
+  "tema_relatoria": "DERECHO A LA SALUD Y LA VIDA DE PERSONA DE LA TERCERA EDAD CON DIVERSAS ENFEMEDADES QUE REQUIERE EL SUMINISTRO DE MEDICAMENTOS NO POS FORMULADOS POR SU MEDICO TRATANTE PERO LA ENTIDAD SE NIEGA A SUMINISTRARLOS ADUCIENDO LIMITACIONES DEL POS. DERECHO FUNDA",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Fundamental por conexidad"
+    },
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Fundamental autónomo"
+    },
+    {
+      "tema": "DERECHO A LA SEGURIDAD SOCIAL",
+      "subtema": "Servicios vitales y esenciales para el mantenimiento de una vida digna"
+    },
+    {
+      "tema": "DERECHO A LA SALUD DE PERSONA DE LA TERCERA EDAD",
+      "subtema": "Suministro de suplemento alimenticio aunque esté excluido del POS"
+    },
+    {
+      "tema": "DERECHO A LA SALUD DE PERSONA DE LA TERCERA EDAD",
+      "subtema": "Vulneración por omisión del diagnóstico y del tratamiento"
+    },
+    {
+      "tema": "DERECHO A LA SALUD DE PERSONA DE LA TERCERA EDAD",
+      "subtema": "Realización de diagnóstico y tratamiento aunque estén excluidos del POS"
+    },
+    {
+      "tema": "INAPLICACION DE NORMAS DEL PLAN OBLIGATORIO DE SALUD",
+      "subtema": "Hipótesis fáctica que la determina"
+    }
+  ]
+}

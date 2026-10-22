@@ -1,0 +1,58 @@
+{
+  "radicado": "T-381-04",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2004,
+  "fecha_creacion": "2004-04-23",
+  "magistrado_ponente": "Dr JAIME ARAUJO RENTERIA",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "DOCTRINA CONSTITUCIONAL SOBRE VIA DE HECHO",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 222 de 1995",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2004/T-381-04.htm",
+  "fecha_descarga": "2026-10-22T21:50:27.782775+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2004-04-23",
+  "fecha_publicacion": null,
+  "numero": "T-381/04",
+  "tipo_cc": "T",
+  "prov_id": "23488",
+  "tema_relatoria": "DERECHO AL DEBIDO PROCESO. VIA DE HECHO. SOLICITUD NULIDAD DILIGENCIA DE REMATE. PREVALENCIA PROCESO CONCORDATARIO FRENTE A EJECUTIVO HIPOTECARIO. INVESTIGACION DISCIPLINARIA. TUTELA CONTRA DECISIONES JUDICIALES. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DOCTRINA CONSTITUCIONAL SOBRE VIA DE HECHO",
+      "subtema": null
+    },
+    {
+      "tema": "PROCESO CONCORDATARIO",
+      "subtema": "Prevalece frente a procesos ejecutivos"
+    },
+    {
+      "tema": "VIA DE HECHO",
+      "subtema": "Procedencia excepcional de tutela"
+    },
+    {
+      "tema": "PROCESO CONCURSAL",
+      "subtema": "Igual estructura conceptual"
+    },
+    {
+      "tema": "DEBIDO PROCESO",
+      "subtema": "Vulneración"
+    },
+    {
+      "tema": "DEBIDO PROCESO",
+      "subtema": "Saneamiento formal y no material sobre la apertura del concordato"
+    },
+    {
+      "tema": "VIA DE HECHO",
+      "subtema": "Clases de defectos en la actuación"
+    }
+  ]
+}

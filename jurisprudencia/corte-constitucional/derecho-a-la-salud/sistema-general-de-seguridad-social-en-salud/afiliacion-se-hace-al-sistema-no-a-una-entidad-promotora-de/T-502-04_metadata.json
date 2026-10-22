@@ -1,0 +1,42 @@
+{
+  "radicado": "T-502-04",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2004,
+  "fecha_creacion": "2004-05-21",
+  "magistrado_ponente": "Dr MANUEL JOSÉ CEPEDA ESPINOSA",
+  "area": "Derecho a la Salud",
+  "tema": "SISTEMA GENERAL DE SEGURIDAD SOCIAL EN SALUD",
+  "subtema": "Afiliación se hace al sistema no a una entidad promotora de salud",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 789 de 2002"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2004/T-502-04.htm",
+  "fecha_descarga": "2026-10-22T21:48:59.062576+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2004-05-21",
+  "fecha_publicacion": null,
+  "numero": "T-502/04",
+  "tipo_cc": "T",
+  "prov_id": "23637",
+  "tema_relatoria": "DERECHO AL DEBIDO PROCESO. CANCELACION UNILATERAL AFILIACION AL SISTEMA DE SEGURIDAD EN SALUD. FALTA DE NOTIFICACION. AFILIACION MULTIPLE. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "SISTEMA GENERAL DE SEGURIDAD SOCIAL EN SALUD",
+      "subtema": "Afiliación se hace al sistema no a una entidad promotora de salud"
+    },
+    {
+      "tema": "ENTIDAD PROMOTORA DE SALUD",
+      "subtema": "Si hay afiliación múltiple no está autorizada para cancelar contrato automática y unilateralmente"
+    },
+    {
+      "tema": "ENTIDAD PROMOTORA DE SALUD",
+      "subtema": "Posición que debe adoptar frente a afiliación múltiple"
+    }
+  ]
+}

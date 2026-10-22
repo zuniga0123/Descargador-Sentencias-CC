@@ -1,0 +1,45 @@
+{
+  "radicado": "T-264-04",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2004,
+  "fecha_creacion": "2004-03-18",
+  "magistrado_ponente": "Dr ALVARO TAFUR GALVIS",
+  "area": "Derecho a la Salud",
+  "tema": "ADMINISTRADORA DEL REGIMEN SUBSIDIADO",
+  "subtema": "Suministro de medicamentos",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2004/T-264-04.htm",
+  "fecha_descarga": "2026-10-22T21:52:24.270284+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2004-03-18",
+  "fecha_publicacion": null,
+  "numero": "T-264/04",
+  "tipo_cc": "T",
+  "prov_id": "23377",
+  "tema_relatoria": "DERECHO A LA VIDA Y SALUD. AGENCIA OFICIOSA. SOLICITUD SUMINISTRO DE MEDICAMENTO PRESCRITO POR MEDICO TRATANTE. EXCLUIDO DEL POS. ACCION DE REPETICION. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ADMINISTRADORA DEL REGIMEN SUBSIDIADO",
+      "subtema": "Suministro de medicamentos"
+    },
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Suministro de medicamentos"
+    },
+    {
+      "tema": "PLAN OBLIGATORIO DE SALUD SUBSIDIADO",
+      "subtema": "Entrega de medicamentos"
+    },
+    {
+      "tema": "INAPLICACION DE NORMAS DEL PLAN OBLIGATORIO DE SALUD",
+      "subtema": "Suministro de medicamentos"
+    }
+  ]
+}

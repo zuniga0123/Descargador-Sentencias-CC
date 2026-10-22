@@ -1,0 +1,46 @@
+{
+  "radicado": "T-736-04",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2004,
+  "fecha_creacion": "2004-08-05",
+  "magistrado_ponente": "Dra CLARA INÉS VARGAS HERNÁNDEZ",
+  "area": "Derecho a la Salud",
+  "tema": "DERECHO A LA SEGURIDAD SOCIAL",
+  "subtema": "Servicios vitales y esenciales para el mantenimiento de una vida digna",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 100 de 1993"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2004/T-736-04.htm",
+  "fecha_descarga": "2026-10-22T21:36:52.891796+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2004-08-05",
+  "fecha_publicacion": "2004-08-27",
+  "numero": "T-736/04",
+  "tipo_cc": "T",
+  "prov_id": "23938",
+  "tema_relatoria": "DERECHO A LA SALUD DE PERSONA DE LA TERCERA EDAD AFILIADA AL REGIMEN SUBSIDIADO A QUIEN EL MEDICO TRATANTE LE FORMULO SUMINISTRO CONTINUO DE OXIGENO PERO CARECE DE LOS RECURSOS PARA CANCELAR EL ALQUILER DE LA BALA DE OXIGENO. SOLICITA SE ORDENE FACILITAR",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA SEGURIDAD SOCIAL",
+      "subtema": "Servicios vitales y esenciales para el mantenimiento de una vida digna"
+    },
+    {
+      "tema": "DERECHOS FUNDAMENTALES",
+      "subtema": "Conexidad"
+    },
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Fundamental por conexidad"
+    },
+    {
+      "tema": "DERECHO A LA SALUD DE PERSONA DE LA TERCERA EDAD",
+      "subtema": "Suministro de oxígeno domiciliario sin que pueda exigirse pagos adicionales"
+    }
+  ]
+}

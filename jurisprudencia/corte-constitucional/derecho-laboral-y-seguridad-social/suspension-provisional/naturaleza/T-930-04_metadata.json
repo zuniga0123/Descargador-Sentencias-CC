@@ -1,0 +1,46 @@
+{
+  "radicado": "T-930-04",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2004,
+  "fecha_creacion": "2004-09-24",
+  "magistrado_ponente": "Dr MANUEL JOSE CEPEDA ESPINOSA",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "SUSPENSION PROVISIONAL",
+  "subtema": "Naturaleza",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 222 de 1995",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2004/T-930-04.htm",
+  "fecha_descarga": "2026-10-22T21:54:13.749808+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2004-09-24",
+  "fecha_publicacion": null,
+  "numero": "T-930/04",
+  "tipo_cc": "T",
+  "prov_id": "24163",
+  "tema_relatoria": "DERECHO AL DEBIDO PROCESO LA VIDA LA DIGNIDAD EL TRABAJO Y LA SEGURIDAD SOCIAL POR LA SUSPENSION PROVISIONAL DE LA RESOLUCION DEL MINISTERIO DE TRABAJO Y SEGURIDAD SOCIAL QUE HABIA DECRETADO LA UNIDAD DE EMPRESA ENTRE LA FEDERACIÓN NACIONAL DE CAFETEROS Y",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "SUSPENSION PROVISIONAL",
+      "subtema": "Naturaleza"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Procedencia excepcional"
+    },
+    {
+      "tema": "COMPAÑIA DE INVERSIONES DE LA FLOTA MERCANTE",
+      "subtema": "Responsabilidad principal del pago de mesadas pensionales"
+    },
+    {
+      "tema": "FEDERACION NACIONAL DE CAFETEROS",
+      "subtema": "Responsabilidad subsidiaria"
+    }
+  ]
+}

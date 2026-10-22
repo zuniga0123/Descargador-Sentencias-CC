@@ -1,0 +1,42 @@
+{
+  "radicado": "T-002-04",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2004,
+  "fecha_creacion": "2004-01-15",
+  "magistrado_ponente": "Dr ALFREDO BELTRÁN SIERRA",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "DERECHO AL MINIMO VITAL",
+  "subtema": "No se probó vulneración",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 136 de 1994"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2004/T-002-04.htm",
+  "fecha_descarga": "2026-10-22T21:44:06.105177+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2004-01-15",
+  "fecha_publicacion": null,
+  "numero": "T-002/04",
+  "tipo_cc": "T",
+  "prov_id": "23092",
+  "tema_relatoria": "DERECHO A LA SUBSISTENCIA Y MINIMO VITAL. IMPROCEDENCIA PAGO DE HONORARIOS A CONCEJAL POR TUTELA. MEDIO DE DEFENSA JUDICIAL. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO AL MINIMO VITAL",
+      "subtema": "No se probó vulneración"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Improcedencia para pago de honorarios a concejales"
+    },
+    {
+      "tema": "MEDIO DE DEFENSA JUDICIAL",
+      "subtema": "Pago de honorarios a concejales"
+    }
+  ]
+}

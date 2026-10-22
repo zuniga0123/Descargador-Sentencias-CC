@@ -1,0 +1,49 @@
+{
+  "radicado": "T-503-04",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2004,
+  "fecha_creacion": "2004-05-25",
+  "magistrado_ponente": "Dr JAIME CÓRDOBA TRIVIÑO",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "COSA JUZGADA",
+  "subtema": "Apoderado del demandado planteó una declaratoria de nulidad en lugar de una excepción",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2004/T-503-04.htm",
+  "fecha_descarga": "2026-10-22T21:49:02.663583+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2004-05-25",
+  "fecha_publicacion": null,
+  "numero": "T-503/04",
+  "tipo_cc": "T",
+  "prov_id": "23648",
+  "tema_relatoria": "DERECHO AL DEBIDO PROCESO. DECLARATORIA DE NULIDAD. PROCESO DE SEPARACION DE BIENES LIQUIDACION DE SOCIEDAD CONYUGAL Y CESACION DE EFECTOS CIVILES DE MATRIMONIO CATOLICO. MECANISMO PROCESAL EQUIVOCADO POR APODERADO. COSA JUZGADA COMO EXCEPCION PREVIA O DE",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "COSA JUZGADA",
+      "subtema": "Apoderado del demandado planteó una declaratoria de nulidad en lugar de una excepción"
+    },
+    {
+      "tema": "COSA JUZGADA",
+      "subtema": "Liquidación de la sociedad conyugal"
+    },
+    {
+      "tema": "COSA JUZGADA",
+      "subtema": "Apoderado del demandado solicitó nulidad del auto admisorio de la demanda"
+    },
+    {
+      "tema": "DEBIDO PROCESO",
+      "subtema": "Tribunal no incurrió en vía de hecho por revocar la declaratoria de nulidad"
+    },
+    {
+      "tema": "COSA JUZGADA",
+      "subtema": "Apoderado del demandado podía plantearla como excepción previa o de fondo"
+    }
+  ]
+}

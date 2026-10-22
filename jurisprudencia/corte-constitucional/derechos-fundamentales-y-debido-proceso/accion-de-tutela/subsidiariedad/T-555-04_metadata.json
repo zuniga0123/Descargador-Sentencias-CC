@@ -1,0 +1,48 @@
+{
+  "radicado": "T-555-04",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2004,
+  "fecha_creacion": "2004-06-01",
+  "magistrado_ponente": "Dr JAIME ARAÚJO RENTERÍA",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCIÓN DE TUTELA",
+  "subtema": "Subsidiariedad",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 183 de 1983",
+    "Decreto 183 de 1982",
+    "Decreto 465 de 1985",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2004/T-555-04.htm",
+  "fecha_descarga": "2026-10-22T21:51:51.559411+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2004-06-01",
+  "fecha_publicacion": null,
+  "numero": "T-555/04",
+  "tipo_cc": "T",
+  "prov_id": "23702",
+  "tema_relatoria": "DERECHOS AL DEBIDO PROCESO DEFENSA Y ACCESO A LA ADMINISTRACION DE JUSTICIA DE ENTIDAD TERRITORIAL. MANDAMIENTO DE PAGO Y DECRETO MEDIDAS CAUTELARES EN PROCESO EJECUTIVO CONTRA DOCENTES. VALIDEZ DE TITULO EJECUTIVO. EXISTENCIA DE OTRO MEDIO DE DEFENSA JUD",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Subsidiariedad"
+    },
+    {
+      "tema": "PROCESO EJECUTIVO",
+      "subtema": "No se ha proferido decisión final sobre existencia y validez del título ejecutivo"
+    },
+    {
+      "tema": "ACCION DE TUTELA TRANSITORIA",
+      "subtema": "Inexistencia de perjuicio irremediable"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Improcedencia por existir medio de defensa judicial eficaz"
+    }
+  ]
+}

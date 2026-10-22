@@ -1,0 +1,43 @@
+{
+  "radicado": "T-295-04",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2004,
+  "fecha_creacion": "2004-03-25",
+  "magistrado_ponente": "Dr RODRIGO ESCOBAR GIL",
+  "area": "Otros - Sin clasificar",
+  "tema": "CAPACIDAD ECONOMICA",
+  "subtema": "Prueba en caso de estudiante",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 230 de 2002",
+    "Decreto 2591 de 1991",
+    "Ley 31 de 1929"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2004/T-295-04.htm",
+  "fecha_descarga": "2026-10-22T21:47:31.319341+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2004-03-25",
+  "fecha_publicacion": null,
+  "numero": "T-295/04",
+  "tipo_cc": "T",
+  "prov_id": "23412",
+  "tema_relatoria": "DERECHOS A LA EDUCACION IGUALDAD Y LA INFORMACION. SOLICITUD EXPEDICION CERTIFICADOS DE GRADOS CURSADOS. MORA EN PAGO DE PENSIONES. ACUERDO FORMA DE PAGO. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "CAPACIDAD ECONOMICA",
+      "subtema": "Prueba en caso de estudiante"
+    },
+    {
+      "tema": "DERECHO A LA EDUCACIÓN",
+      "subtema": "Condicionamiento de entrega de certificaciones al pago de sumas debidas"
+    },
+    {
+      "tema": "DERECHO A LA EDUCACION DE MAYOR DE EDAD",
+      "subtema": "No hay violación"
+    }
+  ]
+}

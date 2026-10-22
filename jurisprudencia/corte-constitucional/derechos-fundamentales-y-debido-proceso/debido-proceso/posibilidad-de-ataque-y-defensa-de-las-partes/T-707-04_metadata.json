@@ -1,0 +1,51 @@
+{
+  "radicado": "T-707-04",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2004,
+  "fecha_creacion": "2004-07-29",
+  "magistrado_ponente": "Dr ALVARO TAFUR GALVIS",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "DEBIDO PROCESO",
+  "subtema": "Posibilidad de ataque y defensa de las partes",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 446 de 1998",
+    "Ley 794 de 2003",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2004/T-707-04.htm",
+  "fecha_descarga": "2026-10-22T21:55:52.411465+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2004-07-29",
+  "fecha_publicacion": null,
+  "numero": "T-707/04",
+  "tipo_cc": "T",
+  "prov_id": "23883",
+  "tema_relatoria": "DERECHO AL DEBIDO PROCESO Y DE ACCESO A LA JUSTICIA POR EL NO TRAMITE DE EXCEPCIONES DE MERITO Y TACHA DE FALSEDAD EN PROCESO EJECUTIVO CONTRA COMPAÑÍA DE SEGUROS. PROCEDENCIA DE LA TUTELA POR VIA DE HECHO. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DEBIDO PROCESO",
+      "subtema": "Posibilidad de ataque y defensa de las partes"
+    },
+    {
+      "tema": "JUEZ",
+      "subtema": "No puede romper la bilateralidad del juicio"
+    },
+    {
+      "tema": "JUEZ",
+      "subtema": "Concesión de término para que la accionante presente sus escritos"
+    },
+    {
+      "tema": "JUEZ",
+      "subtema": "Facultad para señalar términos pero no para sancionar sin previsión legal"
+    },
+    {
+      "tema": "VIA DE HECHO",
+      "subtema": "La accionante fue privada del derecho de defensa"
+    }
+  ]
+}

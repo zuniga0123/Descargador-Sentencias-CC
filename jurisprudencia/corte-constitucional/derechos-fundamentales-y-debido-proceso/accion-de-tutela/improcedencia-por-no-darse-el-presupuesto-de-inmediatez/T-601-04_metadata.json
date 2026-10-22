@@ -1,0 +1,41 @@
+{
+  "radicado": "T-601-04",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2004,
+  "fecha_creacion": "2004-06-16",
+  "magistrado_ponente": "Dr ALFREDO BELTRÁN SIERRA",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCIÓN DE TUTELA",
+  "subtema": "Improcedencia por no darse el presupuesto de inmediatez",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2004/T-601-04.htm",
+  "fecha_descarga": "2026-10-22T21:40:04.310657+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2004-06-16",
+  "fecha_publicacion": null,
+  "numero": "T-601/04",
+  "tipo_cc": "T",
+  "prov_id": "23756",
+  "tema_relatoria": "DERECHOS A LA VIDA SALUD Y SEGURIDAD SOCIAL. SOLICITUD NUEVA INTERVENCION NO INCLUIDA EN EL POS. IMPLANTE PLACA DE TITANIO EN MAXILAR INFERIOR. REGIMEN SUBSIDIADO. FALTA PRUEBA DEL PERJUICIO. OPORTUNIDAD. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Improcedencia por no darse el presupuesto de inmediatez"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Improcedencia por falta de pruebas"
+    },
+    {
+      "tema": "DERECHOS FUNDAMENTALES",
+      "subtema": "No vulneración por entidades de salud"
+    }
+  ]
+}

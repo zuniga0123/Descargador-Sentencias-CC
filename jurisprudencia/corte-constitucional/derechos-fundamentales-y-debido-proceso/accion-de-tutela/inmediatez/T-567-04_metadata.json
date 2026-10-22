@@ -1,0 +1,63 @@
+{
+  "radicado": "T-567-04",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2004,
+  "fecha_creacion": "2004-06-04",
+  "magistrado_ponente": "Dr MANUEL JOSÉ CEPEDA ESPINOSA",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCIÓN DE TUTELA",
+  "subtema": "Inmediatez",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 633 de 1993",
+    "Ley 510 de 1999"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2004/T-567-04.htm",
+  "fecha_descarga": "2026-10-22T21:51:58.823914+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2004-06-04",
+  "fecha_publicacion": null,
+  "numero": "T-567/04",
+  "tipo_cc": "T",
+  "prov_id": "23716",
+  "tema_relatoria": "DERECHOS AL MINIMO VITAL Y SEGURIDAD SOCIAL. PAGO DE ACREENCIAS LABORALES. SALARIOS Y APORTES EN SALUD. MORA POR PARTE DEL EMPLEADOR. DEFICIT PRESUPUESTAL. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Inmediatez"
+    },
+    {
+      "tema": "ENTIDAD HOSPITALARIA",
+      "subtema": "Pago de salarios si hubiere disponibilidad presupuestal"
+    },
+    {
+      "tema": "PARTIDA PRESUPUESTAL",
+      "subtema": "Gestión y distribución para pago oportuno de salarios"
+    },
+    {
+      "tema": "ACCION DE TUTELA PARA RECONOCIMIENTO Y PAGO DE ACREENCIAS LABORALES",
+      "subtema": "Requisitos de procedencia excepcional para pago"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Procedencia excepcional pago de acreencias laborales"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Término razonable de presentación"
+    },
+    {
+      "tema": "DERECHO AL MINIMO VITAL DEL TRABAJADOR",
+      "subtema": "Procedencia de tutela respecto a salarios adeudados del 2003 pero no los de 1999 a 2002"
+    },
+    {
+      "tema": "EMPLEADOR",
+      "subtema": "Asunción de responsabilidad por mora en aportes a seguridad social"
+    }
+  ]
+}

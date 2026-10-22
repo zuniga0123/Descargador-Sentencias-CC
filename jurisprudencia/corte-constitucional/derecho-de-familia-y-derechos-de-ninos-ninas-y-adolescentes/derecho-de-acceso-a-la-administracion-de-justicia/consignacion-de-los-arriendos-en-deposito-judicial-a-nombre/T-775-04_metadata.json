@@ -1,0 +1,41 @@
+{
+  "radicado": "T-775-04",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2004,
+  "fecha_creacion": "2004-08-13",
+  "magistrado_ponente": "Dr MANUEL JOSÉ CEPEDA ESPINOSA",
+  "area": "Derecho de Familia y Derechos de Niños, Niñas y Adolescentes",
+  "tema": "DERECHO DE ACCESO A LA ADMINISTRACIÓN DE JUSTICIA",
+  "subtema": "Consignación de los arriendos en depósito judicial a nombre del juzgado competente",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2004/T-775-04.htm",
+  "fecha_descarga": "2026-10-22T21:41:13.207371+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2004-08-13",
+  "fecha_publicacion": null,
+  "numero": "T-775/04",
+  "tipo_cc": "T",
+  "prov_id": "23979",
+  "tema_relatoria": "DERECHO A ACCEDER A LA JUSTICIA Y A OBTENER UNA TUTELA JUDICIAL EFECTIVA DENTRO DE UN PROCESO DE COBRO ADELANTADO POR LA DIAN EN EL QUE SE EMBARGO Y SECUESTRO UN BIEN INMUEBLE DE PROPIEDAD DE LA SOCIEDAD CONSTRUCTORA GUADALCAZAR LTDA Y EL SECUESTRE NOMBRA",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO DE ACCESO A LA ADMINISTRACIÓN DE JUSTICIA",
+      "subtema": "Consignación de los arriendos en depósito judicial a nombre del juzgado competente"
+    },
+    {
+      "tema": "SECUESTRO DE BIEN INMUEBLE",
+      "subtema": "Custodia y administración del bien está a cargo del secuestre"
+    },
+    {
+      "tema": "SECUESTRE",
+      "subtema": "Facultad para suscribir un nuevo contrato de arrendamiento y recibir los arriendos"
+    }
+  ]
+}

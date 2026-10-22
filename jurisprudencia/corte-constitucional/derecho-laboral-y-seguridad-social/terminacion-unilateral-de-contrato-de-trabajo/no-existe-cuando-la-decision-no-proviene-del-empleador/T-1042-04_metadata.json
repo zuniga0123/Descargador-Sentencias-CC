@@ -1,0 +1,62 @@
+{
+  "radicado": "T-1042-04",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2004,
+  "fecha_creacion": "2004-10-22",
+  "magistrado_ponente": "Dr MANUEL JOSE CEPEDA ESPINOSA",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "TERMINACION UNILATERAL DE CONTRATO DE TRABAJO",
+  "subtema": "No existe cuando la decisión no proviene del empleador",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Decreto 1804 de 1999",
+    "Ley 2351 de 1965",
+    "Decreto 2351 de 1965",
+    "Ley 50 de 1990",
+    "Ley 789 de 2002"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2004/T-1042-04.htm",
+  "fecha_descarga": "2026-10-22T21:44:53.784881+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2004-10-22",
+  "fecha_publicacion": null,
+  "numero": "T-1042/04",
+  "tipo_cc": "T",
+  "prov_id": "24285",
+  "tema_relatoria": "DERECHO AL DEBIDO PROCESO Y AL TRABAJO DE TRABAJADORA DE EMPRESA LIQUIDADA A QUIEN POR RAZON DE DICHA LIQUIDACION ORDENADA POR LA SUPERINTENDENCIA NACIONAL DE SALUD SE LE DIO POR TERMINADO SU CONTRATO DE TRABAJO A TERMINO FIJO Y EL TRIBUNAL ABSOLVIÓ A LA",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "TERMINACION UNILATERAL DE CONTRATO DE TRABAJO",
+      "subtema": "No existe cuando la decisión no proviene del empleador"
+    },
+    {
+      "tema": "VIA DE HECHO POR DEFECTO SUSTANTIVO",
+      "subtema": "Improcedencia por cuanto la aplicación errónea de la norma no constituye vicio o defecto protuberante"
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA PROVIDENCIAS JUDICIALES POR VIA DE HECHO",
+      "subtema": "Procedencia excepcional"
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA PROVIDENCIAS JUDICIALES POR VIA DE HECHO",
+      "subtema": "Oportunidades en que procede"
+    },
+    {
+      "tema": "DISOLUCION Y LIQUIDACION DE ENTIDADES ORDENADA POR ACTO ADMINISTRATIVO",
+      "subtema": "Terminación del vínculo laboral no corresponde a una terminación unilateral y por ende no procede indemnización"
+    },
+    {
+      "tema": "INDEMNIZACION MORATORIA",
+      "subtema": "Improcedencia por existir razones que justifican el no pago de las prestaciones debidas"
+    },
+    {
+      "tema": "TERMINACION UNILATERAL DE CONTRATO DE TRABAJO SIN JUSTA CAUSA",
+      "subtema": "Indemnización no procede en este caso"
+    }
+  ]
+}

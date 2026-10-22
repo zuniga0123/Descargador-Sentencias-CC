@@ -1,0 +1,62 @@
+{
+  "radicado": "T-627-04",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2004,
+  "fecha_creacion": "2004-07-01",
+  "magistrado_ponente": "Dr ALFREDO BELTRÁN SIERRA",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCIÓN DE TUTELA",
+  "subtema": "Subsidiariedad",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 222 de 1995"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2004/T-627-04.htm",
+  "fecha_descarga": "2026-10-22T21:41:57.213849+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2004-07-01",
+  "fecha_publicacion": null,
+  "numero": "T-627/04",
+  "tipo_cc": "T",
+  "prov_id": "23788",
+  "tema_relatoria": "DERECHOS AL MINIMO VITAL SALUD Y SEGURIDAD SOCIAL. PAGO DE ACREENCIAS LABORALES. SALARIOS Y APORTES EN SALUD. CIERRE DE INSTALACIONES POR LIQUIDACION OBLIGATORIA. GRADUACION DE CREDITOS. DEFICIT PRESUPUESTAL. FALTA PRUEBA DE AFECTACION. EXISTENCIA DE OTRO",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Subsidiariedad"
+    },
+    {
+      "tema": "PROCESO DE LIQUIDACION OBLIGATORIA",
+      "subtema": "Pago de salarios si se afecta el mínimo vital"
+    },
+    {
+      "tema": "EMPRESA EN LIQUIDACION",
+      "subtema": "No se demostró vulneración del mínimo vital de los actores"
+    },
+    {
+      "tema": "SITUACION JURIDICA DEL TRABAJADOR Y JUBILADO",
+      "subtema": "Diferencias"
+    },
+    {
+      "tema": "DERECHO AL MINIMO VITAL",
+      "subtema": "Prueba de la amenaza"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Inmediatez"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Peligro actual e inminente del derecho"
+    },
+    {
+      "tema": "EMPRESA EN LIQUIDACION",
+      "subtema": "Pago de salarios cuando se demuestre vulneración del mínimo vital"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "radicado": "T-027-04",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2004,
+  "fecha_creacion": "2004-01-22",
+  "magistrado_ponente": "Dr ALVARO TAFUR GALVIS",
+  "area": "Derecho Penal y Sistema Acusatorio",
+  "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+  "subtema": "Omisión del juez de instancia en verificar la identidad de quien realizó la conducta punible",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 3664 de 1986",
+    "Decreto 2591 de 1991",
+    "Decreto 2700 de 1991",
+    "Ley 600 de 2000"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2004/T-027-04.htm",
+  "fecha_descarga": "2026-10-22T21:42:55.767296+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2004-01-22",
+  "fecha_publicacion": null,
+  "numero": "T-027/04",
+  "tipo_cc": "T",
+  "prov_id": "23121",
+  "tema_relatoria": "DERECHOS A LA PERSONALIDAD JURIDICA BUEN NOMBRE IGUALDAD Y DEBIDO PROCESO. VIA DE HECHO. ORDEN DE CAPTURA POR SUPLANTACION EN PROCESO PENAL POR DELITOS NO COMETIDOS. INDIVIDUALIZACION DEL RESPONSABLE. PRUEBA SOBREVINIENTE. EJERCICIO DE LA ACCION PENAL. TU",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Omisión del juez de instancia en verificar la identidad de quien realizó la conducta punible"
+    },
+    {
+      "tema": "PROCESO PENAL",
+      "subtema": "Suplantación de identidad para cometer delitos"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Procedencia excepcional"
+    },
+    {
+      "tema": "NULIDAD DE SENTENCIA DE INSTANCIA",
+      "subtema": "Fiscalía deberá tramitar nuevamente la investigación"
+    },
+    {
+      "tema": "VIA DE HECHO",
+      "subtema": "Condena del actor por delito que no cometió"
+    },
+    {
+      "tema": "REVISION DE SENTENCIA PENAL",
+      "subtema": "No se puede obligar a iniciarla por errores cometidos en la investigación"
+    }
+  ]
+}

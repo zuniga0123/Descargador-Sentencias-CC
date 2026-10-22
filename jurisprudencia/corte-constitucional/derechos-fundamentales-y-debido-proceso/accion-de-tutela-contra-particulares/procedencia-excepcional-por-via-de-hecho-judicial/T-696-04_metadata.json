@@ -1,0 +1,50 @@
+{
+  "radicado": "T-696-04",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2004,
+  "fecha_creacion": "2004-07-22",
+  "magistrado_ponente": "Dr MANUEL JOSÉ CEPEDA ESPINOSA",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCION DE TUTELA CONTRA PARTICULARES",
+  "subtema": "Procedencia excepcional por vía de hecho judicial",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2004/T-696-04.htm",
+  "fecha_descarga": "2026-10-22T21:42:48.389682+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2004-07-22",
+  "fecha_publicacion": null,
+  "numero": "T-696/04",
+  "tipo_cc": "T",
+  "prov_id": "23868",
+  "tema_relatoria": "DERECHO AL DEBIDO PROCESO Y LA IGUALDAD DE PENSIONADO POR ERRORES EN LA RELIQUIDACIÓN DE LOS FACTORES A CONSIDERAR Y APLICACION INDEBIDA. SOLICITUD DE RECTIFICACIÓN DEL ERROR ARITMÉTICO EN LAS SEMANAS COTIZADAS Y ACTUALIZACION DE LA PENSION. TUTELA CONTRA",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCION DE TUTELA CONTRA PARTICULARES",
+      "subtema": "Procedencia excepcional por vía de hecho judicial"
+    },
+    {
+      "tema": "VIA DE HECHO",
+      "subtema": "No se aplicó el factor que era en la reliquidación de pensión del actor"
+    },
+    {
+      "tema": "DERECHO DE PETICIÓN",
+      "subtema": "Pronta resolución"
+    },
+    {
+      "tema": "DERECHO DE PETICIÓN",
+      "subtema": "Respuesta sobre el valor del salario del actor"
+    },
+    {
+      "tema": "VIA DE HECHO",
+      "subtema": "Defecto sustantivo"
+    }
+  ]
+}

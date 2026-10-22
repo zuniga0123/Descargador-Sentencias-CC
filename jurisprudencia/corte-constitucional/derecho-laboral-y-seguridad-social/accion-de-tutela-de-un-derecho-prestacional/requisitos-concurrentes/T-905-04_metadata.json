@@ -1,0 +1,49 @@
+{
+  "radicado": "T-905-04",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2004,
+  "fecha_creacion": "2004-09-17",
+  "magistrado_ponente": "Dr RODRIGO ESCOBAR GIL",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "ACCION DE TUTELA DE UN DERECHO PRESTACIONAL",
+  "subtema": "Requisitos concurrentes",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Decreto 2591 de 1991",
+    "Ley 91 de 1989",
+    "Ley 60 de 1993",
+    "Decreto 1775 de 1990"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2004/T-905-04.htm",
+  "fecha_descarga": "2026-10-22T21:54:39.531427+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2004-09-17",
+  "fecha_publicacion": null,
+  "numero": "T-905/04",
+  "tipo_cc": "T",
+  "prov_id": "24133",
+  "tema_relatoria": "DERECHO A LA VIDA LA SALUD Y LA SEGURIDAD SOCIAL POR LA NEGATIVA DE LA ENTIDAD A ATENDER COMO BENEFICIARIOS EN EL REGIMEN CONTRIBUTIVO A MADRE E HIJO DE DOCENTE QUE DEPENDEN ECONÓMICAMENTE DE LA TRABAJADORA. REGIMEN DE SEGURIDAD SOCIAL EN SALUD APLICABLE",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCION DE TUTELA DE UN DERECHO PRESTACIONAL",
+      "subtema": "Requisitos concurrentes"
+    },
+    {
+      "tema": "PERJUICIO IRREMEDIABLE",
+      "subtema": "Características"
+    },
+    {
+      "tema": "MEDIO DE DEFENSA JUDICIAL",
+      "subtema": "Cumplimiento de contrato de prestación servicios de salud y controversias que se originen corresponde a jurisdicción civil"
+    },
+    {
+      "tema": "FONDO NACIONAL DE PRESTACIONES SOCIALES DEL MAGISTERIO",
+      "subtema": "Régimen de beneficiarios de servicios de salud"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "radicado": "T-965-04",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2004,
+  "fecha_creacion": "2004-10-08",
+  "magistrado_ponente": "Dr HUMBERTO SIERRA PORTO",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCIÓN DE TUTELA",
+  "subtema": "Improcedencia controversias sobre el monto de bonificación por retiro voluntario",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2004/T-965-04.htm",
+  "fecha_descarga": "2026-10-22T21:53:26.065392+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2004-10-08",
+  "fecha_publicacion": null,
+  "numero": "T-965/04",
+  "tipo_cc": "T",
+  "prov_id": "24206",
+  "tema_relatoria": "DERECHO AL DEBIDO PROCESO TRABAJO MINIMO VITAL Y LA IGUALDAD DE EXTRABAJADORA POR LA NO LIQUIDACIÓN DE LA BONIFICACIÓN POR RETIRO VOLUNTARIO ACORDADA EN CONCILIACIÓN CON LA EMPRESA Y ORDENADA MEDIANTE MANDAMIENTO DE PAGO LIBRADO POR JUEZ DE LA REPUBLICA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Improcedencia controversias sobre el monto de bonificación por retiro voluntario"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Subsidiariedad"
+    },
+    {
+      "tema": "JURISDICCION CONTENCIOSO ADMINISTRATIVA",
+      "subtema": "Controversias sobre el monto de bonificación por retiro voluntario"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Procedencia excepcional para controvertir actos administrativos"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Improcedencia general para controvertir actos administrativos"
+    },
+    {
+      "tema": "DEBIDO PROCESO ADMINISTRATIVO",
+      "subtema": "Alcance"
+    }
+  ]
+}

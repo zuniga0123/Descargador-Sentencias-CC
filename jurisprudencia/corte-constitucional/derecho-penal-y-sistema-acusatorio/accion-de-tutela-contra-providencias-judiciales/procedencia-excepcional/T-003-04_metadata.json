@@ -1,0 +1,49 @@
+{
+  "radicado": "T-003-04",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2004,
+  "fecha_creacion": "2004-01-15",
+  "magistrado_ponente": "Dr ALFREDO BELTRÁN SIERRA",
+  "area": "Derecho Penal y Sistema Acusatorio",
+  "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+  "subtema": "Procedencia excepcional",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2004/T-003-04.htm",
+  "fecha_descarga": "2026-10-22T21:44:09.821572+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2004-01-15",
+  "fecha_publicacion": null,
+  "numero": "T-003/04",
+  "tipo_cc": "T",
+  "prov_id": "23093",
+  "tema_relatoria": "DERECHO DE DEFENSA Y DEBIDO PROCESO DE INTERNO POR VINCULACION A UN NUEVO PROCESO COMO PERSONA AUSENTE ESTANDO DETENIDO. COMPARECENCIA DEL SINDICADO AL PROCESO. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Procedencia excepcional"
+    },
+    {
+      "tema": "AUTORIDAD JUDICIAL",
+      "subtema": "Falta de idoneidad en la búsqueda del inculpado"
+    },
+    {
+      "tema": "PROCESO PENAL",
+      "subtema": "Persona vinculada al mismo tiene derecho a que se le informe que cursa una investigación en su contra"
+    },
+    {
+      "tema": "PROCESO PENAL",
+      "subtema": "Declaración de reo ausente solo cuando se agotan los trámites necesarios para su búsqueda"
+    },
+    {
+      "tema": "VIA DE HECHO",
+      "subtema": "Vinculación a nuevo proceso penal como reo ausente de persona privada de la libertad"
+    }
+  ]
+}

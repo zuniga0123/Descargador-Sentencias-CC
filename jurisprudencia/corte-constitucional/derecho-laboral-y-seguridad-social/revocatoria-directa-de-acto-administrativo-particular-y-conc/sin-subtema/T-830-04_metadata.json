@@ -1,0 +1,50 @@
+{
+  "radicado": "T-830-04",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2004,
+  "fecha_creacion": "2004-09-01",
+  "magistrado_ponente": "Dr RODRIGO UPRIMNY YEPES",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "REVOCATORIA DIRECTA DE ACTO ADMINISTRATIVO PARTICULAR Y CONCRETO",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2004/T-830-04.htm",
+  "fecha_descarga": "2026-10-22T21:37:59.643372+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2004-09-01",
+  "fecha_publicacion": null,
+  "numero": "T-830/04",
+  "tipo_cc": "T",
+  "prov_id": "24047",
+  "tema_relatoria": "DERECHO AL DEBIDO PROCESO LA VIDA LA SALUD Y LA TERCERA EDAD DE PERSONA A QUIEN LE FUE REVOCADA SIN SU CONSENTIMIENTO LA RESOLUCIÓN DE RECONOCIMIENTO DE PENSION EN EL SISTEMA GENERAL DE PENSIONES REGIMEN DE PRIMA MEDIA CON PRESTACION DEFINIDA POR NO CUMPL",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "REVOCATORIA DIRECTA DE ACTO ADMINISTRATIVO PARTICULAR Y CONCRETO",
+      "subtema": null
+    },
+    {
+      "tema": "REVOCATORIA DIRECTA DE ACTO ADMINISTRATIVO DE RECONOCIMIENTO DE PENSION",
+      "subtema": "Artículo 19 de la Ley 797/03 permite revocar directamente pero solo ante evidencia de fraude"
+    },
+    {
+      "tema": "DERECHO A LA SEGURIDAD SOCIAL DE PERSONA DE LA TERCERA EDAD",
+      "subtema": "Fundamental por conexidad"
+    },
+    {
+      "tema": "PENSION DE VEJEZ",
+      "subtema": "Posibilidad de solicitar nuevamente reconocimiento"
+    },
+    {
+      "tema": "ERROR DEL SEGURO SOCIAL",
+      "subtema": "No podía alegar desconocimiento de la modificación del régimen de transición"
+    }
+  ]
+}

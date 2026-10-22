@@ -1,0 +1,45 @@
+{
+  "radicado": "T-242-04",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2004,
+  "fecha_creacion": "2004-03-12",
+  "magistrado_ponente": "Dr JAIME CÓRDOBA TRIVIÑO",
+  "area": "Derecho a la Salud",
+  "tema": "DERECHO A LA SALUD",
+  "subtema": "Exclusión de tratamiento de fertilidad por no estar en el POS",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2004/T-242-04.htm",
+  "fecha_descarga": "2026-10-22T21:47:04.910792+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2004-03-12",
+  "fecha_publicacion": null,
+  "numero": "T-242/04",
+  "tipo_cc": "T",
+  "prov_id": "23350",
+  "tema_relatoria": "DERECHOS A LA VIDA DIGNIDAD HUMANA INTEGRIDAD FISICA. SOLICITUD TRATAMIENTO DE FERTILIDAD NO INCLUIDO EN EL POS. AUSENCIA DE TEMERIDAD. DEVOLUCION DINERO. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Exclusión de tratamiento de fertilidad por no estar en el POS"
+    },
+    {
+      "tema": "PLAN OBLIGATORIO DE SALUD",
+      "subtema": "Exclusión de tratamiento de fertilidad"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Hecho superado por pago de tratamiento de fertilidad"
+    },
+    {
+      "tema": "ACCION DE TUTELA TEMERARIA",
+      "subtema": "Inexistencia por condiciones distintas"
+    }
+  ]
+}

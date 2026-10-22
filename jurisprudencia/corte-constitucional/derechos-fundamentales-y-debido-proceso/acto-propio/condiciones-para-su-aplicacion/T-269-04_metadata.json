@@ -1,0 +1,66 @@
+{
+  "radicado": "T-269-04",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2004,
+  "fecha_creacion": "2004-03-19",
+  "magistrado_ponente": "Dr JAIME CÓRDOBA TRIVIÑO",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACTO PROPIO",
+  "subtema": "Condiciones para su aplicación",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 546 de 1999",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2004/T-269-04.htm",
+  "fecha_descarga": "2026-10-22T21:52:31.520305+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2004-03-19",
+  "fecha_publicacion": null,
+  "numero": "T-269/04",
+  "tipo_cc": "T",
+  "prov_id": "23385",
+  "tema_relatoria": "DERECHO AL DEBIDO PROCESO. RELIQUIDACION DE CREDITO HIPOTECARIO. CANCELACION DE LA OBLIGACION. LEVANTAMIENTO DE EMBARGO. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACTO PROPIO",
+      "subtema": "Condiciones para su aplicación"
+    },
+    {
+      "tema": "DEBIDO PROCESO",
+      "subtema": "Vulneración por Granahorrar por imputación de una nueva deuda"
+    },
+    {
+      "tema": "OBLIGACION EXTINTA",
+      "subtema": "Cancelación de gravamen"
+    },
+    {
+      "tema": "ENTIDAD BANCARIA",
+      "subtema": "Vulneración de derechos por revivir créditos ya cancelados"
+    },
+    {
+      "tema": "DERECHO A LA VIVIENDA DIGNA",
+      "subtema": "Financiación de vivienda a largo plazo"
+    },
+    {
+      "tema": "ACTO PROPIO",
+      "subtema": "Respeto"
+    },
+    {
+      "tema": "ENTIDAD BANCARIA",
+      "subtema": "Abuso de posición dominante"
+    },
+    {
+      "tema": "OBLIGACION EXTINTA",
+      "subtema": "Expedición de paz y salvo por Granahorrar"
+    },
+    {
+      "tema": "OBLIGACION EXTINTA",
+      "subtema": "Reliquidación de crédito hipotecario"
+    }
+  ]
+}

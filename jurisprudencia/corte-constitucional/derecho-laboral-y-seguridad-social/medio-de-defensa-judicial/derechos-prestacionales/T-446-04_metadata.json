@@ -1,0 +1,53 @@
+{
+  "radicado": "T-446-04",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2004,
+  "fecha_creacion": "2004-05-10",
+  "magistrado_ponente": "Dr EDUARDO MONTEALEGRE LYNETT",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "MEDIO DE DEFENSA JUDICIAL",
+  "subtema": "Derechos prestacionales",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2004/T-446-04.htm",
+  "fecha_descarga": "2026-10-22T21:48:11.745754+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2004-05-10",
+  "fecha_publicacion": null,
+  "numero": "T-446/04",
+  "tipo_cc": "T",
+  "prov_id": "23572",
+  "tema_relatoria": "DERECHOS AL DEBIDO PROCESO IGUALDAD TRABAJO Y MINIMO VITAL DE EX EMBAJADOR DE VENEZUELA. SOLICITUD RELIQUIDACION PENSION DE JUBILACION. SALARIO DIFERENTE AL PERCIBIDO COMO BASE DE COTIZACION. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "MEDIO DE DEFENSA JUDICIAL",
+      "subtema": "Derechos prestacionales"
+    },
+    {
+      "tema": "PENSION DE JUBILACION",
+      "subtema": "Cotización conforme a la asignación correspondiente al cargo realmente desempeñado"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Improcedencia para obtener reconocimiento o reliquidación de pensiones a menos que concurra perjuicio irremediable"
+    },
+    {
+      "tema": "PERJUICIO IRREMEDIABLE",
+      "subtema": "Inexistencia en caso de persona elegida Concejal y que reclama pensión"
+    },
+    {
+      "tema": "PERSONA DE LA TERCERA EDAD",
+      "subtema": "Se considera que lo es a partir de 71 años"
+    },
+    {
+      "tema": "RELIQUIDACION DE PENSIONES",
+      "subtema": "Requisitos que deben acreditarse para que proceda tutela transitoria"
+    }
+  ]
+}

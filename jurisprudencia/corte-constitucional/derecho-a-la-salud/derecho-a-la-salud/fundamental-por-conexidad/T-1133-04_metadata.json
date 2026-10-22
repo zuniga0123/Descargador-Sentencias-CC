@@ -1,0 +1,51 @@
+{
+  "radicado": "T-1133-04",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2004,
+  "fecha_creacion": "2004-11-11",
+  "magistrado_ponente": "Dr ALFREDO BELTRÁN SIERRA",
+  "area": "Derecho a la Salud",
+  "tema": "DERECHO A LA SALUD",
+  "subtema": "Fundamental por conexidad",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Decreto 806 de 1998",
+    "Ley 361 de 1997"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2004/T-1133-04.htm",
+  "fecha_descarga": "2026-10-22T21:57:09.749709+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2004-11-11",
+  "fecha_publicacion": null,
+  "numero": "T-1133/04",
+  "tipo_cc": "T",
+  "prov_id": "24393",
+  "tema_relatoria": "DERECHO A LA VIDA EN CONEXIDAD CON EL DERECHO A LA SALUD SEGURIDAD SOCIAL Y TERCERA EDAD DE AFILIADO AL REGIMEN SUBSIDIADO A QUIEN LA ENTIDAD NO LE ENTREGA EL CARNET QUE LO ACREDITE COMO TAL POR HABER SIDO EXCLUIDO DEL SISTEMA. SOLICITA SE ORDENE LA ENTRE",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Fundamental por conexidad"
+    },
+    {
+      "tema": "REGIMEN SUBSIDIADO DE SALUD",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "SISBEN",
+      "subtema": "Sistema de selección de beneficiarios"
+    },
+    {
+      "tema": "REGIMEN SUBSIDIADO DE SALUD",
+      "subtema": "Carácter transitorio de la calidad de vinculado"
+    },
+    {
+      "tema": "SISBEN",
+      "subtema": "Carné de afiliado no es el que otorga el derecho"
+    }
+  ]
+}

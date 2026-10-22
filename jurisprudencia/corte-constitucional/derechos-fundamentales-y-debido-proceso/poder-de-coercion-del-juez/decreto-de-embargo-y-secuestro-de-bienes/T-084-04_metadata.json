@@ -1,0 +1,80 @@
+{
+  "radicado": "T-084-04",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2004,
+  "fecha_creacion": "2004-02-05",
+  "magistrado_ponente": "Dr ALFREDO BELTRÁN SIERRA",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "PODER DE COERCION DEL JUEZ",
+  "subtema": "Decreto de embargo y secuestro de bienes",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 734 de 2002",
+    "Ley 794 de 2003",
+    "Decreto 150 de 1992"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2004/T-084-04.htm",
+  "fecha_descarga": "2026-10-22T21:45:52.064462+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2004-02-05",
+  "fecha_publicacion": null,
+  "numero": "T-084/04",
+  "tipo_cc": "T",
+  "prov_id": "23178",
+  "tema_relatoria": "DERECHO AL DEBIDO PROCESO E IGUALDAD. ACCESO A LA ADMINISTRACION DE JUSTICIA. SOLICITUD CAMBIO FECHAS FIJADAS PARA LA PRACTICA OPORTUNA DE DILIGENCIAS DE EMBARGO Y SECUESTRO Y RESTITUCION DE INMUEBLE ARRENDADO. PRACTICA DESPACHOS COMISORIOS. LEGITIMACION",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "PODER DE COERCION DEL JUEZ",
+      "subtema": "Decreto de embargo y secuestro de bienes"
+    },
+    {
+      "tema": "DESPACHO COMISORIO",
+      "subtema": "Diligenciamiento se debe hacer respetando al orden cronológico de recibo"
+    },
+    {
+      "tema": "JUEZ",
+      "subtema": "Facultad para comisionar practica de diligencias para hacer efectivo el cumplimiento de sentencias"
+    },
+    {
+      "tema": "PROCESO DE RESTITUCION DE BIEN INMUEBLE",
+      "subtema": "Vulneración del debido proceso"
+    },
+    {
+      "tema": "SENTENCIA JUDICIAL",
+      "subtema": "Carácter vinculante entre las partes"
+    },
+    {
+      "tema": "COMISION",
+      "subtema": "Finalidad"
+    },
+    {
+      "tema": "DERECHO DE ACCESO A LA ADMINISTRACIÓN DE JUSTICIA",
+      "subtema": "Exige celeridad, economía y eficacia en los procesos"
+    },
+    {
+      "tema": "PODER DE EJECUCION DEL JUEZ",
+      "subtema": "Facultad para hacer cumplir sus decisiones"
+    },
+    {
+      "tema": "MINISTERIO DE JUSTICIA Y CONSEJO SUPERIOR DE LA JUDICATURA",
+      "subtema": "Formulación de plazo máximo de cuatro meses para evacuar diligencias judiciales pendientes"
+    },
+    {
+      "tema": "DILIGENCIAS DE EMBARGO Y SECUESTRO Y DE RESTITUCION DE INMUEBLE",
+      "subtema": "Fecha distante debido al cúmulo de diligencias"
+    },
+    {
+      "tema": "SENTENCIA JUDICIAL",
+      "subtema": "Cumplimiento efectivo"
+    },
+    {
+      "tema": "SENTENCIA JUDICIAL",
+      "subtema": "Consecuencias de su incumplimiento"
+    }
+  ]
+}

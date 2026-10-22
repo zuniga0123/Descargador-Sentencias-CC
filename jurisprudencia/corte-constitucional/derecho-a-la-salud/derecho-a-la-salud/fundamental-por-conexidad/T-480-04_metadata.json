@@ -1,0 +1,55 @@
+{
+  "radicado": "T-480-04",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2004,
+  "fecha_creacion": "2004-05-20",
+  "magistrado_ponente": "Dr ALVARO TAFUR GALVIS",
+  "area": "Derecho a la Salud",
+  "tema": "DERECHO A LA SALUD",
+  "subtema": "Fundamental por conexidad",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 11 de 1988",
+    "Ley 100 de 1993",
+    "Ley 100 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2004/T-480-04.htm",
+  "fecha_descarga": "2026-10-22T21:50:53.357467+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2004-05-20",
+  "fecha_publicacion": null,
+  "numero": "T-480/04",
+  "tipo_cc": "T",
+  "prov_id": "23611",
+  "tema_relatoria": "DERECHO A LA SALUD Y VIDA DE EMPLEADA DEL SERVICIO DOMESTICO. SOLICITUD TRATAMIENTO ENFERMEDAD CARDIACA POR INFARTO PRESCRITO POR MEDICO TRATANTE NO INCLUIDO EN EL POS. CONTINUIDAD EN EL SERVICIO. AGENCIA OFICIOSA. ESTADO SOCIAL DE DERECHO. ACCION DE REPE",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Fundamental por conexidad"
+    },
+    {
+      "tema": "PRINCIPIO DE CONTINUIDAD EN EL SERVICIO DE SALUD",
+      "subtema": "Demora en realizar cirugía pone en peligro derechos fundamentales"
+    },
+    {
+      "tema": "AGENCIA OFICIOSA",
+      "subtema": "Empleadora en representación de persona del servicio doméstico enferma"
+    },
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Práctica de cirugía cardiovascular excluída del POS"
+    },
+    {
+      "tema": "SISTEMA GENERAL DE SEGURIDAD SOCIAL EN SALUD",
+      "subtema": "Empleadores están en la obligación de afiliar a sus trabajadores"
+    },
+    {
+      "tema": "SERVIDOR PUBLICO",
+      "subtema": "Se compulsan copias a la Procuraduría General de la Nación por cuanto deben actuar respetando el debido proceso, con justicia, lealtad procesal y buena fe"
+    }
+  ]
+}

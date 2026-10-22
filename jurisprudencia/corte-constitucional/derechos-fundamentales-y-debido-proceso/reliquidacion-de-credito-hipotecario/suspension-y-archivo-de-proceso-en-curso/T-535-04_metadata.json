@@ -1,0 +1,49 @@
+{
+  "radicado": "T-535-04",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2004,
+  "fecha_creacion": "2004-05-27",
+  "magistrado_ponente": "Dr ALFREDO BELTRÁN SIERRA",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "RELIQUIDACION DE CREDITO HIPOTECARIO",
+  "subtema": "Suspensión y archivo de proceso en curso",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 546 de 1999"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2004/T-535-04.htm",
+  "fecha_descarga": "2026-10-22T21:49:28.574509+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2004-05-27",
+  "fecha_publicacion": null,
+  "numero": "T-535/04",
+  "tipo_cc": "T",
+  "prov_id": "23676",
+  "tema_relatoria": "DERECHO AL DEBIDO PROCESO Y VIVIENDA. TERMINACION PROCESO EJECUTIVO HIPOTECARIO. FALTA SOLICITUD. RELIQUIDACION DE CREDITO. UPAC. PENDIENTE SALDO. FUNCION JUDICIAL. VILLAS. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "RELIQUIDACION DE CREDITO HIPOTECARIO",
+      "subtema": "Suspensión y archivo de proceso en curso"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Improcedencia cuando se está desarrollando un proceso judicial en que las partes no proponen los argumentos que motivan la acción"
+    },
+    {
+      "tema": "DEBIDO PROCESO",
+      "subtema": "No vulneración por cuanto no se hizo uso oportuno de las herramientas procesales"
+    },
+    {
+      "tema": "JUEZ ORDINARIO",
+      "subtema": "Competencia para garantizar derechos a usuarios del sistema UPAC"
+    },
+    {
+      "tema": "PROCESO EJECUTIVO HIPOTECARIO",
+      "subtema": "No existe solicitud de la actora para que el juez dé por terminado el proceso"
+    }
+  ]
+}
