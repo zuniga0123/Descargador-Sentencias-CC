@@ -1,0 +1,54 @@
+{
+  "radicado": "T-093-03",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2003,
+  "fecha_creacion": "2003-02-07",
+  "magistrado_ponente": "Dr RODRIGO ESCOBAR GIL",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCIÓN DE TUTELA",
+  "subtema": "Procedencia reclamo de salarios de secuestrados",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 282 de 1996",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2003/T-093-03.htm",
+  "fecha_descarga": "2026-10-22T23:08:12.077742+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2003-02-07",
+  "fecha_publicacion": null,
+  "numero": "T-093/03",
+  "tipo_cc": "T",
+  "prov_id": "21724",
+  "tema_relatoria": "DERECHO A LA IGUALDAD Y MINIMO VITAL. SOLICITUD PAGO SALARIOS DE COMPAÑERO PERMANENTE SECUESTRADO. LIMITES A LA RECLAMACION. DEBER DE SOLIDARIDAD DEL EMPLEADOR. ERROR JUDICIAL POR INDEBIDA APLICACIÓN. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Procedencia reclamo de salarios de secuestrados"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Razones para protección temporal a familia del secuestrado"
+    },
+    {
+      "tema": "DERECHO AL TRABAJO",
+      "subtema": "Pago oportuno de salarios"
+    },
+    {
+      "tema": "ERROR JUDICIAL",
+      "subtema": "No constituye título para reclamar determinada prestación"
+    },
+    {
+      "tema": "EMPLEADOR",
+      "subtema": "Pago de salarios a secuestrado por tiempo definido"
+    },
+    {
+      "tema": "SALARIO",
+      "subtema": "Pago a beneficiarios del secuestrado"
+    }
+  ]
+}

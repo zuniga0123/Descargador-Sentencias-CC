@@ -1,0 +1,56 @@
+{
+  "radicado": "T-785-03",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2003,
+  "fecha_creacion": "2003-09-11",
+  "magistrado_ponente": "Dr ALVARO TAFUR GALVIS",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "PERJUICIO IRREMEDIABLE",
+  "subtema": "Prueba en caso de secuestrado",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 589 de 2000",
+    "Ley 282 de 1996",
+    "Ley 617 de 2000",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2003/T-785-03.htm",
+  "fecha_descarga": "2026-10-22T23:04:04.803463+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2003-09-11",
+  "fecha_publicacion": null,
+  "numero": "T-785/03",
+  "tipo_cc": "T",
+  "prov_id": "22574",
+  "tema_relatoria": "DERECHO A LA VIDA Y MINIMO VITAL. PAGO DE ACREENCIAS LABORALES. SALARIOS Y PRESTACIONES DE ESPOSO SECUESTRADO. FALTA CALIDAD DE DIPUTADO. VACANCIA TEMPORAL. POSESION DEL SEGUNDO DE LA LISTA. DOBLE EROGACION. DESAPARICION FORZADA. LEY 589 DE 2000. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "PERJUICIO IRREMEDIABLE",
+      "subtema": "Prueba en caso de secuestrado"
+    },
+    {
+      "tema": "DERECHO A LA REPRESENTACION EFECTIVA",
+      "subtema": "Vulneración por ausencia de diputado secuestrado"
+    },
+    {
+      "tema": "SECUESTRO DE DIPUTADO DE LA ASAMBLEA",
+      "subtema": "Pago de salarios"
+    },
+    {
+      "tema": "SECUESTRO",
+      "subtema": "Funcionario competente para pronunciarse sobre pago de salarios conforme al artículo 10 de la Ley 589/2000"
+    },
+    {
+      "tema": "SECUESTRO",
+      "subtema": "Pago de salarios"
+    },
+    {
+      "tema": "SECUESTRO Y MINIMO VITAL",
+      "subtema": "Prueba de la afectación"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "radicado": "T-512-03",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2003,
+  "fecha_creacion": "2003-06-19",
+  "magistrado_ponente": "Dr EDUARDO MONTEALEGRE LYNETT",
+  "area": "Derecho a la Salud",
+  "tema": "DERECHO A LA SALUD",
+  "subtema": "Tratamiento médico cuando la infertilidad es producto de otras enfermedades",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto Ley 2591 de 1991",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2003/T-512-03.htm",
+  "fecha_descarga": "2026-10-22T23:11:36.072742+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2003-06-19",
+  "fecha_publicacion": null,
+  "numero": "T-512/03",
+  "tipo_cc": "T",
+  "prov_id": "22243",
+  "tema_relatoria": "DERECHO A LA SALUD Y VIDA. SOLICITUD ATENCION MEDICA. TRATAMIENTO DE INFERTILIDAD NO INCLUIDO EN EL POS. PROBLEMA FISICO ORGANICO QUE IMPIDE LA FECUNDACION. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Tratamiento médico cuando la infertilidad es producto de otras enfermedades"
+    },
+    {
+      "tema": "ENTIDAD PROMOTORA DE SALUD",
+      "subtema": "Continuidad en tratamiento de fertilidad ya iniciado"
+    },
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Integración entre la Constitución y los tratados de derechos humanos"
+    },
+    {
+      "tema": "SERVICIO PUBLICO DE SALUD",
+      "subtema": "Razonabilidad en la exclusión de enfermedades del POS"
+    }
+  ]
+}

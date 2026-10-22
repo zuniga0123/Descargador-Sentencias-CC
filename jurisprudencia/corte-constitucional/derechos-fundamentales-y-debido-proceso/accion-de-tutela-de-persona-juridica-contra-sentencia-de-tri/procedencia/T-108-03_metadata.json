@@ -1,0 +1,50 @@
+{
+  "radicado": "T-108-03",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2003,
+  "fecha_creacion": "2003-02-13",
+  "magistrado_ponente": "Dr ALVARO TAFUR GALVIS",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCION DE TUTELA DE PERSONA JURIDICA CONTRA SENTENCIA DE TRIBUNAL",
+  "subtema": "Procedencia",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 446 de 1998",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2003/T-108-03.htm",
+  "fecha_descarga": "2026-10-22T22:56:56.170630+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2003-02-13",
+  "fecha_publicacion": null,
+  "numero": "T-108/03",
+  "tipo_cc": "T",
+  "prov_id": "21758",
+  "tema_relatoria": "DERECHO AL DEBIDO PROCESO. VIA DE HECHO. ACCESO A LA ADMINISTRACION DE JUSTICIA. PROCESO ORDINARIO DE MAYOR CUANTIA. PERSONA JURIDICA TITULAR DE LA ACCION. TUTELA CONTRA PROVIDENCIAS JUDICIALES. FALTA EJERCICIO OPORTUNO DE MEDIOS ORDINARIOS. RECURSO EXTRA",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCION DE TUTELA DE PERSONA JURIDICA CONTRA SENTENCIA DE TRIBUNAL",
+      "subtema": "Procedencia"
+    },
+    {
+      "tema": "RECURSO DE CASACION",
+      "subtema": "No se hizo uso de éste en la oportunidad procesal"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Improcedencia por no ejercicio oportuno de mecanismos de defensa judicial"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Carácter excepcional"
+    },
+    {
+      "tema": "TRANSPORTE DE MERCANCIA",
+      "subtema": "Condena por pérdida"
+    }
+  ]
+}

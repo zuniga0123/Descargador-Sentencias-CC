@@ -1,0 +1,61 @@
+{
+  "radicado": "T-546-03",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2003,
+  "fecha_creacion": "2003-07-09",
+  "magistrado_ponente": "Dr MANUEL JOSÉ CEPEDA ESPINOSA",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ENTIDAD BANCARIA",
+  "subtema": "Utilización de extractos bancarios a falta de paz y salvos por cuanto indicaban estado de obligaciones financieras",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 546 de 1999",
+    "Decreto 1593 de 1959",
+    "Decreto 753 de 1956",
+    "Ley 48 de 1968"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2003/T-546-03.htm",
+  "fecha_descarga": "2026-10-22T23:05:13.732765+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2003-07-09",
+  "fecha_publicacion": null,
+  "numero": "T-546/03",
+  "tipo_cc": "T",
+  "prov_id": "22292",
+  "tema_relatoria": "DERECHO A LA IGUALDAD Y DEBIDO PROCESO. ERROR EN RELIQUIDACION DE CREDITO. SOLICITUD CANCELACION HIPOTECA. EXPEDICION PAZ Y SALVO. APLICACIÓN ALIVIO FINANCIERO. RESPETO DEL ACTO PROPIO. COBRO DE SALDOS INSOLUTOS. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ENTIDAD BANCARIA",
+      "subtema": "Utilización de extractos bancarios a falta de paz y salvos por cuanto indicaban estado de obligaciones financieras"
+    },
+    {
+      "tema": "ENTIDAD BANCARIA",
+      "subtema": "Vulneración de derechos por revivir créditos ya cancelados"
+    },
+    {
+      "tema": "ENTIDAD BANCARIA",
+      "subtema": "Modificación de situación jurídica consolidada respecto de reliquidación de créditos hipotecarios"
+    },
+    {
+      "tema": "ACTO PROPIO",
+      "subtema": "Respeto por entidad financiera"
+    },
+    {
+      "tema": "ENTIDAD BANCARIA",
+      "subtema": "Posición dominante"
+    },
+    {
+      "tema": "ENTIDAD BANCARIA",
+      "subtema": "Revocación de actos propios"
+    },
+    {
+      "tema": "DEBIDO PROCESO",
+      "subtema": "Vulneración por Granahorrar al solicitar saldo después de expedido el paz y salvo"
+    }
+  ]
+}

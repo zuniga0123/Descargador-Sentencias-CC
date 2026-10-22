@@ -1,0 +1,54 @@
+{
+  "radicado": "T-958-03",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2003,
+  "fecha_creacion": "2003-10-20",
+  "magistrado_ponente": "Dr RODRIGO ESCOBAR GIL",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCIÓN DE TUTELA",
+  "subtema": "Término razonable de presentación",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 550 de 1999"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2003/T-958-03.htm",
+  "fecha_descarga": "2026-10-22T22:53:15.474789+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2003-10-20",
+  "fecha_publicacion": null,
+  "numero": "T-958/03",
+  "tipo_cc": "T",
+  "prov_id": "22773",
+  "tema_relatoria": "DERECHOS A LA VIDA SEGURIDAD SOCIAL Y MINIMO VITAL DE PENSIONADOS. PAGO DE MESADAS PENSIONALES ATRASADAS. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Término razonable de presentación"
+    },
+    {
+      "tema": "DERECHO AL MINIMO VITAL DEL PENSIONADO",
+      "subtema": "Pago de mesadas atrasadas"
+    },
+    {
+      "tema": "DERECHO AL MINIMO VITAL DEL PENSIONADO",
+      "subtema": "Pago de mesadas atrasadas siempre que exista partida presupuestal o inicio de gestiones para su consecución"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Inmediatez"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Procedencia excepcional pago de mesadas pensionales"
+    },
+    {
+      "tema": "EMPLEADOR",
+      "subtema": "Situación económica o presupuestal no es óbice para desconocer obligaciones laborales"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "radicado": "T-1212-03",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2003,
+  "fecha_creacion": "2003-12-11",
+  "magistrado_ponente": "Dr MANUEL JOSE CEPEDA ESPINOSA",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "DERECHO DE PETICION DEL INTERNO",
+  "subtema": "Respuesta negativa sobre asignación de defensor público",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 24 de 1992",
+    "Ley 600 de 2000"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2003/T-1212-03.htm",
+  "fecha_descarga": "2026-10-22T23:00:19.632089+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2003-12-11",
+  "fecha_publicacion": null,
+  "numero": "T-1212/03",
+  "tipo_cc": "T",
+  "prov_id": "23072",
+  "tema_relatoria": "SOLICITUD DE DESIGNACION DE UN DEFENSOR PUBLICO. DERECHO A LA DEFENSA TECNICA. CONCEDIDA",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO DE PETICION DEL INTERNO",
+      "subtema": "Respuesta negativa sobre asignación de defensor público"
+    },
+    {
+      "tema": "DEFENSA TECNICA",
+      "subtema": "Garantía del debido proceso constitucional"
+    },
+    {
+      "tema": "DEFENSOR DEL PUEBLO",
+      "subtema": "Obligación de designar defensor público"
+    },
+    {
+      "tema": "DERECHO DE DEFENSA",
+      "subtema": "Solicitud defensor público"
+    },
+    {
+      "tema": "DERECHO DE DEFENSA",
+      "subtema": "Garantía del debido proceso"
+    }
+  ]
+}

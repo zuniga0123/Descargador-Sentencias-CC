@@ -1,0 +1,47 @@
+{
+  "radicado": "T-374-03",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2003,
+  "fecha_creacion": "2003-05-09",
+  "magistrado_ponente": "Dr RODRIGO ESCOBAR GIL",
+  "area": "Derecho a la Salud",
+  "tema": "DERECHO A LA SALUD",
+  "subtema": "Fundamental por conexidad con la vida",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 100 de 1993",
+    "Ley 60 de 1993"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2003/T-374-03.htm",
+  "fecha_descarga": "2026-10-22T23:02:08.720933+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2003-05-09",
+  "fecha_publicacion": null,
+  "numero": "T-374/03",
+  "tipo_cc": "T",
+  "prov_id": "22084",
+  "tema_relatoria": "DERECHO A LA SALUD DE PERSONA CON VIH. AFILIACION AL REGIMEN SUBSIDIADO DE SALUD. SISBEN. INCONSISTENCIAS. ATENCION A PARTICIPANTES VINCULADOS. ENFERMEDAD CATASTROFICA O RUINOSA. DEBER DE INFORMACION. FALTA CAPACIDAD ECONOMICA. CONCEDIDA PARCIAL.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Fundamental por conexidad con la vida"
+    },
+    {
+      "tema": "DERECHO A LA SALUD DEL ENFERMO DE SIDA",
+      "subtema": "Asignación de cupo para acceder al régimen subsidiado de salud"
+    },
+    {
+      "tema": "DERECHO A LA SALUD DEL ENFERMO DE SIDA",
+      "subtema": "Protección"
+    },
+    {
+      "tema": "SISBEN",
+      "subtema": "Participantes vinculados"
+    }
+  ]
+}

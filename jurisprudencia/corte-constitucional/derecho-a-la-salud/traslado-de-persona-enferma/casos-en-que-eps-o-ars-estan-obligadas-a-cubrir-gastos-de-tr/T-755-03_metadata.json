@@ -1,0 +1,41 @@
+{
+  "radicado": "T-755-03",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2003,
+  "fecha_creacion": "2003-08-28",
+  "magistrado_ponente": "Dr RODRIGO ESCOBAR GIL",
+  "area": "Derecho a la Salud",
+  "tema": "TRASLADO DE PERSONA ENFERMA",
+  "subtema": "Casos en que EPS o ARS están obligadas a cubrir gastos de transporte",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2003/T-755-03.htm",
+  "fecha_descarga": "2026-10-22T23:02:52.408424+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2003-08-28",
+  "fecha_publicacion": null,
+  "numero": "T-755/03",
+  "tipo_cc": "T",
+  "prov_id": "22541",
+  "tema_relatoria": "DERECHO A LA SALUD. SOLICITUD SUMINISTRO PASAJES AEREOS Y DE ACOMPAÑANTE PARA TRASLADO DE CIUDAD. REALIZACION EXAMEN MEDICO DE TAC CEREBRAL NO INCLUIDO EN EL POS. HECHO SUPERADO. ARS. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "TRASLADO DE PERSONA ENFERMA",
+      "subtema": "Casos en que EPS o ARS están obligadas a cubrir gastos de transporte"
+    },
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Traslado a otra ciudad para atención médica"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Hecho superado por traslado a otra ciudad para atención médica"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "radicado": "T-641-03",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2003,
+  "fecha_creacion": "2003-08-01",
+  "magistrado_ponente": "Dra CLARA INÉS VARGAS HERNÁNDEZ",
+  "area": "Derecho a la Salud",
+  "tema": "AGENCIA OFICIOSA EN TUTELA",
+  "subtema": "Hijo mayor de edad avala el interés en la presentación de la acción",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2003/T-641-03.htm",
+  "fecha_descarga": "2026-10-22T23:06:41.162995+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2003-08-01",
+  "fecha_publicacion": null,
+  "numero": "T-641/03",
+  "tipo_cc": "T",
+  "prov_id": "22409",
+  "tema_relatoria": "DERECHO A LA SALUD Y VIDA DE JOVEN CON DIABETES. SUMINISTRO TIRILLAS PARA MEDICION DE GLICEMIA Y MEDICAMENTOS PRESCRITOS POR MEDICO TRATANTE NO INCLUIDOS EN EL POS. AGENCIA OFICIOSA. ACCION DE REPETICION. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "AGENCIA OFICIOSA EN TUTELA",
+      "subtema": "Hijo mayor de edad avala el interés en la presentación de la acción"
+    },
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Suministro de medicamentos para la diabetes"
+    },
+    {
+      "tema": "AGENCIA OFICIOSA EN TUTELA",
+      "subtema": "Madre en representación de hijo mayor de edad"
+    }
+  ]
+}

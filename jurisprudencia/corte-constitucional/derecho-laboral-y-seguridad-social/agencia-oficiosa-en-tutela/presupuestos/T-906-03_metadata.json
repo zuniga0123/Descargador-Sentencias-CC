@@ -1,0 +1,47 @@
+{
+  "radicado": "T-906-03",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2003,
+  "fecha_creacion": "2003-10-08",
+  "magistrado_ponente": "Dr RODRIGO ESCOBAR GIL",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "AGENCIA OFICIOSA EN TUTELA",
+  "subtema": "Presupuestos",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 797 de 2003",
+    "Ley 717 de 2001"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2003/T-906-03.htm",
+  "fecha_descarga": "2026-10-22T22:53:30.049248+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2003-10-08",
+  "fecha_publicacion": null,
+  "numero": "T-906/03",
+  "tipo_cc": "T",
+  "prov_id": "22712",
+  "tema_relatoria": "DERECHO DE PETICION. SOLICITUD RECONOCIMIENTO PENSION DE SOBREVIVIENTES. AGENCIA OFICIOSA. FALTA DE LEGITIMACION POR ACTIVA. NO ACREDITACION INCAPACIDAD. TERMINO DE DOS MESES PARA RESOLVER. LEY 717 DE 2001. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "AGENCIA OFICIOSA EN TUTELA",
+      "subtema": "Presupuestos"
+    },
+    {
+      "tema": "FALTA DE LEGITIMACION POR ACTIVA EN TUTELA",
+      "subtema": "Demandante no es titular del derecho"
+    },
+    {
+      "tema": "FALTA DE LEGITIMACION POR ACTIVA EN TUTELA",
+      "subtema": "No se cumplen los presupuestos de la agencia oficiosa"
+    },
+    {
+      "tema": "LEGITIMACIÓN POR ACTIVA EN TUTELA",
+      "subtema": "Alcance"
+    }
+  ]
+}

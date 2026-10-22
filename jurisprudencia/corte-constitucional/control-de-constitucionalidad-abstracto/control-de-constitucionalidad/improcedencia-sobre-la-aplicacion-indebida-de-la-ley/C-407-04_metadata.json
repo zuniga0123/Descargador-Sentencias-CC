@@ -1,0 +1,51 @@
+{
+  "radicado": "C-407-04",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2004,
+  "fecha_creacion": "2004-05-04",
+  "magistrado_ponente": "Dr JAIME CÓRDOBA TRIVIÑO",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "CONTROL DE CONSTITUCIONALIDAD",
+  "subtema": "Improcedencia sobre la aplicación indebida de la ley",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2067 de 1991",
+    "Ley 58 de 1982",
+    "Ley 446 de 1998"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2004/C-407-04.htm",
+  "fecha_descarga": "2026-10-22T22:51:05.897240+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2004-05-04",
+  "fecha_publicacion": null,
+  "numero": "C-407/04",
+  "tipo_cc": "C",
+  "prov_id": "23526",
+  "tema_relatoria": "FALLO INHIBITORIO POR INEPTITUD DE DEMANDA DE INCONSTITUCIONALIDAD CONTRA NORMA DEL CODIGO CONTENCIOSO ADMINISTRATIVO",
+  "resumen": "DECRETO 01 DE 1984. CODIGO CONTENCIOSO ADMINISTRATIVO. ART. 178. AJUSTE DEL VALOR DE LIQUIDACION DE CONDENAS RESUELTAS MEDIANTE SENTENCIA DE ACUERDO AL IPC EN MONEDA LEGAL COLOMBIANA. FACULTADES EXTRAORDINARIAS. CONTROL ABSTRACTO DE CONSTITUCIONALIDAD.",
+  "titulaciones": [
+    {
+      "tema": "CONTROL DE CONSTITUCIONALIDAD",
+      "subtema": "Improcedencia sobre la aplicación indebida de la ley"
+    },
+    {
+      "tema": "CONDENAS EN LA JURISDICCION CONTENCIOSO ADMINISTRATIVA",
+      "subtema": "Imposición"
+    },
+    {
+      "tema": "CONDENAS EN SENTENCIA DE LA JURISDICCION CONTENCIOSO ADMINISTRATIVA",
+      "subtema": "Ajuste"
+    },
+    {
+      "tema": "CONDENAS POR AUTORIDAD JUDICIAL",
+      "subtema": "Establecimiento"
+    },
+    {
+      "tema": "INHIBICION DE LA CORTE CONSTITUCIONAL",
+      "subtema": "Ausencia de argumentos de carácter constitucional"
+    }
+  ]
+}

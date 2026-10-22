@@ -1,0 +1,62 @@
+{
+  "radicado": "T-640-03",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2003,
+  "fecha_creacion": "2003-08-01",
+  "magistrado_ponente": "Dra CLARA INÉS VARGAS HERNÁNDEZ",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "DERECHO DE ACCESO AL EXPEDIENTE",
+  "subtema": "Restricciones",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Decreto 196 de 1971",
+    "Decreto 1210 de 1990",
+    "Ley 80 de 1993",
+    "Decreto Ley 2282 de 1989",
+    "Decreto 2282 de 1989"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2003/T-640-03.htm",
+  "fecha_descarga": "2026-10-22T23:06:37.555144+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2003-08-01",
+  "fecha_publicacion": null,
+  "numero": "T-640/03",
+  "tipo_cc": "T",
+  "prov_id": "22408",
+  "tema_relatoria": "DERECHO AL DEBIDO PROCESO. SOLICITUD ACCESO AL EXPEDIENTE POR APODERADO. NOTIFICACION MANDAMIENTO DE PAGO EN PROCESO EJECUTIVO. OPORTUNIDAD PROCESAL. PRACTICA MEDIDAS CAUTELARES DECRETADAS. FALTA DE COMPETENCIA. ADPOSTAL. UNIVERSIDAD NACIONAL DE COLOMBIA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO DE ACCESO AL EXPEDIENTE",
+      "subtema": "Restricciones"
+    },
+    {
+      "tema": "DERECHO DE ACCESO AL EXPEDIENTE",
+      "subtema": null
+    },
+    {
+      "tema": "DERECHO DE ACCESO AL EXPEDIENTE",
+      "subtema": "Comprende cualquier tipo de actuación"
+    },
+    {
+      "tema": "DERECHO DE ACCESO AL EXPEDIENTE",
+      "subtema": "Restricción temporal en caso específico"
+    },
+    {
+      "tema": "DERECHO DE ACCESO AL EXPEDIENTE",
+      "subtema": "Conocimiento debe ser integral"
+    },
+    {
+      "tema": "MEDIO DE DEFENSA JUDICIAL",
+      "subtema": "Existencia de otro mecanismo para dirimir controversia sobre incompetencia de juzgado"
+    },
+    {
+      "tema": "PROCESO EJECUTIVO",
+      "subtema": "Momento procesal para notificación de mandamiento de pago en el que se decretan medidas cautelares"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "radicado": "T-645-03",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2003,
+  "fecha_creacion": "2003-08-06",
+  "magistrado_ponente": "Dr ALFREDO BELTRÁN SIERRA",
+  "area": "Derecho a la Salud",
+  "tema": "JUEZ DE TUTELA",
+  "subtema": "Contenido de los escritos enviados por las entidades demandadas",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 387 de 1997",
+    "Ley 100 de 1993",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2003/T-645-03.htm",
+  "fecha_descarga": "2026-10-22T23:06:52.101829+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2003-08-06",
+  "fecha_publicacion": null,
+  "numero": "T-645/03",
+  "tipo_cc": "T",
+  "prov_id": "22434",
+  "tema_relatoria": "DERECHOS A LA SALUD VIDA DIGNIDAD E INFORMACION DE PERSONA DESPLAZADA. SUMINISTRO ATENCION MEDICA INTEGRAL EN BRAZO IZQUIERDO PRESCRITA POR MEDICO TRATANTE NO INCLUIDOS EN EL POS. RESPETO DE LOS TURNOS. PRESUNCION DE VERACIDAD. ESTADO DE INDEFENSION. DEBE",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "JUEZ DE TUTELA",
+      "subtema": "Contenido de los escritos enviados por las entidades demandadas"
+    },
+    {
+      "tema": "RED DE SOLIDARIDAD SOCIAL",
+      "subtema": "Imprecisiones y no suministro de información necesaria por utilización de formatos"
+    },
+    {
+      "tema": "DERECHO DE PERSONA DESPLAZADA A RECIBIR INFORMACION",
+      "subtema": "Entidad estatal responsable de suministrar atención médica"
+    },
+    {
+      "tema": "DERECHO A LA SALUD DE PERSONA DESPLAZADA",
+      "subtema": "Valoración para práctica de cirugía"
+    },
+    {
+      "tema": "DERECHO DE PERSONA DESPLAZADA A RECIBIR ATENCION MEDICA OPORTUNA",
+      "subtema": "Respeto de los turnos no puede implicar desconocimiento del derecho"
+    }
+  ]
+}

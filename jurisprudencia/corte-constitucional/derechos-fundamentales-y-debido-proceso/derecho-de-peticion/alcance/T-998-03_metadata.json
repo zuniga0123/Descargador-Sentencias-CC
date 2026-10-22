@@ -1,0 +1,54 @@
+{
+  "radicado": "T-998-03",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2003,
+  "fecha_creacion": "2003-10-27",
+  "magistrado_ponente": "Dr JAIME ARAÚJO RENTERÍA",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "DERECHO DE PETICIÓN",
+  "subtema": "Alcance",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 100 de 1993",
+    "Decreto 1068 de 1995",
+    "Decreto 2143 de 1995",
+    "Ley 797 de 2003",
+    "Ley 700 de 2001"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2003/T-998-03.htm",
+  "fecha_descarga": "2026-10-22T23:09:17.797647+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2003-10-27",
+  "fecha_publicacion": null,
+  "numero": "T-998/03",
+  "tipo_cc": "T",
+  "prov_id": "22818",
+  "tema_relatoria": "DERECHO DE PETICION. SOLICITUD RECONOCIMIENTO PENSION DE JUBILACION. RESPUESTA DE FONDO. REGIMEN DE TRANSICION. PRESUNCION DE VERACIDAD. TERMINO DE 6 MESES PARA RESOLVER. LLAMADO A PREVENCION. LEY 700 DE 2001. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO DE PETICIÓN",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "DERECHO DE PETICIÓN",
+      "subtema": "Núcleo esencial"
+    },
+    {
+      "tema": "DERECHO DE PETICIÓN",
+      "subtema": "Resolución de fondo por el ISS sobre reconocimiento de pensión de jubilación"
+    },
+    {
+      "tema": "DERECHO DE PETICIÓN EN MATERIA PENSIONAL",
+      "subtema": "Términos para resolver"
+    },
+    {
+      "tema": "INFORMES EN TUTELA",
+      "subtema": "Presunción de veracidad sobre los hechos"
+    }
+  ]
+}

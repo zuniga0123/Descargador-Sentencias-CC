@@ -1,0 +1,54 @@
+{
+  "radicado": "T-633-03",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2003,
+  "fecha_creacion": "2003-07-31",
+  "magistrado_ponente": "Dr JAIME ARAÚJO RENTERÍA",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ASAMBLEA DE COPROPIETARIOS",
+  "subtema": "Mecanismos para solucionar extrajudicialmente los conflictos entre comuneros",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 675 de 2001"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2003/T-633-03.htm",
+  "fecha_descarga": "2026-10-22T23:04:55.627979+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2003-07-31",
+  "fecha_publicacion": null,
+  "numero": "T-633/03",
+  "tipo_cc": "T",
+  "prov_id": "22402",
+  "tema_relatoria": "DERECHO A LA IGUALDAD. PROHIBICION DE ASISTIR Y VOTAR EN ASAMBLEA GENERAL DE COPROPIETARIOS. MORA PAGO CUOTAS DE ADMINISTRACION. PROPIEDAD HORIZONTAL. EJECUCION ACTOS DE AUTORIDAD. TUTELA CONTRA PARTICULARES. EL RODADERO. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ASAMBLEA DE COPROPIETARIOS",
+      "subtema": "Mecanismos para solucionar extrajudicialmente los conflictos entre comuneros"
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA ADMINISTRACION DE CONJUNTO RESIDENCIAL",
+      "subtema": "Procedencia"
+    },
+    {
+      "tema": "DERECHOS FUNDAMENTALES",
+      "subtema": "No se vulneran por impedir ingreso de deudores morosos a la asamblea de copropietarios"
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA PARTICULARES",
+      "subtema": "Procedencia excepcional"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Improcedencia para controvertir decisiones sobre prohibición de ingreso de morosos a la asamblea de copropietarios"
+    },
+    {
+      "tema": "PROCESO VERBAL SUMARIO",
+      "subtema": "Controversias entre copropietarios"
+    }
+  ]
+}

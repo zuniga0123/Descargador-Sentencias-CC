@@ -1,0 +1,47 @@
+{
+  "radicado": "T-001-03",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2003,
+  "fecha_creacion": "2003-01-16",
+  "magistrado_ponente": "Dr MARCO GERARDO MONROY CABRA",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCIÓN DE TUTELA",
+  "subtema": "Hecho superado",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 700 de 2001",
+    "Decreto 656 de 1994",
+    "Decreto 656 de 1999"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2003/T-001-03.htm",
+  "fecha_descarga": "2026-10-22T23:07:43.237457+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2003-01-16",
+  "fecha_publicacion": null,
+  "numero": "T-001/03",
+  "tipo_cc": "T",
+  "prov_id": "21613",
+  "tema_relatoria": "DERECHO DE PETICION Y DEBIDO PROCESO. SOLICITUD RECONOCIMIENTO PENSION DE JUBILACION. RESPUESTA CLARA Y OPORTUNA. CUATRO MESES PARA RESOLVER. REGIMEN DE TRANSICION. LEY 700 DE 2001. HECHO SUPERADO. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Hecho superado"
+    },
+    {
+      "tema": "DERECHO DE PETICION ANTE EL SEGURO SOCIAL",
+      "subtema": "Aplicación analógica de término de cuatro meses para resolver reconocimiento de pensiones legales"
+    },
+    {
+      "tema": "NORMAS SOBRE REGIMEN JURIDICO Y FINANCIERO DE FONDOS ADMINISTRADORES DE PENSIONES",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "SEGURO SOCIAL",
+      "subtema": "Mora en responder solicitud de reconocimiento y pago de pensión"
+    }
+  ]
+}

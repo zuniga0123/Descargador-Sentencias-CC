@@ -1,0 +1,52 @@
+{
+  "radicado": "T-304-03",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2003,
+  "fecha_creacion": "2003-04-10",
+  "magistrado_ponente": "Dr MARCO GERARDO MONROY CABRA",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "ENTIDAD ADMINISTRADORA DE PENSIONES",
+  "subtema": "Inclusión en nómina a pensionados que tienen derecho",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 33 de 1973",
+    "Ley 171 de 1961",
+    "Decreto 435 de 1971",
+    "Ley 10 de 1972",
+    "Ley 100 de 1993",
+    "Ley 700 de 2001",
+    "Decreto 656 de 1994",
+    "Ley 717 de 2001"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2003/T-304-03.htm",
+  "fecha_descarga": "2026-10-22T23:10:19.683966+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2003-04-10",
+  "fecha_publicacion": null,
+  "numero": "T-304/03",
+  "tipo_cc": "T",
+  "prov_id": "21988",
+  "tema_relatoria": "DERECHO DE PETICION. PAGO DE ACREENCIAS LABORALES. MESADAS PENSIÓNALES. INCLUSION EN NOMINA DE PENSIONADOS. PENSION DE SOBREVIVIENTES DE CONYUGE SUPERSTITE. TERMINO DE DOS MESES PARA RESOLVER. LEY 717 DE 2001. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ENTIDAD ADMINISTRADORA DE PENSIONES",
+      "subtema": "Inclusión en nómina a pensionados que tienen derecho"
+    },
+    {
+      "tema": "DERECHO DE PETICION EN VIA GUBERNATIVA",
+      "subtema": "Término de quince días para resolver"
+    },
+    {
+      "tema": "PENSIÓN DE SOBREVIVIENTES",
+      "subtema": "Término de dos meses para resolver reconocimiento"
+    },
+    {
+      "tema": "DERECHO A LA PENSIÓN DE SOBREVIVIENTES",
+      "subtema": "Fundamental"
+    }
+  ]
+}

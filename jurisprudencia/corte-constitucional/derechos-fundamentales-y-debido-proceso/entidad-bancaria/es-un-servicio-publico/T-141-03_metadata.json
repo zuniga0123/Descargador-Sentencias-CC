@@ -1,0 +1,51 @@
+{
+  "radicado": "T-141-03",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2003,
+  "fecha_creacion": "2003-02-20",
+  "magistrado_ponente": "Dr ALFREDO BELTRÁN SIERRA",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ENTIDAD BANCARIA",
+  "subtema": "Es un servicio público",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 546 de 1999",
+    "Decreto 1593 de 1959"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2003/T-141-03.htm",
+  "fecha_descarga": "2026-10-22T23:00:52.540906+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2003-02-20",
+  "fecha_publicacion": null,
+  "numero": "T-141/03",
+  "tipo_cc": "T",
+  "prov_id": "21794",
+  "tema_relatoria": "DERECHOS AL DEBIDO PROCESO BUENA FE Y CONFIANZA DEBIDA. ERROR EN RELIQUIDACION DE CREDITO HIPOTECARIO. EXPEDICION PAZ Y SALVO. REVERSION ALIVIO FINANCIERO APLICADO. POSICION DOMINANTE. LLAMADO A PREVENCION. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ENTIDAD BANCARIA",
+      "subtema": "Es un servicio público"
+    },
+    {
+      "tema": "SUPERINTENDENCIA BANCARIA",
+      "subtema": "Control y vigilancia de entidades financieras para evitar abuso a usuarios"
+    },
+    {
+      "tema": "ENTIDAD BANCARIA",
+      "subtema": "Posición dominante"
+    },
+    {
+      "tema": "ENTIDAD FINANCIERA",
+      "subtema": "Modificación unilateral reliquidación crédito hipotecario"
+    },
+    {
+      "tema": "ENTIDAD BANCARIA",
+      "subtema": "Abuso de posición dominante"
+    }
+  ]
+}

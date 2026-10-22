@@ -1,0 +1,49 @@
+{
+  "radicado": "T-018-03",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2003,
+  "fecha_creacion": "2003-01-23",
+  "magistrado_ponente": "Dr ALFREDO BELTRAN SIERRA",
+  "area": "Derecho a la Salud",
+  "tema": "DERECHO A LA SALUD",
+  "subtema": "Fundamental por conexidad",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2003/T-018-03.htm",
+  "fecha_descarga": "2026-10-22T23:08:33.850088+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2003-01-23",
+  "fecha_publicacion": null,
+  "numero": "T-018/03",
+  "tipo_cc": "T",
+  "prov_id": "21634",
+  "tema_relatoria": "DERECHO A LA SALUD. SOLICITUD PRACTICA RESONANCIA MAGNETICA. OPORTUNIDAD EN LA PRESTACION DE SERVICIOS MEDICOS. INVESTIGACION POR DEMORA EN TRAMITES ADMINISTRATIVOS. FALLECIMIENTO ACCIONANTE DURANTE EL TRAMITE DE REVISION CARENCIA ACTUAL DE OBJETO. CONCED",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Fundamental por conexidad"
+    },
+    {
+      "tema": "REGIMEN SUBSIDIADO",
+      "subtema": "Excesiva tramitología y falta de cuidado en expedición de órdenes"
+    },
+    {
+      "tema": "ADMINISTRADORA DEL REGIMEN SUBSIDIADO",
+      "subtema": "Fallecimiento del paciente por negligencia en trámites administrativos"
+    },
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Vulneración por demora injustificada en la atención debido a trámites administrativos"
+    },
+    {
+      "tema": "DERECHO A LA VIDA DIGNA",
+      "subtema": "Demora injustificada en atención a enfermo terminal"
+    }
+  ]
+}

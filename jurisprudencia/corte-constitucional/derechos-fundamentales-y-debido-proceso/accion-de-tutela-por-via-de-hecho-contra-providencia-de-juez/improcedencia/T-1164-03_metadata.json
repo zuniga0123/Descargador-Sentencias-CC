@@ -1,0 +1,62 @@
+{
+  "radicado": "T-1164-03",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2003,
+  "fecha_creacion": "2003-12-04",
+  "magistrado_ponente": "Dr MARCO GERARDO MONROY CABRA",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCION DE TUTELA POR VIA DE HECHO CONTRA PROVIDENCIA DE JUEZ DE TUTELA",
+  "subtema": "Improcedencia",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 306 de 1992",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2003/T-1164-03.htm",
+  "fecha_descarga": "2026-10-22T22:57:35.918532+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2003-12-04",
+  "fecha_publicacion": null,
+  "numero": "T-1164/03",
+  "tipo_cc": "T",
+  "prov_id": "23019",
+  "tema_relatoria": "DEBIDO PROCESO Y DERECHO DE DEFENSA DE PENSIONADOS. TUTELA CONTRA PROVIDENCIA JUDICIAL. FALTA AGOTAMIENTO MECANISMOS DE DEFENSA. IMPROCEDENTE.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCION DE TUTELA POR VIA DE HECHO CONTRA PROVIDENCIA DE JUEZ DE TUTELA",
+      "subtema": "Improcedencia"
+    },
+    {
+      "tema": "ACCION DE TUTELA SELECCIONADA Y COSA JUZGADA",
+      "subtema": null
+    },
+    {
+      "tema": "REVISION DE ACCION DE TUTELA Y DEBIDO PROCESO",
+      "subtema": "Mecanismo idóneo"
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA ACCION DE TUTELA",
+      "subtema": "Improcedencia"
+    },
+    {
+      "tema": "ACCION DE TUTELA NO SELECCIONADA Y COSA JUZGADA",
+      "subtema": null
+    },
+    {
+      "tema": "DESISTIMIENTO DE TUTELA",
+      "subtema": "Consecuencias"
+    },
+    {
+      "tema": "IMPUGNACION SENTENCIA DE TUTELA",
+      "subtema": "Si se presentó por persona que no tenía poder para actuar se podían interponer recursos"
+    },
+    {
+      "tema": "NULIDAD SENTENCIA DE TUTELA DE PRIMERA INSTANCIA",
+      "subtema": "Se podían interponer recursos"
+    }
+  ]
+}

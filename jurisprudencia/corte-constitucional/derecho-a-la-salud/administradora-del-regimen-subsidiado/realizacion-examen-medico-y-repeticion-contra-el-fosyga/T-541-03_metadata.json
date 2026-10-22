@@ -1,0 +1,51 @@
+{
+  "radicado": "T-541-03",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2003,
+  "fecha_creacion": "2003-07-09",
+  "magistrado_ponente": "Dr JAIME ARAÚJO RENTERÍA",
+  "area": "Derecho a la Salud",
+  "tema": "ADMINISTRADORA DEL REGIMEN SUBSIDIADO",
+  "subtema": "Realización examen médico y repetición contra el Fosyga",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 715 de 2001",
+    "Ley 100 de 1993"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2003/T-541-03.htm",
+  "fecha_descarga": "2026-10-22T23:05:02.937716+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2003-07-09",
+  "fecha_publicacion": null,
+  "numero": "T-541/03",
+  "tipo_cc": "T",
+  "prov_id": "22287",
+  "tema_relatoria": "DERECHOS A LA SEGURIDAD SOCIAL SALUD VIDA E INTEGRIDAD DE PERSONA DE LA TERCERA EDAD. SOLICITUD EXAMEN PRESCRITO POR MEDICO TRATANTE NO INCLUIDO EN EL POS. REGIMEN SUBSIDIADO DE SALUD. ACCION DE REPETICION. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ADMINISTRADORA DEL REGIMEN SUBSIDIADO",
+      "subtema": "Realización examen médico y repetición contra el Fosyga"
+    },
+    {
+      "tema": "ADMINISTRADORA DEL REGIMEN SUBSIDIADO",
+      "subtema": "Obligaciones frente a servicios no incluidos en el POS"
+    },
+    {
+      "tema": "ADMINISTRADORA DEL REGIMEN SUBSIDIADO",
+      "subtema": "Información al afiliado sobre prestación de servicios no cubiertos por el POS"
+    },
+    {
+      "tema": "DERECHO A LA SALUD Y SEGURIDAD SOCIAL",
+      "subtema": "Protección persona de la tercera edad"
+    },
+    {
+      "tema": "REGIMEN SUBSIDIADO DE SEGURIDAD SOCIAL EN SALUD",
+      "subtema": "Finalidad"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "radicado": "T-195-03",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2003,
+  "fecha_creacion": "2003-03-06",
+  "magistrado_ponente": "Dr MARCO GERARDO MONROY CABRA",
+  "area": "Otros - Sin clasificar",
+  "tema": "SISBEN",
+  "subtema": "Deben cumplirse requisitos para lograr afiliación",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 60 de 1993",
+    "Ley 100 de 1993",
+    "Decreto 2357 de 1995",
+    "Ley 12 de 1991",
+    "Decreto Ley 1298 de 1994"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2003/T-195-03.htm",
+  "fecha_descarga": "2026-10-22T23:10:37.842224+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2003-03-06",
+  "fecha_publicacion": null,
+  "numero": "T-195/03",
+  "tipo_cc": "T",
+  "prov_id": "21858",
+  "tema_relatoria": "DERECHOS AL MINIMO VITAL TRABAJO INCIERTOS Y DISCUTIDOS. PAGO DE ACREENCIAS LABORALES. SALARIOS Y PRESTACIONES. SUSPENSION CONTRATOS DE TRABAJO POR LABOR CONTRATADA. NECESIDAD DE LA PRUEBA. INMEDIATEZ DE LA TUTELA. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "SISBEN",
+      "subtema": "Deben cumplirse requisitos para lograr afiliación"
+    },
+    {
+      "tema": "SISBEN",
+      "subtema": "La Corte no puede ordenar oficiosamente la afiliación al sistema"
+    }
+  ]
+}

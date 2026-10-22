@@ -1,0 +1,63 @@
+{
+  "radicado": "T-948-03",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2003,
+  "fecha_creacion": "2003-10-16",
+  "magistrado_ponente": "Dr MARCO GERARDO MONROY CABRA",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCIÓN DE TUTELA",
+  "subtema": "Orden del juez para dar agilidad en reconstrucción de expediente",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2685 de 1999",
+    "Decreto 1197 de 2000",
+    "Decreto 1232 de 2001"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2003/T-948-03.htm",
+  "fecha_descarga": "2026-10-22T22:52:49.430647+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2003-10-16",
+  "fecha_publicacion": null,
+  "numero": "T-948/03",
+  "tipo_cc": "T",
+  "prov_id": "22764",
+  "tema_relatoria": "DERECHOS DE PETICION EN ACTUACIONES ADMINISTRATIVAS Y DEBIDO PROCESO ADMINISTRATIVO. EL JUEZ DE TUTELA NO PUEDE DECRETAR LOS EFECTOS DEL SILENCIO ADMINISTRATIVO POSITIVO. RECONSTRUCCION DE PROCESO ADUANERO. CONCEDIDA PARCIAL.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Orden del juez para dar agilidad en reconstrucción de expediente"
+    },
+    {
+      "tema": "JUEZ DE TUTELA",
+      "subtema": "No puede decretar los efectos del silencio administrativo positivo"
+    },
+    {
+      "tema": "DERECHO DE PETICIÓN",
+      "subtema": "Tardanza en suministro de respuesta por la DIAN"
+    },
+    {
+      "tema": "DERECHO DE PETICION EN ACTUACIONES ADMINISTRATIVAS",
+      "subtema": "Respuesta dentro del término establecido"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Hecho superado por respuesta a petición aunque tardía"
+    },
+    {
+      "tema": "RECONSTRUCCION DE EXPEDIENTES",
+      "subtema": "Celeridad"
+    },
+    {
+      "tema": "DEBIDO PROCESO",
+      "subtema": "Reconstrucción de expediente en materia aduanera"
+    },
+    {
+      "tema": "DEBIDO PROCESO",
+      "subtema": "Agilidad en reconstrucción de expediente"
+    }
+  ]
+}

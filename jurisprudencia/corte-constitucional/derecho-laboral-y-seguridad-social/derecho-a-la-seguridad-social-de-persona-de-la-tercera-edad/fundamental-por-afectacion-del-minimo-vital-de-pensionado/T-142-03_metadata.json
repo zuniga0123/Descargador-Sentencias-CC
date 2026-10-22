@@ -1,0 +1,41 @@
+{
+  "radicado": "T-142-03",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2003,
+  "fecha_creacion": "2003-02-20",
+  "magistrado_ponente": "Dr MANUEL JOSÉ CEPEDA ESPINOSA",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "DERECHO A LA SEGURIDAD SOCIAL DE PERSONA DE LA TERCERA EDAD",
+  "subtema": "Fundamental por afectación del mínimo vital de pensionado",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2003/T-142-03.htm",
+  "fecha_descarga": "2026-10-22T23:00:56.146416+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2003-02-20",
+  "fecha_publicacion": null,
+  "numero": "T-142/03",
+  "tipo_cc": "T",
+  "prov_id": "21795",
+  "tema_relatoria": "DERECHOS A LA VIDA IGUALDAD Y MINIMO VITAL. PAGO DE ACREENCIAS LABORALES. MESADAS PENSIÓNALES. CUMPLIMIENTO DE REQUISITOS. CARENCIA ACTUAL DE OBJETO. CONCEDIDA PARCIAL.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA SEGURIDAD SOCIAL DE PERSONA DE LA TERCERA EDAD",
+      "subtema": "Fundamental por afectación del mínimo vital de pensionado"
+    },
+    {
+      "tema": "DERECHO AL MINIMO VITAL DEL PENSIONADO",
+      "subtema": "Presunción de afectación por no pago oportuno de mesadas"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Procedencia excepcional pago de salarios y mesadas pensionales por afectación del mínimo vital"
+    }
+  ]
+}

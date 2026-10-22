@@ -1,0 +1,41 @@
+{
+  "radicado": "T-765-03",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2003,
+  "fecha_creacion": "2003-09-04",
+  "magistrado_ponente": "Dr ALFREDO BELTRÁN SIERRA",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "INSUBSISTENCIA",
+  "subtema": "Examen médico de egreso recomendó tratamiento oncológico",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 361 de 1997"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2003/T-765-03.htm",
+  "fecha_descarga": "2026-10-22T23:03:46.600546+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2003-09-04",
+  "fecha_publicacion": null,
+  "numero": "T-765/03",
+  "tipo_cc": "T",
+  "prov_id": "22552",
+  "tema_relatoria": "DERECHO A LA VIDA SALUD Y SEGURIDAD SOCIAL DE PERSONA CON CANCER EN LA PIEL. SOLICITUD TRATAMIENTO MEDICO ONCOLOGICO PRESCRITO POR MEDICO TRATANTE Y REINTEGRO AL CARGO. DECLARACION DE INSUBSISTENCIA. CONTINUIDAD DEL SERVICIO. NEXO CAUSAL ENTRE TERMINACION",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "INSUBSISTENCIA",
+      "subtema": "Examen médico de egreso recomendó tratamiento oncológico"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Procedencia respecto a ex trabajador que requiere tratamiento oncológico"
+    },
+    {
+      "tema": "DESPIDO DE EMPLEADO",
+      "subtema": "Se debe probar la relación de causalidad en caso de persona enferma"
+    }
+  ]
+}

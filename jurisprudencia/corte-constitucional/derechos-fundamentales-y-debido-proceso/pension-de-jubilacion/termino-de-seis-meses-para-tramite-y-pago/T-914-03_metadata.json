@@ -1,0 +1,46 @@
+{
+  "radicado": "T-914-03",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2003,
+  "fecha_creacion": "2003-10-09",
+  "magistrado_ponente": "Dr ALFREDO BELTRÁN SIERRA",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "PENSION DE JUBILACION",
+  "subtema": "Término de seis meses para trámite y pago",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 656 de 1994",
+    "Ley 700 de 2001"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2003/T-914-03.htm",
+  "fecha_descarga": "2026-10-22T22:53:47.860837+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2003-10-09",
+  "fecha_publicacion": null,
+  "numero": "T-914/03",
+  "tipo_cc": "T",
+  "prov_id": "22720",
+  "tema_relatoria": "DERECHO DE PETICION. SOLICITUD RECONOCIMIENTO Y PAGO PENSION GRACIA. RESPUESTA DE FONDO. TERMINO DE QUINCE DIAS CUATRO Y SEIS MESES PARA RESOLVER. LEY 700 DE 2001. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "PENSION DE JUBILACION",
+      "subtema": "Término de seis meses para trámite y pago"
+    },
+    {
+      "tema": "DERECHO DE PETICION PARA RESOLVER RECONOCIMIENTO Y PAGO DE PENSIONES",
+      "subtema": "Término de cuatro meses"
+    },
+    {
+      "tema": "INTERPOSICION DE RECURSOS EN TRAMITE ADMINISTRATIVO",
+      "subtema": "Término de quince días para resolver"
+    },
+    {
+      "tema": "DERECHO DE PETICIÓN",
+      "subtema": "Término de quince días para responder sobre trámite o copias en materia de pensiones"
+    }
+  ]
+}

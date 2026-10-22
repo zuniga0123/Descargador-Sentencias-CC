@@ -1,0 +1,50 @@
+{
+  "radicado": "T-453-03",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2003,
+  "fecha_creacion": "2003-06-03",
+  "magistrado_ponente": "Dr JAIME ARAUJO RENTERIA",
+  "area": "Derecho a la Salud",
+  "tema": "PLAN OBLIGATORIO DE SALUD",
+  "subtema": "Reglamentación no puede desconocer derechos fundamentales",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 100 de 1993"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2003/T-453-03.htm",
+  "fecha_descarga": "2026-10-22T23:12:26.485773+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2003-06-03",
+  "fecha_publicacion": null,
+  "numero": "T-453/03",
+  "tipo_cc": "T",
+  "prov_id": "22181",
+  "tema_relatoria": "DERECHO A LA SALUD Y VIDA. SOLICITUD SUMINISTRO MEDICAMENTO NO INCLUIDO EN EL POS Y PRESCRITO POR MEDICO PARTICULAR. FALTA SOLICITUD DEL SERVICIO A ENTIDAD CORRESPONDIENTE Y PRESCRIPCION POR MEDICO TRATANTE CONTRATADO O ADSCRITO. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "PLAN OBLIGATORIO DE SALUD",
+      "subtema": "Reglamentación no puede desconocer derechos fundamentales"
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA EMPRESA DE MEDICINA PREPAGADA",
+      "subtema": "Es requisito que el tratamiento esté determinado por el médico tratante"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Improcedencia por no solicitar previamente a la EPS el medicamento"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Improcedencia por no cumplir los presupuestos para ordenar medicamentos excluidos del POS"
+    },
+    {
+      "tema": "INAPLICACION DE NORMAS DEL PLAN OBLIGATORIO DE SALUD",
+      "subtema": "Casos en que procede por exclusión de medicamentos"
+    }
+  ]
+}

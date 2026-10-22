@@ -1,0 +1,58 @@
+{
+  "radicado": "T-109-03",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2003,
+  "fecha_creacion": "2003-02-13",
+  "magistrado_ponente": "Dr ALVARO TAFUR GALVIS",
+  "area": "Derecho a la Salud",
+  "tema": "DERECHO A LA VIDA DIGNA",
+  "subtema": "Debe evitarse agravación del estado de salud del paciente",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Decreto 806 de 1998"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2003/T-109-03.htm",
+  "fecha_descarga": "2026-10-22T22:58:08.431576+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2003-02-13",
+  "fecha_publicacion": null,
+  "numero": "T-109/03",
+  "tipo_cc": "T",
+  "prov_id": "21759",
+  "tema_relatoria": "DERECHO A LA SALUD Y VIDA DE PERSONA CON LEUCEMIA. SOLICITUD CONTINUIDAD TRATAMIENTO MEDICO DE URGENCIA Y TRANSPLANTE MEDULA OSEA PRESCRITO POR MEDICO TRATANTE NO INCLUIDO EN EL POS. REGIMEN SUBSIDIADO. SISBEN. ACCION DE REPETICION. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA VIDA DIGNA",
+      "subtema": "Debe evitarse agravación del estado de salud del paciente"
+    },
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Fundamental por conexidad con la vida"
+    },
+    {
+      "tema": "SEGURIDAD SOCIAL EN SALUD",
+      "subtema": "Continuidad como elemento esencial"
+    },
+    {
+      "tema": "ADMINISTRADORA DEL REGIMEN SUBSIDIADO",
+      "subtema": "Obligación de coordinar práctica de examen"
+    },
+    {
+      "tema": "JUEZ CONSTITUCIONAL",
+      "subtema": "No puede valorar un tratamiento médico"
+    },
+    {
+      "tema": "JUEZ CONSTITUCIONAL",
+      "subtema": "No sustituye criterios y conocimientos del médico"
+    },
+    {
+      "tema": "REGIMEN SUBSIDIADO DE SEGURIDAD SOCIAL EN SALUD",
+      "subtema": "Prestación de servicios no incluidos en el POS"
+    }
+  ]
+}

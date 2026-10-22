@@ -1,0 +1,44 @@
+{
+  "radicado": "T-297-03",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2003,
+  "fecha_creacion": "2003-04-11",
+  "magistrado_ponente": "Dr JAIME CÓRDOBA TRIVIÑO",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCION DE TUTELA CONTRA CONSEJO DE JUSTICIA DE BOGOTA",
+  "subtema": "Improcedencia",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 57 de 1905",
+    "Decreto 992 de 1930",
+    "Decreto 2591 de 1991",
+    "Decreto 2067 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2003/T-297-03.htm",
+  "fecha_descarga": "2026-10-22T23:10:05.173706+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2003-04-11",
+  "fecha_publicacion": null,
+  "numero": "T-297/03",
+  "tipo_cc": "T",
+  "prov_id": "21994",
+  "tema_relatoria": "DERECHO AL DEBIDO PROCESO Y VIVIENDA. ACCESO A LA ADMINISTRACION DE JUSTICIA. VIA DE HECHO. LANZAMIENTO POR OCUPACION DE HECHO EN PROCESO POLICIVO. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCION DE TUTELA CONTRA CONSEJO DE JUSTICIA DE BOGOTA",
+      "subtema": "Improcedencia"
+    },
+    {
+      "tema": "PROCESO POLICIVO",
+      "subtema": "Función jurisdiccional de autoridades"
+    },
+    {
+      "tema": "PROCESO DE LANZAMIENTO POR OCUPACION DE HECHO",
+      "subtema": "Son impugnables las decisiones"
+    }
+  ]
+}

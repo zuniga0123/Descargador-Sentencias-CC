@@ -1,0 +1,50 @@
+{
+  "radicado": "T-713-03",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2003,
+  "fecha_creacion": "2003-08-15",
+  "magistrado_ponente": "Dr JAIME ARAÚJO RENTERÍA",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "DERECHO AL OLVIDO DE LA INFORMACION NEGATIVA",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 409 de 1971",
+    "Decreto 1660 de 1978",
+    "Decreto 250 de 1970",
+    "Ley 270 de 1996",
+    "Decreto 2591 de 1991",
+    "Ley 734 de 2002"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2003/T-713-03.htm",
+  "fecha_descarga": "2026-10-22T22:52:16.486171+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2003-08-15",
+  "fecha_publicacion": "2003-09-03",
+  "numero": "T-713/03",
+  "tipo_cc": "T",
+  "prov_id": "22495",
+  "tema_relatoria": "DERECHOS AL DEBIDO PROCESO DESEMPEÑO DE FUNCIONES Y CARGOS PUBLICOS Y HABEAS DATA DE JUEZ DE INSTRUCCIÓN CRIMINAL. DETENCION EMBARQUE DE MARIHUANA. ENTREGA A APODERADO DE LA PARTE CIVIL. SANCION DE APERCIBIMIENTO EN PROCESO DISCIPLINARIO. CADUCIDAD DEL DA",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO AL OLVIDO DE LA INFORMACION NEGATIVA",
+      "subtema": null
+    },
+    {
+      "tema": "ANTECEDENTES DISCIPLINARIOS",
+      "subtema": "Cuando son negativos no pueden afectar indefinidamente a las personas"
+    },
+    {
+      "tema": "CADUCIDAD DEL DATO",
+      "subtema": "Límite temporal"
+    },
+    {
+      "tema": "CADUCIDAD DE REGISTRO DE SANCION DISCIPLINARIA DE APERCIBIMIENTO",
+      "subtema": "La tutela es improcedente aunque se aplica la sentencia C-1066/02"
+    }
+  ]
+}

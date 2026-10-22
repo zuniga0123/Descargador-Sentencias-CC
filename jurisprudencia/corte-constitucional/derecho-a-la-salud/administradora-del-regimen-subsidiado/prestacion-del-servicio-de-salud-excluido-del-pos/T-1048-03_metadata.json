@@ -1,0 +1,71 @@
+{
+  "radicado": "T-1048-03",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2003,
+  "fecha_creacion": "2003-10-31",
+  "magistrado_ponente": "Dra CLARA INÉS VARGAS HERNÁNDEZ",
+  "area": "Derecho a la Salud",
+  "tema": "ADMINISTRADORA DEL REGIMEN SUBSIDIADO",
+  "subtema": "Prestación del servicio de salud excluido del POS",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 715 de 2001",
+    "Decreto 806 de 1998"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2003/T-1048-03.htm",
+  "fecha_descarga": "2026-10-22T22:51:18.243740+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2003-10-31",
+  "fecha_publicacion": "2004-01-23",
+  "numero": "T-1048/03",
+  "tipo_cc": "T",
+  "prov_id": "22857",
+  "tema_relatoria": "DERECHO A LA SALUD. DERECHO AL DIAGNOSTICO. DERECHO A LA VIDA . REGIMEN SUBSIDIADO NIVEL II. ARS DEBE AUTORIZAR REMISION PARA EVALUACIÓN Y TRATAMIENTO. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ADMINISTRADORA DEL REGIMEN SUBSIDIADO",
+      "subtema": "Prestación del servicio de salud excluido del POS"
+    },
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Incorpora el derecho al diagnóstico"
+    },
+    {
+      "tema": "SISTEMA GENERAL DE SEGURIDAD SOCIAL EN SALUD",
+      "subtema": "EPS o ARS debe velar por su atención integral"
+    },
+    {
+      "tema": "ADMINISTRADORA DEL REGIMEN SUBSIDIADO",
+      "subtema": "Tratamiento vascular a persona de escasos recursos"
+    },
+    {
+      "tema": "ADMINISTRADORA DEL REGIMEN SUBSIDIADO",
+      "subtema": "Obligaciones frente a servicios no incluidos en el POS"
+    },
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Fundamental por conexidad"
+    },
+    {
+      "tema": "BENEFICIARIO DEL REGIMEN SUBSIDIADO DE SALUD",
+      "subtema": "Instituciones públicas o privadas que contraten con el Estado deben atenderlos cuando requieran servicios no incluidos en el POS"
+    },
+    {
+      "tema": "DERECHO A LA SALUD Y A LA VIDA",
+      "subtema": "Vulneración por no realizarse examen de diagnóstico necesario para detectar enfermedad"
+    },
+    {
+      "tema": "SERVICIO PUBLICO DE SALUD",
+      "subtema": "Continuidad y eficacia"
+    },
+    {
+      "tema": "SISTEMA GENERAL DE SEGURIDAD SOCIAL INTEGRAL",
+      "subtema": "Finalidad"
+    }
+  ]
+}

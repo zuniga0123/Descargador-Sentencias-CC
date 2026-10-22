@@ -1,0 +1,46 @@
+{
+  "radicado": "T-1123-03",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2003,
+  "fecha_creacion": "2003-11-27",
+  "magistrado_ponente": "Dr ALVARO TAFUR GALVIS",
+  "area": "Derecho Penal y Sistema Acusatorio",
+  "tema": "NOTIFICACION EN PROCESO PENAL",
+  "subtema": "Debía hacerse personalmente y no a través de la Oficina de Asesoría Jurídica de la Cárcel",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 600 de 2000",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2003/T-1123-03.htm",
+  "fecha_descarga": "2026-10-22T22:59:18.189333+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2003-11-27",
+  "fecha_publicacion": null,
+  "numero": "T-1123/03",
+  "tipo_cc": "T",
+  "prov_id": "22969",
+  "tema_relatoria": "DERECHO AL DEBIDO PROCESO DE SINDICADO. NOTIFICACION TARDIA DE TERMINO PERENTORIO PARA SUSTENTAR RECURSO DE APELACION. VIA DE HECHO. DEFECTO PROCEDIMENTAL EN LA NOTIFICACION. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "NOTIFICACION EN PROCESO PENAL",
+      "subtema": "Debía hacerse personalmente y no a través de la Oficina de Asesoría Jurídica de la Cárcel"
+    },
+    {
+      "tema": "VIA DE HECHO EN PROCESO PENAL POR DEFECTO PROCEDIMENTAL",
+      "subtema": "No se sustentó por escrito recurso por falta de notificación personal"
+    },
+    {
+      "tema": "DEBIDO PROCESO PENAL",
+      "subtema": null
+    },
+    {
+      "tema": "RECURSO DE APELACION EN PROCESO PENAL",
+      "subtema": "Sustentación por escrito fue notificada tardíamente"
+    }
+  ]
+}

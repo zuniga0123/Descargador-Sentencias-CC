@@ -1,0 +1,59 @@
+{
+  "radicado": "T-660-03",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2003,
+  "fecha_creacion": "2003-08-06",
+  "magistrado_ponente": "Dr JAIME CÓRDOBA TRIVIÑO",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "FUNCION JURISDICCIONAL POR SUPERINTENDENCIA DE INDUSTRIA Y COMERCIO",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 446 de 1998",
+    "Ley 510 de 1999",
+    "Ley 256 de 1996",
+    "Decreto 2153 de 1992",
+    "Decreto 2304 de 1989",
+    "Ley 486 de 1998",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2003/T-660-03.htm",
+  "fecha_descarga": "2026-10-22T23:07:03.043234+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2003-08-06",
+  "fecha_publicacion": null,
+  "numero": "T-660/03",
+  "tipo_cc": "T",
+  "prov_id": "22436",
+  "tema_relatoria": "DERECHOS AL DEBIDO PROCESO DOBLE INSTANCIA E IGUALDAD. ACCESO A LA ADMINISTRACION DE JUSTICIA. INVESTIGACION POR COMPETENCIA DESLEAL. IMPOSICION SANCION PECUNIARIA. DECISION RECURSO DE APELACION INTERPUESTO CONTRA RESOLUCION. RETROACTIVIDAD DE LAS SENTENC",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "FUNCION JURISDICCIONAL POR SUPERINTENDENCIA DE INDUSTRIA Y COMERCIO",
+      "subtema": null
+    },
+    {
+      "tema": "SANCION POR COMPETENCIA DESLEAL A COMCEL",
+      "subtema": null
+    },
+    {
+      "tema": "RECURSO DE APELACION CONTRA FALLO DEFINITIVO EN INVESTIGACIONES POR COMPETENCIA DESLEAL",
+      "subtema": "Procedencia a partir de sentencia C-415/02"
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA DECISIONES DE SUPERINTENDENCIAS EN EJERCICIO DE FUNCION JURISDICCIONAL",
+      "subtema": "Procedencia"
+    },
+    {
+      "tema": "PERJUICIO IRREMEDIABLE EN SANCION POR COMPETENCIA DESLEAL A COMCEL",
+      "subtema": "Inexistencia"
+    },
+    {
+      "tema": "VIA DE HECHO POR SUPERINTENDENCIA",
+      "subtema": "Inexistencia"
+    }
+  ]
+}

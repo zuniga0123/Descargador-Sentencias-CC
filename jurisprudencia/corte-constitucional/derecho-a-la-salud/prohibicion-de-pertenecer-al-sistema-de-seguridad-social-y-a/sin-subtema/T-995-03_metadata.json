@@ -1,0 +1,58 @@
+{
+  "radicado": "T-995-03",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2003,
+  "fecha_creacion": "2003-10-24",
+  "magistrado_ponente": "Dra CLARA INÉS VARGAS HERNÁNDEZ",
+  "area": "Derecho a la Salud",
+  "tema": "PROHIBICION DE PERTENECER AL SISTEMA DE SEGURIDAD SOCIAL Y AL REGIMEN DE EXCEPCION",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Decreto 1703 de 2003",
+    "Ley 100 de 1990",
+    "Decreto 1703 de 2002",
+    "Ley 100 de 1993",
+    "Decreto 806 de 1998"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2003/T-995-03.htm",
+  "fecha_descarga": "2026-10-22T23:09:14.152585+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2003-10-24",
+  "fecha_publicacion": null,
+  "numero": "T-995/03",
+  "tipo_cc": "T",
+  "prov_id": "22815",
+  "tema_relatoria": "DERECHO A LA SALUD Y VIDA DE BENEFICIARIA DE CONYUGE. SOLICITUD PRACTICA CIRUGIA DE TIROIDES. DOBLE AFILIACION. REGIMEN GENERAL Y DE EXCEPCION. CARENCIA ACTUAL DE OBJETO. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "PROHIBICION DE PERTENECER AL SISTEMA DE SEGURIDAD SOCIAL Y AL REGIMEN DE EXCEPCION",
+      "subtema": null
+    },
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Fundamental por conexidad con la vida"
+    },
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Conflicto entre las entidades prestadoras de salud no pueden afectar a usuarios"
+    },
+    {
+      "tema": "DERECHO A LA VIDA",
+      "subtema": "Conflicto entre las entidades prestadoras de salud no pueden afectar a usuarios"
+    },
+    {
+      "tema": "DERECHO A LA VIDA DIGNA",
+      "subtema": "Recuperación y mejoramiento de las condiciones de salud"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Carencia actual de objeto"
+    }
+  ]
+}

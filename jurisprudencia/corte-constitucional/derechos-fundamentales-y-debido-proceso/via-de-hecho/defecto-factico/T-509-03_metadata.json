@@ -1,0 +1,64 @@
+{
+  "radicado": "T-509-03",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2003,
+  "fecha_creacion": "2003-06-19",
+  "magistrado_ponente": "Dr MANUEL JOSÉ CEPEDA ESPINOSA",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "VIA DE HECHO",
+  "subtema": "Defecto fáctico",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 1478 de 1994",
+    "Decreto 114 de 1996",
+    "Ley 30 de 1992",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2003/T-509-03.htm",
+  "fecha_descarga": "2026-10-22T23:11:32.475415+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2003-06-19",
+  "fecha_publicacion": null,
+  "numero": "T-509/03",
+  "tipo_cc": "T",
+  "prov_id": "22240",
+  "tema_relatoria": "DERECHO AL DEBIDO PROCESO Y DEFENSA DE PERSONAS JURIDICAS. VIA DE HECHO. PAGO DE ACREENCIAS LABORALES A DECANO. SALARIOS Y PRESTACIONES. CAMBIO NOMBRE DE ENTIDAD CONDENADA EN PROCESO LABORAL. TUTELA CONTRA SENTENCIAS JUDICIALES. CODES. CODETEC. CUNIVEMSA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "VIA DE HECHO",
+      "subtema": "Defecto fáctico"
+    },
+    {
+      "tema": "VIA DE HECHO",
+      "subtema": "Inexistencia para el caso"
+    },
+    {
+      "tema": "VIA DE HECHO",
+      "subtema": "Error ostensible, flagrante y manifiesto en valoración de pruebas"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Procedencia excepcional"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Titularidad"
+    },
+    {
+      "tema": "PERSONA JURIDICA",
+      "subtema": "Titularidad de derechos fundamentales"
+    },
+    {
+      "tema": "VIA DE HECHO",
+      "subtema": "Clases de defectos en la actuación"
+    },
+    {
+      "tema": "VIA DE HECHO",
+      "subtema": "Ausencia de requisitos para configuración"
+    }
+  ]
+}

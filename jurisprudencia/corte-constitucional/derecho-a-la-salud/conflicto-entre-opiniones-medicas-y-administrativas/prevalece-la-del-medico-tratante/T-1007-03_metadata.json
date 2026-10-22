@@ -1,0 +1,51 @@
+{
+  "radicado": "T-1007-03",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2003,
+  "fecha_creacion": "2003-10-29",
+  "magistrado_ponente": "Dr JAIME CÓRDOBA TRIVIÑO",
+  "area": "Derecho a la Salud",
+  "tema": "CONFLICTO ENTRE OPINIONES MEDICAS Y ADMINISTRATIVAS",
+  "subtema": "Prevalece la del médico tratante",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto Ley 2591 de 1991",
+    "Decreto 806 de 1998",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2003/T-1007-03.htm",
+  "fecha_descarga": "2026-10-22T22:51:51.172938+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2003-10-29",
+  "fecha_publicacion": "2003-10-27",
+  "numero": "T-1007/03",
+  "tipo_cc": "T",
+  "prov_id": "22833",
+  "tema_relatoria": "DERECHO A LA SALUD VIDA E INTEGRIDAD FISICA DE PERSONA DE LA TERCERA EDAD. SUMINISTRO MEDICAMENTO PARA CANCER DE PROSTATA PRESCRITO POR MEDICO TRATANTE NO INCLUIDO EN EL POS. ACCION DE REPETICION. CONCEDIDA",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "CONFLICTO ENTRE OPINIONES MEDICAS Y ADMINISTRATIVAS",
+      "subtema": "Prevalece la del médico tratante"
+    },
+    {
+      "tema": "INAPLICACION DE NORMAS DEL PLAN OBLIGATORIO DE SALUD",
+      "subtema": "Condiciones en que procede por exclusión de tratamientos y medicamentos de alto costo"
+    },
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Urgencia de medicamentos para continuar tratamiento de quimioterapia"
+    },
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Prevalencia del criterio del médico tratante para suministro de medicamento excluido del POS"
+    },
+    {
+      "tema": "DERECHO A LA ENTREGA DEL MEDICAMENTO",
+      "subtema": "Se probó incapacidad económica para adquirirlo"
+    }
+  ]
+}

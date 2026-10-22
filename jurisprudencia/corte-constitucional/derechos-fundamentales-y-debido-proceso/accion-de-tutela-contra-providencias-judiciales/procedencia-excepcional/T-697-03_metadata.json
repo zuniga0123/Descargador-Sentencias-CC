@@ -1,0 +1,46 @@
+{
+  "radicado": "T-697-03",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2003,
+  "fecha_creacion": "2003-08-13",
+  "magistrado_ponente": "Dr JAIME ARAÚJO RENTERÍA",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+  "subtema": "Procedencia excepcional",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Decreto Ley 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2003/T-697-03.htm",
+  "fecha_descarga": "2026-10-22T23:14:47.844030+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2003-08-13",
+  "fecha_publicacion": null,
+  "numero": "T-697/03",
+  "tipo_cc": "T",
+  "prov_id": "22478",
+  "tema_relatoria": "DERECHO AL DEBIDO PROCESO DE PERSONA DE LA TERCERA EDAD. VIA DE HECHO. PAGO DE ACREENCIAS LABORALES. MESADAS PENSIÓNALES. DECISION RECURSO DE APELACION INTERPUESTO. PROCESO EJECUTIVO LABORAL. SUSTITUCION PATRONAL DE COLEGIO. TUTELA CONTRA PROVIDENCIAS JUD",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Procedencia excepcional"
+    },
+    {
+      "tema": "PROCESO EJECUTIVO LABORAL",
+      "subtema": "No puede utilizarse para declarar existencia de sustitución en cargas pensionales"
+    },
+    {
+      "tema": "ACTA DE CONCILIACIÓN",
+      "subtema": "No puede dársele valor de plena prueba sin cumplir con requisitos del artículo 115 del C de PC"
+    },
+    {
+      "tema": "MANDAMIENTO DE PAGO EN CASO DE SUSTITUCION PATRONAL",
+      "subtema": "Prueba requerida"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "radicado": "T-718-03",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2003,
+  "fecha_creacion": "2003-08-20",
+  "magistrado_ponente": "Dr MANUEL JOSÉ CEPEDA ESPINOSA",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "DERECHOS FUNDAMENTALES",
+  "subtema": "Obligaciones correlativas necesarias para la garantía efectiva",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 65 de 1993",
+    "Ley 62 de 1993"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2003/T-718-03.htm",
+  "fecha_descarga": "2026-10-22T23:15:16.924944+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2003-08-20",
+  "fecha_publicacion": null,
+  "numero": "T-718/03",
+  "tipo_cc": "T",
+  "prov_id": "22503",
+  "tema_relatoria": "DERECHO A LA INTIMIDAD DE RECLUSO. SOLICITUD PERMISO PARA VISITAS INTIMAS O CONYUGAL A COMPAÑERA PERMANENTE RETENIDA. CUMPLIMIENTO ORDEN JUDICIAL DE TRASLADO. OMISION ADMINISTRATIVA INJUSTIFICADA DE OBLIGACIONES POSITIVAS. LLAMADO A PREVENCION. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHOS FUNDAMENTALES",
+      "subtema": "Obligaciones correlativas necesarias para la garantía efectiva"
+    },
+    {
+      "tema": "DERECHO A LA INTIMIDAD DEL INTERNO",
+      "subtema": "Vulneración por omisión de las autoridades en cumplir orden de traslado de interna"
+    },
+    {
+      "tema": "DERECHO A LA VISITA CONYUGAL DEL INTERNO",
+      "subtema": "Determinación de los obligados a cumplir obligaciones positivas"
+    },
+    {
+      "tema": "DERECHO A LA VISITA CONYUGAL DEL INTERNO",
+      "subtema": "Método para verificar omisión administrativa injustificada de las obligaciones positivas"
+    },
+    {
+      "tema": "DERECHO A LA INTIMIDAD DEL INTERNO",
+      "subtema": "Limitaciones"
+    },
+    {
+      "tema": "VISITA CONYUGAL DEL INTERNO",
+      "subtema": "Omisión en dar cumplimiento a la orden judicial que la autorizó"
+    },
+    {
+      "tema": "VISITA CONYUGAL DEL INTERNO",
+      "subtema": "Traslado de interna a la cárcel donde se encuentra recluido su compañero permanente"
+    }
+  ]
+}

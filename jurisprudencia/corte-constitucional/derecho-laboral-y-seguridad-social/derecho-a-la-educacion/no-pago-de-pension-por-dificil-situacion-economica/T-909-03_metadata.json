@@ -1,0 +1,41 @@
+{
+  "radicado": "T-909-03",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2003,
+  "fecha_creacion": "2003-10-08",
+  "magistrado_ponente": "Dr RODRIGO ESCOBAR GIL",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "DERECHO A LA EDUCACIÓN",
+  "subtema": "No pago de pensión por difícil situación económica",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2003/T-909-03.htm",
+  "fecha_descarga": "2026-10-22T22:53:40.704911+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2003-10-08",
+  "fecha_publicacion": null,
+  "numero": "T-909/03",
+  "tipo_cc": "T",
+  "prov_id": "22715",
+  "tema_relatoria": "DERECHO DE PETICION. SOLICITUD RECONOCIMIENTO PENSION DE SOBREVIVIENTES DE ESPOSO FALLECIDO. RESPUESTA DE FONDO. HECHO SUPERADO. TERMINO DE DOS MESES PARA RESOLVER. LEY 717 DE 2001. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA EDUCACIÓN",
+      "subtema": "No pago de pensión por difícil situación económica"
+    },
+    {
+      "tema": "ESTABLECIMIENTO EDUCATIVO",
+      "subtema": "Entrega de notas y certificados sin que se releve a los padres del pago de sus obligaciones económicas"
+    },
+    {
+      "tema": "DERECHO A LA EDUCACIÓN",
+      "subtema": "Prohibición retención de notas o certificados por no pago de pensión"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "radicado": "T-493-03",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2003,
+  "fecha_creacion": "2003-06-12",
+  "magistrado_ponente": "Dr MARCO GERARDO MONROY CABRA",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ADMINISTRACION DE JUSTICIA",
+  "subtema": "Función pública estatal de naturaleza esencial",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 270 de 1996"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2003/T-493-03.htm",
+  "fecha_descarga": "2026-10-22T23:14:36.782352+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2003-06-12",
+  "fecha_publicacion": null,
+  "numero": "T-493/03",
+  "tipo_cc": "T",
+  "prov_id": "22226",
+  "tema_relatoria": "DERECHO AL DEBIDO PROCESO. ACCESO A LA ADMINISTRACION DE JUSTICIA. SOLICITUD LIBERTAD PROVISIONAL. ELABORACION ACTA DE AUDIENCIA PUBLICA. DEFINICION SITUACION JURIDICA. DECISION EN PLAZO RAZONABLE. DILACION INJUSTIFICADA. SUSTRACCION DE MATERIA. CONCEDIDA",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ADMINISTRACION DE JUSTICIA",
+      "subtema": "Función pública estatal de naturaleza esencial"
+    },
+    {
+      "tema": "ADMINISTRACION DE JUSTICIA",
+      "subtema": "Competencia permanente y ordinaria"
+    },
+    {
+      "tema": "DEBIDO PROCESO",
+      "subtema": "Dilación injustificada en elaboración del acta de audiencia pública"
+    },
+    {
+      "tema": "DERECHO DE ACCESO A LA ADMINISTRACIÓN DE JUSTICIA",
+      "subtema": null
+    },
+    {
+      "tema": "ADMINISTRACION DE JUSTICIA",
+      "subtema": "Resolución oportuna de procesos"
+    },
+    {
+      "tema": "DEBIDO PROCESO PUBLICO SIN DILACIONES INJUSTIFICADAS",
+      "subtema": "Observancia de términos judiciales"
+    }
+  ]
+}

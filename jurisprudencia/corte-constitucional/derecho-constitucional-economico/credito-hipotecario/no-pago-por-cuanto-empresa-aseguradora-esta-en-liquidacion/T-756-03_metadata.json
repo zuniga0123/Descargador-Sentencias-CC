@@ -1,0 +1,44 @@
+{
+  "radicado": "T-756-03",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2003,
+  "fecha_creacion": "2003-08-28",
+  "magistrado_ponente": "Dr RODRIGO ESCOBAR GIL",
+  "area": "Derecho Constitucional Económico",
+  "tema": "CREDITO HIPOTECARIO",
+  "subtema": "No pago por cuanto empresa aseguradora está en liquidación",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 45 de 1990",
+    "Decreto 663 de 1993",
+    "Decreto Ley 633 de 1993",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2003/T-756-03.htm",
+  "fecha_descarga": "2026-10-22T23:02:56.007862+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2003-08-28",
+  "fecha_publicacion": null,
+  "numero": "T-756/03",
+  "tipo_cc": "T",
+  "prov_id": "22542",
+  "tema_relatoria": "DERECHOS A LA VIVIENDA PROPIEDAD HABEAS DATA SALUD Y VIDA. SOLICITUD PAGO DE OBLIGACIONES CREDITICIAS Y LEVANTAMIENTO DE MEDIDAS CAUTELARES EN PROCESO EJECUTIVO. AMPARO CREDITOS HIPOTECARIOS CON POLIZA DE VIDA. MUERTE DEL ASEGURADO. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "CREDITO HIPOTECARIO",
+      "subtema": "No pago por cuanto empresa aseguradora está en liquidación"
+    },
+    {
+      "tema": "DERECHO A LA VIVIENDA DIGNA",
+      "subtema": "Carácter prestacional"
+    },
+    {
+      "tema": "DERECHO A LA PROPIEDAD",
+      "subtema": "No aparece probada la conexidad con otro derecho fundamental"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "radicado": "T-1121-03",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2003,
+  "fecha_creacion": "2003-11-27",
+  "magistrado_ponente": "Dr ALVARO TAFUR GALVIS",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "MEDIO DE DEFENSA JUDICIAL EFICAZ",
+  "subtema": "Controversia de orden legal",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto Ley 2591 de 1991",
+    "Ley 546 de 1999",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2003/T-1121-03.htm",
+  "fecha_descarga": "2026-10-22T22:59:14.504228+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2003-11-27",
+  "fecha_publicacion": null,
+  "numero": "T-1121/03",
+  "tipo_cc": "T",
+  "prov_id": "22967",
+  "tema_relatoria": "DERECHOS LITIGIOSOS DE CONTENIDO ECONOMICO. DEUDA SOBRE INMUEBLE REMATADO EN 1989. CESANTIAS SE APLICARON AL CREDITO Y AHORA SE RECLAMAN Y CON PAGO DE PERJUICIOS. EXISTENCIA DE OTRO MECANISMO JUDICIAL. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "MEDIO DE DEFENSA JUDICIAL EFICAZ",
+      "subtema": "Controversia de orden legal"
+    },
+    {
+      "tema": "FONDO NACIONAL DEL AHORRO",
+      "subtema": "Cobro de saldo que quedó pendiente después del remate del bien inmueble"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Improcedencia para definir derechos litigiosos de contenido económico"
+    },
+    {
+      "tema": "INDEMNIZACION DE PERJUICIOS EN TUTELA",
+      "subtema": "Requisitos para que proceda"
+    }
+  ]
+}

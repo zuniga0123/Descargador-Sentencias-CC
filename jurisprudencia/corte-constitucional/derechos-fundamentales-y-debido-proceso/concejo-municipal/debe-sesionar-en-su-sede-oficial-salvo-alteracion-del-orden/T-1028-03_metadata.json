@@ -1,0 +1,50 @@
+{
+  "radicado": "T-1028-03",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2003,
+  "fecha_creacion": "2003-10-30",
+  "magistrado_ponente": "Dr MARCO GERARDO MONROY CABRA",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "CONCEJO MUNICIPAL",
+  "subtema": "Debe sesionar en su sede oficial salvo alteración del orden público",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2255 de 2002",
+    "Ley 782 de 2002",
+    "Ley 136 de 1994",
+    "Ley 418 de 1997",
+    "Ley 548 de 1999",
+    "Ley 418 de 1999"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2003/T-1028-03.htm",
+  "fecha_descarga": "2026-10-22T22:58:59.611743+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2003-10-30",
+  "fecha_publicacion": null,
+  "numero": "T-1028/03",
+  "tipo_cc": "T",
+  "prov_id": "22853",
+  "tema_relatoria": "DERECHOS A LA VIDA INTEGRIDAD Y DEBIDO PROCESO. EXIGENCIA RENUNCIA DE CONCEJALES POR PARTE DE LAS FARC. SESIONES EN SEDE OFICIAL. DECRETOS DICTADOS EN ESTADO DE CONMOCION INTERIOR. VIGENCIA. COSA JUZGADA CONSTITUCIONAL. TUTELA CONTRA TUTELA. LEY 782 DE 20",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "CONCEJO MUNICIPAL",
+      "subtema": "Debe sesionar en su sede oficial salvo alteración del orden público"
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA ACCION DE TUTELA",
+      "subtema": "Improcedencia"
+    },
+    {
+      "tema": "CONCEJO MUNICIPAL",
+      "subtema": "Debe sesionar en su sede oficial por no presentarse en el caso alteración del orden publico"
+    },
+    {
+      "tema": "COSA JUZGADA CONSTITUCIONAL EN TUTELA",
+      "subtema": "No selección para revisión"
+    }
+  ]
+}

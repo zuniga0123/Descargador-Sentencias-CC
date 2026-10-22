@@ -1,0 +1,51 @@
+{
+  "radicado": "T-217-03",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2003,
+  "fecha_creacion": "2003-03-13",
+  "magistrado_ponente": "Dr ALFREDO BELTRÁN SIERRA",
+  "area": "Derecho a la Salud",
+  "tema": "ADMINISTRADORA DEL REGIMEN SUBSIDIADO",
+  "subtema": "Información al afiliado sobre prestación de servicios no cubiertos por el POS",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 806 de 1998",
+    "Ley 60 de 1993",
+    "Ley 10 de 1990"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2003/T-217-03.htm",
+  "fecha_descarga": "2026-10-22T23:10:55.878139+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2003-03-13",
+  "fecha_publicacion": null,
+  "numero": "T-217/03",
+  "tipo_cc": "T",
+  "prov_id": "21883",
+  "tema_relatoria": "DERECHO A LA SALUD Y SEGURIDAD SOCIAL DE MENOR DE EDAD. SOLICITUD PRACTICA ECOGRAFIA RENAL Y DE VIAS URINARIAS Y ASISTENCIA MEDICA INTEGRAL. DEBER DE INFORMACION. SISBEN. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ADMINISTRADORA DEL REGIMEN SUBSIDIADO",
+      "subtema": "Información al afiliado sobre prestación de servicios no cubiertos por el POS"
+    },
+    {
+      "tema": "DERECHO A LA SALUD DE NIÑOS, NIÑAS Y ADOLESCENTES",
+      "subtema": "Servicio público esencial, obligatorio y permanente"
+    },
+    {
+      "tema": "ADMINISTRADORA DEL REGIMEN SUBSIDIADO",
+      "subtema": "Deber de informar a cuál entidad acudir cuando se presente exclusión del Sisben"
+    },
+    {
+      "tema": "DIRECCION SECCIONAL DE SALUD",
+      "subtema": "Orden para realizar examen renal a menor"
+    },
+    {
+      "tema": "DERECHO A LA SALUD DE NIÑOS, NIÑAS Y ADOLESCENTES",
+      "subtema": "Atención adecuada, pronta y eficiente"
+    }
+  ]
+}

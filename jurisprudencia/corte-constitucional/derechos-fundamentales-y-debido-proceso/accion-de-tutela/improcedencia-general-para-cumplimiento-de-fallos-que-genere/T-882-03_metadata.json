@@ -1,0 +1,62 @@
+{
+  "radicado": "T-882-03",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2003,
+  "fecha_creacion": "2003-10-02",
+  "magistrado_ponente": "Dr RODRIGO ESCOBAR GIL",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCIÓN DE TUTELA",
+  "subtema": "Improcedencia general para cumplimiento de fallos que generen obligaciones de dar",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Decreto 805 de 2000",
+    "Decreto 1578 de 2001",
+    "Ley 50 de 1990",
+    "Ley 222 de 1995",
+    "Ley 171 de 1961"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2003/T-882-03.htm",
+  "fecha_descarga": "2026-10-22T22:53:19.124083+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2003-10-02",
+  "fecha_publicacion": null,
+  "numero": "T-882/03",
+  "tipo_cc": "T",
+  "prov_id": "22684",
+  "tema_relatoria": "DERECHO AL MINIMO VITAL. INCLUSION EN NOMINA DE PENSIONADOS PARA PAGO DE PENSION SANCION. CUMPLIMIENTO DE FALLOS JUDICIALES. EMPRESA EN LIQUIDACION NO ES EXCUSA PARA NEGARSE A PAGAR PENSIONES. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Improcedencia general para cumplimiento de fallos que generen obligaciones de dar"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Cumplimiento de fallos judiciales para hacer efectivas obligaciones de hacer"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Procedencia excepcional para cumplimiento de sentencias que generen obligaciones de dar"
+    },
+    {
+      "tema": "PENSION DE JUBILACION",
+      "subtema": "Inclusión en nómina para el pago por la empresa Alcalis de Colombia en liquidación"
+    },
+    {
+      "tema": "EMPRESA EN LIQUIDACION",
+      "subtema": "Falta de recursos no es excusa para no pago de pensiones"
+    },
+    {
+      "tema": "CUMPLIMIENTO DE PROVIDENCIAS JUDICIALES",
+      "subtema": "Observancia"
+    },
+    {
+      "tema": "SENTENCIA",
+      "subtema": "Cumplimiento obligatorio"
+    }
+  ]
+}

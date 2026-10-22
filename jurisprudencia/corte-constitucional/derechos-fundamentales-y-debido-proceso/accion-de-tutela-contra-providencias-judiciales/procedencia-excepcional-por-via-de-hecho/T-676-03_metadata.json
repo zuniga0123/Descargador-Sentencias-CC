@@ -1,0 +1,55 @@
+{
+  "radicado": "T-676-03",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2003,
+  "fecha_creacion": "2003-08-06",
+  "magistrado_ponente": "Dr JAIME ARAÚJO RENTERÍA",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+  "subtema": "Procedencia excepcional por vía de hecho",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 546 de 1999",
+    "Decreto 2591 de 1991",
+    "Decreto Ley 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2003/T-676-03.htm",
+  "fecha_descarga": "2026-10-22T23:06:19.184630+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2003-08-06",
+  "fecha_publicacion": null,
+  "numero": "T-676/03",
+  "tipo_cc": "T",
+  "prov_id": "22452",
+  "tema_relatoria": "DERECHO AL DEBIDO PROCESO DE PERSONA JURIDICA. VIA DE HECHO. ACCESO A LA ADMINISTRACION DE JUSTICIA. RELIQUIDACION CREDITO DE UPAC A UVR. PLAZO 1 AÑO. DECRETO AVALUO Y VENTA EN PUBLICA SUBASTA DE INMUEBLE EMBARGADO. PROCESO EJECUTIVO HIPOTECARIO SIN TITUL",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Procedencia excepcional por vía de hecho"
+    },
+    {
+      "tema": "ACCION DE TUTELA DE PERSONA JURIDICA CONTRA SENTENCIA DE TRIBUNAL",
+      "subtema": "Procedencia"
+    },
+    {
+      "tema": "ACCION DE TUTELA DE CONAVI CONTRA SENTENCIA DE TRIBUNAL",
+      "subtema": "No es requisito de exigibilidad que obligaciones pactadas en UPAC tengan un año de mora"
+    },
+    {
+      "tema": "ACCION DE TUTELA DE CONAVI CONTRA SENTENCIA DE TRIBUNAL",
+      "subtema": "Existencia de título ejecutivo"
+    },
+    {
+      "tema": "JURISDICCION ORDINARIA",
+      "subtema": "Competencia para resolver controversias sobre reliquidaciones de créditos hipotecarios"
+    },
+    {
+      "tema": "PERSONA JURIDICA",
+      "subtema": "Titularidad de derechos fundamentales"
+    }
+  ]
+}
