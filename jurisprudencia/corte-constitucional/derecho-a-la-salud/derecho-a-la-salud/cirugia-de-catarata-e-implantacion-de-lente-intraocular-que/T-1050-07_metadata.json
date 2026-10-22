@@ -1,0 +1,48 @@
+{
+  "radicado": "T-1050-07",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2007,
+  "fecha_creacion": "2007-12-05",
+  "magistrado_ponente": "Dr JAIME CÓRDOBA TRIVIÑO",
+  "area": "Derecho a la Salud",
+  "tema": "DERECHO A LA SALUD",
+  "subtema": "Cirugía de catarata e implantación de lente intraocular que está incluido en el POS",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto Ley 2591 de 1991",
+    "Decreto 806 de 1998",
+    "Decreto 1485 de 1994",
+    "Ley 100 de 1993"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2007/T-1050-07.htm",
+  "fecha_descarga": "2026-10-22T18:33:27.985703+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2007-12-05",
+  "fecha_publicacion": null,
+  "numero": "T-1050/07",
+  "tipo_cc": "T",
+  "prov_id": "28960",
+  "tema_relatoria": null,
+  "resumen": "LA CORTE DEBE DETERMINAR SI LAS DECISIONES OBJETO DE REVISION EN TANTO ORDENARON EL RECOBRO AL FONDO DE SOLIDARIDAD Y GARANTIA FOSYGA RESPECTO DEL SUMINISTRO DE PRESTACIONES MEDICO ASISTENCIALES INCLUIDAS EN EL PLAN OBLIGATORIO DE SALUD POS DESCONOCIERON O NO PRINCIPIOS CONSTITUCIONALES QUE ORDENAN LA SEGURIDAD SOCIAL EN SALUD.EL RECOBRO AL FONDO DE SOLIDARIDAD Y GARANTIA PROCEDE UNICAMENTE RESPECTO DEL CUBRIMIENTO DE LAS OBLIGACIONES EXPRESAMENTE EXCLUIDAS DEL POS. EN LOS CASOS OBJETO DE ESTUDIO RESULTABA IMPROCEDENTE LA ORDEN DE RECOBRO ANTE EL FOSYGA YA POR QUE LA PRESTACION ESTABA INCLUIDA EN EL POS O YA POR QUE FUE LA MISMA ENTIDAD LA QUE PUSO DE PRESENTE QUE LA PRESTACION SE ENCONTRABA INCLUIDA EN EL POS. EN CONSECUENCIA LA ORDEN DE RECOBRO IMPARTIDA POR EL JUEZ DE TUTELA CARECIA DE TODO SUSTENTO.SE REVOCAN UNA EXPRESIONES DE LOS FALLOS REVISADOS",
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Cirugía de catarata e implantación de lente intraocular que está incluido en el POS"
+    },
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Imposibilidad de recobro al Fosyga por cuanto el lente intraocular no se encuentra excluido del POS"
+    },
+    {
+      "tema": "INAPLICACION DE NORMAS DEL PLAN OBLIGATORIO DE SALUD",
+      "subtema": "Casos en que procede por exclusión de tratamientos y medicamentos de alto costo"
+    },
+    {
+      "tema": "SISTEMA GENERAL DE SEGURIDAD SOCIAL EN SALUD",
+      "subtema": "Recobro al Fosyga está supeditada a que la prestación esté excluida del POS"
+    }
+  ]
+}

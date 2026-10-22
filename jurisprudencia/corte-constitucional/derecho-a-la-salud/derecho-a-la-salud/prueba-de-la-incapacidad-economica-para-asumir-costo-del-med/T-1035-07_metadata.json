@@ -1,0 +1,50 @@
+{
+  "radicado": "T-1035-07",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2007,
+  "fecha_creacion": "2007-12-04",
+  "magistrado_ponente": "Mauricio González Cuervo",
+  "area": "Derecho a la Salud",
+  "tema": "DERECHO A LA SALUD",
+  "subtema": "Prueba de la incapacidad económica para asumir costo del medicamento",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 100 de 1993"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2007/T-1035-07.htm",
+  "fecha_descarga": "2026-10-22T18:30:11.470279+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2007-12-04",
+  "fecha_publicacion": null,
+  "numero": "T-1035/07",
+  "tipo_cc": "T",
+  "prov_id": "28946",
+  "tema_relatoria": null,
+  "resumen": "DERECHO A LA SALUD Y A LA VIDA DE AFILIADO A QUIEN LA ENTIDAD SE NIEGA A AUTORIZARLE LA PRACTICA DE LA CIRUGIA QUERATOPLASTIAS PENETRANTE INCLUIDA EN EL POS POR NO CANCELAR EL VALOR DEL COPAGO DEBIDO A SU FALTA DE CAPACIDAD ECONOMICA.SOLICITA SE ORDENE AUTORIZAR LA CIRUGIA QUE REQUIERE Y SE LO EXIMA DEL PAGO DEL COPAGO EXIGIDO.LA EXIGENCIA DEL CUBRIMIENTO DE CUOTAS MODERADORAS Y PAGOS COMPARTIDOS CUANDO LA INCAPACIDAD DEL USUARIO PARA CUBRIRLOS ES EVIDENTE NO PUEDE SER UNA BARRERA PARA LA PRESTACION DEL SERVICIO. PRUEBA DE LA INCAPACIDAD ECONOMICA PARA ASUMIR LOS COPAGOS Y CUOTAS MODERADORAS. EN EL PRESENTE CASO SE ESTA FRENTE A UN HECHO SUPERADO POR LA REALIZACION DE LA CIRUGIA REQUERIDA CESANDO LOS MOTIVOS QUE ORIGINARON LA ACCION DE TUTELA.NEGADA",
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Prueba de la incapacidad económica para asumir costo del medicamento"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Hecho superado por cuanto ya se realizó la cirugía solicitada"
+    },
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "EPS se niega a realizar cirugía ocular incluida en el POS por no cancelación del copago"
+    },
+    {
+      "tema": "PRESTACION DE SERVICIOS NO CUBIERTOS POR EL POS",
+      "subtema": "Reglas probatorias para establecer la capacidad económica"
+    },
+    {
+      "tema": "SISTEMA GENERAL DE SEGURIDAD SOCIAL EN SALUD",
+      "subtema": "Cuotas moderadoras o copagos no pueden convertirse en barreras de acceso al servicio para personas que no tienen recursos económicos"
+    }
+  ]
+}

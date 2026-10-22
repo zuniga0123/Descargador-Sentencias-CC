@@ -1,0 +1,43 @@
+{
+  "radicado": "T-242-07",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2007,
+  "fecha_creacion": "2007-03-29",
+  "magistrado_ponente": "Dr HUMBERTO ANTONIO SIERRA PORTO",
+  "area": "Derecho a la Salud",
+  "tema": "SISTEMA GENERAL DE SEGURIDAD SOCIAL EN SALUD",
+  "subtema": "Afiliación se hace al sistema no a una entidad promotora de salud",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Decreto 806 de 1998",
+    "Ley 789 de 2002"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2007/T-242-07.htm",
+  "fecha_descarga": "2026-10-22T18:27:33.328051+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2007-03-29",
+  "fecha_publicacion": null,
+  "numero": "T-242/07",
+  "tipo_cc": "T",
+  "prov_id": "27912",
+  "tema_relatoria": null,
+  "resumen": "DERECHO AL DEBIDO PROCESO DE AFILIADO Y SU GRUPO FAMILIAR A QUIEN LA ENTIDAD LE INACTIVO LA AFILIACION ADUCIENDO UNA MULTIAFILIACION Y EN COSNECUENCIA LE NIEGAN EL SERVICIO DE SALUD A EL Y SU FAMILIA ESTANDO AL DIA CON SUS APORTES Y SIN QUE EXISTA LA POSIBILIDAD DE HABER EFECTUADO TRAMITE ALGUNO DE AFILIACION EN OTRA ENTIDAD.SOLICITA SE DEJE SIN EFECTO LA DECISION DE LA ENTIDAD DE CANCELAR SU AFILIACION Y SE REHAGA LA ACTUACION.REGLAS QUE DEBEN SER SEGUIDAS POR LAS EMPRESAS PROMOTORAS DE SALUD (EPS) PARA RESOLVER CASOS DE MULTIPLE AFILIACION. EN LOS CASOS DE MULTIPLE AFILIACION DE UNA PERSONA AL REGIMEN CONTRIBUTIVO DE SALUD LAS EPS IMPLICADAS DEBEN DAR APLICACION A LOS CRITERIOS PREVISTOS EN EL ARTICULO 50 DEL DECRETO 806 DE 1998 A EFECTO DE DETERMINAR CUAL DE ELLAS DEBERA CONTINUAR GARANTIZANDO LA ATENCION EN SALUD DEL AFILIADO.EN EL PRESENTE CASO (I) NUNCA SE LE NOTIFICO EL INICIO DE UN PROCESO (II) QUE LLEVO A QUE SE LE CANCELARA SU AFILIACION AL SISTEMA DE SEGURIDAD EN SALUD (A SALUDCOOP EN ESTE CASO) (III) UNILATERALMENTE SIN DARLE LA OPORTUNIDAD DE DEFENSA.CONCEDIDA",
+  "titulaciones": [
+    {
+      "tema": "SISTEMA GENERAL DE SEGURIDAD SOCIAL EN SALUD",
+      "subtema": "Afiliación se hace al sistema no a una entidad promotora de salud"
+    },
+    {
+      "tema": "ENTIDAD PROMOTORA DE SALUD",
+      "subtema": "Si hay afiliación múltiple no está autorizada para cancelar contrato automática y unilateralmente"
+    },
+    {
+      "tema": "ENTIDAD PROMOTORA DE SALUD",
+      "subtema": "Reglas a seguir en casos de afiliación múltiple"
+    }
+  ]
+}

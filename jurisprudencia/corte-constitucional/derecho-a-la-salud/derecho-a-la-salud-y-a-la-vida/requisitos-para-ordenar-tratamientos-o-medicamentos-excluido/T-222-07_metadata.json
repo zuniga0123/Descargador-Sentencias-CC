@@ -1,0 +1,46 @@
+{
+  "radicado": "T-222-07",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2007,
+  "fecha_creacion": "2007-03-16",
+  "magistrado_ponente": "Dr RODRIGO ESCOBAR GIL",
+  "area": "Derecho a la Salud",
+  "tema": "DERECHO A LA SALUD Y A LA VIDA",
+  "subtema": "Requisitos para ordenar tratamientos o medicamentos excluidos del POS",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Decreto 1938 de 1994"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2007/T-222-07.htm",
+  "fecha_descarga": "2026-10-22T18:29:20.324876+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2007-03-16",
+  "fecha_publicacion": null,
+  "numero": "T-222/07",
+  "tipo_cc": "T",
+  "prov_id": "27870",
+  "tema_relatoria": null,
+  "resumen": "DERECHO A LA VIDA DIGNA DE AFILIADA QUE COTIZA COMO INDEPENDIENTE A QUIEN SU MEDICO TRATANTE LE FORMULO MEDICAMENTOS POS Y NO POS DE LOS QUE LA ENTIDAD SE NIEGA A SUMINISTRAR LOS MEDICAMENTOS EXCLUIDOS DEL POS.SOLICITA SE ORDENE EL SUMINISTRO DE LOS MEDICAMENTOS FORMULADOS POR EL MEDICO TRATANTE.PROCEDIBILIDAD DE LA ACCION DE TUTELA. LEGITIMACION ACTIVA Y PASIVA. REQUISITOS PARA OTORGAR MEDICAMENTOS EXCLUIDOS DEL POS EN ESPECIAL LA AFECTACION AL DERECHO A LA VIDA DENTRO DE UN CONCEPTO AMPLIO DE DIGNIDAD HUMANA. ACCION DE REPETICION CONTRA FOSYGA.CONCEDIDA",
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA SALUD Y A LA VIDA",
+      "subtema": "Requisitos para ordenar tratamientos o medicamentos excluidos del POS"
+    },
+    {
+      "tema": "COMITE TECNICO CIENTIFICO DE ENTIDAD PROMOTORA DE SALUD",
+      "subtema": "Su concepto no es requisito indispensable para la entrega de medicamentos excluidos del POS"
+    },
+    {
+      "tema": "ENTIDAD PROMOTORA DE SALUD",
+      "subtema": "Suministro de medicamentos y repetición contra el Fosyga"
+    },
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Medicamento solicitado no puede ser sustituido por uno de los incluídos en el POS"
+    }
+  ]
+}

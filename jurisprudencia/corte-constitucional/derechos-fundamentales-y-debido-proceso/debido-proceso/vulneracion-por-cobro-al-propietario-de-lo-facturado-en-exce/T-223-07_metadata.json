@@ -1,0 +1,47 @@
+{
+  "radicado": "T-223-07",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2007,
+  "fecha_creacion": "2007-03-23",
+  "magistrado_ponente": "Dr RODRIGO ESCOBAR GIL",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "DEBIDO PROCESO",
+  "subtema": "Vulneración por cobro al propietario de lo facturado en exceso a los tres meses de mora de los servicios públicos",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 689 de 2001",
+    "Ley 142 de 1994",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2007/T-223-07.htm",
+  "fecha_descarga": "2026-10-22T18:29:23.966315+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2007-03-23",
+  "fecha_publicacion": null,
+  "numero": "T-223/07",
+  "tipo_cc": "T",
+  "prov_id": "27896",
+  "tema_relatoria": null,
+  "resumen": "DERECHO AL DEBIDO PROCESO DE PROPIETARIA DE INMUEBLE ARRENDADO A QUIEN SU ARRENDATARIO LE DEJO PENDIENTE DE PAGO SERVICIOS PUBLICOS POR CONCEPTO DE 53 MESES DE FACTURACION POR LO QUE LA ENTIDAD DECIDIO INICIAR COBRO PREJUDICIAL DE LA OBLIGACION CONTRA LA PROPIETARIA DEL INMUEBLE.SOLICITA SE ORDENE LA LIMITACION DE LA OBLIGACION A TRES MESES EN QUE OPERA POR LEY LA SOLIDARIDAD EN EL PAGO DE LOS SERVICIOS PUBLICOS DOMICILIARIOS Y QUE EN CONSECUENCIA SE DECRETE EL ROMPIMIENTO DE LA SOLIDARIDAD EN LO QUE EXCEDA A ESTA LIMITACION.SOLIDARIDAD EN LOS CONTRATOS DE SERVICIOS PUBLICOS DOMICILIARIOS.EN LOS CASOS EN QUE LAS EMPRESAS DE SERVICIOS PUBLICOS NO OBSTANTE LA PREVISION LEGAL DEL ROMPIMIENTO DE LA SOLIDARIDAD INSISTAN EN ADELANTAR EL COBRO DE TODOS LOS PERIODOS FACTURADOS Y NO CANCELADOS EN CONTRA DEL PROPIETARIO DEL INMUEBLE INCURREN EN VIOLACION DEL DEBIDO PROCESO SUSCEPTIBLE DE AMPARO CONSTITUCIONAL.CONCEDIDA",
+  "titulaciones": [
+    {
+      "tema": "DEBIDO PROCESO",
+      "subtema": "Vulneración por cobro al propietario de lo facturado en exceso a los tres meses de mora de los servicios públicos"
+    },
+    {
+      "tema": "EMPRESA DE SERVICIOS PUBLICOS DOMICILIARIOS",
+      "subtema": "Suspensión del servicio cuando existe mora superior a dos facturas bimestrales o tres mensuales"
+    },
+    {
+      "tema": "CONTRATO DE PRESTACION DE SERVICIOS PUBLICOS DOMICILIARIOS",
+      "subtema": "Solidaridad entre propietario, suscriptor y usuario se rompe cuando no se suspende servicio ante atraso en pago de tres facturas"
+    },
+    {
+      "tema": "CONTRATO DE PRESTACION DE SERVICIOS PUBLICOS DOMICILIARIOS",
+      "subtema": "Solidaridad"
+    }
+  ]
+}
