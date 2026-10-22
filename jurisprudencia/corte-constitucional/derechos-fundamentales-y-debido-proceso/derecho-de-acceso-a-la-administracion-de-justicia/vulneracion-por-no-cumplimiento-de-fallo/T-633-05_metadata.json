@@ -1,0 +1,52 @@
+{
+  "radicado": "T-633-05",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2005,
+  "fecha_creacion": "2005-06-16",
+  "magistrado_ponente": "Dr MANUEL JOSE CEPEDA ESPINOSA",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "DERECHO DE ACCESO A LA ADMINISTRACIÓN DE JUSTICIA",
+  "subtema": "Vulneración por no cumplimiento de fallo",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 510 de 1999",
+    "Decreto 2591 de 1991",
+    "Decreto 1 de 1984",
+    "Ley 50 de 1990"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2005/T-633-05.htm",
+  "fecha_descarga": "2026-10-22T21:02:57.381315+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2005-06-16",
+  "fecha_publicacion": null,
+  "numero": "T-633/05",
+  "tipo_cc": "T",
+  "prov_id": "25294",
+  "tema_relatoria": null,
+  "resumen": "DERECHO AL DEBIDO PROCESO Y AL ACCESO A LA JUSTICIA DE TITULAR DE CERTIFICADOS Y CEDULAS HIPOTECARIAS EMITIDAS POR EL BANCO CENTRAL HIPOTECARIO A QUIEN LE FUERON HURTADOS DE SU RESIDENCIA Y MEDIANTE SENTENCIA SE ORDENO LA CANCELACION Y REPOSICIÓN DE LOS TITULOS VALORES PERO EL BANCO SE NIEGA A ACATAR LA SENTENCIA ADUCIENDO QUE LOS NUMEROS DE LOS TITULOS SON INCORRECTOS. SOLICITA SE ORDENE AL BANCO CUMPLIR CON LO ORDENADO EN LA SENTENCIA PROFERIDA POR EL JUZGADO SEXTO CIVIL DEL CIRCUITO. PROCEDENCIA DE LA ACCION DE TUTELA AUSENCIA DE OTROS MECANISMOS JUDICIALES Y OBSERVANCIA DEL PRINCIPIO DE INMEDIATEZ. PRINCIPIO DE PREVALENCIA DEL DERECHO Y EL DERECHO AL ACCESO A LA ADMINISTRACIÓN DE JUSTICIA. AL NEGARSE A CANCELAR Y REPONER LOS TITULOS VALORES DEL SEÑOR MEDINA MORENO EL BANCO GRANAHORRAR ACTUO DE MANERA CONTRARIA AL PRINCIPIO DE SUPREMACIA DEL DERECHO SUSTANCIAL Y VIOLO EL DERECHO AL ACCESO A LA ADMINISTRACIÓN DE JUSTICIA DEL ACCIONANTE. CONCEDIDA",
+  "titulaciones": [
+    {
+      "tema": "DERECHO DE ACCESO A LA ADMINISTRACIÓN DE JUSTICIA",
+      "subtema": "Vulneración por no cumplimiento de fallo"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "No se vulneró el principio de inmediatez"
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA ENTIDAD FINANCIERA",
+      "subtema": "Procedencia por ausencia de mecanismos judiciales idóneos y eficaces"
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA ENTIDAD FINANCIERA",
+      "subtema": "Deber de Granahorrar de cancelar y reponer los títulos obedeciendo fallo"
+    },
+    {
+      "tema": "PREVALENCIA DEL DERECHO SUSTANCIAL",
+      "subtema": "Alcance"
+    }
+  ]
+}

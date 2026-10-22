@@ -1,0 +1,53 @@
+{
+  "radicado": "T-565-05",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2005,
+  "fecha_creacion": "2005-05-26",
+  "magistrado_ponente": "Dr JAIME ARAÚJO RENTERÍA",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "BANCO DE DATOS",
+  "subtema": "Eliminación de registros no procedía por cuanto esa información determinaba perfil de riesgo del deudor",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2005/T-565-05.htm",
+  "fecha_descarga": "2026-10-22T21:04:36.481083+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2005-05-26",
+  "fecha_publicacion": null,
+  "numero": "T-565/05",
+  "tipo_cc": "T",
+  "prov_id": "25217",
+  "tema_relatoria": null,
+  "resumen": "DERECHO AL HABEAS DATA Y AL BUEN NOMBRE DE DEUDOR MOROSO DEL BANCO DE COLOMBIA QUE FUE REPORTADO A LAS CENTRALES DE INFORMACIÓN CREDITICIA Y EN LA ACTUALIDAD SE ENCUENTRA A PAZ Y SALVO CON SUS OBLIGACIONES PERO NO HA SIDO POSIBLE LOGRAR LA ACTUALIZACION DE LA INFORMACION NEGATIVA REPORTADA. SOLICITA SE EXCLUYA DE LAS BASES DE DATOS DE LAS ENTIDADES DEMANDADAS LA INFORMACIÓN NEGATIVA QUE EN RELACION CON SUS HABITOS DE PAGO REPOSA EN ESTAS. DERECHO DE HABEAS DATA NO PRESUPONE LA CANCELACIÓN AUTOMATICA DE LA INFORMACION NEGATIVA QUE REPOSA EN LAS CENTRALES DE INFORMACIÓN CREDITICIA. CADUCIDAD DEL DATO FINANCIERO. OBSERVA LA SALA QUE ALGUNOS DE LOS DATOS QUE REGISTRAN EL COMPORTAMIENTO DE ESTAS OBLIGACIONES HABIAN CADUCADO CUANDO SE PRODUJO EL CITADO INFORME MIENTRAS QUE OTROS HAN CADUCADO ACTUALMENTE SIEMPRE QUE EL DEUDOR NO HAYA INCURRIDO EN MORA DURANTE EL TERMINO DE CADUCIDAD DEL DATO Y CON RESPECTO A LAS MISMAS OBLIGACIONES. CONCEDIDA PARCIALMENTE",
+  "titulaciones": [
+    {
+      "tema": "BANCO DE DATOS",
+      "subtema": "Eliminación de registros no procedía por cuanto esa información determinaba perfil de riesgo del deudor"
+    },
+    {
+      "tema": "CADUCIDAD DEL DATO",
+      "subtema": "Límite temporal"
+    },
+    {
+      "tema": "CADUCIDAD DEL DATO",
+      "subtema": "El término no puede tornarse inoperante cuando durante el mismo entran nuevas obligaciones en mora"
+    },
+    {
+      "tema": "DERECHO AL HABEAS DATA",
+      "subtema": "No presupone la cancelación automática de la información negativa que reposa en centrales de información"
+    },
+    {
+      "tema": "BANCO DE DATOS",
+      "subtema": "Veracidad de la información"
+    },
+    {
+      "tema": "HABEAS DATA",
+      "subtema": "Reiteración sentencia SU-082/95"
+    }
+  ]
+}
