@@ -1,0 +1,52 @@
+{
+  "radicado": "C-665-08",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2008,
+  "fecha_creacion": "2008-07-02",
+  "magistrado_ponente": "Dr MANUEL JOSÉ CEPEDA ESPINOSA",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "COSA JUZGADA ABSOLUTA",
+  "subtema": "Alcance",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 1151 de 2007",
+    "Decreto 2067 de 1991",
+    "Ley 5 de 1992",
+    "Ley 100 de 1993",
+    "Ley 30 de 1992",
+    "Ley 152 de 1994",
+    "Ley 812 de 2003",
+    "Ley 1151 de 2008"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2008/C-665-08.htm",
+  "fecha_descarga": "2026-10-22T17:41:46.593150+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2008-07-02",
+  "fecha_publicacion": null,
+  "numero": "C-665/08",
+  "tipo_cc": "C",
+  "prov_id": "29816",
+  "tema_relatoria": "COSA JUZGADA EN SANEAMIENTO DEL PASIVO PENSIONAL DE LAS UNIVERSIDADES PUBLICAS",
+  "resumen": "LEY 1151 DE 2007 ARTICULO 38. SE EXPIDE EL PLAN NACIONAL DE DESARROLLO 2006-2010. SANEAMIENTO DEL PASIVO PENSIONAL DE LAS UNIVERSIDADES DEL ORDEN NACIONAL. SEGUN EL CRITERIO DE LOS DEMANDANTES, LA NORMA ACUSADA CONTRAVIENE LOS ARTICULOS 58, 69, 150 NUM 1º, 158, 169, 339, 346 Y 347 DE LA CARTA POLITICA. EL FENOMENO DE LA COSA JUZGADA CONSTITUCIONAL EN RELACION CON EL ARTICULO 38 DE LA LEY 1151 DE 2007, POR CUENTA DE LA SENTENCIA C-507 DE 2008, EN LA CUAL SE DECLARO EXEQUIBLE LA PRIMERA PARTE DEL TEXTO DEL INCISO DEL REFERIDO ARTICULO, MIENTRAS QUE LA SEGUNDA PARTE DEL INCISO PRIMERO Y EL PARRAFO DEL ARTICULO FUERON DECLARADOS INEXEQUIBLES. ESTARSE A LO RESUELTO EN LA SENTENCIA C-507 DE 2008.",
+  "titulaciones": [
+    {
+      "tema": "COSA JUZGADA ABSOLUTA",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "VICIO DE PROCEDIMIENTO EN NORMA DE LEY DEL PLAN NACIONAL DE DESARROLLO 2006-2010",
+      "subtema": "Inexistencia porque inclusión de norma no requería aval del gobierno"
+    },
+    {
+      "tema": "COSA JUZGADA CONSTITUCIONAL",
+      "subtema": "Inexistencia respecto del parágrafo del artículo 38 de la ley 1151 de 2007"
+    },
+    {
+      "tema": "NORMA DE LEY DEL PLAN NACIONAL DE DESARROLLO 2006-2010",
+      "subtema": "No afecta el equilibrio financiero del Plan Nacional de Desarrollo al no incluir gastos nuevos"
+    }
+  ]
+}

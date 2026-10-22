@@ -1,0 +1,51 @@
+{
+  "radicado": "T-001-08",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2008,
+  "fecha_creacion": "2008-01-14",
+  "magistrado_ponente": "Dr RODRIGO ESCOBAR GIL",
+  "area": "Derecho a la Salud",
+  "tema": "DERECHO A LA SALUD",
+  "subtema": "Suministro de medicamento excluido del POS y repetición contra el Fosyga",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 100 de 1993",
+    "Decreto 806 de 1998"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2008/T-001-08.htm",
+  "fecha_descarga": "2026-10-22T17:29:04.453365+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2008-01-14",
+  "fecha_publicacion": null,
+  "numero": "T-001/08",
+  "tipo_cc": "T",
+  "prov_id": "29011",
+  "tema_relatoria": null,
+  "resumen": "DERECHO A LA SALUD DE AFILIADO COTIZANTE QUE PADECE HIPERTROFIA DE PROSTATA BENIGNA, POR LO QUE SU MEDICO TRATANTE LE FORMULO MEDICAMENTO QUE LA ENTIDAD SE NIEGA A AUTORIZAR ADUCIENDO QUE SE TRATA DE UN MEDICAMENTO EXCLUIDO DEL POS. SOLICITA SE ORDENE AUTORIZAR EL MEDICAMENTO FORMULADO. DERECHO A LA SEGURIDAD SOCIAL EN SALUD. CONDICIONES DE PROCEDENCIA DEL AMPARO CONSTITUCIONAL EN MATERIA DE MEDICAMENTOS NO POS. EN EL PRESENTE CASO EL ACCIONANTE CUMPLE CON LOS REQUISITOS EXIGIDOS POR VIA JURISPRUDENCIAL PARA EL SUMINISTRO DEL MEDICAMENTO EXCLUIDO DEL POS. ACCION DE REPETICION CONTRA EL FOSYGA. CONCEDIDA",
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Suministro de medicamento excluido del POS y repetición contra el Fosyga"
+    },
+    {
+      "tema": "DERECHO A LA SEGURIDAD SOCIAL EN SALUD",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Fundamental por conexidad"
+    },
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Fundamental autónomo"
+    },
+    {
+      "tema": "INAPLICACION DE NORMAS DEL PLAN OBLIGATORIO DE SALUD",
+      "subtema": "Requisitos para acceder a tratamientos y medicamentos excluidos del POS"
+    }
+  ]
+}

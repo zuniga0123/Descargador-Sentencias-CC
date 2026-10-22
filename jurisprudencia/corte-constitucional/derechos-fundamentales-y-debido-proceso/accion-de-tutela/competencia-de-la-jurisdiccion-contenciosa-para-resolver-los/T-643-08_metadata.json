@@ -1,0 +1,44 @@
+{
+  "radicado": "T-643-08",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2008,
+  "fecha_creacion": "2008-07-01",
+  "magistrado_ponente": "Dr JAIME CÓRDOBA TRIVIÑO",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCIÓN DE TUTELA",
+  "subtema": "Competencia de la jurisdicción contenciosa para resolver los conflictos administrativos de carácter laboral para proteger derechos fundamentales",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 114 de 1913",
+    "Ley 116 de 1928",
+    "Ley 37 de 1933",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2008/T-643-08.htm",
+  "fecha_descarga": "2026-10-22T17:23:41.461391+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2008-07-01",
+  "fecha_publicacion": null,
+  "numero": "T-643/08",
+  "tipo_cc": "T",
+  "prov_id": "29792",
+  "tema_relatoria": null,
+  "resumen": "DERECHO DE PETICION, IGUALDAD Y DEBIDO PROCESO DE AFILIADA DOCENTE A QUIEN LA ENTIDAD, A PESAR DE HABERLE RECONOCIDO LA PENSION GRACIA, NO LA HA INCLUIDO EN NOMINA DE PENSIONADOS, TODA VEZ QUE CONDICIONO SU INCLUSION AL RETIRO DEFINITIVO DEL SERVICIO, AL QUE AUN SE ENCUENTRA VINCULADA. SOLICITA SE ORDENE SU INCLUSION A LA MENCIONADA NOMINA. IMPROCEDENCIA DE LA ACCION DE TUTELA, EN RAZON A SU ESENCIA SUBSIDIARIA Y RESIDUAL, Y A LA COMPETENCIA ASIGNADA EN EL ORDENAMIENTO JURIDICO A LA JURISDICCION CONTENCIOSA PARA RESOLVER LOS CONFLICTOS ADMINISTRATIVOS DE CARACTER LABORAL. NEGADA",
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Competencia de la jurisdicción contenciosa para resolver los conflictos administrativos de carácter laboral para proteger derechos fundamentales"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Carácter subsidiario y residual"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "No procede porque la actora se encuentra vinculada a la administración y en condiciones de plantear el restablecimiento de sus derechos ante la accionada o ante la jurisdicción"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "radicado": "T-890-08",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2008,
+  "fecha_creacion": "2008-09-12",
+  "magistrado_ponente": "Mauricio González Cuervo",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "DEBIDO PROCESO ADMINISTRATIVO",
+  "subtema": "Garantía de los usuarios de las empresas de servicios públicos domiciliarios",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 142 de 1998"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2008/T-890-08.htm",
+  "fecha_descarga": "2026-10-22T17:26:52.173470+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2008-09-12",
+  "fecha_publicacion": null,
+  "numero": "T-890/08",
+  "tipo_cc": "T",
+  "prov_id": "30091",
+  "tema_relatoria": null,
+  "resumen": "DEBIDO PROCESO AL FACTURARLES LA ENTIDAD DEMANDADA EL SERVICIO DE ACUEDUCTO SIN LA INSTALACIÓN DEL RESPECTIVO MEDIDOR, SOLICITAN ORDENAR A LA ACCIONADA SE ABSTENGA DE COBRARLES EL SERVICIO DE ACUEDUCTO, ALCANTARILLADO Y ASEO HASTA TANTO NO SE LES INSTALE EL MEDIDOR, ADEMÁS BAJAR DEL SISTEMA COMERCIAL LAS SUMAS CORRESPONDIENTES A FACTURAS COBRADAS SIN LA RESPECTIVA MEDICIÓN. PROCEDENCIA DE LA TUTELA PARA RECLAMOS SOBRE FACTURACIÓN, EXISTENCIA DE OTROS MEDIOS DE DEFENSA JUDICIAL. LAS DEMANDANTES NO DEMUESTRAN NINGÚN PERJUICIO IRREMEDIABLE NI HAN DEMOSTTRADO VULNERACIÓN DE NINGÚN DERECHO FUNDAMENTAL, NI HAN PRESENTADO A LA EMPRESA LAS RECLAMACIONES RELACIONADAS CON EL COBRO DE UN CONSUMO QUE NO HA SIDO CALCULADO POR FALTA DEL MEDIDOR,Y TAMPOCO HAN ACUDIDO A LA VÍA GUBERNATIVA, POR LO TANTO EXISTE OTRO MEDIO DE DEFENSA JUDICIAL. NEGADA.",
+  "titulaciones": [
+    {
+      "tema": "DEBIDO PROCESO ADMINISTRATIVO",
+      "subtema": "Garantía de los usuarios de las empresas de servicios públicos domiciliarios"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Improcedencia general sobre controversias contractuales o pecuniarias entre los usuarios de servicios públicos domiciliarios y la empresa"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Improcedencia porque las peticionarias no han demostrado un perjuicio irremediable, ni vulneración de derecho fundamental alguno por el cobro de facturas por falta de medidor"
+    },
+    {
+      "tema": "MEDIO DE DEFENSA JUDICIAL EFICAZ",
+      "subtema": "Controversias contractuales o pecuniarias entre las usuarias de servicios públicos domiciliarios y la empresa por el cobro de facturas sin medidor"
+    }
+  ]
+}

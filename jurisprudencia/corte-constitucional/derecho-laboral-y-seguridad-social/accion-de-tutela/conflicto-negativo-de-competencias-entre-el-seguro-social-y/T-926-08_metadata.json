@@ -1,0 +1,55 @@
+{
+  "radicado": "T-926-08",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2008,
+  "fecha_creacion": "2008-09-19",
+  "magistrado_ponente": "Dr MARCO GERARDO MONROY CABRA",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "ACCIÓN DE TUTELA",
+  "subtema": "Conflicto negativo de competencias entre el Seguro Social y el Fondo de Pensiones de Bogotá para el reconocimiento de la pensión del actor",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 100 de 1993",
+    "Decreto 2709 de 1994",
+    "Ley 71 de 1988",
+    "Decreto 2527 de 2000",
+    "Ley 954 de 2005",
+    "Decreto 2591 de 1992"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2008/T-926-08.htm",
+  "fecha_descarga": "2026-10-22T17:27:54.764702+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2008-09-19",
+  "fecha_publicacion": null,
+  "numero": "T-926/08",
+  "tipo_cc": "T",
+  "prov_id": "30122",
+  "tema_relatoria": null,
+  "resumen": "DERECHO A LA SALUD, VIDA Y SEGURIDAD SOCIAL. CONFLICTO NEGATIVO DE COMPETENCIAS ENTRE DOS ENTIDADES ADMINISTRATIVAS, TODA VEZ QUE NINGUNA DE ELLAS, ESTIMA TENER COMPETENCIA PARA EL RECONOCIMIENTO DE LA PENSION QUE HA SOLICITAO EL DEMANDANTE, EL DEMANDANTE INFORMÓ QUE PARA LA FECHA DE LA PRESENTE DECISION, SU PENSION YA HA SIDO RECONOCIDA DENTRO DE UN PROCESO ORDINARIO LABORAL QUE SE HABIA TRAMITADO, POR LO TANTO EXISTE UN HECHO SUPERADO",
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Conflicto negativo de competencias entre el Seguro Social y el Fondo de Pensiones de Bogotá para el reconocimiento de la pensión del actor"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Hecho superado por cuanto la pensión del actor ya le fue reconocida dentro de un proceso ordinario laboral"
+    },
+    {
+      "tema": "ACCION DE TUTELA TEMERARIA",
+      "subtema": "Inexistencia"
+    },
+    {
+      "tema": "PENSION DE JUBILACION",
+      "subtema": "Controversias entre entidades responsables del pago, no pueden afectar al titular del derecho"
+    },
+    {
+      "tema": "DERECHO A LA PENSION DE JUBILACION",
+      "subtema": "Vulneración por el incumplimiento por parte de los funcionarios públicos de acudir a los medios legales previstos para solucionar el conflicto negativo de competencias"
+    }
+  ]
+}
