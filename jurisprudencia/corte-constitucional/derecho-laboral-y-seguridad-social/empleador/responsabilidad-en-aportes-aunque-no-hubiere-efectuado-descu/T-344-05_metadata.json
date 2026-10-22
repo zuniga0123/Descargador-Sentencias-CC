@@ -1,0 +1,47 @@
+{
+  "radicado": "T-344-05",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2005,
+  "fecha_creacion": "2005-04-06",
+  "magistrado_ponente": "Dr JAIME ARAÚJO RENTERIA",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "EMPLEADOR",
+  "subtema": "Responsabilidad en aportes aunque no hubiere efectuado descuentos",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 100 de 1993",
+    "Decreto 2633 de 1994"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2005/T-344-05.htm",
+  "fecha_descarga": "2026-10-22T20:42:54.533979+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2005-04-06",
+  "fecha_publicacion": null,
+  "numero": "T-344/05",
+  "tipo_cc": "T",
+  "prov_id": "24954",
+  "tema_relatoria": null,
+  "resumen": "DERECHO A LA SEGURIDAD SOCIAL EN CONEXIDAD CON EL DERECHO AL MINIMO VITAL DE AFILIADO QUE PADECE OSTEITIS DEFORMANTE SIN MENCION DE TUMOR OSEO CON CALIFICACIÓN DE INVALIDEZ DE 51.74% DE PERDIDA DE CAPACIDAD LABORAL DE LA JUNTA REGIONAL Y 50.42% DE LA JUNTA NACIONAL Y A QUIEN LA ENTIDAD SE NIEGA A RECONOCERLE LA PENSION DE INVALIDEZ ADUCIENDO PAGO EXTEMPORÁNEO DE LOS APORTES CORRESPONDIENTES. SOLICITA SE ORDENE EL RECONOCIMIENTO Y PAGO DE LA PENSION DE INVALIDEZ. EL DERECHO A LA SEGURIDAD SOCIAL. EXCEPCIONALIDAD DEL CARÁCTER FUNDAMENTAL DEL DERECHO A LA PENSION DE INVALIDEZ. MORA DEL EMPLEADOR EN EL PAGO DE APORTES PENSIONALES. LA CORTE HA SOSTENIDO QUE EL DERECHO AL RECONOCIMIENTO DE LA PENSION DE AQUELLAS PERSONAS QUE SE ENCUENTRAN EN ESTADO DE INVALIDEZ SE TORNA FUNDAMENTAL EN CUANTO ESTE EN RELACION DIRECTA CON EL DERECHO A PERCIBIR UN MINIMO VITAL A LA IGUALDAD Y A LA DIGNIDAD. MORA DEL EMPLEADOR EN EL PAGO DE LOS APORTES PENSIONALES. LOS DESARROLLOS LEGALES Y REGLAMENTARIOS ATRIBUYEN A LAS ENTIDADES ADMINISTRADORAS DE PENSIONES LA FUNCION DE EXIGIR AL PATRONO LA CANCELACIÓN DE LOS APORTES PENSIONALES NO SIENDO POSIBLE A AQUELLAS ALEGAR A SU FAVOR SU PROPIA NEGLIGENCIA EN LA IMPLEMENTACION DE ESA ATRIBUCIÓN. CONCEDIDA",
+  "titulaciones": [
+    {
+      "tema": "EMPLEADOR",
+      "subtema": "Responsabilidad en aportes aunque no hubiere efectuado descuentos"
+    },
+    {
+      "tema": "ENTIDAD ADMINISTRADORA DE PENSIONES",
+      "subtema": "Reconocimiento aunque empleador no hubiere cotizado algunos meses"
+    },
+    {
+      "tema": "DERECHO A LA PENSIÓN DE INVALIDEZ",
+      "subtema": "No puede afectarse por mora patronal en aportes a la ARP"
+    },
+    {
+      "tema": "DERECHO A LA PENSIÓN DE INVALIDEZ",
+      "subtema": "Conexidad con el mínimo vital y el derecho a la igualdad"
+    }
+  ]
+}

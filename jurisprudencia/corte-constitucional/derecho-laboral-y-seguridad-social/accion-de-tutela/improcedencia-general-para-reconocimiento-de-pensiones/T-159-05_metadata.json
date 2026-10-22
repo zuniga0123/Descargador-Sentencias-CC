@@ -1,0 +1,58 @@
+{
+  "radicado": "T-159-05",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2005,
+  "fecha_creacion": "2005-02-24",
+  "magistrado_ponente": "Dr HUMBERTO ANTONIO SIERRA PORTO",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "ACCIÓN DE TUTELA",
+  "subtema": "Improcedencia general para reconocimiento de pensiones",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 1161 de 1994",
+    "Ley 419 de 1997",
+    "Ley 100 de 1993",
+    "Decreto 1615 de 2003",
+    "Decreto 1835 de 1994",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2005/T-159-05.htm",
+  "fecha_descarga": "2026-10-22T20:43:12.889535+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2005-02-24",
+  "fecha_publicacion": null,
+  "numero": "T-159/05",
+  "tipo_cc": "T",
+  "prov_id": "24734",
+  "tema_relatoria": null,
+  "resumen": "DERECHO A LA SALUD LA VIDA LA IGUALDAD Y EL MINIMO VITAL DE EXTRABAJADORA DE TELECOM LIQUIDADA POR LA EMPRESA MADRE CABEZA DE FAMILIA CON PROBLEMAS DE COMPORTAMIENTO A QUIEN LA ENTIDAD LE HA NEGADO OFRECERLE EL PLAN DE PENSION ANTICIPADA Y OMITIO LA COTIZACIÓN PARA PENSION DURANTE LOS CUATRO AÑOS EN LOS QUE ESTUVO PENSIONADA POR INVALIDEZ. SOLICITA SE ORDENE EL RECONOCIMIENTO DE LA PENSION DE JUBILACION Y SE LE AUTORICE LAS PRESTACIÓN DE LOS SERVICIOS MEDICOS REQUERIDOS. IMPROCEDENCIA DE LA ACCION DE TUTELA PARA EL RECONOCIMIENTO DE PENSIONES. REQUISITOS PARA LA PROCEDENCIA DE LA ACCION DE TUTELA. REQUISITOS QUE DEBEN CONCURRIR PARA QUE SE PUEDA CONSIDERAR QUE SE HA AFECTADO EL DERECHO AL MINIMO VITAL. IMPROCEDENCIA DE LA ACCIÓN DE TUTELA POR NO EXISTIR VULNERACIÓN A DERECHO FUNDAMENTAL ALGUNO. NEGADA",
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Improcedencia general para reconocimiento de pensiones"
+    },
+    {
+      "tema": "RELACION LABORAL",
+      "subtema": "Inexistente cuando la incapacidad laboral excede el 50% originando una condición de invalidez"
+    },
+    {
+      "tema": "APORTES EN MATERIA PENSIONAL",
+      "subtema": "No es obligación del empleado tratándose de persona incapacitada que por su invalidez pierde su condición de trabajador"
+    },
+    {
+      "tema": "DERECHO A LA SEGURIDAD SOCIAL",
+      "subtema": "Fundamental por conexidad"
+    },
+    {
+      "tema": "PRINCIPIO DE SUBSIDIARIEDAD Y PROCEDENCIA EXCEPCIONAL DE LA ACCION DE TUTELA PARA RECONOCIMIENTO Y PAGO DE DERECHOS PENSIONALES",
+      "subtema": "Requisitos"
+    },
+    {
+      "tema": "ACCION DE TUTELA PARA RECLAMAR EL RECONOCIMIENTO Y PAGO DE DERECHOS PENSIONALES",
+      "subtema": "Procedencia excepcional"
+    }
+  ]
+}
