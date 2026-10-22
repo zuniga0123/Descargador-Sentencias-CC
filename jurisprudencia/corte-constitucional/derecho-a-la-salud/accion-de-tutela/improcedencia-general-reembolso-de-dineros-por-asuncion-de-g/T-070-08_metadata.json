@@ -1,0 +1,46 @@
+{
+  "radicado": "T-070-08",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2008,
+  "fecha_creacion": "2008-01-31",
+  "magistrado_ponente": "Dr MANUEL JOSÉ CEPEDA ESPINOSA",
+  "area": "Derecho a la Salud",
+  "tema": "ACCIÓN DE TUTELA",
+  "subtema": "Improcedencia general reembolso de dineros por asunción de gastos médicos",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 1122 de 2007"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2008/T-070-08.htm",
+  "fecha_descarga": "2026-10-22T17:03:48.591461+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2008-01-31",
+  "fecha_publicacion": null,
+  "numero": "T-070/08",
+  "tipo_cc": "T",
+  "prov_id": "29105",
+  "tema_relatoria": null,
+  "resumen": "DERECHO A LA SALUD EN CONEXIDAD CON LA VIDA DE PERSONA QUE TUVO QUE CANCELAR EL VALOR DE DIVERSOS INSUMOS Y PROCEDIMIENTOS MEDICOS QUE REQUERIA CON URGENCIA PARA SER EFECTIVAMENTE ATENDIDO POR LA ENTIDAD, ANTE LA NEGATIVA DE ESTA PARA AUTORIZARLOS POR SER NO POS. SOLICITA SE ORDENE LA AUTORIZACION DE LOS PROCEDIMIENTOS QUE REQUIERA EN EL FUTURO Y LA CANCELACION DEL COSTO TOTAL DE LOS PROCEDIMIENTOS MEDICOS SUFRAGADOS. PROCEDENCIA EXCEPCIONAL DE LA ACCION DE TUTELA PARA RECLAMAR EL REEMBOLSO DE DINEROS POR LA ASUNCION DE GASTOS MEDICOS. LA JURISPRUDENCIA CONSTITUCIONAL HA SEÑALADO QUE CUANDO UN PROCEDIMIENTO SE ENCUENTRA INCLUIDO EN EL POS, SE ENTIENDEN INCLUIDOS LOS INSUMOS NECESARIOS PARA PRACTICARLO. EN EL CASO CONCRETO, SE CONSTATO QUE 3 DE LOS 4 SERVICIOS MEDICOS SUFRAGADOS POR EL ACTOR SE ENCUENTRAN INCLUIDOS EN EL POS. CONCEDIDA",
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Improcedencia general reembolso de dineros por asunción de gastos médicos"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Reembolso de dineros al actor por el pago de los insumos que tuvo que cancelar a la EPS para que le realizaran el procedimiento médico"
+    },
+    {
+      "tema": "DERECHO A LA SALUD Y A LA VIDA",
+      "subtema": "Cuando un procedimiento se encuentra incluido en el POS se entienden también incluidos los insumos para practicarlo"
+    },
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "EPS negó los insumos que se requerían para realizar el procedimiento de ligadura de várices esofágicas al actor y quien tuvo que pagarlos por ser urgente"
+    }
+  ]
+}

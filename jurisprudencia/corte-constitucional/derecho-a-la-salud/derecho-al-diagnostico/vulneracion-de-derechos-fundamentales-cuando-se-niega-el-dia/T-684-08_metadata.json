@@ -1,0 +1,50 @@
+{
+  "radicado": "T-684-08",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2008,
+  "fecha_creacion": "2008-07-04",
+  "magistrado_ponente": "Mauricio González Cuervo",
+  "area": "Derecho a la Salud",
+  "tema": "DERECHO AL DIAGNÓSTICO",
+  "subtema": "Vulneración de derechos fundamentales cuando se niega el diagnóstico para detectar la enfermedad del paciente con mayor precisión y así determinar el tratamiento necesario",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Decreto 1938 de 1994"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2008/T-684-08.htm",
+  "fecha_descarga": "2026-10-22T17:06:23.222141+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2008-07-04",
+  "fecha_publicacion": null,
+  "numero": "T-684/08",
+  "tipo_cc": "T",
+  "prov_id": "29840",
+  "tema_relatoria": null,
+  "resumen": "DERECHO A LA SALUD. LA PETICIONARIA PRESENTA UN QUISTE EN LA ÓRBITA DEL HUESO SUPERIOR DEL OJO IZQUIERDO, POR LO CUAL LE FUE ORDENADO UN TAC CON MEDIO DE CONTRASTE, PERO ÉSTE NO FUE AUTORIZADO POR LA EPS DEBIDO A QUE NO HACE PARTE DE LOS PROCEDIMIENTOS INCLUÍDOS EN EL POS Y TAMPOCO SE SOLICITÓ AL COMITÉ TÉCNICO CIENTÍFICO (CTC) PARA QUE LO AUTORIZARA. MANIFIESTA QUE RTIENE UN SALARIO DE $853.000 Y CON LOS DESCUENTOS DE LEY Y LOS PRÉSTAMOS QUE TIENE LE QUEDA EN $400.000 PARA CUBRIR LOS GASTOS DE ELLA Y DE SU HIJA. DECLARAR IMPROCEDENTE LA TUTELA ADUCIENDO QUE EL PROCEDIMIENTO ANTE EL CTC NO HA SIDO AGOTADO, DESCONOCE LA CONSTITUCIÓN POLÍTICA. CUANDO UN PROCEDIMIENTO, ACTIVIDAD O INTERVENCIÓN SE ENCUENTRA INCLUIDA EN EL POS, SE ENTIENDEN INCLUÍDOS TAMBIÉN LOS INSUMOS PARA PRÁCTICARLA, POR LO TANTO SE ENCUENTRAN ACREDITADAS LAS CONDICIONES EXIGIDAS PARA PROTEGER EL DERECHO DE LA ACTORA. CONCEDIDA.",
+  "titulaciones": [
+    {
+      "tema": "DERECHO AL DIAGNÓSTICO",
+      "subtema": "Vulneración de derechos fundamentales cuando se niega el diagnóstico para detectar la enfermedad del paciente con mayor precisión y así determinar el tratamiento necesario"
+    },
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Afectación cuando no se suministran medicamentos expresamente señalados en el POS y en el POS-S"
+    },
+    {
+      "tema": "COMITE TECNICO CIENTIFICO DE ENTIDAD PROMOTORA DE SALUD",
+      "subtema": "Su concepto no es requisito indispensable para la entrega de medicamentos excluidos del POS"
+    },
+    {
+      "tema": "ENTIDAD PROMOTORA DE SALUD",
+      "subtema": "Realización examen de Tomografía axial Computarizada junto con medio de contraste Gadolinio"
+    },
+    {
+      "tema": "DERECHO A LA SALUD Y A LA VIDA",
+      "subtema": "Cuando un procedimiento se encuentra incluido en el POS se entienden también incluidos los insumos para practicarlo"
+    }
+  ]
+}

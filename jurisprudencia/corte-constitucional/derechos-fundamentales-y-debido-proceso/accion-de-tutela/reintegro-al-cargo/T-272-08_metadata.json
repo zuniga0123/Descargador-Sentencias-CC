@@ -1,0 +1,53 @@
+{
+  "radicado": "T-272-08",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2008,
+  "fecha_creacion": "2008-03-11",
+  "magistrado_ponente": "Dr JAIME ARAÚJO RENTERÍA",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCIÓN DE TUTELA",
+  "subtema": "Reintegro al cargo",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2008/T-272-08.htm",
+  "fecha_descarga": "2026-10-22T17:11:20.169377+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2008-03-11",
+  "fecha_publicacion": null,
+  "numero": "T-272/08",
+  "tipo_cc": "T",
+  "prov_id": "29349",
+  "tema_relatoria": null,
+  "resumen": "DERECHO AL DEBIDO PROCESO Y ACCESO A LA ADMINSITRACION DE JUSTICIA DE SUJETO EN CUYO FAVOR SE DECIDIO UN PROCESO CONTENCIOSO ADMINISTRATIVO EN CONTRA DE LA ENTIDAD ACCIONADA, EN EL QUE SE ORDENO REINTEGRARLO. ESTA SE NEGO A DARLE CUMPLIMIENTO AL FALLO BAJO EL ARGUMENTO DE LA INEXISTENCIA DEL CARGO O DE UNO DE SUPERIOR JERARQUIA. PROCEDENCIA EXCEPCIONAL DE LA TUTELA PARA EXIGIR DE UNA ENTIDAD EL CUMPLIMIENTO DE LO ORDENADO EN UNA SENTENCIA JUDICIAL EN LOS EVENTOS EN LOS CUALES SE TRATA DE UNA OBLIGACION DE HACER RESPECTO DE LA CUAL NO EXISTAN MEDIOS JUDICIALES IDONEOS QUE ASEGUREN SU ACATAMIENTO. CONCEDIDA",
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Reintegro al cargo"
+    },
+    {
+      "tema": "ACCION DE TUTELA PARA CUMPLIMIENTO DE SENTENCIAS",
+      "subtema": "Procedencia en obligación de hacer, como es el caso de reintegro de un trabajador"
+    },
+    {
+      "tema": "REINTEGRO AL CARGO",
+      "subtema": "Orden del juez laboral"
+    },
+    {
+      "tema": "DERECHO AL CUMPLIMIENTO DE SENTENCIAS",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "REINTEGRO AL CARGO",
+      "subtema": "Obligación de reintegro aunque la empresa se encuentre en proceso de liquidación"
+    },
+    {
+      "tema": "DERECHO DE PETICIÓN",
+      "subtema": "Naturaleza, contenido y elementos"
+    }
+  ]
+}

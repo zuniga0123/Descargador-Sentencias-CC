@@ -1,0 +1,41 @@
+{
+  "radicado": "T-150-08",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2008,
+  "fecha_creacion": "2008-02-15",
+  "magistrado_ponente": "Dr MANUEL JOSÉ CEPEDA ESPINOSA",
+  "area": "Derecho a la Salud",
+  "tema": "DERECHO A LA SALUD",
+  "subtema": "Caso en que no se cumple el requisito de incapacidad económica para costearlo",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2008/T-150-08.htm",
+  "fecha_descarga": "2026-10-22T17:17:00.121671+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2008-02-15",
+  "fecha_publicacion": null,
+  "numero": "T-150/08",
+  "tipo_cc": "T",
+  "prov_id": "29200",
+  "tema_relatoria": null,
+  "resumen": "DERECHO A LA SALUD DE PERSONA QUE SOLICITO LA PRACTICA DE EXAMEN PRESCRITO POR SU MEDICO TRATANTE, EL CUAL FUE NEGADO POR LA ENTIDAD AL NO ENCONTRARSE INCLUIDO DENTRO DEL PLAN DE BENEFICIOS DEL POS. SOLICITA SE ORDENE LA AUTORIZACION Y PRACTICA DEL EXAMEN. REQUISITOS DELINEADOS POR LA JURISPRUDENCIA CONSTITUCIONAL PARA LA INAPLICACIÓN DEL RÉGIMEN DE EXCLUSIONES Y LIMITACIONES DEL POS. EN EL CASO CONCRETO NO SE ACREDITO LA INCAPACIDAD ECONOMICA PARA SUFRAGAR DE MANERA PARTICULAR EL EXAMEN REQUERIDO. NEGADA",
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Caso en que no se cumple el requisito de incapacidad económica para costearlo"
+    },
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Práctica de examen que no está contemplado en el POS"
+    },
+    {
+      "tema": "DERECHO A LA SALUD DEL MENOR",
+      "subtema": "Práctica de examen médico, así no haya sido ordenado por Médico adscrito al ISS"
+    }
+  ]
+}
