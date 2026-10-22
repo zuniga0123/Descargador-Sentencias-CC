@@ -1,0 +1,50 @@
+{
+  "radicado": "T-1160-03",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2003,
+  "fecha_creacion": "2003-12-04",
+  "magistrado_ponente": "Dr MARCO GERARDO MONROY CABRA",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "VIA DE HECHO EN PROCESO ELECTORAL",
+  "subtema": "Indebida interpretación de norma procesal",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 270 de 1996"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2003/T-1160-03.htm",
+  "fecha_descarga": "2026-10-22T23:23:11.406914+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2003-12-04",
+  "fecha_publicacion": null,
+  "numero": "T-1160/03",
+  "tipo_cc": "T",
+  "prov_id": "23015",
+  "tema_relatoria": "TUTELA CONTRA PROVIDENCIA JUDICIAL POR INTERPRETACION. DERECHO DE ACCESO A LA ADMINISTRACION DE JUSTICIA. PUBLICACION DEL EDICTO EN PROCESO ELECTORAL. ART. 233 DEL C.C.A. CONCEDIDA",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "VIA DE HECHO EN PROCESO ELECTORAL",
+      "subtema": "Indebida interpretación de norma procesal"
+    },
+    {
+      "tema": "PREVALENCIA DEL DERECHO SUSTANCIAL",
+      "subtema": null
+    },
+    {
+      "tema": "DERECHO DE ACCESO A LA ADMINISTRACIÓN DE JUSTICIA",
+      "subtema": "Vulneración por archivo de expediente"
+    },
+    {
+      "tema": "PROCESO ELECTORAL",
+      "subtema": "Término para la publicación del edicto conforme al artículo 233 numeral 4 del CCA"
+    },
+    {
+      "tema": "ACCION DE NULIDAD ELECTORAL",
+      "subtema": "Naturaleza"
+    }
+  ]
+}

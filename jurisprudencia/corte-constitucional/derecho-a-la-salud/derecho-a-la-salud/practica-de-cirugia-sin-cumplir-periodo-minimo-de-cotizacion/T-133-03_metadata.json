@@ -1,0 +1,47 @@
+{
+  "radicado": "T-133-03",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2003,
+  "fecha_creacion": "2003-02-19",
+  "magistrado_ponente": "Dr JAIME ARAUJO RENTERÍA",
+  "area": "Derecho a la Salud",
+  "tema": "DERECHO A LA SALUD",
+  "subtema": "Práctica de cirugía sin cumplir periodo mínimo de cotización",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 806 de 1998",
+    "Decreto 2591 de 1991",
+    "Ley 100 de 1993"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2003/T-133-03.htm",
+  "fecha_descarga": "2026-10-22T23:20:35.095740+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2003-02-19",
+  "fecha_publicacion": null,
+  "numero": "T-133/03",
+  "tipo_cc": "T",
+  "prov_id": "21787",
+  "tema_relatoria": "DERECHO A LA SALUD Y VIDA. SOLICITUD CIRUGIA POR HERIDA CON ARMA DE FUEGO EN LA CABEZA NO INCLUIDA EN EL POS Y PRESCRITA POR MEDICO TRATANTE. ENFERMEDAD CATASTROFICA O RUINOSA. PERIODO MINIMO DE COTIZACION. HECHO SUPERADO. CARENCIA ACTUAL DE OBJETO. CONCE",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Práctica de cirugía sin cumplir periodo mínimo de cotización"
+    },
+    {
+      "tema": "INAPLICACION DE NORMAS DEL PLAN OBLIGATORIO DE SALUD",
+      "subtema": "Casos en que procede por exclusión de tratamientos y medicamentos de alto costo"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Carencia actual de objeto"
+    },
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "No se pueden oponer periodos mínimos de cotización ante situaciones de urgencia"
+    }
+  ]
+}

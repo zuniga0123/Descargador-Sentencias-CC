@@ -1,0 +1,42 @@
+{
+  "radicado": "T-390-03",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2003,
+  "fecha_creacion": "2003-05-14",
+  "magistrado_ponente": "Dr MANUEL JOSÉ CEPEDA ESPINOSA",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCIÓN DE TUTELA",
+  "subtema": "Procedencia excepcional pago de mesadas pensionales",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 550 de 1999"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2003/T-390-03.htm",
+  "fecha_descarga": "2026-10-22T23:35:50.658730+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2003-05-14",
+  "fecha_publicacion": null,
+  "numero": "T-390/03",
+  "tipo_cc": "T",
+  "prov_id": "22105",
+  "tema_relatoria": "DERECHO AL MINIMO VITAL. PAGO OPORTUNO DE ACREENCIAS LABORALES. MESADAS PENSIÓNALES. DEFICIT PRESUPUESTAL. ACUERDO DE REESTRUCTURACION. LEY 550 DE 1999. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Procedencia excepcional pago de mesadas pensionales"
+    },
+    {
+      "tema": "DERECHO AL MINIMO VITAL DEL PENSIONADO",
+      "subtema": "Pago oportuno de mesadas"
+    },
+    {
+      "tema": "EMPLEADOR",
+      "subtema": "Situación económica o presupuestal no es óbice para desconocer pago de mesadas pensionales"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "radicado": "T-631-03",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2003,
+  "fecha_creacion": "2003-07-31",
+  "magistrado_ponente": "Dr JAIME ARAÚJO RENTERÍA",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCIÓN DE TUTELA",
+  "subtema": "Improcedencia general para cumplimiento de fallos que generen obligaciones de dar",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 663 de 1993",
+    "Decreto 2591 de 1991",
+    "Ley 50 de 1990",
+    "Ley 95 de 1890",
+    "Decreto 2418 de 1999",
+    "Ley 222 de 1995"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2003/T-631-03.htm",
+  "fecha_descarga": "2026-10-22T23:37:36.227747+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2003-07-31",
+  "fecha_publicacion": null,
+  "numero": "T-631/03",
+  "tipo_cc": "T",
+  "prov_id": "22400",
+  "tema_relatoria": "DERECHO AL DEBIDO PROCESO Y TRABAJO. PAGO DE ACREENCIAS LABORALES. CESANTIAS E INDEMNIZACION MORATORIA \"SALARIOS CAIDOS\". APLICACIÓN DE LA NORMA MAS FAVORABLE. CUMPLIMIENTO DE SENTENCIAS EJECUTORIADAS QUE GENERAN OBLIGACION DE DAR Y HACER. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Improcedencia general para cumplimiento de fallos que generen obligaciones de dar"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Cumplimiento de fallos judiciales para hacer efectivas obligaciones de hacer"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Procedencia excepcional para cumplimiento de sentencias que generen obligaciones de dar"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Improcedencia para pago de indemnización moratoria"
+    },
+    {
+      "tema": "INDEMNIZACION MORATORIA",
+      "subtema": "Actuación de la liquidadora de la Caja Agraria es coherente con las normas vigentes"
+    }
+  ]
+}

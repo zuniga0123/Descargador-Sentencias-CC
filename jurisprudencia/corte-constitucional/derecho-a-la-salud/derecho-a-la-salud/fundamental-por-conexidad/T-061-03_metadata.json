@@ -1,0 +1,53 @@
+{
+  "radicado": "T-061-03",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2003,
+  "fecha_creacion": "2003-01-30",
+  "magistrado_ponente": "Dr EDUARDO MONTEALEGRE LYNETT",
+  "area": "Derecho a la Salud",
+  "tema": "DERECHO A LA SALUD",
+  "subtema": "Fundamental por conexidad",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2003/T-061-03.htm",
+  "fecha_descarga": "2026-10-22T23:26:50.048348+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2003-01-30",
+  "fecha_publicacion": null,
+  "numero": "T-061/03",
+  "tipo_cc": "T",
+  "prov_id": "21684",
+  "tema_relatoria": "DERECHO A LA SALUD Y VIDA. SOLICITUD EXAMEN DE GARGANTA PRESCRITO POR MEDICO TRATANTE Y NO INCLUIDO EN EL POS. PRUEBA DIAGNOSTICA. FALTA CAPACIDAD ECONOMICA. ACCION DE REPETICION. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Fundamental por conexidad"
+    },
+    {
+      "tema": "PLAN OBLIGATORIO DE SALUD",
+      "subtema": "Exclusiones y limitaciones"
+    },
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Cumplimiento de órdenes médicas"
+    },
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Incorpora el derecho al diagnóstico"
+    },
+    {
+      "tema": "DERECHO A LA CONTINUIDAD EN EL SERVICIO DE SALUD",
+      "subtema": "Necesidad de realizar exámenes prescritos por médico tratante"
+    },
+    {
+      "tema": "INAPLICACION DE NORMAS DEL PLAN OBLIGATORIO DE SALUD",
+      "subtema": "Casos en que procede por exclusión de tratamientos y medicamentos de alto costo"
+    }
+  ]
+}

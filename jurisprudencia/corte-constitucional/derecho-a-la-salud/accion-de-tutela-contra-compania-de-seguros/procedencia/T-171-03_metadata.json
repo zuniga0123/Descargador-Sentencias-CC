@@ -1,0 +1,49 @@
+{
+  "radicado": "T-171-03",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2003,
+  "fecha_creacion": "2003-02-24",
+  "magistrado_ponente": "Dr RODRIGO ESCOBAR GIL",
+  "area": "Derecho a la Salud",
+  "tema": "ACCION DE TUTELA CONTRA COMPAÑIA DE SEGUROS",
+  "subtema": "Procedencia",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2003/T-171-03.htm",
+  "fecha_descarga": "2026-10-22T23:16:55.821295+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2003-02-24",
+  "fecha_publicacion": null,
+  "numero": "T-171/03",
+  "tipo_cc": "T",
+  "prov_id": "21801",
+  "tema_relatoria": "DERECHO A LA SALUD Y VIDA DE PERSONA CON OBESIDAD. SOLICITUD CIRUGIA DE BANDA GASTRICA NO INCLUIDA EN EL PLAN GLOBAL DE POLIZA DE SEGURO FAMILIAR. EXCLUSION DE TRATAMIENTOS. REEMBOLSO VALOR CORRESPONDIENTE. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCION DE TUTELA CONTRA COMPAÑIA DE SEGUROS",
+      "subtema": "Procedencia"
+    },
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Cirugía de by pass gástrico por obesidad mórbida excluida del POS"
+    },
+    {
+      "tema": "CONTRATO DE SEGUROS EN SALUD Y PRINCIPIO DE LA BUENA FE",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "CONTRATO DE ADHESION",
+      "subtema": "Exclusiones en la póliza deben ser claras y expresas"
+    },
+    {
+      "tema": "PLAN COMPLEMENTARIO DE SALUD",
+      "subtema": "Incumplimiento de la entidad con la que se contrató"
+    }
+  ]
+}

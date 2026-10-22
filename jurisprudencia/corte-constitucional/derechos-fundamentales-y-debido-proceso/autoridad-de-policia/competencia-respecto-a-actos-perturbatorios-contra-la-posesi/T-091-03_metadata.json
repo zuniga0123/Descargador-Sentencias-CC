@@ -1,0 +1,53 @@
+{
+  "radicado": "T-091-03",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2003,
+  "fecha_creacion": "2003-02-06",
+  "magistrado_ponente": "Dra CLARA INÉS VARGAS HERNÁNDEZ",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "AUTORIDAD DE POLICIA",
+  "subtema": "Competencia respecto a actos perturbatorios contra la posesión",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Decreto 1355 de 1970",
+    "Decreto 1 de 1984",
+    "Ley 57 de 1905",
+    "Decreto 992 de 1930"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2003/T-091-03.htm",
+  "fecha_descarga": "2026-10-22T23:27:37.159052+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2003-02-06",
+  "fecha_publicacion": null,
+  "numero": "T-091/03",
+  "tipo_cc": "T",
+  "prov_id": "21721",
+  "tema_relatoria": "DERECHO AL DEBIDO PROCESO Y DEFENSA EN ACTUACIONES POLICIVAS. SOLICITUD AMPARO A POSESION DE PREDIO \"GUAYEPO\" ADJUDICADO COMO PAGO DE HONORARIOS DE PROCESO LABORAL. CUMPLIMIENTO FALLO DE TUTELA. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "AUTORIDAD DE POLICIA",
+      "subtema": "Competencia respecto a actos perturbatorios contra la posesión"
+    },
+    {
+      "tema": "DERECHO DE DEFENSA",
+      "subtema": "No vulneración por improcedencia de recursos contra resolución"
+    },
+    {
+      "tema": "DEBIDO PROCESO",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "DEBIDO PROCESO POLICIVO",
+      "subtema": "Acatamiento"
+    },
+    {
+      "tema": "PROCESO POLICIVO",
+      "subtema": "Naturaleza"
+    }
+  ]
+}

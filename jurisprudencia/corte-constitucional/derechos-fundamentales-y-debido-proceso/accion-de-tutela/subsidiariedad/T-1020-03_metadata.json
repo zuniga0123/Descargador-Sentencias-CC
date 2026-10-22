@@ -1,0 +1,63 @@
+{
+  "radicado": "T-1020-03",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2003,
+  "fecha_creacion": "2003-10-30",
+  "magistrado_ponente": "Dr JAIME CÓRDOBA TRIVIÑO",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCIÓN DE TUTELA",
+  "subtema": "Subsidiariedad",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 196 de 1971",
+    "Ley 583 de 2000",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2003/T-1020-03.htm",
+  "fecha_descarga": "2026-10-22T23:29:26.504542+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2003-10-30",
+  "fecha_publicacion": null,
+  "numero": "T-1020/03",
+  "tipo_cc": "T",
+  "prov_id": "22846",
+  "tema_relatoria": "DERECHOS A LA VIDA SALUD TRABAJO Y MINIMO VITAL DE RECEPCIONISTA. PAGO DE ACREENCIAS LABORALES Y AFILIACION. PRESTACIONES SOCIALES. CONTRATO VERBAL DE PRESTACION DE SERVICIOS. DETERMINACION EXISTENCIA DE RELACION LABORAL. CARÁCTER INFORMAL DE LA TUTELA. I",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Subsidiariedad"
+    },
+    {
+      "tema": "AGENCIA OFICIOSA EN TUTELA",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Improcedencia por interponerse por estudiante de consultorio jurídico"
+    },
+    {
+      "tema": "ACCION DE TUTELA Y MANDATO JUDICIAL",
+      "subtema": "Se requiere título de abogado y poder para actuar"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Inmediatez"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Representación para interponerla cuando no se ejerce directamente"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Informalidad"
+    },
+    {
+      "tema": "ESTUDIANTE DE CONSULTORIO JURIDICO",
+      "subtema": "No puede actuar como apoderado dentro de acciones de tutela"
+    }
+  ]
+}

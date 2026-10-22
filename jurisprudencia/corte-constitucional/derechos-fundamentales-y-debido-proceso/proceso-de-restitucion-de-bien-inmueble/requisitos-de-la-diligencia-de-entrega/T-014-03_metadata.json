@@ -1,0 +1,43 @@
+{
+  "radicado": "T-014-03",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2003,
+  "fecha_creacion": "2003-01-23",
+  "magistrado_ponente": "Dr ALVARO TAFUR GALVIS",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "PROCESO DE RESTITUCION DE BIEN INMUEBLE",
+  "subtema": "Requisitos de la diligencia de entrega",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 600 de 2000",
+    "Decreto 2700 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2003/T-014-03.htm",
+  "fecha_descarga": "2026-10-22T23:25:59.205342+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2003-01-23",
+  "fecha_publicacion": null,
+  "numero": "T-014/03",
+  "tipo_cc": "T",
+  "prov_id": "21630",
+  "tema_relatoria": "DERECHO AL DEBIDO PROCESO Y DE TERCEROS POSEEDORES. VIA DE HECHO. RESTITUCION TENENCIA DE INMUEBLE. ALINDERAMIENTO Y DETERMINACION DE PREDIO EN RICAURTE. INVASION DE TIERRAS. LLAMADO A PREVENCION. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "PROCESO DE RESTITUCION DE BIEN INMUEBLE",
+      "subtema": "Requisitos de la diligencia de entrega"
+    },
+    {
+      "tema": "PROCESO DE RESTITUCION DE BIEN INMUEBLE",
+      "subtema": "Determinación del bien"
+    },
+    {
+      "tema": "VIA DE HECHO",
+      "subtema": "Entrega de inmueble desconociendo garantías del obligado y derechos de terceros"
+    }
+  ]
+}

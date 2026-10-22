@@ -1,0 +1,65 @@
+{
+  "radicado": "T-027-03",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2003,
+  "fecha_creacion": "2003-01-23",
+  "magistrado_ponente": "Dr JAIME CÓRDOBA TRIVIÑO",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "DERECHO AL MINIMO VITAL DE PERSONA DE LA TERCERA EDAD",
+  "subtema": "Pago oportuno de mesadas pensionales",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto Ley 2591 de 1991",
+    "Ley 100 de 1993",
+    "Ley 141 de 1994",
+    "Ley 144 de 1994",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2003/T-027-03.htm",
+  "fecha_descarga": "2026-10-22T23:26:21.008357+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2003-01-23",
+  "fecha_publicacion": null,
+  "numero": "T-027/03",
+  "tipo_cc": "T",
+  "prov_id": "21642",
+  "tema_relatoria": "DERECHO AL MINIMO VITAL. PAGO OPORTUNO DE ACREENCIAS LABORALES. MESADAS PENSIÓNALES. DEFICIT PRESUPUESTAL. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO AL MINIMO VITAL DE PERSONA DE LA TERCERA EDAD",
+      "subtema": "Pago oportuno de mesadas pensionales"
+    },
+    {
+      "tema": "DERECHO AL MINIMO VITAL DEL PENSIONADO",
+      "subtema": "Presunción de afectación por ausencia prolongada en pago de mesadas"
+    },
+    {
+      "tema": "DERECHO AL MINIMO VITAL",
+      "subtema": "Definición"
+    },
+    {
+      "tema": "DERECHO AL MINIMO VITAL",
+      "subtema": "Requisitos para acreditar vulneración"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Procedencia excepcional pago de mesadas pensionales"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Reanudación pago de mesadas pensionales pero no atrasadas"
+    },
+    {
+      "tema": "ENTIDAD PUBLICA",
+      "subtema": "Presupuesto para pago oportuno de pensiones"
+    },
+    {
+      "tema": "PARTIDA PRESUPUESTAL",
+      "subtema": "Pago oportuno de mesadas pensionales"
+    }
+  ]
+}

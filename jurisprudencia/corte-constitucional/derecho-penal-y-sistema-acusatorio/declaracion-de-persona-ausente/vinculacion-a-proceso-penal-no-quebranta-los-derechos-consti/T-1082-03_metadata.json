@@ -1,0 +1,54 @@
+{
+  "radicado": "T-1082-03",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2003,
+  "fecha_creacion": "2003-11-13",
+  "magistrado_ponente": "Dr MANUEL JOSE CEPEDA ESPINOSA",
+  "area": "Derecho Penal y Sistema Acusatorio",
+  "tema": "DECLARACION DE PERSONA AUSENTE",
+  "subtema": "Vinculación a proceso penal no quebranta los derechos constitucionales del incriminado",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2700 de 1991",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2003/T-1082-03.htm",
+  "fecha_descarga": "2026-10-22T23:28:35.416193+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2003-11-13",
+  "fecha_publicacion": null,
+  "numero": "T-1082/03",
+  "tipo_cc": "T",
+  "prov_id": "22922",
+  "tema_relatoria": "DERECHO AL DEBIDO PROCESO Y DEFENSA TECNICA DE RECLUSO. VIA DE HECHO. SENTENCIA CONDENATORIA POR DELITO DE HOMICIDIO. DECLARACION DE PERSONA AUSENTE. PRIVACION DE LA LIBERTAD. DEBER DE INFORMACION DE AUTORIDAD. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DECLARACION DE PERSONA AUSENTE",
+      "subtema": "Vinculación a proceso penal no quebranta los derechos constitucionales del incriminado"
+    },
+    {
+      "tema": "VIA DE HECHO POR FALTA DE NOTIFICACION",
+      "subtema": "Juzgamiento como reo ausente"
+    },
+    {
+      "tema": "DERECHO DE DEFENSA DEL REO AUSENTE",
+      "subtema": null
+    },
+    {
+      "tema": "DERECHO DE DEFENSA EN PROCESO PENAL",
+      "subtema": "Circulación de información sobre personas privadas de la libertad en el curso de otro proceso penal"
+    },
+    {
+      "tema": "DEBIDO PROCESO",
+      "subtema": "Razonable esfuerzo del juez por ubicar el paradero de un procesado"
+    },
+    {
+      "tema": "VIA DE HECHO",
+      "subtema": "Inexistencia en juzgamiento como reo ausente"
+    }
+  ]
+}

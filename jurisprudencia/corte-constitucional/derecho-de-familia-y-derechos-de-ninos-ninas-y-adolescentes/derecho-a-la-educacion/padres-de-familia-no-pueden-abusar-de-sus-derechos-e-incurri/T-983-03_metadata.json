@@ -1,0 +1,50 @@
+{
+  "radicado": "T-983-03",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2003,
+  "fecha_creacion": "2003-10-23",
+  "magistrado_ponente": "Dr JAIME CÓRDOBA TRIVIÑO",
+  "area": "Derecho de Familia y Derechos de Niños, Niñas y Adolescentes",
+  "tema": "DERECHO A LA EDUCACIÓN",
+  "subtema": "Padres de familia no pueden abusar de sus derechos e incurrir en cultura del no pago",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 115 de 1994"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2003/T-983-03.htm",
+  "fecha_descarga": "2026-10-22T23:30:14.219885+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2003-10-23",
+  "fecha_publicacion": null,
+  "numero": "T-983/03",
+  "tipo_cc": "T",
+  "prov_id": "22803",
+  "tema_relatoria": "DERECHO A LA EDUCACION DE MENOR DE EDAD. SOLICITUD CERTIFICADOS DE ESTUDIOS. MORA EN PAGO DE PENSIONES. DERECHO-DEBER. FALTA CAPACIDAD ECONOMICA. LLAMADO A PREVENCION. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA EDUCACIÓN",
+      "subtema": "Padres de familia no pueden abusar de sus derechos e incurrir en cultura del no pago"
+    },
+    {
+      "tema": "DERECHO A LA EDUCACIÓN",
+      "subtema": "Falta de pago en pensiones por enfermedad del padre en incapacidad económica"
+    },
+    {
+      "tema": "DERECHO A LA EDUCACIÓN",
+      "subtema": "Prohibición retención de notas o certificados por no pago de pensión"
+    },
+    {
+      "tema": "DERECHO A LA EDUCACIÓN",
+      "subtema": "Protección no significa exonerar a los padres de su obligación económica"
+    },
+    {
+      "tema": "EDUCACIÓN",
+      "subtema": "Derecho-deber"
+    }
+  ]
+}

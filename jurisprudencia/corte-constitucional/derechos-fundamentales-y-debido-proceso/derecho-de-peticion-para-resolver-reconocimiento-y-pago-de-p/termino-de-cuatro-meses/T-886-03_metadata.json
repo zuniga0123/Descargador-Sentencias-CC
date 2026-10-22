@@ -1,0 +1,50 @@
+{
+  "radicado": "T-886-03",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2003,
+  "fecha_creacion": "2003-10-02",
+  "magistrado_ponente": "Dr MANUEL JOSÉ CEPEDA ESPINOSA",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "DERECHO DE PETICION PARA RESOLVER RECONOCIMIENTO Y PAGO DE PENSIONES",
+  "subtema": "Término de cuatro meses",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 700 de 2001"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2003/T-886-03.htm",
+  "fecha_descarga": "2026-10-22T23:40:16.911441+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2003-10-02",
+  "fecha_publicacion": null,
+  "numero": "T-886/03",
+  "tipo_cc": "T",
+  "prov_id": "22688",
+  "tema_relatoria": "DERECHO DE PETICION. SOLICITUD PENSION DE JUBILACION. TERMINO PARA RESPONDER. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO DE PETICION PARA RESOLVER RECONOCIMIENTO Y PAGO DE PENSIONES",
+      "subtema": "Término de cuatro meses"
+    },
+    {
+      "tema": "DERECHO DE PETICION PARA RELIQUIDACION DE PENSIONES",
+      "subtema": "Aplicación término definitivo de quince días"
+    },
+    {
+      "tema": "DERECHO DE PETICIÓN",
+      "subtema": "No constituye respuesta información suministrada al juez de tutela"
+    },
+    {
+      "tema": "DERECHO DE PETICIÓN",
+      "subtema": "Vulneración de término de quince días y de cuatro meses para responder"
+    },
+    {
+      "tema": "DERECHO DE PETICIÓN",
+      "subtema": "Respuesta oportuna y efectiva"
+    }
+  ]
+}

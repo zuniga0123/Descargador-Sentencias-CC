@@ -1,0 +1,47 @@
+{
+  "radicado": "T-344-03",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2003,
+  "fecha_creacion": "2003-04-30",
+  "magistrado_ponente": "Dra CLARA INÉS VARGAS HERNÁNDEZ",
+  "area": "Derecho Administrativo y Función Pública",
+  "tema": "PRINCIPIO DE LA BUENA FE",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2461 de 1999",
+    "Ley 443 de 1998",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2003/T-344-03.htm",
+  "fecha_descarga": "2026-10-22T23:34:41.468884+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2003-04-30",
+  "fecha_publicacion": null,
+  "numero": "T-344/03",
+  "tipo_cc": "T",
+  "prov_id": "22045",
+  "tema_relatoria": "DERECHO AL DEBIDO PROCESO E IGUALDAD. NOMBRAMIENTO EN PERIODO DE PRUEBA. CONCURSO PARA VACANTES DE ENTIDADES DEL ESTADO. LISTA DE ELEGIBLES. TRASLADO HORIZONTAL. BUENA FE. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "PRINCIPIO DE LA BUENA FE",
+      "subtema": null
+    },
+    {
+      "tema": "ACCION DE NULIDAD Y RESTABLECIMIENTO DEL DERECHO",
+      "subtema": "Falta de aptitud suficiente para proteger derechos de quien participó en concurso"
+    },
+    {
+      "tema": "CONCURSO DE MERITOS",
+      "subtema": "Orden por sentencia para conformar lista de elegibles y nombramiento de persona que concursó para el cargo"
+    },
+    {
+      "tema": "CONCURSO EN TELECOM",
+      "subtema": "Respeto a las reglas que se han fijado"
+    }
+  ]
+}

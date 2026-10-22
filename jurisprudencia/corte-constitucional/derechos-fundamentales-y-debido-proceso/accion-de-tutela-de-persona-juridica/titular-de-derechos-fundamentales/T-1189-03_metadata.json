@@ -1,0 +1,53 @@
+{
+  "radicado": "T-1189-03",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2003,
+  "fecha_creacion": "2003-12-04",
+  "magistrado_ponente": "Dr EDUARDO MONTEALEGRE LYNETT",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCION DE TUTELA DE PERSONA JURIDICA",
+  "subtema": "Titular de derechos fundamentales",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2003/T-1189-03.htm",
+  "fecha_descarga": "2026-10-22T23:22:46.086440+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2003-12-04",
+  "fecha_publicacion": null,
+  "numero": "T-1189/03",
+  "tipo_cc": "T",
+  "prov_id": "23043",
+  "tema_relatoria": "DERECHO A LA VIDA Y SALUD DE PACIENTES DEL HOSPITAL SAN MARCOS DE CHINCHINA. SOLICITUD CESE PERTURBACION A PACIENTES POR PARTE DE ORGANIZACION SINDICAL. LIMITES AL DERECHO ASOCIACION SINDICAL. CARENCIA ACTUAL DE OBJETO. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCION DE TUTELA DE PERSONA JURIDICA",
+      "subtema": "Titular de derechos fundamentales"
+    },
+    {
+      "tema": "DERECHOS FUNDAMENTALES DE LAS PERSONAS HOSPITALIZADAS",
+      "subtema": "Protección especial"
+    },
+    {
+      "tema": "DERECHO DE ASOCIACION SINDICAL Y DERECHO DE LAS PERSONAS HOSPITALIZADAS",
+      "subtema": "Conflicto"
+    },
+    {
+      "tema": "DERECHO A LA SEGURIDAD SOCIAL",
+      "subtema": "Protección especial de las personas hospitalizadas"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Procedencia frente a personas determinadas o determinables"
+    },
+    {
+      "tema": "DERECHO DE ASOCIACIÓN SINDICAL",
+      "subtema": "Límites"
+    }
+  ]
+}

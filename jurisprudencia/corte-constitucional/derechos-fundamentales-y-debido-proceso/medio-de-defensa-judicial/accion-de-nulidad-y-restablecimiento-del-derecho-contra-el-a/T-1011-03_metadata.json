@@ -1,0 +1,49 @@
+{
+  "radicado": "T-1011-03",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2003,
+  "fecha_creacion": "2003-10-29",
+  "magistrado_ponente": "Dr EDUARDO MONTEALEGRE LYNETT",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "MEDIO DE DEFENSA JUDICIAL",
+  "subtema": "Acción de nulidad y restablecimiento del derecho contra el acto que ordenó removerlo del cargo",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2003/T-1011-03.htm",
+  "fecha_descarga": "2026-10-22T23:27:48.106535+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2003-10-29",
+  "fecha_publicacion": null,
+  "numero": "T-1011/03",
+  "tipo_cc": "T",
+  "prov_id": "22837",
+  "tema_relatoria": "DERECHOS AL DEBIDO PROCESO TRABAJO IGUALDAD MINIMO VITAL Y ACCESO A CARGOS PUBLICOS. DECLARACION DE INSUBSISTENCIA DE NOMBRAMIENTO EN PROVISIONALIDAD. FUERO DE ESTABILIDAD LABORAL. PERJUICIO IRREMEDIABLE. ELEMENTOS. TUTELA CONTRA ACTOS ADMINISTRATIVOS. NE",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "MEDIO DE DEFENSA JUDICIAL",
+      "subtema": "Acción de nulidad y restablecimiento del derecho contra el acto que ordenó removerlo del cargo"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Improcedencia por no existir perjuicio irremediable"
+    },
+    {
+      "tema": "NOMBRAMIENTO EN PROVISIONALIDAD",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "EMPLEADOS DE CARRERA",
+      "subtema": "Gozan del fuero de estabilidad"
+    },
+    {
+      "tema": "EMPLEADO EN PROVISIONALIDAD",
+      "subtema": "Remoción de sus cargos dentro de ciertos límites"
+    }
+  ]
+}

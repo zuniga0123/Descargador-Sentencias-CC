@@ -1,0 +1,45 @@
+{
+  "radicado": "T-134-03",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2003,
+  "fecha_creacion": "2003-02-20",
+  "magistrado_ponente": "Dr EDUARDO MONTEALEGRE LYNETT",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "SERVICIO PUBLICO DE ENERGIA",
+  "subtema": "Prestación ininterrumpida a bienes constitucionalmente protegidos",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2003/T-134-03.htm",
+  "fecha_descarga": "2026-10-22T23:20:42.305876+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2003-02-20",
+  "fecha_publicacion": null,
+  "numero": "T-134/03",
+  "tipo_cc": "T",
+  "prov_id": "21788",
+  "tema_relatoria": "DERECHOS A LA VIDA DIGNIDAD SALUD Y EDUCACION. LIMITACION SUMINISTRO SERVICIO DE ENERGIA. CARENCIA ACTUAL DE OBJETO. HECHO SUPERADO. RATIO DECIDENDI. LLAMADO A PREVENCION. ISA CREG. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "SERVICIO PUBLICO DE ENERGIA",
+      "subtema": "Prestación ininterrumpida a bienes constitucionalmente protegidos"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Hecho superado por suspensión de la limitación al suministro de energía"
+    },
+    {
+      "tema": "EMPRESA COMERCIALIZADORA DE ENERGIA",
+      "subtema": "Mora en el pago"
+    },
+    {
+      "tema": "SERVICIO DE ENERGIA",
+      "subtema": "Limitación del suministro a comercializadores y/o distribuidores morosos"
+    }
+  ]
+}

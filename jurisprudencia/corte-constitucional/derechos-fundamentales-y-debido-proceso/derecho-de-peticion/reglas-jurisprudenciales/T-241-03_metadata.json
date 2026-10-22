@@ -1,0 +1,45 @@
+{
+  "radicado": "T-241-03",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2003,
+  "fecha_creacion": "2003-03-20",
+  "magistrado_ponente": "Dr ALFREDO BELTRÁN SIERRA",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "DERECHO DE PETICIÓN",
+  "subtema": "Reglas jurisprudenciales",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2003/T-241-03.htm",
+  "fecha_descarga": "2026-10-22T23:17:28.274529+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2003-03-20",
+  "fecha_publicacion": null,
+  "numero": "T-241/03",
+  "tipo_cc": "T",
+  "prov_id": "21916",
+  "tema_relatoria": "DERECHO DE PETICION. SOLICITUD RECONOCIMIENTO PENSION DE VEJEZ. RESPUESTA CLARA Y DE FONDO. CUMPLIMIENTO DE ORDEN JUDICIAL. PRESUNCION DE VERACIDAD. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO DE PETICIÓN",
+      "subtema": "Reglas jurisprudenciales"
+    },
+    {
+      "tema": "DERECHO DE PETICIÓN",
+      "subtema": "Término para resolver"
+    },
+    {
+      "tema": "DERECHO DE PETICIÓN",
+      "subtema": "Término para resolverse cuando lo que se solicita es el cumplimiento de una sentencia"
+    },
+    {
+      "tema": "DERECHO DE PETICION ANTE EL SEGURO SOCIAL",
+      "subtema": "Procedencia para información sobre cumplimiento de una sentencia"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "radicado": "T-883-03",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2003,
+  "fecha_creacion": "2003-10-02",
+  "magistrado_ponente": "Dr JAIME CÓRDOBA TRIVIÑO",
+  "area": "Derecho a la Salud",
+  "tema": "DERECHO AL MINIMO VITAL",
+  "subtema": "Falta de recursos económicos de la peticionaria para solventar el costo de sus medicamentos",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Decreto 806 de 1998"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2003/T-883-03.htm",
+  "fecha_descarga": "2026-10-22T23:40:05.918011+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2003-10-02",
+  "fecha_publicacion": null,
+  "numero": "T-883/03",
+  "tipo_cc": "T",
+  "prov_id": "22685",
+  "tema_relatoria": "DERECHOS A LA SALUD VIDA E INTEGRIDAD PERSONAL. SUMINISTRO DE MEDICAMENTOS EXCLUIDOS DEL POS. REPETICION CONTRA EL FOSYGA. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO AL MINIMO VITAL",
+      "subtema": "Falta de recursos económicos de la peticionaria para solventar el costo de sus medicamentos"
+    },
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Medicamento del POS no suple al excluido"
+    },
+    {
+      "tema": "DERECHO A LA VIDA",
+      "subtema": "Vulneración por no suministro de medicamentos para grave afección cardiaca"
+    },
+    {
+      "tema": "PLAN OBLIGATORIO DE SALUD",
+      "subtema": "Definición"
+    },
+    {
+      "tema": "INAPLICACION DE NORMAS DEL PLAN OBLIGATORIO DE SALUD",
+      "subtema": "Condiciones en que procede por exclusión de medicamentos"
+    }
+  ]
+}

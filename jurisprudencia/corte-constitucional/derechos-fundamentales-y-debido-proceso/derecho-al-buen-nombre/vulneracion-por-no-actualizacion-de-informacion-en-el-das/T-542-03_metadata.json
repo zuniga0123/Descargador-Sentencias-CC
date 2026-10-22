@@ -1,0 +1,67 @@
+{
+  "radicado": "T-542-03",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2003,
+  "fecha_creacion": "2003-07-09",
+  "magistrado_ponente": "Dr MARCO GERARDO MONROY CABRA",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "DERECHO AL BUEN NOMBRE",
+  "subtema": "Vulneración por no actualización de información en el DAS",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2398 de 1986",
+    "Decreto 2700 de 1991",
+    "Ley 600 de 2000"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2003/T-542-03.htm",
+  "fecha_descarga": "2026-10-22T23:35:03.170468+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2003-07-09",
+  "fecha_publicacion": null,
+  "numero": "T-542/03",
+  "tipo_cc": "T",
+  "prov_id": "22288",
+  "tema_relatoria": "DERECHO DE PETICION Y HABEAS DATA. SOLICITUD EXPEDICION CERTIFICADO JUDICIAL. REGISTRO MEDIDA DE ASEGURAMIENTO ANTES DE PROFERIR SENTENCIA JUDICIAL. INFORME SOBRE INVESTIGACION ADELANTADA POR EL DELITO DE EXTORSION. ACTUALIZACION DE DATOS. RESEÑA DELICTIV",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO AL BUEN NOMBRE",
+      "subtema": "Vulneración por no actualización de información en el DAS"
+    },
+    {
+      "tema": "CADUCIDAD DEL DATO",
+      "subtema": "Límite temporal"
+    },
+    {
+      "tema": "ORDEN DE CAPTURA Y HABEAS DATA",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "CERTIFICADO JUDICIAL",
+      "subtema": "Finalidad"
+    },
+    {
+      "tema": "DERECHO DE PETICIÓN",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "CERTIFICADO JUDICIAL",
+      "subtema": "Expedición"
+    },
+    {
+      "tema": "HABEAS DATA",
+      "subtema": "Permanencia de dato errado en el DAS"
+    },
+    {
+      "tema": "DERECHO DE PETICIÓN",
+      "subtema": "Núcleo esencial"
+    },
+    {
+      "tema": "DERECHO AL HABEAS DATA",
+      "subtema": "Alcance y contenido"
+    }
+  ]
+}

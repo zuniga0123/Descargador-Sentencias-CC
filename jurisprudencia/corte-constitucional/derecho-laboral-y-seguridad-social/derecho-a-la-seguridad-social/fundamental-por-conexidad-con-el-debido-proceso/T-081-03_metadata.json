@@ -1,0 +1,53 @@
+{
+  "radicado": "T-081-03",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2003,
+  "fecha_creacion": "2003-02-06",
+  "magistrado_ponente": "Dr MARCO GERARDO MONROY CABRA",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "DERECHO A LA SEGURIDAD SOCIAL",
+  "subtema": "Fundamental por conexidad con el debido proceso",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 33 de 1973",
+    "Ley 171 de 1961",
+    "Decreto 435 de 1971",
+    "Ley 10 de 1972",
+    "Ley 100 de 1993",
+    "Ley 90 de 1946",
+    "Decreto 3041 de 1966",
+    "Decreto 433 de 1971",
+    "Ley 3 de 1973",
+    "Ley 12 de 1975",
+    "Ley 44 de 1980",
+    "Ley 113 de 1985",
+    "Ley 71 de 1988"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2003/T-081-03.htm",
+  "fecha_descarga": "2026-10-22T23:27:11.758249+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2003-02-06",
+  "fecha_publicacion": null,
+  "numero": "T-081/03",
+  "tipo_cc": "T",
+  "prov_id": "21711",
+  "tema_relatoria": "DERECHO A LA SEGURIDAD SOCIAL Y DEBIDO PROCESO. VIA DE HECHO. SOLICITUD PENSION DE SOBREVIVIENTES A FAVOR DE CONYUGE SOBREVIVIENTE. CUMPLIMIENTO DE REQUISITOS. PERIODO MINIMO DE COTIZACION. DIFERENCIACION CLASES DE INDEMNIZACION SUSTITUTIVA. LEY 100 DE 19",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA SEGURIDAD SOCIAL",
+      "subtema": "Fundamental por conexidad con el debido proceso"
+    },
+    {
+      "tema": "PENSIÓN DE SOBREVIVIENTES",
+      "subtema": "No se requiere que el afiliado haya cumplido sesenta años"
+    },
+    {
+      "tema": "ENTIDAD ADMINISTRADORA DE PENSIONES",
+      "subtema": "No puede cambiar pensión por indemnización sustitutiva"
+    }
+  ]
+}

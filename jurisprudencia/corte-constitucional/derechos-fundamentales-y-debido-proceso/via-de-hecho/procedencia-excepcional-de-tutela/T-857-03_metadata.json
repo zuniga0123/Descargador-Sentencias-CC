@@ -1,0 +1,65 @@
+{
+  "radicado": "T-857-03",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2003,
+  "fecha_creacion": "2003-09-25",
+  "magistrado_ponente": "Dr JAIME CÓRDOBA TRIVIÑO",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "VIA DE HECHO",
+  "subtema": "Procedencia excepcional de tutela",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 407 de 1994",
+    "Ley 584 de 2000",
+    "Decreto 2591 de 1991",
+    "Ley 50 de 1990",
+    "Decreto 1572 de 1998"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2003/T-857-03.htm",
+  "fecha_descarga": "2026-10-22T23:25:37.307012+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2003-09-25",
+  "fecha_publicacion": null,
+  "numero": "T-857/03",
+  "tipo_cc": "T",
+  "prov_id": "22656",
+  "tema_relatoria": "DERECHO AL DEBIDO PROCESO Y ASOCIACION SINDICAL DE DRAGONEANTE. VIA DE HECHO. RETIRO DEL SERVICIO DE EMPLEADO DE CARRERA CON FUERO SINDICAL PREVIA AUTORIZACION JUDICIAL. ACCION DE REINTEGRO. PRESCRIPCION. CESE PARCIAL DE ACTIVIDADES EN TODO EL PAIS. TUTEL",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "VIA DE HECHO",
+      "subtema": "Procedencia excepcional de tutela"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Procedencia excepcional"
+    },
+    {
+      "tema": "DERECHO DE DEFENSA DEL TRABAJADOR",
+      "subtema": "Garantías en el procedimiento para retirar del cargo a empleado del Inpec"
+    },
+    {
+      "tema": "DEBIDO PROCESO Y DERECHO DE DEFENSA",
+      "subtema": "Procedimiento y condiciones para retirar a trabajador con fuero del Inpec"
+    },
+    {
+      "tema": "DEBIDO PROCESO",
+      "subtema": "Despido de trabajador con fuero del Inpec por participación en cese ilegal de actividades"
+    },
+    {
+      "tema": "VIA DE HECHO",
+      "subtema": "Defecto sustantivo por falta de consideración de prueba que determine retiro del trabajador"
+    },
+    {
+      "tema": "VIA DE HECHO",
+      "subtema": "Clases de defectos en la actuación"
+    },
+    {
+      "tema": "TRABAJADOR SINDICALIZADO",
+      "subtema": "Despido sin calificación judicial por participar en cese ilegal de actividades"
+    }
+  ]
+}

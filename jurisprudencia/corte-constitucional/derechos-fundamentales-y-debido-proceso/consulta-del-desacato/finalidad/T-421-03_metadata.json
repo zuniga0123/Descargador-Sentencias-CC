@@ -1,0 +1,49 @@
+{
+  "radicado": "T-421-03",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2003,
+  "fecha_creacion": "2003-05-23",
+  "magistrado_ponente": "Dr MARCO GERARDO MONROY CABRA",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "CONSULTA DEL DESACATO",
+  "subtema": "Finalidad",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2003/T-421-03.htm",
+  "fecha_descarga": "2026-10-22T23:36:30.937266+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2003-05-23",
+  "fecha_publicacion": null,
+  "numero": "T-421/03",
+  "tipo_cc": "T",
+  "prov_id": "22147",
+  "tema_relatoria": "DERECHO AL DEBIDO PROCESO. VIA DE HECHO. SOLICITUD RELIQUIDACION Y PAGO DE ACREENCIAS LABORALES. PRESTACIONES SOCIALES. LEGITIMACION POR ACTIVA. TRAMITE INCIDENTAL DE DESACATO. GRADO DE CONSULTA. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "CONSULTA DEL DESACATO",
+      "subtema": "Finalidad"
+    },
+    {
+      "tema": "CONSULTA",
+      "subtema": "Finalidad"
+    },
+    {
+      "tema": "INCIDENTE DE DESACATO",
+      "subtema": "Finalidad"
+    },
+    {
+      "tema": "LEGITIMACIÓN POR ACTIVA EN TUTELA",
+      "subtema": "Incidente de desacato"
+    },
+    {
+      "tema": "JUEZ DE PRIMERA INSTANCIA",
+      "subtema": "Competencia para conocer incidente de desacato"
+    }
+  ]
+}

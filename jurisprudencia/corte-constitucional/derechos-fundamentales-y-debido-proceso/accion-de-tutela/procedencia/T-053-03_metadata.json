@@ -1,0 +1,43 @@
+{
+  "radicado": "T-053-03",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2003,
+  "fecha_creacion": "2003-01-30",
+  "magistrado_ponente": "Dr JAIME ARAUJO RENTERIA",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCIÓN DE TUTELA",
+  "subtema": "Procedencia",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 4 de 1992",
+    "Decreto 2591 de 1991",
+    "Ley 700 de 2001"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2003/T-053-03.htm",
+  "fecha_descarga": "2026-10-22T23:26:38.994886+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2003-01-30",
+  "fecha_publicacion": null,
+  "numero": "T-053/03",
+  "tipo_cc": "T",
+  "prov_id": "21679",
+  "tema_relatoria": "DERECHO DE PETICION. SOLICITUD REAJUSTE MESADAS PENSIÓNALES. RESPUESTA DE FONDO. SUSPENSION DE TERMINOS. IDENTIDAD DE MATERIA Y SUJETOS. VIOLACION INCIERTA E HIPOTETICA. LEY 700 DE 2001. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Procedencia"
+    },
+    {
+      "tema": "PENSION DE JUBILACION DE EXMAGISTRADO",
+      "subtema": "Improcedencia de tutela contra acto inexistente"
+    },
+    {
+      "tema": "DERECHO DE PETICIÓN",
+      "subtema": "Resolución de fondo sobre reajuste de pensión"
+    }
+  ]
+}

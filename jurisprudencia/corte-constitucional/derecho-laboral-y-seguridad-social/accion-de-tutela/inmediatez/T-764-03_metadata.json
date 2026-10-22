@@ -1,0 +1,42 @@
+{
+  "radicado": "T-764-03",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2003,
+  "fecha_creacion": "2003-09-03",
+  "magistrado_ponente": "Dr RODRIGO ESCOBAR GIL",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "ACCIÓN DE TUTELA",
+  "subtema": "Inmediatez",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 21 de 1982"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2003/T-764-03.htm",
+  "fecha_descarga": "2026-10-22T23:23:37.279328+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2003-09-03",
+  "fecha_publicacion": null,
+  "numero": "T-764/03",
+  "tipo_cc": "T",
+  "prov_id": "22550",
+  "tema_relatoria": "DERECHO A LA SEGURIDAD SOCIAL DE MENORES Y PERSONAS DE LA TERCERA EDAD. SOLICITUD PAGO SUBSIDIO FAMILIAR. OPORTUNIDAD DE LA TUTELA. CAFASUR. CONCEDIDA PARCIAL.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Inmediatez"
+    },
+    {
+      "tema": "DERECHO AL SUBSIDIO FAMILIAR DEL NIÑO",
+      "subtema": "Procedencia por tutela"
+    },
+    {
+      "tema": "SUBSIDIO FAMILIAR",
+      "subtema": "Pago sólo de algunos meses"
+    }
+  ]
+}

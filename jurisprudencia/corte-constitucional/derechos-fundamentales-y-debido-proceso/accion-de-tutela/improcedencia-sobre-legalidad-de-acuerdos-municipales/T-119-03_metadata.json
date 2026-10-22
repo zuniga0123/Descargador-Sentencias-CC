@@ -1,0 +1,53 @@
+{
+  "radicado": "T-119-03",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2003,
+  "fecha_creacion": "2003-02-13",
+  "magistrado_ponente": "Dr EDUARDO MONTEALEGRE LYNETT",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCIÓN DE TUTELA",
+  "subtema": "Improcedencia sobre legalidad de acuerdos municipales",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 617 de 2000",
+    "Ley 136 de 1994",
+    "Decreto 2591 de 1991",
+    "Decreto 1333 de 1986",
+    "Ley 11 de 1986"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2003/T-119-03.htm",
+  "fecha_descarga": "2026-10-22T23:22:49.694293+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2003-02-13",
+  "fecha_publicacion": null,
+  "numero": "T-119/03",
+  "tipo_cc": "T",
+  "prov_id": "21769",
+  "tema_relatoria": "DERECHO AL DEBIDO PROCESO. VIA DE HECHO. EQUIVALENCIA DE INGRESOS ENTRE ALCALDE Y PERSONERO. ACUERDOS MUNICIPALES. ACTOS DE CARÁCTER GENERAL. FACULTADES EXTRAORDINARIAS. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Improcedencia sobre legalidad de acuerdos municipales"
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA ACTOS DE CARACTER GENERAL, IMPERSONAL Y ABSTRACTO",
+      "subtema": "Improcedencia"
+    },
+    {
+      "tema": "ACUERDO MUNICIPAL Y ACTOS DE ALCALDE",
+      "subtema": "Control"
+    },
+    {
+      "tema": "DEBIDO PROCESO",
+      "subtema": "Vulneración respecto de sujetos procesales"
+    },
+    {
+      "tema": "JURISDICCION CONTENCIOSO ADMINISTRATIVA",
+      "subtema": "Cuestionamiento sobre legalidad de acuerdos municipales"
+    }
+  ]
+}

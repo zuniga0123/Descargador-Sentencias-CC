@@ -1,0 +1,53 @@
+{
+  "radicado": "T-338-03",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2003,
+  "fecha_creacion": "2003-04-30",
+  "magistrado_ponente": "Dr ALVARO TAFUR GALVIS",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCION DE TUTELA TEMERARIA",
+  "subtema": "Inexistencia por reclamar prestaciones de periodos distintos",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 10 de 1990",
+    "Ley 60 de 1993",
+    "Decreto 2164 de 1991",
+    "Decreto Ley 3135 de 1968",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2003/T-338-03.htm",
+  "fecha_descarga": "2026-10-22T23:34:26.775729+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2003-04-30",
+  "fecha_publicacion": null,
+  "numero": "T-338/03",
+  "tipo_cc": "T",
+  "prov_id": "22039",
+  "tema_relatoria": "DERECHOS A LA IGUALDAD TRABAJO Y DEBIDO PROCESO DE MEDICO GENERAL. PAGO DE ACREENCIAS LABORALES. PRIMA TECNICA Y BONIFICACIONES. TRANSFERENCIA DE BIENES Y FUNCIONARIOS. CONDUCTA TEMERARIA. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCION DE TUTELA TEMERARIA",
+      "subtema": "Inexistencia por reclamar prestaciones de periodos distintos"
+    },
+    {
+      "tema": "DERECHO A LA IGUALDAD",
+      "subtema": "Trato diferenciado"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Improcedencia general para reclamar pago de acreencias laborales"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Improcedencia por no vulneración derechos fundamentales"
+    },
+    {
+      "tema": "DERECHO A LA IGUALDAD",
+      "subtema": "Demostración criterio de comparación"
+    }
+  ]
+}

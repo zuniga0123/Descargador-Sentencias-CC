@@ -1,0 +1,41 @@
+{
+  "radicado": "T-112-03",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2003,
+  "fecha_creacion": "2003-02-13",
+  "magistrado_ponente": "Dr MARCO GERARDO MONROY CABRA",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "DERECHO DE DEFENSA",
+  "subtema": "Improcedencia de tutela para subsanar inactividad en proceso ejecutivo",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 546 de 1999"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2003/T-112-03.htm",
+  "fecha_descarga": "2026-10-22T23:29:11.944013+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2003-02-13",
+  "fecha_publicacion": null,
+  "numero": "T-112/03",
+  "tipo_cc": "T",
+  "prov_id": "21762",
+  "tema_relatoria": "DERECHO AL DEBIDO PROCESO Y VIVIENDA. SOLICITUD RELIQUIDACION DE CREDITO Y SUSPENSION PROCESO EJECUTIVO. AJUSTE DE UPAC A UVR. NEGLIGENCIA DEL ACTOR. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO DE DEFENSA",
+      "subtema": "Improcedencia de tutela para subsanar inactividad en proceso ejecutivo"
+    },
+    {
+      "tema": "JUEZ ORDINARIO",
+      "subtema": "Competencia para garantizar derechos a usuarios del sistema UPAC"
+    },
+    {
+      "tema": "UPAC",
+      "subtema": "Reliquidación de créditos"
+    }
+  ]
+}

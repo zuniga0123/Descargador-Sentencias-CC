@@ -1,0 +1,78 @@
+{
+  "radicado": "T-1031-03",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2003,
+  "fecha_creacion": "2003-10-30",
+  "magistrado_ponente": "Dr EDUARDO MONTEALEGRE LYNETT",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCION DE TUTELA Y SUSPENSION PROVISIONAL DE ACTO ADMINISTRATIVO",
+  "subtema": "Alcance de la compatibilidad",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 42 de 1993",
+    "Ley 610 de 2000",
+    "Ley 489 de 1998",
+    "Decreto 2591 de 1991",
+    "Ley 190 de 1995",
+    "Ley 162 de 1999"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2003/T-1031-03.htm",
+  "fecha_descarga": "2026-10-22T23:29:37.375011+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2003-10-30",
+  "fecha_publicacion": null,
+  "numero": "T-1031/03",
+  "tipo_cc": "T",
+  "prov_id": "22856",
+  "tema_relatoria": "DERECHOS AL DEBIDO PROCESO BUEN NOMBRE Y TRABAJO. INCLUSION EN BOLETIN DE RESPONSABLES FISCALES. CONTRATO DE UNION TEMPORAL. CONVENIO DE CONTRATACION CON LA ADMINISTRACION PUBLICA. ACCION DE NULIDAD Y RESTABLECIMIENTO DEL DERECHO. VIVIENDA DE INTERES SOCI",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCION DE TUTELA Y SUSPENSION PROVISIONAL DE ACTO ADMINISTRATIVO",
+      "subtema": "Alcance de la compatibilidad"
+    },
+    {
+      "tema": "ACCION DE TUTELA TRANSITORIA",
+      "subtema": "Existencia de perjuicio irremediable"
+    },
+    {
+      "tema": "ACCION DE TUTELA Y ACCION CONTENCIOSO ADMINISTRATIVA",
+      "subtema": "Alcance de la compatibilidad"
+    },
+    {
+      "tema": "FALLO DE RESPONSABILIDAD FISCAL",
+      "subtema": "Trae como consecuencia la inclusión obligatoria en el boletín de responsabilidad fiscal"
+    },
+    {
+      "tema": "DEBIDO PROCESO",
+      "subtema": "Debe respetarse en el trámite de los juicios de responsabilidad fiscal"
+    },
+    {
+      "tema": "ACCION DE TUTELA TRANSITORIA",
+      "subtema": "Inexistencia de perjuicio irremediable"
+    },
+    {
+      "tema": "ACCION DE NULIDAD Y RESTABLECIMIENTO DEL DERECHO",
+      "subtema": "Suspensión de actos administrativos"
+    },
+    {
+      "tema": "CONTRALORIA GENERAL DE LA REPUBLICA",
+      "subtema": "Potestad para investigar y sancionar a los responsables en juicios fiscales"
+    },
+    {
+      "tema": "CONFORMACION DE BASES DE DATOS",
+      "subtema": "Legitimidad"
+    },
+    {
+      "tema": "DERECHOS FUNDAMENTALES",
+      "subtema": "No se vulneran por incluirse a la persona en el boletín de responsabilidad fiscal"
+    },
+    {
+      "tema": "PERJUICIO IRREMEDIABLE",
+      "subtema": "Elementos para que se configure"
+    }
+  ]
+}

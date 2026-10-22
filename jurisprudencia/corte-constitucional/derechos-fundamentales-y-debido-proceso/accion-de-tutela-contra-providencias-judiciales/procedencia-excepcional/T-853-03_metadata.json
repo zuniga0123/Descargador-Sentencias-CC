@@ -1,0 +1,48 @@
+{
+  "radicado": "T-853-03",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2003,
+  "fecha_creacion": "2003-11-06",
+  "magistrado_ponente": "Dra CLARA INÉS VARGAS HERNÁNDEZ",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+  "subtema": "Procedencia excepcional",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Decreto 2351 de 1965",
+    "Decreto 1469 de 1978",
+    "Decreto 1382 de 2000"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2003/T-853-03.htm",
+  "fecha_descarga": "2026-10-22T23:25:30.032955+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2003-11-06",
+  "fecha_publicacion": null,
+  "numero": "T-853/03",
+  "tipo_cc": "T",
+  "prov_id": "22887",
+  "tema_relatoria": "DEBIDO PROCESO. VIA DE HECHO. TUTELA CONTRA PROVIDENCIAS JUDICIALES. VALORACION INDEBIDA DE PRUEBAS EN EL PROCESO ORDINARIO CONTRA LA ETB PARA ESTABLECER LA FECHA EN QUE SE DIO POR TERMINADO EL CONTRATO DE TRABAJO. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Procedencia excepcional"
+    },
+    {
+      "tema": "VIA DE HECHO EN PROCESO LABORAL",
+      "subtema": "No se presentó valoración indebida de las pruebas para establecer la fecha en que se dio por terminado el contrato de trabajo"
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA PROVIDENCIAS DE LA CORTE SUPREMA DE JUSTICIA",
+      "subtema": "Procedencia excepcional por vía de hecho"
+    },
+    {
+      "tema": "VIA DE HECHO",
+      "subtema": "Inexistencia de defecto fáctico"
+    }
+  ]
+}

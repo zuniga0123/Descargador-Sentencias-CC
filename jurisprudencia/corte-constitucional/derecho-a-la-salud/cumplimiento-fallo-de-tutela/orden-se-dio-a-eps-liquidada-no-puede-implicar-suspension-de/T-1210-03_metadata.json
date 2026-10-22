@@ -1,0 +1,63 @@
+{
+  "radicado": "T-1210-03",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2003,
+  "fecha_creacion": "2003-12-11",
+  "magistrado_ponente": "Dr MANUEL JOSÉ CEPEDA ESPINOSA",
+  "area": "Derecho a la Salud",
+  "tema": "CUMPLIMIENTO FALLO DE TUTELA",
+  "subtema": "Orden se dio a EPS liquidada no puede implicar suspensión del tratamiento médico ni obligación de demandar nuevamente",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Decreto 2591 de 1991",
+    "Decreto 806 de 1998"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2003/T-1210-03.htm",
+  "fecha_descarga": "2026-10-22T23:21:22.304020+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2003-12-11",
+  "fecha_publicacion": null,
+  "numero": "T-1210/03",
+  "tipo_cc": "T",
+  "prov_id": "23070",
+  "tema_relatoria": "DERECHO A LA SALUD DE MENOR DE EDAD. NIVEL III DEL SISBEN. COLOSTOMIA. CUOTA DE COPAGO NO PUEDE EXIGIRSE A LOS PADRES. QUIENES NO TIENEN CAPACIDAD ECONOMICA. CONCEDIDA.DERECHO A LA SALUD DE PERSONA CON CANCER DE COLON. BOLSAS DE COLOSTOMIA. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "CUMPLIMIENTO FALLO DE TUTELA",
+      "subtema": "Orden se dio a EPS liquidada no puede implicar suspensión del tratamiento médico ni obligación de demandar nuevamente"
+    },
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Fundamental por conexidad con la vida"
+    },
+    {
+      "tema": "DERECHO A LA CONTINUIDAD EN EL SERVICIO DE SALUD",
+      "subtema": null
+    },
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Traslado a otra EPS por liquidación de la original no puede implicar suspensión del tratamiento médico"
+    },
+    {
+      "tema": "DERECHO A LA SALUD DEL MENOR",
+      "subtema": "Protección constitucional de bebé por imposibilidad de sus padres de pagar la cuota de copago"
+    },
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Casos en que debe prestarse servicio médico"
+    },
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Entrega por parte de E.P.S de bolsas de colostomía"
+    },
+    {
+      "tema": "PRINCIPIO DE CONTINUIDAD POR ENTIDAD PROMOTORA DE SALUD",
+      "subtema": "Casos en que no se puede suspender el tratamiento o el medicamento"
+    }
+  ]
+}

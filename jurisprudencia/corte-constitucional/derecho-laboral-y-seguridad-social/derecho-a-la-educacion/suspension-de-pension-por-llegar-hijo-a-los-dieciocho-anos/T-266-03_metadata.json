@@ -1,0 +1,42 @@
+{
+  "radicado": "T-266-03",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2003,
+  "fecha_creacion": "2003-03-27",
+  "magistrado_ponente": "Dr ALFREDO BELTRÁN SIERRA",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "DERECHO A LA EDUCACIÓN",
+  "subtema": "Suspensión de pensión por llegar hijo a los dieciocho años",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 100 de 1993"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2003/T-266-03.htm",
+  "fecha_descarga": "2026-10-22T23:18:08.239811+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2003-03-27",
+  "fecha_publicacion": null,
+  "numero": "T-266/03",
+  "tipo_cc": "T",
+  "prov_id": "21945",
+  "tema_relatoria": "DERECHO DE PETICION. PAGO DE ACREENCIAS LABORALES. MESADAS PENSIÓNALES. PENSION DE SOBREVIVIENTE. IDONEIDAD DOCUMENTOS REQUERIDOS. ACREDITACION CALIDAD DE ESTUDIANTE. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA EDUCACIÓN",
+      "subtema": "Suspensión de pensión por llegar hijo a los dieciocho años"
+    },
+    {
+      "tema": "DERECHO DE PETICIÓN",
+      "subtema": "Solicitud sobre la suerte que corrieron los documentos que acreditaban la calidad de estudiante"
+    },
+    {
+      "tema": "PENSIÓN DE SOBREVIVIENTES",
+      "subtema": "Suspensión"
+    }
+  ]
+}

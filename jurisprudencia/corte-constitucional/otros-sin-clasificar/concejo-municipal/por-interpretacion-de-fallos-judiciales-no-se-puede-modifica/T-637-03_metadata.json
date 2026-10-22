@@ -1,0 +1,65 @@
+{
+  "radicado": "T-637-03",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2003,
+  "fecha_creacion": "2003-07-31",
+  "magistrado_ponente": "Dr ALVARO TAFUR GALVIS",
+  "area": "Otros - Sin clasificar",
+  "tema": "CONCEJO MUNICIPAL",
+  "subtema": "Por interpretación de fallos judiciales no se puede modificar el número de concejales",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 136 de 1994",
+    "Decreto 2241 de 1986",
+    "Ley 62 de 1988",
+    "Ley 163 de 1994",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2003/T-637-03.htm",
+  "fecha_descarga": "2026-10-22T23:37:43.448937+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2003-07-31",
+  "fecha_publicacion": null,
+  "numero": "T-637/03",
+  "tipo_cc": "T",
+  "prov_id": "22405",
+  "tema_relatoria": "DERECHO A CONFORMAR PODER POLITICO DE QUIEN OCUPO EL SEGUNDO RENGLON DE LA LISTA. SOLICITUD POSESION EN EL CARGO. PROVISION DE VACANTES. NULIDAD ELECCION DE CONCEJAL. CANCELACION CREDENCIAL DEL PRIMER RENGLON POR INHABILIDAD. FACULTAD DE LA REGISTRADURIA",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "CONCEJO MUNICIPAL",
+      "subtema": "Por interpretación de fallos judiciales no se puede modificar el número de concejales"
+    },
+    {
+      "tema": "ACCION ELECTORAL",
+      "subtema": "Nulidad"
+    },
+    {
+      "tema": "ACCION ELECTORAL",
+      "subtema": "Nulidad de elección de un concejal principal no afecta a los suplentes"
+    },
+    {
+      "tema": "ACCION ELECTORAL",
+      "subtema": "Naturaleza y alcance"
+    },
+    {
+      "tema": "FALTAS ABSOLUTAS DE CONCEJAL",
+      "subtema": "Situaciones"
+    },
+    {
+      "tema": "INHABILIDADES PARA CONCEJAL",
+      "subtema": "Parentesco entre el principal y un miembro de la comisión escrutadora"
+    },
+    {
+      "tema": "INHABILIDADES",
+      "subtema": "Alcance debe ser interpretado restrictivamente"
+    },
+    {
+      "tema": "REGISTRADURIA NACIONAL DEL ESTADO CIVIL",
+      "subtema": "Facultad para publicar el número de concejales que puede elegir cada municipio"
+    }
+  ]
+}

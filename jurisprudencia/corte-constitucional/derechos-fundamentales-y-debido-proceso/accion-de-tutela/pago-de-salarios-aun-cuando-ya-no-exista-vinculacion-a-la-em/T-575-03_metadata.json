@@ -1,0 +1,75 @@
+{
+  "radicado": "T-575-03",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2003,
+  "fecha_creacion": "2003-07-16",
+  "magistrado_ponente": "Dr ALFREDO BELTRÁN SIERRA",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCIÓN DE TUTELA",
+  "subtema": "Pago de salarios aún cuando ya no exista vinculación a la empresa",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 1382 de 2000",
+    "Ley 222 de 1995",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2003/T-575-03.htm",
+  "fecha_descarga": "2026-10-22T23:35:39.817972+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2003-07-16",
+  "fecha_publicacion": null,
+  "numero": "T-575/03",
+  "tipo_cc": "T",
+  "prov_id": "22336",
+  "tema_relatoria": "DERECHOS A LA VIDA SALUD Y DEBIDO PROCESO. ACCESO A LA ADMINISTRACION DE JUSTICIA. PAGO DE ACREENCIAS LABORALES. SALARIOS Y PRESTACIONES SOCIALES. DEMORA Y NULIDAD EN PROCESO DE LIQUIDACION OBLIGATORIA. INVESTIGACION DISCIPLINARIA. DRAGACOL. CONCEDIDA PAR",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Pago de salarios aún cuando ya no exista vinculación a la empresa"
+    },
+    {
+      "tema": "PROCESO DE LIQUIDACION FORZOSA ADMINISTRATIVA",
+      "subtema": "Protección a la igualdad de acreedores"
+    },
+    {
+      "tema": "CONCORDATO PREVENTIVO OBLIGATORIO",
+      "subtema": "Pago de mesadas pensionales"
+    },
+    {
+      "tema": "ACCION DE TUTELA FRENTE A MEDIO DE DEFENSA JUDICIAL",
+      "subtema": "Procedencia excepcional como mecanismo transitorio para evitar un perjuicio irremediable"
+    },
+    {
+      "tema": "ACCION DE TUTELA EN TRAMITE CONCURSAL",
+      "subtema": "Improcedencia pago de salarios en el caso concreto por no estar frente a un derecho cierto ni afectarse el mínimo vital"
+    },
+    {
+      "tema": "ACCION DE TUTELA EN TRAMITE CONCURSAL",
+      "subtema": "Procedencia pago de salarios y mesadas pensionales por afectación del mínimo vital"
+    },
+    {
+      "tema": "ACCION DE TUTELA EN TRAMITE CONCURSAL",
+      "subtema": "Improcedencia pago de prestaciones sociales y aportes a seguridad social"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Procedencia por afectación de derechos fundamentales"
+    },
+    {
+      "tema": "PROCESO DE LIQUIDACION OBLIGATORIA ANTE LA SUPERINTENDENCIA DE SOCIEDADES",
+      "subtema": "Celeridad"
+    },
+    {
+      "tema": "PROCESO DE LIQUIDACION OBLIGATORIA",
+      "subtema": "Pago preferente de salarios y mesadas pensionales"
+    },
+    {
+      "tema": "PENSION DE JUBILACION",
+      "subtema": "Pago en proceso concordatario"
+    }
+  ]
+}

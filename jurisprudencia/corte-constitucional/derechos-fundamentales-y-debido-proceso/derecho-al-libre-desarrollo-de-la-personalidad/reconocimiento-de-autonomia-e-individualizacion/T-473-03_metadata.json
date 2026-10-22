@@ -1,0 +1,83 @@
+{
+  "radicado": "T-473-03",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2003,
+  "fecha_creacion": "2003-06-09",
+  "magistrado_ponente": "Dr JAIME ARAÙJO RENTERÍA",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "DERECHO AL LIBRE DESARROLLO DE LA PERSONALIDAD",
+  "subtema": "Reconocimiento de autonomía e individualización",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 74 de 1968",
+    "Ley 163 de 1994"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2003/T-473-03.htm",
+  "fecha_descarga": "2026-10-22T23:31:53.941059+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2003-06-09",
+  "fecha_publicacion": null,
+  "numero": "T-473/03",
+  "tipo_cc": "T",
+  "prov_id": "22203",
+  "tema_relatoria": "DERECHOS AL VOTO SECRETO LIBRE DESARROLLO DE LA PERSONALIDAD E IGUALDAD DE PERSONAS INVIDENTES. ELABORACION TARJETAS ELECTORALES PARA USUARIOS DEL SISTEMA BRAILLE. PARTICIPACION CIUDADANA. EJERCICIO DEL VOTO SIN NECESIDAD DE ACOMPAÑANTE. SITUACION DE DEBI",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO AL LIBRE DESARROLLO DE LA PERSONALIDAD",
+      "subtema": "Reconocimiento de autonomía e individualización"
+    },
+    {
+      "tema": "DERECHO AL VOTO",
+      "subtema": "Principal mecanismo de participación ciudadana"
+    },
+    {
+      "tema": "DERECHO AL VOTO DE INVIDENTE",
+      "subtema": "Restricciones injustificadas"
+    },
+    {
+      "tema": "DERECHO DE PARTICIPACION CIUDADANA",
+      "subtema": "Fundamental"
+    },
+    {
+      "tema": "DERECHO AL LIBRE DESARROLLO DE LA PERSONALIDAD",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "VOTO SECRETO DE INVIDENTE",
+      "subtema": "No vulneración por acudir con acompañante"
+    },
+    {
+      "tema": "DERECHO AL VOTO",
+      "subtema": "Secreto"
+    },
+    {
+      "tema": "DERECHOS POLITICOS",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "DERECHO A LA PARTICIPACION POLITICA DE INVIDENTE",
+      "subtema": "Vulneración por no expedición de tarjetas electorales en sistema braille"
+    },
+    {
+      "tema": "DERECHO A LA IGUALDAD DEL DISCAPACITADO",
+      "subtema": "Concreción"
+    },
+    {
+      "tema": "REGISTRADURIA NACIONAL DEL ESTADO CIVIL",
+      "subtema": "Implementación del sistema braille en tarjetas electorales"
+    },
+    {
+      "tema": "REGISTRADURIA NACIONAL DEL ESTADO CIVIL",
+      "subtema": "Publicidad para votar con el sistema braille"
+    },
+    {
+      "tema": "VOTO SECRETO DE INVIDENTE",
+      "subtema": "Libertad para elegir sistema braille o acompañante"
+    }
+  ]
+}

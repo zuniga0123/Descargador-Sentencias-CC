@@ -1,0 +1,51 @@
+{
+  "radicado": "T-990-03",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2003,
+  "fecha_creacion": "2003-10-23",
+  "magistrado_ponente": "Dr MARCO GERARDO MONROY CABRA",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ENTIDAD FINANCIERA",
+  "subtema": "No puede trasladar a usuarios los efectos de sus errores",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2003/T-990-03.htm",
+  "fecha_descarga": "2026-10-22T23:30:36.351351+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2003-10-23",
+  "fecha_publicacion": null,
+  "numero": "T-990/03",
+  "tipo_cc": "T",
+  "prov_id": "22810",
+  "tema_relatoria": "DERECHO DE HABEAS DATA Y DEBIDO PROCESO. SOLICITUD ACTUALIZACION Y RECTIFICACION DE DATOS POR ERROR DE ENTIDAD BANCARIA SOBRE DEUDA CANCELADA. CONTRATO DE CESION DE CARTERA. AUTODETERMINACION INFORMATICA. USUARIO DE BUENA FE. LLAMADO A PREVENCION A DAVIVI",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ENTIDAD FINANCIERA",
+      "subtema": "No puede trasladar a usuarios los efectos de sus errores"
+    },
+    {
+      "tema": "ENTIDAD BANCARIA",
+      "subtema": "Posición dominante"
+    },
+    {
+      "tema": "ENTIDAD FINANCIERA",
+      "subtema": "Comunicación a la Cifin que la deuda hipotecaria está cancelada"
+    },
+    {
+      "tema": "ENTIDAD FINANCIERA",
+      "subtema": "Validez de certificación sobre deuda cancelada"
+    },
+    {
+      "tema": "DERECHO A LA INFORMACIÓN",
+      "subtema": "Autorización previa del titular no comprende su facultad de autodeterminación informativa"
+    },
+    {
+      "tema": "HABEAS DATA",
+      "subtema": "Actualización y rectificación"
+    }
+  ]
+}

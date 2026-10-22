@@ -1,0 +1,41 @@
+{
+  "radicado": "T-1221-03",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2003,
+  "fecha_creacion": "2003-12-11",
+  "magistrado_ponente": "Dr RODRIGO ESCOBAR GIL",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "BECA EDUCATIVA",
+  "subtema": "Entrega de documentos para aplicar no constituye derecho adquirido",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2003/T-1221-03.htm",
+  "fecha_descarga": "2026-10-22T23:20:16.818071+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2003-12-11",
+  "fecha_publicacion": null,
+  "numero": "T-1221/03",
+  "tipo_cc": "T",
+  "prov_id": "23081",
+  "tema_relatoria": "BECA A MENOR DE EDAD. IMPROCEDENCIA DE LA ACCION DE TUTELA FRENTE A HECHOS INEXISTENTES O FUTUROS. ENTREGA DE DOCUMENTOS PARA APLICAR A UNA BECA EDUCATIVA NO CONSTITUYE DERECHO ADQUIRIDO. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "BECA EDUCATIVA",
+      "subtema": "Entrega de documentos para aplicar no constituye derecho adquirido"
+    },
+    {
+      "tema": "DERECHO A LA EDUCACION DEL MENOR",
+      "subtema": "Aunque no se le otorgó la beca pudo culminar estudios y se saldó la deuda"
+    },
+    {
+      "tema": "ACCION DE TUTELA FRENTE A HECHOS INEXISTENTES O FUTUROS",
+      "subtema": "Improcedencia"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "radicado": "T-501-03",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2003,
+  "fecha_creacion": "2003-06-17",
+  "magistrado_ponente": "Dr ALFREDO BELTRÁN SIERRA",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "SECUESTRO",
+  "subtema": "Causal de fuerza mayor",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 589 de 2000",
+    "Decreto 2591 de 1991",
+    "Ley 95 de 1890"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2003/T-501-03.htm",
+  "fecha_descarga": "2026-10-22T23:32:34.227300+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2003-06-17",
+  "fecha_publicacion": null,
+  "numero": "T-501/03",
+  "tipo_cc": "T",
+  "prov_id": "22234",
+  "tema_relatoria": "DERECHO AL MINIMO VITAL DE LA FAMILIA Y MENORES DE EDAD. SOLICITUD PAGO SALARIOS DE TRABAJADORES SECUESTRADOS O DESAPARECIDOS. CONTRATOS A TERMINO FIJO Y PRORROGA. ESTADO DE FUERZA MAYOR. ZONA BANANERA. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "SECUESTRO",
+      "subtema": "Causal de fuerza mayor"
+    },
+    {
+      "tema": "SECUESTRADO",
+      "subtema": "Pago de salarios"
+    },
+    {
+      "tema": "ACCION DE TUTELA PARA EVITAR PERJUICIO IRREMEDIABLE",
+      "subtema": "Pago de salarios a beneficiarios del secuestrado"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Procedencia para proteger derechos de dependientes económicos de secuestrados"
+    },
+    {
+      "tema": "SECUESTRO",
+      "subtema": "Pago de salarios previa existencia de plena prueba"
+    },
+    {
+      "tema": "SALARIO",
+      "subtema": "Pago a beneficiarios del secuestrado"
+    },
+    {
+      "tema": "SECUESTRO",
+      "subtema": "Igualdad de tratamiento en pago de salarios a empleados públicos y trabajadores particulares secuestrados"
+    }
+  ]
+}

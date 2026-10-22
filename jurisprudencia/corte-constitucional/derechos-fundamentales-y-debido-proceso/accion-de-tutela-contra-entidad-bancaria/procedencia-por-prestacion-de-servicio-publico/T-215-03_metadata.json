@@ -1,0 +1,40 @@
+{
+  "radicado": "T-215-03",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2003,
+  "fecha_creacion": "2003-03-13",
+  "magistrado_ponente": "Dr ALVARO TAFUR GALVIS",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCION DE TUTELA CONTRA ENTIDAD BANCARIA",
+  "subtema": "Procedencia por prestación de servicio público",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Decreto 1593 de 1959",
+    "Decreto 753 de 1956",
+    "Ley 48 de 1968"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2003/T-215-03.htm",
+  "fecha_descarga": "2026-10-22T23:18:52.263269+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2003-03-13",
+  "fecha_publicacion": null,
+  "numero": "T-215/03",
+  "tipo_cc": "T",
+  "prov_id": "21881",
+  "tema_relatoria": "DERECHO DE PETICION. SOLICITUD RELACION HISTORICA DE PAGOS Y COPIA PAGARES DE CREDITO HIPOTECARIO. RESPUESTA CLARA Y OPORTUNA. SERVICIO PUBLICO DE ACTIVIDAD BANCARIA. AUTONOMIA. TUTELA CONTRA PARTICULARES. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCION DE TUTELA CONTRA ENTIDAD BANCARIA",
+      "subtema": "Procedencia por prestación de servicio público"
+    },
+    {
+      "tema": "DERECHO DE PETICION ANTE ENTIDAD BANCARIA",
+      "subtema": "Respuesta oportuna sobre pagos efectuados y copias de pagarés"
+    }
+  ]
+}

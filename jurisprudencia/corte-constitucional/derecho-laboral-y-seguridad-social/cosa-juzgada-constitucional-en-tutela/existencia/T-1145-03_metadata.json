@@ -1,0 +1,39 @@
+{
+  "radicado": "T-1145-03",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2003,
+  "fecha_creacion": "2003-11-28",
+  "magistrado_ponente": "Dr JAIME CÓRDOBA TRIVIÑO",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "COSA JUZGADA CONSTITUCIONAL EN TUTELA",
+  "subtema": "Existencia",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto Ley 2591 de 1991",
+    "Decreto 1359 de 1993",
+    "Ley 4 de 1992"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2003/T-1145-03.htm",
+  "fecha_descarga": "2026-10-22T23:23:00.459808+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2003-11-28",
+  "fecha_publicacion": null,
+  "numero": "T-1145/03",
+  "tipo_cc": "T",
+  "prov_id": "22989",
+  "tema_relatoria": "PENSION EXCONGRESISTA. SOLICITUD REAJUSTE PENSION JUBILACION. PRINCIPIO DE IDENTIDAD IMPROCEDENTE. COSA JUZGADA. NEGADA",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "COSA JUZGADA CONSTITUCIONAL EN TUTELA",
+      "subtema": "Existencia"
+    },
+    {
+      "tema": "ACCION DE TUTELA PARA RELIQUIDACION DE PENSIONES DE CONGRESISTA",
+      "subtema": "Deben existir hechos nuevos que sean relevantes para modificación de sentencia anterior"
+    }
+  ]
+}

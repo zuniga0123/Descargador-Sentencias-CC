@@ -1,0 +1,53 @@
+{
+  "radicado": "T-563-03",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2003,
+  "fecha_creacion": "2003-07-11",
+  "magistrado_ponente": "Dr ALFREDO BELTRÁN SIERRA",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "AUTORIDAD DE POLICIA",
+  "subtema": "Irregularidades en la detención del actor",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2003/T-563-03.htm",
+  "fecha_descarga": "2026-10-22T23:35:28.892610+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2003-07-11",
+  "fecha_publicacion": null,
+  "numero": "T-563/03",
+  "tipo_cc": "T",
+  "prov_id": "22308",
+  "tema_relatoria": "DERECHOS A LA LIBERTAD PERSONAL IGUALDAD DEBIDO PROCESO HABEAS DATA Y DIGNIDAD DE PERSONA CON LIBERTAD CONDICIONAL. RETENCION POR ORDEN DE CAPTURA VIGENTE. RECTIFICACION Y ACTUALIZACION DE LA INFORMACION. CANCELACION. SUSTRACCION DE MATERIA. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "AUTORIDAD DE POLICIA",
+      "subtema": "Irregularidades en la detención del actor"
+    },
+    {
+      "tema": "DERECHO AL BUEN NOMBRE",
+      "subtema": "Corrección de información errónea en banco de datos"
+    },
+    {
+      "tema": "DERECHO A LA LIBERTAD",
+      "subtema": "Vulneración por detención irregular"
+    },
+    {
+      "tema": "DERECHO A LA LIBERTAD",
+      "subtema": "Corrección de información errónea en banco de datos"
+    },
+    {
+      "tema": "HABEAS DATA",
+      "subtema": "Datos no son inmodificables"
+    },
+    {
+      "tema": "HABEAS DATA",
+      "subtema": "Error en la información"
+    }
+  ]
+}

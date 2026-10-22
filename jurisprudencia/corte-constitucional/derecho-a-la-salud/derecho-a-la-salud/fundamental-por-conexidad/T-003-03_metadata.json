@@ -1,0 +1,41 @@
+{
+  "radicado": "T-003-03",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2003,
+  "fecha_creacion": "2003-01-16",
+  "magistrado_ponente": "Dr MARCO GERARDO MONROY CABRA",
+  "area": "Derecho a la Salud",
+  "tema": "DERECHO A LA SALUD",
+  "subtema": "Fundamental por conexidad",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 806 de 1998"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2003/T-003-03.htm",
+  "fecha_descarga": "2026-10-22T23:25:44.595596+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2003-01-16",
+  "fecha_publicacion": null,
+  "numero": "T-003/03",
+  "tipo_cc": "T",
+  "prov_id": "21615",
+  "tema_relatoria": "DERECHOS A LA VIDA SALUD DIGNIDAD E INTEGRIDAD PERSONAL DE PERSONA DE LA TERCERA EDAD. SUMINISTRO AUDIFONOS NO INCLUIDOS EN EL POS Y PRESCRITOS POR MEDICO TRATANTE. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Fundamental por conexidad"
+    },
+    {
+      "tema": "DERECHO A LA VIDA DIGNA DE PERSONA DE LA TERCERA EDAD",
+      "subtema": "Suministro de audífonos"
+    },
+    {
+      "tema": "INAPLICACION DE NORMAS DEL PLAN OBLIGATORIO DE SALUD",
+      "subtema": "Suministro de audífonos a persona de la tercera edad"
+    }
+  ]
+}

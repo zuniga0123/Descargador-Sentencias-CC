@@ -1,0 +1,50 @@
+{
+  "radicado": "T-178-03",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2003,
+  "fecha_creacion": "2003-02-28",
+  "magistrado_ponente": "Dr RODRIGO ESCOBAR GIL",
+  "area": "Derecho a la Salud",
+  "tema": "DERECHO A LA SALUD",
+  "subtema": "Condiciones para realización de tratamiento excluido del POS",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Decreto 806 de 2001"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2003/T-178-03.htm",
+  "fecha_descarga": "2026-10-22T23:17:13.778954+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2003-02-28",
+  "fecha_publicacion": null,
+  "numero": "T-178/03",
+  "tipo_cc": "T",
+  "prov_id": "21837",
+  "tema_relatoria": "DERECHO A LA SALUD DE MENOR DE EDAD. SOLICITUD PRACTICA RESONANCIA MAGNETICA DE CUELLO NO INCLUIDA EN EL POS Y PRESCITA POR MEDICO TRATANTE. ACCION DE REPETICION. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Condiciones para realización de tratamiento excluido del POS"
+    },
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Incorpora el derecho al diagnóstico"
+    },
+    {
+      "tema": "ENTIDAD PROMOTORA DE SALUD",
+      "subtema": "Suministro de tratamiento señalado por médico tratante aunque no figure en listado del POS"
+    },
+    {
+      "tema": "DERECHO A LA CONTINUIDAD EN EL SERVICIO DE SALUD",
+      "subtema": "Atención médica a menor"
+    },
+    {
+      "tema": "DERECHO A LA CONTINUIDAD EN EL SERVICIO DE SALUD",
+      "subtema": "Necesidad de realizar exámenes prescritos por médico tratante"
+    }
+  ]
+}

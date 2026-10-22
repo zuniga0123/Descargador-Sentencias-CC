@@ -1,0 +1,50 @@
+{
+  "radicado": "T-062-03",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2003,
+  "fecha_creacion": "2003-01-30",
+  "magistrado_ponente": "Dr EDUARDO MONTEALEGRE LYNETT",
+  "area": "Derecho a la Salud",
+  "tema": "ACCIÓN DE TUTELA",
+  "subtema": "Carencia actual de objeto por fallecimiento del enfermo",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 100 de 1993"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2003/T-062-03.htm",
+  "fecha_descarga": "2026-10-22T23:26:53.575346+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2003-01-30",
+  "fecha_publicacion": null,
+  "numero": "T-062/03",
+  "tipo_cc": "T",
+  "prov_id": "21685",
+  "tema_relatoria": "DERECHOS A LA SALUD VIDA Y SEGURIDAD SOCIAL DE PERSONA DE LA TERCERA EDAD. SOLICITUD PRACTICA CIRUGIA URGENTE. POR TUMOR CEREBRAL. ENFERMEDAD RUINOSA Y CATASTROFICA. PERIODO MINIMO DE COTIZACION. FALLECIMIENTO ACCIONANTE DURANTE TRAMITE DE REVISION. LLAMA",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Carencia actual de objeto por fallecimiento del enfermo"
+    },
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Fundamental por conexidad"
+    },
+    {
+      "tema": "ENTIDAD PROMOTORA DE SALUD",
+      "subtema": "Demora en práctica de cirugía por motivos económicos y administrativos"
+    },
+    {
+      "tema": "ENFERMEDADES CATASTROFICAS O RUINOSAS",
+      "subtema": "Periodo mínimo de cotización no es extensivo a casos de urgencia o gravedad"
+    },
+    {
+      "tema": "DERECHO A LA SALUD DE PERSONA DE LA TERCERA EDAD",
+      "subtema": "No se pueden oponer periodos mínimos de cotización ante situaciones de urgencia"
+    }
+  ]
+}

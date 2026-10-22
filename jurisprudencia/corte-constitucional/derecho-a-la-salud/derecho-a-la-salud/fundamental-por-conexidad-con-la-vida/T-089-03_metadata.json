@@ -1,0 +1,61 @@
+{
+  "radicado": "T-089-03",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2003,
+  "fecha_creacion": "2003-02-06",
+  "magistrado_ponente": "Dra CLARA INÉS VARGAS HERNÁNDEZ",
+  "area": "Derecho a la Salud",
+  "tema": "DERECHO A LA SALUD",
+  "subtema": "Fundamental por conexidad con la vida",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2003/T-089-03.htm",
+  "fecha_descarga": "2026-10-22T23:27:29.876410+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2003-02-06",
+  "fecha_publicacion": null,
+  "numero": "T-089/03",
+  "tipo_cc": "T",
+  "prov_id": "21719",
+  "tema_relatoria": "DERECHOS A LA SALUD Y VIDA DE PERSONA DE LA TERCERA EDAD EN ESTADO TERMINAL. DEBER DE LA FAMILIA Y EL ESTADO. PRINCIPIO DE SOLIDARIDAD SOCIAL. FALLECIMIENTO ACCIONANTE DURANTE TRAMITE DE REVISION. CARENCIA ACTUAL DE OBJETO. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Fundamental por conexidad con la vida"
+    },
+    {
+      "tema": "ENFERMO",
+      "subtema": "Asistencia por el Estado y los particulares"
+    },
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Relevancia de la participación de la familia"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Carencia actual de objeto"
+    },
+    {
+      "tema": "ENFERMO TERMINAL",
+      "subtema": "Coordinación de esfuerzos entre familia y entidad de salud"
+    },
+    {
+      "tema": "ENTIDAD DE SALUD",
+      "subtema": "Prestación del mejor servicio médico disponible"
+    },
+    {
+      "tema": "SALUD",
+      "subtema": "Protección por el Estado y los particulares"
+    },
+    {
+      "tema": "SENTENCIA DE REVISION DE TUTELA",
+      "subtema": "Fallecimiento de actor no exime pronunciamiento de fondo"
+    }
+  ]
+}

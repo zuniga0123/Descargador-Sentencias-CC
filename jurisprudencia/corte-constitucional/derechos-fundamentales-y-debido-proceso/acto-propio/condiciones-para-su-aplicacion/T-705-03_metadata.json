@@ -1,0 +1,62 @@
+{
+  "radicado": "T-705-03",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2003,
+  "fecha_creacion": "2003-08-14",
+  "magistrado_ponente": "Dr ALVARO TAFUR GALVIS",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACTO PROPIO",
+  "subtema": "Condiciones para su aplicación",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 546 de 1999",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2003/T-705-03.htm",
+  "fecha_descarga": "2026-10-22T23:39:39.952978+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2003-08-14",
+  "fecha_publicacion": null,
+  "numero": "T-705/03",
+  "tipo_cc": "T",
+  "prov_id": "22486",
+  "tema_relatoria": "DERECHO AL DEBIDO PROCESO. ERROR EN RELIQUIDACION DE AMPLIACION DE CREDITO HIPOTECARIO. EXPEDICION PAZ Y SALVO. REVERSION ALIVIO FINANCIERO APLICADO. POSICION DOMINANTE. RESPETO AL ACTO PROPIO. INVESTIGACION DISCIPLINARIA. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACTO PROPIO",
+      "subtema": "Condiciones para su aplicación"
+    },
+    {
+      "tema": "DEBIDO PROCESO",
+      "subtema": "Vulneración de Granahorrar por imputación de una nueva deuda"
+    },
+    {
+      "tema": "OBLIGACION EXTINTA",
+      "subtema": "Cancelación de gravamen"
+    },
+    {
+      "tema": "DERECHO A LA VIVIENDA DIGNA",
+      "subtema": "Financiación de vivienda a largo plazo"
+    },
+    {
+      "tema": "ACTO PROPIO",
+      "subtema": "Respeto"
+    },
+    {
+      "tema": "ENTIDAD BANCARIA",
+      "subtema": "Abuso de posición dominante"
+    },
+    {
+      "tema": "OBLIGACION EXTINTA",
+      "subtema": "Expedición de paz y salvo por Granahorrar"
+    },
+    {
+      "tema": "OBLIGACION EXTINTA",
+      "subtema": "Reliquidación de crédito hipotecario"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "radicado": "T-224-03",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2003,
+  "fecha_creacion": "2003-03-17",
+  "magistrado_ponente": "Dra CLARA INÉS VARGAS HERNÁNDEZ",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "DEBIDO PROCESO",
+  "subtema": "Inexistencia de vulneración por no pago de obligaciones originadas en libranzas firmadas por empleados",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 550 de 1999",
+    "Decreto 2591 de 1991",
+    "Decreto 111 de 1998",
+    "Decreto 2282 de 1989"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2003/T-224-03.htm",
+  "fecha_descarga": "2026-10-22T23:19:06.795515+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2003-03-17",
+  "fecha_publicacion": null,
+  "numero": "T-224/03",
+  "tipo_cc": "T",
+  "prov_id": "21891",
+  "tema_relatoria": "DERECHO AL DEBIDO PROCESO DE PERSONA JURIDICA. VIA DE HECHO. COBRO DE LIBRANZAS POR NOMINA. CONTROVERSIAS DE ORDEN ECONOMICO. ACCESO A LA ADMINISTRACION DE JUSTICIA. CONFIANZA LEGITIMA. LEGITIMACION POR ACTIVA. INVESTIGACION DISCIPLINARIA. ACUERDO DE REES",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DEBIDO PROCESO",
+      "subtema": "Inexistencia de vulneración por no pago de obligaciones originadas en libranzas firmadas por empleados"
+    },
+    {
+      "tema": "MUNICIPIO",
+      "subtema": "Incumplimiento en pago de obligaciones originadas en libranzas firmadas por empleados"
+    },
+    {
+      "tema": "PRINCIPIO DE CONFIANZA LEGITIMA",
+      "subtema": "No es aplicable para el caso"
+    },
+    {
+      "tema": "ACUERDOS DE REESTRUCTURACION EN MUNICIPIO",
+      "subtema": "Medio para que acreedores puedan obtener pago de lo debido"
+    },
+    {
+      "tema": "DERECHO DE ACCESO A LA ADMINISTRACIÓN DE JUSTICIA",
+      "subtema": "Sólo se aplica en actuaciones judiciales y ante autoridades judiciales"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Improcedencia sobre controversias económicas"
+    }
+  ]
+}

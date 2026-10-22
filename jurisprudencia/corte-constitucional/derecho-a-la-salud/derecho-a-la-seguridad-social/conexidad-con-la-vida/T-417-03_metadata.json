@@ -1,0 +1,54 @@
+{
+  "radicado": "T-417-03",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2003,
+  "fecha_creacion": "2003-05-22",
+  "magistrado_ponente": "Dr JAIME ARAUJO RENTERÍA",
+  "area": "Derecho a la Salud",
+  "tema": "DERECHO A LA SEGURIDAD SOCIAL",
+  "subtema": "Conexidad con la vida",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 550 de 1999",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2003/T-417-03.htm",
+  "fecha_descarga": "2026-10-22T23:36:19.791320+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2003-05-22",
+  "fecha_publicacion": null,
+  "numero": "T-417/03",
+  "tipo_cc": "T",
+  "prov_id": "22141",
+  "tema_relatoria": "DERECHO A LA SEGURIDAD SOCIAL Y VIDA DE PENSIONADO Y BENEFICIARIOS. ATENCION MEDICA A HIJA DISCAPACITADA. MORA PAGO DE APORTES EN SALUD POR EMPLEADOR. ESTADO DE SUBORDINACION. TUTELA CONTRA PARTICULARES. LLAMADO A PREVENCION. ISS. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA SEGURIDAD SOCIAL",
+      "subtema": "Conexidad con la vida"
+    },
+    {
+      "tema": "EMPLEADOR",
+      "subtema": "Asunción servicio de salud por mora en aportes"
+    },
+    {
+      "tema": "DERECHO A LA SALUD DEL DISCAPACITADO",
+      "subtema": "Atención médica por empleador por mora en aportes en salud"
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA PARTICULARES",
+      "subtema": "Subordinación"
+    },
+    {
+      "tema": "DERECHOS FUNDAMENTALES DEL TRABAJADOR",
+      "subtema": "Vulneración por mora de empleador en pago de aportes a EPS"
+    },
+    {
+      "tema": "DERECHO A LA SALUD DEL DISCAPACITADO",
+      "subtema": "Protección especial"
+    }
+  ]
+}

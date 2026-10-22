@@ -1,0 +1,45 @@
+{
+  "radicado": "T-560-03",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2003,
+  "fecha_creacion": "2003-07-11",
+  "magistrado_ponente": "Dr JAIME CÓRDOBA TRIVIÑO",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "ACCIÓN DE TUTELA",
+  "subtema": "Carencia actual de objeto por fallecimiento del enfermo",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2003/T-560-03.htm",
+  "fecha_descarga": "2026-10-22T23:35:25.246910+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2003-07-11",
+  "fecha_publicacion": null,
+  "numero": "T-560/03",
+  "tipo_cc": "T",
+  "prov_id": "22305",
+  "tema_relatoria": "DERECHOS A LA VIDA SALUD SEGURIDAD SOCIAL Y EXISTENCIA DIGNA DE PERSONA DE LA TERCERA EDAD CON CANCER. SOLICITUD SERVICIOS MEDICOS Y CUIDADOS PALIATIVOS PRESCRITOS POR MEDICO TRATANTE. ENFERMEDAD CATASTROFICA O RUINOSA. FALLECIMIENTO ACCIONANTE DURANTE TR",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Carencia actual de objeto por fallecimiento del enfermo"
+    },
+    {
+      "tema": "ENFERMO TERMINAL",
+      "subtema": "Suministro de tratamientos paliativos"
+    },
+    {
+      "tema": "ENFERMEDADES CATASTROFICAS O RUINOSAS",
+      "subtema": "Negativa de los cuidados paliativos prescritos por médico tratante"
+    },
+    {
+      "tema": "SENTENCIA DE REVISION DE TUTELA",
+      "subtema": "Fallecimiento de actor no exime pronunciamiento de fondo"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "radicado": "T-320-03",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2003,
+  "fecha_creacion": "2003-04-24",
+  "magistrado_ponente": "Dr MARCO GERARDO MONROY CABRA",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "PENSION DE VEJEZ",
+  "subtema": "Reconocimiento",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 1513 de 1998",
+    "Ley 100 de 1993",
+    "Decreto Ley 1299 de 1994",
+    "Decreto 1748 de 1995",
+    "Ley 549 de 1999"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2003/T-320-03.htm",
+  "fecha_descarga": "2026-10-22T23:33:54.179218+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2003-04-24",
+  "fecha_publicacion": null,
+  "numero": "T-320/03",
+  "tipo_cc": "T",
+  "prov_id": "22010",
+  "tema_relatoria": "DERECHO DE PETICION. SOLICITUD RECONOCIMIENTO Y PAGO PENSION DE VEJEZ. BONO PENSIONAL TIPO A. CUOTA PARTE. REGIMEN DE AHORRO INDIVIDUAL. HECHO SUPERADO. PROTECCION S.A. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "PENSION DE VEJEZ",
+      "subtema": "Reconocimiento"
+    },
+    {
+      "tema": "PENSION DE VEJEZ",
+      "subtema": "Definición"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Procedencia respecto a espera prolongada en reconocimiento de pensión o emisión del bono pensional"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Hecho superado"
+    },
+    {
+      "tema": "BONO PENSIONAL",
+      "subtema": "No emisión no es obstáculo para obtener pensión de jubilación"
+    }
+  ]
+}

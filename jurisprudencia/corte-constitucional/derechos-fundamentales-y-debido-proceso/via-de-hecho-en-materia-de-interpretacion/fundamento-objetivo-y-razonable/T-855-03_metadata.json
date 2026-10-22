@@ -1,0 +1,54 @@
+{
+  "radicado": "T-855-03",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2003,
+  "fecha_creacion": "2003-09-25",
+  "magistrado_ponente": "Dr ALFREDO BELTRÁN SIERRA",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "VIA DE HECHO EN MATERIA DE INTERPRETACION",
+  "subtema": "Fundamento objetivo y razonable",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Decreto 1382 de 2000"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2003/T-855-03.htm",
+  "fecha_descarga": "2026-10-22T23:25:33.689454+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2003-09-25",
+  "fecha_publicacion": null,
+  "numero": "T-855/03",
+  "tipo_cc": "T",
+  "prov_id": "22654",
+  "tema_relatoria": "DERECHO AL DEBIDO PROCESO. VIA DE HECHO. SOLICITUD NULIDAD SENTENCIA EN PROCESO EJECUTIVO. AUTONOMIA DE OBLIGACIONES CONTENIDAS EN TITULO VALOR ADQUIRIDA POR AVALISTA. INEXISTENCIA DE LA OBLIGACION DEL AVALADO. VALORACION PROBATORIA. COMPETENCIA DE LAS SA",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "VIA DE HECHO EN MATERIA DE INTERPRETACION",
+      "subtema": "Fundamento objetivo y razonable"
+    },
+    {
+      "tema": "VIA DE HECHO",
+      "subtema": "Procedencia excepcional de tutela"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Procedencia excepcional"
+    },
+    {
+      "tema": "NULIDAD SENTENCIA DE LA CORTE SUPREMA",
+      "subtema": "Improcedencia por estar determinada la competencia para fallar en segunda instancia en tutela"
+    },
+    {
+      "tema": "LETRA DE CAMBIO",
+      "subtema": "Falta de requisito de aceptación por parte del girado"
+    },
+    {
+      "tema": "VIA DE HECHO",
+      "subtema": "No podía imponerse a avalistas cumplimiento de obligación que no nació a la vida jurídica"
+    }
+  ]
+}

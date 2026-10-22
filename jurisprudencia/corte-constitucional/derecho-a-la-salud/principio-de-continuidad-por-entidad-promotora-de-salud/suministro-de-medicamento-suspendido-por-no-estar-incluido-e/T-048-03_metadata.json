@@ -1,0 +1,47 @@
+{
+  "radicado": "T-048-03",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2003,
+  "fecha_creacion": "2003-01-30",
+  "magistrado_ponente": "Dr ALFREDO BELTRÁN SIERRA",
+  "area": "Derecho a la Salud",
+  "tema": "PRINCIPIO DE CONTINUIDAD POR ENTIDAD PROMOTORA DE SALUD",
+  "subtema": "Suministro de medicamento suspendido por no estar incluido en POS",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2003/T-048-03.htm",
+  "fecha_descarga": "2026-10-22T23:26:28.333169+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2003-01-30",
+  "fecha_publicacion": null,
+  "numero": "T-048/03",
+  "tipo_cc": "T",
+  "prov_id": "21674",
+  "tema_relatoria": "DERECHO A LA SALUD Y VIDA. SUMINISTRO MEDICAMENTOS Y TRATAMIENTO A PACIENTE DE CANCER PRESCRITOS POR MEDICO TRATANTE NO INCLUIDOS EN EL POS. PERIODO MINIMO DE COTIZACION. REGIMEN CONTRIBUTIVO. ACCION DE REPETICION. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "PRINCIPIO DE CONTINUIDAD POR ENTIDAD PROMOTORA DE SALUD",
+      "subtema": "Suministro de medicamento suspendido por no estar incluido en POS"
+    },
+    {
+      "tema": "DERECHO A LA SALUD Y A LA VIDA",
+      "subtema": "Suministro de medicamentos para el cáncer excluidos del POS"
+    },
+    {
+      "tema": "ENFERMEDADES CATASTROFICAS O RUINOSAS",
+      "subtema": "Tratamiento para el cáncer"
+    },
+    {
+      "tema": "ENFERMEDADES CATASTROFICAS O RUINOSAS",
+      "subtema": "Suministro de tratamientos sin cumplir periodo mínimo de cotización"
+    },
+    {
+      "tema": "ENTIDAD PROMOTORA DE SALUD",
+      "subtema": "Repetición contra el FOSYGA"
+    }
+  ]
+}

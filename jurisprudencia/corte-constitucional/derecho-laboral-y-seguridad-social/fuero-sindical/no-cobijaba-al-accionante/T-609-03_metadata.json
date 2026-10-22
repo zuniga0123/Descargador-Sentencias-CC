@@ -1,0 +1,50 @@
+{
+  "radicado": "T-609-03",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2003,
+  "fecha_creacion": "2003-07-24",
+  "magistrado_ponente": "Dr ALFREDO BELTRÁN SIERRA",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "FUERO SINDICAL",
+  "subtema": "No cobijaba al accionante",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 50 de 1990"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2003/T-609-03.htm",
+  "fecha_descarga": "2026-10-22T23:37:14.460534+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2003-07-24",
+  "fecha_publicacion": null,
+  "numero": "T-609/03",
+  "tipo_cc": "T",
+  "prov_id": "22374",
+  "tema_relatoria": "DERECHOS A LA IGUALDAD TRABAJO DEBIDO PROCESO ASOCIACION FUERO SINDICAL Y BUENA FE DE MIEMBRO DEL COMITÉ DE RECLAMOS. VIA DE HECHO. TERMINACION UNILATERAL DEL CONTRATO DE TRABAJO. CONVENCION COLECTIVA DE TRABAJO. TUTELA CONTRA PROVIDENCIAS JUDICIALES. BAN",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "FUERO SINDICAL",
+      "subtema": "No cobijaba al accionante"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Procedencia excepcional por vía de hecho"
+    },
+    {
+      "tema": "COSA JUZGADA",
+      "subtema": "Se funda en el principio de seguridad jurídica"
+    },
+    {
+      "tema": "DERECHO AL TRABAJO",
+      "subtema": "Despido legal de trabajador que no estaba amparado por fuero sindical"
+    },
+    {
+      "tema": "VIA DE HECHO",
+      "subtema": "Inexistencia para el caso"
+    }
+  ]
+}

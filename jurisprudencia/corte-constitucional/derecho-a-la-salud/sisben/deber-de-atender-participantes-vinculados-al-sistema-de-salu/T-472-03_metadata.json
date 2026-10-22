@@ -1,0 +1,52 @@
+{
+  "radicado": "T-472-03",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2003,
+  "fecha_creacion": "2003-06-09",
+  "magistrado_ponente": "Dr JAIME ARAÚJO RENTERIA",
+  "area": "Derecho a la Salud",
+  "tema": "SISBEN",
+  "subtema": "Deber de atender participantes vinculados al sistema de salud",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 715 de 2001",
+    "Ley 60 de 1993",
+    "Ley 100 de 1993"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2003/T-472-03.htm",
+  "fecha_descarga": "2026-10-22T23:31:50.252045+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2003-06-09",
+  "fecha_publicacion": null,
+  "numero": "T-472/03",
+  "tipo_cc": "T",
+  "prov_id": "22202",
+  "tema_relatoria": "DERECHO A LA SALUD Y VIDA. SOLICITUD PRACTICA URGENTE DE LAPAROSCOPIA QUIRURGICA PRESCRITA POR MEDICO TRATANTE. REGIMEN SUBSIDIADO. SISBEN. CALIDAD DE VINCULADO. REALIZACION NUEVA ENCUESTA. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "SISBEN",
+      "subtema": "Deber de atender participantes vinculados al sistema de salud"
+    },
+    {
+      "tema": "REGIMEN DE SEGURIDAD SOCIAL EN SALUD",
+      "subtema": "Persona vinculada"
+    },
+    {
+      "tema": "SISBEN",
+      "subtema": "Regulación ineficiente para detectar a las personas pobres"
+    },
+    {
+      "tema": "SISBEN",
+      "subtema": "Práctica de laparoscopia de persona vinculada"
+    },
+    {
+      "tema": "SISBEN",
+      "subtema": "Participantes vinculados"
+    }
+  ]
+}
