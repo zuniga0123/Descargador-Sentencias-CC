@@ -1,0 +1,45 @@
+{
+  "radicado": "T-054-04",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2004,
+  "fecha_creacion": "2004-01-29",
+  "magistrado_ponente": "Dr MARCO GERARDO MONROY CABRA",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "DERECHO DE PETICIÓN",
+  "subtema": "Alcance",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 700 de 2001"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2004/T-054-04.htm",
+  "fecha_descarga": "2026-10-22T22:00:43.071936+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2004-01-29",
+  "fecha_publicacion": null,
+  "numero": "T-054/04",
+  "tipo_cc": "T",
+  "prov_id": "23148",
+  "tema_relatoria": "DERECHO DE PETICION. SOLICITUD RECONOCIMIENTO PENSION DE VEJEZ. RESPUESTA DE FONDO. TERMINO PARA RESOLVER. DEBER DE INFORMACION. LLAMADO A PREVENCION. LEY 700 DE 2001. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO DE PETICIÓN",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "DERECHO DE PETICION SOBRE RECONOCIMIENTO DE PENSION",
+      "subtema": "Después de transcurridos cuatro meses no se ha resuelto la solicitud"
+    },
+    {
+      "tema": "DERECHO DE PETICIÓN EN MATERIA PENSIONAL",
+      "subtema": "Términos para resolver"
+    },
+    {
+      "tema": "SEGURO SOCIAL",
+      "subtema": "Obligación de resolver petición sobre reconocimiento de pensión"
+    }
+  ]
+}

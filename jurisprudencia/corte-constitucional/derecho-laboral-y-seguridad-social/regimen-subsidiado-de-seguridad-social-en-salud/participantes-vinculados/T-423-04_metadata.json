@@ -1,0 +1,52 @@
+{
+  "radicado": "T-423-04",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2004,
+  "fecha_creacion": "2004-05-06",
+  "magistrado_ponente": "Dr ALVARO TAFUR GALVIS",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "REGIMEN SUBSIDIADO DE SEGURIDAD SOCIAL EN SALUD",
+  "subtema": "Participantes vinculados",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 715 de 2001",
+    "Ley 715 de 2003",
+    "Ley 100 de 1993",
+    "Decreto 806 de 1998"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2004/T-423-04.htm",
+  "fecha_descarga": "2026-10-22T22:17:00.909484+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2004-05-06",
+  "fecha_publicacion": null,
+  "numero": "T-423/04",
+  "tipo_cc": "T",
+  "prov_id": "23551",
+  "tema_relatoria": "DERECHO A LA SEGURIDAD SOCIAL DE MADRE CON CANCER. SOLICITUD PRESTACION SERVICIO MEDICO Y ASIGNACION ARS. REGIMEN SUBSIDIADO. SISBEN. PARTICIPACION VINCULADA. CONTINUIDAD EN EL SERVICIO. RESPONSABILIDAD DE ENTES TERRITORIALES. LEGITIMIDAD PARA ACTUAR. LE",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "REGIMEN SUBSIDIADO DE SEGURIDAD SOCIAL EN SALUD",
+      "subtema": "Participantes vinculados"
+    },
+    {
+      "tema": "SISTEMA GENERAL DE SEGURIDAD SOCIAL EN SALUD",
+      "subtema": "Reglamentación"
+    },
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Orden de asignar ARS y continuar tratamiento por enfermedad ruinosa y catastrófica"
+    },
+    {
+      "tema": "SISTEMA GENERAL DE SEGURIDAD SOCIAL EN SALUD",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "SISBEN",
+      "subtema": "Deber de atender participantes vinculados al sistema de salud"
+    }
+  ]
+}

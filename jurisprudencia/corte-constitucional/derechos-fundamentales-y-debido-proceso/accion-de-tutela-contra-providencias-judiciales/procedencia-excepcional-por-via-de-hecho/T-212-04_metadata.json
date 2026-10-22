@@ -1,0 +1,67 @@
+{
+  "radicado": "T-212-04",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2004,
+  "fecha_creacion": "2004-03-05",
+  "magistrado_ponente": "Dr MANUEL JOSÉ CEPEDA ESPINOSA",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+  "subtema": "Procedencia excepcional por vía de hecho",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 546 de 1999",
+    "Decreto 2703 de 1999",
+    "Ley 31 de 1992",
+    "Decreto 2591 de 1991",
+    "Decreto 663 de 1993",
+    "Decreto 1229 de 1972",
+    "Ley 45 de 1990"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2004/T-212-04.htm",
+  "fecha_descarga": "2026-10-22T22:09:43.881365+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2004-03-05",
+  "fecha_publicacion": null,
+  "numero": "T-212/04",
+  "tipo_cc": "T",
+  "prov_id": "23317",
+  "tema_relatoria": "DERECHO AL DEBIDO PROCESO PERSONA JURIDICA. VIA DE HECHO. RELIQUIDACION DE CREDITOS. CONVERSION DE UPAC A UVR. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Procedencia excepcional por vía de hecho"
+    },
+    {
+      "tema": "ACCION DE TUTELA DE COLPATRIA CONTRA SENTENCIA DEL TRIBUNAL",
+      "subtema": "Existencia de título ejecutivo"
+    },
+    {
+      "tema": "ACCION DE TUTELA DE PERSONA JURIDICA CONTRA SENTENCIA DE TRIBUNAL",
+      "subtema": "Procedencia"
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA SENTENCIAS",
+      "subtema": "Procedencia por no tener en cuenta normas aplicables al caso y declarar extinguida obligación dineraria"
+    },
+    {
+      "tema": "ACCION DE TUTELA DE COLPATRIA CONTRA SENTENCIA DEL TRIBUNAL",
+      "subtema": "Pagaré suscrito por la demandada conservó su condición de título valor aunque originalmente se denominó en UPACs y luego en UVRs"
+    },
+    {
+      "tema": "PERSONA JURIDICA",
+      "subtema": "Titularidad de derechos fundamentales"
+    },
+    {
+      "tema": "VIA DE HECHO",
+      "subtema": "Defecto sustantivo por cuanto a la norma aplicada se le reconocieron efectos distintos a los señalados por el legislador"
+    },
+    {
+      "tema": "VIA DE HECHO",
+      "subtema": "Se desconocieron pagarés expresados en UPACs y su equivalencia en UVRs"
+    }
+  ]
+}

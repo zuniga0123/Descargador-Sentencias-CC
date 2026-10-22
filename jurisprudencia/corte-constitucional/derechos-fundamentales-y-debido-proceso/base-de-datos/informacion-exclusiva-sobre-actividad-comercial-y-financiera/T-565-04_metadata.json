@@ -1,0 +1,57 @@
+{
+  "radicado": "T-565-04",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2004,
+  "fecha_creacion": "2004-06-04",
+  "magistrado_ponente": "Dr MANUEL JOSÉ CEPEDA ESPINOSA",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "BASE DE DATOS",
+  "subtema": "Información exclusiva sobre actividad comercial y financiera",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2004/T-565-04.htm",
+  "fecha_descarga": "2026-10-22T22:20:26.785749+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2004-06-04",
+  "fecha_publicacion": null,
+  "numero": "T-565/04",
+  "tipo_cc": "T",
+  "prov_id": "23714",
+  "tema_relatoria": "DERECHO DE HABEAS DATA. SOLICITUD ACTUALIZACION INFORMACION FINANCIERA POR MORA. PAGO VOLUNTARIO. CADUCIDAD DEL DATO NEGATIVO. TERMINACION CONTRATO SERVICIO DE TELEFONIA CELULAR. COMCEL. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "BASE DE DATOS",
+      "subtema": "Información exclusiva sobre actividad comercial y financiera"
+    },
+    {
+      "tema": "BANCO DE DATOS",
+      "subtema": "Veracidad y exactitud de la información"
+    },
+    {
+      "tema": "BANCO DE DATOS",
+      "subtema": "Límite temporal de datos negativos"
+    },
+    {
+      "tema": "BANCO DE DATOS",
+      "subtema": "Mantenimiento del reporte por el tiempo equivalente al doble del periodo que duró la mora"
+    },
+    {
+      "tema": "CADUCIDAD DEL DATO",
+      "subtema": "Límite temporal"
+    },
+    {
+      "tema": "BANCO DE DATOS",
+      "subtema": "Actualización de registros"
+    },
+    {
+      "tema": "HABEAS DATA",
+      "subtema": "Alcance"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "radicado": "T-009-04",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2004,
+  "fecha_creacion": "2004-01-15",
+  "magistrado_ponente": "Dr MARCO GERARDO MONROY CABRA",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCIÓN DE TUTELA",
+  "subtema": "Procedencia contra decisiones de querellas policivas",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 675 de 2001"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2004/T-009-04.htm",
+  "fecha_descarga": "2026-10-22T22:11:04.300096+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2004-01-15",
+  "fecha_publicacion": null,
+  "numero": "T-009/04",
+  "tipo_cc": "T",
+  "prov_id": "23099",
+  "tema_relatoria": "DERECHO AL DEBIDO PROCESO. VIA DE HECHO. SOLICITUD NULIDAD IMPOSICION AMONESTACION EN PRIVADO POR SUPUESTA AGRESION VERBAL EN CORREDOR INTERNO DE APARTAMENTOS. PROPIEDAD HORIZONTAL. TUTELA CONTRA QUERELLA POLICIVA. INTERPRETACION NORMAS POLICIVAS. CONCE",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Procedencia contra decisiones de querellas policivas"
+    },
+    {
+      "tema": "INSPECTOR DE POLICIA",
+      "subtema": "Autonomía en sus decisiones"
+    },
+    {
+      "tema": "VIA PUBLICA",
+      "subtema": "No la constituyen los corredores de apartamentos"
+    },
+    {
+      "tema": "PRINCIPIO DE LEGALIDAD EN ACTUACION POLICIVA",
+      "subtema": "Vulneración"
+    },
+    {
+      "tema": "DEBIDO PROCESO",
+      "subtema": "Vulneración por indebida interpretación de norma policiva"
+    },
+    {
+      "tema": "PROCESO POLICIVO",
+      "subtema": "Amonestación en privado trasciende el mero llamado de atención"
+    },
+    {
+      "tema": "PROCESO POLICIVO",
+      "subtema": "Motivación en medidas correctivas"
+    }
+  ]
+}

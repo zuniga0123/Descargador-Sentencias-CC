@@ -1,0 +1,41 @@
+{
+  "radicado": "T-255-04",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2004,
+  "fecha_creacion": "2004-03-17",
+  "magistrado_ponente": "Dra CLARA INÉS VARGAS HERNÁNDEZ",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "CONTRATO REALIDAD",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2004/T-255-04.htm",
+  "fecha_descarga": "2026-10-22T22:14:48.782696+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2004-03-17",
+  "fecha_publicacion": null,
+  "numero": "T-255/04",
+  "tipo_cc": "T",
+  "prov_id": "23368",
+  "tema_relatoria": "DERECHO AL DEBIDO PROCESO Y ACCESO A LA ADMINISTRACION DE JUSTICIA. PAGO DE ACREENCIAS LABORALES POR EMPLEADOR. TUTELA CONTRA PROVIDENCIA JUDICIAL. VIA DE HECHO. ELEMENTOS DEL CONTRATO DE TRABAJO. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "CONTRATO REALIDAD",
+      "subtema": null
+    },
+    {
+      "tema": "PRESUNCION DE CONTRATO DE TRABAJO",
+      "subtema": "Carga de la prueba se traslada al empleador"
+    },
+    {
+      "tema": "VIA DE HECHO JUDICIAL",
+      "subtema": "No se acreditó inexistencia de relación laboral"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "radicado": "T-318-04",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2004,
+  "fecha_creacion": "2004-03-31",
+  "magistrado_ponente": "Dr MANUEL JOSE CEPEDA ESPINOSA",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCION DE TUTELA CONTRA ACCIONES U OMISIONES JUDICIALES",
+  "subtema": "Procedencia",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2004/T-318-04.htm",
+  "fecha_descarga": "2026-10-22T22:15:50.989872+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2004-03-31",
+  "fecha_publicacion": null,
+  "numero": "T-318/04",
+  "tipo_cc": "T",
+  "prov_id": "23434",
+  "tema_relatoria": "DERECHO DE DEFENSA Y CONTRADICCION. VIA DE HECHO. SOLICITUD DEVOLUCION CASA ARRENDADA. CONTRATO VERBAL. PROCESO DE PERTENENCIA ALTERNO INSTAURADO POR ESPOSA DE ARRENDATARIO. PRESCRIPCION DE LA PROPIEDAD. MANIOBRAS FRAUDULENTAS. TUTELA CONTRA PROVIDENCIA J",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCION DE TUTELA CONTRA ACCIONES U OMISIONES JUDICIALES",
+      "subtema": "Procedencia"
+    },
+    {
+      "tema": "VIA DE HECHO",
+      "subtema": "Clases de defectos"
+    },
+    {
+      "tema": "PROCESO DE PERTENENCIA Y RECURSO EXTRAORDINARIO DE REVISION",
+      "subtema": "No se podía desestimar recurso con el argumento que el cargo se estructuraba bajo otra causal"
+    },
+    {
+      "tema": "PROCESO DE PERTENENCIA",
+      "subtema": "Al concluirse que la demanda se basó en afirmaciones falsas juez debe vincular al proceso a los propietarios del inmueble"
+    },
+    {
+      "tema": "PROCESO DE PERTENENCIA",
+      "subtema": "Existencia de maniobra fraudulenta por haber dirigido demanda contra persona fallecida"
+    }
+  ]
+}

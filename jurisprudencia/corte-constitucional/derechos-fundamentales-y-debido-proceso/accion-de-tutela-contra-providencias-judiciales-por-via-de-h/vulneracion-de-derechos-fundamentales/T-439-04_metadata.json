@@ -1,0 +1,46 @@
+{
+  "radicado": "T-439-04",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2004,
+  "fecha_creacion": "2004-05-07",
+  "magistrado_ponente": "Dr JAIME CÓRDOBA TRIVIÑO",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCION DE TUTELA CONTRA PROVIDENCIAS JUDICIALES POR VIA DE HECHO",
+  "subtema": "Vulneración de derechos fundamentales",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Decreto 2647 de 1999"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2004/T-439-04.htm",
+  "fecha_descarga": "2026-10-22T22:17:26.491755+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2004-05-07",
+  "fecha_publicacion": null,
+  "numero": "T-439/04",
+  "tipo_cc": "T",
+  "prov_id": "23565",
+  "tema_relatoria": "DERECHO AL DEBIDO PROCESO. VIA DE HECHO. NULIDAD INSANEABLE EN PROCESO CIVIL. RESOLUCION CONTRATO DE PROMESA DE COMPRAVENTA Y RESTITUCION DE BIEN INMUEBLE. CUMPLIMIENTO ORDEN DEL JUEZ DE TUTELA. TUTELA CONTRA PROVIDENCIAS JUDICIALES. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCION DE TUTELA CONTRA PROVIDENCIAS JUDICIALES POR VIA DE HECHO",
+      "subtema": "Vulneración de derechos fundamentales"
+    },
+    {
+      "tema": "JUEZ DE TUTELA",
+      "subtema": "Debe proferir órdenes precisas, claras y directas"
+    },
+    {
+      "tema": "PROCESO CIVIL ORDINARIO",
+      "subtema": "Procedencia de la tutela por nulidad insaneable inadvertida por juez ordinario"
+    },
+    {
+      "tema": "VIA DE HECHO EN PROCESO ORDINARIO POR FALTA DE COMPETENCIA",
+      "subtema": "Se incurrió en error al determinar la cuantía"
+    }
+  ]
+}

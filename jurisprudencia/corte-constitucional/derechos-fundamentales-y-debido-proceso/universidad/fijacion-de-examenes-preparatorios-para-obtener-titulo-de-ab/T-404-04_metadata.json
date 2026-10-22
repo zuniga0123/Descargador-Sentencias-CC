@@ -1,0 +1,56 @@
+{
+  "radicado": "T-404-04",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2004,
+  "fecha_creacion": "2004-04-30",
+  "magistrado_ponente": "Dr RODRIGO ESCOBAR GIL",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "UNIVERSIDAD",
+  "subtema": "Fijación de exámenes preparatorios para obtener título de abogado",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 446 de 1998",
+    "Ley 552 de 1999",
+    "Ley 30 de 1992"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2004/T-404-04.htm",
+  "fecha_descarga": "2026-10-22T22:02:00.893848+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2004-04-30",
+  "fecha_publicacion": null,
+  "numero": "T-404/04",
+  "tipo_cc": "T",
+  "prov_id": "23523",
+  "tema_relatoria": "DERECHOS A LA EDUCACION IGUALDAD DEBIDO PROCESO Y TRABAJO. NEGATIVA A OTORGAR TITULOS DE ABOGADO. FALTA REQUISITOS EXAMENES PREPARATORIOS. AUTONOMIA UNIVERSITARIA. RIESGO SOCIAL. APLICACIÓN PRECEDENTE. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "UNIVERSIDAD",
+      "subtema": "Fijación de exámenes preparatorios para obtener título de abogado"
+    },
+    {
+      "tema": "ABOGADO",
+      "subtema": "Posibilidad de las universidades de exigir mayores requisitos para obtener el grado"
+    },
+    {
+      "tema": "AUTONOMÍA UNIVERSITARIA",
+      "subtema": "Libertad de exigir pruebas de conocimiento, preparatorios, cursos e idiomas"
+    },
+    {
+      "tema": "AUTONOMÍA UNIVERSITARIA",
+      "subtema": "Definición de criterios y sistema de calificación de estudiantes"
+    },
+    {
+      "tema": "AUTONOMÍA UNIVERSITARIA",
+      "subtema": "Exigencia de requisitos que garanticen la mejor calidad de educación"
+    },
+    {
+      "tema": "DERECHO A LA EDUCACIÓN",
+      "subtema": "Implica el deber de cumplir los reglamentos educativos"
+    }
+  ]
+}

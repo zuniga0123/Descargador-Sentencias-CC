@@ -1,0 +1,48 @@
+{
+  "radicado": "T-1214-04",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2004,
+  "fecha_creacion": "2004-12-03",
+  "magistrado_ponente": "Dr MANUEL JOSE CEPEDA ESPINOSA",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCION DE TUTELA CONTRA ACTO ADMINISTRATIVO",
+  "subtema": "Procedencia excepcional",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 142 de 1994",
+    "Ley 689 de 2001",
+    "Ley 599 de 2000"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2004/T-1214-04.htm",
+  "fecha_descarga": "2026-10-22T22:22:12.730469+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2004-12-03",
+  "fecha_publicacion": null,
+  "numero": "T-1214/04",
+  "tipo_cc": "T",
+  "prov_id": "24491",
+  "tema_relatoria": "DERECHO AL DEBIDO PROCESO Y LA DEFENSA DE PENSIONADO USUARIO Y SUSCRIPTOR DE LA ENTIDAD POR LA SANCION IMPUESTA POR LA EMPRESA POR IRREGULARIDADES EN INSTALACIONES ELECTRICAS EN SU CASA DE HABITACION Y DESCONTARLA DE SU MESADA PENSIONAL NO HABIENDO ADQUIR",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCION DE TUTELA CONTRA ACTO ADMINISTRATIVO",
+      "subtema": "Procedencia excepcional"
+    },
+    {
+      "tema": "DEBIDO PROCESO ADMINISTRATIVO",
+      "subtema": "Plenitud de las formas propias de cada juicio"
+    },
+    {
+      "tema": "DEBIDO PROCESO ADMINISTRATIVO",
+      "subtema": "Garantía de los usuarios de las empresas de servicios públicos domiciliarios"
+    },
+    {
+      "tema": "SERVICIOS PUBLICOS DOMICILIARIOS",
+      "subtema": "Aplicación de parámetros constitucionales"
+    }
+  ]
+}

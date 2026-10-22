@@ -1,0 +1,49 @@
+{
+  "radicado": "T-109-04",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2004,
+  "fecha_creacion": "2004-02-12",
+  "magistrado_ponente": "Dr ALFREDO BELTRÁN SIERRA",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "ACCIÓN DE TUTELA",
+  "subtema": "Improcedencia general para cumplimiento de fallos que generen obligaciones de dar",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 573 de 2000",
+    "Decreto 2498 de 1988",
+    "Decreto 1578 de 2001",
+    "Ley 50 de 1990",
+    "Ley 222 de 1995"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2004/T-109-04.htm",
+  "fecha_descarga": "2026-10-22T22:08:11.968837+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2004-02-12",
+  "fecha_publicacion": null,
+  "numero": "T-109/04",
+  "tipo_cc": "T",
+  "prov_id": "23203",
+  "tema_relatoria": "DERECHO AL MINIMO VITAL. SOLICITUD RECONOCIMIENTO PENSION SANCION Y APORTES AL ISS. CUMPLIMIENTO DE FALLOS JUDICIALES. INCLUSION EN NOMINA DE PENSIONADOS Y CALCULO ACTUARIAL. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Improcedencia general para cumplimiento de fallos que generen obligaciones de dar"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Cumplimiento de fallos judiciales para hacer efectivas obligaciones de hacer"
+    },
+    {
+      "tema": "PENSION DE JUBILACION",
+      "subtema": "Inclusión en nómina para el pago por la empresa Alcalis de Colombia en liquidación"
+    },
+    {
+      "tema": "EMPRESA EN LIQUIDACION",
+      "subtema": "Falta de recursos no es excusa para no pago de pensiones"
+    }
+  ]
+}

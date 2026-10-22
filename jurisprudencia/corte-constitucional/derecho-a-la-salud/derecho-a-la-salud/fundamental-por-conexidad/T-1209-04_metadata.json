@@ -1,0 +1,57 @@
+{
+  "radicado": "T-1209-04",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2004,
+  "fecha_creacion": "2004-12-03",
+  "magistrado_ponente": "Dr JAIME CÓRDOBA TRIVIÑO",
+  "area": "Derecho a la Salud",
+  "tema": "DERECHO A LA SALUD",
+  "subtema": "Fundamental por conexidad",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 806 de 1998",
+    "Ley 100 de 1993",
+    "Decreto 606 de 1998",
+    "Decreto 2591 de 1991",
+    "Decreto 753 de 1956"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2004/T-1209-04.htm",
+  "fecha_descarga": "2026-10-22T22:09:32.944950+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2004-12-03",
+  "fecha_publicacion": null,
+  "numero": "T-1209/04",
+  "tipo_cc": "T",
+  "prov_id": "24486",
+  "tema_relatoria": "DERECHO A LA SALUD EN CONEXIDAD CON EL DERECHO A LA VIDA Y LA SEGURIDAD SOCIAL DE AFILIADA QUE HA SIDO ATENDIDA E INTERVENIDA QUIRURGICAMENTE PERO SE LE NIEGA EL ACCESO A CIERTOS SERVICIOS POR CARENCIA DE MINIMOS LEGALES DE COTIZACIÓN. SOLICITA SE ORDENE",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Fundamental por conexidad"
+    },
+    {
+      "tema": "ENFERMEDADES DE ALTO COSTO",
+      "subtema": "Cobro de porcentaje en dinero cuando no se ha cumplido el periodo mínimo de cotización"
+    },
+    {
+      "tema": "DERECHO A LA SALUD Y A LA VIDA",
+      "subtema": "Inaplicación de periodos mínimos de cotización por incapacidad económica del paciente"
+    },
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Continuidad del tratamiento médico sin cumplir periodo mínimo de cotización"
+    },
+    {
+      "tema": "ENFERMEDADES CATASTROFICAS O RUINOSAS",
+      "subtema": "Suministro de tratamientos sin cumplir periodo mínimo de cotización"
+    },
+    {
+      "tema": "ENTIDAD PROMOTORA DE SALUD",
+      "subtema": "Repetición contra el FOSYGA"
+    }
+  ]
+}

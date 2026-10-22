@@ -1,0 +1,42 @@
+{
+  "radicado": "T-880-04",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2004,
+  "fecha_creacion": "2004-09-09",
+  "magistrado_ponente": "Dr MANUEL JOSÉ CEPEDA ESPINOSA",
+  "area": "Derecho a la Salud",
+  "tema": "DERECHO A LA SALUD DEL MENOR",
+  "subtema": "Práctica de ecocardiograma",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Decreto 806 de 1998"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2004/T-880-04.htm",
+  "fecha_descarga": "2026-10-22T22:14:23.292924+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2004-09-09",
+  "fecha_publicacion": null,
+  "numero": "T-880/04",
+  "tipo_cc": "T",
+  "prov_id": "24101",
+  "tema_relatoria": "DERECHO A LA VIDA LA INTEGRIDAD Y LA SALUD DE MENOR DE EDAD SORDOMUDO BENEFICIARIO DEL REGIMEN SUBSIDIADO A QUIEN LA ENTIDAD NO LE AUTORIZA TRATAMIENTO NO POS FONOAUDIOLOGICO NI CIRUGIA ORDENADOS POR MEDICO TRATANTE. DERECHO A LA SALUD DE LOS MENORES ES",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA SALUD DEL MENOR",
+      "subtema": "Práctica de ecocardiograma"
+    },
+    {
+      "tema": "DERECHO A LA SALUD DEL MENOR EN REGIMEN SUBSIDIADO",
+      "subtema": "Atención médica por problemas auditivos que está excluida en el POS-S"
+    },
+    {
+      "tema": "DERECHO A LA SALUD DEL MENOR",
+      "subtema": "Cirugía y práctica de procedimientos médicos que están incluidos en el POS-S"
+    }
+  ]
+}

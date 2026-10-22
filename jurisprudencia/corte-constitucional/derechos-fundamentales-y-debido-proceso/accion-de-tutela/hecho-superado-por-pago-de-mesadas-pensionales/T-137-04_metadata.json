@@ -1,0 +1,42 @@
+{
+  "radicado": "T-137-04",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2004,
+  "fecha_creacion": "2004-02-19",
+  "magistrado_ponente": "Dr MANUEL JOSE CEPEDA ESPINOSA",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCIÓN DE TUTELA",
+  "subtema": "Hecho superado por pago de mesadas pensionales",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 617 de 2000",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2004/T-137-04.htm",
+  "fecha_descarga": "2026-10-22T22:19:16.776356+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2004-02-19",
+  "fecha_publicacion": null,
+  "numero": "T-137/04",
+  "tipo_cc": "T",
+  "prov_id": "23236",
+  "tema_relatoria": "DERECHOS A LA VIDA MINIMO VITAL Y SEGURIDAD SOCIAL. PAGO OPORTUNO DE ACREENCIAS LABORALES. MESADAS PENSIONALES. SUSTRACCION DE MATERIA. CARENCIA ACTUAL DE OBJETO. LLAMADO A PREVENCION. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Hecho superado por pago de mesadas pensionales"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Sustracción de materia"
+    },
+    {
+      "tema": "MUNICIPIO",
+      "subtema": "Omisión de gestiones presupuestales para pago de mesadas pensionales"
+    }
+  ]
+}

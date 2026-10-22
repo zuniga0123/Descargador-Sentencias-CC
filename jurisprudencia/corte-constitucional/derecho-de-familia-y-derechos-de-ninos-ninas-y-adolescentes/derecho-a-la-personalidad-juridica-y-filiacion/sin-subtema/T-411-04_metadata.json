@@ -1,0 +1,60 @@
+{
+  "radicado": "T-411-04",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2004,
+  "fecha_creacion": "2004-05-06",
+  "magistrado_ponente": "Jaime Araujo Rentería",
+  "area": "Derecho de Familia y Derechos de Niños, Niñas y Adolescentes",
+  "tema": "DERECHO A LA PERSONALIDAD JURIDICA Y FILIACION",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 721 de 2001",
+    "Ley 1260 de 1970",
+    "Decreto 2591 de 1991",
+    "Ley 75 de 1968"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2004/T-411-04.htm",
+  "fecha_descarga": "2026-10-22T22:02:04.544032+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2004-05-06",
+  "fecha_publicacion": null,
+  "numero": "T-411/04",
+  "tipo_cc": "T",
+  "prov_id": "23539",
+  "tema_relatoria": "DERECHOS AL DEBIDO PROCESO PERSONALIDAD JURIDICA Y ESTADO CIVIL. VIA DE HECHO. JUEZ DESCONOCE PRUEBA ANTROPOHEREDOBIOLOGICA DE ADN. PROCESO DE FILIACION EXTRAMATRIMONIAL. PREVALENCIA DERECHO SUSTANCIAL. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA PERSONALIDAD JURIDICA Y FILIACION",
+      "subtema": null
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Procedencia para el caso aunque no se interpuso recurso de apelación en proceso de filiación extramatrimonial"
+    },
+    {
+      "tema": "PROCESO DE FILIACION",
+      "subtema": "Importancia de la prueba de ADN"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Demostración de conducta arbitraria de juez al no tener en cuenta prueba de ADN"
+    },
+    {
+      "tema": "PRINCIPIO DE PREVALENCIA DEL DERECHO SUSTANCIAL",
+      "subtema": "Caso en que se debió tener en cuenta prueba de ADN antes de fallar"
+    },
+    {
+      "tema": "INVESTIGACION DE PATERNIDAD",
+      "subtema": "Prueba de ADN debió ser tenida en cuenta al decidir el proceso"
+    },
+    {
+      "tema": "PRUEBA ANTROPOHEREDOBIOLOGICA",
+      "subtema": "Importancia para decidir proceso"
+    }
+  ]
+}

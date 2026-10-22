@@ -1,0 +1,43 @@
+{
+  "radicado": "T-566-04",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2004,
+  "fecha_creacion": "2004-06-04",
+  "magistrado_ponente": "Dr MANUEL JOSÉ CEPEDA ESPINOSA",
+  "area": "Derecho a la Salud",
+  "tema": "DERECHO A LA SALUD Y A LA VIDA DE ENFERMO DE SIDA",
+  "subtema": "Traslado de EPS por mala prestación del servicio",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 1485 de 1994",
+    "Decreto 1382 de 2000",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2004/T-566-04.htm",
+  "fecha_descarga": "2026-10-22T22:20:30.384662+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2004-06-04",
+  "fecha_publicacion": null,
+  "numero": "T-566/04",
+  "tipo_cc": "T",
+  "prov_id": "23715",
+  "tema_relatoria": "DERECHOS A LA IGUALDAD VIDA SALUD Y LIBRE ESCOGENCIA DE PERSONA CON VIH. SOLICITUD TRASLADO Y AFILIACION A OTRA EPS POR MALA PRESTACION DEL SERVICIO. COFINANCIACION TRATAMIENTO. ISS. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA SALUD Y A LA VIDA DE ENFERMO DE SIDA",
+      "subtema": "Traslado de EPS por mala prestación del servicio"
+    },
+    {
+      "tema": "SISTEMA GENERAL DE SEGURIDAD SOCIAL EN SALUD",
+      "subtema": "Mala prestación o suspensión del servicio permiten a usuarios con tratamientos de alto costo cambiar de EPS o ARS"
+    },
+    {
+      "tema": "SISTEMA GENERAL DE SEGURIDAD SOCIAL EN SALUD",
+      "subtema": "Cuando hay mala prestación del servicio por la entidad, las EPS o ARS deben aceptar la solicitud de traslado del afiliado"
+    }
+  ]
+}

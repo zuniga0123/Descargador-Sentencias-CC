@@ -1,0 +1,46 @@
+{
+  "radicado": "T-163-04",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2004,
+  "fecha_creacion": "2004-02-25",
+  "magistrado_ponente": "Dr JAIME ARAÚJO RENTERÍA",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "MEDIO DE DEFENSA JUDICIAL",
+  "subtema": "Reliquidación mesada pensional",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 1382 de 2000",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2004/T-163-04.htm",
+  "fecha_descarga": "2026-10-22T21:59:58.846359+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2004-02-25",
+  "fecha_publicacion": null,
+  "numero": "T-163/04",
+  "tipo_cc": "T",
+  "prov_id": "23265",
+  "tema_relatoria": "DERECHOS A LA VIDA MINIMO VITAL Y SEGURIDAD SOCIAL. SOLICITUD RELIQUIDACION MESADA PENSIONAL. EXISTENCIA DE OTRO MECANISMO JUDICIAL. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "MEDIO DE DEFENSA JUDICIAL",
+      "subtema": "Reliquidación mesada pensional"
+    },
+    {
+      "tema": "JURISDICCION CONTENCIOSO ADMINISTRATIVA",
+      "subtema": "Solicitud de reliquidación e indexación una vez agotada la vía gubernativa"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Improcedencia reliquidación de mesada pensional"
+    },
+    {
+      "tema": "PENSION DE JUBILACION",
+      "subtema": "Solicitud a la Universidad para que la reliquide y la indexe"
+    }
+  ]
+}

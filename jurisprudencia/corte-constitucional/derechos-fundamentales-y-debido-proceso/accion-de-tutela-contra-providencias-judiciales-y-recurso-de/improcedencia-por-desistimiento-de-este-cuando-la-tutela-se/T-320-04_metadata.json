@@ -1,0 +1,47 @@
+{
+  "radicado": "T-320-04",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2004,
+  "fecha_creacion": "2004-04-01",
+  "magistrado_ponente": "Dr JAIME CÓRDOBA TRIVIÑO",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCION DE TUTELA CONTRA PROVIDENCIAS JUDICIALES Y RECURSO DE CASACION",
+  "subtema": "Improcedencia por desistimiento de éste cuando la tutela se encontraba en trámite de revisión",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 6 de 1992",
+    "Decreto 2108 de 1992"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2004/T-320-04.htm",
+  "fecha_descarga": "2026-10-22T22:15:54.624403+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2004-04-01",
+  "fecha_publicacion": null,
+  "numero": "T-320/04",
+  "tipo_cc": "T",
+  "prov_id": "23438",
+  "tema_relatoria": "DERECHOS A LA IGUALDAD AL DEBIDO PROCESO Y AL ACCESO A LA ADMINISTRACION DE JUSTICIA. SOLICITUD RECONOCIMIENTO Y PAGO DE REAJUSTE PENSIONAL. VIA DE HECHO. TUTELA CONTRA PROVIDENCIAS JUDICIALES. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCION DE TUTELA CONTRA PROVIDENCIAS JUDICIALES Y RECURSO DE CASACION",
+      "subtema": "Improcedencia por desistimiento de éste cuando la tutela se encontraba en trámite de revisión"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Procedencia excepcional"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Improcedencia por existir otro medio de defensa judicial"
+    },
+    {
+      "tema": "VIA DE HECHO JUDICIAL",
+      "subtema": "Clases de defectos en la actuación"
+    }
+  ]
+}

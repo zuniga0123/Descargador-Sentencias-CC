@@ -1,0 +1,46 @@
+{
+  "radicado": "T-837-04",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2004,
+  "fecha_creacion": "2004-09-01",
+  "magistrado_ponente": "Dr MARCO GERARDO MONROY CABRA",
+  "area": "Derecho a la Salud",
+  "tema": "DERECHO A LA SALUD",
+  "subtema": "Exigencia de periodo mínimo de cotización",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 806 de 1998",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2004/T-837-04.htm",
+  "fecha_descarga": "2026-10-22T22:24:02.114556+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2004-09-01",
+  "fecha_publicacion": null,
+  "numero": "T-837/04",
+  "tipo_cc": "T",
+  "prov_id": "24054",
+  "tema_relatoria": "DERECHO A LA SALUD DE AFILIADO POR LA NEGATIVA DE LA ENTIDAD A PRACTICARLE INTEVENCION QUIRURGICA PROGRAMADA QUE REQUIERE CON URGENCIA COMO CONSECUENCIA DE LA DESAFILIACION POR TERMINACIÓN DE LA RELACION LABORAL. SOLICITA SE ORDENE LA PRACTICA DE LA CIRUG",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Exigencia de periodo mínimo de cotización"
+    },
+    {
+      "tema": "PRINCIPIO DE CONTINUIDAD Y EFICIENCIA EN EL SERVICIO DE SALUD",
+      "subtema": null
+    },
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Práctica de cirugía"
+    },
+    {
+      "tema": "PLAN OBLIGATORIO DE SALUD",
+      "subtema": "Tiempo de cubrimiento de los servicios una vez finalizada la relación laboral y estando el tratamiento médico en curso"
+    }
+  ]
+}

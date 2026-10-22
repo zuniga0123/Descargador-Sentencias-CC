@@ -1,0 +1,54 @@
+{
+  "radicado": "T-066-04",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2004,
+  "fecha_creacion": "2004-02-02",
+  "magistrado_ponente": "Dr JAIME ARAÚJO RENTERÍA",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "REGISTRO CIVIL",
+  "subtema": "Corrección por los interesados o por decisión judicial",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto Ley 1260 de 1970",
+    "Decreto 999 de 1998",
+    "Decreto 2241 de 1986",
+    "Decreto 2591 de 1991",
+    "Decreto 1260 de 1970",
+    "Decreto 999 de 1988"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2004/T-066-04.htm",
+  "fecha_descarga": "2026-10-22T22:06:58.404729+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2004-02-02",
+  "fecha_publicacion": null,
+  "numero": "T-066/04",
+  "tipo_cc": "T",
+  "prov_id": "23163",
+  "tema_relatoria": "DERECHOS DE PETICION BUEN NOMBRE LIBRE DESARROLLO DE LA PERSONALIDAD IGUALDAD Y PERSONALIDAD JURIDICA. CANCELACION CEDULA DE CIUDADANIA POR REPORTE DE MUERTE DEL CIUDADANO. ALTERACION Y CORRECCION AUTORIZADA DEL REGISTRO CIVIL MEDIANTE DECISION JUDICIAL E",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "REGISTRO CIVIL",
+      "subtema": "Corrección por los interesados o por decisión judicial"
+    },
+    {
+      "tema": "DERECHO DE PETICIÓN",
+      "subtema": "No se vulneró por cuanto la Registraduría dió respuesta"
+    },
+    {
+      "tema": "CEDULA DE CIUDADANIA",
+      "subtema": "Finalidad"
+    },
+    {
+      "tema": "DERECHO A LA PERSONALIDAD JURIDICA",
+      "subtema": "No se vulneró por estar en discusión la identidad del peticionario"
+    },
+    {
+      "tema": "REGISTRO CIVIL DE NACIMIENTO",
+      "subtema": "Función"
+    }
+  ]
+}

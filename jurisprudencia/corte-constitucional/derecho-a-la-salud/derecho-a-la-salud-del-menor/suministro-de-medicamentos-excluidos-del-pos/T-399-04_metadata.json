@@ -1,0 +1,42 @@
+{
+  "radicado": "T-399-04",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2004,
+  "fecha_creacion": "2004-04-29",
+  "magistrado_ponente": "Dra CLARA INES VARGAS HERNANDEZ",
+  "area": "Derecho a la Salud",
+  "tema": "DERECHO A LA SALUD DEL MENOR",
+  "subtema": "Suministro de medicamentos excluidos del POS",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Decreto 1938 de 1994"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2004/T-399-04.htm",
+  "fecha_descarga": "2026-10-22T22:22:09.100719+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2004-04-29",
+  "fecha_publicacion": null,
+  "numero": "T-399/04",
+  "tipo_cc": "T",
+  "prov_id": "23520",
+  "tema_relatoria": "DERECHO A LA SALUD Y SEGURIDAD SOCIAL DE BENEFICIARIA MENOR DE EDAD. SOLICITUD TRATAMIENTO DE PUBERTAD PRECOZ Y SUMINISTRO HORMONA PARA EL CRECIMIENTO NO INCLUIDO EN EL POS. INTERES SUPERIOR Y PREVALENTE. NO REINTEGRO DE DINEROS. CARENCIA ACTUAL DE OBJETO",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA SALUD DEL MENOR",
+      "subtema": "Suministro de medicamentos excluidos del POS"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Improcedencia reembolso de dineros por asunción de costos médicos"
+    },
+    {
+      "tema": "DERECHO A LA SALUD DEL MENOR",
+      "subtema": "Suministro de hormonas de crecimiento"
+    }
+  ]
+}

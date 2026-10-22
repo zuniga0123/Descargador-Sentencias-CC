@@ -1,0 +1,45 @@
+{
+  "radicado": "T-111-04",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2004,
+  "fecha_creacion": "2004-02-12",
+  "magistrado_ponente": "Dr MARCO GERARDO MONROY CABRA",
+  "area": "Derecho a la Salud",
+  "tema": "DERECHO A LA SALUD",
+  "subtema": "Condiciones para realización de tratamiento excluido del POS",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2004/T-111-04.htm",
+  "fecha_descarga": "2026-10-22T22:01:27.515330+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2004-02-12",
+  "fecha_publicacion": null,
+  "numero": "T-111/04",
+  "tipo_cc": "T",
+  "prov_id": "23205",
+  "tema_relatoria": "DERECHO A LA SALUD Y VIDA. SUMINISTRO MALLA PARA CIRUGIA DE HERNIA INGUINAL PRESCRITA POR MEDICO TRATANTE NO INCLUIDA EN EL POS. CONTINUIDAD EN EL SERVICIO. ACCION DE REPETICION. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Condiciones para realización de tratamiento excluido del POS"
+    },
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Atención de órdenes prescritas por médico tratante"
+    },
+    {
+      "tema": "ENTIDAD PROMOTORA DE SALUD",
+      "subtema": "Suministro de malla para cirugía de hernia inguinal y repetición contra el Fosyga"
+    },
+    {
+      "tema": "DERECHO A LA CONTINUIDAD EN EL SERVICIO DE SALUD",
+      "subtema": "Deber de las EPS de garantizarlo"
+    }
+  ]
+}

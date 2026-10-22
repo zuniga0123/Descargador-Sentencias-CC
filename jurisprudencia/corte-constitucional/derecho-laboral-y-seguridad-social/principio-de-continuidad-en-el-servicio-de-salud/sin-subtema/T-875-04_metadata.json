@@ -1,0 +1,54 @@
+{
+  "radicado": "T-875-04",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2004,
+  "fecha_creacion": "2004-09-09",
+  "magistrado_ponente": "Dr ALFREDO BELTRÁN SIERRA",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "PRINCIPIO DE CONTINUIDAD EN EL SERVICIO DE SALUD",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 776 de 2002",
+    "Decreto 1295 de 1994",
+    "Ley 100 de 1993",
+    "Decreto Ley 1295 de 1994",
+    "Decreto 2463 de 2001",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2004/T-875-04.htm",
+  "fecha_descarga": "2026-10-22T22:14:05.040893+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2004-09-09",
+  "fecha_publicacion": null,
+  "numero": "T-875/04",
+  "tipo_cc": "T",
+  "prov_id": "24096",
+  "tema_relatoria": "DERECHO AL DEBIDO PROCESO LA SALUD Y LA SEGURIDAD SOCIAL INTEGRAL EN CONEXIDAD CON LA VIDA DE CONDUCTOR CON INCAPACIDAD PERMANENTE A QUIEN LA ARP LE NIEGA LA CONTINUIDAD EN EL TRATAMIENTO LA ATENCIÓN BASICA INTEGRAL Y EL PAGO DE LAS INCAPACIDADES POR QUE",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "PRINCIPIO DE CONTINUIDAD EN EL SERVICIO DE SALUD",
+      "subtema": null
+    },
+    {
+      "tema": "SISTEMA INTEGRAL DE SEGURIDAD SOCIAL EN REGIMEN DE RIESGOS PROFESIONALES",
+      "subtema": null
+    },
+    {
+      "tema": "ACCIDENTE DE TRABAJO",
+      "subtema": "Siniestro con causa o con ocasión de actividad laboral"
+    },
+    {
+      "tema": "ACCIDENTE DE TRABAJO",
+      "subtema": "No atención de salud por parte de la ARP"
+    },
+    {
+      "tema": "ADMINISTRADORA DE RIESGOS PROFESIONALES FRENTE A ACCIDENTE DE TRABAJO",
+      "subtema": "Decisión de objetarlo no implica ipso iure interrupción en prestación de seguridad social"
+    }
+  ]
+}

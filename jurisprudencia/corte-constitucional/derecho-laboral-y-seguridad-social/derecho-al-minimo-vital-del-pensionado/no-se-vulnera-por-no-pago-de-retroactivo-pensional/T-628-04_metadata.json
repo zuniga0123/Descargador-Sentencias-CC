@@ -1,0 +1,44 @@
+{
+  "radicado": "T-628-04",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2004,
+  "fecha_creacion": "2004-07-01",
+  "magistrado_ponente": "Dr ALFREDO BELTRÁN SIERRA",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "DERECHO AL MINIMO VITAL DEL PENSIONADO",
+  "subtema": "No se vulnera por no pago de retroactivo pensional",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 813 de 1994",
+    "Decreto 1160 de 1994",
+    "Ley 100 de 1993",
+    "Decreto 758 de 1990"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2004/T-628-04.htm",
+  "fecha_descarga": "2026-10-22T22:22:52.724480+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2004-07-01",
+  "fecha_publicacion": null,
+  "numero": "T-628/04",
+  "tipo_cc": "T",
+  "prov_id": "23789",
+  "tema_relatoria": "DERECHO AL DEBIDO PROCESO E IGUALDAD. SOLICITUD PAGO RETROACTIVO PENSION DE JUBILACION RECONOCIDA. PENSION COMPARTIDA. EXISTENCIA DE OTRO MEDIO DE DEFENSA JUDICIAL. SENA. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO AL MINIMO VITAL DEL PENSIONADO",
+      "subtema": "No se vulnera por no pago de retroactivo pensional"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Improcedencia pago del retroactivo pensional"
+    },
+    {
+      "tema": "MEDIO DE DEFENSA JUDICIAL EFICAZ",
+      "subtema": "Pago de retroactivo pensional"
+    }
+  ]
+}

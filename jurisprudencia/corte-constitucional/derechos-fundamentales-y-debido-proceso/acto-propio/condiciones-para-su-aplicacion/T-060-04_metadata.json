@@ -1,0 +1,62 @@
+{
+  "radicado": "T-060-04",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2004,
+  "fecha_creacion": "2004-01-29",
+  "magistrado_ponente": "Dr ALVARO TAFUR GALVIS",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACTO PROPIO",
+  "subtema": "Condiciones para su aplicación",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 546 de 1999"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2004/T-060-04.htm",
+  "fecha_descarga": "2026-10-22T22:00:57.766691+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2004-01-29",
+  "fecha_publicacion": null,
+  "numero": "T-060/04",
+  "tipo_cc": "T",
+  "prov_id": "23154",
+  "tema_relatoria": "DERECHO AL DEBIDO PROCESO. SOLICITUD EXPEDICION MINUTA CANCELACION HIPOTECA POR PAZ Y SALVO. REVERSA DE ALIVIO FINANCIERO. BUENA FE. CONFIANZA LEGITIMA. RESPETO DEL ACTO PROPIO. POSICION DOMINANTE. BCH. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACTO PROPIO",
+      "subtema": "Condiciones para su aplicación"
+    },
+    {
+      "tema": "DEBIDO PROCESO",
+      "subtema": "Vulneración por revivir deuda hipotecaria ya cancelada"
+    },
+    {
+      "tema": "ENTIDAD FINANCIERA",
+      "subtema": "Modificación unilateral de sus actos vulnera el respeto al acto propio"
+    },
+    {
+      "tema": "ENTIDAD FINANCIERA",
+      "subtema": "Posición dominante"
+    },
+    {
+      "tema": "ACTO PROPIO",
+      "subtema": "Respeto"
+    },
+    {
+      "tema": "ENTIDAD FINANCIERA",
+      "subtema": "Información errada solo puede modificarse con el consentimiento del cliente"
+    },
+    {
+      "tema": "DERECHOS FUNDAMENTALES",
+      "subtema": "Vulneración por entidad financiera al revocar unilateralmente sus propios actos"
+    },
+    {
+      "tema": "DEBIDO PROCESO",
+      "subtema": "Respeto del acto propio"
+    }
+  ]
+}

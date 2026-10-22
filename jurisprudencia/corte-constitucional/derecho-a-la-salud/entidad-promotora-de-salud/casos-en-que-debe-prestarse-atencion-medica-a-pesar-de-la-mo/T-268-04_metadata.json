@@ -1,0 +1,47 @@
+{
+  "radicado": "T-268-04",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2004,
+  "fecha_creacion": "2004-03-19",
+  "magistrado_ponente": "Dr JAIME CÓRDOBA TRIVIÑO",
+  "area": "Derecho a la Salud",
+  "tema": "ENTIDAD PROMOTORA DE SALUD",
+  "subtema": "Casos en que debe prestarse atención médica a pesar de la mora patronal",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto Ley 2591 de 1991",
+    "Ley 100 de 1993",
+    "Decreto 806 de 1998"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2004/T-268-04.htm",
+  "fecha_descarga": "2026-10-22T22:15:14.535730+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2004-03-19",
+  "fecha_publicacion": null,
+  "numero": "T-268/04",
+  "tipo_cc": "T",
+  "prov_id": "23384",
+  "tema_relatoria": "DERECHO A LA SALUD Y SEGURIDAD SOCIAL DE MENOR DE EDAD. SOLICITUD ATENCION MEDICA INTEGRAL. MORA DEL EMPLEADOR EN PAGO DE APORTES EN SALUD. OBLIGACION DE LA EPS DE PRESTAR EL SERVICIO ANTE MORA DEL EMPLEADOR. ACCION DE REPETICION. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ENTIDAD PROMOTORA DE SALUD",
+      "subtema": "Casos en que debe prestarse atención médica a pesar de la mora patronal"
+    },
+    {
+      "tema": "DERECHO A LA SALUD DEL MENOR",
+      "subtema": "Atención médica"
+    },
+    {
+      "tema": "DERECHO A LA SALUD DEL MENOR",
+      "subtema": "No puede afectarse por mora patronal en pago de aportes"
+    },
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Mora patronal no exonera a la EPS de la prestación del servicio"
+    }
+  ]
+}

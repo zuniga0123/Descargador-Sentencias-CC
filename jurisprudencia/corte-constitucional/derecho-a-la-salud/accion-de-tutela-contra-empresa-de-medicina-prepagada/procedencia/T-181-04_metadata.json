@@ -1,0 +1,49 @@
+{
+  "radicado": "T-181-04",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2004,
+  "fecha_creacion": "2004-03-03",
+  "magistrado_ponente": "Dr RODRIGO ESCOBAR GIL",
+  "area": "Derecho a la Salud",
+  "tema": "ACCION DE TUTELA CONTRA EMPRESA DE MEDICINA PREPAGADA",
+  "subtema": "Procedencia",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 100 de 1993",
+    "Decreto 806 de 1998",
+    "Decreto 1486 de 1994",
+    "Decreto 1222 de 1994"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2004/T-181-04.htm",
+  "fecha_descarga": "2026-10-22T22:21:25.096745+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2004-03-03",
+  "fecha_publicacion": null,
+  "numero": "T-181/04",
+  "tipo_cc": "T",
+  "prov_id": "23286",
+  "tema_relatoria": "DERECHOS A LA SALUD LA SEGURIDAD SOCIAL Y LA VIDA. SOLICITUD PRACTICA DE EXAMENES MEDICAMENTOS INTERVENCIONES DERIVADAS DEL SINDROME STURGE WEBER. CONTRATOS DE MEDICINA PREPAGADA. DIFERENCIA ENTRE PLAN ADICIONAL DE SALUD (PAS) Y PLAN OBLIGATORIO DE SALUD",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCION DE TUTELA CONTRA EMPRESA DE MEDICINA PREPAGADA",
+      "subtema": "Procedencia"
+    },
+    {
+      "tema": "CONTRATO DE MEDICINA PREPAGADA",
+      "subtema": "Exclusión expresa de enfermedades, procedimientos y tratamientos médicos"
+    },
+    {
+      "tema": "ENTIDAD PROMOTORA DE SALUD",
+      "subtema": "Responsabilidad frente a prestación del POS cuando se tiene contratado un PAS"
+    },
+    {
+      "tema": "DERECHO A LA SALUD DEL MENOR EN CONTRATO DE MEDICINA PREPAGADA",
+      "subtema": "Obligación de prestar atención médica"
+    }
+  ]
+}

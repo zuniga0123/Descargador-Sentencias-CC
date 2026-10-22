@@ -1,0 +1,75 @@
+{
+  "radicado": "T-487-04",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2004,
+  "fecha_creacion": "2004-05-20",
+  "magistrado_ponente": "Dr JAIME ARAÚJO RENTERÍA",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "CADUCIDAD DEL DATO",
+  "subtema": "Límite temporal",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 57 de 1987",
+    "Decreto 2591 de 1991",
+    "Ley 794 de 2003"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2004/T-487-04.htm",
+  "fecha_descarga": "2026-10-22T22:19:35.359813+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2004-05-20",
+  "fecha_publicacion": null,
+  "numero": "T-487/04",
+  "tipo_cc": "T",
+  "prov_id": "23618",
+  "tema_relatoria": "DERECHO AL OLVIDO Y HABEAS DATA DE FIADORA. SOLICITUD PAZ Y SALVO. LEVANTAMIENTO EMBARGO Y SECUESTRO DE INMUEBLE. PERENCION PROCESO EJECUTIVO ESTANCADO. RECTIFICACION INFORMACION FINANCIERA VERACIDAD DEL DATO. TERMINO DE CADUCIDAD. MAXIMO 10 AÑOS. NEGADA",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "CADUCIDAD DEL DATO",
+      "subtema": "Límite temporal"
+    },
+    {
+      "tema": "HABEAS DATA",
+      "subtema": "Núcleo esencial"
+    },
+    {
+      "tema": "LEY ESTATUTARIA DE HABEAS DATA",
+      "subtema": "Deber de establecer término de caducidad del dato financiero"
+    },
+    {
+      "tema": "BASE DE DATOS",
+      "subtema": "Finalidad"
+    },
+    {
+      "tema": "DERECHO AL BUEN NOMBRE",
+      "subtema": "Actualización de información negativa en banco de datos corresponde a quien normalizó el pago"
+    },
+    {
+      "tema": "BANCO DE DATOS",
+      "subtema": "Veracidad de la información"
+    },
+    {
+      "tema": "ENTIDAD FINANCIERA",
+      "subtema": "Reporte de información negativa a los bancos de datos por estar vigente la deuda"
+    },
+    {
+      "tema": "ENTIDAD FINANCIERA",
+      "subtema": "No expedición de paz y salvo por estar vigente la deuda"
+    },
+    {
+      "tema": "HABEAS DATA",
+      "subtema": "Elementos"
+    },
+    {
+      "tema": "HABEAS DATA",
+      "subtema": "Finalidad"
+    },
+    {
+      "tema": "PROCESO EJECUTIVO",
+      "subtema": "Su pago y exigibilidad no han podido hacerse efectivas"
+    }
+  ]
+}

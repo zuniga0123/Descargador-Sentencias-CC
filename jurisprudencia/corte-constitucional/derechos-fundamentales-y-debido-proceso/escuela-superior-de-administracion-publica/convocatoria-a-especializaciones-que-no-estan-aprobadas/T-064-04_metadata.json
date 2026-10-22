@@ -1,0 +1,50 @@
+{
+  "radicado": "T-064-04",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2004,
+  "fecha_creacion": "2004-01-29",
+  "magistrado_ponente": "Dr EDUARDO MONTEALEGRE LYNETT",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ESCUELA SUPERIOR DE ADMINISTRACION PUBLICA",
+  "subtema": "Convocatoria a especializaciones que no están aprobadas",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 30 de 1992"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2004/T-064-04.htm",
+  "fecha_descarga": "2026-10-22T22:01:05.148769+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2004-01-29",
+  "fecha_publicacion": null,
+  "numero": "T-064/04",
+  "tipo_cc": "T",
+  "prov_id": "23158",
+  "tema_relatoria": "DERECHOS A LA EDUCACION IGUALDAD LIBRE DESARROLLO DE LA PERSONALIDAD Y TRABAJO. SOLICITUD ENTREGA TITULO DE ESPECIALISTA EN FINANZAS PUBLICAS. FALTA REGISTRO PROGRAMA ANTE EL ICFES. CONFIANZA LEGITIMA. CONCECIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ESCUELA SUPERIOR DE ADMINISTRACION PUBLICA",
+      "subtema": "Convocatoria a especializaciones que no están aprobadas"
+    },
+    {
+      "tema": "ESCUELA SUPERIOR DE ADMINISTRACION PUBLICA",
+      "subtema": "Naturaleza jurídica"
+    },
+    {
+      "tema": "ESCUELA SUPERIOR DE ADMINISTRACION PUBLICA",
+      "subtema": "Debe otorgar los títulos de especialistas en finanzas públicas"
+    },
+    {
+      "tema": "DERECHO A LA EDUCACIÓN",
+      "subtema": "Vulneración por no otorgar la ESAP el título de especialistas"
+    },
+    {
+      "tema": "PRINCIPIO DE LA BUENA FE Y PRINCIPIO DE CONFIANZA LEGITIMA",
+      "subtema": "Vulneración por no otorgar la ESAP el título de especialistas"
+    }
+  ]
+}

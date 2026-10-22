@@ -1,0 +1,59 @@
+{
+  "radicado": "T-1242-04",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2004,
+  "fecha_creacion": "2004-12-10",
+  "magistrado_ponente": "Dr RODRIGO ESCOBAR GIL",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "EDUCACION NO FORMAL",
+  "subtema": "Componente del sistema educativo",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 1889 de 1994",
+    "Decreto 2150 de 1995",
+    "Decreto 2591 de 1991",
+    "Ley 100 de 1993",
+    "Ley 797 de 2003",
+    "Ley 115 de 1994",
+    "Decreto 114 de 1996"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2004/T-1242-04.htm",
+  "fecha_descarga": "2026-10-22T22:03:25.361986+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2004-12-10",
+  "fecha_publicacion": null,
+  "numero": "T-1242/04",
+  "tipo_cc": "T",
+  "prov_id": "24520",
+  "tema_relatoria": "DERECHO A LA EDUCACIÓN LA SEGURIDAD SOCIAL PAGO OPORTUNO DE LA PENSION DE SOBREVIVIENTE AL MINIMO VITAL AL LIBRE DESARROLLO DE LA PERSONALIDAD Y A LA IGUALDAD DE BENEFICIARIO DE UNA PENSION DE SOBRVIVIENTE RECONOCIDA POR EL FONDO POR RAZON DE MANTENER SUS",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "EDUCACION NO FORMAL",
+      "subtema": "Componente del sistema educativo"
+    },
+    {
+      "tema": "EDUCACION NO FORMAL",
+      "subtema": "Finalidad"
+    },
+    {
+      "tema": "PENSIÓN DE SOBREVIVIENTES",
+      "subtema": "Beneficiario estudiante debe presentar certificado expedido por establecimiento de educación formal"
+    },
+    {
+      "tema": "DERECHO AL LIBRE DESARROLLO DE LA PERSONALIDAD",
+      "subtema": "Vulneración al imponer al educando matricularse en institución de educación formal para acceder a pensión de sobrevivientes"
+    },
+    {
+      "tema": "DERECHO A LA EDUCACIÓN",
+      "subtema": "Protección frente a todos los ámbitos del sistema educativo"
+    },
+    {
+      "tema": "PENSIÓN DE SOBREVIVIENTES",
+      "subtema": "Calidad de estudiante no puede predicarse solo de estudiantes matriculados en instituciones de educación formal"
+    }
+  ]
+}

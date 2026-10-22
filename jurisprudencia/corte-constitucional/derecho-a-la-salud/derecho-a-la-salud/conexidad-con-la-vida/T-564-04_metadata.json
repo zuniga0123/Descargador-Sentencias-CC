@@ -1,0 +1,58 @@
+{
+  "radicado": "T-564-04",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2004,
+  "fecha_creacion": "2004-06-03",
+  "magistrado_ponente": "Dr ALFREDO BELTRÁN SIERRA",
+  "area": "Derecho a la Salud",
+  "tema": "DERECHO A LA SALUD",
+  "subtema": "Conexidad con la vida",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Ley 361 de 1997"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2004/T-564-04.htm",
+  "fecha_descarga": "2026-10-22T22:20:23.117703+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2004-06-03",
+  "fecha_publicacion": null,
+  "numero": "T-564/04",
+  "tipo_cc": "T",
+  "prov_id": "23713",
+  "tema_relatoria": "DERECHO A LA VIDA Y SALUD DE MADRE CABEZA DE FAMILIA. SOLICITUD PRACTICA CIRUGIA DE COLECISTECTOMIA. CUBRIMIENTO TOTAL. REGIMEN SUBSIDIADO. SISBEN. FALTA CAPACIDAD ECONOMICA. ACCION DE REPETICION. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Conexidad con la vida"
+    },
+    {
+      "tema": "SECRETARIA DE SALUD Y ALCALDIA MUNICIPAL",
+      "subtema": "Cubrimiento del valor total de la cirugía de la accionante y repetición contra el Fosyga"
+    },
+    {
+      "tema": "SISBEN",
+      "subtema": "No existe claridad en el nivel de pobreza al que pertenece la accionante"
+    },
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "No debe exigirse el copago por cuanto no es clara la situación económica de la accionante"
+    },
+    {
+      "tema": "SISBEN",
+      "subtema": "Regulación ineficiente para detectar a las personas pobres"
+    },
+    {
+      "tema": "SISBEN",
+      "subtema": "Regulación ineficiente y contraria al orden público de la salud"
+    },
+    {
+      "tema": "SISBEN",
+      "subtema": "Errores en el sistema de selección de beneficiarios no puede constituir una carga para ellos"
+    }
+  ]
+}

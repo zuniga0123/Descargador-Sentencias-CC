@@ -1,0 +1,69 @@
+{
+  "radicado": "T-800-04",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2004,
+  "fecha_creacion": "2004-08-26",
+  "magistrado_ponente": "Dr ALFREDO BELTRÁN SIERRA",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "DERECHO DE DEFENSA",
+  "subtema": "Le fue garantizado a la sociedad portuaria",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 794 de 2003",
+    "Decreto 2591 de 1991",
+    "Decreto 1382 de 2000",
+    "Decreto 1818 de 1998",
+    "Decreto 2279 de 1989",
+    "Decreto 2282 de 1989",
+    "Ley 23 de 1991",
+    "Ley 446 de 1998",
+    "Decreto 2651 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2004/T-800-04.htm",
+  "fecha_descarga": "2026-10-22T22:13:35.398188+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2004-08-26",
+  "fecha_publicacion": null,
+  "numero": "T-800/04",
+  "tipo_cc": "T",
+  "prov_id": "24013",
+  "tema_relatoria": "DERECHO AL DEBIDO PROCESO DEFENSA E IGUALDAD DURANTE PROCESO ARBITRAL. RECHAZO DE RECURSO DE REPOSICIÓN CONTRA AUTO Y NO SUSPENSION DE TERMINOS PARA EJERCER DERECHO DE CONTRADICCIÓN. DEBIDO PROCESO COMPRENDE DEFENSA Y GARANTIA DE CONTRADICCIÓN PUBLICIDA",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO DE DEFENSA",
+      "subtema": "Le fue garantizado a la sociedad portuaria"
+    },
+    {
+      "tema": "DERECHO DE CONTRADICCION",
+      "subtema": "Solicitud de aclaraciones y complementaciones por la sociedad portuaria"
+    },
+    {
+      "tema": "JUEZ",
+      "subtema": "Valoración de pruebas"
+    },
+    {
+      "tema": "TRIBUNAL DE ARBITRAMENTO",
+      "subtema": "Traslado de aclaraciones y adiciones sobre dictámenes periciales"
+    },
+    {
+      "tema": "DERECHO DE DEFENSA",
+      "subtema": "Sociedad portuaria dejó vencer el término para objetar por error grave los dictámenes"
+    },
+    {
+      "tema": "MEDIO DE DEFENSA JUDICIAL",
+      "subtema": "Nulidad del laudo arbitral"
+    },
+    {
+      "tema": "PROCESO ARBITRAL",
+      "subtema": "Garantía de publicidad y contradicción"
+    },
+    {
+      "tema": "PROCESO ARBITRAL",
+      "subtema": "Garantía del debido proceso"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "radicado": "T-790-04",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2004,
+  "fecha_creacion": "2004-08-19",
+  "magistrado_ponente": "Dr ALVARO TAFUR GALVIS",
+  "area": "Derecho Administrativo y Función Pública",
+  "tema": "ACTO ADMINISTRATIVO",
+  "subtema": "Notificación ficta o presunta",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 758 de 1990",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2004/T-790-04.htm",
+  "fecha_descarga": "2026-10-22T22:13:20.289672+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2004-08-19",
+  "fecha_publicacion": null,
+  "numero": "T-790/04",
+  "tipo_cc": "T",
+  "prov_id": "23998",
+  "tema_relatoria": "DERECHO AL DEBIDO PROCESO DEFENSA PAGO OPORTUNO DE PENSIONES Y AL MINIMO VITAL DE PERSONA A QUIEN EL INSTITUTO LE HABIA RECONOCIDO PENSION ESPECIAL POR VEJEZ Y POSTERIORMENTE EN FORMA UNILATERAL LE REVOCA LA DECISION SIN CONSENTIMIENTO DEL ACTOR ADUCIEN",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACTO ADMINISTRATIVO",
+      "subtema": "Notificación ficta o presunta"
+    },
+    {
+      "tema": "ACTO ADMINISTRATIVO",
+      "subtema": "Notificación personal o por edicto"
+    },
+    {
+      "tema": "ACTO ADMINISTRATIVO",
+      "subtema": "Notificación"
+    },
+    {
+      "tema": "ACTO ADMINISTRATIVO",
+      "subtema": "Excepción al requisito de la notificación"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Procedencia cuando se revocan actos administrativos en los que se reconocen derechos pensionales"
+    },
+    {
+      "tema": "PENSION DE VEJEZ",
+      "subtema": "Reconocimiento y pago de mesadas"
+    },
+    {
+      "tema": "REVOCACION DIRECTA DE ACTO ADMINISTRATIVO PARTICULAR Y CONCRETO",
+      "subtema": "Consentimiento expreso y escrito del titular"
+    },
+    {
+      "tema": "SEGURO SOCIAL",
+      "subtema": "Revocatoria pensión de vejez sin consentimiento del titular"
+    }
+  ]
+}

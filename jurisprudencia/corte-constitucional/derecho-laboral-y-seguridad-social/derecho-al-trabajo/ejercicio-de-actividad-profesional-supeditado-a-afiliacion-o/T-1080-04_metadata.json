@@ -1,0 +1,50 @@
+{
+  "radicado": "T-1080-04",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2004,
+  "fecha_creacion": "2004-10-29",
+  "magistrado_ponente": "Dr JAIME ARAÚJO RENTERÍA",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "DERECHO AL TRABAJO",
+  "subtema": "Ejercicio de actividad profesional supeditado a afiliación o creación de una cooperativa",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 734 de 2002",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2004/T-1080-04.htm",
+  "fecha_descarga": "2026-10-22T22:05:08.640901+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2004-10-29",
+  "fecha_publicacion": null,
+  "numero": "T-1080/04",
+  "tipo_cc": "T",
+  "prov_id": "24324",
+  "tema_relatoria": "DERECHO A LA LIBRE ASOCIACION DE MEDICO A QUIEN NO LE RENOVARON CONTRATO DE PRESTACIÓN DE SERVICIOS POR NO ESTAR AFILIADO A UNA COOPERATIVA. SOLICITA SE ORDENE A LA ENTIDAD NO CONDICIONAR LA PERMANENCIA LABORAL A LA INSTITUCIÓN A LA AFILIACION A UNA COOP",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO AL TRABAJO",
+      "subtema": "Ejercicio de actividad profesional supeditado a afiliación o creación de una cooperativa"
+    },
+    {
+      "tema": "EMPRESA SOCIAL DE SALUD",
+      "subtema": "Decisión de afiliación obligatoria a Cooperativa de trabajo asociado so pena de no renovación de contrato de servicios a médicos contratistas"
+    },
+    {
+      "tema": "DERECHO DE ASOCIACION",
+      "subtema": "Vulneración por obligación de afiliación a Cooperativa de trabajo asociado"
+    },
+    {
+      "tema": "ESTABLECIMIENTO HOSPITALARIO",
+      "subtema": "Ejercicio de actividad profesional supeditada a afiliación"
+    },
+    {
+      "tema": "DERECHO DE ASOCIACION",
+      "subtema": "Diferentes factores subjetivos que sirven como prueba para demostrar el constreñimiento"
+    }
+  ]
+}
