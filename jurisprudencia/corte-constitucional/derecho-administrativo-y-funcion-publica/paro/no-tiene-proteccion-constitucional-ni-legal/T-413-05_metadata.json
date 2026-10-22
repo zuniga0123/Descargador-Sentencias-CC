@@ -1,0 +1,50 @@
+{
+  "radicado": "T-413-05",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2005,
+  "fecha_creacion": "2005-04-15",
+  "magistrado_ponente": "Dr HUMBERTO ANTONIO SIERRA PORTO",
+  "area": "Derecho Administrativo y Función Pública",
+  "tema": "PARO",
+  "subtema": "No tiene protección constitucional ni legal",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Decreto 1647 de 1967"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2005/T-413-05.htm",
+  "fecha_descarga": "2026-10-22T20:47:41.376257+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2005-04-15",
+  "fecha_publicacion": null,
+  "numero": "T-413/05",
+  "tipo_cc": "T",
+  "prov_id": "25028",
+  "tema_relatoria": null,
+  "resumen": "DERECHO AL DEBIDO PROCESO DE DOCENTES Y PERSONAL ADMINISTRATIVO DEL DEPARTAMENTO DEL CESAR A QUIENES EN RAZON DE LA CONVOCATORIA EFECTUADA POR FECODE Y ADUCESAR A UN PARO POR 24 HORAS LA GOBERNACIÓN DEL DEPARTAMENTO DESCONTO DEL SALARIO EL DIA DE PARO SIN PREVIAMENTE VERIFICAR SI EFECTIVAMENTE FUE O NO TRABAJADO. SOLICITAN SE ORDENE EL REINTEGRO Y CANCELACIÓN DEL DIA DE SALARIO DESCONTADO. DERECHOS A LA LIBERTAD DE ASOCIACION Y DE ASOCIACIÓN. DERECHO AL DEBIDO PROCESO. PUEDE LA ADMINISTRACIÓN PROCEDER AL NO PAGO DE LOS DIAS NO LABORADOS POR EL SERVIDOR PUBLICO Y ESTE A SU VEZ DEBE ENTENDER QUE IGUALMENTE NO TIENE DERECHO A RECLAMAR QUE ESTOS LE SEAN PAGADOS CUANDO EFECTIVAMENTE SE HA COMPROBADO QUE SUS SERVICIOS NO SE PRESTARON. CONCEDIDA",
+  "titulaciones": [
+    {
+      "tema": "PARO",
+      "subtema": "No tiene protección constitucional ni legal"
+    },
+    {
+      "tema": "SERVIDOR PUBLICO",
+      "subtema": "No pago de salarios a docente por días no laborados"
+    },
+    {
+      "tema": "DEBIDO PROCESO",
+      "subtema": "Vulneración por no pago de salarios a docentes que no participaron en paro"
+    },
+    {
+      "tema": "HUELGA DECLARADA JUDICIALMENTE Y PARO COLECTIVO DE LABORES",
+      "subtema": "Diferencias con el paro de labores"
+    },
+    {
+      "tema": "SERVIDOR PUBLICO",
+      "subtema": "Remuneración presupone el deber de prestar efectivamente el servicio"
+    }
+  ]
+}

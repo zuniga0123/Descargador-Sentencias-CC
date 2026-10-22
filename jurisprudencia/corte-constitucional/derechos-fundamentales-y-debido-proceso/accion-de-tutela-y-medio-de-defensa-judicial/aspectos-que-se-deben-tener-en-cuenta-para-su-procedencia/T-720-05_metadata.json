@@ -1,0 +1,53 @@
+{
+  "radicado": "T-720-05",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2005,
+  "fecha_creacion": "2005-07-07",
+  "magistrado_ponente": "Dr HUMBERTO ANTONIO SIERRA PORTO",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCION DE TUTELA Y MEDIO DE DEFENSA JUDICIAL",
+  "subtema": "Aspectos que se deben tener en cuenta para su procedencia",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 142 de 1994",
+    "Decreto 2591 de 1991",
+    "Ley 143 de 1994",
+    "Decreto 1303 de 1989",
+    "Ley 126 de 1938"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2005/T-720-05.htm",
+  "fecha_descarga": "2026-10-22T20:55:17.999346+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2005-07-07",
+  "fecha_publicacion": null,
+  "numero": "T-720/05",
+  "tipo_cc": "T",
+  "prov_id": "25404",
+  "tema_relatoria": null,
+  "resumen": "DERECHO AL DEBIDO PROCESO DE SUSCRIPTORES USUARIOS DEL SERVICIO PUBLICO DOMICILIARIO DE ENERGIA ELECTRICA CON OCASIÓN DE LOS PROCEDIMIENTOS ADMINISTRATIVOS ADELANTADOS POR LA ENTIDAD PARA DETECTAR ANOMALIAS O IRREGULARIDADES EN LAS INSTALACIONES ELECTRICAS Y PROCEDER A EFECTUAR LOS COBROS POR LAS IRREGULARIDADES DETECTADAS EN LOS EQUIPOS DE MEDICION Y LA SUSPENSIÓN DEL SERVICIO POR NEGARSE A PAGAR LA FACTURA ADICIONAL. SOLICITAN ANULAR LA FACTURA ADICIONAL POR CONCEPTO DE ENERGIA CONSUMIDA Y DEJADA DE FACTURAR LA RECONEXIÓN DEL SERVICIO DE ENERGIA ELECTRICA Y LA ANULACIÓN DEL COBRO POR RECONEXIÓN DEL SERVICIO. PROCEDENCIA DE LA ACCION DE TUTELA CONTRA UN PARTICULAR ENCARGADO DE LA PRESTACIÓN DE UN SERVICIO PUBLICO DOMICILIARIO Y PARA LA PROTECCIÓN DE LOS DERECHOS FUNDAMENTALES DE LOS USUARIOS. LAS EMPRESAS PRESTADORAS DE SERVICIOS PUBLICOS DOMICILIARIOS CARECEN DE LA PRERROGATIVA PUBLICA DE IMPONER SANCIONES PECUNIARIAS A LOS USUARIOS. EL COBRO DE LA ENERGIA CONSUMIDA DEJADA DE FACTURAR NO ES UNA SANCION PECUNIARIA Y SE AJUSTA A LAS PRERROGATIVAS CONCEDIDAS POR LOS ARTICULOS 149 Y 150 DE LA LEY 142 DE 1994. NEGADA",
+  "titulaciones": [
+    {
+      "tema": "ACCION DE TUTELA Y MEDIO DE DEFENSA JUDICIAL",
+      "subtema": "Aspectos que se deben tener en cuenta para su procedencia"
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA PARTICULARES",
+      "subtema": "Casos en que procede"
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA PARTICULARES QUE PRESTAN SERVICIO PUBLICO",
+      "subtema": "Procedencia cuando la vulneración del derecho fundamental se produce con ocasión a la prestación del servicio"
+    },
+    {
+      "tema": "ENTIDAD PRESTADORA DE SERVICIOS PUBLICOS DOMICILIARIOS",
+      "subtema": "Se autoriza el recaudo de lo dejado de facturar"
+    },
+    {
+      "tema": "ENTIDAD PRESTADORA DE SERVICIOS PUBLICOS DOMICILIARIOS",
+      "subtema": "Carece de prerrogativas para imponer sanciones pecuniarias a los usuarios"
+    }
+  ]
+}
