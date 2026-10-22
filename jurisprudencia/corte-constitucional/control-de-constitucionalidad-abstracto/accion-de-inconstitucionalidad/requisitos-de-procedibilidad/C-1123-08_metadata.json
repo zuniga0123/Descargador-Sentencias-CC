@@ -1,0 +1,57 @@
+{
+  "radicado": "C-1123-08",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2008,
+  "fecha_creacion": "2008-11-12",
+  "magistrado_ponente": null,
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "ACCION DE INCONSTITUCIONALIDAD",
+  "subtema": "Requisitos de procedibilidad",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2067 de 1991",
+    "Ley 863 de 2003",
+    "Ley 788 de 2002",
+    "Ley 1111 de 2006",
+    "Decreto 624 de 1989"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2008/C-1123-08.htm",
+  "fecha_descarga": "2026-10-22T17:49:39.944353+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2008-11-12",
+  "fecha_publicacion": null,
+  "numero": "C-1123/08",
+  "tipo_cc": "C",
+  "prov_id": "30400",
+  "tema_relatoria": "FALLO INHIBITORIO POR INEPTITUD DE DEMANDA DE INCONSTITUCIONALIDAD CONTRA NORMA DE LA LEY 863 DE 2003",
+  "resumen": "LEY 863 DE 2003 (PARCIAL) \"POR LA CUAL SE ESTABLECEN NORMAS TRIBUTARIAS, ADUANERAS, FISCALES Y DE CONTROL PARA ESTIMULAR EL CRECIMIENTO ECONÓMICO Y EL SANEAMIENTO DE LAS FINANZAS PÚBLICAS\". LITERAL B DEL ARTÍCULO 46. EN SENTIR DEL ACTOR, LA NORMA QUE SE ACUSA PREVÉ UN MISMO CASTIGO PARA INFRACCIONES TRIBUTARIAS DE DISTINTA ENTIDAD, LO CUAL CONTRARÍA LA IGUALDAD MATERIAL Y LA JUSTICIA, ASÍ COMO LOS PRINCIPIOS DE EQUIDAD, EFICIENCIA Y PROGRESIVIDAD. LA CORTE ESTABLECIÓ QUE LA DEMANDA PRESENTADA EN CONTRA DE LA DISPOSICIÓN DE QUE SE ACUSA NO CUMPLE CON LOS REQUISITOS EXIGIDOS AL RESPECTO, PUES NO EXISTE COINCIDENCIA ENTRE EL TEXTO TRANSCRITO EN LA DEMANDA Y LA VERSIÓN PUBLICADA EN EL DIARIO OFICIAL. POR ELLO, SE DECIDIÓ INHIBIRSE DE EMITIR UN PRONUNCIAMIENTO DE FONDO SOBRE LAS EXPRESIONES DEMANDADAS",
+  "titulaciones": [
+    {
+      "tema": "ACCION DE INCONSTITUCIONALIDAD",
+      "subtema": "Requisitos de procedibilidad"
+    },
+    {
+      "tema": "CORTE CONSTITUCIONAL",
+      "subtema": "Incompetencia para examinar de oficio normas no acusadas mediante la acción pública de inconstitucionalidad"
+    },
+    {
+      "tema": "PRINCIPIO PRO ACTIONE",
+      "subtema": "Inaplicación"
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "Aplicación del principio pro actione"
+    },
+    {
+      "tema": "INHIBICION DE LA CORTE CONSTITUCIONAL",
+      "subtema": "Incumplimiento de requisitos mínimos de procedibilidad"
+    },
+    {
+      "tema": "INHIBICION DE LA CORTE CONSTITUCIONAL",
+      "subtema": "Omisión en la demanda de citar las disposiciones contra la que se dirige la acusación"
+    }
+  ]
+}

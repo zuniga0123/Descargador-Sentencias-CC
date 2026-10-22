@@ -1,0 +1,49 @@
+{
+  "radicado": "T-173-07",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2007,
+  "fecha_creacion": "2007-03-13",
+  "magistrado_ponente": "Dr NILSON PINILLA PINILLA",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCIÓN DE TUTELA",
+  "subtema": "Exclusión de reportes negativos del actor en las bases de datos",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2007/T-173-07.htm",
+  "fecha_descarga": "2026-10-22T18:10:48.138277+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2007-03-13",
+  "fecha_publicacion": null,
+  "numero": "T-173/07",
+  "tipo_cc": "T",
+  "prov_id": "27830",
+  "tema_relatoria": null,
+  "resumen": "DERECHO AL BUEN NOMBRE Y AL HABEAS DATA DE PERSONA REPORTADA ANTE LA CENTRAL DE INFORMACION FINANCIERA (CIFIN) Y EN DATACREDITO POR UNA OBLIGACION QUE FUE SANEADA EN LOS ESTRADOS JUDICIALES PERO QUE LA ENTIDAD SE NIEGA A RETIRAR DEL SISTEMA.SOLICITA SE ORDENE LA ACTUALIZACION DE SU SITUACION CON LA ENTIDAD Y EN CONSECUENCIA SU RETIRO DEL SISTEMA.EL DERECHO DE HABEAS DATA Y LA POSICION DOMINANTE DE LAS INSTITUCIONES FINANCIERAS. TERMINO DE CADUCIDAD PARA EL DATO NEGATIVO.CONCEDIDA",
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Exclusión de reportes negativos del actor en las bases de datos"
+    },
+    {
+      "tema": "BANCO DE DATOS",
+      "subtema": "Límite temporal de datos negativos"
+    },
+    {
+      "tema": "CADUCIDAD DEL DATO",
+      "subtema": "Reglas jurisprudenciales sobre límite temporal"
+    },
+    {
+      "tema": "ENTIDAD BANCARIA",
+      "subtema": "Posición dominante"
+    },
+    {
+      "tema": "DERECHO AL HABEAS DATA",
+      "subtema": "Concepto"
+    }
+  ]
+}
