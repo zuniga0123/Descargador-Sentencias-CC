@@ -1,0 +1,44 @@
+{
+  "radicado": "T-757-06",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2006,
+  "fecha_creacion": "2006-08-31",
+  "magistrado_ponente": "Jaime Araújo Rentería",
+  "area": "Derecho a la Salud",
+  "tema": "DERECHO A LA SALUD Y A LA VIDA",
+  "subtema": "Suministro de tratamiento médico por EPS y repetición contra el Fosyga",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 806 de 1998",
+    "Ley 715 de 2001",
+    "Acto Legislativo 1 de 2001",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2006/T-757-06.htm",
+  "fecha_descarga": "2026-10-22T19:15:49.000096+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2006-08-31",
+  "fecha_publicacion": null,
+  "numero": "T-757/06",
+  "tipo_cc": "T",
+  "prov_id": "27137",
+  "tema_relatoria": null,
+  "resumen": "DERECHO A LA SEGURIDAD SOCIAL SALUD EN CONEXIDAD CON LA VIDA. POR MEDICO DE LA EPS SE RECOMENDO SE PRACTICARA UNA \"ANGIOPLASTIA PERIFERICA CON IMPLANTACION DE STENT EN FEMORAL SUPERFICIAL DE MIT\" EPS SE NIEGA A PRESTAR SERVICIO POR MANDATO LEGAL NO PODER DAR CUBRIMIENTO A LA PROTESIS SOLICITADA. REITERACION DE JURISPRUDENCIA EN MATERIA DE NO POS. CONCEDIDA.",
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA SALUD Y A LA VIDA",
+      "subtema": "Suministro de tratamiento médico por EPS y repetición contra el Fosyga"
+    },
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Prueba de la incapacidad económica para asumir costo del medicamento o tratamiento excluido del POS"
+    },
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Suministro de medicamentos excluidos del POS"
+    }
+  ]
+}

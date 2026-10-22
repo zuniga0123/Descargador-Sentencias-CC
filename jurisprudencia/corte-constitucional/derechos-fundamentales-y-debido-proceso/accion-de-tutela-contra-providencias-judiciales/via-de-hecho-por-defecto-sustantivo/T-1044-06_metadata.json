@@ -1,0 +1,57 @@
+{
+  "radicado": "T-1044-06",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2006,
+  "fecha_creacion": "2006-12-05",
+  "magistrado_ponente": "Rodrigo Escobar Gil",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+  "subtema": "Vía de hecho por defecto sustantivo",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2006/T-1044-06.htm",
+  "fecha_descarga": "2026-10-22T19:08:03.989033+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2006-12-05",
+  "fecha_publicacion": null,
+  "numero": "T-1044/06",
+  "tipo_cc": "T",
+  "prov_id": "27533",
+  "tema_relatoria": null,
+  "resumen": "DERECHO A LA DEFENSA Y AL DEBIDO PROCESO EN EL TRAMITE DE DEMANDA EJECUTIVA HIPOTECARIA INICIADA POR EL BANCO POPULAR CON EL FIN DE OBTENER EL PAGO DE OBLIGACIONES DINERARIAS ADQUIRIDAS POR LA FECHA CONSIDERADA POR LA AUTORIDADA JUDICIAL PARA CONFIGURAR LA NOTIFICACION POR CONDUCTA CONCLUYENTE DE DOS DE LOS EJECUTADOS Y LA INTERPRETACION DADA AL ARTICULO 792 DEL CODIGO DE COMERCIO EN QUE LAS CAUSAS DE INTERRUPCION DE LA PRESCRIPCION EN EL CASO DE UN DEUDOR PRODUJO EL MISMO EFECTO RESPECTO DE LOS DEMAS OBLIGADOS.SOLICITA SE REVOQUEN LAS PROVIDENCIAS DICTADAS POR LAS AUTORIDADES JUDICIALES Y EN SU LUGAR SE DECLARE PROBADA LA EXCEPCION DE PRESCRIPCION DE TODOS LOS TITULOS VALORES COBRADOS EN LA DEMANDA.TUTELA CONTRA PROVIDENCIAS JUDICIALES. LA ACCION DE TUTELA Y LAS PROVIDENCIAS JUDICIALES. EL DEFECTO SUSTANTIVO. LA INTERPRETACION DE LOS ARTICULOS 330 DEL ANTERIOR CODIGO DE PROCEDIMIENTO CIVIL Y 792 DEL CODIGO DE COMERCIO.TANTO EL JUZGADO COMO LA SALA DEL TRIBUNAL ESTIMARON QUE LOS DEMANDADOS EN EL PROCESO EJECUTIVO ERAN DEUDORES PARI GRADU Y LA RAZONABILIDAD DE LA INTERPRETACION JUDICIAL INDICA QUE LA APLICACIÓN DEL ARTICULO 792 DEL CODIGO DE COMERCIO CORRESPONDE A LAS FACULTADES ATRIBUIDA A LOS JUECES NO SIENDO DEL RESORTE DEL JUEZ CONSTITUCIONAL PROCEDER A CONTROVERTIRLA.NEGADA",
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Vía de hecho por defecto sustantivo"
+    },
+    {
+      "tema": "NOTIFICACION POR CONDUCTA CONCLUYENTE",
+      "subtema": "Interpretación del artículo 330 del C de PC"
+    },
+    {
+      "tema": "JUEZ DE TUTELA",
+      "subtema": "No es competente para declarar probada excepción de prescripción de títulos valores"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Improcedencia por incumplir requisito de inmediatez"
+    },
+    {
+      "tema": "PRESCRIPCIÓN",
+      "subtema": "Interpretación del artículo 792 del C de Co"
+    },
+    {
+      "tema": "NOTIFICACION POR CONDUCTA CONCLUYENTE",
+      "subtema": "Caso en que no se interpuso recurso contra providencia"
+    },
+    {
+      "tema": "PRESCRIPCIÓN",
+      "subtema": "Causales de interrupción en las obligaciones solidarias"
+    }
+  ]
+}

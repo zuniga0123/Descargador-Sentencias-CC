@@ -1,0 +1,51 @@
+{
+  "radicado": "T-418-06",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2006,
+  "fecha_creacion": "2006-05-26",
+  "magistrado_ponente": "Dr JAIME CÓRDOBA TRIVIÑO",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "ACCIÓN DE TUTELA",
+  "subtema": "Procedencia pago de mesadas pensionales atrasadas cuando se afecta el mínimo vital",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Decreto 2591 de 1991",
+    "Ley 60 de 1993"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2006/T-418-06.htm",
+  "fecha_descarga": "2026-10-22T19:22:29.164636+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2006-05-26",
+  "fecha_publicacion": null,
+  "numero": "T-418/06",
+  "tipo_cc": "T",
+  "prov_id": "26723",
+  "tema_relatoria": null,
+  "resumen": "DERECHO AL PAGO OPORTUNO DE LA MESADA DE PENSIONADO A QUIEN SE LE ADEUDAN LAS MESADAS DE VARIOS MESES EN RAZON DE UN CONVENIO DE CONCURRENCIA ENTRE LA NACION EL DEPARTAMENTO Y EL MUNICIPIO DE MANIZALES. SOLICITA SE ORDENE A FIDUCAFE EL PAGO DE LAS MESADAS ATRASADAS. PROCEDENCIA DE LA ACCIÓN DE TUTELA PARA EL RECLAMO DE MESADAS PENSIONALES ATRASADAS CUANDO DE ELLAS DEPENDE LA SATISFACCIÓN DEL DERECHO AL MÍNIMO VITAL. INOPONIBILIDAD DE LAS CONTROVERSIAS ADMINISTRATIVAS ENTRE LAS ENTIDADES DEL SISTEMA DE SEGURIDAD SOCIAL FRENTE AL TITULAR DEL DERECHO A LA PENSIÓN. EN AQUELLOS CASOS EN LOS CUALES NO ES DEL TODO CLARO CUAL ES LA ENTIDAD VERDADERAMENTE RESPONSABLE DE LA OBLIGACIÓN EL JUEZ CONSTITUCIONAL DEBE PROFERIR UNA TUTELA TRANSITORIA DEJANDO EN LIBERTAD A LA ENTIDAD CONDENADA PARA QUE REPITA MEDIANTE EL PROCESO CORRESPONDIENTE CONTRA LA O LAS ENTIDADES QUE EN SU CRITERIO DEBEN ASUMIR EN TODO O EN PARTE LA RESPECTIVA OBLIGACIÓN Y PARA EL COBRO DE LOS PERJUICIOS CAUSADOS. CONCEDIDA",
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Procedencia pago de mesadas pensionales atrasadas cuando se afecta el mínimo vital"
+    },
+    {
+      "tema": "ACCION DE TUTELA TRANSITORIA",
+      "subtema": "Pago de la pensión transitoriamente por la entidad que en principio parezca tener a su cargo la obligación"
+    },
+    {
+      "tema": "DERECHO AL MINIMO VITAL DEL PENSIONADO",
+      "subtema": "Procedencia de tutela cuando existe discusión sobre la entidad que debe pagar la pensión"
+    },
+    {
+      "tema": "DERECHO AL MINIMO VITAL DEL PENSIONADO",
+      "subtema": "Pago oportuno de mesadas"
+    },
+    {
+      "tema": "PENSION DE JUBILACION",
+      "subtema": "Controversias entre entidades responsables del pago, no pueden afectar al titular del derecho"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "radicado": "T-359-06",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2006,
+  "fecha_creacion": "2006-05-11",
+  "magistrado_ponente": "Dr JAIME ARAÚJO RENTERÍA",
+  "area": "Derecho Administrativo y Función Pública",
+  "tema": "ACTO ADMINISTRATIVO",
+  "subtema": "Suspensión",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 446 de 1998",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2006/T-359-06.htm",
+  "fecha_descarga": "2026-10-22T19:17:51.857630+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2006-05-11",
+  "fecha_publicacion": null,
+  "numero": "T-359/06",
+  "tipo_cc": "T",
+  "prov_id": "26648",
+  "tema_relatoria": null,
+  "resumen": "DERECHO AL DEBIDO PROCESO DE PENSIONADO A QUIEN POR DECISION DEL TRIBUNAL CONTENCIOSO ADMINISTRATIVO DE CUNDINAMARCA SECCION SEGUNDA SUBSECCION B LA ENTIDAD LE REDUJO LA PENSION DE JUBILACION ACATANDO UNA MEDIDA DE SUSPENSION QUE SUPUESTAMENTE NO SE ENCONTRABA EN FIRME POR NO HABERSE RESUELTO EL RECURSO DE APELACION INTERPUESTO. SOLICITA INAPLICAR EL ACTO DE EJECUCION CONTENIDO EN LA RESOLUCION 611 DE 18 DE MAYO DE 2005 Y EL RESTABLECIMIENTO DE SU DERECHO. LA ACCION DE TUTELA CONTRA ACTOS ADMINISTRATIVOS. IMPROCEDENCIA Y EXCEPCION. CONDICIONES PARA LA PROCEDENCIA DE LA ACCION DE TUTELA. LA CORTE EVIDENCIA QUE LA ACCION DE NULIDAD Y RESTABLECIMIENTO DEL DERECHO CONSAGRADA EN EL ARTICULO 85 DEL C.C.A ES EL MECANISMO IDONEO PARA ATACAR EL ACTO ADMINISTRATIVO EMITIDO POR LA ENTIDAD ACCIONADA. NEGADA",
+  "titulaciones": [
+    {
+      "tema": "ACTO ADMINISTRATIVO",
+      "subtema": "Suspensión"
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA ACTO ADMINISTRATIVO",
+      "subtema": "Se requiere que se cause un perjuicio irremediable"
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA ACTO ADMINISTRATIVO",
+      "subtema": "Condiciones para procedencia excepcional"
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA ACTO ADMINISTRATIVO",
+      "subtema": "Improcedencia general"
+    },
+    {
+      "tema": "PERJUICIO IRREMEDIABLE",
+      "subtema": "Inexistencia ya que en virtud de la suspensión provisional solo se le está descontando una parte de la pensión al actor"
+    }
+  ]
+}
