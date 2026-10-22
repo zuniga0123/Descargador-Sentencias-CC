@@ -1,0 +1,70 @@
+{
+  "radicado": "T-022-05",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2005,
+  "fecha_creacion": "2005-01-20",
+  "magistrado_ponente": "Dr MARCO GERARDO MONROY CABRA",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "COSA JUZGADA",
+  "subtema": "Se funda en el principio de seguridad jurídica",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 133 de 1948"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2005/T-022-05.htm",
+  "fecha_descarga": "2026-10-22T21:11:46.648547+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2005-01-20",
+  "fecha_publicacion": null,
+  "numero": "T-022/05",
+  "tipo_cc": "T",
+  "prov_id": "24553",
+  "tema_relatoria": null,
+  "resumen": "DERECHO AL DEBIDO PROCESO DENTRO DEL TRAMITE DE EJECUCION ADELANTADO POR EL BANCO DE BOGOTA EN EL QUE LA CONDENA SE FUNDAMENTO EN UN PAGARE ADULTERADO EN EL QUE LAS CIFRAS NO CORRESPONDEN A LAS QUE DEBIERON ANOTARSE CONFORME CON LA CARTA DE INSTRUCCIONES DEL MISMO. PROCEDENCIA DE LA TUTELA CONTRA PROVIDENCIAS JUDICIALES. AUSENCIA DE VIA DE HECHO. NEGADA",
+  "titulaciones": [
+    {
+      "tema": "COSA JUZGADA",
+      "subtema": "Se funda en el principio de seguridad jurídica"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Mecanismo subsidiario para evitar un perjuicio irremediable pero inapropiado para reabrir debate jurídico"
+    },
+    {
+      "tema": "ACCION DE TUTELA FRENTE A DECISIONES JURISDICCIONALES",
+      "subtema": "Procedencia restringida cuando exista vía de hecho"
+    },
+    {
+      "tema": "PRINCIPIO DE COSA JUZGADA Y PRINCIPIO DE SUBSIDIARIEDAD",
+      "subtema": "Imposibilidad jurídica de reabrir debate jurídico sobre legitimidad de título valor"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Improcedencia para aducir nuevas pruebas que pongan en duda autenticidad de título valor en proceso ejecutivo"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Improcedencia por no existir vía de hecho en proceso ejecutivo"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Procedencia para evitar perjuicio irremediable"
+    },
+    {
+      "tema": "COSA JUZGADA CONSTITUCIONAL EN TUTELA",
+      "subtema": "Valor definitorio como valor fundante y razón de ser del proceso"
+    },
+    {
+      "tema": "PROCESO EJECUTIVO",
+      "subtema": "No pueden aducirse nuevas pruebas que pongan en duda autenticidad de título valor"
+    },
+    {
+      "tema": "PROCESO EJECUTIVO",
+      "subtema": "Agotamiento previo sobre autenticidad o falsedad de pagaré objeto de ejecución"
+    }
+  ]
+}

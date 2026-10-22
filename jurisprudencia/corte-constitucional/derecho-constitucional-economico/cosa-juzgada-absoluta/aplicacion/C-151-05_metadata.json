@@ -1,0 +1,47 @@
+{
+  "radicado": "C-151-05",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2005,
+  "fecha_creacion": "2005-02-22",
+  "magistrado_ponente": "Dr ALVARO TAFUR GALVIS",
+  "area": "Derecho Constitucional Económico",
+  "tema": "COSA JUZGADA ABSOLUTA",
+  "subtema": "Aplicación",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 863 de 2003",
+    "Decreto 2067 de 1991",
+    "Ley 633 de 2000"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2005/C-151-05.htm",
+  "fecha_descarga": "2026-10-22T21:26:53.441458+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2005-02-22",
+  "fecha_publicacion": null,
+  "numero": "C-151/05",
+  "tipo_cc": "C",
+  "prov_id": "24720",
+  "tema_relatoria": "DERECHO A LA IGUALDAD EN IMPUESTO SOBRE LAS VENTAS. DIFERENCIA DE TRATO EN CONDICIÓN ESTABLECIDA PARA PERTENECER AL RÉGIMEN SIMPLIFICADO",
+  "resumen": "LEY 863 DE 2003 ART. 14 NUMERAL 3. SE ESTABLECEN NORMAS TRIBUTARIAS ADUANERAS FISCALES Y DE CONTROL PARA ESTIMULAR EL CRECIMIENTO ECONOMICO Y EL SANEAMIENTO DE LAS FINANZAS PUBLICAS. REGIMEN SIMPLIFICADO DEL IMPUESTO SOBRE LAS VENTAS. UBICACIÓN DEL ESTABLECIMIENTO DE COMERCIO. EXISTENCIA DE COSA JUZGADA CONSTITUCIONAL ABSOLUTA EN RELACION CON EL NUMERAL 3 DEL ARTICULO 499 DEL ESTATUTO TRIBUTARIO MODIFICADO POR EL ARTICULO 14 DE LA LEY 863 DE 2003. ESTARSE A LO RESUELTO EN LA SENTENCIA C-1114 DE 2004",
+  "titulaciones": [
+    {
+      "tema": "COSA JUZGADA ABSOLUTA",
+      "subtema": "Aplicación"
+    },
+    {
+      "tema": "DERECHO A LA IGUALDAD EN IMPUESTO SOBRE LAS VENTAS",
+      "subtema": "Diferencia de trato en condición establecida para pertenecer al régimen simplificado"
+    },
+    {
+      "tema": "IMPUESTO SOBRE LAS VENTAS",
+      "subtema": "Ubicación del establecimiento de comercio, local u oficina como instrumento para medir la capacidad económica del posible responsable del tributo"
+    },
+    {
+      "tema": "IMPUESTO SOBRE LAS VENTAS",
+      "subtema": "Regímenes común y simplificado"
+    }
+  ]
+}

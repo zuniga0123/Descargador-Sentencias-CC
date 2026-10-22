@@ -1,0 +1,60 @@
+{
+  "radicado": "C-729-05",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2005,
+  "fecha_creacion": "2005-07-12",
+  "magistrado_ponente": "Dr ALFREDO BELTRÁN SIERRA",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "OBJECION PRESIDENCIAL",
+  "subtema": "Autorización al gobierno nacional para incluir partidas presupuestales para concurrir a la realización de obras en municipio",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2067 de 1991",
+    "Ley 715 de 2001",
+    "Acto Legislativo 1 de 2001",
+    "Ley 819 de 2003",
+    "Ley 812 de 2003",
+    "Ley 848 de 2003",
+    "Ley 224 de 1995",
+    "Ley 225 de 1995",
+    "Decreto 111 de 1996",
+    "Ley 53 de 1989",
+    "Ley 60 de 1993",
+    "Ley 179 de 1994"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2005/C-729-05.htm",
+  "fecha_descarga": "2026-10-22T21:29:44.855741+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2005-07-12",
+  "fecha_publicacion": null,
+  "numero": "C-729/05",
+  "tipo_cc": "C",
+  "prov_id": "25414",
+  "tema_relatoria": "OBJECION PRESIDENCIAL A PROYECTO DE LEY QUE AUTORIZA AL GOBIERNO PARA INCLUIR GASTO. REALIZACIÓN DE OBRAS EN MUNICIPIO A TRAVÉS DEL SISTEMA DE COFINANCIACIÓN",
+  "resumen": "OBJECIONES PRESIDENCIALES AL PROYECTO DE LEY NO. 057 DE 2003 CAMARA - 061 DE 2004 SENADO \"POR MEDIO DE LA CUAL LA NACIÓN SE ASOCIA A LA CELEBRACION DE LOS CIENTO CINCUENTA AÑOS DE LA FUNACION DEL MUNICIPIO DE TOLEDO EN EL DEPARTAMENTO DE ANTIOQUIA Y SE DICTAN OTRAS DISPOSICIONES\". VULNERACIÓN DEL ARTICULO 151 DE LA CONSTITUCION POR DESCONOCIMIENTO DEL ARTICULO 76 Y SIGUIENTES DE LA LEY 715 DE 2001 Y POR DESCONOCIMIENTO DEL ARTICULO 7 DE LA LEY 819 DE 2003. VERIFICACIÓN DEL TRAMITE Y ANÁLISIS DE LAS OBJECIONES DEL GOBIERNO NACIONAL INFUNDADAS LAS OBJECIONES PRESENTADAS POR EL GOBIERNO AL PROYECTO DE LEY EN REFERENCIA. EXEQUIBLE",
+  "titulaciones": [
+    {
+      "tema": "OBJECION PRESIDENCIAL",
+      "subtema": "Autorización al gobierno nacional para incluir partidas presupuestales para concurrir a la realización de obras en municipio"
+    },
+    {
+      "tema": "PRINCIPIO DE LEGALIDAD DEL GASTO PUBLICO",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "ESTUDIO DE IMPACTO FISCAL EN PROYECTO DE LEY QUE DECRETA GASTO PUBLICO",
+      "subtema": "No exigibilidad de dicho requisito porque para la fecha en que se surtió el trámite del proyecto de ley no había sido expedido el marco fiscal de mediano plazo"
+    },
+    {
+      "tema": "OBJECION PRESIDENCIAL A PROYECTO DE LEY QUE AUTORIZA AL GOBIERNO PARA INCLUIR GASTO",
+      "subtema": "Realización de obras en municipio a través del sistema de cofinanciación"
+    },
+    {
+      "tema": "OBJECION PRESIDENCIAL A PROYECTO DE LEY",
+      "subtema": "Requisito de incluir los costos fiscales de la iniciativa y la fuente de ingresos en la exposición de motivos y en las ponencias de trámite de los proyectos que ordenan el gasto"
+    }
+  ]
+}

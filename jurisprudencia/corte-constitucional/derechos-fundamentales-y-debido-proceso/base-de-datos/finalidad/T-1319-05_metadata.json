@@ -1,0 +1,65 @@
+{
+  "radicado": "T-1319-05",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2005,
+  "fecha_creacion": "2005-12-14",
+  "magistrado_ponente": "Dr HUMBERTO ANTONIO SIERRA PORTO",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "BASE DE DATOS",
+  "subtema": "Finalidad",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2005/T-1319-05.htm",
+  "fecha_descarga": "2026-10-22T21:16:55.237208+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2005-12-14",
+  "fecha_publicacion": null,
+  "numero": "T-1319/05",
+  "tipo_cc": "T",
+  "prov_id": "26133",
+  "tema_relatoria": null,
+  "resumen": "DERECHO AL HABEAS DATA LA INTIMIDAD Y AL BUEN NOMBRE DE DEUDORES CONTRA QUIENES LA ENTIDAD INICIO PROCESO EJECUTIVO Y EL JUZGADO LIBRO MANDAMIENTO DE PAGO Y DENTRO DEL PROCESO PROBARON LA EXCEPCION DE PRESCRIPCION DE LA ACCION EJECUTIVA PERO NO OBSTANTE FUERON REPORTADOS A LAS CENTRALES DE RIESGO. SOLICITAN SE ORDENE A COOPSERVIR CANCELAR TOTAL Y DEFINITIVAMENTE LA INFORMACION CREDITICIA NEGATIVA. LAS BASES DE DATOS EN MATERIA FINANCIERA Y COMERCIAL EL RESPETO A LOS DERECHOS AL HABEAS DATA AL BUEN NOMBRE Y A LA INTIMIDAD Y AL TÉRMINO DE CADUCIDAD DEL DATO NEGATIVO. ES MENESTER SEÑALAR LA IMPORTANCIA DE DISTINGUIR EL DERECHO AL HABEAS DATA DE LOS DERECHOS A LA INTIMIDAD Y AL BUEN NOMBRE PUESTO QUE COMO BIEN SE SEÑALO ANTERIORMENTE AUNQUE ESTOS COMPARTEN UN MISMO ESPACIO NORMATIVO SUS ÁMBITOS DE PROTECCIÓN SON DIFERENTES DE ALLÍ QUE NO SE PUEDA CORRER EL RIESGO DE CONFUNDIRLOS PUESTO QUE LAS DIFERENTES ACTIVIDADES DE ADMINISTRACIÓN DE DATOS EN OCASIONES PUEDEN AFECTAR A UNO Y NO A LOS OTROS POR LO QUE NO DEBEN DEJARSE ESPACIOS QUE PERMITAN SU EVENTUAL AFECTACIÓN. SI EL DEMANDADO EN UN PROCESO EJECUTIVO INVOCA EXCEPCIONES QUE TENGAN COMO FIN ESPECIFICO EXTINGUIR LA OBLIGACIÓN Y ESTAS PROSPERAN MEDIANTE SENTENCIA QUE PROFIERA EL JUEZ DE CONOCIMIENTO EL ANTECEDENTE QUE CONSERVE EL BANCO DE DATOS AL RESPECTO DEBE DESAPARECER. ASÍ LO SEÑALA ESTA CORPORACIÓN PERO SE EXCEPTÚA DE LA REGLA ANTERIORMENTE EXPUESTA EL CASO EN QUE LA EXCEPCIÓN QUE PROSPERE DENTRO DEL PROCESO EJECUTIVO SEA LA DE PRESCRIPCIÓN PUESTO QUE NO HA HABIDO PAGO. NEGADA",
+  "titulaciones": [
+    {
+      "tema": "BASE DE DATOS",
+      "subtema": "Finalidad"
+    },
+    {
+      "tema": "CADUCIDAD DEL DATO",
+      "subtema": "Término no puede ser el mismo para el deudor que cancela en relación con el que no ha cancelado"
+    },
+    {
+      "tema": "HABEAS DATA",
+      "subtema": "Conocimiento, actualización y rectificación de la información"
+    },
+    {
+      "tema": "DERECHO AL BUEN NOMBRE",
+      "subtema": "Información cierta y veraz"
+    },
+    {
+      "tema": "CADUCIDAD DEL DATO",
+      "subtema": "Límite temporal"
+    },
+    {
+      "tema": "CADUCIDAD DEL DATO",
+      "subtema": "Supuestos de hecho que se presentan"
+    },
+    {
+      "tema": "DERECHO A LA INTIMIDAD",
+      "subtema": "Información no debe tocar aspectos de la privacidad mínima de la persona"
+    },
+    {
+      "tema": "HABEAS DATA",
+      "subtema": "Núcleo esencial"
+    },
+    {
+      "tema": "PRESCRIPCION DEL PROCESO EJECUTIVO",
+      "subtema": "Aplicación de 10 años para caducidad del dato negativo"
+    }
+  ]
+}

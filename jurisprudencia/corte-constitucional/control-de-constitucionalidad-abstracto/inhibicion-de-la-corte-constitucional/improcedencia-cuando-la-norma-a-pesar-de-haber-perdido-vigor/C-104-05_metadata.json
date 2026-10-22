@@ -1,0 +1,48 @@
+{
+  "radicado": "C-104-05",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2005,
+  "fecha_creacion": "2005-02-08",
+  "magistrado_ponente": "Dr HUMBERTO ANTONIO SIERRA PORTO",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "INHIBICION DE LA CORTE CONSTITUCIONAL",
+  "subtema": "Improcedencia cuando la norma a pesar de haber perdido vigor sigue produciendo efectos jurídicos",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 863 de 2003",
+    "Ley 716 de 2001",
+    "Ley 901 de 2004",
+    "Ley 716 de 2004"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2005/C-104-05.htm",
+  "fecha_descarga": "2026-10-22T21:21:36.240594+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2005-02-08",
+  "fecha_publicacion": null,
+  "numero": "C-104/05",
+  "tipo_cc": "C",
+  "prov_id": "24657",
+  "tema_relatoria": "FALLO INHIBITORIO POR SUSTRACCION DE MATERIA EN DEMANDA DE INCONSTITUCIONALIDAD CONTRA NORMA DE LA LEY 863 DE 2003",
+  "resumen": "LEY 863 DE 2003 ART. 66 (PARCIAL). SE ESTABLECEN MEDIDAS TRIBUTARIAS ADUANERAS FISCALES Y DE CONTROL PARA ESTIMULAR EL CRECIMIENTO ECONOMICO Y EL SANEAMIENTO DE LAS FINANZAS PUBLICAS. INFORMACIÓN CONTABLE DEPURADA. PARA LA EXPEDICIÓN DEL CERTIFICADO EL INTERESADO DEBERA PAGAR UN DERECHO IGUAL AL TRES POR CIENTO (3%) DEL SALARIO MINIMO LEGAL MENSUAL VIGENTE. EN EL PRESENTE PROCESO SE DEMANDO UNA DISPOSICION JURIDICA DEROGADA QUE NO PRODUJO NINGUN EFECTO Y POR LO TANTO NO ES PROCEDENTE UN EXAMEN DE CONSTITUCIONALIDAD. INHIBIDA",
+  "titulaciones": [
+    {
+      "tema": "INHIBICION DE LA CORTE CONSTITUCIONAL",
+      "subtema": "Improcedencia cuando la norma a pesar de haber perdido vigor sigue produciendo efectos jurídicos"
+    },
+    {
+      "tema": "CONTROL DE CONSTITUCIONALIDAD DE NORMA DEROGADA",
+      "subtema": "Juez constitucional debe examinar si continúa produciendo efectos jurídicos"
+    },
+    {
+      "tema": "CONTROL DE CONSTITUCIONALIDAD OFICIOSO",
+      "subtema": "No procede para examinar norma vigente que reproduce el contenido normativo de la disposición demandada, a menos que sea necesario integrar la unidad normativa"
+    },
+    {
+      "tema": "INHIBICION DE LA CORTE CONSTITUCIONAL POR SUSTRACCION DE MATERIA",
+      "subtema": "Casos en que procede"
+    }
+  ]
+}

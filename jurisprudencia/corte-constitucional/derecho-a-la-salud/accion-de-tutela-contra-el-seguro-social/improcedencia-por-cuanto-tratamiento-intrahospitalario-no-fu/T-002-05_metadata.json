@@ -1,0 +1,53 @@
+{
+  "radicado": "T-002-05",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2005,
+  "fecha_creacion": "2005-01-13",
+  "magistrado_ponente": "Dr ALFREDO BELTRÁN SIERRA",
+  "area": "Derecho a la Salud",
+  "tema": "ACCION DE TUTELA CONTRA EL SEGURO SOCIAL",
+  "subtema": "Improcedencia por cuanto tratamiento intrahospitalario no fue ordenado por médico adscrito a la EPS",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2005/T-002-05.htm",
+  "fecha_descarga": "2026-10-22T21:14:05.937409+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2005-01-13",
+  "fecha_publicacion": null,
+  "numero": "T-002/05",
+  "tipo_cc": "T",
+  "prov_id": "24533",
+  "tema_relatoria": null,
+  "resumen": "DERECHOS DE LOS MENORES POR LA NEGATIVA DE LA ENTIDAD DE AUTORIZARLE A UN MENOR EL TRATAMIENTO INTRAHOSPITALARIO PARA SU DESINTOXICACION POR EFECTO DEL CONSUMO DE DROGAS PSICOACTIVAS. SOLICITA SE ORDENE AL ISS REALICE LOS TRAMITES PARA EL TRATAMIENTO. REQUISITOS PARA LA INAPLICACIÓN DEL PRECEPTO LEGAL O REGLAMENTARIO QUE REGULAN LAS EXCLUSIONES DEL POS. TRATAMIENTO PRESCRITO POR MEDICO NO ADSCRITO A LA ENTIDAD Y EL TRATAMIENTO NO HA SIDO SOLICITADO AL ISS. NEGADA",
+  "titulaciones": [
+    {
+      "tema": "ACCION DE TUTELA CONTRA EL SEGURO SOCIAL",
+      "subtema": "Improcedencia por cuanto tratamiento intrahospitalario no fue ordenado por médico adscrito a la EPS"
+    },
+    {
+      "tema": "INAPLICACION DE NORMAS DEL PLAN OBLIGATORIO DE SALUD",
+      "subtema": "Casos en que procede por cuanto el medicamento o tratamiento no fue ordenado por médico adscrito a la EPS"
+    },
+    {
+      "tema": "INAPLICACION DE NORMAS DEL PLAN OBLIGATORIO DE SALUD",
+      "subtema": "Casos en que procede"
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA EL SEGURO SOCIAL",
+      "subtema": "Improcedencia por cuanto padres de menor de edad no hicieron solicitud de tratamiento intrahospitalario"
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA EL SEGURO SOCIAL",
+      "subtema": "Entidad no ha negado asistencia médica a menor de edad que requería tratamiento intrahospitalario por adicción a drogas psicoactivas"
+    },
+    {
+      "tema": "DERECHO A LA SALUD DEL MENOR",
+      "subtema": "Tratamiento intrahospitalario excluido del POS que no fue ordenado por médico adscrito a la EPS"
+    }
+  ]
+}

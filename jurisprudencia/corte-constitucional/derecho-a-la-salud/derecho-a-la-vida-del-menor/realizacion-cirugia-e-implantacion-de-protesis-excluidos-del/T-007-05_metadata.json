@@ -1,0 +1,53 @@
+{
+  "radicado": "T-007-05",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2005,
+  "fecha_creacion": "2005-01-19",
+  "magistrado_ponente": "Dr MANUEL JOSÉ CEPEDA ESPINOSA",
+  "area": "Derecho a la Salud",
+  "tema": "DERECHO A LA VIDA DEL MENOR",
+  "subtema": "Realización cirugía e implantación de prótesis excluidos del POS",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2005/T-007-05.htm",
+  "fecha_descarga": "2026-10-22T21:14:16.890457+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2005-01-19",
+  "fecha_publicacion": null,
+  "numero": "T-007/05",
+  "tipo_cc": "T",
+  "prov_id": "24538",
+  "tema_relatoria": null,
+  "resumen": "DERECHO A LA VIDA LA SALUD Y DE LOS NIÑOS POR LA NEGATIVA DE LA ENTIDAD DE SUMINISTRAR A MENOR BENEFICIARIA DEL REGIMEN CONTRIBUTIVO UNA PRÓTESIS ENDOVASCULAR NO POS FORMULADA POR MEDICO TRATANTE. EN EL TRAMITE DE LA ACCION DE TUTELA LA OPINIÓN DEL MEDICO TRATANTE RESPECTO DEL SERVICIO MEDICO QUE SE LE DEBE BRINDAR A UN PACIENTE PREVALECE SOBRE LA DE LOS FUNCIONARIOS ADMINISTRATIVOS DE LA EPS. PROCEDENCIA PARA INAPLICACIÓN DE NORMAS QUE REGULA EL POS. ACCION DE REPETICION CONTRA FOSYGA. CONCEDIDA",
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA VIDA DEL MENOR",
+      "subtema": "Realización cirugía e implantación de prótesis excluidos del POS"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "En conflictos sobre servicios de salud prevalecen los que ha ordenado el médico tratante"
+    },
+    {
+      "tema": "INAPLICACION DE NORMAS DEL PLAN OBLIGATORIO DE SALUD",
+      "subtema": "Medicamento o procedimiento no puede ser sustituido por otro que se encuentre incluido en el listado"
+    },
+    {
+      "tema": "ENTIDAD PROMOTORA DE SALUD",
+      "subtema": "Realización cirugía a menor de edad e implantación de prótesis excluidos del POS"
+    },
+    {
+      "tema": "ENTIDAD PROMOTORA DE SALUD",
+      "subtema": "Repetición contra el FOSYGA"
+    },
+    {
+      "tema": "INAPLICACION DE NORMAS DEL PLAN OBLIGATORIO DE SALUD",
+      "subtema": "Casos en que procede"
+    }
+  ]
+}

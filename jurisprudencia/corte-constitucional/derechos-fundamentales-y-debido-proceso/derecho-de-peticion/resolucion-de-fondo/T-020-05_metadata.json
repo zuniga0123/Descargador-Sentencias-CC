@@ -1,0 +1,48 @@
+{
+  "radicado": "T-020-05",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2005,
+  "fecha_creacion": "2005-01-20",
+  "magistrado_ponente": "Dr MARCO GERARDO MONROY CABRA",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "DERECHO DE PETICIÓN",
+  "subtema": "Resolución de fondo",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Decreto 2591 de 1991",
+    "Decreto 656 de 1994",
+    "Ley 700 de 2001"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2005/T-020-05.htm",
+  "fecha_descarga": "2026-10-22T21:11:42.792250+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2005-01-20",
+  "fecha_publicacion": null,
+  "numero": "T-020/05",
+  "tipo_cc": "T",
+  "prov_id": "24551",
+  "tema_relatoria": null,
+  "resumen": "DERECHO FUNDAMENTAL DE PETICION DE PERSONA DE LA TERCERA DE EDAD QUE SOLICITA EL RECONOCIMIENTO DE LA PENSION DE VEJEZ SIN HABER OBTENIDO RESPUESTA. SOLICITA SE ORDENE DAR RESPUESTA A LA SOLICITUD. DERECHO DE PETICION CONLLEVA RESPUESTA DE FONDO DE LA SOLICITUD. PLAZOS CON QUE CUENTAN LAS AUTORIDADES PARA RESPONDER LOS DERECHOS DE PETICION DE PENSIONES. CONCEDIDA",
+  "titulaciones": [
+    {
+      "tema": "DERECHO DE PETICIÓN",
+      "subtema": "Resolución de fondo"
+    },
+    {
+      "tema": "DERECHO DE PETICION ANTE EL SEGURO SOCIAL",
+      "subtema": "Respuesta de fondo sobre reconocimiento pensión de vejez"
+    },
+    {
+      "tema": "DERECHO DE PETICIÓN EN MATERIA PENSIONAL",
+      "subtema": "Término de cuatro meses para resolver solicitud"
+    },
+    {
+      "tema": "DERECHO DE PETICIÓN EN MATERIA PENSIONAL",
+      "subtema": "Términos para resolver"
+    }
+  ]
+}

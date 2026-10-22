@@ -1,0 +1,60 @@
+{
+  "radicado": "C-666-05",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2005,
+  "fecha_creacion": "2005-06-28",
+  "magistrado_ponente": "Dr JAIME CÓRDOBA TRIVIÑO",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "COSA JUZGADA RELATIVA",
+  "subtema": "Configuración",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 785 de 2002",
+    "Decreto 2067 de 1991",
+    "Ley 489 de 1998",
+    "Decreto 306 de 1998",
+    "Decreto 1461 de 2000",
+    "Ley 333 de 1996",
+    "Ley 160 de 1994",
+    "Decreto 182 de 1998",
+    "Ley 30 de 1986",
+    "Ley 793 de 2002",
+    "Ley 789 de 2002",
+    "Decreto 2067 de 2000"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2005/C-666-05.htm",
+  "fecha_descarga": "2026-10-22T21:22:55.839322+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2005-06-28",
+  "fecha_publicacion": null,
+  "numero": "C-666/05",
+  "tipo_cc": "C",
+  "prov_id": "25329",
+  "tema_relatoria": "COSA JUZGADA EN MEDIDAS CAUTELARES EN PROCESO DE EXTINCION DE DOMINIO",
+  "resumen": "LEY 785 DE 2002. SE DICTAN DISPOSICIONES RELACIONADAS CON LA ADMINISTRACION DE BIENES INCAUTADOS EN APLICACIÓN DE LAS LEYES 30 DE 1986 Y 333 DE 1996.INDEBIDA FORMULACION DEL CARGO POR EL TRAMITE DADO A LA LEY 785 DE 2002. EXAMEN DEL CARGO POR VIOLACIÓN DEL PRINCIPIO DE UNIDAD DE MATERIA Y DE LOS CARGOS POR INCONSTITUCIONALIDAD MATERIAL DE LA LEY 785 DE 2002. EXISTENCIA DE COSA JUZGADA CONSTITUCIONAL RESPECTO DEL ARTICULO 5º DE LA LEY 785 DE 2002. INHIBIDA Y ESTARSE A LO RESUELTO EN C-1025/04",
+  "titulaciones": [
+    {
+      "tema": "COSA JUZGADA RELATIVA",
+      "subtema": "Configuración"
+    },
+    {
+      "tema": "ACCION PUBLICA DE INCONSTITUCIONALIDAD",
+      "subtema": "Requisitos"
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "Formulación del cargo consistente en haberse tramitado como ley ordinaria una ley estatutaria"
+    },
+    {
+      "tema": "INHIBICION DE LA CORTE CONSTITUCIONAL POR INEPTITUD SUSTANTIVA DE LA DEMANDA",
+      "subtema": "Ausencia de carga mínima de argumentación"
+    },
+    {
+      "tema": "INHIBICION DE LA CORTE CONSTITUCIONAL",
+      "subtema": "No señalamiento preciso de la norma acusada"
+    }
+  ]
+}

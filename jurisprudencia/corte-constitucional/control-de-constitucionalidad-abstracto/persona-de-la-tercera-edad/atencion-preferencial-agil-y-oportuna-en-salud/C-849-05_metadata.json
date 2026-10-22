@@ -1,0 +1,60 @@
+{
+  "radicado": "C-849-05",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2005,
+  "fecha_creacion": "2005-08-17",
+  "magistrado_ponente": "Dr ALVARO TAFUR GALVIS",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "PERSONA DE LA TERCERA EDAD",
+  "subtema": "Atención preferencial, ágil y oportuna en salud",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2067 de 1991",
+    "Ley 100 de 1993",
+    "Acto Legislativo 1 de 2003",
+    "Ley 489 de 1998"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2005/C-849-05.htm",
+  "fecha_descarga": "2026-10-22T21:20:05.202054+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2005-08-17",
+  "fecha_publicacion": null,
+  "numero": "C-849/05",
+  "tipo_cc": "C",
+  "prov_id": "25561",
+  "tema_relatoria": "OBJECION PRESIDENCIAL DE INCONSTITUCIONALIDAD. COSTO TARJETA COLOMBIANO DE ORO VULNERA EL PRINCIPIO DE IGUALDAD",
+  "resumen": "OBJECIONES PRESIDENCIALES ALM PROYECTO DE LEY No. 041 DE 2003 SENADO Y No. 067 DE 2004 CAMARA - \"POR MEDIO DE LA CUAL SE RECONOCE AL COLOMBIANO Y COLOMBIANA DE ORO\". VERIFICACIÓN DEL TRAMITE DE LAS OBJECIONES E INSISTENCIA DEL CONGRESO. ANALISIS DE LAS OBJECIONES FORMULADAS EN CONTRA DEL ARTICULO 2 DEL PROYECTO DE LA REFERENCIA POR LA PRESUNTA VULNERACION DE LOS PRINCIPIOS DE ECONOMIA Y DE IGUALDAD. ANÁLISIS DE LA OBJECIÓN FORMULADA EN CONTRA DEL ARTICULO .3 DEL PROYECTO DE LA REFERENCIA POR LA PRESUNTA VULNERACIÓN DEL ARTICULO 48 SUPERIOR. LA OBSERVACIÓN HECHA POR EL PRESIDENTE DE LA REPUBLICA EN RELACION CON LA EXPRESION \"CERTIFICADO\" INCLUIDA AL FINAL DEL ARTICULO 1 DEL PROYECTO DE LEY DE LA REFERENCIA EN EL TEXTO QUE FUE REMITIDO POR EL CONGRESO DE LA REPUBLICA. INFUNDADAS FUNDADAS EXEQUIBLES E INEXEQUIBLES",
+  "titulaciones": [
+    {
+      "tema": "PERSONA DE LA TERCERA EDAD",
+      "subtema": "Atención preferencial, ágil y oportuna en salud"
+    },
+    {
+      "tema": "OBJECION PRESIDENCIAL DE INCONSTITUCIONALIDAD",
+      "subtema": "Infundada por incumplimiento de la carga argumentativa"
+    },
+    {
+      "tema": "COLOMBIANO DE ORO",
+      "subtema": "Atención preferencial, ágil y oportuna a mayores de sesenta y cinco años no implica transferencias de recursos ni modificaciones a las previsiones económicas de los regímenes contributivo y subsidio"
+    },
+    {
+      "tema": "CONTROL DE CONSTITUCIONALIDAD DE OBJECION PRESIDENCIAL",
+      "subtema": "Improcedencia de sentencia integradora o interpretativa"
+    },
+    {
+      "tema": "OBJECION PRESIDENCIAL DE INCONSTITUCIONALIDAD",
+      "subtema": "Costo tarjeta colombiano de oro vulnera el principio de igualdad"
+    },
+    {
+      "tema": "OBJECION PRESIDENCIAL",
+      "subtema": "Error en transcripción de texto enviado para sanción"
+    },
+    {
+      "tema": "PRINCIPIO DE ECONOMIA DE LA FUNCION ADMINISTRATIVA",
+      "subtema": "Alcance"
+    }
+  ]
+}
