@@ -1,0 +1,84 @@
+{
+  "radicado": "C-758-04",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2004,
+  "fecha_creacion": "2004-08-10",
+  "magistrado_ponente": "Dr MANUEL JOSÉ CEPEDA ESPINOSA",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "NORMA ACUSADA",
+  "subtema": "Enunciado normativo inaplicable atendiendo inexequibilidad",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 29 de 1973",
+    "Decreto 2158 de 1992",
+    "Decreto 1672 de 1997",
+    "Decreto 302 de 2004",
+    "Ley 79 de 1973",
+    "Decreto 960 de 1970",
+    "Ley 344 de 1996",
+    "Decreto 2159 de 1992",
+    "Ley 489 de 1998",
+    "Ley 633 de 2000",
+    "Decreto 27 de 1974",
+    "Decreto 2067 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2004/C-758-04.htm",
+  "fecha_descarga": "2026-10-22T22:50:02.024665+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2004-08-10",
+  "fecha_publicacion": null,
+  "numero": "C-758/04",
+  "tipo_cc": "C",
+  "prov_id": "23960",
+  "tema_relatoria": "COLEGIO DE NOTARIOS. INEXEQUIBILIDAD DE NORMAS RELATIVAS A LA CREACIÓN",
+  "resumen": "LEY 29 DE 1973. ARTS. 7 10 12 14 Y 17. DECRETO 2158 DE 1992 ARTS. 4 Y 5 NUMERAL 4 Y DECRETO 1672 DE 1997 ART. 5. CREA EL FONDO NACIONAL DE NOTARIADO REESTRUCTURA LA SUPERINTENDENCIA DE NOTARIADO Y REGISTRO Y SUPRIME Y ORDENA LA LIQUIDACION DEL FONDO NACIONAL",
+  "titulaciones": [
+    {
+      "tema": "NORMA ACUSADA",
+      "subtema": "Enunciado normativo inaplicable atendiendo inexequibilidad"
+    },
+    {
+      "tema": "LIBERTAD DE ASOCIACION DEL NOTARIO",
+      "subtema": "Desconocimiento al forzar su vinculación a una determinada organización"
+    },
+    {
+      "tema": "INEXEQUIBILIDAD DE INSTITUCION U ORGANIZACION",
+      "subtema": "Inaplicación de referencias normativas existentes"
+    },
+    {
+      "tema": "INHIBICION DE LA CORTE CONSTITUCIONAL",
+      "subtema": "No señalamiento del por qué se es competente"
+    },
+    {
+      "tema": "COLEGIO DE NOTARIOS",
+      "subtema": "Inexequibilidad de normas relativas a la creación"
+    },
+    {
+      "tema": "INHIBICION DE LA CORTE CONSTITUCIONAL",
+      "subtema": "Ausencia de pertinencia en el argumento"
+    },
+    {
+      "tema": "INHIBICION DE LA CORTE CONSTITUCIONAL",
+      "subtema": "No indicación del fundamento jurídico para conocer de un decreto del Gobierno"
+    },
+    {
+      "tema": "INHIBICION DE LA CORTE CONSTITUCIONAL",
+      "subtema": "Norma derogada que no produce efectos"
+    },
+    {
+      "tema": "INCONSTITUCIONALIDAD SOBREVINIENTE",
+      "subtema": "Operancia"
+    },
+    {
+      "tema": "JUICIO DE CONSTITUCIONALIDAD",
+      "subtema": "Presupuestos"
+    },
+    {
+      "tema": "SENTENCIA DE INEXEQUIBILIDAD",
+      "subtema": "Procedencia sobre referencia normativa existente respecto de institución declarada inconstitucional"
+    }
+  ]
+}

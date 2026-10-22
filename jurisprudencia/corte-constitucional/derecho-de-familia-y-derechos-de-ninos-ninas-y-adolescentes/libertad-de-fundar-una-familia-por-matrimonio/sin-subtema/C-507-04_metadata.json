@@ -1,0 +1,783 @@
+{
+  "radicado": "C-507-04",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2004,
+  "fecha_creacion": "2004-05-25",
+  "magistrado_ponente": null,
+  "area": "Derecho de Familia y Derechos de Niños, Niñas y Adolescentes",
+  "tema": "LIBERTAD DE FUNDAR UNA FAMILIA POR MATRIMONIO",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 51 de 1981",
+    "Ley 57 de 1887",
+    "Decreto 2820 de 1974",
+    "Ley 24 de 1974",
+    "Ley 27 de 1977",
+    "Decreto 2737 de 1989",
+    "Ley 153 de 1887",
+    "Decreto 772 de 1975",
+    "Ley 75 de 1968",
+    "Ley 28 de 1932",
+    "Ley 68 de 1946",
+    "Ley 74 de 1968",
+    "Ley 16 de 1972",
+    "Ley 12 de 1991",
+    "Decreto 100 de 1980",
+    "Ley 2737 de 1989",
+    "Ley 628 de 2000",
+    "Ley 750 de 2002",
+    "Ley 82 de 1993"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2004/C-507-04.htm",
+  "fecha_descarga": "2026-10-22T22:35:06.923561+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2004-05-25",
+  "fecha_publicacion": null,
+  "numero": "C-507/04",
+  "tipo_cc": "C",
+  "prov_id": "23638",
+  "tema_relatoria": "MATRIMONIO NULO Y SIN EFECTO POR MATRIMONIO DE MENORES. ENTENDIMIENTO DE PUBERTAD LA MISMA EDAD EN RELACIÓN CON LOS TRES MESES DESPUÉS DE HABER LLEGADO A LA PUBERTAD QUE NO DA LUGAR A LA NULIDAD",
+  "resumen": "CODIGO CIVIL ARTS. 34 Y 140 (PARCIALES). IMPÚBER. CASOS EN QUE EL MATRIMONIO ES NULO Y SIN EFECTOS. INHIBICIÓN DE LA CORTE CONSTITUCIONAL PARA RESOLVER EL CARGO EN CONTRA DEL ARTICULO 34 DEL CODIGO CIVIL. CAPACIDAD DE CONTRAER MATRIMONIO DE LOS NIÑOS Y LAS NIÑAS",
+  "titulaciones": [
+    {
+      "tema": "LIBERTAD DE FUNDAR UNA FAMILIA POR MATRIMONIO",
+      "subtema": null
+    },
+    {
+      "tema": "LIBERTAD DE DECIDIR SOBRE LA PROPIA SEXUALIDAD",
+      "subtema": null
+    },
+    {
+      "tema": "ADOLESCENTE",
+      "subtema": "Grado de afectación"
+    },
+    {
+      "tema": "COMITE DE DERECHOS HUMANOS RESPECTO DE IGUALDAD DE CRITERIOS PARA EL HOMBRE Y LA MUJER EN RELACION CON EL MATRIMONIO",
+      "subtema": "Edad mínima para contraerlo"
+    },
+    {
+      "tema": "COMITE DE DERECHOS HUMANOS EN MATERIA DE IGUALDAD DE GENERO",
+      "subtema": "Ajuste de legislación interna con el fin de cumplir obligaciones del pacto"
+    },
+    {
+      "tema": "CONCEPTO EN NORMA LEGAL",
+      "subtema": "Definición"
+    },
+    {
+      "tema": "DERECHO A FUNDAR UNA FAMILIA",
+      "subtema": null
+    },
+    {
+      "tema": "IGUALDAD ANTE LA VIDA",
+      "subtema": null
+    },
+    {
+      "tema": "CONVENCION AMERICANA SOBRE DERECHOS HUMANOS EN MATERIA DE IGUAL PROTECCION DE LA LEY",
+      "subtema": null
+    },
+    {
+      "tema": "IGUALDAD DE PROTECCION DEL MENOR SIN DISTINCION POR GENERO",
+      "subtema": null
+    },
+    {
+      "tema": "ACCION PUBLICA DE INCONSTITUCIONALIDAD",
+      "subtema": "Argumento debe ser pertinente"
+    },
+    {
+      "tema": "CAPACIDAD PARA CONTRAER MATRIMONIO",
+      "subtema": "Desarrollo legislativo de las reglas jurídicas"
+    },
+    {
+      "tema": "DERECHO A CONFORMAR LIBREMENTE UNA FAMILIA",
+      "subtema": "Titularidad también en menores sin perjuicio de establecimiento de condiciones por el legislador"
+    },
+    {
+      "tema": "DERECHO A FUNDAR UNA FAMILIA POR MENORES DE EDAD",
+      "subtema": "Alcance dado por la jurisprudencia constitucional"
+    },
+    {
+      "tema": "DERECHO A UN DESARROLLO LIBRE, ARMONICO E INTEGRAL Y AL PLENO EJERCICIO DE DERECHOS EN MATRIMONIO PRECOZ",
+      "subtema": "Afectación en un grado alto por la regla acusada"
+    },
+    {
+      "tema": "DERECHO AL JUEGO DEL MENOR DE EDAD",
+      "subtema": "Importancia"
+    },
+    {
+      "tema": "CONVENCION SOBRE ELIMINACION DE TODAS LAS FORMAS DE DISCRIMINACION CONTRA LA MUJER",
+      "subtema": "Compromisos del Estado"
+    },
+    {
+      "tema": "CONVENIO INTERNACIONAL RESPECTO DEL MATRIMONIO ENTRE HOMBRE Y MUJER MENORES DE EDAD",
+      "subtema": "Libertad para contraerlo a partir de la edad núbil"
+    },
+    {
+      "tema": "CONTROL DE CONSTITUCIONALIDAD",
+      "subtema": "Consecuencias jurídicas que tiene reservar un tema a la ley"
+    },
+    {
+      "tema": "INSTITUCION JURIDICA DEL MATRIMONIO",
+      "subtema": "Decisión expresa del Constituyente de conferir al Congreso competencia para regulación"
+    },
+    {
+      "tema": "INTERES SUPERIOR DEL NIÑO Y LA NIÑA",
+      "subtema": "Protección"
+    },
+    {
+      "tema": "ORGANOS DE NACIONES UNIDAS EN MATERIA DE MATRIMONIO",
+      "subtema": "Edad mínima para contraerlo"
+    },
+    {
+      "tema": "PACTO CONYUGAL",
+      "subtema": "Consentimiento verdaderamente libre, incondicional y vinculante"
+    },
+    {
+      "tema": "INCUMPLIMIENTO DE OBLIGACION IMPERIOSA",
+      "subtema": "No justifica desconocer una obligación de protección constitucional"
+    },
+    {
+      "tema": "MARGEN DE CONFIGURACION DEL LEGISLADOR PARA REGULAR EL DERECHO A CONTRAER MATRIMONIO",
+      "subtema": "No comprende desconocer los mínimos de protección constitucionalmente ordenados"
+    },
+    {
+      "tema": "MATRIMONIO DE MENORES DE EDAD",
+      "subtema": "Evolución normativa de la edad mínima para contraerlo"
+    },
+    {
+      "tema": "MATRIMONIO DE MUJER ADOLESCENTE",
+      "subtema": "Grado de desprotección al permitirles casarse a partir de los doce años"
+    },
+    {
+      "tema": "MATRIMONIO PRECOZ EN RELACION CON EL DERECHO A LA EDUCACION",
+      "subtema": "Efectos"
+    },
+    {
+      "tema": "MATRIMONIO A TEMPRANA EDAD",
+      "subtema": "Condena por órganos internacionales"
+    },
+    {
+      "tema": "MATRIMONIO ENTRE HOMBRE Y MUJER MENORES DE EDAD",
+      "subtema": "Capacidad para contraerlo cuando se llega a la pubertad"
+    },
+    {
+      "tema": "MATRIMONIO NULO Y SIN EFECTO POR MATRIMONIO DE MENORES DE EDAD",
+      "subtema": "Establecida"
+    },
+    {
+      "tema": "MATRIMONIO",
+      "subtema": "Fundamento de la decisión constitucional de reservar la regulación a la ley"
+    },
+    {
+      "tema": "MATRIMONIO",
+      "subtema": "Requisito de edad para contraerlo requiere de marco legal coherente"
+    },
+    {
+      "tema": "MATRIMONIO",
+      "subtema": "Reserva legal en regulación"
+    },
+    {
+      "tema": "NIÑO",
+      "subtema": "Medidas de protección"
+    },
+    {
+      "tema": "PRINCIPIO DE IGUALDAD DE PROTECCION EN MENORES DE EDAD",
+      "subtema": "Supuesto y determinación de violación"
+    },
+    {
+      "tema": "MENOR DE EDAD",
+      "subtema": "Categorías"
+    },
+    {
+      "tema": "MATRIMONIO DE MUJER MENOR DE EDAD",
+      "subtema": "Consecuencias que presenta el poder contraerlo a partir de los doce años"
+    },
+    {
+      "tema": "MATRIMONIO ENTRE HOMBRE Y MUJER MENORES DE EDAD",
+      "subtema": "Fijación por el Congreso de edad para contraerlo"
+    },
+    {
+      "tema": "MATRIMONIO PRECOZ DE NIÑA EN RELACION CON EL DERECHO A LA EDUCACION",
+      "subtema": "Efectos"
+    },
+    {
+      "tema": "MATRIMONIO PRECOZ",
+      "subtema": "Afectación es más grave respecto de las niñas"
+    },
+    {
+      "tema": "MATRIMONIO",
+      "subtema": "Libertad en consentimiento"
+    },
+    {
+      "tema": "MEDIDAS DE PROTECCION DEL MENOR DE EDAD",
+      "subtema": "Edades mínimas respecto de actividades que comprometen sus derechos y desarrollo"
+    },
+    {
+      "tema": "LOS ADOLESCENTES Y LAS ADOLESCENTES SEGUN EL COMITE SOBRE LOS DERECHOS DEL NIÑO",
+      "subtema": "Fijación de edades mínimas de acuerdo al desarrollo según criterios de edad y madurez"
+    },
+    {
+      "tema": "MATRIMONIO NULO Y SIN EFECTO POR MATRIMONIO DE MENORES DE EDAD",
+      "subtema": "Entendimiento de pubertad la misma edad en relación con los tres meses después de haber llegado a la pubertad que no da lugar a la nulidad"
+    },
+    {
+      "tema": "LIBERTAD DE LA MUJER Y DERECHOS POLITICOS",
+      "subtema": "Protección ante discriminación"
+    },
+    {
+      "tema": "MUJER",
+      "subtema": "No sometimiento a ninguna clase de discriminación"
+    },
+    {
+      "tema": "LIBERTAD DE CONFORMAR UNA FAMILIA POR MENOR DE EDAD",
+      "subtema": "No es plena"
+    },
+    {
+      "tema": "LIBERTAD DE ELEGIR LA FORMA DE CONFORMACION DE LA FAMILIA",
+      "subtema": "Aspectos que contempla"
+    },
+    {
+      "tema": "PUBERTAD Y EDAD NUBIL EN MATRIMONIO",
+      "subtema": "Distinción"
+    },
+    {
+      "tema": "DERECHOS Y PRINCIPIOS CONSTITUCIONALES",
+      "subtema": "Ponderación ante conflicto"
+    },
+    {
+      "tema": "DERECHOS A LA SALUD, MINIMO VITAL Y EDUCACION DEL MENOR DE EDAD",
+      "subtema": "Medidas de protección"
+    },
+    {
+      "tema": "DERECHOS DEL ADOLESCENTE SEGUN EL COMITE SOBRE LOS DERECHOS DEL NIÑO",
+      "subtema": "Medidas para dar efectividad incluye edades mínimas"
+    },
+    {
+      "tema": "DERECHOS DEL MENOR",
+      "subtema": "Protección especial"
+    },
+    {
+      "tema": "DERECHOS DEL MENOR EN MATERIA LABORAL Y PENAL",
+      "subtema": "Protección"
+    },
+    {
+      "tema": "DERECHOS FUNDAMENTALES DEL NIÑO",
+      "subtema": "Son indivisibles"
+    },
+    {
+      "tema": "DERECHOS Y GARANTIAS DEL NIÑO EN CONVENIO INTERNACIONAL",
+      "subtema": "Aplicación a los adolescentes"
+    },
+    {
+      "tema": "DERECHOS POLITICOS DE LA MUJER",
+      "subtema": "Reconocimiento para la construcción de una sociedad democrática"
+    },
+    {
+      "tema": "DESARROLLO ARMONICO E INTEGRAL DEL NIÑO",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "EMBARAZO PRECOZ",
+      "subtema": "Riesgos derivados son mayores"
+    },
+    {
+      "tema": "EDUCACIÓN",
+      "subtema": "Obligatoriedad entre los cinco y quince años de edad"
+    },
+    {
+      "tema": "EMBARAZO PREMATURO",
+      "subtema": "Problema público y social a resolver"
+    },
+    {
+      "tema": "DERECHO A LA PROTECCION DEL MENOR",
+      "subtema": "Adecuación de normas por el legislador"
+    },
+    {
+      "tema": "DERECHO A LA IGUALDAD DE PROTECCION E IGUALDAD DE TRATO",
+      "subtema": "Consagración constitucional"
+    },
+    {
+      "tema": "DERECHO A LA IGUALDAD DE PROTECCION DE LA MUJER ADOLESCENTE EN RELACION CON EL MATRIMONIO PRECOZ",
+      "subtema": "Insensibilidad de disposición al otorgar una mayor protección a los varones adolescentes"
+    },
+    {
+      "tema": "DERECHO A LA IGUALDAD ANTE LA LEY",
+      "subtema": "Garantía constitucional a todas las personas"
+    },
+    {
+      "tema": "DERECHO A LA IGUALDAD DE PROTECCION Y AL PRINCIPIO DEMOCRATICO",
+      "subtema": "Respeto"
+    },
+    {
+      "tema": "DERECHO A CONFORMAR LIBREMENTE UNA FAMILIA",
+      "subtema": "Carácter fundamental"
+    },
+    {
+      "tema": "DERECHO FUNDAMENTAL A LA IGUALDAD DE PROTECCION",
+      "subtema": "Adopción por el Estado de medidas necesarias para asegurar materialmente el goce efectivo de derechos"
+    },
+    {
+      "tema": "DERECHOS DE LA MUJER MENOR DE EDAD A LA IGUALDAD DE PROTECCION SIN DISCRIMINACION POR RAZON DE GENERO RESPECTO DE MATRIMONIO PRECOZ",
+      "subtema": "Afectación en alto grado"
+    },
+    {
+      "tema": "DERECHOS DEL NIÑO Y LA NIÑA",
+      "subtema": "Incorporación legal"
+    },
+    {
+      "tema": "DERECHOS DEL ADOLESCENTE SEGUN EL COMITE SOBRE LOS DERECHOS DEL NIÑO",
+      "subtema": "Medidas a adoptar para dar efectividad"
+    },
+    {
+      "tema": "DERECHOS DE LA NIÑEZ",
+      "subtema": "Finalidad de las medidas de asistencia y protección"
+    },
+    {
+      "tema": "DERECHOS DE LA NIÑEZ",
+      "subtema": "Reconocimiento que hace la Constitución no es taxativo"
+    },
+    {
+      "tema": "FAMILIA",
+      "subtema": "Núcleo esencial de la sociedad"
+    },
+    {
+      "tema": "IGUALDAD DE PROTECCION EN ESPECIAL ENTRE MENORES EN RELACION CON EL GENERO",
+      "subtema": "Contenido de las disposiciones internacionales"
+    },
+    {
+      "tema": "IGUALDAD DE PROTECCION",
+      "subtema": "Determinación de violación"
+    },
+    {
+      "tema": "IGUALDAD DE PROTECCION Y PROHIBICION DE DISCRIMINACION ENTRE SEXOS EN MATERIA DE MATRIMONIO ENTRE MENORES DE EDAD",
+      "subtema": "Regla legal que permite a las mujeres contraerlo dos años antes que los hombres"
+    },
+    {
+      "tema": "IGUALDAD DE GENERO EN PACTO INTERNACIONAL DE DERECHOS CIVILES Y POLITICOS",
+      "subtema": "Adopción de medidas necesarias por los Estados partes"
+    },
+    {
+      "tema": "IGUALDAD",
+      "subtema": "Finalidad de la concepción material"
+    },
+    {
+      "tema": "IGUALDAD DE PROTECCION",
+      "subtema": "Competencia de los jueces de la República"
+    },
+    {
+      "tema": "IGUALDAD DE PROTECCION",
+      "subtema": "Es sustantiva"
+    },
+    {
+      "tema": "JUEZ CONSTITUCIONAL EN MATERIA DE GRUPOS DE PERSONAS COMPARABLES",
+      "subtema": "Alcance funcional en determinación de protección"
+    },
+    {
+      "tema": "REGLA JURIDICA",
+      "subtema": "Origen histórico"
+    },
+    {
+      "tema": "SENTENCIA INTEGRADORA",
+      "subtema": "Ausencia del texto que debe declararse inexequible puede resultar más gravoso que su presencia"
+    },
+    {
+      "tema": "PUBERTAD DE LAS PERSONAS",
+      "subtema": "Origen histórico de la forma de establecerla"
+    },
+    {
+      "tema": "EDUCACIÓN",
+      "subtema": "Derecho-deber"
+    },
+    {
+      "tema": "DERECHO DEL MENOR DE EDAD A QUE SE DEFINA SU FILIACION",
+      "subtema": null
+    },
+    {
+      "tema": "DERECHOS FUNDAMENTALES DE PROTECCION DE LOS MENORES",
+      "subtema": null
+    },
+    {
+      "tema": "DERECHO DEL MENOR DE EDAD A UNA PROGENITURA RESPONSABLE",
+      "subtema": null
+    },
+    {
+      "tema": "IGUALDAD DE DERECHOS Y DEBERES DE LA PAREJA",
+      "subtema": null
+    },
+    {
+      "tema": "IGUALDAD DE PROTECCION DEL NIÑO Y LA NIÑA",
+      "subtema": null
+    },
+    {
+      "tema": "COMITE DE DERECHOS HUMANOS EN MATERIA DE IGUALDAD DE DERECHOS ENTRE HOMBRES Y MUJERES",
+      "subtema": null
+    },
+    {
+      "tema": "COMITE DE DERECHOS HUMANOS RESPECTO DE IGUALDAD DE TRATO DEL HOMBRE Y LA MUJER EN RELACION CON EL MATRIMONIO",
+      "subtema": null
+    },
+    {
+      "tema": "IGUALDAD DE DERECHOS Y OPORTUNIDADES ENTRE HOMBRES Y MUJERES",
+      "subtema": null
+    },
+    {
+      "tema": "CONTROL DE CONSTITUCIONALIDAD EN RELACION CON GRUPOS DE PERSONAS COMPARABLES",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "AUTONOMIA DE LA MUJER ADOLESCENTE EN RELACION CON MATRIMONIO PRECOZ",
+      "subtema": "Incidencia es menor"
+    },
+    {
+      "tema": "COMITE DE DERECHOS HUMANOS RESPECTO DE LOS DERECHOS DE LA MUJER",
+      "subtema": "Necesidad de combatir las “tradiciones” que justifiquen violaciones"
+    },
+    {
+      "tema": "CORTE CONSTITUCIONAL",
+      "subtema": "Incompetencia sobre razones de conveniencia"
+    },
+    {
+      "tema": "DERECHO A UN DESARROLLO LIBRE, ARMONICO E INTEGRAL Y AL PLENO EJERCICIO DE DERECHOS EN MATRIMONIO DE MUJER ADOLESCENTE",
+      "subtema": "Grado de afectación"
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "Deber de demandar otras disposiciones que abordan el tema"
+    },
+    {
+      "tema": "CAMBIO LEGISLATIVO ADECUADO Y NECESARIO",
+      "subtema": "Competencia del Congreso"
+    },
+    {
+      "tema": "CAPACIDAD PARA CONTRAER MATRIMONIO",
+      "subtema": "Origen histórico de regla"
+    },
+    {
+      "tema": "CAPACIDAD DEL EJERCICIO DE LOS DERECHOS POR LAS PERSONAS",
+      "subtema": "Marco conceptual para definición de reglas"
+    },
+    {
+      "tema": "DERECHOS DE PROTECCION DEL MENOR",
+      "subtema": "Medidas de carácter fáctico y normativo"
+    },
+    {
+      "tema": "DERECHOS DEL NIÑO A SER ASISTIDO Y PROTEGIDO",
+      "subtema": "Responsables de esta obligación"
+    },
+    {
+      "tema": "EDUCACIÓN",
+      "subtema": "Importancia"
+    },
+    {
+      "tema": "NIÑO",
+      "subtema": "Ejercicio pleno de sus derechos"
+    },
+    {
+      "tema": "NORMAS DE PROTECCION DEL MENOR DE EDAD",
+      "subtema": "Adopción por el Estado para asegurar unos mínimos"
+    },
+    {
+      "tema": "MATRIMONIO ENTRE HOMBRE Y MUJER MENORES DE EDAD",
+      "subtema": "Fijación de edad mínima para contraerlo según el género"
+    },
+    {
+      "tema": "MATRIMONIO PRECOZ DE MUJER ADOLESCENTE",
+      "subtema": "Regla es inconstitucional por desconocer un mínimo de protección"
+    },
+    {
+      "tema": "MATRIMONIO PRECOZ DE NIÑA",
+      "subtema": "Efecto perverso de regla sobre la mujer es mayor respecto del hombre"
+    },
+    {
+      "tema": "MATRIMONIO",
+      "subtema": "Esencia"
+    },
+    {
+      "tema": "MEDIDAS DE PROTECCION DEL MENOR DE EDAD RESPECTO AL TRABAJO",
+      "subtema": "Edad mínima de ingreso al mercado laboral"
+    },
+    {
+      "tema": "MATRIMONIO DE MUJER ADOLESCENTE",
+      "subtema": "Edad mínima será igual a la fijada por el legislador para el hombre"
+    },
+    {
+      "tema": "MATRIMONIO PRECOZ DE NIÑA RESPECTO DE LIBERTAD DE LA MUJER MENOR A CONFORMAR UNA FAMILIA",
+      "subtema": "Incidencia es baja"
+    },
+    {
+      "tema": "MATRIMONIO PREMATURO DE MUJER ADOLESCENTE",
+      "subtema": "Efectos"
+    },
+    {
+      "tema": "MATRIMONIO",
+      "subtema": "Capacidad y madurez"
+    },
+    {
+      "tema": "MENOR ADULTO",
+      "subtema": "Categoría"
+    },
+    {
+      "tema": "MENOR DE EDAD EN MATERIA DE ACCESO AL SISTEMA EDUCATIVO Y LA PERMANENCIA EN EL MISMO",
+      "subtema": "Creación de condiciones por el Estado"
+    },
+    {
+      "tema": "MENOR DE EDAD",
+      "subtema": "Protección es inescindible del goce efectivo del resto de sus derechos"
+    },
+    {
+      "tema": "MENOR DE EDAD",
+      "subtema": "Reglas internacionales y nacionales de protección y jurisprudencia constitucional relevante"
+    },
+    {
+      "tema": "MENOR DE EDAD",
+      "subtema": "Normas internacionales de protección"
+    },
+    {
+      "tema": "NORMA ACUSADA",
+      "subtema": "Paso del tiempo y cambio que ha experimentado la sociedad"
+    },
+    {
+      "tema": "PRINCIPIO DE IGUALDAD DE PROTECCION EN MENORES DE EDAD",
+      "subtema": "Contenido"
+    },
+    {
+      "tema": "MENOR DE EDAD",
+      "subtema": "Protección constitucional"
+    },
+    {
+      "tema": "LOS ADOLESCENTES Y LAS ADOLESCENTES SEGUN EL COMITE SOBRE LOS DERECHOS DEL NIÑO",
+      "subtema": "Edades mínimas deben ser iguales"
+    },
+    {
+      "tema": "MARGEN DE CONFIGURACION LEGISLATIVA EN INSTITUCION JURIDICA DEL MATRIMONIO",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "MATRIMONIO DE MENORES DE EDAD",
+      "subtema": "Finalidad de la diferencia de edad no es proteger a la mujer al obedecer a fines distintos"
+    },
+    {
+      "tema": "MATRIMONIO PRECOZ DE NIÑA",
+      "subtema": "Es una de las violaciones de los derechos de la mujer"
+    },
+    {
+      "tema": "MATRIMONIO",
+      "subtema": "Decisión constitucional de reservar a la ley la regulación"
+    },
+    {
+      "tema": "MATRIMONIO",
+      "subtema": "Regulación legislativa de edad y capacidad para contraerlo"
+    },
+    {
+      "tema": "LIBERTAD DE LA MUJER MENOR DE EDAD A CONFORMAR UNA FAMILIA EN RELACION CON MATRIMONIO PRECOZ",
+      "subtema": "Igualación de la edad mínima respecto del hombre menor de edad"
+    },
+    {
+      "tema": "LIBERTAD, INTEGRIDAD Y FORMACION SEXUAL DEL MENOR DE EDAD",
+      "subtema": "Fijación mínima de ingreso al mercado laboral"
+    },
+    {
+      "tema": "MARGEN DE CONFIGURACION LEGISLATIVA EN EL DERECHO A CONTRAER MATRIMONIO",
+      "subtema": "Límites constitucionales"
+    },
+    {
+      "tema": "MARGEN DE CONFIGURACION LEGISLATIVA EN RELACION CON LA FAMILIA Y EL DERECHO A CONTRAER EL MATRIMONIO",
+      "subtema": "Limitaciones específicas"
+    },
+    {
+      "tema": "MATRIMONIO DE MUJER MENOR DE EDAD",
+      "subtema": "Origen de la regla de poder contraerlo dos años antes que el hombre"
+    },
+    {
+      "tema": "MATRIMONIO PRECOZ DE NIÑA EN RELACION CON EL DERECHO A LA SALUD",
+      "subtema": "Efectos"
+    },
+    {
+      "tema": "MATRIMONIO PRECOZ DE NIÑA",
+      "subtema": "Inconstitucionalidad de fijación de edad mínima a los doce años"
+    },
+    {
+      "tema": "LIBERTAD DE FUNDAR UNA FAMILIA POR MATRIMONIO",
+      "subtema": "Reglas internacionales"
+    },
+    {
+      "tema": "NORMA ACUSADA",
+      "subtema": "Origen y desarrollo"
+    },
+    {
+      "tema": "LIBERTAD DE FUNDAR UNA FAMILIA",
+      "subtema": "Dimensiones"
+    },
+    {
+      "tema": "LIBERTAD PARA CONTRAER MATRIMONIO",
+      "subtema": "Regla acusada establece un límite de acuerdo con el sexo"
+    },
+    {
+      "tema": "LEY CIVIL RESPECTO DE LA CONSTITUCION POLÍTICA",
+      "subtema": "Armonización para superar discriminaciones contra la mujer"
+    },
+    {
+      "tema": "DERECHOS FUNDAMENTALES DEL NIÑO",
+      "subtema": "Protección"
+    },
+    {
+      "tema": "DERECHOS DE PROTECCION ESPECIAL DEL MENOR DE EDAD",
+      "subtema": "Alcance específico"
+    },
+    {
+      "tema": "DERECHOS DE PROTECCION",
+      "subtema": "Titulares"
+    },
+    {
+      "tema": "DERECHOS DEL NIÑO Y LA NIÑA",
+      "subtema": "Fundamento de la protección reforzada"
+    },
+    {
+      "tema": "DESARROLLO EVOLUTIVO HUMANO",
+      "subtema": "Categorías"
+    },
+    {
+      "tema": "DESARROLLO LIBRE, ARMONICO E INTEGRAL DEL MENOR DE EDAD",
+      "subtema": "Dependencia en gran medida de una educación adecuada"
+    },
+    {
+      "tema": "DERECHOS SEXUALES Y REPRODUCTIVOS",
+      "subtema": "Importancia de las campañas educativas"
+    },
+    {
+      "tema": "DERECHO A LA RECREACION DEL MENOR DE EDAD",
+      "subtema": "Protección"
+    },
+    {
+      "tema": "DERECHO A LA PROTECCION DEL MENOR",
+      "subtema": "Garantía constitucional para el desarrollo libre, armónico e integral"
+    },
+    {
+      "tema": "DERECHO A LA PROTECCION DEL MENOR",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "Norma demandada no contiene regla jurídica acusada"
+    },
+    {
+      "tema": "DERECHO A CONTRAER MATRIMONIO EN EL ESTADO DE DERECHO",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "DERECHO A CONTRAER MATRIMONIO",
+      "subtema": "Es constitucional y fundamental"
+    },
+    {
+      "tema": "DERECHO A FUNDAR UNA FAMILIA",
+      "subtema": "Jurisprudencia constitucional relevante"
+    },
+    {
+      "tema": "DERECHO A CONTRAER MATRIMONIO",
+      "subtema": "Instrumentos internacionales que lo consagran"
+    },
+    {
+      "tema": "DERECHO A LA IGUALDAD EN LA CONSTITUCION POLITICA",
+      "subtema": "Modalidades"
+    },
+    {
+      "tema": "DERECHO A FUNDAR UNA FAMILIA",
+      "subtema": "Implica libertad de escoger la forma como se desea fundarla"
+    },
+    {
+      "tema": "DERECHO A LA IGUALDAD DE PROTECCION DE LOS MENORES DE EDAD",
+      "subtema": "Garantía efectiva"
+    },
+    {
+      "tema": "CONVENCION SOBRE ELIMINACION DE TODAS LAS FORMAS DE DISCRIMINACION CONTRA LA MUJER",
+      "subtema": "Condiciones de igualdad entre hombres y mujeres respecto del mismo derecho para contraer matrimonio"
+    },
+    {
+      "tema": "DECLARACION UNIVERSAL DE DERECHOS HUMANOS EN MATERIA DE MATRIMONIO",
+      "subtema": "Edad núbil"
+    },
+    {
+      "tema": "DERECHOS DEL ADOLESCENTE EN LA CONSTITUCION POLITICA Y NORMAS INTERNACIONALES",
+      "subtema": "Protección"
+    },
+    {
+      "tema": "DERECHOS DEL NIÑO Y LA NIÑA PARA UN DESARROLLO LIBRE, ARMONICO E INTEGRAL",
+      "subtema": "Consideraciones de la jurisprudencia constitucional"
+    },
+    {
+      "tema": "FAMILIA",
+      "subtema": "Noción constitucional es amplia"
+    },
+    {
+      "tema": "IGUALDAD ANTE LA LEY",
+      "subtema": "Alcance y forma de desconocimiento"
+    },
+    {
+      "tema": "IGUALDAD DE PROTECCION",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "GRUPOS DE PERSONAS COMPARABLES",
+      "subtema": "Determinación legislativa del tipo o grado de protección"
+    },
+    {
+      "tema": "IGUALDAD DE TRATO",
+      "subtema": "Alcance y forma de desconocimiento"
+    },
+    {
+      "tema": "IMPUBER",
+      "subtema": "Definición"
+    },
+    {
+      "tema": "GOCE DE LOS MISMOS DERECHOS, LIBERTADES Y OPORTUNIDADES",
+      "subtema": "Reconocimiento a toda persona sin discriminación"
+    },
+    {
+      "tema": "IGUALDAD DE PROTECCION EN ESPECIAL ENTRE MENORES EN RELACION CON EL GENERO",
+      "subtema": "Normas internacionales"
+    },
+    {
+      "tema": "IGUALDAD DE PROTECCION",
+      "subtema": "Alcance y forma de desconocimiento"
+    },
+    {
+      "tema": "INFORME DEL RELATOR ESPECIAL SOBRE LA VIOLENCIA CONTRA LA MUJER EN MATERIA DE MATRIMONIO PRECOZ",
+      "subtema": "Efectos nocivos"
+    },
+    {
+      "tema": "INSTITUCION DEL MATRIMONIO",
+      "subtema": "Fundamento"
+    },
+    {
+      "tema": "INSTITUCION JURIDICA DEL MATRIMONIO",
+      "subtema": "Cargas y límites al Congreso en regulación"
+    },
+    {
+      "tema": "INFORME SOBRE MATRIMONIOS PREMATUROS DE LA UNICEF",
+      "subtema": "Frecuencias, causas, contexto y consecuencias para la persona y la sociedad"
+    },
+    {
+      "tema": "INHIBICION DE LA CORTE CONSTITUCIONAL",
+      "subtema": "Cargos no pertinentes"
+    },
+    {
+      "tema": "NORMAS DE PROTECCION DEL MENOR DE EDAD",
+      "subtema": "Medios conducentes para alcanzar los fines propuestos"
+    },
+    {
+      "tema": "PRINCIPIO DE IGUALDAD",
+      "subtema": "Dimensiones"
+    },
+    {
+      "tema": "SENTENCIA EN PROCESO DE CONSTITUCIONALIDAD",
+      "subtema": "Tema no debatido ni considerado por la Corporación"
+    },
+    {
+      "tema": "REPRODUCCION PRECOZ",
+      "subtema": "Consecuencias"
+    }
+  ]
+}

@@ -1,0 +1,412 @@
+{
+  "radicado": "C-662-04",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2004,
+  "fecha_creacion": "2004-07-08",
+  "magistrado_ponente": null,
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "CLAUSULA GENERAL DE COMPETENCIA LEGISLATIVA EN MATERIA PROCESAL",
+  "subtema": "Alcance",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 794 de 2003",
+    "Decreto 2067 de 1991",
+    "Ley 446 de 1998",
+    "Decreto 250 de 1970"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2004/C-662-04.htm",
+  "fecha_descarga": "2026-10-22T22:37:29.815548+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2004-07-08",
+  "fecha_publicacion": null,
+  "numero": "C-662/04",
+  "tipo_cc": "C",
+  "prov_id": "23814",
+  "tema_relatoria": "DEBIDO PROCESO Y ACCESO A LA ADMINISTRACION DE JUSTICIA RESPECTO DE LA NO INTERRUPCION DE PRESCRIPCION Y OPERANCIA DE CADUCIDAD AL PROSPERAR EXCEPCIONES DE FALTA DE JURISDICCION Y COMPROMISO O CLAUSULA COMPROMISORIA",
+  "resumen": "CODIGO DE PROCEDIMIENTO CIVIL ART. 91 NUMERAL 3. MODIFICADO POR ART. 11 DE LA LEY 794 DE 2003. CASOS EN QUE NO SE CONSIDERARA INTERRUMPIDA LA PRESCRIPCION Y OPERARA LA CADUCIDAD. LIBERTAD DE CONFIGURACIÓN DEL LEGISLADOR Y LIMITES EN MATERIA PROCESAL.",
+  "titulaciones": [
+    {
+      "tema": "CLAUSULA GENERAL DE COMPETENCIA LEGISLATIVA EN MATERIA PROCESAL",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "ACCESO A LA ADMINISTRACION DE JUSTICIA",
+      "subtema": "Efectividad imperativa"
+    },
+    {
+      "tema": "CARGA PROCESAL EN ACCESO A LA ADMINISTRACION DE JUSTICIA Y TRAMITE DEL PROCESO",
+      "subtema": null
+    },
+    {
+      "tema": "DEBIDO PROCESO Y ACCESO A LA ADMINISTRACION DE JUSTICIA RESPECTO DE LA NO INTERRUPCION DE PRESCRIPCION Y OPERANCIA DE CADUCIDAD AL PROSPERAR EXCEPCIONES DE FALTA DE JURISDICCION Y COMPROMISO O CLAUSULA COMPROMISORIA",
+      "subtema": null
+    },
+    {
+      "tema": "CARGA PROCESAL EN ACCESO A LA JURISDICCION",
+      "subtema": "Requerimientos relacionados con la presentación de la demanda"
+    },
+    {
+      "tema": "CARGA PROCESAL EN ACCESO A LA JURISDICCION",
+      "subtema": "Posibilidad de acudir para hacer efectiva exigencia de derechos en un término procesal específico"
+    },
+    {
+      "tema": "CARGA PROCESAL",
+      "subtema": "Presentación en tiempo de la demanda"
+    },
+    {
+      "tema": "DERECHO DE ACCESO A LA ADMINISTRACION DE JUSTICIA Y DEBIDO PROCESO",
+      "subtema": "Relación"
+    },
+    {
+      "tema": "DERECHO DE ACCESO A LA ADMINISTRACIÓN DE JUSTICIA",
+      "subtema": "Interpretación bajo la Constitución"
+    },
+    {
+      "tema": "CONTROL DE CONSTITUCIONALIDAD",
+      "subtema": "Determinación del contenido normativo concreto que ha sido demandado"
+    },
+    {
+      "tema": "CONTROL DE CONSTITUCIONALIDAD",
+      "subtema": "Contenido normativo acusado"
+    },
+    {
+      "tema": "CONTROL DE CONSTITUCIONALIDAD",
+      "subtema": "Determinación del contenido normativo"
+    },
+    {
+      "tema": "INTERRUPCION DE LA PRESCRIPCION Y NO OPERANCIA DE LA CADUCIDAD EN LA JURISDICCION CIVIL",
+      "subtema": "Presentación de la demanda como mandato general"
+    },
+    {
+      "tema": "ININTERRUPCION DE LA PRESCRIPCION Y OPERANCIA DE LA CADUCIDAD EN EXCEPCIONES DE FALTA DE JURISDICCION Y COMPROMISO",
+      "subtema": "Deficiencia del demandante en la presentación de una demanda idónea y en forma"
+    },
+    {
+      "tema": "ININTERRUPCION DE LA PRESCRIPCION Y OPERANCIA DE LA CADUCIDAD EN EXCEPCIONES DE FALTA DE JURISDICCION Y COMPROMISO",
+      "subtema": "Legitimidad de la carga procesal"
+    },
+    {
+      "tema": "ININTERRUPCION DE LA PRESCRIPCION Y OPERANCIA DE LA CADUCIDAD EN EXCEPCIONES DE FALTA DE JURISDICCION Y COMPROMISO",
+      "subtema": "Exigencia de no errar el actor en la selección de la jurisdicción o en el conocimiento de los alcances de la cláusula"
+    },
+    {
+      "tema": "ININTERRUPCION DE LA PRESCRIPCION Y OPERANCIA DE LA CADUCIDAD EN EXCEPCIONES DE FALTA DE JURISDICCION Y COMPROMISO",
+      "subtema": "Presunción de objetividad que no se compadece de los conflictos que subsisten en concreto"
+    },
+    {
+      "tema": "INTERRUPCION DE LA PRESCRIPCION Y NO OPERANCIA DE LA CADUCIDAD",
+      "subtema": "Decisión definitiva por el juez sobre la controversia planteada como culminación del proceso"
+    },
+    {
+      "tema": "JUEZ CONSTITUCIONAL RESPECTO DE LIBERTAD DE CONFIGURACION LEGISLATIVA EN MATERIA PROCESAL",
+      "subtema": "Deber de garantizarla dentro de los límites constitucionales"
+    },
+    {
+      "tema": "PACTO ARBITRAL",
+      "subtema": "Condiciones de procedencia son fijadas por las partes"
+    },
+    {
+      "tema": "EXCEPCIONES DE FALTA DE JURISDICCION Y COMPROMISO O CLAUSULA COMPROMISORIA",
+      "subtema": "Distinciones que no permiten una comparación"
+    },
+    {
+      "tema": "EXCEPCION PREVIA DE FALTA DE JURISDICCION Y COMPROMISO O CLAUSULA COMPROMISORIA EN JURISDICCION CIVIL",
+      "subtema": "Demora natural y actual en la jurisdicción para la resolución respecto de exigencia impuesta al actor"
+    },
+    {
+      "tema": "EXCEPCIONES DE FALTA DE JURISDICCION Y COMPROMISO O CLAUSULA COMPROMISORIA",
+      "subtema": "Enfrentamientos en la doctrina y jurisprudencia sobre los alcances que pueden llevar a la pérdida de derechos sustanciales no atribuibles al demandante"
+    },
+    {
+      "tema": "EXCEPCION PREVIA DE COMPROMISO O CLAUSULA COMPROMISORIA EN LA JURISDICCION CIVIL",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "EXCEPCION PREVIA DE FALTA DE JURISDICCION EN EL AMBITO CIVIL",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "EXCEPCION PREVIA DE FALTA DE JURISDICCION Y COMPROMISO O CLAUSULA COMPROMISORIA",
+      "subtema": "Violación por falta de proporcionalidad en carga procesal al demandante"
+    },
+    {
+      "tema": "NORMA JURIDICA COMPLEJA",
+      "subtema": "Textos legales que la integran"
+    },
+    {
+      "tema": "PRINCIPIO DE EFECTIVIDAD DE LOS DERECHOS EN NORMA PROCESAL",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "ININTERRUPCION DE LA PRESCRIPCION Y OPERANCIA DE LA CADUCIDAD EN EXCEPCIONES DE FALTA DE JURISDICCION Y COMPROMISO",
+      "subtema": "No son las únicas excepciones y tienen como finalidad dar por terminado el proceso"
+    },
+    {
+      "tema": "ININTERRUPCION DE LA PRESCRIPCION Y OPERANCIA DE LA CADUCIDAD EN JURISDICCION CIVIL",
+      "subtema": "Error en la definición de la jurisdicción o en los alcances del compromiso o cláusula compromisoria en el proceso"
+    },
+    {
+      "tema": "ININTERRUPCION DE LA PRESCRIPCION Y OPERANCIA DE LA CADUCIDAD EN EXCEPCIONES DE FALTA DE JURISDICCION Y COMPROMISO",
+      "subtema": "Desproporcionalidad de carga procesal"
+    },
+    {
+      "tema": "ININTERRUPCION DE LA PRESCRIPCION Y OPERANCIA DE LA CADUCIDAD EN EXCEPCIONES DE FALTA DE JURISDICCION Y COMPROMISO",
+      "subtema": "Validez de presunción del legislador"
+    },
+    {
+      "tema": "INTERRUPCION DE LA PRESCRIPCION Y NO OPERANCIA DE LA CADUCIDAD",
+      "subtema": "Certeza en relación con determinada situación jurídica"
+    },
+    {
+      "tema": "LEGISLADOR EN MATERIA DE PRESCRIPCION EXTINTIVA",
+      "subtema": "Finalidad e implicaciones del establecimiento por la inactivación de la jurisdicción"
+    },
+    {
+      "tema": "JURISDICCION",
+      "subtema": "Señalamiento"
+    },
+    {
+      "tema": "PRESCRIPCION Y CADUCIDAD RESPECTO DE PROSPERIDAD DE EXCEPCION DE FALTA DE JURISDICCION EN EL AMBITO CIVIL",
+      "subtema": "Remisión del expediente al juez de la jurisdicción correspondiente"
+    },
+    {
+      "tema": "PRESCRIPCION Y CADUCIDAD",
+      "subtema": "Límites temporales de exigencias procesales"
+    },
+    {
+      "tema": "TERMINACION DEL PROCESO SIN DECISION DE FONDO",
+      "subtema": "Derecho del demando a que situación jurídica no permanezca indefinida ante deficiencias del demandante"
+    },
+    {
+      "tema": "UNIDAD NORMATIVA",
+      "subtema": "Facultad excepcional"
+    },
+    {
+      "tema": "SENTENCIA DE INCONSTITUCIONALIDAD INTEGRADORA",
+      "subtema": "Procedencia mientras el legislador no regule de manera distinta el tema"
+    },
+    {
+      "tema": "ACCESO A LA ADMINISTRACION DE JUSTICIA",
+      "subtema": "Configuración legal"
+    },
+    {
+      "tema": "CONTROL DE CONSTITUCIONALIDAD",
+      "subtema": "Ambito sobre el cual recae"
+    },
+    {
+      "tema": "CONTROL DE CONSTITUCIONALIDAD",
+      "subtema": "Contenido normativo conformado por la articulación de diversos preceptos legales"
+    },
+    {
+      "tema": "CONTROL DE CONSTITUCIONALIDAD",
+      "subtema": "Existencia de contenido normativo complejo"
+    },
+    {
+      "tema": "CONTROL DE CONSTITUCIONALIDAD",
+      "subtema": "Recae sobre el contenido material de la ley y sobre los vicios de formación"
+    },
+    {
+      "tema": "DERECHO AL DEBIDO PROCESO",
+      "subtema": "Aplicación inmediata"
+    },
+    {
+      "tema": "DERECHO DE ACCESO A LA ADMINISTRACIÓN DE JUSTICIA",
+      "subtema": "Implicaciones"
+    },
+    {
+      "tema": "DERECHO DE ACCESO A LA ADMINISTRACIÓN DE JUSTICIA",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "Indicación precisa del objeto demandado, el concepto de violación y la razón por la cual la Corte Constitucional es competente"
+    },
+    {
+      "tema": "DERECHO AL DEBIDO PROCESO",
+      "subtema": "Objeto"
+    },
+    {
+      "tema": "CARGA PROCESAL",
+      "subtema": "Consecuencias en caso de omisión"
+    },
+    {
+      "tema": "CARGA PROCESAL",
+      "subtema": "Desconocimiento de la Constitución cuando resulta desproporcionada, irrazonable o injusta"
+    },
+    {
+      "tema": "CARGA PROCESAL",
+      "subtema": "Fundamento"
+    },
+    {
+      "tema": "CADUCIDAD",
+      "subtema": "Significado"
+    },
+    {
+      "tema": "CARGA PROCESAL EN ACCESO A LA JURISDICCION",
+      "subtema": "Presentación de una demanda idónea"
+    },
+    {
+      "tema": "CARGA PROCESAL",
+      "subtema": "Consecuencias de autorizar libremente su desconocimiento"
+    },
+    {
+      "tema": "EXCEPCIONES DE FALTA DE JURISDICCION Y COMPROMISO O CLAUSULA COMPROMISORIA",
+      "subtema": "Opciones a tener en cuenta en la presentación de la demanda"
+    },
+    {
+      "tema": "EXCEPCION PREVIA DE FALTA DE JURISDICCION EN EL AMBITO CIVIL",
+      "subtema": "Dicotomía y controversias no pacíficas entre jurisdicciones"
+    },
+    {
+      "tema": "NORMA ACUSADA",
+      "subtema": "Contenido normativo complejo"
+    },
+    {
+      "tema": "NORMA PROCESAL",
+      "subtema": "Finalidad"
+    },
+    {
+      "tema": "NORMA ACUSADA",
+      "subtema": "Articulación compleja de textos"
+    },
+    {
+      "tema": "NORMA ACUSADA",
+      "subtema": "Textos legales que la integran"
+    },
+    {
+      "tema": "PRINCIPIO DE IGUALDAD",
+      "subtema": "Presupuestos de comparación"
+    },
+    {
+      "tema": "LIBERTAD DE CONFIGURACION LEGISLATIVA EN MATERIA PROCESAL",
+      "subtema": "Límites"
+    },
+    {
+      "tema": "DERECHOS Y LIBERTADES",
+      "subtema": "Implica responsabilidades"
+    },
+    {
+      "tema": "DEBERES, OBLIGACIONES Y CARGAS PROCESALES",
+      "subtema": "Distinciones"
+    },
+    {
+      "tema": "DERECHO FUNDAMENTAL A LA ADMINISTRACION DE JUSTICIA",
+      "subtema": "Aplicación inmediata"
+    },
+    {
+      "tema": "EXCEPCION PREVIA DE COMPROMISO O CLAUSULA COMPROMISORIA",
+      "subtema": "Diferencias jurisprudenciales y doctrinarias serias sobre la existencia y alcance que enuncian una complejidad innegable para el demandante"
+    },
+    {
+      "tema": "EXCEPCION PREVIA DE FALTA DE JURISDICCION EN EL AMBITO CIVIL",
+      "subtema": "Debates jurídicos serios que hacen difícil para el demandante la determinación cierta y exacta de la jurisdicción"
+    },
+    {
+      "tema": "ININTERRUPCION DE LA PRESCRIPCION Y OPERANCIA DE LA CADUCIDAD EN EXCEPCIONES DE FALTA DE JURISDICCION Y COMPROMISO",
+      "subtema": "Causal consistente en la terminación del proceso por haber prosperado las excepciones"
+    },
+    {
+      "tema": "ININTERRUPCION DE LA PRESCRIPCION Y OPERANCIA DE LA CADUCIDAD EN EXCEPCIONES DE FALTA DE JURISDICCION Y COMPROMISO",
+      "subtema": "Divergencias doctrinales y jurisprudenciales en interpretación no dependen del actor"
+    },
+    {
+      "tema": "ININTERRUPCION Y OPERANCIA DE LA CADUCIDAD",
+      "subtema": "Derechos del demandado"
+    },
+    {
+      "tema": "ININTERRUPCION DE LA PRESCRIPCION Y OPERANCIA DE LA CADUCIDAD EN EXCEPCIONES DE FALTA DE JURISDICCION Y COMPROMISO",
+      "subtema": "Cargas consistentes en acertar la jurisdicción y el alcance pleno de la cláusula"
+    },
+    {
+      "tema": "ININTERRUPCION DE LA PRESCRIPCION Y OPERANCIA DE LA CADUCIDAD EN EXCEPCIONES DE FALTA DE JURISDICCION Y COMPROMISO",
+      "subtema": "Medida proporcional y ajustada a la razón de ser del proceso civil"
+    },
+    {
+      "tema": "ININTERRUPCION DE LA PRESCRIPCION Y OPERANCIA DE LA CADUCIDAD",
+      "subtema": "Incumplimiento por el demandante de carga procesal"
+    },
+    {
+      "tema": "JURISDICCION Y COMPETENCIA",
+      "subtema": "Ordenamiento jurídico establece de manera precisa reglas que las definen"
+    },
+    {
+      "tema": "LEGISLADOR EN CUANTO A LAS FORMAS PROPIAS DE CADA JUICIO",
+      "subtema": "Alcance de la discrecionalidad para establecimiento"
+    },
+    {
+      "tema": "EXCEPCION PREVIA Y DE FONDO EN LOS AMBITOS CIVIL Y CONTENCIOSO ADMINISTRATIVO",
+      "subtema": "Distinciones que no permiten adelantar un test de igualdad"
+    },
+    {
+      "tema": "ININTERRUPCION DE LA PRESCRIPCION Y OPERANCIA DE LA CADUCIDAD EN EXCEPCIONES DE FALTA DE JURISDICCION Y COMPROMISO",
+      "subtema": "Proporcionalidad y razonabilidad de la decisión"
+    },
+    {
+      "tema": "ININTERRUPCION DE LA PRESCRIPCION Y OPERANCIA DE LA CADUCIDAD EN EXCEPCIONES DE FALTA DE JURISDICCION Y COMPROMISO",
+      "subtema": "Consecuencias de la declaración de inconstitucionalidad"
+    },
+    {
+      "tema": "ININTERRUPCION DE LA PRESCRIPCION Y OPERANCIA DE LA CADUCIDAD EN JURISDICCION CIVIL",
+      "subtema": "Excepción al mandato general con la presentación de la demanda"
+    },
+    {
+      "tema": "NORMA PROCESAL",
+      "subtema": "Debe garantizar la prevalencia del derecho sustancial y la efectividad de los derechos"
+    },
+    {
+      "tema": "NORMA PROCESAL",
+      "subtema": "Efectos de la evasión de compromisos preestablecidos bajo supuesto de imposición indebida de cargas a los asociados"
+    },
+    {
+      "tema": "PRESCRIPCION EN LA JURISDICCION CIVIL",
+      "subtema": "No reconocimiento de oficio"
+    },
+    {
+      "tema": "PRESCRIPCION EXTINTIVA Y CADUCIDAD DE LAS ACCIONES",
+      "subtema": "Finalidad"
+    },
+    {
+      "tema": "PRESCRIPCION Y CADUCIDAD RESPECTO DE PROSPERIDAD DE LA EXCEPCION PREVIA DE COMPROMISO O CLAUSULA COMPROMISORIA EN LA JURISDICCION CIVIL",
+      "subtema": "Señalamiento de término razonable para la integración del tribunal de arbitramento"
+    },
+    {
+      "tema": "PRESCRIPCION COMO ACCESO A LA JURISDICCION",
+      "subtema": "Creación de una carga procesal"
+    },
+    {
+      "tema": "PRESCRIPCIÓN",
+      "subtema": "Implicaciones"
+    },
+    {
+      "tema": "PROCESO JUDICIAL",
+      "subtema": "Imposición a las partes de cargas procesales"
+    },
+    {
+      "tema": "PROCESO",
+      "subtema": "Finalidad"
+    },
+    {
+      "tema": "PROCESO JUDICIAL",
+      "subtema": "Efectos del desconocimiento de las responsabilidades de las partes"
+    },
+    {
+      "tema": "SENTENCIA DE INCONSTITUCIONALIDAD INTEGRADORA",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "UNIDAD NORMATIVA",
+      "subtema": "Integración"
+    },
+    {
+      "tema": "SENTENCIA DE INEXEQUIBILIDAD INTEGRADORA",
+      "subtema": "Exceso a los límites"
+    },
+    {
+      "tema": "TRAMITE JUDICIAL",
+      "subtema": "Asignación legal de obligaciones jurídicas, deberes de conducta o cargas"
+    }
+  ]
+}

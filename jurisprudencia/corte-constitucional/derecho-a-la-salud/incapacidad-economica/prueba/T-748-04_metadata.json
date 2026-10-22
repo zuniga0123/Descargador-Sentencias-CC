@@ -1,0 +1,42 @@
+{
+  "radicado": "T-748-04",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2004,
+  "fecha_creacion": "2004-08-06",
+  "magistrado_ponente": "Dr RODRIGO ESCOBAR GIL",
+  "area": "Derecho a la Salud",
+  "tema": "INCAPACIDAD ECONOMICA",
+  "subtema": "Prueba",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Decreto 806 de 1998"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2004/T-748-04.htm",
+  "fecha_descarga": "2026-10-22T22:30:00.616136+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2004-08-06",
+  "fecha_publicacion": null,
+  "numero": "T-748/04",
+  "tipo_cc": "T",
+  "prov_id": "23950",
+  "tema_relatoria": "DERECHO A LA VIDA LA SALUD Y LA INTEGRIDAD PERSONAL POR NO SUMINISTRO MEDICAMENTO NO POS FORMULADO POR MEDICO TRATANTE A PACIENTE DE LA TERCERA EDAD MENOPAUSICA Y CON OSTEOPOROSIS. SOLICITA SE ORDENE EL SUMINISTRO DE MEDICAMENTO IRREMPLAZABLE. PROCEDENCIA",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "INCAPACIDAD ECONOMICA",
+      "subtema": "Prueba"
+    },
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Fundamental por conexidad con la vida"
+    },
+    {
+      "tema": "DERECHO A LA SALUD DE PERSONA DE LA TERCERA EDAD",
+      "subtema": "Entrega de medicamento excluido"
+    }
+  ]
+}

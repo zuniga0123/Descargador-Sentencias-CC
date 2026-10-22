@@ -1,0 +1,386 @@
+{
+  "radicado": "C-931-04",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2004,
+  "fecha_creacion": "2004-09-29",
+  "magistrado_ponente": null,
+  "area": "Derecho Administrativo y Función Pública",
+  "tema": "CONTROL DE CONSTITUCIONALIDAD DE LIMITACION AL DERECHO DEL SERVIDOR PUBLICO A MANTENER EL PODER ADQUISITIVO REAL DEL SALARIO",
+  "subtema": "Objetivo de la limitación",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 848 de 2003",
+    "Ley 796 de 2003",
+    "Decreto 2067 de 1991",
+    "Ley 848 de 2004",
+    "Ley 134 de 1994",
+    "Ley 30 de 1992",
+    "Ley 100 de 1993",
+    "Ley 848 de 2993",
+    "Ley 617 de 2000",
+    "Ley 628 de 2000",
+    "Ley 547 de 1999",
+    "Ley 4 de 1992",
+    "Ley 780 de 2002",
+    "Ley 797 de 2003",
+    "Ley 38 de 1989",
+    "Ley 488 de 1998",
+    "Decreto 119 de 1991",
+    "Ley 331 de 1996",
+    "Decreto 35 de 1999",
+    "Decreto 182 de 2000",
+    "Decreto 2560 de 1998",
+    "Decreto 2720 de 2000",
+    "Decreto 1460 de 2001",
+    "Decreto 3569 de 2003",
+    "Ley 74 de 1968",
+    "Ley 16 de 1972"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2004/C-931-04.htm",
+  "fecha_descarga": "2026-10-22T22:47:40.603263+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2004-09-29",
+  "fecha_publicacion": null,
+  "numero": "C-931/04",
+  "tipo_cc": "C",
+  "prov_id": "24164",
+  "tema_relatoria": "TRANSFERENCIAS A UNIVERSIDADES PUBLICAS EN LEY ANUAL DEL PRESUPUESTO. INCLUSIÓN DE PARTIDAS NECESARIAS PARA MANTENER EN PESOS CONSTANTES LOS NIVELES ALCANZADOS DE COBERTURA Y CALIDAD DEL SERVICIO DE EDUCACIÓN",
+  "resumen": "LEY 848 DE 2003 ART. 2. DECRETA EL PRESUPUESTO DE RENTAS Y RECURSOS DE CAPITAL Y LA LEY DE APROPIACIONES PARA LA VIGENCIA FISCAL DEL 1º DE ENERO AL 31 DE DICIEMBRE DE 2004. PRESUPUESTO DE GASTOS O LEY DE APROPIACIONES. CONGELACIÓN DE SALARIOS.",
+  "titulaciones": [
+    {
+      "tema": "CONTROL DE CONSTITUCIONALIDAD DE LIMITACION AL DERECHO DEL SERVIDOR PUBLICO A MANTENER EL PODER ADQUISITIVO REAL DEL SALARIO",
+      "subtema": "Objetivo de la limitación"
+    },
+    {
+      "tema": "CONGELACION DE TRANSFERENCIAS A UNIVERSIDADES PUBLICAS EN LEY ANUAL DE PRESUPUESTO",
+      "subtema": "Explicaciones del Gobierno no exponen una carga argumentativa mínima con base en razones constitucionales y no solamente económicas"
+    },
+    {
+      "tema": "CONGELACION DE SALARIOS EN LEY ANUAL DE PRESUPUESTO 2004",
+      "subtema": "Objetivos perseguidos por el Gobierno"
+    },
+    {
+      "tema": "CONGELACION DE TRANSFERENCIAS A UNIVERSIDADES PUBLICAS EN LEY ANUAL DE PRESUPUESTO",
+      "subtema": "Fin perseguido por la medida"
+    },
+    {
+      "tema": "CONGELACION DE SALARIOS EN LEY ANUAL DE PRESUPUESTO",
+      "subtema": "No realización de adiciones o traslados presupuestales por el Gobierno para reajustar salarios de quienes devengan más de dos salarios mínimos legales mensuales"
+    },
+    {
+      "tema": "CONGELACION DE SALARIOS DEL SECTOR PUBLICO SUPERIORES A DOS SALARIOS MINIMOS LEGALES MENSUALES EN LEY ANUAL DE PRESUPUESTO 2004",
+      "subtema": "Justificaciones gubernamentales son abstractas"
+    },
+    {
+      "tema": "COSA JUZGADA RESPECTO DE PROYECTO DE LEYES ANUALES DE PRESUPUESTO",
+      "subtema": "Ausencia y procedencia de un fallo de fondo"
+    },
+    {
+      "tema": "CONTROL DE CONSTITUCIONALIDAD DE LEY ANUAL DE PRESUPUESTO RESPECTO AL REAJUSTE SALARIAL DEL SERVIDOR PUBLICO",
+      "subtema": "Contexto normativo que debe tenerse en cuenta"
+    },
+    {
+      "tema": "CONTROL DE CONSTITUCIONALIDAD DE LIMITACION AL DERECHO DEL SERVIDOR PUBLICO A MANTENER EL PODER ADQUISITIVO REAL DEL SALARIO",
+      "subtema": "Medio utilizado para la limitación"
+    },
+    {
+      "tema": "DERECHO A MANTENER EL PODER ADQUISITIVO REAL DEL SALARIO RESPECTO DE LEY ANUAL DEL PRESUPUESTO 2004",
+      "subtema": "Reconocimiento de actualización plena al final de la vigencia del actual Plan Nacional de Desarrollo"
+    },
+    {
+      "tema": "DERECHO AL SALARIO MOVIL",
+      "subtema": "Alcances se deducen directamente de la Constitución atendiendo inactividad del legislador y del Gobierno"
+    },
+    {
+      "tema": "DERECHO DE ACCESO A LA EDUCACIÓN SUPERIOR",
+      "subtema": "Carácter progresivo"
+    },
+    {
+      "tema": "DERECHO A MANTENER EL PODER ADQUISITIVO DEL SALARIO DE SERVIDOR PUBLICO EN LAS ESCALAS MEDIAS Y ALTAS",
+      "subtema": "Reconocimiento de actualización plena al final de la vigencia del Plan Nacional de Desarrollo no es retroactiva"
+    },
+    {
+      "tema": "DERECHO SOCIAL A LA EDUCACION SUPERIOR",
+      "subtema": "Examen constitucional de restricción introducida al carácter progresivo"
+    },
+    {
+      "tema": "ESTATUTO DEL TRABAJO EN MATERIA DEL SALARIO MINIMO VITAL Y MOVIL",
+      "subtema": "No expedición por el legislador"
+    },
+    {
+      "tema": "ESTATUTO DEL TRABAJO EN MATERIA DEL SALARIO MINIMO VITAL Y MOVIL",
+      "subtema": "Al no expedirse los alcances se deducen de la interpretación de la Constitución"
+    },
+    {
+      "tema": "LEY ANUAL DE PRESUPUESTO",
+      "subtema": "Expedición teniendo en cuenta relación con ley de convocatoria a un referendo"
+    },
+    {
+      "tema": "LEY ANUAL DE PRESUPUESTO RESPECTO AL REAJUSTE SALARIAL DEL SERVIDOR PUBLICO",
+      "subtema": "Continuación de situación de déficit fiscal elevado y de endeudamiento público creciente"
+    },
+    {
+      "tema": "REDUCCION DEL DEFICIT FISCAL",
+      "subtema": "Demostración a la luz de la Constitución de relevancia de este objetivo que no se cumplió"
+    },
+    {
+      "tema": "REAJUSTE DE PENSIONES EN LEY ANUAL DE PRESUPUESTO",
+      "subtema": "Pago por el Gobierno no significa modificación mediante una ley de adición presupuestal"
+    },
+    {
+      "tema": "DERECHOS DE LOS SERVIDORES PUBLICOS MEDIOS Y ALTOS A MANTENER EL PODER ADQUISITIVO REAL DEL SALARIO",
+      "subtema": "Medio utilizado para la limitación es constitucionalmente válido"
+    },
+    {
+      "tema": "COSA JUZGADA RESPECTO DE LEY ANUAL DE PRESUPUESTO EN MATERIA DE NO REAJUSTE DE SALARIOS",
+      "subtema": "Inexistencia"
+    },
+    {
+      "tema": "DERECHO DEL SERVIDOR PUBLICO A MANTENER EL PODER ADQUISITIVO REAL DEL SALARIO",
+      "subtema": "Carga argumentativa del Gobierno en justificación de política limitativa"
+    },
+    {
+      "tema": "DERECHO DEL SERVIDOR PUBLICO A MANTENER EL PODER ADQUISITIVO REAL DEL SALARIO",
+      "subtema": "Juez constitucional no suple al Gobierno en tarea de justificación de limitación en escrutinio de razonabilidad estricto"
+    },
+    {
+      "tema": "DERECHO DEL SERVIDOR PUBLICO A MANTENER EL PODER ADQUISITIVO DEL SALARIO",
+      "subtema": "Política limitativa por el Gobierno debe justificarse"
+    },
+    {
+      "tema": "DERECHO DEL SERVIDOR PUBLICO A MANTENER EL PODER ADQUISITIVO REAL DEL SALARIO",
+      "subtema": "Examen constitucional de restricción debe tener en cuenta la situación real del país y las finalidades de la política macroeconómica"
+    },
+    {
+      "tema": "DERECHOS DE LOS SERVIDORES PUBLICOS MEDIOS Y ALTOS A MANTENER EL PODER ADQUISITIVO REAL DEL SALARIO",
+      "subtema": "Parámetros de la jurisprudencia constitucional a tener en cuenta por las autoridades competentes al limitarla"
+    },
+    {
+      "tema": "LEY ANUAL DE PRESUPUESTO 2004 RESPECTO AL REAJUSTE SALARIAL DEL SERVIDOR PUBLICO",
+      "subtema": "No inclusión de partida suficiente"
+    },
+    {
+      "tema": "LEY MARCO DE FIJACION DE SALARIOS DEL SERVIDOR PUBLICO",
+      "subtema": "Constatación de inactividad del Gobierno para la modificación"
+    },
+    {
+      "tema": "LEY ANUAL DE PRESUPUESTO RESPECTO AL REAJUSTE SALARIAL DEL SERVIDOR PUBLICO",
+      "subtema": "Relación con la ley que convocaba a un referendo constitucional"
+    },
+    {
+      "tema": "PENSIONES LEGALES",
+      "subtema": "Mantenimiento del poder adquisitivo constante"
+    },
+    {
+      "tema": "PRESUPUESTO DE UNIVERSIDADES PUBLICAS",
+      "subtema": "Recibo de aportes e independencia del presupuesto nacional o de las entidades territoriales"
+    },
+    {
+      "tema": "PRESUPUESTO GENERAL DE LA NACION",
+      "subtema": "Apropiación del rubro para atender gastos de funcionamiento, inversión y servicio de la deuda pública"
+    },
+    {
+      "tema": "PRECEDENTE CONSTITUCIONAL EN DERECHO DEL SERVIDOR PUBLICO A MANTENER EL PODER ADQUISITIVO DEL SALARIO",
+      "subtema": "Criterios generales que han fundamento el conjunto de decisiones"
+    },
+    {
+      "tema": "PRINCIPIO DE REMUNERACION MINIMA VITAL Y MOVIL EN EL ESTATUTO DEL TRABAJO",
+      "subtema": "Inactividad del legislador en el desarrollo"
+    },
+    {
+      "tema": "PROYECTO DE LEY ANUAL DE PRESUPUESTO 2004",
+      "subtema": "Presentación por el Gobierno no se ajusta a la Constitución y dio por aprobado un referendo votado negativamente por el pueblo en materia de congelación de salarios"
+    },
+    {
+      "tema": "RECURSOS FINANCIEROS PARA UNIVERSIDADES PUBLICAS",
+      "subtema": "Actualización por el Estado en principio"
+    },
+    {
+      "tema": "SENTENCIA EN MATERIA DE NO REAJUSTE DE SALARIOS DE SERVIDOR PUBLICO",
+      "subtema": "Análisis del contexto jurídico y fáctico analizado en cada caso"
+    },
+    {
+      "tema": "SERVIDORES PUBLICOS MEDIOS Y ALTOS A MANTENER EL PODER ADQUISITIVO REAL DEL SALARIO",
+      "subtema": "Imposibilidad de aplicar el parámetro de congelación total"
+    },
+    {
+      "tema": "UNIVERSIDAD DEL ESTADO U OFICIAL",
+      "subtema": "Reciben anualmente aportes de los presupuestos nacional y de entidades territoriales que signifiquen un incremento en pesos constantes"
+    },
+    {
+      "tema": "UNIVERSIDAD PUBLICA",
+      "subtema": "Fórmula legal para que aportes del presupuesto nacional y de entidades territoriales mantengan su valor constante"
+    },
+    {
+      "tema": "PRECEDENTE CONSTITUCIONAL EN MATERIA DE REAJUSTE DE SALARIOS DEL SERVIDOR PUBLICO COBIJADO POR LA LEY ANUAL DE PRESUPUESTO",
+      "subtema": null
+    },
+    {
+      "tema": "CONGELACION DE SALARIOS DEL SECTOR PUBLICO SUPERIORES A DOS SALARIOS MINIMOS LEGALES MENSUALES EN LEY ANUAL DE PRESUPUESTO",
+      "subtema": "Justificaciones gubernamentales y legislativas fueron de naturaleza económica mas o constitucional"
+    },
+    {
+      "tema": "CONGELACION DEL GASTO SOCIAL EN EDUCACION SUPERIOR",
+      "subtema": "No está constitucionalmente justificada"
+    },
+    {
+      "tema": "CONGELACION DE PENSIONES SUPERIORES A DOS SALARIOS MINIMOS LEGALES MENSUALES EN LEY ANUAL DE PRESUPUESTO",
+      "subtema": "Conclusión dada una interpretación histórica de la disposición acusada"
+    },
+    {
+      "tema": "CONGELACION DE PENSIONES SUPERIORES A DOS SALARIOS MINIMOS LEGALES MENSUALES EN LEY ANUAL DE PRESUPUESTO",
+      "subtema": "Imposibilidad constitucional"
+    },
+    {
+      "tema": "CONGELACION DE SALARIOS DEL SECTOR PUBLICO SUPERIORES A DOS SALARIOS MINIMOS LEGALES MENSUALES EN LEY ANUAL DE PRESUPUESTO 2004",
+      "subtema": "Justificaciones gubernamentales no satisfacen parámetros de la jurisprudencia constitucional"
+    },
+    {
+      "tema": "CONGELACION DE TRANSFERENCIAS A UNIVERSIDADES PUBLICAS EN LEY ANUAL DE PRESUPUESTO",
+      "subtema": "Medio no está constitucionalmente justificado en términos de necesidad y proporcionalidad"
+    },
+    {
+      "tema": "CONGELACION DE PENSIONES",
+      "subtema": "Imposibilidad constitucional"
+    },
+    {
+      "tema": "CONGELACION DE SALARIOS POR CONGELACION DE TRANSFERENCIAS A UNIVERSIDADES PUBLICAS",
+      "subtema": "Términos no están precisados"
+    },
+    {
+      "tema": "CONGELACION DE TRANSFERENCIAS A UNIVERSIDADES PUBLICAS EN LEY ANUAL DE PRESUPUESTO",
+      "subtema": "Conclusión dada una interpretación histórica"
+    },
+    {
+      "tema": "CONGELACION DE TRANSFERENCIAS DE RECURSOS DEL PRESUPUESTO GENERAL DE LA NACION A UNIVERSIDADES PUBLICAS",
+      "subtema": "Justificaciones dadas por el Gobierno son precarias"
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD DE LEY ANUAL DE PRESUPUESTO RESPECTO DE NO REAJUSTE SALARIAL DEL SERVIDOR PUBLICO",
+      "subtema": "Cargo relativo a los efectos de la no votación del referendo carece de fundamento normativo de carácter constitucional que lo sustente"
+    },
+    {
+      "tema": "CONTROL DE CONSTITUCIONALIDAD DE LEY ANUAL DE PRESUPUESTO RESPECTO AL REAJUSTE SALARIAL DEL SERVIDOR PUBLICO",
+      "subtema": "Contexto socioeconómico dentro del cual se aprobó"
+    },
+    {
+      "tema": "CONTROL DE CONSTITUCIONALIDAD DE LIMITACION AL DERECHO DEL SERVIDOR PUBLICO A MANTENER EL PODER ADQUISITIVO DEL SALARIO",
+      "subtema": "Etapas en que se desarrolla el juicio estricto"
+    },
+    {
+      "tema": "ESTATUTO GENERAL DEL TRABAJO RESPECTO DEL PRINCIPIO DE REMUNERACION MINIMA VITAL Y MOVIL PROPORCIONAL A LA CANTIDAD Y CALIDAD DEL TRABAJO",
+      "subtema": "Constancia de inactividad del Congreso para la expedición"
+    },
+    {
+      "tema": "MONTO DE RECURSOS FISCALES PARA EL SERVICIO PUBLICO DE EDUCACION SUPERIOR",
+      "subtema": "Disposición que impide que recursos públicos se reduzcan o pierdan su valor"
+    },
+    {
+      "tema": "LEY ANUAL DE PRESUPUESTO 2004 RESPECTO A TRANSFERENCIAS A LAS UNIVERSIDADES PUBLICAS",
+      "subtema": "No aprobación del referendo en cuanto a la congelación por lo que no podía darse por aprobado"
+    },
+    {
+      "tema": "LEY ANUAL DE PRESUPUESTO RESPECTO AL REAJUSTE SALARIAL DEL SERVIDOR PUBLICO",
+      "subtema": "Contexto fáctico económico continúa siendo similar aunque no idéntico"
+    },
+    {
+      "tema": "LEY DE CONVOCATORIA A REFERENDO",
+      "subtema": "Propuesta de congelación de salarios de algunos servidores públicos que no alcanzó el umbral mínimo de participación ciudadana"
+    },
+    {
+      "tema": "MONTO DE RECURSOS FISCALES PARA EL SERVICIO PUBLICO DE EDUCACION SUPERIOR",
+      "subtema": "Relación con posibilidad de mantener sin retrocesos o extender progresivamente el acceso a dicha educación y de mejorar la prestación del servicio"
+    },
+    {
+      "tema": "LEY ANUAL DE PRESUPUESTO 2004 RESPECTO AL REAJUSTE SALARIAL DEL SERVIDOR PUBLICO",
+      "subtema": "Al final de la vigencia del actual Plan Nacional de Desarrollo debe haberse reconocido la actualización plena"
+    },
+    {
+      "tema": "DERECHOS DE DESARROLLO PROGRESIVO",
+      "subtema": "Imposibilidad jurídica que en principio se presenta para disminuir el ámbito de cobertura y de prerrogativas"
+    },
+    {
+      "tema": "DERECHOS SOCIALES",
+      "subtema": "Restricción exige una adecuada justificación y debe respetar parámetros de razonabilidad y proporcionalidad"
+    },
+    {
+      "tema": "DERECHO A LA EDUCACION PUBLICA SUPERIOR",
+      "subtema": "Escrutinio sobre la razonabilidad de la medida limitativa del carácter progresivo"
+    },
+    {
+      "tema": "DERECHO DEL SERVIDOR PUBLICO A MANTENER EL PODER ADQUISITIVO DEL SALARIO SUPERIOR A DOS SALARIOS MINIMOS LEGALES MENSUALES",
+      "subtema": "Limitaciones no cumplen condiciones de la jurisprudencia constitucional"
+    },
+    {
+      "tema": "DERECHO DEL SERVIDOR PUBLICO A MANTENER EL PODER ADQUISITIVO REAL DEL SALARIO",
+      "subtema": "Aumentos han sido inferiores a la inflación causada"
+    },
+    {
+      "tema": "DERECHO DEL SERVIDOR PUBLICO A MANTENER EL PODER ADQUISITIVO DEL SALARIO",
+      "subtema": "Contexto jurídico y económico dentro del cual se expidió la disposición acusada"
+    },
+    {
+      "tema": "DERECHO DEL SERVIDOR PUBLICO A MANTENER EL PODER ADQUISITIVO DEL SALARIO",
+      "subtema": "Vulneración"
+    },
+    {
+      "tema": "DERECHO DEL SERVIDOR PUBLICO A MANTENER EL PODER ADQUISITIVO REAL DEL SALARIO",
+      "subtema": "Escrutinio sobre la razonabilidad de la limitación"
+    },
+    {
+      "tema": "DERECHO DEL SERVIDOR PUBLICO A MANTENER EL PODER ADQUISITIVO REAL DEL SALARIO",
+      "subtema": "Condiciones que deben cumplir las limitaciones"
+    },
+    {
+      "tema": "DERECHO SOCIAL A LA EDUCACION SUPERIOR",
+      "subtema": "Carencia de justificación respecto de razonabilidad y proporcionalidad de medida restrictiva del carácter progresivo"
+    },
+    {
+      "tema": "LEY ANUAL DE PRESUPUESTO 2004 RESPECTO AL REAJUSTE SALARIAL Y MESADA PENSIONAL DEL SERVIDOR PUBLICO",
+      "subtema": "No aprobación del referendo en cuanto a la congelación por lo que no podía darse por aprobado"
+    },
+    {
+      "tema": "LEY ANUAL DE PRESUPUESTO RESPECTO AL REAJUSTE SALARIAL DEL SERVIDOR PUBLICO",
+      "subtema": "Interpretación histórica permite concluir la congelación del salario a partir de quienes devengan más de dos salarios mínimos legales mensuales"
+    },
+    {
+      "tema": "LEY DE CONVOCATORIA A REFERENDO",
+      "subtema": "No obtención de votación mínima en propuesta de congelación de salarios"
+    },
+    {
+      "tema": "PENSIONES LEGALES",
+      "subtema": "Garantía por el Estado de pago oportuno y reajuste periódico según la Constitución"
+    },
+    {
+      "tema": "POLITICA DE CONGELACION DE SALARIOS DEL SECTOR PUBLICO SUPERIORES A DOS SALARIOS MINIMOS LEGALES MENSUALES",
+      "subtema": "Justificaciones dadas por el Gobierno"
+    },
+    {
+      "tema": "REAJUSTE DE PENSIONES EN LEY ANUAL DE PRESUPUESTO",
+      "subtema": "Cancelación de mesadas por el Gobierno atendiendo la ley de seguridad social sin mediar una nueva ley que apruebe una adición o traslado presupuestal para el faltante"
+    },
+    {
+      "tema": "TRANSFERENCIAS A UNIVERSIDADES PUBLICAS EN LEY ANUAL DEL PRESUPUESTO",
+      "subtema": "Actualización de salarios de servidores públicos"
+    },
+    {
+      "tema": "TRANSFERENCIAS DEL PRESUPUESTO GENERAL DE LA NACION A UNIVERSIDADES PUBLICAS",
+      "subtema": "Reconocimiento legal de carácter de gasto social"
+    },
+    {
+      "tema": "TRANSFERENCIAS A UNIVERSIDADES PUBLICAS EN LEY ANUAL DEL PRESUPUESTO",
+      "subtema": "Inclusión de partidas necesarias para mantener en pesos constantes los niveles alcanzados de cobertura y calidad del servicio de educación"
+    },
+    {
+      "tema": "SALARIO, MESADA PENSIONAL Y GASTO SOCIAL EN EDUCACION SUPERIOR EN LEY ANUAL DE PRESUPUESTO 2004",
+      "subtema": "Inconstitucionalidad de congelación para el caso"
+    },
+    {
+      "tema": "PRECEDENTE CONSTITUCIONAL",
+      "subtema": "Vigencia de principios de seguridad jurídica, confianza legítima e igualdad"
+    }
+  ]
+}

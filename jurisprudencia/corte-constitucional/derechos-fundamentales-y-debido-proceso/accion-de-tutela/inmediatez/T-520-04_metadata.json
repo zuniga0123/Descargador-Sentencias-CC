@@ -1,0 +1,52 @@
+{
+  "radicado": "T-520-04",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2004,
+  "fecha_creacion": "2004-05-20",
+  "magistrado_ponente": "Dr JAIME CÓRDOBA TRIVIÑO",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCIÓN DE TUTELA",
+  "subtema": "Inmediatez",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Ley 270 de 1996",
+    "Decreto 2591 de 1991",
+    "Ley 446 de 1998"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2004/T-520-04.htm",
+  "fecha_descarga": "2026-10-22T22:26:03.062989+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2004-05-20",
+  "fecha_publicacion": null,
+  "numero": "T-520/04",
+  "tipo_cc": "T",
+  "prov_id": "23634",
+  "tema_relatoria": "DERECHO AL DEBIDO PROCESO. VIA DE HECHO. SOLICITUD RECONOCIMIENTO PENSION DE JUBILACION. CONTRATO DE TRABAJO A TERMINO INDEFINIDO. PLAN DE RETIRO VOLUNTARIO. INMEDIATEZ DE LA TUTELA. LEGITIMIDAD PARA ACTUAR. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Inmediatez"
+    },
+    {
+      "tema": "FALTA DE LEGITIMACION POR ACTIVA EN TUTELA",
+      "subtema": "Demandante no intervino en proceso de nulidad"
+    },
+    {
+      "tema": "DERECHOS ADQUIRIDOS Y TRANSITO LEGISLATIVO",
+      "subtema": null
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Término razonable de presentación"
+    },
+    {
+      "tema": "VIA DE HECHO",
+      "subtema": "No se configura al haberse declarado nulidad de Ordenanza"
+    }
+  ]
+}

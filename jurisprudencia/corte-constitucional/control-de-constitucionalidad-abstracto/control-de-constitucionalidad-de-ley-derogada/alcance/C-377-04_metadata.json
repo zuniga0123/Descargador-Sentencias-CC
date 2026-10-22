@@ -1,0 +1,65 @@
+{
+  "radicado": "C-377-04",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2004,
+  "fecha_creacion": "2004-04-27",
+  "magistrado_ponente": "Dr RODRIGO ESCOBAR GIL",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "CONTROL DE CONSTITUCIONALIDAD DE LEY DEROGADA",
+  "subtema": "Alcance",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 153 de 1887",
+    "Ley 29 de 1989",
+    "Decreto 2067 de 1991",
+    "Ley 29 de 1982",
+    "Ley 45 de 1936"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2004/C-377-04.htm",
+  "fecha_descarga": "2026-10-22T22:31:26.931766+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2004-04-27",
+  "fecha_publicacion": "2004-06-15",
+  "numero": "C-377/04",
+  "tipo_cc": "C",
+  "prov_id": "22027",
+  "tema_relatoria": "DELACION DE LA HERENCIA. SUCESIONES FORZOSAS O INTESTADAS. DERECHO DE REPRESENTACION EN DESCENDENCIA LEGITIMA. VOCACION HEREDITARIA DE LA DESCENDENCIA EXTRAMATRIMONIAL.",
+  "resumen": "Demanda de inconstitucionalidad contra el inciso primero del artículo 36 de la Ley 153 de 1887 y el artículo 1043 del Código Civil, modificado por el artículo 3 de la Ley 29 de 1989. A pesar de que el actor adujo que la disposición cuestionada vulnera los artículos 2º, 4º, 13, 14, 42, 241, 242 y 243 de la Constitución, solo presentó un cargo relacionado con la desigualdad en las condiciones para el ejercicio del derecho de la representación hereditaria a la regla hermenéutica de aplicación en el tiempo contenida en el inciso primero del artículo 36 de la Ley 153 de 1887, en cuanto implica que actualmente los descendientes naturales del causante carecen de vocación hereditaria si la apertura de la sucesión forzosa o intestada fue anterior a la entrada en vigencia de la Ley 29 de 1982. Como quiera que la disposición demandada fue derogada y no se encuentra actualmente produciendo efectos la Corte decidió declararse INHIBIDA para emitir pronunciamiento de fondo.",
+  "titulaciones": [
+    {
+      "tema": "CONTROL DE CONSTITUCIONALIDAD DE LEY DEROGADA",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "LEY",
+      "subtema": "Efectos en el tiempo"
+    },
+    {
+      "tema": "DERECHO DE REPRESENTACION EN LA SUCESION",
+      "subtema": "Vocación hereditaria de descendencia natural"
+    },
+    {
+      "tema": "INHIBICION DE LA CORTE CONSTITUCIONAL",
+      "subtema": "Criterio subjetivo sobre norma demandada"
+    },
+    {
+      "tema": "NORMA DEROGADA",
+      "subtema": "Efectos que se proyectan con posterioridad respecto de hechos acaecidos durante su vigencia"
+    },
+    {
+      "tema": "LEY",
+      "subtema": "Carácter excepcional de retroactividad y ultraactividad"
+    },
+    {
+      "tema": "INHIBICION DE LA CORTE CONSTITUCIONAL",
+      "subtema": "Disposición derogada que no produce efectos jurídicos"
+    },
+    {
+      "tema": "ULTRAACTIVIDAD DE LA LEY",
+      "subtema": "Hechos acaecidos durante su vigencia"
+    }
+  ]
+}

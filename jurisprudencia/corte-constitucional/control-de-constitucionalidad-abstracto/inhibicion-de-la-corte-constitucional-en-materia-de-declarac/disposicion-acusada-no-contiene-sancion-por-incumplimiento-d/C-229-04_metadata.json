@@ -1,0 +1,62 @@
+{
+  "radicado": "C-229-04",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2004,
+  "fecha_creacion": "2004-03-08",
+  "magistrado_ponente": "Dr RODRIGO ESCOBAR GIL",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "INHIBICION DE LA CORTE CONSTITUCIONAL EN MATERIA DE DECLARACION TRIBUTARIA",
+  "subtema": "Disposición acusada no contiene sanción por incumplimiento de obligación material",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto Ley 624 de 1989",
+    "Decreto 2067 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2004/C-229-04.htm",
+  "fecha_descarga": "2026-10-22T22:40:53.825202+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2004-03-08",
+  "fecha_publicacion": null,
+  "numero": "C-229/04",
+  "tipo_cc": "C",
+  "prov_id": "23324",
+  "tema_relatoria": "FALLO INHIBITORIO POR INEPTITUD DE DEMANDA DE INCONSTITUCIONALIDAD CONTRA NORMA DECRETO LEY 624 DE 1989",
+  "resumen": "DECRETO 624 DE 1989. ARTS. 641 Y 642. ESTATUTO TRIBUTARIO. EXTEMPORANEIDAD EN PRESENTACION DE DECLARACIONES TRIBUTARIAS. SANCION AL CONTRIBUYENTE QUE PRESENTE DECLARACION POSTERIOR AL EMPLAZAMIENTO. INHIBIDA.",
+  "titulaciones": [
+    {
+      "tema": "INHIBICION DE LA CORTE CONSTITUCIONAL EN MATERIA DE DECLARACION TRIBUTARIA",
+      "subtema": "Disposición acusada no contiene sanción por incumplimiento de obligación material"
+    },
+    {
+      "tema": "INHIBICION DE LA CORTE CONSTITUCIONAL",
+      "subtema": "Ausencia de cargo de inconstitucionalidad"
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "Precisión de contenido normativo demandado"
+    },
+    {
+      "tema": "DECLARACION TRIBUTARIA",
+      "subtema": "Sanción por incumplimiento del deber"
+    },
+    {
+      "tema": "INHIBICION DE LA CORTE CONSTITUCIONAL",
+      "subtema": "Contenido normativo no presente en disposición demandada"
+    },
+    {
+      "tema": "INHIBICION DE LA CORTE CONSTITUCIONAL",
+      "subtema": "No precisión de contenido normativo contra el que se dirige la acusación"
+    },
+    {
+      "tema": "PRINCIPIO PRO ACTIONE EN DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "Ponderación con el debido proceso y carácter participativo de la acción"
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "Requisitos mínimos"
+    }
+  ]
+}

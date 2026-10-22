@@ -1,0 +1,45 @@
+{
+  "radicado": "T-519-04",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2004,
+  "fecha_creacion": "2004-05-20",
+  "magistrado_ponente": "Dr EDUARDO MONTEALEGRE LYNETT",
+  "area": "Derecho a la Salud",
+  "tema": "DERECHO A LA VIDA DIGNA",
+  "subtema": "Alcance",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2004/T-519-04.htm",
+  "fecha_descarga": "2026-10-22T22:25:59.425930+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2004-05-20",
+  "fecha_publicacion": null,
+  "numero": "T-519/04",
+  "tipo_cc": "T",
+  "prov_id": "23633",
+  "tema_relatoria": "DERECHO A LA VIDA E INTEGRIDAD DE PERSONA DE LA TERCERA EDAD. SUMINISTRO E IMPLANTACION AUDIFONOS BILATERALES PRESCRITOS POR MEDICO TRATANTE NO INCLUIDOS EN EL POS. ACCION DE REPETICION. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA VIDA DIGNA",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Fundamental por conexidad con la vida"
+    },
+    {
+      "tema": "DERECHO A LA SALUD DE PERSONA DE LA TERCERA EDAD",
+      "subtema": "Suministro de audífonos"
+    },
+    {
+      "tema": "INAPLICACION DE NORMAS DEL PLAN OBLIGATORIO DE SALUD",
+      "subtema": "Suministro de audífonos por el Seguro Social"
+    }
+  ]
+}

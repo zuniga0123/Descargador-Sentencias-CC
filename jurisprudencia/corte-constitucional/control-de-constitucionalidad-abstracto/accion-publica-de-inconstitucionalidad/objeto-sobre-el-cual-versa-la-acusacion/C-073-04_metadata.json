@@ -1,0 +1,50 @@
+{
+  "radicado": "C-073-04",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2004,
+  "fecha_creacion": "2004-02-03",
+  "magistrado_ponente": "Dr JAIME ARAÚJO RENTERÍA",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "ACCION PUBLICA DE INCONSTITUCIONALIDAD",
+  "subtema": "Objeto sobre el cual versa la acusación",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2067 de 1991",
+    "Ley 443 de 1998",
+    "Ley 797 de 2003",
+    "Ley 773 de 1998",
+    "Decreto Ley 2400 de 1968",
+    "Decreto 2400 de 1968"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2004/C-073-04.htm",
+  "fecha_descarga": "2026-10-22T22:42:30.954513+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2004-02-03",
+  "fecha_publicacion": null,
+  "numero": "C-073/04",
+  "tipo_cc": "C",
+  "prov_id": "23169",
+  "tema_relatoria": "FALLO INHIBITORIO POR INEPTITUD DE DEMANDA DE INCONSTITUCIONALIDAD CONTRA NORMA DE LA LEY 797 DE 2003",
+  "resumen": "LEY 443 DE 1998. ART. 37 (P.). LEY 797 DE 2003. ART. 9 (P.). MODIFICA LEY 100 DE 1993. ART. 33. DECRETO 1572 DE 1998. ART. 133 (P.). CAUSAL RETIRO DEL SERVICIO DE EMPLEADOS DE CARRERA ADMINISTRATIVA. SISTEMA GENERAL DE PENSIONES. REGIMENES ESPECIALES",
+  "titulaciones": [
+    {
+      "tema": "ACCION PUBLICA DE INCONSTITUCIONALIDAD",
+      "subtema": "Objeto sobre el cual versa la acusación"
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "Ausencia de cargo de inconstitucionalidad"
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "Falta de indicación precisa de norma legal que desconoce la Constitución"
+    },
+    {
+      "tema": "INHIBICION DE LA CORTE CONSTITUCIONAL",
+      "subtema": "Ausencia de indicación precisa de norma legal que desconoce la Constitución"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "radicado": "C-128-04",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2004,
+  "fecha_creacion": "2004-02-17",
+  "magistrado_ponente": "Dr ALFREDO BELTRÁN SIERRA",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "DEMANDA DE INCONSTITUCIONALIDAD",
+  "subtema": "Señalamiento de norma constitucional infringida",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2067 de 1991",
+    "Decreto 2070 de 2003",
+    "Ley 103 de 1912",
+    "Ley 797 de 2003",
+    "Decreto 1211 de 1990",
+    "Decreto 1212 de 1990",
+    "Decreto 1793 de 2000",
+    "Decreto 1214 de 1990",
+    "Ley 107 de 1928",
+    "Ley 45 de 1931",
+    "Ley 100 de 1993",
+    "Decreto 2067 de 2000",
+    "Decreto 1355 de 1970",
+    "Decreto 1222 de 1986",
+    "Decreto 2700 de 1991",
+    "Decreto 624 de 1989",
+    "Ley 546 de 1999",
+    "Ley 106 de 1993",
+    "Decreto Ley 1228 de 1995",
+    "Decreto 100 de 1980",
+    "Ley 61 de 1993",
+    "Ley 333 de 1996"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2004/C-128-04.htm",
+  "fecha_descarga": "2026-10-22T22:40:20.567797+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2004-02-17",
+  "fecha_publicacion": null,
+  "numero": "C-128/04",
+  "tipo_cc": "C",
+  "prov_id": "23220",
+  "tema_relatoria": "FALLO INHIBITORIO POR INEPTITUD DE DEMANDA DE INCONSTITUCIONALIDAD CONTRA NORMA DEL DECRETO LEY 2070 DE 2003",
+  "resumen": "DECRETO 2070 DE 2003. ART. 45 (P.). REFORMA REGIMEN PENSIONAL DE FUERZAS MILITARES Y POLICIA. VIGENCIA Y DEROGATORIA. REQUISITOS FORMALES Y MATERIALES. FACULTADES EXTRAORDINARIAS. INEPTITUD SUSTANCIAL DE LA DEMANDA. INHIBIDA.",
+  "titulaciones": [
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "Señalamiento de norma constitucional infringida"
+    },
+    {
+      "tema": "INHIBICION DE LA CORTE CONSTITUCIONAL",
+      "subtema": "No señalamiento de norma constitucional infringida"
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "Razones por las cuales textos acusados se estiman violados"
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "Disposición constitucional infringida y concepto de la violación"
+    },
+    {
+      "tema": "ACCION PUBLICA DE INCONSTITUCIONALIDAD",
+      "subtema": "Competencia rogada"
+    },
+    {
+      "tema": "DEMANDA DE INEXEQUIBILIDAD",
+      "subtema": "Contenido mínimo"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "radicado": "C-995-04",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2004,
+  "fecha_creacion": "2004-10-12",
+  "magistrado_ponente": "Dr Manuel José Cepeda Espinosa",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "NORMA ACUSADA",
+  "subtema": "Análisis de vigencia",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2453 de 1993",
+    "Decreto 356 de 1994",
+    "Decreto Ley 2453 de 1993",
+    "Decreto Ley 356 de 1994",
+    "Decreto 2543 de 1993",
+    "Ley 62 de 1993",
+    "Ley 61 de 1993",
+    "Ley 684 de 2001"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2004/C-995-04.htm",
+  "fecha_descarga": "2026-10-22T22:32:08.066218+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2004-10-12",
+  "fecha_publicacion": null,
+  "numero": "C-995/04",
+  "tipo_cc": "C",
+  "prov_id": "24237",
+  "tema_relatoria": "REGIMEN JURIDICO DE SERVICIOS PUBLICOS. NO IMPOSICIÓN AL LEGISLADOR DE DETERMINADO NIVEL DE DETALLE Y COMPLEJIDAD EN REGULACIÓN",
+  "resumen": "DECRETO LEY 2453 DE 1993 ART. 24 Y DECRETO LEY 356 DE 1994 ART. 2 (PARCIAL). SE DETERMINA LA ESTRUCTURA ORGANICA OBJETIVOS Y FUNCIONES Y REGIMEN DE SANCIONES DE LA SUPERINTENDENCIA DE VIGILANCIA Y SEGURIDAD PRIVADA Y SE EXPIDE EL ESTATUTO DE VIGILANCIA",
+  "titulaciones": [
+    {
+      "tema": "NORMA ACUSADA",
+      "subtema": "Análisis de vigencia"
+    },
+    {
+      "tema": "SERVICIO DE VIGILANCIA Y SEGURIDAD PRIVADA",
+      "subtema": "Se encuentra sujeto a la inspección, control y vigilancia del Estado"
+    },
+    {
+      "tema": "NORMA ACUSADA",
+      "subtema": "Inexistencia de subrogación o derogación tácita"
+    },
+    {
+      "tema": "REGIMEN JURIDICO DE SERVICIOS PUBLICOS",
+      "subtema": "Regulación legislativa con el grado de precisión que se considere necesario y adecuado"
+    },
+    {
+      "tema": "REGIMEN JURIDICO DE SERVICIOS PUBLICOS",
+      "subtema": "No imposición al legislador de determinado nivel de detalle y complejidad en regulación"
+    },
+    {
+      "tema": "VIGILANCIA Y SEGURIDAD PRIVADA",
+      "subtema": "No desplaza ni sustituye actividad de defensa y seguridad de las Fuerzas Armadas"
+    },
+    {
+      "tema": "VIGILANCIA Y SEGURIDAD PRIVADA",
+      "subtema": "Objeto es la seguridad ciudadana ordinaria no asociada al conflicto armado"
+    },
+    {
+      "tema": "VIGILANCIA Y SEGURIDAD PRIVADA",
+      "subtema": "Definición de actividades bajo el control y vigilancia de la Superintendencia de Vigilancia y Seguridad no desconoce la intimidad"
+    },
+    {
+      "tema": "VIGILANCIA Y SEGURIDAD PRIVADA",
+      "subtema": "Regulación de los servicios"
+    }
+  ]
+}

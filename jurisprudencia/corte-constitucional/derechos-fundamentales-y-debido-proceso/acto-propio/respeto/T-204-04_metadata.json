@@ -1,0 +1,65 @@
+{
+  "radicado": "T-204-04",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2004,
+  "fecha_creacion": "2004-03-04",
+  "magistrado_ponente": "Dra CLARA INÉS VARGAS HERNÁNDEZ",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACTO PROPIO",
+  "subtema": "Respeto",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 546 de 1999",
+    "Decreto 1593 de 1959",
+    "Decreto 753 de 1956",
+    "Ley 48 de 1968"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2004/T-204-04.htm",
+  "fecha_descarga": "2026-10-22T22:25:33.797584+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2004-03-04",
+  "fecha_publicacion": null,
+  "numero": "T-204/04",
+  "tipo_cc": "T",
+  "prov_id": "23308",
+  "tema_relatoria": "DERECHOS AL DEBIDO PROCESO BUEN NOMBRE Y HABEAS DATA. RESPETO DEL ACTO PROPIO. PAGO TOTAL OBLIGACION ADQUIRIDA. RELIQUIDACION CREDITO HIPOTECARIO. MODIFICACION INFORMACION EN BANCOS DE DATOS. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACTO PROPIO",
+      "subtema": "Respeto"
+    },
+    {
+      "tema": "DEBIDO PROCESO",
+      "subtema": "Vulneración por Bancafé"
+    },
+    {
+      "tema": "ACTO PROPIO",
+      "subtema": "Condiciones para su aplicación"
+    },
+    {
+      "tema": "CENTRAL DE INVERSIONES",
+      "subtema": "No puede exigir al accionante el pago de una obligación cedida por Bancafé que ya había sido cancelada"
+    },
+    {
+      "tema": "ENTIDAD BANCARIA",
+      "subtema": "Utilización de extractos bancarios a falta de paz y salvos por cuanto indicaban estado de obligaciones financieras"
+    },
+    {
+      "tema": "ENTIDAD BANCARIA",
+      "subtema": "Vulneración de derechos por revivir créditos ya cancelados"
+    },
+    {
+      "tema": "ENTIDAD BANCARIA",
+      "subtema": "Error en la reliquidación de un crédito"
+    },
+    {
+      "tema": "HABEAS DATA",
+      "subtema": "Orden a Bancafé y a CISA de retirar nombre de persona que nunca estuvo en mora"
+    }
+  ]
+}

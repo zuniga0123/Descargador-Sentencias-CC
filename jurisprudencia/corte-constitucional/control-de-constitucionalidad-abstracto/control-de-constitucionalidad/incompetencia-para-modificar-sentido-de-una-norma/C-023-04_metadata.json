@@ -1,0 +1,56 @@
+{
+  "radicado": "C-023-04",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2004,
+  "fecha_creacion": "2004-01-20",
+  "magistrado_ponente": "Dr ALFREDO BELTRÁN SIERRA",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "CONTROL DE CONSTITUCIONALIDAD",
+  "subtema": "Incompetencia para modificar sentido de una norma",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 790 de 2002",
+    "Decreto 2067 de 1991",
+    "Ley 3135 de 1968",
+    "Decreto 3135 de 1968"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2004/C-023-04.htm",
+  "fecha_descarga": "2026-10-22T22:36:33.271047+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2004-01-20",
+  "fecha_publicacion": null,
+  "numero": "C-023/04",
+  "tipo_cc": "C",
+  "prov_id": "23113",
+  "tema_relatoria": "FUSION DE ENTIDADES U ORGANISMOS NACIONALES-RÉGIMEN LABORAL SERÁN LOS DE LA ABSORBENTE",
+  "resumen": "LEY 790 DE 2002. ART. 2 PARAG. 1 (P.). RENOVACION DE LA ADMINISTRACION PUBLICA. FUSION DE ENTIDADES U ORGANISMOS NACIONALES Y DE MINISTERIOS. REGIMEN LABORAL DE SERVIDORES PUBLICOS DE ENTIDAD ABSORBENTE. COMPENSACION SALARIOS Y PRESTACIONES. FACULTADES EXTRAORDINARIAS",
+  "titulaciones": [
+    {
+      "tema": "CONTROL DE CONSTITUCIONALIDAD",
+      "subtema": "Incompetencia para modificar sentido de una norma"
+    },
+    {
+      "tema": "FUSION DE ENTIDADES U ORGANISMOS NACIONALES",
+      "subtema": "Régimen laboral será de la absorbente"
+    },
+    {
+      "tema": "COSA JUZGADA CONSTITUCIONAL",
+      "subtema": "Régimen laboral en fusión de entidades u organismos nacionales"
+    },
+    {
+      "tema": "DERECHOS ADQUIRIDOS DEL TRABAJADOR",
+      "subtema": "No variación de naturaleza jurídica del vínculo laboral"
+    },
+    {
+      "tema": "FUSION DE ENTIDADES U ORGANISMOS NACIONALES",
+      "subtema": "Régimen laboral será de la absorbente siempre que tengan la misma naturaleza jurídica"
+    },
+    {
+      "tema": "SENTENCIA DE CONSTITUCIONALIDAD",
+      "subtema": "No modificación de una norma"
+    }
+  ]
+}

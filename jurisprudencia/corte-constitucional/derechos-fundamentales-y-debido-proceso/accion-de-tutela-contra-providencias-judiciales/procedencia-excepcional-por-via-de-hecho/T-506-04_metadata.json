@@ -1,0 +1,61 @@
+{
+  "radicado": "T-506-04",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2004,
+  "fecha_creacion": "2004-05-25",
+  "magistrado_ponente": "Dr RODRIGO ESCOBAR GIL",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+  "subtema": "Procedencia excepcional por vía de hecho",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 510 de 1999",
+    "Decreto 2591 de 1991",
+    "Ley 256 de 1996",
+    "Ley 446 de 1998",
+    "Ley 520 de 1999",
+    "Decreto 2700 de 1991",
+    "Ley 155 de 1959",
+    "Decreto 2153 de 1992",
+    "Ley 600 de 2002"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2004/T-506-04.htm",
+  "fecha_descarga": "2026-10-22T22:25:55.830014+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2004-05-25",
+  "fecha_publicacion": null,
+  "numero": "T-506/04",
+  "tipo_cc": "T",
+  "prov_id": "23651",
+  "tema_relatoria": "DERECHO AL DEBIDO PROCESO Y ACCESO A LA ADMINISTRACION DE JUSTICIA. VIA DE HECHO. RESPUESTA RECURSO DE APELACION INTERPUESTO CONTRA RESOLUCION. COMPETENCIA DESLEAL. FALTA AGOTAR VIA GUBERNATIVA. EJERCICIO SIMULTANEO DE FUNCIONES JURISDICCIONALES. NO RETRO",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Procedencia excepcional por vía de hecho"
+    },
+    {
+      "tema": "SUPERINTENDENCIA DE INDUSTRIA Y COMERCIO",
+      "subtema": "Funciones administrativas y jurisdiccionales"
+    },
+    {
+      "tema": "SUPERINTENDENCIA DE INDUSTRIA Y COMERCIO",
+      "subtema": "No incurrió en vía de hecho al no incluir en la parte resolutiva la decisión de negar el recurso de apelación"
+    },
+    {
+      "tema": "RECURSO DE APELACION CONTRA FALLO DEFINITIVO EN INVESTIGACIONES POR COMPETENCIA DESLEAL",
+      "subtema": "Procedencia a partir de sentencia C-415/02"
+    },
+    {
+      "tema": "SUPERINTENDENCIA",
+      "subtema": "Improcedencia de recursos en función jurisdiccional"
+    },
+    {
+      "tema": "SENTENCIA",
+      "subtema": "Congruencia entre parte motiva y resolutiva"
+    }
+  ]
+}

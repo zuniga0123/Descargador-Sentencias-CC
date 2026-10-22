@@ -1,0 +1,50 @@
+{
+  "radicado": "T-923-04",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2004,
+  "fecha_creacion": "2004-09-23",
+  "magistrado_ponente": "Dra CLARA INÉS VARGAS HERNÁNDEZ",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+  "subtema": "Procedencia excepcional",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 712 de 2001",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2004/T-923-04.htm",
+  "fecha_descarga": "2026-10-22T22:29:31.621655+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2004-09-23",
+  "fecha_publicacion": null,
+  "numero": "T-923/04",
+  "tipo_cc": "T",
+  "prov_id": "24156",
+  "tema_relatoria": "DERECHO AL DEBIDO PROCESO DE AUXILIAR DE MODISTERÍA A QUIEN EL TRIBUNAL LE REVOCO SENTENCIA DE RECONOCIMIENTO DE PRESTACIONES SOCIALES DEJADAS DE PERCIBIR DURANTE LA VIGENCIA DE CONTRATO DE TRABAJO. SOLICITA DEJAR SIN EFECTOS LA SENTENCIA REVOCATORIA. PR",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Procedencia excepcional"
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA PROVIDENCIAS JUDICIALES POR VIA DE HECHO",
+      "subtema": null
+    },
+    {
+      "tema": "CONTRATO LABORAL",
+      "subtema": "Elementos"
+    },
+    {
+      "tema": "VIA DE HECHO EN PROCESO LABORAL",
+      "subtema": "Defecto fáctico por desconocimiento de pruebas"
+    },
+    {
+      "tema": "VIA DE HECHO EN PROCESO LABORAL",
+      "subtema": "Procedencia y orden de dictar nueva sentencia"
+    }
+  ]
+}

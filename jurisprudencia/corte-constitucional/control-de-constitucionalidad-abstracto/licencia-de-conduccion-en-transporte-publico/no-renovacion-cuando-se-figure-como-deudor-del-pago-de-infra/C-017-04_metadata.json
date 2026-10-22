@@ -1,0 +1,74 @@
+{
+  "radicado": "C-017-04",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2004,
+  "fecha_creacion": "2004-01-20",
+  "magistrado_ponente": "Dr MANUEL JOSÉ CEPEDA ESPINOSA",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "LICENCIA DE CONDUCCION EN TRANSPORTE PUBLICO",
+  "subtema": "No renovación cuando se figure como deudor del pago de infracciones ejecutoriadas",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 769 de 2002",
+    "Decreto 2067 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2004/C-017-04.htm",
+  "fecha_descarga": "2026-10-22T22:42:01.024298+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2004-01-20",
+  "fecha_publicacion": null,
+  "numero": "C-017/04",
+  "tipo_cc": "C",
+  "prov_id": "23107",
+  "tema_relatoria": "LICENCIA DE CONDUCCION EN TRANSPORTE PUBLICO. NO RENOVACIÓN CUANDO SE FIGURE COMO DEUDOR DEL PAGO DE INFRACCIONES EJECUTORIADAS",
+  "resumen": "LEY 769 DE 2002. ARTS. 10 23 Y 140. CODIGO NACIONAL DE TRANSITO TERRESTRE. NO RENOVACION LICENCIAS DE CONDUCCION MIENTRAS SUBSISTA SANCION O DEUDA POR INFRACCION EJECUTORIADA. CONDUCTOR TRANSPORTE DE SERVICIO PUBLICO. COBRO COACTIVO. INMOVILIZACION DEL VEHICULO",
+  "titulaciones": [
+    {
+      "tema": "LICENCIA DE CONDUCCION EN TRANSPORTE PUBLICO",
+      "subtema": "No renovación cuando se figure como deudor del pago de infracciones ejecutoriadas"
+    },
+    {
+      "tema": "SANCION ADMINISTRATIVA DE TRANSITO TERRESTRE",
+      "subtema": "Mecanismos coactivos"
+    },
+    {
+      "tema": "PROCESO DE EJECUCION COACTIVA",
+      "subtema": "Impone gastos a la administración que no se justifica en todos los casos"
+    },
+    {
+      "tema": "CONTROL DE CONSTITUCIONALIDAD",
+      "subtema": "Test estricto frente a categorías sospechosas"
+    },
+    {
+      "tema": "MULTAS EN TRANSITO TERRESTRE",
+      "subtema": "Mecanismos para obtener cancelación"
+    },
+    {
+      "tema": "MULTA",
+      "subtema": "Utilización de medio sospechoso para recaudo que desconoce derechos ciudadanos"
+    },
+    {
+      "tema": "POTESTAD SANCIONADORA EN MATERIA DE TRANSITO TERRESTRE",
+      "subtema": "Límite constitucional"
+    },
+    {
+      "tema": "LICENCIA DE TRANSITO EN SERVICIO PUBLICO",
+      "subtema": "No renovación por no pago de infracciones debidamente ejecutoriadas"
+    },
+    {
+      "tema": "LIBERTAD DE CONFIGURACION LEGISLATIVA EN REGULACION DE TRANSITO TERRESTRE",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "DERECHOS FUNDAMENTALES",
+      "subtema": "Categorías sospechosas que los limitan"
+    },
+    {
+      "tema": "DERECHOS FUNDAMENTALES",
+      "subtema": "Razón económica no los puede limitar"
+    }
+  ]
+}

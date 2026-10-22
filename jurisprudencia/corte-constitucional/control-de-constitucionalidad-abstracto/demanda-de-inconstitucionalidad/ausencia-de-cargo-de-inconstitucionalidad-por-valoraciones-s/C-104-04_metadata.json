@@ -1,0 +1,67 @@
+{
+  "radicado": "C-104-04",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2004,
+  "fecha_creacion": "2004-02-10",
+  "magistrado_ponente": "Dra CLARA INÉS VARGAS HERNÁNDEZ",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "DEMANDA DE INCONSTITUCIONALIDAD",
+  "subtema": "Ausencia de cargo de inconstitucionalidad por valoraciones subjetivas sin razones",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 769 de 2002",
+    "Decreto 2067 de 1991",
+    "Ley 403 de 1997",
+    "Decreto 262 de 2000",
+    "Ley 115 de 1994",
+    "Ley 114 de 1996",
+    "Ley 105 de 1993"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2004/C-104-04.htm",
+  "fecha_descarga": "2026-10-22T22:42:45.639829+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2004-02-10",
+  "fecha_publicacion": null,
+  "numero": "C-104/04",
+  "tipo_cc": "C",
+  "prov_id": "23198",
+  "tema_relatoria": "CODIGO NACIONAL DE TRANSITO TERRESTRE. RELACIÓN MATERIAL CON EL TEMA DE LA EDUCACIÓN",
+  "resumen": "LEY 769 DE 2002. ARTS 12 13 14 15 16 17 18 19 24 Y 56. CODIGO NACIONAL DE TRANSITO TERRESTRE. CENTRO DE ENSEÑANZA AUTOMOVILISTICA. VIGILANCIA Y SUPERVISION. FORMACION INSTRUCTORES EN CONDUCCION. MULTAS. CAPACITACION PARA CONDUCTOR DE VEHICULOS DE SERVICIO PUBLICO",
+  "titulaciones": [
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "Ausencia de cargo de inconstitucionalidad por valoraciones subjetivas sin razones"
+    },
+    {
+      "tema": "PRINCIPIO DE UNIDAD DE MATERIA",
+      "subtema": "Diversidad de contenidos temáticos de proyecto de ley"
+    },
+    {
+      "tema": "PRINCIPIO DE UNIDAD DE MATERIA EN CODIGO NACIONAL DE TRANSITO TERRESTRE",
+      "subtema": "Inclusión de otros tópicos que guarden relación de conexidad material"
+    },
+    {
+      "tema": "PRINCIPIO DE UNIDAD DE MATERIA",
+      "subtema": "Conexidad objetiva y razonable"
+    },
+    {
+      "tema": "CODIGO NACIONAL DE TRANSITO TERRESTRE",
+      "subtema": "Inclusión de aspectos concernientes a la educación y el medio ambiente"
+    },
+    {
+      "tema": "CODIGO NACIONAL DE TRANSITO TERRESTRE",
+      "subtema": "Relación material con el tema de la educación"
+    },
+    {
+      "tema": "PRINCIPIO DE UNIDAD DE MATERIA EN LEY DE TRANSITO TERRESTRE",
+      "subtema": "Conexidad con tema educativo"
+    },
+    {
+      "tema": "PRINCIPIO DE UNIDAD DE MATERIA",
+      "subtema": "Alcance de la interpretación"
+    }
+  ]
+}

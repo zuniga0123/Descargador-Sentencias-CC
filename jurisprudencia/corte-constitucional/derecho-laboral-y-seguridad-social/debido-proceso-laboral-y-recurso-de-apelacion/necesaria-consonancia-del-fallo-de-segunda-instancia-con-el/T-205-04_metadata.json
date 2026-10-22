@@ -1,0 +1,63 @@
+{
+  "radicado": "T-205-04",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2004,
+  "fecha_creacion": "2004-03-04",
+  "magistrado_ponente": "Dra CLARA INÉS VARGAS HERNÁNDEZ",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "DEBIDO PROCESO LABORAL Y RECURSO DE APELACION",
+  "subtema": "Necesaria consonancia del fallo de segunda instancia con el objeto del recurso",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 584 de 2000",
+    "Decreto 2591 de 1991",
+    "Ley 617 de 2000",
+    "Ley 50 de 1990",
+    "Decreto 1572 de 1998",
+    "Ley 712 de 2002",
+    "Ley 362 de 1997"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2004/T-205-04.htm",
+  "fecha_descarga": "2026-10-22T22:25:37.478236+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2004-03-04",
+  "fecha_publicacion": null,
+  "numero": "T-205/04",
+  "tipo_cc": "T",
+  "prov_id": "23309",
+  "tema_relatoria": "DERECHOS AL DEBIDO PROCESO Y LIBERTAD SINDICAL. VIA DE HECHO. SOLICITUD REINTEGRO POR DESPIDO SIN JUSTA CAUSA. SUPRESION DE CARGOS. REESTRUCTURACION ADMINISTRATIVA. FUERO SINDICAL. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DEBIDO PROCESO LABORAL Y RECURSO DE APELACION",
+      "subtema": "Necesaria consonancia del fallo de segunda instancia con el objeto del recurso"
+    },
+    {
+      "tema": "VIA DE HECHO EN PROCESO LABORAL",
+      "subtema": "Vulneración de derechos fundamentales"
+    },
+    {
+      "tema": "FUERO SINDICAL Y PROCESOS DE REESTRUCTURACION ADMINISTRATIVA",
+      "subtema": null
+    },
+    {
+      "tema": "ACCION DE REINTEGRO POR FUERO SINDICAL",
+      "subtema": "Exigencia de pruebas por fuera de la ley la hizo nugatoria"
+    },
+    {
+      "tema": "DERECHO DE ASOCIACIÓN SINDICAL",
+      "subtema": "Vulneración por despidos colectivos por reestructuración"
+    },
+    {
+      "tema": "DEBIDO PROCESO DE TRABAJADORES OFICIALES SINDICALIZADOS",
+      "subtema": "Vulneración por despidos colectivos por reestructuración y sin autorización judicial"
+    },
+    {
+      "tema": "PROCESO DE REINTEGRO POR FUERO SINDICAL",
+      "subtema": "Basta con demostrar calidad de aforado en términos de Ley 584 de 2000 para entender acreditada existencia de sindicato"
+    }
+  ]
+}

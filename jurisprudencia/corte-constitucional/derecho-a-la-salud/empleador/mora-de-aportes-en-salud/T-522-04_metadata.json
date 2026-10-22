@@ -1,0 +1,49 @@
+{
+  "radicado": "T-522-04",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2004,
+  "fecha_creacion": "2004-05-27",
+  "magistrado_ponente": "Dr ALFREDO BELTRÁN SIERRA",
+  "area": "Derecho a la Salud",
+  "tema": "EMPLEADOR",
+  "subtema": "Mora de aportes en salud",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2004/T-522-04.htm",
+  "fecha_descarga": "2026-10-22T22:26:10.268764+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2004-05-27",
+  "fecha_publicacion": null,
+  "numero": "T-522/04",
+  "tipo_cc": "T",
+  "prov_id": "23665",
+  "tema_relatoria": "DERECHO A LA SALUD DE HIJO MAYOR DE EDAD. SOLICITUD AUTORIZACION REMISION PARA TRATAMIENTO DE REHABILITACION VISUAL PRESCRITO POR MEDICO TRATANTE. MORA EN PAGO DE APORTES POR EMPLEADOR INDEPENDIENTE. AGENCIA OFICIOSA. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "EMPLEADOR",
+      "subtema": "Mora de aportes en salud"
+    },
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Orden para tratamiento de rehabilitación visual"
+    },
+    {
+      "tema": "DERECHO A LA SEGURIDAD SOCIAL",
+      "subtema": "Obligación de afiliar al trabajador"
+    },
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Mora en pago de aportes patronales"
+    },
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Omisión patronal de pago de aportes"
+    }
+  ]
+}
