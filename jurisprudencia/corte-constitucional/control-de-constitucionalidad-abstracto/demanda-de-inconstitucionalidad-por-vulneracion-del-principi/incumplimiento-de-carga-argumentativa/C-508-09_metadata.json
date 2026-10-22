@@ -1,0 +1,41 @@
+{
+  "radicado": "C-508-09",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2009,
+  "fecha_creacion": "2009-07-29",
+  "magistrado_ponente": "Mauricio González Cuervo",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "DEMANDA DE INCONSTITUCIONALIDAD POR VULNERACION DEL PRINCIPIO DE IGUALDAD",
+  "subtema": "Incumplimiento de carga argumentativa",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2067 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2009/C-508-09.htm",
+  "fecha_descarga": "2026-10-22T16:32:11.331728+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2009-07-29",
+  "fecha_publicacion": null,
+  "numero": "C-508/09",
+  "tipo_cc": "C",
+  "prov_id": "31374",
+  "tema_relatoria": "FALLO INHIBITORIO POR INEPTITUD DE DEMANDA DE INCONSTITUCIONALIDAD CONTRA NORMA DEL CODIGO CIVIL",
+  "resumen": "Código Civil Colombiano artículo 2452 parcial, dicho artículo regula la hipoteca y el aparte demandado dice “esta disposición no tendrá lugar contra el tercero que haya adquirido la finca hipotecada en pública subasta ordenada por el juez”. El demandante considera vulnerado el principio de igualdad debido a que se establece una discriminación injustificada entre quienes adquieren un bien en pública subasta ordenada por el juez y quienes lo adquirieron por otra vía traslaticia de dominio, el segundo cargo formulado es la violación del artículo 83 de la Constitución debido a que se desconoce el principio de buena fe, pues tanto el comprador del bien en pública subasta como quien lo adquiere por un modo diferente deben someterse al mismo régimen. La Corte encuentra que los cargos formulados carecen de certeza, pertinencia y suficiencia debido a que los demandantes no exponen con claridad en qué consiste el concepto de violación de la Constitución, por lo tanto resuelve inhibirse.",
+  "titulaciones": [
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD POR VULNERACION DEL PRINCIPIO DE IGUALDAD",
+      "subtema": "Incumplimiento de carga argumentativa"
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD POR VULNERACION DEL PRINCIPIO DE IGUALDAD",
+      "subtema": "Requisitos"
+    },
+    {
+      "tema": "INHIBICION DE LA CORTE CONSTITUCIONAL POR INEPTITUD SUSTANTIVA DE LA DEMANDA",
+      "subtema": "Incumplimiento de requisitos de certeza, pertinencia y suficiencia en los cargos"
+    }
+  ]
+}

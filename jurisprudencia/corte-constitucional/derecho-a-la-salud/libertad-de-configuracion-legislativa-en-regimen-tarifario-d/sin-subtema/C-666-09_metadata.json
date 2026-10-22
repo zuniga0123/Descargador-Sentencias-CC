@@ -1,0 +1,60 @@
+{
+  "radicado": "C-666-09",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2009,
+  "fecha_creacion": "2009-09-22",
+  "magistrado_ponente": "Dra MARÍA VICTORIA CALLE CORREA",
+  "area": "Derecho a la Salud",
+  "tema": "LIBERTAD DE CONFIGURACION LEGISLATIVA EN REGIMEN TARIFARIO DE SERVICIOS DE SALUD",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 1151 de 2007",
+    "Decreto 2067 de 1991",
+    "Ley 100 de 1993",
+    "Ley 600 de 2000"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2009/C-666-09.htm",
+  "fecha_descarga": "2026-10-22T16:33:38.357992+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2009-09-22",
+  "fecha_publicacion": null,
+  "numero": "C-666/09",
+  "tipo_cc": "C",
+  "prov_id": "31553",
+  "tema_relatoria": "LEY DEL PLAN NACIONAL DE DESARROLLO. NORMA QUE FACULTA AL GOBIERNO PARA ESTABLECER MANUAL DE TARIFAS MÍNIMAS DE SERVICIOS DE SALUD NO VULNERA EL PRINCIPIO DE IGUALDAD",
+  "resumen": "Ley 1151 de 2007, artículo 146 “Por la cual se expide el Plan Nacional de Desarrollo 2006-2010”, el artículo demandado ordena establecer un manual de tarifas “mínimas” (expresión acusada), para la compra y venta de actividades, intervenciones, procedimientos en salud y servicios hospitalarios, contenidos en el Plan Obligatorio de Salud del Régimen Contributivo y el Régimen Subsidiado, la demandante considera que dicha norma vulnera los artículos 13, 365, 366, 334, 48 y 49 de la Constitución, por cuanto dejó supuestos análogos por fuera del ámbito de protección, ya que la Ley existe pero no cubrió todos los eventos que debió abarcar, pues no permite la intervención estatal para establecer a las administradoras y a los prestadores una tarifa máxima para comprar y vender los servicios contenidos en el POS. La Corte considera que el no haber contemplado la facultad legal de fijar un manual de tarifas máximas no desconoce los principios sociales del Estado, el deber de intervención en la economía y la destinación exclusiva de los recursos de la seguridad social, por lo tanto se decide declarar el aparte acusado EXEQUIBLE.",
+  "titulaciones": [
+    {
+      "tema": "LIBERTAD DE CONFIGURACION LEGISLATIVA EN REGIMEN TARIFARIO DE SERVICIOS DE SALUD",
+      "subtema": null
+    },
+    {
+      "tema": "COSA JUZGADA ABSOLUTA Y COSA JUZGADA RELATIVA",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD POR VULNERACION DEL PRINCIPIO DE IGUALDAD",
+      "subtema": "Necesidad de identificar los criterios de comparación y la determinación de los grupos o situaciones comparables"
+    },
+    {
+      "tema": "OMISIÓN LEGISLATIVA RELATIVA",
+      "subtema": "Inexistencia en norma que faculta al Gobierno para establecer el manual de tarifas mínimas de servicios del plan obligatorio de salud POS contributivo y subsidiado"
+    },
+    {
+      "tema": "COSA JUZGADA RELATIVA",
+      "subtema": "Configuración"
+    },
+    {
+      "tema": "LEY DEL PLAN NACIONAL DE DESARROLLO 2006-2010",
+      "subtema": "Norma que faculta al gobierno para establecer manual de tarifas mínimas de servicios de salud no vulnera el principio de igualdad"
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD POR OMISION LEGISLATIVA RELATIVA",
+      "subtema": "Requisitos"
+    }
+  ]
+}

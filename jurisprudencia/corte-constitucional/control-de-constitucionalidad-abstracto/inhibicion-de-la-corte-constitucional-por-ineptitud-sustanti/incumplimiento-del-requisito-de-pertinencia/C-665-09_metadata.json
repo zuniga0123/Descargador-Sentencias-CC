@@ -1,0 +1,44 @@
+{
+  "radicado": "C-665-09",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2009,
+  "fecha_creacion": "2009-09-22",
+  "magistrado_ponente": "Mauricio González Cuervo",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "INHIBICION DE LA CORTE CONSTITUCIONAL POR INEPTITUD SUSTANTIVA DE LA DEMANDA",
+  "subtema": "Incumplimiento del requisito de pertinencia",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 617 de 2000",
+    "Decreto 2067 de 1991",
+    "Ley 617 de 2001",
+    "Ley 100 de 1993"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2009/C-665-09.htm",
+  "fecha_descarga": "2026-10-22T16:33:49.171237+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2009-09-22",
+  "fecha_publicacion": null,
+  "numero": "C-665/09",
+  "tipo_cc": "C",
+  "prov_id": "31552",
+  "tema_relatoria": "COSA JUZGADA EN DERECHOS A PARTICIPAR EN LA CONFORMACION, EJERCICIO Y CONTROL DEL PODER POLITICO, A SER ELEGIDO Y ACCEDER AL DESEMPEÑO DE FUNCIONES Y CARGOS PUBLICOS",
+  "resumen": "Se acumulan las demandas formuladas contra la Ley 617 de 2000 artículo 33 numeral 5 parcial, la norma demanda regula las inhabilidades de los diputados para ser inscritos y elegidos, los apartes acusados son, en segundo grado de consanguinidad y respectivo departamento. El primer demandante sostiene que el Legislador, al fijar la regulación legal del régimen de inhabilidades para los diputados, desconoce los parámetros constitucionales consagrados en los artículos 179, 293 y 299 de la Carta Política pues este régimen no podía ser menos estricto que el señalado para los congresistas, el cual extiende la causal de inhabilidad por parentesco al tercer grado de consanguinidad. El segundo demandante sostiene que se están vulnerando los artículos 40, 292, 293 y 299 de la Constitución, por no haber hecho explícito que la expresión respectivo departamento alude únicamente a esta entidad territorial, pues esa falta de determinación unívoca ha dado pie a algunos operadores jurídicos, a sostener que las causales de inhabilidad de los diputados se configuran, cuando el supuesto fáctico ocurre en el departamento, como cuando ocurre en el municipio o distrito de este. La Corte encuentra que frente al primer caso ha operado la cosa juzgada constitucional, la sentencia C-325 de 2009 resolvió la cuestión planteada y dicha expresión fue declarada inexequible y frente al segundo caso en la demanda presentada no se formularon cargos de inconstitucionalidad, por lo tanto no es posible tomar una decisión de fondo.",
+  "titulaciones": [
+    {
+      "tema": "INHIBICION DE LA CORTE CONSTITUCIONAL POR INEPTITUD SUSTANTIVA DE LA DEMANDA",
+      "subtema": "Incumplimiento del requisito de pertinencia"
+    },
+    {
+      "tema": "COSA JUZGADA CONSTITUCIONAL",
+      "subtema": "Configuración"
+    },
+    {
+      "tema": "INHIBICION DE LA CORTE CONSTITUCIONAL EN DEMANDA DE INCONSTITUCIONALIDAD POR OMISION LEGISLATIVA RELATIVA",
+      "subtema": "Falta de argumentación"
+    }
+  ]
+}

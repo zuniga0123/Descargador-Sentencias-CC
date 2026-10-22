@@ -1,0 +1,44 @@
+{
+  "radicado": "C-898-09",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2009,
+  "fecha_creacion": "2009-12-02",
+  "magistrado_ponente": "Dr LUIS ERNESTO VARGAS SILVA",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "INHIBICION DE LA CORTE CONSTITUCIONAL",
+  "subtema": "Pérdida de vigencia y no producción de efectos",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2067 de 1991",
+    "Decreto 2272 de 1989",
+    "Ley 1306 de 2009",
+    "Ley 153 de 1887"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2009/C-898-09.htm",
+  "fecha_descarga": "2026-10-22T16:34:42.695471+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2009-12-02",
+  "fecha_publicacion": null,
+  "numero": "C-898/09",
+  "tipo_cc": "C",
+  "prov_id": "252",
+  "tema_relatoria": "FALLO INHIBITORIO POR INEPTITUD DE DEMANDA DE INCONSTITUCIONALIDAD CONTRA NORMA DEL CODIGO CIVIL",
+  "resumen": "Artículo 550 del Código Civil, la norma acusada regula quien tendrá la curaduría del demente, el aparte demandado es el siguiente “los padres naturales casados no podrán ejercer este cargo” el actor considera que se está frente a una discriminación injustificada en razón del origen familiar, señala que no existe ningún motivo constitucionalmente admisible que fundamente esa diferenciación. La Corte decide inhibirse de adoptar un pronunciamiento de fondo debido a que el precepto fue derogado expresamente por el artículo 119 de la Ley 1306 de 2009, configurándose la carencia actual de objeto. Inhibida.",
+  "titulaciones": [
+    {
+      "tema": "INHIBICION DE LA CORTE CONSTITUCIONAL",
+      "subtema": "Pérdida de vigencia y no producción de efectos"
+    },
+    {
+      "tema": "INHIBICION DE LA CORTE CONSTITUCIONAL POR NORMA DEROGADA",
+      "subtema": null
+    },
+    {
+      "tema": "INHIBICION DE LA CORTE CONSTITUCIONAL",
+      "subtema": "Carencia actual de objeto"
+    }
+  ]
+}
