@@ -1,0 +1,72 @@
+{
+  "radicado": "T-129-05",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2005,
+  "fecha_creacion": "2005-02-17",
+  "magistrado_ponente": "Dra CLARA INÉS VARGAS HERNÁNDEZ",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ENTIDAD BANCARIA",
+  "subtema": "Es un servicio público",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Decreto 1593 de 1959",
+    "Decreto 753 de 1956",
+    "Ley 48 de 1968"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2005/T-129-05.htm",
+  "fecha_descarga": "2026-10-22T20:14:51.056540+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2005-02-17",
+  "fecha_publicacion": "2005-03-14",
+  "numero": "T-129/05",
+  "tipo_cc": "T",
+  "prov_id": "24699",
+  "tema_relatoria": null,
+  "resumen": "DERECHO AL DEBIDO PROCESO DE CIUDADANO QUE TENIA CREDITO CON LA ENTIDAD FINANCIERA Y LO CANCELO HABIÉNDOSELE EXPEDIDO PAZ Y SALVO POR ESTE CONCEPTO. CON POSTERIORIDAD LE INFORMAN QUE CONTINUA ADEUDANDO DINERO AL BANCO Y POR MORA ES REPORTADO A LA CENTRALES DE RIESGO LO QUE LE HA IMPEDIDO EL ACCESO A NUEVOS CREDITOS. SOLICITA SE ORDENE LA CANCELACIÓN DE LA OBLIGACIÓN HIPOTECARIA Y LA ACTUALIZACION DE LA INFORMACIÓN EN LA CENTRAL DE RIESGO. APLICACIÓN DEL PRINCIPIO RESPECTO DEL ACTO PROPIO. POSICIÓN DOMINANTE DE LAS ENTIDADES BANCARIAS. IMPROCEDENCIA DE LA ACCION DE TUTELA CONTRA UNA CENTRAL DE RIESGO CUANDO EL PETICIONARIO NO HA SOLICITADO LA ACTUALIZACION DE LA INFORMACIÓN QUE SOBRE ÉL EXISTA EN LA BASE DE DATOS. CONCEDIDA",
+  "titulaciones": [
+    {
+      "tema": "ENTIDAD BANCARIA",
+      "subtema": "Es un servicio público"
+    },
+    {
+      "tema": "REVOCATORIA DIRECTA DE ACTO ADMINISTRATIVO PARTICULAR Y CONCRETO",
+      "subtema": "Protección de derechos adquiridos frente a particulares"
+    },
+    {
+      "tema": "ACTO PROPIO",
+      "subtema": "Respeto por entidad financiera"
+    },
+    {
+      "tema": "ACTO PROPIO",
+      "subtema": "Condiciones para inaplicación"
+    },
+    {
+      "tema": "ENTIDAD BANCARIA",
+      "subtema": "Posición dominante"
+    },
+    {
+      "tema": "DERECHOS FUNDAMENTALES DEL USUARIO BANCARIO",
+      "subtema": "Vulneración por abuso de posición dominante de entidad financiera"
+    },
+    {
+      "tema": "ENTIDAD BANCARIA",
+      "subtema": "Abuso de posición dominante"
+    },
+    {
+      "tema": "DERECHO A LA INFORMACION Y DEBIDO PROCESO",
+      "subtema": "Vulneración por suministrar información errada sobre crédito hipotecario"
+    },
+    {
+      "tema": "DERECHO A LA AUTODETERMINACION INFORMATIVA",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "HABEAS DATA",
+      "subtema": "Núcleo esencial"
+    }
+  ]
+}

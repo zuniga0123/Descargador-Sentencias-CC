@@ -1,0 +1,57 @@
+{
+  "radicado": "T-840-06",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2006,
+  "fecha_creacion": "2006-10-12",
+  "magistrado_ponente": "Dra CLARA INÉS VARGAS HERNÁNDEZ",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+  "subtema": "Causales genéricas de procedibilidad",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2006/T-840-06.htm",
+  "fecha_descarga": "2026-10-22T19:56:02.999011+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2006-10-12",
+  "fecha_publicacion": null,
+  "numero": "T-840/06",
+  "tipo_cc": "T",
+  "prov_id": "27266",
+  "tema_relatoria": null,
+  "resumen": "DERECHO AL DEBIDO PROCESO Y AL ACCESO A LA ADMINISTRACION DE JUSTICIA DENTRO DEL TRAMITE DE PROCESO EJECUTIVO POR LA DECISION DEL TRIBUNAL DE REVOCAR LA SENTENCIA QUE DABA POR TERMINADO EL PORCESO EN SU CONTRA SIN PRONUNCIARSE SOBRE LAS EXCEPCIONES PRESENTADAS Y SIN TENER EN CUENTA LAS PRUEBAS ALLEGADAS AL PROCESO.SOLICITAN SE DECRETE LA NULIDAD DE LAS DECISIONES JUDICIALES SE ORDENE PROFERIR UNA NUEVA SENTENCIA Y SE SUSPENDA LA EJECUCION DE CUMPLIMIENTO DE LA SENTENCIA ATACADA.ACCION DE TUTELA CONTRA PROVIDENCIAS JUDICIALES. PROCEDIBILIDAD DE LA ACCION DE TUTELA CONTRA PROVIDENCIAS JUDICIALES. CRITERIOS DE PROCEDIBILIDAD.PARA LA SALA SE ADVIERTE QUE EN LOS PRONUNCIAMIENTOS ACUSADOS RESULTAN COMPROBABLES LAS IRREGULARIDADES QUE SON IMPUTABLES AL ACTUAR JUDICIAL DEL ACCIONADO Y QUE COMPROMETE LA OBSERVANCIA DEL DEBIDO PROCESO.CONCEDIDA",
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Causales genéricas de procedibilidad"
+    },
+    {
+      "tema": "PROCESO EJECUTIVO SINGULAR",
+      "subtema": "Excepciones contra el mandamiento de pago"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Procedencia excepcional"
+    },
+    {
+      "tema": "DEBIDO PROCESO",
+      "subtema": "Falta de pronunciamiento sobre la totalidad de las excepciones propuestas"
+    },
+    {
+      "tema": "VIA DE HECHO POR DEFECTO FACTICO",
+      "subtema": "Valoración diferente que se le dió al mismo medio probatorio"
+    },
+    {
+      "tema": "VIA DE HECHO POR DEFECTO PROCEDIMENTAL",
+      "subtema": "El Tribunal no se pronunció sobre la prescripción de la acción cambiaria y reducción o perdida de intereses"
+    },
+    {
+      "tema": "VIA DE HECHO POR DEFECTO SUSTANTIVO",
+      "subtema": "No se presentó en cuanto a la caducidad de la acción cambiaria de los cheques"
+    }
+  ]
+}

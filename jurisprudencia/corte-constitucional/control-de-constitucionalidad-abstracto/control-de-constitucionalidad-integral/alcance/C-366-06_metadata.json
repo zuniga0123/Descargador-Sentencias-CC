@@ -1,0 +1,55 @@
+{
+  "radicado": "C-366-06",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2006,
+  "fecha_creacion": "2006-05-16",
+  "magistrado_ponente": "Dr RODRIGO ESCOBAR GIL",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "CONTROL DE CONSTITUCIONALIDAD INTEGRAL",
+  "subtema": "Alcance",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 196 de 1971",
+    "Decreto 2067 de 1991",
+    "Decreto 196 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2006/C-366-06.htm",
+  "fecha_descarga": "2026-10-22T20:00:36.369392+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2006-05-16",
+  "fecha_publicacion": null,
+  "numero": "C-366/06",
+  "tipo_cc": "C",
+  "prov_id": "26657",
+  "tema_relatoria": "COSA JUZGADA EN NORMA DEL ESTATUTO DEL EJERCICIO DE LA ABOGACÍA",
+  "resumen": "DECRETO 196 DE 1971 ARTICULOS 26 Y 27 (PARCIALES). SE DICTA EL ESTATUTO DEL EJERCICIO DE LA ABOGACIA. REVISION DE EXPEDIENTES Y ACTUACIONES JUDICIALES O ADMINISTRATIVAS. LA ACCIONANTE CONSIDERA QUE EL REQUISITO DE SER ESTUDIANTE DE DERECHO PARA PODER CONSULTAR LOS EXPEDIENTES RESULTA VIOLATORIO DE LOS ARTICULOS 13 25 Y 26 DE LA CONSTITUCION POLITICA. EXISTENCIA DE COSA JUZGADA ABOSLUTA Y NO CONCURREN LOS PRESUPUESTOS PARA PLANTEAR LA EXISTENCIA DE UNA COSA JUZGADA APARENTE O DE UNA COSA JUZGADA RELATIVA IMPLICITA. ESTARSE A LO RESUELTO EN C-619 DE 1996",
+  "titulaciones": [
+    {
+      "tema": "CONTROL DE CONSTITUCIONALIDAD INTEGRAL",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "COSA JUZGADA ABSOLUTA",
+      "subtema": "Inexistencia"
+    },
+    {
+      "tema": "COSA JUZGADA RELATIVA IMPLICITA",
+      "subtema": "Inexistencia"
+    },
+    {
+      "tema": "COSA JUZGADA ABSOLUTA",
+      "subtema": "Configuración"
+    },
+    {
+      "tema": "COSA JUZGADA ABSOLUTA",
+      "subtema": "Examen de expedientes por estudiantes de Derecho"
+    },
+    {
+      "tema": "COSA JUZGADA RELATIVA IMPLICITA",
+      "subtema": "Concepto"
+    }
+  ]
+}

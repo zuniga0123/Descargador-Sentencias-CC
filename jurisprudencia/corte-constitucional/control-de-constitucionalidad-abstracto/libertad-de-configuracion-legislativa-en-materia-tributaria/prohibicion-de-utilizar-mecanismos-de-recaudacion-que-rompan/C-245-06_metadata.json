@@ -1,0 +1,52 @@
+{
+  "radicado": "C-245-06",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2006,
+  "fecha_creacion": "2006-03-29",
+  "magistrado_ponente": null,
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "LIBERTAD DE CONFIGURACION LEGISLATIVA EN MATERIA TRIBUTARIA",
+  "subtema": "Prohibición de utilizar mecanismos de recaudación que rompan el equilibrio de las cargas impositivas",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 624 de 1989",
+    "Ley 75 de 1986",
+    "Ley 43 de 1987",
+    "Ley 863 de 2003"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2006/C-245-06.htm",
+  "fecha_descarga": "2026-10-22T20:07:09.588903+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2006-03-29",
+  "fecha_publicacion": null,
+  "numero": "C-245/06",
+  "tipo_cc": "C",
+  "prov_id": "26492",
+  "tema_relatoria": "DETERMINACION DE LA RENTA BRUTA EN ENAJENACION DE ACTIVOS. NO ACEPTACIÓN DE PRECIO INFERIOR AL COSTO, AVALÚO CATASTRAL O AUTOAVALÚO DEL BIEN RAÍZ",
+  "resumen": "DECRETO 624 DE 1989 ARTICULO 90 INCISO 4º MODIFICADO POR LA LEY 863 DE 2003. SE EXPIDE EL ESTATUTO TRIBUTARIO DE LOS IMPUESTOS ADMINISTRADOS POR LA DIRECCION GENERAL DE IMPUESTOS NACIONALES. DETERMINACION DE LA RENTA BRUTA EN LA ENAJENACION DE ACTIVOS. EL DEMANDANTE CONSIDERA QUE LA NORMA ACUSADA VULNERA LOS ARTICULOS 83 95 NUMERAL 9 Y EL ARTICULO 363 DE LA CONSTITUCION. LA JURISPRUDENCIA CONSTITUCIONAL HA EXPRESADO QUE EN APLICACION DEL PRINCIPIO PRO ACTIONE EL EXAMEN QUE SE HAGA NO PUEDE SER TAN EXIGENTE QUE SE LLEGUE AL PUNTO DE ENERVAR LA EFECTIVIDAD DE ESTE DERECHO POLITICO. EL PRINCIPIO DE EQUIDAD TRIBUTARIA. PARA CONTROLAR LA EVASION EL CONTRIBUYENTE DEBE SOMETERSE A UN PRECIO MINIMO FIJADO POR EL LEGISLADOR QUE CONSULTA LOS PRINCIPIOS CONSTITUCIONALES DEL DERECHO TRIBUTARIO. LA DISPOSICION OBJETO DE REPROCHE NO QUEBRANTA EL PRINCIPIO DE EQUIDAD. EXEQUIBLE",
+  "titulaciones": [
+    {
+      "tema": "LIBERTAD DE CONFIGURACION LEGISLATIVA EN MATERIA TRIBUTARIA",
+      "subtema": "Prohibición de utilizar mecanismos de recaudación que rompan el equilibrio de las cargas impositivas"
+    },
+    {
+      "tema": "DETERMINACION DE LA RENTA BRUTA EN ENAJENACION DE ACTIVOS",
+      "subtema": "No aceptación de precio inferior al costo, avalúo catastral o autoavalúo del bien raíz"
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "Aplicación del principio pro actione"
+    },
+    {
+      "tema": "PRINCIPIO DE EQUIDAD TRIBUTARIA",
+      "subtema": "No vulneración"
+    },
+    {
+      "tema": "DETERMINACION DE LA RENTA BRUTA EN ENAJENACION DE ACTIVOS",
+      "subtema": "Diferencia notoria entre el valor asignado por las partes con el del valor comercial del bien"
+    }
+  ]
+}

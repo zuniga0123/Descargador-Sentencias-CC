@@ -1,0 +1,143 @@
+{
+  "radicado": "C-856-06",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2006,
+  "fecha_creacion": "2006-10-18",
+  "magistrado_ponente": null,
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "CONTROL DE CONSTITUCIONALIDAD DE OBJECION PRESIDENCIAL",
+  "subtema": "Extensión excepcional de competencia",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2067 de 1991",
+    "Ley 397 de 1997",
+    "Ley 30 de 1992",
+    "Ley 819 de 2003",
+    "Ley 489 de 1998",
+    "Ley 60 de 1993",
+    "Ley 179 de 1994"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2006/C-856-06.htm",
+  "fecha_descarga": "2026-10-22T19:59:40.159535+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2006-10-18",
+  "fecha_publicacion": null,
+  "numero": "C-856/06",
+  "tipo_cc": "C",
+  "prov_id": "27282",
+  "tema_relatoria": "ESCUELA NACIONAL DE ARTE DRAMATICO-CREACIÓN POR INICIATIVA GUBERNAMENTAL",
+  "resumen": "OBJECIONES PRESIDENCIALES AL PROYECTO DE LEY NO. 86/05 SENADO - 205/04 CÁMARA SE DICTA LA LEY DE TEATRO COLOMBIANO SE CREA EL FONDO NACIONAL DE TEATRO Y SE DICTAN OTRAS DISPOSICIONES.TRAMITE LEGISLATIVO DEL PROYECTO DE LEY OBJETADO. OBJECIONES DE INCONSTITUCIONALIDAD AL PROYECTO DE LEY POR CONSIDERAR QUE ALGUNAS DE SUS DISPOSICIONES VULNERAN LA CARTA POLÍTICA.EL TÉRMINO PARA FORMULAR LAS OBJECIONES Y SU TRÁMITE EN EL CONGRESO DE LA REPÚBLICA. OBJ ECIONES RELACIONADAS CON LA CREACIÓN DE LA ESCUELA NACIONAL DE ARTE DRAMÁTICO LA CONCESIÓN DE FACULTADES AL EJECUTIVO PARA LA REGULACIÓN DEL FONDO NACIONAL DEL TEATRO LA VULNERACIÓN DEL PRINCIPIO DE LEGALIDAD DEL GASTO PÚBLICO LA LIBERTAD DE ENSEÑANZA Y LA VULNERACIÓN DE LOS PRINCIPIOS DE IGUALDAD Y SOLIDARIDAD EN EL SISTEMA GENERAL DE SEGURIDAD SOCIAL EN SALUD.DECLARA FUNDADAS E INFUNDADAS ALGUNAS OBJECIONES ASI COMO EXEQUIBLES E INEXEQUIBLES ALGUNAS NORMAS DEL PROYECTO DE LEY",
+  "titulaciones": [
+    {
+      "tema": "CONTROL DE CONSTITUCIONALIDAD DE OBJECION PRESIDENCIAL",
+      "subtema": "Extensión excepcional de competencia"
+    },
+    {
+      "tema": "ESTRUCTURA DE LA ADMINISTRACIÓN NACIONAL",
+      "subtema": "Creación de organismos del orden nacional"
+    },
+    {
+      "tema": "ESTUDIO DE IMPACTO FISCAL EN PROYECTO DE LEY QUE DECRETA GASTO PUBLICO",
+      "subtema": "Reglas sobre exigibilidad"
+    },
+    {
+      "tema": "ESTRUCTURA ORGANICA DE ENTIDAD PUBLICA",
+      "subtema": "Elementos que comprende"
+    },
+    {
+      "tema": "OBJECION PRESIDENCIAL A PROYECTO DE LEY DE TEATRO",
+      "subtema": "Imposición de reajuste de partida presupuestal limita competencia del ejecutivo en proyecto de ley de presupuesto"
+    },
+    {
+      "tema": "FONDO NACIONAL DEL TEATRO",
+      "subtema": "Creación por iniciativa gubernamental"
+    },
+    {
+      "tema": "GASTO PUBLICO",
+      "subtema": "Imposición al Ejecutivo por el Congreso"
+    },
+    {
+      "tema": "OBJECION PRESIDENCIAL A PROYECTO DE LEY DE TEATRO",
+      "subtema": "No exigibilidad del requisito de compatibilidad con Marco fiscal de mediano plazo"
+    },
+    {
+      "tema": "PROCESO PRESUPUESTAL",
+      "subtema": "Extralimitación del Congreso al imponer al ejecutivo reajuste de partida presupuestal"
+    },
+    {
+      "tema": "PROCESO PRESUPUESTAL",
+      "subtema": "Distinción entre el decreto del gasto y la apropiación específica en la ley de presupuesto"
+    },
+    {
+      "tema": "PROCESO PRESUPUESTAL",
+      "subtema": "Incorporación del sistema de balance entre los poderes públicos"
+    },
+    {
+      "tema": "CLAUSULA GENERAL DE COMPETENCIA LEGISLATIVA",
+      "subtema": "Concepto"
+    },
+    {
+      "tema": "CREACION DE ENTIDADES U ORGANISMOS NACIONALES",
+      "subtema": "Reserva de ley"
+    },
+    {
+      "tema": "CONTROL DE CONSTITUCIONALIDAD DE OBJECION PRESIDENCIAL",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "CONTROL DE CONSTITUCIONALIDAD DE OBJECION PRESIDENCIAL",
+      "subtema": "Posibilidad de ampliar el examen a aspectos que no fueron planteados explícitamente por el Gobierno"
+    },
+    {
+      "tema": "INICIATIVA GUBERNAMENTAL EN ENTIDAD NACIONAL",
+      "subtema": "Creación"
+    },
+    {
+      "tema": "MARCO FISCAL DE MEDIANO PLAZO",
+      "subtema": "Referente para el análisis del impacto fiscal de proyecto de ley que ordena gasto u otorga beneficio tributario"
+    },
+    {
+      "tema": "PRINCIPIO DE LEGALIDAD DEL GASTO PUBLICO",
+      "subtema": "Competencias concurrentes de los órganos legislativo y ejecutivo"
+    },
+    {
+      "tema": "PRINCIPIO DE LEGALIDAD DEL GASTO PUBLICO",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "LIBERTAD DE ENSEÑANZA",
+      "subtema": "No vulneración por norma que ordena al Ministerio de Educación establecer programación de obras teatrales en colegios"
+    },
+    {
+      "tema": "ESCUELA NACIONAL DE ARTE DRAMATICO",
+      "subtema": "Creación por iniciativa gubernamental"
+    },
+    {
+      "tema": "LEY DE FACULTADES EXTRAORDINARIAS PARA CREACION DE ENTIDADES U ORGANISMOS DEL ORDEN NACIONAL",
+      "subtema": "Requisitos"
+    },
+    {
+      "tema": "LEY ORGANICA",
+      "subtema": "Parámetro constitucional de control de normas ordinarias"
+    },
+    {
+      "tema": "LEY ORGANICA",
+      "subtema": "Valor normativo"
+    },
+    {
+      "tema": "LIBERTAD DE ENSEÑANZA",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "FONDO NACIONAL DEL TEATRO",
+      "subtema": "Delegación al ejecutivo para determinar estructura no cumple requisitos sobre concesión de facultades extraordinarias"
+    },
+    {
+      "tema": "SEGURIDAD SOCIAL MIEMBRO GRUPO DE TEATRO",
+      "subtema": "Concesión de estímulos a personas que reciban reconocimiento en festivales nacionales e internacionales avalados por Ministerio de Cultura"
+    }
+  ]
+}
