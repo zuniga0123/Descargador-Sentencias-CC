@@ -1,0 +1,46 @@
+{
+  "radicado": "C-400-07",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2007,
+  "fecha_creacion": "2007-05-23",
+  "magistrado_ponente": "Dr MANUEL JOSÉ CEPEDA ESPINOSA",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "PRINCIPIO DE IGUALDAD EN CONTRATO DE PRENDA",
+  "subtema": "No vulneración por regulación diferente en materia civil y comercial",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2067 de 1991",
+    "Decreto 410 de 1971"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2007/C-400-07.htm",
+  "fecha_descarga": "2026-10-22T18:50:20.115436+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2007-05-23",
+  "fecha_publicacion": null,
+  "numero": "C-400/07",
+  "tipo_cc": "C",
+  "prov_id": "28113",
+  "tema_relatoria": "PRENDA SIN TENENCIA DEL ACREEDOR. NECESIDAD DE AUTORIZACIÓN DEL ACREEDOR PARA LA ENAJENACIÓN",
+  "resumen": "CODIGO DEL COMERCIO ARTICULO 1216 (PARCIAL). CONTRATOS Y OBLIGACIONES MERCANTILES. PRENDA SIN TENENCIA DEL ACREEDOR.PARA EL DEMANDANTE LA NORMA ACUSADA VIOLA LOS ARTICULOS 13 Y 58 DE LA CONSTITUCION POLITICA.LA VIOLACION AL PRINCIPIO DE IGUALDAD SUPONE UNA DIFERENCIA DE TRATO (O UNA AUSENCIA DE DIFERENCIA DE TRATO) INJUSTIFICADA CONSTITUCIONALMENTE ENTRE DOS GRUPOS DE PERSONAS NO SOLO LA EXISTENCIA DE REGIMENES LEGALES DIFERENTES. LOS ARGUMENTOS DEL DEMANDANTE NO IDENTIFICAN DOS GRUPOS DE PERSONAS PREDETERMINADAS SINO DOS REGIMENES LEGALES DISTINTOS RESPECTO DE UN PUNTO ESPECIFICO: UNO PARA LA PRENDA CON TENENCIA Y OTRO PARA LA PRENDA SIN TENENCIA. NO VIOLA EL PRINCIPIO DE IGUALDAD QUE LOS DEUDORES PRENDARIOS CON TENENCIA DE LA COSA QUIENES SE ENCUENTRAN EN UNA SITUACION DIFERENTE A LOS QUE CARECEN DE LA TENENCIA DE LA COSA DEBAN PEDIR AL ACREEDOR AUTORIZACION PARA VERIFICAR LA TRADICION DEL BIEN DADO EN PRENDA O CUBRIR LA TOTALIDAD DEL CREDITO MIENTRAS QUE LOS DEUDORES SIN TENENCIA DE LA COSA PRENDADA NO ESTAN SOMETIDOS A ESTE REQUISITO ESPECIFICO.EXEQUIBLE",
+  "titulaciones": [
+    {
+      "tema": "PRINCIPIO DE IGUALDAD EN CONTRATO DE PRENDA",
+      "subtema": "No vulneración por regulación diferente en materia civil y comercial"
+    },
+    {
+      "tema": "PRENDA SIN TENENCIA DEL ACREEDOR",
+      "subtema": "Necesidad de autorización del acreedor para la enajenación"
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD POR VULNERACION DEL PRINCIPIO DE IGUALDAD",
+      "subtema": "Necesidad de identificar los criterios de comparación y la determinación de los grupos o situaciones comparables"
+    },
+    {
+      "tema": "LIBERTAD DE CONFIGURACIÓN LEGISLATIVA",
+      "subtema": "Alcance en la regulación de diversas formas contractuales"
+    }
+  ]
+}

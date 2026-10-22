@@ -1,0 +1,82 @@
+{
+  "radicado": "T-555-07",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2007,
+  "fecha_creacion": "2007-07-26",
+  "magistrado_ponente": "Dr JAIME ARAÚJO RENTERÍA",
+  "area": "Derecho a la Salud",
+  "tema": "DERECHO A LA SALUD DE NIÑOS, NIÑAS Y ADOLESCENTES",
+  "subtema": "Fundamental",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 100 de 1993",
+    "Ley 715 de 2001",
+    "Ley 1122 de 2007",
+    "Decreto 1804 de 1999",
+    "Decreto 806 de 1998"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2007/T-555-07.htm",
+  "fecha_descarga": "2026-10-22T18:48:02.050509+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2007-07-26",
+  "fecha_publicacion": null,
+  "numero": "T-555/07",
+  "tipo_cc": "T",
+  "prov_id": "28346",
+  "tema_relatoria": null,
+  "resumen": "DERECHO A LA SALUD Y LA VIDA DE MENOR BENEFICIARIO DEL REGIMEN SUBSIDIADO QUE NACIO CON MIELOMELINGOCELE Y REQUIERE UNA CIRUGIA DE IMPLANTE DE VALVULA PARA TRATAR LA HIDROCEFALIA QUE PADECE EXIGIENDOSELE ASUMIR EL 30% DE LOS PROCEDIMIENTOS QUE SE LE PRACTIQUEN.SOLICITA SE ORDENE A LA SECRETARIA ASUMIR LA TOTALIDAD DE LOS GASTOS DE CIRUGIA PARA EL IMPLANTE DE LA VALVULA QUE REQUIERE Y SE LE GARANTICE EL TRATAMIENTO INTEGRAL.LEGITIMACION POR ACTIVA EN LA ACCION DE TUTELA Y LA AGENCIA OFICIOSA. NATURALEZA DEL DERECHO A LA SALUD Y SU PROTECCION CONSTITUCIONAL PARA LOS NIÑOS. FUNDAMENTO NORMATIVO Y ALCANCE DE LA EXIGENCIA DE PAGOS COMPARTIDOS A LOS AFILIADOS AL REGIMEN SUBSIDIADO DE SEGURIDAD SOCIAL EN SALUD. EN NINGUN CASO LOS PAGOS MODERADORES PODRAN CONVERTIRSE EN BARRERAS DE ACCESO PARA LOS MAS POBRES. EL REGIMEN SUBSIDIADO EN SALUD Y LA RESPONSABILIDAD DE LAS ARS FRENTE AL SUMINISTRO DE MEDICAMENTOS EXAMENES DE DIAGNOSTICO O TRATAMIENTOS EXCLUIDOS DEL POSS. ALTERNATIVAS PARA LA PROTECCION DE LOS DERECHOS FUNDAMENTALES. EN EL PRESENTE CASO LA CIRUGIA ES LA UNICA MANERA DE OBTENER UNA EFECTIVA PROTECCION DE LAS GARANTIAS CONSTITUCIONALES Y SE PONE DE PRESENTE LA PRESUNCION DE QUE LA SEÑORA ARIAS ARAGON NO CUENTA CON LOS MEDIOS SUFICIENTES PARA SUFRAGAR LOS COPAGOS CORRESPONDIENTES.CONCEDIDA",
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA SALUD DE NIÑOS, NIÑAS Y ADOLESCENTES",
+      "subtema": "Fundamental"
+    },
+    {
+      "tema": "DERECHO A LA SALUD Y A LA VIDA",
+      "subtema": "Práctica de cirugía e implantación de válvula a menor que padece hidrocefalia"
+    },
+    {
+      "tema": "SISTEMA GENERAL DE SEGURIDAD SOCIAL EN SALUD",
+      "subtema": "Afiliados al régimen subsidiado del nivel I del Sisbén están exentos de pagos compartidos y cuotas moderadoras"
+    },
+    {
+      "tema": "SISTEMA GENERAL DE SEGURIDAD SOCIAL EN SALUD",
+      "subtema": "Presupuestos para que un afiliado al régimen subsidiado sea excluido del pago de cuotas moderadoras"
+    },
+    {
+      "tema": "LEGITIMACIÓN POR ACTIVA EN TUTELA",
+      "subtema": null
+    },
+    {
+      "tema": "AGENCIA OFICIOSA EN TUTELA",
+      "subtema": null
+    },
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Naturaleza"
+    },
+    {
+      "tema": "REGIMEN SUBSIDIADO DE SALUD",
+      "subtema": "Medidas que deben tomar las ARS para proteger los derechos fundamentales de los usuarios"
+    },
+    {
+      "tema": "INCAPACIDAD ECONOMICA EN MATERIA DE SALUD",
+      "subtema": "Prueba sobre imposibilidad de asumir el costo de los copagos y cuotas moderadoras"
+    },
+    {
+      "tema": "SISTEMA GENERAL DE SEGURIDAD SOCIAL EN SALUD",
+      "subtema": "Afiliados y beneficiarios están sujetos a pagos compartidos y cuotas moderadoras"
+    },
+    {
+      "tema": "REGIMEN SUBSIDIADO DE SALUD",
+      "subtema": "Finalidad"
+    },
+    {
+      "tema": "SISTEMA GENERAL DE SEGURIDAD SOCIAL EN SALUD",
+      "subtema": "Cuotas moderadoras o copagos no pueden convertirse en barreras de acceso al servicio para personas que no tienen recursos económicos"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "radicado": "T-500-07",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2007,
+  "fecha_creacion": "2007-06-29",
+  "magistrado_ponente": "Dr MANUEL JOSÉ CEPEDA ESPINOSA",
+  "area": "Derecho a la Salud",
+  "tema": "COMITE TECNICO CIENTIFICO",
+  "subtema": "Su concepto no es requisito indispensable para la entrega de medicamentos o tratamientos excluidos del POS",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2007/T-500-07.htm",
+  "fecha_descarga": "2026-10-22T18:44:14.371792+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2007-06-29",
+  "fecha_publicacion": null,
+  "numero": "T-500/07",
+  "tipo_cc": "T",
+  "prov_id": "28250",
+  "tema_relatoria": null,
+  "resumen": "DERECHO A LA SALUD DE AFILIADA QUE PADECE UN BROTE CRONICO QUE LE GENERA UNA PICAZON DESESPERANTE QUE LA ENTIDAD HA CATALOGADO COMO LESION DE CARACTER ESTETICO Y SU MEDICO TRATANTE LE RECOMENDO UNA BIOPSIA PERO LA ENTIDAD SE NIEGA A EFECTUAR EL PROCEDIMIENTO ADUCIENDO QUE SE ENCUENTRA POR FUERA DEL POS.SOLICITA SE ORDENE UNA EVALUACION DE SU CASO. NO ES DE RECIBO EL ARGUMENTO ESGRIMIDO POR LA ACCIONADA CUANDO AFIRMA QUE NO SE LE HAN SUMINISTRADO LOS MEDICAMENTOS PORQUE EL COMITE TECNICO CIENTIFICO NO HA RECIBIDO LA SOLICITUD POR PARTE DE LA ACCIONANTE. LO ANTERIOR HACE REFERENCIA A UN TRAMITE INTERNO DE LA E.P.S. Y NO DEBE AFECTAR A LA ACCIONANTE. ACCION DE REPETICION CONTRA FOSYGA.CONCEDIDA",
+  "titulaciones": [
+    {
+      "tema": "COMITE TECNICO CIENTIFICO",
+      "subtema": "Su concepto no es requisito indispensable para la entrega de medicamentos o tratamientos excluidos del POS"
+    },
+    {
+      "tema": "DERECHO AL DIAGNÓSTICO",
+      "subtema": "Fundamental como parte de la salud"
+    },
+    {
+      "tema": "DERECHO AL DIAGNÓSTICO",
+      "subtema": "Caso en que a la demandante se le clasificó su afección como estética sin que se hubieran evaluado síntomas presentados"
+    },
+    {
+      "tema": "EXAMENES DIAGNOSTICOS",
+      "subtema": "Caso en que si se llegaren a considerar necesarios deben practicarse por EPS, y teniendo en cuenta que ya un médico particular consideró que por lo menos era necesaria la biopsia"
+    }
+  ]
+}
