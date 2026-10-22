@@ -1,0 +1,41 @@
+{
+  "radicado": "T-167-08",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2008,
+  "fecha_creacion": "2008-02-21",
+  "magistrado_ponente": "Dr MARCO GERARDO MONROY CABRA",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "HABEAS DATA",
+  "subtema": "Aplicación de criterios jurisprudenciales expuestos en SU082/95",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2008/T-167-08.htm",
+  "fecha_descarga": "2026-10-22T16:45:43.149433+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2008-02-21",
+  "fecha_publicacion": null,
+  "numero": "T-167/08",
+  "tipo_cc": "T",
+  "prov_id": "29230",
+  "tema_relatoria": null,
+  "resumen": "DERECHO AL BUEN NOMBRE, A LA DIGNIDAD Y A LA HONRA DE DEUDORA SOLIDARIA DE CREDITO QUE, PESE A HABER CANCELADO TOTALMENTE LA OBLIGACION DEL DEUDOR PRINCIPAL Y A HABER RECIBIDO EL RESPECTIVO PAZ Y SALVO, APARECE REGISTRADA COMO MOROSA EN LAS BASES DE DATOS DE LAS CENTRALES DE RIESGO. PROTECCION FUNDAMENTAL DEL DERECHO AL BUEN NOMBRE Y HABEAS DATA. CARENCIA ACTUAL DE OBJETO. DADO QUE LA ENTIDAD DEMANDADA PROCEDIO A ACTUALIZAR LA INFORMACION CREDITICIA Y ELIMINAR EL REPORTE NEGATIVO DE LA CENTRAL DE RIESGO CIFIN, RESULTA EVIDENTE LA OCURRENCIA DE UN HECHO SUPERADO. NEGADA POR CARENCIA ACTUAL DE OBJETO",
+  "titulaciones": [
+    {
+      "tema": "HABEAS DATA",
+      "subtema": "Aplicación de criterios jurisprudenciales expuestos en SU082/95"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Hecho superado porque la obligación se había cancelado a Bancafé desde el año 2001 y CISA expidió paz y salvo en 2004"
+    },
+    {
+      "tema": "HABEAS DATA",
+      "subtema": "Información negativa no puede tener una duración indefinida"
+    }
+  ]
+}
