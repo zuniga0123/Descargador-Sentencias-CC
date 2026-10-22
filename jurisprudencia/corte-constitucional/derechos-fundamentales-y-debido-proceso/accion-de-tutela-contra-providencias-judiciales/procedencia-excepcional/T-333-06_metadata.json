@@ -1,0 +1,50 @@
+{
+  "radicado": "T-333-06",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2006,
+  "fecha_creacion": "2006-05-02",
+  "magistrado_ponente": "Dr ALVARO TAFUR GALVIS",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+  "subtema": "Procedencia excepcional",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 546 de 1999",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2006/T-333-06.htm",
+  "fecha_descarga": "2026-10-22T19:43:22.244760+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2006-05-02",
+  "fecha_publicacion": null,
+  "numero": "T-333/06",
+  "tipo_cc": "T",
+  "prov_id": "26601",
+  "tema_relatoria": null,
+  "resumen": "DERECHO AL DEBIDO PROCESO DE DEUDOR DEL SISTEMA UPAC CONTRA QUIEN LA CORPORACION DE AHORRO Y VIVIENDA LAS VILLAS S.A. INICIO PROCESO EJECUTIVO HIPOTECARIO EN JUNIO DE 1999 Y ESTE SOLICITO LA NULIDAD DE LO ACTUADO A PARTIR DE LA ENTRADA EN VIGENCIA DE LA LEY 546 DE 1999 PERO EL JUZGADO NEGO LA SOLICITUD. SOLICITA SE ORDENE LA TERMINACION DEL PROCESO Y EL ARCHIVO DEL EXPEDIENTE. TUTELA CONTRA PROVIDENCIAS JUDICIALES. PROCEDENCIA DE LA ACCION DE TUTELA CONTRA PROVIDENCIAS JUDICIALES. LEY 546 DE 1999. TERMINACION DE LOS PROCESOS EJECUTIVOS HIPOTECARIOS EN CURSO. INCURRE EN VIA DE HECHO POR CONFIGURARSE UN VICIO DE CARACTER PROCEDIMENTAL Y SUSTANTIVO EL JUEZ QUE SUSPENDE EL PROCESO EJECUTIVO HIPOTECARIO INICIADO CON ANTELACION AL 31 DE DICIEMBRE DE 1999 Y CONOCIDO EL MONTO DE LA OBLIGACION SE ABSTIENE DE TERMINAR Y ARCHIVAR EL ASUNTO. CONCEDIDA",
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Procedencia excepcional"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Causales genéricas de procedibilidad"
+    },
+    {
+      "tema": "DEBIDO PROCESO",
+      "subtema": "Vulneración por no darse por terminado el proceso ejecutivo hipotecario conforme a la ley 546/99"
+    },
+    {
+      "tema": "LEY 546 DE 1999",
+      "subtema": "Doctrina constitucional sobre el artículo 42 parágrafo 3"
+    },
+    {
+      "tema": "PROCESO EJECUTIVO HIPOTECARIO",
+      "subtema": "Reliquidación de la deuda como condición para dar por terminado el proceso"
+    }
+  ]
+}

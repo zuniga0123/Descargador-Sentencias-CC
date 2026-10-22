@@ -1,0 +1,49 @@
+{
+  "radicado": "T-429-06",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2006,
+  "fecha_creacion": "2006-06-01",
+  "magistrado_ponente": "Dr ALFREDO BELTRÁN SIERRA",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "DEBIDO PROCESO ADMINISTRATIVO",
+  "subtema": "Caso en que no existe vía de hecho por cuanto el demandante tuvo oportunidad de interponer recursos",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 769 de 2002"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2006/T-429-06.htm",
+  "fecha_descarga": "2026-10-22T19:42:08.473082+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2006-06-01",
+  "fecha_publicacion": null,
+  "numero": "T-429/06",
+  "tipo_cc": "T",
+  "prov_id": "26736",
+  "tema_relatoria": null,
+  "resumen": "DERECHO DE PETICION AL DEBIDO PROCESO Y AL BUEN NOMBRE POR LA LIQUIDACION OFICIAL DE AFORO PROFERIDA POR LA UNIDAD DE RENTAS DEPARTAMENTALES DE LA SECRETARIA DE HACIENDA DE CALDAS MEDIANTE LA CUAL SE LE ESTAN COBRANDO LOS IMPUESTOS DE RODAMIENTO AL FIGURAR COMO TITULAR EN EL REGISTRO DE MATRICULA AUTOMOTOR DE VEHICULO HURTADO EN 1991 LIQUIDACION ANTE LA CUAL PRESENTO RECURSO DE RECONSIDERACION QUE LE FUE NEGATIVAMENTE RESUELTO POR CUANTO LA CANCELACION SOLO SE EFECTUA MEDIANTE EL DILIGENCIAMIENTO DEL FORMULARIO OFICIAL DE TRANSITO POR QUIEN SE ENCUENTRA INSCRITO COMO TITULAR DEL AUTOMOTOR TRAMITE QUE NO SE LLEVO A CABO EN EL PRESENTE CASO. SOLICITA SE ORDENE LA ANULACION DE LA LIQUIDACION OFICIAL DE AFORO Y LA ELIMINACION DE SU NOMBRE DE LAS LISTAS DE DEUDORES MOROSOS DEL ESTADO. DEBIDO PROCESO ADMINISTRATIVO. PROCEDENCIA EXCEPCIONAL DE LA ACCION DE TUTELA. EL TRAMITE HA SIDO SURTIDO POR EL FUNCIONARIO COMPETENTE Y OBSERVANDO LAS FORMAS PROPIAS DE LA ACTUACION POR LO QUE NO SE PRESENTA UN DEFECTO ORGANICO O PROCEDIMENTAL CONSTITUTIVO DE UNA VIA DE HECHO COMO TAMPOCO EXISTE UNA VALORACION ERRONEA DEL MATERIAL PROBATORIO NI SE EVIDENCIA UN DEFECTO SUSTANTIVO. LOS DERECHOS DEL ACCIONANTE NO FUERON VULNERADOS. NEGADA",
+  "titulaciones": [
+    {
+      "tema": "DEBIDO PROCESO ADMINISTRATIVO",
+      "subtema": "Caso en que no existe vía de hecho por cuanto el demandante tuvo oportunidad de interponer recursos"
+    },
+    {
+      "tema": "CANCELACION DE MATRICULA DE VEHICULO",
+      "subtema": "Tutela no procede para conseguir nulidad de liquidación oficial de aforo"
+    },
+    {
+      "tema": "BASE DE DATOS DE DEUDORES MOROSOS DE TRANSITO",
+      "subtema": "No se vulnera derecho al buen nombre por cuanto información es veraz y actualizada"
+    },
+    {
+      "tema": "CANCELACION DE MATRICULA DE VEHICULO POR HURTO",
+      "subtema": "Es competencia de la Secretaría de Tránsito y Transportes"
+    },
+    {
+      "tema": "IMPUESTO DE VEHICULO AL QUE NO SE LE HIZO EL TRASPASO NI SE LE CANCELO MATRICULA",
+      "subtema": "A cargo de quien aparece como propietario"
+    }
+  ]
+}
