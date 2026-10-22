@@ -1,0 +1,50 @@
+{
+  "radicado": "T-725-06",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2006,
+  "fecha_creacion": "2006-08-24",
+  "magistrado_ponente": "Dr ALVARO TAFUR GALVIS",
+  "area": "Derecho a la Salud",
+  "tema": "AGENCIA OFICIOSA EN TUTELA",
+  "subtema": "Alcance y elementos",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 100 de 1993"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2006/T-725-06.htm",
+  "fecha_descarga": "2026-10-22T19:46:51.715210+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2006-08-24",
+  "fecha_publicacion": null,
+  "numero": "T-725/06",
+  "tipo_cc": "T",
+  "prov_id": "27098",
+  "tema_relatoria": null,
+  "resumen": "DERECHO A LA VIDA DIGNA LA SALUD Y A LA SEGURIDAD SOCIAL DE AFILIADA QUE PADECE HIPERTENSION DE LA CAPACIDAD MOTRIZ Y HABIA SIDO INTERVENIDA DE UN TUMOR INTRAVENTRICULAR POR LO QUE SU MEDICO TRATANTE LE FORMULO CITA A COTROL CADA QUINCE DIAS PERO LA EPS SE NIEGA A ATENDERLA POR CUANTO EL EMPLEADOR HA INCUMPLIDO CON EL PAGO DE LOS APORTES. SOLICITA SE ORDENE A LA ENTIDAD LE BRINDE LA ASISTENCIA QUE REQUIERE. AGENCIA DE DERECHOS AJENOS. LOS DERECHOS A LA SALUD Y A LA SEGURIDAD SOCIAL. LA SALUD Y LA SEGURIDAD SOCIAL SON DERECHOS ECONOMICOS SOCIALES Y CULTURALES PORQUE SE SUPEDITAN A LA NECESIDAD DE TOMAR MEDIDAS QUE CONCRETEN LA MATERIALIZACION DE POLITICAS PUBLICAS QUE LOGREN EL PLENO EJERCICIO DE LOS DERECHOS DE LOS ASOCIADOS EN CUMPLIMIENTO DE UNO DE LOS FINES DEL ESTADO SOCIAL DE DERECHO. EL INCUMPLIMIENTO EN EL PAGO DE LOS APORTES POR PARTE DEL EMPLEADOR NO ES OBICE PARA NEGAR LA PRESTACION ASISTENCIAL. NO RESULTA OPONIBLE AL TRABAJADOR QUE REQUIERE ATENCION EN SALUD EL INCUMPLIMIENTO EN EL PAGO DE LOS APORTES POR PARTE DEL EMPLEADOR. CONCEDIDA",
+  "titulaciones": [
+    {
+      "tema": "AGENCIA OFICIOSA EN TUTELA",
+      "subtema": "Alcance y elementos"
+    },
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Fundamental por conexidad"
+    },
+    {
+      "tema": "DERECHO A LA SALUD Y SEGURIDAD SOCIAL",
+      "subtema": "Servicios públicos a cargo del Estado"
+    },
+    {
+      "tema": "ENTIDAD PRESTADORA DE SALUD",
+      "subtema": "No puede excusar su responsabilidad por la mora en aportes por parte de los empleadores"
+    },
+    {
+      "tema": "DERECHO A LA SALUD Y A LA VIDA",
+      "subtema": "Atención médica por la EPS aunque no se hayan pagado los aportes por el empleador"
+    }
+  ]
+}
