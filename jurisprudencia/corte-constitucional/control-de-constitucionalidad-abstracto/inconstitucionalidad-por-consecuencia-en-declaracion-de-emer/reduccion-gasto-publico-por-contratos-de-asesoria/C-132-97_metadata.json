@@ -1,0 +1,53 @@
+{
+  "radicado": "C-132-97",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1997,
+  "fecha_creacion": "1997-03-19",
+  "magistrado_ponente": "Dr HERNANDO HERRERA VERGARA",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "INCONSTITUCIONALIDAD POR CONSECUENCIA EN DECLARACION DE EMERGENCIA",
+  "subtema": "Reducción gasto público por contratos de asesoría",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 80 de 1993",
+    "Ley 200 de 1995",
+    "Decreto 165 de 1997",
+    "Decreto 2067 de 1991",
+    "Decreto 80 de 1997"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1997/C-132-97.htm",
+  "fecha_descarga": "2026-10-23T06:43:24.718500+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1997-03-19",
+  "fecha_publicacion": null,
+  "numero": "C-132/97",
+  "tipo_cc": "C",
+  "prov_id": "13934",
+  "tema_relatoria": "DEC. 165/97. DISPOSICIONES SOBRE REDUCCION DEL GASTO PUBLICO EN MATERIA DE CONTRATOS DE ASESORIA Y CONSULTORIA VIAJES INNALES ETC. EMERGENCIA. INEXEQUIBLE.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "INCONSTITUCIONALIDAD POR CONSECUENCIA EN DECLARACION DE EMERGENCIA",
+      "subtema": "Reducción gasto público por contratos de asesoría"
+    },
+    {
+      "tema": "INEXEQUIBILIDAD DECLARACION DE CONMOCION INTERIOR",
+      "subtema": "Pérdida de vigencia de decretos expedidos"
+    },
+    {
+      "tema": "INEXEQUIBILIDAD DECLARACION DE EMERGENCIA",
+      "subtema": "Producción efectos fallos de decretos legislativos"
+    },
+    {
+      "tema": "INEXEQUIBILIDAD DECLARACION DE CONMOCION INTERIOR",
+      "subtema": "Sentencia inhibitoria sobre decretos expedidos"
+    },
+    {
+      "tema": "INEXEQUIBILIDAD DECLARACION DE EMERGENCIA",
+      "subtema": "Decisión inhibitoria sobre decretos legislativos posteriores"
+    }
+  ]
+}

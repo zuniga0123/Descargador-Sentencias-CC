@@ -1,0 +1,47 @@
+{
+  "radicado": "C-621-97",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1997,
+  "fecha_creacion": "1997-11-27",
+  "magistrado_ponente": "Dr HERNANDO HERRERA VERGARA",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "TRANSITO CONSTITUCIONAL",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 1 de 1984",
+    "Ley 58 de 1982",
+    "Decreto Ley 1 de 1984"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1997/C-621-97.htm",
+  "fecha_descarga": "2026-10-23T06:51:02.524684+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1997-11-27",
+  "fecha_publicacion": null,
+  "numero": "C-621/97",
+  "tipo_cc": "C",
+  "prov_id": "14472",
+  "tema_relatoria": "C.C.A. DEC 01/84 ARTS 5 6 17 Y 25 DERECHO DE PETICION EXEQUIBLES.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "TRANSITO CONSTITUCIONAL",
+      "subtema": null
+    },
+    {
+      "tema": "CODIGO CONTENCIOSO ADMINISTRATIVO",
+      "subtema": "Confrontación constitucional"
+    },
+    {
+      "tema": "LEY ESTATUTARIA",
+      "subtema": "Vicio de trámite es formal"
+    },
+    {
+      "tema": "RESERVA DE LEY ESTATUTARIA",
+      "subtema": "Improcedencia por no existir antes de Constitución de 1991"
+    }
+  ]
+}

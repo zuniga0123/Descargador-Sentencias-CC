@@ -1,0 +1,52 @@
+{
+  "radicado": "C-521-97",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1997,
+  "fecha_creacion": "1997-10-15",
+  "magistrado_ponente": "Dr José Gregorio Hernández Galindo",
+  "area": "Derecho Constitucional Económico",
+  "tema": "JUEGOS DE SUERTE Y AZAR",
+  "subtema": "Gravamen",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 12 de 1932",
+    "Ley 1 de 1982",
+    "Decreto 1222 de 1986",
+    "Decreto 2067 de 1991",
+    "Ley 64 de 1923",
+    "Ley 3 de 1986",
+    "Decreto Ley 1222 de 1986",
+    "Acto Legislativo 1 de 1996"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1997/C-521-97.htm",
+  "fecha_descarga": "2026-10-23T06:49:43.089581+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1997-10-15",
+  "fecha_publicacion": null,
+  "numero": "C-521/97",
+  "tipo_cc": "C",
+  "prov_id": "14356",
+  "tema_relatoria": "LEY 12/32. ART. 7. LEY 1/82. ART. 6. DEC. 1222/86. ART. 203. IMPUESTO SOBRE LOTERIAS Y JUEGOS DE APUESTA. EXEQUIBLES E INHIBITORIA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "JUEGOS DE SUERTE Y AZAR",
+      "subtema": "Gravamen"
+    },
+    {
+      "tema": "IMPUESTO DE PROPIEDAD DE ENTIDADES TERRITORIALES",
+      "subtema": "Prohibición legal de conceder exenciones o tratamientos preferenciales"
+    },
+    {
+      "tema": "AUTONOMIA LEGISLATIVA EN MATERIA TRIBUTARIA",
+      "subtema": "Le corresponde indicar actividades y materias gravadas"
+    },
+    {
+      "tema": "AUTONOMIA TRIBUTARIA DE MUNICIPIO Y DEPARTAMENTO",
+      "subtema": "Límites"
+    }
+  ]
+}

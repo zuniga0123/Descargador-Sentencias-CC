@@ -1,0 +1,43 @@
+{
+  "radicado": "C-357-97",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1997,
+  "fecha_creacion": "1997-08-04",
+  "magistrado_ponente": "Dr JOSE GREGORIO HERNANDEZ GALINDO",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "SENTENCIA INHIBITORIA",
+  "subtema": "No indicación de razones por las cuales textos son inconstitucionales",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 142 de 1994",
+    "Decreto 2067 de 1991",
+    "Ley 42 de 1994"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1997/C-357-97.htm",
+  "fecha_descarga": "2026-10-23T06:47:30.911576+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1997-08-04",
+  "fecha_publicacion": null,
+  "numero": "C-357/97",
+  "tipo_cc": "C",
+  "prov_id": "14180",
+  "tema_relatoria": "LEY 142/94. ARTS. 44 N° 44.1 PARC. Y 71 N° 71.1 Y PARAGRAFO PARCIALES. INHABILIDADES E INCOMPATIBILIDADES. COMPOSICION DE LAS COMISIONES. SENT. INHIBITORIA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "SENTENCIA INHIBITORIA",
+      "subtema": "No indicación de razones por las cuales textos son inconstitucionales"
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "Análisis constitucional debe darse en abstracto"
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "Cargos deben referirse a su contenido en abstracto y no a sus desarrollos o aplicación"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "radicado": "T-197-96",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1996,
+  "fecha_creacion": "1996-05-09",
+  "magistrado_ponente": "Dr VLADIMIRO NARANJO MESA",
+  "area": "Derecho Constitucional Económico",
+  "tema": "MEDIO DE DEFENSA JUDICIAL",
+  "subtema": "Cobro de obligaciones de dinero",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 80 de 1993",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1996/T-197-96.htm",
+  "fecha_descarga": "2026-10-23T07:06:12.838974+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1996-05-09",
+  "fecha_publicacion": null,
+  "numero": "T-197/96",
+  "tipo_cc": "T",
+  "prov_id": "13224",
+  "tema_relatoria": "PAGO DE SUMAS DE DINERO DERIVADAS DE UN CONTRATO ESTATAL. MEDIO DE DEFENSA JUDICIAL. AUSENCIA DE PERJUICIO IRREMEDIABLE. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "MEDIO DE DEFENSA JUDICIAL",
+      "subtema": "Cobro de obligaciones de dinero"
+    },
+    {
+      "tema": "MEDIO DE DEFENSA JUDICIAL",
+      "subtema": "Cancelación de facturas cambiarias"
+    },
+    {
+      "tema": "PERJUICIO IRREMEDIABLE",
+      "subtema": "Inexistencia por no pago sumas de dinero"
+    }
+  ]
+}

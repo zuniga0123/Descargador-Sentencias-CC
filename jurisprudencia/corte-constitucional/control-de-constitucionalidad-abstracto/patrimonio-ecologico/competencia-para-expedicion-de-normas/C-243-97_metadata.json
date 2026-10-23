@@ -1,0 +1,48 @@
+{
+  "radicado": "C-243-97",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1997,
+  "fecha_creacion": "1997-05-20",
+  "magistrado_ponente": "Dr FABIO MORON DIAZ",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "PATRIMONIO ECOLOGICO",
+  "subtema": "Competencia para expedición de normas",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto Ley 2150 de 1995",
+    "Ley 190 de 1995",
+    "Decreto 2150 de 1995",
+    "Ley 99 de 1993"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1997/C-243-97.htm",
+  "fecha_descarga": "2026-10-23T06:53:18.269806+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1997-05-20",
+  "fecha_publicacion": null,
+  "numero": "C-243/97",
+  "tipo_cc": "C",
+  "prov_id": "14051",
+  "tema_relatoria": "DEC. 2150/95. ART. 135. REQUISITOS AMBIENTALES E IMP0SICION DE SANCIONES POR VIOLACION DE NORMAS AMBIENTALES. INEXEQUIBLE.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "PATRIMONIO ECOLOGICO",
+      "subtema": "Competencia para expedición de normas"
+    },
+    {
+      "tema": "PATRIMONIO ECOLOGICO",
+      "subtema": "Protección municipal según limitaciones"
+    },
+    {
+      "tema": "NORMA GENERAL AMBIENTAL",
+      "subtema": "Prohibición de requisitos adicionales para su ejercicio"
+    },
+    {
+      "tema": "FACULTADES EXTRAORDINARIAS PARA SUPRESION DE TRAMITES EN MATERIA AMBIENTAL",
+      "subtema": "Desbordamiento"
+    }
+  ]
+}

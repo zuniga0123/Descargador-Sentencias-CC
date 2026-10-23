@@ -1,0 +1,42 @@
+{
+  "radicado": "T-555-96",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1996,
+  "fecha_creacion": "1996-10-23",
+  "magistrado_ponente": "Dr EDUARDO CIFUENTES MUÑOZ",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "IUS PUNIENDI",
+  "subtema": "Alcance",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 81 de 1993"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1996/T-555-96.htm",
+  "fecha_descarga": "2026-10-23T07:03:45.282511+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1996-10-23",
+  "fecha_publicacion": null,
+  "numero": "T-555/96",
+  "tipo_cc": "T",
+  "prov_id": "13623",
+  "tema_relatoria": "NO REFORMATIO IN PEJUS. DEBIDO PROCESO. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "IUS PUNIENDI",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "AGENCIA OFICIOSA EN TUTELA",
+      "subtema": "Derechos exclusivos del titular"
+    },
+    {
+      "tema": "PRINCIPIO NO REFORMATIO IN PEJUS",
+      "subtema": "Tutela presentada por agente oficioso"
+    }
+  ]
+}

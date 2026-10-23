@@ -1,0 +1,49 @@
+{
+  "radicado": "C-492-97",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1997,
+  "fecha_creacion": "1997-10-02",
+  "magistrado_ponente": "Hernando Herrera Vergara",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "LEY",
+  "subtema": "Expedición",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 335 de 1996",
+    "Ley 14 de 1991",
+    "Ley 182 de 1995",
+    "Ley 57 de 1985",
+    "Decreto 2067 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1997/C-492-97.htm",
+  "fecha_descarga": "2026-10-23T06:55:40.084406+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1997-10-02",
+  "fecha_publicacion": null,
+  "numero": "C-492/97",
+  "tipo_cc": "C",
+  "prov_id": "14325",
+  "tema_relatoria": "LEY 335/96. ART. 29. VIGENCIA DE LA LEY DE TELEVISION. EXEQUIBLE.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "LEY",
+      "subtema": "Expedición"
+    },
+    {
+      "tema": "VIGENCIA DE LA LEY",
+      "subtema": "Señalamiento por el legislador"
+    },
+    {
+      "tema": "LEY",
+      "subtema": "Promulgación"
+    },
+    {
+      "tema": "LEY",
+      "subtema": "Sanción gubernamental"
+    }
+  ]
+}

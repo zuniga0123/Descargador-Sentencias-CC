@@ -1,0 +1,60 @@
+{
+  "radicado": "T-323-96",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1996,
+  "fecha_creacion": "1996-07-24",
+  "magistrado_ponente": "Dr EDUARDO CIFUENTES MUÑOZ",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "ACCION DE TUTELA TRANSITORIA",
+  "subtema": "Pago de mesadas pensionales en proceso concordatario",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 171 de 1961",
+    "Decreto 350 de 1989",
+    "Decreto 2591 de 1991",
+    "Ley 222 de 1995"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1996/T-323-96.htm",
+  "fecha_descarga": "2026-10-23T07:00:48.380942+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1996-07-24",
+  "fecha_publicacion": null,
+  "numero": "T-323/96",
+  "tipo_cc": "T",
+  "prov_id": "13364",
+  "tema_relatoria": "DER. AL MINIMO VITAL. PAGO DE MESADAS PENSIONALES CAUSADAS DURANTE EL CONCORDATO PREVENTIVO. TUTELA TRANSITORIA. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCION DE TUTELA TRANSITORIA",
+      "subtema": "Pago de mesadas pensionales en proceso concordatario"
+    },
+    {
+      "tema": "INDEXACION DE PENSIONES",
+      "subtema": "Improcedencia de tutela"
+    },
+    {
+      "tema": "CONCORDATO PREVENTIVO OBLIGATORIO",
+      "subtema": "Pago de mesadas pensionales"
+    },
+    {
+      "tema": "DERECHO AL MINIMO VITAL",
+      "subtema": "Pago oportuno de mesadas pensionales"
+    },
+    {
+      "tema": "DERECHO A LA SEGURIDAD SOCIAL",
+      "subtema": "Responsabilidad en pensiones"
+    },
+    {
+      "tema": "PERSONA DE LA TERCERA EDAD",
+      "subtema": "Pago oportuno de pensiones"
+    },
+    {
+      "tema": "PENSION DE JUBILACION",
+      "subtema": "Pago en proceso concordatario"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "radicado": "C-411-97",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1997,
+  "fecha_creacion": "1997-08-28",
+  "magistrado_ponente": "Dr JOSE GREGORIO HERNANDEZ GALINDO",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "FUNCIONARIO AFORADO CONSTITUCIONAL",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2700 de 1991",
+    "Decreto 2067 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1997/C-411-97.htm",
+  "fecha_descarga": "2026-10-23T06:54:42.275632+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1997-08-28",
+  "fecha_publicacion": null,
+  "numero": "C-411/97",
+  "tipo_cc": "C",
+  "prov_id": "14236",
+  "tema_relatoria": "DEC. 2700/91. ART. 68 PARCIAL. COMPETENCIA DE LA CORTE SUPREMA DE JUSTICIA. EXEQUIBLE. VER. C-142/93 .",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "FUNCIONARIO AFORADO CONSTITUCIONAL",
+      "subtema": null
+    },
+    {
+      "tema": "COSA JUZGADA CONSTITUCIONAL",
+      "subtema": null
+    },
+    {
+      "tema": "PRINCIPIO DE LA DOBLE INSTANCIA",
+      "subtema": "No es absoluto"
+    },
+    {
+      "tema": "PROCESO DE UNICA INSTANCIA",
+      "subtema": "Señalados por la Constitución Política"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "radicado": "T-131-96",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1996,
+  "fecha_creacion": "1996-03-27",
+  "magistrado_ponente": "Dr VLADIMIRO NARANJO MESA",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCIÓN DE TUTELA",
+  "subtema": "Representación",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Decreto 196 de 1971"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1996/T-131-96.htm",
+  "fecha_descarga": "2026-10-23T07:00:37.528962+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1996-03-27",
+  "fecha_publicacion": "1996-04-12",
+  "numero": "T-131/96",
+  "tipo_cc": "T",
+  "prov_id": "13150",
+  "tema_relatoria": "DER. DE PETICION. RECONOCIMIENTO DE PENSION DE JUBILACION. FALTA DE LEGITIMIDAD. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Representación"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Informalidad"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Improcedencia para definir entidad responsable de pensión"
+    },
+    {
+      "tema": "DERECHO DE PETICIÓN",
+      "subtema": "Obligación de comunicar trámite"
+    },
+    {
+      "tema": "DERECHO DE PETICIÓN",
+      "subtema": "Contenido de la decisión"
+    }
+  ]
+}

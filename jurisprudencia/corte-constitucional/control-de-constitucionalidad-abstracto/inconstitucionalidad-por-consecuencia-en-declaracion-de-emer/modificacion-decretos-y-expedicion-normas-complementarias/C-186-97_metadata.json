@@ -1,0 +1,62 @@
+{
+  "radicado": "C-186-97",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1997,
+  "fecha_creacion": "1997-04-10",
+  "magistrado_ponente": "Dr ANTONIO BARRERA CARBONELL",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "INCONSTITUCIONALIDAD POR CONSECUENCIA EN DECLARACION DE EMERGENCIA",
+  "subtema": "Modificación decretos y expedición normas complementarias",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 80 de 1997",
+    "Decreto 150 de 1997",
+    "Ley 218 de 1995",
+    "Ley 100 de 1993",
+    "Decreto 1604 de 1966",
+    "Ley 1604 de 1996",
+    "Decreto 1394 de 1970",
+    "Decreto 88 de 1997",
+    "Decreto 251 de 1997",
+    "Decreto 2067 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1997/C-186-97.htm",
+  "fecha_descarga": "2026-10-23T06:44:44.875160+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1997-04-10",
+  "fecha_publicacion": null,
+  "numero": "C-186/97",
+  "tipo_cc": "C",
+  "prov_id": "13989",
+  "tema_relatoria": "DEC. 251/97. POR MEDIO DEL CUAL SE MODIFICAN LOS DEC. 88 Y 150/97. EMERGENCIA ECONOMICA. INEXEQUIBLE.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "INCONSTITUCIONALIDAD POR CONSECUENCIA EN DECLARACION DE EMERGENCIA",
+      "subtema": "Modificación decretos y expedición normas complementarias"
+    },
+    {
+      "tema": "INEXEQUIBILIDAD DECLARACION DE CONMOCION INTERIOR",
+      "subtema": "Pérdida de vigencia de decretos expedidos"
+    },
+    {
+      "tema": "INEXEQUIBILIDAD DECLARACION DE EMERGENCIA",
+      "subtema": "Producción efectos fallos de decretos legislativos"
+    },
+    {
+      "tema": "INEXEQUIBILIDAD DECLARACION DE CONMOCION INTERIOR",
+      "subtema": "Sentencia inhibitoria sobre decretos expedidos"
+    },
+    {
+      "tema": "INEXEQUIBILIDAD DECLARACION DE CONMOCION INTERIOR",
+      "subtema": "Sentencia inhibitoria"
+    },
+    {
+      "tema": "INEXEQUIBILIDAD DECLARACION DE EMERGENCIA",
+      "subtema": "Decisión inhibitoria sobre decretos legislativos posteriores"
+    }
+  ]
+}

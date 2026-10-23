@@ -1,0 +1,55 @@
+{
+  "radicado": "C-491-97",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1997,
+  "fecha_creacion": "1997-10-02",
+  "magistrado_ponente": "Dr Jose Gregorio Hernandez Galindo",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "DEMANDA DE INCONSTITUCIONALIDAD",
+  "subtema": "Alcance de los requisitos exigidos",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 589 de 1956",
+    "Decreto 2067 de 1991",
+    "Ley 98 de 1922",
+    "Decreto 1518 de 1925",
+    "Ley 2 de 1958",
+    "Ley 105 de 1959",
+    "Ley 141 de 1961"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1997/C-491-97.htm",
+  "fecha_descarga": "2026-10-23T06:49:17.680085+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1997-10-02",
+  "fecha_publicacion": null,
+  "numero": "C-491/97",
+  "tipo_cc": "C",
+  "prov_id": "14324",
+  "tema_relatoria": "DEC. 589/96. CESION DEL HOSPITAL CENTRAL STA HELENA DE BUENAVENTURA. SENTENCIA INHIBITORIA",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "Alcance de los requisitos exigidos"
+    },
+    {
+      "tema": "RECHAZO IN LIMINE",
+      "subtema": "Improcedencia por falta de señalamiento de normas acusadas"
+    },
+    {
+      "tema": "SUSTRACCION DE MATERIA POR CONSUMACION DEL OBJETO DE LA NORMA",
+      "subtema": null
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "Alcance del requisito de señalamiento de normas acusadas"
+    },
+    {
+      "tema": "SENTENCIA INHIBITORIA",
+      "subtema": "Norma ejecutada"
+    }
+  ]
+}

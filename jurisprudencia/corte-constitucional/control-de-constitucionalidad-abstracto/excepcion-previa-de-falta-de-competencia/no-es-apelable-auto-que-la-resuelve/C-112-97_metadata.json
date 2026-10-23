@@ -1,0 +1,45 @@
+{
+  "radicado": "C-112-97",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1997,
+  "fecha_creacion": "1997-03-06",
+  "magistrado_ponente": "Dr ANTONIO BARRERA CARBONELL",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "EXCEPCION PREVIA DE FALTA DE COMPETENCIA",
+  "subtema": "No es apelable auto que la resuelve",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2282 de 1989"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1997/C-112-97.htm",
+  "fecha_descarga": "2026-10-23T06:43:13.696203+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1997-03-06",
+  "fecha_publicacion": null,
+  "numero": "C-112/97",
+  "tipo_cc": "C",
+  "prov_id": "13912",
+  "tema_relatoria": "C.P.C. ART. 99 PARCIAL MODIFICADO POR EL DEC. 2282/89. ART. 1 No 48. TRAMITE Y DECISION DE LAS EXCEPCIONES PREVIAS. EXEQUIBLE.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "EXCEPCION PREVIA DE FALTA DE COMPETENCIA",
+      "subtema": "No es apelable auto que la resuelve"
+    },
+    {
+      "tema": "APELACION CONTRA EXCEPCIONES PREVIAS",
+      "subtema": "Trato diferenciado"
+    },
+    {
+      "tema": "CONFLICTO DE COMPETENCIA",
+      "subtema": null
+    },
+    {
+      "tema": "RECURSO DE APELACION",
+      "subtema": "Determinación legislativa de procedencia"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "radicado": "C-447-97",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1997,
+  "fecha_creacion": "1997-09-18",
+  "magistrado_ponente": "Dr ALEJANDRO MARTÍNEZ CABALLERO",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "DEMANDA DE INCONSTITUCIONALIDAD",
+  "subtema": "Inadmisión",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto Ley 1228 de 1995",
+    "Ley 331 de 1996",
+    "Decreto 2067 de 1997"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1997/C-447-97.htm",
+  "fecha_descarga": "2026-10-23T06:48:47.985164+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1997-09-18",
+  "fecha_publicacion": null,
+  "numero": "C-447/97",
+  "tipo_cc": "C",
+  "prov_id": "14274",
+  "tema_relatoria": "DEC. 1228/95. ART. 11 PARCIAL. FEDERACIONES DEPORTIVAS. DEMANDA MATERIALMENTE INEPTA. SENTENCIA INHIBITORIA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "Inadmisión"
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "Ineptitud sustantiva"
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "Racionalización de su ejercicio"
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "Requisitos deben cumplirse materialmente"
+    },
+    {
+      "tema": "COSA JUZGADA MATERIAL",
+      "subtema": "Respeto del precedente"
+    }
+  ]
+}

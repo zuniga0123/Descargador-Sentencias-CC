@@ -1,0 +1,48 @@
+{
+  "radicado": "C-105-97",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1997,
+  "fecha_creacion": "1997-03-06",
+  "magistrado_ponente": "Dr FABIO MORON DIAZ",
+  "area": "Derecho Constitucional Económico",
+  "tema": "CONTROL DE CONSTITUCIONALIDAD",
+  "subtema": "Decreto anterior a la Constitución",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto Ley 1045 de 1978",
+    "Decreto 1045 de 1978",
+    "Decreto 2067 de 1991",
+    "Ley 1045 de 1978"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1997/C-105-97.htm",
+  "fecha_descarga": "2026-10-23T06:42:59.213624+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1997-03-06",
+  "fecha_publicacion": null,
+  "numero": "C-105/97",
+  "tipo_cc": "C",
+  "prov_id": "13906",
+  "tema_relatoria": "DEC. 1045/78. ART. 27. DESCUENTOS A FAVOR DE PROSOCIAL. INEXEQUIBLE.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "CONTROL DE CONSTITUCIONALIDAD",
+      "subtema": "Decreto anterior a la Constitución"
+    },
+    {
+      "tema": "CONTRIBUCION PARAFISCAL",
+      "subtema": "Características aplicables a Prosocial"
+    },
+    {
+      "tema": "CONTRIBUCION PARAFISCAL",
+      "subtema": "Administración por particulares"
+    },
+    {
+      "tema": "FACULTADES EXTRAORDINARIAS",
+      "subtema": "Extralimitación por creación de contribución parafiscal"
+    }
+  ]
+}

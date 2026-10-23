@@ -1,0 +1,49 @@
+{
+  "radicado": "C-655-97",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1997,
+  "fecha_creacion": "1997-12-03",
+  "magistrado_ponente": "Dr Carlos Gaviria Díaz",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "COMPETENCIA",
+  "subtema": "Asignación a diferentes órganos del Estado",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 201 de 1995"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1997/C-655-97.htm",
+  "fecha_descarga": "2026-10-23T06:51:24.458932+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1997-12-03",
+  "fecha_publicacion": null,
+  "numero": "C-655/97",
+  "tipo_cc": "C",
+  "prov_id": "14502",
+  "tema_relatoria": "LEY 201/95. ART. 72 COMPETENCIAS NO PREVISTAS EN INVESTIGACION DE FALTAS DISCIPLINARIAS. EXEQUIBLE.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "COMPETENCIA",
+      "subtema": "Asignación a diferentes órganos del Estado"
+    },
+    {
+      "tema": "COMPETENCIA RESIDUAL EN INVESTIGACION QUE REALICE PROCURADURIA",
+      "subtema": null
+    },
+    {
+      "tema": "COMPETENCIA RESIDUAL",
+      "subtema": "Investigación de faltas disciplinarias"
+    },
+    {
+      "tema": "COMPETENCIA",
+      "subtema": "Calidades"
+    },
+    {
+      "tema": "COMPETENCIA RESIDUAL",
+      "subtema": "Adecuación a la Constitución"
+    }
+  ]
+}

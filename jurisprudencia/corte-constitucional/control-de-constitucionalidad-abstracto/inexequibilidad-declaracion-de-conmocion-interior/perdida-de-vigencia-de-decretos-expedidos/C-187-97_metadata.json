@@ -1,0 +1,52 @@
+{
+  "radicado": "C-187-97",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1997,
+  "fecha_creacion": "1997-04-10",
+  "magistrado_ponente": "Dr EDUARDO CIFUENTES MUÑOZ",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "INEXEQUIBILIDAD DECLARACION DE CONMOCION INTERIOR",
+  "subtema": "Pérdida de vigencia de decretos expedidos",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 223 de 1997",
+    "Decreto 254 de 1997",
+    "Decreto 80 de 1997",
+    "Decreto 2067 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1997/C-187-97.htm",
+  "fecha_descarga": "2026-10-23T06:44:48.575445+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1997-04-10",
+  "fecha_publicacion": null,
+  "numero": "C-187/97",
+  "tipo_cc": "C",
+  "prov_id": "13990",
+  "tema_relatoria": "DEC. 254/97. POR EL CUAL SE MODIFICA EL PRESUPUESTO GENERAL DE LA NACION PARA LA VIGENCIA FISCAL DE 1997. EMERGENCIA ECONOMICA. INEXEQUIBLE.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "INEXEQUIBILIDAD DECLARACION DE CONMOCION INTERIOR",
+      "subtema": "Pérdida de vigencia de decretos expedidos"
+    },
+    {
+      "tema": "INEXEQUIBILIDAD DECLARACION DE EMERGENCIA",
+      "subtema": "Producción efectos fallos de decretos legislativos"
+    },
+    {
+      "tema": "INEXEQUIBILIDAD DECLARACION DE CONMOCION INTERIOR",
+      "subtema": "Sentencia inhibitoria sobre decretos expedidos"
+    },
+    {
+      "tema": "INCONSTITUCIONALIDAD POR CONSECUENCIA EN DECLARACION DE EMERGENCIA",
+      "subtema": "Modificación presupuesto general de la Nación"
+    },
+    {
+      "tema": "INEXEQUIBILIDAD DECLARACION DE EMERGENCIA",
+      "subtema": "Decisión inhibitoria sobre decretos legislativos posteriores"
+    }
+  ]
+}

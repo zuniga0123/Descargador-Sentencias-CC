@@ -1,0 +1,51 @@
+{
+  "radicado": "SU400-97",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1997,
+  "fecha_creacion": "1997-08-28",
+  "magistrado_ponente": "Dr JOSE GREGORIO HERNANDEZ GALINDO",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "ACCION DE TUTELA TEMERARIA",
+  "subtema": "Inexistencia cuando el objeto es diferente aunque las partes sean las mismas",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 153 de 1887",
+    "Ley 270 de 1996"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1997/SU400-97.htm",
+  "fecha_descarga": "2026-10-23T06:59:43.117606+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1997-08-28",
+  "fecha_publicacion": null,
+  "numero": "SU.400/97",
+  "tipo_cc": "SU",
+  "prov_id": "14238",
+  "tema_relatoria": "DER.A LA IGUALDAD. PAGO DE CESANTIAS PARCIALES. INDEXACION. EMPLEADOS DE LA RAMA JUDICIAL. CONCEDIDA PARCIALMENTE.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCION DE TUTELA TEMERARIA",
+      "subtema": "Inexistencia cuando el objeto es diferente aunque las partes sean las mismas"
+    },
+    {
+      "tema": "DERECHO A LA IGUALDAD",
+      "subtema": "Discriminación entre empleados judiciales por régimen de cesantías parciales"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Improcedencia de reconocimiento de perjuicios pasados"
+    },
+    {
+      "tema": "INDEXACION DE CESANTIAS PARCIALES",
+      "subtema": "Trabajadores de la Rama Judicial"
+    },
+    {
+      "tema": "INDEXACION",
+      "subtema": "Actualización monetaria que la administración adeuda"
+    }
+  ]
+}

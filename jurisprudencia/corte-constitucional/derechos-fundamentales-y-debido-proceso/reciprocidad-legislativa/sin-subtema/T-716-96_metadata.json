@@ -1,0 +1,52 @@
+{
+  "radicado": "T-716-96",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1996,
+  "fecha_creacion": "1996-12-16",
+  "magistrado_ponente": "Dr ANTONIO BARRERA CARBONELL",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "RECIPROCIDAD LEGISLATIVA",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 37 de 1979",
+    "Ley 39 de 1990",
+    "Decreto 2651 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1996/T-716-96.htm",
+  "fecha_descarga": "2026-10-23T07:05:58.320757+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1996-12-16",
+  "fecha_publicacion": null,
+  "numero": "T-716/96",
+  "tipo_cc": "T",
+  "prov_id": "13794",
+  "tema_relatoria": "VIA DE HECHO. DEBIDO PROCESO. SENTENCIA DE EXEQUATUR. C.I.A. AGRICOLA DE SEGUROS. NEGADA. VER AUTO 037/97.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "RECIPROCIDAD LEGISLATIVA",
+      "subtema": null
+    },
+    {
+      "tema": "EXEQUATUR",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "EXEQUATUR",
+      "subtema": null
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Improcedencia general"
+    },
+    {
+      "tema": "VIA DE HECHO",
+      "subtema": "Procedencia excepcional de tutela"
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "radicado": "C-065-97",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1997,
+  "fecha_creacion": "1997-02-11",
+  "magistrado_ponente": "Dr JORGE ARANGO MEJÍA Dr",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "PRINCIPIO DE CONSERVACION DEL DERECHO",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 42 de 1993",
+    "Decreto 130 de 1976",
+    "Ley 28 de 1974",
+    "Ley 115 de 1994",
+    "Ley 42 de 1992"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1997/C-065-97.htm",
+  "fecha_descarga": "2026-10-23T06:41:34.908259+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1997-02-11",
+  "fecha_publicacion": "1997-03-12",
+  "numero": "C-065/97",
+  "tipo_cc": "C",
+  "prov_id": "13058",
+  "tema_relatoria": "VIGILANCIA FISCAL PARA ENTIDADES DIFERENTES A LAS DE ECONOMIA MIXTA.",
+  "resumen": "Demanda de inconstitucionalidad contra el art. 22 de la Ley 42 de 1993, \"sobre la organización del sistema de control fiscal financiero y los organismos que lo ejercen\". El demandante señaló que la disposición acusada violó los arts. 267, numerales 4 y 5, y 272 de la Constitución Política. La Corte afirmó que (i) se debe entender la entrega de dineros u otros recursos que el Estado efectúa para integrar el capital social y para convertirse en socio de una entidad de economía mixta, mientras que el término aporte hace referencia a aquellas entregas de dineros o recursos estatales que no entran a formar el capital social sino que se efectúan para el cumplimiento de un proyecto o programa específico, es decir de un contrato; y (i) el precepto acusado mantiene una eficacia normativa específica, ya que establece y posibilita, hacia el futuro, una diferencia de control entre los aportes y las participaciones del Estado en distintas entidades, haciendo razonable que exista únicamente una vigilancia sobre el manejo específico del aporte estatal, y para ello es suficiente el control sobre el contrato. Se declaró la exequibilidad condicionada del art. 22 de la Ley 42 de 1993.",
+  "titulaciones": [
+    {
+      "tema": "PRINCIPIO DE CONSERVACION DEL DERECHO",
+      "subtema": null
+    },
+    {
+      "tema": "CONTROL FISCAL",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "CONTROL FISCAL",
+      "subtema": "Ejercicio posterior y de resultado"
+    },
+    {
+      "tema": "METODO HISTORICO DE INTERPRETACION",
+      "subtema": null
+    },
+    {
+      "tema": "CONSTITUCIONALIDAD CONDICIONADA",
+      "subtema": "Interpretación acorde a la Constitución"
+    },
+    {
+      "tema": "CORTE CONSTITUCIONAL",
+      "subtema": "Interpretación de normas legales"
+    },
+    {
+      "tema": "CONTROL DE CONSTITUCIONALIDAD",
+      "subtema": "Norma conforme a Constitución"
+    },
+    {
+      "tema": "JURISDICCION ORDINARIA",
+      "subtema": "Determinación sentido autorizado de normas"
+    },
+    {
+      "tema": "VIGILANCIA FISCAL EN PARTICIPACION DEL ESTADO",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "VIGILANCIA FISCAL EN APORTES DEL ESTADO",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "VIGILANCIA FISCAL EN APORTES DEL ESTADO",
+      "subtema": "Exclusión"
+    },
+    {
+      "tema": "VIGILANCIA FISCAL EN APORTES DEL ESTADO",
+      "subtema": "Límite temporal"
+    }
+  ]
+}

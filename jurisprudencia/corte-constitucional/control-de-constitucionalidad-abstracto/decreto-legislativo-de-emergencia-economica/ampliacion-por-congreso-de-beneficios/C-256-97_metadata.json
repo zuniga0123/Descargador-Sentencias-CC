@@ -1,0 +1,75 @@
+{
+  "radicado": "C-256-97",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1997,
+  "fecha_creacion": "1997-05-28",
+  "magistrado_ponente": null,
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "DECRETO LEGISLATIVO DE EMERGENCIA ECONOMICA",
+  "subtema": "Ampliación por Congreso de beneficios",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 218 de 1995",
+    "Decreto 1264 de 1994",
+    "Ley 43 de 1994",
+    "Decreto 2067 de 1991",
+    "Decreto 1264 de 1995",
+    "Decreto 529 de 1996",
+    "Ley 101 de 1993"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1997/C-256-97.htm",
+  "fecha_descarga": "2026-10-23T06:46:02.527823+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1997-05-28",
+  "fecha_publicacion": null,
+  "numero": "C-256/97",
+  "tipo_cc": "C",
+  "prov_id": "14065",
+  "tema_relatoria": "LEY 218/95. ARTS. 67 Y 12. LEY PAEZ. ALCANCES DE LA POTESTAD DEL CONGRESO PARA MODIFICAR LOS DECR. EXPEDIDOS EN LA EMERGENCIA. EXEQ. E INEXEQ.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DECRETO LEGISLATIVO DE EMERGENCIA ECONOMICA",
+      "subtema": "Ampliación por Congreso de beneficios"
+    },
+    {
+      "tema": "DECRETO LEGISLATIVO DE EMERGENCIA ECONOMICA",
+      "subtema": "Invasión por Congreso órbita Junta Directiva del Banco"
+    },
+    {
+      "tema": "DECRETO LEGISLATIVO DE EMERGENCIA ECONOMICA",
+      "subtema": "Iniciativa del Congreso"
+    },
+    {
+      "tema": "JUNTA DIRECTIVA DEL BANCO DE LA REPUBLICA",
+      "subtema": "Medidas crediticias por desbordamiento río Páez"
+    },
+    {
+      "tema": "COSA JUZGADA RELATIVA",
+      "subtema": "Proyecto de ley objetado por Presidente"
+    },
+    {
+      "tema": "CONTROL POLITICO DE DECRETOS POR EMERGENCIA ECONOMICA",
+      "subtema": "Autonomía legislativa"
+    },
+    {
+      "tema": "INICIATIVA PRIVATIVA DEL GOBIERNO",
+      "subtema": "Ciertos asuntos objeto de regulación legal"
+    },
+    {
+      "tema": "DECRETO LEGISLATIVO DE EMERGENCIA ECONOMICA",
+      "subtema": "Potestad del Congreso para modificarlo"
+    },
+    {
+      "tema": "DECRETO LEGISLATIVO DE EMERGENCIA ECONOMICA",
+      "subtema": "Temporalidad de libre iniciativa del Congreso para modificarlo"
+    },
+    {
+      "tema": "COSA JUZGADA RELATIVA",
+      "subtema": "Objeciones presidenciales"
+    }
+  ]
+}

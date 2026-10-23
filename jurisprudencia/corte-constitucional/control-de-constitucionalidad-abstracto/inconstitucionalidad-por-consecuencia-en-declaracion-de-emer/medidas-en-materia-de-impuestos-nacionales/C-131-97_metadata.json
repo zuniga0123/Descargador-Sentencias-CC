@@ -1,0 +1,53 @@
+{
+  "radicado": "C-131-97",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1997,
+  "fecha_creacion": "1997-03-19",
+  "magistrado_ponente": "Dr CARLOS GAVIRIA DIAZ",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "INCONSTITUCIONALIDAD POR CONSECUENCIA EN DECLARACION DE EMERGENCIA",
+  "subtema": "Medidas en materia de impuestos nacionales",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 80 de 1997",
+    "Ley 218 de 1995",
+    "Ley 10 de 1991",
+    "Ley 223 de 1995",
+    "Decreto 2067 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1997/C-131-97.htm",
+  "fecha_descarga": "2026-10-23T06:51:35.465521+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1997-03-19",
+  "fecha_publicacion": null,
+  "numero": "C-131/97",
+  "tipo_cc": "C",
+  "prov_id": "13933",
+  "tema_relatoria": "DEC. 150/97. POR EL CUAL SE DICTAN NORMAS EN MATERIA DE IMPUESTOS. EMERGENCIA ECONOMICA. INEXEQUIBLE.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "INCONSTITUCIONALIDAD POR CONSECUENCIA EN DECLARACION DE EMERGENCIA",
+      "subtema": "Medidas en materia de impuestos nacionales"
+    },
+    {
+      "tema": "INEXEQUIBILIDAD DECLARACION DE CONMOCION INTERIOR",
+      "subtema": "Pérdida de vigencia de decretos expedidos"
+    },
+    {
+      "tema": "INEXEQUIBILIDAD DECLARACION DE EMERGENCIA",
+      "subtema": "Producción efectos fallos de decretos legislativos"
+    },
+    {
+      "tema": "INEXEQUIBILIDAD DECLARACION DE CONMOCION INTERIOR",
+      "subtema": "Sentencia inhibitoria sobre decretos expedidos"
+    },
+    {
+      "tema": "INEXEQUIBILIDAD DECLARACION DE EMERGENCIA",
+      "subtema": "Decisión inhibitoria sobre decretos legislativos posteriores"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "radicado": "C-135-97",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1997,
+  "fecha_creacion": "1997-03-19",
+  "magistrado_ponente": "Dr JOSE GREGORIO HERNANDEZ GALINDO",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "INCONSTITUCIONALIDAD POR CONSECUENCIA EN DECLARACION DE EMERGENCIA",
+  "subtema": "Momento a partir de cuando surte efectos",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 81 de 1997",
+    "Decreto 2067 de 1991",
+    "Decreto 80 de 1997",
+    "Decreto 1220 de 1996",
+    "Decreto 197 de 1995"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1997/C-135-97.htm",
+  "fecha_descarga": "2026-10-23T06:51:42.670096+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1997-03-19",
+  "fecha_publicacion": null,
+  "numero": "C-135/97",
+  "tipo_cc": "C",
+  "prov_id": "13937",
+  "tema_relatoria": "DEC. 224/97. POR EL CUAL SE MODIFICA PARCIALMENTE EL DEC. 081/97. EMERGENCIA ECONOMICA. INEXEQUIBLE.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "INCONSTITUCIONALIDAD POR CONSECUENCIA EN DECLARACION DE EMERGENCIA",
+      "subtema": "Momento a partir de cuando surte efectos"
+    },
+    {
+      "tema": "INEXEQUIBILIDAD DECLARACION DE CONMOCION INTERIOR",
+      "subtema": "Pérdida de vigencia de decretos expedidos"
+    },
+    {
+      "tema": "INCONSTITUCIONALIDAD POR CONSECUENCIA EN DECLARACION DE EMERGENCIA",
+      "subtema": "Modificación parcial de decreto para desestimular endeudamiento"
+    },
+    {
+      "tema": "INEXEQUIBILIDAD DECLARACION DE EMERGENCIA",
+      "subtema": "Producción efectos fallos de decretos legislativos"
+    },
+    {
+      "tema": "INCONSTITUCIONALIDAD POR CONSECUENCIA EN DECLARACION DE EMERGENCIA",
+      "subtema": "Pronunciamiento formal sobre cada decreto legislativo"
+    },
+    {
+      "tema": "INEXEQUIBILIDAD DECLARACION DE CONMOCION INTERIOR",
+      "subtema": "Sentencia inhibitoria sobre decretos expedidos"
+    },
+    {
+      "tema": "INEXEQUIBILIDAD DECLARACION DE EMERGENCIA",
+      "subtema": "Decisión inhibitoria sobre decretos legislativos posteriores"
+    }
+  ]
+}

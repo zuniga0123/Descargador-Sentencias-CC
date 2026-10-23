@@ -1,0 +1,53 @@
+{
+  "radicado": "C-017-97",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1997,
+  "fecha_creacion": "1997-01-23",
+  "magistrado_ponente": "Dr EDUARDO CIFUENTES MUÑOZ",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "LEY ORGANICA DEL PRESUPUESTO",
+  "subtema": "Distribución de competencias y recursos",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 60 de 1993"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1997/C-017-97.htm",
+  "fecha_descarga": "2026-10-23T06:58:24.487591+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1997-01-23",
+  "fecha_publicacion": null,
+  "numero": "C-017/97",
+  "tipo_cc": "C",
+  "prov_id": "13813",
+  "tema_relatoria": "O.P. AL LIT. c) DEL ART. 4. PROYECTO DE LEY 167/95 SENADO Y 152/95 CAMARA. SE HONRA LA MEMORIA DEL DR. PEDRO CASTRO MONSALVO. INEXEQUIBLE.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "LEY ORGANICA DEL PRESUPUESTO",
+      "subtema": "Distribución de competencias y recursos"
+    },
+    {
+      "tema": "PRESUPUESTO NACIONAL",
+      "subtema": "Apoyo económico adicional de municipios"
+    },
+    {
+      "tema": "PRESUPUESTO NACIONAL",
+      "subtema": "Prohibición doble financiación de actividad municipal"
+    },
+    {
+      "tema": "OBJECION PRESIDENCIAL",
+      "subtema": "Declaración fundada"
+    },
+    {
+      "tema": "PRESUPUESTO MUNICIPAL",
+      "subtema": "Diseño y construcción de acueducto y alcantarillado"
+    },
+    {
+      "tema": "PLAN NACIONAL DE INVERSIONES",
+      "subtema": "Alcance"
+    }
+  ]
+}

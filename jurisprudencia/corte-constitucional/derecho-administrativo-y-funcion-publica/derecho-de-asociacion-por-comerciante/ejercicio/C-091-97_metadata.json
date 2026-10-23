@@ -1,0 +1,53 @@
+{
+  "radicado": "C-091-97",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1997,
+  "fecha_creacion": "1997-02-26",
+  "magistrado_ponente": "Dr JORGE ARANGO MEJÍA",
+  "area": "Derecho Administrativo y Función Pública",
+  "tema": "DERECHO DE ASOCIACION POR COMERCIANTE",
+  "subtema": "Ejercicio",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 223 de 1995"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1997/C-091-97.htm",
+  "fecha_descarga": "2026-10-23T06:42:48.331363+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1997-02-26",
+  "fecha_publicacion": null,
+  "numero": "C-091/97",
+  "tipo_cc": "C",
+  "prov_id": "13892",
+  "tema_relatoria": "LEY 223/95. ART. 245 LIT. b) LIQUIDACION Y RECAUDO DE IMPUESTOS POR LAS CAMARAS DE COMERCIO. EXEQUIBLE",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO DE ASOCIACION POR COMERCIANTE",
+      "subtema": "Ejercicio"
+    },
+    {
+      "tema": "FUNCION PUBLICA POR PARTICULARES",
+      "subtema": "No retribución"
+    },
+    {
+      "tema": "CAMARA DE COMERCIO",
+      "subtema": "Recaudo del impuesto"
+    },
+    {
+      "tema": "FUNCION PUBLICA POR CAMARA DE COMERCIO",
+      "subtema": "Liquidación y recaudo del impuesto"
+    },
+    {
+      "tema": "FUNCION PUBLICA POR PARTICULARES",
+      "subtema": "Asignación legal sin previo consentimiento"
+    },
+    {
+      "tema": "FUNCION ADMINISTRATIVA POR PARTICULARES",
+      "subtema": "Cumplimiento"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "radicado": "C-354-97",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1997,
+  "fecha_creacion": "1997-08-04",
+  "magistrado_ponente": "Dr ANTONIO BARRERA CARBONELL",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "CREDITOS A CARGO DEL ESTADO",
+  "subtema": "Pagos que consten en sentencias u otros títulos válidos",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 111 de 1996",
+    "Ley 38 de 1989",
+    "Ley 179 de 1994",
+    "Ley 225 de 1995"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1997/C-354-97.htm",
+  "fecha_descarga": "2026-10-23T06:47:20.116826+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1997-08-04",
+  "fecha_publicacion": null,
+  "numero": "C-354/97",
+  "tipo_cc": "C",
+  "prov_id": "14177",
+  "tema_relatoria": "DEC. 111/96 ART. 19. INEMBARGABILIDAD DE LAS RENTAS DEL PRESUPUESTO GRAL DE LA NACION. EXEQUIBLE.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "CREDITOS A CARGO DEL ESTADO",
+      "subtema": "Pagos que consten en sentencias u otros títulos válidos"
+    },
+    {
+      "tema": "SUBROGACION DE NORMA OBJETO DE SENTENCIA DE CONSTITUCIONALIDAD",
+      "subtema": "Nuevo pronunciamiento de la Corte"
+    },
+    {
+      "tema": "BIENES DEL ESTADO",
+      "subtema": "Pagos que consten en sentencia u otros títulos válidos"
+    },
+    {
+      "tema": "PRINCIPIO DE INEMBARGABILIDAD DE BIENES DEL ESTADO",
+      "subtema": "Límites al legislador para determinar demás bienes inembargables"
+    },
+    {
+      "tema": "PRINCIPIO DE INEMBARGABILIDAD DE BIENES DEL ESTADO",
+      "subtema": "Excepción por créditos laborales"
+    }
+  ]
+}

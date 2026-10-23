@@ -1,0 +1,51 @@
+{
+  "radicado": "C-469-97",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1997,
+  "fecha_creacion": "1997-09-25",
+  "magistrado_ponente": "Dr VLADIMIRO NARANJO MESA",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "PATRIMONIO CULTURAL DE LA NACION",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 33 de 1920",
+    "Ley 12 de 1984",
+    "Decreto 2067 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1997/C-469-97.htm",
+  "fecha_descarga": "2026-10-23T06:49:03.035818+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1997-09-25",
+  "fecha_publicacion": null,
+  "numero": "C-469/97",
+  "tipo_cc": "C",
+  "prov_id": "14299",
+  "tema_relatoria": "LEY 33/20. ART. 1. LEY 12/84. ART. 4. HIMNO NACIONAL DE COLOMBIA. EXEQUIBLES.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "PATRIMONIO CULTURAL DE LA NACION",
+      "subtema": null
+    },
+    {
+      "tema": "HIMNO NACIONAL",
+      "subtema": "Composición poético musical"
+    },
+    {
+      "tema": "HIMNO NACIONAL",
+      "subtema": "No adopta contenido normativo"
+    },
+    {
+      "tema": "SIMBOLOS PATRIOS",
+      "subtema": "Significado"
+    },
+    {
+      "tema": "SIMBOLOS PATRIOS",
+      "subtema": "Sacralización sobrevalora la protección de la unidad nacional"
+    }
+  ]
+}

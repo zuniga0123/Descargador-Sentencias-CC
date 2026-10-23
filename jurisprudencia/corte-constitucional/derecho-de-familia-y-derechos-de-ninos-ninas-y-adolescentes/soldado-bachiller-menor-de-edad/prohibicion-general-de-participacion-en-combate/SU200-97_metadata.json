@@ -1,0 +1,72 @@
+{
+  "radicado": "SU200-97",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1997,
+  "fecha_creacion": "1997-04-17",
+  "magistrado_ponente": "Dr CARLOS GAVIRIA DIAZ y Dr",
+  "area": "Derecho de Familia y Derechos de Niños, Niñas y Adolescentes",
+  "tema": "SOLDADO BACHILLER MENOR DE EDAD",
+  "subtema": "Prohibición general de participación en combate",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Decreto 2048 de 1993",
+    "Ley 48 de 1993",
+    "Ley 11 de 1992"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1997/SU200-97.htm",
+  "fecha_descarga": "2026-10-23T06:59:35.547849+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1997-04-17",
+  "fecha_publicacion": "1997-05-09",
+  "numero": "SU.200/97",
+  "tipo_cc": "SU",
+  "prov_id": "14004",
+  "tema_relatoria": "PRESTACION DE SERVICIO MILITAR POR SOLDADOS BACHILLERES EN ZONAS DE GUERRILLA. MENORES DE EDAD. DER. DE PETICION. CONCEDIDA PARCIALMENTE.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "SOLDADO BACHILLER MENOR DE EDAD",
+      "subtema": "Prohibición general de participación en combate"
+    },
+    {
+      "tema": "SERVICIO MILITAR",
+      "subtema": "Traslado a zonas geográficas distintas"
+    },
+    {
+      "tema": "SERVICIO MILITAR",
+      "subtema": "Respeto de preceptos fundamentales"
+    },
+    {
+      "tema": "SERVICIO MILITAR POR MENOR DE EDAD",
+      "subtema": null
+    },
+    {
+      "tema": "DERECHO A LA VIDA DEL SOLDADO BACHILLER",
+      "subtema": "Menor de edad en zona de combate"
+    },
+    {
+      "tema": "DERECHO A LA VIDA DEL SOLDADO BACHILLER",
+      "subtema": "Mayor de edad sin preparación militar suficiente en zona de combate"
+    },
+    {
+      "tema": "MILITAR",
+      "subtema": "Límite a los deberes"
+    },
+    {
+      "tema": "SERVICIO MILITAR",
+      "subtema": "Mayores responsabilidades conforme a preparación militar"
+    },
+    {
+      "tema": "SERVICIO MILITAR",
+      "subtema": "Razonabilidad en el cumplimiento de la obligación"
+    },
+    {
+      "tema": "SERVICIO MILITAR",
+      "subtema": "Traslado a zonas de combate"
+    }
+  ]
+}

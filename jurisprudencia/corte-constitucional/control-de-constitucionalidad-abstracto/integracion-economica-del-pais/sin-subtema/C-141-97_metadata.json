@@ -1,0 +1,65 @@
+{
+  "radicado": "C-141-97",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1997,
+  "fecha_creacion": "1997-03-19",
+  "magistrado_ponente": "Dr FABIO MORON DIAZ",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "INTEGRACION ECONOMICA DEL PAIS",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 32 de 1985"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1997/C-141-97.htm",
+  "fecha_descarga": "2026-10-23T06:43:50.159289+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1997-03-19",
+  "fecha_publicacion": null,
+  "numero": "C-141/97",
+  "tipo_cc": "C",
+  "prov_id": "13943",
+  "tema_relatoria": "LEY 293/96. MANDATO DEL GRUPO INNAL DE ESTUDIOS SOBRE EL NIQUEL. EXEQUIBLE SALVO EL ART. 2 Y PARAGRAFO DEL ART. 3.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "INTEGRACION ECONOMICA DEL PAIS",
+      "subtema": null
+    },
+    {
+      "tema": "INTERNACIONALIZACION DE LA ECONOMIA",
+      "subtema": null
+    },
+    {
+      "tema": "MANDATO DEL GRUPO INTERNACIONAL DE ESTUDIO SOBRE EL NIQUEL",
+      "subtema": "Representación del país"
+    },
+    {
+      "tema": "LEY APROBATORIA DE TRATADO INTERNACIONAL",
+      "subtema": "Atribución presidencial de dirigir las relaciones internacionales"
+    },
+    {
+      "tema": "MANDATO DEL GRUPO INTERNACIONAL DE ESTUDIO SOBRE EL NIQUEL",
+      "subtema": "Objeto"
+    },
+    {
+      "tema": "LEY APROBATORIA DE TRATADO INTERNACIONAL",
+      "subtema": "Dirección de las relaciones internacionales"
+    },
+    {
+      "tema": "PRESIDENTE DE LA REPUBLICA",
+      "subtema": "Encargado de las relaciones internacionales"
+    },
+    {
+      "tema": "TRATADO INTERNACIONAL Y LEY APROBATORIA",
+      "subtema": "Control formal"
+    },
+    {
+      "tema": "TRATADO INTERNACIONAL",
+      "subtema": "Adherencia"
+    }
+  ]
+}

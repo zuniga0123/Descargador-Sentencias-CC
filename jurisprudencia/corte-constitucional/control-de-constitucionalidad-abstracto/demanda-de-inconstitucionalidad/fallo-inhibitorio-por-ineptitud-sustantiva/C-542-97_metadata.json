@@ -1,0 +1,43 @@
+{
+  "radicado": "C-542-97",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1997,
+  "fecha_creacion": "1997-10-23",
+  "magistrado_ponente": "Dr Hernando Herrera Vergara",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "DEMANDA DE INCONSTITUCIONALIDAD",
+  "subtema": "Fallo inhibitorio por ineptitud sustantiva",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2067 de 1991",
+    "Ley 141 de 1961",
+    "Decreto 753 de 1956"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1997/C-542-97.htm",
+  "fecha_descarga": "2026-10-23T06:56:05.755204+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1997-10-23",
+  "fecha_publicacion": null,
+  "numero": "C-542/97",
+  "tipo_cc": "C",
+  "prov_id": "14382",
+  "tema_relatoria": "C.S.T. ART. 430. PROHIBICION DE HUELGA EN LOS SERVICIOS PUBLICOS. ESTARSE A LO RESUELTO EN LA C-473/94 450/95 505/95 Y 075/97.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "Fallo inhibitorio por ineptitud sustantiva"
+    },
+    {
+      "tema": "COSA JUZGADA CONSTITUCIONAL",
+      "subtema": null
+    },
+    {
+      "tema": "DECISION INHIBITORIA",
+      "subtema": "No constituye cosa juzgada"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "radicado": "T-073A-96",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1996,
+  "fecha_creacion": "1996-03-22",
+  "magistrado_ponente": "Dr VLADIMIRO NARANJO MESA",
+  "area": "Otros - Sin clasificar",
+  "tema": "MEDIO DE DEFENSA JUDICIAL",
+  "subtema": "Filtración de información reservada",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Decreto 1253 de 1988",
+    "Decreto 85 de 1989"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1996/T-073A-96.htm",
+  "fecha_descarga": "2026-10-23T07:00:41.144155+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1996-03-22",
+  "fecha_publicacion": "1996-03-08",
+  "numero": "T-073A/96",
+  "tipo_cc": "T",
+  "prov_id": "13139",
+  "tema_relatoria": "DER. A LA INTIMIDAD. SECRETO PROFESIONAL. RESERVA DE INFORMACION. MEDIO DE DEFENSA JUDICIAL. FUERZAS ARMADAS. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "MEDIO DE DEFENSA JUDICIAL",
+      "subtema": "Filtración de información reservada"
+    },
+    {
+      "tema": "SECRETO PROFESIONAL",
+      "subtema": "Límite"
+    },
+    {
+      "tema": "SECRETO PROFESIONAL",
+      "subtema": "Divulgación e información"
+    },
+    {
+      "tema": "SECRETO PROFESIONAL",
+      "subtema": "Información de estudio psicológico de suboficiales"
+    },
+    {
+      "tema": "SECRETO PROFESIONAL",
+      "subtema": "Deber de reserva"
+    }
+  ]
+}

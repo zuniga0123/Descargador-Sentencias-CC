@@ -1,0 +1,61 @@
+{
+  "radicado": "C-658-97",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1997,
+  "fecha_creacion": "1997-12-03",
+  "magistrado_ponente": "Dr VLADIMIRO NARANJO MESA",
+  "area": "Derecho Penal y Sistema Acusatorio",
+  "tema": "BIEN JURIDICO TUTELADO",
+  "subtema": "Tipos penales",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 308 de 1996",
+    "Decreto 2067 de 1991",
+    "Decreto 2610 de 1979",
+    "Ley 66 de 1968",
+    "Ley 81 de 1993"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1997/C-658-97.htm",
+  "fecha_descarga": "2026-10-23T06:57:51.579226+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1997-12-03",
+  "fecha_publicacion": null,
+  "numero": "C-658/97",
+  "tipo_cc": "C",
+  "prov_id": "14505",
+  "tema_relatoria": "LEY 308/96 ART. 2 QUE ADICIONO EL ART 367 DEL CODIGO PENAL. EXEQUIBLE URBANIZADOR ILEGAL. EXEQUIBLES.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "BIEN JURIDICO TUTELADO",
+      "subtema": "Tipos penales"
+    },
+    {
+      "tema": "QUERELLA",
+      "subtema": "Concepto"
+    },
+    {
+      "tema": "QUERELLANTE LEGITIMO",
+      "subtema": "Excepciones"
+    },
+    {
+      "tema": "SENTENCIA DE CONSTITUCIONALIDAD CONDICIONADA",
+      "subtema": null
+    },
+    {
+      "tema": "DELITO PLURIOFENSIVO",
+      "subtema": "Querellantes legítimos"
+    },
+    {
+      "tema": "URBANIZADOR ILEGAL",
+      "subtema": "Delito querellable"
+    },
+    {
+      "tema": "URBANIZADOR ILEGAL",
+      "subtema": "Querellantes"
+    }
+  ]
+}

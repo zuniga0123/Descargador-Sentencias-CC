@@ -1,0 +1,50 @@
+{
+  "radicado": "C-383-97",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1997,
+  "fecha_creacion": "1997-08-19",
+  "magistrado_ponente": "Dr FABIO MORON DIAZ",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "PREVALENCIA DEL DERECHO SUSTANCIAL",
+  "subtema": "Alcance",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2067 de 1991",
+    "Decreto 2282 de 1989"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1997/C-383-97.htm",
+  "fecha_descarga": "2026-10-23T06:47:53.130690+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1997-08-19",
+  "fecha_publicacion": null,
+  "numero": "C-383/97",
+  "tipo_cc": "C",
+  "prov_id": "14208",
+  "tema_relatoria": "C.P.C. ART. 554 PARCIAL. REQUISITOS DE LA DEMANDA PARA EL PAGO DE UNA OBLIGACION EN DINERO. EXEQUIBLE",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "PREVALENCIA DEL DERECHO SUSTANCIAL",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "PROCESO EJECUTIVO CON TITULO HIPOTECARIO O PRENDARIO",
+      "subtema": "Finalidad y características"
+    },
+    {
+      "tema": "PROCESO EJECUTIVO SINGULAR",
+      "subtema": null
+    },
+    {
+      "tema": "PROCESO EJECUTIVO CON TITULO HIPOTECARIO O PRENDARIO",
+      "subtema": "Persecución de otros bienes"
+    },
+    {
+      "tema": "PROCESO EJECUTIVO CON TITULO HIPOTECARIO O PRENDARIO",
+      "subtema": "Pago únicamente con producto de bienes gravados"
+    }
+  ]
+}

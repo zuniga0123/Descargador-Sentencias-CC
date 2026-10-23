@@ -1,0 +1,42 @@
+{
+  "radicado": "C-009-97",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1997,
+  "fecha_creacion": "1997-01-23",
+  "magistrado_ponente": "Dr JORGE ARANGO MEJÍA",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "BONOS DE VALOR CONSTANTE PARA SEGURIDAD SOCIAL",
+  "subtema": "Pago de dineros por BCH",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 48 de 1990",
+    "Decreto 1297 de 1994"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1997/C-009-97.htm",
+  "fecha_descarga": "2026-10-23T06:58:06.347167+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1997-01-23",
+  "fecha_publicacion": null,
+  "numero": "C-009/97",
+  "tipo_cc": "C",
+  "prov_id": "13805",
+  "tema_relatoria": "LEY 48/90. ART. 5 LIT b) PARCIAL Y 6 PARCIAL. REGIMEN DE INVERSION Y MANEJO DE LAS RESERVAS DEL I.S.S. EXEQUIBLES.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "BONOS DE VALOR CONSTANTE PARA SEGURIDAD SOCIAL",
+      "subtema": "Pago de dineros por BCH"
+    },
+    {
+      "tema": "CONGRESO",
+      "subtema": "Protección poder adquisitivo de recursos para pensiones"
+    },
+    {
+      "tema": "RESERVA DE INSTITUTO DE SEGUROS SOCIALES",
+      "subtema": "Régimen de inversión y manejo"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "radicado": "C-078-97",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1997,
+  "fecha_creacion": "1997-02-20",
+  "magistrado_ponente": "Dr EDUARDO CIFUENTES MUÑOZ",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "CONTROL DE CONSTITUCIONALIDAD",
+  "subtema": "Alcance",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 624 de 1989",
+    "Decreto 1 de 1984",
+    "Decreto 2733 de 1959",
+    "Ley 58 de 1983",
+    "Ley 57 de 1887"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1997/C-078-97.htm",
+  "fecha_descarga": "2026-10-23T06:59:04.694239+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1997-02-20",
+  "fecha_publicacion": null,
+  "numero": "C-078/97",
+  "tipo_cc": "C",
+  "prov_id": "13878",
+  "tema_relatoria": "DEC. 624/89. ART. 737. ESTATUTO TRIBUTARIO. TERMINO PARA EJERCITAR LA REVOCATORIA DIRECTA. EXEQUIBLE.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "CONTROL DE CONSTITUCIONALIDAD",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "PRINCIPIO DE SEGURIDAD JURIDICA Y DEBIDO PROCESO",
+      "subtema": "Establecimiento de términos"
+    },
+    {
+      "tema": "REVOCATORIA DIRECTA EN MATERIA TRIBUTARIA",
+      "subtema": "Fijación de términos"
+    },
+    {
+      "tema": "CONFLICTO DE NORMAS LEGALES",
+      "subtema": "Prelación de disposición especial"
+    },
+    {
+      "tema": "NORMA ESPECIAL",
+      "subtema": "Prelación"
+    },
+    {
+      "tema": "IMPUGNACION ACTOS ADMINISTRATIVOS",
+      "subtema": "Límites temporales"
+    },
+    {
+      "tema": "RECURSOS",
+      "subtema": "Límites temporales"
+    },
+    {
+      "tema": "REVOCATORIA DIRECTA EN MATERIA TRIBUTARIA",
+      "subtema": "Ejercicio en plazo determinado"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "radicado": "C-076-97",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1997,
+  "fecha_creacion": "1997-02-20",
+  "magistrado_ponente": "Dr JORGE ARANGO MEJÍA",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "LEY SOBRE ZONAS DE FRONTERA",
+  "subtema": "Alcance",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 21 de 1991",
+    "Decreto 470 de 1986",
+    "Ley 115 de 1994",
+    "Ley 21 de 1982",
+    "Ley 136 de 1994"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1997/C-076-97.htm",
+  "fecha_descarga": "2026-10-23T06:58:57.425722+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1997-02-20",
+  "fecha_publicacion": null,
+  "numero": "C-076/97",
+  "tipo_cc": "C",
+  "prov_id": "13876",
+  "tema_relatoria": "LEY 191/95. ESPECIALMENTE ART. 24. DISPOSICIONES SOBRE ZONAS DE FRONTERA. EXEQUIBLES.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "LEY SOBRE ZONAS DE FRONTERA",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "PUBLICACION DE LA LEY CON REFORMAS",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "CLAUSULA GENERAL DE COMPETENCIA LEGISLATIVA",
+      "subtema": "Internación temporal vehículo de país vecino"
+    },
+    {
+      "tema": "CLAUSULA GENERAL DE COMPETENCIA LEGISLATIVA",
+      "subtema": "Modificación e interpretación de leyes"
+    },
+    {
+      "tema": "GOBIERNO",
+      "subtema": "Reglamentación internación de vehículos"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "radicado": "C-016-97",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1997,
+  "fecha_creacion": "1997-01-23",
+  "magistrado_ponente": "Dr CARLOS GAVIRIA DIAZ",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "CONTRAVENCION DE ORDEN SOCIAL",
+  "subtema": "Mendicidad que no inhabilita para trabajar",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 522 de 1971"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1997/C-016-97.htm",
+  "fecha_descarga": "2026-10-23T06:41:46.000345+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1997-01-23",
+  "fecha_publicacion": null,
+  "numero": "C-016/97",
+  "tipo_cc": "C",
+  "prov_id": "13812",
+  "tema_relatoria": "DEC. 522/71. ARTS. 2324 Y 25. CONTRAVENCIONES ESPECIALES. MENDICIDAD. SENTENCIA INHIBITORIA POR CARENCIA DE OBJETO.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "CONTRAVENCION DE ORDEN SOCIAL",
+      "subtema": "Mendicidad que no inhabilita para trabajar"
+    },
+    {
+      "tema": "DEROGACION DE SANCION EN CONTRAVENCION",
+      "subtema": "Relegación a colonia agrícola"
+    },
+    {
+      "tema": "TEORIA DE LA DEFENSA SOCIAL",
+      "subtema": "Mendicidad que no inhabilita para trabajar"
+    },
+    {
+      "tema": "SANCION",
+      "subtema": "Finalidad"
+    }
+  ]
+}

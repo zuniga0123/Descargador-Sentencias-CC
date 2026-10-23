@@ -1,0 +1,67 @@
+{
+  "radicado": "C-466-97",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1997,
+  "fecha_creacion": "1997-09-25",
+  "magistrado_ponente": "Dr ALEJANDRO MARTÍNEZ CABALLERO",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "CONGRESO",
+  "subtema": "Atribución al Ejecutivo para celebrar contratos",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 60 de 1993",
+    "Ley 80 de 1993",
+    "Ley 397 de 1997"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1997/C-466-97.htm",
+  "fecha_descarga": "2026-10-23T06:55:07.611672+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1997-09-25",
+  "fecha_publicacion": null,
+  "numero": "C-466/97",
+  "tipo_cc": "C",
+  "prov_id": "14296",
+  "tema_relatoria": "O.P. AL PROYECTO DE LEY 196/95 SENADO. Y 329/95 CAMARA. LA NACION HONRA LA MEMORIA DEL ESCRITOR Y POETA EMILIO BASTIDAS. INEXEQUIBLES.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "CONGRESO",
+      "subtema": "Atribución al Ejecutivo para celebrar contratos"
+    },
+    {
+      "tema": "CASA DE CULTURA",
+      "subtema": "Compraventa y dotación por municipio"
+    },
+    {
+      "tema": "CONSTITUCIONALIDAD CONDICIONADA",
+      "subtema": "Improcedencia"
+    },
+    {
+      "tema": "LEY DE AUTORIZACIONES",
+      "subtema": "Concepto"
+    },
+    {
+      "tema": "PRINCIPIO DE CONSERVACION DEL DERECHO",
+      "subtema": null
+    },
+    {
+      "tema": "AUTONOMIA DE ENTIDADES TERRITORIALES",
+      "subtema": "Respeto"
+    },
+    {
+      "tema": "COMPRAVENTA DE INMUEBLES POR EL GOBIERNO",
+      "subtema": "No requiere autorización expresa del Congreso"
+    },
+    {
+      "tema": "REPARTO DE COMPETENCIAS ENTRE LA NACION Y LOS MUNICIPIOS",
+      "subtema": null
+    },
+    {
+      "tema": "CONGRESO",
+      "subtema": "No puede imponer al Ejecutivo la celebración de un contrato"
+    }
+  ]
+}

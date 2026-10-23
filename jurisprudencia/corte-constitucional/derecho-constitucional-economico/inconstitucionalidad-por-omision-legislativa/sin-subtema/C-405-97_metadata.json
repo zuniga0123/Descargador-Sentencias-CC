@@ -1,0 +1,69 @@
+{
+  "radicado": "C-405-97",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1997,
+  "fecha_creacion": "1997-08-28",
+  "magistrado_ponente": "Dr FABIO MORON DIAZ",
+  "area": "Derecho Constitucional Económico",
+  "tema": "INCONSTITUCIONALIDAD POR OMISION LEGISLATIVA",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 1655 de 1991",
+    "Ley 49 de 1990",
+    "Decreto 3104 de 1990",
+    "Ley 223 de 1995",
+    "Decreto 895 de 1980"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1997/C-405-97.htm",
+  "fecha_descarga": "2026-10-23T06:48:00.454309+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1997-08-28",
+  "fecha_publicacion": null,
+  "numero": "C-405/97",
+  "tipo_cc": "C",
+  "prov_id": "14231",
+  "tema_relatoria": "DEC. 1655/91. ART. 1 PARCIAL. BIENES QUE SE INCORPORAN AL ESTATUTO TRIBUTARIO. EXEQUIBLE.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "INCONSTITUCIONALIDAD POR OMISION LEGISLATIVA",
+      "subtema": null
+    },
+    {
+      "tema": "CONGRESO",
+      "subtema": "Dispone exenciones del impuesto sobre las ventas"
+    },
+    {
+      "tema": "LEY MARCO",
+      "subtema": "Modificaciones del arancel de aduanas"
+    },
+    {
+      "tema": "PRESIDENTE DE LA REPUBLICA",
+      "subtema": "Facultades extraordinarias"
+    },
+    {
+      "tema": "OMISIÓN LEGISLATIVA RELATIVA",
+      "subtema": "Competencia de la Corte Constitucional"
+    },
+    {
+      "tema": "LEGISLACION TRIBUTARIA",
+      "subtema": "Preparaciones anticonceptivas exentas del IVA"
+    },
+    {
+      "tema": "LEY MARCO",
+      "subtema": "Exclusión de cuestiones atinentes a política fiscal"
+    },
+    {
+      "tema": "IMPUESTO SOBRE LAS VENTAS",
+      "subtema": "Bienes gravados y excluídos"
+    },
+    {
+      "tema": "EXCESO DE FACULTADES EXTRAORDINARIAS",
+      "subtema": "No modificación de bienes gravados y excluidos"
+    }
+  ]
+}

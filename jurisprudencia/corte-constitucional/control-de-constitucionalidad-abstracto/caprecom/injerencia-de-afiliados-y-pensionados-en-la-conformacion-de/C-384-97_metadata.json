@@ -1,0 +1,55 @@
+{
+  "radicado": "C-384-97",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1997,
+  "fecha_creacion": "1997-08-19",
+  "magistrado_ponente": "Dr JOSE GREGORIO HERNÁNDEZ GALINDO",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "CAPRECOM",
+  "subtema": "Injerencia de afiliados y pensionados en la conformación de junta directiva",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 314 de 1996",
+    "Decreto 2067 de 1991",
+    "Ley 100 de 1993"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1997/C-384-97.htm",
+  "fecha_descarga": "2026-10-23T06:47:56.725485+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1997-08-19",
+  "fecha_publicacion": null,
+  "numero": "C-384/97",
+  "tipo_cc": "C",
+  "prov_id": "14209",
+  "tema_relatoria": "LEY 314/96. ART. 10 PARCIAL. POR LA CUAL SE REORGANIZA CAPRECOM. ORGANOS DE DIRECCION. EXEQUIBLES",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "CAPRECOM",
+      "subtema": "Injerencia de afiliados y pensionados en la conformación de junta directiva"
+    },
+    {
+      "tema": "MINISTRO DE COMUNICACIONES",
+      "subtema": "Asiento en la junta directiva de Caprecom"
+    },
+    {
+      "tema": "CAPRECOM",
+      "subtema": "Participación de afiliados y pensionados en la gestión de la entidad"
+    },
+    {
+      "tema": "DERECHO A LA IGUALDAD",
+      "subtema": "Rompimiento"
+    },
+    {
+      "tema": "DERECHO A LA IGUALDAD",
+      "subtema": "Condición de afiliados y pensionados para participar en las elecciones de junta directiva"
+    },
+    {
+      "tema": "DERECHO A LA IGUALDAD",
+      "subtema": "Alcance"
+    }
+  ]
+}

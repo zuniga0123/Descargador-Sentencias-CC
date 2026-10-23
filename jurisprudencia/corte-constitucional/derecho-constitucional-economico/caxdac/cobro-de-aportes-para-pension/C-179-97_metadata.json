@@ -1,0 +1,56 @@
+{
+  "radicado": "C-179-97",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1997,
+  "fecha_creacion": "1997-04-10",
+  "magistrado_ponente": "Dr FABIO MORON DIAZ",
+  "area": "Derecho Constitucional Económico",
+  "tema": "CAXDAC",
+  "subtema": "Cobro de aportes para pensión",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 1266 de 1994",
+    "Ley 100 de 1993",
+    "Ley 32 de 1961",
+    "Decreto 1947 de 1986"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1997/C-179-97.htm",
+  "fecha_descarga": "2026-10-23T06:44:26.712916+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1997-04-10",
+  "fecha_publicacion": null,
+  "numero": "C-179/97",
+  "tipo_cc": "C",
+  "prov_id": "13982",
+  "tema_relatoria": "DEC. 1283/94. ART. 3 PARAGRAFO UNICO. REGIMEN DE RESERVAS DE LA CAJA DE AUXILIOS Y PRESTACIONES DE ASOC. COL. DE AVIADORES CIVILES -CAXDAC-. EXEQ.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "CAXDAC",
+      "subtema": "Cobro de aportes para pensión"
+    },
+    {
+      "tema": "CAXDAC",
+      "subtema": "Responsabilidad directa en pensiones"
+    },
+    {
+      "tema": "FONDO DE RESERVAS DE CAXDAC",
+      "subtema": "Mayores rendimientos para pensiones de empresas no aportantes"
+    },
+    {
+      "tema": "CAJA DE AUXILIOS Y PRESTACIONES DE LA ASOCIACION COLOMBIANA DE AVIADORES CIVILES",
+      "subtema": null
+    },
+    {
+      "tema": "CONTRIBUCION PARAFISCAL",
+      "subtema": "Aportes para pago de prestaciones de aviadores civiles"
+    },
+    {
+      "tema": "CAXDAC",
+      "subtema": "Aportes constituyen contribución parafiscal"
+    }
+  ]
+}

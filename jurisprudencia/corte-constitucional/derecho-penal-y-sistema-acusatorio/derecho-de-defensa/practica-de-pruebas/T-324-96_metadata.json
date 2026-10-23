@@ -1,0 +1,53 @@
+{
+  "radicado": "T-324-96",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1996,
+  "fecha_creacion": "1996-07-24",
+  "magistrado_ponente": "Dr EDUARDO CIFUENTES MUÑOZ",
+  "area": "Derecho Penal y Sistema Acusatorio",
+  "tema": "DERECHO DE DEFENSA",
+  "subtema": "Práctica de pruebas",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 81 de 1993",
+    "Decreto 2067 de 1991",
+    "Decreto 2699 de 1991",
+    "Decreto 2700 de 1991",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1996/T-324-96.htm",
+  "fecha_descarga": "2026-10-23T07:00:30.275970+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1996-07-24",
+  "fecha_publicacion": "1996-07-25",
+  "numero": "T-324/96",
+  "tipo_cc": "T",
+  "prov_id": "13365",
+  "tema_relatoria": "VIA DE HECHO CONTRA LOS FISCALES DELEGADOS ANTE LA CORTE SUPREMA. DELEGACION DE FUNCIONES POR EL FISCAL GRAL DE LA NACION. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO DE DEFENSA",
+      "subtema": "Práctica de pruebas"
+    },
+    {
+      "tema": "MEDIO DE DEFENSA JUDICIAL",
+      "subtema": "Rechazo de pruebas solicitadas"
+    },
+    {
+      "tema": "FISCALÍA GENERAL DE LA NACIÓN",
+      "subtema": "Comisión clausura investigación"
+    },
+    {
+      "tema": "VIA DE HECHO",
+      "subtema": "Inexistencia por cierre investigación"
+    },
+    {
+      "tema": "VIA DE HECHO",
+      "subtema": "Adscripción competencias a fiscal"
+    }
+  ]
+}

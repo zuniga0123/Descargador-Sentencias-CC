@@ -1,0 +1,102 @@
+{
+  "radicado": "SU111-97",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1997,
+  "fecha_creacion": "1997-03-06",
+  "magistrado_ponente": null,
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "PRINCIPIO DE AUTONOMIA FUNCIONAL DEL JUEZ",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 3135 de 1968",
+    "Decreto 2400 de 1968",
+    "Decreto 1848 de 1969",
+    "Ley 100 de 1993",
+    "Decreto 1938 de 1994",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1997/SU111-97.htm",
+  "fecha_descarga": "2026-10-23T07:00:09.147032+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1997-03-06",
+  "fecha_publicacion": null,
+  "numero": "SU.111/97",
+  "tipo_cc": "SU",
+  "prov_id": "13913",
+  "tema_relatoria": "DER. A LA VIDA Y A LA SALUD. NULIDAD DE ACTO ADTIVO DE SUSPENSION DE SERVICIO MEDICO POR CAJANAL. MEDIO DE DEFENSA JUDICIAL. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "PRINCIPIO DE AUTONOMIA FUNCIONAL DEL JUEZ",
+      "subtema": null
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Improcedencia por no ejercicio oportuno de medio de defensa judicial"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Improcedencia por no ejercicio oportuno de recursos"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Subsidiariedad"
+    },
+    {
+      "tema": "DERECHO A LA SEGURIDAD SOCIAL",
+      "subtema": "Contenido prestacional"
+    },
+    {
+      "tema": "DERECHO A LA VIDA",
+      "subtema": "Fundamental"
+    },
+    {
+      "tema": "DERECHOS SOCIALES, ECONOMICOS Y CULTURALES",
+      "subtema": "No son de aplicación inmediata"
+    },
+    {
+      "tema": "ORDEN CONSTITUCIONAL",
+      "subtema": null
+    },
+    {
+      "tema": "CLAUSULA DEL ESTADO SOCIAL DE DERECHO",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Inasistencia médica por incumplirse requisitos legales"
+    },
+    {
+      "tema": "ESTADO SOCIAL DE DERECHO",
+      "subtema": "Papel de la justicia constitucional"
+    },
+    {
+      "tema": "MEDIO DE DEFENSA JUDICIAL ORDINARIO",
+      "subtema": "Protección del derecho fundamental"
+    },
+    {
+      "tema": "DERECHOS SOCIALES, ECONOMICOS Y CULTURALES O DE SEGUNDA GENERACION",
+      "subtema": "Tesis de conexidad entre derecho prestacional y derecho fundamental"
+    },
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Carácter prestacional"
+    },
+    {
+      "tema": "JURISDICCION CONSTITUCIONAL",
+      "subtema": "No sustitución órganos del Estado"
+    },
+    {
+      "tema": "SERVICIO PUBLICO DE SALUD",
+      "subtema": "Incumplimiento de requisitos legales"
+    },
+    {
+      "tema": "PRINCIPIO DE DIGNIDAD HUMANA",
+      "subtema": "Mínimo vital"
+    }
+  ]
+}
