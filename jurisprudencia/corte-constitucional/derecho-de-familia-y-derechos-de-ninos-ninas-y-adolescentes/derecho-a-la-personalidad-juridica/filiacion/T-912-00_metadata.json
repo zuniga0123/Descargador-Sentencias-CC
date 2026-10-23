@@ -1,0 +1,46 @@
+{
+  "radicado": "T-912-00",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-07-17",
+  "magistrado_ponente": "Dr ALEJANDRO MARTÍNEZ CABALLERO",
+  "area": "Derecho de Familia y Derechos de Niños, Niñas y Adolescentes",
+  "tema": "DERECHO A LA PERSONALIDAD JURIDICA",
+  "subtema": "Filiación",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 1260 de 1970",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/T-912-00.htm",
+  "fecha_descarga": "2026-10-23T02:38:57.007354+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-07-17",
+  "fecha_publicacion": "2000-10-12",
+  "numero": "T-912/00",
+  "tipo_cc": "T",
+  "prov_id": "16677",
+  "tema_relatoria": "DERECHO AL RECONOCIMIENTO DE LA PERSONALIDAD JURIDICA Y AL BUEN NOMBRE. FILIACION EXTRAMATRIMONIAL. COMPETENCIA DE LOS DELEGADOS DE LOS REGISTRADORES MUNICIPALES DEL ESTADO CIVIL E INSPECTORES DE POLICIA PARA LLEVAR EL REGISTRO CIVIL. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA PERSONALIDAD JURIDICA",
+      "subtema": "Filiación"
+    },
+    {
+      "tema": "DERECHO AL RECONOCIMIENTO DE LA PERSONALIDAD JURIDICA",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "MEDIO DE DEFENSA JUDICIAL",
+      "subtema": "Reconocimiento de paternidad"
+    },
+    {
+      "tema": "MEDIO DE DEFENSA JUDICIAL",
+      "subtema": "Iniciación proceso de filiación"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "radicado": "T-214-00",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-03-02",
+  "magistrado_ponente": "Dr ALVARO TAFUR GALVIS",
+  "area": "Derecho a la Salud",
+  "tema": "DERECHO A LA SALUD",
+  "subtema": "Práctica de cirugía de piernas",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2357 de 1995",
+    "Ley 344 de 1996",
+    "Ley 60 de 1993",
+    "Ley 100 de 1993",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/T-214-00.htm",
+  "fecha_descarga": "2026-10-23T02:47:54.722963+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-03-02",
+  "fecha_publicacion": null,
+  "numero": "T-214/00",
+  "tipo_cc": "T",
+  "prov_id": "16756",
+  "tema_relatoria": "TUTELA CONTRA EL SISBEN. PRACTICA DE CIRUGIA EN LAS PIERNAS. FALTA DE RECURSOS PARA CUBRIR EL COPAGO EXIGIDO. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Práctica de cirugía de piernas"
+    },
+    {
+      "tema": "TRATAMIENTO MEDICO",
+      "subtema": "Asunción de costos"
+    },
+    {
+      "tema": "TRATAMIENTO MEDICO",
+      "subtema": "Imposibilidad de conseguir recursos para copago"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "radicado": "T-262-00",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-03-06",
+  "magistrado_ponente": "Dr JOSÉ GREGORIO HERNÁNDEZ GALINDO",
+  "area": "Derecho a la Salud",
+  "tema": "PRINCIPIO DE CONTINUIDAD EN EL SERVICIO DE SALUD",
+  "subtema": "Desorganización de archivos, desconocimiento particular de los afiliados e interrupción y dilación de tratamientos e intervenciones",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/T-262-00.htm",
+  "fecha_descarga": "2026-10-23T02:49:16.257861+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-03-06",
+  "fecha_publicacion": null,
+  "numero": "T-262/00",
+  "tipo_cc": "T",
+  "prov_id": "16804",
+  "tema_relatoria": "DERECHO A LA SALUD Y VIDA. MORA DEL ISS EN REALIZAR CIRUGIA DE CLAVOS EN UN HUESO. CARENCIA ACTUAL DE OBJETO. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "PRINCIPIO DE CONTINUIDAD EN EL SERVICIO DE SALUD",
+      "subtema": "Desorganización de archivos, desconocimiento particular de los afiliados e interrupción y dilación de tratamientos e intervenciones"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Hecho superado"
+    },
+    {
+      "tema": "SERVICIO PUBLICO DE SALUD",
+      "subtema": "Demostración calidad de beneficiario de cotizante"
+    }
+  ]
+}

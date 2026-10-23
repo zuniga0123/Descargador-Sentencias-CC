@@ -1,0 +1,41 @@
+{
+  "radicado": "T-321-00",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-03-21",
+  "magistrado_ponente": "Dr JOSÉ GREGORIO HERNÁNDEZ GALINDO",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "MEDIO DE DEFENSA JUDICIAL",
+  "subtema": "Negativa reconocimiento de pensiones",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/T-321-00.htm",
+  "fecha_descarga": "2026-10-23T02:51:39.728946+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-03-21",
+  "fecha_publicacion": null,
+  "numero": "T-321/00",
+  "tipo_cc": "T",
+  "prov_id": "16868",
+  "tema_relatoria": "HABEAS DATA. DEBIDO PROCESO ADMINISTRATIVO. NO ACTUALIZACION EN EL ISS DEL RECONOCIMIENTO DE PENSION DE JUBILACION. IMPROCEDENCIA DE LA TUTELA CUANDO SE ATACA UN ACTO ADMINISTRATIVO. MEDIO DE DEFENSA JUDICIAL. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "MEDIO DE DEFENSA JUDICIAL",
+      "subtema": "Negativa reconocimiento de pensiones"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Subsidiariedad"
+    },
+    {
+      "tema": "HABEAS DATA EN PENSIONES LEGALES DEL SEGURO SOCIAL",
+      "subtema": "Actualización y rectificación en resolución de reconocimiento"
+    }
+  ]
+}

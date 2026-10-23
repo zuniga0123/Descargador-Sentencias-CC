@@ -1,0 +1,46 @@
+{
+  "radicado": "T-438-00",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-04-14",
+  "magistrado_ponente": "Dr ALEJANDRO MARTÍNEZ CABALLERO",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "JURISDICCION CONTENCIOSO ADMINISTRATIVA",
+  "subtema": "Suspensión provisional de resolución que concedió pensión",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 813 de 1994",
+    "Decreto 1748 de 1995",
+    "Decreto 1474 de 1997",
+    "Ley 100 de 1993",
+    "Decreto 2701 de 1988",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/T-438-00.htm",
+  "fecha_descarga": "2026-10-23T02:59:37.398148+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-04-14",
+  "fecha_publicacion": null,
+  "numero": "T-438/00",
+  "tipo_cc": "T",
+  "prov_id": "16996",
+  "tema_relatoria": "DERECHO AL MINIMO VITAL. SUSPENSION PROVISIONAL DE UNA PENSION DE JUBILACION POR FALLAS DE COMPETENCIA ENTRE LA POLICIA NACIONAL Y EL ISS PARA DECRETARLA. MEDIO DE DEFENSA JUDICIAL. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "JURISDICCION CONTENCIOSO ADMINISTRATIVA",
+      "subtema": "Suspensión provisional de resolución que concedió pensión"
+    },
+    {
+      "tema": "ACCION DE TUTELA PARA REINTEGRO AL CARGO",
+      "subtema": "Improcedencia por existir otro medio de defensa judicial y no existir perjuicio irremediable"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Improcedencia de reconocimiento de pensión"
+    }
+  ]
+}

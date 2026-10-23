@@ -1,0 +1,61 @@
+{
+  "radicado": "T-611-00",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-05-29",
+  "magistrado_ponente": "Dr FABIO MORON DIAZ",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "DERECHO A LA VIDA DEL INTERNO",
+  "subtema": "No vulneración por no ubicación en casa fiscal",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/T-611-00.htm",
+  "fecha_descarga": "2026-10-23T03:01:35.809605+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-05-29",
+  "fecha_publicacion": null,
+  "numero": "T-611/00",
+  "tipo_cc": "T",
+  "prov_id": "17197",
+  "tema_relatoria": "DERECHO A LA VIDA E INTEGRIDAD PERSONAL. TRASLADO DE INTERNO A OTRO SITIO DE RECLUSION POR AMENAZAS CONTRA SU VIDA. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA VIDA DEL INTERNO",
+      "subtema": "No vulneración por no ubicación en casa fiscal"
+    },
+    {
+      "tema": "DERECHO A LA INTEGRIDAD FISICA DEL INTERNO",
+      "subtema": "No vulneración por no ubicación en casa fiscal"
+    },
+    {
+      "tema": "INSTITUTO NACIONAL PENITENCIARIO Y CARCELARIO",
+      "subtema": "Discrecionalidad para decidir traslado de internos"
+    },
+    {
+      "tema": "ADMINISTRACION CARCELARIA",
+      "subtema": "Sujeción de los internos"
+    },
+    {
+      "tema": "DIRECTOR DEL INSTITUTO NACIONAL PENITENCIARIO Y CARCELARIO",
+      "subtema": "Facultad para reubicación de internos"
+    },
+    {
+      "tema": "DIRECTOR DEL INSTITUTO NACIONAL PENITENCIARIO Y CARCELARIO",
+      "subtema": "Facultad única y exclusiva de traslado de internos"
+    },
+    {
+      "tema": "DIRECTOR DEL INSTITUTO NACIONAL PENITENCIARIO Y CARCELARIO",
+      "subtema": "Escogencia de lugar que ofrezca adecuadas medidas de seguridad a los internos"
+    },
+    {
+      "tema": "INTERNO",
+      "subtema": "Restricción y protección de derechos"
+    }
+  ]
+}

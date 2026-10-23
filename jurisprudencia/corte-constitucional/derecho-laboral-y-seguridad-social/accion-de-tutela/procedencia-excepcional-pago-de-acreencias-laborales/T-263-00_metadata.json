@@ -1,0 +1,46 @@
+{
+  "radicado": "T-263-00",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-03-06",
+  "magistrado_ponente": "Dr JOSÉ GREGORIO HERNÁNDEZ GALINDO",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "ACCIÓN DE TUTELA",
+  "subtema": "Procedencia excepcional pago de acreencias laborales",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 71 de 1988"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/T-263-00.htm",
+  "fecha_descarga": "2026-10-23T02:49:19.780613+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-03-06",
+  "fecha_publicacion": null,
+  "numero": "T-263/00",
+  "tipo_cc": "T",
+  "prov_id": "16805",
+  "tema_relatoria": "DERECHO AL MINIMO VITAL. DEBIDO PROCESO. MORA EN EL PAGO DE MESADAS PENSIONALES. REVOCATORIA DIRECTA-CONSENTIMIENTO DEL AFECTADO. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Procedencia excepcional pago de acreencias laborales"
+    },
+    {
+      "tema": "DERECHO AL MINIMO VITAL EN SUSTITUCION PENSIONAL",
+      "subtema": "Pago oportuno de mesadas"
+    },
+    {
+      "tema": "ESTADO",
+      "subtema": "Deber de garantizar pago oportuno de pensiones"
+    },
+    {
+      "tema": "SUSTITUCION PENSIONAL DE COMPAÑERA PERMANENTE",
+      "subtema": "Revocación sin consentimiento expreso y escrito del titular"
+    }
+  ]
+}

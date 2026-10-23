@@ -1,0 +1,50 @@
+{
+  "radicado": "T-255-00",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-03-06",
+  "magistrado_ponente": "Dr JOSÉ GREGORIO HERNÁNDEZ GALINDO",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "DERECHO DE PETICION EN CESANTIAS PARCIALES",
+  "subtema": "Reconocimiento no sujeto a disponibilidad presupuestal",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 91 de 1989"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/T-255-00.htm",
+  "fecha_descarga": "2026-10-23T02:48:58.605413+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-03-06",
+  "fecha_publicacion": null,
+  "numero": "T-255/00",
+  "tipo_cc": "T",
+  "prov_id": "16797",
+  "tema_relatoria": "DERECHO A LA IGUALDAD. PAGO DE CESANTIAS PARCIALES. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO DE PETICION EN CESANTIAS PARCIALES",
+      "subtema": "Reconocimiento no sujeto a disponibilidad presupuestal"
+    },
+    {
+      "tema": "PROCURADURÍA GENERAL DE LA NACIÓN",
+      "subtema": "Falta de respuesta a petición"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Procedencia excepcional pago de acreencias laborales"
+    },
+    {
+      "tema": "DERECHO A LA IGUALDAD EN REGIMEN DE CESANTIAS PARCIALES",
+      "subtema": "Cambio de legislación"
+    },
+    {
+      "tema": "FONDO NACIONAL DE PRESTACIONES SOCIALES DEL MAGISTERIO",
+      "subtema": "Resolución sobre liquidación y reconocimiento de cesantías parciales"
+    }
+  ]
+}

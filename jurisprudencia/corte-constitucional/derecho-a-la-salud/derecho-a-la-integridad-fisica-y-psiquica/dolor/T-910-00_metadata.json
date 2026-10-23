@@ -1,0 +1,38 @@
+{
+  "radicado": "T-910-00",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-07-17",
+  "magistrado_ponente": "Dr ALEJANDRO MARTÍNEZ CABALLERO",
+  "area": "Derecho a la Salud",
+  "tema": "DERECHO A LA INTEGRIDAD FISICA Y PSIQUICA",
+  "subtema": "Dolor",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Decreto 806 de 1998"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/T-910-00.htm",
+  "fecha_descarga": "2026-10-23T02:43:46.636206+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-07-17",
+  "fecha_publicacion": null,
+  "numero": "T-910/00",
+  "tipo_cc": "T",
+  "prov_id": "17504",
+  "tema_relatoria": "DERECHO A LA SALUD Y A UNA VIDA DIGNA. PRACTICA DE CIRUGIA FACIAL NO INCLUIDA EN EL POS. CAFAM ARS. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA INTEGRIDAD FISICA Y PSIQUICA",
+      "subtema": "Dolor"
+    },
+    {
+      "tema": "ADMINISTRADORA DEL REGIMEN SUBSIDIADO",
+      "subtema": "Información al afiliado sobre posibilidad de atención en servicio no incluido en POS"
+    }
+  ]
+}

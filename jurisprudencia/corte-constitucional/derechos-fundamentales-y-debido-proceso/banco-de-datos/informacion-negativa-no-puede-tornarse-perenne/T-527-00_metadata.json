@@ -1,0 +1,73 @@
+{
+  "radicado": "T-527-00",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-05-08",
+  "magistrado_ponente": "Dr FABIO MORON DIAZ",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "BANCO DE DATOS",
+  "subtema": "Información negativa no puede tornarse perenne",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/T-527-00.htm",
+  "fecha_descarga": "2026-10-23T03:01:10.284841+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-05-08",
+  "fecha_publicacion": null,
+  "numero": "T-527/00",
+  "tipo_cc": "T",
+  "prov_id": "17092",
+  "tema_relatoria": "HABEAS DATA. CADUCIDAD DE LOS DATOS EN LOS BANCOS INFORMATICOS DE LAS ENTIDADES FINANCIERAS. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "BANCO DE DATOS",
+      "subtema": "Información negativa no puede tornarse perenne"
+    },
+    {
+      "tema": "HABEAS DATA",
+      "subtema": "Actualización en registro de datos"
+    },
+    {
+      "tema": "HABEAS DATA",
+      "subtema": "Términos constituyen pautas jurisprudenciales"
+    },
+    {
+      "tema": "DERECHO AL BUEN NOMBRE",
+      "subtema": "Veracidad de la información"
+    },
+    {
+      "tema": "CADUCIDAD DEL DATO",
+      "subtema": "Límite temporal"
+    },
+    {
+      "tema": "CADUCIDAD DEL DATO",
+      "subtema": "Límite temporal por retardo inferior a un año cuando el pago es voluntario"
+    },
+    {
+      "tema": "DERECHO A LA INFORMACIÓN",
+      "subtema": "No es absoluto"
+    },
+    {
+      "tema": "DERECHO A LA AUTODETERMINACION INFORMATIVA",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "HABEAS DATA",
+      "subtema": "Vulneración por existir datos negativos en Datacrédito"
+    },
+    {
+      "tema": "HABEAS DATA",
+      "subtema": "Núcleo esencial"
+    },
+    {
+      "tema": "INFORMACION VERAZ E IMPARCIAL",
+      "subtema": "Deudores"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "radicado": "T-201-00",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-02-28",
+  "magistrado_ponente": "Dr ANTONIO BARRERA CARBONELL",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACUERDO DE CONCEJO MUNICIPAL",
+  "subtema": "Remisión al Tribunal Contencioso Administrativo cuando Gobernador lo considere contrario a la Constitución",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 11 de 1986",
+    "Ley 80 de 1993"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/T-201-00.htm",
+  "fecha_descarga": "2026-10-23T02:47:36.671346+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-02-28",
+  "fecha_publicacion": null,
+  "numero": "T-201/00",
+  "tipo_cc": "T",
+  "prov_id": "16740",
+  "tema_relatoria": "CONTRATO DE CONCESION PARA LA PRESTACION DEL SERVICIO DE ALUMBRADO PUBLICO PARA CARTAGENA. ACUERDO INVALIDADO POR TRIBUNAL ADMINISTRATIVO DE BOLIVAR. SE PUEDEN UTILIZAR OTROS MEDIOS JUDICIALES DIFERENTES A LA ACCION DE TUTELA. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACUERDO DE CONCEJO MUNICIPAL",
+      "subtema": "Remisión al Tribunal Contencioso Administrativo cuando Gobernador lo considere contrario a la Constitución"
+    },
+    {
+      "tema": "ACUERDO DE CONCEJO DISTRITAL",
+      "subtema": "Invalidez por Tribunal Administrativo"
+    },
+    {
+      "tema": "ACTO ADMINISTRATIVO DE CONCEJO MUNICIPAL",
+      "subtema": "Control de constitucionalidad y legalidad sobre validez"
+    },
+    {
+      "tema": "MEDIO DE DEFENSA JUDICIAL",
+      "subtema": "Declaración de nulidad del contrato para lograr protección de derechos"
+    },
+    {
+      "tema": "DEBIDO PROCESO EN CONTROL SOBRE ACUERDO DE CONCEJO DISTRITAL",
+      "subtema": "Inexistencia de vulneración por no intervención en el trámite de las objeciones u observaciones del Gobernador"
+    },
+    {
+      "tema": "GOBERNADOR",
+      "subtema": "Objeciones u observaciones a Acuerdo por inconstitucionalidad"
+    }
+  ]
+}

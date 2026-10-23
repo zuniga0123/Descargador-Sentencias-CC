@@ -1,0 +1,58 @@
+{
+  "radicado": "T-205-00",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-02-29",
+  "magistrado_ponente": "Dr ANTONIO BARRERA CARBONELL",
+  "area": "Otros - Sin clasificar",
+  "tema": "DERECHO AL MINIMO VITAL DEL PENSIONADO",
+  "subtema": "Presunción de afectación por ausencia prolongada en pago de mesadas",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 549 de 1999",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/T-205-00.htm",
+  "fecha_descarga": "2026-10-23T02:47:51.145280+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-02-29",
+  "fecha_publicacion": null,
+  "numero": "T-205/00",
+  "tipo_cc": "T",
+  "prov_id": "16744",
+  "tema_relatoria": "PAGO DE MESADAS PENSIONALES. GOBERNACION DE ANTIOQUIA. ORDEN DE CANCELAR DEUDA CON VENTA DE ACTIVOS DE ACUANTIOQUIA O CON RECURSOS PROPIOS DEL DEPARTAMENTO. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO AL MINIMO VITAL DEL PENSIONADO",
+      "subtema": "Presunción de afectación por ausencia prolongada en pago de mesadas"
+    },
+    {
+      "tema": "DERECHO AL MINIMO VITAL DEL PENSIONADO",
+      "subtema": "Procedencia excepcional de tutela para pago de mesadas"
+    },
+    {
+      "tema": "MINIMO VITAL",
+      "subtema": "Concepto"
+    },
+    {
+      "tema": "DERECHO AL MINIMO VITAL DEL PENSIONADO",
+      "subtema": "Incumplimiento de Gobernación en suministro de recursos a fiduciaria para pago de mesadas"
+    },
+    {
+      "tema": "DERECHO AL MINIMO VITAL DEL PENSIONADO",
+      "subtema": "Pago de mesadas con dineros de venta de activos o con recursos propios o con cargo al anticipo de la ley 549 de 1999"
+    },
+    {
+      "tema": "EMPLEADOR",
+      "subtema": "Situación económica o presupuestal no es óbice para desconocer obligaciones laborales"
+    },
+    {
+      "tema": "FONDO NACIONAL DE PENSIONES DE ENTIDADES TERRITORIALES",
+      "subtema": "Pago de mesadas"
+    }
+  ]
+}

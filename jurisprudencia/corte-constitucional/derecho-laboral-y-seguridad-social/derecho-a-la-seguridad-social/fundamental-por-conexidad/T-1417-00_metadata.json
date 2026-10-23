@@ -1,0 +1,41 @@
+{
+  "radicado": "T-1417-00",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-10-19",
+  "magistrado_ponente": "Dr FABIO MORON DIAZ",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "DERECHO A LA SEGURIDAD SOCIAL",
+  "subtema": "Fundamental por conexidad",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 1296 de 1994",
+    "Ley 100 de 1993",
+    "Ley 30 de 1996",
+    "Ley 330 de 1996",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/T-1417-00.htm",
+  "fecha_descarga": "2026-10-23T02:41:05.996306+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-10-19",
+  "fecha_publicacion": "2000-01-12",
+  "numero": "T-1417/00",
+  "tipo_cc": "T",
+  "prov_id": "18027",
+  "tema_relatoria": "DERECHO A LA SEGURIDAD SOCIAL. CANCELACION DE MESADAS PENSIONALES. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA SEGURIDAD SOCIAL",
+      "subtema": "Fundamental por conexidad"
+    },
+    {
+      "tema": "DERECHO AL MINIMO VITAL DEL PENSIONADO",
+      "subtema": "Presunción de afectación por no pago oportuno de mesadas"
+    }
+  ]
+}

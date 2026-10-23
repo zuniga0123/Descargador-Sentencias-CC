@@ -1,0 +1,41 @@
+{
+  "radicado": "T-510-00",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-05-08",
+  "magistrado_ponente": "Dr ALVARO TAFUR GALVIS",
+  "area": "Derecho a la Salud",
+  "tema": "DERECHO A LA SALUD DE PERSONA DE LA TERCERA EDAD",
+  "subtema": "Reintegro sumas de dinero depositadas en certificado a término en cooperativa intervenida",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/T-510-00.htm",
+  "fecha_descarga": "2026-10-23T03:00:38.244467+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-05-08",
+  "fecha_publicacion": null,
+  "numero": "T-510/00",
+  "tipo_cc": "T",
+  "prov_id": "17076",
+  "tema_relatoria": "DERECHO A LA SALUD Y VIDA DE PERSONAS DE LA TERCERA EDAD. REINTEGRO DE DINEROS DEPOSITADOS EN BANCO DEL PACIFICO PARA SUFRAGAR ENFERMEDADES. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA SALUD DE PERSONA DE LA TERCERA EDAD",
+      "subtema": "Reintegro sumas de dinero depositadas en certificado a término en cooperativa intervenida"
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA ENTIDAD BANCARIA",
+      "subtema": "Procedencia por prestación de servicio público"
+    },
+    {
+      "tema": "PERSONA DE LA TERCERA EDAD",
+      "subtema": "Trato constitucional preferente"
+    }
+  ]
+}

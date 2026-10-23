@@ -1,0 +1,49 @@
+{
+  "radicado": "T-973-00",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-07-31",
+  "magistrado_ponente": "Dr ALEJANDRO MARTINEZ CABALLERO",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "DERECHO AL MINIMO VITAL DEL TRABAJADOR",
+  "subtema": "Pago oportuno de salarios",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 628 de 1999",
+    "Decreto 2591 de 1991",
+    "Ley 136 de 1994",
+    "Ley 42 de 1993",
+    "Ley 179 de 1994"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/T-973-00.htm",
+  "fecha_descarga": "2026-10-23T02:41:35.257912+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-07-31",
+  "fecha_publicacion": null,
+  "numero": "T-973/00",
+  "tipo_cc": "T",
+  "prov_id": "17567",
+  "tema_relatoria": "DERECHO AL TRABAJO. PAGO DE ACREENCIAS LABORALES. PROCEDENCIA EXCEPCIONAL DE LA TUTELA PARA EL PAGO DE SALARIOS. AUTONOMIA DE LOS ORGANOS DE CONTROL Y DEBER DE TRANSFERIR LOS RECURSOS PARA GARANTIZAR LA AUTONOMIA.CONCEDIDA",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO AL MINIMO VITAL DEL TRABAJADOR",
+      "subtema": "Pago oportuno de salarios"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Procedencia excepcional pago de salarios"
+    },
+    {
+      "tema": "ORGANOS DE CONTROL",
+      "subtema": "Autonomía"
+    },
+    {
+      "tema": "ORGANOS DE CONTROL",
+      "subtema": "Gestión presupuestal y distribución de partidas para pago oportuno de salarios"
+    }
+  ]
+}

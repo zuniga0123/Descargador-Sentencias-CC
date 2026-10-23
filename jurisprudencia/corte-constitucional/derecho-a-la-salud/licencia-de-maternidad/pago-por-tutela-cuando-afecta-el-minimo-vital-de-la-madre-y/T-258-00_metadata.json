@@ -1,0 +1,47 @@
+{
+  "radicado": "T-258-00",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-03-06",
+  "magistrado_ponente": "Dr JOSÉ GREGORIO HERNÁNDEZ GALINDO",
+  "area": "Derecho a la Salud",
+  "tema": "LICENCIA DE MATERNIDAD",
+  "subtema": "Pago por tutela cuando afecta el mínimo vital de la madre y su hijo",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 100 de 1993",
+    "Decreto 806 de 1998"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/T-258-00.htm",
+  "fecha_descarga": "2026-10-23T02:49:02.138823+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-03-06",
+  "fecha_publicacion": null,
+  "numero": "T-258/00",
+  "tipo_cc": "T",
+  "prov_id": "16800",
+  "tema_relatoria": "RECONOCIMIENTO Y PAGO DE LICENCIA DE MATERNIDAD A MADRE COMUNITARIA. MORA EN APORTES. LA TUTELA NO DEBIO DIRIGIRSE CONTRA LA E.P.S. DEL SEGURO SOCIAL SINO CONTRA EL EMPLEADOR. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "LICENCIA DE MATERNIDAD",
+      "subtema": "Pago por tutela cuando afecta el mínimo vital de la madre y su hijo"
+    },
+    {
+      "tema": "FALTA DE LEGITIMACION POR PASIVA EN TUTELA",
+      "subtema": "Aplicación"
+    },
+    {
+      "tema": "DERECHO A LA VIDA DIGNA",
+      "subtema": "Pago oportuno de licencia de maternidad"
+    },
+    {
+      "tema": "LICENCIA DE MATERNIDAD",
+      "subtema": "Asunción de patrono por mora en aportes a EPS"
+    }
+  ]
+}

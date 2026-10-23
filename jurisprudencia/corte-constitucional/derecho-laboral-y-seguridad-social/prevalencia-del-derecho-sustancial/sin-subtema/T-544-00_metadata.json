@@ -1,0 +1,46 @@
+{
+  "radicado": "T-544-00",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-05-15",
+  "magistrado_ponente": "Dr JOSÉ GREGORIO HERNÁNDEZ GALINDO",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "PREVALENCIA DEL DERECHO SUSTANCIAL",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/T-544-00.htm",
+  "fecha_descarga": "2026-10-23T02:40:08.787173+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-05-15",
+  "fecha_publicacion": "2000-06-15",
+  "numero": "T-544/00",
+  "tipo_cc": "T",
+  "prov_id": "17117",
+  "tema_relatoria": "DE. A LA SEGURIDAD SOCIAL. OBLIGACION DEL PATRONO DE AFILIAR A SUS TRABAJADORES A UNA ENTIDAD DE SEGURIDAD SOCIAL. OMISION DEL TRABAJADOR EN ALLEGAR DOCUMENTOS. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "PREVALENCIA DEL DERECHO SUSTANCIAL",
+      "subtema": null
+    },
+    {
+      "tema": "EMPLEADOR",
+      "subtema": "Asunción de responsabilidad por mora en aportes a seguridad social"
+    },
+    {
+      "tema": "DERECHO A LA SEGURIDAD SOCIAL",
+      "subtema": "Obligación de afiliar al trabajador"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Informalidad"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "radicado": "T-1016-00",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-08-09",
+  "magistrado_ponente": "Dr ALEJANDRO MARTINEZ CABALLERO",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "MINISTERIO DE RELACIONES EXTERIORES",
+  "subtema": "Remisión de dato equivocado para liquidar pensión de jubilación de exembajador",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 100 de 1993"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/T-1016-00.htm",
+  "fecha_descarga": "2026-10-23T02:58:29.006031+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-08-09",
+  "fecha_publicacion": null,
+  "numero": "T-1016/00",
+  "tipo_cc": "T",
+  "prov_id": "17604",
+  "tema_relatoria": "DERECHO A LA IGUALDAD PENSION DE VEJEZ MINIMO VITAL Y SEGURIDAD SOCIAL. NO COTIZAR LO DEBIDO NO AFECTA EL MONTO LEGAL DE LA PENSION. LIQUIDACION CORRECTA DE LA PENSION. DE EMBAJADOR EXTRAORDINARIO Y PLENIPOTENCIARIO. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "MINISTERIO DE RELACIONES EXTERIORES",
+      "subtema": "Remisión de dato equivocado para liquidar pensión de jubilación de exembajador"
+    },
+    {
+      "tema": "PENSION DE JUBILACION",
+      "subtema": "Liquidación con base en el salario realmente devengado por el trabajador"
+    },
+    {
+      "tema": "MINISTERIO DE RELACIONES EXTERIORES",
+      "subtema": "Vulneración de derechos fundamentales"
+    },
+    {
+      "tema": "DERECHO ADQUIRIDO A LA PENSION DE VEJEZ",
+      "subtema": "Cumplimiento de requisitos legales"
+    },
+    {
+      "tema": "DERECHO A LA SEGURIDAD SOCIAL",
+      "subtema": "No discriminación en pensiones"
+    },
+    {
+      "tema": "PENSION DE VEJEZ",
+      "subtema": "No aporte completo por el patrono no afecta monto legal de la pensión"
+    },
+    {
+      "tema": "DERECHO A LA PENSIÓN",
+      "subtema": "Incluye principios constitucionales laborales y de seguridad social"
+    }
+  ]
+}

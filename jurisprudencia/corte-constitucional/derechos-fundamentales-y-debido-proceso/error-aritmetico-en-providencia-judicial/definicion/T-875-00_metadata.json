@@ -1,0 +1,57 @@
+{
+  "radicado": "T-875-00",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-07-11",
+  "magistrado_ponente": "Dr EDUARDO CIFUENTES MUÑOZ",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ERROR ARITMETICO EN PROVIDENCIA JUDICIAL",
+  "subtema": "Definición",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/T-875-00.htm",
+  "fecha_descarga": "2026-10-23T02:45:20.416120+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-07-11",
+  "fecha_publicacion": null,
+  "numero": "T-875/00",
+  "tipo_cc": "T",
+  "prov_id": "17470",
+  "tema_relatoria": "DEBIDO PROCESO. ACCESO A LA ADMINISTRACION DE JUSTICIA. EXCEPCION DE NULIDAD EN PROCESO EJECUTIVO LABORAL. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ERROR ARITMETICO EN PROVIDENCIA JUDICIAL",
+      "subtema": "Definición"
+    },
+    {
+      "tema": "AUTO DE CORRECCION DE PROVIDENCIA EN JURISDICCION CONTENCIOSO ADMINISTRATIVA",
+      "subtema": "Improcedencia de recurso"
+    },
+    {
+      "tema": "INCIDENTE DE NULIDAD ANTE JURISDICCION CONTENCIOSO ADMINISTRATIVA",
+      "subtema": "Viabilidad"
+    },
+    {
+      "tema": "ERROR ARITMETICO EN PROVIDENCIA JUDICIAL",
+      "subtema": "Corrección"
+    },
+    {
+      "tema": "EXCEPCION DE NULIDAD EN EL PROCESO EJECUTIVO LABORAL",
+      "subtema": "Viabilidad"
+    },
+    {
+      "tema": "FUNCIONARIO JUDICIAL",
+      "subtema": "Interpretación razonable no constituye vía de hecho"
+    },
+    {
+      "tema": "JURISDICCION CONTENCIOSO ADMINISTRATIVA",
+      "subtema": "Competencia para definir conflicto de norma"
+    }
+  ]
+}

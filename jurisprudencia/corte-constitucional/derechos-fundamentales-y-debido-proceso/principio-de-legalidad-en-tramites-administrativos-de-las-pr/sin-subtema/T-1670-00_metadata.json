@@ -1,0 +1,57 @@
+{
+  "radicado": "T-1670-00",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-12-05",
+  "magistrado_ponente": "Dr CARLOS GAVIRIA DÍAZ",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "PRINCIPIO DE LEGALIDAD EN TRAMITES ADMINISTRATIVOS DE LAS PRISIONES",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/T-1670-00.htm",
+  "fecha_descarga": "2026-10-23T02:53:52.743712+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-12-05",
+  "fecha_publicacion": null,
+  "numero": "T-1670/00",
+  "tipo_cc": "T",
+  "prov_id": "18337",
+  "tema_relatoria": "DEBIDO PROCESO. PRINCIPIO DE LEGALIDAD EN EL OTORGAMIENTO DE BENEFICIOS ADMINISTRATIVOS. INTERNO QUE SOLICITA LIBERTAD PREPARATORIA. TRATAMIENTO PENITENCIARIO. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "PRINCIPIO DE LEGALIDAD EN TRAMITES ADMINISTRATIVOS DE LAS PRISIONES",
+      "subtema": null
+    },
+    {
+      "tema": "SISTEMA PENITENCIARIO",
+      "subtema": "Ejecución de la sanción penal"
+    },
+    {
+      "tema": "TRATAMIENTO PENITENCIARIO Y CONCESION DE BENEFICIOS ADMINISTRATIVOS",
+      "subtema": null
+    },
+    {
+      "tema": "LIBERTAD PREPARATORIA",
+      "subtema": "Finalidad"
+    },
+    {
+      "tema": "DEBIDO PROCESO",
+      "subtema": "Procedimientos internos de los penales"
+    },
+    {
+      "tema": "VIA DE HECHO",
+      "subtema": "Trámite irregular en tratamiento penitenciario"
+    },
+    {
+      "tema": "TRATAMIENTO PENITENCIARIO",
+      "subtema": "Objetivo"
+    }
+  ]
+}

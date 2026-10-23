@@ -1,0 +1,51 @@
+{
+  "radicado": "T-1041-00",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-08-09",
+  "magistrado_ponente": "Dr ALVARO TAFUR GALVIS",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "DERECHO AL MINIMO VITAL DEL TRABAJADOR",
+  "subtema": "Pago de salarios atrasados",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 60 de 1993",
+    "Decreto 2591 de 1991",
+    "Ley 80 de 1993"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/T-1041-00.htm",
+  "fecha_descarga": "2026-10-23T02:56:51.761933+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-08-09",
+  "fecha_publicacion": null,
+  "numero": "T-1041/00",
+  "tipo_cc": "T",
+  "prov_id": "17627",
+  "tema_relatoria": "DERECHO A UNA VIDA DIGNA A LA SUBSISTENCIA A LA FAMILIA AL TRABAJO Y AL MINIMO VITAL DE PERSONAL DOCENTE. PAGO DE ACREENCIAS LABORALES. CONCEDIDA PARCIALMENTE.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO AL MINIMO VITAL DEL TRABAJADOR",
+      "subtema": "Pago de salarios atrasados"
+    },
+    {
+      "tema": "PERSONAL DOCENTE",
+      "subtema": "Pago de salarios"
+    },
+    {
+      "tema": "CONTRATO DE TRABAJO Y CONTRATO DE PRESTACION DE SERVICIOS",
+      "subtema": "Diferencias"
+    },
+    {
+      "tema": "PRINCIPIO DE PRIMACIA DE LA REALIDAD SOBRE FORMALIDADES ESTABLECIDAS POR SUJETOS DE RELACIONES CONTRACTUALES",
+      "subtema": null
+    },
+    {
+      "tema": "DERECHO AL TRABAJO",
+      "subtema": "Fundamental"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "radicado": "T-1368-00",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-10-10",
+  "magistrado_ponente": "Dra CRISTINA PARDO SCHLESINGER",
+  "area": "Derecho a la Salud",
+  "tema": "ENTIDAD PROMOTORA DE SALUD",
+  "subtema": "Afiliación de compañera permanente como beneficiaria",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Decreto 806 de 1998",
+    "Ley 100 de 1993",
+    "Decreto 47 de 2000"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/T-1368-00.htm",
+  "fecha_descarga": "2026-10-23T02:38:49.688071+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-10-10",
+  "fecha_publicacion": "2000-10-20",
+  "numero": "T-1368/00",
+  "tipo_cc": "T",
+  "prov_id": "17968",
+  "tema_relatoria": "DERECHO A LA SALUD. AFILIACION COMO BENEFICIARIA A COMPAÑERA PERMANENTE. AGENCIA OFICIOSA EN MATERIA DE TUTELA. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ENTIDAD PROMOTORA DE SALUD",
+      "subtema": "Afiliación de compañera permanente como beneficiaria"
+    },
+    {
+      "tema": "LEGITIMACION PARA ACTUAR EN TUTELA",
+      "subtema": null
+    },
+    {
+      "tema": "LEGITIMACIÓN POR ACTIVA EN TUTELA",
+      "subtema": "Compañero permanente de la afectada en salud"
+    }
+  ]
+}

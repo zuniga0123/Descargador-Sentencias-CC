@@ -1,0 +1,66 @@
+{
+  "radicado": "T-526-00",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-05-15",
+  "magistrado_ponente": "Dr FABIO MORON DIAZ",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+  "subtema": "Procedencia excepcional",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Decreto 2651 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/T-526-00.htm",
+  "fecha_descarga": "2026-10-23T03:01:06.684041+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-05-15",
+  "fecha_publicacion": null,
+  "numero": "T-526/00",
+  "tipo_cc": "T",
+  "prov_id": "17114",
+  "tema_relatoria": "DEBIDO PROCESO. VIA DE HECHO. ACUMULACION DE PRETENSIONES Y PROCESOS EN MATERIA CONTENCIOSO ADMINISTRATIVA. PAGO DE SALARIOS Y PRESTACIONES DE EMPLEADOS DE LA FISCALIA. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Procedencia excepcional"
+    },
+    {
+      "tema": "VIA DE HECHO",
+      "subtema": "Clases de defectos en la actuación"
+    },
+    {
+      "tema": "VIA DE HECHO",
+      "subtema": "No la constituye el simple error judicial"
+    },
+    {
+      "tema": "VIA DE HECHO",
+      "subtema": "Control formal restrictivo"
+    },
+    {
+      "tema": "AUTORIDAD PUBLICA",
+      "subtema": "Comisión de errores por acción u omisión"
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA SENTENCIAS",
+      "subtema": "Improcedencia"
+    },
+    {
+      "tema": "PROCESO ANTE JURISDICCION CONTENCIOSO ADMINISTRATIVA",
+      "subtema": "Aplicación de norma general al caso particular"
+    },
+    {
+      "tema": "VIA DE HECHO",
+      "subtema": "No se configura por existir sustento jurídico en el análisis de acumulación de pretensiones"
+    },
+    {
+      "tema": "VIA DE HECHO",
+      "subtema": "Alcance"
+    }
+  ]
+}

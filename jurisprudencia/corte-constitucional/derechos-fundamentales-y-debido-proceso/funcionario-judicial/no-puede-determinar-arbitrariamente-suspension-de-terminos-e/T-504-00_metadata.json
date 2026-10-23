@@ -1,0 +1,73 @@
+{
+  "radicado": "T-504-00",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-05-08",
+  "magistrado_ponente": "Dr ANTONIO BARRERA CARBONELL",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "FUNCIONARIO JUDICIAL",
+  "subtema": "No puede determinar arbitrariamente suspensión de términos en la Secretaría General",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 504 de 1999"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/T-504-00.htm",
+  "fecha_descarga": "2026-10-23T03:00:24.100796+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-05-08",
+  "fecha_publicacion": null,
+  "numero": "T-504/00",
+  "tipo_cc": "T",
+  "prov_id": "17070",
+  "tema_relatoria": "DEBIDO PROCESO. DERECHO A LA LIBERTAD. SUBSIDIARIEDAD DE LA ACCION DE TUTELA. SUSPENSION DE ORDEN DE CAPTURA. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "FUNCIONARIO JUDICIAL",
+      "subtema": "No puede determinar arbitrariamente suspensión de términos en la Secretaría General"
+    },
+    {
+      "tema": "JUEZ PENAL",
+      "subtema": "Sometimiento al imperio de la Constitución y la ley"
+    },
+    {
+      "tema": "SUSPENSION PROVISIONAL DE ACTO ADMINISTRATIVO",
+      "subtema": "Prevalencia de la tutela"
+    },
+    {
+      "tema": "SUSPENSION PROVISIONAL DE ACTO ADMINISTRATIVO",
+      "subtema": "Ajuste a preceptos constitucionales"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Procedencia excepcional"
+    },
+    {
+      "tema": "DEBIDO PROCESO",
+      "subtema": "Notificación de fallo al demandante"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Subsidiariedad"
+    },
+    {
+      "tema": "CASACION",
+      "subtema": "Fines"
+    },
+    {
+      "tema": "MEDIDAS DE ASEGURAMIENTO DE DETENCION SIN EXCARCELACION",
+      "subtema": "Procedencia de la captura"
+    },
+    {
+      "tema": "RECURSO DE CASACION PENAL",
+      "subtema": "Idoneidad para la protección de derechos fundamentales"
+    },
+    {
+      "tema": "SALA DE DECISION Y SECRETARIA GENERAL",
+      "subtema": "Rompimiento de actividades y coordinación"
+    }
+  ]
+}

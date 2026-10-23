@@ -1,0 +1,51 @@
+{
+  "radicado": "T-610-00",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-05-25",
+  "magistrado_ponente": "Dr CARLOS GAVIRIA DÍAZ",
+  "area": "Derecho a la Salud",
+  "tema": "ENTIDAD PROMOTORA DE SALUD",
+  "subtema": "Repetición por costo de cirugía y tratamiento",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Decreto 806 de 1998",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/T-610-00.htm",
+  "fecha_descarga": "2026-10-23T03:01:32.151274+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-05-25",
+  "fecha_publicacion": null,
+  "numero": "T-610/00",
+  "tipo_cc": "T",
+  "prov_id": "17194",
+  "tema_relatoria": "DERECHO A LA SALUD Y VIDA DE LOS NIÑOS. E.P.S. CRUZ BLANCA NO REALIZA CIRUGIA A MENOR POR NO TENER EL TOTAL DE SEMANAS COTIZADAS. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ENTIDAD PROMOTORA DE SALUD",
+      "subtema": "Repetición por costo de cirugía y tratamiento"
+    },
+    {
+      "tema": "PREVALENCIA DELOS DERECHOS DEL NIÑO",
+      "subtema": null
+    },
+    {
+      "tema": "INAPLICACION DE NORMAS",
+      "subtema": "Protección derechos constitucionales fundamentales de menores"
+    },
+    {
+      "tema": "ENTIDAD PROMOTORA DE SALUD",
+      "subtema": "Tratamiento de persona de escasos recursos sin cumplir periodo mínimo de cotización"
+    },
+    {
+      "tema": "DERECHO A LA SALUD DE NIÑOS, NIÑAS Y ADOLESCENTES",
+      "subtema": "Fundamental"
+    }
+  ]
+}

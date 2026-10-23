@@ -1,0 +1,41 @@
+{
+  "radicado": "T-811-00",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-06-30",
+  "magistrado_ponente": "Dr JOSÉ GREGORIO HERNÁNDEZ GALINDO",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "DERECHO A LA EDUCACION DEL NIÑO",
+  "subtema": "Prohibición de retiro en año lectivo y grados que la Constitución señala",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/T-811-00.htm",
+  "fecha_descarga": "2026-10-23T02:42:07.565525+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-06-30",
+  "fecha_publicacion": null,
+  "numero": "T-811/00",
+  "tipo_cc": "T",
+  "prov_id": "17408",
+  "tema_relatoria": "DERECHO A LA EDUCACION. COLEGIO NIEGA ENTRADA A CLASES DE ALUMNO POR ENCONTRARSE EN MORA EN PAGO DE PENSIONES. CARENCIA DE OBJETO POR RETIRO DE ALUMNO. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA EDUCACION DEL NIÑO",
+      "subtema": "Prohibición de retiro en año lectivo y grados que la Constitución señala"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Carencia actual de objeto"
+    },
+    {
+      "tema": "DERECHO A LA EDUCACION DEL NIÑO",
+      "subtema": "Prohibición de retiro de clases o retención de certificado de estudios por no pago de pensión"
+    }
+  ]
+}

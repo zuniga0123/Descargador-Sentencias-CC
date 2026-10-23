@@ -1,0 +1,41 @@
+{
+  "radicado": "T-719-00",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-06-16",
+  "magistrado_ponente": "Dr ALVARO TAFUR GALVIS",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "DERECHO A LA PENSION DE JUBILACION",
+  "subtema": "Situación económica de empresa no impide pago oportuno de mesadas",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 549 de 1999"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/T-719-00.htm",
+  "fecha_descarga": "2026-10-23T02:46:43.367079+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-06-16",
+  "fecha_publicacion": null,
+  "numero": "T-719/00",
+  "tipo_cc": "T",
+  "prov_id": "17304",
+  "tema_relatoria": "DERECHO AL MINIMO VITAL A LA SEGURIDAD SOCIAL Y A LA VIDA EN PERSONAS DE LA TERCERA EDAD. PAGO DE ACREENCIAS LABORALES. PRESTACION DE SERVICIOS MEDICOS. EPS. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA PENSION DE JUBILACION",
+      "subtema": "Situación económica de empresa no impide pago oportuno de mesadas"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Procedencia excepcional pago de acreencias laborales"
+    },
+    {
+      "tema": "DERECHO AL MINIMO VITAL DE PERSONA DE LA TERCERA EDAD",
+      "subtema": "Pago oportuno de mesadas pensionales"
+    }
+  ]
+}

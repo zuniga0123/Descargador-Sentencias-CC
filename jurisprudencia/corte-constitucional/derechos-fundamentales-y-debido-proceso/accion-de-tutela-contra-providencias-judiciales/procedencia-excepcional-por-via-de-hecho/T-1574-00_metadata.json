@@ -1,0 +1,49 @@
+{
+  "radicado": "T-1574-00",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-11-14",
+  "magistrado_ponente": "Dr FABIO MORON DIAZ",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+  "subtema": "Procedencia excepcional por vía de hecho",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/T-1574-00.htm",
+  "fecha_descarga": "2026-10-23T02:52:19.526512+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-11-14",
+  "fecha_publicacion": null,
+  "numero": "T-1574/00",
+  "tipo_cc": "T",
+  "prov_id": "18181",
+  "tema_relatoria": "DERECHO DE DEFENSA Y DEBIDO PROCESO. INCREMENTO DE LA PENA DE PRISION. PRINCIPIO DE LA NO REFORMATIO IN PEJUS. TUTELA CONTRA PROVIDENCIAS JUDICIALES. VIA DE HECHO. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Procedencia excepcional por vía de hecho"
+    },
+    {
+      "tema": "PRINCIPIO NO REFORMATIO IN PEJUS",
+      "subtema": "Existencia de recursos judiciales para hacerlo valer"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Improcedencia para el caso"
+    },
+    {
+      "tema": "CASACION",
+      "subtema": "Fines"
+    },
+    {
+      "tema": "RECURSO DE CASACION PENAL",
+      "subtema": "Idoneidad para la protección de derechos fundamentales"
+    }
+  ]
+}

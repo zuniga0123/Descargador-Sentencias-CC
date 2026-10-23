@@ -1,0 +1,41 @@
+{
+  "radicado": "T-319-00",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-03-21",
+  "magistrado_ponente": "Dr JOS GREGORIO HERNÁNDEZ GALINDO",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "INDEFENSION",
+  "subtema": "Retención de aportes de pensionados con destino a Asociación",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/T-319-00.htm",
+  "fecha_descarga": "2026-10-23T02:51:36.227351+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-03-21",
+  "fecha_publicacion": null,
+  "numero": "T-319/00",
+  "tipo_cc": "T",
+  "prov_id": "16866",
+  "tema_relatoria": "DERECHO DE ASOCIACION SINDICAL. RETENCION APORTES DE LOS PENSIONADOS CON DESTINO A LA ASOCIACION SINDICAL. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "INDEFENSION",
+      "subtema": "Retención de aportes de pensionados con destino a Asociación"
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA SOCIEDAD DE ECONOMIA MIXTA",
+      "subtema": "Procedencia"
+    },
+    {
+      "tema": "DERECHO DE ASOCIACION",
+      "subtema": "Traslado de aportes de pensionados"
+    }
+  ]
+}

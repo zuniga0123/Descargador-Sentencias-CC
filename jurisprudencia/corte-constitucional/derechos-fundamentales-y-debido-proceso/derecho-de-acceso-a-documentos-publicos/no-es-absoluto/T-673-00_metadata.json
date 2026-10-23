@@ -1,0 +1,51 @@
+{
+  "radicado": "T-673-00",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-06-09",
+  "magistrado_ponente": "Dr ALEJANDRO MARTÍNEZ CABALLERO",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "DERECHO DE ACCESO A DOCUMENTOS PUBLICOS",
+  "subtema": "No es absoluto",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 200 de 1995",
+    "Ley 57 de 1985"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/T-673-00.htm",
+  "fecha_descarga": "2026-10-23T02:40:01.425644+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-06-09",
+  "fecha_publicacion": "2000-07-21",
+  "numero": "T-673/00",
+  "tipo_cc": "T",
+  "prov_id": "17259",
+  "tema_relatoria": "DERECHO DE PETICION. SOLICITUD A SECRETARIO DE HACIENDA SOBRE GIROS DE CHEQUES. SE RESOLVIO LA PETICION. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO DE ACCESO A DOCUMENTOS PUBLICOS",
+      "subtema": "No es absoluto"
+    },
+    {
+      "tema": "DERECHOS DE PETICIÓN Y ACCESO A DOCUMENTOS PÚBLICOS",
+      "subtema": "Solicitud de copias"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Hecho superado"
+    },
+    {
+      "tema": "INDEMNIZACION DE PERJUICIOS",
+      "subtema": "Procedencia"
+    },
+    {
+      "tema": "SILENCIO ADMINISTRATIVO POSITIVO",
+      "subtema": "Solicitud de copia de documentos"
+    }
+  ]
+}

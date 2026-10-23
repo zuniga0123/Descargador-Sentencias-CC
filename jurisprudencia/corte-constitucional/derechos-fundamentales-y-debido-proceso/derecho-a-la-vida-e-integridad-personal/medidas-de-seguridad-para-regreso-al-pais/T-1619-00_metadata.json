@@ -1,0 +1,50 @@
+{
+  "radicado": "T-1619-00",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-12-05",
+  "magistrado_ponente": "Dr FABIO MORÓN DÍAZ",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "DERECHO A LA VIDA E INTEGRIDAD PERSONAL",
+  "subtema": "Medidas de seguridad para regreso al país",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 104 de 1993"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/T-1619-00.htm",
+  "fecha_descarga": "2026-10-23T02:49:55.812365+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-12-05",
+  "fecha_publicacion": null,
+  "numero": "T-1619/00",
+  "tipo_cc": "T",
+  "prov_id": "18326",
+  "tema_relatoria": "DERECHO A LA VIDA E INTEGRIDAD DE LA ACCIONADA Y SU FAMILIA. PROTECCION A INTERVINIENTES EN PROCESO PENAL ANTE LA FISCALIA GENERAL DE LA NACION. MEDIDAS DE SEGURIDAD NECESARIAS PARA EL REGRESO AL PAIS. SUSPENSION DESVINCULACION DEL CARGO DE CONSUL. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA VIDA E INTEGRIDAD PERSONAL",
+      "subtema": "Medidas de seguridad para regreso al país"
+    },
+    {
+      "tema": "PERJUICIO IRREMEDIABLE",
+      "subtema": "Evaluación cierta y no eventual"
+    },
+    {
+      "tema": "DEBER DE LAS AUTORIDADES",
+      "subtema": "Traslado al país de la actora y su núcleo familiar con todas las medidas de seguridad"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Improcedencia por inexistencia de amenaza o vulneración de derechos"
+    },
+    {
+      "tema": "DERECHO A LA VIDA DE PERSONA INCLUIDA EN EL PROGRAMA DE PROTECCION A VICTIMAS, TESTIGOS E INTERVINIENTES EN EL PROCESO PENAL",
+      "subtema": "Inexistencia de riesgo o amenaza actual"
+    }
+  ]
+}

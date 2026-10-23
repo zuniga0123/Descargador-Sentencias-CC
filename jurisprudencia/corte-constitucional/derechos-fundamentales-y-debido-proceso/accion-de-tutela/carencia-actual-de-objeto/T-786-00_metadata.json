@@ -1,0 +1,49 @@
+{
+  "radicado": "T-786-00",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-06-23",
+  "magistrado_ponente": "Dr ANTONIO BARRERA CARBONELL",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCIÓN DE TUTELA",
+  "subtema": "Carencia actual de objeto",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/T-786-00.htm",
+  "fecha_descarga": "2026-10-23T02:41:49.640811+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-06-23",
+  "fecha_publicacion": null,
+  "numero": "T-786/00",
+  "tipo_cc": "T",
+  "prov_id": "17378",
+  "tema_relatoria": "DERECHO AL TRABAJO. DEBIDO PROCESO. RETENCION DE TARJETAS DE OPERACION DE VEHICULOS DE SERVICIO PUBLICO. CARENCIA DE OBJETO. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Carencia actual de objeto"
+    },
+    {
+      "tema": "REVOCACION DE ACTO ADMINISTRATIVO",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "PREVENCION EN TUTELA",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "DEBIDO PROCESO",
+      "subtema": "Desconocimiento por retención y anulación ilegítima de tarjetas de operación"
+    },
+    {
+      "tema": "REVOCACION DIRECTA DE ACTO ADMINISTRATIVO PARTICULAR Y CONCRETO",
+      "subtema": "Circunstancias para la procedencia"
+    }
+  ]
+}

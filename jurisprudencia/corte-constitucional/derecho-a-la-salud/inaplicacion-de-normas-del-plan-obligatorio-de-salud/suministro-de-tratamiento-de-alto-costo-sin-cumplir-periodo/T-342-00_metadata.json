@@ -1,0 +1,39 @@
+{
+  "radicado": "T-342-00",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-03-27",
+  "magistrado_ponente": "Dr JOSÉ GREGORIO HERNÁNDEZ GALINDO",
+  "area": "Derecho a la Salud",
+  "tema": "INAPLICACION DE NORMAS DEL PLAN OBLIGATORIO DE SALUD",
+  "subtema": "Suministro de tratamiento de alto costo sin cumplir periodo mínimo de cotización en persona de escasos recursos",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Decreto 806 de 1998",
+    "Ley 100 de 1993"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/T-342-00.htm",
+  "fecha_descarga": "2026-10-23T02:54:32.030452+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-03-27",
+  "fecha_publicacion": null,
+  "numero": "T-342/00",
+  "tipo_cc": "T",
+  "prov_id": "16890",
+  "tema_relatoria": "DERECHO A LA VIDA Y SALUD. TRATAMIENTO CONTRA EL CANCER POR E.P.S. HECHO SUPERADO. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "INAPLICACION DE NORMAS DEL PLAN OBLIGATORIO DE SALUD",
+      "subtema": "Suministro de tratamiento de alto costo sin cumplir periodo mínimo de cotización en persona de escasos recursos"
+    },
+    {
+      "tema": "INSTITUCION PUBLICA DE SALUD",
+      "subtema": "Atención a pacientes que no han cotizado las semanas requeridas ni tienen recursos económicos para cubrir el ciento por ciento del tratamiento"
+    }
+  ]
+}

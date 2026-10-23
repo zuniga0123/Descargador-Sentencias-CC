@@ -1,0 +1,51 @@
+{
+  "radicado": "T-412-00",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-04-10",
+  "magistrado_ponente": "Dr EDUARDO CIFUENTES MUÑOZ",
+  "area": "Derecho de Familia y Derechos de Niños, Niñas y Adolescentes",
+  "tema": "VIA DE HECHO",
+  "subtema": "Inexistencia por rechazo de prueba",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 173 de 1994",
+    "Ley 12 de 1991",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/T-412-00.htm",
+  "fecha_descarga": "2026-10-23T02:59:08.603606+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-04-10",
+  "fecha_publicacion": null,
+  "numero": "T-412/00",
+  "tipo_cc": "T",
+  "prov_id": "16967",
+  "tema_relatoria": "VIA DE HECHO. DEBIDO PROCESO. PRIMACIA DEL INTERES SUPERIOR DEL MENOR. PADRE SE NIEGA A REGRESAR A SU HIJO MENOR A U.S.A. DONDE VIVE SU MADRE. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "VIA DE HECHO",
+      "subtema": "Inexistencia por rechazo de prueba"
+    },
+    {
+      "tema": "PROCESO DE RESTITUCION DE MENOR",
+      "subtema": "Firma de entrega"
+    },
+    {
+      "tema": "VIA DE HECHO",
+      "subtema": "Inexistencia en proceso de restitución de menor por no escucharlo directamente"
+    },
+    {
+      "tema": "INTERÉS SUPERIOR DE LOS NIÑOS, NIÑAS Y ADOLESCENTES",
+      "subtema": "Características"
+    },
+    {
+      "tema": "PRINCIPIO DEL INTERÉS SUPERIOR DEL MENOR",
+      "subtema": "Alcance"
+    }
+  ]
+}

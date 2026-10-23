@@ -1,0 +1,58 @@
+{
+  "radicado": "T-887-00",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-07-17",
+  "magistrado_ponente": "Dr ALEJANDRO MARTINEZ CABALLERO",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "NORMA CONSTITUCIONAL",
+  "subtema": "Respeto a la jerarquía normativa",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Decreto 1513 de 1998",
+    "Decreto 1748 de 1995",
+    "Decreto 1474 de 1997",
+    "Decreto 1296 de 1994",
+    "Ley 100 de 1993"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/T-887-00.htm",
+  "fecha_descarga": "2026-10-23T02:42:53.635574+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-07-17",
+  "fecha_publicacion": null,
+  "numero": "T-887/00",
+  "tipo_cc": "T",
+  "prov_id": "17484",
+  "tema_relatoria": "EMISION Y EXPEDICION DEL BONO PENSIONAL. ISS. VIA DE HECHO. DERECHO A LA IGUALDAD. SEGURIDAD SOCIAL Y A LA PENSION DE VEJEZ. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "NORMA CONSTITUCIONAL",
+      "subtema": "Respeto a la jerarquía normativa"
+    },
+    {
+      "tema": "BONO PENSIONAL",
+      "subtema": "Procedencia de tutela para reclamar la remisión"
+    },
+    {
+      "tema": "BONO PENSIONAL",
+      "subtema": "Expedición y emisión"
+    },
+    {
+      "tema": "DERECHO A LA SEGURIDAD SOCIAL EN PENSIONES",
+      "subtema": "Respeto a los principios constitucionales"
+    },
+    {
+      "tema": "DERECHO A LA PENSION DE VEJEZ",
+      "subtema": "Fundamental"
+    },
+    {
+      "tema": "VIA DE HECHO",
+      "subtema": "Se niega pensión por demora en emisión del bono"
+    }
+  ]
+}

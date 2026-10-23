@@ -1,0 +1,41 @@
+{
+  "radicado": "T-1151-00",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-08-30",
+  "magistrado_ponente": "Dr JOSÉ GREGORIO HERNÁNDEZ GALINDO",
+  "area": "Derecho a la Salud",
+  "tema": "DERECHO A LA SALUD",
+  "subtema": "Fundamental por conexidad con la vida",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/T-1151-00.htm",
+  "fecha_descarga": "2026-10-23T02:39:11.377986+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-08-30",
+  "fecha_publicacion": "2000-10-05",
+  "numero": "T-1151/00",
+  "tipo_cc": "T",
+  "prov_id": "17744",
+  "tema_relatoria": "DERECHO A LA SALUD. A LA VIDA Y A LA INTEGRIDAD FISICA DE PERSONA DE LA TERCERA EDAD. SUMINISTRO DE OXIGENO A PERSONA AFILIADA AL POS Y CONSIDERADA ENFERMA TERMINAL EN SU CONDICION DE BENEFICIARIA. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Fundamental por conexidad con la vida"
+    },
+    {
+      "tema": "DERECHO A LA SALUD DE PERSONA DE LA TERCERA EDAD",
+      "subtema": "No suministro de oxígeno"
+    },
+    {
+      "tema": "SEGURO SOCIAL",
+      "subtema": "No suministro de oxígeno"
+    }
+  ]
+}

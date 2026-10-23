@@ -1,0 +1,68 @@
+{
+  "radicado": "T-447-00",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-04-27",
+  "magistrado_ponente": "Dr CARLOS GAVIRIA DÍAZ",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCIÓN DE TUTELA",
+  "subtema": "Improcedencia sobre impugnación de normas que establecen impuestos",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 383 de 1997",
+    "Decreto 663 de 1989",
+    "Ley 6 de 1992",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/T-447-00.htm",
+  "fecha_descarga": "2026-10-23T02:59:48.438934+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-04-27",
+  "fecha_publicacion": null,
+  "numero": "T-447/00",
+  "tipo_cc": "T",
+  "prov_id": "17005",
+  "tema_relatoria": "DEBIDO PROCESO EN LA JURISDICCION COACTIVA. EMBARGO DE BIENES EN LOS PROCESO DE JURISDICCION COACTIVA. TUTELA TRANSITORIA. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Improcedencia sobre impugnación de normas que establecen impuestos"
+    },
+    {
+      "tema": "CAUCION",
+      "subtema": "Naturaleza"
+    },
+    {
+      "tema": "PROCESO DE JURISDICCION COACTIVA",
+      "subtema": "Naturaleza"
+    },
+    {
+      "tema": "PERSONA JURIDICA",
+      "subtema": "Titularidad de derechos fundamentales"
+    },
+    {
+      "tema": "ARBITRARIEDAD ADMINISTRATIVA",
+      "subtema": null
+    },
+    {
+      "tema": "MEDIO DE DEFENSA JUDICIAL",
+      "subtema": "Legalidad de la liquidación de impuesto"
+    },
+    {
+      "tema": "PRINCIPIO DE RAZONABILIDAD",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "DEBIDO PROCESO EN JURISDICCION COACTIVA",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "PROCESO DE JURISDICCION COACTIVA",
+      "subtema": "Caución para desembargo de bienes"
+    }
+  ]
+}

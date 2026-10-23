@@ -1,0 +1,51 @@
+{
+  "radicado": "T-337-00",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-03-23",
+  "magistrado_ponente": "Dr ALFREDO BELTRAN SIERRA",
+  "area": "Derecho a la Salud",
+  "tema": "EMPRESA SOLIDARIA DE SALUD",
+  "subtema": "Transporte de pacientes",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/T-337-00.htm",
+  "fecha_descarga": "2026-10-23T02:51:47.389233+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-03-23",
+  "fecha_publicacion": null,
+  "numero": "T-337/00",
+  "tipo_cc": "T",
+  "prov_id": "16885",
+  "tema_relatoria": "TUTELA CONTRA COPESALUD. ERROR MEDICO EN CIRUGIA DE HISTERECTOMIA. INCONTINENCIA URINARIA. ACUERDO 72/97 DEL MINISTERIO DE SALUD. ENTREGA DE MEDICAMENTOS. CONCEDIDA PARCIALMENTE.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "EMPRESA SOLIDARIA DE SALUD",
+      "subtema": "Transporte de pacientes"
+    },
+    {
+      "tema": "PLAN OBLIGATORIO DE SALUD SUBSIDIADO",
+      "subtema": "Complementación de los servicios a cargo de los recursos del subsidio a la oferta"
+    },
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Suministro de medicamentos"
+    },
+    {
+      "tema": "INSTITUCION PUBLICA DE SALUD",
+      "subtema": "Entidad a cargo de nueva cirugía"
+    },
+    {
+      "tema": "MEDIO DE DEFENSA JUDICIAL",
+      "subtema": "Responsabilidad por accidente en intervención quirúrgica"
+    },
+    {
+      "tema": "PLAN OBLIGATORIO DE SALUD SUBSIDIADO",
+      "subtema": "Servicios no incluidos, beneficiarios tendrán prioridad para atención por instituciones públicas o privadas con las que el Estado tenga contrato"
+    }
+  ]
+}

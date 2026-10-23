@@ -1,0 +1,46 @@
+{
+  "radicado": "T-1612-00",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-11-21",
+  "magistrado_ponente": "Dr FABIO MORON DIAZ",
+  "area": "Derecho a la Salud",
+  "tema": "ENTIDAD PROMOTORA DE SALUD",
+  "subtema": "Repetición contra el FOSYGA",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Decreto 1292 de 1994"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/T-1612-00.htm",
+  "fecha_descarga": "2026-10-23T02:49:52.073352+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-11-21",
+  "fecha_publicacion": null,
+  "numero": "T-1612/00",
+  "tipo_cc": "T",
+  "prov_id": "18250",
+  "tema_relatoria": "DERECHO A LA SALUD DE MENOR DE EDAD. SOLICITUD ZAPATOS ORTOPEDICOS NO INCLUIDOS EN EL POS. PROTECCION ESPECIAL DE LOS DERECHOS DE LOS NIÑOS. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ENTIDAD PROMOTORA DE SALUD",
+      "subtema": "Repetición contra el FOSYGA"
+    },
+    {
+      "tema": "INAPLICACION DE NORMAS DEL PLAN OBLIGATORIO DE SALUD",
+      "subtema": "Exclusión de tratamientos y medicamentos"
+    },
+    {
+      "tema": "DERECHOS FUNDAMENTALES DEL NIÑO",
+      "subtema": "Fundamental"
+    },
+    {
+      "tema": "DERECHO A LA SALUD DE NIÑOS, NIÑAS Y ADOLESCENTES",
+      "subtema": "Suministro de zapatos ortopédicos"
+    }
+  ]
+}

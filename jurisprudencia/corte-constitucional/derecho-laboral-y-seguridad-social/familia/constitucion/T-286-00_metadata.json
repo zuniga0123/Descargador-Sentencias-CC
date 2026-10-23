@@ -1,0 +1,64 @@
+{
+  "radicado": "T-286-00",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-03-13",
+  "magistrado_ponente": "Dr JOSÉ GREGORIO HERNÁNDEZ GALINDO",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "FAMILIA",
+  "subtema": "Constitución",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Decreto 224 de 1972",
+    "Decreto 3135 de 1968",
+    "Decreto 1848 de 1969"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/T-286-00.htm",
+  "fecha_descarga": "2026-10-23T02:51:04.318711+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-03-13",
+  "fecha_publicacion": null,
+  "numero": "T-286/00",
+  "tipo_cc": "T",
+  "prov_id": "16833",
+  "tema_relatoria": "DERECHO A LA DIGNIDAD HUMANA E IGUALDAD. COMPAÑERA PERMANENTE DE DOCENTE FALLECIDO A QUIEN NO LE RECONOCEN LA PENSION DE SOBREVIVIENTE. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "FAMILIA",
+      "subtema": "Constitución"
+    },
+    {
+      "tema": "MEDIO DE DEFENSA JUDICIAL INEFICAZ",
+      "subtema": "Demora"
+    },
+    {
+      "tema": "PERJUICIO IRREMEDIABLE",
+      "subtema": "Procedencia transitoria de tutela"
+    },
+    {
+      "tema": "ACCION DE TUTELA TRANSITORIA DEL DERECHO A LA PENSION POST MORTEM Y SEGURO POR MUERTE",
+      "subtema": "Reconocimiento a compañera permanente"
+    },
+    {
+      "tema": "MEDIO DE DEFENSA JUDICIAL INEFICAZ",
+      "subtema": "Procedencia de tutela"
+    },
+    {
+      "tema": "DERECHO A LA IGUALDAD DE LA FAMILIA",
+      "subtema": "Matrimonio y unión libre"
+    },
+    {
+      "tema": "DERECHO A LA IGUALDAD DE LA FAMILIA",
+      "subtema": "Discriminación entre cónyuge y compañera permanente"
+    },
+    {
+      "tema": "PENSION POSTMORTEN Y SEGURO DE MUERTE",
+      "subtema": "Negativa de reconocimiento por no tener calidad de cónyuge la compañera permanente"
+    }
+  ]
+}

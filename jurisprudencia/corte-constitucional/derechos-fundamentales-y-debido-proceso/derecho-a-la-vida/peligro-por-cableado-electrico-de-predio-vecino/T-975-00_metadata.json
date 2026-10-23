@@ -1,0 +1,49 @@
+{
+  "radicado": "T-975-00",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-07-31",
+  "magistrado_ponente": "Dr ALEJANDRO MARTINEZ CABALLERO",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "DERECHO A LA VIDA",
+  "subtema": "Peligro por cableado eléctrico de predio vecino",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/T-975-00.htm",
+  "fecha_descarga": "2026-10-23T02:41:38.857943+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-07-31",
+  "fecha_publicacion": null,
+  "numero": "T-975/00",
+  "tipo_cc": "T",
+  "prov_id": "17569",
+  "tema_relatoria": "DERECHO A LA VIDA A LA SALUD Y A GOZAR DE UN MEDIO AMBIENTE SANO. LOS MALOS OLORES Y SU RELACION CON EL DERECHO A LA VIDA Y A LA SALUD.SERVIDUMBRE DE ENERGIA. CONCEDIDA PARCIALMENTE.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA VIDA",
+      "subtema": "Peligro por cableado eléctrico de predio vecino"
+    },
+    {
+      "tema": "DERECHOS COLECTIVOS",
+      "subtema": "Fundamentales por conexidad"
+    },
+    {
+      "tema": "DERECHO AL AMBIENTE SANO",
+      "subtema": "Porqueriza limpia y sin contaminación"
+    },
+    {
+      "tema": "DERECHO AL AMBIENTE SANO",
+      "subtema": "Vulneración por malos olores"
+    },
+    {
+      "tema": "DERECHO A LA INTIMIDAD PERSONAL Y FAMILIAR",
+      "subtema": "Emanaciones de mal olor"
+    }
+  ]
+}

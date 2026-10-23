@@ -1,0 +1,54 @@
+{
+  "radicado": "T-107-00",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-02-08",
+  "magistrado_ponente": "Dr ANTONIO BARRERA CARBONELL",
+  "area": "Derecho a la Salud",
+  "tema": "MEDIO DE DEFENSA JUDICIAL",
+  "subtema": "Eventuales prestaciones de quien adquirió incapacidad al prestar servicio militar",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2728 de 1968",
+    "Decreto 94 de 1989"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/T-107-00.htm",
+  "fecha_descarga": "2026-10-23T02:57:17.182488+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-02-08",
+  "fecha_publicacion": null,
+  "numero": "T-107/00",
+  "tipo_cc": "T",
+  "prov_id": "16633",
+  "tema_relatoria": "SERVICIO MILITAR. LESIONES ADQUIRIDAS CUANDO SE ENCONTRABA PRESTANDOLO. PROBLEMAS DE RODILLA Y COLUMNA. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "MEDIO DE DEFENSA JUDICIAL",
+      "subtema": "Eventuales prestaciones de quien adquirió incapacidad al prestar servicio militar"
+    },
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Continuidad en atención médica por adquirir incapacidad durante servicio militar"
+    },
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Protección de quien prestó servicio militar al encontrarse en circunstancia de debilidad manifiesta"
+    },
+    {
+      "tema": "ESTADO",
+      "subtema": "Responsabilidad sobre jóvenes reclutados"
+    },
+    {
+      "tema": "SERVICIO MILITAR",
+      "subtema": "Responsabilidad del estado en atención de salud"
+    },
+    {
+      "tema": "SERVICIO MILITAR",
+      "subtema": "Atención médica de quien adquiere enfermedad durante su prestación"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "radicado": "T-835-00",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-07-05",
+  "magistrado_ponente": "Dr ALEJANDRO MARTÍNEZ CABALLERO",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "CARGA DE LA PRUEBA",
+  "subtema": "Corresponde a quien alega la vulneración o amenaza",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 50 de 1990",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/T-835-00.htm",
+  "fecha_descarga": "2026-10-23T02:45:34.685671+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-07-05",
+  "fecha_publicacion": null,
+  "numero": "T-835/00",
+  "tipo_cc": "T",
+  "prov_id": "17432",
+  "tema_relatoria": "DERECHO A LA IGUALDAD Y TRABAJO. DISCRIMINACION SALARIAL Y PAGO DE ACREENCIAS LABORALES. CARGA DE LA PRUEBA. AUSENCIA DE PRUEBA EN LA SOLICITUD. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "CARGA DE LA PRUEBA",
+      "subtema": "Corresponde a quien alega la vulneración o amenaza"
+    },
+    {
+      "tema": "CARGA DE LA PRUEBA EN MATERIA DE TUTELA",
+      "subtema": "Corresponde a quien instaure la acción"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Improcedencia general para reclamar pago de acreencias laborales"
+    },
+    {
+      "tema": "TRATAMIENTO DIFERENCIADO",
+      "subtema": "Justificación objetiva y razonable"
+    }
+  ]
+}

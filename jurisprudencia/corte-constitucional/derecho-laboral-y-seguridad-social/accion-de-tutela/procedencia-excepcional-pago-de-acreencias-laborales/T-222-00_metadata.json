@@ -1,0 +1,65 @@
+{
+  "radicado": "T-222-00",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-03-02",
+  "magistrado_ponente": "Dr JOSÉ GREGORIO HERNÁNDEZ GALINDO",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "ACCIÓN DE TUTELA",
+  "subtema": "Procedencia excepcional pago de acreencias laborales",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/T-222-00.htm",
+  "fecha_descarga": "2026-10-23T02:48:08.787529+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-03-02",
+  "fecha_publicacion": null,
+  "numero": "T-222/00",
+  "tipo_cc": "T",
+  "prov_id": "16764",
+  "tema_relatoria": "DERECHO AL TRABAJO Y MINIMO VITAL. MORA EN EL PAGO DE SALARIOS. MORA EN APORTES A SEGURIDAD SOCIAL. FUNDICIONES INDUSTRIALES JIMHER LTDA. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Procedencia excepcional pago de acreencias laborales"
+    },
+    {
+      "tema": "DERECHO AL MINIMO VITAL DEL TRABAJADOR",
+      "subtema": "Pequeños ingresos no son suficientes para garantizar sostenimiento"
+    },
+    {
+      "tema": "SALARIO",
+      "subtema": "Pago oportuno con independencia de lo recibido por otro miembro de la familia"
+    },
+    {
+      "tema": "SALARIO",
+      "subtema": "Consecuencia directa de trabajo"
+    },
+    {
+      "tema": "DERECHO AL MINIMO VITAL DEL TRABAJADOR",
+      "subtema": "Pago oportuno de salarios"
+    },
+    {
+      "tema": "DERECHO AL PAGO OPORTUNO DEL SALARIO",
+      "subtema": "Fundamental"
+    },
+    {
+      "tema": "MEDIO DE DEFENSA JUDICIAL INEFICAZ",
+      "subtema": "Pago oportuno de salarios"
+    },
+    {
+      "tema": "EMPLEADOR",
+      "subtema": "Situación económica o presupuestal no es óbice para desconocer obligaciones laborales"
+    },
+    {
+      "tema": "FISCALÍA GENERAL DE LA NACIÓN",
+      "subtema": "No traslado de aportes para seguridad social por empleador"
+    }
+  ]
+}

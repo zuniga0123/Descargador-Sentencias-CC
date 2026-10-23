@@ -1,0 +1,48 @@
+{
+  "radicado": "T-1525-00",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-11-09",
+  "magistrado_ponente": "Dr ALEJANDRO MARTÍNEZ CABALLERO",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "ACCION DE TUTELA TRANSITORIA",
+  "subtema": "Improcedencia incremento salarial para servidores públicos",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 4 de 1992",
+    "Decreto 182 de 2000",
+    "Decreto 111 de 1996",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/T-1525-00.htm",
+  "fecha_descarga": "2026-10-23T02:41:13.368065+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-11-09",
+  "fecha_publicacion": "1999-11-28",
+  "numero": "T-1525/00",
+  "tipo_cc": "T",
+  "prov_id": "18165",
+  "tema_relatoria": "DERECHO AL TRABAJO. INCREMENTO SALARIAL A SERVIDORES PUBLICOS. MODIFICACION DE LA POLITICA FISCAL DEL GOBIERNO. CONCEDIDA",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCION DE TUTELA TRANSITORIA",
+      "subtema": "Improcedencia incremento salarial para servidores públicos"
+    },
+    {
+      "tema": "JUEZ DE TUTELA",
+      "subtema": "Imposibilidad de modificar presupuesto para incremento salarial de servidores públicos"
+    },
+    {
+      "tema": "JUEZ CONSTITUCIONAL",
+      "subtema": "Improcedencia para sustituir a las autoridades en las competencias asignadas por la Constitución Política"
+    },
+    {
+      "tema": "GOBIERNO",
+      "subtema": "Formulación anual del presupuesto y ley de apropiaciones"
+    }
+  ]
+}

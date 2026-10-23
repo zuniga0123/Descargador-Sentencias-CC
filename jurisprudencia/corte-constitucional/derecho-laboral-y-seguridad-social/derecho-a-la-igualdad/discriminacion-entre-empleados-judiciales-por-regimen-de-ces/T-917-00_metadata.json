@@ -1,0 +1,53 @@
+{
+  "radicado": "T-917-00",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-07-17",
+  "magistrado_ponente": "Dr ALEJANDRO MARTÍNEZ CABALLERO",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "DERECHO A LA IGUALDAD",
+  "subtema": "Discriminación entre empleados judiciales por régimen de cesantías parciales",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/T-917-00.htm",
+  "fecha_descarga": "2026-10-23T02:43:53.817637+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-07-17",
+  "fecha_publicacion": null,
+  "numero": "T-917/00",
+  "tipo_cc": "T",
+  "prov_id": "17510",
+  "tema_relatoria": "DERECHO A LA IGUALDAD. PAGO DE ACREENCIAS LABORALES A PERSONAS BAJO EL ANTIGUO REGIMEN DE CESANTIAS. MORA EN EL PAGO DE CESANTIAS PARCIALES. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA IGUALDAD",
+      "subtema": "Discriminación entre empleados judiciales por régimen de cesantías parciales"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Procedencia excepcional pago de acreencias laborales"
+    },
+    {
+      "tema": "INDEXACION DE CESANTIAS PARCIALES",
+      "subtema": "Trabajadores de la Rama Judicial"
+    },
+    {
+      "tema": "DERECHO A LA IGUALDAD EN REGIMEN DE CESANTIAS PARCIALES",
+      "subtema": "Cambio de legislación"
+    },
+    {
+      "tema": "INDEXACION",
+      "subtema": "Actualización monetaria que la administración adeuda"
+    },
+    {
+      "tema": "REGIMEN DE CESANTIAS PARCIALES",
+      "subtema": "Cambio de legislación no justifica trato diferencial"
+    }
+  ]
+}

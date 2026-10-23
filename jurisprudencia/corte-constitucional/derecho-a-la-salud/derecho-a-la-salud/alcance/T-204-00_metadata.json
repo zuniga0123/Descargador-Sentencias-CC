@@ -1,0 +1,57 @@
+{
+  "radicado": "T-204-00",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-02-28",
+  "magistrado_ponente": "Dr FABIO MORON DIAZ",
+  "area": "Derecho a la Salud",
+  "tema": "DERECHO A LA SALUD",
+  "subtema": "Alcance",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/T-204-00.htm",
+  "fecha_descarga": "2026-10-23T02:47:47.533358+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-02-28",
+  "fecha_publicacion": null,
+  "numero": "T-204/00",
+  "tipo_cc": "T",
+  "prov_id": "16743",
+  "tema_relatoria": "TUTELA CONTRA LA ARP DEL ISS. DERECHO A LA SALUD EN CONEXIDAD CON LA VIDA. CIRUGIA ESTETICA EN LA MANO POR ACCIDENTE LABORAL. FALTA DE LEGITIMACION POR PASIVA. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "SISTEMA DE ACCIDENTE DE TRABAJO Y ENFERMEDADES PROFESIONALES",
+      "subtema": "Corresponde a la EPS de la afiliación prestar la atención para luego solicitar reembolso de costos a la ARP"
+    },
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Fundamental por conexidad"
+    },
+    {
+      "tema": "ENTIDAD PROMOTORA DE SALUD",
+      "subtema": "Prestación de servicio de cirugía por accidente de trabajo y reembolso de costos por ARP"
+    },
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Connotaciones"
+    },
+    {
+      "tema": "DERECHO A LA INTEGRIDAD FISICA",
+      "subtema": "Extensión de la vida y vinculación con la salud"
+    },
+    {
+      "tema": "SISTEMA GENERAL DE SEGURIDAD SOCIAL EN SALUD",
+      "subtema": "Servicios asistenciales derivados de accidente de trabajo o enfermedad profesional deben prestarse por EPS"
+    }
+  ]
+}

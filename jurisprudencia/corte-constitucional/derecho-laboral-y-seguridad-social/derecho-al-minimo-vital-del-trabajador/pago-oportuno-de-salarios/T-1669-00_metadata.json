@@ -1,0 +1,41 @@
+{
+  "radicado": "T-1669-00",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-12-05",
+  "magistrado_ponente": "Dr CARLOS GAVIRIA DÍAZ",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "DERECHO AL MINIMO VITAL DEL TRABAJADOR",
+  "subtema": "Pago oportuno de salarios",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/T-1669-00.htm",
+  "fecha_descarga": "2026-10-23T02:53:49.175138+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-12-05",
+  "fecha_publicacion": null,
+  "numero": "T-1669/00",
+  "tipo_cc": "T",
+  "prov_id": "18336",
+  "tema_relatoria": "DERECHO AL TRABAJO Y MINIMO VITAL. PAGO DE ACREENCIAS LABORALES. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO AL MINIMO VITAL DEL TRABAJADOR",
+      "subtema": "Pago oportuno de salarios"
+    },
+    {
+      "tema": "DERECHO AL PAGO OPORTUNO DEL SALARIO",
+      "subtema": "Fundamental"
+    },
+    {
+      "tema": "EMPLEADOR",
+      "subtema": "Falta de presupuesto o insolvencia para pago oportuno de salarios no es razón suficiente"
+    }
+  ]
+}

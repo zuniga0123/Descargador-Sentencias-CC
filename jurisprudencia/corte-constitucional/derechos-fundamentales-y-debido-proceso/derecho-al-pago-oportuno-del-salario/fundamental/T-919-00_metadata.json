@@ -1,0 +1,49 @@
+{
+  "radicado": "T-919-00",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-07-17",
+  "magistrado_ponente": "Dr ALEJANDRO MARTÍNEZ CABALLERO",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "DERECHO AL PAGO OPORTUNO DEL SALARIO",
+  "subtema": "Fundamental",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/T-919-00.htm",
+  "fecha_descarga": "2026-10-23T02:43:57.316909+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-07-17",
+  "fecha_publicacion": null,
+  "numero": "T-919/00",
+  "tipo_cc": "T",
+  "prov_id": "17512",
+  "tema_relatoria": "DERECHO AL MINIMO VITAL Y A LA SUBSISTENCIA. PAGO DE ACREENCIAS LABORALES. REITERACION DE JURISPRUDENCIA. FUNDACION SAN JUAN DE DIOS BOGOTA. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO AL PAGO OPORTUNO DEL SALARIO",
+      "subtema": "Fundamental"
+    },
+    {
+      "tema": "ESTABLECIMIENTO HOSPITALARIO",
+      "subtema": "Situación económica o presupuestal no es óbice para desconocer obligaciones laborales"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Procedencia excepcional pago de acreencias laborales"
+    },
+    {
+      "tema": "DERECHO AL MINIMO VITAL DEL TRABAJADOR",
+      "subtema": "Presunción de afectación por no pago oportuno de salarios"
+    },
+    {
+      "tema": "SALARIO",
+      "subtema": "Cesación de pagos indefinidamente repercute en la familia"
+    }
+  ]
+}

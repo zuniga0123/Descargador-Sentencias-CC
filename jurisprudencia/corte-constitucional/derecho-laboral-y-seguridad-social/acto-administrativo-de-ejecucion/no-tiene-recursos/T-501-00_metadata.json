@@ -1,0 +1,43 @@
+{
+  "radicado": "T-501-00",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-05-05",
+  "magistrado_ponente": "Dr ANTONIO BARRERA CARBONELL",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "ACTO ADMINISTRATIVO DE EJECUCION",
+  "subtema": "No tiene recursos",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/T-501-00.htm",
+  "fecha_descarga": "2026-10-23T03:00:13.410737+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-05-05",
+  "fecha_publicacion": null,
+  "numero": "T-501/00",
+  "tipo_cc": "T",
+  "prov_id": "17068",
+  "tema_relatoria": "DERECHO DE PETICION. DEBIDO PROCESO ADMINISTRATIVO. NO SE DECIDIERON LOS RECURSOS INTERPUESTOS CONTRA LA RESOLUCION DE RECONOCIMIENTO DE PENSION DE VEJEZ. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACTO ADMINISTRATIVO DE EJECUCION",
+      "subtema": "No tiene recursos"
+    },
+    {
+      "tema": "ACTO ADMINISTRATIVO DE LIQUIDACION DE PENSION",
+      "subtema": "Susceptible de recursos por vía gubernativa"
+    },
+    {
+      "tema": "ACTO ADMINISTRATIVO DE LIQUIDACION DE PENSION",
+      "subtema": "No es de ejecución"
+    },
+    {
+      "tema": "DEBIDO PROCESO",
+      "subtema": "Vulneración por no decisión de recursos"
+    }
+  ]
+}

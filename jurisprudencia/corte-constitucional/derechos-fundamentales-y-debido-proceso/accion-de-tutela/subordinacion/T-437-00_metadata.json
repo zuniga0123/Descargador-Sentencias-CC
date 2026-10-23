@@ -1,0 +1,45 @@
+{
+  "radicado": "T-437-00",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-04-13",
+  "magistrado_ponente": "Dr JOSÉ GREGORIO HERNÁNDEZ GALINDO",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCIÓN DE TUTELA",
+  "subtema": "Subordinación",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/T-437-00.htm",
+  "fecha_descarga": "2026-10-23T02:59:33.742571+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-04-13",
+  "fecha_publicacion": null,
+  "numero": "T-437/00",
+  "tipo_cc": "T",
+  "prov_id": "16995",
+  "tema_relatoria": "DERECHO AL MINIMO VITAL Y SALUD. MORA EN EL PAGO DE SALARIOS Y APORTES EN SALUD. NO HAY HECHO CONSUMADO AUN CUANDO LA PERSONA FALLECIO PERO LOS DERECHOS FUNDAMENTALES SE PROYECTAN SOBRE SU FAMILIA. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Subordinación"
+    },
+    {
+      "tema": "DERECHO AL MINIMO VITAL",
+      "subtema": "Pago de salarios atrasados a esposa de fallecido"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Improcedencia de hecho consumado cuando perjuicio ocasionado a persona que fallece se proyecta sobre familia"
+    },
+    {
+      "tema": "LEGITIMACIÓN POR ACTIVA EN TUTELA",
+      "subtema": "Cónyuge del afectado en salud"
+    }
+  ]
+}

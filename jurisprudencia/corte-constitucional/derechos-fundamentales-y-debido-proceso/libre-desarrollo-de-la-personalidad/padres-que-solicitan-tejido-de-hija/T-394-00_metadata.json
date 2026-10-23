@@ -1,0 +1,45 @@
+{
+  "radicado": "T-394-00",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-04-06",
+  "magistrado_ponente": "Dr JOSÉ GREGORIO HERNÁNDEZ GALINDO",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "LIBRE DESARROLLO DE LA PERSONALIDAD",
+  "subtema": "Padres que solicitan tejido de hija",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/T-394-00.htm",
+  "fecha_descarga": "2026-10-23T02:55:14.649362+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-04-06",
+  "fecha_publicacion": null,
+  "numero": "T-394/00",
+  "tipo_cc": "T",
+  "prov_id": "16949",
+  "tema_relatoria": "DERECHO A LA VIDA SALUD E INFORMACION. CONFORMACION RESPONSABLE DE UNA FAMILIA. HOSPITAL LORENCITA VILLEGAS DE SANTOS DE ENTREGAR UNA PORCION DE TEJIDO ORGANICO A LOS PADRES DE UNA MENOR FALLECIDA. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "LIBRE DESARROLLO DE LA PERSONALIDAD",
+      "subtema": "Padres que solicitan tejido de hija"
+    },
+    {
+      "tema": "DERECHO A LA INFORMACIÓN",
+      "subtema": "Retención de tejido de hija"
+    },
+    {
+      "tema": "DEBER DE SUMINISTRAR INFORMACION MEDICA",
+      "subtema": "Retención de tejido de hija"
+    },
+    {
+      "tema": "DERECHO A LA CONFORMACION DE LA FAMILIA EN FORMA RESPONSABLE",
+      "subtema": "Exámenes médicos a padres"
+    }
+  ]
+}

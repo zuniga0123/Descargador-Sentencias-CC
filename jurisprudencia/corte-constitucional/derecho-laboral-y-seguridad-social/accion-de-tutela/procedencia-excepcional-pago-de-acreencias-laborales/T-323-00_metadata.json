@@ -1,0 +1,55 @@
+{
+  "radicado": "T-323-00",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-03-21",
+  "magistrado_ponente": "Dr JOSÉ GREGORIO HERNÁNDEZ GALINDO",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "ACCIÓN DE TUTELA",
+  "subtema": "Procedencia excepcional pago de acreencias laborales",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 100 de 1993",
+    "Decreto 3041 de 1966"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/T-323-00.htm",
+  "fecha_descarga": "2026-10-23T02:40:23.293577+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-03-21",
+  "fecha_publicacion": "2000-05-18",
+  "numero": "T-323/00",
+  "tipo_cc": "T",
+  "prov_id": "16870",
+  "tema_relatoria": "DERECHO A LA EDUCACION E IGUALDAD. SUSPENSION DEL PAGO DE PENSION DE SOBREVIVIENTE A HIJO MAYOR DE EDAD QUE SE ENCUENTRA ESTUDIANDO. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Procedencia excepcional pago de acreencias laborales"
+    },
+    {
+      "tema": "DERECHO A LA EDUCACIÓN",
+      "subtema": "Suspensión de pensión por llegar hijo a los dieciocho años"
+    },
+    {
+      "tema": "PENSIÓN DE SOBREVIVIENTES",
+      "subtema": "Suspensión invocando disposición anterior a la Constitución y desconociendo ley de seguridad social"
+    },
+    {
+      "tema": "ACCION DE TUTELA PARA RECONOCIMIENTO DE PRESTACIONES SOCIALES",
+      "subtema": "Procedencia excepcional"
+    },
+    {
+      "tema": "PENSIÓN DE SOBREVIVIENTES",
+      "subtema": "Interrupción arbitraria a hijo mayor de dieciocho años incapacitado para trabajar por razón de estudios y dependiente económicamente al momento de la muerte"
+    },
+    {
+      "tema": "REVOCACION DIRECTA DE ACTO ADMINISTRATIVO PARTICULAR Y CONCRETO",
+      "subtema": "Consentimiento expreso y escrito del titular"
+    }
+  ]
+}

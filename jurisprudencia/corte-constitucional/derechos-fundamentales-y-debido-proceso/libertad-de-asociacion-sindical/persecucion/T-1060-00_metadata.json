@@ -1,0 +1,51 @@
+{
+  "radicado": "T-1060-00",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-08-14",
+  "magistrado_ponente": "Dr JOSÉ GREGORIO HERNÁNDEZ GALINDO",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "LIBERTAD DE ASOCIACION SINDICAL",
+  "subtema": "Persecución",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Decreto 1568 de 1998",
+    "Ley 443 de 1998"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/T-1060-00.htm",
+  "fecha_descarga": "2026-10-23T02:57:09.980838+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-08-14",
+  "fecha_publicacion": null,
+  "numero": "T-1060/00",
+  "tipo_cc": "T",
+  "prov_id": "17646",
+  "tema_relatoria": "DEBIDO PROCESO. DERECHO AL TRABAJO EN CONDICIONES DIGNAS Y JUSTAS A LA LIBERTAD DE EXPRESION A LA LIBERTAD Y EL FUERO SINDICAL. PRINCIPIO DE SUBSIDIARIDAD. VACANCIA DEL EMPLEO POR ABANDONO DEL MISMO. RETIRO DEL SERVICIO. LABOR CALIFICADA. DEFENSORIA DEL PUEBLO. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "LIBERTAD DE ASOCIACION SINDICAL",
+      "subtema": "Persecución"
+    },
+    {
+      "tema": "ACCION DE TUTELA Y SUSPENSION PROVISIONAL DE ACTO ADMINISTRATIVO",
+      "subtema": "Alcance de la compatibilidad"
+    },
+    {
+      "tema": "DEFENSORIA DEL PUEBLO",
+      "subtema": "Motivación sobre calificación de servicios de trabajador sindicalizado"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Subsidiariedad"
+    },
+    {
+      "tema": "DERECHOS FUNDAMENTALES DE TRABAJADOR SINDICALIZADO",
+      "subtema": "Evaluación objetiva para calificación de servicios"
+    }
+  ]
+}

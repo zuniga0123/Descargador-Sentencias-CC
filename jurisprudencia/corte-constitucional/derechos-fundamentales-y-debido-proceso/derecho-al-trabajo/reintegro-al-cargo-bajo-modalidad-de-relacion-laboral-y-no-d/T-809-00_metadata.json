@@ -1,0 +1,58 @@
+{
+  "radicado": "T-809-00",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-06-29",
+  "magistrado_ponente": "Dr FABIO MORON DIAZ",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "DERECHO AL TRABAJO",
+  "subtema": "Reintegro al cargo bajo modalidad de relación laboral y no de contrato de prestación de servicios",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 165 de 1997",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/T-809-00.htm",
+  "fecha_descarga": "2026-10-23T02:42:04.049838+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-06-29",
+  "fecha_publicacion": null,
+  "numero": "T-809/00",
+  "tipo_cc": "T",
+  "prov_id": "17402",
+  "tema_relatoria": "DERECHO AL TRABAJO Y ADMINISTRACION DE JUSTICIA. DEBIDO PROCESO. REINTEGRO LABORAL BAJO VINCULACION PROPIAMENTE LABORAL Y NO DE CONTRATACION. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO AL TRABAJO",
+      "subtema": "Reintegro al cargo bajo modalidad de relación laboral y no de contrato de prestación de servicios"
+    },
+    {
+      "tema": "DERECHO DE ACCESO A LA ADMINISTRACIÓN DE JUSTICIA",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "MEDIO DE DEFENSA JUDICIAL",
+      "subtema": "Pago de salarios y prestaciones sociales"
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA INCUMPLIMIENTO DE FALLOS JUDICIALES",
+      "subtema": null
+    },
+    {
+      "tema": "DERECHO DE ACCESO A LA ADMINISTRACIÓN DE JUSTICIA",
+      "subtema": "Vulneración"
+    },
+    {
+      "tema": "PRINCIPIO DE FAVORABILIDAD LABORAL",
+      "subtema": "Vulneración"
+    },
+    {
+      "tema": "PROCESO EJECUTIVO",
+      "subtema": "Ineficacia para reintegro al servicio"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "radicado": "T-972-00",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-07-31",
+  "magistrado_ponente": "Dr ALEJANDRO MARTINEZ CABALLERO",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "CARENCIA ACTUAL DE OBJETO",
+  "subtema": "No exime al juez de tutela realizar estudio del asunto que llega a su conocimiento y emitir fallo cuando se presenta durante el trámite de revisión",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/T-972-00.htm",
+  "fecha_descarga": "2026-10-23T02:41:31.667368+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-07-31",
+  "fecha_publicacion": null,
+  "numero": "T-972/00",
+  "tipo_cc": "T",
+  "prov_id": "17566",
+  "tema_relatoria": "DERECHO A LA SALUD Y A LA VIDA. TAC CONTRASTADO DE TORAX. ACCIONANTE QUE FALLECE DOS DIAS DESPUES DE HABER INCOADO LA TUTELA. CARENCIA ACTUAL DE OBJETO. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "CARENCIA ACTUAL DE OBJETO",
+      "subtema": "No exime al juez de tutela realizar estudio del asunto que llega a su conocimiento y emitir fallo cuando se presenta durante el trámite de revisión"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Carencia actual de objeto"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Hecho consumado"
+    },
+    {
+      "tema": "SENTENCIA DE REVISION DE TUTELA",
+      "subtema": "Fallecimiento de actor no exime pronunciamiento de fondo"
+    }
+  ]
+}

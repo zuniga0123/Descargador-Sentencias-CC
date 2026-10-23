@@ -1,0 +1,52 @@
+{
+  "radicado": "T-259-00",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-03-06",
+  "magistrado_ponente": "Dr JOSÉ GREGORIO HERNÁNDEZ GALINDO",
+  "area": "Derecho a la Salud",
+  "tema": "FALLO DE TUTELA",
+  "subtema": "Fundamentación",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Decreto 1772 de 1994",
+    "Ley 100 de 1993",
+    "Decreto 806 de 1998"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/T-259-00.htm",
+  "fecha_descarga": "2026-10-23T02:49:05.718128+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-03-06",
+  "fecha_publicacion": null,
+  "numero": "T-259/00",
+  "tipo_cc": "T",
+  "prov_id": "16801",
+  "tema_relatoria": "DERECHO A LA SALUD. SUSPENSION DE ATENCION MEDICA POR MORA EN EL PAGO DE APORTES. LA MORA TIENE ORIGEN EN EL EMPLEADOR POR ELLO ES EL QUIEN DEBE RESPONDER. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "FALLO DE TUTELA",
+      "subtema": "Fundamentación"
+    },
+    {
+      "tema": "DECISION JUDICIAL",
+      "subtema": "Motivación"
+    },
+    {
+      "tema": "ADMINISTRADORA DE RIESGOS PROFESIONALES",
+      "subtema": "Mora en aportes"
+    },
+    {
+      "tema": "EMPLEADOR",
+      "subtema": "Asunción de responsabilidad por mora en aportes en riesgos profesionales"
+    },
+    {
+      "tema": "FALTA DE LEGITIMACION POR PASIVA EN TUTELA",
+      "subtema": "Aplicación"
+    }
+  ]
+}

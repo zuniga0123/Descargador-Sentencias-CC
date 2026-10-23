@@ -1,0 +1,40 @@
+{
+  "radicado": "T-1002-00",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-08-03",
+  "magistrado_ponente": "Dr ALVARO TAFUR GALVIS",
+  "area": "Derecho a la Salud",
+  "tema": "EMPLEADOR",
+  "subtema": "Asunción servicio de salud por mora en aportes",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Decreto 806 de 1999",
+    "Decreto 2591 de 1991",
+    "Decreto 806 de 1998"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/T-1002-00.htm",
+  "fecha_descarga": "2026-10-23T02:39:32.554048+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-08-03",
+  "fecha_publicacion": "2000-08-22",
+  "numero": "T-1002/00",
+  "tipo_cc": "T",
+  "prov_id": "17593",
+  "tema_relatoria": "DERECHO A LA SALUD A LA VIDA A LA SEGURIDAD SOCIAL. PRACTICA DE HEMODIALISIS A PACIENTE CON INSUFICIENCIA RENAL. POS. PAGO DE APORTES DE COTIZACIONES A LA SEGURIDAD SOCIAL POR PARTE DEL PATRONO. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "EMPLEADOR",
+      "subtema": "Asunción servicio de salud por mora en aportes"
+    },
+    {
+      "tema": "ENTIDAD PROMOTORA DE SALUD",
+      "subtema": "Responsabilidad subsidiaria en casos de urgencia o gravedad por mora del empleador en aportes"
+    }
+  ]
+}

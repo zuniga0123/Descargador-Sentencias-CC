@@ -1,0 +1,50 @@
+{
+  "radicado": "T-1634-00",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-11-22",
+  "magistrado_ponente": "Dr ALEJANDRO MARTINEZ CABALLERO",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCION DE TUTELA CONTRA PARTICULARES",
+  "subtema": "Indefensión",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 95 de 1890"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/T-1634-00.htm",
+  "fecha_descarga": "2026-10-23T02:50:28.051333+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-11-22",
+  "fecha_publicacion": null,
+  "numero": "T-1634/00",
+  "tipo_cc": "T",
+  "prov_id": "18270",
+  "tema_relatoria": "DERECHO A LA VIDA SUBSISTENCIA E INTEGRIDAD FAMILIAR DE QUIENES DEPENDEN DE TRABAJADOR DESAPARECIDO. ESCOLTAS. PAGO DE SALARIOS Y PRESTACIONES. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCION DE TUTELA CONTRA PARTICULARES",
+      "subtema": "Indefensión"
+    },
+    {
+      "tema": "NASCITURUS",
+      "subtema": "Titular de derechos fundamentales"
+    },
+    {
+      "tema": "SECUESTRO",
+      "subtema": "Causal de fuerza mayor"
+    },
+    {
+      "tema": "SECUESTRADO",
+      "subtema": "Pago de salarios"
+    },
+    {
+      "tema": "SUSPENSION DE CONTRATO DE TRABAJO Y FUERZA MAYOR",
+      "subtema": "Responsabilidad del empleador"
+    }
+  ]
+}

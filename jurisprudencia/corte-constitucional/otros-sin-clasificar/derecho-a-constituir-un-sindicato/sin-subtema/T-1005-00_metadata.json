@@ -1,0 +1,49 @@
+{
+  "radicado": "T-1005-00",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-08-03",
+  "magistrado_ponente": "Dr ANTONIO BARRERA CARBONELL",
+  "area": "Otros - Sin clasificar",
+  "tema": "DERECHO A CONSTITUIR UN SINDICATO",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 904 de 1951"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/T-1005-00.htm",
+  "fecha_descarga": "2026-10-23T02:39:28.982838+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-08-03",
+  "fecha_publicacion": "2000-08-24",
+  "numero": "T-1005/00",
+  "tipo_cc": "T",
+  "prov_id": "17596",
+  "tema_relatoria": "DERECHO A LA IGUALDAD A LA ASOCIACION A LA LIBERTAD SINDICAL A LA NEGOCIACION COLECTIVA. DESCONOCIMIENTO UNILATERAL DE LA EXISTENCIA DE UN SINDICATO. PRINCIPIO DE FAVORABILIDAD. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO A CONSTITUIR UN SINDICATO",
+      "subtema": null
+    },
+    {
+      "tema": "CONFLICTO LABORAL COLECTIVO",
+      "subtema": "Casos en que procede la tutela"
+    },
+    {
+      "tema": "MEDIO DE DEFENSA LABORAL",
+      "subtema": "Ineficacia"
+    },
+    {
+      "tema": "DERECHO A LA NEGOCIACION COLECTIVA",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "DERECHO DE ASOCIACIÓN SINDICAL",
+      "subtema": "Vulneración por desconocimiento de existencia del sindicato"
+    }
+  ]
+}

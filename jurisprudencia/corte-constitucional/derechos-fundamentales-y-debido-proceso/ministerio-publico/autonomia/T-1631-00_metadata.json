@@ -1,0 +1,55 @@
+{
+  "radicado": "T-1631-00",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-11-24",
+  "magistrado_ponente": "Dr JAIRO CHARRY RIVAS",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "MINISTERIO PUBLICO",
+  "subtema": "Autonomía",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 136 de 1994",
+    "Ley 136 de 1995",
+    "Ley 200 de 1995"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/T-1631-00.htm",
+  "fecha_descarga": "2026-10-23T02:50:20.606688+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-11-24",
+  "fecha_publicacion": null,
+  "numero": "T-1631/00",
+  "tipo_cc": "T",
+  "prov_id": "18284",
+  "tema_relatoria": "DERECHO DE DEFENSA Y DEBIDO PROCESO. COMPETENCIA PARA DECRETAR LA SUSPENSION PROVISIONAL DE ALCALDE. SOLICITUD NULIDAD DE LO ACTUADO. REINTEGRO AL CARGO. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "MINISTERIO PUBLICO",
+      "subtema": "Autonomía"
+    },
+    {
+      "tema": "SANCION DISCIPLINARIA A ALCALDE",
+      "subtema": "Excepciones en cuanto a la aplicación y efectividad"
+    },
+    {
+      "tema": "SANCION DISCIPLINARIA A ALCALDE",
+      "subtema": "Aplicación cuando actúa como agente del Presidente o del Gobernador"
+    },
+    {
+      "tema": "MINISTERIO PUBLICO",
+      "subtema": "Imposición de sanciones"
+    },
+    {
+      "tema": "SANCION DISCIPLINARIA A ALCALDE",
+      "subtema": "Originada en acción penal"
+    },
+    {
+      "tema": "SANCION DISCIPLINARIA A ALCALDE",
+      "subtema": "Imposición"
+    }
+  ]
+}

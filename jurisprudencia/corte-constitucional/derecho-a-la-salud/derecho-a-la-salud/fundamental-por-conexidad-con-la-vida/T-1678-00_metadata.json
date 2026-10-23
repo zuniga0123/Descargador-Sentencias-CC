@@ -1,0 +1,47 @@
+{
+  "radicado": "T-1678-00",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-12-05",
+  "magistrado_ponente": "Dr FABIO MORON DIAZ",
+  "area": "Derecho a la Salud",
+  "tema": "DERECHO A LA SALUD",
+  "subtema": "Fundamental por conexidad con la vida",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 806 de 1998",
+    "Ley 100 de 1993",
+    "Decreto 1938 de 1994"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/T-1678-00.htm",
+  "fecha_descarga": "2026-10-23T02:54:03.433166+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-12-05",
+  "fecha_publicacion": null,
+  "numero": "T-1678/00",
+  "tipo_cc": "T",
+  "prov_id": "18344",
+  "tema_relatoria": "DERECHO A LA VIDA SALUD Y SEGURIDAD SOCIAL. SOLICITUD TRATAMIENTO QUIRURGICO URGENTE. PERIODO MINIMO DE COTIZACION. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Fundamental por conexidad con la vida"
+    },
+    {
+      "tema": "ENTIDAD PROMOTORA DE SALUD",
+      "subtema": "Repetición contra el FOSYGA"
+    },
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "No se pueden oponer periodos mínimos de cotización ante situaciones de urgencia"
+    },
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Práctica de cateterismo"
+    }
+  ]
+}

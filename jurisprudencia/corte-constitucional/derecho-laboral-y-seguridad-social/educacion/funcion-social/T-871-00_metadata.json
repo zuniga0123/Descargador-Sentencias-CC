@@ -1,0 +1,55 @@
+{
+  "radicado": "T-871-00",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-07-11",
+  "magistrado_ponente": "Dr ALEJANDRO MARTINEZ CABALLERO",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "EDUCACIÓN",
+  "subtema": "Función social",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 12 de 1991",
+    "Ley 115 de 1994"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/T-871-00.htm",
+  "fecha_descarga": "2026-10-23T02:45:13.140100+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-07-11",
+  "fecha_publicacion": null,
+  "numero": "T-871/00",
+  "tipo_cc": "T",
+  "prov_id": "17466",
+  "tema_relatoria": "DERECHO A LA EDUCACION. RETENCION DE NOTAS POR NO PAGO DE PENSIONES. COLEGIO NUESTRA SEÑORA DE LOURDES. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "EDUCACIÓN",
+      "subtema": "Función social"
+    },
+    {
+      "tema": "DERECHO A LA EDUCACIÓN",
+      "subtema": "Padres de familia no pueden abusar de sus derechos e incurrir en cultura del no pago"
+    },
+    {
+      "tema": "EDUCACIÓN",
+      "subtema": "Obligación de la sociedad"
+    },
+    {
+      "tema": "DERECHO A LA EDUCACION DEL NIÑO",
+      "subtema": "Prohibición de retiro de clases por no pago de pensión"
+    },
+    {
+      "tema": "DERECHO A LA EDUCACIÓN",
+      "subtema": "Retención de notas por no pago de pensión"
+    },
+    {
+      "tema": "EDUCACIÓN",
+      "subtema": "Derecho-deber"
+    }
+  ]
+}

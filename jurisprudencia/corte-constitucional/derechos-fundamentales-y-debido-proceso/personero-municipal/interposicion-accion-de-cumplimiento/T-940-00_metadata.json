@@ -1,0 +1,43 @@
+{
+  "radicado": "T-940-00",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-07-24",
+  "magistrado_ponente": "Dr ALEJANDRO MARTÍNEZ CABALLERO",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "PERSONERO MUNICIPAL",
+  "subtema": "Interposición acción de cumplimiento",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 136 de 1994",
+    "Ley 393 de 1997",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/T-940-00.htm",
+  "fecha_descarga": "2026-10-23T02:44:18.733988+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-07-24",
+  "fecha_publicacion": null,
+  "numero": "T-940/00",
+  "tipo_cc": "T",
+  "prov_id": "17533",
+  "tema_relatoria": "REITERACION DE JURISPRUDENCIA. DERECHO DE PETICION. SOLICITUD INFORMACION MONTO RECAUDO POR ALUMBRADO PUBLICO. ELECTRIFICADORA DE CORDOBA S.A. E.S.P. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "PERSONERO MUNICIPAL",
+      "subtema": "Interposición acción de cumplimiento"
+    },
+    {
+      "tema": "DERECHO DE PETICIÓN",
+      "subtema": "Pronta resolución y decisión de fondo"
+    },
+    {
+      "tema": "DERECHO DE PETICIÓN",
+      "subtema": "Núcleo esencial"
+    }
+  ]
+}

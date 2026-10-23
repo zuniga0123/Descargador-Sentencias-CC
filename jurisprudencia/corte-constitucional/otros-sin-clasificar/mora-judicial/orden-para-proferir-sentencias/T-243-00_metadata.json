@@ -1,0 +1,42 @@
+{
+  "radicado": "T-243-00",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-03-03",
+  "magistrado_ponente": "Dr FABIO MORÓN DÍAZ",
+  "area": "Otros - Sin clasificar",
+  "tema": "MORA JUDICIAL",
+  "subtema": "Orden para proferir sentencias",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 446 de 1998",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/T-243-00.htm",
+  "fecha_descarga": "2026-10-23T02:48:37.454485+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-03-03",
+  "fecha_publicacion": null,
+  "numero": "T-243/00",
+  "tipo_cc": "T",
+  "prov_id": "16785",
+  "tema_relatoria": "TUTELA CONTRA SALA CIVIL DE LA CORTE SUPREMA DE JUSTICIA POR MORA JUDICIAL. DERECHOS HERENCIALES DEL MENOR. INEXISTENCIA DE PERJUICIO IRREMEDIABLE. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "MORA JUDICIAL",
+      "subtema": "Orden para proferir sentencias"
+    },
+    {
+      "tema": "DEBER DE ATENDER GASTOS DE LOS HIJOS",
+      "subtema": "Corresponde a padre sobreviviente"
+    },
+    {
+      "tema": "PREVALENCIA DE LOS DERECHOS DEL NIÑO",
+      "subtema": "No conduce a alterar turno para proferir sentencia"
+    }
+  ]
+}

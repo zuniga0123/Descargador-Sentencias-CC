@@ -1,0 +1,66 @@
+{
+  "radicado": "T-344-00",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-03-27",
+  "magistrado_ponente": "Dr JOSÉ GREGORIO HERNÁNDEZ GALINDO",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCIÓN DE TUTELA",
+  "subtema": "Inmediatez",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 270 de 1996"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/T-344-00.htm",
+  "fecha_descarga": "2026-10-23T02:54:35.616927+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-03-27",
+  "fecha_publicacion": null,
+  "numero": "T-344/00",
+  "tipo_cc": "T",
+  "prov_id": "16892",
+  "tema_relatoria": "DERECHO A LA IGUALDAD Y TRABAJO. NOMBRAMIENTO EN CARRERA SIN TENER EN CUENTA EL PUNTAJE DE LA LISTA DE ELEGIBLES. LA TUTELA SE INSTAURO DOS AÑOS DESPUES DEL NOMBRAMIENTO. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Inmediatez"
+    },
+    {
+      "tema": "DERECHO A LA IGUALDAD EN CARRERA JUDICIAL",
+      "subtema": "Nombramiento de quien obtuvo el primer puesto"
+    },
+    {
+      "tema": "SISTEMA DE CARRERA ADMINISTRATIVA Y JUDICIAL",
+      "subtema": "Mérito como elemento esencial"
+    },
+    {
+      "tema": "SISTEMA DE CARRERA",
+      "subtema": "Sólo razones objetivas, sólidas y explícitas permiten al nominador la no designación de quien obtuvo el primer puesto"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Razonabilidad en presentación y derechos fundamentales de terceros afectados"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Término de presentación"
+    },
+    {
+      "tema": "CARRERA JUDICIAL",
+      "subtema": "Designación como consecuencia de traslado"
+    },
+    {
+      "tema": "CARRERA JUDICIAL",
+      "subtema": "Nombramiento de funcionarios y empleados que obtuvieron el primer puesto"
+    },
+    {
+      "tema": "CARRERA JUDICIAL",
+      "subtema": "Nombramiento de quien obtuvo el primer puesto"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "radicado": "T-1677-00",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-12-05",
+  "magistrado_ponente": "Dr FABIO MORON DIAZ",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "PENSIÓN DE SOBREVIVIENTES",
+  "subtema": "Suspensión a hijo mayor de dieciocho años que se encuentra estudiando",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 1889 de 1994",
+    "Ley 115 de 1994",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/T-1677-00.htm",
+  "fecha_descarga": "2026-10-23T02:53:59.927143+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-12-05",
+  "fecha_publicacion": null,
+  "numero": "T-1677/00",
+  "tipo_cc": "T",
+  "prov_id": "18343",
+  "tema_relatoria": "DERECHO A LA EDUCACION. BENEFICIARIO DE LA PENSION DE SOBREVIVIENTE QUE FUE RETIRADO UNILATERALMENTE DE LA NOMINA. PROTECCION DE LA SOCIEDAD A LOS EDUCANDOS. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "PENSIÓN DE SOBREVIVIENTES",
+      "subtema": "Suspensión a hijo mayor de dieciocho años que se encuentra estudiando"
+    },
+    {
+      "tema": "SEGURIDAD SOCIAL",
+      "subtema": "No pueden suspenderse abruptamente los efectos de sus actos administrativos prestacionales"
+    },
+    {
+      "tema": "DERECHO A LA EDUCACIÓN",
+      "subtema": "Fundamental"
+    }
+  ]
+}

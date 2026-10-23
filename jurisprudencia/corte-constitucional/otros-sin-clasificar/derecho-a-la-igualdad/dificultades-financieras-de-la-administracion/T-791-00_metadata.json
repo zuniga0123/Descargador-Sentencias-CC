@@ -1,0 +1,45 @@
+{
+  "radicado": "T-791-00",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-06-28",
+  "magistrado_ponente": "Dr CARLOS GAVIRIA DÍAZ",
+  "area": "Otros - Sin clasificar",
+  "tema": "DERECHO A LA IGUALDAD",
+  "subtema": "Dificultades financieras de la administración",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/T-791-00.htm",
+  "fecha_descarga": "2026-10-23T02:41:56.770353+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-06-28",
+  "fecha_publicacion": null,
+  "numero": "T-791/00",
+  "tipo_cc": "T",
+  "prov_id": "17384",
+  "tema_relatoria": "DERECHO A LA IGUALDAD. CUMPLIMIENTO DE LAS OBLIGACIONES ADQUIRIDAS POR EL ESTADO. CREDITO DE VIVIENDA QUE NO SE HA DESEMBOLSADO. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA IGUALDAD",
+      "subtema": "Dificultades financieras de la administración"
+    },
+    {
+      "tema": "PRINCIPIO DE LA BUENA FE",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "DERECHO A LA IGUALDAD",
+      "subtema": "Vulneración por no perfeccionamiento de contrato de mutuo con interés"
+    },
+    {
+      "tema": "PRINCIPIO DE CONFIANZA LEGITIMA",
+      "subtema": "Alcance"
+    }
+  ]
+}

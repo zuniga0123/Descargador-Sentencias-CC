@@ -1,0 +1,43 @@
+{
+  "radicado": "T-1497-00",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-11-02",
+  "magistrado_ponente": "Dra MARTHA VICTORIA SÁCHICA MÉNDEZ",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCIÓN DE TUTELA",
+  "subtema": "Improcedencia pago de bonificaciones por compensación",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 664 de 1999",
+    "Decreto 2591 de 1991",
+    "Decreto 664 de 2000"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/T-1497-00.htm",
+  "fecha_descarga": "2026-10-23T02:38:35.321498+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-11-02",
+  "fecha_publicacion": "2000-11-01",
+  "numero": "T-1497/00",
+  "tipo_cc": "T",
+  "prov_id": "18115",
+  "tema_relatoria": "DERECHO A LA IGUALDAD. ACTOS DE CARACTER GENERAL IMPERSONAL Y ABSTRACTO. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Improcedencia pago de bonificaciones por compensación"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Subsidiariedad"
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA ACTOS DE CARACTER GENERAL, IMPERSONAL Y ABSTRACTO",
+      "subtema": "Improcedencia"
+    }
+  ]
+}

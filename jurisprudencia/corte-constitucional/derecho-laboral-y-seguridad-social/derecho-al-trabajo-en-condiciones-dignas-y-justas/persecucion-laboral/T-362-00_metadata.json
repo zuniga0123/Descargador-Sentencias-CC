@@ -1,0 +1,58 @@
+{
+  "radicado": "T-362-00",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-03-28",
+  "magistrado_ponente": "Dr ANTONIO BARRERA CARBONELL",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "DERECHO AL TRABAJO EN CONDICIONES DIGNAS Y JUSTAS",
+  "subtema": "Persecución laboral",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2351 de 1965",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/T-362-00.htm",
+  "fecha_descarga": "2026-10-23T02:55:03.853192+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-03-28",
+  "fecha_publicacion": null,
+  "numero": "T-362/00",
+  "tipo_cc": "T",
+  "prov_id": "16910",
+  "tema_relatoria": "DERECHO AL TRABAJO Y ASOCIACION. DESPIDO INJUSTO. MEDIO DE DEFENSA JUDICIAL. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO AL TRABAJO EN CONDICIONES DIGNAS Y JUSTAS",
+      "subtema": "Persecución laboral"
+    },
+    {
+      "tema": "MEDIO DE DEFENSA JUDICIAL",
+      "subtema": "Despido laboral que no muestra afectación de derecho fundamental"
+    },
+    {
+      "tema": "TERMINACION UNILATERAL DE CONTRATO DE TRABAJO",
+      "subtema": "Manifestación expresa de causa o motivo"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Subsidiariedad"
+    },
+    {
+      "tema": "MEDIO DE DEFENSA JUDICIAL",
+      "subtema": "Nulidad de acto de desvinculación laboral y condena a reintegro"
+    },
+    {
+      "tema": "TERMINACION UNILATERAL DE CONTRATO DE TRABAJO",
+      "subtema": "Improcedencia de tutela para el caso por ocurrencia de hechos dentro de relación individual de trabajo"
+    },
+    {
+      "tema": "TERMINACION UNILATERAL DE CONTRATO DE TRABAJO POR JUSTA CAUSA",
+      "subtema": "Ejercicio del derecho de defensa"
+    }
+  ]
+}

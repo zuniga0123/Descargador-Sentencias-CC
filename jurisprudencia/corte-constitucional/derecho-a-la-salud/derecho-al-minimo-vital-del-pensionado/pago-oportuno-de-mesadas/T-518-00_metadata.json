@@ -1,0 +1,38 @@
+{
+  "radicado": "T-518-00",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-05-08",
+  "magistrado_ponente": "Dr ALVARO TAFUR GALVIS",
+  "area": "Derecho a la Salud",
+  "tema": "DERECHO AL MINIMO VITAL DEL PENSIONADO",
+  "subtema": "Pago oportuno de mesadas",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 549 de 1999"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/T-518-00.htm",
+  "fecha_descarga": "2026-10-23T03:00:52.252640+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-05-08",
+  "fecha_publicacion": null,
+  "numero": "T-518/00",
+  "tipo_cc": "T",
+  "prov_id": "17084",
+  "tema_relatoria": "DERECHO AL MINIMO VITAL. MORA EN EL PAGO DE MESADAS PENSIONALES Y APORTES EN SALUD. MUNICIPIO DE PROVIDENCIA. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO AL MINIMO VITAL DEL PENSIONADO",
+      "subtema": "Pago oportuno de mesadas"
+    },
+    {
+      "tema": "DERECHO A LA SALUD DE PERSONA DE LA TERCERA EDAD",
+      "subtema": "No pago de cotizaciones a EPS"
+    }
+  ]
+}

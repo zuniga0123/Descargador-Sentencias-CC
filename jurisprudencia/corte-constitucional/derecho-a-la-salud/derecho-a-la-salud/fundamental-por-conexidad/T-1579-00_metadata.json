@@ -1,0 +1,47 @@
+{
+  "radicado": "T-1579-00",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-11-14",
+  "magistrado_ponente": "Dr FABIO MORON DIAZ",
+  "area": "Derecho a la Salud",
+  "tema": "DERECHO A LA SALUD",
+  "subtema": "Fundamental por conexidad",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 344 de 1996",
+    "Decreto 806 de 1998"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/T-1579-00.htm",
+  "fecha_descarga": "2026-10-23T02:52:26.792469+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-11-14",
+  "fecha_publicacion": null,
+  "numero": "T-1579/00",
+  "tipo_cc": "T",
+  "prov_id": "18186",
+  "tema_relatoria": "DERECHO A LA VIDA SALUD Y DIGNIDAD PERSONAL. PRACTICA DE EXAMANES NO INCLUIDOS EN EL POS. NEGADA PARCIALMENTE..",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Fundamental por conexidad"
+    },
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Protección preventiva y no solamente en caso de gravedad"
+    },
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Exámenes excluidos del POS"
+    },
+    {
+      "tema": "REGIMEN SUBSIDIADO DE SALUD",
+      "subtema": "Práctica de exámenes a persona de escasos recursos"
+    }
+  ]
+}

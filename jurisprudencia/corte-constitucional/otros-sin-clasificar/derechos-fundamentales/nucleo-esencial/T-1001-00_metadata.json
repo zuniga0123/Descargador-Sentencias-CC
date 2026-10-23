@@ -1,0 +1,51 @@
+{
+  "radicado": "T-1001-00",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-08-03",
+  "magistrado_ponente": "Dr VLADIMIRO NARANJO MESA",
+  "area": "Otros - Sin clasificar",
+  "tema": "DERECHOS FUNDAMENTALES",
+  "subtema": "Núcleo esencial",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 54 de 1962",
+    "Decreto 955 de 2000"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/T-1001-00.htm",
+  "fecha_descarga": "2026-10-23T02:39:50.538467+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-08-03",
+  "fecha_publicacion": "2000-08-15",
+  "numero": "T-1001/00",
+  "tipo_cc": "T",
+  "prov_id": "17592",
+  "tema_relatoria": "DERECHO A LA LIBERTAD DE ELECCION Y A LA AUTONOMIA PERSONAL. NUCLEO ESENCIAL. LIBERTAD CONTRACTUAL. PAGO DE SALARIOS ATRAVES DE ABONO EN CUENTA BANCARIA DEL BANCO POPULAR. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHOS FUNDAMENTALES",
+      "subtema": "Núcleo esencial"
+    },
+    {
+      "tema": "SALARIO",
+      "subtema": "Pago por consignación en cuenta bancaria"
+    },
+    {
+      "tema": "AUTONOMIA DEL TRABAJADOR",
+      "subtema": "No vulneración por consignación de salario en cuenta bancaria"
+    },
+    {
+      "tema": "LIBERTAD CONTRACTUAL",
+      "subtema": "Límites"
+    },
+    {
+      "tema": "DERECHO A LA AUTONOMIA PERSONAL",
+      "subtema": "Límites"
+    }
+  ]
+}

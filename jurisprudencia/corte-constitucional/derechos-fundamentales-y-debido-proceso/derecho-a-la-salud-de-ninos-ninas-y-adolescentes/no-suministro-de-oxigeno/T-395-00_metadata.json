@@ -1,0 +1,50 @@
+{
+  "radicado": "T-395-00",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-04-06",
+  "magistrado_ponente": "Dr JOSÉ GREGORIO HERNÁNDEZ GALINDO",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "DERECHO A LA SALUD DE NIÑOS, NIÑAS Y ADOLESCENTES",
+  "subtema": "No suministro de oxígeno",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 100 de 1993"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/T-395-00.htm",
+  "fecha_descarga": "2026-10-23T02:55:18.202317+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-04-06",
+  "fecha_publicacion": null,
+  "numero": "T-395/00",
+  "tipo_cc": "T",
+  "prov_id": "16950",
+  "tema_relatoria": "DERECHO A LA VIDA Y SALUD DE LOS MENORES. ISS NIEGA SUMINISTRO GRATUITO DE OXIGENO A MENOR QUE LO NECESITA PERMANENTEMENTE. HECHO SUPERADO. CARENCIA DE OBJETO. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA SALUD DE NIÑOS, NIÑAS Y ADOLESCENTES",
+      "subtema": "No suministro de oxígeno"
+    },
+    {
+      "tema": "DERECHO A LA VIDA DEL NIÑO",
+      "subtema": "No suministro de oxígeno"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Carencia actual de objeto"
+    },
+    {
+      "tema": "ENTE ADMINISTRATIVO DE SEGURIDAD SOCIAL",
+      "subtema": "No pueden impedir ni obstaculizar el acceso de los usuarios al sistema en salud"
+    },
+    {
+      "tema": "DERECHO A LA SALUD DE NIÑOS, NIÑAS Y ADOLESCENTES",
+      "subtema": "Fundamental prevalente"
+    }
+  ]
+}
