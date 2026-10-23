@@ -1,0 +1,38 @@
+{
+  "radicado": "T-360-00",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-03-27",
+  "magistrado_ponente": "Dr JOSÉ GREGORIO HERNÁNDEZ GALINDO",
+  "area": "Derecho a la Salud",
+  "tema": "PLAN OBLIGATORIO DE SALUD",
+  "subtema": "Mora en el pago de aportes da lugar a la suspensión de servicios por EPS",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 100 de 1993"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/T-360-00.htm",
+  "fecha_descarga": "2026-10-23T03:32:17.447414+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-03-27",
+  "fecha_publicacion": null,
+  "numero": "T-360/00",
+  "tipo_cc": "T",
+  "prov_id": "16908",
+  "tema_relatoria": "DERECHO A LA SEGURIDAD SOCIAL Y VIDA. SUSPENSION DE ATENCION MEDICA POR MORA DEL PATRONO EN APORTES. RESPONSABILIDAD DEL PATRONO. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "PLAN OBLIGATORIO DE SALUD",
+      "subtema": "Mora en el pago de aportes da lugar a la suspensión de servicios por EPS"
+    },
+    {
+      "tema": "SISTEMA GENERAL DE SEGURIDAD SOCIAL EN SALUD",
+      "subtema": "Mora en el pago de aportes por empleador da lugar a la suspensión de servicios por EPS"
+    }
+  ]
+}

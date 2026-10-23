@@ -1,0 +1,45 @@
+{
+  "radicado": "T-651-00",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-06-01",
+  "magistrado_ponente": "Dr ALEJANDRO MARTÍNEZ CABALLERO",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "REMUNERACION MINIMA VITAL Y MOVIL",
+  "subtema": "No debe limitarse protección a retribución mínima del trabajo",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/T-651-00.htm",
+  "fecha_descarga": "2026-10-23T03:25:58.925131+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-06-01",
+  "fecha_publicacion": null,
+  "numero": "T-651/00",
+  "tipo_cc": "T",
+  "prov_id": "17236",
+  "tema_relatoria": "DERECHO AL MINIMO VITAL Y TRABAJO. MORA EN EL PAGO DE SALARIOS. HOSPITAL UNIVERSITARIO SAN JOSE DE POPAYAN. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "REMUNERACION MINIMA VITAL Y MOVIL",
+      "subtema": "No debe limitarse protección a retribución mínima del trabajo"
+    },
+    {
+      "tema": "DERECHO AL PAGO OPORTUNO DEL SALARIO",
+      "subtema": "Fundamental"
+    },
+    {
+      "tema": "DERECHO AL MINIMO VITAL",
+      "subtema": "Pago oportuno de salarios"
+    },
+    {
+      "tema": "ACCION DE TUTELA TRANSITORIA PARA RECLAMO DE SALARIOS",
+      "subtema": "Prueba requerida de que existe perjuicio irremediable"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "radicado": "T-1474-00",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-10-30",
+  "magistrado_ponente": "Dr ALEJANDRO MARTINEZ CABALLERO",
+  "area": "Derecho a la Salud",
+  "tema": "SISBEN",
+  "subtema": "Objeto",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 60 de 1993",
+    "Ley 200 de 1995"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/T-1474-00.htm",
+  "fecha_descarga": "2026-10-23T03:19:12.504254+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-10-30",
+  "fecha_publicacion": null,
+  "numero": "T-1474/00",
+  "tipo_cc": "T",
+  "prov_id": "18092",
+  "tema_relatoria": "DERECHO A LA SALUD. SUSPENSION DE LA DETENCION POR ENFERMEDAD GRAVE A INTERNO QUEDANDO DESPROTEGIDA SU SALUD DESPUES DE SU LIBERTAD. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "SISBEN",
+      "subtema": "Objeto"
+    },
+    {
+      "tema": "SISBEN",
+      "subtema": "Atención de persona que salió gravemente enferma de la cárcel"
+    },
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Fundamental por conexidad con la vida"
+    },
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Protección preventiva y no solamente en caso de gravedad"
+    },
+    {
+      "tema": "SISBEN",
+      "subtema": "Acceso igualitario a los bienes y recursos públicos"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "radicado": "T-1701-00",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-12-07",
+  "magistrado_ponente": "Dr ALEJANDRO MARTINEZ CABALLERO",
+  "area": "Derecho Administrativo y Función Pública",
+  "tema": "EDUCACION REGULAR",
+  "subtema": "Formación de menores con capacidades especiales",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 270 de 1996",
+    "Decreto 2591 de 1991",
+    "Ley 361 de 1997"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/T-1701-00.htm",
+  "fecha_descarga": "2026-10-23T03:21:00.654734+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-12-07",
+  "fecha_publicacion": null,
+  "numero": "T-1701/00",
+  "tipo_cc": "T",
+  "prov_id": "18366",
+  "tema_relatoria": "DERECHO A LA EDUCACION. NIÑOS CON CAPACIDADES EXCEPCIONALES. SOLICITUD TRASLADO DE MAGISTRADA. PREVISION DE EMPLEADOS PUBLICOS. CONCURSANTE CON MAYOR PUNTAJE. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "EDUCACION REGULAR",
+      "subtema": "Formación de menores con capacidades especiales"
+    },
+    {
+      "tema": "CARRERA ADMINISTRATIVA EN EL ESTADO SOCIAL DE DERECHO",
+      "subtema": "Eficiencia y eficacia de la gestión pública"
+    },
+    {
+      "tema": "CARRERA JUDICIAL",
+      "subtema": "Nombramiento de quien obtuvo el primer puesto"
+    },
+    {
+      "tema": "EDUCACION ESPECIAL",
+      "subtema": "Función social"
+    },
+    {
+      "tema": "DERECHO A LA EDUCACION ESPECIAL",
+      "subtema": "Fundamental"
+    },
+    {
+      "tema": "FUNCIÓN PÚBLICA",
+      "subtema": "Eficacia y eficiencia"
+    },
+    {
+      "tema": "SISTEMA DE CARRERA ADMINISTRATIVA",
+      "subtema": "Mérito como elemento esencial"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "radicado": "T-1483-00",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-10-26",
+  "magistrado_ponente": "Dr ALFREDO BELTRÁN SIERRA",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCIÓN DE TUTELA",
+  "subtema": "Improcedencia para el caso",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/T-1483-00.htm",
+  "fecha_descarga": "2026-10-23T03:19:16.129418+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-10-26",
+  "fecha_publicacion": null,
+  "numero": "T-1483/00",
+  "tipo_cc": "T",
+  "prov_id": "18072",
+  "tema_relatoria": "DEBIDO PROCESO. SOLICITUD REVOCATORIA DIRECTA DE ACTO ADMINISTRATIVO DE CARACTER PARTICULAR. ACEPTACION DESISTIMIENTO OPORTUNO DEL RECURSO DE APELACION. CONTRIBUCION DE VALORIZACION POR BENEFICIO LOCAL SEGUN ESTRATO ASIGNADO. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Improcedencia para el caso"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Subsidiariedad"
+    },
+    {
+      "tema": "SUSPENSION PROVISIONAL DE ACTO ADMINISTRATIVO",
+      "subtema": "Recursos por vía gubernativa"
+    },
+    {
+      "tema": "VIA GUBERNATIVA",
+      "subtema": "Recursos"
+    }
+  ]
+}

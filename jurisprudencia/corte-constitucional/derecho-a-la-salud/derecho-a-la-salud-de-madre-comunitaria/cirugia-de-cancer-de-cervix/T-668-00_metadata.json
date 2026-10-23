@@ -1,0 +1,56 @@
+{
+  "radicado": "T-668-00",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-06-09",
+  "magistrado_ponente": "Dr ANTONIO BARRERA CARBONELL",
+  "area": "Derecho a la Salud",
+  "tema": "DERECHO A LA SALUD DE MADRE COMUNITARIA",
+  "subtema": "Cirugía de cáncer de cervix",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 806 de 1998",
+    "Ley 392 de 1997",
+    "Ley 362 de 1997",
+    "Ley 509 de 1999",
+    "Ley 89 de 1988",
+    "Ley 6 de 1992",
+    "Ley 100 de 1993",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/T-668-00.htm",
+  "fecha_descarga": "2026-10-23T03:26:06.088100+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-06-09",
+  "fecha_publicacion": null,
+  "numero": "T-668/00",
+  "tipo_cc": "T",
+  "prov_id": "17254",
+  "tema_relatoria": "DERECHO A LA SEGURIDAD SOCIAL. SOLICITUD DE MADRES COMUNITARIAS DEL I.C.B.F. A QUE SE LES PAGUE LA LICENCIA DE MATERNIDAD. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA SALUD DE MADRE COMUNITARIA",
+      "subtema": "Cirugía de cáncer de cervix"
+    },
+    {
+      "tema": "HOGARES COMUNITARIOS",
+      "subtema": "Vínculo contractual"
+    },
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Conexidad con la vida"
+    },
+    {
+      "tema": "MADRE COMUNITARIA",
+      "subtema": "Vínculo contractual"
+    },
+    {
+      "tema": "LICENCIA DE MATERNIDAD DE MADRES COMUNITARIAS",
+      "subtema": "No reconocimiento por mora en aportes"
+    }
+  ]
+}

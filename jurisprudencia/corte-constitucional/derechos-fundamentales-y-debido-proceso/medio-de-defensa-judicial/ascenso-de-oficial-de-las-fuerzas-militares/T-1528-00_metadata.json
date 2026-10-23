@@ -1,0 +1,43 @@
+{
+  "radicado": "T-1528-00",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-11-14",
+  "magistrado_ponente": "Dr ALFREDO BELTRÁN SIERRA",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "MEDIO DE DEFENSA JUDICIAL",
+  "subtema": "Ascenso de oficial de las fuerzas militares",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Decreto 1211 de 1990",
+    "Decreto 1211 de 1999"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/T-1528-00.htm",
+  "fecha_descarga": "2026-10-23T03:27:36.350070+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-11-14",
+  "fecha_publicacion": null,
+  "numero": "T-1528/00",
+  "tipo_cc": "T",
+  "prov_id": "18174",
+  "tema_relatoria": "DERECHO A LA IGUALDAD Y DEBIDO PROCESO. ASCENSO DE MILITAR QUE NO ESTABA EN SERVICIO ACTIVO CUANDO SE REUNIO LA JUNTA EVALUADORA. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "MEDIO DE DEFENSA JUDICIAL",
+      "subtema": "Ascenso de oficial de las fuerzas militares"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Improcedencia para ordenar ascenso automático de oficial de las fuerzas militares"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Improcedencia por inexistencia de amenaza o vulneración de derechos"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "radicado": "T-1656-00",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-11-30",
+  "magistrado_ponente": "Dr ALFREDO BELTRÁN SIERRA",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCION DE TUTELA TRANSITORIA",
+  "subtema": "Traslado de fiscal amenazado",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 104 de 1993"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/T-1656-00.htm",
+  "fecha_descarga": "2026-10-23T03:30:29.838388+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-11-30",
+  "fecha_publicacion": null,
+  "numero": "T-1656/00",
+  "tipo_cc": "T",
+  "prov_id": "18313",
+  "tema_relatoria": "DERECHO A LA VIDA. TRASLADO DE FISCAL A AGUACHICA CESAR POR AMENAZAS CONTRA SU VIDA. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCION DE TUTELA TRANSITORIA",
+      "subtema": "Traslado de fiscal amenazado"
+    },
+    {
+      "tema": "DERECHO A LA VIDA",
+      "subtema": "Traslado de fiscal amenazado"
+    },
+    {
+      "tema": "MEDIO DE DEFENSA JUDICIAL",
+      "subtema": "Acto administrativo que ordena traslado"
+    },
+    {
+      "tema": "FISCALÍA GENERAL DE LA NACIÓN",
+      "subtema": "Discrecionalidad en ordenar traslado por necesidades del servicio"
+    }
+  ]
+}

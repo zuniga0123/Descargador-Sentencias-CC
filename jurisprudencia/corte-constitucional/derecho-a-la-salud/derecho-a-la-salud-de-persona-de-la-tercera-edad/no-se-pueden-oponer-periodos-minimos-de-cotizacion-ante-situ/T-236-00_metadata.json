@@ -1,0 +1,43 @@
+{
+  "radicado": "T-236-00",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-03-03",
+  "magistrado_ponente": "Dr JOSÉ GREGORIO HERNÁNDEZ GALINDO",
+  "area": "Derecho a la Salud",
+  "tema": "DERECHO A LA SALUD DE PERSONA DE LA TERCERA EDAD",
+  "subtema": "No se pueden oponer periodos mínimos de cotización ante situaciones de urgencia",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 100 de 1993",
+    "Decreto 806 de 1998"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/T-236-00.htm",
+  "fecha_descarga": "2026-10-23T03:37:48.181738+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-03-03",
+  "fecha_publicacion": null,
+  "numero": "T-236/00",
+  "tipo_cc": "T",
+  "prov_id": "16778",
+  "tema_relatoria": "DERECHO A LA SALUD Y VIDA. PERIODOS MINIMOS DE COTIZACION PARA ACCEDER A TRATAMIENTOS POR ENFERMEDADES DE ALTO COSTO. CANCER DE PROSTATA. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA SALUD DE PERSONA DE LA TERCERA EDAD",
+      "subtema": "No se pueden oponer periodos mínimos de cotización ante situaciones de urgencia"
+    },
+    {
+      "tema": "AGENCIA OFICIOSA EN TUTELA",
+      "subtema": "Hijo en representación de padre enfermo"
+    },
+    {
+      "tema": "SUBCUENTA DEL FONDO DE SOLIDARIDAD Y GARANTIA DEL SISTEMA GENERAL DE SEGURIDAD SOCIAL EN SALUD",
+      "subtema": "Repetición de EPS por sobrecostos"
+    }
+  ]
+}

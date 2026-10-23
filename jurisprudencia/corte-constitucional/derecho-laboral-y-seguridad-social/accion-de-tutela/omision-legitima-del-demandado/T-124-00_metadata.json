@@ -1,0 +1,39 @@
+{
+  "radicado": "T-124-00",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-02-10",
+  "magistrado_ponente": "Dr JOSE GREGORIO HERNANDEZ GALINDO",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "ACCIÓN DE TUTELA",
+  "subtema": "Omisión legítima del demandado",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Decreto 2591 de 1991",
+    "Decreto 1346 de 1994"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/T-124-00.htm",
+  "fecha_descarga": "2026-10-23T03:20:07.126028+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-02-10",
+  "fecha_publicacion": null,
+  "numero": "T-124/00",
+  "tipo_cc": "T",
+  "prov_id": "16653",
+  "tema_relatoria": "TUTELA CONTRA JUNTA DE CALIFICACION DE INVALIDEZ. PAGO DE HONORARIOS CORRESPONDE A FIDUSALUD. LEY 100 DE 1993. ART 42. OMISION LEGITIMA DEL DEMANDADO. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Omisión legítima del demandado"
+    },
+    {
+      "tema": "JUNTA DE CALIFICACIÓN DE INVALIDEZ",
+      "subtema": "A quien corresponde pago de honorarios"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "radicado": "T-1598-00",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-11-21",
+  "magistrado_ponente": "Dr FABIO MORON DIAZ",
+  "area": "Derecho a la Salud",
+  "tema": "ENTIDAD PROMOTORA DE SALUD",
+  "subtema": "Repetición contra el empleador",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 806 de 1998",
+    "Ley 100 de 1993",
+    "Decreto 1938 de 1993"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/T-1598-00.htm",
+  "fecha_descarga": "2026-10-23T03:22:42.789020+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-11-21",
+  "fecha_publicacion": null,
+  "numero": "T-1598/00",
+  "tipo_cc": "T",
+  "prov_id": "18236",
+  "tema_relatoria": "DERECHO A LA SALUD. MORA EN EL PAGO DE APORTES POR EMPLEADOR. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ENTIDAD PROMOTORA DE SALUD",
+      "subtema": "Repetición contra el empleador"
+    },
+    {
+      "tema": "TRABAJADOR ASALARIADO",
+      "subtema": "Suspensión de la afiliación"
+    },
+    {
+      "tema": "DERECHO A RECIBIR LAS PRESTACIONES MEDICAS",
+      "subtema": null
+    },
+    {
+      "tema": "CAJA NACIONAL DE PREVISION SOCIAL",
+      "subtema": "Atención a la actora durante el periodo máximo de protección laboral por desvinculación del cargo"
+    },
+    {
+      "tema": "DERECHO A LA SEGURIDAD SOCIAL EN SALUD",
+      "subtema": "Contenido"
+    },
+    {
+      "tema": "EMPLEADOR",
+      "subtema": "Mora de aportes"
+    },
+    {
+      "tema": "MORA PATRONAL",
+      "subtema": "Prestación de servicios de salud primaria o subsidiariamente"
+    },
+    {
+      "tema": "ENTIDAD PROMOTORA DE SALUD",
+      "subtema": "Interrupción de servicios"
+    },
+    {
+      "tema": "SISTEMA DE SALUD",
+      "subtema": "Relaciones entre empleador y entidad de seguridad social"
+    }
+  ]
+}

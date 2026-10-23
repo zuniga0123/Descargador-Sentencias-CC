@@ -1,0 +1,57 @@
+{
+  "radicado": "T-257-00",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-03-06",
+  "magistrado_ponente": "Dr JOSÉ GREGORIO HERNÁNDEZ GALINDO",
+  "area": "Derecho a la Salud",
+  "tema": "ESTABLECIMIENTO CARCELARIO",
+  "subtema": "Deficiencia en atención médica, numerosos trámites administrativos y dificultades para acceder al estudio o trabajo",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/T-257-00.htm",
+  "fecha_descarga": "2026-10-23T03:38:27.197901+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-03-06",
+  "fecha_publicacion": null,
+  "numero": "T-257/00",
+  "tipo_cc": "T",
+  "prov_id": "16799",
+  "tema_relatoria": "DERECHO A LA SALUD EDUCACION Y TRABAJO DE LOS INTERNOS. HACINAMIENTO CARCELARIO. CARCEL DE BELLAVISTA. MEDELLIN. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ESTABLECIMIENTO CARCELARIO",
+      "subtema": "Deficiencia en atención médica, numerosos trámites administrativos y dificultades para acceder al estudio o trabajo"
+    },
+    {
+      "tema": "DERECHOS FUNDAMENTALES DEL INTERNO",
+      "subtema": "Obligaciones correlativas del Estado"
+    },
+    {
+      "tema": "SISTEMA DE SEGURIDAD SOCIAL EN SALUD PARA INTERNO",
+      "subtema": "Contratación de régimen subsidiado"
+    },
+    {
+      "tema": "INSTITUTO NACIONAL PENITENCIARIO Y CARCELARIO",
+      "subtema": "Constitución de régimen subsidiado en salud para reclusos"
+    },
+    {
+      "tema": "ESTABLECIMIENTO CARCELARIO",
+      "subtema": "Hacinamiento"
+    },
+    {
+      "tema": "ESTADO DE COSAS INCONSTITUCIONAL EN ESTABLECIMIENTO CARCELARIO",
+      "subtema": "Hacinamiento"
+    },
+    {
+      "tema": "DERECHO A LA SALUD DEL INTERNO",
+      "subtema": "Preservación por el Estado"
+    }
+  ]
+}

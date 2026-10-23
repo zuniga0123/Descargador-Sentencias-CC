@@ -1,0 +1,54 @@
+{
+  "radicado": "T-197-00",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-02-28",
+  "magistrado_ponente": "Dr JOSE GREGORIO HERNANDEZ GALINDO",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "MEDIO DE DEFENSA JUDICIAL INEFICAZ",
+  "subtema": "Demora para ser reintegrado al cargo por expiración del término de suspensión sin que hubiere terminado la investigación",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 200 de 1995"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/T-197-00.htm",
+  "fecha_descarga": "2026-10-23T03:23:54.249622+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-02-28",
+  "fecha_publicacion": null,
+  "numero": "T-197/00",
+  "tipo_cc": "T",
+  "prov_id": "16736",
+  "tema_relatoria": "REINTEGRO AL CARGO DE EMPLEADO SUSPENDIDO. VIOLACION DEL DEBIDO PROCESO. EMPLEADA DEL CONCEJO DE BOGOTA. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "MEDIO DE DEFENSA JUDICIAL INEFICAZ",
+      "subtema": "Demora para ser reintegrado al cargo por expiración del término de suspensión sin que hubiere terminado la investigación"
+    },
+    {
+      "tema": "REINTEGRO AL CARGO DEL SUSPENDIDO",
+      "subtema": "Competencia"
+    },
+    {
+      "tema": "DERECHO AL TRABAJO",
+      "subtema": "Empleado debe reintegrarse al cargo expirado el término de suspensión sin que hubiere terminado la investigación"
+    },
+    {
+      "tema": "DEBIDO PROCESO DISCIPLINARIO",
+      "subtema": "Empleado debe reintegrarse al cargo expirado el término de suspensión sin que hubiere terminado la investigación"
+    },
+    {
+      "tema": "REINTEGRO AL CARGO DEL SUSPENDIDO",
+      "subtema": "Expiración del término sin que hubiere culminado investigación"
+    },
+    {
+      "tema": "REINTEGRO AL CARGO DEL SUSPENDIDO",
+      "subtema": "Procedencia de tutela por ineficacia del mecanismo de defensa judicial"
+    }
+  ]
+}

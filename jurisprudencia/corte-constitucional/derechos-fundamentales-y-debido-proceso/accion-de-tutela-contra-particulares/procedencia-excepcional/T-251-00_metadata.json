@@ -1,0 +1,58 @@
+{
+  "radicado": "T-251-00",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-03-06",
+  "magistrado_ponente": "Dr JOSÉ GREGORIO HERNÁNDEZ GALINDO",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCION DE TUTELA CONTRA PARTICULARES",
+  "subtema": "Procedencia excepcional",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Decreto 2067 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/T-251-00.htm",
+  "fecha_descarga": "2026-10-23T03:38:20.058751+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-03-06",
+  "fecha_publicacion": null,
+  "numero": "T-251/00",
+  "tipo_cc": "T",
+  "prov_id": "16793",
+  "tema_relatoria": "DERECHO AL TRABAJO EN CONDICIONES DIGNAS Y JUSTAS Y MINIMO VITAL. MORA EN EL PAGO DE SALARIOS Y DEMAS ACREENCIAS LABORALES. TRANSAUTOS GARZON LTDA. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCION DE TUTELA CONTRA PARTICULARES",
+      "subtema": "Procedencia excepcional"
+    },
+    {
+      "tema": "DERECHO AL MINIMO VITAL DEL TRABAJADOR",
+      "subtema": "Pago oportuno de salarios"
+    },
+    {
+      "tema": "JUEZ DE TUTELA",
+      "subtema": "Motivación no ajustada a Constitución por aplicación de norma procedimental de tutela declarada inconstitucional"
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA PARTICULARES",
+      "subtema": "Inconstitucionalidad de limitación de amparo a ciertos derechos"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Procedencia excepcional pago de acreencias laborales"
+    },
+    {
+      "tema": "COSA JUZGADA CONSTITUCIONAL",
+      "subtema": "Observancia por juez respecto a procedimiento de tutela"
+    },
+    {
+      "tema": "SUBORDINACION LABORAL",
+      "subtema": "Pago oportuno de salarios"
+    }
+  ]
+}

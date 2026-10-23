@@ -1,0 +1,41 @@
+{
+  "radicado": "T-1633-00",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-11-27",
+  "magistrado_ponente": "Dr JOSÉ GREGORIO HERNÁNDEZ GALINDO",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCIÓN DE TUTELA",
+  "subtema": "Subsidiariedad",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/T-1633-00.htm",
+  "fecha_descarga": "2026-10-23T03:42:02.373839+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-11-27",
+  "fecha_publicacion": null,
+  "numero": "T-1633/00",
+  "tipo_cc": "T",
+  "prov_id": "18286",
+  "tema_relatoria": "DERECHO DE PETICION IGUALDAD DEBIDO PROCESO DEFENSA LIBERTAD BUEN NOMBRE Y HONRA. TUTELA CONTRA PROVIDENCIAS JUDICIALES. VIA DE HECHO. AUTONOMIA JUDICIAL RESPECTO DE LA VALORACION PROBATORIA. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Subsidiariedad"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Procedencia excepcional por vía de hecho"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Improcedencia por hacer uso extemporáneo de otros medios de defensa judicial"
+    }
+  ]
+}

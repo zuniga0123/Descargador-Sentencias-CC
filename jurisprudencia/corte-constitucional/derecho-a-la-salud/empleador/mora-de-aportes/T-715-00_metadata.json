@@ -1,0 +1,43 @@
+{
+  "radicado": "T-715-00",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-06-16",
+  "magistrado_ponente": "Dr ALVARO TAFUR GALVIS",
+  "area": "Derecho a la Salud",
+  "tema": "EMPLEADOR",
+  "subtema": "Mora de aportes",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Decreto 806 de 1998",
+    "Ley 100 de 1993"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/T-715-00.htm",
+  "fecha_descarga": "2026-10-23T03:24:30.222505+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-06-16",
+  "fecha_publicacion": null,
+  "numero": "T-715/00",
+  "tipo_cc": "T",
+  "prov_id": "17300",
+  "tema_relatoria": "DERECHO A LA SALUD. A LA VIDA. AL TRABAJO Y A LA SEGURIDAD SOCIAL. MORA EN EL PAGO DE COTIZACIONES POR PARTE DEL EMPLEADOR. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "EMPLEADOR",
+      "subtema": "Mora de aportes"
+    },
+    {
+      "tema": "ENTIDAD PROMOTORA DE SALUD",
+      "subtema": "Interrupción de servicios"
+    },
+    {
+      "tema": "EMPLEADOR",
+      "subtema": "Asunción de responsabilidad por mora en aportes"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "radicado": "T-1571-00",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-11-21",
+  "magistrado_ponente": "Dr FABIO MORON DIAZ",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "PRINCIPIO A TRABAJO IGUAL SALARIO IGUAL",
+  "subtema": "Alcance",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/T-1571-00.htm",
+  "fecha_descarga": "2026-10-23T03:21:51.647402+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-11-21",
+  "fecha_publicacion": null,
+  "numero": "T-1571/00",
+  "tipo_cc": "T",
+  "prov_id": "18230",
+  "tema_relatoria": "DERECHO AL TRABAJO IGUALDAD Y NIVELACION SALARIAL. PRINCIPIO DE A TRABAJO IGUAL SALARIO IGUAL. CONTRATO A TERMINO FIJO. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "PRINCIPIO A TRABAJO IGUAL SALARIO IGUAL",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "DERECHO AL TRABAJO EN CONDICIONES DIGNAS Y JUSTAS",
+      "subtema": "Modificación de condiciones laborales del trabajador no es absoluta"
+    },
+    {
+      "tema": "IUS VARIANDI",
+      "subtema": "Discrecionalidad limitada de empleador para modificar condiciones laborales del trabajador"
+    }
+  ]
+}

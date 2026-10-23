@@ -1,0 +1,49 @@
+{
+  "radicado": "T-590-00",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-05-18",
+  "magistrado_ponente": "Dr CARLOS GAVIRIA DÍAZ",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "DERECHO DE DEFENSA",
+  "subtema": "Improcedencia de violación por nombramiento de curador ad litem",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/T-590-00.htm",
+  "fecha_descarga": "2026-10-23T03:34:20.140273+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-05-18",
+  "fecha_publicacion": null,
+  "numero": "T-590/00",
+  "tipo_cc": "T",
+  "prov_id": "17172",
+  "tema_relatoria": "DEBIDO PROCESO. VIA DE HECHO. PROCESO EJECUTIVO CON EL BANCO GANADERO. IMPROCEENCIA DE LA TUTELA CUANDO EL ACTOR DEJA PRECLUIR LA OPORTUNIDAD PROCESAL DE DEFENSA. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO DE DEFENSA",
+      "subtema": "Improcedencia de violación por nombramiento de curador ad litem"
+    },
+    {
+      "tema": "PROCESO EJECUTIVO",
+      "subtema": "Nombramiento de curador ad litem"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Improcedencia por preclusión de términos"
+    },
+    {
+      "tema": "LEGITIMACION POR ACTIVA EN PROCESO EJECUTIVO",
+      "subtema": "Entidad bancaria"
+    },
+    {
+      "tema": "PROCESO EJECUTIVO",
+      "subtema": "No concurrencia de los accionantes"
+    }
+  ]
+}

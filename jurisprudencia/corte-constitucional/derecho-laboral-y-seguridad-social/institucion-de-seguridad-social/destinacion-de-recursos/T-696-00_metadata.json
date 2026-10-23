@@ -1,0 +1,54 @@
+{
+  "radicado": "T-696-00",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-06-13",
+  "magistrado_ponente": "Dr ANTONIO BARRERA CARBONELL",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "INSTITUCION DE SEGURIDAD SOCIAL",
+  "subtema": "Destinación de recursos",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 510 de 1999",
+    "Decreto 663 de 1993"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/T-696-00.htm",
+  "fecha_descarga": "2026-10-23T03:24:05.142917+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-06-13",
+  "fecha_publicacion": null,
+  "numero": "T-696/00",
+  "tipo_cc": "T",
+  "prov_id": "17282",
+  "tema_relatoria": "DEVOLUCION DE DINEROS DEPOSITADOS EN ENTIDADES FINANCIERAS QUE CORRESPONDEN A CONTRIBUCIONES PARAFISCALES DESTINADAS A SEGURIDAD SOCIAL. BANCO ANDINO PACIFICO Y SELFIN. CONCEDIDA PARCIALMENTE.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "INSTITUCION DE SEGURIDAD SOCIAL",
+      "subtema": "Destinación de recursos"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Restitución de dineros de entidades financieras por tratarse de recursos con carácter de contribuciones parafiscales"
+    },
+    {
+      "tema": "CONTRIBUCION PARAFISCAL",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "ENTIDAD PROMOTORA DE SALUD",
+      "subtema": "Recursos parafiscales no constituyen patrimonio"
+    },
+    {
+      "tema": "PROCESO DE LIQUIDACION FORZOSA",
+      "subtema": "Intervención de entidades financieras"
+    },
+    {
+      "tema": "SISTEMA GENERAL DE SEGURIDAD SOCIAL EN SALUD",
+      "subtema": "Recursos tienen carácter parafiscal"
+    }
+  ]
+}

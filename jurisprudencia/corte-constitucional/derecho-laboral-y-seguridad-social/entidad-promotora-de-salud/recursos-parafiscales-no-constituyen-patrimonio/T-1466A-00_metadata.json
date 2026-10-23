@@ -1,0 +1,46 @@
+{
+  "radicado": "T-1466A-00",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-10-30",
+  "magistrado_ponente": "Dr FABIO MORON DIAZ",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "ENTIDAD PROMOTORA DE SALUD",
+  "subtema": "Recursos parafiscales no constituyen patrimonio",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 35 de 1993",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/T-1466A-00.htm",
+  "fecha_descarga": "2026-10-23T03:18:54.184667+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-10-30",
+  "fecha_publicacion": null,
+  "numero": "T-1466A/00",
+  "tipo_cc": "T",
+  "prov_id": "18084",
+  "tema_relatoria": "DERECHO A LA SALUD Y SEGURIDAD SOCIAL. CONSIGNACION DE DINEROS DESTINADOS AL PAGO DE SALARIOS Y NO A SEGURIDAD SOCIAL. ENTIDAD EN PROCESO DE LIQUIDACION. NEGADA",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ENTIDAD PROMOTORA DE SALUD",
+      "subtema": "Recursos parafiscales no constituyen patrimonio"
+    },
+    {
+      "tema": "PROCESO DE LIQUIDACION FORZOSA",
+      "subtema": "Intervención de entidades financieras"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Improcedencia para restitución de dineros de entidades financieras por no tener carácter de contribuciones parafiscales"
+    },
+    {
+      "tema": "SISTEMA DE SEGURIDAD SOCIAL",
+      "subtema": "Recursos tienen carácter parafiscal"
+    }
+  ]
+}

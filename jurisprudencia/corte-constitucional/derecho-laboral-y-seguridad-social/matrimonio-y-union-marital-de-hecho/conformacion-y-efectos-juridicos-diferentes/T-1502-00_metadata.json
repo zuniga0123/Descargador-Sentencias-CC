@@ -1,0 +1,64 @@
+{
+  "radicado": "T-1502-00",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-11-02",
+  "magistrado_ponente": "Dr CARLOS GAVIRIA DÍAZ",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "MATRIMONIO Y UNION MARITAL DE HECHO",
+  "subtema": "Conformación y efectos jurídicos diferentes",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Ley 54 de 1990",
+    "Decreto 2591 de 1991",
+    "Ley 21 de 1982"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/T-1502-00.htm",
+  "fecha_descarga": "2026-10-23T03:27:11.079741+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-11-02",
+  "fecha_publicacion": null,
+  "numero": "T-1502/00",
+  "tipo_cc": "T",
+  "prov_id": "18120",
+  "tema_relatoria": "DERECHO A LA VIDA SEGURIDAD SOCIAL E IGUALDAD. SOLICITUD DESAFILIACION DE COMPAÑERA PERMANENTE Y AFILIACION NUEVA COMPAÑERA. HECHO SUPERADO. COBERTURA DEL SERVICIO. HIJASTROS. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "MATRIMONIO Y UNION MARITAL DE HECHO",
+      "subtema": "Conformación y efectos jurídicos diferentes"
+    },
+    {
+      "tema": "IGUALDAD DE DERECHOS Y OBLIGACIONES ENTRE LOS HIJOS",
+      "subtema": null
+    },
+    {
+      "tema": "FAMILIA EN LA CONSTITUCION POLITICA VIGENTE",
+      "subtema": null
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Hecho superado"
+    },
+    {
+      "tema": "MATRIMONIO Y UNION MARITAL DE HECHO",
+      "subtema": "Protección constitucional"
+    },
+    {
+      "tema": "NASCITURUS",
+      "subtema": "Titular de derechos fundamentales"
+    },
+    {
+      "tema": "DERECHO A LA IGUALDAD EN EL SISTEMA DE SEGURIDAD SOCIAL",
+      "subtema": "Cobertura familiar de los hijastros que aporta el compañero"
+    },
+    {
+      "tema": "SISTEMA DE SEGURIDAD SOCIAL",
+      "subtema": "Cobertura del hijo por nacer"
+    }
+  ]
+}

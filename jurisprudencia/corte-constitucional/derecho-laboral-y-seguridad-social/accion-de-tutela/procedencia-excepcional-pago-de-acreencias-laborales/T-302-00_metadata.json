@@ -1,0 +1,61 @@
+{
+  "radicado": "T-302-00",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-03-16",
+  "magistrado_ponente": "Dr JOSÉ GREGORIO HERNÁNDEZ GALINDO",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "ACCIÓN DE TUTELA",
+  "subtema": "Procedencia excepcional pago de acreencias laborales",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/T-302-00.htm",
+  "fecha_descarga": "2026-10-23T03:29:19.067747+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-03-16",
+  "fecha_publicacion": null,
+  "numero": "T-302/00",
+  "tipo_cc": "T",
+  "prov_id": "16849",
+  "tema_relatoria": "DERECHO AL MINIMO VITAL. MORA EN EL PAGO DE SALARIOS Y APORTES EN SALUD. HOSPITAL DEPARTAMENTAL DE BUENAVENTURA. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Procedencia excepcional pago de acreencias laborales"
+    },
+    {
+      "tema": "DERECHO AL SUBSIDIO FAMILIAR DEL NIÑO",
+      "subtema": "Procedencia por tutela"
+    },
+    {
+      "tema": "DERECHO AL TRABAJO EN CONDICIONES DIGNAS Y JUSTAS",
+      "subtema": "Pago oportuno de salarios"
+    },
+    {
+      "tema": "SALARIO",
+      "subtema": "No pago oportuno afecta derechos constitucionales"
+    },
+    {
+      "tema": "DERECHO AL MINIMO VITAL DEL TRABAJADOR",
+      "subtema": "Pago oportuno de salarios"
+    },
+    {
+      "tema": "DERECHO AL PAGO OPORTUNO DEL SALARIO",
+      "subtema": "Fundamental"
+    },
+    {
+      "tema": "EMPLEADOR",
+      "subtema": "Asunción, en principio, servicio de salud por mora en aportes"
+    },
+    {
+      "tema": "SALARIO",
+      "subtema": "Derecho inalienable"
+    }
+  ]
+}

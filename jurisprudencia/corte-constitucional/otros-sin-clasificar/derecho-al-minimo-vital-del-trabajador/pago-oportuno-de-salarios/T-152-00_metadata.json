@@ -1,0 +1,45 @@
+{
+  "radicado": "T-152-00",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-02-22",
+  "magistrado_ponente": "Dr JOSÉ GREGORIO HERNÁNDEZ GALINDO",
+  "area": "Otros - Sin clasificar",
+  "tema": "DERECHO AL MINIMO VITAL DEL TRABAJADOR",
+  "subtema": "Pago oportuno de salarios",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/T-152-00.htm",
+  "fecha_descarga": "2026-10-23T03:27:18.200670+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-02-22",
+  "fecha_publicacion": null,
+  "numero": "T-152/00",
+  "tipo_cc": "T",
+  "prov_id": "16689",
+  "tema_relatoria": "DERECHO AL MINIMO VITAL Y TRABAJO. MORA EN EL PAGO DE SALARIOS. HOSPITAL SAN JUAN DE DIOS. CALI. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO AL MINIMO VITAL DEL TRABAJADOR",
+      "subtema": "Pago oportuno de salarios"
+    },
+    {
+      "tema": "ESTABLECIMIENTO HOSPITALARIO",
+      "subtema": "Pago oportuno de salarios"
+    },
+    {
+      "tema": "EMPLEADOR",
+      "subtema": "Pago oportuno y completo de salarios"
+    },
+    {
+      "tema": "EMPLEADOR",
+      "subtema": "Situación económica o presupuestal no es óbice para desconocer obligaciones laborales"
+    }
+  ]
+}

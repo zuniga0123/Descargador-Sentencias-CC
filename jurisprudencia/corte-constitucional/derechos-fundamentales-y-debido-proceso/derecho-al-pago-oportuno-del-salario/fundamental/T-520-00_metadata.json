@@ -1,0 +1,46 @@
+{
+  "radicado": "T-520-00",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-05-08",
+  "magistrado_ponente": "Dr ALVARO TAFUR GALVIS",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "DERECHO AL PAGO OPORTUNO DEL SALARIO",
+  "subtema": "Fundamental",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 65 de 1993"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/T-520-00.htm",
+  "fecha_descarga": "2026-10-23T03:36:18.428407+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-05-08",
+  "fecha_publicacion": null,
+  "numero": "T-520/00",
+  "tipo_cc": "T",
+  "prov_id": "17086",
+  "tema_relatoria": "DERECHO AL MINIMO VITAL Y TRABAJO. MORA EN EL PAGO DE SALARIOS. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO AL PAGO OPORTUNO DEL SALARIO",
+      "subtema": "Fundamental"
+    },
+    {
+      "tema": "DERECHO A LA SUBSISTENCIA",
+      "subtema": "Retribución salarial"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Procedencia excepcional pago de salarios"
+    },
+    {
+      "tema": "EMPLEADOR",
+      "subtema": "Falta de presupuesto o insolvencia para pago oportuno de salarios no es razón suficiente"
+    }
+  ]
+}

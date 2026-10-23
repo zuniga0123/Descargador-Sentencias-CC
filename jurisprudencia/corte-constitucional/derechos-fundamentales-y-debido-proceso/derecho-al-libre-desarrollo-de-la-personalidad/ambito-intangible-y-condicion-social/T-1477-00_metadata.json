@@ -1,0 +1,42 @@
+{
+  "radicado": "T-1477-00",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-10-30",
+  "magistrado_ponente": "Dr FABIO MORÓN DÍAZ",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "DERECHO AL LIBRE DESARROLLO DE LA PERSONALIDAD",
+  "subtema": "Ambito intangible y condición social",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Decreto 353 de 1984"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/T-1477-00.htm",
+  "fecha_descarga": "2026-10-23T03:39:13.934704+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-10-30",
+  "fecha_publicacion": null,
+  "numero": "T-1477/00",
+  "tipo_cc": "T",
+  "prov_id": "18093",
+  "tema_relatoria": "DERECHO AL LIBRE DESARROLLO DE LA PERSONALIDAD. SOLICITUD DESVINCULACION Y DEVOLUCION DINEROS PAGADOS A AFILIADO FORZOSO. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO AL LIBRE DESARROLLO DE LA PERSONALIDAD",
+      "subtema": "Ambito intangible y condición social"
+    },
+    {
+      "tema": "MEDIO DE DEFENSA JUDICIAL",
+      "subtema": "Controversia surgida en relación con desafiliados a la Caja de vivienda militar"
+    },
+    {
+      "tema": "LIBRE DESARROLLO DE LA PERSONALIDAD",
+      "subtema": "Restricciones y limitaciones"
+    }
+  ]
+}

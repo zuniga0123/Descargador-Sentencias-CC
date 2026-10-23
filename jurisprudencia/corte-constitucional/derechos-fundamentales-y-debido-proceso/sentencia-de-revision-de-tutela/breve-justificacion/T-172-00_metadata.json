@@ -1,0 +1,42 @@
+{
+  "radicado": "T-172-00",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-02-24",
+  "magistrado_ponente": "Dr CARLOS GAVIRIA DÍAZ",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "SENTENCIA DE REVISION DE TUTELA",
+  "subtema": "Breve justificación",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 115 de 1994",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/T-172-00.htm",
+  "fecha_descarga": "2026-10-23T03:21:11.363307+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-02-24",
+  "fecha_publicacion": null,
+  "numero": "T-172/00",
+  "tipo_cc": "T",
+  "prov_id": "16712",
+  "tema_relatoria": "DEBIDO PROCESO EN LA ADJUDICACION DE UNA BECA ESCOLAR. TUTELA INTERPUESTA POR ABUELO. CRITERIOS CONSAGRADOS EN MANUAL DE CONVIVENCIA NO SON CONTRARIOS A LA CONSTITUCION. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "SENTENCIA DE REVISION DE TUTELA",
+      "subtema": "Breve justificación"
+    },
+    {
+      "tema": "REGLAMENTO EDUCATIVO",
+      "subtema": "Estímulos escolares consistente en exoneración de pago de derechos académicos no es fundamental"
+    },
+    {
+      "tema": "REGLAMENTO EDUCATIVO",
+      "subtema": "Beca escolar"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "radicado": "T-155-00",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-02-22",
+  "magistrado_ponente": "Dr JOSÉ GREGORIO HERNÁNDEZ GALINDO",
+  "area": "Derecho a la Salud",
+  "tema": "DERECHO A LA VIDA",
+  "subtema": "No suministro de oxígeno en el domicilio del paciente",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/T-155-00.htm",
+  "fecha_descarga": "2026-10-23T03:28:03.420898+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-02-22",
+  "fecha_publicacion": null,
+  "numero": "T-155/00",
+  "tipo_cc": "T",
+  "prov_id": "16692",
+  "tema_relatoria": "DERECHO A LA SALUD Y VIDA. DEBER DE LA E.P.S. DE SUMINISTRAR MEDICAMENTOS EN LA FORMA PRESCRITA POR EL MEDICO TRATANTE. NO SUMINISTRO DE OXIGENO A DOMICILIO POR EL ISS. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA VIDA",
+      "subtema": "No suministro de oxígeno en el domicilio del paciente"
+    },
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "No suministro de oxígeno en domicilio del paciente"
+    },
+    {
+      "tema": "LEGITIMACION POR PASIVA EN TUTELA",
+      "subtema": "Conocimiento de la acción por funcionario y no por representante legal"
+    },
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Suministro de medicamentos en la forma prescrita por el médico tratante"
+    }
+  ]
+}

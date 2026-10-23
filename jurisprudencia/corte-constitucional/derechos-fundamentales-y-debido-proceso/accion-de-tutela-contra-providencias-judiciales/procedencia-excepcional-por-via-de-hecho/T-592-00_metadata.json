@@ -1,0 +1,41 @@
+{
+  "radicado": "T-592-00",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-05-18",
+  "magistrado_ponente": "Dr ALFREDO BELTRÁN SIERRA",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+  "subtema": "Procedencia excepcional por vía de hecho",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Acto Legislativo 1 de 1997"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/T-592-00.htm",
+  "fecha_descarga": "2026-10-23T03:34:27.368696+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-05-18",
+  "fecha_publicacion": null,
+  "numero": "T-592/00",
+  "tipo_cc": "T",
+  "prov_id": "17174",
+  "tema_relatoria": "DEBIDO PROCESO. VIA DE HECHO. DECISION SOBRE UNA SOLICITUD DE HABEAS CORPUS. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Procedencia excepcional por vía de hecho"
+    },
+    {
+      "tema": "PRINCIPIO DE CONGRUENCIA DE LAS SENTENCIAS",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "VIA DE HECHO",
+      "subtema": "Clases de defectos en la actuación"
+    }
+  ]
+}

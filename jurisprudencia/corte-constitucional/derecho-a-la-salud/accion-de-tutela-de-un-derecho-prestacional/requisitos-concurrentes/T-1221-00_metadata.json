@@ -1,0 +1,55 @@
+{
+  "radicado": "T-1221-00",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-09-20",
+  "magistrado_ponente": "Dr ALEJANDRO MARTÍNEZ CABALLERO",
+  "area": "Derecho a la Salud",
+  "tema": "ACCION DE TUTELA DE UN DERECHO PRESTACIONAL",
+  "subtema": "Requisitos concurrentes",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Decreto 806 de 1998",
+    "Ley 508 de 1999"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/T-1221-00.htm",
+  "fecha_descarga": "2026-10-23T03:19:26.889417+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-09-20",
+  "fecha_publicacion": null,
+  "numero": "T-1221/00",
+  "tipo_cc": "T",
+  "prov_id": "17868",
+  "tema_relatoria": "DERECHO A LA VIDA A LA SALUD A LA DIGNIDAD HUMANA Y A LA INTEGRIDAD FISICA. TRANSPLANTE HEPATICO NO PREVISTO EN EL POS. SUMINISTRO DE MEDICAMENTO O TRATAMIENTO REQUERIDO. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCION DE TUTELA DE UN DERECHO PRESTACIONAL",
+      "subtema": "Requisitos concurrentes"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Procedencia por transplante de hígado"
+    },
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Fundamental por conexidad con la vida"
+    },
+    {
+      "tema": "DERECHOS FUNDAMENTALES",
+      "subtema": "Vulneración por no realizar transplante de hígado"
+    },
+    {
+      "tema": "ENTIDAD PROMOTORA DE SALUD",
+      "subtema": "Repetición contra el FOSYGA"
+    },
+    {
+      "tema": "INAPLICACION DE NORMAS DEL PLAN OBLIGATORIO DE SALUD",
+      "subtema": "Casos en que procede por exclusión de tratamientos y medicamentos de alto costo"
+    }
+  ]
+}

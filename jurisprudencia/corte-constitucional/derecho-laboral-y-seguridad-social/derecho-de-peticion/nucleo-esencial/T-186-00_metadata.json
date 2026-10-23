@@ -1,0 +1,43 @@
+{
+  "radicado": "T-186-00",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-02-28",
+  "magistrado_ponente": "Dr JOSÉ GREGORIO HERNÁNDEZ GALINDO",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "DERECHO DE PETICIÓN",
+  "subtema": "Núcleo esencial",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Decreto 656 de 1994",
+    "Ley 100 de 1993"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/T-186-00.htm",
+  "fecha_descarga": "2026-10-23T03:23:43.755318+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-02-28",
+  "fecha_publicacion": null,
+  "numero": "T-186/00",
+  "tipo_cc": "T",
+  "prov_id": "16725",
+  "tema_relatoria": "DERECHO DE PETICION. SOLICITUD RECONOCIMIENTO PENSION DE VEJEZ ANTE EL ISS. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO DE PETICIÓN",
+      "subtema": "Núcleo esencial"
+    },
+    {
+      "tema": "DERECHO DE PETICION ANTE EL SEGURO SOCIAL",
+      "subtema": "Término de quince días para responder sobre reconocimiento pensión de vejez"
+    },
+    {
+      "tema": "SOCIEDAD ADMINISTRADORA DE PENSIONES",
+      "subtema": "Término de cuatro meses para responder sobre reconocimiento de pensión de vejez"
+    }
+  ]
+}

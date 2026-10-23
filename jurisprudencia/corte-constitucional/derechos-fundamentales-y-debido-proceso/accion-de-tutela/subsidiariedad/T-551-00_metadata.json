@@ -1,0 +1,46 @@
+{
+  "radicado": "T-551-00",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-05-15",
+  "magistrado_ponente": "Dr ANTONIO BARRERA CARBONELL",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCIÓN DE TUTELA",
+  "subtema": "Subsidiariedad",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 111 de 1996",
+    "Ley 446 de 1998"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/T-551-00.htm",
+  "fecha_descarga": "2026-10-23T03:33:22.087177+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-05-15",
+  "fecha_publicacion": null,
+  "numero": "T-551/00",
+  "tipo_cc": "T",
+  "prov_id": "17124",
+  "tema_relatoria": "DEBIDO PROCESO. REVOCATORIA Y LEVANTAMIENTO DE MEDIDAS CAUTELARES EN PROCESO EJECUTIVO. GOBERNADOR DEL CAUCA. NO SE AGOTARON LOS RECURSOS DE LEY. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Subsidiariedad"
+    },
+    {
+      "tema": "MEDIO DE DEFENSA JUDICIAL",
+      "subtema": "Eficacia"
+    },
+    {
+      "tema": "DEBIDO PROCESO",
+      "subtema": "No interposición de recursos"
+    },
+    {
+      "tema": "DEBIDO PROCESO",
+      "subtema": "Vulneración por proferir órdenes de embargo contra rentas departamentales"
+    }
+  ]
+}

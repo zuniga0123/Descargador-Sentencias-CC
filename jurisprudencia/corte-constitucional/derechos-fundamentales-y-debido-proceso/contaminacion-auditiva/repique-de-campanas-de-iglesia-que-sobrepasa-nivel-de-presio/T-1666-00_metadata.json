@@ -1,0 +1,50 @@
+{
+  "radicado": "T-1666-00",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-12-05",
+  "magistrado_ponente": "Dr CARLOS GAVIRIA DÍAZ",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "CONTAMINACION AUDITIVA",
+  "subtema": "Repique de campanas de iglesia que sobrepasa nivel de presión sonora",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 472 de 1998",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/T-1666-00.htm",
+  "fecha_descarga": "2026-10-23T03:30:44.228464+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-12-05",
+  "fecha_publicacion": null,
+  "numero": "T-1666/00",
+  "tipo_cc": "T",
+  "prov_id": "18333",
+  "tema_relatoria": "DERECHO A LA INTIMIDAD TRANQUILIDAD Y DEBIDO PROCESO. CONTAMINACION AUDITIVA. SONIDO DE CAMPANAS QUE SOBREPASAN LOS LIMITES PERMITIDOS. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "CONTAMINACION AUDITIVA",
+      "subtema": "Repique de campanas de iglesia que sobrepasa nivel de presión sonora"
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA PARTICULARES",
+      "subtema": "Indefensión"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Trámite policivo no justifica improcedencia"
+    },
+    {
+      "tema": "DERECHO A LA TRANQUILIDAD",
+      "subtema": "Injerencia por ruido molesto y evitable de campanas de iglesia"
+    },
+    {
+      "tema": "DERECHO A LA INTIMIDAD PERSONAL Y FAMILIAR",
+      "subtema": "Injerencia por ruido molesto y evitable de campanas de iglesia"
+    }
+  ]
+}

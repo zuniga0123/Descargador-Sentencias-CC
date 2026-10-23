@@ -1,0 +1,38 @@
+{
+  "radicado": "T-908-00",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-07-17",
+  "magistrado_ponente": "Dr ALEJANDRO MARTÍNEZ CABALLERO",
+  "area": "Derecho a la Salud",
+  "tema": "ADMINISTRADORA DEL REGIMEN SUBSIDIADO",
+  "subtema": "Información al afiliado sobre posibilidad de atención en servicio no incluido en POS",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Decreto 806 de 1998"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/T-908-00.htm",
+  "fecha_descarga": "2026-10-23T03:40:14.694426+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-07-17",
+  "fecha_publicacion": null,
+  "numero": "T-908/00",
+  "tipo_cc": "T",
+  "prov_id": "17502",
+  "tema_relatoria": "DERECHO A LA SALUD Y A LA IGUALDAD DE AFILIADA AL REGIMEN SUBSIDIADO DE SEGURIDAD SOCIAL EN SALUD. PRACTICA DE UN ECOCARDIOGRAMA. PRESTACION DE SERVICIO MEDICO NO INCLUIDO EN EL POS. CONCEDIDA",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ADMINISTRADORA DEL REGIMEN SUBSIDIADO",
+      "subtema": "Información al afiliado sobre posibilidad de atención en servicio no incluido en POS"
+    },
+    {
+      "tema": "PLAN OBLIGATORIO DE SALUD SUBSIDIADO",
+      "subtema": "Instituciones públicas o privadas con las cuales el Estado tenga contrato"
+    }
+  ]
+}

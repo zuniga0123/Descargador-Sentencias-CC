@@ -1,0 +1,66 @@
+{
+  "radicado": "T-156-00",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-02-22",
+  "magistrado_ponente": "Dr JOSE GREGORIO HERNANDEZ GALINDO",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "MINIMO VITAL",
+  "subtema": "No es un concepto equivalente a salario mínimo",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 100 de 1993"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/T-156-00.htm",
+  "fecha_descarga": "2026-10-23T03:28:14.237201+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-02-22",
+  "fecha_publicacion": null,
+  "numero": "T-156/00",
+  "tipo_cc": "T",
+  "prov_id": "16693",
+  "tema_relatoria": "SUSPENSION DEL PAGO DE LA PENSION DE JUBILACION. INSUFICIENCIA DE INGRESOS PARA ASEGURAR MINIMO VITAL. NO HAY INCOMPATIBILIDAD ENTRE PENSION DE VEJEZ Y PENSION CONVENCIONAL. AVIANCA. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "MINIMO VITAL",
+      "subtema": "No es un concepto equivalente a salario mínimo"
+    },
+    {
+      "tema": "ACCION DE TUTELA FRENTE A MEDIO DE DEFENSA JUDICIAL",
+      "subtema": "Procedencia excepcional como mecanismo transitorio para evitar un perjuicio irremediable"
+    },
+    {
+      "tema": "ACCION DE TUTELA TRANSITORIA DE PERSONA DE LA TERCERA EDAD",
+      "subtema": "Despojo unilateral de pensión de jubilación convencional por considerarse incompatible con la invalidez"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Procedencia excepcional pago de acreencias laborales"
+    },
+    {
+      "tema": "DERECHO A LA VIDA DIGNA",
+      "subtema": "Despojo unilateral de pensión de jubilación convencional por considerarse incompatibles con la de invalidez"
+    },
+    {
+      "tema": "MEDIO DE DEFENSA JUDICIAL",
+      "subtema": "Reconocimiento de prestaciones sociales"
+    },
+    {
+      "tema": "MINIMO VITAL",
+      "subtema": "La suficiencia o no de los ingresos para asegurarlo debe cotejarse con la realidad y no con asignaciones formales"
+    },
+    {
+      "tema": "DEBIDO PROCESO",
+      "subtema": "Despojo unilateral de pensión de jubilación convencional por considerarse incompatible con la de invalidez"
+    },
+    {
+      "tema": "PENSION DE JUBILACION POR CONVENCION Y PENSION DE INVALIDEZ",
+      "subtema": "Improcedencia de tutela para establecer compatibilidades"
+    }
+  ]
+}

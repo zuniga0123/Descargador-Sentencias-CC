@@ -1,0 +1,53 @@
+{
+  "radicado": "T-1682-00",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-12-07",
+  "magistrado_ponente": "Dr ALVARO TAFUR GALVIS",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "LIBERTAD DE INFORMACIÓN",
+  "subtema": "Condiciones de veracidad e imparcialidad",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 225 de 1995",
+    "Decreto 568 de 1996",
+    "Decreto 111 de 1996",
+    "Decreto 2591 de 1991",
+    "Decreto 2191 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/T-1682-00.htm",
+  "fecha_descarga": "2026-10-23T03:31:13.436006+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-12-07",
+  "fecha_publicacion": null,
+  "numero": "T-1682/00",
+  "tipo_cc": "T",
+  "prov_id": "18350",
+  "tema_relatoria": "DERECHO A LA HORA Y BUEN NOMBRE. PRESUNCION DE INOCENCIA E INFORMACION VERAZ E IMPARCIAL. RECTIFICACION DE INFORMACION. PROTECCION Y PREVALENCIA DE LA LIBERTAD DE EXPRESION. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "LIBERTAD DE INFORMACIÓN",
+      "subtema": "Condiciones de veracidad e imparcialidad"
+    },
+    {
+      "tema": "PRINCIPIO DE VERACIDAD E IMPARCIALIDAD EN LA INFORMACION",
+      "subtema": "Alcance y situaciones"
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA MEDIOS DE COMUNICACION",
+      "subtema": "Solicitud previa de rectificación de datos publicados"
+    },
+    {
+      "tema": "INFORMACION VERAZ E IMPARCIAL",
+      "subtema": "Publicación de artículo en la revista Cambio"
+    },
+    {
+      "tema": "INDEFENSION",
+      "subtema": "Persona respecto a medios de información"
+    }
+  ]
+}

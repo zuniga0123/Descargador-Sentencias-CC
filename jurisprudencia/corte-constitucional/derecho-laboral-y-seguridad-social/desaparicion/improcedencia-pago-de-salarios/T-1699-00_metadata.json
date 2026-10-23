@@ -1,0 +1,45 @@
+{
+  "radicado": "T-1699-00",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-12-07",
+  "magistrado_ponente": "Dra MARTHA VICTORIA SÁCHICA MÉNDEZ",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "DESAPARICION",
+  "subtema": "Improcedencia pago de salarios",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/T-1699-00.htm",
+  "fecha_descarga": "2026-10-23T03:20:56.923528+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-12-07",
+  "fecha_publicacion": null,
+  "numero": "T-1699/00",
+  "tipo_cc": "T",
+  "prov_id": "18364",
+  "tema_relatoria": "DERECHO A LA VIDA. SOLICITUD SUSTITUCION PENSIONAL POR MADRE DE SOLDADO SECUESTRADO. RECONOCIMIENTO EN CASO DE DESAPARECIMIENTO DEL TITULAR DE LA PENSION. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DESAPARICION",
+      "subtema": "Improcedencia pago de salarios"
+    },
+    {
+      "tema": "PRESUNCION DE MUERTE POR DESAPARECIMIENTO",
+      "subtema": "Improcedencia de declaración por juez de tutela"
+    },
+    {
+      "tema": "SECUESTRO",
+      "subtema": "Pago de salarios previa existencia de plena prueba"
+    },
+    {
+      "tema": "SUSTITUCION PENSIONAL POR DESAPARECIMIENTO",
+      "subtema": "Improcedencia de declaración por juez de tutela"
+    }
+  ]
+}

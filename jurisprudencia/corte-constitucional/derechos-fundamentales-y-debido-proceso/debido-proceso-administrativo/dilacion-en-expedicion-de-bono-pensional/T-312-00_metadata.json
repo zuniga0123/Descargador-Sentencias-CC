@@ -1,0 +1,45 @@
+{
+  "radicado": "T-312-00",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-03-21",
+  "magistrado_ponente": "Dr JOSÉ GREGORIO HERNÁNDEZ GALINDO",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "DEBIDO PROCESO ADMINISTRATIVO",
+  "subtema": "Dilación en expedición de bono pensional",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Decreto 1474 de 1997",
+    "Decreto 1668 de 1997",
+    "Decreto 1513 de 1998",
+    "Decreto 2354 de 1998"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/T-312-00.htm",
+  "fecha_descarga": "2026-10-23T03:29:47.574975+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-03-21",
+  "fecha_publicacion": null,
+  "numero": "T-312/00",
+  "tipo_cc": "T",
+  "prov_id": "16859",
+  "tema_relatoria": "DERECHO A LA VIDA SALUD Y SEGURIDAD SOCIAL. DEBIDO PROCESO ADMINISTRATIVO. NO EXPEDICION DEL BONO PENSIONAL. CONCEDIDA",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DEBIDO PROCESO ADMINISTRATIVO",
+      "subtema": "Dilación en expedición de bono pensional"
+    },
+    {
+      "tema": "DEBIDO PROCESO ADMINISTRATIVO Y SEGURIDAD SOCIAL",
+      "subtema": "Expedición de bono pensional hasta que controversia se defina por juez competente"
+    },
+    {
+      "tema": "MEDIO DE DEFENSA JUDICIAL INEFICAZ",
+      "subtema": "Demora en definición de asunto y escasez de recursos para pagar servicios de abogado"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "radicado": "T-213-00",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-03-02",
+  "magistrado_ponente": "Dr ALVARO TAFUR GALVIS",
+  "area": "Derecho Penal y Sistema Acusatorio",
+  "tema": "LIBERTAD PROVISIONAL",
+  "subtema": "Improcedencia",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 365 de 1997",
+    "Ley 415 de 1997",
+    "Decreto 2591 de 1991",
+    "Ley 40 de 1993",
+    "Ley 30 de 1986",
+    "Ley 2266 de 1991",
+    "Ley 190 de 1995",
+    "Ley 360 de 1997"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/T-213-00.htm",
+  "fecha_descarga": "2026-10-23T03:37:02.154293+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-03-02",
+  "fecha_publicacion": null,
+  "numero": "T-213/00",
+  "tipo_cc": "T",
+  "prov_id": "16755",
+  "tema_relatoria": "VIA DE HECHO. CIUDADANO ALEMAN DETENIDO EN COLOMBIA. NO EXISTE DETENCION ARBITRARIA. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "LIBERTAD PROVISIONAL",
+      "subtema": "Improcedencia"
+    },
+    {
+      "tema": "VIA DE HECHO",
+      "subtema": "Error manifiesto en proceso penal"
+    },
+    {
+      "tema": "LIBERTAD CONDICIONAL",
+      "subtema": "Requisitos para otorgarla"
+    },
+    {
+      "tema": "JUEZ DE TUTELA",
+      "subtema": "Cautela en evaluación probatoria en proceso penal"
+    }
+  ]
+}

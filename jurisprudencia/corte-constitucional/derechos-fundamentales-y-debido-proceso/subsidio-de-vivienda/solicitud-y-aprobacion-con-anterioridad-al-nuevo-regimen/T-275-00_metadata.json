@@ -1,0 +1,49 @@
+{
+  "radicado": "T-275-00",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-03-09",
+  "magistrado_ponente": "Dr EDUARDO CIFUENTES MUÑOZ",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "SUBSIDIO DE VIVIENDA",
+  "subtema": "Solicitud y aprobación con anterioridad al nuevo régimen",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 824 de 1999"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/T-275-00.htm",
+  "fecha_descarga": "2026-10-23T03:28:32.160265+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-03-09",
+  "fecha_publicacion": null,
+  "numero": "T-275/00",
+  "tipo_cc": "T",
+  "prov_id": "16822",
+  "tema_relatoria": "TUTELA CONTRA COLSUBSIDIO POR SUBSIDIO DE VIVIENDA. ADQUISICION DE VIVIENDA NUEVA O USADA. NO FUE POSIBLE NOTIFICAR AL DEMANDANTE PARA QUE EXPLICARA SUS RAZONES. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "SUBSIDIO DE VIVIENDA",
+      "subtema": "Solicitud y aprobación con anterioridad al nuevo régimen"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Acreditación suficiente de afectación de interés jurídico"
+    },
+    {
+      "tema": "MEDIO DE DEFENSA JUDICIAL",
+      "subtema": "Controversia relacionadas con la aplicación de normas legales"
+    },
+    {
+      "tema": "DEMANDA DE TUTELA",
+      "subtema": "Mínimo de diligencia procesal del accionante"
+    },
+    {
+      "tema": "INFORMES EN REVISION DE TUTELA",
+      "subtema": "No suministro por el accionante pese a utilización de poderes oficiosos"
+    }
+  ]
+}

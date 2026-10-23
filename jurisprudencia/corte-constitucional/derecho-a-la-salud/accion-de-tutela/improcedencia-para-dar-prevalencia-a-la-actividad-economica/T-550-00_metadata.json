@@ -1,0 +1,69 @@
+{
+  "radicado": "T-550-00",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-05-15",
+  "magistrado_ponente": "Dr ANTONIO BARRERA CARBONELL",
+  "area": "Derecho a la Salud",
+  "tema": "ACCIÓN DE TUTELA",
+  "subtema": "Improcedencia para dar prevalencia a la actividad económica",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 99 de 1993"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/T-550-00.htm",
+  "fecha_descarga": "2026-10-23T03:33:18.383522+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-05-15",
+  "fecha_publicacion": null,
+  "numero": "T-550/00",
+  "tipo_cc": "T",
+  "prov_id": "17123",
+  "tema_relatoria": "DERECHO A LA SALUD VIDA Y AMBIENTE SANO. EMISIONES DE POLVO PROVENIENTES DE EXPLOTACION MINERA. MEDIO DE DEFENSA JUDICIAL. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Improcedencia para dar prevalencia a la actividad económica"
+    },
+    {
+      "tema": "DERECHO AL AMBIENTE SANO",
+      "subtema": "Eliminación de funcionamiento de cantera"
+    },
+    {
+      "tema": "DERECHO AL AMBIENTE SANO",
+      "subtema": "Calidad de vida"
+    },
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Calidad de vida"
+    },
+    {
+      "tema": "AUTORIDAD AMBIENTAL",
+      "subtema": "Control de contaminación"
+    },
+    {
+      "tema": "AUTORIDAD AMBIENTAL",
+      "subtema": "Competencia para determinar funcionamiento de cantera"
+    },
+    {
+      "tema": "AUTORIDAD ADMINISTRATIVA",
+      "subtema": "Omisión"
+    },
+    {
+      "tema": "DERECHOS COLECTIVOS",
+      "subtema": "Protección excepcional por tutela"
+    },
+    {
+      "tema": "MEDIO AMBIENTE SANO",
+      "subtema": "Preservación"
+    },
+    {
+      "tema": "LIBERTAD DE ACTIVIDAD ECONOMICA",
+      "subtema": "Limitaciones"
+    }
+  ]
+}

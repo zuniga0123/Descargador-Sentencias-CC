@@ -1,0 +1,45 @@
+{
+  "radicado": "T-676-00",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-06-12",
+  "magistrado_ponente": "Dr JOSÉ GREGORIO HERNÁNDEZ GALINDO",
+  "area": "Derecho a la Salud",
+  "tema": "DERECHO A LA SALUD DE PERSONA DISMINUIDA PSIQUICAMENTE",
+  "subtema": "Protección especial",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/T-676-00.htm",
+  "fecha_descarga": "2026-10-23T03:26:17.017205+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-06-12",
+  "fecha_publicacion": null,
+  "numero": "T-676/00",
+  "tipo_cc": "T",
+  "prov_id": "17262",
+  "tema_relatoria": "DERECHO A LA SALUD VIDA Y IGUALDAD. SUSPENSION DEL SERVICIO DE SALUD A BENEFICIARIO INTERDICTO POR MUERTE DE SU MADRE. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA SALUD DE PERSONA DISMINUIDA PSIQUICAMENTE",
+      "subtema": "Protección especial"
+    },
+    {
+      "tema": "DERECHO DE PETICIÓN",
+      "subtema": "No se vulnera cuando no ha transcurrido el plazo legal para responder"
+    },
+    {
+      "tema": "REGIMEN CONTRIBUTIVO",
+      "subtema": "Naturaleza"
+    },
+    {
+      "tema": "REGIMEN CONTRIBUTIVO DE SEGURIDAD SOCIAL EN SALUD",
+      "subtema": "Naturaleza"
+    }
+  ]
+}

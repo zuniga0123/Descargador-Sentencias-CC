@@ -1,0 +1,45 @@
+{
+  "radicado": "T-965-00",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-07-31",
+  "magistrado_ponente": "Dr EDUARDO CIFUENTES MUÑOZ",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCIÓN DE TUTELA",
+  "subtema": "Procedencia excepcional para revocar orden de traslado",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/T-965-00.htm",
+  "fecha_descarga": "2026-10-23T03:40:54.171204+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-07-31",
+  "fecha_publicacion": null,
+  "numero": "T-965/00",
+  "tipo_cc": "T",
+  "prov_id": "17560",
+  "tema_relatoria": "DERECHO AL TRABAJO EN CONDICIONES DIGNAS Y JUSTAS. A LA EDUCACION. DEBIDO PROCESO. TRASLADO POR NECESIDAD DEL SERVICIO. NEGADA",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Procedencia excepcional para revocar orden de traslado"
+    },
+    {
+      "tema": "JURISDICCION CONTENCIOSO ADMINISTRATIVA",
+      "subtema": "Verificación legalidad de traslado"
+    },
+    {
+      "tema": "MEDIO DE DEFENSA JUDICIAL EFICAZ",
+      "subtema": "Verificación legalidad de traslado"
+    },
+    {
+      "tema": "EMPLEADOR",
+      "subtema": "Traslado por necesidades del servicio"
+    }
+  ]
+}

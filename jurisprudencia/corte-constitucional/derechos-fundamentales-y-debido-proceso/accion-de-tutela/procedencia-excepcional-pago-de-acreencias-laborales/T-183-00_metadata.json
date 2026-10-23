@@ -1,0 +1,58 @@
+{
+  "radicado": "T-183-00",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-02-28",
+  "magistrado_ponente": "Dr JOSÉ GREGORIO HERNÁNDEZ GALINDO",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCIÓN DE TUTELA",
+  "subtema": "Procedencia excepcional pago de acreencias laborales",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 50 de 1990"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/T-183-00.htm",
+  "fecha_descarga": "2026-10-23T03:23:40.233123+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-02-28",
+  "fecha_publicacion": null,
+  "numero": "T-183/00",
+  "tipo_cc": "T",
+  "prov_id": "16723",
+  "tema_relatoria": "DERECHO AL TRABAJO EN CONDICIOES DIGNAS Y JUSTAS Y MINIMO VITAL. DEBIDO PROCESO. TUTELA CONTRA PARTICULARES. MORA EN EL PAGO DE SALARIOS. SUSPENSION DE ACTIVIDADES DE LA EMPRESA \"INVERSIONES DUQUE AGUILERA CIA LTDA\". CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Procedencia excepcional pago de acreencias laborales"
+    },
+    {
+      "tema": "SUBORDINACION LABORAL",
+      "subtema": "Pago oportuno de salarios"
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA PARTICULARES",
+      "subtema": "Procedencia excepcional"
+    },
+    {
+      "tema": "DERECHO AL MINIMO VITAL DEL TRABAJADOR",
+      "subtema": "Presunción de afectación por ausencia prolongada en pago de salarios"
+    },
+    {
+      "tema": "EMPLEADOR",
+      "subtema": "Situación económica o presupuestal no es óbice para desconocer obligaciones laborales"
+    },
+    {
+      "tema": "SUSPENSION DE CONTRATO DE TRABAJO",
+      "subtema": "Suspensión de actividades o clausura temporal de empresa previa autorización del Ministerio de Trabajo"
+    },
+    {
+      "tema": "SUSPENSION DE ACTIVIDAD ECONOMICA DE EMPRESA",
+      "subtema": "Autorización previa del Ministerio de Trabajo"
+    }
+  ]
+}

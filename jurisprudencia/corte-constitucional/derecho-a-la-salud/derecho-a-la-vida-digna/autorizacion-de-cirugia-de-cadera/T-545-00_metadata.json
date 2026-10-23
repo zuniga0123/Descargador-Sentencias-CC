@@ -1,0 +1,64 @@
+{
+  "radicado": "T-545-00",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-05-15",
+  "magistrado_ponente": "Dr VLADIMIRO NARANJO MESA",
+  "area": "Derecho a la Salud",
+  "tema": "DERECHO A LA VIDA DIGNA",
+  "subtema": "Autorización de cirugía de cadera",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Decreto 1818 de 1996",
+    "Decreto 806 de 1998",
+    "Ley 100 de 1993"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/T-545-00.htm",
+  "fecha_descarga": "2026-10-23T03:36:50.949408+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-05-15",
+  "fecha_publicacion": null,
+  "numero": "T-545/00",
+  "tipo_cc": "T",
+  "prov_id": "17118",
+  "tema_relatoria": "DERECHO A LA VIDA Y SALUD. OMISION DEL ISS EN REALIZAR CIRUGIA DE CADERA. HECHO SUPERADO. CARENCIA ACTUAL DE OBJETO. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA VIDA DIGNA",
+      "subtema": "Autorización de cirugía de cadera"
+    },
+    {
+      "tema": "DERECHO A LA VIDA DIGNA",
+      "subtema": "Alcance respecto de la salud"
+    },
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Incumplimiento del empleador en trasladar aportes a seguridad social"
+    },
+    {
+      "tema": "MORA PATRONAL",
+      "subtema": "Prestación de servicios de salud primaria o subsidiariamente"
+    },
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Fundamental por conexidad"
+    },
+    {
+      "tema": "DERECHO A LA VIDA DIGNA",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Hecho consumado"
+    },
+    {
+      "tema": "ENTIDAD PROMOTORA DE SALUD",
+      "subtema": "Repetición contra el empleador"
+    }
+  ]
+}

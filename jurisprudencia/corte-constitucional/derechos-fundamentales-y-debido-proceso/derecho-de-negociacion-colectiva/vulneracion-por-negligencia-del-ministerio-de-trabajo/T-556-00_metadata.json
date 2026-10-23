@@ -1,0 +1,50 @@
+{
+  "radicado": "T-556-00",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-05-08",
+  "magistrado_ponente": "Dr EDUARDO CIFUENTES MUÑOZ",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "DERECHO DE NEGOCIACION COLECTIVA",
+  "subtema": "Vulneración por negligencia del Ministerio de Trabajo",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 1469 de 1978",
+    "Decreto 1741 de 1993"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/T-556-00.htm",
+  "fecha_descarga": "2026-10-23T03:33:33.725469+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-05-08",
+  "fecha_publicacion": null,
+  "numero": "T-556/00",
+  "tipo_cc": "T",
+  "prov_id": "17094",
+  "tema_relatoria": "NEGOCIACION COLECTIVA. ASOCIACION SINDICAL. DEBIDO PROCESO. IMPROCEDENCIA DE TRIBUNAL DE ARBITRAMENTO. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO DE NEGOCIACION COLECTIVA",
+      "subtema": "Vulneración por negligencia del Ministerio de Trabajo"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Hecho consumado"
+    },
+    {
+      "tema": "DERECHO DE PETICIÓN",
+      "subtema": "Omisión del Ministerio de Trabajo de dar respuesta oportuna y eficaz"
+    },
+    {
+      "tema": "HUELGA",
+      "subtema": "Prohibición en empresas que presten servicios públicos esenciales"
+    },
+    {
+      "tema": "TRIBUNAL DE ARBITRAMENTO OBLIGATORIO",
+      "subtema": "Procedencia frente a empresas de servicios públicos esenciales"
+    }
+  ]
+}

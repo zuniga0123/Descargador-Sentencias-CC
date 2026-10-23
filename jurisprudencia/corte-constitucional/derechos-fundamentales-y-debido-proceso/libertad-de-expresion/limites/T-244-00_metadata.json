@@ -1,0 +1,53 @@
+{
+  "radicado": "T-244-00",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-03-03",
+  "magistrado_ponente": "Dr FABIO MORON DIAZ",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "LIBERTAD DE EXPRESIÓN",
+  "subtema": "Límites",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/T-244-00.htm",
+  "fecha_descarga": "2026-10-23T03:38:06.026066+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-03-03",
+  "fecha_publicacion": null,
+  "numero": "T-244/00",
+  "tipo_cc": "T",
+  "prov_id": "16786",
+  "tema_relatoria": "TUTELA CONTRA PARTICULARES. PUBLICACION DE LIBRO NO AFECTA INTIMIDAD PERSONAL O FAMILIAR NI BUEN NOMBRE DE LA DEMANDANTE. CRIMEN EN TUNJA. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "LIBERTAD DE EXPRESIÓN",
+      "subtema": "Límites"
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA PARTICULARES",
+      "subtema": "Publicación de libro"
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA ESCRITOR",
+      "subtema": null
+    },
+    {
+      "tema": "DERECHO AL BUEN NOMBRE",
+      "subtema": "Autor de libro"
+    },
+    {
+      "tema": "LIBERTAD DE INFORMACIÓN",
+      "subtema": "Exigencias"
+    },
+    {
+      "tema": "DERECHO A LA INTIMIDAD",
+      "subtema": "Autor de libro"
+    }
+  ]
+}

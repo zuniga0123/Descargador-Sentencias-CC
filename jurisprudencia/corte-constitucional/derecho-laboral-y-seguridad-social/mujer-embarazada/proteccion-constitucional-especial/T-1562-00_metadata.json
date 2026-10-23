@@ -1,0 +1,46 @@
+{
+  "radicado": "T-1562-00",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-11-23",
+  "magistrado_ponente": "Dra CRISTINA PARDO SCHLESINGER",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "MUJER EMBARAZADA",
+  "subtema": "Protección constitucional especial",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 50 de 1990",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/T-1562-00.htm",
+  "fecha_descarga": "2026-10-23T03:28:24.940695+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-11-23",
+  "fecha_publicacion": null,
+  "numero": "T-1562/00",
+  "tipo_cc": "T",
+  "prov_id": "18272",
+  "tema_relatoria": "DERECHO AL TRABAJO. ESTABILIDAD LABORAL REFORZADA DE LA MUJER EMBARAZADA. NATURALEZA JURIDICA DEL CONTRATO TEMPORAL DE TRABAJO. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "MUJER EMBARAZADA",
+      "subtema": "Protección constitucional especial"
+    },
+    {
+      "tema": "ACCION DE TUTELA TRANSITORIA DE MUJER EMBARAZADA",
+      "subtema": null
+    },
+    {
+      "tema": "CONTRATO TEMPORAL DE TRABAJO",
+      "subtema": "Terminación de la obra contratada"
+    },
+    {
+      "tema": "EMPRESA DE SERVICIOS TEMPORALES",
+      "subtema": "Usuarios"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "radicado": "T-900-00",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-07-17",
+  "magistrado_ponente": "Dr ALEJANDRO MARTINEZ CABALLERO",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "DERECHO A LA ESTABILIDAD LABORAL REFORZADA DE MUJER EMBARAZADA",
+  "subtema": "Pago oportuno de remuneración o subsidio legal por afectación del mínimo vital",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 50 de 1990"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/T-900-00.htm",
+  "fecha_descarga": "2026-10-23T03:40:07.574376+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-07-17",
+  "fecha_publicacion": null,
+  "numero": "T-900/00",
+  "tipo_cc": "T",
+  "prov_id": "17494",
+  "tema_relatoria": "DERECHO A LA IGUALDAD. A LA MATERNIDAD Y AL MINIMO VITAL. PAGO DE INDEMNIZACION Y DESCANSO REMUNERADO. LICENCIA DE MATERNIDAD. CONTRATO VERBAL. TUTELA COMO MECANISMO TRANSITORIO. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA ESTABILIDAD LABORAL REFORZADA DE MUJER EMBARAZADA",
+      "subtema": "Pago oportuno de remuneración o subsidio legal por afectación del mínimo vital"
+    },
+    {
+      "tema": "ACCION DE TUTELA TRANSITORIA",
+      "subtema": "Pago de indemnización y salarios a trabajadora embarazada despedida"
+    },
+    {
+      "tema": "MUJER TRABAJADORA EMBARAZADA",
+      "subtema": "Protección constitucional especial"
+    }
+  ]
+}

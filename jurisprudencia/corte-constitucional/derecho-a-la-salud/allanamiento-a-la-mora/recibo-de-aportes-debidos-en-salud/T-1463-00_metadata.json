@@ -1,0 +1,47 @@
+{
+  "radicado": "T-1463-00",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-10-30",
+  "magistrado_ponente": "Dr FABIO MORON DIAZ",
+  "area": "Derecho a la Salud",
+  "tema": "ALLANAMIENTO A LA MORA",
+  "subtema": "Recibo de aportes debidos en salud",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 1406 de 1999",
+    "Decreto 806 de 1998",
+    "Decreto 1938 de 1994"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/T-1463-00.htm",
+  "fecha_descarga": "2026-10-23T03:38:48.869235+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-10-30",
+  "fecha_publicacion": null,
+  "numero": "T-1463/00",
+  "tipo_cc": "T",
+  "prov_id": "18080",
+  "tema_relatoria": "DERECHO A LA MATERNIDAD. PAGO LICENCIA DE MATERNIDAD. APORTES EXTEMPORANEOS. CONTINUIDAD EN LA ASUNCION DE LA PRESTACION ECONOMICA CUANDO LA EPS SE ALLANA A LA MORA. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ALLANAMIENTO A LA MORA",
+      "subtema": "Recibo de aportes debidos en salud"
+    },
+    {
+      "tema": "EXCEPCION DE CONTRATO NO CUMPLIDO",
+      "subtema": "No pago oportuno de aportes"
+    },
+    {
+      "tema": "LICENCIA DE MATERNIDAD",
+      "subtema": "Objeto"
+    },
+    {
+      "tema": "ENTIDAD PROMOTORA DE SALUD",
+      "subtema": "Atención por recibo de aportes debidos"
+    }
+  ]
+}

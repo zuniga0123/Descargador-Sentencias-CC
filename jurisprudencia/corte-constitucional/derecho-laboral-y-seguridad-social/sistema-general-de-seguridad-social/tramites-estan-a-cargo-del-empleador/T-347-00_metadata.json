@@ -1,0 +1,62 @@
+{
+  "radicado": "T-347-00",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-03-27",
+  "magistrado_ponente": "Dr JOSÉ GREGORIO HERNÁNDEZ GALINDO",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "SISTEMA GENERAL DE SEGURIDAD SOCIAL",
+  "subtema": "Trámites están a cargo del empleador",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/T-347-00.htm",
+  "fecha_descarga": "2026-10-23T03:31:52.846376+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-03-27",
+  "fecha_publicacion": null,
+  "numero": "T-347/00",
+  "tipo_cc": "T",
+  "prov_id": "16895",
+  "tema_relatoria": "DERECHO A LA SEGURIDAD SOCIAL Y VIDA. PROTECCION A LA MATERNIDAD. OBLIGATORIEDAD DEL PATRONO DE AFILIAR A SUS TRABAJADORES AL SISTEMA DE SEGURIDAD SOCIAL. NO AFILIACION DE EMPLEADA EMBARAZADA. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "SISTEMA GENERAL DE SEGURIDAD SOCIAL",
+      "subtema": "Trámites están a cargo del empleador"
+    },
+    {
+      "tema": "SISTEMA GENERAL DE SEGURIDAD SOCIAL",
+      "subtema": "Obligación del empleador de afiliación de trabajadores y traslado oportuno de cotizaciones"
+    },
+    {
+      "tema": "SISTEMA GENERAL DE SEGURIDAD SOCIAL",
+      "subtema": "Responsabilidad del empleador por falta de inscripción o giro de cotizaciones"
+    },
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Afiliación a EPS"
+    },
+    {
+      "tema": "EMPLEADOR",
+      "subtema": "Asunción total de atención de accidentes de trabajo, riesgos y eventualidades por no afiliación o giro oportuno de cotizaciones"
+    },
+    {
+      "tema": "EMPLEADOR",
+      "subtema": "Asunción servicio de salud por no afiliación del trabajador"
+    },
+    {
+      "tema": "EMPLEADOR",
+      "subtema": "Asunción, en principio, servicio de salud por mora en aportes"
+    },
+    {
+      "tema": "SISTEMA GENERAL DE SEGURIDAD SOCIAL",
+      "subtema": "Para afiliación no se requiere solicitud al empleador"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "radicado": "T-334-00",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-03-23",
+  "magistrado_ponente": "Dr EDUARDO CIFUENTES MUÑOZ",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "LIBERTAD PROVISIONAL",
+  "subtema": "Solicitud por vencimiento de términos para calificar mérito del sumario",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/T-334-00.htm",
+  "fecha_descarga": "2026-10-23T03:30:08.424529+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-03-23",
+  "fecha_publicacion": null,
+  "numero": "T-334/00",
+  "tipo_cc": "T",
+  "prov_id": "16883",
+  "tema_relatoria": "DERECHO A LA LIBERTAD. DEBIDO PROCESO. SOLICITUD DE LIBERTAD PROVISIONAL. CARENCIA ACTUAL DE OBJETO. HECHO SUPERADO. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "LIBERTAD PROVISIONAL",
+      "subtema": "Solicitud por vencimiento de términos para calificar mérito del sumario"
+    },
+    {
+      "tema": "HABEAS CORPUS",
+      "subtema": "Dilación injustificada para resolver petición de libertad provisional"
+    },
+    {
+      "tema": "VIA DE HECHO",
+      "subtema": "Dilación injustificada en resolver petición de libertad provisional"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Hecho superado"
+    },
+    {
+      "tema": "LIBERTAD PROVISIONAL",
+      "subtema": "Presentación ante el funcionario de conocimiento"
+    },
+    {
+      "tema": "DEBIDO PROCESO",
+      "subtema": "Vulneración por dilación injustificada para resolver petición de libertad provisional"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "radicado": "T-1615-00",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-11-21",
+  "magistrado_ponente": "Dr FABIO MORON DIAZ",
+  "area": "Derecho a la Salud",
+  "tema": "DERECHO A LA SALUD",
+  "subtema": "Tratamiento de quimioterapia de persona con capacidad de pago",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/T-1615-00.htm",
+  "fecha_descarga": "2026-10-23T03:41:30.015310+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-11-21",
+  "fecha_publicacion": null,
+  "numero": "T-1615/00",
+  "tipo_cc": "T",
+  "prov_id": "18253",
+  "tema_relatoria": "DERECHO A LA VIDA SALUD Y SEGURIDAD SOCIAL. SOLICITUD TRATAMIENTO DE QUIMIOTERAPIA. MINIMO DE SEMANAS COTIZADAS. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Tratamiento de quimioterapia de persona con capacidad de pago"
+    },
+    {
+      "tema": "SEGURO SOCIAL",
+      "subtema": "Condicionamiento de quimioterapia al número de semanas cotizadas"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "radicado": "T-181-00",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-02-24",
+  "magistrado_ponente": "Dr JOSÉ GREGORIO HERNÁNDEZ GALINDO",
+  "area": "Derecho a la Salud",
+  "tema": "DERECHO A LA SALUD",
+  "subtema": "Obstáculos de tratamientos por trámites internos de compensación de cuentas entre empleador y EPS",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 100 de 1993"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/T-181-00.htm",
+  "fecha_descarga": "2026-10-23T03:23:36.699764+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-02-24",
+  "fecha_publicacion": null,
+  "numero": "T-181/00",
+  "tipo_cc": "T",
+  "prov_id": "16721",
+  "tema_relatoria": "TUTELA CONTRA EL ISS. CIRUGIA URGENTE. HOSPITAL SAN VICENTE DE PAUL DEBE TRASLADAR AL ISS APORTES DE SALUD QUE RETIENE A LA TRABAJADORA. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Obstáculos de tratamientos por trámites internos de compensación de cuentas entre empleador y EPS"
+    },
+    {
+      "tema": "SERVICIO PUBLICO DE SALUD",
+      "subtema": "Beneficiario no puede sufrir consecuencias de mora del empleador en aportes debiendo la entidad de salud suministrar atención"
+    },
+    {
+      "tema": "ENTIDAD PROMOTORA DE SALUD",
+      "subtema": "Asunción, subsidiaria, servicio de salud por mora en aportes del empleador"
+    },
+    {
+      "tema": "EMPLEADOR",
+      "subtema": "Asunción, en principio, servicio de salud por mora en aportes"
+    },
+    {
+      "tema": "SISTEMA GENERAL DE SEGURIDAD SOCIAL EN SALUD",
+      "subtema": "Beneficiarios no tienen por qué padecer inconvenientes presupuestales de entidades"
+    }
+  ]
+}

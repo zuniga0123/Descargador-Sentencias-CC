@@ -1,0 +1,50 @@
+{
+  "radicado": "T-352-00",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-03-27",
+  "magistrado_ponente": "Dr JOSÉ GREGORIO HERNÁNDEZ GALINDO",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ESTABLECIMIENTO CARCELARIO",
+  "subtema": "Hacinamiento",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 65 de 1993"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/T-352-00.htm",
+  "fecha_descarga": "2026-10-23T03:32:03.380465+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-03-27",
+  "fecha_publicacion": null,
+  "numero": "T-352/00",
+  "tipo_cc": "T",
+  "prov_id": "16900",
+  "tema_relatoria": "DERECHO A LA DIGNIDAD HUMANA DE LOS RECLUSOS QUE TIENEN QUE DORMIR EN CONDICIONES INFRAHUMANAS. CARENCIA ACTUAL DE OBJETO. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ESTABLECIMIENTO CARCELARIO",
+      "subtema": "Hacinamiento"
+    },
+    {
+      "tema": "DERECHO A LA DIGNIDAD HUMANA DEL INTERNO",
+      "subtema": "Hacinamiento carcelario"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Carencia actual de objeto"
+    },
+    {
+      "tema": "ESTABLECIMIENTO CARCELARIO",
+      "subtema": "Traslado de recluso por motín y tentativa de fuga"
+    },
+    {
+      "tema": "DERECHO A LA DIGNIDAD HUMANA DEL INTERNO",
+      "subtema": "Falta de espacio y aire"
+    }
+  ]
+}

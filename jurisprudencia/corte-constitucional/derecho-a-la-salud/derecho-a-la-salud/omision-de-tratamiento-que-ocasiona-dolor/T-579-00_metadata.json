@@ -1,0 +1,47 @@
+{
+  "radicado": "T-579-00",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-05-16",
+  "magistrado_ponente": "Dr ALVARO TAFUR GALVIS",
+  "area": "Derecho a la Salud",
+  "tema": "DERECHO A LA SALUD",
+  "subtema": "Omisión de tratamiento que ocasiona dolor",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Decreto 806 de 1998",
+    "Ley 100 de 1993"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/T-579-00.htm",
+  "fecha_descarga": "2026-10-23T03:33:55.122319+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-05-16",
+  "fecha_publicacion": null,
+  "numero": "T-579/00",
+  "tipo_cc": "T",
+  "prov_id": "17141",
+  "tema_relatoria": "DERECHO A LA SALUD Y VIDA. OMISION DE FAMISANAR E.P.S. DE NO REALIZAR CIRUGIA POR NO TENER EL NUMERO DE SEMANAS COTIZADAS. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Omisión de tratamiento que ocasiona dolor"
+    },
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Conexidad con la vida"
+    },
+    {
+      "tema": "DERECHO A LA DIGNIDAD HUMANA",
+      "subtema": "Omisión de tratamiento que ocasiona dolor"
+    },
+    {
+      "tema": "URGENCIAS EN ENFERMEDADES DE ALTO COSTO",
+      "subtema": "Atención inmediata sin tener en cuenta periodos mínimos de cotización ni capacidad de pago"
+    }
+  ]
+}

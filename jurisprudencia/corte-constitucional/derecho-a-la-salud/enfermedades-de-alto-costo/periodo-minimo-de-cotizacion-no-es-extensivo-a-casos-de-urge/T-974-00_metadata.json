@@ -1,0 +1,50 @@
+{
+  "radicado": "T-974-00",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-07-31",
+  "magistrado_ponente": "Dr ALEJANDRO MARTINEZ CABALLERO",
+  "area": "Derecho a la Salud",
+  "tema": "ENFERMEDADES DE ALTO COSTO",
+  "subtema": "Periodo mínimo de cotización no es extensivo a casos de urgencia",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 806 de 1998",
+    "Ley 100 de 1993"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/T-974-00.htm",
+  "fecha_descarga": "2026-10-23T03:41:04.983790+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-07-31",
+  "fecha_publicacion": null,
+  "numero": "T-974/00",
+  "tipo_cc": "T",
+  "prov_id": "17568",
+  "tema_relatoria": "DERECHO A LA SALUD Y A LA VIDA DE MENOR ENFERMA DE CANCER. PERIODOS MINIMOS DE COTIZACION EN SALUD. SUMINISTRO TRATAMIENTO MEDICO Y CONTROL PERIODICO. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ENFERMEDADES DE ALTO COSTO",
+      "subtema": "Periodo mínimo de cotización no es extensivo a casos de urgencia"
+    },
+    {
+      "tema": "ENTIDAD PROMOTORA DE SALUD",
+      "subtema": "Tratamiento de persona de escasos recursos sin cumplir periodo mínimo de cotización"
+    },
+    {
+      "tema": "ENFERMEDADES CATASTROFICAS O RUINOSAS",
+      "subtema": "Suministro de tratamientos sin cumplir periodo mínimo de cotización en persona de escasos recursos"
+    },
+    {
+      "tema": "DERECHO A LA SALUD DE NIÑOS, NIÑAS Y ADOLESCENTES",
+      "subtema": "Continuidad en tratamiento para el cáncer"
+    },
+    {
+      "tema": "DERECHO A LA SALUD DE NIÑOS, NIÑAS Y ADOLESCENTES",
+      "subtema": "Fundamental prevalente"
+    }
+  ]
+}

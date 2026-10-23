@@ -1,0 +1,46 @@
+{
+  "radicado": "T-1454-00",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-10-26",
+  "magistrado_ponente": "Dra MARTHA VICTORIA SÁCHICA MÉNDEZ",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCION DE TUTELA CONTRA PARTICULARES",
+  "subtema": "Subordinación",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 50 de 1990"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/T-1454-00.htm",
+  "fecha_descarga": "2026-10-23T03:38:30.793037+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-10-26",
+  "fecha_publicacion": null,
+  "numero": "T-1454/00",
+  "tipo_cc": "T",
+  "prov_id": "18069",
+  "tema_relatoria": "DERECHO A LA IGUALDAD DIGNIDAD HUMANA Y SALARIO MOVIL. PAGO DE ACREENCIAS LABORALES. TUTELA CONTRA PARTICULARES. EL JUEZ DE TUTELA NO PUEDE DESPLAZAR AL JUEZ NATURAL COMPETENTE PARA DIRIMIR EL LITIGIO LABORAL. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCION DE TUTELA CONTRA PARTICULARES",
+      "subtema": "Subordinación"
+    },
+    {
+      "tema": "ACCION DE TUTELA EN MATERIA LABORAL",
+      "subtema": "Improcedencia general"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Improcedencia general para reclamar pago de acreencias laborales"
+    },
+    {
+      "tema": "MEDIO DE DEFENSA JUDICIAL EFICAZ",
+      "subtema": "Incremento salarial"
+    }
+  ]
+}

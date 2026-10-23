@@ -1,0 +1,39 @@
+{
+  "radicado": "T-444-00",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-04-14",
+  "magistrado_ponente": "Dr ALVARO TAFUR GALVIS",
+  "area": "Derecho Administrativo y Función Pública",
+  "tema": "SENTENCIA DEL CONSEJO DE ESTADO",
+  "subtema": "Cumplimiento inadecuado o defectuoso debe acudirse a jurisdicción contenciosa",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 306 de 1992",
+    "Ley 106 de 1993",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/T-444-00.htm",
+  "fecha_descarga": "2026-10-23T03:35:18.066341+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-04-14",
+  "fecha_publicacion": null,
+  "numero": "T-444/00",
+  "tipo_cc": "T",
+  "prov_id": "17001",
+  "tema_relatoria": "DEBIDO PROCESO ADTIVO. ACCESO A LA ADMON DE JUSTICIA. ESCALAFONAMIENTO EN CARRERA. PRIMA TECNICA. CUMPLIMIENTO DE SENTENCIA DEL CONSEJO DE ESTADO POR LA CONTRALORIA. CONCEDIDA PARCIALMENTE.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "SENTENCIA DEL CONSEJO DE ESTADO",
+      "subtema": "Cumplimiento inadecuado o defectuoso debe acudirse a jurisdicción contenciosa"
+    },
+    {
+      "tema": "SENTENCIA DEL CONSEJO DE ESTADO",
+      "subtema": "Cumplimiento en relación con incorporación en carrera administrativa"
+    }
+  ]
+}

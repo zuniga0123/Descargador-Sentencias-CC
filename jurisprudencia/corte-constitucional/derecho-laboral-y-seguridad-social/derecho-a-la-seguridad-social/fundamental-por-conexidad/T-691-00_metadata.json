@@ -1,0 +1,37 @@
+{
+  "radicado": "T-691-00",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-06-12",
+  "magistrado_ponente": "Dr ALVARO TAFUR GALVIS",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "DERECHO A LA SEGURIDAD SOCIAL",
+  "subtema": "Fundamental por conexidad",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/T-691-00.htm",
+  "fecha_descarga": "2026-10-23T03:18:28.248405+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-06-12",
+  "fecha_publicacion": null,
+  "numero": "T-691/00",
+  "tipo_cc": "T",
+  "prov_id": "17277",
+  "tema_relatoria": "PAGO OPORTUNO DE MESADAS PENSIONALES. DERECHO A LA VIDA A LA SEGURIDAD SOCIAL Y AL MINIMO VITAL. PERSONA DE LA TERCERA EDAD. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA SEGURIDAD SOCIAL",
+      "subtema": "Fundamental por conexidad"
+    },
+    {
+      "tema": "DERECHO AL MINIMO VITAL DEL PENSIONADO",
+      "subtema": "Presunción de afectación por no pago oportuno de mesadas"
+    }
+  ]
+}

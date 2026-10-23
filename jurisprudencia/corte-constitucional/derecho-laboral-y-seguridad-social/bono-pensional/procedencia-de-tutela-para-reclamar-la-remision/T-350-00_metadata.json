@@ -1,0 +1,44 @@
+{
+  "radicado": "T-350-00",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-03-27",
+  "magistrado_ponente": "Dr JOSÉ GREGORIO HERNÁNDEZ GALINDO",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "BONO PENSIONAL",
+  "subtema": "Procedencia de tutela para reclamar la remisión",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 100 de 1993",
+    "Decreto 1299 de 1994",
+    "Decreto 1513 de 1998"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/T-350-00.htm",
+  "fecha_descarga": "2026-10-23T03:31:59.864512+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-03-27",
+  "fecha_publicacion": null,
+  "numero": "T-350/00",
+  "tipo_cc": "T",
+  "prov_id": "16898",
+  "tema_relatoria": "DERECHO AL MINIMO VITAL Y SEGURIDAD SOCIAL. NO EMISION DEL BONO PENSIONAL POR LA OCCIDENTAL DE COLOMBIA INC. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "BONO PENSIONAL",
+      "subtema": "Procedencia de tutela para reclamar la remisión"
+    },
+    {
+      "tema": "CONCILIACION LABORAL",
+      "subtema": "Pensión como derecho irrenunciable"
+    },
+    {
+      "tema": "SUBORDINACION LABORAL",
+      "subtema": "Conflicto derivado de relación contractual para extrabajador"
+    }
+  ]
+}

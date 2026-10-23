@@ -1,0 +1,45 @@
+{
+  "radicado": "T-681-00",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-06-12",
+  "magistrado_ponente": "Dr ALVARO TAFUR GALVIS",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "DERECHO DE PETICIÓN",
+  "subtema": "Resolución material",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/T-681-00.htm",
+  "fecha_descarga": "2026-10-23T03:26:27.867729+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-06-12",
+  "fecha_publicacion": null,
+  "numero": "T-681/00",
+  "tipo_cc": "T",
+  "prov_id": "17267",
+  "tema_relatoria": "DERECHO DE PETICION. SOLICITUD RECONOCIMIENTO Y PAGO DE CESANTIAS PARCIALES. NEGADA PARCIALMENTE.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO DE PETICIÓN",
+      "subtema": "Resolución material"
+    },
+    {
+      "tema": "JUEZ DE TUTELA",
+      "subtema": "Incompetencia para reconocimiento de cesantías parciales"
+    },
+    {
+      "tema": "PARTIDA PRESUPUESTAL",
+      "subtema": "Apropiación para pago de cesantías parciales"
+    },
+    {
+      "tema": "DERECHO DE PETICIÓN",
+      "subtema": "Respuesta debe ser de fondo, oportuna, congruente y tener notificación efectiva"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "radicado": "T-212-00",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-03-01",
+  "magistrado_ponente": "Dr ALEJANDRO MARTINEZ CABALLERO",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "SECRETO MEDICO",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 23 de 1981"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/T-212-00.htm",
+  "fecha_descarga": "2026-10-23T03:36:58.356433+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-03-01",
+  "fecha_publicacion": null,
+  "numero": "T-212/00",
+  "tipo_cc": "T",
+  "prov_id": "16751",
+  "tema_relatoria": "DOCENTE CON HEPATITIS. DERECHO A LA INTIMIDAD. DIFERENCIA ENRE LA PROCEDENCIA DE LA TUTELA EN LAS RELACIONES ENTRE UN SINDICATO Y UNO DE SUS AFILIADOS Y ALCANCE DEL DERECHO DE PETICION FRENTE A SINDICATO. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "SECRETO MEDICO",
+      "subtema": null
+    },
+    {
+      "tema": "DERECHO AL BUEN NOMBRE DEL ENFERMO",
+      "subtema": null
+    },
+    {
+      "tema": "DERECHO DE PETICION ANTE ORGANIZACIONES PRIVADAS",
+      "subtema": "Improcedencia cuando no actúa como autoridad"
+    },
+    {
+      "tema": "DERECHO DE PETICION ANTE SINDICATO",
+      "subtema": "Improcedencia"
+    },
+    {
+      "tema": "DERECHO A LA HONRA DEL ENFERMO",
+      "subtema": null
+    },
+    {
+      "tema": "DERECHO A LA INTIMIDAD DEL ENFERMO",
+      "subtema": null
+    },
+    {
+      "tema": "DERECHO A LA INTIMIDAD DEL PACIENTE",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "DERECHO A LA INTIMIDAD Y AL BUEN NOMBRE",
+      "subtema": "Remedio judicial si hay vulneración simultánea"
+    }
+  ]
+}

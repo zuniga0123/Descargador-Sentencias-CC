@@ -1,0 +1,48 @@
+{
+  "radicado": "T-449-00",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-04-27",
+  "magistrado_ponente": "Dr CARLOS GAVIRIA DÍAZ",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "SALARIO",
+  "subtema": "Retención indebida de lo depositado en cuenta de ahorros",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Decreto 1593 de 1959",
+    "Decreto 753 de 1956",
+    "Ley 48 de 1968"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/T-449-00.htm",
+  "fecha_descarga": "2026-10-23T03:35:32.347852+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-04-27",
+  "fecha_publicacion": null,
+  "numero": "T-449/00",
+  "tipo_cc": "T",
+  "prov_id": "17007",
+  "tema_relatoria": "DEBIDO PROCESO. DR. AL MINIMO VITAL. PAGO OPORTUNO DEL SALARIO. RETENCION INDEBIDA DE SALARIOS POR EL BANCO GANADERO PORQUE ALGUIEN RETIRO INDEBIDAMENTE UNA SUMA DE DINERO DE LA CUENTA DEL ACTOR. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "SALARIO",
+      "subtema": "Retención indebida de lo depositado en cuenta de ahorros"
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA PARTICULARES",
+      "subtema": "Procedencia respecto de banco"
+    },
+    {
+      "tema": "ENTIDAD BANCARIA",
+      "subtema": "Retención indebida de salario depositado en cuenta de ahorros"
+    },
+    {
+      "tema": "INDEXACION DE SALARIOS",
+      "subtema": "Reconocimiento por retención indebida en banco"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "radicado": "T-1735-00",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-12-12",
+  "magistrado_ponente": "Dr CARLOS GAVIRIA DÍAZ",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "DERECHO AL MINIMO VITAL DEL TRABAJADOR",
+  "subtema": "Pago oportuno de salarios con indexación",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/T-1735-00.htm",
+  "fecha_descarga": "2026-10-23T03:21:32.992847+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-12-12",
+  "fecha_publicacion": null,
+  "numero": "T-1735/00",
+  "tipo_cc": "T",
+  "prov_id": "18404",
+  "tema_relatoria": "DERECHO AL TRABAJO Y MINIMO VITAL. APOYO ESPECIAL A LA MUJER CABEZA DE FAMILIA. PAGO DE ACREENCIAS LABORALES. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO AL MINIMO VITAL DEL TRABAJADOR",
+      "subtema": "Pago oportuno de salarios con indexación"
+    },
+    {
+      "tema": "MEDIO DE DEFENSA JUDICIAL INEFICAZ",
+      "subtema": "Pago de salarios por afectación del mínimo vital"
+    },
+    {
+      "tema": "DERECHO AL PAGO OPORTUNO DEL SALARIO",
+      "subtema": "Fundamental"
+    },
+    {
+      "tema": "EMPLEADOR",
+      "subtema": "Falta de presupuesto o insolvencia para pago oportuno de salarios no es razón suficiente"
+    },
+    {
+      "tema": "SALARIO",
+      "subtema": "Movilidad"
+    }
+  ]
+}

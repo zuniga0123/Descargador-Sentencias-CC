@@ -1,0 +1,57 @@
+{
+  "radicado": "T-920-00",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-07-17",
+  "magistrado_ponente": "Dr EDUARDO CIFUENTES MUÑOZ",
+  "area": "Derecho a la Salud",
+  "tema": "NIÑO DISCAPACITADO",
+  "subtema": "Profesionales de la salud determinan tratamiento de rehabilitación",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 770 de 1975",
+    "Ley 100 de 1993",
+    "Decreto 1938 de 1994",
+    "Ley 12 de 1991",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/T-920-00.htm",
+  "fecha_descarga": "2026-10-23T03:40:36.420494+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-07-17",
+  "fecha_publicacion": null,
+  "numero": "T-920/00",
+  "tipo_cc": "T",
+  "prov_id": "17513",
+  "tema_relatoria": "DERECHO A LA VIDA SALUD Y SEGURIDAD SOCIAL. EXCLUSION DE TRATAMIENTO DE REHABILITACION POR EL ISS A NIÑOS CON PARALISIS CEREBRAL. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "NIÑO DISCAPACITADO",
+      "subtema": "Profesionales de la salud determinan tratamiento de rehabilitación"
+    },
+    {
+      "tema": "SEGURO SOCIAL",
+      "subtema": "Deber de prestación de tratamiento de rehabilitación"
+    },
+    {
+      "tema": "NIÑO DISCAPACITADO",
+      "subtema": "Tratamiento que permite mejorar sus condiciones de vida"
+    },
+    {
+      "tema": "NIÑO DISCAPACITADO",
+      "subtema": "Suspensión de tratamiento de rehabilitación integral"
+    },
+    {
+      "tema": "MENOR ENFERMO",
+      "subtema": "Curación"
+    },
+    {
+      "tema": "FONDO DE SOLIDARIDAD Y GARANTIA",
+      "subtema": "Reembolso al seguro social por tratamiento de rehabilitación excluido del POS"
+    }
+  ]
+}

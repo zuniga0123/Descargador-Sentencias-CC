@@ -1,0 +1,62 @@
+{
+  "radicado": "T-322-00",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-03-21",
+  "magistrado_ponente": "Dr JOSÉ GREGORIO HERNÁNDEZ GALINDO",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCIÓN DE TUTELA",
+  "subtema": "Carencia actual de objeto",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Decreto 806 de 1998"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/T-322-00.htm",
+  "fecha_descarga": "2026-10-23T03:30:01.068004+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-03-21",
+  "fecha_publicacion": null,
+  "numero": "T-322/00",
+  "tipo_cc": "T",
+  "prov_id": "16869",
+  "tema_relatoria": "OBLIGACIONES DEL EMPLEADOR Y LA E.P.S. PROTECCION ESPECIAL DE LA MUJER EMBARAZADA. NO ATENCION MEDICA POR EL ISS. CARENCIA DE OBJETO POR CUANTO YA OCURRIO EL ALUMBRAMIENTO. SALUD DEL BEBE. NEGADA PARCIALMENTE.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Carencia actual de objeto"
+    },
+    {
+      "tema": "MUJER TRABAJADORA EMBARAZADA Y MATERNIDAD",
+      "subtema": "Protección especial por el Estado"
+    },
+    {
+      "tema": "SEGURO SOCIAL",
+      "subtema": "Atención en caso de urgencia o gravedad a pesar del no pago oportuno de aportes"
+    },
+    {
+      "tema": "DEBIDO PROCESO DE TUTELA",
+      "subtema": "Notificación iniciación de la acción al demandado y tercero interesado"
+    },
+    {
+      "tema": "ESTABLECIMIENTO DE SALUD",
+      "subtema": "Asunción por empleador servicio de salud por mora en aportes"
+    },
+    {
+      "tema": "MUJER TRABAJADORA EMBARAZADA",
+      "subtema": "Protección constitucional especial"
+    },
+    {
+      "tema": "MUJER TRABAJADORA EMBARAZADA",
+      "subtema": "Prestación servicio de salud"
+    },
+    {
+      "tema": "EMPLEADOR",
+      "subtema": "Asunción servicio de salud por mora en aportes"
+    }
+  ]
+}

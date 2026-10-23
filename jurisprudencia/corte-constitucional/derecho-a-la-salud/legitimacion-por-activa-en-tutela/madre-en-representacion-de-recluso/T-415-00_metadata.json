@@ -1,0 +1,45 @@
+{
+  "radicado": "T-415-00",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-04-11",
+  "magistrado_ponente": "Dr CARLOS GAVIRIA DÍAZ",
+  "area": "Derecho a la Salud",
+  "tema": "LEGITIMACIÓN POR ACTIVA EN TUTELA",
+  "subtema": "Madre en representación de recluso",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/T-415-00.htm",
+  "fecha_descarga": "2026-10-23T03:34:41.779692+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-04-11",
+  "fecha_publicacion": null,
+  "numero": "T-415/00",
+  "tipo_cc": "T",
+  "prov_id": "16971",
+  "tema_relatoria": "DERECHO A LA SALUD Y VIDA DE LOS INTERNOS. TRASLADO A BOGOTA PARA TRATAMIENTO. HECHO SUPERADO. CARENCIA DE OBJETO. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "LEGITIMACIÓN POR ACTIVA EN TUTELA",
+      "subtema": "Madre en representación de recluso"
+    },
+    {
+      "tema": "LEGITIMACIÓN POR ACTIVA EN TUTELA",
+      "subtema": "Madre es tercero con interés"
+    },
+    {
+      "tema": "DERECHO A LA INTEGRIDAD PERSONAL DEL INTERNO",
+      "subtema": "Falta de atención en salud"
+    },
+    {
+      "tema": "DERECHO A LA SALUD DEL INTERNO",
+      "subtema": "Atención médica, adecuada, digna y oportuna"
+    }
+  ]
+}

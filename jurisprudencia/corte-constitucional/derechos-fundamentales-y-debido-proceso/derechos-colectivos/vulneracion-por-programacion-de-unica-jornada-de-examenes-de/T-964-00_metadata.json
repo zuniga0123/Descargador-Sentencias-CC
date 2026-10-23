@@ -1,0 +1,44 @@
+{
+  "radicado": "T-964-00",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-07-31",
+  "magistrado_ponente": "Dr EDUARDO CIFUENTES MUÑOZ",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "DERECHOS COLECTIVOS",
+  "subtema": "Vulneración por programación de única jornada de exámenes de validación",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 1211 de 1993",
+    "Decreto 2591 de 1991",
+    "Decreto 2195 de 1991",
+    "Ley 30 de 1992"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/T-964-00.htm",
+  "fecha_descarga": "2026-10-23T03:40:50.650492+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-07-31",
+  "fecha_publicacion": null,
+  "numero": "T-964/00",
+  "tipo_cc": "T",
+  "prov_id": "17559",
+  "tema_relatoria": "DERECHO A LA EDUCACION. LIBERTAD DE APRENDIZAJE Y AL TRABAJO. IMPROCEDENCIA DE LA TUTELA. RECHAZADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHOS COLECTIVOS",
+      "subtema": "Vulneración por programación de única jornada de exámenes de validación"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Improcedencia para protección de derechos colectivos"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Improcedencia para proteger derechos colectivos"
+    }
+  ]
+}

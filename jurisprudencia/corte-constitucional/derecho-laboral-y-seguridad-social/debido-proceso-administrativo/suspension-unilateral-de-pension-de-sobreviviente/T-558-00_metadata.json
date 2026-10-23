@@ -1,0 +1,52 @@
+{
+  "radicado": "T-558-00",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-05-16",
+  "magistrado_ponente": "Dr JOSÉ GREGORIO HERNÁNDEZ GALINDO",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "DEBIDO PROCESO ADMINISTRATIVO",
+  "subtema": "Suspensión unilateral de pensión de sobreviviente",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Decreto 3041 de 1996",
+    "Decreto 3041 de 1966",
+    "Ley 100 de 1993"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/T-558-00.htm",
+  "fecha_descarga": "2026-10-23T03:33:37.254816+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-05-16",
+  "fecha_publicacion": null,
+  "numero": "T-558/00",
+  "tipo_cc": "T",
+  "prov_id": "17132",
+  "tema_relatoria": "DEBIDO PROCESO ADMINISTRATIVO. SUSPENSION DE LA PENSION DE SOBREVIVIENTE A HIJO ESTUDIANTE MAYOR DE EDAD. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DEBIDO PROCESO ADMINISTRATIVO",
+      "subtema": "Suspensión unilateral de pensión de sobreviviente"
+    },
+    {
+      "tema": "PENSIÓN DE SOBREVIVIENTES",
+      "subtema": "Suspensión invocando disposición anterior a la Constitución y desconociendo ley de seguridad social"
+    },
+    {
+      "tema": "DEBIDO PROCESO ADMINISTRATIVO",
+      "subtema": "Revocación unilateral de acto que reconoce situación particular y concreta"
+    },
+    {
+      "tema": "LEGITIMACION POR ACTIVA",
+      "subtema": "Madre en representación de hijo que cumplió mayoría de edad"
+    },
+    {
+      "tema": "REVOCACION DIRECTA DE ACTO ADMINISTRATIVO PARTICULAR Y CONCRETO",
+      "subtema": "Consentimiento expreso y escrito del titular"
+    }
+  ]
+}

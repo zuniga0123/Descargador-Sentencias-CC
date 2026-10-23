@@ -1,0 +1,38 @@
+{
+  "radicado": "T-1663-00",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-11-30",
+  "magistrado_ponente": "Dr ALFREDO BELTRÁN SIERRA",
+  "area": "Derecho a la Salud",
+  "tema": "ENTIDAD PROMOTORA DE SALUD",
+  "subtema": "Cirugía de urgencia a menor sin cumplir periodo mínimo de cotización",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 100 de 1993"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/T-1663-00.htm",
+  "fecha_descarga": "2026-10-23T03:30:40.625748+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-11-30",
+  "fecha_publicacion": null,
+  "numero": "T-1663/00",
+  "tipo_cc": "T",
+  "prov_id": "18320",
+  "tema_relatoria": "DERECHO A LA VIDA Y SALUD. PACIENTE CON HERNIA EN TESTICULOS. SOLICITUD PRACTICA DE CIRUGIA. SITUACION DE URGENCIA. MINIMO SEMANAS DE COTIZACION. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ENTIDAD PROMOTORA DE SALUD",
+      "subtema": "Cirugía de urgencia a menor sin cumplir periodo mínimo de cotización"
+    },
+    {
+      "tema": "DERECHO A LA SALUD DE NIÑOS, NIÑAS Y ADOLESCENTES",
+      "subtema": "No se pueden oponer periodos mínimos de cotización ante situaciones de urgencia"
+    }
+  ]
+}
