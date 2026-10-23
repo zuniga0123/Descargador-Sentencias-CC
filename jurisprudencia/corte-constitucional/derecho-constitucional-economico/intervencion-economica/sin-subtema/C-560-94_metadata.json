@@ -1,0 +1,59 @@
+{
+  "radicado": "C-560-94",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1994,
+  "fecha_creacion": "1994-12-06",
+  "magistrado_ponente": "Dr JOSE GREGORIO HERNANDEZ GALINDO",
+  "area": "Derecho Constitucional Económico",
+  "tema": "INTERVENCION ECONOMICA",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 35 de 1993",
+    "Decreto 2067 de 1991",
+    "Ley 31 de 1992"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1994/C-560-94.htm",
+  "fecha_descarga": "2026-10-23T08:55:43.559919+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1994-12-06",
+  "fecha_publicacion": null,
+  "numero": "C-560/94",
+  "tipo_cc": "C",
+  "prov_id": "12291",
+  "tema_relatoria": "LEY 35/93. VARIOS ARTS. NORMAS A LAS QUE DEBE SUJETARSE EL GOBIERNO PARA REGULAR ACTIVIDADES FINANCIERAS. EXEQUIBLES.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "INTERVENCION ECONOMICA",
+      "subtema": null
+    },
+    {
+      "tema": "BANCO DE LA REPUBLICA",
+      "subtema": "Funciones de la Junta Directiva"
+    },
+    {
+      "tema": "LEY MARCO FINANCIERA",
+      "subtema": null
+    },
+    {
+      "tema": "ACTIVIDAD FINANCIERA, BURSATIL Y ASEGURADORA",
+      "subtema": "Regulación estatal"
+    },
+    {
+      "tema": "INTERPRETACION CONSTITUCIONAL",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "LIBRE COMPETENCIA ECONOMICA",
+      "subtema": "Límites"
+    },
+    {
+      "tema": "SISTEMA FINANCIERO",
+      "subtema": "Confianza pública"
+    }
+  ]
+}

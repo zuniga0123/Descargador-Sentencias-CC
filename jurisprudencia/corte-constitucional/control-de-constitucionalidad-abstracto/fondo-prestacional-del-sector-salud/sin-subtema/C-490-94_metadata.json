@@ -1,0 +1,65 @@
+{
+  "radicado": "C-490-94",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1994,
+  "fecha_creacion": "1994-11-03",
+  "magistrado_ponente": "Dr EDUARDO CIFUENTES MUÑOZ",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "FONDO PRESTACIONAL DEL SECTOR SALUD",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 38 de 1989",
+    "Decreto 2067 de 1991",
+    "Ley 38 de 1994",
+    "Ley 100 de 1993",
+    "Ley 60 de 1993"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1994/C-490-94.htm",
+  "fecha_descarga": "2026-10-23T08:56:36.097647+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1994-11-03",
+  "fecha_publicacion": null,
+  "numero": "C-490/94",
+  "tipo_cc": "C",
+  "prov_id": "12214",
+  "tema_relatoria": "O.P. AL PROYECTO DE LEY N° 48/93 CAMARA Y 154/93. SENADO. POR LA CUAL SE INTRODUCEN MODIFICACIONES A LA LEY DE PRESUPUESTO. LEY 38/89.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "FONDO PRESTACIONAL DEL SECTOR SALUD",
+      "subtema": null
+    },
+    {
+      "tema": "GASTO PUBLICO",
+      "subtema": null
+    },
+    {
+      "tema": "PRINCIPIO DE ANUALIDAD",
+      "subtema": "Vulneración"
+    },
+    {
+      "tema": "LEY ORGANICA DEL PRESUPUESTO",
+      "subtema": "Cobertura"
+    },
+    {
+      "tema": "CONGRESO",
+      "subtema": "Función derogatoria de normas"
+    },
+    {
+      "tema": "LEY DE PRESUPUESTO",
+      "subtema": "Unidad de materia"
+    },
+    {
+      "tema": "PRESUPUESTO NACIONAL",
+      "subtema": "Reserva global y automática"
+    },
+    {
+      "tema": "PRINCIPIO DE INICIATIVA LEGISLATIVA",
+      "subtema": "Reserva en materia presupuestal"
+    }
+  ]
+}

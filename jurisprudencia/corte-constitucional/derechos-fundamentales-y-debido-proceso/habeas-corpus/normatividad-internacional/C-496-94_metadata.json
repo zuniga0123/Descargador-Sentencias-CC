@@ -1,0 +1,60 @@
+{
+  "radicado": "C-496-94",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1994,
+  "fecha_creacion": "1994-11-03",
+  "magistrado_ponente": "Alejandro Martínez Caballero",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "HABEAS CORPUS",
+  "subtema": "Normatividad internacional",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2700 de 1991",
+    "Ley 15 de 1992",
+    "Decreto 409 de 1971",
+    "Ley 16 de 1972"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1994/C-496-94.htm",
+  "fecha_descarga": "2026-10-23T08:56:50.716854+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1994-11-03",
+  "fecha_publicacion": null,
+  "numero": "C-496/94",
+  "tipo_cc": "C",
+  "prov_id": "12220",
+  "tema_relatoria": "DEC. 2700/91. ART. 437 PARCIAL. HABEAS CORPUS. DOBLE INSTANCIA Y NORMATIVIDAD INTERNACIONAL. EXEQUIBLE.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "HABEAS CORPUS",
+      "subtema": "Normatividad internacional"
+    },
+    {
+      "tema": "SENTENCIA DE CONSTITUCIONALIDAD CONDICIONADA",
+      "subtema": null
+    },
+    {
+      "tema": "INTERPRETACION CONSTITUCIONAL",
+      "subtema": "Criterios"
+    },
+    {
+      "tema": "PRINCIPIO DE LA DOBLE INSTANCIA",
+      "subtema": "Excepciones"
+    },
+    {
+      "tema": "HABEAS CORPUS",
+      "subtema": "Recursos"
+    },
+    {
+      "tema": "HABEAS CORPUS",
+      "subtema": "Impugnación del auto que lo niega"
+    },
+    {
+      "tema": "HABEAS CORPUS",
+      "subtema": "Término"
+    }
+  ]
+}

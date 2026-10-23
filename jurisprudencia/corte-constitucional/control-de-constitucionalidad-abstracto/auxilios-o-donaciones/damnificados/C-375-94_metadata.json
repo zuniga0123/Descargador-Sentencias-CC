@@ -1,0 +1,65 @@
+{
+  "radicado": "C-375-94",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1994,
+  "fecha_creacion": "1994-08-25",
+  "magistrado_ponente": "Antonio Barrera Carbonell",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "AUXILIOS O DONACIONES",
+  "subtema": "Damnificados",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 1178 de 1994",
+    "Ley 61 de 1993",
+    "Decreto 1265 de 1994",
+    "Ley 46 de 1988",
+    "Decreto Ley 919 de 1989"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1994/C-375-94.htm",
+  "fecha_descarga": "2026-10-23T09:00:01.139219+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1994-08-25",
+  "fecha_publicacion": null,
+  "numero": "C-375/94",
+  "tipo_cc": "C",
+  "prov_id": "12095",
+  "tema_relatoria": "DEC. 1265/94. DISPOSICIONES SOBRE LOS CREDITOS EN LA ZONA DE DESASTRE DEL HUILA Y CAUCA. INEXEQUIBLE.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "AUXILIOS O DONACIONES",
+      "subtema": "Damnificados"
+    },
+    {
+      "tema": "PRINCIPIO DE SOLIDARIDAD",
+      "subtema": null
+    },
+    {
+      "tema": "PRESUPUESTO NACIONAL",
+      "subtema": "Modificación"
+    },
+    {
+      "tema": "CONSTITUCIÓN ECOLÓGICA",
+      "subtema": null
+    },
+    {
+      "tema": "AUXILIOS O DONACIONES",
+      "subtema": "Prohibición"
+    },
+    {
+      "tema": "MEDIO AMBIENTE SANO",
+      "subtema": "Preservación y restauración"
+    },
+    {
+      "tema": "EMERGENCIA ECONOMICA Y SOCIAL",
+      "subtema": "Competencias del Ejecutivo"
+    },
+    {
+      "tema": "EMERGENCIA ECONOMICA Y SOCIAL",
+      "subtema": "Conexidad"
+    }
+  ]
+}

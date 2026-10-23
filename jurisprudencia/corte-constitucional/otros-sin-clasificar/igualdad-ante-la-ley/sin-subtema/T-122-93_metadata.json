@@ -1,0 +1,50 @@
+{
+  "radicado": "T-122-93",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1993,
+  "fecha_creacion": "1993-03-29",
+  "magistrado_ponente": "Vladimiro Naranjo Mesa",
+  "area": "Otros - Sin clasificar",
+  "tema": "IGUALDAD ANTE LA LEY",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 989 de 1992",
+    "Decreto 1211 de 1990",
+    "Ley 1211 de 1990",
+    "Decreto 2466 de 1988",
+    "Decreto 2591 de 1991",
+    "Decreto 982 de 1992"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1993/T-122-93.htm",
+  "fecha_descarga": "2026-10-23T09:03:53.153821+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1993-03-29",
+  "fecha_publicacion": null,
+  "numero": "T-122/93",
+  "tipo_cc": "T",
+  "prov_id": "11213",
+  "tema_relatoria": "DERECHO A LA IGUALDAD. NO LLAMAMIENTO A CURSO DE INFORMACION MILITAR CON EL LLENO DE REQUISITOS. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "IGUALDAD ANTE LA LEY",
+      "subtema": null
+    },
+    {
+      "tema": "PERSONAL MILITAR",
+      "subtema": "Cursos"
+    },
+    {
+      "tema": "PERJUICIO IRREMEDIABLE",
+      "subtema": "Improcedencia"
+    },
+    {
+      "tema": "DERECHO A LA IGUALDAD",
+      "subtema": "Discrecionalidad"
+    }
+  ]
+}

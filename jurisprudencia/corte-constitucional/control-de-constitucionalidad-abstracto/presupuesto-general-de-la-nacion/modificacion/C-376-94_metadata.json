@@ -1,0 +1,51 @@
+{
+  "radicado": "C-376-94",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1994,
+  "fecha_creacion": "1994-08-25",
+  "magistrado_ponente": "Dr Jorge Arango Mejía",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "PRESUPUESTO GENERAL DE LA NACION",
+  "subtema": "Modificación",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 1179 de 1994",
+    "Decreto 1178 de 1994",
+    "Ley 135 de 1961",
+    "Decreto 1185 de 1994",
+    "Decreto 1940 de 1992",
+    "Decreto 294 de 1973",
+    "Ley 38 de 1989"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1994/C-376-94.htm",
+  "fecha_descarga": "2026-10-23T09:00:05.010393+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1994-08-25",
+  "fecha_publicacion": null,
+  "numero": "C-376/94",
+  "tipo_cc": "C",
+  "prov_id": "12096",
+  "tema_relatoria": "DEC. 1263/94. MODIFICACIONES AL DECRETO 1179/94 Y SE ADICIONA EL PRESUPUESTO GENERAL DE LA NACION. CONMOCION. EXEQUIBLE.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "PRESUPUESTO GENERAL DE LA NACION",
+      "subtema": "Modificación"
+    },
+    {
+      "tema": "CONMOCION INTERIOR",
+      "subtema": null
+    },
+    {
+      "tema": "CREDITOS ADICIONALES",
+      "subtema": "Supresión"
+    },
+    {
+      "tema": "PRINCIPIO DEL EQUILIBRIO PRESUPUESTAL",
+      "subtema": "Eliminación"
+    }
+  ]
+}

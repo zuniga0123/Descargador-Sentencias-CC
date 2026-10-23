@@ -1,0 +1,44 @@
+{
+  "radicado": "C-151-94",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1994,
+  "fecha_creacion": "1994-03-24",
+  "magistrado_ponente": "Dr FABIO MORON DIAZ",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "CORPORACION JUDICIAL",
+  "subtema": "Integración",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2272 de 1989",
+    "Ley 30 de 1987",
+    "Ley 153 de 1887",
+    "Decreto 1265 de 1970"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1994/C-151-94.htm",
+  "fecha_descarga": "2026-10-23T08:54:02.914603+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1994-03-24",
+  "fecha_publicacion": null,
+  "numero": "C-151/94",
+  "tipo_cc": "C",
+  "prov_id": "11856",
+  "tema_relatoria": "DEC. 2272/89. ART. 2 PARCIAL. POR EL CUAL SE CREA LA JURISDICCION DE FLIA Y ALGUNOS DESPACHOS JUDICIALES. EXEQUIBLE.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "CORPORACION JUDICIAL",
+      "subtema": "Integración"
+    },
+    {
+      "tema": "CONJUECES",
+      "subtema": null
+    },
+    {
+      "tema": "SALA DE FAMILIA",
+      "subtema": "Sala dual"
+    }
+  ]
+}

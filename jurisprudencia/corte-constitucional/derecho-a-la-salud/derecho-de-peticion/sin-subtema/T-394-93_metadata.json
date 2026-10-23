@@ -1,0 +1,54 @@
+{
+  "radicado": "T-394-93",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1993,
+  "fecha_creacion": "1993-09-16",
+  "magistrado_ponente": "Antonio Barrera Carbonell",
+  "area": "Derecho a la Salud",
+  "tema": "DERECHO DE PETICIÓN",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 94 de 1989",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1993/T-394-93.htm",
+  "fecha_descarga": "2026-10-23T09:04:15.257414+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1993-09-16",
+  "fecha_publicacion": null,
+  "numero": "T-394/93",
+  "tipo_cc": "T",
+  "prov_id": "11490",
+  "tema_relatoria": "SERVICIO MILITAR. DERECHO A LA SALUD. INCAPACIDAD LABORAL POR ACCIDENTE (RAYO). REPARACION DEL DAÑO. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO DE PETICIÓN",
+      "subtema": null
+    },
+    {
+      "tema": "ESTADO SOCIAL DE DERECHO",
+      "subtema": null
+    },
+    {
+      "tema": "MEDIO DE DEFENSA JUDICIAL",
+      "subtema": null
+    },
+    {
+      "tema": "ACCION DE NULIDAD Y RESTABLECIMIENTO DEL DERECHO",
+      "subtema": null
+    },
+    {
+      "tema": "DERECHO A LA IGUALDAD",
+      "subtema": "Trato discriminatorio"
+    },
+    {
+      "tema": "SERVICIO MILITAR",
+      "subtema": "Incapacidad laboral"
+    }
+  ]
+}

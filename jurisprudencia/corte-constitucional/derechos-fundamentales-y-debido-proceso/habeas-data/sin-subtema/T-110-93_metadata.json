@@ -1,0 +1,61 @@
+{
+  "radicado": "T-110-93",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1993,
+  "fecha_creacion": "1993-03-18",
+  "magistrado_ponente": "Jose Gregorio Hernandez Galindo",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "HABEAS DATA",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1993/T-110-93.htm",
+  "fecha_descarga": "2026-10-23T09:03:38.735088+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1993-03-18",
+  "fecha_publicacion": null,
+  "numero": "T-110/93",
+  "tipo_cc": "T",
+  "prov_id": "11199",
+  "tema_relatoria": "HABEAS DATA. DERECHO A LA INTIMIDAD. ASOCIACION BANCARIA. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "HABEAS DATA",
+      "subtema": null
+    },
+    {
+      "tema": "DERECHO A LA HONRA",
+      "subtema": null
+    },
+    {
+      "tema": "DERECHO AL BUEN NOMBRE",
+      "subtema": null
+    },
+    {
+      "tema": "DERECHO AL BUEN NOMBRE",
+      "subtema": "Vulneración"
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA PARTICULARES",
+      "subtema": null
+    },
+    {
+      "tema": "BANCO DE DATOS",
+      "subtema": null
+    },
+    {
+      "tema": "RECTIFICACION DE INFORMACION",
+      "subtema": null
+    },
+    {
+      "tema": "DERECHO A LA INFORMACIÓN",
+      "subtema": "Prevalencia"
+    }
+  ]
+}

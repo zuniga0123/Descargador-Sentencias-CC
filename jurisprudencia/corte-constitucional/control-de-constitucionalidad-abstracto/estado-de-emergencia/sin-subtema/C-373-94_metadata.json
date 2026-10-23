@@ -1,0 +1,55 @@
+{
+  "radicado": "C-373-94",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1994,
+  "fecha_creacion": "1994-08-25",
+  "magistrado_ponente": "Dr FABIO MORON DIAZ",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "ESTADO DE EMERGENCIA",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 1185 de 1994",
+    "Decreto 2067 de 1991",
+    "Decreto 1264 de 1994"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1994/C-373-94.htm",
+  "fecha_descarga": "2026-10-23T08:50:04.373376+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1994-08-25",
+  "fecha_publicacion": null,
+  "numero": "C-373/94",
+  "tipo_cc": "C",
+  "prov_id": "12093",
+  "tema_relatoria": "DEC. 1264/94. EXENCIONES TRIBUTARIAS PARA LAS ZONAS DE CALAMIDAD PUBLICA DEL HUILA Y CAUCA. EXEQUIBLE.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ESTADO DE EMERGENCIA",
+      "subtema": null
+    },
+    {
+      "tema": "FACULTADES EXCEPCIONALES",
+      "subtema": null
+    },
+    {
+      "tema": "CALAMIDAD PUBLICA",
+      "subtema": "Asistencia a damnificados"
+    },
+    {
+      "tema": "EXENCION TRIBUTARIA",
+      "subtema": null
+    },
+    {
+      "tema": "FACULTADES LEGISLATIVAS",
+      "subtema": null
+    },
+    {
+      "tema": "ESTADOS DE EXCEPCION",
+      "subtema": "Conexidad"
+    }
+  ]
+}

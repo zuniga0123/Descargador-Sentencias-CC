@@ -1,0 +1,41 @@
+{
+  "radicado": "C-365-94",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1994,
+  "fecha_creacion": "1994-08-18",
+  "magistrado_ponente": "Dr JOSE GREGORIO HERNANDEZ GALINDO",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "RECURSOS JUDICIALES",
+  "subtema": "Naturaleza",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 81 de 1993",
+    "Decreto 181 de 1981",
+    "Decreto 50 de 1987",
+    "Decreto 2700 de 1991",
+    "Decreto 2067 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1994/C-365-94.htm",
+  "fecha_descarga": "2026-10-23T08:59:42.482565+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1994-08-18",
+  "fecha_publicacion": null,
+  "numero": "C-365/94",
+  "tipo_cc": "C",
+  "prov_id": "12084",
+  "tema_relatoria": "LEY 81/93. ART. 32. SUSTENTACION OBLIGATORIA DEL RECURSO DE APELACION. EXEQUIBLE.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "RECURSOS JUDICIALES",
+      "subtema": "Naturaleza"
+    },
+    {
+      "tema": "RECURSO DE APELACION",
+      "subtema": "Sustentación"
+    }
+  ]
+}

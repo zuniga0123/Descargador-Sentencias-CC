@@ -1,0 +1,436 @@
+{
+  "radicado": "C-089-94",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1994,
+  "fecha_creacion": "1994-03-03",
+  "magistrado_ponente": null,
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "LEY ESTATUTARIA",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2067 de 1991",
+    "Ley 74 de 1968",
+    "Ley 16 de 1976",
+    "Ley 58 de 1985"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1994/C-089-94.htm",
+  "fecha_descarga": "2026-10-23T08:57:58.563225+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1994-03-03",
+  "fecha_publicacion": null,
+  "numero": "C-089/94",
+  "tipo_cc": "C",
+  "prov_id": "11792",
+  "tema_relatoria": "PROYECTO DE LEY ESTATUTARIA N° 11/92 DE LA CAMARA Y 348/93 DEL SENADO. PARTIDOS POLITICOS Y CAMPAÑAS ELECTORALES. EXEQUIBLES E INEXEQUIBLES",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "LEY ESTATUTARIA",
+      "subtema": null
+    },
+    {
+      "tema": "LEY ESTATUTARIA ELECTORAL",
+      "subtema": null
+    },
+    {
+      "tema": "MOVIMIENTOS SOCIALES",
+      "subtema": null
+    },
+    {
+      "tema": "PARTIDOS POLÍTICOS",
+      "subtema": null
+    },
+    {
+      "tema": "LEY ESTATUTARIA DE PARTIDOS POLITICOS",
+      "subtema": null
+    },
+    {
+      "tema": "PLURALISMO POLITICO",
+      "subtema": null
+    },
+    {
+      "tema": "MECANISMOS DE PARTICIPACION DEMOCRATICA",
+      "subtema": null
+    },
+    {
+      "tema": "INICIATIVA LEGISLATIVA",
+      "subtema": null
+    },
+    {
+      "tema": "INTERPRETACION CONSTITUCIONAL",
+      "subtema": null
+    },
+    {
+      "tema": "MOVIMIENTOS POLITICOS",
+      "subtema": null
+    },
+    {
+      "tema": "DEMOCRACIA PARTICIPATIVA",
+      "subtema": null
+    },
+    {
+      "tema": "DERECHO A ELEGIR",
+      "subtema": null
+    },
+    {
+      "tema": "FRANQUICIA POSTAL A LOS PARTIDOS POLITICOS",
+      "subtema": null
+    },
+    {
+      "tema": "DERECHO A LA OPOSICION POLITICA",
+      "subtema": null
+    },
+    {
+      "tema": "DERECHO AL CONTROL DEL PODER POLITICO",
+      "subtema": null
+    },
+    {
+      "tema": "DERECHO DE ACCESO A MEDIOS DE COMUNICACION",
+      "subtema": null
+    },
+    {
+      "tema": "DERECHOS POLITICOS",
+      "subtema": null
+    },
+    {
+      "tema": "CIUDADANIA",
+      "subtema": null
+    },
+    {
+      "tema": "CODIGO DE ETICA",
+      "subtema": null
+    },
+    {
+      "tema": "PROYECTO DE LEY SOBRE PARTICIPACION POLITICA",
+      "subtema": null
+    },
+    {
+      "tema": "DERECHO A SER ELEGIDO",
+      "subtema": null
+    },
+    {
+      "tema": "CONSULTAS INTERNAS",
+      "subtema": "Reglamentación aspectos técnicos"
+    },
+    {
+      "tema": "CONSEJO DE CONTROL ETICO",
+      "subtema": "Sanciones"
+    },
+    {
+      "tema": "CONSEJO NACIONAL ELECTORAL",
+      "subtema": "Informe anual"
+    },
+    {
+      "tema": "CONGRESISTA",
+      "subtema": "Pérdida de investidura"
+    },
+    {
+      "tema": "PROPAGANDA NEGATIVA",
+      "subtema": null
+    },
+    {
+      "tema": "REAJUSTE POR INDICE DE PRECIOS AL CONSUMIDOR",
+      "subtema": null
+    },
+    {
+      "tema": "REPUBLICA PLURALISTA",
+      "subtema": null
+    },
+    {
+      "tema": "SOBERANIA",
+      "subtema": null
+    },
+    {
+      "tema": "CAMPAÑAS ELECTORALES",
+      "subtema": "Financiación"
+    },
+    {
+      "tema": "ENCUESTAS",
+      "subtema": "Vigilancia"
+    },
+    {
+      "tema": "NOTICIERO",
+      "subtema": "Objetividad"
+    },
+    {
+      "tema": "MINORIAS INDIGENAS",
+      "subtema": "Participación política"
+    },
+    {
+      "tema": "MOVIMIENTOS POLITICOS",
+      "subtema": "Pruebas para acreditar existencia"
+    },
+    {
+      "tema": "PLURALISMO",
+      "subtema": "Vulneración"
+    },
+    {
+      "tema": "PARTIDOS POLÍTICOS",
+      "subtema": "Reconocimiento de personería jurídica"
+    },
+    {
+      "tema": "PARTIDOS POLÍTICOS",
+      "subtema": "Veedor"
+    },
+    {
+      "tema": "PRINCIPIO DEMOCRATICO",
+      "subtema": "Expansión"
+    },
+    {
+      "tema": "MOVIMIENTOS POLITICOS",
+      "subtema": "Veedor"
+    },
+    {
+      "tema": "PUBLICIDAD POLITICA",
+      "subtema": "Regulación"
+    },
+    {
+      "tema": "DERECHOS POLITICOS",
+      "subtema": "Límites"
+    },
+    {
+      "tema": "DERECHO DE REPLICA",
+      "subtema": "Contenido"
+    },
+    {
+      "tema": "IGUALDAD POLITICA",
+      "subtema": "Vulneración"
+    },
+    {
+      "tema": "IGUALDAD",
+      "subtema": "Minorías políticas"
+    },
+    {
+      "tema": "PARTIDOS POLÍTICOS",
+      "subtema": "Colores"
+    },
+    {
+      "tema": "PARTIDOS POLÍTICOS",
+      "subtema": "Financiación"
+    },
+    {
+      "tema": "PARTIDOS POLÍTICOS",
+      "subtema": "Organización interna"
+    },
+    {
+      "tema": "PARTIDOS POLÍTICOS",
+      "subtema": "Publicidad"
+    },
+    {
+      "tema": "DERECHO A LA INFORMACIÓN",
+      "subtema": null
+    },
+    {
+      "tema": "ENCUESTAS DE OPINION",
+      "subtema": null
+    },
+    {
+      "tema": "ESPECTRO ELECTROMAGNETICO",
+      "subtema": null
+    },
+    {
+      "tema": "INTERVENCION DEL ESTADO EN ACTIVIDAD FINANCIERA",
+      "subtema": null
+    },
+    {
+      "tema": "PERSONA NATURAL",
+      "subtema": null
+    },
+    {
+      "tema": "PLURALISMO",
+      "subtema": null
+    },
+    {
+      "tema": "PROPAGANDA ELECTORAL",
+      "subtema": null
+    },
+    {
+      "tema": "REPUBLICA DEMOCRATICA",
+      "subtema": null
+    },
+    {
+      "tema": "SENTENCIA DE CONSTITUCIONALIDAD CONDICIONADA",
+      "subtema": null
+    },
+    {
+      "tema": "DERECHO DE ACCESO A DOCUMENTOS PUBLICOS",
+      "subtema": null
+    },
+    {
+      "tema": "ESTATUTO DE LA OPOSICION",
+      "subtema": null
+    },
+    {
+      "tema": "IGUALDAD DE OPORTUNIDADES",
+      "subtema": null
+    },
+    {
+      "tema": "PRINCIPIO DEMOCRATICO",
+      "subtema": null
+    },
+    {
+      "tema": "DERECHO AL SUFRAGIO",
+      "subtema": null
+    },
+    {
+      "tema": "DIALOGO POLITICO",
+      "subtema": null
+    },
+    {
+      "tema": "DIVULGACION POLITICA",
+      "subtema": null
+    },
+    {
+      "tema": "ESTADO SOCIAL DE DERECHO",
+      "subtema": null
+    },
+    {
+      "tema": "FONDO NACIONAL DE FINANCIACION DE PARTIDOS Y CAMPAÑAS ELECTORALES",
+      "subtema": null
+    },
+    {
+      "tema": "CONSULTA NACIONAL",
+      "subtema": null
+    },
+    {
+      "tema": "CONSEJO DE CONTROL ETICO",
+      "subtema": null
+    },
+    {
+      "tema": "FUNCION ELECTORAL",
+      "subtema": null
+    },
+    {
+      "tema": "DEMOCRACIA",
+      "subtema": null
+    },
+    {
+      "tema": "CAMPAÑAS POLITICAS",
+      "subtema": "Financiación"
+    },
+    {
+      "tema": "CAMPAÑAS POLITICAS",
+      "subtema": "Línea especial de crédito"
+    },
+    {
+      "tema": "CAMPAÑAS POLITICAS",
+      "subtema": "Financiación equitativa"
+    },
+    {
+      "tema": "DEMOCRACIA PARTICIPATIVA",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "CONSEJO DE CONTROL ETICO",
+      "subtema": "Integración"
+    },
+    {
+      "tema": "CONSEJO DE CONTROL ETICO",
+      "subtema": "Atribuciones"
+    },
+    {
+      "tema": "CONSEJO NACIONAL ELECTORAL",
+      "subtema": "Partidos minoritarios"
+    },
+    {
+      "tema": "CONSULTAS INTERNAS",
+      "subtema": "Obligatoriedad"
+    },
+    {
+      "tema": "CONSEJO NACIONAL ELECTORAL",
+      "subtema": "Funciones"
+    },
+    {
+      "tema": "CONSEJO DE CONTROL ETICO",
+      "subtema": "Calidades de los miembros"
+    },
+    {
+      "tema": "PERSONA JURIDICA",
+      "subtema": "Discriminación"
+    },
+    {
+      "tema": "PARTIDOS POLÍTICOS",
+      "subtema": "Auditoría interna y externa"
+    },
+    {
+      "tema": "PARTIDOS POLÍTICOS",
+      "subtema": "Tratamiento legislativo"
+    },
+    {
+      "tema": "PARTIDOS POLÍTICOS",
+      "subtema": "Estatutos"
+    },
+    {
+      "tema": "PARTIDOS POLÍTICOS",
+      "subtema": "Manejo de los ingresos"
+    },
+    {
+      "tema": "PARTIDOS POLÍTICOS",
+      "subtema": "Nombre"
+    },
+    {
+      "tema": "PARTIDOS POLÍTICOS",
+      "subtema": "Pruebas para acreditar existencia"
+    },
+    {
+      "tema": "PARTIDOS POLÍTICOS",
+      "subtema": "Símbolos"
+    },
+    {
+      "tema": "MOVIMIENTOS POLITICOS",
+      "subtema": "Tratamiento legislativo"
+    },
+    {
+      "tema": "MOVIMIENTOS POLITICOS",
+      "subtema": "Financiación"
+    },
+    {
+      "tema": "MOVIMIENTOS POLITICOS",
+      "subtema": "Reconocimiento de personería jurídica"
+    },
+    {
+      "tema": "MEDIOS DE COMUNICACIÓN",
+      "subtema": "Utilización"
+    },
+    {
+      "tema": "PRINCIPIO DEMOCRATICO",
+      "subtema": "Universalidad"
+    },
+    {
+      "tema": "LIBERTAD ORGANIZATIVA DE LOS PARTIDOS POLITICOS",
+      "subtema": "Violación"
+    },
+    {
+      "tema": "MOVIMIENTOS POLITICOS",
+      "subtema": "Auditoría interna y externa"
+    },
+    {
+      "tema": "LEY",
+      "subtema": "Unidad de materia"
+    },
+    {
+      "tema": "ENCUESTAS",
+      "subtema": "Difusión"
+    },
+    {
+      "tema": "DERECHO A CONSTITUIR PARTIDOS Y MOVIMIENTOS POLITICOS",
+      "subtema": "Titularidad"
+    },
+    {
+      "tema": "RENOVACION POLITICA",
+      "subtema": "Cercenamiento"
+    },
+    {
+      "tema": "RADIO",
+      "subtema": "Uso del servicio"
+    },
+    {
+      "tema": "REGIMEN DE PARTIDOS Y MOVIMIENTOS POLITICOS",
+      "subtema": "Límites"
+    }
+  ]
+}

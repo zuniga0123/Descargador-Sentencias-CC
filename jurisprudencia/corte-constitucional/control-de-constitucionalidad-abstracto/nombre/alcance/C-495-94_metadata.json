@@ -1,0 +1,42 @@
+{
+  "radicado": "C-495-94",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1994,
+  "fecha_creacion": "1994-11-03",
+  "magistrado_ponente": "Dr Jorge Arango Mejía",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "NOMBRE",
+  "subtema": "Alcance",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2737 de 1989",
+    "Ley 999 de 1988"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1994/C-495-94.htm",
+  "fecha_descarga": "2026-10-23T08:56:47.009264+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1994-11-03",
+  "fecha_publicacion": null,
+  "numero": "C-495/94",
+  "tipo_cc": "C",
+  "prov_id": "12219",
+  "tema_relatoria": "DEC. 2737/89. COD. DEL MENOR. ART. 97. INC. 2. APELLIDOS DEL ADOPTIVO. EXEQUIBLE.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "NOMBRE",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "Apreciaciones subjetivas"
+    },
+    {
+      "tema": "HIJO ADOPTIVO",
+      "subtema": "Nombre"
+    }
+  ]
+}

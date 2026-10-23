@@ -1,0 +1,63 @@
+{
+  "radicado": "C-318-94",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1994,
+  "fecha_creacion": "1994-07-14",
+  "magistrado_ponente": "Eduardo Cifuentes Muñoz",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "INTERVENCION ECONOMICA EN SERVICIOS PUBLICOS",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 37 de 1993",
+    "Decreto 222 de 1983",
+    "Decreto Ley 1900 de 1990"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1994/C-318-94.htm",
+  "fecha_descarga": "2026-10-23T08:54:36.866693+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1994-07-14",
+  "fecha_publicacion": null,
+  "numero": "C-318/94",
+  "tipo_cc": "C",
+  "prov_id": "12032",
+  "tema_relatoria": "LEY 37/93. VARIOS ARTS. SERVICIO PUBLICO DE TELECOMUNICACIONES. TELEFONIA CELULAR. EXEQUIBLES.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "INTERVENCION ECONOMICA EN SERVICIOS PUBLICOS",
+      "subtema": null
+    },
+    {
+      "tema": "INVERSION EXTRANJERA",
+      "subtema": null
+    },
+    {
+      "tema": "CONTRATO DE CONCESION DE SERVICIO DE TELEFONIA MOVIL CELULAR",
+      "subtema": null
+    },
+    {
+      "tema": "ESPECTRO ELECTROMAGNETICO",
+      "subtema": null
+    },
+    {
+      "tema": "SERVICIO PUBLICO DE TELECOMUNICACIONES",
+      "subtema": null
+    },
+    {
+      "tema": "RESERVA ESTATAL DEL SERVICIO DE TELEFONIA MOVIL CELULAR",
+      "subtema": null
+    },
+    {
+      "tema": "REGIMEN JURIDICO DE SERVICIOS PUBLICOS",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "SERVICIO DE TELEFONIA MOVIL CELULAR",
+      "subtema": "Naturaleza"
+    }
+  ]
+}

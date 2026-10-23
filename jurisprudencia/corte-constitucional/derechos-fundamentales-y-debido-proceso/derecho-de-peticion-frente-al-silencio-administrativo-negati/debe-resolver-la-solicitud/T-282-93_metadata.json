@@ -1,0 +1,41 @@
+{
+  "radicado": "T-282-93",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1993,
+  "fecha_creacion": "1993-07-26",
+  "magistrado_ponente": "Dr Hernando Herrera Vergara",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "DERECHO DE PETICION FRENTE AL SILENCIO ADMINISTRATIVO NEGATIVO",
+  "subtema": "Debe resolver la solicitud",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1993/T-282-93.htm",
+  "fecha_descarga": "2026-10-23T09:00:57.426296+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1993-07-26",
+  "fecha_publicacion": "1993-07-29",
+  "numero": "T-282/93",
+  "tipo_cc": "T",
+  "prov_id": "11376",
+  "tema_relatoria": "DERECHO DE PETICION. SILENCIO ADMINISTRATIVO. PENSION DE JUBILACION. CAJA NAL DE PREVISION. DERECHOS LITIGIOSOS. CONCEDIDA PARCIALMENTE.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO DE PETICION FRENTE AL SILENCIO ADMINISTRATIVO NEGATIVO",
+      "subtema": "Debe resolver la solicitud"
+    },
+    {
+      "tema": "ACCION DE TUTELA PARA RECLAMAR PRESTACIONES ECONOMICAS PENSIONALES",
+      "subtema": "Improcedencia por incumplir requisito de subsidiariedad y no existir perjuicio irremediable"
+    },
+    {
+      "tema": "DERECHO DE PETICIÓN",
+      "subtema": "Pronta resolución"
+    }
+  ]
+}

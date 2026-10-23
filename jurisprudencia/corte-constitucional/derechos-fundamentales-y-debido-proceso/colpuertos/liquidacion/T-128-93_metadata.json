@@ -1,0 +1,64 @@
+{
+  "radicado": "T-128-93",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1993,
+  "fecha_creacion": "1993-03-30",
+  "magistrado_ponente": "Jose Gregorio Hernandez Galindo",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "COLPUERTOS",
+  "subtema": "Liquidación",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 37 de 1992",
+    "Decreto 2591 de 1991",
+    "Decreto 35 de 1992",
+    "Decreto 36 de 1992"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1993/T-128-93.htm",
+  "fecha_descarga": "2026-10-23T09:10:54.702953+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1993-03-30",
+  "fecha_publicacion": null,
+  "numero": "T-128/93",
+  "tipo_cc": "T",
+  "prov_id": "11218",
+  "tema_relatoria": "COLPUERTOS. CUMPLIMIENTO DE SENTENCIAS LABORALES. LEGITIMACION POR ACTIVA. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "COLPUERTOS",
+      "subtema": "Liquidación"
+    },
+    {
+      "tema": "ACCION DE TUTELA TRANSITORIA",
+      "subtema": "Improcedencia"
+    },
+    {
+      "tema": "REPRESENTACION LEGAL",
+      "subtema": null
+    },
+    {
+      "tema": "MEDIDAS CAUTELARES",
+      "subtema": "Créditos laborales"
+    },
+    {
+      "tema": "LEGITIMACIÓN POR ACTIVA EN TUTELA",
+      "subtema": null
+    },
+    {
+      "tema": "PERJUICIO IRREMEDIABLE",
+      "subtema": null
+    },
+    {
+      "tema": "EMBARGABILIDAD DEL PRESUPUESTO",
+      "subtema": null
+    },
+    {
+      "tema": "SENTENCIA",
+      "subtema": "Cumplimiento"
+    }
+  ]
+}

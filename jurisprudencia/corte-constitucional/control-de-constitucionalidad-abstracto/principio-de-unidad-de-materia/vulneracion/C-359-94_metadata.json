@@ -1,0 +1,52 @@
+{
+  "radicado": "C-359-94",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1994,
+  "fecha_creacion": "1994-08-11",
+  "magistrado_ponente": "Antonio Barrera Carbonell",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "PRINCIPIO DE UNIDAD DE MATERIA",
+  "subtema": "Vulneración",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 92 de 1993",
+    "Ley 32 de 1985",
+    "Ley 88 de 1993",
+    "Ley 31 de 1992",
+    "Ley 96 de 1945",
+    "Ley 2 de 1969",
+    "Ley 17 de 1977",
+    "Decreto 2067 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1994/C-359-94.htm",
+  "fecha_descarga": "2026-10-23T08:59:35.120294+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1994-08-11",
+  "fecha_publicacion": null,
+  "numero": "C-359/94",
+  "tipo_cc": "C",
+  "prov_id": "12077",
+  "tema_relatoria": "TERCERA ENMIENDA DEL CONVENIO CONSTITUTIVO DEL FONDO MONETARIO Y LEY 92/93. EXEQUIBLE SALVO ART 3 DE LA LEY 92/93.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "PRINCIPIO DE UNIDAD DE MATERIA",
+      "subtema": "Vulneración"
+    },
+    {
+      "tema": "CONVENIO",
+      "subtema": "Gastos de ejecución"
+    },
+    {
+      "tema": "LEY APROBATORIA DE TRATADO INTERNACIONAL",
+      "subtema": "Control de constitucionalidad"
+    },
+    {
+      "tema": "FONDO MONETARIO INTERNACIONAL",
+      "subtema": "Enmienda"
+    }
+  ]
+}

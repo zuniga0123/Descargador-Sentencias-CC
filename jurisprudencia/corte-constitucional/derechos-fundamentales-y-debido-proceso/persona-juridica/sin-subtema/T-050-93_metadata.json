@@ -1,0 +1,69 @@
+{
+  "radicado": "T-050-93",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1993,
+  "fecha_creacion": "1993-02-15",
+  "magistrado_ponente": "Dr SIMON RODRIGUEZ RODRIGUEZ",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "PERSONA JURIDICA",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1993/T-050-93.htm",
+  "fecha_descarga": "2026-10-23T09:02:40.454179+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1993-02-15",
+  "fecha_publicacion": null,
+  "numero": "T-050/93",
+  "tipo_cc": "T",
+  "prov_id": "11138",
+  "tema_relatoria": "DERECHO A LA HONRA. DERECHO AL BUEN NOMBRE. RECTIFICACION PERIODICO \"EL TIEMPO\". CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "PERSONA JURIDICA",
+      "subtema": null
+    },
+    {
+      "tema": "CARGA DE LA PRUEBA",
+      "subtema": null
+    },
+    {
+      "tema": "DERECHO A LA HONRA",
+      "subtema": null
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Titularidad"
+    },
+    {
+      "tema": "DERECHOS FUNDAMENTALES",
+      "subtema": "Vulneración"
+    },
+    {
+      "tema": "DERECHO AL LIBRE DESARROLLO DE LA PERSONALIDAD",
+      "subtema": null
+    },
+    {
+      "tema": "RECTIFICACION DE INFORMACION",
+      "subtema": null
+    },
+    {
+      "tema": "MEDIOS DE COMUNICACIÓN",
+      "subtema": "Límites"
+    },
+    {
+      "tema": "LIBERTAD DE PRENSA",
+      "subtema": "Responsabilidad"
+    },
+    {
+      "tema": "DERECHO A LA INFORMACIÓN",
+      "subtema": "Veracidad"
+    }
+  ]
+}

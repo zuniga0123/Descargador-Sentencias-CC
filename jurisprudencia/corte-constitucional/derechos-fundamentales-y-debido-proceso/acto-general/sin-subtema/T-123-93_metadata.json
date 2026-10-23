@@ -1,0 +1,42 @@
+{
+  "radicado": "T-123-93",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1993,
+  "fecha_creacion": "1993-03-16",
+  "magistrado_ponente": "Vladimiro Naranjo Mesa",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACTO GENERAL",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 80 de 1980",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1993/T-123-93.htm",
+  "fecha_descarga": "2026-10-23T09:03:56.811543+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1993-03-16",
+  "fecha_publicacion": null,
+  "numero": "T-123/93",
+  "tipo_cc": "T",
+  "prov_id": "11197",
+  "tema_relatoria": "AUTONOMIA UNIVERSITARIA. REGLAMENTO ESTUDIANTIL. ITUC (GIRARDOT).",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACTO GENERAL",
+      "subtema": null
+    },
+    {
+      "tema": "AUTONOMÍA UNIVERSITARIA",
+      "subtema": null
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Improcedencia"
+    }
+  ]
+}

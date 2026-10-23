@@ -1,0 +1,54 @@
+{
+  "radicado": "T-263-93",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1993,
+  "fecha_creacion": "1993-07-07",
+  "magistrado_ponente": "Dr JOSE GREGORIO HERNANDEZ GALINDO",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "SILENCIO ADMINISTRATIVO NEGATIVO",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2304 de 1989",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1993/T-263-93.htm",
+  "fecha_descarga": "2026-10-23T09:10:36.110279+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1993-07-07",
+  "fecha_publicacion": null,
+  "numero": "T-263/93",
+  "tipo_cc": "T",
+  "prov_id": "11357",
+  "tema_relatoria": "DERECHO DE PETICION. SILENCIO ADMINISTRATIVO. SOLICITUD DE PENSION DE JUBILACION. CAJA NACIONAL DE PREVISION. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "SILENCIO ADMINISTRATIVO NEGATIVO",
+      "subtema": null
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Impugnación"
+    },
+    {
+      "tema": "FALLO DE TUTELA",
+      "subtema": "Cumplimiento"
+    },
+    {
+      "tema": "DERECHO DE PETICIÓN",
+      "subtema": "Pronta resolución"
+    },
+    {
+      "tema": "PENSION DE JUBILACION",
+      "subtema": "Pago de mesadas atrasadas"
+    },
+    {
+      "tema": "PENSION DE JUBILACION",
+      "subtema": "Solicitud de reconocimiento"
+    }
+  ]
+}

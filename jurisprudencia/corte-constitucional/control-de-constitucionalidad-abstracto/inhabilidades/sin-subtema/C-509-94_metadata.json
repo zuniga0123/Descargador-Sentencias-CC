@@ -1,0 +1,52 @@
+{
+  "radicado": "C-509-94",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1994,
+  "fecha_creacion": "1994-11-10",
+  "magistrado_ponente": "Dr HERNANDO HERRERA VERGARA",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "INHABILIDADES",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 1888 de 1989",
+    "Decreto 2067 de 1991",
+    "Ley 30 de 1987",
+    "Decreto 2281 de 1989"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1994/C-509-94.htm",
+  "fecha_descarga": "2026-10-23T08:56:58.226719+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1994-11-10",
+  "fecha_publicacion": null,
+  "numero": "C-509/94",
+  "tipo_cc": "C",
+  "prov_id": "12237",
+  "tema_relatoria": "DEC. 1888/89. ART 6. REGIMEN DISCIPLINARIO DE FUNCIONARIOS Y EMPLEADOS DE LA RAMA. INHABILIDADES. EXEQUIBLE.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "INHABILIDADES",
+      "subtema": null
+    },
+    {
+      "tema": "PROCESO DISCIPLINARIO",
+      "subtema": null
+    },
+    {
+      "tema": "NOMBRAMIENTO DE EMPLEADOS Y FUNCIONARIOS INHABILITADOS",
+      "subtema": null
+    },
+    {
+      "tema": "DEBIDO PROCESO DISCIPLINARIO",
+      "subtema": null
+    },
+    {
+      "tema": "REGIMEN DISCIPLINARIO DE LA RAMA JUDICIAL",
+      "subtema": null
+    }
+  ]
+}

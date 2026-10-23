@@ -1,0 +1,83 @@
+{
+  "radicado": "C-102-94",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1994,
+  "fecha_creacion": "1994-03-10",
+  "magistrado_ponente": "Dr CARLOS GAVIRIA DIAZ",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "CONVALIDACION",
+  "subtema": "Improcedencia",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2324 de 1984",
+    "Ley 19 de 1983",
+    "Ley 14 de 1936",
+    "Ley 163 de 1959",
+    "Decreto 2349 de 1971",
+    "Decreto 655 de 1968",
+    "Decreto 12 de 1984",
+    "Decreto 29 de 1984",
+    "Decreto 23 de 1987",
+    "Decreto 1246 de 1984",
+    "Decreto Ley 2324 de 1984",
+    "Decreto Ley 222 de 1983",
+    "Ley 63 de 1986",
+    "Ley 26 de 1986",
+    "Ley 10 de 1978"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1994/C-102-94.htm",
+  "fecha_descarga": "2026-10-23T08:53:14.610194+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1994-03-10",
+  "fecha_publicacion": null,
+  "numero": "C-102/94",
+  "tipo_cc": "C",
+  "prov_id": "11806",
+  "tema_relatoria": "DEC. 2324/84. ARTS 188 Y 91. REORGANIZACION DE LA DIRECCION GRAL MARITIMA Y PORTUARIA. INEXEQUIBLE.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "CONVALIDACION",
+      "subtema": "Improcedencia"
+    },
+    {
+      "tema": "FACULTADES EXTRAORDINARIAS",
+      "subtema": "Límites"
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "Vicios de forma"
+    },
+    {
+      "tema": "CADUCIDAD",
+      "subtema": null
+    },
+    {
+      "tema": "ESPECIES NAUFRAGAS",
+      "subtema": null
+    },
+    {
+      "tema": "CONVALIDACION",
+      "subtema": null
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "Desbordamiento en el ejercicio de la competencia"
+    },
+    {
+      "tema": "FACULTADES EXTRAORDINARIAS",
+      "subtema": "Exceso"
+    },
+    {
+      "tema": "FACULTADES EXTRAORDINARIAS",
+      "subtema": "Temporalidad y precisión"
+    },
+    {
+      "tema": "HALLAZGOS",
+      "subtema": "Exploración y denuncia"
+    }
+  ]
+}

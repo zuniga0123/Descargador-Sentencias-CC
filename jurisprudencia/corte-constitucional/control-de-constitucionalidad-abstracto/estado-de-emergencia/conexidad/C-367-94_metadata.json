@@ -1,0 +1,40 @@
+{
+  "radicado": "C-367-94",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1994,
+  "fecha_creacion": "1994-08-18",
+  "magistrado_ponente": "Dr EDUARDO CIFUENTES MUÑOZ",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "ESTADO DE EMERGENCIA",
+  "subtema": "Conexidad",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 1179 de 1994",
+    "Decreto 1178 de 1994",
+    "Ley 80 de 1993",
+    "Decreto 2067 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1994/C-367-94.htm",
+  "fecha_descarga": "2026-10-23T08:59:49.936980+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1994-08-18",
+  "fecha_publicacion": null,
+  "numero": "C-367/94",
+  "tipo_cc": "C",
+  "prov_id": "12086",
+  "tema_relatoria": "DEC. 1179/94. POR EL CUAL SE CREA CORPOPAECES. CORP. PARA LA RECONSTRUCCION DE LA CUENCA DEL RIO PAEZ. CONMOCION. EXEQUIBLE.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ESTADO DE EMERGENCIA",
+      "subtema": "Conexidad"
+    },
+    {
+      "tema": "CORPOPAECES",
+      "subtema": "Duración"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "radicado": "T-242-93",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1993,
+  "fecha_creacion": "1993-06-23",
+  "magistrado_ponente": "Dr JOSE GREGORIO HERNANDEZ GALINDO",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "PERSONA JURIDICA",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 1 de 1984",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1993/T-242-93.htm",
+  "fecha_descarga": "2026-10-23T09:10:03.207468+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1993-06-23",
+  "fecha_publicacion": null,
+  "numero": "T-242/93",
+  "tipo_cc": "T",
+  "prov_id": "11337",
+  "tema_relatoria": "DERECHO DE PETICION. SILENCIO ADMINISTRATIVO NEGATIVO. SOLICITUD DE PENSION. CAJA NACIONAL DE PREVISION.CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "PERSONA JURIDICA",
+      "subtema": null
+    },
+    {
+      "tema": "SILENCIO ADMINISTRATIVO NEGATIVO",
+      "subtema": null
+    },
+    {
+      "tema": "COMPETENCIA A PREVENCIÓN EN TUTELA",
+      "subtema": null
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Titularidad"
+    },
+    {
+      "tema": "ACTO FICTO",
+      "subtema": null
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Juramento"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Ejercicio colectivo"
+    },
+    {
+      "tema": "PENSION DE JUBILACION",
+      "subtema": "Reconocimiento"
+    },
+    {
+      "tema": "DERECHO DE PETICIÓN",
+      "subtema": "Pronta resolución"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "radicado": "T-300-93",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1993,
+  "fecha_creacion": "1993-07-28",
+  "magistrado_ponente": "Dr JOSE GREGORIO HERNANDEZ GALINDO",
+  "area": "Otros - Sin clasificar",
+  "tema": "SERVICIO MILITAR",
+  "subtema": "Obligación",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 48 de 1993",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1993/T-300-93.htm",
+  "fecha_descarga": "2026-10-23T09:08:24.240376+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1993-07-28",
+  "fecha_publicacion": null,
+  "numero": "T-300/93",
+  "tipo_cc": "T",
+  "prov_id": "11391",
+  "tema_relatoria": "OBLIGACION DE PRESTAR SERVICIO MILITAR. CAUSALES TAXATIVAS. UNION DE HECHO. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "SERVICIO MILITAR",
+      "subtema": "Obligación"
+    },
+    {
+      "tema": "SERVICIO MILITAR",
+      "subtema": "Bonificación a menores de edad"
+    },
+    {
+      "tema": "SERVICIO MILITAR",
+      "subtema": "Unión de hecho"
+    }
+  ]
+}

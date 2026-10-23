@@ -1,0 +1,45 @@
+{
+  "radicado": "T-232-93",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1993,
+  "fecha_creacion": "1993-06-18",
+  "magistrado_ponente": "Alejandro Martinez Caballero",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "DERECHO A LA VIDA",
+  "subtema": "Consumo de agua",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Decreto 1541 de 1978",
+    "Decreto 306 de 1992",
+    "Ley 9 de 1979",
+    "Decreto 2105 de 1993"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1993/T-232-93.htm",
+  "fecha_descarga": "2026-10-23T09:09:41.141254+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1993-06-18",
+  "fecha_publicacion": null,
+  "numero": "T-232/93",
+  "tipo_cc": "T",
+  "prov_id": "11327",
+  "tema_relatoria": "DERECHO A LA VIDA. DERECHO A LA SALUD. ACUEDUCTO DE FUNZA. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA VIDA",
+      "subtema": "Consumo de agua"
+    },
+    {
+      "tema": "AGENCIA OFICIOSA EN TUTELA",
+      "subtema": null
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Informalidad"
+    }
+  ]
+}

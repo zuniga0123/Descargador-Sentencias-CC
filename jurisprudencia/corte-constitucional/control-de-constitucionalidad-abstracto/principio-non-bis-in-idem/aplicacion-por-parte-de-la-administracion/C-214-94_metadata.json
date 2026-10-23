@@ -1,0 +1,54 @@
+{
+  "radicado": "C-214-94",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1994,
+  "fecha_creacion": "1994-04-28",
+  "magistrado_ponente": "Antonio Barrera Carbonell",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "PRINCIPIO NON BIS IN IDEM",
+  "subtema": "Aplicación por parte de la administración",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 1344 de 1970",
+    "Ley 1344 de 1970"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1994/C-214-94.htm",
+  "fecha_descarga": "2026-10-23T08:51:22.404611+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1994-04-28",
+  "fecha_publicacion": null,
+  "numero": "C-214/94",
+  "tipo_cc": "C",
+  "prov_id": "11922",
+  "tema_relatoria": "CODIGO NAL DE TRANSITO TERRESTRE. ART 190. REVISION DE VEHICULOS. EXEQUIBLE.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "PRINCIPIO NON BIS IN IDEM",
+      "subtema": "Aplicación por parte de la administración"
+    },
+    {
+      "tema": "DEBIDO PROCESO",
+      "subtema": "Naturaleza"
+    },
+    {
+      "tema": "POTESTAD SANCIONADORA DE LA ADMINISTRACION",
+      "subtema": "Modalidades"
+    },
+    {
+      "tema": "CODIGO NACIONAL DE TRANSITO TERRESTRE",
+      "subtema": null
+    },
+    {
+      "tema": "POTESTAD SANCIONADORA DE LA ADMINISTRACION",
+      "subtema": "Naturaleza"
+    },
+    {
+      "tema": "VEHICULO",
+      "subtema": "Revisión"
+    }
+  ]
+}

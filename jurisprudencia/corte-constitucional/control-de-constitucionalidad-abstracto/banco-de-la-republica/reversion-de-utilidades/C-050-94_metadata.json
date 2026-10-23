@@ -1,0 +1,70 @@
+{
+  "radicado": "C-050-94",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1994,
+  "fecha_creacion": "1994-02-10",
+  "magistrado_ponente": "Dr Hernando Herrera Vergara",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "BANCO DE LA REPUBLICA",
+  "subtema": "Reversión de utilidades",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 31 de 1992",
+    "Ley 38 de 1989"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1994/C-050-94.htm",
+  "fecha_descarga": "2026-10-23T08:57:20.799163+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1994-02-10",
+  "fecha_publicacion": null,
+  "numero": "C-050/94",
+  "tipo_cc": "C",
+  "prov_id": "11752",
+  "tema_relatoria": "LEY 31/92. ART.25PARAGRAFO. ART 27 NUM 3 Y 8 LIT E. AUTONOMIA ADMINISTRATIVA PATRIMONIAL Y TECNICA DEL B/CO DE LA R/BLICA. EXEQUIBLES",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "BANCO DE LA REPUBLICA",
+      "subtema": "Reversión de utilidades"
+    },
+    {
+      "tema": "BANCO DE LA REPUBLICA",
+      "subtema": "Autonomía administrativa"
+    },
+    {
+      "tema": "BANCO DE LA REPUBLICA",
+      "subtema": "Autonomía técnica"
+    },
+    {
+      "tema": "CONFIS",
+      "subtema": null
+    },
+    {
+      "tema": "COMPETENCIA DE REGULACION NORMATIVA CONCURRENTE",
+      "subtema": null
+    },
+    {
+      "tema": "BANCO DE LA REPUBLICA",
+      "subtema": "Autonomía patrimonial"
+    },
+    {
+      "tema": "BANCO DE LA REPUBLICA",
+      "subtema": "Funciones culturales"
+    },
+    {
+      "tema": "BANCO DE LA REPUBLICA",
+      "subtema": "Autonomía de gestión"
+    },
+    {
+      "tema": "BANCO DE LA REPUBLICA",
+      "subtema": "Naturaleza"
+    },
+    {
+      "tema": "PRINCIPIO DE LEGALIDAD DEL PRESUPUESTO",
+      "subtema": null
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "radicado": "C-152-94",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1994,
+  "fecha_creacion": "1994-03-24",
+  "magistrado_ponente": "Dr JORGE ARANGO MEJIA",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "INCONSTITUCIONALIDAD SOBREVINIENTE",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 1260 de 1970",
+    "Decreto 999 de 1988",
+    "Ley 54 de 1989"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1994/C-152-94.htm",
+  "fecha_descarga": "2026-10-23T08:52:48.153218+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1994-03-24",
+  "fecha_publicacion": null,
+  "numero": "C-152/94",
+  "tipo_cc": "C",
+  "prov_id": "11857",
+  "tema_relatoria": "LEY 54/89. POR EL CUAL SE REFORMA EL ART. 53 DEL DEC. 1260/70. REGISTRO DE NACIMIENTO. EXEQUIBLE.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "INCONSTITUCIONALIDAD SOBREVINIENTE",
+      "subtema": null
+    },
+    {
+      "tema": "NOMBRE",
+      "subtema": "Finalidad"
+    },
+    {
+      "tema": "IDENTIFICACION DE LA PERSONA",
+      "subtema": "Orden de apellidos"
+    },
+    {
+      "tema": "IGUALDAD DE DERECHOS",
+      "subtema": null
+    },
+    {
+      "tema": "NOMBRE",
+      "subtema": "Orden de apellidos"
+    },
+    {
+      "tema": "NOMBRE",
+      "subtema": "Naturaleza jurídica"
+    }
+  ]
+}

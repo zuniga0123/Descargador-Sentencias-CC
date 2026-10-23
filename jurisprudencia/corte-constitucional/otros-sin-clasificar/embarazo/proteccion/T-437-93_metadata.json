@@ -1,0 +1,60 @@
+{
+  "radicado": "T-437-93",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1993,
+  "fecha_creacion": "1993-10-12",
+  "magistrado_ponente": "Dr Carlos Gaviria Díaz",
+  "area": "Otros - Sin clasificar",
+  "tema": "EMBARAZO",
+  "subtema": "Protección",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2790 de 1990",
+    "Decreto 2700 de 1991",
+    "Ley 12 de 1991",
+    "Ley 51 de 1981",
+    "Decreto Ley 99 de 1991",
+    "Decreto 2271 de 1991",
+    "Decreto 99 de 1991",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1993/T-437-93.htm",
+  "fecha_descarga": "2026-10-23T09:05:13.888012+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1993-10-12",
+  "fecha_publicacion": null,
+  "numero": "T-437/93",
+  "tipo_cc": "T",
+  "prov_id": "11534",
+  "tema_relatoria": "DERECHOS DE LA MUJER EMBARAZADA EN ESTABLECIMIENTO CARCELARIO. DERS DEL QUE ESTA POR NACER. DER A LA IGUALDAD. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "EMBARAZO",
+      "subtema": "Protección"
+    },
+    {
+      "tema": "DERECHO A LA ATENCION MEDICA",
+      "subtema": null
+    },
+    {
+      "tema": "DETENCION HOSPITALARIA",
+      "subtema": null
+    },
+    {
+      "tema": "DERECHOS DEL INTERNO",
+      "subtema": null
+    },
+    {
+      "tema": "MATERNIDAD",
+      "subtema": "Protección"
+    },
+    {
+      "tema": "DERECHOS DE LA NIÑEZ",
+      "subtema": "Atención gratuita"
+    }
+  ]
+}

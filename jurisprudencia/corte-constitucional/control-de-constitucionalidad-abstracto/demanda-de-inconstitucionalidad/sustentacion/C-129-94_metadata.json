@@ -1,0 +1,46 @@
+{
+  "radicado": "C-129-94",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1994,
+  "fecha_creacion": "1994-03-17",
+  "magistrado_ponente": "Dr VLADIMIRO NARANJO MESA",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "DEMANDA DE INCONSTITUCIONALIDAD",
+  "subtema": "Sustentación",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2067 de 1991",
+    "Ley 32 de 1985",
+    "Ley 74 de 1968",
+    "Decreto Ley 10 de 1992",
+    "Ley 10 de 1992",
+    "Decreto 10 de 1992"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1994/C-129-94.htm",
+  "fecha_descarga": "2026-10-23T08:53:25.689491+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1994-03-17",
+  "fecha_publicacion": null,
+  "numero": "C-129/94",
+  "tipo_cc": "C",
+  "prov_id": "11835",
+  "tema_relatoria": "DEC. 0010/92. CARRERA DIPLOMATICA Y CONSULAR. LIBRE NOMBR. Y REMOCION DE JEFES DE LA MISION DIPLOMATICA. ESTARSE A LA SENT 071/93.Y EXEQUIBLE E INHIBIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "Sustentación"
+    },
+    {
+      "tema": "JEFE DE MISION DIPLOMATICA",
+      "subtema": "Nombramiento"
+    },
+    {
+      "tema": "PRESIDENTE DE LA REPUBLICA",
+      "subtema": "Discrecionalidad"
+    }
+  ]
+}

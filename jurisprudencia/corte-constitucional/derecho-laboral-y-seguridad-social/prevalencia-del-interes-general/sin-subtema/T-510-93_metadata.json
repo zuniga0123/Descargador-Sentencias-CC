@@ -1,0 +1,65 @@
+{
+  "radicado": "T-510-93",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1993,
+  "fecha_creacion": "1993-11-08",
+  "magistrado_ponente": "Dr VLADIMIRO NARANJO MESA",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "PREVALENCIA DEL INTERES GENERAL",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1993/T-510-93.htm",
+  "fecha_descarga": "2026-10-23T09:07:51.422173+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1993-11-08",
+  "fecha_publicacion": null,
+  "numero": "T-510/93",
+  "tipo_cc": "T",
+  "prov_id": "11612",
+  "tema_relatoria": "DERECHO AL TRABAJO. DERECHO A LA IGUALDAD. MANEJO DEL ORDEN PUBLICO. HORARIOS DE ESTABLECIMIENTO COMERCIAL. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "PREVALENCIA DEL INTERES GENERAL",
+      "subtema": null
+    },
+    {
+      "tema": "IGUALDAD FORMAL",
+      "subtema": null
+    },
+    {
+      "tema": "ESTABLECIMIENTO NOCTURNO",
+      "subtema": "Horario de funcionamiento"
+    },
+    {
+      "tema": "ALCALDE",
+      "subtema": "Facultades"
+    },
+    {
+      "tema": "AUTORIDAD DE POLICIA",
+      "subtema": null
+    },
+    {
+      "tema": "IGUALDAD ANTE LA LEY",
+      "subtema": null
+    },
+    {
+      "tema": "IGUALDAD MATERIAL",
+      "subtema": null
+    },
+    {
+      "tema": "DERECHO AL TRABAJO",
+      "subtema": "Protección"
+    },
+    {
+      "tema": "ORDEN PUBLICO",
+      "subtema": "Núcleo esencial"
+    }
+  ]
+}

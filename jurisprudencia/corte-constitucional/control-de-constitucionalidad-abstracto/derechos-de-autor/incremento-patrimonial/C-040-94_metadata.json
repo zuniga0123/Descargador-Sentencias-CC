@@ -1,0 +1,44 @@
+{
+  "radicado": "C-040-94",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1994,
+  "fecha_creacion": "1994-02-03",
+  "magistrado_ponente": "Alejandro Martinez Caballero",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "DERECHOS DE AUTOR",
+  "subtema": "Incremento patrimonial",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 44 de 1993",
+    "Ley 23 de 1982",
+    "Ley 48 de 1975",
+    "Ley 23 de 1992"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1994/C-040-94.htm",
+  "fecha_descarga": "2026-10-23T08:50:37.658073+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1994-02-03",
+  "fecha_publicacion": null,
+  "numero": "C-040/94",
+  "tipo_cc": "C",
+  "prov_id": "11742",
+  "tema_relatoria": "LEY 44/93. ART. 68 PARCIAL. DERECHOS DE AUTOR. DERECHO A LA IGUALDAD. EXEQUIBLE.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHOS DE AUTOR",
+      "subtema": "Incremento patrimonial"
+    },
+    {
+      "tema": "OBRA ARTISTICA",
+      "subtema": "Autor"
+    },
+    {
+      "tema": "OBRA ARTISTICA",
+      "subtema": "Ejecución"
+    }
+  ]
+}

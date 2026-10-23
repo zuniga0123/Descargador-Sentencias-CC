@@ -1,0 +1,100 @@
+{
+  "radicado": "C-300-94",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1994,
+  "fecha_creacion": "1994-07-01",
+  "magistrado_ponente": "Eduardo Cifuentes Muñoz",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "CORTE CONSTITUCIONAL",
+  "subtema": "Incompetencia",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 137 de 1994",
+    "Decreto 874 de 1994",
+    "Ley 81 de 1993",
+    "Decreto 2067 de 1991",
+    "Decreto 1155 de 1992",
+    "Ley 15 de 1992",
+    "Decreto 1496 de 1993",
+    "Decreto 1156 de 1992",
+    "Decreto 2700 de 1991",
+    "Decreto 2790 de 1990",
+    "Decreto 99 de 1991",
+    "Decreto 2271 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1994/C-300-94.htm",
+  "fecha_descarga": "2026-10-23T08:52:14.319135+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1994-07-01",
+  "fecha_publicacion": null,
+  "numero": "C-300/94",
+  "tipo_cc": "C",
+  "prov_id": "12013",
+  "tema_relatoria": "DEC. 874/94. POR EL CUAL SE DECLARA EL ESTADO DE CONMOCION INTERIOR. INEXEQUIBLE.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "CORTE CONSTITUCIONAL",
+      "subtema": "Incompetencia"
+    },
+    {
+      "tema": "DERECHO AL RECONOCIMIENTO DE LA PERSONALIDAD JURIDICA",
+      "subtema": "Vulneración"
+    },
+    {
+      "tema": "PRINCIPIO DE FAVORABILIDAD PENAL",
+      "subtema": "Intangibilidad"
+    },
+    {
+      "tema": "MORA JUDICIAL",
+      "subtema": "Dilación injustificada"
+    },
+    {
+      "tema": "DECRETO LEGISLATIVO DE CONMOCION INTERIOR",
+      "subtema": "Naturaleza"
+    },
+    {
+      "tema": "ORDEN PUBLICO",
+      "subtema": "Conservación y restablecimiento"
+    },
+    {
+      "tema": "CARGA DE LA PRUEBA",
+      "subtema": null
+    },
+    {
+      "tema": "DECLARACION DE ESTADO DE CONMOCION INTERIOR",
+      "subtema": "Inconstitucionalidad desde que se produjo"
+    },
+    {
+      "tema": "PRINCIPIO DE SEPARACION DE FUNCIONES ENTRE ORGANOS DEL ESTADO",
+      "subtema": null
+    },
+    {
+      "tema": "CONMOCION INTERIOR",
+      "subtema": "Perturbación del orden público"
+    },
+    {
+      "tema": "CONMOCION INTERIOR",
+      "subtema": "Excarcelación masiva"
+    },
+    {
+      "tema": "PRESUNCION DE INOCENCIA",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "DETENCION PROVISIONAL",
+      "subtema": "Naturaleza"
+    },
+    {
+      "tema": "DECRETO DE CONMOCION INTERIOR",
+      "subtema": "Motivación"
+    },
+    {
+      "tema": "DECRETO DE CONMOCION INTERIOR",
+      "subtema": "Control automático de constitucionalidad"
+    }
+  ]
+}

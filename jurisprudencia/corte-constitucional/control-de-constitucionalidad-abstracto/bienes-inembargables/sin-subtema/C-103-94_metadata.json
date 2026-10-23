@@ -1,0 +1,50 @@
+{
+  "radicado": "C-103-94",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1994,
+  "fecha_creacion": "1994-03-10",
+  "magistrado_ponente": "Jorge Arango Mejia",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "BIENES INEMBARGABLES",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 30 de 1987",
+    "Ley 38 de 1989"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1994/C-103-94.htm",
+  "fecha_descarga": "2026-10-23T08:53:18.290121+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1994-03-10",
+  "fecha_publicacion": null,
+  "numero": "C-103/94",
+  "tipo_cc": "C",
+  "prov_id": "11807",
+  "tema_relatoria": "DEC. 2282/89. ARTS 1 NUM 158. PARCIAL. Y 272 PARCIAL. MODIFICACIONES AL C.P.C. EXEQUIBLES.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "BIENES INEMBARGABLES",
+      "subtema": null
+    },
+    {
+      "tema": "RECURSOS PROCESALES",
+      "subtema": "Eliminación"
+    },
+    {
+      "tema": "DIRECCION GENERAL DE PRESUPUESTO",
+      "subtema": null
+    },
+    {
+      "tema": "BIENES INEMBARGABLES",
+      "subtema": "Certificación"
+    },
+    {
+      "tema": "SENTENCIA DE CONDENA",
+      "subtema": "Cumplimiento"
+    }
+  ]
+}

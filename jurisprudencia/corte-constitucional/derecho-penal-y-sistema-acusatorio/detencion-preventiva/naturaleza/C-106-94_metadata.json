@@ -1,0 +1,39 @@
+{
+  "radicado": "C-106-94",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1994,
+  "fecha_creacion": "1994-03-10",
+  "magistrado_ponente": "Dr JOSE GREGORIO HERNANDEZ GALINDO",
+  "area": "Derecho Penal y Sistema Acusatorio",
+  "tema": "DETENCION PREVENTIVA",
+  "subtema": "Naturaleza",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2700 de 1991",
+    "Decreto 2067 de 1991",
+    "Ley 74 de 1968"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1994/C-106-94.htm",
+  "fecha_descarga": "2026-10-23T09:00:19.945383+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1994-03-10",
+  "fecha_publicacion": null,
+  "numero": "C-106/94",
+  "tipo_cc": "C",
+  "prov_id": "11810",
+  "tema_relatoria": "DEC. 2700/91. C.P.P. ARTS 375 Y 387 PARCIALES; Y 388. DISTINCION ENTRE PENA Y MEDIDA DE ASEGURAMIENTO. EXEQUIBLES.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DETENCION PREVENTIVA",
+      "subtema": "Naturaleza"
+    },
+    {
+      "tema": "MEDIDAS DE ASEGURAMIENTO",
+      "subtema": "Naturaleza"
+    }
+  ]
+}

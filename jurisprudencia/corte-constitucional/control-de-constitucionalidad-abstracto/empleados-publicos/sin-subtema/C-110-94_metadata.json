@@ -1,0 +1,67 @@
+{
+  "radicado": "C-110-94",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1994,
+  "fecha_creacion": "1994-03-10",
+  "magistrado_ponente": "Dr JOSE GREGORIO HERNANDEZ GALINDO",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "EMPLEADOS PUBLICOS",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 50 de 1990",
+    "Decreto 2067 de 1991",
+    "Decreto 3135 de 1968"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1994/C-110-94.htm",
+  "fecha_descarga": "2026-10-23T08:52:37.116879+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1994-03-10",
+  "fecha_publicacion": null,
+  "numero": "C-110/94",
+  "tipo_cc": "C",
+  "prov_id": "11814",
+  "tema_relatoria": "LEY 50/90. ARTS 58 414 Y 416. C.S.T. DER. DE ASOCIACION SINDICAL DE LOS SERVIDORES PUBLICOS. DER. DE HUELGA. EXEQUIBLES.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "EMPLEADOS PUBLICOS",
+      "subtema": null
+    },
+    {
+      "tema": "SINDICATO MIXTO",
+      "subtema": null
+    },
+    {
+      "tema": "EMPLEADOS PUBLICOS",
+      "subtema": "Interrupción de actividades"
+    },
+    {
+      "tema": "DERECHO DE NEGOCIACION COLECTIVA",
+      "subtema": "Límites"
+    },
+    {
+      "tema": "TRABAJADOR OFICIAL",
+      "subtema": null
+    },
+    {
+      "tema": "DERECHO DE ASOCIACIÓN SINDICAL",
+      "subtema": null
+    },
+    {
+      "tema": "DERECHO DE HUELGA",
+      "subtema": "Prohibiciones"
+    },
+    {
+      "tema": "DERECHO A LA HUELGA",
+      "subtema": "Límites"
+    },
+    {
+      "tema": "TRABAJADOR OFICIAL",
+      "subtema": "Prestación de servicios públicos"
+    }
+  ]
+}

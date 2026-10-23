@@ -1,0 +1,48 @@
+{
+  "radicado": "C-409-94",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1994,
+  "fecha_creacion": "1994-09-15",
+  "magistrado_ponente": "Hernando Herrera Vergara",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "DERECHOS DEL PENSIONADO",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 71 de 1988",
+    "Ley 100 de 1993",
+    "Decreto 2067 de 1991",
+    "Decreto 2108 de 1992"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1994/C-409-94.htm",
+  "fecha_descarga": "2026-10-23T08:55:58.761393+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1994-09-15",
+  "fecha_publicacion": null,
+  "numero": "C-409/94",
+  "tipo_cc": "C",
+  "prov_id": "12131",
+  "tema_relatoria": "LEY 100/93. ART. 142. DER. A LA IGUALDAD. MESADA ADICIONAL PARA PENSIONADOS. INEXEQUIBLE UNA EXPRESION.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHOS DEL PENSIONADO",
+      "subtema": null
+    },
+    {
+      "tema": "MESADA ADICIONAL",
+      "subtema": "Pago"
+    },
+    {
+      "tema": "PENSION DE JUBILACION",
+      "subtema": "Reajuste"
+    },
+    {
+      "tema": "DERECHO A LA IGUALDAD",
+      "subtema": "Vulneración"
+    }
+  ]
+}

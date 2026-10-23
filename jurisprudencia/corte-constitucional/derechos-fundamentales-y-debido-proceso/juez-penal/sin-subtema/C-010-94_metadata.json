@@ -1,0 +1,51 @@
+{
+  "radicado": "C-010-94",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1994,
+  "fecha_creacion": "1994-01-20",
+  "magistrado_ponente": "Dr FABIO MORON DIAZ",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "JUEZ PENAL",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2700 de 1991",
+    "Decreto 2067 de 1991",
+    "Ley 15 de 1992"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1994/C-010-94.htm",
+  "fecha_descarga": "2026-10-23T08:49:08.427460+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1994-01-20",
+  "fecha_publicacion": null,
+  "numero": "C-010/94",
+  "tipo_cc": "C",
+  "prov_id": "11712",
+  "tema_relatoria": "DEC. 2700/91. ART 431 #1 PARCIAL. COMPETENCIA PARA EL TRAMITE Y RESOLUCION JUDICIAL DE LA SOLICITUD DE HABEAS CORPUS. EXEQUIBLE.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "JUEZ PENAL",
+      "subtema": null
+    },
+    {
+      "tema": "HABEAS CORPUS",
+      "subtema": "Interposición"
+    },
+    {
+      "tema": "HABEAS CORPUS",
+      "subtema": "Naturaleza"
+    },
+    {
+      "tema": "HABEAS CORPUS",
+      "subtema": "Privación de libertad por particulares"
+    },
+    {
+      "tema": "HABEAS CORPUS",
+      "subtema": "Trámite"
+    }
+  ]
+}

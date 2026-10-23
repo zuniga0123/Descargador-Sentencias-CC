@@ -1,0 +1,59 @@
+{
+  "radicado": "T-335-93",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1993,
+  "fecha_creacion": "1993-08-17",
+  "magistrado_ponente": "Jorge Arango Mejia",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "CONGRESISTA",
+  "subtema": "Solicitud de informes",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 5 de 1992",
+    "Decreto 1 de 1984",
+    "Ley 57 de 1985"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1993/T-335-93.htm",
+  "fecha_descarga": "2026-10-23T09:09:30.191947+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1993-08-17",
+  "fecha_publicacion": null,
+  "numero": "T-335/93",
+  "tipo_cc": "T",
+  "prov_id": "11430",
+  "tema_relatoria": "DERECHO DE PETICION. ACCESO A DOCUMENTOS PUBLICOS. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "CONGRESISTA",
+      "subtema": "Solicitud de informes"
+    },
+    {
+      "tema": "ACTO ADMINISTRATIVO",
+      "subtema": "Eficacia"
+    },
+    {
+      "tema": "DERECHO DE ACCESO A DOCUMENTOS PUBLICOS",
+      "subtema": null
+    },
+    {
+      "tema": "DERECHOS FUNDAMENTALES",
+      "subtema": null
+    },
+    {
+      "tema": "DERECHO DE PETICIÓN",
+      "subtema": null
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Improcedencia"
+    },
+    {
+      "tema": "DERECHO DE PETICIÓN",
+      "subtema": "Naturaleza"
+    }
+  ]
+}
