@@ -1,0 +1,47 @@
+{
+  "radicado": "T-1238-01",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2001,
+  "fecha_creacion": "2001-11-22",
+  "magistrado_ponente": "Dra CLARA INÉS VARGAS HERNÁNDEZ",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "SEGURO SOCIAL",
+  "subtema": "Término para resolver petición de reconocimiento de pensiones legales",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 656 de 1994",
+    "Ley 100 de 1993",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2001/T-1238-01.htm",
+  "fecha_descarga": "2026-10-23T01:57:09.930339+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2001-11-22",
+  "fecha_publicacion": null,
+  "numero": "T-1238/01",
+  "tipo_cc": "T",
+  "prov_id": "20011",
+  "tema_relatoria": "DERECHO DE PETICION. SOLICITUD RECONOCIMIENTO DE LA SUSTITUCION PENSIONAL A FAVOR DE HIJA. INCLUSION EN NOMINA COMO BENEFICIARIA. PAGO DE ACREENCIAS LABORALES. MESADAS PENSIONALES. RESPUESTA CLARA Y OPORTUNA. PETICIONES INCOMPLETAS. OMISION DE INFORMACION",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "SEGURO SOCIAL",
+      "subtema": "Término para resolver petición de reconocimiento de pensiones legales"
+    },
+    {
+      "tema": "DERECHO DE PETICION ANTE EL SEGURO SOCIAL",
+      "subtema": "Aplicación analógica de término de cuatro meses para resolver reconocimiento de pensiones legales"
+    },
+    {
+      "tema": "DERECHO DE PETICION ANTE EL SEGURO SOCIAL",
+      "subtema": "Vulneración"
+    },
+    {
+      "tema": "SOCIEDAD ADMINISTRADORA DE FONDO DE PENSIONES",
+      "subtema": "Destinatarios de ahorro individual y no del seguro social"
+    }
+  ]
+}

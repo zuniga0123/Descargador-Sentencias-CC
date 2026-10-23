@@ -1,0 +1,60 @@
+{
+  "radicado": "T-796-01",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2001,
+  "fecha_creacion": "2001-07-31",
+  "magistrado_ponente": "Dr JAIME ARAUJO RENTERIA",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCIÓN DE TUTELA",
+  "subtema": "Improcedencia para ordenar reconocimiento de pensiones",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Decreto 1474 de 1997",
+    "Decreto 2591 de 1991",
+    "Decreto 656 de 1994"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2001/T-796-01.htm",
+  "fecha_descarga": "2026-10-23T01:55:09.680658+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2001-07-31",
+  "fecha_publicacion": null,
+  "numero": "T-796/01",
+  "tipo_cc": "T",
+  "prov_id": "19518",
+  "tema_relatoria": "DERECHO DE PETICION. RECONOCIMIENTO Y PAGO DE LA PENSION DE VEJEZ. EMISION DEL BONO PENSIONAL. RESPUESTA CLARA Y OPORTUNA. FALTAS DISCIPLINARIAS DE LOS SERVIDORES PUBLICOS. CONCEDIDA PARCIALMENTE.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Improcedencia para ordenar reconocimiento de pensiones"
+    },
+    {
+      "tema": "DERECHO DE PETICIÓN",
+      "subtema": "Vulneración por desorganización administrativa"
+    },
+    {
+      "tema": "DERECHO DE PETICIÓN",
+      "subtema": "Omisión de respuesta oportuna por el ISS"
+    },
+    {
+      "tema": "BONO PENSIONAL",
+      "subtema": "Demora en emisión impide acceso a pensión de jubilación"
+    },
+    {
+      "tema": "BONO PENSIONAL",
+      "subtema": "Su exigencia no puede vulnerar el derecho a la pensión"
+    },
+    {
+      "tema": "DERECHO DE PETICION ANTE EL SEGURO SOCIAL",
+      "subtema": "Aplicación analógica de término de cuatro meses para resolver reconocimiento de pensiones legales"
+    },
+    {
+      "tema": "DERECHO DE PETICIÓN",
+      "subtema": "Ejercicio y alcance"
+    }
+  ]
+}

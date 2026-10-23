@@ -1,0 +1,43 @@
+{
+  "radicado": "T-041A-01",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2001,
+  "fecha_creacion": "2001-01-22",
+  "magistrado_ponente": "Dr FABIO MORON DIAZ",
+  "area": "Derecho a la Salud",
+  "tema": "ENFERMEDADES CATASTROFICAS O RUINOSAS",
+  "subtema": "Tratamiento de quimioterapia por EPS",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2001/T-041A-01.htm",
+  "fecha_descarga": "2026-10-23T01:48:30.606431+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2001-01-22",
+  "fecha_publicacion": null,
+  "numero": "T-041A/01",
+  "tipo_cc": "T",
+  "prov_id": "18497",
+  "tema_relatoria": "DERECHO A LA VIDA SALUD Y SEGURIDAD SOCIAL. SUMINISTRO TRATAMIENTO DE QUIMIOTERAPIA POR TUMOR OVARICO. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ENFERMEDADES CATASTROFICAS O RUINOSAS",
+      "subtema": "Tratamiento de quimioterapia por EPS"
+    },
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Fundamental por conexidad con la vida"
+    },
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Tratamiento de quimioterapia sin cumplir periodo mínimo de cotización"
+    },
+    {
+      "tema": "ENTIDAD PROMOTORA DE SALUD",
+      "subtema": "Repetición contra el FOSYGA"
+    }
+  ]
+}

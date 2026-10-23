@@ -1,0 +1,43 @@
+{
+  "radicado": "T-759-01",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2001,
+  "fecha_creacion": "2001-07-17",
+  "magistrado_ponente": "Dr JAIME ARAUJO RENTERÍA",
+  "area": "Derecho Penal y Sistema Acusatorio",
+  "tema": "VIA DE HECHO POR FALTA DE NOTIFICACION",
+  "subtema": "Juzgamiento como reo ausente",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Decreto 2591 de 1992",
+    "Ley 63 de 1993"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2001/T-759-01.htm",
+  "fecha_descarga": "2026-10-23T01:51:06.772781+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2001-07-17",
+  "fecha_publicacion": null,
+  "numero": "T-759/01",
+  "tipo_cc": "T",
+  "prov_id": "19470",
+  "tema_relatoria": "DEBIDO PROCESO Y DERECHO DE DEFENSA. RECLUSO NO TUVO CONOCIMIENTO SOBRE LA EXISTENCIA DE UN PROCESO PENAL QUE CULMINO CON SENTENCIA CONDENATORIA EN SU CONTRA. FALTA DE NOTIFICACION. VIA DE HECHO POR CONSECUENCIA. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "VIA DE HECHO POR FALTA DE NOTIFICACION",
+      "subtema": "Juzgamiento como reo ausente"
+    },
+    {
+      "tema": "DERECHO DE DEFENSA DEL REO AUSENTE",
+      "subtema": "Nulidad procesal"
+    },
+    {
+      "tema": "VIA DE HECHO POR CONSECUENCIA",
+      "subtema": "Alcance"
+    }
+  ]
+}

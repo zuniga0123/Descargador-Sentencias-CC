@@ -1,0 +1,61 @@
+{
+  "radicado": "T-343-01",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2001,
+  "fecha_creacion": "2001-03-29",
+  "magistrado_ponente": "Dr RODRIGO ESCOBAR GIL",
+  "area": "Derecho Administrativo y Función Pública",
+  "tema": "PERJUICIO IRREMEDIABLE",
+  "subtema": "Alcance",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto Ley 1355 de 1970",
+    "Decreto 640 de 1937",
+    "Ley 472 de 1998",
+    "Decreto 2591 de 1991",
+    "Decreto 640 de 1936"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2001/T-343-01.htm",
+  "fecha_descarga": "2026-10-23T02:05:31.654889+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2001-03-29",
+  "fecha_publicacion": null,
+  "numero": "T-343/01",
+  "tipo_cc": "T",
+  "prov_id": "18921",
+  "tema_relatoria": "DERECHO DE DEFENSA Y DEBIDO PROCESO. VIAS DE HECHO EN PROCESO POLICIVO. RESTITUCION DEL ESPACIO PUBLICO. SOLICITUD NULIDAD DE TODO LO ACTUADO. AUTONOMASIA DE NULIDAD DEL ACTO ADMINISTRATIVO. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "PERJUICIO IRREMEDIABLE",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "MEDIO DE DEFENSA JUDICIAL",
+      "subtema": "Nulidad de acto administrativo"
+    },
+    {
+      "tema": "ACCION DE NULIDAD Y RESTABLECIMIENTO DEL DERECHO",
+      "subtema": "Restitución del espacio público"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Improcedencia para lograr nulidad de acto administrativo"
+    },
+    {
+      "tema": "MEDIO DE DEFENSA JUDICIAL EFICAZ",
+      "subtema": "Restitución del espacio público"
+    },
+    {
+      "tema": "PERJUICIO IRREMEDIABLE",
+      "subtema": "Requisitos"
+    },
+    {
+      "tema": "PROCESO ADMINISTRATIVO",
+      "subtema": "Lentitud y morosidad no configuran perjuicio irremediable"
+    }
+  ]
+}

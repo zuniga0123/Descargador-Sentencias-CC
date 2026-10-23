@@ -1,0 +1,42 @@
+{
+  "radicado": "T-1150-01",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2001,
+  "fecha_creacion": "2001-11-01",
+  "magistrado_ponente": "Dr ALVARO TAFUR GALVIS",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCION DE TUTELA CONTRA EMPRESA DE SERVICIOS PUBLICOS DOMICILIARIOS",
+  "subtema": "Trámite para suspensión de servicio de agua",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 142 de 1994",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2001/T-1150-01.htm",
+  "fecha_descarga": "2026-10-23T02:10:57.053025+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2001-11-01",
+  "fecha_publicacion": null,
+  "numero": "T-1150/01",
+  "tipo_cc": "T",
+  "prov_id": "19915",
+  "tema_relatoria": "DERECHOS A LA VIDA IGUALDAD SALUD SANEAMIENTO AMBIENTAL PROPIEDAD Y DEBIDO PROCESO. RESTABLECIMIENTO SERVICIO SUSPENDIDO DE AGUA. CONTRATO DE CONDICIONES UNIFORMES PARA LA PRESTACION DE SERVICIOS PUBLICOS DOMICILIARIOS. PAGO TRES ULTIMOS MESES FACTURADOS.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCION DE TUTELA CONTRA EMPRESA DE SERVICIOS PUBLICOS DOMICILIARIOS",
+      "subtema": "Trámite para suspensión de servicio de agua"
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA EMPRESA DE SERVICIOS PUBLICOS DOMICILIARIOS",
+      "subtema": "Orden de restablecimiento de servicio de agua"
+    },
+    {
+      "tema": "MEDIO DE DEFENSA JUDICIAL",
+      "subtema": "Pago de servicio de agua por trámite de proceso ordinario"
+    }
+  ]
+}

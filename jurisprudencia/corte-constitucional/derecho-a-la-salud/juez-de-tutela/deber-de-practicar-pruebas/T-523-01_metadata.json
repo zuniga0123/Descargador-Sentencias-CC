@@ -1,0 +1,37 @@
+{
+  "radicado": "T-523-01",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2001,
+  "fecha_creacion": "2001-05-18",
+  "magistrado_ponente": "Dr MANUEL JOSE CEPEDA ESPINOSA",
+  "area": "Derecho a la Salud",
+  "tema": "JUEZ DE TUTELA",
+  "subtema": "Deber de practicar pruebas",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2001/T-523-01.htm",
+  "fecha_descarga": "2026-10-23T01:59:38.160505+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2001-05-18",
+  "fecha_publicacion": null,
+  "numero": "T-523/01",
+  "tipo_cc": "T",
+  "prov_id": "19176",
+  "tema_relatoria": "DERECHO A LA VIDA Y SALUD. NO SUMINISTRO DE MEDICAMENTO PERMANENTEMENTE POR FALTARLE SEMANAS DE COTIZACION. TRATO ESPECIAL ENFERMO DE SIDA. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "JUEZ DE TUTELA",
+      "subtema": "Deber de practicar pruebas"
+    },
+    {
+      "tema": "DERECHO A LA SALUD DEL ENFERMO DE SIDA",
+      "subtema": "Suministro de medicamentos sin cumplir periodo mínimo de cotización"
+    }
+  ]
+}

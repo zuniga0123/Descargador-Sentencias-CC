@@ -1,0 +1,42 @@
+{
+  "radicado": "T-109-01",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2001,
+  "fecha_creacion": "2001-01-31",
+  "magistrado_ponente": "Dra MARTHA VICTORIA SÁCHICA MÉNDEZ",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "DERECHO AL PAGO OPORTUNO DEL SALARIO",
+  "subtema": "Plazo razonable",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 446 de 1996",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2001/T-109-01.htm",
+  "fecha_descarga": "2026-10-23T01:49:53.910027+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2001-01-31",
+  "fecha_publicacion": null,
+  "numero": "T-109/01",
+  "tipo_cc": "T",
+  "prov_id": "18580",
+  "tema_relatoria": "DERECHO A LA VIDA SALUD Y SEGURIDAD SOCIAL. PAGO DE ACREENCIAS LABORALES. PROCESO EJECUTIVO. USO SIMULTANEO DE MECANISMOS DE PROTECCION JUDICIAL. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO AL PAGO OPORTUNO DEL SALARIO",
+      "subtema": "Plazo razonable"
+    },
+    {
+      "tema": "ACCION DE TUTELA PARA REINTEGRO AL CARGO",
+      "subtema": "Improcedencia por existir otro medio de defensa judicial y no existir perjuicio irremediable"
+    },
+    {
+      "tema": "DERECHO AL PAGO OPORTUNO DEL SALARIO",
+      "subtema": "Efectividad"
+    }
+  ]
+}

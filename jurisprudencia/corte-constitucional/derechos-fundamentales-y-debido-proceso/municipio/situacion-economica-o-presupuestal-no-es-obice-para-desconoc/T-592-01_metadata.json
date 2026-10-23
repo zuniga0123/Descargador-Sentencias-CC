@@ -1,0 +1,45 @@
+{
+  "radicado": "T-592-01",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2001,
+  "fecha_creacion": "2001-06-07",
+  "magistrado_ponente": "Dr ALVARO TAFUR GALVIS",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "MUNICIPIO",
+  "subtema": "Situación económica o presupuestal no es óbice para desconocer obligaciones laborales",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2001/T-592-01.htm",
+  "fecha_descarga": "2026-10-23T02:05:02.787197+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2001-06-07",
+  "fecha_publicacion": null,
+  "numero": "T-592/01",
+  "tipo_cc": "T",
+  "prov_id": "19268",
+  "tema_relatoria": "DERECHO AL MINIMO VITAL Y PAGO OPORTUNO DE SALARIO . REINTEGRO. PRINCIPIO DE BUENA FE. PERJUICIO IRREMEDIABLE. APRECIACION MATERIAL DEL VALOR DEL TRABAJO. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "MUNICIPIO",
+      "subtema": "Situación económica o presupuestal no es óbice para desconocer obligaciones laborales"
+    },
+    {
+      "tema": "DERECHO AL MINIMO VITAL DEL TRABAJADOR",
+      "subtema": "Pago oportuno de salarios"
+    },
+    {
+      "tema": "DERECHO AL MINIMO VITAL",
+      "subtema": "Prueba de la amenaza"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Procedencia excepcional pago de salarios"
+    }
+  ]
+}

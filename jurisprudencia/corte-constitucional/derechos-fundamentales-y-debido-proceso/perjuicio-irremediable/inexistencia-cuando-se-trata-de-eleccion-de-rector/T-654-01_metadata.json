@@ -1,0 +1,45 @@
+{
+  "radicado": "T-654-01",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2001,
+  "fecha_creacion": "2001-06-21",
+  "magistrado_ponente": "Dr ALFREDO BELTRÁN SIERRA",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "PERJUICIO IRREMEDIABLE",
+  "subtema": "Inexistencia cuando se trata de elección de rector",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 30 de 1992"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2001/T-654-01.htm",
+  "fecha_descarga": "2026-10-23T01:54:37.081532+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2001-06-21",
+  "fecha_publicacion": null,
+  "numero": "T-654/01",
+  "tipo_cc": "T",
+  "prov_id": "19350",
+  "tema_relatoria": "DERECHO A LA PARTICIPACION DEMOCRATICA. AUTONOMIA UNIVERSITARIA. PROCESO DE ELECCION Y NOMBRAMIENTO DE RECTOR. SOLICITUD DE REVOCATORIA DEL ACTO EN QUE SE ELIGIO. HECHO SUPERADO. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "PERJUICIO IRREMEDIABLE",
+      "subtema": "Inexistencia cuando se trata de elección de rector"
+    },
+    {
+      "tema": "ACCION DE TUTELA Y ACCION ELECTORAL",
+      "subtema": "Elección de rector"
+    },
+    {
+      "tema": "DERECHO DE PARTICIPACION DE LA COMUNIDAD EDUCATIVA UNIVERSITARIA EN LA ELECCION DE SUS DIRECTIVAS",
+      "subtema": "Elección de rector"
+    },
+    {
+      "tema": "MEDIO DE DEFENSA JUDICIAL",
+      "subtema": "Elección de rector"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "radicado": "T-568-01",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2001,
+  "fecha_creacion": "2001-05-31",
+  "magistrado_ponente": "Dr EDUARDO MONTEALEGRE LYNETT",
+  "area": "Derecho a la Salud",
+  "tema": "DERECHO A LA SALUD",
+  "subtema": "Cirugía de mamoplastia reductora",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 1889 de 1994",
+    "Ley 100 de 1993",
+    "Decreto Ley 2591 de 1991",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2001/T-568-01.htm",
+  "fecha_descarga": "2026-10-23T02:00:29.127936+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2001-05-31",
+  "fecha_publicacion": null,
+  "numero": "T-568/01",
+  "tipo_cc": "T",
+  "prov_id": "19234",
+  "tema_relatoria": "DERECHO A LA SALUD Y ATENCION MEDICA. NO ATENCION DE CIRUGIA DE MAMOPLASTIA REDUCTORA DE BENEFICIARIA POR NO CUMPLIR CON PERIODO MINIMO DE COTIZACION. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Cirugía de mamoplastia reductora"
+    }
+  ]
+}

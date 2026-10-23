@@ -1,0 +1,47 @@
+{
+  "radicado": "T-851-01",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2001,
+  "fecha_creacion": "2001-08-13",
+  "magistrado_ponente": "Dr ALFREDO BELTRÁN SIERRA",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "LEGITIMACION POR PASIVA EN TUTELA",
+  "subtema": "Indebida designación del demandado",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 142 de 1994",
+    "Ley 42 de 1994",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2001/T-851-01.htm",
+  "fecha_descarga": "2026-10-23T01:52:45.069860+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2001-08-13",
+  "fecha_publicacion": null,
+  "numero": "T-851/01",
+  "tipo_cc": "T",
+  "prov_id": "19583",
+  "tema_relatoria": "SUSPENSION DE SERVICIO DE LUZ. CONSECUENCIAS NEGATIVAS PARA USUARIOS DE LAS EMPRESAS RESPONSABLES DE PRESTACIÓN DE SERVICIOS PÚBLICOS DOMICILIARIOS. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "LEGITIMACION POR PASIVA EN TUTELA",
+      "subtema": "Indebida designación del demandado"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA COMISIÓN DE REGULACIÓN DE ENERGÍA Y GAS (CREG)",
+      "subtema": "Improcedencia"
+    },
+    {
+      "tema": "SERVICIOS PUBLICOS DOMICILIARIOS",
+      "subtema": "Limitaciones no conducen a un perjuicio irremediable"
+    },
+    {
+      "tema": "SERVICIOS PUBLICOS DOMICILIARIOS",
+      "subtema": "Características y finalidades"
+    }
+  ]
+}

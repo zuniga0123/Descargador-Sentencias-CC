@@ -1,0 +1,53 @@
+{
+  "radicado": "T-373-01",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2001,
+  "fecha_creacion": "2001-04-05",
+  "magistrado_ponente": "Dr RODRIGO ESCOBAR GIL",
+  "area": "Derecho a la Salud",
+  "tema": "ACTIVIDAD DE MEDIO",
+  "subtema": "Diligencia, procedencia y cuidado",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2001/T-373-01.htm",
+  "fecha_descarga": "2026-10-23T02:06:18.140545+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2001-04-05",
+  "fecha_publicacion": null,
+  "numero": "T-373/01",
+  "tipo_cc": "T",
+  "prov_id": "18978",
+  "tema_relatoria": "DERECHO A LA SALUD Y VIDA. SUMINISTRO TRATAMIENTO MEDICO NO INCLUIDO EN EL POS. PLAN DE ATENCION DOMICILIARIA. FALLECIMIENTO TITULAR DEL DERECHO. CARENCIA ACTUAL DE OBJETO. ABSTENERSE.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACTIVIDAD DE MEDIO",
+      "subtema": "Diligencia, procedencia y cuidado"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Improcedencia declaración de responsabilidad médica"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Carencia actual de objeto por fallecimiento del enfermo"
+    },
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Fundamental por conexidad con la vida"
+    },
+    {
+      "tema": "ENTIDAD PROMOTORA DE SALUD",
+      "subtema": "Deficiente prestación del servicio"
+    },
+    {
+      "tema": "ENTIDAD PROMOTORA DE SALUD",
+      "subtema": "No prestación de atención domiciliaria"
+    }
+  ]
+}

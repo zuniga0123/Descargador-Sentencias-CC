@@ -1,0 +1,51 @@
+{
+  "radicado": "T-643-01",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2001,
+  "fecha_creacion": "2001-06-19",
+  "magistrado_ponente": "Dr ALVARO TAFUR GALVIS",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCIÓN DE TUTELA",
+  "subtema": "Naturaleza",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 547 de 1999",
+    "Ley 4 de 1992"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2001/T-643-01.htm",
+  "fecha_descarga": "2026-10-23T01:54:29.941586+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2001-06-19",
+  "fecha_publicacion": null,
+  "numero": "T-643/01",
+  "tipo_cc": "T",
+  "prov_id": "19338",
+  "tema_relatoria": "DERECHO A LA DIGNIDAD IGUALDAD INCREMENTO SALARIAL REMUNERACION MOVIL Y VITAL. IMPROCEDENCIA DE LA TUTELA PARA SOLICITAR INCREMENTO SALARIAL. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Naturaleza"
+    },
+    {
+      "tema": "ACCION DE TUTELA TRANSITORIA",
+      "subtema": "Improcedencia incremento salarial para servidores públicos"
+    },
+    {
+      "tema": "JUEZ DE TUTELA",
+      "subtema": "Imposibilidad de modificar presupuesto para incremento salarial de servidores públicos"
+    },
+    {
+      "tema": "JUEZ CONSTITUCIONAL",
+      "subtema": "Improcedencia para sustituir a las autoridades en las competencias asignadas por la Constitución Política"
+    },
+    {
+      "tema": "GOBIERNO",
+      "subtema": "Formulación anual del presupuesto y ley de apropiaciones"
+    }
+  ]
+}

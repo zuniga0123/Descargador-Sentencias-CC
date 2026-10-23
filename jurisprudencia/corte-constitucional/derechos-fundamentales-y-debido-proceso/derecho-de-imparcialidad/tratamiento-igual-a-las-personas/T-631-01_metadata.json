@@ -1,0 +1,51 @@
+{
+  "radicado": "T-631-01",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2001,
+  "fecha_creacion": "2001-06-14",
+  "magistrado_ponente": "Dr JAIME ARAUJO RENTERIA",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "DERECHO DE IMPARCIALIDAD",
+  "subtema": "Tratamiento igual a las personas",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 91 de 1989",
+    "Decreto 1045 de 1978"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2001/T-631-01.htm",
+  "fecha_descarga": "2026-10-23T02:08:06.527770+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2001-06-14",
+  "fecha_publicacion": null,
+  "numero": "T-631/01",
+  "tipo_cc": "T",
+  "prov_id": "19319",
+  "tema_relatoria": "DERECHO A LA VIDA PETICION Y TRABAJO. LA AUSENCIA DE TRAMITE Y RESPUESTA ES INDEPENDIENTE A QUE LA PRESTACION PUEDA O NO PAGARSE. DERECHO DEL PETICIONARIO A TENER CERTEZA SOBRE EL RECONOCIMIENTO O NO DE LA PETICION. LEY 200 DE 1995 ART. 41. .RETARDO EN CO",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO DE IMPARCIALIDAD",
+      "subtema": "Tratamiento igual a las personas"
+    },
+    {
+      "tema": "DERECHO DE PETICION EN CESANTIAS PARCIALES",
+      "subtema": "Pronta resolución y decisión de fondo"
+    },
+    {
+      "tema": "DOCTRINA CONSTITUCIONAL SOBRE CESANTIAS PARCIALES",
+      "subtema": null
+    },
+    {
+      "tema": "DERECHO DE PETICION EN CESANTIAS PARCIALES",
+      "subtema": "Reconocimiento no sujeto a disponibilidad presupuestal"
+    },
+    {
+      "tema": "DERECHO DE PETICIÓN",
+      "subtema": "Respeto del turno"
+    }
+  ]
+}

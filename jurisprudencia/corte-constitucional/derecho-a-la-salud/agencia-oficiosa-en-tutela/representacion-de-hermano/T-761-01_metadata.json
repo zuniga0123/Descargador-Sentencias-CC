@@ -1,0 +1,44 @@
+{
+  "radicado": "T-761-01",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2001,
+  "fecha_creacion": "2001-07-19",
+  "magistrado_ponente": "Dra CLARA INÉS VARGAS HERNÁNDEZ",
+  "area": "Derecho a la Salud",
+  "tema": "AGENCIA OFICIOSA EN TUTELA",
+  "subtema": "Representación de hermano",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 352 de 1997",
+    "Ley 100 de 1993",
+    "Decreto 94 de 1989"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2001/T-761-01.htm",
+  "fecha_descarga": "2026-10-23T01:54:58.929427+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2001-07-19",
+  "fecha_publicacion": null,
+  "numero": "T-761/01",
+  "tipo_cc": "T",
+  "prov_id": "19475",
+  "tema_relatoria": "DERECHO A LA SALUD. ATENCION MEDICA A EXSOLDADO AL SUFRIR DE UN TRAUMA CRANEANO POR RAYO. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "AGENCIA OFICIOSA EN TUTELA",
+      "subtema": "Representación de hermano"
+    },
+    {
+      "tema": "DERECHO A LA SALUD DEL SOLDADO RETIRADO",
+      "subtema": "Orden a Sanidad Militar para determinar nuevamente disminución de capacidad laboral"
+    },
+    {
+      "tema": "DERECHO A LA SALUD DEL SOLDADO RETIRADO",
+      "subtema": "Protección por autoridades militares"
+    }
+  ]
+}

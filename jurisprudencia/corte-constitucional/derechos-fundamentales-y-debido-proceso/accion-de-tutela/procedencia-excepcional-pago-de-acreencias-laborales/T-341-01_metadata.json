@@ -1,0 +1,45 @@
+{
+  "radicado": "T-341-01",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2001,
+  "fecha_creacion": "2001-03-29",
+  "magistrado_ponente": "Dr MARCO GERARDO MONROY CABRA",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCIÓN DE TUTELA",
+  "subtema": "Procedencia excepcional pago de acreencias laborales",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2001/T-341-01.htm",
+  "fecha_descarga": "2026-10-23T02:05:28.082996+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2001-03-29",
+  "fecha_publicacion": null,
+  "numero": "T-341/01",
+  "tipo_cc": "T",
+  "prov_id": "18919",
+  "tema_relatoria": "DERECHO AL MINIMO VITAL Y TRABAJO EN CONDICIONES DIGNAS Y JUSTAS DE DOCENTE. PAGO DE ACREENCIAS LABORALES. SALARIOS. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Procedencia excepcional pago de acreencias laborales"
+    },
+    {
+      "tema": "EMPLEADOR",
+      "subtema": "Situación económica o presupuestal no es óbice para desconocer pago de salarios"
+    },
+    {
+      "tema": "DERECHO AL MINIMO VITAL DEL TRABAJADOR",
+      "subtema": "Pago oportuno de salarios"
+    },
+    {
+      "tema": "DERECHO AL MINIMO VITAL",
+      "subtema": "Prueba de la amenaza"
+    }
+  ]
+}

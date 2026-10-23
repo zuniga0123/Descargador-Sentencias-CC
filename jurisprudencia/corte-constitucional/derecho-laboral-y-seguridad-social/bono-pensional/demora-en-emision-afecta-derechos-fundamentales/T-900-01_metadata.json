@@ -1,0 +1,45 @@
+{
+  "radicado": "T-900-01",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2001,
+  "fecha_creacion": "2001-08-23",
+  "magistrado_ponente": "Dr ALFREDO BELTRÁN SIERRA",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "BONO PENSIONAL",
+  "subtema": "Demora en emisión afecta derechos fundamentales",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2001/T-900-01.htm",
+  "fecha_descarga": "2026-10-23T01:51:21.344495+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2001-08-23",
+  "fecha_publicacion": null,
+  "numero": "T-900/01",
+  "tipo_cc": "T",
+  "prov_id": "19628",
+  "tema_relatoria": "DERECHOS A LA SEGURIDAD SOCIAL VIDA Y MINIMO VITAL. DILACION EN LA EMISIÓN DEL BONO PENSIONAL IMPIDE EL ACCESO A LA PENSION DE JUBILACIÓN. VIA DE HECHO. SE NIEGA PENSION A QUIEN YA TIENE EL STATUS DE JUBILADO POR DEMORA EN LA EMISION DEL BONO. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "BONO PENSIONAL",
+      "subtema": "Demora en emisión afecta derechos fundamentales"
+    },
+    {
+      "tema": "VIA DE HECHO",
+      "subtema": "Se niega pensión por demora en emisión del bono"
+    },
+    {
+      "tema": "BONO PENSIONAL",
+      "subtema": "No emisión no es obstáculo para obtener pensión de jubilación"
+    },
+    {
+      "tema": "SEGURO SOCIAL",
+      "subtema": "Negligencia administrativa no puede trasladarse a usuarios"
+    }
+  ]
+}

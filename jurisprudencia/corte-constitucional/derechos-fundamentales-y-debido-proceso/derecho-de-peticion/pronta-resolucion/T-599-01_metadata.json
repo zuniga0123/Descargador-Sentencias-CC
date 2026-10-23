@@ -1,0 +1,45 @@
+{
+  "radicado": "T-599-01",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2001,
+  "fecha_creacion": "2001-06-07",
+  "magistrado_ponente": "Dra CLARA INES VARGAS HERNANDEZ",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "DERECHO DE PETICIÓN",
+  "subtema": "Pronta resolución",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2001/T-599-01.htm",
+  "fecha_descarga": "2026-10-23T02:05:13.630329+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2001-06-07",
+  "fecha_publicacion": null,
+  "numero": "T-599/01",
+  "tipo_cc": "T",
+  "prov_id": "19275",
+  "tema_relatoria": "DERECHO DE PETICION. EL EXCESO DE TRABAJO O FALTA DE PERSONAL NO ES JUSTIFICACION PARA UNA PRONTA RESOLUCION POR PARTE DE LA ADMINISTRACION FRENTE A LAS PETICIONES QUE SE HAGAN. HECHO SUPERADO RESPECTO AL PAGO DE MESADAS PENSIONALES. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO DE PETICIÓN",
+      "subtema": "Pronta resolución"
+    },
+    {
+      "tema": "SILENCIO ADMINISTRATIVO NEGATIVO Y REVOCACION DIRECTA DE ACTO ADMINISTRATIVO",
+      "subtema": null
+    },
+    {
+      "tema": "DERECHO DE PETICIÓN",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "DERECHO DE PETICION FRENTE AL SILENCIO ADMINISTRATIVO NEGATIVO",
+      "subtema": "Debe resolver la solicitud"
+    }
+  ]
+}

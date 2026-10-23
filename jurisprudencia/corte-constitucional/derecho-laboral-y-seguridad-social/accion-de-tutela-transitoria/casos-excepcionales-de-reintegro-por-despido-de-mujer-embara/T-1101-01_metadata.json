@@ -1,0 +1,56 @@
+{
+  "radicado": "T-1101-01",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2001,
+  "fecha_creacion": "2001-10-18",
+  "magistrado_ponente": "Dr MANUEL JOSE CEPEDA ESPINOSA",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "ACCION DE TUTELA TRANSITORIA",
+  "subtema": "Casos excepcionales de reintegro por despido de mujer embarazada",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 50 de 1990",
+    "Decreto 1128 de 1999",
+    "Decreto 3135 de 1996"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2001/T-1101-01.htm",
+  "fecha_descarga": "2026-10-23T01:50:08.644239+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2001-10-18",
+  "fecha_publicacion": null,
+  "numero": "T-1101/01",
+  "tipo_cc": "T",
+  "prov_id": "19858",
+  "tema_relatoria": "DERECHOS A LA IGUALDAD TRABAJO DEBIDO PROCESO Y MINIMO VITAL DE MUJER EMBARAZADA. SOLICITUD REINTEGRO Y PAGO LICENCIA DE MATERNIDAD. ESTABILIDAD LABORAL REFORZADA. EMPRESA DE SERVICIOS TEMPORALES. TUTELA CONTRA PARTICULARES Y COMO MECANISMO TRANSITORIO. I",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCION DE TUTELA TRANSITORIA",
+      "subtema": "Casos excepcionales de reintegro por despido de mujer embarazada"
+    },
+    {
+      "tema": "ACCION DE TUTELA TRANSITORIA DEL DERECHO A LA ESTABILIDAD LABORAL REFORZADA DE MUJER EMBARAZADA",
+      "subtema": "Elementos fácticos que deben demostrarse"
+    },
+    {
+      "tema": "MUJER TRABAJADORA EMBARAZADA EN EMPRESA DE SERVICIOS TEMPORALES",
+      "subtema": "Clase de vinculación no modifica el alcance de sus derechos constitucionales"
+    },
+    {
+      "tema": "EMPRESA DE SERVICIOS TEMPORALES",
+      "subtema": "Falta de protección de trabajadores temporales"
+    },
+    {
+      "tema": "EMPRESA DE SERVICIOS TEMPORALES",
+      "subtema": "Orden al Ministerio de Trabajo para garantizar derechos de trabajadores temporales"
+    },
+    {
+      "tema": "DERECHO A LA ESTABILIDAD LABORAL REFORZADA DE MUJER EMBARAZADA",
+      "subtema": "Protección"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "radicado": "T-931-01",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2001,
+  "fecha_creacion": "2001-08-30",
+  "magistrado_ponente": "Dr ALVARO TAFUR GALVIS",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "PERJUICIO IRREMEDIABLE",
+  "subtema": "Elementos para que se configure",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2001/T-931-01.htm",
+  "fecha_descarga": "2026-10-23T01:51:50.428812+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2001-08-30",
+  "fecha_publicacion": null,
+  "numero": "T-931/01",
+  "tipo_cc": "T",
+  "prov_id": "19662",
+  "tema_relatoria": "DEBIDO PROCESO. DERECHO A LA IGUALDAD. RELIQUIDACION DE PRESTACIONES SOCIALES. MEDIO DE DEFENSA JUDICIAL. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "PERJUICIO IRREMEDIABLE",
+      "subtema": "Elementos para que se configure"
+    },
+    {
+      "tema": "ACCION DE TUTELA PARA RECLAMAR DERECHOS INCIERTOS Y DISCUTIBLES",
+      "subtema": "Improcedencia"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Improcedencia general sobre controversias laborales"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Improcedencia por no afectación del mínimo vital"
+    }
+  ]
+}

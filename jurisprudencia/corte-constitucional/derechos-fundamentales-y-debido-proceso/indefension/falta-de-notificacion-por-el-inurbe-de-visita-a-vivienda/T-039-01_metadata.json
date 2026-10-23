@@ -1,0 +1,45 @@
+{
+  "radicado": "T-039-01",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2001,
+  "fecha_creacion": "2001-01-22",
+  "magistrado_ponente": "Dr EDUARDO MONTEALEGRE LYNETT",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "INDEFENSION",
+  "subtema": "Falta de notificación por el INURBE de visita a vivienda",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 3 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2001/T-039-01.htm",
+  "fecha_descarga": "2026-10-23T01:48:27.094329+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2001-01-22",
+  "fecha_publicacion": null,
+  "numero": "T-039/01",
+  "tipo_cc": "T",
+  "prov_id": "18493",
+  "tema_relatoria": "DERECHO DE DEFENSA Y DEBIDO PROCESO. PRACTICA NUEVA VISITA A VIVIENDAS ADJUDICADAS. NOTIFICACION DEL RESULTADO. PAGO SUBSIDIOS DE VIVIENDA INICIALMENTE ASIGNADOS. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "INDEFENSION",
+      "subtema": "Falta de notificación por el INURBE de visita a vivienda"
+    },
+    {
+      "tema": "DERECHO DE DEFENSA",
+      "subtema": "Notificación de decisiones"
+    },
+    {
+      "tema": "DERECHO DE DEFENSA",
+      "subtema": "Vulneración por no notificar el INURBE visita a vivienda"
+    },
+    {
+      "tema": "DEBIDO PROCESO",
+      "subtema": "Alcance"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "radicado": "T-1129-01",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2001,
+  "fecha_creacion": "2001-10-25",
+  "magistrado_ponente": "Dr JAIME ARAUJO RENTERIA",
+  "area": "Derecho a la Salud",
+  "tema": "INSTITUCION PRESTADORA DE SALUD",
+  "subtema": "Función",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 100 de 1993"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2001/T-1129-01.htm",
+  "fecha_descarga": "2026-10-23T01:59:12.463424+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2001-10-25",
+  "fecha_publicacion": null,
+  "numero": "T-1129/01",
+  "tipo_cc": "T",
+  "prov_id": "19889",
+  "tema_relatoria": "DERECHO DE PETICION Y SEGURIDAD SOCIAL. SOLICITUD VALORACION NEUROPSICOLOGICA PARA OBTENER LA REUBICACION LABORAL. FUNCIONES DE LAS ARS IPS Y ARP. FALTA DE LEGITIMACION EN LA CAUSA. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "INSTITUCION PRESTADORA DE SALUD",
+      "subtema": "Función"
+    },
+    {
+      "tema": "INSTITUCION PRESTADORA DE SALUD",
+      "subtema": "No le corresponde hacer valoración médica"
+    },
+    {
+      "tema": "ADMINISTRADORA DE RIESGOS PROFESIONALES",
+      "subtema": "Función"
+    },
+    {
+      "tema": "ENTIDAD PROMOTORA DE SALUD",
+      "subtema": "Función"
+    },
+    {
+      "tema": "LEGITIMACION POR PASIVA EN TUTELA",
+      "subtema": "Solicitud de valoración médica"
+    }
+  ]
+}

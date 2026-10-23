@@ -1,0 +1,62 @@
+{
+  "radicado": "T-312-01",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2001,
+  "fecha_creacion": "2001-03-22",
+  "magistrado_ponente": "Dr MARCO GERARDO MONROY CABRA",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "ACCIÓN DE TUTELA",
+  "subtema": "Pago de salarios actuales y futuros",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 54 de 1992"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2001/T-312-01.htm",
+  "fecha_descarga": "2026-10-23T02:01:23.282615+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2001-03-22",
+  "fecha_publicacion": null,
+  "numero": "T-312/01",
+  "tipo_cc": "T",
+  "prov_id": "18863",
+  "tema_relatoria": "DERECHO AL TRABAJO. PAGO DE ACREENCIAS LABORALES. SALARIOS Y VACACIONES. PAGO APORTES A SALUD Y PENSION POR EMPLEADOR. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Pago de salarios actuales y futuros"
+    },
+    {
+      "tema": "DERECHO AL PAGO OPORTUNO DEL SALARIO",
+      "subtema": "Prueba directa o indirecta de situación crítica, económica y psicológica"
+    },
+    {
+      "tema": "EMPLEADOR",
+      "subtema": "Mora de aportes en salud"
+    },
+    {
+      "tema": "SALARIO",
+      "subtema": "Noción"
+    },
+    {
+      "tema": "DERECHO AL MINIMO VITAL DEL TRABAJADOR",
+      "subtema": "Pago oportuno de salarios"
+    },
+    {
+      "tema": "DERECHO AL PAGO OPORTUNO DEL SALARIO",
+      "subtema": "Fundamental"
+    },
+    {
+      "tema": "DERECHO AL PAGO OPORTUNO DEL SALARIO",
+      "subtema": "Valoración del perjuicio irremediable"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Procedencia excepcional pago de salarios"
+    }
+  ]
+}

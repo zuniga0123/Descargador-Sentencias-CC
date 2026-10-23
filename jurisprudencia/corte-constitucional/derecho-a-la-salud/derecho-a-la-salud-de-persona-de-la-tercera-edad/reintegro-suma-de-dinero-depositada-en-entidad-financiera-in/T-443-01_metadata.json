@@ -1,0 +1,41 @@
+{
+  "radicado": "T-443-01",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2001,
+  "fecha_creacion": "2001-05-04",
+  "magistrado_ponente": "Dr JAIME ARAUJO RENTERIA",
+  "area": "Derecho a la Salud",
+  "tema": "DERECHO A LA SALUD DE PERSONA DE LA TERCERA EDAD",
+  "subtema": "Reintegro suma de dinero depositada en entidad financiera intervenida",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2001/T-443-01.htm",
+  "fecha_descarga": "2026-10-23T02:02:41.867372+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2001-05-04",
+  "fecha_publicacion": null,
+  "numero": "T-443/01",
+  "tipo_cc": "T",
+  "prov_id": "19085",
+  "tema_relatoria": "DERECHO A LA IGUALDAD VIDA SALUD Y SUBSISTENCIA. PERSONA DE LA TERCERA EDAD QUIEN SOLICITA DEVOLUCION DE DINEROS DEPOSITADOS EN ENTIDAD FINANCIERA EN LIQUIDACION. NO DEMOSTRACION DE PERJUICIO IRREMEDIABLE. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA SALUD DE PERSONA DE LA TERCERA EDAD",
+      "subtema": "Reintegro suma de dinero depositada en entidad financiera intervenida"
+    },
+    {
+      "tema": "PERJUICIO IRREMEDIABLE",
+      "subtema": "Congelación transitoria de recursos de institución financiera que afecta derechos fundamentales de personas de la tercera edad"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Improcedencia por inexistencia de perjuicio irremediable"
+    }
+  ]
+}

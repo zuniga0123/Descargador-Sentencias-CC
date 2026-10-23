@@ -1,0 +1,66 @@
+{
+  "radicado": "T-1234-01",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2001,
+  "fecha_creacion": "2001-11-22",
+  "magistrado_ponente": "Dr JAIME ARAUJO RENTERIA",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCION DE TUTELA CONTRA AUTORIDAD PUBLICA",
+  "subtema": "Procedencia",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Decreto 1295 de 1994"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2001/T-1234-01.htm",
+  "fecha_descarga": "2026-10-23T01:56:59.039112+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2001-11-22",
+  "fecha_publicacion": null,
+  "numero": "T-1234/01",
+  "tipo_cc": "T",
+  "prov_id": "20007",
+  "tema_relatoria": "DERECHO A LA SALUD Y VIDA. SOLICITUD REVOCATORIA O SUSPENSION DE ACTO ADMINISTRATIVO. TRASLADO DEL CARGO. GENERALIDADES SOBRE LOS RIESGOS PROFESIONALES. ENFERMEDAD PROFESIONAL. IUS VARIANDI. ACCION U OMISION DE AUTORIDAD PUBLICA. EXISTENCIA DE OTRO MEDIO",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCION DE TUTELA CONTRA AUTORIDAD PUBLICA",
+      "subtema": "Procedencia"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Improcedencia contra hechos inciertos"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "No existe amenaza de derechos fundamentales"
+    },
+    {
+      "tema": "TRASLADO DE TRABAJADORA",
+      "subtema": "No afecta salud o vida"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Inexistencia de perjuicio irremediable"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Improcedencia para solicitar revocatoria o suspensión de acto administrativo"
+    },
+    {
+      "tema": "EMPLEADOR",
+      "subtema": "Discrecionalidad para trasladar a trabajadores no es absoluta"
+    },
+    {
+      "tema": "ENFERMEDAD PROFESIONAL",
+      "subtema": "Definición"
+    },
+    {
+      "tema": "IUS VARIANDI",
+      "subtema": "Alcance y límites"
+    }
+  ]
+}

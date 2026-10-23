@@ -1,0 +1,58 @@
+{
+  "radicado": "T-020-01",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2001,
+  "fecha_creacion": "2001-01-18",
+  "magistrado_ponente": "Dra CRISTINA PARDO SCHLESINGER",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "PENSIÓN DE SOBREVIVIENTES",
+  "subtema": "No extinción por nuevo matrimonio",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Decreto 224 de 1972",
+    "Ley 33 de 1973",
+    "Ley 100 de 1993",
+    "Ley 12 de 1975",
+    "Ley 113 de 1985"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2001/T-020-01.htm",
+  "fecha_descarga": "2026-10-23T01:47:47.191395+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2001-01-18",
+  "fecha_publicacion": null,
+  "numero": "T-020/01",
+  "tipo_cc": "T",
+  "prov_id": "18472",
+  "tema_relatoria": "DERECHO DE PETICION SALUD EDUCACION IGUALDAD VIDA DIGNA Y MINIMO VITAL. SUSTITUCION PENSIONAL A MENOR DE EDAD. PAGO MESADAS PENSIONALES. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "PENSIÓN DE SOBREVIVIENTES",
+      "subtema": "No extinción por nuevo matrimonio"
+    },
+    {
+      "tema": "SUSTITUCIÓN PENSIONAL",
+      "subtema": "Naturaleza, finalidad y principios constitucionales"
+    },
+    {
+      "tema": "ACCION DE TUTELA TRANSITORIA",
+      "subtema": "Procedencia"
+    },
+    {
+      "tema": "ACCION DE TUTELA TRANSITORIA",
+      "subtema": "Procedencia reanudación pago de mesadas pensionales por fundamentarse en norma derogada"
+    },
+    {
+      "tema": "PENSIÓN DE SOBREVIVIENTES",
+      "subtema": "Límite temporal"
+    },
+    {
+      "tema": "SUSTITUCIÓN PENSIONAL",
+      "subtema": "Naturaleza jurídica"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "radicado": "T-163-01",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2001,
+  "fecha_creacion": "2001-02-12",
+  "magistrado_ponente": "Dr EDUARDO MONTEALEGRE LYNETT",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "ACCIÓN DE TUTELA",
+  "subtema": "Improcedencia por no afectación del mínimo vital",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2001/T-163-01.htm",
+  "fecha_descarga": "2026-10-23T01:57:27.933541+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2001-02-12",
+  "fecha_publicacion": null,
+  "numero": "T-163/01",
+  "tipo_cc": "T",
+  "prov_id": "18657",
+  "tema_relatoria": "DERECHOS A LA VIDA SALUD SEGURIDAD SOCIAL Y MINIMO VITAL DE PERSONA DE LA TERCERA EDAD. MORA EN EL PAGO DE APORTES A PENSION POR EMPLEADOR. RECONOCIMIENTO PENSION DE VEJEZ TENIENDO EN CUENTA EL PERIODO DE COTIZACION OMITIDO. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Improcedencia por no afectación del mínimo vital"
+    },
+    {
+      "tema": "DERECHO A LA SEGURIDAD SOCIAL",
+      "subtema": "Traslado de cotizaciones por empleador"
+    },
+    {
+      "tema": "MEDIO DE DEFENSA JUDICIAL",
+      "subtema": "Reliquidación pensional por mora en aportes a pensión de vejez"
+    }
+  ]
+}

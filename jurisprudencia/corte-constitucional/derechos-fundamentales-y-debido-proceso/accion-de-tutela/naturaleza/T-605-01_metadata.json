@@ -1,0 +1,50 @@
+{
+  "radicado": "T-605-01",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2001,
+  "fecha_creacion": "2001-06-07",
+  "magistrado_ponente": "Dr MARCO GERARDO MONROY CABRA",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCIÓN DE TUTELA",
+  "subtema": "Naturaleza",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Decreto 111 de 1996"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2001/T-605-01.htm",
+  "fecha_descarga": "2026-10-23T02:05:20.768983+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2001-06-07",
+  "fecha_publicacion": null,
+  "numero": "T-605/01",
+  "tipo_cc": "T",
+  "prov_id": "19281",
+  "tema_relatoria": "DERECHO A LA IGUALDAD SALARIO DIGNO JUSTO MOVIL Y PROPORCIONAL. INCREMENTO DE LOS SALARIOS Y PENSIONES PARA EL AÑO 2000. NO PROCEDE LA TUTELA PARA REFORMAR LA POLITICA FISCAL DEL GOBIERNO. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Naturaleza"
+    },
+    {
+      "tema": "ACCION DE TUTELA TRANSITORIA",
+      "subtema": "Improcedencia incremento salarial para servidores públicos"
+    },
+    {
+      "tema": "JUEZ DE TUTELA",
+      "subtema": "Imposibilidad de modificar presupuesto para incremento salarial de servidores públicos"
+    },
+    {
+      "tema": "JUEZ CONSTITUCIONAL",
+      "subtema": "Improcedencia para sustituir a las autoridades en las competencias asignadas por la Constitución Política"
+    },
+    {
+      "tema": "GOBIERNO",
+      "subtema": "Formulación anual del presupuesto y ley de apropiaciones"
+    }
+  ]
+}

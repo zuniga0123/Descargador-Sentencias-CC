@@ -1,0 +1,52 @@
+{
+  "radicado": "T-134-01",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2001,
+  "fecha_creacion": "2001-02-07",
+  "magistrado_ponente": "Dr CARLOS GAVIRIA DÍAZ",
+  "area": "Derecho a la Salud",
+  "tema": "NIÑO DISCAPACITADO",
+  "subtema": "Protección en salud",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Decreto 806 de 1998",
+    "Decreto 2591 de 1991",
+    "Ley 12 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2001/T-134-01.htm",
+  "fecha_descarga": "2026-10-23T01:56:00.634022+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2001-02-07",
+  "fecha_publicacion": null,
+  "numero": "T-134/01",
+  "tipo_cc": "T",
+  "prov_id": "18629",
+  "tema_relatoria": "DERECHOS A LA VIDA SALUD INTEGRIDAD FISICA Y SEGURIDAD SOCIAL DE MENOR DE EDAD DISCAPACITADO. SUMINISTRO Y ADAPTACION AUDIFONOS DE ALTA POTENCIA NO INCLUIDOS EN EL POS. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "NIÑO DISCAPACITADO",
+      "subtema": "Protección en salud"
+    },
+    {
+      "tema": "DERECHO A LA SALUD Y A LA VIDA DEL NIÑO",
+      "subtema": "Suministro de audífonos excluidos del manual de actividades, intervenciones y procedimientos"
+    },
+    {
+      "tema": "INAPLICACION DE NORMAS DEL PLAN OBLIGATORIO DE SALUD",
+      "subtema": "Suministro de audífonos por EPS"
+    },
+    {
+      "tema": "ENTIDAD PROMOTORA DE SALUD",
+      "subtema": "Repetición contra el FOSYGA"
+    },
+    {
+      "tema": "DERECHO A LA SALUD DE NIÑOS, NIÑAS Y ADOLESCENTES",
+      "subtema": "Procedencia de tutela para tratamiento integral de beneficiario"
+    }
+  ]
+}

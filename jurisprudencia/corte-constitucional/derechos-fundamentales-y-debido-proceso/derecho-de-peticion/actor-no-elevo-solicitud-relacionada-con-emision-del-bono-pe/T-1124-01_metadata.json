@@ -1,0 +1,45 @@
+{
+  "radicado": "T-1124-01",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2001,
+  "fecha_creacion": "2001-10-25",
+  "magistrado_ponente": "Dr ALFREDO BELTRÁN SIERRA",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "DERECHO DE PETICIÓN",
+  "subtema": "Actor no elevó solicitud relacionada con emisión del bono pensional",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2001/T-1124-01.htm",
+  "fecha_descarga": "2026-10-23T01:50:26.737953+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2001-10-25",
+  "fecha_publicacion": null,
+  "numero": "T-1124/01",
+  "tipo_cc": "T",
+  "prov_id": "19884",
+  "tema_relatoria": "DERECHO DE PETICION Y VIDA. SOLICITUD PENSION DE JUBILACION VITALICIA. EMISION DEL BONO PENSIONAL. ISS BOLIVAR. PUERTOS DE COLOMBIA. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO DE PETICIÓN",
+      "subtema": "Actor no elevó solicitud relacionada con emisión del bono pensional"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Improcedencia por no haberse tramitado el reconocimiento de la pensión de jubilación"
+    },
+    {
+      "tema": "DERECHO DE PETICIÓN",
+      "subtema": "Inexistencia de vulneración por no solicitar emisión del bono pensional"
+    },
+    {
+      "tema": "DERECHO DE PETICIÓN",
+      "subtema": "Requisitos de procedibilidad"
+    }
+  ]
+}

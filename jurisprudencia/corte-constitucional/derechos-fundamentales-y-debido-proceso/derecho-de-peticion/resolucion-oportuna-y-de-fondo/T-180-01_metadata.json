@@ -1,0 +1,45 @@
+{
+  "radicado": "T-180-01",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2001,
+  "fecha_creacion": "2001-02-15",
+  "magistrado_ponente": "Dr ALEJANDRO MARTÍNEZ CABALLERO",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "DERECHO DE PETICIÓN",
+  "subtema": "Resolución oportuna y de fondo",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 142 de 1994"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2001/T-180-01.htm",
+  "fecha_descarga": "2026-10-23T01:57:42.751402+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2001-02-15",
+  "fecha_publicacion": null,
+  "numero": "T-180/01",
+  "tipo_cc": "T",
+  "prov_id": "18684",
+  "tema_relatoria": "DERECHO DE PETICION. EJECUCION DE UNA ACCION DETERMINADA. COMPETENCIA. RESPUESTA DE FONDO. FISCALIZACION DEL MANEJO E INVERSION DE LAS DONACIONES DE INTERES SOCIAL POR EL GOBIERNO. RECUPERACION PATRIMONIO DE LA FUNDACION SAN JUAN DE DIOS. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO DE PETICIÓN",
+      "subtema": "Resolución oportuna y de fondo"
+    },
+    {
+      "tema": "DERECHO DE PETICIÓN",
+      "subtema": "No constituye respuesta estado del trámite de solicitud"
+    },
+    {
+      "tema": "DERECHO DE PETICIÓN",
+      "subtema": "No conlleva respuesta favorable a la solicitud"
+    },
+    {
+      "tema": "DERECHO DE PETICIÓN",
+      "subtema": "Señalamiento de remisión a entidad competente si constituye respuesta de recibo"
+    }
+  ]
+}

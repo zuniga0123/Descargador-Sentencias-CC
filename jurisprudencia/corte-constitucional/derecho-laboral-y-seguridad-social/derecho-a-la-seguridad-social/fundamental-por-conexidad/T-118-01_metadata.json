@@ -1,0 +1,64 @@
+{
+  "radicado": "T-118-01",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2001,
+  "fecha_creacion": "2001-01-31",
+  "magistrado_ponente": "Dra MARTHA VICTORIA SÁCHICA MÉNDEZ",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "DERECHO A LA SEGURIDAD SOCIAL",
+  "subtema": "Fundamental por conexidad",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Decreto Ley 1295 de 1994",
+    "Ley 100 de 1993",
+    "Decreto 1295 de 1994"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2001/T-118-01.htm",
+  "fecha_descarga": "2026-10-23T01:55:42.535888+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2001-01-31",
+  "fecha_publicacion": null,
+  "numero": "T-118/01",
+  "tipo_cc": "T",
+  "prov_id": "18589",
+  "tema_relatoria": "DERECHO DE PETICION VIDA DIGNA Y MINIMO VITAL. PAGO Y REAJUSTE DE PENSION POR INCAPACIDAD PERMANENTE DERIVADA DE UN ACCIDENTE DE TRABAJO. SOLICITUD REVOCATORIA DIRECTA CONTRA RESOLUCION. CONCEDIDA PARCIALMENTE.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA SEGURIDAD SOCIAL",
+      "subtema": "Fundamental por conexidad"
+    },
+    {
+      "tema": "DERECHO A LA SEGURIDAD SOCIAL",
+      "subtema": "Naturaleza programática y desarrollo progresivo"
+    },
+    {
+      "tema": "DERECHOS PRESTACIONALES",
+      "subtema": "Naturaleza"
+    },
+    {
+      "tema": "ACCION DE TUTELA PARA RECLAMAR DERECHOS INCIERTOS Y DISCUTIBLES",
+      "subtema": "Improcedencia"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Subsidiariedad"
+    },
+    {
+      "tema": "MEDIO DE DEFENSA JUDICIAL",
+      "subtema": "Aplicación de ley en el tiempo"
+    },
+    {
+      "tema": "MEDIO DE DEFENSA JUDICIAL",
+      "subtema": "Solicitud reconocimiento pensión de vejez no obstante ser beneficiario de pensión de invalidez"
+    },
+    {
+      "tema": "DERECHO DE PETICIÓN",
+      "subtema": "Resolución oportuna y de fondo"
+    }
+  ]
+}

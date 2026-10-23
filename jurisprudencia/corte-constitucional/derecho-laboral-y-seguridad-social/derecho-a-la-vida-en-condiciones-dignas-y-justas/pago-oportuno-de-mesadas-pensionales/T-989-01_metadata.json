@@ -1,0 +1,45 @@
+{
+  "radicado": "T-989-01",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2001,
+  "fecha_creacion": "2001-09-13",
+  "magistrado_ponente": "Dr EDUARDO MONTEALEGRE LYNETT",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "DERECHO A LA VIDA EN CONDICIONES DIGNAS Y JUSTAS",
+  "subtema": "Pago oportuno de mesadas pensionales",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2001/T-989-01.htm",
+  "fecha_descarga": "2026-10-23T02:11:33.634647+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2001-09-13",
+  "fecha_publicacion": null,
+  "numero": "T-989/01",
+  "tipo_cc": "T",
+  "prov_id": "19725",
+  "tema_relatoria": "DERECHO AL TRABAJO Y MINIMO VITAL DE PERSONA DE LA TERCERA EDAD. PAGO DE ACREENCIAS LABORALES. MESADAS PENSIONALES. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA VIDA EN CONDICIONES DIGNAS Y JUSTAS",
+      "subtema": "Pago oportuno de mesadas pensionales"
+    },
+    {
+      "tema": "DERECHO AL MINIMO VITAL DEL PENSIONADO",
+      "subtema": "Pago oportuno de mesadas"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Procedencia excepcional pago de mesadas pensionales"
+    },
+    {
+      "tema": "DERECHO A LA PENSION DE JUBILACION",
+      "subtema": "Situación económica de empresa no impide pago oportuno de mesadas"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "radicado": "T-1153-01",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2001,
+  "fecha_creacion": "2001-11-01",
+  "magistrado_ponente": "Dr ALVARO TAFUR GALVIS",
+  "area": "Otros - Sin clasificar",
+  "tema": "CONVENCION COLECTIVA",
+  "subtema": "Competencia para conocer asuntos relativos a su aplicación",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 51 de 1981"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2001/T-1153-01.htm",
+  "fecha_descarga": "2026-10-23T02:11:04.376354+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2001-11-01",
+  "fecha_publicacion": null,
+  "numero": "T-1153/01",
+  "tipo_cc": "T",
+  "prov_id": "19918",
+  "tema_relatoria": "DERECHO A LA IGUALDAD. SOLICITUD AUXILIO EDUCATIVO PARA ESPOSO DE TRABAJADORA PREVISTO EN LA CONVENCION COLECTIVA DE TRABAJO. TRATO DISCRIMINATORIO POR RAZONES DE SEXO. ESTADO DE SUBORDINACION. LIMITES DE LA CONTRATACION COLECTIVA. LLAMADO A PREVENCION. C",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "CONVENCION COLECTIVA",
+      "subtema": "Competencia para conocer asuntos relativos a su aplicación"
+    },
+    {
+      "tema": "MEDIO DE DEFENSA JUDICIAL INEFICAZ",
+      "subtema": "Conflicto económico laboral por aplicación de convención colectiva"
+    },
+    {
+      "tema": "ECOPETROL",
+      "subtema": "Beneficios solo a esposas o compañeras permanentes"
+    },
+    {
+      "tema": "ECOPETROL",
+      "subtema": "Beneficio educativo para esposo o compañero permanente de trabajadora"
+    },
+    {
+      "tema": "MEDIO DE DEFENSA JUDICIAL EFICAZ",
+      "subtema": "Controversia sobre aplicación de convención colectiva"
+    },
+    {
+      "tema": "DISCRIMINACION POR SEXO",
+      "subtema": "Beneficio educativo para esposo o compañero permanente de trabajadora"
+    },
+    {
+      "tema": "DERECHO A LA IGUALDAD",
+      "subtema": "Justificación de trato diferente"
+    },
+    {
+      "tema": "EXCEPCIÓN DE INCONSTITUCIONALIDAD",
+      "subtema": "Aplicación"
+    }
+  ]
+}

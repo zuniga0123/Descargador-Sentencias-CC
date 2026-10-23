@@ -1,0 +1,49 @@
+{
+  "radicado": "T-220-01",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2001,
+  "fecha_creacion": "2001-02-22",
+  "magistrado_ponente": "Dr FABIO MORÓN DÍAZ",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "DERECHO A LA SEGURIDAD SOCIAL DE PERSONA DE LA TERCERA EDAD",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2001/T-220-01.htm",
+  "fecha_descarga": "2026-10-23T01:58:40.012640+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2001-02-22",
+  "fecha_publicacion": null,
+  "numero": "T-220/01",
+  "tipo_cc": "T",
+  "prov_id": "18739",
+  "tema_relatoria": "DERECHO DE PETICION Y SEGURIDAD SOCIAL DE PERSONA DE LA TERCERA EDAD. RECONOCIMIENTO DE LA PENSION DE JUBILACION. SUMINISTRO SERVICIOS MEDICO ASISTENCIALES. CONCEDIDA PARCIALMENTE.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA SEGURIDAD SOCIAL DE PERSONA DE LA TERCERA EDAD",
+      "subtema": null
+    },
+    {
+      "tema": "PERSONA DE LA TERCERA EDAD",
+      "subtema": "Prestación de servicios médico asistenciales"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Improcedencia contra derechos inciertos respecto de cuotas partes de pensión"
+    },
+    {
+      "tema": "DERECHO DE PETICIÓN",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "DERECHO DE PETICIÓN",
+      "subtema": "Resolución oportuna y de fondo"
+    }
+  ]
+}

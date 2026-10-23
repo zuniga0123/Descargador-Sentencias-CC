@@ -1,0 +1,83 @@
+{
+  "radicado": "T-578-01",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2001,
+  "fecha_creacion": "2001-06-01",
+  "magistrado_ponente": "Dr RODRIGO ESCOBAR GIL",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "SENTENCIA DE CONSTITUCIONALIDAD CONDICIONADA",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2331 de 1998",
+    "Ley 510 de 1999",
+    "Ley 546 de 1999",
+    "Decreto 2591 de 1991",
+    "Decreto 1593 de 1959",
+    "Decreto 753 de 1956",
+    "Ley 48 de 1968"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2001/T-578-01.htm",
+  "fecha_descarga": "2026-10-23T02:04:55.652632+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2001-06-01",
+  "fecha_publicacion": null,
+  "numero": "T-578/01",
+  "tipo_cc": "T",
+  "prov_id": "19249",
+  "tema_relatoria": "DERECHO DE PETICION. LOS ACCIONANTES NO ESTAN EXPUESTOS A SUFRIR UN PERJUICIO IRREMEDIABLE YA QUE EL BIEN INMUEBLE OBJETO DE LA DACION EN PAGO YA SALIO DE SU PATRIMONIO. MEDIO DE DEFENSA JUDICIAL. HECHO SUPERADO. HABEAS DATA. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "SENTENCIA DE CONSTITUCIONALIDAD CONDICIONADA",
+      "subtema": null
+    },
+    {
+      "tema": "ACTIVIDAD BANCARIA",
+      "subtema": "Es un servicio público"
+    },
+    {
+      "tema": "DERECHO DE PETICION FRENTE A ENTIDAD BANCARIA",
+      "subtema": "Respuesta oportuna y de fondo"
+    },
+    {
+      "tema": "PERJUICIO IRREMEDIABLE",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "HABEAS DATA",
+      "subtema": "Finalidad"
+    },
+    {
+      "tema": "JUEZ ORDINARIO",
+      "subtema": "Competencia para garantizar derechos a usuarios del sistema UPAC"
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA PARTICULARES",
+      "subtema": "Bancos prestan un servicio público"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Hecho superado"
+    },
+    {
+      "tema": "DERECHO A LA INFORMACIÓN",
+      "subtema": "No es absoluto"
+    },
+    {
+      "tema": "HABEAS DATA",
+      "subtema": "Rectificación de información"
+    },
+    {
+      "tema": "OBLIGACIONES HIPOTECARIAS EN UPAC",
+      "subtema": "Controles"
+    },
+    {
+      "tema": "PERJUICIO IRREMEDIABLE",
+      "subtema": "Inexistencia por cuanto el inmueble objeto de la dación en pago ya salió de su patrimonio"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "radicado": "T-486-01",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2001,
+  "fecha_creacion": "2001-05-11",
+  "magistrado_ponente": "Dr JAIME CÓRDOBA TRIVIÑO",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "SALARIO",
+  "subtema": "Sumas que deben integrarse para efectos del significado y pago oportuno",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2001/T-486-01.htm",
+  "fecha_descarga": "2026-10-23T02:06:50.376481+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2001-05-11",
+  "fecha_publicacion": null,
+  "numero": "T-486/01",
+  "tipo_cc": "T",
+  "prov_id": "19130",
+  "tema_relatoria": "DERECHO AL SALARIO.PAGO DE ACREENCIAS LABORALES. LAS DIFICULTADES ECONOMICAS DE LAS ENTIDADES NO LAS EXONERA DEL CUMPLIMIENTO DE SUS OBLIGACIONES PARA CON SUS EMPLEADOS. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "SALARIO",
+      "subtema": "Sumas que deben integrarse para efectos del significado y pago oportuno"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Procedencia excepcional pago de acreencias laborales"
+    },
+    {
+      "tema": "EMPLEADOR",
+      "subtema": "Situación económica o presupuestal no es óbice para desconocer pago de salarios"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "radicado": "T-729-01",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2001,
+  "fecha_creacion": "2001-07-05",
+  "magistrado_ponente": "Dr RODRIGO ESCOBAR GIL",
+  "area": "Derecho a la Salud",
+  "tema": "ADMINISTRADORA DEL REGIMEN SUBSIDIADO",
+  "subtema": "Información al afiliado sobre posibilidad de atención en servicio no incluido en POS",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Decreto 806 de 1998"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2001/T-729-01.htm",
+  "fecha_descarga": "2026-10-23T01:50:30.396673+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2001-07-05",
+  "fecha_publicacion": null,
+  "numero": "T-729/01",
+  "tipo_cc": "T",
+  "prov_id": "19427",
+  "tema_relatoria": "DERECHO A LA VIDA SALUD SEGURIDAD SOCIAL Y PETICION. SOLICITUD DE TAC CEREBRAL EXCLUIDO DEL POS. SUMINISTRO DE INFORMACION POR EPS. SOBRE LA MANERA DE ACUDIR A OTRAS INSTITUCIONES PARA LOGRAR LA ATENCION MEDICA. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ADMINISTRADORA DEL REGIMEN SUBSIDIADO",
+      "subtema": "Información al afiliado sobre posibilidad de atención en servicio no incluido en POS"
+    },
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Práctica de TAC cerebral"
+    }
+  ]
+}

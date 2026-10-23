@@ -1,0 +1,55 @@
+{
+  "radicado": "T-641-01",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2001,
+  "fecha_creacion": "2001-06-15",
+  "magistrado_ponente": "Dr JAIME CÓRDOBA TRIVIÑO",
+  "area": "Derecho de Familia y Derechos de Niños, Niñas y Adolescentes",
+  "tema": "NEGLIGENCIA ADMINISTRATIVA",
+  "subtema": "Realización de prueba antropoheredobiológica",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Decreto 2737 de 1989",
+    "Ley 75 de 1968"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2001/T-641-01.htm",
+  "fecha_descarga": "2026-10-23T01:54:26.408940+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2001-06-15",
+  "fecha_publicacion": null,
+  "numero": "T-641/01",
+  "tipo_cc": "T",
+  "prov_id": "19335",
+  "tema_relatoria": "DERECHO AL LIBRE DESARROLLO DE LA PERSONALIDAD FILIACION PROTECCION INTEGRAL DE LA FAMILIA Y DERECHOS FUNDAMENTALES DEL NIÑO. SOLICITUD DE PRUEBA ANTROPOHERODOBIOLOGICA. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "NEGLIGENCIA ADMINISTRATIVA",
+      "subtema": "Realización de prueba antropoheredobiológica"
+    },
+    {
+      "tema": "DERECHO A LA PERSONALIDAD JURIDICA",
+      "subtema": "Fundamental"
+    },
+    {
+      "tema": "DERECHO A LA FILIACION DEL MENOR",
+      "subtema": "Naturaleza"
+    },
+    {
+      "tema": "DERECHO DE FILIACION NATURAL",
+      "subtema": "Necesidad de practicar prueba antropoheredobiológica"
+    },
+    {
+      "tema": "INSTITUTO COLOMBIANO DE BIENESTAR FAMILIAR",
+      "subtema": "Orden de practicar prueba antropoheredobiológica"
+    },
+    {
+      "tema": "PROCESO DE FILIACION",
+      "subtema": "Prueba antropoheredobiológica"
+    }
+  ]
+}

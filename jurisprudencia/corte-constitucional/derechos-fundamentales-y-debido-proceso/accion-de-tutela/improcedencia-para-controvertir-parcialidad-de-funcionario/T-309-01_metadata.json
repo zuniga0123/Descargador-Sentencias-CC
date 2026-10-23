@@ -1,0 +1,50 @@
+{
+  "radicado": "T-309-01",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2001,
+  "fecha_creacion": "2001-03-22",
+  "magistrado_ponente": "Dr ALFREDO BELTRÁN SIERRA",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCIÓN DE TUTELA",
+  "subtema": "Improcedencia para controvertir parcialidad de funcionario",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 81 de 1993"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2001/T-309-01.htm",
+  "fecha_descarga": "2026-10-23T02:01:15.934676+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2001-03-22",
+  "fecha_publicacion": null,
+  "numero": "T-309/01",
+  "tipo_cc": "T",
+  "prov_id": "18861",
+  "tema_relatoria": "DERECHO DE DEFENSA Y DEBIDO PROCESO. SOLICITUD NULIDAD DE TODO LO ACTUADO EN PROCESO PENAL POR HOMICIDIO CULPOSO Y PRACTICA DE PRUEBAS. INDEBIDA NOTIFICACION DE RESOLUCION DE PRECLUSION DE LA INVESTIGACION. CARGA PROCESAL. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Improcedencia para controvertir parcialidad de funcionario"
+    },
+    {
+      "tema": "NOTIFICACION",
+      "subtema": "Medios"
+    },
+    {
+      "tema": "CARGA PROCESAL",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "NOTIFICACION PERSONAL",
+      "subtema": "Sujetos procesales"
+    },
+    {
+      "tema": "NOTIFICACION",
+      "subtema": "Finalidad"
+    }
+  ]
+}

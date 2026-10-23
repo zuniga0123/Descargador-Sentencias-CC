@@ -1,0 +1,54 @@
+{
+  "radicado": "T-334-01",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2001,
+  "fecha_creacion": "2001-03-29",
+  "magistrado_ponente": "Dr JAIME CÓRDOBA TRIVIÑO",
+  "area": "Derecho Constitucional Económico",
+  "tema": "SERVICIO DE ENERGIA",
+  "subtema": "Desconexión por no pagar el arrendatario más de tres periodos facturados",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 142 de 1994"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2001/T-334-01.htm",
+  "fecha_descarga": "2026-10-23T02:01:59.078479+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2001-03-29",
+  "fecha_publicacion": null,
+  "numero": "T-334/01",
+  "tipo_cc": "T",
+  "prov_id": "18913",
+  "tema_relatoria": "DERECHOS A LA VIDA DIGNA IGUALDAD Y DEBIDO PROCESO. SOLICITUD RECONEXION DEL SERVICIO PUBLICO DOMICILIARIO DE ENERGIA EN INMUEBLE ARRENDADO. OMISION EN EL PAGO. TRATO DISCRIMINATORIO. RECONEXIONES FRAUDULENTAS. CONCEDIDA PARCIALMENTE.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "SERVICIO DE ENERGIA",
+      "subtema": "Desconexión por no pagar el arrendatario más de tres periodos facturados"
+    },
+    {
+      "tema": "SERVICIO DE ENERGIA",
+      "subtema": "Reconexión del servicio suspendido"
+    },
+    {
+      "tema": "SERVICIOS PUBLICOS DOMICILIARIOS",
+      "subtema": "Conexidad con derechos fundamentales"
+    },
+    {
+      "tema": "ACCION PENAL",
+      "subtema": "Hurto del servicio de energía por conexión fraudulenta"
+    },
+    {
+      "tema": "DERECHO A LA IGUALDAD",
+      "subtema": "Trato discriminatorio a propietario de inmueble en relación con arrendatario"
+    },
+    {
+      "tema": "RESPONSABILIDAD SOLIDARIA",
+      "subtema": "Propietario, usuario y tenedor del inmueble"
+    }
+  ]
+}

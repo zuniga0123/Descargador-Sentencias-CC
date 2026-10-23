@@ -1,0 +1,59 @@
+{
+  "radicado": "T-971-01",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2001,
+  "fecha_creacion": "2001-09-07",
+  "magistrado_ponente": "Dr MANUEL JOSÉ CEPEDA ESPINOSA",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCIÓN DE TUTELA",
+  "subtema": "Abuso",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 100 de 1993",
+    "Ley 80 de 1993"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2001/T-971-01.htm",
+  "fecha_descarga": "2026-10-23T02:12:13.743638+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2001-09-07",
+  "fecha_publicacion": null,
+  "numero": "T-971/01",
+  "tipo_cc": "T",
+  "prov_id": "19697",
+  "tema_relatoria": "DERECHOS A LA VIDA SALUD Y CONTRACTUALES. RECONOCIMIENTO Y COBRO DE DEUDAS PARA CUBRIR TRATAMIENTO MEDICO DEL PADRE. CESION DE CREDITOS. RELACION DE CAUSALIDAD. PROPORCIONALIDAD. ABUSO. REINTEGRO DINEROS. INVESTIGACION DISCIPLINARIA. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Abuso"
+    },
+    {
+      "tema": "DERECHOS CONTRACTUALES",
+      "subtema": "Improcedencia de la tutela para el reconocimiento y cobro de deudas"
+    },
+    {
+      "tema": "PERJUICIO IRREMEDIABLE",
+      "subtema": "Inminencia"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Improcedencia general sobre controversias contractuales"
+    },
+    {
+      "tema": "PERJUICIO IRREMEDIABLE",
+      "subtema": "Inexistencia relación de causalidad"
+    },
+    {
+      "tema": "DERECHOS CONTRACTUALES",
+      "subtema": "Casos en que excepcionalmente procede la tutela"
+    },
+    {
+      "tema": "SENTENCIA DE TUTELA",
+      "subtema": "Inexistencia de fundamentos jurídicos"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "radicado": "T-387-01",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2001,
+  "fecha_creacion": "2001-04-17",
+  "magistrado_ponente": "Dr JAIME CÓRDOBA TRIVIÑO",
+  "area": "Derecho a la Salud",
+  "tema": "DERECHO A LA SALUD Y SEGURIDAD SOCIAL DEL NIÑO",
+  "subtema": "Prevalencia",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 100 de 1993",
+    "Decreto 806 de 1998",
+    "Decreto 770 de 1975",
+    "Ley 12 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2001/T-387-01.htm",
+  "fecha_descarga": "2026-10-23T02:03:46.803300+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2001-04-17",
+  "fecha_publicacion": null,
+  "numero": "T-387/01",
+  "tipo_cc": "T",
+  "prov_id": "18989",
+  "tema_relatoria": "DERECHO A LA SALUD Y SEGURIDAD SOCIAL DE MENOR DE EDAD DISCAPACITADO. PRINCIPIO DE SUBSIDIARIDAD. PRACTICA DE CIRUGIA POR EL ISS. PROTECCION POSTERIOR A NO APORTANTE. INSCRIPCION EN ELSISBEN. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA SALUD Y SEGURIDAD SOCIAL DEL NIÑO",
+      "subtema": "Prevalencia"
+    },
+    {
+      "tema": "SISBEN",
+      "subtema": "Importancia constitucional"
+    },
+    {
+      "tema": "SISBEN",
+      "subtema": "Objeto"
+    },
+    {
+      "tema": "DERECHO A LA SALUD Y A LA VIDA DEL NIÑO",
+      "subtema": "Protección por tutela"
+    },
+    {
+      "tema": "DERECHOS FUNDAMENTALES DEL NIÑO",
+      "subtema": "Protección constitucional especial"
+    },
+    {
+      "tema": "ENTIDAD PROMOTORA DE SALUD",
+      "subtema": "Suministro de tratamiento a menor enfermo con limitaciones físicas y económicas"
+    },
+    {
+      "tema": "SEGURO SOCIAL",
+      "subtema": "Omisión práctica de cirugía a menor por falta de organización"
+    }
+  ]
+}

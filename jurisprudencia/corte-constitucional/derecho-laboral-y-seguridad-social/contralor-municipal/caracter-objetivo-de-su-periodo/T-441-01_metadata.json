@@ -1,0 +1,55 @@
+{
+  "radicado": "T-441-01",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2001,
+  "fecha_creacion": "2001-04-26",
+  "magistrado_ponente": "Dr EDUARDO MONTEALEGRE LYNETT",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "CONTRALOR MUNICIPAL",
+  "subtema": "Carácter objetivo de su periodo",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 42 de 1993",
+    "Ley 330 de 1996"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2001/T-441-01.htm",
+  "fecha_descarga": "2026-10-23T02:02:38.271277+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2001-04-26",
+  "fecha_publicacion": null,
+  "numero": "T-441/01",
+  "tipo_cc": "T",
+  "prov_id": "19059",
+  "tema_relatoria": "DERECHO AL TRABAJO IGUALDAD Y ACCESO A CARGOS PUBLICOS. VACANCIA ABSOLUTA DE CARGO DE CONTRALOR DEPARTAMENTAL Y SOLICITUD DEL ACCIONANTE COMO NUEVO CONTRALOR PARA QUE SE LE RESPETE SU PERIODO PERSONAL. NATURALEZA OBJETIVA DEL CARGO DE CONTRALOR MUNICIPAL.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "CONTRALOR MUNICIPAL",
+      "subtema": "Carácter objetivo de su periodo"
+    },
+    {
+      "tema": "CARGO DE PERIODO",
+      "subtema": "Criterios subjetivo y objetivo"
+    },
+    {
+      "tema": "IGUALDAD DE PERIODO DE ALCALDE, GOBERNADOR Y CONTRALOR",
+      "subtema": null
+    },
+    {
+      "tema": "CONTRALOR DEPARTAMENTAL",
+      "subtema": "Falta absoluta"
+    },
+    {
+      "tema": "CONTRALOR DEPARTAMENTAL",
+      "subtema": "Reemplazo por terminación del periodo"
+    },
+    {
+      "tema": "CONTRALOR Y ALCALDE",
+      "subtema": "Elección para un periodo igual"
+    }
+  ]
+}

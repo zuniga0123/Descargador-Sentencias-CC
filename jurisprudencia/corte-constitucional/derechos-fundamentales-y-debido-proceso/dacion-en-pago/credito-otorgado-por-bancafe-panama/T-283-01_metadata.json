@@ -1,0 +1,52 @@
+{
+  "radicado": "T-283-01",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2001,
+  "fecha_creacion": "2001-03-15",
+  "magistrado_ponente": "Dr ALFREDO BELTRÁN SIERRA",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "DACION EN PAGO",
+  "subtema": "Crédito otorgado por Bancafé Panamá",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Decreto 2331 de 1998",
+    "Decreto 908 de 1999",
+    "Decreto 2330 de 1998"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2001/T-283-01.htm",
+  "fecha_descarga": "2026-10-23T02:09:07.630553+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2001-03-15",
+  "fecha_publicacion": null,
+  "numero": "T-283/01",
+  "tipo_cc": "T",
+  "prov_id": "18833",
+  "tema_relatoria": "DERECHOS A LA IGUALDAD DEBIDO PROCESO Y VIVIENDA. DACION EN PAGO DE INMUEBLE COMO GARANTIA DE CREDITO EN DOLARES DE LINEA AGROPECUARIA Y NO HIPOTECARIO. OMISION. SOLICITUD DEVOLUCION INMUEBLES DADOS DE MAS. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DACION EN PAGO",
+      "subtema": "Crédito otorgado por Bancafé Panamá"
+    },
+    {
+      "tema": "PRINCIPIO DE TERRITORIALIDAD DE LA LEY",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "DACION EN PAGO",
+      "subtema": "Improcedencia por cuanto el crédito otorgado no fue destinado a vivienda"
+    },
+    {
+      "tema": "CELEBRACION DE CONTRATOS EN TERRITORIO NACIONAL",
+      "subtema": "Aplicación de ley nacional"
+    },
+    {
+      "tema": "PRINCIPIO DE TERRITORIALIDAD DE LA LEY",
+      "subtema": "Excepciones"
+    }
+  ]
+}

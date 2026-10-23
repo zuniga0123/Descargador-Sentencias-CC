@@ -1,0 +1,55 @@
+{
+  "radicado": "T-1171-01",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2001,
+  "fecha_creacion": "2001-11-02",
+  "magistrado_ponente": "Dr RODRIGO ESCOBAR GIL",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "DERECHOS FUNDAMENTALES DEL INTERNO",
+  "subtema": "Deben garantizarse independientemente del carácter de sindicado o condenado",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 65 de 1993",
+    "Decreto 1542 de 1997",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2001/T-1171-01.htm",
+  "fecha_descarga": "2026-10-23T01:55:38.868540+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2001-11-02",
+  "fecha_publicacion": null,
+  "numero": "T-1171/01",
+  "tipo_cc": "T",
+  "prov_id": "19934",
+  "tema_relatoria": "DERECHO DE PETICION DE RECLUSO. SOLICITUD DEL BENEFICIO DE 72 HORAS DE PERMISO. RESPUESTA CLARA Y OPORTUNA. DEMORA EN EXPEDICION DE ACTO ADMINISTRATIVO POR TURNO DE PRESENTACION DE SOLICITUD. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHOS FUNDAMENTALES DEL INTERNO",
+      "subtema": "Deben garantizarse independientemente del carácter de sindicado o condenado"
+    },
+    {
+      "tema": "DERECHO DE PETICIÓN",
+      "subtema": "Solicitud beneficio permiso de setenta y dos horas"
+    },
+    {
+      "tema": "DERECHO DE PETICIÓN",
+      "subtema": "Respeto del turno pero resolviendo dentro del término legal"
+    },
+    {
+      "tema": "DERECHO DE PETICION DE LAS PERSONAS PRIVADAS DE LA LIBERTAD EN CENTROS PENITENCIARIOS Y CARCELARIOS",
+      "subtema": "Ejercicio"
+    },
+    {
+      "tema": "DERECHO DE PETICIÓN",
+      "subtema": "Pronta respuesta no puede afectarse por trámites administrativos internos"
+    },
+    {
+      "tema": "DERECHO DE PETICIÓN",
+      "subtema": "Respuesta debe ser de fondo, oportuna, congruente y tener notificación efectiva"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "radicado": "T-1099-01",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2001,
+  "fecha_creacion": "2001-10-18",
+  "magistrado_ponente": "Dr EDUARDO MONTEALEGRE LYNETT",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "DERECHO AL TRABAJO EN CONDICIONES DIGNAS Y JUSTAS",
+  "subtema": "Pago oportuno de salarios",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Acto Legislativo 1 de 1996",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2001/T-1099-01.htm",
+  "fecha_descarga": "2026-10-23T01:50:01.194755+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2001-10-18",
+  "fecha_publicacion": null,
+  "numero": "T-1099/01",
+  "tipo_cc": "T",
+  "prov_id": "19856",
+  "tema_relatoria": "DERECHOS AL MINIMO VITAL VIDA Y SUBSISTENCIA. SOLICITUD INCREMENTO SALARIAL. PAGO DE ACREENCIAS LABORALES. SALARIOS Y APORTES A LA SEGURIDAD SOCIAL. CAPACIDAD PRESUPUESTAL. LLAMADO A PREVENCION. DESACATO. CONCEDIDA PARCIALMENTE.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO AL TRABAJO EN CONDICIONES DIGNAS Y JUSTAS",
+      "subtema": "Pago oportuno de salarios"
+    },
+    {
+      "tema": "DERECHO AL MINIMO VITAL DEL TRABAJADOR",
+      "subtema": "Presunción de afectación por ausencia prolongada en pago de salarios"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Procedencia excepcional pago de salarios"
+    },
+    {
+      "tema": "MEDIO DE DEFENSA JUDICIAL EFICAZ",
+      "subtema": "Incremento salarial"
+    },
+    {
+      "tema": "PARTIDA PRESUPUESTAL",
+      "subtema": "Gestión y distribución para pago oportuno de salarios"
+    }
+  ]
+}

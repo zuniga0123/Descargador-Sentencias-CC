@@ -1,0 +1,52 @@
+{
+  "radicado": "T-542-01",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2001,
+  "fecha_creacion": "2001-05-21",
+  "magistrado_ponente": "Dra CLARA INES VARGAS HERNANDEZ",
+  "area": "Derecho a la Salud",
+  "tema": "DERECHO A LA SALUD",
+  "subtema": "Fundamental por conexidad con la vida",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 362 de 1997",
+    "Decreto 806 de 1998",
+    "Decreto 2591 de 1991",
+    "Decreto 1938 de 1994"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2001/T-542-01.htm",
+  "fecha_descarga": "2026-10-23T02:00:11.031801+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2001-05-21",
+  "fecha_publicacion": null,
+  "numero": "T-542/01",
+  "tipo_cc": "T",
+  "prov_id": "19194",
+  "tema_relatoria": "DERECHO A LA VIDA SALUD Y SEGURIDA SOCIAL. LOS DOCUMENTOS APORTADOS PERMITEN DEDUCIR QUE LA CIRUGIA QUE REQUIERE LA MENOR ES URGENTE. DEMOSTRACION DE IMPOSIBILIDAD PARA ASUMIR EL COSTO. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Fundamental por conexidad con la vida"
+    },
+    {
+      "tema": "DERECHO A LA SALUD DEL MENOR",
+      "subtema": "Cirugía de adenoides"
+    },
+    {
+      "tema": "ENTIDAD PROMOTORA DE SALUD",
+      "subtema": "Repetición contra el empleador o el Fosyga"
+    },
+    {
+      "tema": "DERECHO A LA SALUD DEL MENOR",
+      "subtema": "No puede oponer periodos mínimos de cotización"
+    },
+    {
+      "tema": "DERECHO A LA SALUD DEL MENOR",
+      "subtema": "Afirmación sobre la falta de capacidad de pago de los padres"
+    }
+  ]
+}

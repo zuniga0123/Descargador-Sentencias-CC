@@ -1,0 +1,67 @@
+{
+  "radicado": "T-534-01",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2001,
+  "fecha_creacion": "2001-05-21",
+  "magistrado_ponente": "Dr JAIME CÓRDOBA TRIVIÑO",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "CARRERA DIPLOMATICA Y CONSULAR",
+  "subtema": "Alternación entre plantas interna y externa",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 100 de 1993",
+    "Ley 50 de 1886",
+    "Decreto 753 de 1974",
+    "Decreto 813 de 1994",
+    "Decreto 10 de 1992",
+    "Ley 33 de 1985"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2001/T-534-01.htm",
+  "fecha_descarga": "2026-10-23T01:59:56.476643+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2001-05-21",
+  "fecha_publicacion": null,
+  "numero": "T-534/01",
+  "tipo_cc": "T",
+  "prov_id": "19188",
+  "tema_relatoria": "DERECHO DE PETICION DEBIDO PROCESO IGUALDAD Y SEGURIDAD SOCIAL. PAGO DE PENSION.REGIMEN DE TRANSICION EN PENSIONES. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "CARRERA DIPLOMATICA Y CONSULAR",
+      "subtema": "Alternación entre plantas interna y externa"
+    },
+    {
+      "tema": "PENSION DE JUBILACION",
+      "subtema": "Cotización conforme a la asignación correspondiente al cargo realmente desempeñado"
+    },
+    {
+      "tema": "REGIMEN PENSIONAL DE TRANSICION",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "DERECHO A LA SEGURIDAD SOCIAL DE PERSONA DE LA TERCERA EDAD",
+      "subtema": "Fundamental por conexidad"
+    },
+    {
+      "tema": "CARRERA ADMINISTRATIVA Y CONSULAR",
+      "subtema": "Equivalencias"
+    },
+    {
+      "tema": "DERECHO A LA PENSION DE JUBILACION",
+      "subtema": "Aplicación inmediata"
+    },
+    {
+      "tema": "DERECHO A LA IGUALDAD",
+      "subtema": "Discriminación por no aplicación de régimen de transición en pensiones"
+    },
+    {
+      "tema": "PENSION DE JUBILACION",
+      "subtema": "Equivalencia tiempo de servicios por publicación de libros"
+    }
+  ]
+}

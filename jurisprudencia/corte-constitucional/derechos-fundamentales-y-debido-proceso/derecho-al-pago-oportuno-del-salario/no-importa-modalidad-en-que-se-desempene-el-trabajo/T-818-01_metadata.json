@@ -1,0 +1,46 @@
+{
+  "radicado": "T-818-01",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2001,
+  "fecha_creacion": "2001-08-02",
+  "magistrado_ponente": "Dr MARCO GERARDO MONROY CABRA",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "DERECHO AL PAGO OPORTUNO DEL SALARIO",
+  "subtema": "No importa modalidad en que se desempeñe el trabajo",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 80 de 1993",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2001/T-818-01.htm",
+  "fecha_descarga": "2026-10-23T01:52:05.037812+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2001-08-02",
+  "fecha_publicacion": null,
+  "numero": "T-818/01",
+  "tipo_cc": "T",
+  "prov_id": "19541",
+  "tema_relatoria": "DERECHO AL MINIMO VITAL Y SUBSISTENCIA. PAGO DE ACREENCIAS LABORALES. SALARIOS. CONTRATO DE PRESTACION DE SERVICIOS. CELADOR RESTAURANTE ESCOLAR. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO AL PAGO OPORTUNO DEL SALARIO",
+      "subtema": "No importa modalidad en que se desempeñe el trabajo"
+    },
+    {
+      "tema": "DERECHO AL MINIMO VITAL DEL TRABAJADOR",
+      "subtema": "Pago oportuno de salarios"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Procedencia excepcional pago de salarios"
+    },
+    {
+      "tema": "PARTIDA PRESUPUESTAL",
+      "subtema": "Gestión y distribución para pago oportuno de salarios"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "radicado": "T-600-01",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2001,
+  "fecha_creacion": "2001-06-07",
+  "magistrado_ponente": "Dra CLARA INES VARGAS HERNANDEZ",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCIÓN DE TUTELA",
+  "subtema": "Improcedencia reconocimiento de pensión",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2001/T-600-01.htm",
+  "fecha_descarga": "2026-10-23T02:05:17.235618+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2001-06-07",
+  "fecha_publicacion": null,
+  "numero": "T-600/01",
+  "tipo_cc": "T",
+  "prov_id": "19276",
+  "tema_relatoria": "DERECHO DE PETICION. SOLICITUD RECONOCIMIENTO PENSION DE JUBILACION. EXISTENCIA DE OTRO MEDIO DE DEFENSA JUDICIAL. HECHO SUPERADO. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Improcedencia reconocimiento de pensión"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Hecho superado"
+    }
+  ]
+}

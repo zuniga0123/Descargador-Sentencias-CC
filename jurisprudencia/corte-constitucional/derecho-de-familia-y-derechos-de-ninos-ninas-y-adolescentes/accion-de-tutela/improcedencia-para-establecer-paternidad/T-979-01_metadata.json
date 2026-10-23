@@ -1,0 +1,58 @@
+{
+  "radicado": "T-979-01",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2001,
+  "fecha_creacion": "2001-09-13",
+  "magistrado_ponente": "Dr JAIME CÓRDOBA TRIVIÑO",
+  "area": "Derecho de Familia y Derechos de Niños, Niñas y Adolescentes",
+  "tema": "ACCIÓN DE TUTELA",
+  "subtema": "Improcedencia para establecer paternidad",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 12 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2001/T-979-01.htm",
+  "fecha_descarga": "2026-10-23T02:12:24.811562+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2001-09-13",
+  "fecha_publicacion": null,
+  "numero": "T-979/01",
+  "tipo_cc": "T",
+  "prov_id": "19715",
+  "tema_relatoria": "DERECHO A LA PERSONALIDAD JURIDICA Y AL NOMBRE DE MENOR DE EDAD. NO INSCRIPCION EN EL REGISTRO DE NACIMIENTO CON EL APELLIDO DEL PADRE BIOLOGICO. FILIACION. PATERNIDAD EXTRAMATRIMONIAL. PRESUNCION DE LEGITIMIDAD. TUTELA COMO MECANISMO TRANSITORIO.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Improcedencia para establecer paternidad"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Inexistencia de perjuicio irremediable"
+    },
+    {
+      "tema": "DERECHOS FUNDAMENTALES DEL NIÑO",
+      "subtema": "Prevalencia"
+    },
+    {
+      "tema": "DERECHO A LA PERSONALIDAD JURIDICA",
+      "subtema": "Nombre"
+    },
+    {
+      "tema": "DERECHO A LA SALUD DE NIÑOS, NIÑAS Y ADOLESCENTES",
+      "subtema": "Negligencia para afiliar al menor al SISBEN por falta de inscripción en el registro civil"
+    },
+    {
+      "tema": "DERECHO A LA PERSONALIDAD JURIDICA",
+      "subtema": "Filiación"
+    },
+    {
+      "tema": "PATERNIDAD EXTRAMATRIMONIAL",
+      "subtema": "Casos en los cuales se presume"
+    }
+  ]
+}

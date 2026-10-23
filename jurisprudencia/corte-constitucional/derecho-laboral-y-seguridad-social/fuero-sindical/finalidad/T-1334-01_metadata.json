@@ -1,0 +1,60 @@
+{
+  "radicado": "T-1334-01",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2001,
+  "fecha_creacion": "2001-12-10",
+  "magistrado_ponente": "Dr JAIME ARAUJO RENTERIA",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "FUERO SINDICAL",
+  "subtema": "Finalidad",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 362 de 1997",
+    "Decreto 1572 de 1998",
+    "Ley 443 de 1998"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2001/T-1334-01.htm",
+  "fecha_descarga": "2026-10-23T02:09:47.659137+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2001-12-10",
+  "fecha_publicacion": null,
+  "numero": "T-1334/01",
+  "tipo_cc": "T",
+  "prov_id": "20119",
+  "tema_relatoria": "DERECHOS DE ASOCIACION Y LIBERTAD SINDICAL FUERO SINDICAL Y DEBIDO PROCESO. SOLICITUD DE NULIDAD SENTENCIA EMITIDA POR EL ACCIONADO. FUERO SINDICAL. VIA DE HECHO DENTRO DE PROCESO DE REINTEGRO POR FUERO SINDICAL. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "FUERO SINDICAL",
+      "subtema": "Finalidad"
+    },
+    {
+      "tema": "RETIRO DEL SERVICIO DE SERVIDOR PUBLICO",
+      "subtema": "Calificación judicial del juez laboral"
+    },
+    {
+      "tema": "VIA DE HECHO",
+      "subtema": "Clases de defectos en la actuación"
+    },
+    {
+      "tema": "ACCION DE REINTEGRO",
+      "subtema": "Improcedencia por supresión de empresa"
+    },
+    {
+      "tema": "FUERO SINDICAL",
+      "subtema": "Definición"
+    },
+    {
+      "tema": "JURISDICCION DEL TRABAJO",
+      "subtema": "Conflictos por razón del fuero sindical de empleados públicos"
+    },
+    {
+      "tema": "VIA DE HECHO",
+      "subtema": "Defecto sustantivo"
+    }
+  ]
+}

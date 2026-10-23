@@ -1,0 +1,56 @@
+{
+  "radicado": "T-731-01",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2001,
+  "fecha_creacion": "2001-07-05",
+  "magistrado_ponente": "Dr RODRIGO ESCOBAR GIL",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "NULIDAD DE SENTENCIA POR VIA DE HECHO",
+  "subtema": "Decisión ultra vires",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Decreto 1572 de 1998",
+    "Decreto 204 de 1957",
+    "Ley 362 de 1997"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2001/T-731-01.htm",
+  "fecha_descarga": "2026-10-23T01:50:37.656914+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2001-07-05",
+  "fecha_publicacion": null,
+  "numero": "T-731/01",
+  "tipo_cc": "T",
+  "prov_id": "19429",
+  "tema_relatoria": "DERECHO DE ASOCIACION SINDICAL DEBIDO PROCESO Y ACCESO A LA ADMINISTRACION DE JUSTICIA. TUTELA CONTRA PROVIDENCIAS JUDICIALES. VIA DE HECHO. REESTRUCTURACION DE ENTIDADES. REINTEGRO AL CARGO. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "NULIDAD DE SENTENCIA POR VIA DE HECHO",
+      "subtema": "Decisión ultra vires"
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA TRIBUNAL",
+      "subtema": null
+    },
+    {
+      "tema": "DERECHO DE ASOCIACIÓN SINDICAL",
+      "subtema": "Vulneración por despido sin autorización judicial"
+    },
+    {
+      "tema": "FUERO SINDICAL",
+      "subtema": "Necesidad de autorización judicial para el despido"
+    },
+    {
+      "tema": "FUERO SINDICAL",
+      "subtema": "Vulneración por despido sin autorización judicial"
+    },
+    {
+      "tema": "VIA DE HECHO EN MATERIA DE INTERPRETACION",
+      "subtema": "Hipótesis que deben darse"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "radicado": "T-1003-01",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2001,
+  "fecha_creacion": "2001-09-20",
+  "magistrado_ponente": "Dr MARCO GERARDO MONROY CABRA",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "PRINCIPIO DE AUTONOMIA FUNCIONAL DEL JUEZ",
+  "subtema": "Improcedencia general de tutela para controvertir interpretaciones judiciales",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2001/T-1003-01.htm",
+  "fecha_descarga": "2026-10-23T01:49:35.574455+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2001-09-20",
+  "fecha_publicacion": null,
+  "numero": "T-1003/01",
+  "tipo_cc": "T",
+  "prov_id": "19741",
+  "tema_relatoria": "DERECHO A LA IGUALDAD DEFENSA Y DEBIDO PROCESO. DENUNCIA PENAL POR ESTAFA. NON BIS IN IDEM. PERSONA AUSENTE. TUTELA CONTRA PROVIDENCIAS JUDICIALES. VIA DE HECHO. AUTONOMIA FUNCIONAL DEL JUEZ. GRADUACION DE LA PENA. CONTUMACIA. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "PRINCIPIO DE AUTONOMIA FUNCIONAL DEL JUEZ",
+      "subtema": "Improcedencia general de tutela para controvertir interpretaciones judiciales"
+    },
+    {
+      "tema": "VIA DE HECHO",
+      "subtema": "Clases de defectos en la actuación"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Procedencia excepcional por vía de hecho"
+    },
+    {
+      "tema": "AUTONOMIA FUNCIONAL DEL JUEZ",
+      "subtema": "Margen para imposición de la pena"
+    },
+    {
+      "tema": "VIA DE HECHO",
+      "subtema": "Improcedencia frente a interpretaciones"
+    }
+  ]
+}

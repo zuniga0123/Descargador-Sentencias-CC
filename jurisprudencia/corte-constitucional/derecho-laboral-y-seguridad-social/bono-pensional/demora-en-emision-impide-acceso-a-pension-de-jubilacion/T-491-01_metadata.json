@@ -1,0 +1,49 @@
+{
+  "radicado": "T-491-01",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2001,
+  "fecha_creacion": "2001-05-11",
+  "magistrado_ponente": "Dr MANUEL JOSÉ CEPEDA ESPINOSA",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "BONO PENSIONAL",
+  "subtema": "Demora en emisión impide acceso a pensión de jubilación",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Decreto 2591 de 1991",
+    "Decreto 1748 de 1995",
+    "Decreto 1474 de 1997",
+    "Decreto 1296 de 1994"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2001/T-491-01.htm",
+  "fecha_descarga": "2026-10-23T02:07:04.884440+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2001-05-11",
+  "fecha_publicacion": null,
+  "numero": "T-491/01",
+  "tipo_cc": "T",
+  "prov_id": "19135",
+  "tema_relatoria": "DERECHO DE PETICION PENSION DE JUBILACION YBONO PENSIONAL. NO RECONOCIMIENTO DE PENSION DE JUBILACION ADUCIENDO LA NO EMISION DEL BONO PENSIONAL POR PARTE DE OTRA ENTIDAD. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "BONO PENSIONAL",
+      "subtema": "Demora en emisión impide acceso a pensión de jubilación"
+    },
+    {
+      "tema": "DERECHO DE PETICION FRENTE AL SILENCIO ADMINISTRATIVO NEGATIVO",
+      "subtema": "Debe resolver la solicitud"
+    },
+    {
+      "tema": "VIA DE HECHO",
+      "subtema": "Se niega pensión por demora en emisión del bono"
+    },
+    {
+      "tema": "DERECHO DE PETICIÓN",
+      "subtema": "Respuesta debe ser de fondo, oportuna, congruente y tener notificación efectiva"
+    }
+  ]
+}

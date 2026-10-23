@@ -1,0 +1,58 @@
+{
+  "radicado": "T-936-01",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2001,
+  "fecha_creacion": "2001-08-30",
+  "magistrado_ponente": "Dr MANUEL JOSÉ CEPEDA ESPINOSA",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "PROCESO DISCIPLINARIO",
+  "subtema": "Suspensión provisional",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Decreto 262 de 2000",
+    "Ley 136 de 1994",
+    "Ley 200 de 1995",
+    "Decreto Ley 407 de 1994",
+    "Ley 201 de 1995"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2001/T-936-01.htm",
+  "fecha_descarga": "2026-10-23T01:51:57.786992+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2001-08-30",
+  "fecha_publicacion": null,
+  "numero": "T-936/01",
+  "tipo_cc": "T",
+  "prov_id": "19667",
+  "tema_relatoria": "DEBIDO PROCESO. PROCESO DISCIPLINARIO. SUSPENSIÓN PROVISIONAL COMO ALCALDE PROVISIONAL. DELEGACIÓN GENERAL Y ESPECIAL DE COMPETENCIA. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "PROCESO DISCIPLINARIO",
+      "subtema": "Suspensión provisional"
+    },
+    {
+      "tema": "DELEGACION",
+      "subtema": "Efectos"
+    },
+    {
+      "tema": "PROCURADOR PROVISIONAL",
+      "subtema": "Delegación expresa y general de competencia para conocer del proceso disciplinario"
+    },
+    {
+      "tema": "PROCURADOR GENERAL DE LA NACION",
+      "subtema": "Competencia para vigilar conducta de quienes desempeñan funciones públicas"
+    },
+    {
+      "tema": "PROCURADOR PROVISIONAL",
+      "subtema": "Delegado para decretar suspensión provisional de Alcalde"
+    },
+    {
+      "tema": "PROCURADOR PROVISIONAL",
+      "subtema": "Delegado para conocer denuncias por faltas disciplinarias"
+    }
+  ]
+}

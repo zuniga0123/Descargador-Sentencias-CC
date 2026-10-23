@@ -1,0 +1,51 @@
+{
+  "radicado": "T-939-01",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2001,
+  "fecha_creacion": "2001-08-30",
+  "magistrado_ponente": "Dr EDUARDO MONTEALEGRE LYNETT",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "REGIMEN CONTRIBUTIVO DE SEGURIDAD SOCIAL EN SALUD",
+  "subtema": "Nietos no están incluidos dentro de la cobertura familiar",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 806 de 1998",
+    "Decreto 2591 de 1991",
+    "Ley 100 de 1993"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2001/T-939-01.htm",
+  "fecha_descarga": "2026-10-23T02:11:48.221530+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2001-08-30",
+  "fecha_publicacion": null,
+  "numero": "T-939/01",
+  "tipo_cc": "T",
+  "prov_id": "19670",
+  "tema_relatoria": "DERECHO A LA SALUD Y SEGURIDAD SOCIAL DE LOS NIÑOS. REGIMEN CONTRIBUTIVO DE SEGURIDAD SOCIAL. COBERTURA FAMILIAR. ADOPCION Y CUSTODIA DE MENORES. FALTA CALIDAD DE BENEFICIARIA. APLICACION ENCUESTA. SISBEN. NEGADA PARCIALMENTE.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "REGIMEN CONTRIBUTIVO DE SEGURIDAD SOCIAL EN SALUD",
+      "subtema": "Nietos no están incluidos dentro de la cobertura familiar"
+    },
+    {
+      "tema": "SISBEN",
+      "subtema": "Improcedencia de ordenar aplicación de la encuesta para establecer si menor debe ser incluido en el régimen subsidiado"
+    },
+    {
+      "tema": "CUIDADO PERSONAL, CUSTODIA Y PROTECCION DEL NIÑO",
+      "subtema": null
+    },
+    {
+      "tema": "DERECHO A LA SALUD Y SEGURIDAD SOCIAL DEL NIÑO",
+      "subtema": "Fundamental"
+    },
+    {
+      "tema": "SISBEN",
+      "subtema": "Aplicación de la encuesta para establecer si menor debe ser incluido en el régimen subsidiado"
+    }
+  ]
+}

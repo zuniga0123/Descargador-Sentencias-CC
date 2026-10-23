@@ -1,0 +1,63 @@
+{
+  "radicado": "T-183-01",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2001,
+  "fecha_creacion": "2001-02-15",
+  "magistrado_ponente": "Dr ALFREDO BELTRÁN SIERRA",
+  "area": "Derecho de Familia y Derechos de Niños, Niñas y Adolescentes",
+  "tema": "DEBIDO PROCESO",
+  "subtema": "Vulneración por no definición del estado civil en un periodo razonable de tiempo",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 393 de 1997",
+    "Decreto 1260 de 1970",
+    "Ley 75 de 1968"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2001/T-183-01.htm",
+  "fecha_descarga": "2026-10-23T01:57:46.456473+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2001-02-15",
+  "fecha_publicacion": null,
+  "numero": "T-183/01",
+  "tipo_cc": "T",
+  "prov_id": "18687",
+  "tema_relatoria": "DERECHO DE FILIACION DE MENORES Y DEBIDO PROCESO. PRUEBA ANTROPOHEREDOBIOLOGICA. INVESTIGACION DE LA PATERNIDAD. DETERMINACION FECHA POSIBLE PARA REALIZACION DE EXAMENES CORRESPONDIENTES. ADN. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DEBIDO PROCESO",
+      "subtema": "Vulneración por no definición del estado civil en un periodo razonable de tiempo"
+    },
+    {
+      "tema": "NEGLIGENCIA ADMINISTRATIVA",
+      "subtema": "Realización de prueba antropoheredobiológica"
+    },
+    {
+      "tema": "PRESUNCION DE EXISTENCIA DE LAS PERSONAS",
+      "subtema": "Finalidad"
+    },
+    {
+      "tema": "AUTORIDAD ADMINISTRATIVA",
+      "subtema": "Orden a prevención para definir estado civil de las personas"
+    },
+    {
+      "tema": "DERECHOS FUNDAMENTALES",
+      "subtema": "Vulneración por no definición del estado civil en un periodo razonable de tiempo"
+    },
+    {
+      "tema": "DERECHO A LA PERSONALIDAD JURIDICA",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "DERECHO A LA PERSONALIDAD JURIDICA",
+      "subtema": "Filiación"
+    },
+    {
+      "tema": "PROCESO DE FILIACION",
+      "subtema": "Prueba antropoheredobiológica"
+    }
+  ]
+}

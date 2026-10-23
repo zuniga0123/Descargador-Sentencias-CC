@@ -1,0 +1,41 @@
+{
+  "radicado": "T-904-01",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2001,
+  "fecha_creacion": "2001-08-27",
+  "magistrado_ponente": "Dr JAIME CÓRDOBA TRIVIÑO",
+  "area": "Derecho Penal y Sistema Acusatorio",
+  "tema": "DEFENSOR EN PROCESO PENAL",
+  "subtema": "Actuaciones deben valorarse en el contexto del proceso",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2001/T-904-01.htm",
+  "fecha_descarga": "2026-10-23T01:51:35.916009+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2001-08-27",
+  "fecha_publicacion": null,
+  "numero": "T-904/01",
+  "tipo_cc": "T",
+  "prov_id": "19632",
+  "tema_relatoria": "DEBIDO PROCESO. DERECHO A LA LIBERTAD Y DEFENSA. NO CITACIÓN PARA NOTIFICACION PERSONAL DE LAS DECISIONES DENTRO DEL PROCESO PENAL. EL DEFENSOR NO SE PREOCUPO POR DEFENDER SUS INTERESES. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DEFENSOR EN PROCESO PENAL",
+      "subtema": "Actuaciones deben valorarse en el contexto del proceso"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Carácter excepcional"
+    },
+    {
+      "tema": "NOTIFICACION EN PROCESO PENAL",
+      "subtema": "No se pueden maximizar exigencias cuando el procesado trata de sustraerse al cumplimiento de una medida de aseguramiento"
+    }
+  ]
+}

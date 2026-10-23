@@ -1,0 +1,53 @@
+{
+  "radicado": "T-026-01",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2001,
+  "fecha_creacion": "2001-01-18",
+  "magistrado_ponente": "Dr JOSÉ GREGORIO HERNÁNDEZ GALINDO",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "ACCION DE TUTELA TRANSITORIA",
+  "subtema": "No desalojo de vivienda",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2001/T-026-01.htm",
+  "fecha_descarga": "2026-10-23T01:48:01.816390+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2001-01-18",
+  "fecha_publicacion": null,
+  "numero": "T-026/01",
+  "tipo_cc": "T",
+  "prov_id": "18478",
+  "tema_relatoria": "DERECHO A LA VIDA Y TRABAJO EN CONDICIONES DIGNAS Y JUSTAS. DESALOJO DEL LUGAR DE RESIDENCIA. AMPARO TRANSITORIO. PAGO ACREENCIAS LABORALES. SALARIOS. CONTRATO PRESTACION DE SERVICIOS DE ASEO Y VIGILANCIA. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCION DE TUTELA TRANSITORIA",
+      "subtema": "No desalojo de vivienda"
+    },
+    {
+      "tema": "DERECHO AL MINIMO VITAL DEL TRABAJADOR",
+      "subtema": "Pago de salarios y demás acreencias laborales"
+    },
+    {
+      "tema": "PRIMACIA DE LA REALIDAD SOBRE FORMALIDADES EN RELACIONES LABORALES",
+      "subtema": null
+    },
+    {
+      "tema": "ADMINISTRACION",
+      "subtema": "Responsabilidad por permitir inicio de labores de quien todavía no es servidor público"
+    },
+    {
+      "tema": "DERECHO AL TRABAJO EN CONDICIONES DIGNAS Y JUSTAS",
+      "subtema": "El hecho de que el trabajador inicie labores obliga al pago de salarios"
+    },
+    {
+      "tema": "DERECHO AL TRABAJO EN CONDICIONES DIGNAS Y JUSTAS",
+      "subtema": "Remuneración proporcional a cantidad y calidad"
+    }
+  ]
+}

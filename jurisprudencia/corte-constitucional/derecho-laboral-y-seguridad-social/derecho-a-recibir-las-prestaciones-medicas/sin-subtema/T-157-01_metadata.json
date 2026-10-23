@@ -1,0 +1,54 @@
+{
+  "radicado": "T-157-01",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2001,
+  "fecha_creacion": "2001-02-12",
+  "magistrado_ponente": "Dr FABIO MORON DIAZ",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "DERECHO A RECIBIR LAS PRESTACIONES MEDICAS",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 806 de 1998",
+    "Ley 100 de 1993"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2001/T-157-01.htm",
+  "fecha_descarga": "2026-10-23T01:56:40.811902+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2001-02-12",
+  "fecha_publicacion": null,
+  "numero": "T-157/01",
+  "tipo_cc": "T",
+  "prov_id": "18651",
+  "tema_relatoria": "DERECHOS A LA VIDA SEGURIDAD SOCIAL Y MINIMO VITAL. PAGO LICENCIA DE MATERNIDAD. MORA EN EL PAGO DE APORTES A SALUD POR EMPLEADOR. TELECOM. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO A RECIBIR LAS PRESTACIONES MEDICAS",
+      "subtema": null
+    },
+    {
+      "tema": "LICENCIA DE MATERNIDAD",
+      "subtema": "Pago oportuno"
+    },
+    {
+      "tema": "SISTEMA DE SALUD",
+      "subtema": "Relaciones entre empleador y entidad de seguridad social"
+    },
+    {
+      "tema": "ACCION DE TUTELA PARA EL PAGO DE LICENCIA DE MATERNIDAD",
+      "subtema": "Procedencia excepcional"
+    },
+    {
+      "tema": "EMPLEADOR",
+      "subtema": "Asunción de responsabilidad por no pago de aportes"
+    },
+    {
+      "tema": "TRABAJADOR ASALARIADO",
+      "subtema": "Suspensión de la afiliación"
+    }
+  ]
+}

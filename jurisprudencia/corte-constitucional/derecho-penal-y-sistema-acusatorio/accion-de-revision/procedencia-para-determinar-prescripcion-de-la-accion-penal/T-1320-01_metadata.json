@@ -1,0 +1,51 @@
+{
+  "radicado": "T-1320-01",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2001,
+  "fecha_creacion": "2001-12-10",
+  "magistrado_ponente": "Dr ALFREDO BELTRÁN SIERRA",
+  "area": "Derecho Penal y Sistema Acusatorio",
+  "tema": "ACCION DE REVISION",
+  "subtema": "Procedencia para determinar prescripción de la acción penal",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 600 de 2000",
+    "Decreto 2591 de 1991",
+    "Ley 64 de 1989"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2001/T-1320-01.htm",
+  "fecha_descarga": "2026-10-23T02:09:18.484147+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2001-12-10",
+  "fecha_publicacion": null,
+  "numero": "T-1320/01",
+  "tipo_cc": "T",
+  "prov_id": "20108",
+  "tema_relatoria": "DERECHO AL DEBIDO PROCESO Y PRESUNCION DE INOCENCIA. SOLICITUD DE DECLARACION DE NULIDAD DE TODO LO ACTUADO EN PROCESO PENAL ADELANTADO POR ACCIONADA. FUERO DE CONGRESISTA. CONSTITUCION DEROGADA Y CODIGO DE PROCEDIMIENTO PENAL ENTONCES VIGENTE. PRESCRIPCI",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCION DE REVISION",
+      "subtema": "Procedencia para determinar prescripción de la acción penal"
+    },
+    {
+      "tema": "FUERO DEL CONGRESISTA",
+      "subtema": "Naturaleza y finalidad"
+    },
+    {
+      "tema": "SALA DE CASACION PENAL DE LA CORTE SUPREMA DE JUSTICIA",
+      "subtema": "Competencia para investigar los delitos cometidos por congresistas se extiende a hechos anteriores a su posesión"
+    },
+    {
+      "tema": "SALA DE CASACION PENAL DE LA CORTE SUPREMA DE JUSTICIA",
+      "subtema": "En el proceso se encontró tipificado el delito de peculado por apropiación"
+    },
+    {
+      "tema": "SALA DE CASACION PENAL DE LA CORTE SUPREMA DE JUSTICIA",
+      "subtema": "Hizo la valoración probatoria en el respectivo proceso penal"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "radicado": "T-1158-01",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2001,
+  "fecha_creacion": "2001-11-01",
+  "magistrado_ponente": "Dr MARCO GERARDO MONROY CABRA",
+  "area": "Derecho a la Salud",
+  "tema": "DERECHO A LA CONTINUIDAD EN EL SERVICIO DE SALUD",
+  "subtema": "Atención médica a menor",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 361 de 1997",
+    "Ley 100 de 1993",
+    "Ley 12 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2001/T-1158-01.htm",
+  "fecha_descarga": "2026-10-23T01:55:20.565387+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2001-11-01",
+  "fecha_publicacion": null,
+  "numero": "T-1158/01",
+  "tipo_cc": "T",
+  "prov_id": "19923",
+  "tema_relatoria": "DERECHO A LA SALUD DE MENOR DISCAPACITADA. SOLICITUD SERVICIO DE AMBULANCIA PARA REALIZAR FISIOTERAPIAS. PRINCIPIOS DE EFICIENCIA Y CONTINUIDAD. ACCESO EFECTIVO DE LOS NIÑOS IMPEDIDOS. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA CONTINUIDAD EN EL SERVICIO DE SALUD",
+      "subtema": "Atención médica a menor"
+    },
+    {
+      "tema": "DERECHO A LA SEGURIDAD SOCIAL DE DISCAPACITADO",
+      "subtema": "Implica accesibilidad al servicio"
+    },
+    {
+      "tema": "DERECHO A LA SALUD DEL MENOR DISCAPACITADO",
+      "subtema": "Protección preferente"
+    },
+    {
+      "tema": "DERECHO A LA SALUD DEL MENOR DISCAPACITADO",
+      "subtema": "Orden de traslado en ambulancia"
+    },
+    {
+      "tema": "DERECHO A LA EFICIENCIA EN EL SERVICIO DE SALUD",
+      "subtema": "Atención a menor"
+    }
+  ]
+}

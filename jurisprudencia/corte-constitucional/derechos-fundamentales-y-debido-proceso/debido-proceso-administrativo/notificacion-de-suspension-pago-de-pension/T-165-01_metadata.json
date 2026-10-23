@@ -1,0 +1,67 @@
+{
+  "radicado": "T-165-01",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2001,
+  "fecha_creacion": "2001-02-12",
+  "magistrado_ponente": "Dr JOSÉ GREGORIO HERNÁNDEZ GALINDO",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "DEBIDO PROCESO ADMINISTRATIVO",
+  "subtema": "Notificación de suspensión pago de pensión",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Decreto Ley 1211 de 1990",
+    "Decreto 1211 de 1990"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2001/T-165-01.htm",
+  "fecha_descarga": "2026-10-23T01:57:31.562586+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2001-02-12",
+  "fecha_publicacion": null,
+  "numero": "T-165/01",
+  "tipo_cc": "T",
+  "prov_id": "18659",
+  "tema_relatoria": "DERECHO DE DEFENSA Y DEBIDO PROCESO ADMINISTRATIVO. NOTIFICACION DECISIONES ADMINISTRATIVAS. VIA DE HECHO. REVOCATORIA DIRECTA. REANUDACION DEL PAGO DE PENSIONES. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DEBIDO PROCESO ADMINISTRATIVO",
+      "subtema": "Notificación de suspensión pago de pensión"
+    },
+    {
+      "tema": "MEDIO DE DEFENSA JUDICIAL INEFICAZ",
+      "subtema": "Procedencia de tutela"
+    },
+    {
+      "tema": "DECISION ADMINISTRATIVA",
+      "subtema": "Notificación"
+    },
+    {
+      "tema": "DERECHO DE DEFENSA",
+      "subtema": "Aporte y debate de pruebas"
+    },
+    {
+      "tema": "DEBIDO PROCESO ADMINISTRATIVO",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "DERECHO DE DEFENSA",
+      "subtema": "Procede respecto de procesos judiciales y administrativos"
+    },
+    {
+      "tema": "PENSION DE JUBILACION",
+      "subtema": "Suspensión sin consentimiento del titular"
+    },
+    {
+      "tema": "REVOCACION DIRECTA DE ACTO ADMINISTRATIVO PARTICULAR Y CONCRETO",
+      "subtema": "Consentimiento expreso y escrito del titular"
+    },
+    {
+      "tema": "NOTIFICACION",
+      "subtema": "Finalidad"
+    }
+  ]
+}

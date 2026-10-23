@@ -1,0 +1,41 @@
+{
+  "radicado": "T-1002-01",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2001,
+  "fecha_creacion": "2001-09-20",
+  "magistrado_ponente": "Dr MARCO GERARDO MONROY CABRA",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "MUJER TRABAJADORA EMBARAZADA",
+  "subtema": "Circunstancia de debilidad económica manifiesta",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2001/T-1002-01.htm",
+  "fecha_descarga": "2026-10-23T01:49:31.961831+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2001-09-20",
+  "fecha_publicacion": null,
+  "numero": "T-1002/01",
+  "tipo_cc": "T",
+  "prov_id": "19740",
+  "tema_relatoria": "DERECHOS A LA VIDA IGUALDAD TRABAJO SEGURIDAD SOCIAL Y MINIMO VITAL DE DOCENTE. SOLICITUD PAGO LICENCIA DE MATERNIDAD. PROTECCION ESPECIAL A LA MUJER EMBARAZADA. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "MUJER TRABAJADORA EMBARAZADA",
+      "subtema": "Circunstancia de debilidad económica manifiesta"
+    },
+    {
+      "tema": "MUJER EMBARAZADA",
+      "subtema": "Especial asistencia y protección del Estado"
+    },
+    {
+      "tema": "LICENCIA DE MATERNIDAD",
+      "subtema": "Pago por tutela cuando afecta el mínimo vital de la madre y su hijo"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "radicado": "T-325-01",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2001,
+  "fecha_creacion": "2001-03-23",
+  "magistrado_ponente": "Dr JAIME ARAUJO RENTERIA",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "PRINCIPIO DE CONGRUENCIA DE LAS SENTENCIAS",
+  "subtema": "Inobservancia",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 196 de 1995",
+    "Decreto 2591 de 1991",
+    "Decreto 306 de 1992"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2001/T-325-01.htm",
+  "fecha_descarga": "2026-10-23T02:01:51.747509+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2001-03-23",
+  "fecha_publicacion": null,
+  "numero": "T-325/01",
+  "tipo_cc": "T",
+  "prov_id": "18891",
+  "tema_relatoria": "DERECHO DE PETICION. SOLICITUD CERTIFICACION VALOR ADEUDADO POR SERVICIOS PRESTADOS. RESPUESTA OPORTUNA Y DE FONDO. PRINCIPIO DE CONGRUENCIA O CONSONANCIA DEL FALLO. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "PRINCIPIO DE CONGRUENCIA DE LAS SENTENCIAS",
+      "subtema": "Inobservancia"
+    },
+    {
+      "tema": "DERECHO DE PETICIÓN",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "DERECHO DE PETICIÓN",
+      "subtema": "Resolución oportuna y de fondo"
+    }
+  ]
+}

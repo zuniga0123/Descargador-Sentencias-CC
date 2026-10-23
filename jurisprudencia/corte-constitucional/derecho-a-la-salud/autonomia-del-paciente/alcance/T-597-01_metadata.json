@@ -1,0 +1,67 @@
+{
+  "radicado": "T-597-01",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2001,
+  "fecha_creacion": "2001-06-07",
+  "magistrado_ponente": null,
+  "area": "Derecho a la Salud",
+  "tema": "AUTONOMIA DEL PACIENTE",
+  "subtema": "Alcance",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 100 de 1993",
+    "Ley 508 de 1999"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2001/T-597-01.htm",
+  "fecha_descarga": "2026-10-23T02:05:10.020278+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2001-06-07",
+  "fecha_publicacion": null,
+  "numero": "T-597/01",
+  "tipo_cc": "T",
+  "prov_id": "19273",
+  "tema_relatoria": "DERECHO A LA VIDA SALUD INTEGRIDAD FISICA Y SEGURIDAD SOCIAL. PROTECCION A LA NIÑEZ. SOLICITUD DE TRANSPLANTE DE MEDULA EN EL EXTERIOR. EXCLUSIONES DEL PLAN OBLIGATORIO DE SALUD. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "AUTONOMIA DEL PACIENTE",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "PRINCIPIOS DE ETICA MEDICA",
+      "subtema": "Desarrollo jurisprudencial"
+    },
+    {
+      "tema": "DERECHO A LA SALUD DE NIÑOS, NIÑAS Y ADOLESCENTES",
+      "subtema": "Eficacia de procedimientos médicos no le corresponde al juez establecerla"
+    },
+    {
+      "tema": "DERECHO A LA SALUD DE NIÑOS, NIÑAS Y ADOLESCENTES",
+      "subtema": "Falta de reglamentación del copago en casos de atención médica en el exterior"
+    },
+    {
+      "tema": "PRINCIPIO DE JUSTICIA APLICABLE A LA ETICA MEDICA",
+      "subtema": null
+    },
+    {
+      "tema": "CONSENTIMIENTO INFORMADO DEL PACIENTE",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "PRINCIPIO DE UTILIDAD DE LOS PROCEDIMIENTOS MEDICOS EXPERIMENTALES Y CONSENTIMIENTO INFORMADO DEL PACIENTE",
+      "subtema": null
+    },
+    {
+      "tema": "DERECHO A LA SALUD DE NIÑOS, NIÑAS Y ADOLESCENTES",
+      "subtema": "Orden de realizar Comité Médico Científico por parte de E.P.S"
+    },
+    {
+      "tema": "DERECHO A LA SALUD DE NIÑOS, NIÑAS Y ADOLESCENTES",
+      "subtema": "Transplante de médula ósea en el exterior"
+    }
+  ]
+}

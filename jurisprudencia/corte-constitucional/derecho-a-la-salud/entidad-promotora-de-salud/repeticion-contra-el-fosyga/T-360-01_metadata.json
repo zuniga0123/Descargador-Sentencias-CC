@@ -1,0 +1,46 @@
+{
+  "radicado": "T-360-01",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2001,
+  "fecha_creacion": "2001-04-02",
+  "magistrado_ponente": "Dr ALFREDO BELTRÁN SIERRA",
+  "area": "Derecho a la Salud",
+  "tema": "ENTIDAD PROMOTORA DE SALUD",
+  "subtema": "Repetición contra el FOSYGA",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 100 de 1993"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2001/T-360-01.htm",
+  "fecha_descarga": "2026-10-23T02:06:00.285776+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2001-04-02",
+  "fecha_publicacion": null,
+  "numero": "T-360/01",
+  "tipo_cc": "T",
+  "prov_id": "18957",
+  "tema_relatoria": "DERECHO A LA VIDA Y SALUD DE PERSONA DE LA TERCERA EDAD. PRESTACION DE SERVICIOS MEDICOS Y SUMINISTRO DE MEDICAMENTOS. MORA EN EL PAGO DE APORTES POR EMPLEADOR. LEVANTAMIENTO DE LA SUSPENSION DE AFILIACION. ACCION DE REPETICION. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ENTIDAD PROMOTORA DE SALUD",
+      "subtema": "Repetición contra el FOSYGA"
+    },
+    {
+      "tema": "ENTIDAD PROMOTORA DE SALUD",
+      "subtema": "Continuidad servicio de salud"
+    },
+    {
+      "tema": "EMPLEADOR",
+      "subtema": "Asunción de responsabilidad por no pago de aportes"
+    },
+    {
+      "tema": "DERECHO A LA SALUD DE PERSONA DE LA TERCERA EDAD",
+      "subtema": "Tratamiento de diabetes e hipertensión"
+    }
+  ]
+}

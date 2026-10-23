@@ -1,0 +1,41 @@
+{
+  "radicado": "T-195-01",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2001,
+  "fecha_creacion": "2001-02-20",
+  "magistrado_ponente": "Dr JOSÉ GREGORIO HERNÁNDEZ GALINDO",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCIÓN DE TUTELA",
+  "subtema": "Procedencia excepcional pago de mesadas pensionales",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2001/T-195-01.htm",
+  "fecha_descarga": "2026-10-23T01:58:14.784696+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2001-02-20",
+  "fecha_publicacion": null,
+  "numero": "T-195/01",
+  "tipo_cc": "T",
+  "prov_id": "18700",
+  "tema_relatoria": "DERECHOS AL TRABAJO SUBSISTENCIA Y MINIMO VITAL. PAGO DE ACREENCIAS LABORALES. MESADAS PENSIONALES. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Procedencia excepcional pago de mesadas pensionales"
+    },
+    {
+      "tema": "DERECHO AL MINIMO VITAL DEL PENSIONADO",
+      "subtema": "Pago oportuno de mesadas"
+    },
+    {
+      "tema": "EMPLEADOR",
+      "subtema": "Situación económica o presupuestal no es óbice para desconocer pago de mesadas pensionales"
+    }
+  ]
+}

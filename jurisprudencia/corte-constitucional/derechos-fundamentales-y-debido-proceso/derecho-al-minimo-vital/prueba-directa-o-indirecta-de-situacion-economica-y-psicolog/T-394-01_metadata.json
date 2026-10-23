@@ -1,0 +1,54 @@
+{
+  "radicado": "T-394-01",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2001,
+  "fecha_creacion": "2001-04-17",
+  "magistrado_ponente": "Dr MARCO GERARDO MONROY CABRA",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "DERECHO AL MINIMO VITAL",
+  "subtema": "Prueba directa o indirecta de situación económica y psicológica",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 54 de 1992"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2001/T-394-01.htm",
+  "fecha_descarga": "2026-10-23T02:04:04.799078+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2001-04-17",
+  "fecha_publicacion": null,
+  "numero": "T-394/01",
+  "tipo_cc": "T",
+  "prov_id": "18996",
+  "tema_relatoria": "PAGO DE ACREENCIAS LABORALES. SOLICITUD PAGO DE SALARIOS ADEUDADOS. PROCEDENCIA DE LA TUTELA PARA EL PAGO DE SALARIO. DERECHO FUNDAMENTAL. PRUEBA DE LA SITUACION CRITICA ECONOMICA Y PSICOLOGICA Y VALORACION DEL PERJUICIO IRREMEDIABLE. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO AL MINIMO VITAL",
+      "subtema": "Prueba directa o indirecta de situación económica y psicológica"
+    },
+    {
+      "tema": "DERECHO AL MINIMO VITAL DEL TRABAJADOR",
+      "subtema": "Pago oportuno de salarios"
+    },
+    {
+      "tema": "DERECHO AL PAGO OPORTUNO DEL SALARIO",
+      "subtema": "Fundamental"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Inexistencia de perjuicio irremediable"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Procedencia excepcional pago de salarios"
+    },
+    {
+      "tema": "SALARIO",
+      "subtema": "Sumas que deben integrarse para efectos del significado y pago oportuno"
+    }
+  ]
+}

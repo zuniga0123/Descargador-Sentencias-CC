@@ -1,0 +1,50 @@
+{
+  "radicado": "T-066-01",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2001,
+  "fecha_creacion": "2001-01-25",
+  "magistrado_ponente": "Dr ALEJANDRO MARTINEZ CABALLERO",
+  "area": "Derecho Administrativo y Función Pública",
+  "tema": "CARRERA ADMINISTRATIVA Y JUDICIAL",
+  "subtema": "Mérito como elemento esencial",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 270 de 1996"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2001/T-066-01.htm",
+  "fecha_descarga": "2026-10-23T01:48:52.280792+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2001-01-25",
+  "fecha_publicacion": null,
+  "numero": "T-066/01",
+  "tipo_cc": "T",
+  "prov_id": "18533",
+  "tema_relatoria": "DERECHO A OCUPAR UN CARGO DETERMINADO EN LA RAMA JUDICIAL. PROVISION DE EMPLEOS PUBLICOS. INCLUSION EN LISTA DE ELEGIBLES PARA SECRETARIO A PERSONAS QUE OCUPARON EL PRIMER LUGAR EN CONCURSO. CONCEDIDA PARCIALMENTE.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "CARRERA ADMINISTRATIVA Y JUDICIAL",
+      "subtema": "Mérito como elemento esencial"
+    },
+    {
+      "tema": "CARRERA JUDICIAL",
+      "subtema": "Nombramiento atendiendo lista de elegibles y en estricto orden de resultados"
+    },
+    {
+      "tema": "CARRERA JUDICIAL",
+      "subtema": "Razonabilidad en opción de cargos"
+    },
+    {
+      "tema": "CARRERA JUDICIAL",
+      "subtema": "Opción de cargos cuando existe pluralidad de plazas"
+    },
+    {
+      "tema": "FUNCIÓN PÚBLICA",
+      "subtema": "Eficacia y eficiencia"
+    }
+  ]
+}

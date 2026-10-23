@@ -1,0 +1,49 @@
+{
+  "radicado": "T-626-01",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2001,
+  "fecha_creacion": "2001-06-14",
+  "magistrado_ponente": "Dra CLARA INES VARGAS HERNANDEZ",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "DERECHO AL MINIMO VITAL",
+  "subtema": "Cese prolongado de pago de salarios hace presumir vulneración",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2001/T-626-01.htm",
+  "fecha_descarga": "2026-10-23T02:07:52.249541+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2001-06-14",
+  "fecha_publicacion": null,
+  "numero": "T-626/01",
+  "tipo_cc": "T",
+  "prov_id": "19314",
+  "tema_relatoria": "DERECHO A LA PENSION PAGO OPORTUNO DE MESADAS PENSIONALES Y MINIMO VITAL. EL ACCIONANTE NO ES RESPONSABLE DE LA CRISIS FINANCIERA O ECONOMICA ACTUAL POR LA QUE ATRAVIESA EL MUNICIPIO. PROCEDENCIA EXCEPCIONAL DE LA TUTELA EN CASOS DE INDEFENSION. CONCEDIDA",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO AL MINIMO VITAL",
+      "subtema": "Cese prolongado de pago de salarios hace presumir vulneración"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Procedencia excepcional pago de mesadas pensionales"
+    },
+    {
+      "tema": "DERECHO AL TRABAJO EN CONDICIONES DIGNAS Y JUSTAS",
+      "subtema": "Pago oportuno de salarios"
+    },
+    {
+      "tema": "DERECHO AL MINIMO VITAL DEL PENSIONADO",
+      "subtema": "Pago oportuno de mesadas"
+    },
+    {
+      "tema": "EMPLEADOR",
+      "subtema": "Situación económica o presupuestal no es óbice para desconocer pago de salarios"
+    }
+  ]
+}

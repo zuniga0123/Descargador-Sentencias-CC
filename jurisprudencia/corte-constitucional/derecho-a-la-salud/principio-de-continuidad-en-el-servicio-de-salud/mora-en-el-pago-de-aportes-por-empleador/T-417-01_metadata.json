@@ -1,0 +1,46 @@
+{
+  "radicado": "T-417-01",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2001,
+  "fecha_creacion": "2001-04-26",
+  "magistrado_ponente": "Dr MARCO GERARDO MONROY CABRA",
+  "area": "Derecho a la Salud",
+  "tema": "PRINCIPIO DE CONTINUIDAD EN EL SERVICIO DE SALUD",
+  "subtema": "Mora en el pago de aportes por empleador",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Ley 383 de 1997"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2001/T-417-01.htm",
+  "fecha_descarga": "2026-10-23T02:04:33.819513+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2001-04-26",
+  "fecha_publicacion": null,
+  "numero": "T-417/01",
+  "tipo_cc": "T",
+  "prov_id": "19045",
+  "tema_relatoria": "DERECHO A LA SALUD Y A LA VIDA. NEGATIVA DE ATENCION EN SALUD POR MORA PATRONAL EN APORTES. PRINCIPIO DE CONTINUIDAD EN EL SERVICIO PUBLICO DE SALUD. BUENA FE. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "PRINCIPIO DE CONTINUIDAD EN EL SERVICIO DE SALUD",
+      "subtema": "Mora en el pago de aportes por empleador"
+    },
+    {
+      "tema": "TRABAJADOR ASALARIADO",
+      "subtema": "Suspensión de afiliación resulta desproporcionada para el trabajador debido al no pago de aportes en salud por empleador, según sentencia C-177/98"
+    },
+    {
+      "tema": "ENTIDAD PROMOTORA DE SALUD",
+      "subtema": "Repetición contra el empleador o el Fosyga"
+    },
+    {
+      "tema": "EMPLEADOR",
+      "subtema": "Asunción de responsabilidad por no pago de aportes en salud"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "radicado": "T-111-01",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2001,
+  "fecha_creacion": "2001-01-31",
+  "magistrado_ponente": "Dra MARTHA VICTORIA SÁCHICA MÉNDEZ",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "BONO PENSIONAL",
+  "subtema": "Procedencia de tutela para reclamar la remisión",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 1748 de 1995",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2001/T-111-01.htm",
+  "fecha_descarga": "2026-10-23T01:50:12.197901+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2001-01-31",
+  "fecha_publicacion": null,
+  "numero": "T-111/01",
+  "tipo_cc": "T",
+  "prov_id": "18582",
+  "tema_relatoria": "DERECHO A LA PENSION DE JUBILACION. ISS. SOLICITUD LIQUIDACION Y EMISION DEL BONO PENSIONAL. CARENCIA ACTUAL DE OBJETO. HECHO SUPERADO. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "BONO PENSIONAL",
+      "subtema": "Procedencia de tutela para reclamar la remisión"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Carencia actual de objeto"
+    }
+  ]
+}

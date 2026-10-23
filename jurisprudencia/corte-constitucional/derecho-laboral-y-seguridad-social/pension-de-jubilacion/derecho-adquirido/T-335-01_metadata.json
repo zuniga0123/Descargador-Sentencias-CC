@@ -1,0 +1,50 @@
+{
+  "radicado": "T-335-01",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2001,
+  "fecha_creacion": "2001-03-29",
+  "magistrado_ponente": "Dr JAIME CÓRDOBA TRIVIÑO",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "PENSION DE JUBILACION",
+  "subtema": "Derecho adquirido",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 60 de 1993"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2001/T-335-01.htm",
+  "fecha_descarga": "2026-10-23T02:02:02.569433+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2001-03-29",
+  "fecha_publicacion": null,
+  "numero": "T-335/01",
+  "tipo_cc": "T",
+  "prov_id": "18914",
+  "tema_relatoria": "DERECHO A LA SEGURIDAD SOCIAL Y MINIMO VITAL. PAGO DE ACREENCIAS LABORALES. MESADAS PENSIONALES. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "PENSION DE JUBILACION",
+      "subtema": "Derecho adquirido"
+    },
+    {
+      "tema": "DERECHO AL MINIMO VITAL DE PERSONA DE LA TERCERA EDAD",
+      "subtema": "Pago oportuno de mesadas pensionales"
+    },
+    {
+      "tema": "DERECHO AL MINIMO VITAL DEL PENSIONADO",
+      "subtema": "Pago oportuno de mesadas"
+    },
+    {
+      "tema": "EMPLEADOR",
+      "subtema": "Previsión económica para pago oportuno de pensiones"
+    },
+    {
+      "tema": "DERECHOS DE PERSONA DE LA TERCERA EDAD",
+      "subtema": "Créditos laborales privilegiados"
+    }
+  ]
+}

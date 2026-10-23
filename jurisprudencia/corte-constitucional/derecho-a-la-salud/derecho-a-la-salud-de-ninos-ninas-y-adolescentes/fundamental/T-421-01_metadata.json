@@ -1,0 +1,59 @@
+{
+  "radicado": "T-421-01",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2001,
+  "fecha_creacion": "2001-04-26",
+  "magistrado_ponente": "Dr ALVARO TAFUR GALVIS",
+  "area": "Derecho a la Salud",
+  "tema": "DERECHO A LA SALUD DE NIÑOS, NIÑAS Y ADOLESCENTES",
+  "subtema": "Fundamental",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 806 de 1998",
+    "Ley 100 de 1993",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2001/T-421-01.htm",
+  "fecha_descarga": "2026-10-23T02:04:44.787758+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2001-04-26",
+  "fecha_publicacion": null,
+  "numero": "T-421/01",
+  "tipo_cc": "T",
+  "prov_id": "19049",
+  "tema_relatoria": "DERECHO A LA SALUD Y A LA VIDA. NEGATIVA DE LA ACCIONADA A ENTREGAR MEDICAMENTO A BENEFICIARIA ADUCIENDO ESTAR EXCLUIDO DEL POS. DERECHO FUNDAMENTAL DE LOS NIÑOS A LA SALUD. MEDICAMENTOS EXCLUIDOS DEL POS. Y REQUISITOS PARA ORDENARLOS POR VIA DE TUTELA. N",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA SALUD DE NIÑOS, NIÑAS Y ADOLESCENTES",
+      "subtema": "Fundamental"
+    },
+    {
+      "tema": "INAPLICACION DE NORMAS DEL PLAN OBLIGATORIO DE SALUD",
+      "subtema": "Casos en que procede por exclusión de tratamientos y medicamentos de alto costo"
+    },
+    {
+      "tema": "CARGA DE LA PRUEBA",
+      "subtema": "Demostración de los padres de no estar en capacidad económica para suministrar medicamento"
+    },
+    {
+      "tema": "DERECHO A LA SALUD DE NIÑOS, NIÑAS Y ADOLESCENTES",
+      "subtema": "Suministro de hormonas de crecimiento"
+    },
+    {
+      "tema": "PLAN OBLIGATORIO DE SALUD",
+      "subtema": "Capacidad económica del usuario respecto de servicios no cubiertos"
+    },
+    {
+      "tema": "SISTEMA GENERAL DE SEGURIDAD SOCIAL EN SALUD",
+      "subtema": "Régimen contributivo y subsidiado"
+    },
+    {
+      "tema": "SISTEMA GENERAL DE SEGURIDAD SOCIAL EN SALUD",
+      "subtema": "Obligaciones"
+    }
+  ]
+}

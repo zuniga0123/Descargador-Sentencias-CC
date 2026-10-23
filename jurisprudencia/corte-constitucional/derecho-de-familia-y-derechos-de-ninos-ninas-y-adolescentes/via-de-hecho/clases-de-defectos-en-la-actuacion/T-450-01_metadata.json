@@ -1,0 +1,48 @@
+{
+  "radicado": "T-450-01",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2001,
+  "fecha_creacion": "2001-05-04",
+  "magistrado_ponente": "Dr MANUEL JOSE CEPEDA ESPINOSA",
+  "area": "Derecho de Familia y Derechos de Niños, Niñas y Adolescentes",
+  "tema": "VIA DE HECHO",
+  "subtema": "Clases de defectos en la actuación",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto Ley 2282 de 1989",
+    "Decreto 2591 de 1991",
+    "Decreto 2737 de 1989",
+    "Decreto 2158 de 1948"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2001/T-450-01.htm",
+  "fecha_descarga": "2026-10-23T02:03:00.112598+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2001-05-04",
+  "fecha_publicacion": null,
+  "numero": "T-450/01",
+  "tipo_cc": "T",
+  "prov_id": "19092",
+  "tema_relatoria": "DEBIDO PROCESO. INCREMENTO DE LA CUANTIA ALIMENTARIA POR ENCIMA DE LO PEDIDO. VIA DE HECHO POR VIOLACION AL PRINCIPIO DE CONGRUENCIA. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "VIA DE HECHO",
+      "subtema": "Clases de defectos en la actuación"
+    },
+    {
+      "tema": "VIA DE HECHO Y PRINCIPIO DE CONGRUENCIA",
+      "subtema": "Vulneración"
+    },
+    {
+      "tema": "PROCESO DE ALIMENTOS",
+      "subtema": "Aumento de la cuota alimentaria más allá de lo pedido"
+    },
+    {
+      "tema": "PROCESO DE ALIMENTOS",
+      "subtema": "Aumento de la cuota alimentaria más allá de lo pedido si existen las condiciones fácticas para ello"
+    }
+  ]
+}

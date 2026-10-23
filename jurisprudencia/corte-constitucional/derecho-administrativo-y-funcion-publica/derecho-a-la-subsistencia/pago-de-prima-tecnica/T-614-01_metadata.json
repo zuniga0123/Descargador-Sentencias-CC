@@ -1,0 +1,42 @@
+{
+  "radicado": "T-614-01",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2001,
+  "fecha_creacion": "2001-06-11",
+  "magistrado_ponente": "Rodrigo Escobar Gil",
+  "area": "Derecho Administrativo y Función Pública",
+  "tema": "DERECHO A LA SUBSISTENCIA",
+  "subtema": "Pago de prima técnica",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Decreto 1724 de 1997"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2001/T-614-01.htm",
+  "fecha_descarga": "2026-10-23T02:07:44.945338+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2001-06-11",
+  "fecha_publicacion": null,
+  "numero": "T-614/01",
+  "tipo_cc": "T",
+  "prov_id": "19296",
+  "tema_relatoria": "DERECHO AL MINIMO VITAL Y SALARIO. SOLICITUD DE CANCELACION DE PRIMA TECNICA. EL ACTO ADMINISTRATIVO DE CARÁCTER PARTICULAR NO PUEDE SER DESCONOCIDO POR AUTORIDAD PUBLICA. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA SUBSISTENCIA",
+      "subtema": "Pago de prima técnica"
+    },
+    {
+      "tema": "ACTO ADMINISTRATIVO PARTICULAR Y CONCRETO",
+      "subtema": "No puede ser desconocido unilateralmente por la autoridad pública"
+    },
+    {
+      "tema": "DERECHO AL MINIMO VITAL DEL TRABAJADOR",
+      "subtema": "Pago oportuno de salarios"
+    }
+  ]
+}

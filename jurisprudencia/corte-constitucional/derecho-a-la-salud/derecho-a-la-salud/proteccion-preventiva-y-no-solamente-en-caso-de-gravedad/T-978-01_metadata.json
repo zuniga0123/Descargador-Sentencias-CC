@@ -1,0 +1,57 @@
+{
+  "radicado": "T-978-01",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2001,
+  "fecha_creacion": "2001-09-13",
+  "magistrado_ponente": "Dr JAIME CÓRDOBA TRIVIÑO",
+  "area": "Derecho a la Salud",
+  "tema": "DERECHO A LA SALUD",
+  "subtema": "Protección preventiva y no solamente en caso de gravedad",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2001/T-978-01.htm",
+  "fecha_descarga": "2026-10-23T02:12:21.060870+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2001-09-13",
+  "fecha_publicacion": null,
+  "numero": "T-978/01",
+  "tipo_cc": "T",
+  "prov_id": "19714",
+  "tema_relatoria": "DERECHOS A LA SALUD VIDA E INTEGRIDAD FISICA DE BENEFICIARIA DEL REGIMEN SUBSIDIADO DE SALUD. PRACTICA DE DOS EXAMENES (TSH Y ESOFAGO) NO INCLUIDOS EN EL POS. ACCION DE REPETICION. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Protección preventiva y no solamente en caso de gravedad"
+    },
+    {
+      "tema": "REGIMEN SUBSIDIADO DE SALUD",
+      "subtema": "Práctica de exámenes médicos y repetición contra el FOSYGA"
+    },
+    {
+      "tema": "DERECHO A LA SEGURIDAD SOCIAL",
+      "subtema": "Fundamental por conexidad"
+    },
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Fundamental por conexidad"
+    },
+    {
+      "tema": "REGIMEN SUBSIDIADO DE SALUD",
+      "subtema": "Condiciones"
+    },
+    {
+      "tema": "REGIMEN SUBSIDIADO DE SALUD",
+      "subtema": "Objeto"
+    },
+    {
+      "tema": "SERVICIO PUBLICO DE SALUD",
+      "subtema": "Continuidad y eficacia"
+    }
+  ]
+}

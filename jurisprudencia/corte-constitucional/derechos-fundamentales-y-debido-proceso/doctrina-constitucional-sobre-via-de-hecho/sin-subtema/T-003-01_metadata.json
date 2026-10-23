@@ -1,0 +1,53 @@
+{
+  "radicado": "T-003-01",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2001,
+  "fecha_creacion": "2001-01-12",
+  "magistrado_ponente": "Dr EDUARDO MONTEALEGRE LYNETT",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "DOCTRINA CONSTITUCIONAL SOBRE VIA DE HECHO",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2001/T-003-01.htm",
+  "fecha_descarga": "2026-10-23T01:47:36.505329+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2001-01-12",
+  "fecha_publicacion": null,
+  "numero": "T-003/01",
+  "tipo_cc": "T",
+  "prov_id": "18444",
+  "tema_relatoria": "DERECHO A LA DEFENSA Y DEBIDO PROCESO. SOLICITUD NULIDAD DE TODO LO ACTUADO. VIA DE HECHO EN RESOLUCION DE LA SITUACION JURIDICA. NECESIDAD Y TRASCENDECIA DE LA NOTIFICACION DE PROVIDENCIAS JUDICIALES. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DOCTRINA CONSTITUCIONAL SOBRE VIA DE HECHO",
+      "subtema": null
+    },
+    {
+      "tema": "PROCESO PENAL",
+      "subtema": "Información cambio de residencia del demandante"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Procedencia excepcional"
+    },
+    {
+      "tema": "NOTIFICACION EN PROCESO PENAL",
+      "subtema": "Medios"
+    },
+    {
+      "tema": "DEBIDO PROCESO Y DERECHO DE DEFENSA",
+      "subtema": "Notificación de providencias judiciales"
+    },
+    {
+      "tema": "VIA DE HECHO",
+      "subtema": "Clases de defectos en la actuación"
+    }
+  ]
+}
