@@ -1,0 +1,50 @@
+{
+  "radicado": "T-750-02",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2002,
+  "fecha_creacion": "2002-09-13",
+  "magistrado_ponente": "Dr MANUEL JOSE CEPEDA ESPINOSA",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "SENTENCIA",
+  "subtema": "Modulación de los efectos",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 550 de 1999",
+    "Decreto 1260 de 2000",
+    "Decreto 2591 de 1991",
+    "Decreto 2260 de 2000",
+    "Ley 222 de 1995",
+    "Decreto 1382 de 2000"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2002/T-750-02.htm",
+  "fecha_descarga": "2026-10-23T00:06:05.255872+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2002-09-13",
+  "fecha_publicacion": "2002-10-04",
+  "numero": "T-750/02",
+  "tipo_cc": "T",
+  "prov_id": "21131",
+  "tema_relatoria": "DERECHOS A LA SEGURIDAD SOCIAL VIDA SALUD Y MINIMO VITAL DE PERSONA DE LA TERCERA EDAD. PAGO DE CREENCIAS LABORALES. MESADAS PENSIONALES. MORA PAGO APORTES EN SALUD POR EMPLEADOR. REESTRUCTURACION ADMINISTRATIVA. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "SENTENCIA",
+      "subtema": "Modulación de los efectos"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Procedencia excepcional pago de acreencias laborales"
+    },
+    {
+      "tema": "DERECHO A LA PENSION DE JUBILACION",
+      "subtema": "Trámite administrativo o presupuestal no impide pago oportuno de mesadas"
+    },
+    {
+      "tema": "PENSION DE JUBILACION",
+      "subtema": "Pago en proceso concordatario"
+    }
+  ]
+}

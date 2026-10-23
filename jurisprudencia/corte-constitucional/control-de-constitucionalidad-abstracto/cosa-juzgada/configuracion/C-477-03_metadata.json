@@ -1,0 +1,62 @@
+{
+  "radicado": "C-477-03",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2003,
+  "fecha_creacion": "2003-06-10",
+  "magistrado_ponente": "Dra CLARA INÉS VARGAS HERNÁNDEZ",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "COSA JUZGADA",
+  "subtema": "Configuración",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 769 de 2002",
+    "Decreto 2067 de 1991",
+    "Ley 136 de 1994",
+    "Ley 489 de 1998",
+    "Ley 679 de 2002",
+    "Ley 270 de 1996"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2003/C-477-03.htm",
+  "fecha_descarga": "2026-10-23T00:01:25.619184+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2003-06-10",
+  "fecha_publicacion": null,
+  "numero": "C-477/03",
+  "tipo_cc": "C",
+  "prov_id": "22208",
+  "tema_relatoria": "LEY 769 DE 2002. ARTS. 10 11 Y 160 (PS.). CODIGO NACIONAL DE TRANSITO TERRESTRE. REGISTROS DE INFORMACION. RECAUDO Y DESTINACION DE MULTAS Y SANCIONES POR INFRACCIONES DE TRANSITO. EXCLUSION DE LA FEDERACION COLOMBIANA DE MUNICIPIOS. ADMINISTRACION DEL SI",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "COSA JUZGADA",
+      "subtema": "Configuración"
+    },
+    {
+      "tema": "COSA JUZGADA ABSOLUTA",
+      "subtema": "Existencia"
+    },
+    {
+      "tema": "CORTE CONSTITUCIONAL",
+      "subtema": "Presunción de control integral"
+    },
+    {
+      "tema": "COSA JUZGADA CONSTITUCIONAL",
+      "subtema": "Configuración"
+    },
+    {
+      "tema": "MULTAS Y SANCIONES DE TRANSITO",
+      "subtema": "Porcentaje destinado a Federación Nacional de Municipios es exequible"
+    },
+    {
+      "tema": "CORTE CONSTITUCIONAL",
+      "subtema": "Facultad de determinar el efecto de sus decisiones"
+    },
+    {
+      "tema": "SENTENCIA DE LA CORTE CONSTITUCIONAL",
+      "subtema": "Carácter definitivo, incontrovertible e inmutable"
+    }
+  ]
+}

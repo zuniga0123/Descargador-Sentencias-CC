@@ -1,0 +1,56 @@
+{
+  "radicado": "C-162-03",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2003,
+  "fecha_creacion": "2003-02-25",
+  "magistrado_ponente": "Dr JAIME CÓRDOBA TRIVIÑO",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "ADMINISTRACION DE JUSTICIA",
+  "subtema": "Interpretación restrictiva de ella como objeto de regulación a través de ley estatutaria",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 678 de 2001",
+    "Decreto 2067 de 1991",
+    "Ley 270 de 1996",
+    "Ley 522 de 1999"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2003/C-162-03.htm",
+  "fecha_descarga": "2026-10-23T00:04:27.434278+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2003-02-25",
+  "fecha_publicacion": null,
+  "numero": "C-162/03",
+  "tipo_cc": "C",
+  "prov_id": "21817",
+  "tema_relatoria": "ACCION DE REPETICION. NO REQUIERE DE LEY ESTATUTARIA AL HACER EXTENSIVA LA FIGURA A LA ADMINISTRACIÓN DE JUSTICIA Y A LA JUSTICIA PENAL MILITAR",
+  "resumen": "LEY 678 DE 2001. ART. 2 PARAG. 3. RESPONSABILIDAD PATRIMONIAL DE LOS AGENTES DEL ESTADO. ACCION DE REPETICION CONTRA FUNCIONARIOS DE LA RAMA JUDICIAL Y JUSTICIA PENAL MILITAR. LLAMAMIENTO EN GARANTIA. LEY ESTATUTARIA DE ADMINISTRACION DE JUSTICIA. INICIATIVA",
+  "titulaciones": [
+    {
+      "tema": "ADMINISTRACION DE JUSTICIA",
+      "subtema": "Interpretación restrictiva de ella como objeto de regulación a través de ley estatutaria"
+    },
+    {
+      "tema": "ACCION DE REPETICION",
+      "subtema": "No requiere de ley estatutaria al hacer extensiva la figura a la Administración de Justicia y a la Justicia Penal Militar"
+    },
+    {
+      "tema": "PROCEDIMIENTO LEGISLATIVO ESPECIAL",
+      "subtema": "Ambito"
+    },
+    {
+      "tema": "LEY ESTATUTARIA",
+      "subtema": "Se ocupa de la estructura general y de los principios de las materias que regula pero no del desarrollo integral y detallado de cada una de ellas"
+    },
+    {
+      "tema": "DERECHOS FUNDAMENTALES",
+      "subtema": "Desarrollo mediante ley estatutaria"
+    },
+    {
+      "tema": "LEY ESTATUTARIA",
+      "subtema": "Materias que regula y procedimiento legislativo"
+    }
+  ]
+}

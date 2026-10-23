@@ -1,0 +1,49 @@
+{
+  "radicado": "T-900-02",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2002,
+  "fecha_creacion": "2002-10-24",
+  "magistrado_ponente": "Dr ALFREDO BELTRÁN SIERRA",
+  "area": "Derecho a la Salud",
+  "tema": "DEBER DE SOLIDARIDAD SOCIAL",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2002/T-900-02.htm",
+  "fecha_descarga": "2026-10-23T00:06:01.619505+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2002-10-24",
+  "fecha_publicacion": "2002-10-06",
+  "numero": "T-900/02",
+  "tipo_cc": "T",
+  "prov_id": "21334",
+  "tema_relatoria": "DERECHOS A LA SALUD VIDA SEGURIDAD SOCIAL E IGUALDAD. OBLIGACION DE ASUMIR COSTOS POR DESPLAZAMIENTO DE PACIENTES DE SU RESIDENCIA A CENTROS MEDICOS CORRESPONDIENTES. COMPLEMENTACION SERVICIOS DEL POS. REGIMEN SUBSIDIADO. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DEBER DE SOLIDARIDAD SOCIAL",
+      "subtema": null
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Improcedencia cuando no se requiere previamente a la entidad prestadora de salud para la prestación del servicio"
+    },
+    {
+      "tema": "ENTIDAD PROMOTORA DE SALUD",
+      "subtema": "No vulnera derechos fundamentales al no autorizar gastos de transporte del paciente"
+    },
+    {
+      "tema": "DEBER DE SOLIDARIDAD SOCIAL DEL ESTADO",
+      "subtema": "Debe estar probada la falta de recursos económicos del paciente o sus familiares"
+    },
+    {
+      "tema": "DEBER DE SOLIDARIDAD SOCIAL CON LA FAMILIA",
+      "subtema": "Alcance"
+    }
+  ]
+}

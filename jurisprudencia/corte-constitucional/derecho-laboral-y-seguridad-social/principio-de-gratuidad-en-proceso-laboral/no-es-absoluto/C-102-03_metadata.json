@@ -1,0 +1,55 @@
+{
+  "radicado": "C-102-03",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2003,
+  "fecha_creacion": "2003-02-12",
+  "magistrado_ponente": "Dr ALFREDO BELTRÁN SIERRA",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "PRINCIPIO DE GRATUIDAD EN PROCESO LABORAL",
+  "subtema": "No es absoluto",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2067 de 1991",
+    "Ley 712 de 2001",
+    "Ley 270 de 1996",
+    "Decreto 2282 de 1989",
+    "Decreto 2591 de 1991",
+    "Decreto 2158 de 1948",
+    "Decreto 4133 de 1948"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2003/C-102-03.htm",
+  "fecha_descarga": "2026-10-22T23:51:05.826242+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2003-02-12",
+  "fecha_publicacion": null,
+  "numero": "C-102/03",
+  "tipo_cc": "C",
+  "prov_id": "21753",
+  "tema_relatoria": "AMPARO DE POBREZA EN PROCESO LABORAL. ASUNCIÓN DE CARGAS Y EXPENSAS",
+  "resumen": "LEY 712 DE 2001. ART. 29 (P.). REFORMA CODIGO PROCESAL DEL TRABAJO Y SEGURIDAD SOCIAL. PROCEDENCIA DEL RECURSO DE APELACION. PAGO DE COPIAS A CARGO DEL RECURRENTE DEL AUTO QUE CONCEDIO RECURSO INTERPUESTO. PRINCIPIO DE GRATUIDAD EN PROCESO LABORAL.",
+  "titulaciones": [
+    {
+      "tema": "PRINCIPIO DE GRATUIDAD EN PROCESO LABORAL",
+      "subtema": "No es absoluto"
+    },
+    {
+      "tema": "AMPARO DE POBREZA EN PROCESO LABORAL",
+      "subtema": "Asunción de cargas y expensas"
+    },
+    {
+      "tema": "EXPENSA JUDICIAL",
+      "subtema": "Determinación legislativa de cobro"
+    },
+    {
+      "tema": "INHIBICION DE LA CORTE CONSTITUCIONAL",
+      "subtema": "Ineptitud sustantiva de la demanda"
+    },
+    {
+      "tema": "RECURSO DE APELACION EN PROCESO LABORAL",
+      "subtema": "Pago del valor de las copias"
+    }
+  ]
+}

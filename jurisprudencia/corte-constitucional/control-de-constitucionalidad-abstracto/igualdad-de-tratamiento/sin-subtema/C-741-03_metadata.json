@@ -1,0 +1,417 @@
+{
+  "radicado": "C-741-03",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2003,
+  "fecha_creacion": "2003-08-28",
+  "magistrado_ponente": null,
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "IGUALDAD DE TRATAMIENTO",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 142 de 1994",
+    "Decreto 421 de 2000",
+    "Ley 286 de 1996",
+    "Decreto 2067 de 1991",
+    "Ley 689 de 2001",
+    "Ley 143 de 1994",
+    "Ley 715 de 2001",
+    "Ley 388 de 1997",
+    "Ley 136 de 1994"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2003/C-741-03.htm",
+  "fecha_descarga": "2026-10-22T23:58:18.359558+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2003-08-28",
+  "fecha_publicacion": null,
+  "numero": "C-741/03",
+  "tipo_cc": "C",
+  "prov_id": "22530",
+  "tema_relatoria": "LEY 142 DE 1994. ARTS. 15 Y 17 (PS.). SERVICIOS PUBLICOS DOMICILIARIOS. PRESTACION POR PERSONAS JURIDICAS PRIVADAS. DETERMINACION DE ZONA O AREA DONDE SE PRESTAN. SOCIEDADES POR ACCIONES Y SOLIDARIAS. PARTICIPACION DE ORGANIZACIONES AUTORIZADAS. LIBERTAD",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "IGUALDAD DE TRATAMIENTO",
+      "subtema": null
+    },
+    {
+      "tema": "CONSTITUCIONALIDAD EN NORMA ACUSADA",
+      "subtema": "Aplicación de intensidad del test"
+    },
+    {
+      "tema": "CONTROL DE CONSTITUCIONALIDAD",
+      "subtema": "Confrontación con normas inferiores"
+    },
+    {
+      "tema": "IGUALDAD",
+      "subtema": "Trato diferente de dos grupos de personas"
+    },
+    {
+      "tema": "INTERVENCION DEL ESTADO EN LA REGULACION DE LOS SERVICIOS PUBLICOS",
+      "subtema": "Elementos característicos"
+    },
+    {
+      "tema": "JUICIO DE IGUALDAD",
+      "subtema": "Análisis aplicable estricto"
+    },
+    {
+      "tema": "INTERVENCION DEL ESTADO EN SERVICIOS PUBLICOS",
+      "subtema": "Regulación de entrada al mercado"
+    },
+    {
+      "tema": "JUICIO DE IGUALDAD EN CONFIGURACION LEGISLATIVA",
+      "subtema": "Margen de apreciación del legislador"
+    },
+    {
+      "tema": "JUICIO DE IGUALDAD",
+      "subtema": "Criterio para determinación de intensidad"
+    },
+    {
+      "tema": "EMPRESAS DE SERVICIOS PUBLICOS DOMICILIARIOS",
+      "subtema": "Causales de disolución"
+    },
+    {
+      "tema": "IGUALDAD",
+      "subtema": "Medidas a favor de grupos discriminados o marginados"
+    },
+    {
+      "tema": "PRINCIPIO DE IGUALDAD",
+      "subtema": "Razonabilidad de la norma"
+    },
+    {
+      "tema": "PRINCIPIO DE IGUALDAD",
+      "subtema": "Modalidades de trato diferente"
+    },
+    {
+      "tema": "PRINCIPIO DE IGUALDAD",
+      "subtema": "Relevancia en determinado caso"
+    },
+    {
+      "tema": "NORMA ACUSADA",
+      "subtema": "Conducencia para ampliar cobertura en la prestación de servicios públicos por organizaciones autorizadas"
+    },
+    {
+      "tema": "LIBERTAD DE CONFIGURACIÓN LEGISLATIVA",
+      "subtema": "Delimitación zonas para prestación de servicios públicos domiciliarios"
+    },
+    {
+      "tema": "LIBERTAD DE EMPRESA EN SERVICIOS PUBLICOS DOMICILIARIOS",
+      "subtema": "No es absoluto"
+    },
+    {
+      "tema": "DERECHOS FUNDAMENTALES",
+      "subtema": "Utilización reglas de distribución de igualdad"
+    },
+    {
+      "tema": "EMPRESAS DE SERVICIOS PUBLICOS DOMICILIARIOS",
+      "subtema": "Conservación documentos para facilitar el control, inspección y vigilancia"
+    },
+    {
+      "tema": "EMPRESAS DE SERVICIOS PUBLICOS DOMICILIARIOS",
+      "subtema": "Denominación"
+    },
+    {
+      "tema": "EMPRESAS DE SERVICIOS PUBLICOS DOMICILIARIOS Y ORGANIZACIONES AUTORIZADAS",
+      "subtema": "Relación"
+    },
+    {
+      "tema": "IGUALDAD Y CAPACIDAD JURIDICA",
+      "subtema": "Límites"
+    },
+    {
+      "tema": "IGUALDAD",
+      "subtema": "Conceptos descriptivos"
+    },
+    {
+      "tema": "IGUALDAD",
+      "subtema": "Concepto relacional"
+    },
+    {
+      "tema": "IGUALDAD",
+      "subtema": "Criterio de comparación"
+    },
+    {
+      "tema": "IGUALDAD",
+      "subtema": "Test intermedio"
+    },
+    {
+      "tema": "INTERVENCION DEL ESTADO EN SERVICIOS PUBLICOS",
+      "subtema": "Fines sociales"
+    },
+    {
+      "tema": "JURISPRUDENCIA CONSTITUCIONAL",
+      "subtema": "Trato igual a los iguales y desigual a los desiguales"
+    },
+    {
+      "tema": "JUICIO DE IGUALDAD",
+      "subtema": "Aplicación rigurosa"
+    },
+    {
+      "tema": "PRESTACION DE SERVICIOS PUBLICOS DOMICILIARIOS",
+      "subtema": "Regulación legislativa"
+    },
+    {
+      "tema": "PRESTACION DE SERVICIOS PUBLICOS",
+      "subtema": "Actividad de las organizaciones autorizadas"
+    },
+    {
+      "tema": "POTESTAD DE CONFIGURACION LEGISLATIVA",
+      "subtema": "Determinación grado de amplitud"
+    },
+    {
+      "tema": "REGLAS DE DISTRIBUCION IGUALITARIAS E IGUALDAD DE TRATAMIENTO",
+      "subtema": "Diferencias"
+    },
+    {
+      "tema": "REGIMEN GENERAL DE SERVICIOS PUBLICOS DOMICILIARIOS",
+      "subtema": "Establecimiento por legislador"
+    },
+    {
+      "tema": "REGIMEN DE SERVICIOS PUBLICOS DOMICILIARIOS",
+      "subtema": "Igualdad de derechos, oportunidades y trato"
+    },
+    {
+      "tema": "TEST DE RAZONABILIDAD DEL CRITERIO DE IGUALACION",
+      "subtema": "Límites"
+    },
+    {
+      "tema": "TEST DE IGUALDAD",
+      "subtema": "Elementos"
+    },
+    {
+      "tema": "TEST DE IGUALDAD",
+      "subtema": "Método de análisis constitucional"
+    },
+    {
+      "tema": "SOCIEDAD POR ACCIONES",
+      "subtema": "Relación entre medio y fin"
+    },
+    {
+      "tema": "SERVICIOS PUBLICOS DOMICILIARIOS",
+      "subtema": "Desarrollo de fines sociales de la intervención del Estado en la prestación"
+    },
+    {
+      "tema": "SERVICIOS PÚBLICOS",
+      "subtema": "Participación usuarios y consumidores"
+    },
+    {
+      "tema": "TEST DE RAZONABILIDAD DEL CRITERIO DE IGUALACION",
+      "subtema": "Aplicación a todos los derechos fundamentales"
+    },
+    {
+      "tema": "TEST LEVE DE RAZONABILIDAD EN MATERIA ECONOMICA",
+      "subtema": "Trascendencia jurídico constitucional"
+    },
+    {
+      "tema": "REGIMEN ESPECIAL PARA EMPRESAS DE SERVICIOS PUBLICOS",
+      "subtema": "Prestación en municipios menores y zonas rurales"
+    },
+    {
+      "tema": "SERVICIOS PÚBLICOS",
+      "subtema": "Regulación"
+    },
+    {
+      "tema": "SERVICIOS PÚBLICOS",
+      "subtema": "Eficiencia, continuidad y universalidad de la cobertura"
+    },
+    {
+      "tema": "DELEGACION DE FUNCIONES PRESIDENCIALES A COMISIONES DE REGULACION DE SERVICIOS PUBLICOS",
+      "subtema": null
+    },
+    {
+      "tema": "CONTROL DE CONSTITUCIONALIDAD",
+      "subtema": "Aplicación test de razonabilidad del criterio de igualación"
+    },
+    {
+      "tema": "ESTADO SOCIAL DE DERECHO",
+      "subtema": "Igualdad formal y material"
+    },
+    {
+      "tema": "ESTADO SOCIAL DE DERECHO",
+      "subtema": "Trato desigual requiere justificación"
+    },
+    {
+      "tema": "EMPRESAS DE SERVICIOS PUBLICOS DOMICILIARIOS",
+      "subtema": "Ambito territorial de operación"
+    },
+    {
+      "tema": "EMPRESAS DE SERVICIOS PUBLICOS DOMICILIARIOS",
+      "subtema": "Reserva legal para sociedades por acciones"
+    },
+    {
+      "tema": "EMPRESAS DE SERVICIOS PUBLICOS",
+      "subtema": "Accionistas y capital"
+    },
+    {
+      "tema": "EMPRESAS DE SERVICIOS PUBLICOS",
+      "subtema": "Participación en gestión y fiscalización"
+    },
+    {
+      "tema": "PRESTACION DE SERVICIOS PUBLICOS DOMICILIARIOS",
+      "subtema": "Ambito territorial de participación"
+    },
+    {
+      "tema": "PRESTACION DE SERVICIOS PUBLICOS",
+      "subtema": "Restricción para quienes no están autorizados como sociedades por acciones"
+    },
+    {
+      "tema": "POTESTAD DE CONFIGURACION LEGISLATIVA EN SERVICIOS PUBLICOS",
+      "subtema": "Límites"
+    },
+    {
+      "tema": "ORGANIZACIONES AUTORIZADAS",
+      "subtema": "Límite ámbito territorial de participación"
+    },
+    {
+      "tema": "PARTICIPACION DEMOCRATICA EN SERVICIOS PUBLICOS",
+      "subtema": "Fundamento constitucional"
+    },
+    {
+      "tema": "PRINCIPIO DE RAZONABILIDAD",
+      "subtema": "Justificación de una distinción"
+    },
+    {
+      "tema": "PRINCIPIO DE RAZONABILIDAD",
+      "subtema": "Límite legislativo"
+    },
+    {
+      "tema": "PRINCIPIO DE SOLIDARIDAD EN SERVICIOS PUBLICOS",
+      "subtema": "Límites"
+    },
+    {
+      "tema": "PRINCIPIO DE RAZONABILIDAD",
+      "subtema": "Fuente de las lagunas axiológicas"
+    },
+    {
+      "tema": "REGULACION DE SERVICIOS PUBLICOS",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "REGIMEN DE PRESTACION DE SERVICIOS PUBLICOS",
+      "subtema": "Condiciones impuestas por legislador para competir"
+    },
+    {
+      "tema": "DERECHOS FUNDAMENTALES",
+      "subtema": "Exigencia de máxima realización posible o prohibición de protección deficiente"
+    },
+    {
+      "tema": "EMPRESAS DE SERVICIOS PUBLICOS DOMICILIARIOS",
+      "subtema": "Inscripción en la oficina de Registro de Instrumentos Públicos"
+    },
+    {
+      "tema": "EMPRESAS DE SERVICIOS PUBLICOS DOMICILIARIOS",
+      "subtema": "Definición por legislador como sociedades por acciones"
+    },
+    {
+      "tema": "EMPRESAS DE SERVICIOS PUBLICOS",
+      "subtema": "Integración de junta directiva"
+    },
+    {
+      "tema": "EMPRESAS MIXTAS",
+      "subtema": "Aporte estatal con usufructo de bienes vinculados a la prestación del servicio público"
+    },
+    {
+      "tema": "DERECHO A LA IGUALDAD",
+      "subtema": "Prestación de servicios públicos por personas jurídicas privadas"
+    },
+    {
+      "tema": "DERECHO A LA LIBRE CIRCULACION",
+      "subtema": "No es absoluto"
+    },
+    {
+      "tema": "CORTE CONSTITUCIONAL",
+      "subtema": "Guarda de la integridad y supremacía de la Constitución"
+    },
+    {
+      "tema": "GRUPOS DISCRIMINADOS O MARGINADOS",
+      "subtema": "Protección"
+    },
+    {
+      "tema": "IGUALDAD FORMAL O ANTE LA LEY",
+      "subtema": "Privilegios y discriminaciones"
+    },
+    {
+      "tema": "IGUALDAD",
+      "subtema": "Características personales"
+    },
+    {
+      "tema": "IGUALDAD",
+      "subtema": "Reglas de distribución"
+    },
+    {
+      "tema": "GRUPO MARGINADO",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "IGUALDAD DE OPORTUNIDADES",
+      "subtema": "Finalidad"
+    },
+    {
+      "tema": "INTENSIDAD DEL TEST DE CONSTITUCIONALIAD",
+      "subtema": "Clasificación de casos"
+    },
+    {
+      "tema": "JUICIO DE IGUALDAD EN POTESTAD DE CONFIGURACION LEGISLATIVA",
+      "subtema": "Niveles de intensidad"
+    },
+    {
+      "tema": "JUICIO DE IGUALDAD",
+      "subtema": "En materia de regulación de asuntos económicos es leve o flexible"
+    },
+    {
+      "tema": "ORGANIZACIONES AUTORIZADAS",
+      "subtema": "Participación de sectores marginados en la prestación de servicios públicos"
+    },
+    {
+      "tema": "PERSONA",
+      "subtema": "Racionalidad de la clasificación"
+    },
+    {
+      "tema": "PRESTACION DE SERVICIOS PUBLICOS DOMICILIARIOS",
+      "subtema": "Condiciones"
+    },
+    {
+      "tema": "POTESTAD DE CONFIGURACION LEGISLATIVA EN JUICIO DE IGUALDAD",
+      "subtema": "No tiene límites"
+    },
+    {
+      "tema": "POTESTAD DE CONFIGURACION LEGISLATIVA EN SERVICIOS PUBLICOS DOMICILIARIOS",
+      "subtema": "Deberes relevantes"
+    },
+    {
+      "tema": "PRESTACION DE SERVICIOS PUBLICOS DOMICILIARIOS",
+      "subtema": "Exclusión de las organizaciones autorizadas"
+    },
+    {
+      "tema": "PRESTACION DE SERVICIOS PUBLICOS",
+      "subtema": "Determinación del régimen jurídico"
+    },
+    {
+      "tema": "PRESTACION DE SERVICIOS PUBLICOS DOMICILIARIOS",
+      "subtema": "Tratamiento diferente para personas jurídicas distintas"
+    },
+    {
+      "tema": "PRESTACION DE SERVICIOS PUBLICOS",
+      "subtema": "Fines constitucionales"
+    },
+    {
+      "tema": "POTESTAD DE CONFIGURACION LEGISLATIVA EN SERVICIOS PUBLICOS Y PRIVADOS",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "SERVICIOS PUBLICOS DOMICILIARIOS",
+      "subtema": "Intervinientes en la prestación"
+    },
+    {
+      "tema": "REGIMEN DE ORGANIZACIONES AUTORIZADAS",
+      "subtema": "Participación en prestación de servicios públicos domiciliarios"
+    },
+    {
+      "tema": "PRINCIPIO DE IGUALDAD",
+      "subtema": "Trato diferente para alcanzar un fin legítimo"
+    }
+  ]
+}

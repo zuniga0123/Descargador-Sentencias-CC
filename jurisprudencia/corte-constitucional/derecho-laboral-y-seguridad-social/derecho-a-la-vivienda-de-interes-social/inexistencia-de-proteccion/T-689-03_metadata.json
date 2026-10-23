@@ -1,0 +1,53 @@
+{
+  "radicado": "T-689-03",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2003,
+  "fecha_creacion": "2003-08-08",
+  "magistrado_ponente": "Dra CLARA INÉS VARGAS HERNÁNDEZ",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "DERECHO A LA VIVIENDA DE INTERES SOCIAL",
+  "subtema": "Inexistencia de protección",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Decreto 2591 de 1991",
+    "Ley 715 de 2001",
+    "Decreto 2424 de 1996",
+    "Ley 10 de 1990"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2003/T-689-03.htm",
+  "fecha_descarga": "2026-10-22T23:42:21.822829+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2003-08-08",
+  "fecha_publicacion": null,
+  "numero": "T-689/03",
+  "tipo_cc": "T",
+  "prov_id": "22465",
+  "tema_relatoria": "DERECHOS A LA VIDA SALUD SEGURIDAD SOCIAL Y VIVIENDA. SOLICITUD RECONOCIMIENTO CALIDAD DE AFILIADO AL REGIMEN SUBSIDIADO. SISBEN. TRASLADO DE RESIDENCIA. CUMPLIMIENTO DE REQUISITOS. PARTICIPANTES VINCULADOS. LEY 715 DE 2001. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA VIVIENDA DE INTERES SOCIAL",
+      "subtema": "Inexistencia de protección"
+    },
+    {
+      "tema": "DERECHO A LA VIVIENDA DE INTERES SOCIAL",
+      "subtema": "No es susceptible de protección autónoma mediante tutela"
+    },
+    {
+      "tema": "DERECHO A LA VIDA",
+      "subtema": "Inexistencia de amenaza por haberse brindado la atención médica"
+    },
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Inexistencia de amenaza por haberse brindado la atención médica"
+    },
+    {
+      "tema": "REGIMEN SUBSIDIADO DE SEGURIDAD SOCIAL EN SALUD",
+      "subtema": "Procedimiento a seguir en caso de traslado de residencia a otro municipio"
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "radicado": "SU058-03",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2003,
+  "fecha_creacion": "2003-01-30",
+  "magistrado_ponente": "Dr EDUARDO MONTEALEGRE LYNETT",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "BLOQUE DE CONSTITUCIONALIDAD LATO SENSU",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 883 de 1997",
+    "Decreto 1481 de 1996",
+    "Decreto Ley 2591 de 1991",
+    "Decreto 2591 de 1991",
+    "Decreto 2282 de 1989",
+    "Ley 510 de 1999",
+    "Ley 446 de 1998",
+    "Ley 99 de 1993"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2003/SU058-03.htm",
+  "fecha_descarga": "2026-10-23T00:05:22.088240+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2003-01-30",
+  "fecha_publicacion": null,
+  "numero": "SU.058/03",
+  "tipo_cc": "SU",
+  "prov_id": "21671",
+  "tema_relatoria": "DERECHO AL DEBIDO PROCESO. VIA DE HECHO. CONTRATO ACUERDO DE OPERACIÓN CONJUNTA. EXISTENCIA DE PERMISO AMBIENTAL PARA EXPLOTACION Y NO EXPLORACION. LAUDO ARBITRAL. SENTENCIA DE HOMOLOGACION. TUTELA CONTRA PROVIDENCIAS JUDICIALES. FUERZA VINCULANTE. RATIO",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "BLOQUE DE CONSTITUCIONALIDAD LATO SENSU",
+      "subtema": null
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Protección derechos fundamentales"
+    },
+    {
+      "tema": "OBLIGACION CONTRACTUAL",
+      "subtema": "Defecto fáctico relacionado con su cumplimiento o incumplimiento"
+    },
+    {
+      "tema": "RATIO DECIDENDI",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "TRIBUNAL DE ARBITRAMENTO",
+      "subtema": "No incurrió en defecto fáctico"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Procedencia excepcional por vía de hecho"
+    },
+    {
+      "tema": "NORMA INTERNACIONAL",
+      "subtema": "Prevalencia"
+    },
+    {
+      "tema": "JUEZ DE TUTELA",
+      "subtema": "Alcance de su intervención frente a vías de hecho"
+    },
+    {
+      "tema": "SENTENCIA DEL CONSEJO DE ESTADO",
+      "subtema": "Incongruente por incurrir en error de técnica judicial"
+    },
+    {
+      "tema": "TRIBUNAL DE ARBITRAMENTO",
+      "subtema": "Interpretación del acuerdo de operación conjunta"
+    }
+  ]
+}

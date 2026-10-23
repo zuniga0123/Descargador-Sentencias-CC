@@ -1,0 +1,46 @@
+{
+  "radicado": "T-822-03",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2003,
+  "fecha_creacion": "2003-09-18",
+  "magistrado_ponente": "Dr MARCO GERARDO MONROY CABRA",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "DERECHO A LA INFORMACION Y DEBIDO PROCESO",
+  "subtema": "Vulneración por información insuficiente",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 145 de 2000",
+    "Ley 546 de 1999"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2003/T-822-03.htm",
+  "fecha_descarga": "2026-10-22T23:41:49.298132+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2003-09-18",
+  "fecha_publicacion": null,
+  "numero": "T-822/03",
+  "tipo_cc": "T",
+  "prov_id": "22620",
+  "tema_relatoria": "DERECHO AL DEBIDO PROCESO. RELIQUIDACION Y REDENOMINACION DE CREDITOS EN MONEDA LEGAL A UVR. MODIFICACION UNILATERAL A PRESTAMOS DE VIVIENDA DE INTERES SOCIAL. DEBER DE INFORMACION A DEUDORES. SITUACION DE INDEFENSION. POSICION DOMINANTE. APLICAR SENTENCI",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA INFORMACION Y DEBIDO PROCESO",
+      "subtema": "Vulneración por información insuficiente"
+    },
+    {
+      "tema": "DERECHO A LA INFORMACIÓN",
+      "subtema": "Redenominación de créditos hipotecarios"
+    },
+    {
+      "tema": "PRINCIPIO DE PUBLICIDAD",
+      "subtema": "Vulneración"
+    },
+    {
+      "tema": "FONDO NACIONAL DEL AHORRO",
+      "subtema": "Deber de informar a usuarios la redenominación de créditos hipotecarios"
+    }
+  ]
+}

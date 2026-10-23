@@ -1,0 +1,50 @@
+{
+  "radicado": "C-332-03",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2003,
+  "fecha_creacion": "2003-04-29",
+  "magistrado_ponente": "Dr MANUEL JOSE CEPEDA ESPINOSA",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "INHIBICION DE LA CORTE CONSTITUCIONAL",
+  "subtema": "Falta de certeza en los cargos",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2303 de 1989",
+    "Decreto 2067 de 1991",
+    "Ley 30 de 1987",
+    "Decreto 2700 de 1991",
+    "Decreto 624 de 1989",
+    "Ley 546 de 1999"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2003/C-332-03.htm",
+  "fecha_descarga": "2026-10-23T00:03:35.314439+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2003-04-29",
+  "fecha_publicacion": null,
+  "numero": "C-332/03",
+  "tipo_cc": "C",
+  "prov_id": "22033",
+  "tema_relatoria": "FALLO INHIBITORIO POR INEPTITUD DE DEMANDA DE INCONSTITUCIONALIDAD CONTRA NORMA DEL DECRETO 2303 DE 1989",
+  "resumen": "DECRETO 2303 DE 1989. ART. 55. DEMANDA EN PROCESOS DE JURISDICCION AGRARIA. NOTIFICACION POR AVISO. PROCEDIBILIDAD. CERTEZA DE CARGOS FORMULADOS. PRINCIPIO PRO ACTIONE. PREVALENCIA DEL DERECHO SUSTANCIAL. INHIBIDA.",
+  "titulaciones": [
+    {
+      "tema": "INHIBICION DE LA CORTE CONSTITUCIONAL",
+      "subtema": "Falta de certeza en los cargos"
+    },
+    {
+      "tema": "PRINCIPIO PRO ACTIONE EN DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "Deficiencias subsanadas"
+    },
+    {
+      "tema": "CONTROL DE CONSTITUCIONALIDAD",
+      "subtema": "Presupuesto básico"
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "Requisitos mínimos"
+    }
+  ]
+}

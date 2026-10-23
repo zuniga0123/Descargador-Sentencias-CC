@@ -1,0 +1,48 @@
+{
+  "radicado": "C-1096-03",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2003,
+  "fecha_creacion": "2003-11-19",
+  "magistrado_ponente": "Dr JAIME ARAÚJO RENTERÍA",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "CARGA DE LA PRUEBA",
+  "subtema": "Corresponde a la persona probar la licitud de sus actos y/o procedencia de sus bienes",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 333 de 1996",
+    "Decreto 1975 de 2002",
+    "Ley 793 de 2002",
+    "Ley 190 de 1995"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2003/C-1096-03.htm",
+  "fecha_descarga": "2026-10-22T23:59:18.036980+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2003-11-19",
+  "fecha_publicacion": null,
+  "numero": "C-1096/03",
+  "tipo_cc": "C",
+  "prov_id": "22936",
+  "tema_relatoria": "LEY 333 DE 1996. ARTS 8 14 15 Y 27. LEY 793 ARTS. 5 9 11 12 13 Y 17. EXTINCION DE DOMINIO.ESTARSE A LO RESUELTO EN C-740/03 .",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "CARGA DE LA PRUEBA",
+      "subtema": "Corresponde a la persona probar la licitud de sus actos y/o procedencia de sus bienes"
+    },
+    {
+      "tema": "COSA JUZGADA CONSTITUCIONAL",
+      "subtema": "No configuración"
+    },
+    {
+      "tema": "CONTROL DE CONSTITUCIONALIDAD",
+      "subtema": "Valoración de normas proferidas en un estado de excepción"
+    },
+    {
+      "tema": "COSA JUZGADA",
+      "subtema": "No opera en materia de juicios de constitucionalidad sobre decretos legislativos"
+    }
+  ]
+}

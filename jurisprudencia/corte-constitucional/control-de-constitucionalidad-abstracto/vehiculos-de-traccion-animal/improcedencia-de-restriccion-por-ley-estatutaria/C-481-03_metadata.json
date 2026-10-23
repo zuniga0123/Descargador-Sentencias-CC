@@ -1,0 +1,53 @@
+{
+  "radicado": "C-481-03",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2003,
+  "fecha_creacion": "2003-06-11",
+  "magistrado_ponente": "Dr ALFREDO BELTRÁN SIERRA",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "VEHICULOS DE TRACCION ANIMAL",
+  "subtema": "Improcedencia de restricción por ley estatutaria",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 769 de 2002",
+    "Decreto 2067 de 1991",
+    "Ley 136 de 1994",
+    "Ley 336 de 1996",
+    "Decreto 171 de 2001",
+    "Decreto 170 de 2001",
+    "Decreto 173 de 2002",
+    "Decreto 174 de 2001",
+    "Decreto 175 de 2001"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2003/C-481-03.htm",
+  "fecha_descarga": "2026-10-22T23:57:00.248192+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2003-06-11",
+  "fecha_publicacion": null,
+  "numero": "C-481/03",
+  "tipo_cc": "C",
+  "prov_id": "22216",
+  "tema_relatoria": "LEY 769 DE 2000. ART. 98. CODIGO NACIONAL DE TRANSITO TERRESTRE. ERRADICACION DE VEHICULOS DE TRACCION ANIMAL. PROHIBICION TRANSITO URBANO EN MUNICIPIOS DE CATEGORIA ESPECIAL Y DE PRIMERA CATEGORIA. PROMOCION ACTIVIDADES ALTERNATIVAS Y SUSTITUTIVAS PARA C",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "VEHICULOS DE TRACCION ANIMAL",
+      "subtema": "Improcedencia de restricción por ley estatutaria"
+    },
+    {
+      "tema": "COSA JUZGADA CONSTITUCIONAL",
+      "subtema": "Configuración"
+    },
+    {
+      "tema": "NORMA ACUSADA",
+      "subtema": "No exigía trámite de ley estatutaria pues no vulneró el derecho de locomoción"
+    },
+    {
+      "tema": "LEY ESTATUTARIA",
+      "subtema": "Interpretación restrictiva es la excepción y no la regla general"
+    }
+  ]
+}

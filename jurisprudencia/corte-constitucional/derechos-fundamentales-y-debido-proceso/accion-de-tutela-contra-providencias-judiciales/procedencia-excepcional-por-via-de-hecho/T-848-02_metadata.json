@@ -1,0 +1,49 @@
+{
+  "radicado": "T-848-02",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2002,
+  "fecha_creacion": "2002-10-10",
+  "magistrado_ponente": "Dr MARCO GERARDO MONROY CABRA",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+  "subtema": "Procedencia excepcional por vía de hecho",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 36 de 1992"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2002/T-848-02.htm",
+  "fecha_descarga": "2026-10-23T00:05:50.719602+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2002-10-10",
+  "fecha_publicacion": "2002-10-06",
+  "numero": "T-848/02",
+  "tipo_cc": "T",
+  "prov_id": "21259",
+  "tema_relatoria": "DERECHO AL DEBIDO PROCESO. VIA DE HECHO. SOLICITUD REAJUSTE PENSIONAL. JURISDICCION ESPECIAL DEL TRABAJO. RECURSOS Y CONSULTA. ASUNCION PASIVOS PUERTOS DE COLOMBIA. TUTELA CONTRA PROVIDENCIAS JUDICIALES. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Procedencia excepcional por vía de hecho"
+    },
+    {
+      "tema": "DEBIDO PROCESO",
+      "subtema": "Vulneración por omisión de consultar sentencias en materia laboral"
+    },
+    {
+      "tema": "CONSULTA EN MATERIA LABORAL",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "PERSONA JURIDICA",
+      "subtema": "Titularidad de derechos fundamentales"
+    },
+    {
+      "tema": "VIA DE HECHO",
+      "subtema": "Desconocimiento de consulta en materia laboral"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "radicado": "SU805-03",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2003,
+  "fecha_creacion": "2003-09-18",
+  "magistrado_ponente": "Dr JAIME CÓRDOBA TRIVIÑO",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "VIA DE HECHO EN PROCESO DE LANZAMIENTO POR OCUPACION DE HECHO",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 57 de 1905",
+    "Decreto 992 de 1930",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2003/SU805-03.htm",
+  "fecha_descarga": "2026-10-23T00:05:10.658443+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2003-09-18",
+  "fecha_publicacion": null,
+  "numero": "SU.805/03",
+  "tipo_cc": "SU",
+  "prov_id": "22605",
+  "tema_relatoria": "DERECHO AL DEBIDO PROCESO. VIA DE HECHO. QUERELLA POLICIVA PARA LANZAMIENTO POR OCUPACION DE HECHO. SOCIEDAD EN COMANDITA. CONTRATO DE FIDUCIA PARA REALIZAR PROYECTO DE CONSTRUCCION \"EDIFICIO CALLEJA COUNTRY\". FALTA DE LEGITIMIDAD PARA ACTUAR. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "VIA DE HECHO EN PROCESO DE LANZAMIENTO POR OCUPACION DE HECHO",
+      "subtema": null
+    },
+    {
+      "tema": "FALTA DE LEGITIMACION POR ACTIVA",
+      "subtema": "Para instaurar querella policiva"
+    },
+    {
+      "tema": "DEBIDO PROCESO DE QUERELLADOS",
+      "subtema": "Vulneración por actuaciones arbitrarias"
+    },
+    {
+      "tema": "VIA DE HECHO EN PROCESO POLICIVO",
+      "subtema": "Defecto procedimental"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "radicado": "C-234-03",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2003,
+  "fecha_creacion": "2003-03-18",
+  "magistrado_ponente": "Dr JAIME ARAUJO RENTERIA",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "NORMA ACUSADA",
+  "subtema": "Vulneración del principio del debido proceso",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 522 de 1999",
+    "Decreto 50 de 1987",
+    "Decreto 2700 de 1991",
+    "Ley 600 de 2000",
+    "Ley 74 de 1968",
+    "Acto Legislativo 2 de 1995"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2003/C-234-03.htm",
+  "fecha_descarga": "2026-10-22T23:54:18.431567+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2003-03-18",
+  "fecha_publicacion": null,
+  "numero": "C-234/03",
+  "tipo_cc": "C",
+  "prov_id": "21900",
+  "tema_relatoria": "JUSTICIA PENAL MILITAR. COMPETENCIA E INTEGRACIÓN",
+  "resumen": "LEY 522 DE 1999. ART. 363 (P.). CODIGO PENAL MILITAR. SUSTENTACION RECURSO DE APELACION INTERPUESTO DENTRO DEL TERMINO DE EJECUTORIA DE LA PROVIDENCIA. FUERO PENAL MILITAR. ACCESO A LA ADMINISTRACION DE JUSTICIA DERECHO DE DEFENSA Y DEBIDO PROCESO. IMPUGNACION",
+  "titulaciones": [
+    {
+      "tema": "NORMA ACUSADA",
+      "subtema": "Vulneración del principio del debido proceso"
+    },
+    {
+      "tema": "JUSTICIA PENAL MILITAR",
+      "subtema": "Competencia e integración"
+    },
+    {
+      "tema": "POLICIA NACIONAL",
+      "subtema": "Finalidad"
+    },
+    {
+      "tema": "RECURSO DE APELACION",
+      "subtema": "Término para interponerlo"
+    },
+    {
+      "tema": "CODIGO PENAL MILITAR",
+      "subtema": "Regulación autónoma"
+    },
+    {
+      "tema": "DERECHO DE ACCESO A LA ADMINISTRACIÓN DE JUSTICIA",
+      "subtema": "Ejercicio"
+    },
+    {
+      "tema": "DERECHO DE DEFENSA",
+      "subtema": "Materialización"
+    },
+    {
+      "tema": "PROCEDIMIENTO PENAL MILITAR",
+      "subtema": "Sustentación del recurso de reposición"
+    },
+    {
+      "tema": "LIBERTAD DE CONFIGURACIÓN LEGISLATIVA",
+      "subtema": "Límites"
+    },
+    {
+      "tema": "DOCTRINA JURIDICA PROCESAL",
+      "subtema": "Interposición y sustentación de recursos constituyen carga procesal"
+    },
+    {
+      "tema": "FUERO PENAL MILITAR",
+      "subtema": "Elementos"
+    },
+    {
+      "tema": "FUERZAS MILITARES",
+      "subtema": "Finalidad primordial"
+    },
+    {
+      "tema": "LIBERTAD DE CONFIGURACIÓN LEGISLATIVA",
+      "subtema": "Alcance en Procedimiento Penal Militar"
+    }
+  ]
+}

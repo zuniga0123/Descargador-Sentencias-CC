@@ -1,0 +1,47 @@
+{
+  "radicado": "C-937-03",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2003,
+  "fecha_creacion": "2003-10-15",
+  "magistrado_ponente": "Dr RODRIGO ESCOBAR GIL",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "DEMANDA DE INCONSTITUCIONALIDAD",
+  "subtema": "Pretensión se orienta a obtener un fallo de exequibilidad condicionada",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 675 de 2001",
+    "Decreto 2067 de 1991",
+    "Ley 675 de 2002"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2003/C-937-03.htm",
+  "fecha_descarga": "2026-10-22T23:49:25.089139+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2003-10-15",
+  "fecha_publicacion": null,
+  "numero": "C-937/03",
+  "tipo_cc": "C",
+  "prov_id": "22743",
+  "tema_relatoria": "LEY 675 DE 2001. ART. 17. PROPIEDAD HORIZONTAL. DIVISISIBILIDAD DE HIPOTECA. PROTOCOLIZACION TRANSFERENCIA DE DOMINIO. LEVANTAMIENTO DEL GRAVAMEN. OTORGAMIENTO ESCRITURA PUBLICA DE COMPRAVENTA DE UNIDAD PRIVADA CON GRAVAMEN HIPOTECARIO DE MAYOR EXTENSION.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "Pretensión se orienta a obtener un fallo de exequibilidad condicionada"
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "Rechazo por no corrección dentro del término"
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "Pretensión encaminada a que la Corte adicione un contenido normativo en sentido diverso del planteado en la disposición acusada"
+    },
+    {
+      "tema": "INHIBICION DE LA CORTE CONSTITUCIONAL",
+      "subtema": "Ineptitud sustantiva de la demanda"
+    }
+  ]
+}

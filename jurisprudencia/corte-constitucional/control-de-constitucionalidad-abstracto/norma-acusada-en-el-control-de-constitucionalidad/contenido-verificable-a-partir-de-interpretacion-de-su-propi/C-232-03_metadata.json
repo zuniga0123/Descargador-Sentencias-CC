@@ -1,0 +1,59 @@
+{
+  "radicado": "C-232-03",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2003,
+  "fecha_creacion": "2003-03-18",
+  "magistrado_ponente": "Dr JAIME CÓRDOBA TRIVIÑO",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "NORMA ACUSADA EN EL CONTROL DE CONSTITUCIONALIDAD",
+  "subtema": "Contenido verificable a partir de interpretación de su propio texto",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2067 de 1991",
+    "Ley 712 de 2001",
+    "Decreto 1222 de 1986",
+    "Decreto 2700 de 1991",
+    "Decreto 624 de 1989",
+    "Ley 546 de 1999",
+    "Ley 106 de 1993",
+    "Decreto Ley 1228 de 1995",
+    "Decreto 100 de 1980",
+    "Ley 61 de 1993",
+    "Ley 333 de 1996"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2003/C-232-03.htm",
+  "fecha_descarga": "2026-10-22T23:54:22.076324+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2003-03-18",
+  "fecha_publicacion": null,
+  "numero": "C-232/03",
+  "tipo_cc": "C",
+  "prov_id": "21898",
+  "tema_relatoria": "FALLO INHIBITORIO POR INEPTITUD DE DEMANDA DE INCONSTITUCIONALIDAD CONTRA NORMA DEL CÓDIGO PROCESAL DEL TRABAJO Y DE LA SEGURIDAD SOCIAL",
+  "resumen": "DECRETO 2158 DE 1948. ART. 101 (P.). DECRETO 4133 DE 1948. CODIGO PROCESAL DEL TRABAJO Y SEGURIDAD SOCIAL. PROCEDIMIENTOS ESPECIALES. PROCESO EJECUTIVO LABORAL. DEMANDA. MEDIDAS PREVENTIVAS. PREVIA DENUNCIA DE BIENES DEL DEUDOR BAJO JURAMENTO.",
+  "titulaciones": [
+    {
+      "tema": "NORMA ACUSADA EN EL CONTROL DE CONSTITUCIONALIDAD",
+      "subtema": "Contenido verificable a partir de interpretación de su propio texto"
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "Requisitos argumentativos de un cargo"
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "Requisitos de concepto de violación"
+    },
+    {
+      "tema": "PRINCIPIO PRO ACTIONE EN DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "INHIBICION DE LA CORTE CONSTITUCIONAL",
+      "subtema": "Ausencia de requisitos del concepto de violación"
+    }
+  ]
+}

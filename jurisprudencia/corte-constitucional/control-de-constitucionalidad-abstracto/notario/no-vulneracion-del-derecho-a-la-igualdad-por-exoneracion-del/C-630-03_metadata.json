@@ -1,0 +1,59 @@
+{
+  "radicado": "C-630-03",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2003,
+  "fecha_creacion": "2003-07-29",
+  "magistrado_ponente": "Dr ALFREDO BELTRÁN SIERRA",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "NOTARIO",
+  "subtema": "No vulneración del derecho a la igualdad por exoneración del pago del tributo del tres por mil",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 788 de 2002",
+    "Decreto 2067 de 1991",
+    "Ley 29 de 1973"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2003/C-630-03.htm",
+  "fecha_descarga": "2026-10-22T23:56:14.706769+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2003-07-29",
+  "fecha_publicacion": null,
+  "numero": "C-630/03",
+  "tipo_cc": "C",
+  "prov_id": "22396",
+  "tema_relatoria": "LEY 788 DE 2002. ART. 112. EXPEDICION NORMAS TRIBUTARIAS Y PENALES DEL ORDEN NACIONAL Y TERRITORIAL. CUENTA UNICA NOTARIAL. RECAUDOS EFECTUADOS POR NOTARIOS CON DESTINO A FONDOS O CUENTAS PARAFISCALES DIAN Y SUPERINTENDENCIA DE NOTARIADO Y REGISTRO. PAGOS",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "NOTARIO",
+      "subtema": "No vulneración del derecho a la igualdad por exoneración del pago del tributo del tres por mil"
+    },
+    {
+      "tema": "CUENTA UNICA NOTARIAL",
+      "subtema": "Herramienta de control para garantizar que la totalidad de los ingresos lleguen a las arcas del tesoro"
+    },
+    {
+      "tema": "CUENTA UNICA NOTARIAL",
+      "subtema": "Exclusivamente para recaudar los ingresos de la Notaría y distribuirlos entre sus titulares"
+    },
+    {
+      "tema": "CUENTA UNICA NOTARIAL",
+      "subtema": "Imposibilidad de usarse para hacer pagos o transferencias a terceros"
+    },
+    {
+      "tema": "CUENTA UNICA NOTARIAL",
+      "subtema": "No vulneración de actividad económica e iniciativa privada"
+    },
+    {
+      "tema": "CUENTA UNICA NOTARIAL",
+      "subtema": "Ingresos que deben depositarse excluye los propios del Notario"
+    },
+    {
+      "tema": "COSA JUZGADA RELATIVA",
+      "subtema": "Cargos diferentes"
+    }
+  ]
+}

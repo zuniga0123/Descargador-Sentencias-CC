@@ -1,0 +1,98 @@
+{
+  "radicado": "C-1006-03",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2003,
+  "fecha_creacion": "2003-10-28",
+  "magistrado_ponente": "Dr ALFREDO BELTRÁN SIERRA",
+  "area": "Derecho Constitucional Económico",
+  "tema": "CONFISCACION",
+  "subtema": "Naturaleza",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 488 de 1998",
+    "Ley 788 de 2002"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2003/C-1006-03.htm",
+  "fecha_descarga": "2026-10-22T23:44:02.964667+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2003-10-28",
+  "fecha_publicacion": "2003-11-21",
+  "numero": "C-1006/03",
+  "tipo_cc": "C",
+  "prov_id": "22824",
+  "tema_relatoria": "LEY 788 DE 2002. ART. 118 (P.). EXPEDICION NORMAS TRIBUTARIAS Y PENALES DEL ORDEN NACIONAL Y TERRITORIAL. VIGENCIA Y DEROGATORIAS. IMPUESTO AL CONSUMO DE LICORES. NATURALEZA JURIDICA. CLASES DE IMPUESTOS. VENTAS FUTURAS. PROPIEDAD PRIVADA. CONFISCACION.",
+  "resumen": "Demanda de inconstitucionalidad en contra del artículo 118 (parcial) de la ley 788 de 2002, por la cual se expiden normas en materia tributaria y penal del orden nacional y territorial; y se dictan otras disposiciones. El demandante adujo que los apartes normativos censurados violaban los artículos 34, 58, 338 -3 y 363-2 de la Constitución, respecto del impuesto al consumo de licores, vinos, aperitivos y similares que se consagra en los artículos 49 a 54 de la misma Ley. Ello, porque el impuesto empezó a aplicarse desde el momento de la promulgación de la norma, cuando el texto Superior ordena que esta clase de impuesto se haga efectivo a partir del periodo siguiente a aquel que comenzó la vigencia de la ley que lo impuso. Concluyó la Sala Plena de la Corporación que la norma censurada no quebranta las disposiciones señaladas en la demanda y tampoco viola disposición alguna de la Carta Política.",
+  "titulaciones": [
+    {
+      "tema": "CONFISCACION",
+      "subtema": "Naturaleza"
+    },
+    {
+      "tema": "IMPUESTO INSTANTANEO",
+      "subtema": "Obligación tributaria se aplica de manera instantánea sin tener en cuenta vigencia de la ley"
+    },
+    {
+      "tema": "NORMA ACUSADA",
+      "subtema": "Periodo fiscal establece fechas claras para hacer exigible el impuesto causado en ese periodo"
+    },
+    {
+      "tema": "NORMA DEROGATORIA",
+      "subtema": "Derogación expresa o tácita"
+    },
+    {
+      "tema": "IMPUESTO",
+      "subtema": "Clasificación"
+    },
+    {
+      "tema": "CONTRIBUCION FISCAL Y PARAFISCAL",
+      "subtema": "Potestad para imponerlos"
+    },
+    {
+      "tema": "CONTRIBUYENTE",
+      "subtema": "Deudor del impuesto"
+    },
+    {
+      "tema": "CONFISCACION",
+      "subtema": "Prohibición en Constitución vigente"
+    },
+    {
+      "tema": "NORMA DEROGATORIA",
+      "subtema": "Relación con la norma derogada"
+    },
+    {
+      "tema": "ESTADO",
+      "subtema": "Puede por la vía del impuesto terminar privando de la propiedad a los ciudadanos"
+    },
+    {
+      "tema": "NORMA ACUSADA",
+      "subtema": "Aplicación no viola el derecho a la propiedad"
+    },
+    {
+      "tema": "NORMA DEROGATORIA",
+      "subtema": "No tiene la estructura lógica de las otras normas"
+    },
+    {
+      "tema": "IMPUESTO",
+      "subtema": "Concepto"
+    },
+    {
+      "tema": "IMPUESTO",
+      "subtema": "En su carácter de obligación tributaria no puede ser confiscatorio"
+    },
+    {
+      "tema": "IMPUESTO",
+      "subtema": "Situaciones en las cuales puede resultar confiscatorio"
+    },
+    {
+      "tema": "IMPUESTO DE PERIODO",
+      "subtema": "Obligación tributaria se cataloga por periodos de tiempo determinado"
+    },
+    {
+      "tema": "TRIBUTO",
+      "subtema": "Prohibición de cobrarlo"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "radicado": "T-920-03",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2003,
+  "fecha_creacion": "2003-10-09",
+  "magistrado_ponente": "Dr MARCO GERARDO MONROY CABRA",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ESCUELA SUPERIOR DE ADMINISTRACION PUBLICA",
+  "subtema": "Convocatoria a especializaciones que no están aprobadas",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 30 de 1992",
+    "Decreto 1225 de 1996"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2003/T-920-03.htm",
+  "fecha_descarga": "2026-10-22T23:41:12.883412+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2003-10-09",
+  "fecha_publicacion": null,
+  "numero": "T-920/03",
+  "tipo_cc": "T",
+  "prov_id": "22726",
+  "tema_relatoria": "DERECHOS AL TRABAJO IGUALDAD EDUCACION DIGNIDAD LIBRE DESARROLLO DE LA PERSONALIDAD BUENA FE. EXPEDICION DE TITULO EN FINANZAS PUBLICAS POR LA ESAP POR HABER CUMPLIDO LOS REQUISITOS EXIGIDOS. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ESCUELA SUPERIOR DE ADMINISTRACION PUBLICA",
+      "subtema": "Convocatoria a especializaciones que no están aprobadas"
+    },
+    {
+      "tema": "ESCUELA SUPERIOR DE ADMINISTRACION PUBLICA",
+      "subtema": "Naturaleza jurídica"
+    },
+    {
+      "tema": "ESCUELA SUPERIOR DE ADMINISTRACION PUBLICA",
+      "subtema": "Debe otorgar los títulos de especialistas en finanzas públicas"
+    },
+    {
+      "tema": "DERECHO A LA EDUCACIÓN",
+      "subtema": "Vulneración por no otorgar la ESAP el título de especialistas"
+    },
+    {
+      "tema": "PRINCIPIO DE LA BUENA FE Y PRINCIPIO DE CONFIANZA LEGITIMA",
+      "subtema": "Vulneración por no otorgar la ESAP el título de especialistas"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "radicado": "C-526-03",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2003,
+  "fecha_creacion": "2003-07-03",
+  "magistrado_ponente": "Dr ALFREDO BELTRÁN SIERRA",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "PRINCIPIO NON BIS IN IDEM",
+  "subtema": "Contenido",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 769 de 2002",
+    "Decreto 2067 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2003/C-526-03.htm",
+  "fecha_descarga": "2026-10-22T23:47:20.082156+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2003-07-03",
+  "fecha_publicacion": null,
+  "numero": "C-526/03",
+  "tipo_cc": "C",
+  "prov_id": "22268",
+  "tema_relatoria": "LEY 769 DE 2002. ART. 8 PARAG. 5 INC. 2. CODIGO NACIONAL DE TRANSITO. REGISTRO UNICO NACIONAL DE TRANSITO RUNT. FUNCIONAMIENTO. ACTUALIZACION REGISTROS POR EL SISTEMA DE AUTODECLARACION. SANCION POR NO DECLARACION. DERECHO DE PETICION. PRINCIPIO NON BIS I",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "PRINCIPIO NON BIS IN IDEM",
+      "subtema": "Contenido"
+    },
+    {
+      "tema": "PRINCIPIO NON BIS IN IDEM",
+      "subtema": "No vulneración"
+    },
+    {
+      "tema": "DERECHO DE PETICIÓN",
+      "subtema": "No vulneración"
+    },
+    {
+      "tema": "REGISTRO UNICO NACIONAL DE TRANSITO",
+      "subtema": "Sanción por no declaración no está limitado en el tiempo"
+    },
+    {
+      "tema": "REGISTRO UNICO NACIONAL DE TRANSITO",
+      "subtema": "Sanción al propietario por no declaración no es imprescriptible"
+    },
+    {
+      "tema": "PRINCIPIO NON BIS IN IDEM",
+      "subtema": "No vulneración por doble sanción negativa de distinta naturaleza"
+    },
+    {
+      "tema": "REGISTRO UNICO NACIONAL DE TRANSITO",
+      "subtema": "Declaración de información"
+    },
+    {
+      "tema": "REGISTRO UNICO NACIONAL DE TRANSITO",
+      "subtema": "Información debe ser solo la pertinente y necesaria"
+    }
+  ]
+}

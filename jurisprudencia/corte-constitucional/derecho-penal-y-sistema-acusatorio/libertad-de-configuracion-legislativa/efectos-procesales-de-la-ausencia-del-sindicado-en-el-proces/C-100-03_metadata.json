@@ -1,0 +1,47 @@
+{
+  "radicado": "C-100-03",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2003,
+  "fecha_creacion": "2003-02-11",
+  "magistrado_ponente": "Dr MARCO GERARDO MONROY CABRA",
+  "area": "Derecho Penal y Sistema Acusatorio",
+  "tema": "LIBERTAD DE CONFIGURACIÓN LEGISLATIVA",
+  "subtema": "Efectos procesales de la ausencia del sindicado en el proceso penal",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 600 de 2000",
+    "Decreto 2700 de 1991",
+    "Decreto 2067 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2003/C-100-03.htm",
+  "fecha_descarga": "2026-10-22T23:51:09.572175+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2003-02-11",
+  "fecha_publicacion": null,
+  "numero": "C-100/03",
+  "tipo_cc": "C",
+  "prov_id": "21731",
+  "tema_relatoria": "DECLARACION DE PERSONA AUSENTE. NO VULNERA DERECHOS DEL SINDICADO",
+  "resumen": "LEY 600 DE 2000. ART. 344 (P.). CODIGO DE PROCEDIMIENTO PENAL. DECLARATORIA DE PERSONA AUSENTE. IN TOTO. IMPUTADO PLENAMENTE IDENTIFICADO. ORDEN DE CAPTURA APREHENSION O CONDUCCION. RECIBO DE INDAGATORIA. DEBIDO PROCESO. GARANTIA DE IMPARCIALIDAD Y DE DER",
+  "titulaciones": [
+    {
+      "tema": "LIBERTAD DE CONFIGURACIÓN LEGISLATIVA",
+      "subtema": "Efectos procesales de la ausencia del sindicado en el proceso penal"
+    },
+    {
+      "tema": "DECLARACION DE PERSONA AUSENTE",
+      "subtema": "No opera de manera inmediata sino como consecuencia de no darse con el paradero del sindicado"
+    },
+    {
+      "tema": "DECLARACION DE PERSONA AUSENTE",
+      "subtema": "Vinculación a proceso penal no quebranta los derechos constitucionales del incriminado"
+    },
+    {
+      "tema": "DECLARACION DE PERSONA AUSENTE",
+      "subtema": "No vulnera derechos del sindicado"
+    }
+  ]
+}

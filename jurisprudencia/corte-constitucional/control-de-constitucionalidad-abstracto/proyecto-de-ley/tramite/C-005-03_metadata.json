@@ -1,0 +1,53 @@
+{
+  "radicado": "C-005-03",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2003,
+  "fecha_creacion": "2003-01-21",
+  "magistrado_ponente": "Dr MANUEL JOSÉ CEPEDA ESPINOSA",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "PROYECTO DE LEY",
+  "subtema": "Trámite",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 715 de 2001",
+    "Acto Legislativo 1 de 2001",
+    "Ley 643 de 2001",
+    "Ley 5 de 1992",
+    "Ley 223 de 1995"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2003/C-005-03.htm",
+  "fecha_descarga": "2026-10-23T00:04:38.652278+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2003-01-21",
+  "fecha_publicacion": null,
+  "numero": "C-005/03",
+  "tipo_cc": "C",
+  "prov_id": "21620",
+  "tema_relatoria": "INICIATIVA GUBERNAMENTAL EN PROYECTO DE LEY. NO MODIFICACIÓN PER SE POR EL CONGRESO DE MATERIAS DISTINTAS TAMBIÉN DE INICIATIVA DEL GOBIERNO",
+  "resumen": "LEY 715 DE 2001. ART. 106. DISTRIBUCION RECURSOS Y COMPETENCIAS ENTRE LA NACION Y ENTIDADES TERRITORIALES. PRESTACION SERVICIOS DE EDUCACION Y SALUD. RECURSOS COMPLEMENTARIOS AL SISTEMA GENERAL DE PARTICIPACIONES. JUEGOS DE SUERTE Y AZAR. PORCENTAJE",
+  "titulaciones": [
+    {
+      "tema": "PROYECTO DE LEY",
+      "subtema": "Trámite"
+    },
+    {
+      "tema": "INICIATIVA GUBERNAMENTAL EN PROYECTO DE LEY",
+      "subtema": "No modificación per se por el Congreso de materias distintas también de iniciativa del Gobierno"
+    },
+    {
+      "tema": "INICIATIVA GUBERNAMENTAL EN PROYECTO DE LEY",
+      "subtema": "No modificación per se por el Congreso sin coadyuvancia"
+    },
+    {
+      "tema": "PROYECTO DE LEY",
+      "subtema": "Modificación por el Congreso del presentado por el Gobierno"
+    },
+    {
+      "tema": "SISTEMA GENERAL DE PARTICIPACIONES DEL SECTOR SALUD",
+      "subtema": "Recursos complementarios"
+    }
+  ]
+}
