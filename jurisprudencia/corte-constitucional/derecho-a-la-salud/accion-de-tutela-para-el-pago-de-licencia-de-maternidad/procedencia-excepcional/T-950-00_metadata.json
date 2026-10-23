@@ -1,0 +1,43 @@
+{
+  "radicado": "T-950-00",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-07-31",
+  "magistrado_ponente": "Dr ALEJANDRO MARTÍNEZ CABALLERO",
+  "area": "Derecho a la Salud",
+  "tema": "ACCION DE TUTELA PARA EL PAGO DE LICENCIA DE MATERNIDAD",
+  "subtema": "Procedencia excepcional",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 806 de 1998",
+    "Decreto 1938 de 1994",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/T-950-00.htm",
+  "fecha_descarga": "2026-10-23T03:44:18.457672+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-07-31",
+  "fecha_publicacion": null,
+  "numero": "T-950/00",
+  "tipo_cc": "T",
+  "prov_id": "17558",
+  "tema_relatoria": "DERECHO AL MINIMO VITAL. PAGO LICENCIA DE MATERNIDAD. CONTINUIDAD EN LA CANCELACION DE COTIZACIONES A LA SEGURIDAD SOCIAL. EPS. ALLANAMIENTO A LA MORA PATRONAL. CONCEDIDA PARCIALMENTE.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCION DE TUTELA PARA EL PAGO DE LICENCIA DE MATERNIDAD",
+      "subtema": "Procedencia excepcional"
+    },
+    {
+      "tema": "PRINCIPIO DE FAVORABILIDAD NORMATIVA EN MATERIA DE LICENCIA DE MATERNIDAD",
+      "subtema": "Pago"
+    },
+    {
+      "tema": "LICENCIA DE MATERNIDAD",
+      "subtema": "Pago por allanamiento a la mora por EPS"
+    }
+  ]
+}

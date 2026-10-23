@@ -1,0 +1,53 @@
+{
+  "radicado": "T-999-00",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-08-02",
+  "magistrado_ponente": "Dr FABIO MORON DIAZ",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "PROTECCION INTEGRAL A LA FAMILIA EN LA CONSTITUCION",
+  "subtema": "No incluye parejas homosexuales",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 806 de 1998",
+    "Decreto 2591 de 1991",
+    "Ley 362 de 1997",
+    "Ley 54 de 1990",
+    "Decreto 1259 de 1994"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/T-999-00.htm",
+  "fecha_descarga": "2026-10-23T03:43:35.406865+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-08-02",
+  "fecha_publicacion": null,
+  "numero": "T-999/00",
+  "tipo_cc": "T",
+  "prov_id": "17589",
+  "tema_relatoria": "DERECHO A LA SALUD IGUALDAD INTIMIDAD LIBRE DESARROLLO DE LA PERSONALIDAD Y A LA NO DISCRIMINACION DE PAREJAS HOMOSEXUALES. AFILIACION AL REGIMEN DE SEGURIDAD SOCIAL COMO COMPAÑERO PERMANENTE. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "PROTECCION INTEGRAL A LA FAMILIA EN LA CONSTITUCION",
+      "subtema": "No incluye parejas homosexuales"
+    },
+    {
+      "tema": "DERECHO A LA SEGURIDAD SOCIAL",
+      "subtema": "Fundamental por conexidad con la vida"
+    },
+    {
+      "tema": "DERECHO A LA SEGURIDAD SOCIAL",
+      "subtema": "No afiliación de parejas homosexuales"
+    },
+    {
+      "tema": "DERECHO A LA SEGURIDAD SOCIAL",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "MEDIO DE DEFENSA JUDICIAL",
+      "subtema": "Eficacia"
+    }
+  ]
+}

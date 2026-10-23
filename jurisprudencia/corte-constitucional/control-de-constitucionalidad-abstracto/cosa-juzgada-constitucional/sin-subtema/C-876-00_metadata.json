@@ -1,0 +1,74 @@
+{
+  "radicado": "C-876-00",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-07-12",
+  "magistrado_ponente": "Dr ALEJANDRO MARTÍNEZ CABALLERO",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "COSA JUZGADA CONSTITUCIONAL",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2282 de 1989",
+    "Decreto 2067 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/C-876-00.htm",
+  "fecha_descarga": "2026-10-23T04:04:41.864763+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-07-12",
+  "fecha_publicacion": null,
+  "numero": "C-876/00",
+  "tipo_cc": "C",
+  "prov_id": "17471",
+  "tema_relatoria": "C.P.C. ART. 336 MODIFICADO POR EL ART. 1 No 158 DEL DEC. 2282/89. TERMINOS PARA LA EJECUCION DE ENTIDADES PUBLICAS. LIMITACION DE LA COSA JUZGADA. EXEQUIBLE. ESTARSE A LA C-103/94 .",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "COSA JUZGADA CONSTITUCIONAL",
+      "subtema": null
+    },
+    {
+      "tema": "CONTROL DE CONSTITUCIONALIDAD",
+      "subtema": "Aplicación indebida de disposiciones en casos concretos"
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "Cargos generales"
+    },
+    {
+      "tema": "ACCION PUBLICA DE INCONSTITUCIONALIDAD",
+      "subtema": "No es procedente para cuestionar la aplicación concreta de disposiciones legales"
+    },
+    {
+      "tema": "JUEZ CONSTITUCIONAL",
+      "subtema": "No es competente para estudiar si norma acusada ha sido correctamente aplicada por juez ordinario"
+    },
+    {
+      "tema": "INEMBARGABILIDAD DEL PRESUPUESTO",
+      "subtema": null
+    },
+    {
+      "tema": "COSA JUZGADA RELATIVA",
+      "subtema": "Justificación"
+    },
+    {
+      "tema": "COSA JUZGADA",
+      "subtema": "Límites de sus alcances"
+    },
+    {
+      "tema": "PRINCIPIO DE IGUALDAD ENTRE ENTIDADES PUBLICAS Y PARTICULARES",
+      "subtema": "Cumplimiento de sentencias"
+    },
+    {
+      "tema": "EJECUCION DE ENTIDADES PUBLICAS",
+      "subtema": "Plazo"
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "No procede frente a problemas de interpretación legal"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "radicado": "T-143-00",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-02-22",
+  "magistrado_ponente": "Dr ANTONIO BARRERA CARBONELL",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ADMINISTRACION DE CONJUNTO RESIDENCIAL",
+  "subtema": "Suspensión de servicios comunes siempre que no se afecten necesidades vitales",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2289 de 1989",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/T-143-00.htm",
+  "fecha_descarga": "2026-10-23T03:48:40.030192+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-02-22",
+  "fecha_publicacion": null,
+  "numero": "T-143/00",
+  "tipo_cc": "T",
+  "prov_id": "16680",
+  "tema_relatoria": "TUTELA CONTRA ADMINISTRADOR DE CONJUNTO RESIDENCIAL. SOLICITUD DE ENTREGA DE COPIA DEL ACTA DE COOPROPIETARIOS. INVIOLABILIDAD DE LA CORRESPONDENCIA. CONCEDIDA PARCIALMENTE.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ADMINISTRACION DE CONJUNTO RESIDENCIAL",
+      "subtema": "Suspensión de servicios comunes siempre que no se afecten necesidades vitales"
+    },
+    {
+      "tema": "DERECHO DE PETICION ANTE ADMINISTRACION DE PROPIEDAD HORIZONTAL",
+      "subtema": "Inexistencia de perjuicio irremediable"
+    },
+    {
+      "tema": "INVIOLABILIDAD DE CORRESPONDENCIA Y DERECHO A LA INTIMIDAD",
+      "subtema": "Retención y no entrega de correspondencia por incumplimiento pago de cuotas de administración de copropiedad"
+    },
+    {
+      "tema": "ADMINISTRACION DE CONJUNTO RESIDENCIAL",
+      "subtema": "Diligencias extraprocesales de cobro"
+    },
+    {
+      "tema": "ADMINISTRACION DE CONJUNTO RESIDENCIAL",
+      "subtema": "Recepción de correspondencia"
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA ADMINISTRACION DE CONJUNTO RESIDENCIAL",
+      "subtema": "Procedencia"
+    },
+    {
+      "tema": "DERECHO DE PETICION ANTE ADMINISTRACION DE CONJUNTO RESIDENCIAL",
+      "subtema": "Copia del acta de asamblea, entrega de correspondencia y restablecimiento de servicios comunales"
+    }
+  ]
+}

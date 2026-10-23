@@ -1,0 +1,49 @@
+{
+  "radicado": "T-1040-00",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-08-10",
+  "magistrado_ponente": "Dr EDUARDO CIFUENTES MUÑOZ",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "DERECHO A LA SEGURIDAD SOCIAL",
+  "subtema": "Vulneración al no realizar notificación de dictamen médico por Junta de calificación de invalidez",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 1295 de 1994",
+    "Ley 100 de 1993",
+    "Decreto 1346 de 1994",
+    "Decreto 306 de 1992",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/T-1040-00.htm",
+  "fecha_descarga": "2026-10-23T03:49:05.168528+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-08-10",
+  "fecha_publicacion": null,
+  "numero": "T-1040/00",
+  "tipo_cc": "T",
+  "prov_id": "17639",
+  "tema_relatoria": "DEBIDO PROCESO. DERECHO A LA SALUD Y A LA SEGURIDAD SOCIAL A LA VIDA Y AL TRABAJO. JUNTAS CALIFICADORAS DE INVALIDEZ. PERDIDA DE LA CAPACIDAD LABORAL. REALIZAR VALORACION MEDICA. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA SEGURIDAD SOCIAL",
+      "subtema": "Vulneración al no realizar notificación de dictamen médico por Junta de calificación de invalidez"
+    },
+    {
+      "tema": "FACULTADES EXTRAORDINARIAS PARA ORGANIZAR SISTEMA DE RIESGOS PROFESIONALES",
+      "subtema": "Calificación grado de incapacidad y pago de costos"
+    },
+    {
+      "tema": "FACULTADES EXTRAORDINARIAS PARA ORGANIZAR SISTEMA DE RIESGOS PROFESIONALES",
+      "subtema": "No autorización para dictar norma de costo de trámites sobre incapacidad permanente"
+    },
+    {
+      "tema": "SEGURO SOCIAL",
+      "subtema": "Valoración médica para evaluar grado de incapacidad"
+    }
+  ]
+}

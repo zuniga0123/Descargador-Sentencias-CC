@@ -1,0 +1,48 @@
+{
+  "radicado": "T-092-00",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-02-02",
+  "magistrado_ponente": "Dr ANTONIO BARRERA CARBONELL",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCION DE TUTELA CONTRA PARTICULARES",
+  "subtema": "Procedencia excepcional",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Ley 50 de 1990",
+    "Decreto 2591 de 1991",
+    "Ley 11 de 1988"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/T-092-00.htm",
+  "fecha_descarga": "2026-10-23T03:51:17.858531+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-02-02",
+  "fecha_publicacion": null,
+  "numero": "T-092/00",
+  "tipo_cc": "T",
+  "prov_id": "16617",
+  "tema_relatoria": "EMPLEADA DEL SERVICIO DOMESTICO. PROTECCION Y ASISTENCIA DE PERSONAS DE LA TERCERA EDAD. TUTELA CONTRA PARTICULARES. ORDENA PAGO DE UN SALARIO MINIMO LEGAL VIGENTE A PARTIR DE LA FECHA. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCION DE TUTELA CONTRA PARTICULARES",
+      "subtema": "Procedencia excepcional"
+    },
+    {
+      "tema": "DERECHO A LA VIDA DIGNA DE PERSONA DE LA TERCERA EDAD",
+      "subtema": "Protección"
+    },
+    {
+      "tema": "TRABAJO DOMÉSTICO",
+      "subtema": "Afiliación al régimen de pensiones"
+    },
+    {
+      "tema": "TRABAJO DOMÉSTICO",
+      "subtema": "Protección del mínimo vital de subsistencia de persona de avanzada edad"
+    }
+  ]
+}

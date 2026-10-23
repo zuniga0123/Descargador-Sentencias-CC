@@ -1,0 +1,42 @@
+{
+  "radicado": "T-1124-00",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-08-25",
+  "magistrado_ponente": "Dr ALEJANDRO MARTINEZ CABALLERO",
+  "area": "Derecho a la Salud",
+  "tema": "ACCIÓN DE TUTELA",
+  "subtema": "Improcedencia por no configurarse elementos de juicio para suministro de tratamiento médico por EPS",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/T-1124-00.htm",
+  "fecha_descarga": "2026-10-23T03:55:51.146179+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-08-25",
+  "fecha_publicacion": null,
+  "numero": "T-1124/00",
+  "tipo_cc": "T",
+  "prov_id": "17716",
+  "tema_relatoria": "DERECHO A LA VIDA A LA SALUD Y A LA SEGURIDAD SOCIAL. LA SALUD SOLO ES DERECHO FUNDAMENTAL TUTELABLE POR CONEXIDAD CON LA VIDA DIGNA Y LA INTEGRIDAD PERSONAL. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Improcedencia por no configurarse elementos de juicio para suministro de tratamiento médico por EPS"
+    },
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Fundamental por conexidad con la vida"
+    },
+    {
+      "tema": "SERVICIO DE SALUD",
+      "subtema": "Conflictos entre EPS no pueden condicionar acceso al servicio"
+    }
+  ]
+}

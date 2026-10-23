@@ -1,0 +1,80 @@
+{
+  "radicado": "C-805-00",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-06-29",
+  "magistrado_ponente": "Dr CARLOS GAVIRIA DIAZ",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "GOBIERNO",
+  "subtema": "Facultad para organizar entidades públicas",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto Ley 1071 de 1999",
+    "Ley 488 de 1998",
+    "Decreto 547 de 1995",
+    "Decreto 1071 de 1999",
+    "Decreto Ley 1693 de 1997",
+    "Ley 6 de 1971",
+    "Ley 49 de 1990",
+    "Decreto 1644 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/C-805-00.htm",
+  "fecha_descarga": "2026-10-23T04:04:20.079490+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-06-29",
+  "fecha_publicacion": null,
+  "numero": "C-805/00",
+  "tipo_cc": "C",
+  "prov_id": "17398",
+  "tema_relatoria": "DEC. 1071/99. ART. 23 LIT V) FUNCIONES DE LA DIAN. EXEQUIBLE E INHIBITORIA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "GOBIERNO",
+      "subtema": "Facultad para organizar entidades públicas"
+    },
+    {
+      "tema": "INHIBICION DE LA CORTE CONSTITUCIONAL POR CARENCIA DE JURISDICCION",
+      "subtema": null
+    },
+    {
+      "tema": "ARANCELES Y REGIMEN DE ADUANAS",
+      "subtema": "Regulación conjunta entre Gobierno y Congreso"
+    },
+    {
+      "tema": "PRINCIPIO DE LEGALIDAD DEL TRIBUTO",
+      "subtema": null
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "Errónea interpretación de norma acusada"
+    },
+    {
+      "tema": "CONTROL DE CONSTITUCIONALIDAD DE DECRETOS EXPEDIDOS EN EJERCICIO DE FACULTADES EXTRAORDINARIAS",
+      "subtema": "Conexidad"
+    },
+    {
+      "tema": "DIRECCION DE IMPUESTOS Y ADUANAS NACIONALES",
+      "subtema": "Atribución en asuntos aduaneros"
+    },
+    {
+      "tema": "DIRECCION DE IMPUESTOS Y ADUANAS NACIONALES",
+      "subtema": "Fijación de precios mínimos oficiales y de referencia mediante acto administrativo"
+    },
+    {
+      "tema": "DECRETO LEY",
+      "subtema": "Control de constitucionalidad"
+    },
+    {
+      "tema": "FUNCIONARIO ADMINISTRATIVO",
+      "subtema": "Atribución de fijar precios mínimos y de referencia"
+    },
+    {
+      "tema": "UNIFICACION NORMATIVA",
+      "subtema": "Disposición que reitera función establecida en normas anteriores"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "radicado": "T-145-00",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-02-22",
+  "magistrado_ponente": "Dr JOSÉ GREGORIO HERNÁNDEZ GALINDO",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCION DE TUTELA DE PERSONA JURIDICA CONTRA CONSEJO DE JUSTICIA",
+  "subtema": "Procedencia",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/T-145-00.htm",
+  "fecha_descarga": "2026-10-23T03:48:54.354575+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-02-22",
+  "fecha_publicacion": null,
+  "numero": "T-145/00",
+  "tipo_cc": "T",
+  "prov_id": "16682",
+  "tema_relatoria": "DEBIDO PROCESO. RECHAZO DEL TRAMITE DE UN RECURSO DE APELACION POR EL CONSEJO DE JUSTICIA DE SANTAFE DE BOGOTA. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCION DE TUTELA DE PERSONA JURIDICA CONTRA CONSEJO DE JUSTICIA",
+      "subtema": "Procedencia"
+    },
+    {
+      "tema": "MEDIO DE DEFENSA JUDICIAL",
+      "subtema": "Carencia de competencia en diligencia de cumplimiento de entrega de bienes fiscales"
+    },
+    {
+      "tema": "ALCALDE",
+      "subtema": "Entrega de bien fiscal"
+    },
+    {
+      "tema": "DEBIDO PROCESO DE TUTELA",
+      "subtema": "Rechazo de trámite de recurso de apelación"
+    },
+    {
+      "tema": "PERSONA JURIDICA",
+      "subtema": "Titularidad de derechos fundamentales"
+    },
+    {
+      "tema": "RESTITUCION DE BIENES FISCALES",
+      "subtema": "Cumplimiento de labor de entrega"
+    }
+  ]
+}

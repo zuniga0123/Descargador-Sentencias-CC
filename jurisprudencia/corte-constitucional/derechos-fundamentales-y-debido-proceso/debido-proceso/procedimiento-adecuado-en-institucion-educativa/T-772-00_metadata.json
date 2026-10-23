@@ -1,0 +1,59 @@
+{
+  "radicado": "T-772-00",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-06-22",
+  "magistrado_ponente": "Dr ALEJANDRO MARTINEZ CABALLERO",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "DEBIDO PROCESO",
+  "subtema": "Procedimiento adecuado en institución educativa",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 12 de 1991",
+    "Ley 115 de 1994"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/T-772-00.htm",
+  "fecha_descarga": "2026-10-23T03:46:28.387635+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-06-22",
+  "fecha_publicacion": null,
+  "numero": "T-772/00",
+  "tipo_cc": "T",
+  "prov_id": "17366",
+  "tema_relatoria": "DERECHO A LA EDUCACION E IGUALDAD. DEBIDO PROCESO. ALUMNA INDISCIPLINADA Y EN ESTADO DE EMBARAZO QUE NO ES PROCLAMADA BACHILLER. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DEBIDO PROCESO",
+      "subtema": "Procedimiento adecuado en institución educativa"
+    },
+    {
+      "tema": "EDUCACIÓN",
+      "subtema": "Obligación de la sociedad"
+    },
+    {
+      "tema": "REGLAMENTO EDUCATIVO",
+      "subtema": "No puede desconocer principios que emanan de la Constitución"
+    },
+    {
+      "tema": "DERECHO A LA IGUALDAD",
+      "subtema": "No vulneración por ausencia de fundamentos discriminatorios a alumna"
+    },
+    {
+      "tema": "DERECHO A LA EDUCACIÓN",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "ESTUDIANTE EMBARAZADA",
+      "subtema": "No proclamación pública como bachiller"
+    },
+    {
+      "tema": "MANUAL DE CONVIVENCIA",
+      "subtema": "Límites legales y constitucionales"
+    }
+  ]
+}

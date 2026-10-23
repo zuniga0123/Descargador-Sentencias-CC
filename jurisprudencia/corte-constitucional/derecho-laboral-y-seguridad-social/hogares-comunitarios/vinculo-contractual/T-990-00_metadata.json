@@ -1,0 +1,49 @@
+{
+  "radicado": "T-990-00",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-08-02",
+  "magistrado_ponente": "Dr ANTONIO BARRERA CARBONELL",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "HOGARES COMUNITARIOS",
+  "subtema": "Vínculo contractual",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 509 de 1999",
+    "Ley 89 de 1988",
+    "Ley 6 de 1992",
+    "Ley 100 de 1993",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/T-990-00.htm",
+  "fecha_descarga": "2026-10-23T03:43:31.818010+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-08-02",
+  "fecha_publicacion": null,
+  "numero": "T-990/00",
+  "tipo_cc": "T",
+  "prov_id": "17588",
+  "tema_relatoria": "DERECHOS DE LA MUJER A LA SEGURIDAD SOCIAL Y A LA SALUD. LICENCIA DE MATERNIDAD DE MADRES COMUNITARIAS. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "HOGARES COMUNITARIOS",
+      "subtema": "Vínculo contractual"
+    },
+    {
+      "tema": "MADRE COMUNITARIA",
+      "subtema": "Vínculo contractual"
+    },
+    {
+      "tema": "MADRE COMUNITARIA",
+      "subtema": "Inexistencia de contrato laboral"
+    },
+    {
+      "tema": "LICENCIA DE MATERNIDAD DE MADRES COMUNITARIAS",
+      "subtema": "Improcedencia de reconocimiento"
+    }
+  ]
+}

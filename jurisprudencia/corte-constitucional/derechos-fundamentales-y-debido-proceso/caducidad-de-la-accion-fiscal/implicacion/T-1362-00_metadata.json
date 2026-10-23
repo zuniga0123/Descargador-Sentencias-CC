@@ -1,0 +1,49 @@
+{
+  "radicado": "T-1362-00",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-10-09",
+  "magistrado_ponente": "Dr ALVARO TAFUR GALVIS",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "CADUCIDAD DE LA ACCION FISCAL",
+  "subtema": "Implicación",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 223 de 1995",
+    "Ley 42 de 1993",
+    "Decreto 2591 de 1991",
+    "Ley 446 de 1998",
+    "Ley 610 de 2000"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/T-1362-00.htm",
+  "fecha_descarga": "2026-10-23T03:55:00.817351+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-10-09",
+  "fecha_publicacion": null,
+  "numero": "T-1362/00",
+  "tipo_cc": "T",
+  "prov_id": "17963",
+  "tema_relatoria": "DEBIDO PROCESO. SOLICITUD DECLARATORIA CADUCIDAD DE LA ACCION FISCAL. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "CADUCIDAD DE LA ACCION FISCAL",
+      "subtema": "Implicación"
+    },
+    {
+      "tema": "PROCESO DE RESPONSABILIDAD FISCAL",
+      "subtema": "Naturaleza"
+    },
+    {
+      "tema": "CADUCIDAD DE LA ACCION FISCAL",
+      "subtema": "Fenecimiento de cuenta"
+    },
+    {
+      "tema": "CADUCIDAD DE PROCESO DE RESPONSABILIDAD FISCAL",
+      "subtema": "Aplicación"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "radicado": "C-1264-00",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-09-20",
+  "magistrado_ponente": "Dr ALVARO TAFUR GALVIS",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "DERECHO AL LIBRE DESARROLLO DE LA PERSONALIDAD",
+  "subtema": "Revocación de donación a menor por contraer matrimonio",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2067 de 1991",
+    "Ley 12 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/C-1264-00.htm",
+  "fecha_descarga": "2026-10-23T04:02:51.609478+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-09-20",
+  "fecha_publicacion": null,
+  "numero": "C-1264/00",
+  "tipo_cc": "C",
+  "prov_id": "17857",
+  "tema_relatoria": "CODIGO CIVIL. ART. 124 Y 125 INC.1. AUTORIZACION DE LOS PADRES PARA QUE LOS MENORES CONTRAIGAN MATRIMONIO. DESHEREDAMIENTO DE MENOR QUE CONTRAE MATRIMONIO SIN PERMISO DE SUS PADRES O ASCENDIENTES. REVOCACION DONACIONES HECHAS ANTES DE CONTRAER MATRIMONIO. EXEQUIBLES.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO AL LIBRE DESARROLLO DE LA PERSONALIDAD",
+      "subtema": "Revocación de donación a menor por contraer matrimonio"
+    },
+    {
+      "tema": "MATRIMONIO DE MENOR",
+      "subtema": "Sanción por celebración sin permiso"
+    },
+    {
+      "tema": "MATRIMONIO DE MENOR",
+      "subtema": "Validez"
+    },
+    {
+      "tema": "DONACIONES A MENOR",
+      "subtema": "Protección de patrimonio por contraer matrimonio"
+    },
+    {
+      "tema": "MATRIMONIO DE MENOR",
+      "subtema": "Sanción económica por celebración sin permiso"
+    },
+    {
+      "tema": "MATRIMONIO DE MENOR",
+      "subtema": "Retiro de beneficios económicos por padres"
+    },
+    {
+      "tema": "DONACIONES A MENOR",
+      "subtema": "Revocación por ascendientes por contraer matrimonio"
+    },
+    {
+      "tema": "DERECHO A LA PERSONALIDAD JURIDICA EN MATRIMONIO DE MENOR",
+      "subtema": "Revocación de donación"
+    }
+  ]
+}

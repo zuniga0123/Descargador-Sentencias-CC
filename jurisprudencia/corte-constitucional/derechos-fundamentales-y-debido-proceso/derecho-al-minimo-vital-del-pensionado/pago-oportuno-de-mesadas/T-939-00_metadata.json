@@ -1,0 +1,41 @@
+{
+  "radicado": "T-939-00",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-07-24",
+  "magistrado_ponente": "Dr ALEJANDRO MARTÍNEZ CABALLERO",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "DERECHO AL MINIMO VITAL DEL PENSIONADO",
+  "subtema": "Pago oportuno de mesadas",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/T-939-00.htm",
+  "fecha_descarga": "2026-10-23T03:43:53.061558+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-07-24",
+  "fecha_publicacion": null,
+  "numero": "T-939/00",
+  "tipo_cc": "T",
+  "prov_id": "17532",
+  "tema_relatoria": "DERECHO A LA VIDA DIGNA AL MINIMO VITAL Y A LA SEGURIDAD SOCIAL. PAGO DE MESADAS PENSIONALES. CONCEDIDA PARCIALMENTE.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO AL MINIMO VITAL DEL PENSIONADO",
+      "subtema": "Pago oportuno de mesadas"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Procedencia excepcional pago de mesadas pensionales"
+    },
+    {
+      "tema": "ACCION DE TUTELA TRANSITORIA PARA RECLAMO DE SALARIOS",
+      "subtema": "Prueba requerida de que existe perjuicio irremediable"
+    }
+  ]
+}

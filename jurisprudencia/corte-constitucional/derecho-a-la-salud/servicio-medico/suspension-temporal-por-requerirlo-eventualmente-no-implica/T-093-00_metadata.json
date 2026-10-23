@@ -1,0 +1,43 @@
+{
+  "radicado": "T-093-00",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-02-02",
+  "magistrado_ponente": "Dr ALVARO TAFUR GALVIS",
+  "area": "Derecho a la Salud",
+  "tema": "SERVICIO MEDICO",
+  "subtema": "Suspensión temporal por requerirlo eventualmente no implica vulneración de derecho fundamental",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 306 de 1992",
+    "Ley 100 de 1993",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/T-093-00.htm",
+  "fecha_descarga": "2026-10-23T03:51:21.462324+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-02-02",
+  "fecha_publicacion": null,
+  "numero": "T-093/00",
+  "tipo_cc": "T",
+  "prov_id": "16618",
+  "tema_relatoria": "SUSPENSION DE SERVICIOS MEDICOS PRESTADOS POR CAJANAL A TRAVES DE CLINICA POR FALTA DE RECURSOS. NO HAY VIOLACION DE DERECHO FUNAMENTAL. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "SERVICIO MEDICO",
+      "subtema": "Suspensión temporal por requerirlo eventualmente no implica vulneración de derecho fundamental"
+    },
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Fundamental por conexidad con la vida"
+    },
+    {
+      "tema": "DERECHO A LA SALUD DE NIÑOS, NIÑAS Y ADOLESCENTES",
+      "subtema": "Fundamental"
+    }
+  ]
+}

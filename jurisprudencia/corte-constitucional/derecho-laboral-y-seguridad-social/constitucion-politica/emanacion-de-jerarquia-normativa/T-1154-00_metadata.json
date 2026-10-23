@@ -1,0 +1,83 @@
+{
+  "radicado": "T-1154-00",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-09-01",
+  "magistrado_ponente": "Dr ALEJANDRO MARTINEZ CABALLERO",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "CONSTITUCION POLITICA",
+  "subtema": "Emanación de jerarquía normativa",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 1668 de 1997",
+    "Decreto 2591 de 1991",
+    "Decreto 1513 de 1998",
+    "Decreto 1748 de 1995",
+    "Decreto 1474 de 1997",
+    "Decreto 1296 de 1994",
+    "Ley 100 de 1993"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/T-1154-00.htm",
+  "fecha_descarga": "2026-10-23T03:56:23.520442+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-09-01",
+  "fecha_publicacion": null,
+  "numero": "T-1154/00",
+  "tipo_cc": "T",
+  "prov_id": "17750",
+  "tema_relatoria": "DERECHO AL RECONOCIMIENTO DE LA PENSION DE VEJEZ. NO TRAMITACION DE BONOS PENSIONALES. RESPETO A LA JERARQUIA NORMATIVA. TRAMITACION DE LOS BONOS PENSIONALES TIPO \"B\". EMISION Y EXPEDICION DEL BONO. SI SE HA EMITIDO Y EXPEDIDO EL BONO NO PUEDE NEGARSE EL RECONOCIMIENTO DE LA PENSION. CONCEDIDA PARCIALMENTE.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "CONSTITUCION POLITICA",
+      "subtema": "Emanación de jerarquía normativa"
+    },
+    {
+      "tema": "BONO PENSIONAL",
+      "subtema": "Trámite"
+    },
+    {
+      "tema": "DERECHOS ADQUIRIDOS DEL PENSIONADO",
+      "subtema": "Protección"
+    },
+    {
+      "tema": "PRINCIPIO DE FAVORABILIDAD LABORAL",
+      "subtema": "Remisión de bono pensional"
+    },
+    {
+      "tema": "VIA DE HECHO EN PENSION DE JUBILACION",
+      "subtema": "No reconocimiento por demora en emisión de bono pensional"
+    },
+    {
+      "tema": "BONO PENSIONAL",
+      "subtema": "Demora en emisión impide acceso a pensión de jubilación"
+    },
+    {
+      "tema": "BONO PENSIONAL",
+      "subtema": "Procedencia de tutela para reclamar la remisión"
+    },
+    {
+      "tema": "BONO PENSIONAL",
+      "subtema": "Expedición y emisión"
+    },
+    {
+      "tema": "PRINCIPIOS CONSTITUCIONALES",
+      "subtema": "Respeto"
+    },
+    {
+      "tema": "DERECHOS FUNDAMENTALES",
+      "subtema": "Vulneración por demora en emisión de bono pensional"
+    },
+    {
+      "tema": "DERECHO A LA PENSION DE VEJEZ",
+      "subtema": "Fundamental por conexidad"
+    },
+    {
+      "tema": "DERECHO A LA PENSION DE JUBILACION",
+      "subtema": "No puede negarse si se ha emitido y expedido el bono pensional"
+    }
+  ]
+}

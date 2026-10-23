@@ -1,0 +1,63 @@
+{
+  "radicado": "C-994-00",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-08-02",
+  "magistrado_ponente": "Dr ALEJANDRO MARTÍNEZ CABALLERO",
+  "area": "Derecho Administrativo y Función Pública",
+  "tema": "CORPORACION AUTONOMA REGIONAL",
+  "subtema": "Autonomía limitada",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 443 de 1998",
+    "Decreto 2067 de 1991",
+    "Decreto 111 de 1996"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/C-994-00.htm",
+  "fecha_descarga": "2026-10-23T04:05:18.892671+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-08-02",
+  "fecha_publicacion": null,
+  "numero": "C-994/00",
+  "tipo_cc": "C",
+  "prov_id": "17583",
+  "tema_relatoria": "LEY 443 DE 1998. ARTS. 39 Y 41 (PS.). NORMAS SOBRE CARRERA ADMINISTRATIVA. SUPRESION DE CARGOS. DERECHOS DEL EMPLEADO. REINCORPORACION EN ENTIDADES DE LA RAMA EJECUTIVA. REFORMAS A LAS PLANTAS DE PERSONAL. AUTONOMIA DE LAS CAVS. COSA JUZGADA RELATIVA. EXEQUIBLE E INEXEQUIBLE EXPRESIONES.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "CORPORACION AUTONOMA REGIONAL",
+      "subtema": "Autonomía limitada"
+    },
+    {
+      "tema": "CARRERA ADMINISTRATIVA",
+      "subtema": "Incorporación a empleos equivalentes por supresión de cargos"
+    },
+    {
+      "tema": "CARRERA ADMINISTRATIVA",
+      "subtema": "Motivación de reformas de planta de personal"
+    },
+    {
+      "tema": "CARRERA ADMINISTRATIVA",
+      "subtema": "Incorporación a entidad de rama ejecutiva por supresión de cargos"
+    },
+    {
+      "tema": "CORPORACION AUTONOMA REGIONAL",
+      "subtema": "Autonomía en reestructuración de planta de personal"
+    },
+    {
+      "tema": "CORPORACION AUTONOMA REGIONAL",
+      "subtema": "Aprobación de modificación de planta de personal"
+    },
+    {
+      "tema": "CORPORACION AUTONOMA REGIONAL",
+      "subtema": "Coordinación entre autoridades"
+    },
+    {
+      "tema": "COSA JUZGADA RELATIVA",
+      "subtema": "Cargos diferentes"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "radicado": "T-1278-00",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-09-22",
+  "magistrado_ponente": "Dr FABIO MORON DIAZ",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "ACCIÓN DE TUTELA",
+  "subtema": "Procedencia excepcional pago de acreencias laborales",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 344 de 1996",
+    "Decreto 51 de 1993"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/T-1278-00.htm",
+  "fecha_descarga": "2026-10-23T03:58:51.848799+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-09-22",
+  "fecha_publicacion": null,
+  "numero": "T-1278/00",
+  "tipo_cc": "T",
+  "prov_id": "17878",
+  "tema_relatoria": "DERECHO A LA IGUALDAD Y AL TRABAJO. RECONOCIMIENTO Y PAGO DE CESANTIAS PARCIALES. EXISTENCIA DE PARTIDA PRESUPUESTAL. RAZONABILIDAD DE LA ORDEN DE PAGO. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Procedencia excepcional pago de acreencias laborales"
+    },
+    {
+      "tema": "CESANTIAS PARCIALES",
+      "subtema": "Apropiación para el pago no debe implicar alteración turno de entrega"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Hecho superado"
+    },
+    {
+      "tema": "CESANTIAS PARCIALES",
+      "subtema": "Reconocimiento no sujeto a disponibilidad presupuestal"
+    }
+  ]
+}

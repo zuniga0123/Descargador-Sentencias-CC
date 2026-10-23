@@ -1,0 +1,69 @@
+{
+  "radicado": "C-1111-00",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-08-24",
+  "magistrado_ponente": "Dr JOSÉ GREGORIO HERNÁNDEZ GALINDO",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "ARANCEL DE ADUANAS",
+  "subtema": "Naturaleza",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 6 de 1971",
+    "Decreto 2067 de 1991",
+    "Ley 79 de 1931",
+    "Decreto 2350 de 1991",
+    "Ley 6 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/C-1111-00.htm",
+  "fecha_descarga": "2026-10-23T04:05:51.727357+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-08-24",
+  "fecha_publicacion": null,
+  "numero": "C-1111/00",
+  "tipo_cc": "C",
+  "prov_id": "17700",
+  "tema_relatoria": "LEY 6 DE 1971. NORMAS A LAS CUALES DEBE SUJETARSE EL GOBIERNO PARA MODIFICAR LOS ARANCELES TARIFAS Y DEMAS CONCERNIENTES AL REGIMEN DE ADUANAS. EXEQUIBLE CONDICIONADO.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ARANCEL DE ADUANAS",
+      "subtema": "Naturaleza"
+    },
+    {
+      "tema": "DECRETOS EXPEDIDOS EN DESARROLLO DE LEYES MARCO",
+      "subtema": "Naturaleza"
+    },
+    {
+      "tema": "LEY MARCO",
+      "subtema": "Modificaciones del arancel de aduanas"
+    },
+    {
+      "tema": "COMITE DE ASUNTOS ADUANEROS, ARANCELARIOS Y DE COMERCIO EXTERIOR",
+      "subtema": "Conceptos no obligan"
+    },
+    {
+      "tema": "FACULTADES EXTRAORDINARIAS PARA EXPEDICION DE CODIGOS",
+      "subtema": "Otorgamiento bajo Constitución Política anterior"
+    },
+    {
+      "tema": "LEY MARCO",
+      "subtema": "Naturaleza"
+    },
+    {
+      "tema": "DIARIO OFICIAL",
+      "subtema": "Publicación de decretos expedidos en desarrollo de ley marco"
+    },
+    {
+      "tema": "FACULTADES EXTRAORDINARIAS",
+      "subtema": "Prohibición de expedir códigos o crear impuestos se aplica a partir de Constitución Política de 1991"
+    },
+    {
+      "tema": "LEY MARCO",
+      "subtema": "Distribución de competencias entre legislador y ejecutivo"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "radicado": "T-1396-00",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-10-18",
+  "magistrado_ponente": "Dr ANTONIO BARRERA CARBONELL",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCIÓN DE TUTELA",
+  "subtema": "Procedencia excepcional cuando exista mecanismo de defensa",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 638 de 1997"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/T-1396-00.htm",
+  "fecha_descarga": "2026-10-23T03:55:36.875701+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-10-18",
+  "fecha_publicacion": null,
+  "numero": "T-1396/00",
+  "tipo_cc": "T",
+  "prov_id": "18007",
+  "tema_relatoria": "DERECHO A LA IGUALDAD. CONCURSO PARA PROVEER CARGOS DE DIRECTIVOS DOCENTES. VARIACION DE LA CALIFICACION INICIAL DEL EXAMEN. AUMENTO PORCENTAJE DE LA CALIFICACION FINAL LO QUE HIZO QUE EL ACTOR QUEDARA POR FUERA DE LA LISTA DE ELEGIBLES INICIAL. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Procedencia excepcional cuando exista mecanismo de defensa"
+    },
+    {
+      "tema": "SISTEMA DE CARRERA",
+      "subtema": "Provisión de vacantes atendiendo lista de elegibles y en estricto orden de resultados"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Razonabilidad en presentación y derechos fundamentales de terceros afectados"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Subsidiariedad"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Término de presentación"
+    },
+    {
+      "tema": "MEDIO DE DEFENSA JUDICIAL INEFICAZ",
+      "subtema": "Integración lista de elegibles"
+    }
+  ]
+}

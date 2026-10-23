@@ -1,0 +1,75 @@
+{
+  "radicado": "C-1338-00",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-10-04",
+  "magistrado_ponente": "Dra CRISTINA PARDO SCHLESINGER",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "PARTICIPACION DEMOCRATICA",
+  "subtema": "Estado y ciudadano",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 563 de 2000",
+    "Decreto 2067 de 1991",
+    "Ley 134 de 1994"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/C-1338-00.htm",
+  "fecha_descarga": "2026-10-23T04:03:28.539460+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-10-04",
+  "fecha_publicacion": null,
+  "numero": "C-1338/00",
+  "tipo_cc": "C",
+  "prov_id": "17939",
+  "tema_relatoria": "LEY 563 DE 2000. ARTS. 3 7 Y 20. RESERVA ESTATUTARIA PARA LA REGLAMENTACION DE VEEDURIAS CIUDADANAS. INEXEQUIBLE.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "PARTICIPACION DEMOCRATICA",
+      "subtema": "Estado y ciudadano"
+    },
+    {
+      "tema": "GESTION PUBLICA",
+      "subtema": "Control"
+    },
+    {
+      "tema": "LEY ESTATUTARIA",
+      "subtema": "Regulación integral de materias"
+    },
+    {
+      "tema": "PARTICIPACION CIUDADANA",
+      "subtema": "Derecho deber"
+    },
+    {
+      "tema": "VEEDURIAS CIUDADANAS",
+      "subtema": "Reglamentación integral por trámite estatutario"
+    },
+    {
+      "tema": "PARTICIPACION CIUDADANA",
+      "subtema": "Inmediatez"
+    },
+    {
+      "tema": "PARTICIPACION CIUDADANA",
+      "subtema": "Finalidad"
+    },
+    {
+      "tema": "MECANISMOS DE PARTICIPACION CIUDADANA",
+      "subtema": "Reserva de trámite estatutario"
+    },
+    {
+      "tema": "LEY ESTATUTARIA DE VEEDURIAS CIUDADANAS",
+      "subtema": "Desarrollo por ley ordinaria"
+    },
+    {
+      "tema": "LEY ESTATUTARIA",
+      "subtema": "Carácter restrictivo de reserva"
+    },
+    {
+      "tema": "VEEDURIAS CIUDADANAS",
+      "subtema": "Reserva de trámite estatutario"
+    }
+  ]
+}

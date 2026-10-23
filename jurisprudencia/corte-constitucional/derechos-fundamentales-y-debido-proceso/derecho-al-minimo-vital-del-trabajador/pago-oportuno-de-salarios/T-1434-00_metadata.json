@@ -1,0 +1,41 @@
+{
+  "radicado": "T-1434-00",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-10-24",
+  "magistrado_ponente": "Dr ALVARO TAFUR GALVIS",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "DERECHO AL MINIMO VITAL DEL TRABAJADOR",
+  "subtema": "Pago oportuno de salarios",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/T-1434-00.htm",
+  "fecha_descarga": "2026-10-23T03:48:47.240738+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-10-24",
+  "fecha_publicacion": null,
+  "numero": "T-1434/00",
+  "tipo_cc": "T",
+  "prov_id": "18049",
+  "tema_relatoria": "DERECHO A LA VIDA TRABAJO IGUALDAD Y MINIMO VITAL. PAGO DE ACREENCIAS LABORALES. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO AL MINIMO VITAL DEL TRABAJADOR",
+      "subtema": "Pago oportuno de salarios"
+    },
+    {
+      "tema": "DERECHO AL PAGO OPORTUNO DEL SALARIO",
+      "subtema": "Fundamental"
+    },
+    {
+      "tema": "EMPLEADOR",
+      "subtema": "Falta de presupuesto o insolvencia para pago oportuno de salarios no es razón suficiente"
+    }
+  ]
+}

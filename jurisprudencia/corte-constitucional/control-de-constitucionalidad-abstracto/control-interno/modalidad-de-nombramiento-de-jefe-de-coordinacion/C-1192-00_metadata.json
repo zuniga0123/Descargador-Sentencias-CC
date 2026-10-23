@@ -1,0 +1,45 @@
+{
+  "radicado": "C-1192-00",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-09-13",
+  "magistrado_ponente": "Dr VLADIMIRO NARANJO MESA",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "CONTROL INTERNO",
+  "subtema": "Modalidad de nombramiento de jefe de coordinación",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 87 de 1993",
+    "Decreto 2067 de 1991",
+    "Ley 443 de 1998",
+    "Ley 222 de 1995",
+    "Ley 489 de 1998"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/C-1192-00.htm",
+  "fecha_descarga": "2026-10-23T04:02:36.889960+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-09-13",
+  "fecha_publicacion": null,
+  "numero": "C-1192/00",
+  "tipo_cc": "C",
+  "prov_id": "17822",
+  "tema_relatoria": "LEY 87 DE 1993. ART. 11 (P). CONTROL INTERNO EN LAS ENTIDADES Y ORGANISMOS DEL ESTADO. DESIGNACION DEL JEFE DE LA UNIDAD DE COORDINACION DEL CONTROL INTERNO. FUNCIONARIO DE LIBRE NOMBRAMIENTO Y REMOCION. EXEQUIBLE PRIMER INCISO.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "CONTROL INTERNO",
+      "subtema": "Modalidad de nombramiento de jefe de coordinación"
+    },
+    {
+      "tema": "SISTEMA DE CONTROL INTERNO",
+      "subtema": "Designación jefe de oficina asesora"
+    },
+    {
+      "tema": "SISTEMA DE CONTROL INTERNO",
+      "subtema": "Implementación y tecnificación"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "radicado": "T-1227-00",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-09-07",
+  "magistrado_ponente": "Dr ALEJANDRO MARTÍNEZ CABALLERO",
+  "area": "Derecho a la Salud",
+  "tema": "DERECHO A LA SALUD",
+  "subtema": "Fundamental por conexidad con la vida",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Decreto 806 de 1998"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/T-1227-00.htm",
+  "fecha_descarga": "2026-10-23T03:49:51.595330+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-09-07",
+  "fecha_publicacion": null,
+  "numero": "T-1227/00",
+  "tipo_cc": "T",
+  "prov_id": "17778",
+  "tema_relatoria": "DERECHO A LA VIDA A LA SALUD A LA IGUALDAD Y A LA DIGNIDAD. PACIENTE A QUIEN SE INTERVINO QUIRURGICAMENTE Y DESPUES DE DICHA OPERACION SU SALUD EMPEORO. NEGATIVA DE NUEVOS EXAMENES POR ESTAR FUERA DEL POS. PRESTACION DE SERVICIOS NO CUBIERTOS POR EL POS. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Fundamental por conexidad con la vida"
+    },
+    {
+      "tema": "ADMINISTRADORA DEL REGIMEN SUBSIDIADO",
+      "subtema": "Información al afiliado sobre posibilidad de atención en servicio no incluido en POS"
+    },
+    {
+      "tema": "DERECHO A LA DIGNIDAD HUMANA",
+      "subtema": "Vulneración por no realizarse examen excluido del POS"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "radicado": "T-101-00",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-02-03",
+  "magistrado_ponente": "Dr JOSÉ GREGORIO HERNÁNDEZ GALINDO",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "DERECHO A LA VIDA DIGNA DE PERSONA DE LA TERCERA EDAD",
+  "subtema": "Protección de los servicios personales domésticos",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/T-101-00.htm",
+  "fecha_descarga": "2026-10-23T03:51:35.469219+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-02-03",
+  "fecha_publicacion": null,
+  "numero": "T-101/00",
+  "tipo_cc": "T",
+  "prov_id": "16628",
+  "tema_relatoria": "EMPLEADA DEL SERVICIO DOMESTICO. TUTELA CONTRA PARTICULARES. PERSONA DE LA TERCERA EDAD. TUTELA TRANSITORIA PARA PROTEGER DERECHO A LA SEGURIDAD SOCIAL. CONCEDIDA",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA VIDA DIGNA DE PERSONA DE LA TERCERA EDAD",
+      "subtema": "Protección de los servicios personales domésticos"
+    },
+    {
+      "tema": "ACCION DE TUTELA TRANSITORIA PARA EXEMPLEADA DEL SERVICIO DOMESTICO",
+      "subtema": "Pago de suma equivalente al salario mínimo y afiliación al POS"
+    },
+    {
+      "tema": "DEFENSORIA DEL PUEBLO",
+      "subtema": "Asistencia jurídica y legal necesaria"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Procedencia excepcional pago de acreencias laborales"
+    },
+    {
+      "tema": "DERECHO A LA SEGURIDAD SOCIAL DE PERSONA DE LA TERCERA EDAD",
+      "subtema": "Fundamental por afectación del mínimo vital"
+    },
+    {
+      "tema": "DERECHO A LA VIDA DIGNA",
+      "subtema": "Protección del mínimo vital"
+    },
+    {
+      "tema": "TRABAJO DOMÉSTICO",
+      "subtema": "Afiliación al régimen de pensiones"
+    },
+    {
+      "tema": "TRABAJO DOMÉSTICO",
+      "subtema": "Protección del mínimo vital de subsistencia de persona de avanzada edad"
+    }
+  ]
+}

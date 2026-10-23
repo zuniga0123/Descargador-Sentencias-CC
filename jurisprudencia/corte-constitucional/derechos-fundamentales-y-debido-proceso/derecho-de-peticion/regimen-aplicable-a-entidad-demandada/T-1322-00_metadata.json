@@ -1,0 +1,57 @@
+{
+  "radicado": "T-1322-00",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-09-27",
+  "magistrado_ponente": "Dra MARTHA VICTORIA SÁCHICA MÉNDEZ",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "DERECHO DE PETICIÓN",
+  "subtema": "Régimen aplicable a entidad demandada",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 80 de 1993",
+    "Ley 583 de 2000",
+    "Ley 489 de 1998",
+    "Ley 563 de 2000",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/T-1322-00.htm",
+  "fecha_descarga": "2026-10-23T03:59:57.130269+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-09-27",
+  "fecha_publicacion": null,
+  "numero": "T-1322/00",
+  "tipo_cc": "T",
+  "prov_id": "17921",
+  "tema_relatoria": "DERECHO DE PETICION. SOLICITUD INFORMACION EN CALIDAD DE VEEDOR CIUDADANO RESPECTO DEL DESARROLLO DEL CONVENIO INTERADMINISTRATIVO CELEBRADO ENTRE LA EMPRESA ACCIONADA Y LA SECRETARIA DE TRANSITO DE CALI. CONTRATO PUBLICO. INFORMACION PUBLICA. NO OPERANCIA DE LA RESERVA LEGAL. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO DE PETICIÓN",
+      "subtema": "Régimen aplicable a entidad demandada"
+    },
+    {
+      "tema": "VEEDOR CIUDADANO",
+      "subtema": "Solicitud informe de gestión a empresa de economía mixta"
+    },
+    {
+      "tema": "NATURALEZA JURIDICA DE ENTIDAD DEMANDADA",
+      "subtema": null
+    },
+    {
+      "tema": "DERECHO DE PETICIÓN",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "EMPRESA DE ECONOMIA MIXTA",
+      "subtema": "No opera reserva para entregar informe de gestión"
+    },
+    {
+      "tema": "RESERVA DE INFORMACION",
+      "subtema": "Exposición de razones"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "radicado": "C-844-00",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-07-06",
+  "magistrado_ponente": "Dr ANTONIO BARRERA CARBONELL",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "PRESIDENTE DE LA REPUBLICA",
+  "subtema": "Nombramiento temporal de alcalde",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2067 de 1991",
+    "Ley 136 de 1994"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/C-844-00.htm",
+  "fecha_descarga": "2026-10-23T04:04:38.267458+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-07-06",
+  "fecha_publicacion": null,
+  "numero": "C-844/00",
+  "tipo_cc": "C",
+  "prov_id": "17441",
+  "tema_relatoria": "LEY 136/94. ART. 18. DESIGNACION DE AUTORIDADES. CONCEJALES Y ALCALDES EN LOS MUNICIPIOS. INEXEQUIBLE.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "PRESIDENTE DE LA REPUBLICA",
+      "subtema": "Nombramiento temporal de alcalde"
+    },
+    {
+      "tema": "ELECCION POPULAR DE ALCALDES",
+      "subtema": "No condicionado a que vacancia sea originaria o sobreviniente"
+    },
+    {
+      "tema": "ELECCION POPULAR DE ALCALDES",
+      "subtema": "Vacancia"
+    },
+    {
+      "tema": "ALCALDE ENCARGADO",
+      "subtema": "Nombramiento por gobernador al crearse nuevo municipio"
+    },
+    {
+      "tema": "ALCALDE",
+      "subtema": "Periodo individual"
+    },
+    {
+      "tema": "GOBERNADOR",
+      "subtema": "Nombramiento temporal de alcalde"
+    },
+    {
+      "tema": "RESERVA DE LEY ESTATUTARIA",
+      "subtema": "Alcance en materia electoral"
+    }
+  ]
+}

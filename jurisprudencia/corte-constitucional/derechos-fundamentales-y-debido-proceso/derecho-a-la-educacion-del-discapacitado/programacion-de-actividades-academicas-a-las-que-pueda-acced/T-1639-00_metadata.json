@@ -1,0 +1,56 @@
+{
+  "radicado": "T-1639-00",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-11-28",
+  "magistrado_ponente": "Dr ALVARO TAFUR GALVIS",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "DERECHO A LA EDUCACION DEL DISCAPACITADO",
+  "subtema": "Programación de actividades académicas a las que pueda acceder sin poner en riego su vida",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 393 de 1997",
+    "Ley 361 de 1997",
+    "Ley 472 de 1998",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/T-1639-00.htm",
+  "fecha_descarga": "2026-10-23T03:42:31.012966+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-11-28",
+  "fecha_publicacion": null,
+  "numero": "T-1639/00",
+  "tipo_cc": "T",
+  "prov_id": "18290",
+  "tema_relatoria": "DERECHO A LA IGUALDAD. DISCRIMINACION. ELIMINACION DE BARRERAS QUE IMPIDEN A LOS LIMITADOS FISICOS ACCEDER A LOS SERVICIOS PUBLICOS. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA EDUCACION DEL DISCAPACITADO",
+      "subtema": "Programación de actividades académicas a las que pueda acceder sin poner en riego su vida"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Improcedencia para el caso"
+    },
+    {
+      "tema": "ACCION DE CUMPLIMIENTO",
+      "subtema": "Ejecución de obras para suprimir barreras físicas que impiden el acceso y desplazamiento de discapacitados"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Necesidad de distinguir las pretensiones cuando la protección de amparo involucra derechos colectivos"
+    },
+    {
+      "tema": "DERECHOS FUNDAMENTALES DEL DISCAPACITADO",
+      "subtema": "Supresión de barreras físicas que impiden su acceso y desplazamiento"
+    },
+    {
+      "tema": "DERECHO A LA IGUALDAD DEL DISCAPACITADO",
+      "subtema": "Discriminación por barreras físicas que impiden su acceso y desplazamiento"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "radicado": "T-1290-00",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-09-25",
+  "magistrado_ponente": "Dr JOSÉ GREGORIO HERNÁNDEZ GALINDO",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "SUPREMACIA DE LA CONSTITUCION POLITICA",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Decreto 3011 de 1997"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/T-1290-00.htm",
+  "fecha_descarga": "2026-10-23T03:59:21.084605+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-09-25",
+  "fecha_publicacion": null,
+  "numero": "T-1290/00",
+  "tipo_cc": "T",
+  "prov_id": "17888",
+  "tema_relatoria": "DERECHO A LA EDUCACION. NO PROCEDENCIA DE LA ACCION DE TUTELA CONTRA ACTOS DE CARÁCTER GENERAL.CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "SUPREMACIA DE LA CONSTITUCION POLITICA",
+      "subtema": null
+    },
+    {
+      "tema": "DERECHO A LA EDUCACIÓN",
+      "subtema": "No admite restricciones injustificadas"
+    },
+    {
+      "tema": "DERECHO A LA EDUCACIÓN",
+      "subtema": "Función social"
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA ACTOS DE CARACTER GENERAL, IMPERSONAL Y ABSTRACTO",
+      "subtema": "Improcedencia"
+    },
+    {
+      "tema": "DERECHO A LA EDUCACIÓN",
+      "subtema": "Factor de desarrollo humano"
+    },
+    {
+      "tema": "DERECHO A LA EDUCACIÓN",
+      "subtema": "Ingreso de menores a jornada nocturna"
+    },
+    {
+      "tema": "EXCEPCIÓN DE INCONSTITUCIONALIDAD",
+      "subtema": "Aplicación"
+    }
+  ]
+}

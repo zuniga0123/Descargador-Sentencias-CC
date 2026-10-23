@@ -1,0 +1,78 @@
+{
+  "radicado": "C-922-00",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-07-19",
+  "magistrado_ponente": "Dr ANTONIO BARRERA CARBONELL",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "ASAMBLEA DEPARTAMENTAL",
+  "subtema": "Determinación de beneficiarios del tributo",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2067 de 1961",
+    "Decreto 2067 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/C-922-00.htm",
+  "fecha_descarga": "2026-10-23T04:04:45.448234+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-07-19",
+  "fecha_publicacion": null,
+  "numero": "C-922/00",
+  "tipo_cc": "C",
+  "prov_id": "17515",
+  "tema_relatoria": "PROYECTO DE LEY 09/99 SENADO Y 120/98 CAMARA. EMISION DE ESTAMPILLA PRO HOSPITALES UNIVERSITARIOS. FUNDADAS E INFUNDADAS E INEXEQUIBLE.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ASAMBLEA DEPARTAMENTAL",
+      "subtema": "Determinación de beneficiarios del tributo"
+    },
+    {
+      "tema": "AUXILIOS O DONACIONES",
+      "subtema": "Excepción a la prohibición"
+    },
+    {
+      "tema": "HOSPITALES UNIVERSITARIOS",
+      "subtema": "Actividad"
+    },
+    {
+      "tema": "PROYECTO DE LEY",
+      "subtema": "Modificación por plenaria de una célula legislativa"
+    },
+    {
+      "tema": "TRIBUTO DEPARTAMENTAL",
+      "subtema": "Emisión de estampillas"
+    },
+    {
+      "tema": "AUXILIOS O DONACIONES A PERSONAS NATURALES O JURIDICAS",
+      "subtema": "Prohibición no es absoluta"
+    },
+    {
+      "tema": "COMISION ACCIDENTAL",
+      "subtema": "Alcance de la función"
+    },
+    {
+      "tema": "PROYECTO DE LEY Y PRINCIPIO DE IDENTIDAD",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "HOSPITALES UNIVERSITARIOS PRIVADOS",
+      "subtema": "Naturaleza"
+    },
+    {
+      "tema": "HOSPITALES UNIVERSITARIOS PRIVADOS",
+      "subtema": "Beneficiarios de tributos"
+    },
+    {
+      "tema": "HOSPITALES UNIVERSITARIOS",
+      "subtema": "Beneficiarios de tributos"
+    },
+    {
+      "tema": "ASAMBLEA DEPARTAMENTAL",
+      "subtema": "Creación estampilla pro-hospitales universitarios"
+    }
+  ]
+}

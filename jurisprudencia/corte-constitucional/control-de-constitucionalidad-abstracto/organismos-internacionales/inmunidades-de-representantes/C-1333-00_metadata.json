@@ -1,0 +1,54 @@
+{
+  "radicado": "C-1333-00",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-10-04",
+  "magistrado_ponente": "Dr ALEJANDRO MARTÍNEZ CABALLERO",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "ORGANISMOS INTERNACIONALES",
+  "subtema": "Inmunidades de representantes",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2067 de 1991",
+    "Ley 559 de 2000",
+    "Ley 99 de 1993",
+    "Ley 45 de 1971",
+    "Ley 303 de 1996",
+    "Ley 62 de 1973"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/C-1333-00.htm",
+  "fecha_descarga": "2026-10-23T04:03:21.159622+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-10-04",
+  "fecha_publicacion": null,
+  "numero": "C-1333/00",
+  "tipo_cc": "C",
+  "prov_id": "17934",
+  "tema_relatoria": "LEY APROBATORIA No. 559 DE 2000. CONVENCION SOBRE PRERROGATIVAS E INMUNIDADES DEL ORGANISMO PARA LA PROSCRIPCION DE LAS ARMAS NUCLEARES EN AMERICA LATINA (OPANAL). MEXICO D.F. EXEQUIBLES EXCEPTO ALGUNOS ORDINALES DE LA CONVENCION Y LA LEY.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ORGANISMOS INTERNACIONALES",
+      "subtema": "Inmunidades de representantes"
+    },
+    {
+      "tema": "TRIBUTO POR ENTIDADES TERRITORIALES",
+      "subtema": "Ley no puede conceder exenciones"
+    },
+    {
+      "tema": "CONVENCION SOBRE PRERROGATIVAS PARA PROSCRIPCION DE ARMAS NUCLEARES EN AMERICA LATINA",
+      "subtema": "Finalidad y contenido"
+    },
+    {
+      "tema": "ORGANISMOS INTERNACIONALES",
+      "subtema": "Regulaciones cambiarias y exenciones"
+    },
+    {
+      "tema": "ORGANISMOS INTERNACIONALES",
+      "subtema": "Inmunidades y prerrogativas"
+    }
+  ]
+}

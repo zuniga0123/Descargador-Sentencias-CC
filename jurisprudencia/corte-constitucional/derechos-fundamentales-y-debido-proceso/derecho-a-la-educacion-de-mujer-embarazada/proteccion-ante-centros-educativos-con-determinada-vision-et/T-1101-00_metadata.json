@@ -1,0 +1,58 @@
+{
+  "radicado": "T-1101-00",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-08-18",
+  "magistrado_ponente": "Dr VLADIMIRO NARANJO MESA",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "DERECHO A LA EDUCACION DE MUJER EMBARAZADA",
+  "subtema": "Protección ante centros educativos con determinada visión ética o religiosa",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 115 de 1994"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/T-1101-00.htm",
+  "fecha_descarga": "2026-10-23T03:58:12.415498+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-08-18",
+  "fecha_publicacion": null,
+  "numero": "T-1101/00",
+  "tipo_cc": "T",
+  "prov_id": "17689",
+  "tema_relatoria": "DERECHO A LA IGUALDAD Y EDUCACION. ESTUDIANTES CONMINADAS POR LA INSTITUCION EDUCATIVA A UN PROGRAMA DE \"DESESCOLARIZACION\" DE ESTUDIOS POR ESTAR EMBARAZADAS CONTENIDO EN EL MANUAL DE CONVIVENCIA. HECHO CONSUMADO. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA EDUCACION DE MUJER EMBARAZADA",
+      "subtema": "Protección ante centros educativos con determinada visión ética o religiosa"
+    },
+    {
+      "tema": "DERECHO A LA EDUCACION DE MUJER EMBARAZADA",
+      "subtema": "Desescolarización"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Hecho consumado"
+    },
+    {
+      "tema": "MATERNIDAD",
+      "subtema": "Protección"
+    },
+    {
+      "tema": "REGLAMENTO EDUCATIVO",
+      "subtema": "No puede tipificar como falta el embarazo"
+    },
+    {
+      "tema": "REGLAMENTO EDUCATIVO",
+      "subtema": "Desescolarización por estudiar en embarazo"
+    },
+    {
+      "tema": "EDUCACIÓN",
+      "subtema": "Derecho fundamental y servicio público con función social"
+    }
+  ]
+}

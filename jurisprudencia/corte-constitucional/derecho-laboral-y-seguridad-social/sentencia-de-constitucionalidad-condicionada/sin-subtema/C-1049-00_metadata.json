@@ -1,0 +1,60 @@
+{
+  "radicado": "C-1049-00",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-08-10",
+  "magistrado_ponente": "Dr JOSÉ GREGORIO HERNÁNDEZ GALINDO",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "SENTENCIA DE CONSTITUCIONALIDAD CONDICIONADA",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 510 de 1999",
+    "Decreto 2067 de 1991",
+    "Decreto 663 de 1993",
+    "Decreto 2351 de 1965"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/C-1049-00.htm",
+  "fecha_descarga": "2026-10-23T04:02:11.182906+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-08-10",
+  "fecha_publicacion": null,
+  "numero": "C-1049/00",
+  "tipo_cc": "C",
+  "prov_id": "17635",
+  "tema_relatoria": "LEY 510 DE 1999. ART. 22. NUM.1. PARAG. DISPOSICIONES EN RELACION CON EL SISTEMA FINANCIERO Y ASEGURADOR. FACULTAD RELATIVA DEL LEGISLADOR PARA FIJAR LAS CAUSAS JUSTAS DEL DESPIDO. EXEQUIBLE.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "SENTENCIA DE CONSTITUCIONALIDAD CONDICIONADA",
+      "subtema": null
+    },
+    {
+      "tema": "LEGISLADOR",
+      "subtema": "Facultad para señalar causales terminación de contrato de trabajo"
+    },
+    {
+      "tema": "INSTITUCION FINANCIERA",
+      "subtema": "Efectos laborales por toma de posesión"
+    },
+    {
+      "tema": "INDEMNIZACION LABORAL",
+      "subtema": "Improcedencia para administradores o revisores fiscales por toma de posesión de entidad"
+    },
+    {
+      "tema": "INSTITUCION FINANCIERA",
+      "subtema": "Causales para toma de posesión"
+    },
+    {
+      "tema": "INSTITUCION FINANCIERA",
+      "subtema": "Responsabilidad de administradores o revisores fiscales por toma de posesión"
+    },
+    {
+      "tema": "TERMINACION DE CONTRATO DE TRABAJO",
+      "subtema": "Administrador o Revisor Fiscal de entidad sujeta a control"
+    }
+  ]
+}

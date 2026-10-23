@@ -1,0 +1,58 @@
+{
+  "radicado": "C-995-00",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-08-02",
+  "magistrado_ponente": "Dr VLADIMIRO NARANJO MESA",
+  "area": "Derecho Administrativo y Función Pública",
+  "tema": "LEGISLADOR",
+  "subtema": "Competencia para establecer regímenes especiales",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 70 de 1988",
+    "Decreto 2067 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/C-995-00.htm",
+  "fecha_descarga": "2026-10-23T04:05:22.479481+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-08-02",
+  "fecha_publicacion": null,
+  "numero": "C-995/00",
+  "tipo_cc": "C",
+  "prov_id": "17584",
+  "tema_relatoria": "LEY 70 DE 1988. ART. 1 (P.). SUMINISTRO DE CALZADO Y VESTIDO DE LABOR PARA EMPLEADOS DEL SECTOR PUBLICO. EXEQUIBLE EXPRESION.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "LEGISLADOR",
+      "subtema": "Competencia para establecer regímenes especiales"
+    },
+    {
+      "tema": "PRINCIPIO DE IGUALDAD EN REGIMEN ESPECIAL",
+      "subtema": "No existe violación por contemplarse beneficios particulares"
+    },
+    {
+      "tema": "LEY MARCO PRESTACIONAL",
+      "subtema": null
+    },
+    {
+      "tema": "PRINCIPIO DE IGUALDAD",
+      "subtema": "Regímenes especiales"
+    },
+    {
+      "tema": "DOTACION DE CALZADO Y VESTIDO DE LABOR",
+      "subtema": "Naturaleza jurídica"
+    },
+    {
+      "tema": "PRESTACION DE CALZADO Y VESTIDO DE LABOR",
+      "subtema": "Empleados del sector público"
+    },
+    {
+      "tema": "SERVIDOR PUBLICO",
+      "subtema": "Competencia concurrente en materia de prestaciones sociales"
+    }
+  ]
+}

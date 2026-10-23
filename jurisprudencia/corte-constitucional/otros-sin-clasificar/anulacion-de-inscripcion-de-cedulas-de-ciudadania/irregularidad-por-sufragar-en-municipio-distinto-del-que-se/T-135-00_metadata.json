@@ -1,0 +1,80 @@
+{
+  "radicado": "T-135-00",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-02-17",
+  "magistrado_ponente": "Dr CARLOS GAVIRIA DÍAZ",
+  "area": "Otros - Sin clasificar",
+  "tema": "ANULACION DE INSCRIPCION DE CEDULAS DE CIUDADANIA",
+  "subtema": "Irregularidad por sufragar en municipio distinto del que se reside y ser escrutado",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 136 de 1994",
+    "Ley 84 de 1993",
+    "Ley 163 de 1994",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/T-135-00.htm",
+  "fecha_descarga": "2026-10-23T03:54:32.322484+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-02-17",
+  "fecha_publicacion": null,
+  "numero": "T-135/00",
+  "tipo_cc": "T",
+  "prov_id": "16670",
+  "tema_relatoria": "TUTELA CONTRA SENTENCIA SECCION QUINTA DEL CONSEJO DE ESTADO. ALCALDE MUNICIPIO DE CORDOBA (BOLIVAR). ALCANCE DEL DERECHO DE PARTICIPACION LOCAL. VIA DE HECHO. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ANULACION DE INSCRIPCION DE CEDULAS DE CIUDADANIA",
+      "subtema": "Irregularidad por sufragar en municipio distinto del que se reside y ser escrutado"
+    },
+    {
+      "tema": "CENSO ELECTORAL EN MUNICIPIO",
+      "subtema": "Actuación irregular por inclusión de personas no residentes en el lugar"
+    },
+    {
+      "tema": "DERECHO DE DEFENSA EN NULIDAD DE REGISTRO DE CEDULA DE CIUDADANIA",
+      "subtema": "No se excluye"
+    },
+    {
+      "tema": "DERECHO DE PARTICIPACION",
+      "subtema": "Irregularidad por sufragar persona portadora de cédula con inscripción anulada en municipio distinto al que reside"
+    },
+    {
+      "tema": "JUEZ DE TUTELA",
+      "subtema": "Descalificación de alcance probatorio de resolución de inscripción de cédulas"
+    },
+    {
+      "tema": "ALCALDE",
+      "subtema": "Anulación de elección por inscripción irregular de cédulas"
+    },
+    {
+      "tema": "DERECHO DE PARTICIPACION EN NIVEL LOCAL",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "DERECHO DE PARTICIPACION EN LA CONFORMACION, EJERCICIO Y CONTROL DEL PODER POLITICO",
+      "subtema": "Residente en el municipio"
+    },
+    {
+      "tema": "JUEZ DE TUTELA",
+      "subtema": "Valoración de medios de prueba en proceso ordinario"
+    },
+    {
+      "tema": "PROCESO ELECTORAL",
+      "subtema": "Irregularidad por escrutinio de votos cuya inscripción fue anulada y que alteran resultado"
+    },
+    {
+      "tema": "PROCESO ELECTORAL",
+      "subtema": "Nulidad actas de escrutinio una vez verificado que el registro es falso o apócrifo o elementos que hayan servido para su formación"
+    },
+    {
+      "tema": "VIA DE HECHO",
+      "subtema": "Inexistencia por anulación de elección de alcalde por inscripción irregular de cédulas"
+    }
+  ]
+}

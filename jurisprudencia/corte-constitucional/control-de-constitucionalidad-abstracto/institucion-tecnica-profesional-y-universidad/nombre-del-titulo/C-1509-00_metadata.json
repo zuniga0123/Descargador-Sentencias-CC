@@ -1,0 +1,66 @@
+{
+  "radicado": "C-1509-00",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-11-08",
+  "magistrado_ponente": "Dr JOSÉ GREGORIO HERNÁNDEZ GALINDO",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "INSTITUCION TECNICA PROFESIONAL Y UNIVERSIDAD",
+  "subtema": "Nombre del título",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 30 de 1992",
+    "Decreto 2067 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/C-1509-00.htm",
+  "fecha_descarga": "2026-10-23T04:05:29.820414+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-11-08",
+  "fecha_publicacion": null,
+  "numero": "C-1509/00",
+  "tipo_cc": "C",
+  "prov_id": "18144",
+  "tema_relatoria": "LEY 30 DE 1992. ARTS. 25 Y 26 (P.). SERVICIO PUBLICO DE EDUCACION SUPERIOR. AUTONOMIA UNIVERSITARIA Y DERECHOS DE LOS EDUCANDOS. REGLAMENTO SOBRE EXPEDICION DE TITULOS. EXEQUIBLE.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "INSTITUCION TECNICA PROFESIONAL Y UNIVERSIDAD",
+      "subtema": "Nombre del título"
+    },
+    {
+      "tema": "PROPOSICION JURIDICA COMPLETA",
+      "subtema": "Integración"
+    },
+    {
+      "tema": "AUTONOMÍA UNIVERSITARIA",
+      "subtema": "No es absoluta"
+    },
+    {
+      "tema": "AUTONOMÍA UNIVERSITARIA",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "AUTONOMÍA UNIVERSITARIA",
+      "subtema": "Exigencia de títulos de idoneidad por legislador"
+    },
+    {
+      "tema": "AUTONOMÍA UNIVERSITARIA",
+      "subtema": "Reglamentación de expedición de títulos por Gobierno"
+    },
+    {
+      "tema": "INSTITUCION TECNICA PROFESIONAL Y UNIVERSIDAD",
+      "subtema": "No vulneración de igualdad en título a recibir"
+    },
+    {
+      "tema": "INSTITUCION DE EDUCACION SUPERIOR",
+      "subtema": "Grados y diferencias"
+    },
+    {
+      "tema": "INSTITUCION TECNICA PROFESIONAL",
+      "subtema": "Finalidad"
+    }
+  ]
+}

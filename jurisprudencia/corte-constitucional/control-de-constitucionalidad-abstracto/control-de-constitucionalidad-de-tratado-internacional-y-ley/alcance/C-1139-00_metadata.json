@@ -1,0 +1,49 @@
+{
+  "radicado": "C-1139-00",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-08-30",
+  "magistrado_ponente": "Dr VLADIMIRO NARANJO MESA",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "CONTROL DE CONSTITUCIONALIDAD DE TRATADO INTERNACIONAL Y LEY APROBATORIA",
+  "subtema": "Alcance",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 48 de 1975",
+    "Decreto 2067 de 1991",
+    "Ley 32 de 1985",
+    "Ley 545 de 1999",
+    "Ley 33 de 1987"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/C-1139-00.htm",
+  "fecha_descarga": "2026-10-23T04:06:06.322823+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-08-30",
+  "fecha_publicacion": null,
+  "numero": "C-1139/00",
+  "tipo_cc": "C",
+  "prov_id": "17730",
+  "tema_relatoria": "LEY 545 DE 1999. TRATADO DE LA OMPI ORGANIZACION MUNDIAL DE LA PROPIEDAD INTELECTUAL SOBRE INTERPRETACION O EJECUCION DE FONOGRAMAS. EXEQUIBLES LA LEY Y EL TRATADO.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "CONTROL DE CONSTITUCIONALIDAD DE TRATADO INTERNACIONAL Y LEY APROBATORIA",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "PROPIEDAD INTELECTUAL",
+      "subtema": "Artistas intérpretes o ejecutantes y productores de fonogramas"
+    },
+    {
+      "tema": "TRATADO DE ORGANIZACION MUNDIAL DE PROPIEDAD INTELECTUAL SOBRE INTERPRETACION O EJECUCION DE FONOGRAMAS",
+      "subtema": "Objeto"
+    },
+    {
+      "tema": "TRATADO INTERNACIONAL",
+      "subtema": "Celebración"
+    }
+  ]
+}

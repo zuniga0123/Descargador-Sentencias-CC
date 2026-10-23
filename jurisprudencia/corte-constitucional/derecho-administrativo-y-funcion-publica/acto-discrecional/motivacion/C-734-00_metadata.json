@@ -1,0 +1,78 @@
+{
+  "radicado": "C-734-00",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-06-21",
+  "magistrado_ponente": "Dr VLADIMIRO NARANJO MESA",
+  "area": "Derecho Administrativo y Función Pública",
+  "tema": "ACTO DISCRECIONAL",
+  "subtema": "Motivación",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto Ley 2400 de 1968",
+    "Decreto 2067 de 1991",
+    "Ley 65 de 1997",
+    "Decreto 2400 de 1968",
+    "Decreto 2146 de 1986",
+    "Ley 2400 de 1968"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/C-734-00.htm",
+  "fecha_descarga": "2026-10-23T04:01:15.754331+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-06-21",
+  "fecha_publicacion": "2000-06-12",
+  "numero": "C-734/00",
+  "tipo_cc": "C",
+  "prov_id": "17319",
+  "tema_relatoria": "INSUBSISTENCIA DE UN EMPLEO DEL SERVICIO CIVIL SIN MOTIVAR LA PROVIDENCIA.",
+  "resumen": "Demanda de inconstitucionalidad contra la expresión “sin motivar la providencia” contenida en el inciso primero del artículo 26 del Decreto Ley 2400 de 1968, por el cual se modifican las normas que regulan la administración de personal civil y se dictan otras disposiciones. Adujo el actor que la disposición acusada contradice las garantías constitucionales del debido proceso y de la estabilidad laboral, así como el derecho a la igualdad de quienes ocupan cargos de libre nombramiento y remoción, pues al permitir su desvinculación mediante acto administrativo inmotivado, impide el ejercicio del derecho de defensa que, en cambio, si tienen en las mismas circunstancias quienes ocupan cargos de carrera. La Corte declaró EXEQUIBLE de la proposición jurídica completa conformada por el artículo 26 del Decreto Ley 2400 de 1968, en razón a que la expresión acusada no podía ser considerada en sus efectos jurídicos independientemente del resto del texto de la norma.",
+  "titulaciones": [
+    {
+      "tema": "ACTO DISCRECIONAL",
+      "subtema": "Motivación"
+    },
+    {
+      "tema": "ACTO ADMINISTRATIVO",
+      "subtema": "Excepciones a motivación"
+    },
+    {
+      "tema": "DERECHO A LA ESTABILIDAD LABORAL",
+      "subtema": "Cargos de libre nombramiento y remoción"
+    },
+    {
+      "tema": "ACTO ADMINISTRATIVO",
+      "subtema": "Motivación posterior"
+    },
+    {
+      "tema": "ACTO ADMINISTRATIVO",
+      "subtema": "Motivación"
+    },
+    {
+      "tema": "DERECHO DE DEFENSA EN ACTO ADMINISTRATIVO",
+      "subtema": "No motivación retiro del cargo"
+    },
+    {
+      "tema": "PRINCIPIO DE IGUALDAD",
+      "subtema": "No todo tratamiento dispar es por sí mismo discriminatorio"
+    },
+    {
+      "tema": "DISCRECIONALIDAD ABSOLUTA Y RELATIVA",
+      "subtema": "Diferencias"
+    },
+    {
+      "tema": "EMPLEOS DE CARRERA Y DE LIBRE NOMBRAMIENTO Y REMOCION",
+      "subtema": "Diferencias"
+    },
+    {
+      "tema": "DECLARACION DE INSUBSISTENCIA EN EMPLEOS DE LIBRE NOMBRAMIENTO Y REMOCION",
+      "subtema": "No motivación"
+    },
+    {
+      "tema": "SERVIDOR PUBLICO",
+      "subtema": "Desvinculación"
+    }
+  ]
+}

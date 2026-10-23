@@ -1,0 +1,41 @@
+{
+  "radicado": "T-1079-00",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-08-18",
+  "magistrado_ponente": "Dr ALEJANDRO MARTINEZ CABALLERO",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCIÓN DE TUTELA",
+  "subtema": "Improcedencia por inexistencia de prueba alguna en relación con la vulneración alegada",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/T-1079-00.htm",
+  "fecha_descarga": "2026-10-23T03:49:37.274284+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-08-18",
+  "fecha_publicacion": null,
+  "numero": "T-1079/00",
+  "tipo_cc": "T",
+  "prov_id": "17671",
+  "tema_relatoria": "DERECHO AL TRABAJO A LA EDUCACION Y AL MINIMO VITAL. PAGO DE ACREENCIAS LABORALES. PROCEDENCIA EXCEPCIONAL DE LA TUTELA PARA EL PAGO DE SALARIOS.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Improcedencia por inexistencia de prueba alguna en relación con la vulneración alegada"
+    },
+    {
+      "tema": "DERECHO AL PAGO OPORTUNO DEL SALARIO",
+      "subtema": "Fundamental"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Procedencia excepcional pago de salarios"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "radicado": "T-1095-00",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-08-18",
+  "magistrado_ponente": "Dr ALEJANDRO MARTINEZ CABALLERO",
+  "area": "Derecho a la Salud",
+  "tema": "ENTIDAD PROMOTORA DE SALUD",
+  "subtema": "Repetición contra el empleador",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Decreto 1369 de 1999"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/T-1095-00.htm",
+  "fecha_descarga": "2026-10-23T03:58:08.809189+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-08-18",
+  "fecha_publicacion": null,
+  "numero": "T-1095/00",
+  "tipo_cc": "T",
+  "prov_id": "17683",
+  "tema_relatoria": "DERECHO A LA SALUD A LA VIDA. MORA PATRONAL Y PROCEDENCIA DE LA TUTELA. CONCEDIDA PARCIALMENTE.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ENTIDAD PROMOTORA DE SALUD",
+      "subtema": "Repetición contra el empleador"
+    },
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Conexidad con la vida"
+    },
+    {
+      "tema": "EMPLEADOR",
+      "subtema": "Asunción de responsabilidad por mora en aportes en salud"
+    },
+    {
+      "tema": "ENTIDAD PROMOTORA DE SALUD",
+      "subtema": "Interrupción de servicios"
+    }
+  ]
+}

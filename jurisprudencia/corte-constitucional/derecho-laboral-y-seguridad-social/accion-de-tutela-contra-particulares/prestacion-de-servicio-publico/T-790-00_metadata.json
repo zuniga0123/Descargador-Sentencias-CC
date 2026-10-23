@@ -1,0 +1,51 @@
+{
+  "radicado": "T-790-00",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-06-28",
+  "magistrado_ponente": "Dr CARLOS GAVIRIA DÍAZ",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "ACCION DE TUTELA CONTRA PARTICULARES",
+  "subtema": "Prestación de servicio público",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 1346 de 1994",
+    "Ley 100 de 1993",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/T-790-00.htm",
+  "fecha_descarga": "2026-10-23T03:45:59.294815+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-06-28",
+  "fecha_publicacion": null,
+  "numero": "T-790/00",
+  "tipo_cc": "T",
+  "prov_id": "17383",
+  "tema_relatoria": "DERECHO A LA SEGURIDAD SOCIAL. DEBIDO PROCESO. SOLICITUD DE PENSION DE INVALIDEZ A LA A.R.P. POR ACCIDENTE DE TRABAJO. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCION DE TUTELA CONTRA PARTICULARES",
+      "subtema": "Prestación de servicio público"
+    },
+    {
+      "tema": "ADMINISTRADORA DE RIESGOS PROFESIONALES",
+      "subtema": "Reconocimiento de prestaciones económicas y asistenciales"
+    },
+    {
+      "tema": "DEBIDO PROCESO",
+      "subtema": "Vulneración por no reconocimiento de prestaciones económicas y asistenciales"
+    },
+    {
+      "tema": "CALIFICACION DE INVALIDEZ",
+      "subtema": "Firmeza"
+    },
+    {
+      "tema": "DERECHO A LA SEGURIDAD SOCIAL",
+      "subtema": "Vulneración por no reconocimiento de prestaciones económicas y asistenciales"
+    }
+  ]
+}

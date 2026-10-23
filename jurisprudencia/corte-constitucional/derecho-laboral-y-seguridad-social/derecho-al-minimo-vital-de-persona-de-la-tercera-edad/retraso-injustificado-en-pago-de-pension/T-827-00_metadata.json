@@ -1,0 +1,45 @@
+{
+  "radicado": "T-827-00",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-07-05",
+  "magistrado_ponente": "Dr ALEJANDRO MARTÍNEZ CABALLERO",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "DERECHO AL MINIMO VITAL DE PERSONA DE LA TERCERA EDAD",
+  "subtema": "Retraso injustificado en pago de pensión",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/T-827-00.htm",
+  "fecha_descarga": "2026-10-23T03:45:08.969481+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-07-05",
+  "fecha_publicacion": null,
+  "numero": "T-827/00",
+  "tipo_cc": "T",
+  "prov_id": "17424",
+  "tema_relatoria": "DERECHO AL MINIMO VITAL A LA VIDA A LA SALUD AL TRABAJO Y A LA IGUALDAD DE LOS PENSIONADOS. PAGO DE MESADAS PENSIONALES. COLTEJER. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO AL MINIMO VITAL DE PERSONA DE LA TERCERA EDAD",
+      "subtema": "Retraso injustificado en pago de pensión"
+    },
+    {
+      "tema": "ACCION DE TUTELA TRANSITORIA",
+      "subtema": "Pago de mesadas pensionales y cotización en salud persona de tercera edad"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Procedencia excepcional pago de acreencias laborales"
+    },
+    {
+      "tema": "DERECHO A LA SEGURIDAD SOCIAL DE PERSONA DE LA TERCERA EDAD",
+      "subtema": "Fundamental por conexidad"
+    }
+  ]
+}

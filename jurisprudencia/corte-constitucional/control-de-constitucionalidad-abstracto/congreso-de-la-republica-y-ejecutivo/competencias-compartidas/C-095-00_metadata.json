@@ -1,0 +1,73 @@
+{
+  "radicado": "C-095-00",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-02-03",
+  "magistrado_ponente": null,
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "CONGRESO DE LA REPUBLICA Y EJECUTIVO",
+  "subtema": "Competencias compartidas",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 4 de 1992"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/C-095-00.htm",
+  "fecha_descarga": "2026-10-23T04:01:23.406062+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-02-03",
+  "fecha_publicacion": "2000-06-01",
+  "numero": "C-095/00",
+  "tipo_cc": "C",
+  "prov_id": "16622",
+  "tema_relatoria": "TERMINO DE VIGENCIA PARA LA ASIGNACION MENSUAL DE LOS MIEMBROS DEL CONGRESO.",
+  "resumen": "Demanda de inconstitucionalidad en contra del artículo 8 de la Ley 4 de 1992, mediante la cual se señalan las normas, objetivos y criterios que debe observar el Gobierno Nacional para la fijación del régimen salarial y prestacional de los empleados públicos, de los miembros del Congreso Nacional y de la Fuerza Pública y para la fijación de las prestaciones sociales de los Trabajadores Oficiales y se dictan otras disposiciones, de conformidad con lo establecido en el artículo 150, numeral 19, literales e) y f) de la Constitución Política. La disposición cuestionada se limita a establecer que, dentro de los diez días siguientes a la vigencia de la ley, el Gobierno Nacional determinará la asignación mensual de los miembros del Congreso Nacional, a partir de lo cual se aplicará el artículo 187 de la Constitución. Señala también que dicha asignación se aplicará exclusivamente a los miembros del Congreso y de manera retroactiva a partir del primero de enero de 1992. Los demandantes alegaron que lo anterior viola el artículo 187 de la Constitución. La Sala de conjueces de la Corporación, tras considerar que el cargo formulado no era procedente, decidió declarar EXEQUIBLE la norma demandada.",
+  "titulaciones": [
+    {
+      "tema": "CONGRESO DE LA REPUBLICA Y EJECUTIVO",
+      "subtema": "Competencias compartidas"
+    },
+    {
+      "tema": "LEY MARCO O CUADRO",
+      "subtema": "Regulación del régimen salarial de miembros del Congreso"
+    },
+    {
+      "tema": "LEY MARCO O CUADRO",
+      "subtema": "Autorización al Gobierno para aumento salarial de miembros del Congreso"
+    },
+    {
+      "tema": "REGIMEN SALARIAL Y PRESTACIONAL DE MIEMBROS DEL CONGRESO NACIONAL",
+      "subtema": "Cambio de sistema con la nueva Constitución"
+    },
+    {
+      "tema": "GOBIERNO NACIONAL",
+      "subtema": "Fijación de asignación inicial a partir de la cual se aplicaría el artículo 187 de la Constitución"
+    },
+    {
+      "tema": "REGIMEN SALARIAL Y PRESTACIONAL DE MIEMBROS DEL CONGRESO NACIONAL",
+      "subtema": "Expedición de conformidad con la nueva Constitución"
+    },
+    {
+      "tema": "REGIMEN SALARIAL Y PRESTACIONAL DE MIEMBROS DEL CONGRESO NACIONAL",
+      "subtema": "Solución de continuidad entre el anterior y nuevo Congreso"
+    },
+    {
+      "tema": "NORMA CONSTITUCIONAL",
+      "subtema": "No suspensión"
+    },
+    {
+      "tema": "GOBIERNO NACIONAL",
+      "subtema": "Determinación dentro de diez días siguientes a vigencia de asignación mensual de miembros del Congreso"
+    },
+    {
+      "tema": "CONTRALOR GENERAL DE LA REPUBLICA",
+      "subtema": "Solicitud de certificación por Gobierno previa a expedición de Decreto que fija aumento salarial de miembros del Congreso"
+    },
+    {
+      "tema": "LEY MARCO O CUADRO",
+      "subtema": "Fijación del plazo para cumplimiento de obligación constitucional y legal del Gobierno"
+    }
+  ]
+}

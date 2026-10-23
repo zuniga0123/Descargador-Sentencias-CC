@@ -1,0 +1,45 @@
+{
+  "radicado": "T-001-00",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-01-12",
+  "magistrado_ponente": "Dr JOSÉ GREGORIO HERNÁNDEZ GALINDO",
+  "area": "Derecho a la Salud",
+  "tema": "REVISION FALLO DE TUTELA",
+  "subtema": "Fallecimiento del actor",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/T-001-00.htm",
+  "fecha_descarga": "2026-10-23T03:51:49.903087+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-01-12",
+  "fecha_publicacion": null,
+  "numero": "T-001/00",
+  "tipo_cc": "T",
+  "prov_id": "16518",
+  "tema_relatoria": "DERECHO DE LOS ANCIANOS A LA ATENCION MEDICA INTEGRAL. ALEGAR DEFICIENCIA PRESUPUESTAL NO ES VALIDO PARA NEGAR LA PRACTICA DE EXAMENES URGENTES. HECHO CONSUMADO. FALLECIMIENTO DE LA PERSONA. TUTELA CONTRA ISS. NEGADA",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "REVISION FALLO DE TUTELA",
+      "subtema": "Fallecimiento del actor"
+    },
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Práctica inmediata e íntegra de exámenes ordenados"
+    },
+    {
+      "tema": "DERECHO A LA ATENCION MEDICA INTEGRAL DE ANCIANO",
+      "subtema": "Examen urgente"
+    },
+    {
+      "tema": "SENTENCIA INHIBITORIA EN TUTELA",
+      "subtema": "Improcedencia"
+    }
+  ]
+}

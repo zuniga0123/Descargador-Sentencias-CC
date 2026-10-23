@@ -1,0 +1,37 @@
+{
+  "radicado": "T-1200-00",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-09-14",
+  "magistrado_ponente": "Dr ALFREDO BELTRÁN SIERRA",
+  "area": "Derecho a la Salud",
+  "tema": "SEGURO SOCIAL",
+  "subtema": "Información sobre turnos de cirugía que no tienen carácter urgente",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/T-1200-00.htm",
+  "fecha_descarga": "2026-10-23T03:57:18.119998+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-09-14",
+  "fecha_publicacion": null,
+  "numero": "T-1200/00",
+  "tipo_cc": "T",
+  "prov_id": "17832",
+  "tema_relatoria": "DERECHO A LA VIDA. A LA SALUD Y A LA DIGNIDAD HUMANA DE PENSIONADO. CIRUGIA DE REEMPLAZO DE RODILLA POR NO SER URGENTE DEBE RESPETAR LOS TURNOS ESTABLECIDOS. HECHO SUPERADO. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "SEGURO SOCIAL",
+      "subtema": "Información sobre turnos de cirugía que no tienen carácter urgente"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Hecho superado"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "radicado": "C-390-00",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-04-05",
+  "magistrado_ponente": "Dr ALEJANDRO MARTÍNEZ CABALLERO",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "JUEZ LABORAL",
+  "subtema": "Competencia por factor territorial",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2067 de 1991",
+    "Decreto 2158 de 1948"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/C-390-00.htm",
+  "fecha_descarga": "2026-10-23T04:01:27.016284+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-04-05",
+  "fecha_publicacion": "2000-05-25",
+  "numero": "C-390/00",
+  "tipo_cc": "C",
+  "prov_id": "16943",
+  "tema_relatoria": "COMPETENCIA DEL JUEZ LABORAL POR EL FACTOR TERRITORIAL. FUERO ELECTIVO Y PROTECCION ESPECIAL AL TRABAJO.",
+  "resumen": "Demanda de inconstitucionalidad contra el artículo 5º del Código de Procedimiento Laboral. La norma acusada establece que en materia laboral la competencia se determina por el lugar en donde haya sido prestado el servicio o por el domicilio del demandado, a elección del actor El demandante adujo que ello viola los artículos 2º, 4º 13, 25 y 53 de la Constitución. En su criterio, la residencia del empleador puede ser muy distante del lugar en donde vive el trabajador y por eso propuso que se adecúe la norma para permitir que el trabajador pueda presentar la demanda en su propio domicilio. Concluyó la Corte que los cargos formulados por el demandante no tienen ningún sustento y que el precepto acusado no desconoce ninguna cláusula constitucional. Con base en lo anterior, declaró EXEQUIBLE el artículo demandado en esta oportunidad.",
+  "titulaciones": [
+    {
+      "tema": "JUEZ LABORAL",
+      "subtema": "Competencia por factor territorial"
+    },
+    {
+      "tema": "PROCESO LABORAL",
+      "subtema": "Fuero general por razón del domicilio"
+    },
+    {
+      "tema": "LEGISLADOR",
+      "subtema": "Libertad para definir competencia de funcionarios judiciales"
+    },
+    {
+      "tema": "PROCESO LABORAL",
+      "subtema": "Ley define funcionario competente"
+    },
+    {
+      "tema": "LEGISLADOR",
+      "subtema": "Regulaciones más favorables al trabajador"
+    },
+    {
+      "tema": "LEY",
+      "subtema": "Precisión de formas propias de cada juicio"
+    },
+    {
+      "tema": "PROCESO LABORAL",
+      "subtema": "Competencia por lugar de prestación del servicio o domicilio del demandado a elección del actor"
+    },
+    {
+      "tema": "PROCESO LABORAL",
+      "subtema": "Fuero electivo para presentación de demanda por factor territorial"
+    }
+  ]
+}

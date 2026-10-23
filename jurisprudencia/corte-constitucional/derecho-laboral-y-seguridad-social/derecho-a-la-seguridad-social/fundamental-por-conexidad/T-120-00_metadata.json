@@ -1,0 +1,74 @@
+{
+  "radicado": "T-120-00",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-02-10",
+  "magistrado_ponente": "Dr JOSE GREGORIO HERNANDEZ GALINDO",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "DERECHO A LA SEGURIDAD SOCIAL",
+  "subtema": "Fundamental por conexidad",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/T-120-00.htm",
+  "fecha_descarga": "2026-10-23T03:57:14.618599+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-02-10",
+  "fecha_publicacion": null,
+  "numero": "T-120/00",
+  "tipo_cc": "T",
+  "prov_id": "16649",
+  "tema_relatoria": "TUTELA CONTRA CAJANAL. MORA EN LOS APORTES. DERECHO A LA SEGURIDAD SOCIAL ES FUNDAMENTAL. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA SEGURIDAD SOCIAL",
+      "subtema": "Fundamental por conexidad"
+    },
+    {
+      "tema": "EMPLEADOR",
+      "subtema": "Asunción, en principio, servicio de salud por mora en aportes"
+    },
+    {
+      "tema": "FISCALÍA GENERAL DE LA NACIÓN",
+      "subtema": "No traslado de aportes para seguridad social por empleador"
+    },
+    {
+      "tema": "LEGITIMACION POR PASIVA EN TUTELA",
+      "subtema": "Aunque no se dirigió contra empleador tuvo oportunidad de ser oído"
+    },
+    {
+      "tema": "INFORMES EN TUTELA",
+      "subtema": "Presunción de veracidad sobre los hechos"
+    },
+    {
+      "tema": "DERECHO A LA SEGURIDAD SOCIAL",
+      "subtema": "Configuración de hipótesis para procedencia de tutela"
+    },
+    {
+      "tema": "ESTABLECIMIENTO HOSPITALARIO",
+      "subtema": "Asunción servicio de salud por mora en aportes"
+    },
+    {
+      "tema": "ENTIDAD PROMOTORA DE SALUD",
+      "subtema": "Responsabilidad subsidiaria por mora en aportes del empleador"
+    },
+    {
+      "tema": "ENTIDAD PROMOTORA DE SALUD",
+      "subtema": "No asunción de responsabilidad en aportes del empleador"
+    },
+    {
+      "tema": "ENTIDAD PROMOTORA DE SALUD",
+      "subtema": "Responsabilidad subsidiaria en casos de urgencia o gravedad por mora del empleador en aportes"
+    },
+    {
+      "tema": "REGIMEN CONTRIBUTIVO DE SEGURIDAD SOCIAL EN SALUD",
+      "subtema": "Aportes oportunos"
+    }
+  ]
+}

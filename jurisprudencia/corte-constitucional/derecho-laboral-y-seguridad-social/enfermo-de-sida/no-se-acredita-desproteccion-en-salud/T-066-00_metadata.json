@@ -1,0 +1,42 @@
+{
+  "radicado": "T-066-00",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-01-27",
+  "magistrado_ponente": "Dr ALFREDO BELTRÁN SIERRA",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "ENFERMO DE SIDA",
+  "subtema": "No se acredita desprotección en salud",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 100 de 1993"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/T-066-00.htm",
+  "fecha_descarga": "2026-10-23T03:53:30.355323+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-01-27",
+  "fecha_publicacion": null,
+  "numero": "T-066/00",
+  "tipo_cc": "T",
+  "prov_id": "16590",
+  "tema_relatoria": "TRABAJADORA CON SIDA. DESPIDO LABORAL POR CONDUCTA NEGLIGENTE Y OMISIVA DEBE RESOLVERSE EN LA JURISDICCION LABORAL. AFILIACION AL ISS O AL SISBEN. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ENFERMO DE SIDA",
+      "subtema": "No se acredita desprotección en salud"
+    },
+    {
+      "tema": "CONTRATO DE TRABAJO",
+      "subtema": "Terminación por conducta negligente y omisiva"
+    },
+    {
+      "tema": "CONTRATO DE TRABAJO",
+      "subtema": "No demostración que terminación la motivó ser portadora de virus del sida"
+    }
+  ]
+}

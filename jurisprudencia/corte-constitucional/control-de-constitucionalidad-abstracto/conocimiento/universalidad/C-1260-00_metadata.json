@@ -1,0 +1,51 @@
+{
+  "radicado": "C-1260-00",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-09-20",
+  "magistrado_ponente": "Dr FABIO MORON DIAZ",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "CONOCIMIENTO",
+  "subtema": "Universalidad",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2067 de 1991",
+    "Ley 32 de 1985",
+    "Ley 574 de 2000"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/C-1260-00.htm",
+  "fecha_descarga": "2026-10-23T04:02:44.274596+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-09-20",
+  "fecha_publicacion": null,
+  "numero": "C-1260/00",
+  "tipo_cc": "C",
+  "prov_id": "17854",
+  "tema_relatoria": "LEY 574 DE 2000. CONVENIO DE RECONOCIMIENTO MUTUO DE CERTIFICADOS TITULOS Y GRADOS ACADEMICOS DE EDUCACION SUPERIOR ENTRE EL GOBIERNO DE COLOMBIA Y EL PERU. EXEQUIBLES.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "CONOCIMIENTO",
+      "subtema": "Universalidad"
+    },
+    {
+      "tema": "CONVENIO INTERNACIONAL",
+      "subtema": "Intercambio y circulación de profesionales"
+    },
+    {
+      "tema": "EJERCICIO DE PROFESION",
+      "subtema": "Países signatarios del Convenio"
+    },
+    {
+      "tema": "CONVENIO DE RECONOCIMIENTO MUTUO DE CERTIFICADOS, TITULOS Y GRADOS ACADEMICOS DE EDUCACION SUPERIOR",
+      "subtema": "Objeto"
+    },
+    {
+      "tema": "PROFESION",
+      "subtema": "Escogencia y ejercicio"
+    }
+  ]
+}

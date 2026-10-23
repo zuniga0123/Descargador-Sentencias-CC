@@ -1,0 +1,54 @@
+{
+  "radicado": "T-1203-00",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-09-14",
+  "magistrado_ponente": "Dr ALEJANDRO MARTÍNEZ CABALLERO",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "EMPLEADOR",
+  "subtema": "Asunción de responsabilidad por mora en aportes a seguridad social",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/T-1203-00.htm",
+  "fecha_descarga": "2026-10-23T03:57:21.721888+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-09-14",
+  "fecha_publicacion": null,
+  "numero": "T-1203/00",
+  "tipo_cc": "T",
+  "prov_id": "17835",
+  "tema_relatoria": "DERECHO AL PAGO DE ACREENCIAS LABORALES. PAGO DE SALARIOS Y APORTES PATRONALES A LA ADMINISTRADORA DE PENSIONES. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "EMPLEADOR",
+      "subtema": "Asunción de responsabilidad por mora en aportes a seguridad social"
+    },
+    {
+      "tema": "EMPLEADOR",
+      "subtema": "Situación económica o presupuestal no es óbice para desconocer pago de salarios"
+    },
+    {
+      "tema": "EMPLEADOR",
+      "subtema": "Traslado de aportes a seguridad social"
+    },
+    {
+      "tema": "DERECHO AL MINIMO VITAL DEL TRABAJADOR",
+      "subtema": "Pago oportuno de salarios"
+    },
+    {
+      "tema": "DERECHO AL PAGO OPORTUNO DEL SALARIO",
+      "subtema": "Fundamental"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Procedencia excepcional pago de salarios"
+    }
+  ]
+}

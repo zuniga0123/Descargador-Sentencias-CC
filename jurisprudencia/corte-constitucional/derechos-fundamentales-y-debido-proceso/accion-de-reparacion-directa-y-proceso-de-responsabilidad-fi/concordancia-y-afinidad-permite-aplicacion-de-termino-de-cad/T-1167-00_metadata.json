@@ -1,0 +1,43 @@
+{
+  "radicado": "T-1167-00",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-09-05",
+  "magistrado_ponente": "Dr FABIO MORÓN DÍAZ",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCION DE REPARACION DIRECTA Y PROCESO DE RESPONSABILIDAD FISCAL",
+  "subtema": "Concordancia y afinidad permite aplicación de término de caducidad",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 42 de 1993",
+    "Decreto 2591 de 1991",
+    "Ley 446 de 1998"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/T-1167-00.htm",
+  "fecha_descarga": "2026-10-23T03:56:37.960701+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-09-05",
+  "fecha_publicacion": null,
+  "numero": "T-1167/00",
+  "tipo_cc": "T",
+  "prov_id": "17754",
+  "tema_relatoria": "DERECHO AL DEBIDO PROCESO. ACCION FISCAL. CONTABILIZACION DE SU CADUCIDAD. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCION DE REPARACION DIRECTA Y PROCESO DE RESPONSABILIDAD FISCAL",
+      "subtema": "Concordancia y afinidad permite aplicación de término de caducidad"
+    },
+    {
+      "tema": "CADUCIDAD DE LA ACCION FISCAL",
+      "subtema": "Implicación"
+    },
+    {
+      "tema": "PROCESO DE RESPONSABILIDAD FISCAL",
+      "subtema": "Aplicación del Código Contencioso Administrativo a falta de norma especial y encuadre dentro del precepto"
+    }
+  ]
+}

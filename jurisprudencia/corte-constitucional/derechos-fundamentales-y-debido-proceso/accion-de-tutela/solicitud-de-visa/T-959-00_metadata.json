@@ -1,0 +1,39 @@
+{
+  "radicado": "T-959-00",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-07-27",
+  "magistrado_ponente": "Dr ALFREDO BELTRÁN SIERRA",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCIÓN DE TUTELA",
+  "subtema": "Solicitud de visa",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Decreto 2371 de 1996",
+    "Decreto 2116 de 1992"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/T-959-00.htm",
+  "fecha_descarga": "2026-10-23T03:44:22.078363+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-07-27",
+  "fecha_publicacion": null,
+  "numero": "T-959/00",
+  "tipo_cc": "T",
+  "prov_id": "17555",
+  "tema_relatoria": "DERECHO A LA FAMILIA. NEGACION DE VISA POR MINISTERIO DE RELACIONES EXTERIORES DE COLOMBIA A CUBANA CASADA CON COLOMBIANO. CARENCIA ACTUAL DE OBJETO. INHIBITORIA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Solicitud de visa"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Carencia actual de objeto"
+    }
+  ]
+}

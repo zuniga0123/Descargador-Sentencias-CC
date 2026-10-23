@@ -1,0 +1,42 @@
+{
+  "radicado": "T-872-00",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-07-11",
+  "magistrado_ponente": "Dr EDUARDO CIFUENTES MUÑOZ",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "SEGURO SOCIAL",
+  "subtema": "Pronunciamiento sobre reconocimiento de pensión de invalidez",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 50 de 1990",
+    "Ley 100 de 1993"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/T-872-00.htm",
+  "fecha_descarga": "2026-10-23T03:44:50.916274+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-07-11",
+  "fecha_publicacion": null,
+  "numero": "T-872/00",
+  "tipo_cc": "T",
+  "prov_id": "17467",
+  "tema_relatoria": "DERECHO A LA SALUD Y VIDA. VIGILANTE DESPEDIDO EN INCAPACIDAD. CONTRATO A TERMINO FIJO QUE NO FUE PRORROGADO. CONJUNTO RESIDENCIAL TORRES BLANCAS. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "SEGURO SOCIAL",
+      "subtema": "Pronunciamiento sobre reconocimiento de pensión de invalidez"
+    },
+    {
+      "tema": "CONTRATO DE TRABAJO A TERMINO FIJO",
+      "subtema": "Terminación por vencimiento del plazo acordado"
+    },
+    {
+      "tema": "EMPLEADOR",
+      "subtema": "Conducta éticamente reprochable no es ilegal o inconstitucional"
+    }
+  ]
+}

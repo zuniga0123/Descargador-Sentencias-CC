@@ -1,0 +1,44 @@
+{
+  "radicado": "T-1010-00",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-08-08",
+  "magistrado_ponente": "Dr FABIO MORON DIAZ",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "RETIRO DEL SERVICIO DE LA POLICIA NACIONAL",
+  "subtema": "Funciones del Comité de evaluación",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 132 de 1995",
+    "Decreto 41 de 1994",
+    "Ley 100 de 1993",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/T-1010-00.htm",
+  "fecha_descarga": "2026-10-23T03:51:39.084527+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-08-08",
+  "fecha_publicacion": null,
+  "numero": "T-1010/00",
+  "tipo_cc": "T",
+  "prov_id": "17598",
+  "tema_relatoria": "DEBIDO PROCESO. DERECHO A LA HONRA AL TRABAJO A LA VIDA A LA SALUD E INTEGRIDAD PERSONAL. REINTEGRO DE PATRULLERO DE TRANSITO. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "RETIRO DEL SERVICIO DE LA POLICIA NACIONAL",
+      "subtema": "Funciones del Comité de evaluación"
+    },
+    {
+      "tema": "REINTEGRO AL CARGO",
+      "subtema": "Improcedencia general de tutela"
+    },
+    {
+      "tema": "REMOCION DE SUBOFICIALES DE LA POLICIA NACIONAL",
+      "subtema": "Discrecionalidad"
+    }
+  ]
+}

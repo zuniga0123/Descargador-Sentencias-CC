@@ -1,0 +1,60 @@
+{
+  "radicado": "C-842-00",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-07-06",
+  "magistrado_ponente": "Dr VLADIMIRO NARANJO MESA",
+  "area": "Derecho Constitucional Económico",
+  "tema": "BASE GRAVABLE DEL IMPUESTO SOBRE LA RENTA",
+  "subtema": "Determinación",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 488 de 1998",
+    "Decreto 2067 de 1991",
+    "Decreto 2739 de 1991",
+    "Decreto 433 de 1999"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/C-842-00.htm",
+  "fecha_descarga": "2026-10-23T04:04:30.945308+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-07-06",
+  "fecha_publicacion": null,
+  "numero": "C-842/00",
+  "tipo_cc": "C",
+  "prov_id": "17439",
+  "tema_relatoria": "LEY 488/98. ART. 2 PARCIAL. UTILIDAD EN ENAJENACION DE ACCIONES. EXEQUIBLE.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "BASE GRAVABLE DEL IMPUESTO SOBRE LA RENTA",
+      "subtema": "Determinación"
+    },
+    {
+      "tema": "PRINCIPIO DE LEGALIDAD DEL IMPUESTO",
+      "subtema": "No impide al Congreso diferir a otras entidades fijación de conceptos técnicos"
+    },
+    {
+      "tema": "SUPERINTENDENCIA DE VALORES",
+      "subtema": "Competencia para determinar método de cálculo y categorización del índice de bursatilidad"
+    },
+    {
+      "tema": "BASE GRAVABLE DEL IMPUESTO DE GANANCIA OCASIONAL",
+      "subtema": "Determinación"
+    },
+    {
+      "tema": "INDICE DE BURSATILIDAD",
+      "subtema": "Determinación"
+    },
+    {
+      "tema": "PRINCIPIO DE LEGALIDAD DEL IMPUESTO",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "ENAJENACION DE ACCIONES DE ALTA O MEDIA BURSATILIDAD",
+      "subtema": "Utilidad no constituye renta ni ganancia ocasional"
+    }
+  ]
+}

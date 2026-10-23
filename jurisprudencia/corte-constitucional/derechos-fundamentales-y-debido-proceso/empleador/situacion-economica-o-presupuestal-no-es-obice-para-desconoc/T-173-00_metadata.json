@@ -1,0 +1,41 @@
+{
+  "radicado": "T-173-00",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-02-24",
+  "magistrado_ponente": "Dr José Gregorio Hernández Galindo",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "EMPLEADOR",
+  "subtema": "Situación económica o presupuestal no es óbice para desconocer obligaciones laborales",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/T-173-00.htm",
+  "fecha_descarga": "2026-10-23T03:43:17.583208+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-02-24",
+  "fecha_publicacion": null,
+  "numero": "T-173/00",
+  "tipo_cc": "T",
+  "prov_id": "16713",
+  "tema_relatoria": "PAGO DE ACREENCIAS LABORALES. EMPRESAS PUBLICAS MUNICIPALES DE BUENAVENTURA. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "EMPLEADOR",
+      "subtema": "Situación económica o presupuestal no es óbice para desconocer obligaciones laborales"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Procedencia excepcional pago de acreencias laborales"
+    },
+    {
+      "tema": "DERECHO AL MINIMO VITAL DEL PENSIONADO",
+      "subtema": "Pago oportuno de mesadas"
+    }
+  ]
+}

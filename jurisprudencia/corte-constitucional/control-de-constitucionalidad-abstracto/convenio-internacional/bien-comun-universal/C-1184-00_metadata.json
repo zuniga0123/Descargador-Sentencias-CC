@@ -1,0 +1,43 @@
+{
+  "radicado": "C-1184-00",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-09-13",
+  "magistrado_ponente": "Dr VLADIMIRO NARANJO MESA",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "CONVENIO INTERNACIONAL",
+  "subtema": "Bien común universal",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2067 de 1991",
+    "Ley 32 de 1985",
+    "Ley 568 de 2000"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/C-1184-00.htm",
+  "fecha_descarga": "2026-10-23T04:06:54.111110+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-09-13",
+  "fecha_publicacion": null,
+  "numero": "C-1184/00",
+  "tipo_cc": "C",
+  "prov_id": "17814",
+  "tema_relatoria": "LEY 568 DE 2000. CONVENIO DE COOPERACION JUDICIAL EN MATERIA PENAL ENTRE LA REPUBLICA DE COLOMBIA Y LA REPUBLICA ORIENTAL DEL URUGUAY. EXEQUIBLES.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "CONVENIO INTERNACIONAL",
+      "subtema": "Bien común universal"
+    },
+    {
+      "tema": "CONVENIO INTERNACIONAL",
+      "subtema": "Objeto"
+    },
+    {
+      "tema": "CONVENIO DE COOPERACION JUDICIAL CON LA REPUBLICA ORIENTAL DEL URUGUAY",
+      "subtema": "Objeto"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "radicado": "C-796-00",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-06-29",
+  "magistrado_ponente": "Dr ANTONIO BARRERA CARBONELL",
+  "area": "Derecho Constitucional Económico",
+  "tema": "NORMA INTERPRETATIVA",
+  "subtema": "Concepto",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2067 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/C-796-00.htm",
+  "fecha_descarga": "2026-10-23T04:01:19.640263+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-06-29",
+  "fecha_publicacion": "2000-06-12",
+  "numero": "C-796/00",
+  "tipo_cc": "C",
+  "prov_id": "17389",
+  "tema_relatoria": "TARIFA PARA VEHICULOS CAMPEROS.",
+  "resumen": "Demanda de inconstitucionalidad contra el aparte final del parágrafo 1º del artículo 47 de la Ley 488 de 1998, por la cual se expiden normas en materia tributaria y se dictan otras disposiciones fiscales de las entidades territoriales. Para el actor, el aparte normativo acusado viola los artículos 13, 95-9, 338 y 363 de la Constitución Política. La Corte analizó si la norma censurada quebrantaba los principios de legalidad e irretroactividad del sistema tributario que consagra la Carta y si podía, válidamente el legislador, prohibir el derecho al reintegro de lo que el contribuyente pagó en exceso por el IVA en la adquisición o importación de vehículos camperos. Tras concluir que los responsables del IVA únicamente están obligados a asumir el pago del valor que le corresponde de acuerdo con la tarifa vigente en la fecha de la respectiva operación, la Corte declaró INEXEQUIBLE la frase \"Cuando los responsables hayan liquidado y cobrado una tarifa superior a la vigente del veinte por ciento (20%), no habrá lugar a la devolución de impuestos\".",
+  "titulaciones": [
+    {
+      "tema": "NORMA INTERPRETATIVA",
+      "subtema": "Concepto"
+    },
+    {
+      "tema": "DEVOLUCION DE IMPUESTO SOBRE LAS VENTAS",
+      "subtema": "El objeto no se puede excusar en error del contribuyente"
+    },
+    {
+      "tema": "ENRIQUECIMIENTO SIN CAUSA EN MATERIA TRIBUTARIA",
+      "subtema": "Vulneración del derecho de propiedad del contribuyente"
+    },
+    {
+      "tema": "LEY INTERPRETATIVA",
+      "subtema": "Objeto"
+    },
+    {
+      "tema": "PRINCIPIO DE IRRETROACTIVIDAD DE LA LEY TRIBUTARIA",
+      "subtema": null
+    },
+    {
+      "tema": "PRINCIPIO DE LEGALIDAD DEL TRIBUTO",
+      "subtema": null
+    },
+    {
+      "tema": "PRINCIPIO DE IGUALDAD",
+      "subtema": "Vulneración en materia tributaria"
+    },
+    {
+      "tema": "DEVOLUCION DE IMPUESTO SOBRE LAS VENTAS",
+      "subtema": "Derecho del contribuyente si pagó un valor superior"
+    },
+    {
+      "tema": "IMPUESTO SOBRE LAS VENTAS",
+      "subtema": "Tarifa para vehículo campero"
+    }
+  ]
+}

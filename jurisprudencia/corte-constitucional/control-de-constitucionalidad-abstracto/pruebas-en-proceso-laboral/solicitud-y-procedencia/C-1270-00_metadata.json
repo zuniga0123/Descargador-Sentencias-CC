@@ -1,0 +1,61 @@
+{
+  "radicado": "C-1270-00",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-09-20",
+  "magistrado_ponente": "Dr ANTONIO BARRERA CARBONELL",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "PRUEBAS EN PROCESO LABORAL",
+  "subtema": "Solicitud y procedencia",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2158 de 1948"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/C-1270-00.htm",
+  "fecha_descarga": "2026-10-23T04:03:02.573513+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-09-20",
+  "fecha_publicacion": null,
+  "numero": "C-1270/00",
+  "tipo_cc": "C",
+  "prov_id": "17863",
+  "tema_relatoria": "DECRETO 2158 DE 1948. ART. 83 INC. 2. CODIGO PROCESAL DEL TRABAJO. PRACTICA DE PRUEBAS EN PROCESO LABORAL. ALLEGAR AL PROCESO ELEMENTOS DE JUICIO REQUERIDOS PARA DECIDIR EN DERECHO Y EQUIDAD. EXEQUIBLE.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "PRUEBAS EN PROCESO LABORAL",
+      "subtema": "Solicitud y procedencia"
+    },
+    {
+      "tema": "LEGISLADOR EN MATERIA PROBATORIA",
+      "subtema": "Observancia de garantías mínimas"
+    },
+    {
+      "tema": "LEGISLADOR",
+      "subtema": "Regulación de procedimientos judiciales"
+    },
+    {
+      "tema": "LIBERTAD DE CONFIGURACION LEGISLATIVA EN MATERIA PROBATORIA",
+      "subtema": null
+    },
+    {
+      "tema": "DERECHO DE DEFENSA EN MATERIA PROBATORIA",
+      "subtema": "Partes"
+    },
+    {
+      "tema": "PRUEBA DE OFICIO EN PROCESO LABORAL",
+      "subtema": "Práctica"
+    },
+    {
+      "tema": "PRUEBAS",
+      "subtema": "Solicitud y procedencia"
+    },
+    {
+      "tema": "SEGUNDA INSTANCIA EN PROCESO LABORAL",
+      "subtema": "Periodo probatorio excepcional"
+    }
+  ]
+}

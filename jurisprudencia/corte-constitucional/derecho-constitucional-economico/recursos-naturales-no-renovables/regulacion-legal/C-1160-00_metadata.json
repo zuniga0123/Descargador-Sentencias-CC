@@ -1,0 +1,60 @@
+{
+  "radicado": "C-1160-00",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-09-06",
+  "magistrado_ponente": null,
+  "area": "Derecho Constitucional Económico",
+  "tema": "RECURSOS NATURALES NO RENOVABLES",
+  "subtema": "Regulación legal",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 141 de 1994",
+    "Decreto 2067 de 1991",
+    "Decreto 2141 de 1999",
+    "Ley 80 de 1993"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/C-1160-00.htm",
+  "fecha_descarga": "2026-10-23T04:06:32.240274+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-09-06",
+  "fecha_publicacion": null,
+  "numero": "C-1160/00",
+  "tipo_cc": "C",
+  "prov_id": "17757",
+  "tema_relatoria": "LEY 141 DE 1994. ARTS.1 8 9 15 29 31 32 33 34 36 37 38 39 40 41 45 46 47 Y 48 TODOS PARCIALMENTE. FONDO NACIONAL DE REGALIAS MUNICIPIOS O DISTRITOS PORTUARIOS. EXEQUIBLES ALGUNAS EXPRESIONES.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "RECURSOS NATURALES NO RENOVABLES",
+      "subtema": "Regulación legal"
+    },
+    {
+      "tema": "LEGISLADOR",
+      "subtema": "Determinación de derechos de entidad territorial sobre recursos naturales no renovables"
+    },
+    {
+      "tema": "ENTIDADES TERRITORIALES",
+      "subtema": "Participación en regalías"
+    },
+    {
+      "tema": "REGALIAS Y COMPENSACIONES",
+      "subtema": "Legislador determina titularidad en recursos naturales no renovables"
+    },
+    {
+      "tema": "REGALIAS",
+      "subtema": "Distribución a municipios o distritos portuarios"
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "Presentación personal ante requerimiento de Magistrado Sustanciador"
+    },
+    {
+      "tema": "REGALIAS",
+      "subtema": "Propiedad estatal"
+    }
+  ]
+}

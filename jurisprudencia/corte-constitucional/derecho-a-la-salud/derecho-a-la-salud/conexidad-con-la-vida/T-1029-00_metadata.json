@@ -1,0 +1,46 @@
+{
+  "radicado": "T-1029-00",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-08-09",
+  "magistrado_ponente": "Dr ALEJANDRO MARTÍNEZ CABALLERO",
+  "area": "Derecho a la Salud",
+  "tema": "DERECHO A LA SALUD",
+  "subtema": "Conexidad con la vida",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Decreto 806 de 1998"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/T-1029-00.htm",
+  "fecha_descarga": "2026-10-23T03:53:55.793184+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-08-09",
+  "fecha_publicacion": null,
+  "numero": "T-1029/00",
+  "tipo_cc": "T",
+  "prov_id": "17616",
+  "tema_relatoria": "DERECHO A LA SALUD EN CONEXIDAD CON LA VIDA. PRACTICA DE ESCANOGRAFIA. TERMINO PARA ACCEDER A LA PRESTACION DEL SERVICIO DE SALUD CUANDO HAY CAMBIO DE EPS. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Conexidad con la vida"
+    },
+    {
+      "tema": "DERECHO A LA CONTINUIDAD EN EL SERVICIO DE SALUD",
+      "subtema": "Traslado de EPS"
+    },
+    {
+      "tema": "DERECHO A LA VIDA DIGNA",
+      "subtema": "Tratamiento médico por EPS"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Protección preventiva y no sólo en caso de gravedad"
+    }
+  ]
+}

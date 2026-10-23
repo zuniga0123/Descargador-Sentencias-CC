@@ -1,0 +1,46 @@
+{
+  "radicado": "T-1432-00",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-10-19",
+  "magistrado_ponente": "Dr ANTONIO BARRERA CARBONELL",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCION DE TUTELA CONTRA EMPRESA DE SERVICIOS PUBLICOS DOMICILIARIOS",
+  "subtema": "Procedencia en situaciones especiales para dirimir conflictos con usuarios",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 142 de 1994",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/T-1432-00.htm",
+  "fecha_descarga": "2026-10-23T03:48:43.640872+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-10-19",
+  "fecha_publicacion": null,
+  "numero": "T-1432/00",
+  "tipo_cc": "T",
+  "prov_id": "18031",
+  "tema_relatoria": "DEBIDO PROCESO. SUSPENSION SERVICIO PUBLICO DOMICILIARIO POR LA EMPRESA EN CASO DE FALTA DE PAGO SEGUN INC. 2 ART. 140 LEY 142 DE 1994. REINSTALACION DEL SERVICIO POR PAGO DE LA OBLIGACION CONTENIDA DURANTE LAS TRES FACTURAS INICIALES. GASTOS DE REINSTALACION RECONEXION Y RECARGOS. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCION DE TUTELA CONTRA EMPRESA DE SERVICIOS PUBLICOS DOMICILIARIOS",
+      "subtema": "Procedencia en situaciones especiales para dirimir conflictos con usuarios"
+    },
+    {
+      "tema": "EMPRESA DE SERVICIOS PUBLICOS DOMICILIARIOS",
+      "subtema": "Reinstalación servicio de energía a propietario"
+    },
+    {
+      "tema": "EMPRESAS DE SERVICIOS PUBLICOS DOMICILIARIOS",
+      "subtema": "Suspensión del servicio y consecuencias cuando el usuario se atrasa en pago de tres facturas"
+    },
+    {
+      "tema": "SERVICIOS PÚBLICOS",
+      "subtema": "Implicaciones sobre la calidad de vida"
+    }
+  ]
+}

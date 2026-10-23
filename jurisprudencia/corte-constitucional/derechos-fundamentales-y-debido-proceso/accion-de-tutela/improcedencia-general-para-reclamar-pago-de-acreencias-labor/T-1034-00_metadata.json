@@ -1,0 +1,54 @@
+{
+  "radicado": "T-1034-00",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-08-09",
+  "magistrado_ponente": "Dr ALEJANDRO MARTÍNEZ CABALLERO",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCIÓN DE TUTELA",
+  "subtema": "Improcedencia general para reclamar pago de acreencias laborales",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/T-1034-00.htm",
+  "fecha_descarga": "2026-10-23T03:54:10.245043+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-08-09",
+  "fecha_publicacion": null,
+  "numero": "T-1034/00",
+  "tipo_cc": "T",
+  "prov_id": "17621",
+  "tema_relatoria": "DERECHO AL TRABAJO Y A LA SEGURIDAD SOCIAL. IMPROCEDENCIA DE LA ACCION DE TUTELA PARA EL PAGO DE ACREENCIAS LABORALES. TRANSFERENCIA DE LA COTIZACION EN SALUD. ACCION DE TUTELA Y EL SUBSIDIO FAMILIAR. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Improcedencia general para reclamar pago de acreencias laborales"
+    },
+    {
+      "tema": "SUBSIDIO FAMILIAR",
+      "subtema": "Improcedencia de reclamación por tutela"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Procedencia excepcional pago y transferencia de cotizaciones al sistema de seguridad social"
+    },
+    {
+      "tema": "DERECHO AL SUBSIDIO FAMILIAR",
+      "subtema": "En principio no es fundamental"
+    },
+    {
+      "tema": "EMPLEADOR",
+      "subtema": "Consecuencias por no pago de aportes en salud"
+    },
+    {
+      "tema": "SUBSIDIO FAMILIAR",
+      "subtema": "Naturaleza"
+    }
+  ]
+}

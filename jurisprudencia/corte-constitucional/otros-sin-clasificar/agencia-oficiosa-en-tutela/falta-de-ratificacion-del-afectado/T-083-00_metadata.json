@@ -1,0 +1,37 @@
+{
+  "radicado": "T-083-00",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-02-01",
+  "magistrado_ponente": "Dr ALEJANDRO MARTINEZ CABALLERO",
+  "area": "Otros - Sin clasificar",
+  "tema": "AGENCIA OFICIOSA EN TUTELA",
+  "subtema": "Falta de ratificación del afectado",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/T-083-00.htm",
+  "fecha_descarga": "2026-10-23T03:51:06.848018+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-02-01",
+  "fecha_publicacion": null,
+  "numero": "T-083/00",
+  "tipo_cc": "T",
+  "prov_id": "16607",
+  "tema_relatoria": "TUTELA CONTRA COMISION DE REGULACION DE ENERGIA Y GAS. PELIGRO PACIENTE EN UNIDAD DE CUIDADOS INTENSIVOS POR RACIONAMIENTO ELECTRICO. IMPROCEDENCIA DE AGENCIA OFICIOSA FALTA DE LEGITIMACION POR ACTIVA. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "AGENCIA OFICIOSA EN TUTELA",
+      "subtema": "Falta de ratificación del afectado"
+    },
+    {
+      "tema": "FALTA DE LEGITIMACION POR ACTIVA EN TUTELA",
+      "subtema": "Persona internada en hospital"
+    }
+  ]
+}
