@@ -1,0 +1,50 @@
+{
+  "radicado": "T-842-02",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2002,
+  "fecha_creacion": "2002-10-10",
+  "magistrado_ponente": "Dr ALVARO TAFUR GALVIS",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "DERECHO DE ACCESO A DOCUMENTOS PUBLICOS",
+  "subtema": "Naturaleza",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 57 de 1985"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2002/T-842-02.htm",
+  "fecha_descarga": "2026-10-23T00:09:25.158247+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2002-10-10",
+  "fecha_publicacion": null,
+  "numero": "T-842/02",
+  "tipo_cc": "T",
+  "prov_id": "21253",
+  "tema_relatoria": "DERECHO DE PETICION ANTE AUTORIDADES PUBLICAS. SOLICITUD INFORMACION O ACCESO A DOCUMENTOS PUBLICOS. EJERCICIO DEL CONTROL POLITICO Y DEMOCRACIA PARTICIPATIVA. RAZONABILIDAD. REQUISITOS MINIMOS. EXPEDICION DE COPIAS CUANDO LA CANTIDAD LO JUSTIFIQUE. NEGAD",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO DE ACCESO A DOCUMENTOS PUBLICOS",
+      "subtema": "Naturaleza"
+    },
+    {
+      "tema": "DERECHO DE PETICION ANTE AUTORIDAD PUBLICA",
+      "subtema": "Alcance y contenido de la respuesta"
+    },
+    {
+      "tema": "DERECHO DE ACCESO A DOCUMENTOS PUBLICOS",
+      "subtema": "Protección por tutela"
+    },
+    {
+      "tema": "DERECHOS DE PETICIÓN Y ACCESO A DOCUMENTOS PÚBLICOS",
+      "subtema": "Solicitud de copias"
+    },
+    {
+      "tema": "SILENCIO ADMINISTRATIVO POSITIVO",
+      "subtema": "Solicitud de copia de documentos"
+    }
+  ]
+}

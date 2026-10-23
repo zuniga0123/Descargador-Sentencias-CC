@@ -1,0 +1,53 @@
+{
+  "radicado": "T-587-02",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2002,
+  "fecha_creacion": "2002-08-01",
+  "magistrado_ponente": "Dr JAIME CORDOBA TRIVIÑO",
+  "area": "Derecho Penal y Sistema Acusatorio",
+  "tema": "DEBIDO PROCESO",
+  "subtema": "No vulneración",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2002/T-587-02.htm",
+  "fecha_descarga": "2026-10-23T00:14:44.486302+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2002-08-01",
+  "fecha_publicacion": null,
+  "numero": "T-587/02",
+  "tipo_cc": "T",
+  "prov_id": "20854",
+  "tema_relatoria": "DERECHO AL DEBIDO PROCESO DE APELANTE UNICO. REFORMATIO IN PEJUS. MODIFICACION NEGATIVA DE SENTENCIA. CONSULTA Y APELACION DE DECISIONES JUDICIALES EN PROCESO PENAL. RENUNCIA A SU SUSTENTACION. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DEBIDO PROCESO",
+      "subtema": "No vulneración"
+    },
+    {
+      "tema": "PRINCIPIO NO REFORMATIO IN PEJUS",
+      "subtema": "Inoperancia en grado de consulta"
+    },
+    {
+      "tema": "CONSULTA EN PROCESO PENAL",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "RECURSO DE APELACION EN PROCESO PENAL",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "PRINCIPIO NO REFORMATIO IN PEJUS",
+      "subtema": "No vulneración"
+    },
+    {
+      "tema": "RECURSO DE APELACION EN PROCESO PENAL",
+      "subtema": "No sustentación"
+    }
+  ]
+}

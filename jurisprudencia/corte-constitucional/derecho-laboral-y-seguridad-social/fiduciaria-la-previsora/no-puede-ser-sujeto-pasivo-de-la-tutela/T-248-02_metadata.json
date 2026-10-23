@@ -1,0 +1,50 @@
+{
+  "radicado": "T-248-02",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2002,
+  "fecha_creacion": "2002-04-09",
+  "magistrado_ponente": "Dra CLARA INÉS VARGAS HERNÁNDEZ",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "FIDUCIARIA LA PREVISORA",
+  "subtema": "No puede ser sujeto pasivo de la tutela",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 344 de 1996",
+    "Ley 91 de 1989",
+    "Decreto 1775 de 1990",
+    "Ley 115 de 1994",
+    "Ley 60 de 1993",
+    "Decreto 1547 de 1984",
+    "Decreto 133 de 1976",
+    "Decreto 1050 de 1968",
+    "Decreto 2591 de 1991",
+    "Ley 489 de 1998"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2002/T-248-02.htm",
+  "fecha_descarga": "2026-10-23T00:21:39.430211+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2002-04-09",
+  "fecha_publicacion": null,
+  "numero": "T-248/02",
+  "tipo_cc": "T",
+  "prov_id": "20411",
+  "tema_relatoria": "DERECHO DE PETICION DE DOCENTES AL SERVICIO DEL ESTADO. SOLICITUD RECONOCIMIENTO Y PAGO DE CESANTIAS PARCIALES. DISPONIBILIDAD PRESUPUESTAL. FIDUCIARIA LA PREVISORA S.A. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "FIDUCIARIA LA PREVISORA",
+      "subtema": "No puede ser sujeto pasivo de la tutela"
+    },
+    {
+      "tema": "FIDUCIARIA LA PREVISORA",
+      "subtema": "Respuesta sobre solicitud de cesantías parciales de docentes"
+    },
+    {
+      "tema": "FONDO NACIONAL DE PRESTACIONES SOCIALES DEL MAGISTERIO",
+      "subtema": "Reconocimiento de cesantías parciales"
+    }
+  ]
+}

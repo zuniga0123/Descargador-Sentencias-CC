@@ -1,0 +1,74 @@
+{
+  "radicado": "T-814-02",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2002,
+  "fecha_creacion": "2002-10-13",
+  "magistrado_ponente": "Dr JAIME CÓRDOBA TRIVIÑO",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "BANCO DE DATOS",
+  "subtema": "Información veraz",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 716 de 2001"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2002/T-814-02.htm",
+  "fecha_descarga": "2026-10-23T00:27:41.379200+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2002-10-13",
+  "fecha_publicacion": null,
+  "numero": "T-814/02",
+  "tipo_cc": "T",
+  "prov_id": "21281",
+  "tema_relatoria": "DERECHO AL BUEN NOMBRE Y HABEAS DATA. ELIMINACION INFORMACION NEGATIVA EN BANCO DE DATOS. TERMINO DE CADUCIDAD. PAGO VOLUNTARIO. TUTELA CONTRA PARTICULARES. INEXISTENCIA DE CONDUCTA LEGITIMA POR ABUSO DE DERECHOS. PROCEDIBILIDAD. CONCEDIDA PARCIAL.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "BANCO DE DATOS",
+      "subtema": "Información veraz"
+    },
+    {
+      "tema": "CONDUCTA LEGITIMA DE PARTICULAR",
+      "subtema": "Inexistencia cuando éste desconoce preceptos constitucionales y abusa de su derecho"
+    },
+    {
+      "tema": "DERECHO AL BUEN NOMBRE",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Improcedencia por no solicitar previamente rectificación de información"
+    },
+    {
+      "tema": "CADUCIDAD DEL DATO",
+      "subtema": "Límite temporal"
+    },
+    {
+      "tema": "CADUCIDAD DEL DATO",
+      "subtema": "Límite temporal por retardo inferior a un año cuando el pago es voluntario"
+    },
+    {
+      "tema": "LEY",
+      "subtema": "Aplicación hacia el futuro"
+    },
+    {
+      "tema": "ENTIDAD FINANCIERA",
+      "subtema": "Obligación de suministrar información exacta a los bancos de datos"
+    },
+    {
+      "tema": "HABEAS DATA",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "HABEAS DATA",
+      "subtema": "Núcleo esencial"
+    },
+    {
+      "tema": "RECTIFICACION DE INFORMACION",
+      "subtema": "Solicitud previa"
+    }
+  ]
+}

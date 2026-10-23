@@ -1,0 +1,54 @@
+{
+  "radicado": "T-1005-02",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2002,
+  "fecha_creacion": "2002-11-15",
+  "magistrado_ponente": "Dr RODRIGO ESCOBAR GIL",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCION DE TUTELA CONTRA FIDUCIARIA LA PREVISORA",
+  "subtema": "No puede ser sujeto de derecho pasivo de la acción",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 91 de 1989",
+    "Ley 115 de 1994",
+    "Ley 60 de 1993",
+    "Decreto 1775 de 1990",
+    "Ley 489 de 1998"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2002/T-1005-02.htm",
+  "fecha_descarga": "2026-10-23T00:19:28.778100+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2002-11-15",
+  "fecha_publicacion": null,
+  "numero": "T-1005/02",
+  "tipo_cc": "T",
+  "prov_id": "21454",
+  "tema_relatoria": "DERECHO DE PETICION Y VIVIENDA DE DOCENTE DEL ESTADO. SOLICITUD RECONOCIMIENTO Y PAGO CESANTIAS PARCIALES. DISPONIBILIDAD PRESUPUESTAL. LLAMADO A PREVENCION. HECHO SUPERADO. FIDUCIARIA LA PREVISORA S.A. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCION DE TUTELA CONTRA FIDUCIARIA LA PREVISORA",
+      "subtema": "No puede ser sujeto de derecho pasivo de la acción"
+    },
+    {
+      "tema": "DERECHO DE PETICIÓN",
+      "subtema": "Reconocimiento de cesantías parciales no sujeto a disponibilidad presupuestal"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Hecho superado"
+    },
+    {
+      "tema": "FIDUCIARIA LA PREVISORA",
+      "subtema": "Respuesta sobre solicitud de cesantías parciales de docentes"
+    },
+    {
+      "tema": "DERECHO DE PETICIÓN",
+      "subtema": "Reconocimiento y pago de cesantías parciales de docentes"
+    }
+  ]
+}

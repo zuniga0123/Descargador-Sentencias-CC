@@ -1,0 +1,49 @@
+{
+  "radicado": "T-627-02",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2002,
+  "fecha_creacion": "2002-08-08",
+  "magistrado_ponente": "Dr ALVARO TAFUR GALVIS",
+  "area": "Derecho a la Salud",
+  "tema": "DERECHO A LA SALUD",
+  "subtema": "Condiciones para realización de tratamiento excluido del POS",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2002/T-627-02.htm",
+  "fecha_descarga": "2026-10-23T00:26:32.817451+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2002-08-08",
+  "fecha_publicacion": null,
+  "numero": "T-627/02",
+  "tipo_cc": "T",
+  "prov_id": "20902",
+  "tema_relatoria": "DERECHO A LA SALUD Y VIDA. SOLICITUD EXAMENES DE DIAGNOSTICO PRESCRITOS POR MEDICOS TRATANTES NO INCLUIDOS EN EL POS. CONTINUIDAD. ACCION DE REPETICION. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Condiciones para realización de tratamiento excluido del POS"
+    },
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Cumplimiento de órdenes médicas"
+    },
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Incorpora el derecho al diagnóstico"
+    },
+    {
+      "tema": "ENTIDAD PROMOTORA DE SALUD",
+      "subtema": "Suministro de tratamiento señalado por médico tratante aunque no figure en listado del POS"
+    },
+    {
+      "tema": "DERECHO A LA CONTINUIDAD EN EL SERVICIO DE SALUD",
+      "subtema": "Necesidad de realizar exámenes prescritos por médico tratante"
+    }
+  ]
+}

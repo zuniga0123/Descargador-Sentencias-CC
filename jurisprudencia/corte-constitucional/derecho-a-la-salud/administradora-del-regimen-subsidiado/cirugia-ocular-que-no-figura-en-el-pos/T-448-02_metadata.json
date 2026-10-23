@@ -1,0 +1,53 @@
+{
+  "radicado": "T-448-02",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2002,
+  "fecha_creacion": "2002-06-06",
+  "magistrado_ponente": "Dr ALFREDO BELTRÁN SIERRA",
+  "area": "Derecho a la Salud",
+  "tema": "ADMINISTRADORA DEL REGIMEN SUBSIDIADO",
+  "subtema": "Cirugía ocular que no figura en el POS",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 100 de 1993",
+    "Ley 10 de 1990",
+    "Ley 60 de 1993",
+    "Decreto 806 de 1998"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2002/T-448-02.htm",
+  "fecha_descarga": "2026-10-23T00:25:09.372111+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2002-06-06",
+  "fecha_publicacion": null,
+  "numero": "T-448/02",
+  "tipo_cc": "T",
+  "prov_id": "20641",
+  "tema_relatoria": "DERECHOS A LA SALUD VIDA E INTEGRIDAD FISICA. SOLICITUD CIRUGIA OJO DERECHO POR DESPRENDIMIENTO DE RETINA NO INCLUIDA EN EL POS. SISBEN. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ADMINISTRADORA DEL REGIMEN SUBSIDIADO",
+      "subtema": "Cirugía ocular que no figura en el POS"
+    },
+    {
+      "tema": "DERECHO A LA VIDA DIGNA",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "ADMINISTRADORA DE RIESGOS PROFESIONALES",
+      "subtema": "Obligación de coordinar cirugía por desprendimiento de retina"
+    },
+    {
+      "tema": "DERECHO A LA VIDA DIGNA",
+      "subtema": "Pérdida de la visión"
+    },
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Conexidad con la vida"
+    }
+  ]
+}

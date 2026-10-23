@@ -1,0 +1,64 @@
+{
+  "radicado": "T-895-02",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2002,
+  "fecha_creacion": "2002-10-24",
+  "magistrado_ponente": "Dr ALVARO TAFUR GALVIS",
+  "area": "Derecho Penal y Sistema Acusatorio",
+  "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+  "subtema": "Procedencia excepcional",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 65 de 1993",
+    "Ley 599 de 2000",
+    "Decreto 2591 de 1991",
+    "Decreto 2191 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2002/T-895-02.htm",
+  "fecha_descarga": "2026-10-23T00:09:14.443722+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2002-10-24",
+  "fecha_publicacion": null,
+  "numero": "T-895/02",
+  "tipo_cc": "T",
+  "prov_id": "21329",
+  "tema_relatoria": "DERECHO AL DEBIDO PROCESO E IGUALDAD. VIA DE HECHO. SOLICITUD LIBERTAD CONDICIONAL. REQUISITOS. PENA MAYOR DE 3 AÑOS. CUMPLIMIENTO 3/5 PARTES. CONDUCTA EN ESTABLECIMIENTO CARCELARIO. TUTELA CONTRA SENTENCIA JUDICIAL. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Procedencia excepcional"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Subsidiariedad"
+    },
+    {
+      "tema": "DEBIDO PROCESO",
+      "subtema": "No vulneración por no concederse libertad condicional al interno"
+    },
+    {
+      "tema": "VIA DE HECHO",
+      "subtema": "Clases de defectos en la actuación"
+    },
+    {
+      "tema": "DOCTRINA CONSTITUCIONAL SOBRE VIA DE HECHO",
+      "subtema": null
+    },
+    {
+      "tema": "LIBERTAD CONDICIONAL",
+      "subtema": "Exige valoración de conducta del interno"
+    },
+    {
+      "tema": "LIBERTAD CONDICIONAL",
+      "subtema": "Solicitud no cobra ejecución material"
+    },
+    {
+      "tema": "VIA DE HECHO",
+      "subtema": "Alcance"
+    }
+  ]
+}

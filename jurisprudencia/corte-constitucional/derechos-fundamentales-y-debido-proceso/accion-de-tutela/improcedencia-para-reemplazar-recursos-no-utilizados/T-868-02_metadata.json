@@ -1,0 +1,66 @@
+{
+  "radicado": "T-868-02",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2002,
+  "fecha_creacion": "2002-10-11",
+  "magistrado_ponente": "Dr JAIME ARAUJO RENTERIA",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCIÓN DE TUTELA",
+  "subtema": "Improcedencia para reemplazar recursos no utilizados",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 600 de 2000"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2002/T-868-02.htm",
+  "fecha_descarga": "2026-10-23T00:31:23.424127+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2002-10-11",
+  "fecha_publicacion": null,
+  "numero": "T-868/02",
+  "tipo_cc": "T",
+  "prov_id": "21279",
+  "tema_relatoria": "DERECHO AL DEBIDO PROCESO Y LIBERTAD. VIA DE HECHO EN SENTENCIAS JUDICIALES. SOLICITUD REBAJA MONTO DE LA CAUCION PRENDARIA. PROCESO PENAL POR TRAFICO DE ESTUPEFACIENTES. COSA JUZGADA FORMAL Y MATERIAL. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Improcedencia para reemplazar recursos no utilizados"
+    },
+    {
+      "tema": "PRINCIPIO DE FAVORABILIDAD PENAL",
+      "subtema": "Aplicación para rebaja de caución"
+    },
+    {
+      "tema": "VIA DE HECHO",
+      "subtema": "Inexistencia por cuanto el juez actuó diligentemente al momento de expedir la providencia"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Procedencia excepcional por vía de hecho"
+    },
+    {
+      "tema": "CAUCION PRENDARIA EN MATERIA PENAL",
+      "subtema": "Monto mínimo"
+    },
+    {
+      "tema": "CAUCION PRENDARIA PARA LIBERTAD PROVISIONAL",
+      "subtema": "Capacidad económica por debajo de cuantía mínima"
+    },
+    {
+      "tema": "PRINCIPIO DE IGUALDAD EN CAUCION PRENDARIA PARA LIBERTAD PROVISIONAL",
+      "subtema": "Cuantía mínima desconoce realidad económica y social"
+    },
+    {
+      "tema": "VIA DE HECHO",
+      "subtema": "Defecto sustantivo"
+    },
+    {
+      "tema": "VIA DE HECHO",
+      "subtema": "Negativa de rebaja del monto de caución prendaria"
+    }
+  ]
+}

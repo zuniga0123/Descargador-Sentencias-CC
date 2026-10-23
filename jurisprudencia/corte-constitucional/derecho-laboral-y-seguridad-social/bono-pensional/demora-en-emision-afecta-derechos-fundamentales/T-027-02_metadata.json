@@ -1,0 +1,54 @@
+{
+  "radicado": "T-027-02",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2002,
+  "fecha_creacion": "2002-01-24",
+  "magistrado_ponente": "Dr EDUARDO MONTEALEGRE LYNETT",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "BONO PENSIONAL",
+  "subtema": "Demora en emisión afecta derechos fundamentales",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Decreto 266 de 2000",
+    "Decreto 1748 de 1995",
+    "Decreto 1474 de 1997",
+    "Decreto 1296 de 1994",
+    "Ley 100 de 1993"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2002/T-027-02.htm",
+  "fecha_descarga": "2026-10-23T00:12:55.003371+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2002-01-24",
+  "fecha_publicacion": null,
+  "numero": "T-027/02",
+  "tipo_cc": "T",
+  "prov_id": "20157",
+  "tema_relatoria": "DERECHOS A LA VIDA SALUD MINIMO VITAL Y SEGURIDAD SOCIAL DE PERSONA DE LA TERCERA EDAD. SOLICITUD RECONOCIMIENTO PENSION DE JUBILACION. LIQUIDACION EMISION Y REMISION DEL BONO PENSIONAL. ISS. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "BONO PENSIONAL",
+      "subtema": "Demora en emisión afecta derechos fundamentales"
+    },
+    {
+      "tema": "VIA DE HECHO",
+      "subtema": "Se niega pensión por demora en emisión del bono"
+    },
+    {
+      "tema": "BONO PENSIONAL",
+      "subtema": "No emisión no es obstáculo para obtener pensión de jubilación"
+    },
+    {
+      "tema": "SEGURO SOCIAL",
+      "subtema": "Negligencia administrativa no puede trasladarse a usuarios"
+    },
+    {
+      "tema": "SEGURO SOCIAL",
+      "subtema": "Cancelación mesada pensional sin emisión del bono"
+    }
+  ]
+}

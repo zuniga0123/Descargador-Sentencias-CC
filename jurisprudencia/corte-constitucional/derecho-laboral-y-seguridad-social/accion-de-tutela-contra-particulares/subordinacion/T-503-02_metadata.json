@@ -1,0 +1,78 @@
+{
+  "radicado": "T-503-02",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2002,
+  "fecha_creacion": "2002-06-27",
+  "magistrado_ponente": "Dr EDUARDO MONTEALEGRE LYNETT",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "ACCION DE TUTELA CONTRA PARTICULARES",
+  "subtema": "Subordinación",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Ley 550 de 1999",
+    "Ley 500 de 1999",
+    "Ley 222 de 1995",
+    "Ley 50 de 1990",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2002/T-503-02.htm",
+  "fecha_descarga": "2026-10-23T00:24:11.260505+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2002-06-27",
+  "fecha_publicacion": null,
+  "numero": "T-503/02",
+  "tipo_cc": "T",
+  "prov_id": "20725",
+  "tema_relatoria": "DERECHOS A LA PENSION FUTURA VIDA Y SEGURIDAD SOCIAL. CONTINUIDAD. ESTADO DE SUBORDINACION. MORA EN PAGO DE APORTES EN PENSION POR EMPLEADOR. SUSPENSION CONTRATO DE TRABAJO. TUTELA CONTRA PARTICULARES. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCION DE TUTELA CONTRA PARTICULARES",
+      "subtema": "Subordinación"
+    },
+    {
+      "tema": "EMPLEADOR",
+      "subtema": "Situación económica o presupuestal no es óbice para desconocer obligaciones laborales"
+    },
+    {
+      "tema": "SUSPENSION DE CONTRATO DE TRABAJO",
+      "subtema": "Se mantiene prestación de seguridad social"
+    },
+    {
+      "tema": "SUSPENSION DE CONTRATO DE TRABAJO",
+      "subtema": "Se mantiene atención en salud de trabajadores"
+    },
+    {
+      "tema": "DERECHO A LA SEGURIDAD SOCIAL",
+      "subtema": "Conexidad con la vida"
+    },
+    {
+      "tema": "EMPRESA EN LIQUIDACION",
+      "subtema": "Mora en aportes a seguridad social en pensiones y salud"
+    },
+    {
+      "tema": "PROCESO DE LIQUIDACION OBLIGATORIA",
+      "subtema": "Pago preferente de salarios y mesadas pensionales"
+    },
+    {
+      "tema": "EMPLEADOR",
+      "subtema": "Sanciones por desacuerdo y no transferencia de aportes a seguridad social"
+    },
+    {
+      "tema": "EMPRESA EN LIQUIDACION",
+      "subtema": "Pago de aportes por concepto de seguridad social"
+    },
+    {
+      "tema": "EMPLEADOR",
+      "subtema": "Asunción de responsabilidad por mora en aportes en salud y pensión"
+    },
+    {
+      "tema": "SUSPENSION DE CONTRATO DE TRABAJO",
+      "subtema": "Alcance"
+    }
+  ]
+}

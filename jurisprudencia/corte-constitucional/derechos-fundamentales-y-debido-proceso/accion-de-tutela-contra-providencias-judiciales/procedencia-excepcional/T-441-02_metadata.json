@@ -1,0 +1,82 @@
+{
+  "radicado": "T-441-02",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2002,
+  "fecha_creacion": "2002-05-30",
+  "magistrado_ponente": "Dr MARCO GERARDO MONROY CABRA",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+  "subtema": "Procedencia excepcional",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 222 de 1995",
+    "Ley 22 de 1995",
+    "Decreto Ley 444 de 1967",
+    "Decreto 444 de 1967",
+    "Ley 9 de 1991",
+    "Decreto 350 de 1989"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2002/T-441-02.htm",
+  "fecha_descarga": "2026-10-23T00:16:29.963258+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2002-05-30",
+  "fecha_publicacion": null,
+  "numero": "T-441/02",
+  "tipo_cc": "T",
+  "prov_id": "20631",
+  "tema_relatoria": "DERECHO AL DEBIDO PROCESO. VIA DE HECHO. ACUERDO CONCORDATARIO EN PROCESOS CONCURSALES. RECURSO DE REPOSICION. PAGO OBLIGACIONES EN MONEDA EXTRANJERA. ACREDEORES QUIROGRAFARIOS. TUTELA CONTRA PROVIDENCIAS JUDICIALES. PAR CONDITIO CREDITORUM. CARBOANDES. L",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Procedencia excepcional"
+    },
+    {
+      "tema": "ACUERDO CONCORDATARIO",
+      "subtema": "Aprobación judicial de carácter obligatorio erga omnes"
+    },
+    {
+      "tema": "PRINCIPIO PAR CONDITIO CREDITORUM",
+      "subtema": "Necesario en el acuerdo concordatario"
+    },
+    {
+      "tema": "PRINCIPIO PAR CONDITIO CREDITORUM",
+      "subtema": "Excepción"
+    },
+    {
+      "tema": "VIA DE HECHO",
+      "subtema": "Aplicación restrictiva en materia de interpretación judicial"
+    },
+    {
+      "tema": "LEGITIMACIÓN POR ACTIVA EN TUTELA",
+      "subtema": null
+    },
+    {
+      "tema": "CARACTER GENERAL DE LAS ESTIPULACIONES Y PRINCIPIO PAR CONDITIO CREDITORUM",
+      "subtema": null
+    },
+    {
+      "tema": "PROCESO CONCURSAL",
+      "subtema": "Acuerdo requiere aval de la Superintendencia de Sociedades"
+    },
+    {
+      "tema": "PROCESO CONCURSAL",
+      "subtema": "Normas que fijan la tasa representativa del mercado"
+    },
+    {
+      "tema": "PROCESO CONCURSAL",
+      "subtema": "Acuerdo concordatario de la Superintendencia de Sociedades tiene naturaleza de providencia judicial"
+    },
+    {
+      "tema": "RECURSO DE REPOSICION FRENTE AL AUTO DE APROBACION DEL ACUERDO CONCORDATARIO",
+      "subtema": "Procedencia"
+    },
+    {
+      "tema": "PRINCIPIO PAR CONDITIO CREDITORUM",
+      "subtema": "Desarrollo en el proceso concursal"
+    }
+  ]
+}

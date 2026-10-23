@@ -1,0 +1,59 @@
+{
+  "radicado": "T-928A-02",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2002,
+  "fecha_creacion": "2002-10-31",
+  "magistrado_ponente": "Dr JAIME CÓRDOBA TRIVIÑO",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "DERECHO A LA SALUD",
+  "subtema": "Fundamental por conexidad con la vida",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto Ley 2591 de 1991",
+    "Ley 100 de 1993",
+    "Decreto 1922 de 1994",
+    "Ley 60 de 1993",
+    "Decreto 1298 de 1994",
+    "Decreto 788 de 1998",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2002/T-928A-02.htm",
+  "fecha_descarga": "2026-10-23T00:10:16.184955+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2002-10-31",
+  "fecha_publicacion": null,
+  "numero": "T-928A/02",
+  "tipo_cc": "T",
+  "prov_id": "21373",
+  "tema_relatoria": "DERECHO A LA VIDA Y SEGURIDAD SOCIAL DE MENOR DE EDAD EMBARAZADA E HIJO RECIEN NACIDO. SUMINISTRO ATENCION MEDICA. MORA PAGO APORTES EN SALUD POR EMPLEADOR. FUNDACION SAN JUAN DE DIOS. INTERVENCION TECNICA Y ADMINISTRATIVA. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Fundamental por conexidad con la vida"
+    },
+    {
+      "tema": "EMPLEADOR",
+      "subtema": "Mora de aportes en salud"
+    },
+    {
+      "tema": "DERECHO A LA CONTINUIDAD EN EL SERVICIO DE SALUD",
+      "subtema": "Atención médica a menor"
+    },
+    {
+      "tema": "DERECHO A LA SEGURIDAD SOCIAL EN SALUD",
+      "subtema": "Contenido constitucionalmente protegido"
+    },
+    {
+      "tema": "EMPLEADOR",
+      "subtema": "Situación económica o presupuestal no es óbice para desconocer obligaciones laborales"
+    },
+    {
+      "tema": "DERECHO A LA EFICIENCIA EN EL SERVICIO DE SALUD",
+      "subtema": "Atención a menor"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "radicado": "T-215-02",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2002,
+  "fecha_creacion": "2002-03-21",
+  "magistrado_ponente": "Dr JAIME CÓRDOBA TRIVIÑO",
+  "area": "Derecho de Familia y Derechos de Niños, Niñas y Adolescentes",
+  "tema": "MENOR DESPLAZADO",
+  "subtema": "Inscripción para los que han perdido sus padres o representantes legales",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 387 de 1997",
+    "Decreto 489 de 1999",
+    "Decreto 2569 de 2000",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2002/T-215-02.htm",
+  "fecha_descarga": "2026-10-23T00:22:30.279427+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2002-03-21",
+  "fecha_publicacion": null,
+  "numero": "T-215/02",
+  "tipo_cc": "T",
+  "prov_id": "20370",
+  "tema_relatoria": "DERECHOS A LA EDUCACION RECREACION Y CULTURA DE MENOR DE EDAD. DESPLAZAMIENTO FORZADO. INSCRIPCION EN EL REGISTRO UNICO DE DESPLAZADADOS POR LA VIOLENCIA. DISPONIBILIDAD CUPOS EN SISTEMA EDUCATIVO. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "MENOR DESPLAZADO",
+      "subtema": "Inscripción para los que han perdido sus padres o representantes legales"
+    },
+    {
+      "tema": "DESPLAZAMIENTO FORZADO",
+      "subtema": "Vulneración múltiple, masiva y continua de derechos fundamentales"
+    },
+    {
+      "tema": "DESPLAZAMIENTO FORZADO",
+      "subtema": "No requiere ser declarado por entidad pública o privada"
+    },
+    {
+      "tema": "DESPLAZADOS INTERNOS",
+      "subtema": "Garantía de acceso a la educación"
+    },
+    {
+      "tema": "DESPLAZAMIENTO FORZADO",
+      "subtema": "Situación de hecho"
+    },
+    {
+      "tema": "DERECHO A LA EDUCACION DEL MENOR DESPLAZADO",
+      "subtema": "No se puede negar el ingreso a establecimiento educativo por haber superado la edad límite para los años escolares a los que aspiran"
+    },
+    {
+      "tema": "INSCRIPCION EN REGISTRO NACIONAL DE DESPLAZADOS",
+      "subtema": "Criterios deben ser razonables"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "radicado": "T-134-02",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2002,
+  "fecha_creacion": "2002-02-28",
+  "magistrado_ponente": "Dr ALVARO TAFUR GALVIS",
+  "area": "Derecho a la Salud",
+  "tema": "DERECHO A LA SALUD DEL MENOR",
+  "subtema": "Tratamiento para la depresión",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 100 de 1993",
+    "Decreto 806 de 1998",
+    "Ley 361 de 1997",
+    "Ley 115 de 1994"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2002/T-134-02.htm",
+  "fecha_descarga": "2026-10-23T00:18:34.014667+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2002-02-28",
+  "fecha_publicacion": null,
+  "numero": "T-134/02",
+  "tipo_cc": "T",
+  "prov_id": "20280",
+  "tema_relatoria": "DERECHO A LA SALUD E INTIMIDAD PERSONAL Y FAMILIAR. TRATAMIENTO MEDICO DECLARADO URGENTE NO INCLUIDO EN EL POS. ACCESO AL SERVICIO DE SALUD. REEMBOLSO GASTOS. OBLIGACION DE INFORMAR INDICAR Y ACOMPAÑAR A PERSONAS QUE REQUIERAN SERVICIOS MEDICOS POR PARTE",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA SALUD DEL MENOR",
+      "subtema": "Tratamiento para la depresión"
+    },
+    {
+      "tema": "ADMINISTRADORA DEL REGIMEN SUBSIDIADO",
+      "subtema": "Obligación de rembolsar los gastos en que incurrió para atender urgencia psiquiátrica de menor"
+    },
+    {
+      "tema": "ADMINISTRADORA DEL REGIMEN SUBSIDIADO",
+      "subtema": "Le corresponde asesorar, apoyar y orientar para el acceso a los servicios del Estado cuando se requieran"
+    },
+    {
+      "tema": "ENTIDAD PROMOTORA DE SALUD",
+      "subtema": "Deber de asistir de manera permanente a sus afiliados así no estén obligados a prestar directamente el servicio"
+    },
+    {
+      "tema": "DERECHO A LA SALUD DEL MENOR",
+      "subtema": "Retardo mental leve"
+    }
+  ]
+}

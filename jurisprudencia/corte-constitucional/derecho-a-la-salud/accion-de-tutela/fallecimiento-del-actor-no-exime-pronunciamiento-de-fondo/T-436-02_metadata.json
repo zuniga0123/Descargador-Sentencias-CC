@@ -1,0 +1,46 @@
+{
+  "radicado": "T-436-02",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2002,
+  "fecha_creacion": "2002-05-30",
+  "magistrado_ponente": "Dr JAIME CÓRDOBA TRIVIÑO",
+  "area": "Derecho a la Salud",
+  "tema": "ACCIÓN DE TUTELA",
+  "subtema": "Fallecimiento del actor no exime pronunciamiento de fondo",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 100 de 1993"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2002/T-436-02.htm",
+  "fecha_descarga": "2026-10-23T00:16:11.819582+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2002-05-30",
+  "fecha_publicacion": null,
+  "numero": "T-436/02",
+  "tipo_cc": "T",
+  "prov_id": "20626",
+  "tema_relatoria": "DERECHOS A LA SALUD VIDA E INTEGRIDAD FISICA DE ENFERMO TERMINAL. PROTECCION EFECTIVA. SUMINISTRO TRATAMIENTO DE QUIMIOTERAPIA. MUERTE DE ACCIONANTE DURANTE TRAMITE DE REVISION. AUTONOMIA ADMINISTRATIVA Y PRESUPUESTAL DE EPS. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Fallecimiento del actor no exime pronunciamiento de fondo"
+    },
+    {
+      "tema": "ENTIDAD PROMOTORA DE SALUD",
+      "subtema": "Eficiencia y calidad en el servicio"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Hecho consumado por fallecimiento del actor"
+    },
+    {
+      "tema": "ENTIDAD PROMOTORA DE SALUD",
+      "subtema": "No se predica efectividad del servicio al obligar trasladar a paciente terminal a otra ciudad sin justificación para quimioterapia"
+    }
+  ]
+}

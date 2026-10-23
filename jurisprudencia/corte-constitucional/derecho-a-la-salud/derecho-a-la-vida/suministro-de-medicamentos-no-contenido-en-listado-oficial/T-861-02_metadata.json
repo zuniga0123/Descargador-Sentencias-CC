@@ -1,0 +1,50 @@
+{
+  "radicado": "T-861-02",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2002,
+  "fecha_creacion": "2002-10-10",
+  "magistrado_ponente": "Dra CLARA INÉS VARGAS HERNÁNDEZ",
+  "area": "Derecho a la Salud",
+  "tema": "DERECHO A LA VIDA",
+  "subtema": "Suministro de medicamentos no contenido en listado oficial",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Decreto 806 de 1998"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2002/T-861-02.htm",
+  "fecha_descarga": "2026-10-23T00:08:38.315997+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2002-10-10",
+  "fecha_publicacion": null,
+  "numero": "T-861/02",
+  "tipo_cc": "T",
+  "prov_id": "21272",
+  "tema_relatoria": "DERECHO A LA SALUD Y VIDA DE PERSONA DE LA TERCERA EDAD. SUMINISTRO MEDICAMENTOS PRESCRITOS POR MEDICO TRATANTE NO INCLUIDOS EN EL POS. EQUILIBRIO FINANCIERO. ACCION DE REPETICION. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA VIDA",
+      "subtema": "Suministro de medicamentos no contenido en listado oficial"
+    },
+    {
+      "tema": "PLAN OBLIGATORIO DE SALUD",
+      "subtema": "Exclusiones y limitaciones"
+    },
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Suministro de medicamentos"
+    },
+    {
+      "tema": "ENTIDAD PROMOTORA DE SALUD",
+      "subtema": "Suministro de medicamentos señalados por médico tratante aunque no figuren en listado del POS"
+    },
+    {
+      "tema": "ENTIDAD PROMOTORA DE SALUD",
+      "subtema": "Repetición contra el Estado por medicamentos que no figuran en POS"
+    }
+  ]
+}

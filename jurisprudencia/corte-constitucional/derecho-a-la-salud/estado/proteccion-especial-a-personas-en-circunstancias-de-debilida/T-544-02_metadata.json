@@ -1,0 +1,50 @@
+{
+  "radicado": "T-544-02",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2002,
+  "fecha_creacion": "2002-07-18",
+  "magistrado_ponente": "Dr EDUARDO MONTEALEGRE LYNETT",
+  "area": "Derecho a la Salud",
+  "tema": "ESTADO",
+  "subtema": "Protección especial a personas en circunstancias de debilidad manifiesta",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 100 de 1993"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2002/T-544-02.htm",
+  "fecha_descarga": "2026-10-23T00:08:12.925576+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2002-07-18",
+  "fecha_publicacion": null,
+  "numero": "T-544/02",
+  "tipo_cc": "T",
+  "prov_id": "20786",
+  "tema_relatoria": "DERECHO A LA SALUD Y VIDA DE ENFERMO MENTAL. REGIMEN SUBSIDIADO. DEBILIDAD MANIFIESTA. TRATO PREFERENTE. ATENCION MEDICA INTEGRAL. PROCEDIMIENTOS NO INCLUIDOS EN EL POS. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ESTADO",
+      "subtema": "Protección especial a personas en circunstancias de debilidad manifiesta"
+    },
+    {
+      "tema": "ENTIDAD PROMOTORA DE SALUD",
+      "subtema": "Deber de asistir de manera permanente a sus afiliados así no estén obligados a prestar directamente el servicio"
+    },
+    {
+      "tema": "ADMINISTRADORA DEL REGIMEN SUBSIDIADO",
+      "subtema": "Suministro de tratamiento y medicamentos a persona en circunstancias de debilidad manifiesta"
+    },
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Fundamental por conexidad con la vida"
+    },
+    {
+      "tema": "DERECHO A LA SALUD DEL DISMINUIDO FISICO Y PSIQUICO",
+      "subtema": "Protección especial"
+    }
+  ]
+}

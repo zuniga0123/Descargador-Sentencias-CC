@@ -1,0 +1,51 @@
+{
+  "radicado": "T-112-02",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2002,
+  "fecha_creacion": "2002-02-15",
+  "magistrado_ponente": "Dr MANUEL JOSE CEPEDA ESPINOSA",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "DIRECCION NACIONAL DE ESTUPEFACIENTES",
+  "subtema": "Competencias en materia de administración de bienes durante proceso de extinción de dominio",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 1458 de 1997",
+    "Ley 333 de 1996",
+    "Decreto 2591 de 1991",
+    "Decreto 182 de 1998",
+    "Decreto 1461 de 2000",
+    "Decreto 306 de 1998",
+    "Ley 160 de 1994"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2002/T-112-02.htm",
+  "fecha_descarga": "2026-10-23T00:17:50.060868+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2002-02-15",
+  "fecha_publicacion": null,
+  "numero": "T-112/02",
+  "tipo_cc": "T",
+  "prov_id": "20242",
+  "tema_relatoria": "DERECHO A LA IGUALDAD DEBIDO PROCESO ADMINISTRATIVO Y PROPIEDAD. ADMINISTRACION BIENES DURANTE PROCESOS DE EXTINCION DE DOMINIO. VIA DE HECHO. PREDIOS UBICADOS EN CALDAS Y CUNDINAMARCA. INCORA. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DIRECCION NACIONAL DE ESTUPEFACIENTES",
+      "subtema": "Competencias en materia de administración de bienes durante proceso de extinción de dominio"
+    },
+    {
+      "tema": "SENTENCIA DE TUTELA DE JUEZ DE INSTANCIA",
+      "subtema": "No constituye precedente judicial"
+    },
+    {
+      "tema": "DEBIDO PROCESO ADMINISTRATIVO",
+      "subtema": "Aplicación en trámite de procesos de extinción de dominio"
+    },
+    {
+      "tema": "DERECHO DE PROPIEDAD",
+      "subtema": "Traslado de semovientes durante administración de bienes en proceso de extinción de dominio no implicó desconocimiento"
+    }
+  ]
+}

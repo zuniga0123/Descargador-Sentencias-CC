@@ -1,0 +1,63 @@
+{
+  "radicado": "T-822-02",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2002,
+  "fecha_creacion": "2002-10-04",
+  "magistrado_ponente": "Dr RODRIGO ESCOBAR GIL",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "DERECHO DE ACCESO A CARGOS PUBLICOS",
+  "subtema": "Imposición de sanción",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 200 de 1995",
+    "Ley 270 de 1996",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2002/T-822-02.htm",
+  "fecha_descarga": "2026-10-23T00:27:55.982178+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2002-10-04",
+  "fecha_publicacion": null,
+  "numero": "T-822/02",
+  "tipo_cc": "T",
+  "prov_id": "21229",
+  "tema_relatoria": "DERECHO AL DEBIDO PROCESO DISCIPLINARIO DE EMPLEADO JUDICIAL. ACCESO A CARGOS PUBLICOS. SOLICITUD REINTEGRO POR SUSPENSION EN EL CARGO. DEMOCRACIA PARTICIPATIVA. SOMETIMIENTO A REPARTO CUANDO EL DISCIPLINADOR TIENE VARIOS SUPERIORES. COLISION DE COMPETENC",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO DE ACCESO A CARGOS PUBLICOS",
+      "subtema": "Imposición de sanción"
+    },
+    {
+      "tema": "DEBIDO PROCESO",
+      "subtema": "Vulneración por ejecución del fallo sin haberse resuelto la apelación"
+    },
+    {
+      "tema": "DEBIDO PROCESO DISCIPLINARIO",
+      "subtema": "Vulneración por no someter el incidente de recusación a reparto"
+    },
+    {
+      "tema": "PROCESO DISCIPLINARIO",
+      "subtema": "No se debe rechazar de plano la apelación so pretexto de no estar determinado el funcionario competente para conocer de la segunda instancia"
+    },
+    {
+      "tema": "DEBIDO PROCESO DISCIPLINARIO",
+      "subtema": "Vulneración por desconocimiento del principio de la doble instancia"
+    },
+    {
+      "tema": "JUEZ CONSTITUCIONAL",
+      "subtema": "No puede negar la tutela por la sola existencia del otro medio de defensa judicial"
+    },
+    {
+      "tema": "PROCESO DISCIPLINARIO DEL EMPLEADO JUDICIAL",
+      "subtema": "Conocimiento de la primera instancia por el superior jerárquico"
+    },
+    {
+      "tema": "RECUSACION EN PROCESO DISCIPLINARIO",
+      "subtema": "Sometimiento a reparto cuando existe pluralidad de superiores jerárquicos"
+    }
+  ]
+}

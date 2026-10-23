@@ -1,0 +1,45 @@
+{
+  "radicado": "T-1015-02",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2002,
+  "fecha_creacion": "2002-11-21",
+  "magistrado_ponente": "Marco Gerardo Monroy Cabra",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCIÓN DE TUTELA",
+  "subtema": "Improcedencia para ordenar incremento salarial",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 1382 de 2000"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2002/T-1015-02.htm",
+  "fecha_descarga": "2026-10-23T00:19:46.939015+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2002-11-21",
+  "fecha_publicacion": null,
+  "numero": "T-1015/02",
+  "tipo_cc": "T",
+  "prov_id": "21471",
+  "tema_relatoria": "DERECHO DE PETICION. SOLICITUD REAJUSTE SALARIAL. RESPUESTA DE FONDO. SUMINISTRO INFORMACION DE EXEMPLEADOR SOBRE DERECHOS LABORALES. TUTELA CONTRA PARTICULARES. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Improcedencia para ordenar incremento salarial"
+    },
+    {
+      "tema": "DERECHO DE PETICIÓN",
+      "subtema": "Obligación del ex empleador de dar respuesta al ex empleado sobre sus derechos laborales"
+    },
+    {
+      "tema": "MEDIO DE DEFENSA JUDICIAL EFICAZ",
+      "subtema": "Incremento salarial"
+    },
+    {
+      "tema": "DERECHO DE PETICIÓN",
+      "subtema": "Respuesta debe suministrarse a quien la solicita"
+    }
+  ]
+}

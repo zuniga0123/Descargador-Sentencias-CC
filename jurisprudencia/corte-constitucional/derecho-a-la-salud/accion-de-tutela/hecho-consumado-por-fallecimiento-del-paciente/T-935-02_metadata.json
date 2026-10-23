@@ -1,0 +1,50 @@
+{
+  "radicado": "T-935-02",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2002,
+  "fecha_creacion": "2002-10-31",
+  "magistrado_ponente": "Dr JAIME ARAÚJO RENTERÍA",
+  "area": "Derecho a la Salud",
+  "tema": "ACCIÓN DE TUTELA",
+  "subtema": "Hecho consumado por fallecimiento del paciente",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Decreto 806 de 1998"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2002/T-935-02.htm",
+  "fecha_descarga": "2026-10-23T00:29:08.811800+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2002-10-31",
+  "fecha_publicacion": null,
+  "numero": "T-935/02",
+  "tipo_cc": "T",
+  "prov_id": "21379",
+  "tema_relatoria": "DERECHOS A LA SALUD VIDA Y SEGURIDAD SOCIAL DE MENOR DE EDAD CON INSUFICIENCIA RENAL CRONICA. SOLICITUD TRATAMIENTO INTEGRAL. PERIODO MINIMO DE COTIZACION. DOBLE AFILIACION. FALLECIMIENTO DEL PACIENTE DURANTE EL TRAMITE DE TUTELA. EFICIENCIA Y CONTINUIDAD",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Hecho consumado por fallecimiento del paciente"
+    },
+    {
+      "tema": "DERECHO A LA CONTINUIDAD EN EL SERVICIO DE SALUD",
+      "subtema": "Atención médica a menor"
+    },
+    {
+      "tema": "ESTADO DE COSAS INCONSTITUCIONAL",
+      "subtema": "Ineficiente prestación del servicio público de salud"
+    },
+    {
+      "tema": "DERECHO A LA SALUD DEL MENOR",
+      "subtema": "No puede oponer periodos mínimos de cotización"
+    },
+    {
+      "tema": "DERECHO A LA EFICIENCIA EN EL SERVICIO DE SALUD",
+      "subtema": "Atención a menor"
+    }
+  ]
+}

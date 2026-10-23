@@ -1,0 +1,39 @@
+{
+  "radicado": "T-969-02",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2002,
+  "fecha_creacion": "2002-11-12",
+  "magistrado_ponente": "Dr RODRIGO ESCOBAR GIL",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "MEDIO DE DEFENSA JUDICIAL",
+  "subtema": "Controversias económicas",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 100 de 1993",
+    "Decreto 806 de 1998"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2002/T-969-02.htm",
+  "fecha_descarga": "2026-10-23T00:30:57.823085+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2002-11-12",
+  "fecha_publicacion": null,
+  "numero": "T-969/02",
+  "tipo_cc": "T",
+  "prov_id": "21417",
+  "tema_relatoria": "DERECHO AL DEBIDO PROCESO SEGURIDAD SOCIAL VIDA Y MINIMO VITAL. SOLICITUD REINTEGRO DINEROS DESCONTADOS DE MESADAS PENSIONALES POR APORTES EN SALUD. MODIFICACION UNILATERAL. REVOCATORIA DIRECTA DE ACTO PROPIO. RECLAMACION ECONOMICA DE PRESTACION LABORAL.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "MEDIO DE DEFENSA JUDICIAL",
+      "subtema": "Controversias económicas"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Improcedencia sobre controversias económicas"
+    }
+  ]
+}

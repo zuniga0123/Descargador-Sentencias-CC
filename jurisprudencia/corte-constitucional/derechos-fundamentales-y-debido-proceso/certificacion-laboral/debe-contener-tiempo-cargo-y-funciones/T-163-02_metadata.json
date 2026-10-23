@@ -1,0 +1,57 @@
+{
+  "radicado": "T-163-02",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2002,
+  "fecha_creacion": "2002-03-07",
+  "magistrado_ponente": "Dr JAIME CORDOBA TRIVIÑO",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "CERTIFICACION LABORAL",
+  "subtema": "Debe contener tiempo, cargo y funciones",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2002/T-163-02.htm",
+  "fecha_descarga": "2026-10-23T00:06:53.718792+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2002-03-07",
+  "fecha_publicacion": "2002-03-03",
+  "numero": "T-163/02",
+  "tipo_cc": "T",
+  "prov_id": "20312",
+  "tema_relatoria": "DERECHO DE PETICION. NATURALEZA Y NUCLEO ESENCIAL. SOLICITUD CERTIFICACION LABORAL. RESPUESTA CLARA Y OPORTUNA. TUTELA FRENTE A PARTICULARES. RELACION DE SUBORDINACION O INDEFENSION. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "CERTIFICACION LABORAL",
+      "subtema": "Debe contener tiempo, cargo y funciones"
+    },
+    {
+      "tema": "DERECHO DE PETICIÓN",
+      "subtema": "Núcleo esencial"
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA PARTICULARES",
+      "subtema": "Indefensión"
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA PARTICULARES",
+      "subtema": "Procedencia excepcional"
+    },
+    {
+      "tema": "DERECHO DE PETICION ANTE ORGANIZACIONES PRIVADAS",
+      "subtema": "Subordinación"
+    },
+    {
+      "tema": "DERECHO AL TRABAJO",
+      "subtema": "Vulneración por no expedición de certificado laboral"
+    },
+    {
+      "tema": "DERECHO DE PETICIÓN",
+      "subtema": "No expedición de certificación laboral"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "radicado": "T-824-02",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2002,
+  "fecha_creacion": "2002-10-04",
+  "magistrado_ponente": "Dr MANUEL JOSÉ CEPEDA ESPINOSA",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "CONSTITUCION POLITICA",
+  "subtema": "Rango normativo superior",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 48 de 1993",
+    "Decreto Ley 1796 de 2000",
+    "Decreto Ley 1795 de 2000",
+    "Decreto 1795 de 2000",
+    "Decreto 94 de 1989",
+    "Decreto 1796 de 2000",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2002/T-824-02.htm",
+  "fecha_descarga": "2026-10-23T00:27:59.569186+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2002-10-04",
+  "fecha_publicacion": null,
+  "numero": "T-824/02",
+  "tipo_cc": "T",
+  "prov_id": "21231",
+  "tema_relatoria": "DERECHO AL DEBIDO PROCESO Y SALUD. SOLICITUD SERVICIOS MEDICOS POR AFECCIONES PADECIDAS ANTES DE INGRESAR O PRODUCTO DE LA PRESTACION DEL SERVICIO MILITAR. PRACTICA DE EXAMENES MEDICOS SERIOS Y EXHAUSTIVOS. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "CONSTITUCION POLITICA",
+      "subtema": "Rango normativo superior"
+    },
+    {
+      "tema": "DEBIDO PROCESO DE SOLDADO",
+      "subtema": "Acceso a servicios de salud"
+    },
+    {
+      "tema": "DERECHO A LA VIDA DEL SOLDADO",
+      "subtema": "Protección por autoridades militares"
+    },
+    {
+      "tema": "CONSTITUCION POLITICA",
+      "subtema": "Aplicación prevalente"
+    },
+    {
+      "tema": "DERECHO A LA SALUD DEL SOLDADO",
+      "subtema": "Protección por autoridades militares"
+    },
+    {
+      "tema": "DEBIDO PROCESO",
+      "subtema": "Negación de toda posibilidad de ejercer instrumentos de defensa y contradicción en materia de sanidad militar"
+    },
+    {
+      "tema": "SERVICIO MILITAR OBLIGATORIO",
+      "subtema": "Importancia de la evaluación médica rigurosa y adecuada para el ingreso"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "radicado": "T-170-02",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2002,
+  "fecha_creacion": "2002-03-08",
+  "magistrado_ponente": "Dr MANUEL JOSÉ CEPEDA ESPINOSA",
+  "area": "Derecho a la Salud",
+  "tema": "DERECHO A LA VIDA",
+  "subtema": "Suministro de medicamentos no incluido en el POS",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 806 de 1998",
+    "Decreto 2591 de 1991",
+    "Decreto 753 de 1956",
+    "Decreto 2665 de 1988"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2002/T-170-02.htm",
+  "fecha_descarga": "2026-10-23T00:28:06.724968+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2002-03-08",
+  "fecha_publicacion": null,
+  "numero": "T-170/02",
+  "tipo_cc": "T",
+  "prov_id": "20321",
+  "tema_relatoria": "DERECHOS A LA VIDA INTEGRIDAD Y SALUD. SOLICITUD SUMINISTRO MEDICAMENTOS NECESARIOS NO INCLUIDOS EN EL POS. PRINCIPIO DE CONTINUIDAD DEL SERVICIO PUBLICO DE SALUD. ACCION DE REPETICION. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA VIDA",
+      "subtema": "Suministro de medicamentos no incluido en el POS"
+    },
+    {
+      "tema": "ENTIDAD PROMOTORA DE SALUD",
+      "subtema": "Razones que debe aducir para negar tratamiento o medicamento"
+    },
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Suministro de medicamentos no contemplados en el POS"
+    },
+    {
+      "tema": "PRINCIPIO DE CONTINUIDAD POR ENTIDAD PROMOTORA DE SALUD",
+      "subtema": "Casos en que es aceptable que se suspenda la prestación del servicio de salud"
+    },
+    {
+      "tema": "PRINCIPIO DE CONTINUIDAD POR ENTIDAD PROMOTORA DE SALUD",
+      "subtema": "Suministro de medicamento suspendido por no estar incluido en POS"
+    },
+    {
+      "tema": "DERECHO A LA ENTREGA DEL MEDICAMENTO",
+      "subtema": "Se probó incapacidad económica para adquirirlo"
+    },
+    {
+      "tema": "PRINCIPIO DE CONTINUIDAD POR ENTIDAD PROMOTORA DE SALUD",
+      "subtema": "Casos en que no se puede suspender el tratamiento o el medicamento"
+    }
+  ]
+}

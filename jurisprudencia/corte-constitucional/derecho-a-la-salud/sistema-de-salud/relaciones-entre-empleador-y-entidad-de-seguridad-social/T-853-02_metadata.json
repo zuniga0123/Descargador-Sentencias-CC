@@ -1,0 +1,46 @@
+{
+  "radicado": "T-853-02",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2002,
+  "fecha_creacion": "2002-10-10",
+  "magistrado_ponente": "Dr RODRIGO ESCOBAR GIL",
+  "area": "Derecho a la Salud",
+  "tema": "SISTEMA DE SALUD",
+  "subtema": "Relaciones entre empleador y entidad de seguridad social",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 100 de 1993"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2002/T-853-02.htm",
+  "fecha_descarga": "2026-10-23T00:29:37.936855+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2002-10-10",
+  "fecha_publicacion": null,
+  "numero": "T-853/02",
+  "tipo_cc": "T",
+  "prov_id": "21264",
+  "tema_relatoria": "DERECHO A LA SALUD Y SEGURIDAD SOCIAL. MORA PAGO DE APORTES POR PARTE DEL EMPLEADOR. REGIMEN CONTRIBUTIVO. ESTADO DE SUBORDINACION E INDEFENSION. TUTELA CONTRA PARTICULARES. PRESUNCION DE VERACIDAD. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "SISTEMA DE SALUD",
+      "subtema": "Relaciones entre empleador y entidad de seguridad social"
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA PARTICULARES",
+      "subtema": "Procedencia excepcional"
+    },
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Mora en pago de aportes patronales"
+    },
+    {
+      "tema": "SISTEMA GENERAL DE SEGURIDAD SOCIAL EN SALUD",
+      "subtema": "Asunción de responsabilidad por empleador al no entregar aportes descontados"
+    }
+  ]
+}

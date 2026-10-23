@@ -1,0 +1,55 @@
+{
+  "radicado": "T-652-02",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2002,
+  "fecha_creacion": "2002-08-15",
+  "magistrado_ponente": "Dr JAIME ARAUJO RENTERIA",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "DERECHO AL MINIMO VITAL DEL TRABAJADOR",
+  "subtema": "Presunción de afectación por ausencia prolongada en pago de salarios",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 222 de 1995",
+    "Ley 50 de 1990"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2002/T-652-02.htm",
+  "fecha_descarga": "2026-10-23T00:27:05.209371+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2002-08-15",
+  "fecha_publicacion": null,
+  "numero": "T-652/02",
+  "tipo_cc": "T",
+  "prov_id": "20946",
+  "tema_relatoria": "DERECHO AL MINIMO VITAL DE EXTRABAJADOR. PAGO DE ACREENCIAS LABORALES. SALARIOS. TERMINACION CONTRATO DE TRABAJO. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO AL MINIMO VITAL DEL TRABAJADOR",
+      "subtema": "Presunción de afectación por ausencia prolongada en pago de salarios"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Pago de salarios aún cuando ya no exista vinculación a la empresa"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Procedencia excepcional pago de acreencias laborales"
+    },
+    {
+      "tema": "DERECHO A LA SUBSISTENCIA DEL TRABAJADOR",
+      "subtema": "Pago oportuno de salarios"
+    },
+    {
+      "tema": "EMPRESA EN CONCORDATO O LIQUIDACION",
+      "subtema": "Pago preferente de acreencias laborales"
+    },
+    {
+      "tema": "EMPLEADOR",
+      "subtema": "Situación económica o presupuestal no es óbice para desconocer pago de salarios"
+    }
+  ]
+}

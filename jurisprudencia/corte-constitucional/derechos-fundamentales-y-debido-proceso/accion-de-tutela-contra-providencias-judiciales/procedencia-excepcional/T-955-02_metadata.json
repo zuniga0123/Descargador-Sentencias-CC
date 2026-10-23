@@ -1,0 +1,50 @@
+{
+  "radicado": "T-955-02",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2002,
+  "fecha_creacion": "2002-11-07",
+  "magistrado_ponente": "Dr JAIME CÓRDOBA TRIVIÑO",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+  "subtema": "Procedencia excepcional",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto Ley 2591 de 1991",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2002/T-955-02.htm",
+  "fecha_descarga": "2026-10-23T00:30:36.046560+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2002-11-07",
+  "fecha_publicacion": null,
+  "numero": "T-955/02",
+  "tipo_cc": "T",
+  "prov_id": "21403",
+  "tema_relatoria": "DERECHO AL DEBIDO PROCESO. VIA DE HECHO. PROCESO EJECUTIVO CON PAGARE SUSCRITO EN CONCESION DE CREDITO A DIRECTORES ACCIONISTAS Y ADMINISTRADORES. PAGO DEL CAPITAL SUSCRITO Y NO PAGADO SIN NECESIDAD DE REQUERIMIENTO. PRINCIPIO DE AUTONOMIA E INCORPORACION",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Procedencia excepcional"
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA COMPAÑIA EN LIQUIDACION",
+      "subtema": "Relación comercial y no laboral entre entidad y su presidente al otorgar crédito"
+    },
+    {
+      "tema": "VIA DE HECHO EN PROCESO EJECUTIVO",
+      "subtema": "Inexistencia"
+    },
+    {
+      "tema": "TITULOS VALORES AUTONOMOS",
+      "subtema": "Exigibilidad de la obligación"
+    },
+    {
+      "tema": "VIA DE HECHO EN PROCESO EJECUTIVO",
+      "subtema": "Requerimiento de pago"
+    }
+  ]
+}

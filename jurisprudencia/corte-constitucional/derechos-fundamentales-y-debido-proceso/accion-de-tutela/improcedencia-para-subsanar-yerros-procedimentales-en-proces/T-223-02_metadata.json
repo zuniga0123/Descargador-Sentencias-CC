@@ -1,0 +1,38 @@
+{
+  "radicado": "T-223-02",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2002,
+  "fecha_creacion": "2002-03-21",
+  "magistrado_ponente": "Dra CLARA INÉS VARGAS HERNÁNDEZ",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCIÓN DE TUTELA",
+  "subtema": "Improcedencia para subsanar yerros procedimentales en procesos de trámite",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 30 de 1986"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2002/T-223-02.htm",
+  "fecha_descarga": "2026-10-23T00:22:37.589334+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2002-03-21",
+  "fecha_publicacion": null,
+  "numero": "T-223/02",
+  "tipo_cc": "T",
+  "prov_id": "20378",
+  "tema_relatoria": "DERECHO A UN JUICIO JUSTO Y DEFENSA TECNICA. SOLICITUD LIBERTAD PROVISIONAL. HABEAS CORPUS. VIA DE HECHO. ASISTENCIA POR ABOGADO EN INDAGATORIA. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Improcedencia para subsanar yerros procedimentales en procesos de trámite"
+    },
+    {
+      "tema": "HABEAS CORPUS",
+      "subtema": "Excluye la procedencia de la acción de tutela"
+    }
+  ]
+}

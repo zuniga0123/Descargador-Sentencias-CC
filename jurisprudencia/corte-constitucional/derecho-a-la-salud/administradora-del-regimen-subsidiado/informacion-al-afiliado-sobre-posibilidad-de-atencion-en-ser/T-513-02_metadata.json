@@ -1,0 +1,42 @@
+{
+  "radicado": "T-513-02",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2002,
+  "fecha_creacion": "2002-07-05",
+  "magistrado_ponente": "Dra CLARA INÉS VARGAS HERNÁNDEZ",
+  "area": "Derecho a la Salud",
+  "tema": "ADMINISTRADORA DEL REGIMEN SUBSIDIADO",
+  "subtema": "Información al afiliado sobre posibilidad de atención en servicio no incluido en POS",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Decreto 806 de 1998"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2002/T-513-02.htm",
+  "fecha_descarga": "2026-10-23T00:24:18.549910+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2002-07-05",
+  "fecha_publicacion": null,
+  "numero": "T-513/02",
+  "tipo_cc": "T",
+  "prov_id": "20742",
+  "tema_relatoria": "DERECHOS A LA SALUD VIDA SEGURIDAD SOCIAL E INTEGRIDAD FISICA. SOLICITUD EXAMEN UROGRAFIA NO INCLUIDO EN EL POS. DEBER DE INFORMAR. REGIMEN SUBSIDIADO. SISBEN. NEGADA CON ADICION.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ADMINISTRADORA DEL REGIMEN SUBSIDIADO",
+      "subtema": "Información al afiliado sobre posibilidad de atención en servicio no incluido en POS"
+    },
+    {
+      "tema": "ADMINISTRADORA DEL REGIMEN SUBSIDIADO",
+      "subtema": "Obligación de coordinar práctica de examen"
+    },
+    {
+      "tema": "INSTITUCION PRESTADORA DE SALUD",
+      "subtema": "Cobro de cuota de recuperación a personas que no tienen capacidad de pago"
+    }
+  ]
+}

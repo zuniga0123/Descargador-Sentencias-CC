@@ -1,0 +1,39 @@
+{
+  "radicado": "T-210-02",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2002,
+  "fecha_creacion": "2002-03-20",
+  "magistrado_ponente": "Dr ALFREDO BELTRÁN SIERRA",
+  "area": "Derecho a la Salud",
+  "tema": "ADMINISTRADORA DEL REGIMEN SUBSIDIADO",
+  "subtema": "Previa autorización de Secretaria de Salud departamental debe atender a paciente con cáncer",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Decreto 111 de 1996",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2002/T-210-02.htm",
+  "fecha_descarga": "2026-10-23T00:07:36.917225+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2002-03-20",
+  "fecha_publicacion": null,
+  "numero": "T-210/02",
+  "tipo_cc": "T",
+  "prov_id": "20365",
+  "tema_relatoria": "DERECHO A LA SALUD Y DIGNIDAD DE PACIENTE CON CANCER DE SENO. SOLICITUD EXAMENES Y QUIMIOTERAPIA. SERVICIOS MEDICOS INTEGRALES. REGIMEN SUBSIDIADO. SISBEN. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ADMINISTRADORA DEL REGIMEN SUBSIDIADO",
+      "subtema": "Previa autorización de Secretaria de Salud departamental debe atender a paciente con cáncer"
+    },
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Tratamiento de quimioterapia"
+    }
+  ]
+}

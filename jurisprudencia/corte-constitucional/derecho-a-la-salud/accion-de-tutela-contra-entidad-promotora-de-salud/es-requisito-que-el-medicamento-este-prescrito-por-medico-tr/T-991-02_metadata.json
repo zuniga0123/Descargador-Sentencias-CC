@@ -1,0 +1,42 @@
+{
+  "radicado": "T-991-02",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2002,
+  "fecha_creacion": "2002-11-14",
+  "magistrado_ponente": "Dr EDUARDO MONTEALEGRE LYNETT",
+  "area": "Derecho a la Salud",
+  "tema": "ACCION DE TUTELA CONTRA ENTIDAD PROMOTORA DE SALUD",
+  "subtema": "Es requisito que el medicamento esté prescrito por médico tratante",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 100 de 1993"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2002/T-991-02.htm",
+  "fecha_descarga": "2026-10-23T00:29:59.977686+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2002-11-14",
+  "fecha_publicacion": null,
+  "numero": "T-991/02",
+  "tipo_cc": "T",
+  "prov_id": "21446",
+  "tema_relatoria": "DERECHO A LA VIDA DE PERSONA DE LA TERCERA EDAD. SUMINISTRO MEDICAMENTOS NO INCLUIDOS EN EL POS. EXIGENCIA DE MEDICO TRATANTE. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCION DE TUTELA CONTRA ENTIDAD PROMOTORA DE SALUD",
+      "subtema": "Es requisito que el medicamento esté prescrito por médico tratante"
+    },
+    {
+      "tema": "INAPLICACION DE NORMAS DEL PLAN OBLIGATORIO DE SALUD",
+      "subtema": "Casos en que procede por exclusión de medicamentos"
+    },
+    {
+      "tema": "ENTIDAD PROMOTORA DE SALUD",
+      "subtema": "Suministro de medicamentos señalados por médico tratante aunque no figuren en listado del POS"
+    }
+  ]
+}

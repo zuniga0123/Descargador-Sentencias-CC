@@ -1,0 +1,66 @@
+{
+  "radicado": "T-1108-02",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2002,
+  "fecha_creacion": "2002-12-05",
+  "magistrado_ponente": "Dr ALVARO TAFUR GALVIS",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "DERECHOS DEL INTERNO",
+  "subtema": "Consecuencias jurídicas de las relaciones especiales de sujeción con el Estado",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 142 de 1992",
+    "Decreto 2591 de 1991",
+    "Ley 63 de 1993",
+    "Ley 142 de 1994",
+    "Ley 689 de 2001",
+    "Ley 65 de 1993"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2002/T-1108-02.htm",
+  "fecha_descarga": "2026-10-23T00:28:14.190322+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2002-12-05",
+  "fecha_publicacion": null,
+  "numero": "T-1108/02",
+  "tipo_cc": "T",
+  "prov_id": "21587",
+  "tema_relatoria": "DERECHO DE PETICION Y DEBIDO PROCESO DE LOS INTERNOS. SOLICITUD REESTABLECIMIENTO SERVICIO DE ENERGIA. RESPUESTA CLARA Y OPORTUNA. PAGO OPORTUNO DE SERVICIOS PUBLICOS DOMICILIARIOS. LLAMADO A PREVENCION. INPEC. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHOS DEL INTERNO",
+      "subtema": "Consecuencias jurídicas de las relaciones especiales de sujeción con el Estado"
+    },
+    {
+      "tema": "DERECHOS DEL INTERNO",
+      "subtema": "Elementos de las relaciones especiales de sujeción con el Estado"
+    },
+    {
+      "tema": "LEGITIMACIÓN POR ACTIVA EN TUTELA",
+      "subtema": "Director de establecimiento carcelario"
+    },
+    {
+      "tema": "DERECHO DE PETICION ANTE EMPRESA DE ENERGIA",
+      "subtema": "Vulneración por falta de respuesta pronta y oportuna"
+    },
+    {
+      "tema": "DERECHO DE DEFENSA",
+      "subtema": "Protección del usuario de empresa de servicios públicos domiciliarios"
+    },
+    {
+      "tema": "ESTABLECIMIENTO CARCELARIO",
+      "subtema": "Vulneración derechos de los internos por racionamiento de energía"
+    },
+    {
+      "tema": "SERVICIO PUBLICO DE ENERGIA EN ESTABLECIMIENTO CARCELARIO",
+      "subtema": "Suspensión por mora del INPEC en pago de facturas"
+    },
+    {
+      "tema": "EMPRESA DE SERVICIOS PUBLICOS DOMICILIARIOS",
+      "subtema": "Sujeción del debido proceso en sus actuaciones"
+    }
+  ]
+}

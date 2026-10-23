@@ -1,0 +1,50 @@
+{
+  "radicado": "T-990-02",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2002,
+  "fecha_creacion": "2002-11-14",
+  "magistrado_ponente": "Dr ALVARO TAFUR GALVIS",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCIÓN DE TUTELA",
+  "subtema": "Improcedencia para protección de derechos colectivos",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 472 de 1998"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2002/T-990-02.htm",
+  "fecha_descarga": "2026-10-23T00:14:04.483999+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2002-11-14",
+  "fecha_publicacion": null,
+  "numero": "T-990/02",
+  "tipo_cc": "T",
+  "prov_id": "21445",
+  "tema_relatoria": "DERECHO A LA IGUALDAD Y COLECTIVOS DE RETENIDOS FUNCIONARIOS Y QUIENES ACUDEN AL CENTRO DE RECLUSION TRANSITORIA DE LA INSPECCION CENTRAL PERMANENTE EN PRECARIAS CONDICIONES. AUSENCIA DE SERVICIO SANITARIO. INDETERMINACION DEL SUJETO AFECTADO. PODERES DEL",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Improcedencia para protección de derechos colectivos"
+    },
+    {
+      "tema": "JUEZ DE TUTELA",
+      "subtema": "No puede hacer exigencias no previstas legalmente"
+    },
+    {
+      "tema": "ACCION POPULAR",
+      "subtema": "Protección de derechos e intereses colectivos"
+    },
+    {
+      "tema": "JUEZ DE TUTELA",
+      "subtema": "Deber de practicar pruebas"
+    },
+    {
+      "tema": "DEFENSORIA REGIONAL DEL PUEBLO",
+      "subtema": "Debe conocer situación que se presenta en Inspección Central Permanente de Santa Marta"
+    }
+  ]
+}

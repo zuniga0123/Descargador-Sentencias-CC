@@ -1,0 +1,53 @@
+{
+  "radicado": "T-1010-02",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2002,
+  "fecha_creacion": "2002-11-21",
+  "magistrado_ponente": "Dr JAIME CÓRDOBA TRIVIÑO",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "DERECHO A LA PENSION DE JUBILACION",
+  "subtema": "Divergencias de criterio respecto a su financiación",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 13 de 2001",
+    "Decreto 13 de 2002",
+    "Ley 100 de 1993",
+    "Ley 490 de 1999",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2002/T-1010-02.htm",
+  "fecha_descarga": "2026-10-23T00:19:39.730267+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2002-11-21",
+  "fecha_publicacion": null,
+  "numero": "T-1010/02",
+  "tipo_cc": "T",
+  "prov_id": "21466",
+  "tema_relatoria": "DERECHOS A LA SEGURIDAD SOCIAL MINIMO VITAL SALUD VIDA Y ADQUIRIDOS. SOLICITUD RECONOCIMIENTO PENSION DE VEJEZ. INCLUSION EN NOMINA DE PENSIONADOS. PAGO ACREENCIAS LABORALES. MESADAS PENSIONALES. BONOS PENSIONALES. CUOTAS PARTES. SOPORTE FINANCIERO. ISS.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA PENSION DE JUBILACION",
+      "subtema": "Divergencias de criterio respecto a su financiación"
+    },
+    {
+      "tema": "DERECHO A LA PENSION DE JUBILACION",
+      "subtema": "Retardo injustificado en su reconocimiento"
+    },
+    {
+      "tema": "DERECHO A LA SEGURIDAD SOCIAL",
+      "subtema": "Vulneración por retardo injustificado en reconocimiento de pensión"
+    },
+    {
+      "tema": "DERECHO A LA SEGURIDAD SOCIAL",
+      "subtema": "Fundamental por conexidad"
+    },
+    {
+      "tema": "BONOS PENSIONALES Y CUOTAS PARTES",
+      "subtema": "Normatividad aplicable"
+    }
+  ]
+}

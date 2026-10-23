@@ -1,0 +1,53 @@
+{
+  "radicado": "T-467-02",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2002,
+  "fecha_creacion": "2002-06-13",
+  "magistrado_ponente": "Dr EDUARDO MONTEALEGRE LYNETT",
+  "area": "Derecho a la Salud",
+  "tema": "DERECHO A LA SALUD",
+  "subtema": "Fundamental por conexidad",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2002/T-467-02.htm",
+  "fecha_descarga": "2026-10-23T00:25:27.797587+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2002-06-13",
+  "fecha_publicacion": null,
+  "numero": "T-467/02",
+  "tipo_cc": "T",
+  "prov_id": "20676",
+  "tema_relatoria": "DERECHO A LA VIDA Y SALUD. SERVICIO DE TRANSPORTE TRASLADO PARA EFECTUAR TRATAMIENTO MEDICO NO INCLUIDO EN EL POS. PRINCIPIO DE ACCESIBILIDAD. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Fundamental por conexidad"
+    },
+    {
+      "tema": "SEGURO SOCIAL",
+      "subtema": "No está obligado a prestar servicio de transporte al paciente por no afectarse la salud"
+    },
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Atención oportuna de EPS"
+    },
+    {
+      "tema": "ENTIDAD PRESTADORA DE SALUD",
+      "subtema": "Condiciones para llevar a cabo el transporte de pacientes"
+    },
+    {
+      "tema": "ENTIDAD PROMOTORA DE SALUD",
+      "subtema": "Transporte de pacientes para atención médica"
+    },
+    {
+      "tema": "INAPLICACION DE NORMAS DEL PLAN OBLIGATORIO DE SALUD",
+      "subtema": "Casos en que procede por exclusión de tratamientos y medicamentos de alto costo"
+    }
+  ]
+}

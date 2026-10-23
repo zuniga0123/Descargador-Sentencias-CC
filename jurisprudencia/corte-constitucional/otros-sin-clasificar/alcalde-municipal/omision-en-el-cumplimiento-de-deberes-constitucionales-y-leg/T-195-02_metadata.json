@@ -1,0 +1,51 @@
+{
+  "radicado": "T-195-02",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2002,
+  "fecha_creacion": "2002-03-14",
+  "magistrado_ponente": "Dra CLARA INÉS VARGAS HERNÁNDEZ",
+  "area": "Otros - Sin clasificar",
+  "tema": "ALCALDE MUNICIPAL",
+  "subtema": "Omisión en el cumplimiento de deberes constitucionales y legales",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 472 de 1998",
+    "Decreto 2591 de 1991",
+    "Ley 393 de 1997"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2002/T-195-02.htm",
+  "fecha_descarga": "2026-10-23T00:07:22.402243+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2002-03-14",
+  "fecha_publicacion": null,
+  "numero": "T-195/02",
+  "tipo_cc": "T",
+  "prov_id": "20346",
+  "tema_relatoria": "DERECHOS A LA INTIMIDAD PERSONAL Y FAMILIAR SEGURIDAD Y LIBRE DESARROLLO. RESTRICCION A LA LIBERTAD CIUDADANA. OPERATIVOS DE CONTROL. FIESTAS CALLEJERAS. CONSUMO DE ALCOHOL Y CONTAMINACION AUDITIVA. ORDEN PUBLICO. LIMITACION DERECHOS INDIVIDUALES. CONSERV",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ALCALDE MUNICIPAL",
+      "subtema": "Omisión en el cumplimiento de deberes constitucionales y legales"
+    },
+    {
+      "tema": "DERECHO A LA TRANQUILIDAD, INTEGRIDAD E INTIMIDAD PERSONAL Y FAMILIAR",
+      "subtema": "Perturbación en plaza pública"
+    },
+    {
+      "tema": "DERECHOS A LA SEGURIDAD, TRANQUILIDAD, SALUBRIDAD Y MORALIDAD PUBLICAS",
+      "subtema": "Fundamentales por conexidad"
+    },
+    {
+      "tema": "LIBERTADES CIUDADANAS",
+      "subtema": "Restricciones"
+    },
+    {
+      "tema": "ORDEN PUBLICO Y LIBERTADES CIUDADANAS",
+      "subtema": "Restricciones"
+    }
+  ]
+}

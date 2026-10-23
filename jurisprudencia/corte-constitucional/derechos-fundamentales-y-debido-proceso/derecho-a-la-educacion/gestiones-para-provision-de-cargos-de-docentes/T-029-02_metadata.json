@@ -1,0 +1,51 @@
+{
+  "radicado": "T-029-02",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2002,
+  "fecha_creacion": "2002-01-24",
+  "magistrado_ponente": "Dra CLARA INÉS VARGAS HERNÁNDEZ",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "DERECHO A LA EDUCACIÓN",
+  "subtema": "Gestiones para provisión de cargos de docentes",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 617 de 2000",
+    "Ley 60 de 1993",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2002/T-029-02.htm",
+  "fecha_descarga": "2026-10-23T00:13:02.344338+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2002-01-24",
+  "fecha_publicacion": null,
+  "numero": "T-029/02",
+  "tipo_cc": "T",
+  "prov_id": "20159",
+  "tema_relatoria": "DERECHO A LA EDUCACION. NOMBRAMIENTO OPORTUNO DE DOCENTES PARA SATISFACER EL CUBRIMIENTO TOTAL DE LA ENSEÑANZA DE LOS DIFERENTES CURSOS PROGRAMADOS. CARENCIA ACTUAL DE OBJETO. SUSTRACCION DE MATERIA. LLAMADO A PREVENCION. FALTA DISCIPLINARIA. COLEGIO SAN",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA EDUCACIÓN",
+      "subtema": "Gestiones para provisión de cargos de docentes"
+    },
+    {
+      "tema": "DERECHO A LA EDUCACIÓN",
+      "subtema": "Carencia de profesores"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Carencia actual de objeto"
+    },
+    {
+      "tema": "DERECHO A LA EDUCACIÓN",
+      "subtema": "Deber estatal de cubrimiento del servicio público"
+    },
+    {
+      "tema": "SECRETARIA DE EDUCACION Y CULTURA",
+      "subtema": "No respondió requerimiento de información sobre nombramiento de docentes"
+    }
+  ]
+}

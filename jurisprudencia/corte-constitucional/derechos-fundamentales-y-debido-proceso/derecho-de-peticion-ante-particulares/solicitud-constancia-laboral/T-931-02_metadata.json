@@ -1,0 +1,45 @@
+{
+  "radicado": "T-931-02",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2002,
+  "fecha_creacion": "2002-11-07",
+  "magistrado_ponente": "Dr MARCO GERARDO MONROY CABRA",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "DERECHO DE PETICIÓN ANTE PARTICULARES",
+  "subtema": "Solicitud constancia laboral",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2002/T-931-02.htm",
+  "fecha_descarga": "2026-10-23T00:28:58.002819+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2002-11-07",
+  "fecha_publicacion": null,
+  "numero": "T-931/02",
+  "tipo_cc": "T",
+  "prov_id": "21397",
+  "tema_relatoria": "DERECHO DE PETICION. SOLICITUD CONSTANCIA LABORAL. RESPUESTA CLARA Y OPORTUNA. DIGNIDAD DEL TRABAJADOR. ESTADO DE SUBORDINACION. TUTELA CONTRA PARTICULARES. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO DE PETICIÓN ANTE PARTICULARES",
+      "subtema": "Solicitud constancia laboral"
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA PARTICULARES",
+      "subtema": "Subordinación"
+    },
+    {
+      "tema": "DERECHO DE PETICION ANTE ORGANIZACIONES PRIVADAS",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "DERECHO DE PETICION ANTE ORGANIZACIONES PRIVADAS",
+      "subtema": "Dignidad del trabajador hace exigible respuesta de particulares"
+    }
+  ]
+}

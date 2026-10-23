@@ -1,0 +1,47 @@
+{
+  "radicado": "T-121-02",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2002,
+  "fecha_creacion": "2002-02-22",
+  "magistrado_ponente": "Dr JAIME CORDOBA TRIVIÑO",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ARBITRAMENTO",
+  "subtema": "Definición y características",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2279 de 1989",
+    "Ley 80 de 1993",
+    "Decreto 2591 de 1991",
+    "Decreto 1818 de 1998",
+    "Ley 446 de 1998",
+    "Decreto 2651 de 1991",
+    "Decreto 1818 de 2000"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2002/T-121-02.htm",
+  "fecha_descarga": "2026-10-23T00:18:19.301861+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2002-02-22",
+  "fecha_publicacion": null,
+  "numero": "T-121/02",
+  "tipo_cc": "T",
+  "prov_id": "20265",
+  "tema_relatoria": "DERECHO AL DEBIDO PROCESO Y DEFENSA DE CONTRATISTA. ACCESO A LA ADMINISTRACION DE JUSTICIA. CUMPLIMIENTO DE CLAUSULA COMPROMISORIA. TRIBUNAL DE ARBITRAMENTO COMO MECANISMO ALTERNATIVO DE SOLUCION DE CONFLICTOS. INTEGRACION. FIJACION LUGAR DE FUNCIONAMIENT",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ARBITRAMENTO",
+      "subtema": "Definición y características"
+    },
+    {
+      "tema": "DERECHO DE ACCESO A LA ADMINISTRACION DE JUSTICIA Y ARBITRAMENTO",
+      "subtema": "Vulneración por renuencia de la administración a cumplir lo pactado"
+    },
+    {
+      "tema": "TRIBUNAL DE ARBITRAMENTO DE CLASE LEGAL",
+      "subtema": "Renuencia de una de las partes a indicar a cuál está dispuesto a someter las diferencias cuando en su único domicilio no existe Centro de Conciliación y Arbitraje"
+    }
+  ]
+}

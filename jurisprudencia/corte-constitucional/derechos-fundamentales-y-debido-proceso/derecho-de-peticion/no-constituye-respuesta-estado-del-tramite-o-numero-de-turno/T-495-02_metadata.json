@@ -1,0 +1,42 @@
+{
+  "radicado": "T-495-02",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2002,
+  "fecha_creacion": "2002-06-27",
+  "magistrado_ponente": "Dr ALFREDO BELTRÁN SIERRA",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "DERECHO DE PETICIÓN",
+  "subtema": "No constituye respuesta estado del trámite o número de turno",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 700 de 2001",
+    "Decreto 656 de 1994"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2002/T-495-02.htm",
+  "fecha_descarga": "2026-10-23T00:23:53.214260+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2002-06-27",
+  "fecha_publicacion": null,
+  "numero": "T-495/02",
+  "tipo_cc": "T",
+  "prov_id": "20717",
+  "tema_relatoria": "DERECHO DE PETICION. SOLICITUD RECONOCIMEINTO Y PAGO PENSION GRACIA DE JUBILACION. RESPUESTA CLARA Y OPORTUNA. TERMINO MAXIMO SEIS MESES. LLAMADO A PREVENCION. LEY 700 DE 2001. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO DE PETICIÓN",
+      "subtema": "No constituye respuesta estado del trámite o número de turno"
+    },
+    {
+      "tema": "DERECHO DE PETICIÓN",
+      "subtema": "Pronta resolución y decisión de fondo"
+    },
+    {
+      "tema": "PENSION DE JUBILACION",
+      "subtema": "Término de seis meses para reconocerla"
+    }
+  ]
+}

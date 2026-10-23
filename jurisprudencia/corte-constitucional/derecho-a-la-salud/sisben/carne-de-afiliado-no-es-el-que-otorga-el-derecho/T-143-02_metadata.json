@@ -1,0 +1,47 @@
+{
+  "radicado": "T-143-02",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2002,
+  "fecha_creacion": "2002-02-28",
+  "magistrado_ponente": "Dr EDUARDO MONTEALEGRE LYNETT",
+  "area": "Derecho a la Salud",
+  "tema": "SISBEN",
+  "subtema": "Carné de afiliado no es el que otorga el derecho",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 100 de 1993",
+    "Ley 60 de 1993"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2002/T-143-02.htm",
+  "fecha_descarga": "2026-10-23T00:18:44.974776+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2002-02-28",
+  "fecha_publicacion": null,
+  "numero": "T-143/02",
+  "tipo_cc": "T",
+  "prov_id": "20289",
+  "tema_relatoria": "DERECHO A LA SALUD Y VIDA. CONTINUIDAD TRATAMIENTO MEDICO. LEGITIMACION PARA ACTUAR. PARTICIPANTES VINCULADOS. CONFIANZA LEGITIMA. AFILIADOS AL REGIMEN CONTRIBUTIVO O SUBSIDIADO. SISBEN. PROCESO DE CARNETIZACION. LLAMADO A PREVENCION. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "SISBEN",
+      "subtema": "Carné de afiliado no es el que otorga el derecho"
+    },
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Suministro de tratamiento para el cáncer"
+    },
+    {
+      "tema": "REGIMEN SUBSIDIADO DE SEGURIDAD SOCIAL EN SALUD",
+      "subtema": "Naturaleza"
+    },
+    {
+      "tema": "SECRETARIA DE SALUD",
+      "subtema": "Debe adelantar diligencias necesarias para obtener carnet del SISBEN y asignación de una ARS"
+    }
+  ]
+}

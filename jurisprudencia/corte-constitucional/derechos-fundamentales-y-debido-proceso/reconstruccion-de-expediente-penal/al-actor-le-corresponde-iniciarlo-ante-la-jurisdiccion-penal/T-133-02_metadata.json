@@ -1,0 +1,53 @@
+{
+  "radicado": "T-133-02",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2002,
+  "fecha_creacion": "2002-02-28",
+  "magistrado_ponente": "Dr ALVARO TAFUR GALVIS",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "RECONSTRUCCION DE EXPEDIENTE PENAL",
+  "subtema": "Al actor le corresponde iniciarlo ante la jurisdicción penal con el fin de aclarar sentencia en relación con identidad del condenado",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2002/T-133-02.htm",
+  "fecha_descarga": "2026-10-23T00:18:30.281229+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2002-02-28",
+  "fecha_publicacion": null,
+  "numero": "T-133/02",
+  "tipo_cc": "T",
+  "prov_id": "20279",
+  "tema_relatoria": "DERECHO AL BUEN NOMBRE HONRA Y HABEAS DATA. RECTIFICACION INFORMACION EN BANCO DE DATOS OFICIAL. SUSPENSION EFECTOS SENTENCIA HASTA SU ACLARACION. ERROR EN NOMBRE DE CONDENADO POR HURTO. ASISTENCIA DEFENSOR DEL PUEBLO EN PROCESO DE RECONSTRUCCION DE EXPED",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "RECONSTRUCCION DE EXPEDIENTE PENAL",
+      "subtema": "Al actor le corresponde iniciarlo ante la jurisdicción penal con el fin de aclarar sentencia en relación con identidad del condenado"
+    },
+    {
+      "tema": "ANTECEDENTES PENALES",
+      "subtema": "Suplantación de persona e identidad"
+    },
+    {
+      "tema": "DEFENSORIA DEL PUEBLO",
+      "subtema": "Asistencia jurídica y legal necesaria"
+    },
+    {
+      "tema": "ACCION DE TUTELA TRANSITORIA A FAVOR DE PERSONA CONDENADA EN PROCESO PENAL",
+      "subtema": "Error en la identificación del condenado"
+    },
+    {
+      "tema": "DERECHO A LA IDENTIDAD",
+      "subtema": "Suplantación de persona"
+    },
+    {
+      "tema": "HABEAS DATA",
+      "subtema": "Rectificación en banco de datos oficiales sobre identidad de persona"
+    }
+  ]
+}

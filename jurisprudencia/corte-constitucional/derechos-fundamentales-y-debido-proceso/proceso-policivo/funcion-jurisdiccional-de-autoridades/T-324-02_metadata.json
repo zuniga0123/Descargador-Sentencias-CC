@@ -1,0 +1,52 @@
+{
+  "radicado": "T-324-02",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2002,
+  "fecha_creacion": "2002-05-02",
+  "magistrado_ponente": "Dr JAIME CORDOBA TRIVIÑO",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "PROCESO POLICIVO",
+  "subtema": "Función jurisdiccional de autoridades",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 57 de 1905",
+    "Decreto 992 de 1930",
+    "Decreto 2303 de 1989"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2002/T-324-02.htm",
+  "fecha_descarga": "2026-10-23T00:16:51.705049+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2002-05-02",
+  "fecha_publicacion": null,
+  "numero": "T-324/02",
+  "tipo_cc": "T",
+  "prov_id": "20493",
+  "tema_relatoria": "DERECHOS A LA IGUALDAD DEBIDO PROCESO Y PROPIEDAD DE PERSONAS DE LA TERCERA EDAD. PROCESO POLICIVO POR POSESION. VIA DE HECHO. VALORACION DE LA PRUEBA. TRATO DISCRIMINATORIO. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "PROCESO POLICIVO",
+      "subtema": "Función jurisdiccional de autoridades"
+    },
+    {
+      "tema": "PROCESO POLICIVO",
+      "subtema": "No resuelve debates sobre derechos reales"
+    },
+    {
+      "tema": "PROCESO POLICIVO",
+      "subtema": "Posesión sobre predio objeto de actos perturbadores"
+    },
+    {
+      "tema": "VIA DE HECHO",
+      "subtema": "Inexistencia"
+    },
+    {
+      "tema": "PROCESO POLICIVO",
+      "subtema": "Procedencia de la acción de tutela"
+    }
+  ]
+}

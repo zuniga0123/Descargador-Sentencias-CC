@@ -1,0 +1,59 @@
+{
+  "radicado": "T-1123-02",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2002,
+  "fecha_creacion": "2002-12-12",
+  "magistrado_ponente": "Dr ALVARO TAFUR GALVIS",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "PRINCIPIO DE AUTONOMIA FUNCIONAL DEL JUEZ",
+  "subtema": "Improcedencia general de tutela para controvertir interpretaciones judiciales",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 446 de 1998",
+    "Decreto 2191 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2002/T-1123-02.htm",
+  "fecha_descarga": "2026-10-23T00:18:01.170332+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2002-12-12",
+  "fecha_publicacion": null,
+  "numero": "T-1123/02",
+  "tipo_cc": "T",
+  "prov_id": "21608",
+  "tema_relatoria": "DERECHO AL DEBIDO PROCESO. VIA DE HECHO. ACCESO A LA ADMINISTRACION DE JUSTICIA. INADMISION Y RECHAZO DEMANDA PRESENTADA. CONVENCION COLECTIVA. CONMUTACION PENSIONAL CON EL ISS. PRIMACIA DEL DERECHO SUSTANCIAL SOBRE LAS FORMAS. TUTELA CONTRA PROVIDENCIAS",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "PRINCIPIO DE AUTONOMIA FUNCIONAL DEL JUEZ",
+      "subtema": "Improcedencia general de tutela para controvertir interpretaciones judiciales"
+    },
+    {
+      "tema": "PREVALENCIA DEL DERECHO SUSTANCIAL",
+      "subtema": "Desconocimiento al exigir que los poderes fueran dirigidos al juez laboral"
+    },
+    {
+      "tema": "VIA DE HECHO",
+      "subtema": "Clases de defectos en la actuación"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Procedencia excepcional por vía de hecho"
+    },
+    {
+      "tema": "PRINCIPIO DE FAVORABILIDAD LABORAL",
+      "subtema": "Pensionados mayores que requieren tratamiento justo"
+    },
+    {
+      "tema": "PRINCIPIO DE AUTONOMIA FUNCIONAL DEL JUEZ",
+      "subtema": "Procedencia excepcional de tutela para controvertir interpretaciones judiciales"
+    },
+    {
+      "tema": "VIA DE HECHO EN PROCESO LABORAL",
+      "subtema": "Interpretación irrazonable del principio de favorabilidad"
+    }
+  ]
+}

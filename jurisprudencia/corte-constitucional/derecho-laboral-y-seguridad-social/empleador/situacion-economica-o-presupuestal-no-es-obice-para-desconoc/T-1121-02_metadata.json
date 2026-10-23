@@ -1,0 +1,41 @@
+{
+  "radicado": "T-1121-02",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2002,
+  "fecha_creacion": "2002-12-10",
+  "magistrado_ponente": "Dr EDUARDO MONTEALEGRE LYNETT",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "EMPLEADOR",
+  "subtema": "Situación económica o presupuestal no es óbice para desconocer obligaciones laborales",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2002/T-1121-02.htm",
+  "fecha_descarga": "2026-10-23T00:17:53.674912+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2002-12-10",
+  "fecha_publicacion": null,
+  "numero": "T-1121/02",
+  "tipo_cc": "T",
+  "prov_id": "21606",
+  "tema_relatoria": "DERECHO A LA SEGURIDAD SOCIAL MINIMO VITAL Y SUBSISTENCIA. PAGO DE ACREENCIAS LABORALES. MESADAS PENSIONALES. PENSION DE JUBILACION. DOBLE PENSION. ISS. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "EMPLEADOR",
+      "subtema": "Situación económica o presupuestal no es óbice para desconocer obligaciones laborales"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Procedencia excepcional para el pago de mesadas pensionales atrasadas"
+    },
+    {
+      "tema": "DERECHO AL MINIMO VITAL DEL PENSIONADO",
+      "subtema": "Pago oportuno de mesadas"
+    }
+  ]
+}

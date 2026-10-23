@@ -1,0 +1,51 @@
+{
+  "radicado": "T-799-02",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2002,
+  "fecha_creacion": "2002-09-26",
+  "magistrado_ponente": "Dr EDUARDO MONTEALEGRE LYNETT",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "SISTEMA GENERAL DE SEGURIDAD SOCIAL EN SALUD",
+  "subtema": "Régimen contributivo y subsidiado",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Decreto 806 de 1998",
+    "Ley 715 de 2002"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2002/T-799-02.htm",
+  "fecha_descarga": "2026-10-23T00:27:23.226158+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2002-09-26",
+  "fecha_publicacion": null,
+  "numero": "T-799/02",
+  "tipo_cc": "T",
+  "prov_id": "21198",
+  "tema_relatoria": "DERECHO A LA VIDA Y SALUD DE AFILIADA AL REGIMEN SUBSIDIADO Y BENEFICIARIA DEL REGIMEN CONTRIBUTIVO. SOLICITUD PRACTICA DE EXAMENES Y ATENCION MEDICA NO INCLUIDOS EN EL POS. REGLAS PARA LA CANCELACION DE LA AFILIACION MULTIPLE. LEY 715 DE 2002. SISTEMA IN",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "SISTEMA GENERAL DE SEGURIDAD SOCIAL EN SALUD",
+      "subtema": "Régimen contributivo y subsidiado"
+    },
+    {
+      "tema": "SISTEMA DE SEGURIDAD SOCIAL",
+      "subtema": "Regímenes distintos de afiliación"
+    },
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "REGIMEN SUBSIDIADO DE SEGURIDAD SOCIAL EN SALUD",
+      "subtema": "Beneficiarios"
+    },
+    {
+      "tema": "REGIMEN SUBSIDIADO DE SEGURIDAD SOCIAL EN SALUD",
+      "subtema": "Personas sin capacidad de pago"
+    }
+  ]
+}

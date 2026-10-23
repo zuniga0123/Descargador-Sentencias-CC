@@ -1,0 +1,80 @@
+{
+  "radicado": "T-839-02",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2002,
+  "fecha_creacion": "2002-10-10",
+  "magistrado_ponente": "Dr ALVARO TAFUR GALVIS",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "DETENCION PREVENTIVA",
+  "subtema": "Finalidad",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 270 de 1996",
+    "Ley 600 de 2000",
+    "Ley 15 de 1992"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2002/T-839-02.htm",
+  "fecha_descarga": "2026-10-23T00:29:19.779628+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2002-10-10",
+  "fecha_publicacion": null,
+  "numero": "T-839/02",
+  "tipo_cc": "T",
+  "prov_id": "21250",
+  "tema_relatoria": "DERECHOS A LA VIDA LIBERTAD PERSONAL Y DEBIDO PROCESO POR EL DELITO DE SECUESTRO EXTORSIVO AGRAVADO. HABEAS CORPUS. SOLICITUD SUSPENSION MEDIDA DE ASEGURAMIENTO. PRESUNCION DE INOCENCIA. DETENCION PREVENTIVA. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DETENCION PREVENTIVA",
+      "subtema": "Finalidad"
+    },
+    {
+      "tema": "DETENCION PREVENTIVA",
+      "subtema": "Requisitos formales y sustanciales"
+    },
+    {
+      "tema": "HABEAS CORPUS",
+      "subtema": "Eventos para la procedencia"
+    },
+    {
+      "tema": "HABEAS CORPUS",
+      "subtema": "No debe invocarse ante el mismo juez que está conociendo del proceso penal"
+    },
+    {
+      "tema": "HABEAS CORPUS",
+      "subtema": "Mecanismo efectivo"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Improcedencia para proteger la libertad personal"
+    },
+    {
+      "tema": "PETICIONES DE LIBERTAD",
+      "subtema": "Deben formularse y resolverse dentro del proceso penal"
+    },
+    {
+      "tema": "DETENCION PREVENTIVA",
+      "subtema": "Duración"
+    },
+    {
+      "tema": "HABEAS CORPUS",
+      "subtema": "Restablecimiento de libertad provisional"
+    },
+    {
+      "tema": "HABEAS CORPUS",
+      "subtema": "Autoridades ante quienes puede promoverse"
+    },
+    {
+      "tema": "HABEAS CORPUS",
+      "subtema": "Invocación ante el juez de la causa"
+    },
+    {
+      "tema": "SALA PENAL DE LA CORTE SUPREMA DE JUSTICIA",
+      "subtema": "Autoridad a la que debe solicitarse la libertad provisional para el caso"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "radicado": "T-777-02",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2002,
+  "fecha_creacion": "2002-09-19",
+  "magistrado_ponente": "Dr ALFREDO BELTRÁN SIERRA",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCIÓN DE TUTELA",
+  "subtema": "Procedencia excepcional pago de acreencias laborales",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 617 de 2000",
+    "Ley 550 de 1999"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2002/T-777-02.htm",
+  "fecha_descarga": "2026-10-23T00:11:53.492007+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2002-09-19",
+  "fecha_publicacion": null,
+  "numero": "T-777/02",
+  "tipo_cc": "T",
+  "prov_id": "21166",
+  "tema_relatoria": "DERECHO AL MINIMO VITAL DE EMPLEADA DE CARRERA ADMINISTRATIVA. PAGO OPORTUNO DE ACREENCIAS LABORALES. SALARIOS. PROCESO DE REESTRUCTURACION ADMINISTRATIVA. DEFICIT PRESUPUESTAL. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Procedencia excepcional pago de acreencias laborales"
+    },
+    {
+      "tema": "DERECHO AL MINIMO VITAL DEL TRABAJADOR",
+      "subtema": "Presunción de afectación por ausencia prolongada en pago de salarios"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Procedencia excepcional pago de salarios a persona desvinculada por afectación del mínimo vital"
+    }
+  ]
+}

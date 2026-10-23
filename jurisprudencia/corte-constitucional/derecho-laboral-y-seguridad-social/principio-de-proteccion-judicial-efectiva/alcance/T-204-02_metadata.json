@@ -1,0 +1,52 @@
+{
+  "radicado": "T-204-02",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2002,
+  "fecha_creacion": "2002-03-19",
+  "magistrado_ponente": "Dr MANUEL JOSÉ CEPEDA ESPINOSA",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "PRINCIPIO DE PROTECCION JUDICIAL EFECTIVA",
+  "subtema": "Alcance",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Decreto 2591 de 1991",
+    "Ley 1295 de 1994",
+    "Decreto 806 de 1998"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2002/T-204-02.htm",
+  "fecha_descarga": "2026-10-23T00:07:26.074295+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2002-03-19",
+  "fecha_publicacion": null,
+  "numero": "T-204/02",
+  "tipo_cc": "T",
+  "prov_id": "20357",
+  "tema_relatoria": "DERECHO AL DEBIDO PROCESO. ACCESO A LA ADMINISTRACION DE JUSTICIA. SOLICITUD EVALUACION Y CALIFICACION PERDIDA CAPACIDAD LABORAL. CUMPLIMIENTO PROVIDENCIAS JUDICIALES. OBLIGACION DE HACER. DESACATO. LEY 100 DE 1993. ART. 42. PAGO HONORARIOS MIEMBROS DE LA",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "PRINCIPIO DE PROTECCION JUDICIAL EFECTIVA",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "ACCION DE TUTELA PARA CUMPLIMIENTO DE AUTO",
+      "subtema": "Procedencia para lograr calificación de invalidez"
+    },
+    {
+      "tema": "JUNTA DE CALIFICACIÓN DE INVALIDEZ",
+      "subtema": "Solicitud judicial de evaluar pérdida de capacidad laboral y pago de honorarios"
+    },
+    {
+      "tema": "OBLIGACION DE HACER",
+      "subtema": "Realización de examen para evaluación y calificación de invalidez"
+    },
+    {
+      "tema": "JUNTA DE CALIFICACIÓN DE INVALIDEZ",
+      "subtema": "Honorarios corresponde reconocerlos a la entidad de previsión a que esté afiliado el solicitante"
+    }
+  ]
+}

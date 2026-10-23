@@ -1,0 +1,50 @@
+{
+  "radicado": "T-680-02",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2002,
+  "fecha_creacion": "2002-08-22",
+  "magistrado_ponente": "Alfredo Beltrán Sierra",
+  "area": "Derecho de Familia y Derechos de Niños, Niñas y Adolescentes",
+  "tema": "DERECHO A LA IGUALDAD ENTRE NACIONALES Y EXTRANJEROS",
+  "subtema": "Deber del extranjero de acatar la Constitución y las leyes",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Decreto 100 de 1980"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2002/T-680-02.htm",
+  "fecha_descarga": "2026-10-23T00:06:42.086500+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2002-08-22",
+  "fecha_publicacion": "2002-09-04",
+  "numero": "T-680/02",
+  "tipo_cc": "T",
+  "prov_id": "21012",
+  "tema_relatoria": "DERECHO A TENER UNA FAMILIA DE MENOR DE EDAD. REVOCATORIA PENA ACCESORIA. EXPULSION DEL TERRITORIO NACIONAL. EVASION CUMPLIMIENTO DE DECISIONES JUDICIALES. 4 MESES PARA LEGALIZAR PERMANENCIA. CARENCIA DE OBJETO. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA IGUALDAD ENTRE NACIONALES Y EXTRANJEROS",
+      "subtema": "Deber del extranjero de acatar la Constitución y las leyes"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Carencia actual de objeto"
+    },
+    {
+      "tema": "DERECHOS DE LA NIÑEZ",
+      "subtema": "No son pretexto para que los adultos puedan evadir el cumplimiento de decisiones judiciales"
+    },
+    {
+      "tema": "EXTRANJEROS",
+      "subtema": "Expulsión del país"
+    },
+    {
+      "tema": "EXTRANJEROS",
+      "subtema": "Legalización de permanencia en el territorio nacional"
+    }
+  ]
+}

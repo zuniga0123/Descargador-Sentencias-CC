@@ -1,0 +1,47 @@
+{
+  "radicado": "T-1089-02",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2002,
+  "fecha_creacion": "2002-12-04",
+  "magistrado_ponente": "Dr JAIME CÓRDOBA TRIVIÑO",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+  "subtema": "Procedencia excepcional por vía de hecho",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 1898 de 1998",
+    "Ley 101 de 1993",
+    "Decreto 1818 de 1998",
+    "Decreto 341 de 1998",
+    "Ley 25 de 1981",
+    "Ley 21 de 1982",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2002/T-1089-02.htm",
+  "fecha_descarga": "2026-10-23T00:21:17.649103+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2002-12-04",
+  "fecha_publicacion": null,
+  "numero": "T-1089/02",
+  "tipo_cc": "T",
+  "prov_id": "21561",
+  "tema_relatoria": "DERECHO AL DEBIDO PROCESO. VIA DE HECHO. SOLICITUD DECLARACION NULIDAD ABSOLUTA DE CONTRATO VERBAL PARA LA ADQUISICION DE TERRENOS Y CONTRUCCION DE COLEGIO. RECURSO DE HOMOLOGACION Y ANULACION CONTRA LAUDO ARBITRAL. COMCAJA. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Procedencia excepcional por vía de hecho"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA LAUDO ARBITRAL",
+      "subtema": "Improcedencia por inexistencia de vía de hecho"
+    },
+    {
+      "tema": "VIA DE HECHO",
+      "subtema": "Inexistencia en resolución del recurso de anulación contra laudo arbitral"
+    }
+  ]
+}

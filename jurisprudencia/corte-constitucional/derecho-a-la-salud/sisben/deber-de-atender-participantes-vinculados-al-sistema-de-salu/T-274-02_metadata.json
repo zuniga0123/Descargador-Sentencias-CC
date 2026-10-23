@@ -1,0 +1,42 @@
+{
+  "radicado": "T-274-02",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2002,
+  "fecha_creacion": "2002-04-18",
+  "magistrado_ponente": "Dr RODRIGO ESCOBAR GIL",
+  "area": "Derecho a la Salud",
+  "tema": "SISBEN",
+  "subtema": "Deber de atender participantes vinculados al sistema de salud",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 60 de 1993"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2002/T-274-02.htm",
+  "fecha_descarga": "2026-10-23T00:22:08.531755+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2002-04-18",
+  "fecha_publicacion": null,
+  "numero": "T-274/02",
+  "tipo_cc": "T",
+  "prov_id": "20439",
+  "tema_relatoria": "DERECHO A LA SALUD Y VIDA. SOLICITUD ASISTENCIA MEDICA. CONTINUIDAD EN EL SERVICIO. ASIGNACION ARS. ENFERMEDAD CATASTROFICA O RUINOSA. BENEFICIARIOS DEL REGIMEN SUBSIDIADO. PARTICIPANTES VINCULADOS. SISBEN. CONFIANZA LEGITIMA. PREVALENCIA DEL DERECHO SUST",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "SISBEN",
+      "subtema": "Deber de atender participantes vinculados al sistema de salud"
+    },
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Orden de asignar ARS y continuar tratamiento contra el cáncer"
+    },
+    {
+      "tema": "REGIMEN SUBSIDIADO DE SEGURIDAD SOCIAL EN SALUD",
+      "subtema": "Participantes vinculados"
+    }
+  ]
+}

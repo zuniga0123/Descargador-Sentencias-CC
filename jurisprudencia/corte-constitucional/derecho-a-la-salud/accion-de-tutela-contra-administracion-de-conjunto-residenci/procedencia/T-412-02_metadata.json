@@ -1,0 +1,50 @@
+{
+  "radicado": "T-412-02",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2002,
+  "fecha_creacion": "2002-05-27",
+  "magistrado_ponente": "Dr RODRIGO ESCOBAR GIL",
+  "area": "Derecho a la Salud",
+  "tema": "ACCION DE TUTELA CONTRA ADMINISTRACION DE CONJUNTO RESIDENCIAL",
+  "subtema": "Procedencia",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 100 de 1993"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2002/T-412-02.htm",
+  "fecha_descarga": "2026-10-23T00:15:49.770070+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2002-05-27",
+  "fecha_publicacion": null,
+  "numero": "T-412/02",
+  "tipo_cc": "T",
+  "prov_id": "20594",
+  "tema_relatoria": "DERECHO A LA SEGURIDAD SOCIAL Y SALUD. SOLICITUD EXAMENES MEDICOS. ESTADO DE SUBORDINACION E INDEFENSION. TUTELA CONTRA PARTICULARES. MORA EN EL PAGO DE APORTES POR EMPLEADOR. REGIMEN CONTRIBUTIVO. CONJUNTO RESIDENCIAL FLORES IV. CAFESALUD. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCION DE TUTELA CONTRA ADMINISTRACION DE CONJUNTO RESIDENCIAL",
+      "subtema": "Procedencia"
+    },
+    {
+      "tema": "EMPLEADOR",
+      "subtema": "Responsabilidad por mora en aportes a EPS"
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA PARTICULARES",
+      "subtema": "Casos en que procede por existir indefensión"
+    },
+    {
+      "tema": "DERECHO A LA SEGURIDAD SOCIAL",
+      "subtema": "Mora del empleador en pago de aportes de salud"
+    },
+    {
+      "tema": "EMPLEADOR",
+      "subtema": "Mora en informar terminación del contrato laboral a EPS"
+    }
+  ]
+}

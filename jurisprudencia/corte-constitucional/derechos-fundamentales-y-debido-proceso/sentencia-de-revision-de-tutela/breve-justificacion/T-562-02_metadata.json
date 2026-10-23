@@ -1,0 +1,49 @@
+{
+  "radicado": "T-562-02",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2002,
+  "fecha_creacion": "2002-07-25",
+  "magistrado_ponente": "Dr ALVARO TAFUR GALVIS",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "SENTENCIA DE REVISION DE TUTELA",
+  "subtema": "Breve justificación",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 136 de 1994",
+    "Ley 200 de 1993",
+    "Ley 200 de 1995",
+    "Decreto 150 de 1997",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2002/T-562-02.htm",
+  "fecha_descarga": "2026-10-23T00:08:20.321632+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2002-07-25",
+  "fecha_publicacion": null,
+  "numero": "T-562/02",
+  "tipo_cc": "T",
+  "prov_id": "20809",
+  "tema_relatoria": "DERECHO AL DEBIDO PROCESO TRABAJO Y EJERCICIO DE DERECHOS POLITICOS. DESTITUCION DE ALCALDE POR INHABILIDAD. INVESTIGACION DISCIPLINARIA. LEGITIMACION POR PASIVA. CARENCIA ACTUAL DE OBJETO. HECHO SUPERADO. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "SENTENCIA DE REVISION DE TUTELA",
+      "subtema": "Breve justificación"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Hecho superado"
+    },
+    {
+      "tema": "FALTA DE LEGITIMACION POR PASIVA EN TUTELA",
+      "subtema": "Indebida designación del demandado"
+    },
+    {
+      "tema": "REVOCATORIA DIRECTA",
+      "subtema": "Cesación de la causa que generó la tutela"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "radicado": "T-904-02",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2002,
+  "fecha_creacion": "2002-10-24",
+  "magistrado_ponente": "Dr JAIME ARAUJO RENTERIA",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "EMPLEADOR",
+  "subtema": "Asunción de responsabilidad por mora en aportes a seguridad social",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 222 de 1995"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2002/T-904-02.htm",
+  "fecha_descarga": "2026-10-23T00:28:17.847336+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2002-10-24",
+  "fecha_publicacion": null,
+  "numero": "T-904/02",
+  "tipo_cc": "T",
+  "prov_id": "21338",
+  "tema_relatoria": "DERECHO A LA SEGURIDAD SOCIAL Y MINIMO VITAL DE VIGILANTE. SOLICITUD RECONOCIMIENTO PENSION DE JUBILACION. TRANSFERENCIA APORTES PARAFISCALES. MORA PATRONAL EN PAGO DE APORTES PENSIONALES. EMPRESA EN CONCORDATO. CONMINACION. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "EMPLEADOR",
+      "subtema": "Asunción de responsabilidad por mora en aportes a seguridad social"
+    },
+    {
+      "tema": "EMPLEADOR",
+      "subtema": "Situación económica o presupuestal no es óbice para desconocer pago de mesadas pensionales"
+    },
+    {
+      "tema": "DERECHO A LA SEGURIDAD SOCIAL",
+      "subtema": "Fundamental por conexidad"
+    },
+    {
+      "tema": "PROCESO CONCORDATARIO",
+      "subtema": "No exime al empleador del pago de aportes a seguridad social"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "radicado": "T-658-02",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2002,
+  "fecha_creacion": "2002-08-15",
+  "magistrado_ponente": "Dr RODRIGO ESCOBAR GIL",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCIÓN DE TUTELA",
+  "subtema": "Poder especial para actuar",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2002/T-658-02.htm",
+  "fecha_descarga": "2026-10-23T00:20:19.545156+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2002-08-15",
+  "fecha_publicacion": null,
+  "numero": "T-658/02",
+  "tipo_cc": "T",
+  "prov_id": "20952",
+  "tema_relatoria": "DERECHO A LA IGUALDAD Y DEBIDO PROCESO. IRREGULARIDADES EN PROCESO EJECUTIVO DE COBRO COACTIVO POR APORTES AL SISTEMA DE SEGURIDAD SOCIAL. FALTA DE LEGITIMACION POR ACTIVA. SUPLANTACION TITULAR DEL DERECHO. PODER ESPECIAL. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Poder especial para actuar"
+    },
+    {
+      "tema": "FALTA DE LEGITIMACION POR ACTIVA EN TUTELA",
+      "subtema": "Apoderado no puede invocar interés directo"
+    },
+    {
+      "tema": "LEGITIMACIÓN POR ACTIVA EN TUTELA",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "ACCION DE TUTELA INTERPUESTA POR ABOGADO",
+      "subtema": "Necesidad del poder"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Subsidiariedad"
+    },
+    {
+      "tema": "FALTA DE LEGITIMACION POR ACTIVA EN TUTELA",
+      "subtema": "Poder otorgado al abogado en otros asuntos no lo habilita para ejercer la tutela"
+    },
+    {
+      "tema": "LEGITIMACIÓN POR ACTIVA EN TUTELA",
+      "subtema": "No puede alegarse vulneración de los propios derechos con base en los de otro"
+    },
+    {
+      "tema": "PROCESO EJECUTIVO DE COBRO COACTIVO",
+      "subtema": "Vulneración o amenaza solo afecta al acusado y no al apoderado"
+    },
+    {
+      "tema": "FALTA DE LEGITIMACION POR ACTIVA EN TUTELA",
+      "subtema": "Abogado sin poder para actuar"
+    }
+  ]
+}

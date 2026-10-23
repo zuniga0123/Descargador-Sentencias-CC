@@ -1,0 +1,59 @@
+{
+  "radicado": "T-480-02",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2002,
+  "fecha_creacion": "2002-06-21",
+  "magistrado_ponente": "Dr JAIME CÓRDOBA TRIVIÑO",
+  "area": "Derecho a la Salud",
+  "tema": "ADMINISTRADORA DEL REGIMEN SUBSIDIADO",
+  "subtema": "Suministro de corsé ortopédico y medicamento y repetición contra el Fosyga",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 1795 de 1995",
+    "Ley 715 de 2001",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2002/T-480-02.htm",
+  "fecha_descarga": "2026-10-23T00:25:42.219780+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2002-06-21",
+  "fecha_publicacion": null,
+  "numero": "T-480/02",
+  "tipo_cc": "T",
+  "prov_id": "20689",
+  "tema_relatoria": "DERECHOS A LA DIGNIDAD VIDA SALUD E IGUALDAD DE MENOR DE EDAD CON DEFICIT METAL TOTAL. SUMINISTRO MEDICAMENTOS Y CORSE ORTOPEDICO NO INCLUIDOS EN EL POS. DEBILIDAD MANIFIESTA. ACCION DE REPETICION. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ADMINISTRADORA DEL REGIMEN SUBSIDIADO",
+      "subtema": "Suministro de corsé ortopédico y medicamento y repetición contra el Fosyga"
+    },
+    {
+      "tema": "ADMINISTRADORA DEL REGIMEN SUBSIDIADO",
+      "subtema": "Suministro de corsé ortopédico y medicamentos que están fuera del POS"
+    },
+    {
+      "tema": "DERECHO A LA VIDA",
+      "subtema": "Suministro de corsé ortopédico y medicamentos a menor como elemento vital"
+    },
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Menor en circunstancias de debilidad manifiesta"
+    },
+    {
+      "tema": "DERECHO A LA VIDA",
+      "subtema": "Protección de menor disminuido física y psíquicamente"
+    },
+    {
+      "tema": "DIGNIDAD HUMANA",
+      "subtema": "Protección de menor disminuido física y psíquicamente"
+    },
+    {
+      "tema": "DERECHO A LA IGUALDAD",
+      "subtema": "Trato discriminatorio"
+    }
+  ]
+}

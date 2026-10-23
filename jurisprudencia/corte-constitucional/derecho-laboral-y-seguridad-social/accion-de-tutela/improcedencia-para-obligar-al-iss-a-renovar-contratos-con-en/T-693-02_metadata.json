@@ -1,0 +1,46 @@
+{
+  "radicado": "T-693-02",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2002,
+  "fecha_creacion": "2002-08-21",
+  "magistrado_ponente": "Dra CLARA INÉS VARGAS HERNÁNDEZ",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "ACCIÓN DE TUTELA",
+  "subtema": "Improcedencia para obligar al ISS a renovar contratos con entidades prestadoras de salud",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 100 de 1993"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2002/T-693-02.htm",
+  "fecha_descarga": "2026-10-23T00:20:41.247743+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2002-08-21",
+  "fecha_publicacion": null,
+  "numero": "T-693/02",
+  "tipo_cc": "T",
+  "prov_id": "21007",
+  "tema_relatoria": "DERECHOS A LA SALUD VIDA Y SEGURIDAD SOCIAL DE PERSONA DE LA TERCERA EDAD. SOLICITUD ASISTENCIA MEDICA A PARTIR DE UNA SITUACION EVENTUAL O UN HECHO FUTURO. FALTA DE CONCEPTO MEDICO. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Improcedencia para obligar al ISS a renovar contratos con entidades prestadoras de salud"
+    },
+    {
+      "tema": "DERECHO A LA SEGURIDAD SOCIAL",
+      "subtema": "Fundamental por conexidad"
+    },
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Fundamental por conexidad"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "No es el medio para prevenir hechos futuros e inciertos"
+    }
+  ]
+}

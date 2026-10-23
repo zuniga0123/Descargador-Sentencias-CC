@@ -1,0 +1,53 @@
+{
+  "radicado": "T-858-02",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2002,
+  "fecha_creacion": "2002-10-10",
+  "magistrado_ponente": "Dr EDUARDO MONTEALEGRE LYNETT",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "ACCIÓN DE TUTELA",
+  "subtema": "Subsidiariedad",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 10 de 1992",
+    "Decreto Ley 10 de 1992",
+    "Decreto Ley 274 de 2000",
+    "Decreto 2591 de 1991",
+    "Ley 100 de 1993"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2002/T-858-02.htm",
+  "fecha_descarga": "2026-10-23T00:29:48.873107+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2002-10-10",
+  "fecha_publicacion": null,
+  "numero": "T-858/02",
+  "tipo_cc": "T",
+  "prov_id": "21269",
+  "tema_relatoria": "DERECHO A LA SEGURIDAD SOCIAL DE CONSUL. SOLICITUD RECONOCIMIENTO Y LIQUIDACION DE LA PENSION DE JUBILACION. REGIMEN PRESTACIONAL DE FUNCIONARIOS VINCULADOS AL SERVICIO DIPLOMATICO EN EL EXTERIOR. CARACTER SUBSIDIARIO Y RESIDUAL DE LA TUTELA. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Subsidiariedad"
+    },
+    {
+      "tema": "PERJUICIO IRREMEDIABLE",
+      "subtema": "Características"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Mecanismo sustancial de la subsidiariedad"
+    },
+    {
+      "tema": "MEDIO DE DEFENSA JUDICIAL",
+      "subtema": "Eficacia y proporcionalidad"
+    },
+    {
+      "tema": "PENSION DE JUBILACION",
+      "subtema": "Liquidación con base en el salario realmente devengado por el trabajador"
+    }
+  ]
+}

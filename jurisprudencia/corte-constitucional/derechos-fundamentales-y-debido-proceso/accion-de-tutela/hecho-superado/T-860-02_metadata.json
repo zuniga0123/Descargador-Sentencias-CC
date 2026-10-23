@@ -1,0 +1,57 @@
+{
+  "radicado": "T-860-02",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2002,
+  "fecha_creacion": "2002-10-10",
+  "magistrado_ponente": "Dra CLARA INES VARGAS HERNANDEZ",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCIÓN DE TUTELA",
+  "subtema": "Hecho superado",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 56 de 1981",
+    "Decreto 2150 de 1995",
+    "Decreto 2591 de 1991",
+    "Ley 388 de 1997",
+    "Ley 9 de 1989",
+    "Decreto 1052 de 1995",
+    "Decreto 1052 de 1998",
+    "Decreto 1333 de 1986",
+    "Ley 136 de 1994"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2002/T-860-02.htm",
+  "fecha_descarga": "2026-10-23T00:29:56.290857+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2002-10-10",
+  "fecha_publicacion": null,
+  "numero": "T-860/02",
+  "tipo_cc": "T",
+  "prov_id": "21271",
+  "tema_relatoria": "DERECHO AL DEBIDO PROCESO Y PROPIEDAD. NUCLEO ESENCIAL. SOLICITUD EXPEDICION LICENCIA DE CONSTRUCCION. LEVANTAMIENTO MEDIDA CORRECTIVA DE SUSPENSION DE OBRA EN TUNEL ALTERNO DE USAQUEN. CARENCIA ACTUAL DE OBJETO. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Hecho superado"
+    },
+    {
+      "tema": "DEBIDO PROCESO",
+      "subtema": "Vulneración por exigencia por parte de la Alcaldía de licencia de construcción del túnel alterno de Usaquén"
+    },
+    {
+      "tema": "ALCALDIA",
+      "subtema": "Exige licencia de construcción del túnel alterno de Usaquén"
+    },
+    {
+      "tema": "LICENCIA DE CONSTRUCCION",
+      "subtema": "No se requería para el túnel alterno de Usaquén"
+    },
+    {
+      "tema": "DERECHO A LA PROPIEDAD",
+      "subtema": "Vulneración por exigencia por parte de la Alcaldía de licencia de construcción del Túnel Alterno de Usaquén"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "radicado": "T-968-02",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2002,
+  "fecha_creacion": "2002-11-12",
+  "magistrado_ponente": "Dr RODRIGO ESCOBAR GIL",
+  "area": "Derecho a la Salud",
+  "tema": "DERECHO A LA VIDA",
+  "subtema": "Suministro de tratamiento no incluido en el POS",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2002/T-968-02.htm",
+  "fecha_descarga": "2026-10-23T00:30:54.221856+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2002-11-12",
+  "fecha_publicacion": null,
+  "numero": "T-968/02",
+  "tipo_cc": "T",
+  "prov_id": "21416",
+  "tema_relatoria": "DERECHO A LA VIDA Y SALUD. SOLICITUD PRUEBA NEUROSICOLOGICA POR ACCIDENTE DE TRANSITO PRESCRITA POR MEDICO TRATANTE NO INCLUIDA EN EL POS. ACCION DE REPETICION. REGIMEN CONTRIBUTIVO. INCAPACIDAD ECONOMICA. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA VIDA",
+      "subtema": "Suministro de tratamiento no incluido en el POS"
+    },
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Fundamental por conexidad con la vida"
+    },
+    {
+      "tema": "ENTIDAD PROMOTORA DE SALUD",
+      "subtema": "Repetición contra el FOSYGA"
+    },
+    {
+      "tema": "INAPLICACION DE NORMAS DEL PLAN OBLIGATORIO DE SALUD",
+      "subtema": "Casos en que procede por exclusión de tratamientos y medicamentos de alto costo"
+    }
+  ]
+}

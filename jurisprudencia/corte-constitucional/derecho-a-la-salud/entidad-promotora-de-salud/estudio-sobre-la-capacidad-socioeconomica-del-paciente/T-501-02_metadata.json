@@ -1,0 +1,73 @@
+{
+  "radicado": "T-501-02",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2002,
+  "fecha_creacion": "2002-06-27",
+  "magistrado_ponente": "Dr EDUARDO MONTEALEGRE LYNETT",
+  "area": "Derecho a la Salud",
+  "tema": "ENTIDAD PROMOTORA DE SALUD",
+  "subtema": "Estudio sobre la capacidad socioeconómica del paciente",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2002/T-501-02.htm",
+  "fecha_descarga": "2026-10-23T00:24:07.721136+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2002-06-27",
+  "fecha_publicacion": null,
+  "numero": "T-501/02",
+  "tipo_cc": "T",
+  "prov_id": "20723",
+  "tema_relatoria": "DERECHO A LA SALUD DE PACIENTE EN CASO DE URGENCIA. SUMINISTRO TRATAMIENTO MEDICO. PERIODO MINIMO DE COTIZACION. PAGO COMPARTIDO. INCAPACIDAD ECONOMICA. ACCION DE REPETICON. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ENTIDAD PROMOTORA DE SALUD",
+      "subtema": "Estudio sobre la capacidad socioeconómica del paciente"
+    },
+    {
+      "tema": "DERECHOS FUNDAMENTALES",
+      "subtema": "No se pueden vulnerar por la exigencia del pago compartido"
+    },
+    {
+      "tema": "ENFERMEDADES CATASTROFICAS O RUINOSAS",
+      "subtema": "Periodos mínimos de cotización"
+    },
+    {
+      "tema": "DERECHO A LA VIDA",
+      "subtema": "Suministro de tratamiento sin condicionarlo al pago compartido"
+    },
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Suministro de tratamiento sin condicionarlo al pago compartido"
+    },
+    {
+      "tema": "ENFERMEDADES CATASTROFICAS O RUINOSAS",
+      "subtema": "Casos de urgencia"
+    },
+    {
+      "tema": "PRINCIPIO DE SOLIDARIDAD",
+      "subtema": "Pago moderador, copago y pago compartido"
+    },
+    {
+      "tema": "ENTIDAD PROMOTORA DE SALUD",
+      "subtema": "Casos en que puede ordenarse atención inmediata de paciente que requiera tratamiento de alto costo"
+    },
+    {
+      "tema": "ENFERMEDADES DE ALTO COSTO",
+      "subtema": "Alternativas para que los pacientes puedan acceder al tratamiento"
+    },
+    {
+      "tema": "ENTIDAD PROMOTORA DE SALUD",
+      "subtema": "Repetición contra el FOSYGA"
+    },
+    {
+      "tema": "ENTIDAD PROMOTORA DE SALUD",
+      "subtema": "No puede condicionar el servicio a la asunción de costos del pago compartido"
+    }
+  ]
+}

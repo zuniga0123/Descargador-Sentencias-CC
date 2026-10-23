@@ -1,0 +1,51 @@
+{
+  "radicado": "T-068-02",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2002,
+  "fecha_creacion": "2002-02-07",
+  "magistrado_ponente": "Dr JAIME CÓRDOBA TRIVIÑO",
+  "area": "Derecho a la Salud",
+  "tema": "ENTIDAD PROMOTORA DE SALUD",
+  "subtema": "Repetición contra el FOSYGA",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 100 de 1993",
+    "Decreto 806 de 1998"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2002/T-068-02.htm",
+  "fecha_descarga": "2026-10-23T00:23:28.082134+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2002-02-07",
+  "fecha_publicacion": null,
+  "numero": "T-068/02",
+  "tipo_cc": "T",
+  "prov_id": "20204",
+  "tema_relatoria": "DERECHO A LA VIDA Y SALUD DE PERSONA CON VIH. SOLICITUD PRACTICA DE CARGA VIRAL NO INCLUIDA EN EL POS. PRESTACION SERVICIOS MEDICOS ASISTENCIALES. ENFERMEDAD CATASTROFICA Y RUINOSA. COPAGO O CUOTA MODERADORA. REGIMEN CONTRIBUTIVO. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ENTIDAD PROMOTORA DE SALUD",
+      "subtema": "Repetición contra el FOSYGA"
+    },
+    {
+      "tema": "INAPLICACION DE NORMAS DEL PLAN OBLIGATORIO DE SALUD",
+      "subtema": "Casos en que procede por exclusión de tratamientos y medicamentos de alto costo"
+    },
+    {
+      "tema": "PLAN OBLIGATORIO DE SALUD",
+      "subtema": "Exclusiones y limitaciones"
+    },
+    {
+      "tema": "DERECHO A LA SALUD DEL ENFERMO DE SIDA",
+      "subtema": "Examen de carga viral de persona con capacidad de pago"
+    },
+    {
+      "tema": "PLAN OBLIGATORIO DE SALUD",
+      "subtema": "Capacidad económica del usuario respecto de servicios no cubiertos"
+    }
+  ]
+}

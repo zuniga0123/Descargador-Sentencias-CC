@@ -1,0 +1,53 @@
+{
+  "radicado": "T-754-02",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2002,
+  "fecha_creacion": "2002-09-13",
+  "magistrado_ponente": "Dr MANUEL JOSÉ CEPEDA ESPINOSA",
+  "area": "Derecho a la Salud",
+  "tema": "AGENCIA OFICIOSA",
+  "subtema": "Requisitos",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2002/T-754-02.htm",
+  "fecha_descarga": "2026-10-23T00:06:31.283914+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2002-09-13",
+  "fecha_publicacion": "2002-09-27",
+  "numero": "T-754/02",
+  "tipo_cc": "T",
+  "prov_id": "21135",
+  "tema_relatoria": "DERECHO A LA SALUD Y VIDA PERSONA DE LA TERCERA EDAD. SUMINISTRO MEDICAMENTOS PRESCRITOS POR MEDICO TRATANTE NO INCLUIDOS EN EL POS. ENFERMEDAD CATASTROFICA O RUINOSA. AGENCIA OFICIOSA. ACCION DE REPETICION. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "AGENCIA OFICIOSA",
+      "subtema": "Requisitos"
+    },
+    {
+      "tema": "PLAN OBLIGATORIO DE SALUD",
+      "subtema": "Suministro de medicamentos"
+    },
+    {
+      "tema": "ENTIDAD PROMOTORA DE SALUD",
+      "subtema": "Repetición contra el FOSYGA"
+    },
+    {
+      "tema": "AGENCIA OFICIOSA EN TUTELA",
+      "subtema": "Procedencia"
+    },
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Fundamental por conexidad"
+    },
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Suministro de medicamentos para aliviar enfermedad"
+    }
+  ]
+}

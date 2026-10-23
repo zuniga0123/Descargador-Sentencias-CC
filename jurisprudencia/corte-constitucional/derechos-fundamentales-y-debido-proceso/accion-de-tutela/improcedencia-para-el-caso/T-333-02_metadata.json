@@ -1,0 +1,54 @@
+{
+  "radicado": "T-333-02",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2002,
+  "fecha_creacion": "2002-05-03",
+  "magistrado_ponente": "Dra CLARA INÉS VARGAS HERNÁNDEZ",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCIÓN DE TUTELA",
+  "subtema": "Improcedencia para el caso",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2382 de 1989",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2002/T-333-02.htm",
+  "fecha_descarga": "2026-10-23T00:17:06.466895+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2002-05-03",
+  "fecha_publicacion": null,
+  "numero": "T-333/02",
+  "tipo_cc": "T",
+  "prov_id": "20503",
+  "tema_relatoria": "DERECHO AL DEBIDO PROCESO. CUESTIONAMIENTO ACTUACIONES JUDICIALES DE PROCESO EN TRAMITE. VIA DE HECHO. RESPONSABILIDAD DEL JUEZ. INTERPRETACION NORMAS PROCESALES. PRACTICA PRUEBA PERICIAL. INCIDENTE TACHA DE FALSEDAD. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Improcedencia para el caso"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Improcedencia por no ejercicio oportuno de recursos"
+    },
+    {
+      "tema": "VIA DE HECHO",
+      "subtema": "Improcedencia de medio de defensa judicial"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Procedencia excepcional por vía de hecho"
+    },
+    {
+      "tema": "MEDIO DE DEFENSA JUDICIAL",
+      "subtema": "Falsedad en documento privado"
+    },
+    {
+      "tema": "VIA DE HECHO",
+      "subtema": "Determinación si errores o faltas pueden corregirse en el mismo proceso a través de mecanismos legales"
+    }
+  ]
+}

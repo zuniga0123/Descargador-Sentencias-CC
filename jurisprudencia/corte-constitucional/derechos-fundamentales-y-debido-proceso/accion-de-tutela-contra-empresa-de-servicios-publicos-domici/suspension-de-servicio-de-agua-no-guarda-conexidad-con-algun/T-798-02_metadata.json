@@ -1,0 +1,43 @@
+{
+  "radicado": "T-798-02",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2002,
+  "fecha_creacion": "2002-09-26",
+  "magistrado_ponente": "Dr JAIME CÓRDOBA TRIVIÑO",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCION DE TUTELA CONTRA EMPRESA DE SERVICIOS PUBLICOS DOMICILIARIOS",
+  "subtema": "Suspensión de servicio de agua no guarda conexidad con algún derecho fundamental",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 689 de 2001",
+    "Decreto 2591 de 1991",
+    "Ley 142 de 1994"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2002/T-798-02.htm",
+  "fecha_descarga": "2026-10-23T00:27:19.621818+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2002-09-26",
+  "fecha_publicacion": null,
+  "numero": "T-798/02",
+  "tipo_cc": "T",
+  "prov_id": "21197",
+  "tema_relatoria": "DERECHO A LA IGUALDAD. SOLICITUD RECONEXION DEL SERVICIO SUSPENDIDO. COBRO SOLIDARIO DE FACTURAS POR MORA DE ARRENDATARIO Y RECONEXION FRAUDULENTA. SERVICIOS PUBLICOS DOMICILIARIOS. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCION DE TUTELA CONTRA EMPRESA DE SERVICIOS PUBLICOS DOMICILIARIOS",
+      "subtema": "Suspensión de servicio de agua no guarda conexidad con algún derecho fundamental"
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA EMPRESA DE SERVICIOS PUBLICOS",
+      "subtema": "Procedencia una vez que se han surtido los trámites administrativos regulares"
+    },
+    {
+      "tema": "PRINCIPIO DE SOLIDARIDAD EN CONTRATO DE PRESTACION DE SERVICIOS PUBLICOS",
+      "subtema": "Solo cobija pago de tres periodos facturados y no pagados por arrendatario de servicio de agua"
+    }
+  ]
+}
