@@ -1,0 +1,107 @@
+{
+  "radicado": "T-419-94",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1994,
+  "fecha_creacion": "1994-09-23",
+  "magistrado_ponente": "Eduardo Cifuentes Muñoz",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "EXPEDIENTE",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 32 de 1990",
+    "Decreto 320 de 1992",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1994/T-419-94.htm",
+  "fecha_descarga": "2026-10-23T08:45:02.449279+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1994-09-23",
+  "fecha_publicacion": null,
+  "numero": "T-419/94",
+  "tipo_cc": "T",
+  "prov_id": "12144",
+  "tema_relatoria": "DEBIDO PROCESO. DILACIONES INJUSTIFICADAS. DESAPARICION PARCIAL DEL EXPEDIENTE. TERMINACION IRREGULAR DE UNA ACTUACION ADTIVA. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "EXPEDIENTE",
+      "subtema": null
+    },
+    {
+      "tema": "ACTA DE CONCERTACION",
+      "subtema": "Dilación injustificada"
+    },
+    {
+      "tema": "ACTO ADMINISTRATIVO INEFICAZ",
+      "subtema": null
+    },
+    {
+      "tema": "DERECHOS ADQUIRIDOS",
+      "subtema": "Variación de la legislación"
+    },
+    {
+      "tema": "NORMA ANTERIOR",
+      "subtema": "Imposibilidad de aplicación"
+    },
+    {
+      "tema": "DEBIDO PROCESO",
+      "subtema": "Vulneración por falta de notificación"
+    },
+    {
+      "tema": "DERECHO DE PETICIÓN",
+      "subtema": "Pronta resolución"
+    },
+    {
+      "tema": "NOTIFICACION",
+      "subtema": "Finalidad"
+    },
+    {
+      "tema": "FALLA DE LA ADMINISTRACION",
+      "subtema": null
+    },
+    {
+      "tema": "ACTO ADMINISTRATIVO",
+      "subtema": "Inoponibilidad"
+    },
+    {
+      "tema": "DEBIDO PROCESO",
+      "subtema": "Vulneración por pérdida de expediente"
+    },
+    {
+      "tema": "VARIACIONES NORMATIVAS",
+      "subtema": null
+    },
+    {
+      "tema": "JUEZ DE TUTELA",
+      "subtema": "Límites"
+    },
+    {
+      "tema": "NOTIFICACION",
+      "subtema": "Ausencia"
+    },
+    {
+      "tema": "NOTIFICACION",
+      "subtema": "Inexistencia"
+    },
+    {
+      "tema": "PROCESO DE CONCERTACION",
+      "subtema": "Terminación"
+    },
+    {
+      "tema": "DEBIDO PROCESO",
+      "subtema": "Vulneración"
+    },
+    {
+      "tema": "HECHO PUNIBLE",
+      "subtema": "Investigación penal"
+    },
+    {
+      "tema": "JUEZ DE TUTELA",
+      "subtema": "Cogobierno"
+    }
+  ]
+}

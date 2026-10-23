@@ -1,0 +1,45 @@
+{
+  "radicado": "T-345-94",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1994,
+  "fecha_creacion": "1994-08-01",
+  "magistrado_ponente": "Alejandro Martinez Caballero",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "DERECHO AL TRABAJO",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1994/T-345-94.htm",
+  "fecha_descarga": "2026-10-23T08:32:21.080078+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1994-08-01",
+  "fecha_publicacion": null,
+  "numero": "T-345/94",
+  "tipo_cc": "T",
+  "prov_id": "12062",
+  "tema_relatoria": "PPIO DE IGUALDAD. DER. AL TRABAJO. DER. A LA EDUCACION. COHABITACION DE DERS. TRASLADO DE JORNADA DE ESTUDIO. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO AL TRABAJO",
+      "subtema": null
+    },
+    {
+      "tema": "DERECHO A LA EDUCACIÓN",
+      "subtema": null
+    },
+    {
+      "tema": "CAMBIO DE JORNADA EDUCATIVA",
+      "subtema": null
+    },
+    {
+      "tema": "COHABITACION DE DERECHOS",
+      "subtema": null
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "radicado": "T-440-94",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1994,
+  "fecha_creacion": "1994-10-05",
+  "magistrado_ponente": null,
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCION DE TUTELA TRANSITORIA",
+  "subtema": "Inaplicación del acto",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 90 de 1946",
+    "Decreto 2665 de 1988"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1994/T-440-94.htm",
+  "fecha_descarga": "2026-10-23T08:45:31.692728+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1994-10-05",
+  "fecha_publicacion": null,
+  "numero": "T-440/94",
+  "tipo_cc": "T",
+  "prov_id": "12165",
+  "tema_relatoria": "PENSION DE INVALIDEZ. ACTUACION ILEGAL DEL I.S.S. EN SUSPENDER DICHO PAGO. DEBIDO PROCESO. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCION DE TUTELA TRANSITORIA",
+      "subtema": "Inaplicación del acto"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Interposición según la materia"
+    },
+    {
+      "tema": "JUEZ DE TUTELA",
+      "subtema": "Facultades"
+    },
+    {
+      "tema": "PENSIÓN DE INVALIDEZ",
+      "subtema": "Suspensión del pago"
+    },
+    {
+      "tema": "PRESUNCION DE LEGALIDAD DE ACTO QUE RECONOCE PENSION",
+      "subtema": null
+    },
+    {
+      "tema": "ACCION DE TUTELA TRANSITORIA",
+      "subtema": null
+    },
+    {
+      "tema": "DERECHOS DEL PENSIONADO",
+      "subtema": null
+    },
+    {
+      "tema": "ACCION DE TUTELA TRANSITORIA CONTRA ENTIDADES DE PREVISION SOCIAL",
+      "subtema": null
+    },
+    {
+      "tema": "INSTITUTO DE SEGUROS SOCIALES",
+      "subtema": "Arbitrariedad"
+    },
+    {
+      "tema": "DEBIDO PROCESO ADMINISTRATIVO",
+      "subtema": "Vulneración"
+    }
+  ]
+}

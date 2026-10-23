@@ -1,0 +1,49 @@
+{
+  "radicado": "T-237-94",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1994,
+  "fecha_creacion": "1994-05-17",
+  "magistrado_ponente": "Antonio Barrera Carbonell",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCIÓN DE TUTELA",
+  "subtema": "Cesación",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 1421 de 1993"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1994/T-237-94.htm",
+  "fecha_descarga": "2026-10-23T08:24:57.557416+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1994-05-17",
+  "fecha_publicacion": "1992-05-25",
+  "numero": "T-237/94",
+  "tipo_cc": "T",
+  "prov_id": "11946",
+  "tema_relatoria": "DER. A LA SALUBRIDAD PUBLICA. DER. AL AMBIENTE SANO. LITISCONSORCIO EN LA ACC. DE TUTELA. NO RECOLECCION DE BASURAS. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Cesación"
+    },
+    {
+      "tema": "SERVICIO PUBLICO DE RECOLECCION DE BASURAS",
+      "subtema": null
+    },
+    {
+      "tema": "LITISCONSORCIO PASIVO",
+      "subtema": null
+    },
+    {
+      "tema": "ACCION DE TUTELA PREVENTIVA",
+      "subtema": null
+    },
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Prueba de su violación por basuras"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "radicado": "C-417-94",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1994,
+  "fecha_creacion": "1994-09-22",
+  "magistrado_ponente": "Dr CARLOS GAVIRIA DIAZ",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "FACULTADES EXTRAORDINARIAS",
+  "subtema": "Exceso",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto Ley 41 de 1994",
+    "Decreto 41 de 1994",
+    "Decreto 65 de 1994"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1994/C-417-94.htm",
+  "fecha_descarga": "2026-10-23T08:47:11.719122+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1994-09-22",
+  "fecha_publicacion": null,
+  "numero": "C-417/94",
+  "tipo_cc": "C",
+  "prov_id": "12141",
+  "tema_relatoria": "DEC. 41/94. VARIOS ARTS. POR EL CUAL SE MODIFICAN LAS NORMAS DE CARRERA DEL PERSONAL DE OFICIALES Y SUBOFICIALES DE LA POLICIA NAL. INEXEQUIBLES.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "FACULTADES EXTRAORDINARIAS",
+      "subtema": "Exceso"
+    },
+    {
+      "tema": "POLICIA NACIONAL",
+      "subtema": "Personal ejecutivo"
+    },
+    {
+      "tema": "POLICIA NACIONAL",
+      "subtema": "Régimen salarial"
+    },
+    {
+      "tema": "PRESIDENTE DE LA REPUBLICA",
+      "subtema": "Incompetencia"
+    }
+  ]
+}

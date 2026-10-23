@@ -1,0 +1,50 @@
+{
+  "radicado": "T-092-94",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1994,
+  "fecha_creacion": "1994-03-03",
+  "magistrado_ponente": "Alejandro Martinez Caballero",
+  "area": "Otros - Sin clasificar",
+  "tema": "LIBERTAD DE ENSEÑANZA",
+  "subtema": "Titulares",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2277 de 1979",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1994/T-092-94.htm",
+  "fecha_descarga": "2026-10-23T08:41:41.788488+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1994-03-03",
+  "fecha_publicacion": null,
+  "numero": "T-092/94",
+  "tipo_cc": "T",
+  "prov_id": "11796",
+  "tema_relatoria": "LIBERTAD DE ENSEÑANZA. LIBERTAD DE CATEDRA. DER. A LA EDUCACION. EVALUACION DE ALUMNOS. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "LIBERTAD DE ENSEÑANZA",
+      "subtema": "Titulares"
+    },
+    {
+      "tema": "PERSONAL DOCENTE",
+      "subtema": "Presentación de programas"
+    },
+    {
+      "tema": "LIBERTAD DE CATEDRA",
+      "subtema": null
+    },
+    {
+      "tema": "DERECHO A LA EDUCACIÓN",
+      "subtema": "Naturaleza"
+    },
+    {
+      "tema": "REGLAMENTO EDUCATIVO",
+      "subtema": "Sanciones"
+    }
+  ]
+}

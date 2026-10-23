@@ -1,0 +1,47 @@
+{
+  "radicado": "T-515-94",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1994,
+  "fecha_creacion": "1994-11-16",
+  "magistrado_ponente": "Hernando Herrera Vergara",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "DERECHO A LA REUBICACION LABORAL",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 91 de 1989",
+    "Ley 29 de 1989"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1994/T-515-94.htm",
+  "fecha_descarga": "2026-10-23T08:42:54.830984+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1994-11-16",
+  "fecha_publicacion": null,
+  "numero": "T-515/94",
+  "tipo_cc": "T",
+  "prov_id": "12244",
+  "tema_relatoria": "DER. DE PETICION. DER. A LA SEG SOCIAL. REUBICACION LABORAL SIN CARGA DOCENTE. MAESTRA CON TRATAMIENTO SIQUIATRICO POR STRESS. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA REUBICACION LABORAL",
+      "subtema": null
+    },
+    {
+      "tema": "DERECHO DE PETICIÓN",
+      "subtema": "Contenido"
+    },
+    {
+      "tema": "PERSONAL DOCENTE",
+      "subtema": "Estrés"
+    },
+    {
+      "tema": "PERSONAL DOCENTE",
+      "subtema": "Trastorno psiquiátrico"
+    }
+  ]
+}

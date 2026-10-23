@@ -1,0 +1,54 @@
+{
+  "radicado": "T-067-94",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1994,
+  "fecha_creacion": "1994-02-22",
+  "magistrado_ponente": "Dr JOSE GREGORIO HERNANDEZ GALINDO",
+  "area": "Derecho a la Salud",
+  "tema": "MENOR ENFERMO",
+  "subtema": "Protección",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 770 de 1975",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1994/T-067-94.htm",
+  "fecha_descarga": "2026-10-23T08:41:16.078670+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1994-02-22",
+  "fecha_publicacion": null,
+  "numero": "T-067/94",
+  "tipo_cc": "T",
+  "prov_id": "11770",
+  "tema_relatoria": "DER. A LA SALUD. DER. A LA VIDA. ATENCION A LOS DISMINUIDOS FISICOS. I.S.S. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "MENOR ENFERMO",
+      "subtema": "Protección"
+    },
+    {
+      "tema": "TRATAMIENTO MEDICO",
+      "subtema": null
+    },
+    {
+      "tema": "JUEZ DE TUTELA",
+      "subtema": "Deberes"
+    },
+    {
+      "tema": "PRINCIPIO DE SOLIDARIDAD",
+      "subtema": "Contenido"
+    },
+    {
+      "tema": "DERECHO A LA IGUALDAD",
+      "subtema": "Discriminación positiva"
+    },
+    {
+      "tema": "INSTITUTO DE SEGUROS SOCIALES",
+      "subtema": "Asistencia médica de menor"
+    }
+  ]
+}

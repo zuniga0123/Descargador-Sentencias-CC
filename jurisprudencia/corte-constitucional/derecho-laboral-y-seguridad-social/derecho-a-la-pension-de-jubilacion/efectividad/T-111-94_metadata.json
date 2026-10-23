@@ -1,0 +1,49 @@
+{
+  "radicado": "T-111-94",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1994,
+  "fecha_creacion": "1994-03-11",
+  "magistrado_ponente": "Antonio Barrera Carbonell",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "DERECHO A LA PENSION DE JUBILACION",
+  "subtema": "Efectividad",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1994/T-111-94.htm",
+  "fecha_descarga": "2026-10-23T08:34:55.123038+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1994-03-11",
+  "fecha_publicacion": null,
+  "numero": "T-111/94",
+  "tipo_cc": "T",
+  "prov_id": "11815",
+  "tema_relatoria": "DER. A LA SEGURIDAD SOCIAL. PAGO OPORTUNO DE PENSIONES. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA PENSION DE JUBILACION",
+      "subtema": "Efectividad"
+    },
+    {
+      "tema": "DERECHOS CONSTITUCIONALES",
+      "subtema": "Efectividad"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Cesación"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Prevención al demandado"
+    },
+    {
+      "tema": "PENSION DE JUBILACION",
+      "subtema": "Pago"
+    }
+  ]
+}

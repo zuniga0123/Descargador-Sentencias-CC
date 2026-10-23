@@ -1,0 +1,50 @@
+{
+  "radicado": "T-524-94",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1994,
+  "fecha_creacion": "1994-11-22",
+  "magistrado_ponente": "Alejandro Martinez Caballero",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "CONTROVERSIA CONTRACTUAL",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 133 de 1976",
+    "Decreto 1050 de 1968",
+    "Decreto 663 de 1993",
+    "Decreto 130 de 1976",
+    "Decreto 3130 de 1968",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1994/T-524-94.htm",
+  "fecha_descarga": "2026-10-23T08:25:08.589717+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1994-11-22",
+  "fecha_publicacion": null,
+  "numero": "T-524/94",
+  "tipo_cc": "T",
+  "prov_id": "12253",
+  "tema_relatoria": "TUTELA CONTRA SOCIEDADES DE ECONOMIA MIXTA. TUTELA CONTRA PARTICULARES. ALMAGRARIO S.A. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "CONTROVERSIA CONTRACTUAL",
+      "subtema": null
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA SOCIEDAD DE ECONOMIA MIXTA",
+      "subtema": null
+    },
+    {
+      "tema": "SUBORDINACION",
+      "subtema": null
+    },
+    {
+      "tema": "ALMAGRARIO",
+      "subtema": null
+    }
+  ]
+}

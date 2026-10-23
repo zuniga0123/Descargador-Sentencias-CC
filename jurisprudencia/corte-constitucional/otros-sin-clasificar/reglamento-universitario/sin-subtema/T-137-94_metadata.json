@@ -1,0 +1,53 @@
+{
+  "radicado": "T-137-94",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1994,
+  "fecha_creacion": "1994-03-22",
+  "magistrado_ponente": null,
+  "area": "Otros - Sin clasificar",
+  "tema": "REGLAMENTO UNIVERSITARIO",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1994/T-137-94.htm",
+  "fecha_descarga": "2026-10-23T08:38:49.490846+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1994-03-22",
+  "fecha_publicacion": null,
+  "numero": "T-137/94",
+  "tipo_cc": "T",
+  "prov_id": "11843",
+  "tema_relatoria": "CONTRATO EDUCATIVO. DER. A LA EDUCACION. REGLAMENTO EDUCATIVO. UNIVERSIDAD GRAN COLOMBIA. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "REGLAMENTO UNIVERSITARIO",
+      "subtema": null
+    },
+    {
+      "tema": "DERECHO A LA ENSEÑANZA",
+      "subtema": "Límites"
+    },
+    {
+      "tema": "CONTRATO EDUCATIVO",
+      "subtema": "Naturaleza"
+    },
+    {
+      "tema": "CONTRATO EDUCATIVO",
+      "subtema": "Incumplimiento"
+    },
+    {
+      "tema": "DERECHO A LA EDUCACIÓN",
+      "subtema": "Asistente"
+    },
+    {
+      "tema": "DERECHO A LA EDUCACIÓN",
+      "subtema": "Ingreso a establecimiento educativo"
+    }
+  ]
+}

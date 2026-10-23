@@ -1,0 +1,49 @@
+{
+  "radicado": "T-471-94",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1994,
+  "fecha_creacion": "1994-10-26",
+  "magistrado_ponente": "Dr Hernando Herrera Vergara",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "EMPRESA",
+  "subtema": "Publicación de avisos contra trabajador",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1994/T-471-94.htm",
+  "fecha_descarga": "2026-10-23T08:26:03.494070+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1994-10-26",
+  "fecha_publicacion": null,
+  "numero": "T-471/94",
+  "tipo_cc": "T",
+  "prov_id": "12198",
+  "tema_relatoria": "DER. A LA HONRA. DER. AL BUEN NOMBRE. PUBLICACION DE AVISOS DE LA EMPRESA ANUNCIANDO IRREGULARIDADES DEL PRESIDENTE DEL SINDICATO. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "EMPRESA",
+      "subtema": "Publicación de avisos contra trabajador"
+    },
+    {
+      "tema": "PRESUNCION DE INOCENCIA",
+      "subtema": "Vulneración"
+    },
+    {
+      "tema": "RESPONSABILIDAD POR DIFUNDIR INFORMACION FALSA",
+      "subtema": null
+    },
+    {
+      "tema": "DERECHO AL BUEN NOMBRE",
+      "subtema": "Información falsa"
+    },
+    {
+      "tema": "DERECHO A LA HONRA",
+      "subtema": "Información falsa"
+    }
+  ]
+}

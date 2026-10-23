@@ -1,0 +1,53 @@
+{
+  "radicado": "T-033-94",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1994,
+  "fecha_creacion": "1994-02-02",
+  "magistrado_ponente": "Dr JOSE GREGORIO HERNANDEZ GALINDO",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "CONDENA IN GENERE",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1994/T-033-94.htm",
+  "fecha_descarga": "2026-10-23T08:28:51.980129+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1994-02-02",
+  "fecha_publicacion": null,
+  "numero": "T-033/94",
+  "tipo_cc": "T",
+  "prov_id": "11735",
+  "tema_relatoria": "DERECHO DE PETICION. CONDENA EN ABSTRACTO. RETENCION DE MERCANCIAS POR LA ADUANA. CONCEDIDA PARCIALMENTE.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "CONDENA IN GENERE",
+      "subtema": null
+    },
+    {
+      "tema": "INDEMNIZACION DE PERJUICIOS",
+      "subtema": null
+    },
+    {
+      "tema": "PAGO DE LA PARTICIPACION",
+      "subtema": null
+    },
+    {
+      "tema": "CONTRABANDO",
+      "subtema": null
+    },
+    {
+      "tema": "CONDENA EN ABSTRACTO",
+      "subtema": null
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Carencia actual de objeto"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "radicado": "T-404-94",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1994,
+  "fecha_creacion": "1994-09-14",
+  "magistrado_ponente": "Jorge Arango Mejia",
+  "area": "Derecho de Familia y Derechos de Niños, Niñas y Adolescentes",
+  "tema": "CASA DE HABITACION",
+  "subtema": "Desalojo del cónyuge",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1994/T-404-94.htm",
+  "fecha_descarga": "2026-10-23T08:44:47.910454+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1994-09-14",
+  "fecha_publicacion": null,
+  "numero": "T-404/94",
+  "tipo_cc": "T",
+  "prov_id": "12126",
+  "tema_relatoria": "TUTELA CONTRA PARTICULARES. NO TODO DISMINUIDO FISICO SE ENCUENTRA EN ESTADO DE INDEFENSION. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "CASA DE HABITACION",
+      "subtema": "Desalojo del cónyuge"
+    },
+    {
+      "tema": "PERSONA DISMINUIDA FISICAMENTE",
+      "subtema": null
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA PARTICULARES",
+      "subtema": "Indefensión"
+    },
+    {
+      "tema": "MENOR DE EDAD",
+      "subtema": "Protección"
+    }
+  ]
+}

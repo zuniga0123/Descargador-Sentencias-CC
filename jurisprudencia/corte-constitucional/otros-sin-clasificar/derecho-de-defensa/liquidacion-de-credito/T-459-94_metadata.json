@@ -1,0 +1,41 @@
+{
+  "radicado": "T-459-94",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1994,
+  "fecha_creacion": "1994-10-24",
+  "magistrado_ponente": "Antonio Barrera Carbonell",
+  "area": "Otros - Sin clasificar",
+  "tema": "DERECHO DE DEFENSA",
+  "subtema": "Liquidación de crédito",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1994/T-459-94.htm",
+  "fecha_descarga": "2026-10-23T08:25:49.099109+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1994-10-24",
+  "fecha_publicacion": null,
+  "numero": "T-459/94",
+  "tipo_cc": "T",
+  "prov_id": "12187",
+  "tema_relatoria": "LIQUIDACION DEL CREDITO EN PROCESOS POR JURISDICCION COACTIVA. AUSENCIA DE PERJUICIO IRREMEDIABLE. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO DE DEFENSA",
+      "subtema": "Liquidación de crédito"
+    },
+    {
+      "tema": "JURISDICCION COACTIVA",
+      "subtema": "Recursos"
+    },
+    {
+      "tema": "VIA DE HECHO",
+      "subtema": "Inexistencia"
+    }
+  ]
+}

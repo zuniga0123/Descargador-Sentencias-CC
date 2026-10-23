@@ -1,0 +1,52 @@
+{
+  "radicado": "T-163-94",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1994,
+  "fecha_creacion": "1994-03-24",
+  "magistrado_ponente": "Dr Hernando Herrera Vergara",
+  "area": "Otros - Sin clasificar",
+  "tema": "DERECHO A OBTENER COPIAS",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 1754 de 1991",
+    "Decreto 1 de 1984",
+    "Decreto 2591 de 1991",
+    "Ley 57 de 1985"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1994/T-163-94.htm",
+  "fecha_descarga": "2026-10-23T08:39:26.155894+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1994-03-24",
+  "fecha_publicacion": null,
+  "numero": "T-163/94",
+  "tipo_cc": "T",
+  "prov_id": "11869",
+  "tema_relatoria": "DER. DE PETICION. ACCESO A DOCUMENTOS PUBLICOS. DPTO ADM. PRESIDENCIA DE LA R/BLICA. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO A OBTENER COPIAS",
+      "subtema": null
+    },
+    {
+      "tema": "PRESIDENCIA DE LA REPUBLICA",
+      "subtema": "Departamento administrativo"
+    },
+    {
+      "tema": "PRINCIPIO DE CELERIDAD",
+      "subtema": null
+    },
+    {
+      "tema": "DOCUMENTO PUBLICO",
+      "subtema": null
+    },
+    {
+      "tema": "RESERVA DE DOCUMENTO PUBLICO",
+      "subtema": null
+    }
+  ]
+}

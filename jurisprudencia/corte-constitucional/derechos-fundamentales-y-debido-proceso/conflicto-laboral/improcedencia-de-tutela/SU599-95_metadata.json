@@ -1,0 +1,66 @@
+{
+  "radicado": "SU599-95",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1995,
+  "fecha_creacion": "1995-12-07",
+  "magistrado_ponente": "Dr FABIO MORON DIAZ",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "CONFLICTO LABORAL",
+  "subtema": "Improcedencia de tutela",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2351 de 1965",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1995/SU599-95.htm",
+  "fecha_descarga": "2026-10-23T08:24:18.121392+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1995-12-07",
+  "fecha_publicacion": null,
+  "numero": "SU.599/95",
+  "tipo_cc": "SU",
+  "prov_id": "12977",
+  "tema_relatoria": "CONVENCION COLECTIVA. SINDICATOS. AUMENTO DE SALARIOS. AVIANCA. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "CONFLICTO LABORAL",
+      "subtema": "Improcedencia de tutela"
+    },
+    {
+      "tema": "PRINCIPIO A TRABAJO IGUAL SALARIO IGUAL",
+      "subtema": "Prueba"
+    },
+    {
+      "tema": "DERECHO A LA IGUALDAD",
+      "subtema": "Discriminación salarial y prestacional"
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA AVIANCA",
+      "subtema": "Nivelación salarial"
+    },
+    {
+      "tema": "DERECHO DE ASOCIACIÓN SINDICAL",
+      "subtema": "Libertad"
+    },
+    {
+      "tema": "DERECHO DE NEGOCIACION COLECTIVA",
+      "subtema": "Libertad"
+    },
+    {
+      "tema": "DERECHO DE ASOCIACIÓN SINDICAL",
+      "subtema": "Vulneración por estimular deserción"
+    },
+    {
+      "tema": "COSA JUZGADA",
+      "subtema": "Desconocimiento de sentencia"
+    },
+    {
+      "tema": "MEDIO DE DEFENSA JUDICIAL",
+      "subtema": "Discriminación salarial y prestacional"
+    }
+  ]
+}

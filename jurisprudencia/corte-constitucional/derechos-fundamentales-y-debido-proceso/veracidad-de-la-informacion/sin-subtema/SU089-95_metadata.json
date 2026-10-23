@@ -1,0 +1,47 @@
+{
+  "radicado": "SU089-95",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1995,
+  "fecha_creacion": "1995-03-01",
+  "magistrado_ponente": "Jorge Arango Mejia",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "VERACIDAD DE LA INFORMACION",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1995/SU089-95.htm",
+  "fecha_descarga": "2026-10-23T08:24:02.412354+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1995-03-01",
+  "fecha_publicacion": null,
+  "numero": "SU.089/95",
+  "tipo_cc": "SU",
+  "prov_id": "12414",
+  "tema_relatoria": "HABEAS DATA. INFORMACION VERAZ EN ASUNTOS DE CREDITO. PLAZO DE PERMANENCIA DE DEUDORES EN LISTAS NEGRAS. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "VERACIDAD DE LA INFORMACION",
+      "subtema": null
+    },
+    {
+      "tema": "CADUCIDAD DEL DATO",
+      "subtema": "Límite temporal"
+    },
+    {
+      "tema": "DERECHO A LA INFORMACIÓN",
+      "subtema": null
+    },
+    {
+      "tema": "DERECHO AL BUEN NOMBRE",
+      "subtema": null
+    },
+    {
+      "tema": "DERECHO A LA INFORMACIÓN",
+      "subtema": "Autorización previa"
+    }
+  ]
+}

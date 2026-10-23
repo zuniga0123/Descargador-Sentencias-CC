@@ -1,0 +1,54 @@
+{
+  "radicado": "T-002-94",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1994,
+  "fecha_creacion": "1994-01-13",
+  "magistrado_ponente": "Dr JOSE GREGORIO HERNANDEZ GALINDO",
+  "area": "Otros - Sin clasificar",
+  "tema": "DERECHO A LA IGUALDAD",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 30 de 1992"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1994/T-002-94.htm",
+  "fecha_descarga": "2026-10-23T08:28:07.644649+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1994-01-13",
+  "fecha_publicacion": null,
+  "numero": "T-002/94",
+  "tipo_cc": "T",
+  "prov_id": "11704",
+  "tema_relatoria": "DERECHO DE ACCESO A ESTABLECIMIENTOS EDUCATIVOS. AUTONOMIA UNIVERSITARIA. DER A LA IGUALDAD. DER. A LA EDUCACION. CONCEDIDA PARCIALMENTE.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA IGUALDAD",
+      "subtema": null
+    },
+    {
+      "tema": "AUTONOMÍA UNIVERSITARIA",
+      "subtema": null
+    },
+    {
+      "tema": "PERJUICIO IRREMEDIABLE",
+      "subtema": "Existencia"
+    },
+    {
+      "tema": "DERECHO A LA IGUALDAD",
+      "subtema": "Admisión a la universidad"
+    },
+    {
+      "tema": "DERECHO A LA EDUCACIÓN",
+      "subtema": "Protección"
+    },
+    {
+      "tema": "SISTEMA EDUCATIVO",
+      "subtema": "Acceso"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "radicado": "T-242-94",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1994,
+  "fecha_creacion": "1994-05-19",
+  "magistrado_ponente": "Alejandro Martinez Caballero",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "LIBERTAD PERSONAL",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 48 de 1993"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1994/T-242-94.htm",
+  "fecha_descarga": "2026-10-23T08:30:16.025128+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1994-05-19",
+  "fecha_publicacion": null,
+  "numero": "T-242/94",
+  "tipo_cc": "T",
+  "prov_id": "11952",
+  "tema_relatoria": "LIBERTAD PERSONAL. HABEAS CORPUS. SERVICIO MILITAR OBLIGATORIO. LIBERTAD PROVISIONAL. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "LIBERTAD PERSONAL",
+      "subtema": null
+    },
+    {
+      "tema": "SERVICIO MILITAR",
+      "subtema": "Privación de la libertad"
+    },
+    {
+      "tema": "HABEAS CORPUS",
+      "subtema": null
+    },
+    {
+      "tema": "MEDIO DE DEFENSA JUDICIAL",
+      "subtema": "Eficacia"
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "radicado": "T-100-94",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1994,
+  "fecha_creacion": "1994-03-09",
+  "magistrado_ponente": "Carlos Gaviria Díaz",
+  "area": "Derecho Administrativo y Función Pública",
+  "tema": "ACCION DE NULIDAD Y RESTABLECIMIENTO DEL DERECHO",
+  "subtema": "Improcedencia",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1994/T-100-94.htm",
+  "fecha_descarga": "2026-10-23T08:41:49.286018+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1994-03-09",
+  "fecha_publicacion": null,
+  "numero": "T-100/94",
+  "tipo_cc": "T",
+  "prov_id": "11804",
+  "tema_relatoria": "DER. A LA IGUALDAD. DER. AL TRABAJO. NO PERMITEN DEJAR TRABAJAR EN COLEGIO A DOCENTE CIEGO. CONCEDIDA PARCIALMENTE.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCION DE NULIDAD Y RESTABLECIMIENTO DEL DERECHO",
+      "subtema": "Improcedencia"
+    },
+    {
+      "tema": "MEDIO DE DEFENSA JUDICIAL",
+      "subtema": "Eficacia"
+    },
+    {
+      "tema": "DOCENTE",
+      "subtema": "Invidente"
+    },
+    {
+      "tema": "DERECHO A LA IGUALDAD ANTE LA LEY",
+      "subtema": null
+    },
+    {
+      "tema": "DERECHOS DE RANGO LEGAL",
+      "subtema": null
+    },
+    {
+      "tema": "MEDIO DE DEFENSA LEGAL",
+      "subtema": null
+    },
+    {
+      "tema": "MEDIO DE DEFENSA CONSTITUCIONAL",
+      "subtema": null
+    },
+    {
+      "tema": "DERECHO A LA IGUALDAD",
+      "subtema": null
+    },
+    {
+      "tema": "DERECHO A LA PROTECCION INMEDIATA DE DERECHOS FUNDAMENTALES",
+      "subtema": null
+    },
+    {
+      "tema": "AUTORIDAD PUBLICA",
+      "subtema": "Violación de derechos"
+    },
+    {
+      "tema": "PERSONA EN CIRCUNSTANCIAS DE DEBILIDAD MANIFIESTA",
+      "subtema": "Protección"
+    },
+    {
+      "tema": "FALLO DE TUTELA",
+      "subtema": "Parte resolutiva"
+    },
+    {
+      "tema": "JUEZ DE TUTELA",
+      "subtema": "Obligaciones"
+    }
+  ]
+}

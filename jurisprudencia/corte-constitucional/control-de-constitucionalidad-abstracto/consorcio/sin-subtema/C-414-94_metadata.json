@@ -1,0 +1,48 @@
+{
+  "radicado": "C-414-94",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1994,
+  "fecha_creacion": "1994-09-22",
+  "magistrado_ponente": "Antonio Barrera Carbonell",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "CONSORCIO",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 5 de 1992",
+    "Ley 75 de 1986",
+    "Ley 80 de 1993",
+    "Decreto 624 de 1989"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1994/C-414-94.htm",
+  "fecha_descarga": "2026-10-23T08:46:22.507093+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1994-09-22",
+  "fecha_publicacion": "1994-10-04",
+  "numero": "C-414/94",
+  "tipo_cc": "C",
+  "prov_id": "12143",
+  "tema_relatoria": "CONSORCIOS Y UNIONES TEMPORALES COMO SUJETOS PASIVOS DE OBLIGACIONES TRIBUTARIAS.",
+  "resumen": "Demandas de inconstitucionalidad contra el art. 7º, parágrafo 2º de la Ley 80 de 1993, “por la cual se expide el Estatuto General de Contratación de la Administración Pública”. Los actores señalaron que se incurrió en una (i) omisión del legislador al no establecer de forma directa los elementos de tributos; y (ii) desconocimiento del principio de unidad de materia en la ley de la cual forma parte. La Corte encontró que existe conexidad suficiente con la norma demandada porque el asunto tributario es un tema que permite moldear la cuestión de la contratación con el Estado, en lo que tiene que ver con la generación de rentas y la responsabilidad impositiva deducida de esa circunstancia, aunque deja en claro que el fragmento acusado no se refiere propiamente a una materia impositiva, dado que no regula todos los elementos a que alude el art. 338; (ii) quedó delimitados los elementos de la obligación tributaria, unificó el manejo y determinaciones de las obligaciones en materia de impuestos de los referidos consorcios y uniones temporales. Por lo anterior, la Corte declaró exequible el parágrafo 2º del art. 7º de la Ley 80 de 1993.",
+  "titulaciones": [
+    {
+      "tema": "CONSORCIO",
+      "subtema": null
+    },
+    {
+      "tema": "CONSORCIO",
+      "subtema": "Obligación tributaria"
+    },
+    {
+      "tema": "LEY",
+      "subtema": "Unidad de materia"
+    },
+    {
+      "tema": "UNION TEMPORAL",
+      "subtema": "Obligación tributaria"
+    }
+  ]
+}

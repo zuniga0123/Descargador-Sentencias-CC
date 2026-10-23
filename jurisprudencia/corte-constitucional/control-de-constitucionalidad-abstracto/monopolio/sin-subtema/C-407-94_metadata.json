@@ -1,0 +1,52 @@
+{
+  "radicado": "C-407-94",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1994,
+  "fecha_creacion": "1994-09-15",
+  "magistrado_ponente": "Alejandro Martínez Caballero",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "MONOPOLIO",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 80 de 1993",
+    "Ley 72 de 1989",
+    "Ley 110 de 1912",
+    "Ley 21 de 1963"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1994/C-407-94.htm",
+  "fecha_descarga": "2026-10-23T08:47:00.492270+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1994-09-15",
+  "fecha_publicacion": null,
+  "numero": "C-407/94",
+  "tipo_cc": "C",
+  "prov_id": "12129",
+  "tema_relatoria": "LEY 80/93. ART. 37 PARCIAL. CONTRATACION DE LA ADMION. PUBLICA. REGIMEN DE CONCESIONES Y LICENCIAS DE SERVICIOS POSTALES. EXEQUIBLE.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "MONOPOLIO",
+      "subtema": null
+    },
+    {
+      "tema": "SERVICIO DE CORREO",
+      "subtema": null
+    },
+    {
+      "tema": "SERVICIO DE MENSAJERIA ESPECIALIZADA",
+      "subtema": null
+    },
+    {
+      "tema": "SERVICIO POSTAL",
+      "subtema": null
+    },
+    {
+      "tema": "SERVICIO POSTAL",
+      "subtema": "Reserva estatal"
+    }
+  ]
+}

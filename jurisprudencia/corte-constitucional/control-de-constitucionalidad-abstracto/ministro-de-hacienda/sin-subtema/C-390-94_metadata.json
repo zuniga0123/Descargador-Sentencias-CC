@@ -1,0 +1,51 @@
+{
+  "radicado": "C-390-94",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1994,
+  "fecha_creacion": "1994-09-01",
+  "magistrado_ponente": "Dr FABIO MORON DIAZ",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "MINISTRO DE HACIENDA",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 111 de 1994",
+    "Decreto 2067 de 1991",
+    "Ley 83 de 1993"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1994/C-390-94.htm",
+  "fecha_descarga": "2026-10-23T08:46:45.610079+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1994-09-01",
+  "fecha_publicacion": null,
+  "numero": "C-390/94",
+  "tipo_cc": "C",
+  "prov_id": "12111",
+  "tema_relatoria": "LEY 111/94. POR LA CUAL SE APRUEBA EL CONVENIO DEL FONDO MULTILATERAL DE INVERSIONES. EXEQUIBLE.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "MINISTRO DE HACIENDA",
+      "subtema": null
+    },
+    {
+      "tema": "OBLIGACION ECONOMICA",
+      "subtema": null
+    },
+    {
+      "tema": "TRATADO INTERNACIONAL",
+      "subtema": null
+    },
+    {
+      "tema": "FONDO DE INVERSIONES",
+      "subtema": null
+    },
+    {
+      "tema": "TRATADO INTERNACIONAL",
+      "subtema": "Control previo"
+    }
+  ]
+}

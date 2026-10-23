@@ -1,0 +1,49 @@
+{
+  "radicado": "T-567-94",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1994,
+  "fecha_creacion": "1994-12-07",
+  "magistrado_ponente": "Carlos Gaviria Diaz",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCION DE TUTELA TRANSITORIA",
+  "subtema": "Obra que amenaza ruina",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1994/T-567-94.htm",
+  "fecha_descarga": "2026-10-23T08:40:17.513115+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1994-12-07",
+  "fecha_publicacion": null,
+  "numero": "T-567/94",
+  "tipo_cc": "T",
+  "prov_id": "12299",
+  "tema_relatoria": "PRESUNCION DE VERACIDAD. DER. A LA VIDA. TUTELA TRANSITORIA. CONSTRUCCION DE TANQUE DE ACUEDUCTO. TOLIMA. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCION DE TUTELA TRANSITORIA",
+      "subtema": "Obra que amenaza ruina"
+    },
+    {
+      "tema": "PERJUICIO IRREMEDIABLE",
+      "subtema": null
+    },
+    {
+      "tema": "DERECHO A LA VIDA",
+      "subtema": null
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA SECRETARIA DE SALUD",
+      "subtema": "Construcción de tanque de acueducto"
+    },
+    {
+      "tema": "JUEZ DE TUTELA",
+      "subtema": "Omisión de informe"
+    }
+  ]
+}

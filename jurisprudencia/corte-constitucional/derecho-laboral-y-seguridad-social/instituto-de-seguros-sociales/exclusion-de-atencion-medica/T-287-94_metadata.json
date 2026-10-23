@@ -1,0 +1,46 @@
+{
+  "radicado": "T-287-94",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1994,
+  "fecha_creacion": "1994-06-21",
+  "magistrado_ponente": "Antonio Barrera Carbonell",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "INSTITUTO DE SEGUROS SOCIALES",
+  "subtema": "Exclusión de atención médica",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 1138 de 1984",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1994/T-287-94.htm",
+  "fecha_descarga": "2026-10-23T08:37:21.213610+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1994-06-21",
+  "fecha_publicacion": null,
+  "numero": "T-287/94",
+  "tipo_cc": "T",
+  "prov_id": "11999",
+  "tema_relatoria": "I.S.S. NO ESTA OBLIGADO A LA PRESTACION DE LOS SERVICIOS A LOS AFILIADOS CUANDO SE TRATA DE ENFERMEDADES PREEXISTENTES A LA AFILIACION. NEGADA",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "INSTITUTO DE SEGUROS SOCIALES",
+      "subtema": "Exclusión de atención médica"
+    },
+    {
+      "tema": "DERECHO A LA SEGURIDAD SOCIAL",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "INSTITUTO DE SEGUROS SOCIALES",
+      "subtema": "Enfermedades preexistentes"
+    },
+    {
+      "tema": "PRESTACIONES MEDICO ASISTENCIALES",
+      "subtema": "Riesgo de pérdida de la vida"
+    }
+  ]
+}

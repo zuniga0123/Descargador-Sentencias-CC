@@ -1,0 +1,47 @@
+{
+  "radicado": "T-005-94",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1994,
+  "fecha_creacion": "1994-01-17",
+  "magistrado_ponente": "Jorge Arango Mejia",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCIÓN DE TUTELA",
+  "subtema": "Improcedencia",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2163 de 1970",
+    "Ley 33 de 1896",
+    "Decreto 2148 de 1983"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1994/T-005-94.htm",
+  "fecha_descarga": "2026-10-23T08:37:58.378145+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1994-01-17",
+  "fecha_publicacion": null,
+  "numero": "T-005/94",
+  "tipo_cc": "T",
+  "prov_id": "11707",
+  "tema_relatoria": "DERECHO DE PROPIEDAD. DERECHO DE PETICION. ESCRITURA SIN FIRMA DEL NOTARIO. EXISTENCIA DE OTRO MEDIO DE DEFENSA JUDICIAL. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Improcedencia"
+    },
+    {
+      "tema": "NOTARIO",
+      "subtema": "Funciones"
+    },
+    {
+      "tema": "MEDIO DE DEFENSA JUDICIAL",
+      "subtema": "Eficacia"
+    },
+    {
+      "tema": "ESCRITURA PUBLICA",
+      "subtema": "Suscripción"
+    }
+  ]
+}

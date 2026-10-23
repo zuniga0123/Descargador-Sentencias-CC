@@ -1,0 +1,47 @@
+{
+  "radicado": "T-101-94",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1994,
+  "fecha_creacion": "1994-03-09",
+  "magistrado_ponente": "Dr Carlos Gaviria Díaz",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "JURISDICCION CONTENCIOSO ADMINISTRATIVA",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 5 de 1992",
+    "Ley 13 de 1984",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1994/T-101-94.htm",
+  "fecha_descarga": "2026-10-23T08:41:52.892126+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1994-03-09",
+  "fecha_publicacion": null,
+  "numero": "T-101/94",
+  "tipo_cc": "T",
+  "prov_id": "11805",
+  "tema_relatoria": "DEBIDO PROCESO. MEDIO DE DEFENSA JUDICIAL. COMISION DE ETICA DE LA CAMARA DE REPRESENTANTES. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "JURISDICCION CONTENCIOSO ADMINISTRATIVA",
+      "subtema": null
+    },
+    {
+      "tema": "MEDIO DE DEFENSA JUDICIAL",
+      "subtema": null
+    },
+    {
+      "tema": "CAMARA DE REPRESENTANTES",
+      "subtema": null
+    },
+    {
+      "tema": "COMISION DE ETICA",
+      "subtema": null
+    }
+  ]
+}

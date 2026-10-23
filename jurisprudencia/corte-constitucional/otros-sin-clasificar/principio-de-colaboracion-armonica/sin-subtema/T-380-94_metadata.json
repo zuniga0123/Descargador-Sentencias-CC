@@ -1,0 +1,52 @@
+{
+  "radicado": "T-380-94",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1994,
+  "fecha_creacion": "1994-08-31",
+  "magistrado_ponente": "Dr HERNANDO HERRERA VERGARA",
+  "area": "Otros - Sin clasificar",
+  "tema": "PRINCIPIO DE COLABORACION ARMONICA",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Decreto 77 de 1987",
+    "Decreto 753 de 1956",
+    "Ley 126 de 1938"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1994/T-380-94.htm",
+  "fecha_descarga": "2026-10-23T08:44:18.770285+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1994-08-31",
+  "fecha_publicacion": null,
+  "numero": "T-380/94",
+  "tipo_cc": "T",
+  "prov_id": "12100",
+  "tema_relatoria": "DER. A LA EDUCACION AFECTADO POR EL CORTE DE FLUIDO ELECTRICO POR PARTE DE LA ELECTRIFICADORA A UN COLEGIO. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "PRINCIPIO DE COLABORACION ARMONICA",
+      "subtema": null
+    },
+    {
+      "tema": "SERVICIOS PÚBLICOS",
+      "subtema": "Finalidad"
+    },
+    {
+      "tema": "ESTABLECIMIENTO EDUCATIVO",
+      "subtema": "Suspensión del servicio de energía"
+    },
+    {
+      "tema": "SERVICIO PUBLICO DE ENERGIA",
+      "subtema": "Continuidad"
+    },
+    {
+      "tema": "SERVICIOS PÚBLICOS",
+      "subtema": "Pago por entidades estatales"
+    }
+  ]
+}

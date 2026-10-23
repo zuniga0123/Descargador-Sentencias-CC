@@ -1,0 +1,59 @@
+{
+  "radicado": "C-402-95",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1995,
+  "fecha_creacion": "1995-09-07",
+  "magistrado_ponente": "Dr CARLOS GAVIRIA DÍAZ",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "CONVENIO INTERNACIONAL",
+  "subtema": "Alcance",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2067 de 1991",
+    "Ley 173 de 1994",
+    "Ley 12 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1995/C-402-95.htm",
+  "fecha_descarga": "2026-10-23T08:23:30.778607+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1995-09-07",
+  "fecha_publicacion": null,
+  "numero": "C-402/95",
+  "tipo_cc": "C",
+  "prov_id": "12766",
+  "tema_relatoria": "REVISION DE LA LEY 173/94. CONVENIO SOBRE ASPECTOS CIVILES DEL SECUESTRO INTERNACIONAL DE NIÑOS. EXEQUIBLE.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "CONVENIO INTERNACIONAL",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "DERECHO DE VISITA",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "PREVALENCIA DELOS DERECHOS DEL NIÑO",
+      "subtema": null
+    },
+    {
+      "tema": "DERECHO DE GUARDA",
+      "subtema": null
+    },
+    {
+      "tema": "CONVENIO DE ASPECTOS CIVILES DEL SECUESTRO INTERNACIONAL DE NIÑOS",
+      "subtema": null
+    },
+    {
+      "tema": "CONVENIO DE RETENCION DE MENOR FUERA DEL TERRITORIO",
+      "subtema": "Ejercicio derecho de visita por tiempo diferente"
+    },
+    {
+      "tema": "CONVENIO INTERNACIONAL",
+      "subtema": "Constitucionalidad"
+    }
+  ]
+}

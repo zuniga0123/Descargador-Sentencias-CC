@@ -1,0 +1,55 @@
+{
+  "radicado": "T-303-94",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1994,
+  "fecha_creacion": "1994-07-01",
+  "magistrado_ponente": null,
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "PODER DISCRECIONAL",
+  "subtema": "Naturaleza",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 666 de 1992",
+    "Decreto 2591 de 1991",
+    "Decreto 2241 de 1993"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1994/T-303-94.htm",
+  "fecha_descarga": "2026-10-23T08:31:18.859135+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1994-07-01",
+  "fecha_publicacion": null,
+  "numero": "T-303/94",
+  "tipo_cc": "T",
+  "prov_id": "12016",
+  "tema_relatoria": "DEBIDO PROCESO. FACULTAD DISCRECIONAL. REVOCATORIA DE VISA DE RESIDENTE. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "PODER DISCRECIONAL",
+      "subtema": "Naturaleza"
+    },
+    {
+      "tema": "PREVALENCIA DEL INTERES GENERAL",
+      "subtema": null
+    },
+    {
+      "tema": "DEBIDO PROCESO",
+      "subtema": null
+    },
+    {
+      "tema": "PRINCIPIO DE LEGALIDAD",
+      "subtema": null
+    },
+    {
+      "tema": "DISCRECIONALIDAD",
+      "subtema": "Concepto"
+    },
+    {
+      "tema": "VISA DE RESIDENTE",
+      "subtema": "Cancelación"
+    }
+  ]
+}

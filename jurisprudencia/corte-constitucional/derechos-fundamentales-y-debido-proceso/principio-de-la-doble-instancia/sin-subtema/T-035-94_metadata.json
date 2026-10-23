@@ -1,0 +1,46 @@
+{
+  "radicado": "T-035-94",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1994,
+  "fecha_creacion": "1994-02-02",
+  "magistrado_ponente": "Dr JOSE GREGORIO HERNANDEZ GALINDO",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "PRINCIPIO DE LA DOBLE INSTANCIA",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 45 de 1990"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1994/T-035-94.htm",
+  "fecha_descarga": "2026-10-23T08:40:54.072344+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1994-02-02",
+  "fecha_publicacion": null,
+  "numero": "T-035/94",
+  "tipo_cc": "T",
+  "prov_id": "11737",
+  "tema_relatoria": "IMPUGNACION DE LOS FALLOS DE TUTELA. TUTELA CONTRA SENTENCIAS. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "PRINCIPIO DE LA DOBLE INSTANCIA",
+      "subtema": null
+    },
+    {
+      "tema": "IMPUGNACIÓN FALLO DE TUTELA",
+      "subtema": null
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Rechazo in limine"
+    },
+    {
+      "tema": "JUEZ COMPETENTE",
+      "subtema": "Superior jerárquico"
+    }
+  ]
+}

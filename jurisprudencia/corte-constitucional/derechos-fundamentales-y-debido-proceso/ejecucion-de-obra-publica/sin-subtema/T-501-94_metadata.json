@@ -1,0 +1,59 @@
+{
+  "radicado": "T-501-94",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1994,
+  "fecha_creacion": "1994-11-04",
+  "magistrado_ponente": "Dr VLADIMIRO NARANJO MESA",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "EJECUCION DE OBRA PUBLICA",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 65 de 1993",
+    "Decreto 398 de 1994"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1994/T-501-94.htm",
+  "fecha_descarga": "2026-10-23T08:26:39.913519+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1994-11-04",
+  "fecha_publicacion": null,
+  "numero": "T-501/94",
+  "tipo_cc": "T",
+  "prov_id": "12228",
+  "tema_relatoria": "DER. A LA INTIMIDAD. DER. A LA DIGNIDAD. DER. DE PETICION. IRREGULARIDADES EN LA CARCEL DE STA ROSA DE CABAL. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "EJECUCION DE OBRA PUBLICA",
+      "subtema": null
+    },
+    {
+      "tema": "JUEZ DE TUTELA",
+      "subtema": "Derechos no invocados"
+    },
+    {
+      "tema": "ESTABLECIMIENTO CARCELARIO",
+      "subtema": "Restricción de derechos"
+    },
+    {
+      "tema": "PREVALENCIA DE LOS DERECHOS FUNDAMENTALES",
+      "subtema": null
+    },
+    {
+      "tema": "DERECHOS DEL INTERNO",
+      "subtema": "Normas carcelarias"
+    },
+    {
+      "tema": "DERECHO A LA INTIMIDAD PERSONAL Y FAMILIAR",
+      "subtema": "Núcleo esencial"
+    },
+    {
+      "tema": "DERECHO A LA INTIMIDAD PERSONAL Y FAMILIAR",
+      "subtema": "Límites"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "radicado": "T-006-94",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1994,
+  "fecha_creacion": "1994-01-17",
+  "magistrado_ponente": "Dr VLADIMIRO NARANJO MESA",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "DEMANDA DE INCONSTITUCIONALIDAD",
+  "subtema": "Diferencias",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 3404 de 1983",
+    "Decreto 2591 de 1991",
+    "Decreto 3404 de 1993",
+    "Decreto 3304 de 1983",
+    "Decreto 2351 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1994/T-006-94.htm",
+  "fecha_descarga": "2026-10-23T08:28:18.603577+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1994-01-17",
+  "fecha_publicacion": null,
+  "numero": "T-006/94",
+  "tipo_cc": "T",
+  "prov_id": "11708",
+  "tema_relatoria": "DEBIDO PROCESO. PROCURADOR GRAL. RECUSACION. EXCEPCION DE INCONSTITUCIONALIDAD. EXISTENCIA DE OTRO MEDIO DE DEFENSA. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "Diferencias"
+    },
+    {
+      "tema": "EXCEPCIÓN DE INCONSTITUCIONALIDAD",
+      "subtema": "Naturaleza"
+    },
+    {
+      "tema": "MEDIO DE DEFENSA JUDICIAL",
+      "subtema": "Eficacia"
+    },
+    {
+      "tema": "PROCURADOR GENERAL DE LA NACION",
+      "subtema": null
+    },
+    {
+      "tema": "PROCURADOR AD HOC",
+      "subtema": null
+    },
+    {
+      "tema": "CESACION DE LA ACTUACION IMPUGNADA",
+      "subtema": null
+    },
+    {
+      "tema": "EXCEPCIÓN DE INCONSTITUCIONALIDAD",
+      "subtema": "Diferencias"
+    },
+    {
+      "tema": "PROCURADOR GENERAL DE LA NACION",
+      "subtema": "Recusación"
+    }
+  ]
+}

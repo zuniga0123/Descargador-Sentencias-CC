@@ -1,0 +1,51 @@
+{
+  "radicado": "C-472-94",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1994,
+  "fecha_creacion": "1994-10-20",
+  "magistrado_ponente": "Dr VLADIMIRO NARANJO MESA Temas",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "FISCAL GENERAL DE LA NACION",
+  "subtema": "Facultad de comisionar",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 81 de 1993",
+    "Decreto 2067 de 1991",
+    "Decreto 2699 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1994/C-472-94.htm",
+  "fecha_descarga": "2026-10-23T08:47:30.418081+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1994-10-20",
+  "fecha_publicacion": null,
+  "numero": "C-472/94",
+  "tipo_cc": "C",
+  "prov_id": "12181",
+  "tema_relatoria": "LEY 81/93. ART. 17. FACULTADES DEL FISCAL PARA CALIFICAR LAS INVESTIGACIONES DE FUNCIONARIOS CON FUERO Y PARA DELEGAR FUNCIONES. EXEQ E INEXEQ.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "FISCAL GENERAL DE LA NACION",
+      "subtema": "Facultad de comisionar"
+    },
+    {
+      "tema": "FISCAL GENERAL DE LA NACION",
+      "subtema": "Calificación de investigaciones"
+    },
+    {
+      "tema": "FUNCIONARIO CON FUERO",
+      "subtema": null
+    },
+    {
+      "tema": "FUNCIONARIO CON FUERO",
+      "subtema": "Investigación"
+    },
+    {
+      "tema": "FISCAL GENERAL DE LA NACION",
+      "subtema": "Facultad indelegable"
+    }
+  ]
+}

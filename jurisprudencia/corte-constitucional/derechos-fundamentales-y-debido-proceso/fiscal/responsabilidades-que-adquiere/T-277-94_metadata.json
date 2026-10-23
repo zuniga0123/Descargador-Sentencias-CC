@@ -1,0 +1,50 @@
+{
+  "radicado": "T-277-94",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1994,
+  "fecha_creacion": "1994-06-15",
+  "magistrado_ponente": "Dr Carlos Gaviria Díaz",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "FISCAL",
+  "subtema": "Responsabilidades que adquiere",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 30 de 1986",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1994/T-277-94.htm",
+  "fecha_descarga": "2026-10-23T08:30:41.644743+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1994-06-15",
+  "fecha_publicacion": null,
+  "numero": "T-277/94",
+  "tipo_cc": "T",
+  "prov_id": "11988",
+  "tema_relatoria": "PRIVACION DE LA LIBERTAD. UNIDAD FAMILIAR. DER. A LA VIDA. TRASLADO DE RECLUSO A CARCEL DE OTRA CIUDAD. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "FISCAL",
+      "subtema": "Responsabilidades que adquiere"
+    },
+    {
+      "tema": "LIBERTAD PERSONAL",
+      "subtema": null
+    },
+    {
+      "tema": "DERECHO A LA VIDA",
+      "subtema": "Conservación de la salud"
+    },
+    {
+      "tema": "DERECHOS DEL INTERNO",
+      "subtema": "Unidad familiar"
+    },
+    {
+      "tema": "RECLUSION CARCELARIA",
+      "subtema": "Condiciones de alta seguridad"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "radicado": "T-186-94",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1994,
+  "fecha_creacion": "1994-04-18",
+  "magistrado_ponente": "Antonio Barrera Carbonell",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCION DE TUTELA CONTRA CONYUGE",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Decreto 2272 de 1989"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1994/T-186-94.htm",
+  "fecha_descarga": "2026-10-23T08:33:48.597910+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1994-04-18",
+  "fecha_publicacion": null,
+  "numero": "T-186/94",
+  "tipo_cc": "T",
+  "prov_id": "11894",
+  "tema_relatoria": "REGULACION DE VISITAS. TUTELA TEMERARIA. MEDIO DE DEFENSA JUDICIAL NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCION DE TUTELA CONTRA CONYUGE",
+      "subtema": null
+    },
+    {
+      "tema": "JURISDICCION DE FAMILIA",
+      "subtema": null
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA DEFENSOR DEL MENOR",
+      "subtema": null
+    },
+    {
+      "tema": "REGIMEN DE VISITAS",
+      "subtema": null
+    },
+    {
+      "tema": "ACCION DE TUTELA TEMERARIA",
+      "subtema": "Advertencia de haber presentado otra"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "radicado": "T-332-94",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1994,
+  "fecha_creacion": "1994-07-19",
+  "magistrado_ponente": "Dr Hernando Herrera Vergara",
+  "area": "Otros - Sin clasificar",
+  "tema": "DERECHO A LA CANCELACION DE HIPOTECA",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1994/T-332-94.htm",
+  "fecha_descarga": "2026-10-23T08:32:02.778915+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1994-07-19",
+  "fecha_publicacion": null,
+  "numero": "T-332/94",
+  "tipo_cc": "T",
+  "prov_id": "12046",
+  "tema_relatoria": "DESCONOCIMIENTO DEL DER. DE PROPIEDAD. REFINANCIAMIENTO DE LA DEUDA CON EL INURBE. TORPEZA ESTATAL. NEGLIGENCIA DE AUTORIDAD AD/TIVA. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA CANCELACION DE HIPOTECA",
+      "subtema": null
+    },
+    {
+      "tema": "PRINCIPIO NEMO AUDITUR PROPIAM TURPITUDINEM ALLEGANS",
+      "subtema": null
+    },
+    {
+      "tema": "DERECHO A LA PROPIEDAD",
+      "subtema": null
+    },
+    {
+      "tema": "ERROR ESTATAL",
+      "subtema": null
+    },
+    {
+      "tema": "INURBE",
+      "subtema": "Refinanciación de créditos"
+    }
+  ]
+}

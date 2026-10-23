@@ -1,0 +1,48 @@
+{
+  "radicado": "T-285-94",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1994,
+  "fecha_creacion": "1994-06-16",
+  "magistrado_ponente": null,
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "UNIVERSIDAD JAVERIANA",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 16 de 1972",
+    "Decreto 2591 de 1991",
+    "Ley 20 de 1974",
+    "Ley 25 de 1992"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1994/T-285-94.htm",
+  "fecha_descarga": "2026-10-23T08:30:49.254002+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1994-06-16",
+  "fecha_publicacion": null,
+  "numero": "T-285/94",
+  "tipo_cc": "T",
+  "prov_id": "11996",
+  "tema_relatoria": "TUTELA CONTRA PARTICULARES. SUPLANTACION DE JURISDICCION ECLESIASTICA. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "UNIVERSIDAD JAVERIANA",
+      "subtema": null
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA PARTICULARES",
+      "subtema": "Legatario testamentario"
+    },
+    {
+      "tema": "JURISDICCION ECLESIASTICA",
+      "subtema": "Autonomía"
+    },
+    {
+      "tema": "TRIBUNAL ECLESIASTICO",
+      "subtema": "Decisiones"
+    }
+  ]
+}
