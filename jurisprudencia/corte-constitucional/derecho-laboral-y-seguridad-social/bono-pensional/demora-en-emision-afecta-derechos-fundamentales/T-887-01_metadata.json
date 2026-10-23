@@ -1,0 +1,51 @@
+{
+  "radicado": "T-887-01",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2001,
+  "fecha_creacion": "2001-08-16",
+  "magistrado_ponente": "Dr EDUARDO MONTEALEGRE LYNETT",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "BONO PENSIONAL",
+  "subtema": "Demora en emisión afecta derechos fundamentales",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Decreto 266 de 2000",
+    "Ley 33 de 1985"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2001/T-887-01.htm",
+  "fecha_descarga": "2026-10-23T01:15:45.524145+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2001-08-16",
+  "fecha_publicacion": "2001-08-30",
+  "numero": "T-887/01",
+  "tipo_cc": "T",
+  "prov_id": "19614",
+  "tema_relatoria": "DERECHO A LA PENSION DE JUBILACION. LOS TRABAJADORES QUE HAN ADQUIRIDO EL DERECHO NO DEBEN SOPORTAR LA DESIDIA ADMINISTRATIVA PARA RETARDAR A SUS TRABAJADORES EL GOCE PENSIONAL. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "BONO PENSIONAL",
+      "subtema": "Demora en emisión afecta derechos fundamentales"
+    },
+    {
+      "tema": "VIA DE HECHO",
+      "subtema": "Se niega pensión por demora en emisión del bono"
+    },
+    {
+      "tema": "BONO PENSIONAL",
+      "subtema": "No emisión no es obstáculo para obtener pensión de jubilación"
+    },
+    {
+      "tema": "DERECHO DE PETICIÓN",
+      "subtema": "Vulneración"
+    },
+    {
+      "tema": "SEGURO SOCIAL",
+      "subtema": "Negligencia administrativa no puede trasladarse a usuarios"
+    }
+  ]
+}

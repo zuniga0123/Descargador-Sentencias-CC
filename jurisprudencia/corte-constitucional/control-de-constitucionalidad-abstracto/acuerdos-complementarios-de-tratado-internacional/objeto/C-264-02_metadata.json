@@ -1,0 +1,43 @@
+{
+  "radicado": "C-264-02",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2002,
+  "fecha_creacion": "2002-04-16",
+  "magistrado_ponente": "Dr MANUEL JOSE CEPEDA ESPINOSA",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "ACUERDOS COMPLEMENTARIOS DE TRATADO INTERNACIONAL",
+  "subtema": "Objeto",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 673 de 2001",
+    "Decreto 2067 de 1991",
+    "Ley 32 de 1985"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2002/C-264-02.htm",
+  "fecha_descarga": "2026-10-23T01:02:19.581722+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2002-04-16",
+  "fecha_publicacion": null,
+  "numero": "C-264/02",
+  "tipo_cc": "C",
+  "prov_id": "20428",
+  "tema_relatoria": "CONTROL DE CONSTITUCIONALIDAD DEL ACUERDO SOBRE COOPERACION ECONOMICA Y TECNICA CON INDONESIA",
+  "resumen": "LEY 673 DE 2001. ACUERDO SOBRE COOPERACION ECONOMICA Y TECNICA ENTRE COLOMBIA E INDONESIA. PRINCIPIO DE IGUALDAD. EXEQUIBLES.",
+  "titulaciones": [
+    {
+      "tema": "ACUERDOS COMPLEMENTARIOS DE TRATADO INTERNACIONAL",
+      "subtema": "Objeto"
+    },
+    {
+      "tema": "ACUERDO SOBRE COOPERACION ECONOMICA Y TECNICA CON INDONESIA",
+      "subtema": "Control formal y material"
+    },
+    {
+      "tema": "ACUERDOS COMPLEMENTARIOS DE TRATADO INTERNACIONAL",
+      "subtema": "Validez"
+    }
+  ]
+}

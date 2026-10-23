@@ -1,0 +1,39 @@
+{
+  "radicado": "T-932-01",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2001,
+  "fecha_creacion": "2001-08-30",
+  "magistrado_ponente": "Dra CLARA INES VARGAS HERNANDEZ",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "CABILDO DE INDIGENA",
+  "subtema": "Reglas para elección de gobernador",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 89 de 1890",
+    "Decreto 2591 de 1991",
+    "Decreto 2001 de 1998"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2001/T-932-01.htm",
+  "fecha_descarga": "2026-10-23T01:15:23.878257+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2001-08-30",
+  "fecha_publicacion": "2001-09-06",
+  "numero": "T-932/01",
+  "tipo_cc": "T",
+  "prov_id": "19663",
+  "tema_relatoria": "DERECHO DE PETICION E IGUALDAD. DERECHO A PARTICIPAR EN LA CONFORMACION EJERCICIO Y CONTROL DEL PODER POLITICO. EXPULSION DEL ACTOR DE LA JORNADA ELECTORAL POR EL CABILDO PUES YA HABIA SIDO GOBERNADOR DEL CABILDO ANTERIORMENTE. CONCEDIDA PARCIALMENTE.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "CABILDO DE INDIGENA",
+      "subtema": "Reglas para elección de gobernador"
+    },
+    {
+      "tema": "MEDIO DE DEFENSA JUDICIAL",
+      "subtema": "Elección de gobernador indígena"
+    }
+  ]
+}

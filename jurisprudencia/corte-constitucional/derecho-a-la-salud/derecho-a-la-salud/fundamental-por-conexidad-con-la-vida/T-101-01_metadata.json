@@ -1,0 +1,38 @@
+{
+  "radicado": "T-101-01",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2001,
+  "fecha_creacion": "2001-01-31",
+  "magistrado_ponente": "Dra CRISTINA PARDO SCHLESINGER",
+  "area": "Derecho a la Salud",
+  "tema": "DERECHO A LA SALUD",
+  "subtema": "Fundamental por conexidad con la vida",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 100 de 1993"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2001/T-101-01.htm",
+  "fecha_descarga": "2026-10-23T01:17:52.540876+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2001-01-31",
+  "fecha_publicacion": null,
+  "numero": "T-101/01",
+  "tipo_cc": "T",
+  "prov_id": "18573",
+  "tema_relatoria": "DERECHO A LA SALUD VIDA Y SEGURIDAD SOCIAL DE PERSONA DE LA TERCERA EDAD. SUMINISTRO GASTOS MEDICOS REQUERIDOS. MORA EN EL PAGO DE APORTES POR EMPLEADOR. ACERIAS PAZ DEL RIO. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Fundamental por conexidad con la vida"
+    },
+    {
+      "tema": "EMPLEADOR",
+      "subtema": "Asunción de responsabilidad por mora en aportes en salud"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "radicado": "T-079-01",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2001,
+  "fecha_creacion": "2001-01-29",
+  "magistrado_ponente": "Dr FABIO MORON DIAZ",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "DEBIDO PROCESO",
+  "subtema": "Ampliación resguardo indígena",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 59 de 1938",
+    "Decreto 2164 de 1995",
+    "Ley 160 de 1994",
+    "Ley 393 de 1997",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2001/T-079-01.htm",
+  "fecha_descarga": "2026-10-23T01:19:44.780445+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2001-01-29",
+  "fecha_publicacion": null,
+  "numero": "T-079/01",
+  "tipo_cc": "T",
+  "prov_id": "18550",
+  "tema_relatoria": "DERECHO DE PETICION. NUCLEO ESENCIAL. SOLICITUD AMPLIACION DEL RESGUARDO INDIGENA DE QUIZGO. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DEBIDO PROCESO",
+      "subtema": "Ampliación resguardo indígena"
+    },
+    {
+      "tema": "DERECHO DE PETICIÓN",
+      "subtema": "Pronta resolución"
+    },
+    {
+      "tema": "DERECHOS FUNDAMENTALES DE PERSONA JURIDICA",
+      "subtema": "Señalamiento de los que resultan aplicables y protección por tutela"
+    },
+    {
+      "tema": "DOCTRINA CONSTITUCIONAL SOBRE ACCION DE CUMPLIMIENTO",
+      "subtema": null
+    },
+    {
+      "tema": "DERECHO DE PETICIÓN",
+      "subtema": "Resolución oportuna y de fondo"
+    },
+    {
+      "tema": "DERECHOS FUNDAMENTALES DE PERSONA JURIDICA",
+      "subtema": "Doctrina constitucional"
+    },
+    {
+      "tema": "DERECHO DE PETICIÓN",
+      "subtema": "Núcleo esencial"
+    }
+  ]
+}

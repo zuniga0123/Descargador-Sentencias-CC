@@ -1,0 +1,47 @@
+{
+  "radicado": "T-1271-01",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2001,
+  "fecha_creacion": "2001-11-30",
+  "magistrado_ponente": "Dr ALVARO TAFUR GALVIS",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "ACCIÓN DE TUTELA",
+  "subtema": "Improcedencia restablecimiento de derechos de trabajadores con fuero sindical",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 50 de 1990",
+    "Decreto 2591 de 1991",
+    "Decreto 2351 de 1965"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2001/T-1271-01.htm",
+  "fecha_descarga": "2026-10-23T01:17:19.960249+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2001-11-30",
+  "fecha_publicacion": "2001-02-11",
+  "numero": "T-1271/01",
+  "tipo_cc": "T",
+  "prov_id": "20058",
+  "tema_relatoria": "DERECHOS A LA LIBRE ASOCIACION SINDICAL NEGOCIACION Y CONTRATACION COLECTIVA TRABAJO Y LIBRE LOCOMOCION. SOLICITUD DE REINTEGRO TRABAJADORES DESPEDIDOS Y REUBICACION A QUIENES FUERON DESMEJORADOS. IMPROCEDENCIA GENERAL DE LA TUTELA EN MATERIA LABORAL. EXI",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Improcedencia restablecimiento de derechos de trabajadores con fuero sindical"
+    },
+    {
+      "tema": "ACCION DE REINTEGRO DE TRABAJADOR CON FUERO SINDICAL",
+      "subtema": "Protección de derechos fundamentales por despido sin previa calificación judicial"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Improcedencia general sobre controversias laborales"
+    },
+    {
+      "tema": "MEDIO DE DEFENSA JUDICIAL",
+      "subtema": "Determinación legalidad o ilegalidad del despido"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "radicado": "T-767-01",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2001,
+  "fecha_creacion": "2001-07-19",
+  "magistrado_ponente": "Dr EDUARDO MONTEALEGRE LYNETT",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCION DE TUTELA PARA LA PROTECCION DE DERECHOS COLECTIVOS CUANDO EXISTE VULNERACION DE DERECHOS FUNDAMENTALES",
+  "subtema": "Requisitos de procedencia excepcional",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2001/T-767-01.htm",
+  "fecha_descarga": "2026-10-23T01:16:03.963012+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2001-07-19",
+  "fecha_publicacion": "2001-08-09",
+  "numero": "T-767/01",
+  "tipo_cc": "T",
+  "prov_id": "19481",
+  "tema_relatoria": "DERECHO DE PETICION. MEDIO AMBIENTE Y SALUBRIDAD. SOLICITUD DE INSTALACION DEFINITIVA DE LOS MEDIDORES DE AGUA RECOLECCION DE BASURAS Y CANALIZACION JUNTO CON SANEAMIENTO DE UN CAÑO DE AGUAS NEGRAS. NO HAY PRUEBAS QUE CORROBOREN TAL AFECTACION. EXISTENCIA",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCION DE TUTELA PARA LA PROTECCION DE DERECHOS COLECTIVOS CUANDO EXISTE VULNERACION DE DERECHOS FUNDAMENTALES",
+      "subtema": "Requisitos de procedencia excepcional"
+    },
+    {
+      "tema": "INDEFENSION",
+      "subtema": "Debilidad manifiesta"
+    },
+    {
+      "tema": "INTERES COLECTIVO",
+      "subtema": "Procedencia excepcional de tutela"
+    },
+    {
+      "tema": "ACCION DE TUTELA TRANSITORIA",
+      "subtema": "Inexistencia de perjuicio irremediable"
+    },
+    {
+      "tema": "ACCION POPULAR",
+      "subtema": "Recolección de basuras"
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA PARTICULARES",
+      "subtema": "Fundamento"
+    },
+    {
+      "tema": "ACCION POPULAR",
+      "subtema": "Caño de aguas negras"
+    },
+    {
+      "tema": "MEDIO DE DEFENSA JUDICIAL",
+      "subtema": "Eficacia y proporcionalidad"
+    }
+  ]
+}

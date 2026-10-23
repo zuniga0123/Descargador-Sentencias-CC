@@ -1,0 +1,48 @@
+{
+  "radicado": "T-883-01",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2001,
+  "fecha_creacion": "2001-08-09",
+  "magistrado_ponente": "Dr EDUARDO MONTEALEGRE LYNETT",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "ACCION DE TUTELA TEMERARIA",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Decreto 1748 de 1995",
+    "Decreto 1474 de 1997",
+    "Decreto 1513 de 1998"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2001/T-883-01.htm",
+  "fecha_descarga": "2026-10-23T01:15:38.418208+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2001-08-09",
+  "fecha_publicacion": "2001-08-30",
+  "numero": "T-883/01",
+  "tipo_cc": "T",
+  "prov_id": "19575",
+  "tema_relatoria": "DERECHO AL MINIMO VITAL DE PERSONA DE LA TERCERA EDAD. RECONOCIMIENTO Y PAGO DE PENSION DE JUBILACION. TUTELA TEMERARIA. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCION DE TUTELA TEMERARIA",
+      "subtema": null
+    },
+    {
+      "tema": "PRINCIPIO DE LA BUENA FE",
+      "subtema": "Observancia general"
+    },
+    {
+      "tema": "PROFESIONAL DEL DERECHO",
+      "subtema": "Verificación de los hechos expuestos a través de las pruebas"
+    },
+    {
+      "tema": "TEMERIDAD O MALA FE",
+      "subtema": "Uso indebido de la tutela"
+    }
+  ]
+}

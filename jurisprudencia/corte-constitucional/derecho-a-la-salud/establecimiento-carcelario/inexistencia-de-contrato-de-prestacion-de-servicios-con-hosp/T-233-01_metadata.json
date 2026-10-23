@@ -1,0 +1,41 @@
+{
+  "radicado": "T-233-01",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2001,
+  "fecha_creacion": "2001-02-26",
+  "magistrado_ponente": "Dr EDUARDO MONTEALEGRE LYNETT",
+  "area": "Derecho a la Salud",
+  "tema": "ESTABLECIMIENTO CARCELARIO",
+  "subtema": "Inexistencia de contrato de prestación de servicios con hospitales no lo exime de cuidar salud del interno",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2001/T-233-01.htm",
+  "fecha_descarga": "2026-10-23T01:20:49.590576+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2001-02-26",
+  "fecha_publicacion": null,
+  "numero": "T-233/01",
+  "tipo_cc": "T",
+  "prov_id": "18755",
+  "tema_relatoria": "DERECHO A LA SALUD Y VIDA DE LOS RECLUSOS. SOLICITUD PRACTICA DE CIRUGIA. VIGENCIA CONTRATO DE PRESTACION DE SERVICIOS DE SALUD CON CENTROS HOSPITALARIOS. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ESTABLECIMIENTO CARCELARIO",
+      "subtema": "Inexistencia de contrato de prestación de servicios con hospitales no lo exime de cuidar salud del interno"
+    },
+    {
+      "tema": "DERECHO A LA SALUD DEL INTERNO",
+      "subtema": "Protección aunque no se encuentre en circunstancia extrema"
+    },
+    {
+      "tema": "DERECHO A LA SALUD DEL INTERNO",
+      "subtema": "Atención médica, adecuada, digna y oportuna"
+    }
+  ]
+}

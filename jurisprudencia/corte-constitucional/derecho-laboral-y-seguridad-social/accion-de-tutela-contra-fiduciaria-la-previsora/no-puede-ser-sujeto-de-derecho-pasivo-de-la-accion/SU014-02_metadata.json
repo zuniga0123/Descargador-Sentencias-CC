@@ -1,0 +1,55 @@
+{
+  "radicado": "SU014-02",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2002,
+  "fecha_creacion": "2002-01-23",
+  "magistrado_ponente": "Dr ALVARO TAFUR GALVIS",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "ACCION DE TUTELA CONTRA FIDUCIARIA LA PREVISORA",
+  "subtema": "No puede ser sujeto de derecho pasivo de la acción",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2234 de 1998",
+    "Decreto 1775 de 1990",
+    "Ley 91 de 1989",
+    "Ley 115 de 1994",
+    "Decreto 2591 de 1991",
+    "Ley 344 de 1996",
+    "Decreto 1547 de 1984",
+    "Ley 60 de 1993",
+    "Decreto 133 de 1976",
+    "Decreto 1050 de 1968",
+    "Ley 489 de 1998"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2002/SU014-02.htm",
+  "fecha_descarga": "2026-10-23T01:14:29.243584+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2002-01-23",
+  "fecha_publicacion": null,
+  "numero": "SU.014/02",
+  "tipo_cc": "SU",
+  "prov_id": "20144",
+  "tema_relatoria": "DERECHO DE PETICION Y VIVIENDA DE DOCENTES. SOLICITUD RECONOCIMIENTO Y PAGO CESANTIAS PARCIALES. RESPUESTA CLARA Y OPORTUNA. EXPEDICION ACTO ADMINISTRATIVO. DISPONIBILIDAD PRESUPUESTAL. DEBERES DEL JUEZ. TUTELA CONTRA PARTICULARES. FONDO DE PRESTACIONES S",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCION DE TUTELA CONTRA FIDUCIARIA LA PREVISORA",
+      "subtema": "No puede ser sujeto de derecho pasivo de la acción"
+    },
+    {
+      "tema": "FIDUCIARIA LA PREVISORA",
+      "subtema": "No puede ser sujeto pasivo de la tutela"
+    },
+    {
+      "tema": "FIDUCIARIA LA PREVISORA",
+      "subtema": "Respuesta sobre solicitud de cesantías parciales de docentes"
+    },
+    {
+      "tema": "FONDO NACIONAL DE PRESTACIONES SOCIALES DEL MAGISTERIO",
+      "subtema": "Reconocimiento de cesantías parciales"
+    }
+  ]
+}

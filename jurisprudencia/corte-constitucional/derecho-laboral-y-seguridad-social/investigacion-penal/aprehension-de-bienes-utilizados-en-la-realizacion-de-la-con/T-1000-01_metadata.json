@@ -1,0 +1,82 @@
+{
+  "radicado": "T-1000-01",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2001,
+  "fecha_creacion": "2001-09-18",
+  "magistrado_ponente": "Dr RODRIGO ESCOBAR GIL",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "INVESTIGACION PENAL",
+  "subtema": "Aprehensión de bienes utilizados en la realización de la conducta punible",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 270 de 1996"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2001/T-1000-01.htm",
+  "fecha_descarga": "2026-10-23T01:19:59.252321+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2001-09-18",
+  "fecha_publicacion": null,
+  "numero": "T-1000/01",
+  "tipo_cc": "T",
+  "prov_id": "19727",
+  "tema_relatoria": "DERECHO AL TRABAJO Y SUBSISTENCIA. INMOVILIZACION DE TAXI EN PATIO O PARQUEADERO. PAGO DE LOS SERVICIOS. CUMPLIMIENTO DE MANDATO JUDICIAL. ENTREGA INCONDICIONAL. TUTELA FRENTE A PARTICULARES. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "INVESTIGACION PENAL",
+      "subtema": "Aprehensión de bienes utilizados en la realización de la conducta punible"
+    },
+    {
+      "tema": "VEHICULO RETENIDO EN PATIOS",
+      "subtema": null
+    },
+    {
+      "tema": "AUTORIDAD JUDICIAL",
+      "subtema": "Debe cubrir los gastos de conservación y cuidado de automotor retenido"
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA PARTICULARES",
+      "subtema": "Procedencia excepcional"
+    },
+    {
+      "tema": "VEHICULO RETENIDO EN PARQUEADERO",
+      "subtema": null
+    },
+    {
+      "tema": "DERECHO A LA SUBSISTENCIA",
+      "subtema": "Utilización de taxi retenido como medio económico"
+    },
+    {
+      "tema": "DERECHO AL TRABAJO",
+      "subtema": "Utilización de taxi retenido como medio económico"
+    },
+    {
+      "tema": "DERECHO A LA PROPIEDAD",
+      "subtema": "Fundamental por conexidad"
+    },
+    {
+      "tema": "SENTENCIA",
+      "subtema": "Cumplimiento"
+    },
+    {
+      "tema": "VEHICULO APREHENDIDO",
+      "subtema": "Lugares especiales de custodia"
+    },
+    {
+      "tema": "VEHICULO RETENIDO EN PATIOS",
+      "subtema": "Inexistencia de relación contractual"
+    },
+    {
+      "tema": "VEHICULO RETENIDO EN PATIOS O PARQUEADERO",
+      "subtema": "Cancelación de expensas"
+    },
+    {
+      "tema": "PERJUICIO IRREMEDIABLE",
+      "subtema": "Elementos para que se configure"
+    }
+  ]
+}

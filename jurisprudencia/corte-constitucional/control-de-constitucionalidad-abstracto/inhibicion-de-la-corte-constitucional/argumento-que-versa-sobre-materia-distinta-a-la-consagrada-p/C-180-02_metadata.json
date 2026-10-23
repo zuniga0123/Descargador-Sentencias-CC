@@ -1,0 +1,49 @@
+{
+  "radicado": "C-180-02",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2002,
+  "fecha_creacion": "2002-03-13",
+  "magistrado_ponente": "Dr JAIME CÓRDOBA TRIVIÑO",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "INHIBICION DE LA CORTE CONSTITUCIONAL",
+  "subtema": "Argumento que versa sobre materia distinta a la consagrada por norma acusada",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto Ley 262 de 2000",
+    "Decreto 2067 de 1991",
+    "Ley 573 de 2000",
+    "Ley 262 de 2000",
+    "Ley 228 de 1995"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2002/C-180-02.htm",
+  "fecha_descarga": "2026-10-23T01:10:00.716001+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2002-03-13",
+  "fecha_publicacion": null,
+  "numero": "C-180/02",
+  "tipo_cc": "C",
+  "prov_id": "20333",
+  "tema_relatoria": "FALLO INHIBITORIO POR INEPTITUD DE DEMANDA DE INCONSTITUCIONALIDAD CONTRA NORMA DEL DECRETO LEY 262 DE 2000",
+  "resumen": "DECRETO 262 DE 2000. ART. 158 (P.). ESTRUCTURA Y ORGANIZACION DE LA PROCURADURIA E INSTITUTO DE ESTUDIOS DEL MINISTERIO PUBLICO. COMPETENCIAS. FUNCIONAMIENTO. REGIMEN DE CARRERA. INHABILIDADES E INCOMPATIBILIDADES. RETIRO DEFINITIVO DEL SERVICIO DE POR VE",
+  "titulaciones": [
+    {
+      "tema": "INHIBICION DE LA CORTE CONSTITUCIONAL",
+      "subtema": "Argumento que versa sobre materia distinta a la consagrada por norma acusada"
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "Naturaleza pública e informal"
+    },
+    {
+      "tema": "INHIBICION DE LA CORTE CONSTITUCIONAL",
+      "subtema": "Ausencia de requerimiento de cargos"
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "Requisitos mínimos"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "radicado": "T-1013-01",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2001,
+  "fecha_creacion": "2001-09-20",
+  "magistrado_ponente": "Dr ALFREDO BELTRÁN SIERRA",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "PRINCIPIO PRO ACTIONE",
+  "subtema": "Finalidad",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 144 de 1994",
+    "Ley 446 de 1998",
+    "Ley 144 de 1944",
+    "Ley 30 de 1992",
+    "Ley 5 de 1992",
+    "Decreto 196 de 1971",
+    "Decreto 1382 de 2000",
+    "Ley 466 de 1998"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2001/T-1013-01.htm",
+  "fecha_descarga": "2026-10-23T01:17:59.853835+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2001-09-20",
+  "fecha_publicacion": null,
+  "numero": "T-1013/01",
+  "tipo_cc": "T",
+  "prov_id": "19751",
+  "tema_relatoria": "DERECHO A LA IGUALDAD Y DEBIDO PROCESO. ACCESO A LA JUSTICIA. TRAMITE DEL RECURSO EXTRAORDINARIO DE REVISION INTERPUESTO. COMPETENCIA. INDEBIDA REPRESENTACION. PERDIDA DE LA INVESTIDURA. VIA DE HECHO. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "PRINCIPIO PRO ACTIONE",
+      "subtema": "Finalidad"
+    },
+    {
+      "tema": "PERDIDA DE INVESTIDURA DE CONGRESISTA",
+      "subtema": "Competencia de la Sala Contencioso Administrativa del Consejo de Estado"
+    },
+    {
+      "tema": "RECURSO DE REVISION CONTRA SENTENCIA DE PERDIDA DE INVESTIDURA",
+      "subtema": "Juez competente"
+    },
+    {
+      "tema": "RECURSO DE REVISION",
+      "subtema": "Distintas oportunidades de presentación ante el Consejo de Estado"
+    },
+    {
+      "tema": "VIA DE HECHO",
+      "subtema": "Inadmisión recurso extraordinario de revisión por supuesta inhabilidad de apoderada"
+    }
+  ]
+}

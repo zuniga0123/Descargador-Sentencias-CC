@@ -1,0 +1,56 @@
+{
+  "radicado": "C-039-02",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2002,
+  "fecha_creacion": "2002-01-30",
+  "magistrado_ponente": "Dr MANUEL JOSÉ CEPEDA ESPINOSA",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "COSA JUZGADA CONSTITUCIONAL",
+  "subtema": "Reajuste de salarios de servidores públicos",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 628 de 2000",
+    "Decreto 2067 de 1991",
+    "Decreto 25 de 1993",
+    "Decreto 65 de 1994",
+    "Decreto 133 de 1995",
+    "Ley 547 de 1999",
+    "Decreto 1355 de 1970",
+    "Decreto 1222 de 1986"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2002/C-039-02.htm",
+  "fecha_descarga": "2026-10-23T01:02:04.426767+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2002-01-30",
+  "fecha_publicacion": null,
+  "numero": "C-039/02",
+  "tipo_cc": "C",
+  "prov_id": "20172",
+  "tema_relatoria": "COSA JUZGADA CONSTITUCIONAL EN REAJUSTE DE SALARIOS DE SERVIDORES PÚBLICOS",
+  "resumen": "LEY 628 DE 2000. PRESUPUESTO DE RENTAS Y RECURSOS DE CAPITAL. LEY DE APROPIACIONES PARA EL 2001. PRIMA DE ACTUALIZACION A PENSIONADOS DE LAS FUERZAS ARMADAS. INCREMENTO SALARIAL PARA SERVIDORES PUBLICOS. TRATO DISCRIMINATORIO. OMISION LEGISLATIVA.",
+  "titulaciones": [
+    {
+      "tema": "COSA JUZGADA CONSTITUCIONAL",
+      "subtema": "Reajuste de salarios de servidores públicos"
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "Razones del concepto de violación"
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "Claridad para conducencia del concepto de violación"
+    },
+    {
+      "tema": "INHIBICION DE LA CORTE CONSTITUCIONAL",
+      "subtema": "No claridad en argumentación"
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "Requisitos mínimos"
+    }
+  ]
+}

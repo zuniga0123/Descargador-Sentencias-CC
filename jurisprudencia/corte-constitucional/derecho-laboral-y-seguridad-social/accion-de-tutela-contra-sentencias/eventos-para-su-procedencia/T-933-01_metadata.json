@@ -1,0 +1,56 @@
+{
+  "radicado": "T-933-01",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2001,
+  "fecha_creacion": "2001-08-30",
+  "magistrado_ponente": "Dra CLARA INES VARGAS HERNANDEZ",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "ACCION DE TUTELA CONTRA SENTENCIAS",
+  "subtema": "Eventos para su procedencia",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 25 de 1991",
+    "Decreto 2591 de 1991",
+    "Ley 50 de 1990",
+    "Ley 362 de 1997"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2001/T-933-01.htm",
+  "fecha_descarga": "2026-10-23T01:15:27.577908+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2001-08-30",
+  "fecha_publicacion": "2001-09-06",
+  "numero": "T-933/01",
+  "tipo_cc": "T",
+  "prov_id": "19664",
+  "tema_relatoria": "DERECHO AL TRABAJO ADMINISTRACION DE JUSTICIA. DEBIDO PROCESO. ASOCIACION SINDICAL. VIA DE HECHO. DESPIDO POR SUPRESIÓN DEL CARGO. SOLICITUD DE REINTEGRO POR ENCONTRARSE AMPARADA POR EL FUERO SINDICAL. LA TUTELA SE INTERPUSO DESPUES DE VEINTIDOS MESES. NE",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCION DE TUTELA CONTRA SENTENCIAS",
+      "subtema": "Eventos para su procedencia"
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA SENTENCIAS POR INTERPRETACION DE NORMAS",
+      "subtema": "Improcedencia"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Término de presentación"
+    },
+    {
+      "tema": "ACCION DE REINTEGRO DE TRABAJADOR CON FUERO SINDICAL",
+      "subtema": "Término breve de prescripción"
+    },
+    {
+      "tema": "SUPRESION DE CARGOS",
+      "subtema": "Por sustracción de materia no procede reintegro"
+    },
+    {
+      "tema": "VIA DE HECHO",
+      "subtema": "Determinación"
+    }
+  ]
+}

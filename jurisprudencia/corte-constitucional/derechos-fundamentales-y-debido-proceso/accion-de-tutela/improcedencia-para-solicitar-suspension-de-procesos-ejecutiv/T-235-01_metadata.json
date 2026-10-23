@@ -1,0 +1,63 @@
+{
+  "radicado": "T-235-01",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2001,
+  "fecha_creacion": "2001-02-26",
+  "magistrado_ponente": "Dr EDUARDO MONTEALEGRE LYNETT",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCIÓN DE TUTELA",
+  "subtema": "Improcedencia para solicitar suspensión de procesos ejecutivos contra deudores de créditos hipotecarios",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2067 de 1991",
+    "Ley 546 de 1999",
+    "Decreto 2591 de 1991",
+    "Ley 31 de 1992",
+    "Decreto 663 de 1993",
+    "Decreto 1131 de 1984",
+    "Decreto 1319 de 1998"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2001/T-235-01.htm",
+  "fecha_descarga": "2026-10-23T01:20:56.964119+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2001-02-26",
+  "fecha_publicacion": null,
+  "numero": "T-235/01",
+  "tipo_cc": "T",
+  "prov_id": "18757",
+  "tema_relatoria": "DERECHOS A LA DIGNIDAD HUMANA IGUALDAD Y VIVIENDA. INICIACION PROCESO EJECUTIVO POR MORA EN EL PAGO DE CUOTAS. SOLICITUD RELIQUIDACION DE CREDITO HIPOTECARIO SUSPENSION REMATE DEL BIEN Y AMPLIACION DEL TERMINO DE FINANCIACION. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Improcedencia para solicitar suspensión de procesos ejecutivos contra deudores de créditos hipotecarios"
+    },
+    {
+      "tema": "DEMOCRATIZACION DEL CREDITO",
+      "subtema": null
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Improcedencia para resolver discusiones respecto de créditos hipotecarios"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Improcedencia para liquidar créditos hipotecarios"
+    },
+    {
+      "tema": "ACCION DE TUTELA TRANSITORIA",
+      "subtema": "Suspensión del proceso cuando se ha programado diligencia de remate"
+    },
+    {
+      "tema": "JUEZ ORDINARIO",
+      "subtema": "Competencia para garantizar derechos a usuarios del sistema UPAC"
+    },
+    {
+      "tema": "UPAC",
+      "subtema": "Determinación del valor no podrá reflejar movimientos de la tasa de interés en la economía"
+    }
+  ]
+}

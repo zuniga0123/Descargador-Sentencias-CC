@@ -1,0 +1,73 @@
+{
+  "radicado": "C-044-02",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2002,
+  "fecha_creacion": "2002-01-30",
+  "magistrado_ponente": "Dr RODRIGO ESCOBAR GIL",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "PRINCIPIO DE CONSECUTIVIDAD Y DE IDENTIDAD",
+  "subtema": "Se predican de los proyectos de ley o articulado en conjunto",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 633 de 2000",
+    "Ley 122 de 1994",
+    "Ley 191 de 1995",
+    "Ley 488 de 1998",
+    "Ley 608 de 2000",
+    "Ley 223 de 1995",
+    "Ley 685 de 2001",
+    "Ley 685 de 2000",
+    "Decreto 2067 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2002/C-044-02.htm",
+  "fecha_descarga": "2026-10-23T01:02:00.821209+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2002-01-30",
+  "fecha_publicacion": null,
+  "numero": "C-044/02",
+  "tipo_cc": "C",
+  "prov_id": "20177",
+  "tema_relatoria": "SESION CONJUNTA DE COMISIONES CONSTITUCIONALES. ACTUACIÓN ANTE SIMULTANEIDAD DE DEBATES EN PLENARIAS",
+  "resumen": "LEY 633 DE 2000. ART. 134 (P.). TRATAMIENTO DE LOS FONDOS OBLIGATORIOS PARA LA VIVIENDA DE INTERES SOCIAL. FORTALECIMIENTO FINANZAS DE LA RAMA JUDICIAL. VIGENCIA Y DEROGATORIA. COSA JUZGADA CONSTITUCIONAL. VICIOS DE TRAMITE. INEPTITUD SUSTANTIVA DE LA DEMANDA",
+  "titulaciones": [
+    {
+      "tema": "PRINCIPIO DE CONSECUTIVIDAD Y DE IDENTIDAD",
+      "subtema": "Se predican de los proyectos de ley o articulado en conjunto"
+    },
+    {
+      "tema": "PRINCIPIO DE CONSECUTIVIDAD",
+      "subtema": "Excepciones constitucionales y legales"
+    },
+    {
+      "tema": "COSA JUZGADA CONSTITUCIONAL",
+      "subtema": "Papel de la comisión de conciliación"
+    },
+    {
+      "tema": "COSA JUZGADA RELATIVA",
+      "subtema": "Existencia"
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "Ineptitud de cargos"
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "Cargo derivado de problemas de interpretación"
+    },
+    {
+      "tema": "PRINCIPIO DE CONSECUTIVIDAD",
+      "subtema": "Debate simultáneo en plenarias de Cámaras"
+    },
+    {
+      "tema": "SESION CONJUNTA DE COMISIONES CONSTITUCIONALES",
+      "subtema": "Simultaneidad del segundo debate en cada una de las Cámaras"
+    },
+    {
+      "tema": "SESION CONJUNTA DE COMISIONES CONSTITUCIONALES",
+      "subtema": "Actuación ante simultaneidad de debates en plenarias"
+    }
+  ]
+}

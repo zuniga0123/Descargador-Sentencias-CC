@@ -1,0 +1,749 @@
+{
+  "radicado": "C-1024-02",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2002,
+  "fecha_creacion": "2002-11-26",
+  "magistrado_ponente": null,
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "LIBERTAD PARA FIJACION DE RESIDENCIA Y LIBERTAD DE LOCOMOCION",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2067 de 1991",
+    "Ley 137 de 1994",
+    "Decreto 2002 de 2002",
+    "Ley 684 de 2001",
+    "Decreto 1837 de 2002",
+    "Decreto 717 de 1996",
+    "Ley 74 de 1968",
+    "Ley 16 de 1972",
+    "Decreto 522 de 1971"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2002/C-1024-02.htm",
+  "fecha_descarga": "2026-10-23T01:01:19.628292+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2002-11-26",
+  "fecha_publicacion": null,
+  "numero": "C-1024/02",
+  "tipo_cc": "C",
+  "prov_id": "21484",
+  "tema_relatoria": "SOSPECHA PARA PRIVACION DE LA LIBERTAD EN CONMOCION INTERIOR. CAPTURA VULNERA LA CONSTITUCIÓN",
+  "resumen": "DECRETO LEGISLATIVO 2002 DE 2002. CONTROL DEL ORDEN PUBLICO. ZONAS DE REHABILITACION Y CONSOLIDACION. DECRETO 1837 DE 2002. ESTADO DE CONMOCION INTERIOR. LIMITES. ESTADO DE DERECHO. LIBERTAD PERSONAL. INVIOLABILIDAD DEL DOMICILIO Y COMUNIDADES PRIVADAS.",
+  "titulaciones": [
+    {
+      "tema": "LIBERTAD PARA FIJACION DE RESIDENCIA Y LIBERTAD DE LOCOMOCION",
+      "subtema": null
+    },
+    {
+      "tema": "INSPECCION O REGISTRO NO DOMICILIARIO EN CONMOCION INTERIOR",
+      "subtema": null
+    },
+    {
+      "tema": "RETEN MILITAR O TOQUE DE QUEDA EN CONMOCION INTERIOR",
+      "subtema": null
+    },
+    {
+      "tema": "ZONAS DE REHABILITACION Y CONSOLIDACION EN CONMOCION INTERIOR",
+      "subtema": null
+    },
+    {
+      "tema": "DEBERES DEL EXTRANJERO EN CONMOCION INTERIOR",
+      "subtema": null
+    },
+    {
+      "tema": "DECLARACION DE CONMOCION INTERIOR",
+      "subtema": "Límite temporal"
+    },
+    {
+      "tema": "DECRETO LEGISLATIVO DE CONMOCION INTERIOR",
+      "subtema": "Aplicación indebida de una norma implica inconstitucionalidad"
+    },
+    {
+      "tema": "DECRETO LEGISLATIVO DE CONMOCION INTERIOR",
+      "subtema": "Señalamiento de motivos para limitaciones de derechos"
+    },
+    {
+      "tema": "SOSPECHA E INDICIO PARA PRIVACION DE LA LIBERTAD EN CONMOCION INTERIOR",
+      "subtema": null
+    },
+    {
+      "tema": "DERECHOS INTANGIBLES EN ESTADOS DE EXCEPCION",
+      "subtema": null
+    },
+    {
+      "tema": "FUERZA PUBLICA Y DEPARTAMENTO ADMINISTRATIVO DE SEGURIDAD EN MATERIA DE POLICIA JUDICIAL",
+      "subtema": null
+    },
+    {
+      "tema": "COSA JUZGADA MATERIAL EN CAPTURA SIN ORDEN JUDICIAL EN CONMOCION INTERIOR",
+      "subtema": null
+    },
+    {
+      "tema": "DERECHO A FIJAR LA RESIDENCIA PERSONAL Y FAMILIAR",
+      "subtema": null
+    },
+    {
+      "tema": "CENSO POBLACIONAL EN CONMOCION INTERIOR",
+      "subtema": "Vulneración de la Constitución"
+    },
+    {
+      "tema": "CAPTURA EN CONMOCION INTERIOR",
+      "subtema": "Derecho a entrevistarse inmediatamente con un defensor"
+    },
+    {
+      "tema": "CAPTURA EN CONMOCION INTERIOR",
+      "subtema": "Indicación de motivos"
+    },
+    {
+      "tema": "CAPTURA EN CONMOCION INTERIOR",
+      "subtema": "Silencio sobre destino del capturado, derechos, duración y entrega física"
+    },
+    {
+      "tema": "CAPTURA SIN AUTORIZACION JUDICIAL EN CONMOCION INTERIOR",
+      "subtema": "Indeterminación de la autoridad"
+    },
+    {
+      "tema": "CAPTURA ADMINISTRATIVA",
+      "subtema": "Inexistencia"
+    },
+    {
+      "tema": "CAPTURA EN CONMOCION INTERIOR",
+      "subtema": "Destinatario de transmisión es la autoridad competente con atribuciones de policía judicial"
+    },
+    {
+      "tema": "CAPTURA EN CONMOCION INTERIOR",
+      "subtema": "Desconocimiento de derechos"
+    },
+    {
+      "tema": "CAPTURA EN CONMOCION INTERIOR",
+      "subtema": "Modificación de disposiciones de policía"
+    },
+    {
+      "tema": "CAPTURA EN CONMOCION INTERIOR",
+      "subtema": "Transmisión oral de órdenes judiciales"
+    },
+    {
+      "tema": "DELITO",
+      "subtema": "Inicio de ejecución"
+    },
+    {
+      "tema": "DELITO",
+      "subtema": "Planes de participar en comisión"
+    },
+    {
+      "tema": "CONMOCION INTERIOR",
+      "subtema": "Límites y controles"
+    },
+    {
+      "tema": "CONMOCION INTERIOR",
+      "subtema": "Régimen excepcional limitado"
+    },
+    {
+      "tema": "CONMOCION INTERIOR",
+      "subtema": "Utilización de bienes o servicios de particulares"
+    },
+    {
+      "tema": "CONSTITUCION POLITICA Y LEY ESTATUTARIA DE ESTADOS DE EXCEPCION",
+      "subtema": "Colisión"
+    },
+    {
+      "tema": "CONMOCION INTERIOR",
+      "subtema": "Límites"
+    },
+    {
+      "tema": "COSA JUZGADA ABSOLUTA EN LEY ESTATUTARIA DE ESTADOS DE EXCEPCION",
+      "subtema": "Desconocimiento por contenido literal igual de decreto legislativo"
+    },
+    {
+      "tema": "CONTROL DE CONSTITUCIONALIDAD DE CONMOCION INTERIOR",
+      "subtema": "No incursión en atribuciones políticas del Ejecutivo"
+    },
+    {
+      "tema": "INVIOLABILIDAD DE DOMICILIO",
+      "subtema": "Protección"
+    },
+    {
+      "tema": "INVIOLABILIDAD DE DOMICILIO",
+      "subtema": "Significado y alcance"
+    },
+    {
+      "tema": "INVIOLABILIDAD DE COMUNICACIONES EN ESTADOS DE EXCEPCION",
+      "subtema": "Interceptación requiere orden judicial"
+    },
+    {
+      "tema": "JUEZ CONSTITUCIONAL",
+      "subtema": "Límites"
+    },
+    {
+      "tema": "JURISDICCION CONTENCIOSO ADMINISTRATIVA",
+      "subtema": "Control de actos del Ejecutivo en aplicación de medidas policivas"
+    },
+    {
+      "tema": "ESTADOS DE EXCEPCION",
+      "subtema": "Prohibición a militares de investigación y juzgamiento de civiles"
+    },
+    {
+      "tema": "ESTADO DEMOCRATICO DE DERECHO",
+      "subtema": "Controles mutuos entre ramas del poder"
+    },
+    {
+      "tema": "FISCAL GENERAL DE LA NACION Y PROCURADOR GENERAL DE LA NACION EN CONMOCION INTERIOR",
+      "subtema": "Delegación para actividades determinadas con unidades operativas de Fuerzas Militares"
+    },
+    {
+      "tema": "OBLACION",
+      "subtema": "Significado"
+    },
+    {
+      "tema": "POLICIA JUDICIAL",
+      "subtema": "Competencia para ejercicio de funciones"
+    },
+    {
+      "tema": "POLICIA JUDICIAL",
+      "subtema": "Ejercicio permanente por civiles"
+    },
+    {
+      "tema": "POLICIA JUDICIAL",
+      "subtema": "Orbita de la función judicial"
+    },
+    {
+      "tema": "PRINCIPIO DE LEGALIDAD EN PRIVACION DE LA LIBERTAD",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "POLICIA JUDICIAL EN CONMOCION INTERIOR",
+      "subtema": "Necesidad de aumento en adopción de medidas investigativas"
+    },
+    {
+      "tema": "POLICIA JUDICIAL",
+      "subtema": "Competencia específica"
+    },
+    {
+      "tema": "POLICIA JUDICIAL",
+      "subtema": "Dirección y responsabilidad funcional"
+    },
+    {
+      "tema": "POLICIA JUDICIAL",
+      "subtema": "Función especializada"
+    },
+    {
+      "tema": "PRINCIPIO DE INDEPENDENCIA JUDICIAL",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "PRINCIPIO DE NECESIDAD EN DECRETO LEGISLATIVO DE CONMOCION INTERIOR",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "PRIVACION DE LA LIBERTAD",
+      "subtema": "Competencia de autoridades judiciales"
+    },
+    {
+      "tema": "PRIVACION TRANSITORIA DE LIBERTAD EN CONMOCION INTERIOR",
+      "subtema": "Motivos específicos que conducen a autorización y a prescindir de garantías"
+    },
+    {
+      "tema": "LIBERTAD PERSONAL",
+      "subtema": "Intervención de otras ramas del poder en privación o restricción por funcionarios de Rama Ejecutiva"
+    },
+    {
+      "tema": "LIBERTAD PERSONAL",
+      "subtema": "Requisitos para privación o restricción"
+    },
+    {
+      "tema": "LIBERTAD PARA FIJACION DE RESIDENCIA Y LIBERTAD DE LOCOMOCION",
+      "subtema": "Protección internacional"
+    },
+    {
+      "tema": "LIBERTAD PERSONAL EN ESTADOS DE EXCEPCION",
+      "subtema": "Protección"
+    },
+    {
+      "tema": "LIBERTAD PERSONAL",
+      "subtema": "Garantías"
+    },
+    {
+      "tema": "LIBERTAD PERSONAL",
+      "subtema": "Alcance conceptual"
+    },
+    {
+      "tema": "LIBERTAD PERSONAL",
+      "subtema": "Suspensión por mandamiento judicial de autoridad competente"
+    },
+    {
+      "tema": "PRIVACION DE LA LIBERTAD EN ZONAS DE REHABILITACION Y CONSOLIDACION EN CONMOCION INTERIOR",
+      "subtema": "No atribución a cualquier miembro de Fuerza Pública por indicio en revisión de carga"
+    },
+    {
+      "tema": "PROCURADURÍA GENERAL DE LA NACIÓN",
+      "subtema": "Independencia"
+    },
+    {
+      "tema": "PRIVACION DE LA LIBERTAD PERSONAL",
+      "subtema": "Orden escrita del juez"
+    },
+    {
+      "tema": "DERECHOS FUNDAMENTALES EN CONMOCION INTERIOR",
+      "subtema": "Justificación de restricciones"
+    },
+    {
+      "tema": "DERECHOS FUNDAMENTALES",
+      "subtema": "Privación, suspensión y limitación"
+    },
+    {
+      "tema": "DETENCION PREVENTIVA",
+      "subtema": "Límites"
+    },
+    {
+      "tema": "DERECHOS FUNDAMENTALES EN MATERIA DE ORDEN PUBLICO",
+      "subtema": "Restricciones"
+    },
+    {
+      "tema": "DERECHOS FUNDAMENTALES",
+      "subtema": "No son absolutos"
+    },
+    {
+      "tema": "DERECHOS HUMANOS EN ESTADOS DE EXCEPCION",
+      "subtema": "Protección"
+    },
+    {
+      "tema": "DERECHOS FUNDAMENTALES EN ESTADOS DE EXCEPCION",
+      "subtema": "No privación ni suspensión"
+    },
+    {
+      "tema": "DECRETO LEGISLATIVO DE CONMOCION INTERIOR",
+      "subtema": "Existencia clara de razones por las cuales medida era necesaria"
+    },
+    {
+      "tema": "DECRETO LEGISLATIVO DE CONMOCION INTERIOR",
+      "subtema": "Medidas encaminadas a conjurar causas de perturbación e impedir extensión de efectos"
+    },
+    {
+      "tema": "DECRETO LEGISLATIVO DE CONMOCION INTERIOR",
+      "subtema": "Control formal"
+    },
+    {
+      "tema": "DERECHO INTERNACIONAL HUMANITARIO",
+      "subtema": "Principios comunes con derechos humanos"
+    },
+    {
+      "tema": "DERECHO DE PETICION EN CONMOCION INTERIOR",
+      "subtema": "Ejercicio directo ante autoridad política"
+    },
+    {
+      "tema": "DERECHO PENAL DE ACTO",
+      "subtema": "No sanción de imaginación o ideación de una conducta"
+    },
+    {
+      "tema": "FUERZA PUBLICA EN CONMOCION INTERIOR",
+      "subtema": "Concentración temporal en determinadas zonas del país por disposición del Ejecutivo"
+    },
+    {
+      "tema": "FISCALIA GENERAL DE LA NACION Y PROCURADURIA GENERAL DE LA NACION",
+      "subtema": "No subalternos del Ejecutivo"
+    },
+    {
+      "tema": "FUNCION DE POLICIA JUDICIAL DE LA POLICIA NACIONAL",
+      "subtema": "Atribución para capturar"
+    },
+    {
+      "tema": "HOGAR DOMESTICO",
+      "subtema": "Respeto"
+    },
+    {
+      "tema": "INSPECCION O REGISTRO DOMICILIARIO EN CONMOCION INTERIOR",
+      "subtema": "Transmisión oral de orden judicial"
+    },
+    {
+      "tema": "LIBERTAD DE CIRCULACION Y RESIDENCIA EN ESTADOS DE EXCEPCION",
+      "subtema": "Limitación mas no suspensión ni privación"
+    },
+    {
+      "tema": "POLICIA JUDICIAL EN CONMOCION INTERIOR",
+      "subtema": "Ejercicio por la Policía Nacional"
+    },
+    {
+      "tema": "POLICIA JUDICIAL",
+      "subtema": "Competencia"
+    },
+    {
+      "tema": "POLICIA JUDICIAL EN CONMOCION INTERIOR",
+      "subtema": "Facilitación de facultades investigativas"
+    },
+    {
+      "tema": "SOSPECHA E INDICIO PARA PRIVACION DE LA LIBERTAD",
+      "subtema": "Distinción"
+    },
+    {
+      "tema": "ZONAS DE REHABILITACION Y CONSOLIDACION EN CONMOCION INTERIOR",
+      "subtema": "Delimitación por acto administrativo"
+    },
+    {
+      "tema": "ZONAS DE REHABILITACION Y CONSOLIDACION EN CONMOCION INTERIOR",
+      "subtema": "Carácter del decreto de delimitación"
+    },
+    {
+      "tema": "INVIOLABILIDAD DE CORRESPONDENCIA Y DEMAS COMUNICACIONES PRIVADAS",
+      "subtema": null
+    },
+    {
+      "tema": "LIBERTAD PERSONAL EN EL ESTADO DE DERECHO",
+      "subtema": null
+    },
+    {
+      "tema": "INSPECCION O REGISTRO DOMICILIARIO Y ALLANAMIENTO EN CONMOCION INTERIOR",
+      "subtema": null
+    },
+    {
+      "tema": "INVIOLABILIDAD DE COMUNICACIONES PRIVADAS EN LIBERTAD PERSONAL",
+      "subtema": null
+    },
+    {
+      "tema": "INVIOLABILIDAD DE DOMICILIO EN LIBERTAD PERSONAL",
+      "subtema": null
+    },
+    {
+      "tema": "INTERCEPTACION O REGISTRO DE COMUNICACIONES EN CONMOCION INTERIOR",
+      "subtema": null
+    },
+    {
+      "tema": "LIBERTAD DE PRENSA EN CONMOCION INTERIOR",
+      "subtema": null
+    },
+    {
+      "tema": "CONMOCION INTERIOR",
+      "subtema": "No facultades omnímodas e ilimitadas del Presidente de la República"
+    },
+    {
+      "tema": "CONMOCION INTERIOR",
+      "subtema": "No confusión con “ley marcial”"
+    },
+    {
+      "tema": "CONMOCION INTERIOR",
+      "subtema": "Valoración de niveles de violencia frente a limitaciones de derechos"
+    },
+    {
+      "tema": "CONMOCION INTERIOR",
+      "subtema": "Facultades estrictamente necesarios del Gobierno"
+    },
+    {
+      "tema": "AUTONOMIA E INDEPENDENCIA DE FUNCION JUDICIAL EN CONMOCION INTERIOR",
+      "subtema": "No sujeción a rendición de informes de razón de decisiones a autoridades administrativas"
+    },
+    {
+      "tema": "COMUNICACION PRIVADA",
+      "subtema": "No interceptación o registro sin orden judicial"
+    },
+    {
+      "tema": "REGIMEN DE LEGALIDAD EN CONMOCION INTERIOR",
+      "subtema": null
+    },
+    {
+      "tema": "CONTROL DE CONSTITUCIONALIDAD DE CONMOCION INTERIOR",
+      "subtema": "Criterios excesivamente rígidos"
+    },
+    {
+      "tema": "DERECHO DE DEFENSA DE EXTRANJEROS EN CONMOCION INTERIOR",
+      "subtema": "Perturbación del orden público"
+    },
+    {
+      "tema": "DELITO",
+      "subtema": "Distinción entre participar y planes de participar en comisión"
+    },
+    {
+      "tema": "CAPTURA SIN AUTORIZACION JUDICIAL EN CONMOCION INTERIOR",
+      "subtema": "Circunstancias de urgencia insuperable para la protección de derechos"
+    },
+    {
+      "tema": "CAPTURA EN CONMOCION INTERIOR",
+      "subtema": "Régimen específico de garantías para derechos restringidos y mecanismos"
+    },
+    {
+      "tema": "CAPTURA SIN AUTORIZACION JUDICIAL EN CONMOCION INTERIOR",
+      "subtema": "Desconocimiento de derechos"
+    },
+    {
+      "tema": "CAPTURA EN CONMOCION INTERIOR",
+      "subtema": "Comunicación verbal de autorización judicial"
+    },
+    {
+      "tema": "CAPTURA EN CONMOCION INTERIOR",
+      "subtema": "Inconstitucionalidad de privación de la libertad por planes de participar en comisión de delitos"
+    },
+    {
+      "tema": "CAPTURA EN CONMOCION INTERIOR",
+      "subtema": "Transmisión oral de órdenes escritas ante indicio de participación en delitos"
+    },
+    {
+      "tema": "CAPTURA PREVENTIVA",
+      "subtema": "No permisión"
+    },
+    {
+      "tema": "CAPTURA SIN AUTORIZACION JUDICIAL EN CONMOCION INTERIOR",
+      "subtema": "Vulneración de la Constitución"
+    },
+    {
+      "tema": "CONMOCION INTERIOR",
+      "subtema": "Respuesta jurídico constitucional"
+    },
+    {
+      "tema": "ESTADO DEMOCRATICO DE DERECHO",
+      "subtema": "Características"
+    },
+    {
+      "tema": "POLICIA JUDICIAL EN CONMOCION INTERIOR",
+      "subtema": "No otorgamiento de facultades a Fuerzas Militares"
+    },
+    {
+      "tema": "POLICIA JUDICIAL",
+      "subtema": "Competente funcional"
+    },
+    {
+      "tema": "POLICIA JUDICIAL EN CONMOCION INTERIOR",
+      "subtema": "Acompañamiento de fiscales y unidades del Cuerpo Técnico de Investigación a actividades de la Fuerza Pública"
+    },
+    {
+      "tema": "POLICIA JUDICIAL EN CONMOCION INTERIOR",
+      "subtema": "Necesidad de incrementar actividades investigativas que resultaren apropiadas"
+    },
+    {
+      "tema": "PRIVACION DE LA LIBERTAD EN ZONAS DE REHABILITACION Y CONSOLIDACION EN CONMOCION INTERIOR",
+      "subtema": "Mandamiento de autoridad judicial en revisión de carga"
+    },
+    {
+      "tema": "PRISION O ARRESTO",
+      "subtema": "Requisitos"
+    },
+    {
+      "tema": "PRINCIPIO DE MOTIVACION DE INCOMPATIBILIDAD EN CONMOCION INTERIOR",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "LIBERTAD PERSONAL",
+      "subtema": "Extensiones"
+    },
+    {
+      "tema": "LIBERTAD PERSONAL",
+      "subtema": "Reconocimiento y protección internacional"
+    },
+    {
+      "tema": "LIBERTAD PERSONAL",
+      "subtema": "Privación o restricción no arbitraria"
+    },
+    {
+      "tema": "DERECHOS FUNDAMENTALES EN CONMOCION INTERIOR",
+      "subtema": "Expresión clara de razones de necesidad de restringir o limitar garantías"
+    },
+    {
+      "tema": "DERECHOS FUNDAMENTALES EN CONMOCION INTERIOR",
+      "subtema": "Restricciones deben responder a principios de razonabilidad y proporcionalidad"
+    },
+    {
+      "tema": "DERECHOS FUNDAMENTALES",
+      "subtema": "Reglamentación de ejercicio en tiempos de normalidad institucional"
+    },
+    {
+      "tema": "DESPLAZAMIENTO EN ZONAS DE REHABILITACION Y CONSOLIDACION EN CONMOCION INTERIOR",
+      "subtema": "No retención transitoria inconmutable por omisión de información"
+    },
+    {
+      "tema": "DERECHOS FUNDAMENTALES EN CONMOCION INTERIOR",
+      "subtema": "Limitación mas no suspensión"
+    },
+    {
+      "tema": "DERECHOS FUNDAMENTALES EN ESTADOS DE EXCEPCION",
+      "subtema": "Limitación"
+    },
+    {
+      "tema": "DERECHOS FUNDAMENTALES EN CONMOCION INTERIOR",
+      "subtema": "Referencia al interés general"
+    },
+    {
+      "tema": "EJERCITO NACIONAL",
+      "subtema": "No funciones de policía judicial"
+    },
+    {
+      "tema": "DESPLAZAMIENTO NO AUTORIZADO EN CONMOCION INTERIOR",
+      "subtema": "Inconstitucionalidad"
+    },
+    {
+      "tema": "DERECHO A LA PRIVACIDAD DE COMUNICACIONES",
+      "subtema": "Significado y alcance"
+    },
+    {
+      "tema": "DECLARACION DE CONMOCION INTERIOR",
+      "subtema": "Carácter excepcional"
+    },
+    {
+      "tema": "DECLARACION DE CONMOCION INTERIOR",
+      "subtema": "Internacionalización de protección de derechos humanos"
+    },
+    {
+      "tema": "DERECHO A LA LIBERTAD PERSONAL",
+      "subtema": "Alcance y concepto"
+    },
+    {
+      "tema": "DERECHO A LA LIBERTAD DE COMUNICACION",
+      "subtema": "Protección"
+    },
+    {
+      "tema": "DECRETO LEGISLATIVO DE CONMOCION INTERIOR",
+      "subtema": "Interpretación sistemática"
+    },
+    {
+      "tema": "DECRETO LEGISLATIVO DE ESTADOS DE EXCEPCION",
+      "subtema": "Controles"
+    },
+    {
+      "tema": "DECRETO LEGISLATIVO DE CONMOCION INTERIOR",
+      "subtema": "Expresión motivos de necesidad de limitar derechos"
+    },
+    {
+      "tema": "DECLARACION DE CONMOCION INTERIOR",
+      "subtema": "Comunicación e información a OEA y ONU"
+    },
+    {
+      "tema": "DECLARACION DE CONMOCION INTERIOR",
+      "subtema": "Límite jurídico"
+    },
+    {
+      "tema": "DERECHO INTERNACIONAL HUMANITARIO EN CONMOCION INTERIOR",
+      "subtema": "Constituye un límite"
+    },
+    {
+      "tema": "DERECHO INTERNACIONAL HUMANITARIO",
+      "subtema": "Principios propios del derecho de guerra"
+    },
+    {
+      "tema": "DERECHO INTERNACIONAL HUMANITARIO",
+      "subtema": "Principios fundamentales"
+    },
+    {
+      "tema": "FISCALIA GENERAL DE LA NACION Y PROCURADURIA GENERAL DE LA NACION EN CONMOCION INTERIOR",
+      "subtema": "Acompañamiento de operaciones de Fuerza Pública es inconstitucional"
+    },
+    {
+      "tema": "EXTRANJERO EN ESTADOS DE EXCEPCION",
+      "subtema": "Protección"
+    },
+    {
+      "tema": "FUERZAS MILITARES, FISCALIA GENERAL DE LA NACION Y PROCURADURIA GENERAL DE LA NACION",
+      "subtema": "Funciones precisas y diferentes"
+    },
+    {
+      "tema": "FISCALIA GENERAL DE LA NACION Y PROCURADURIA GENERAL DE LA NACION",
+      "subtema": "No requieren acompañamiento para ejercicio de funciones"
+    },
+    {
+      "tema": "FISCALÍA GENERAL DE LA NACIÓN",
+      "subtema": "Dirección y coordinación de funciones de Policía Judicial"
+    },
+    {
+      "tema": "FUERZAS MILITARES Y SERVIDOR PUBLICO CIVIL",
+      "subtema": "Funciones distintas"
+    },
+    {
+      "tema": "GOBERNADOR EN MATERIA DE ORDEN PUBLICO",
+      "subtema": "Sujeción al poder central"
+    },
+    {
+      "tema": "INSPECCION O REGISTRO DOMICILIARIO SIN AUTORIZACION JUDICIAL",
+      "subtema": "Indeterminación de autoridad"
+    },
+    {
+      "tema": "INVIOLABILIDAD DE DOMICILIO",
+      "subtema": "Formalidades"
+    },
+    {
+      "tema": "INVIOLABILIDAD DE DOMICILIO",
+      "subtema": "Reconocimiento y protección internacional"
+    },
+    {
+      "tema": "JUEZ CONSTITUCIONAL",
+      "subtema": "Referentes normativos y criterios de prudencia judicial"
+    },
+    {
+      "tema": "INSPECCION O REGISTRO DOMICILIARIO Y ALLANAMIENTO",
+      "subtema": "Comunicación verbal de autorización judicial"
+    },
+    {
+      "tema": "INTERCEPTACION O REGISTRO DE COMUNICACIONES EN CONMOCION INTERIOR",
+      "subtema": "Transmisión oral de orden judicial"
+    },
+    {
+      "tema": "POLICIA JUDICIAL EN CONMOCION INTERIOR",
+      "subtema": "Presencia del agente del Ministerio Público"
+    },
+    {
+      "tema": "POLICIA JUDICIAL",
+      "subtema": "Competencia en dirección y coordinación de funciones"
+    },
+    {
+      "tema": "POLICIA JUDICIAL",
+      "subtema": "Dependencia y responsabilidad funcional de la Fiscalía General"
+    },
+    {
+      "tema": "POLICIA JUDICIAL",
+      "subtema": "Servidores que lo ejercen de manera permanente y especial"
+    },
+    {
+      "tema": "PRINCIPIO DE DISTINCION EN CONMOCION INTERIOR",
+      "subtema": "Alcance respecto de mimetización de organizaciones armadas al margen de la ley en población civil"
+    },
+    {
+      "tema": "PRINCIPIO DE FINALIDAD EN DECRETO LEGISLATIVO DE CONMOCION INTERIOR",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "PROCESO PENAL",
+      "subtema": "Labor investigativa"
+    },
+    {
+      "tema": "SENTENCIA DE CONSTITUCIONALIDAD",
+      "subtema": "Importancia de razones de la decisión"
+    },
+    {
+      "tema": "SOSPECHA PARA PRIVACION DE LA LIBERTAD EN CONMOCION INTERIOR",
+      "subtema": "Captura vulnera la Constitución"
+    },
+    {
+      "tema": "REGISTRO DE CAPTURAS EN CONMOCION INTERIOR",
+      "subtema": "Función de policía"
+    },
+    {
+      "tema": "REGISTRO DE DOMICILIO",
+      "subtema": "Reglas fundamentales"
+    },
+    {
+      "tema": "ZONAS DE REHABILITACION Y CONSOLIDACION EN CONMOCION INTERIOR",
+      "subtema": "Captura ante indicio grave en revisión de carga por Fuerza Pública y a disposición de autoridad judicial"
+    },
+    {
+      "tema": "ZONAS DE REHABILITACION Y CONSOLIDACION EN CONMOCION INTERIOR",
+      "subtema": "Delimitación por decreto legislativo"
+    },
+    {
+      "tema": "ZONAS ESPECIALES DE REHABILITACION EN CONMOCION INTERIOR",
+      "subtema": "Normas no señalan que delimitación se realice por decretos legislativos"
+    },
+    {
+      "tema": "ZONAS DE REHABILITACION Y CONSOLIDACION EN CONMOCION INTERIOR",
+      "subtema": "Competencia en control de acto de limitación"
+    },
+    {
+      "tema": "ZONAS DE REHABILITACION Y CONSOLIDACION EN CONMOCION INTERIOR",
+      "subtema": "Atribuciones en materia de información del Comandante Militar"
+    },
+    {
+      "tema": "ZONAS DE REHABILITACION Y CONSOLIDACION",
+      "subtema": "Inconstitucionalidad"
+    },
+    {
+      "tema": "ZONAS DE REHABILITACION Y CONSOLIDACION EN CONMOCION INTERIOR",
+      "subtema": "Restricción de derechos fundamentales"
+    }
+  ]
+}

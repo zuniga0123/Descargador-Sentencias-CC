@@ -1,0 +1,52 @@
+{
+  "radicado": "C-042-02",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2002,
+  "fecha_creacion": "2002-01-30",
+  "magistrado_ponente": "Dra CLARA INES VARGAS HERNANDEZ",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "DEMANDA DE INCONSTITUCIONALIDAD",
+  "subtema": "Requisitos de los cargos de inconstitucionalidad",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 600 de 2000",
+    "Decreto 2067 de 1991",
+    "Decreto 2700 de 1991",
+    "Decreto 50 de 1987"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2002/C-042-02.htm",
+  "fecha_descarga": "2026-10-23T01:12:24.208128+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2002-01-30",
+  "fecha_publicacion": null,
+  "numero": "C-042/02",
+  "tipo_cc": "C",
+  "prov_id": "20175",
+  "tema_relatoria": "FALLO INHIBITORIO POR INEPTITUD DE DEMANDA DE INCONSTITUCIONALIDAD CONTRA NORMA DE LA LEY 600 DE 2000",
+  "resumen": "LEY 600 DE 2000. ART. 304 (P.). CODIGO DE PROCEDIMIENTO PENAL. RECONOCIMIENTO A TRAVES DE FOTOGRAFIAS POR NO ESTAR CAPTURADA LA PERSONA. PRINCIPIO DE IN DUBIO PRO REO. INEPTITUD SUSTANTIVA DE LA DEMANDA. INHIBIDA.",
+  "titulaciones": [
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "Requisitos de los cargos de inconstitucionalidad"
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "Razones por las cuales textos acusados se estiman violados"
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "Sustentación lógica de cargos de inconstitucionalidad"
+    },
+    {
+      "tema": "INHIBICION DE LA CORTE CONSTITUCIONAL",
+      "subtema": "Ausencia de cargos"
+    },
+    {
+      "tema": "INHIBICION DE LA CORTE CONSTITUCIONAL",
+      "subtema": "Formulación aparente de cargos"
+    }
+  ]
+}

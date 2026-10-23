@@ -1,0 +1,839 @@
+{
+  "radicado": "C-181-02",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2002,
+  "fecha_creacion": "2002-03-12",
+  "magistrado_ponente": null,
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "PRINCIPIO DE FAVORABILIDAD EN DERECHO DISCIPLINARIO",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 200 de 1995",
+    "Ley 734 de 2002",
+    "Ley 153 de 1887",
+    "Ley 101 de 1993",
+    "Ley 599 de 2000",
+    "Decreto 1888 de 1989",
+    "Decreto 52 de 1987",
+    "Ley 28 de 1959",
+    "Ley 589 de 2000",
+    "Ley 190 de 1995",
+    "Ley 358 de 1997",
+    "Decreto 2651 de 1991",
+    "Ley 617 de 2000",
+    "Ley 136 de 1994",
+    "Decreto Ley 262 de 2000",
+    "Ley 270 de 1996",
+    "Ley 74 de 1968",
+    "Ley 201 de 1995",
+    "Ley 24 de 1992"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2002/C-181-02.htm",
+  "fecha_descarga": "2026-10-23T01:09:49.757339+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2002-03-12",
+  "fecha_publicacion": null,
+  "numero": "C-181/02",
+  "tipo_cc": "C",
+  "prov_id": "20329",
+  "tema_relatoria": "LEY DISCIPLINARIA PARA PARTICULAR EN EJERCICIO DE FUNCIONES PUBLICAS. APLICACIÓN",
+  "resumen": "LEY 200 DE 1995. ARTS. 9 (T.) 20 25 27 29 30 44 (PS.) 65 (T.) 116 131 146 151 Y 157 (PS.). CODIGO UNICO DISCIPLINARIO. DERECHO DISCIPLINARIO DEL ESTADO. APLICACION INMEDIATA DE LA LEY. DESTINATARIOS. COSA JUZGADA. PARTICULARES EN EJERCICIO DE FUNCIONES PUBLICAS",
+  "titulaciones": [
+    {
+      "tema": "PRINCIPIO DE FAVORABILIDAD EN DERECHO DISCIPLINARIO",
+      "subtema": null
+    },
+    {
+      "tema": "PRINCIPIO DE FAVORABILIDAD EN DERECHO PROCESAL DISCIPLINARIO",
+      "subtema": null
+    },
+    {
+      "tema": "PRINCIPIO DE FAVORABILIDAD EN NORMA PROCESAL PENAL",
+      "subtema": null
+    },
+    {
+      "tema": "CONTROL DE CONSTITUCIONALIDAD",
+      "subtema": "Proporcionalidad de la medida regulada"
+    },
+    {
+      "tema": "CONTRATISTA PARTICULAR",
+      "subtema": "No sujeción a ley disciplinaria"
+    },
+    {
+      "tema": "ACCION DISCIPLINARIA Y ACCION PENAL",
+      "subtema": "Independencia"
+    },
+    {
+      "tema": "DERECHO PENAL ANTE DERECHO SANCIONATORIO DISCIPLINARIO",
+      "subtema": "No transportabilidad total de principios"
+    },
+    {
+      "tema": "DERECHO SANCIONADOR DISCIPLINARIO",
+      "subtema": "Tipos no son autónomos por regla general"
+    },
+    {
+      "tema": "FALTA DISCIPLINARIA POR DESAPARICION FORZADA",
+      "subtema": "Modalidad dolosa"
+    },
+    {
+      "tema": "FALTA DISCIPLINARIA",
+      "subtema": "Determinación de gravedad o levedad"
+    },
+    {
+      "tema": "FALTA DISCIPLINARIA",
+      "subtema": "Desvinculación del cargo por Procurador General e imposición de sanción accesoria"
+    },
+    {
+      "tema": "FALTA DISCIPLINARIA",
+      "subtema": "Sanción accesoria de devolución, restitución o reparación del bien afectado cuando no se ha cumplido en proceso penal"
+    },
+    {
+      "tema": "FALTA DISCIPLINARIA",
+      "subtema": "Sanción de números abiertos"
+    },
+    {
+      "tema": "FALTA DISCIPLINARIA",
+      "subtema": "Sanciones accesorias"
+    },
+    {
+      "tema": "NORMA DISCIPLINARIA DEROGADA",
+      "subtema": "Aplicación de la favorabilidad"
+    },
+    {
+      "tema": "MINISTERIO PUBLICO",
+      "subtema": "Atribución exclusiva que vulnera derechos"
+    },
+    {
+      "tema": "NORMA DISCIPLINARIA",
+      "subtema": "Carácter especial"
+    },
+    {
+      "tema": "PRINCIPIO DE APLICACION DE LA LEY EN EL TIEMPO Y DE FAVORABILIDAD PENAL",
+      "subtema": "Aplicación en el campo disciplinario"
+    },
+    {
+      "tema": "POTESTAD SANCIONADORA DEL ESTADO",
+      "subtema": "Fines específicos e independientes en campo disciplinario y penal"
+    },
+    {
+      "tema": "PARTICULAR EN EJERCICIO DE FUNCIONES PUBLICAS",
+      "subtema": "Criterio material de vinculación con la administración"
+    },
+    {
+      "tema": "PARTICULAR EN EJERCICIO DE FUNCIONES PUBLICAS",
+      "subtema": "Responsabilidad se desprende de naturaleza de la prestación"
+    },
+    {
+      "tema": "PRINCIPIO NON BIS IN IDEM EN ACCION DISCIPLINARIA Y ACCION PENAL",
+      "subtema": "No afectación"
+    },
+    {
+      "tema": "LEY DISCIPLINARIA",
+      "subtema": "Proscripción de responsabilidad objetiva"
+    },
+    {
+      "tema": "LIBERTAD DE CONFIGURACION LEGISLATIVA EN CONDUCTA ILICITA",
+      "subtema": "Límites constitucionales e internacionales"
+    },
+    {
+      "tema": "LIBERTAD DE CONFIGURACION LEGISLATIVA EN TERMINO PROCESAL",
+      "subtema": "Establecimiento y límites"
+    },
+    {
+      "tema": "LIBERTAD DE CONFIGURACION LEGISLATIVA EN CONDUCTA ILICITA",
+      "subtema": "Sujeción a la Constitución"
+    },
+    {
+      "tema": "LIBERTAD DE CONFIGURACION LEGISLATIVA EN ORGANO DE CONTROL",
+      "subtema": "Determinación de estructura y distribución de competencias"
+    },
+    {
+      "tema": "LEY DISCIPLINARIA PARA PARTICULAR EN EJERCICIO DE FUNCIONES PUBLICAS",
+      "subtema": "Manejo de recursos del Estado"
+    },
+    {
+      "tema": "LEY DISCIPLINARIA",
+      "subtema": "Aplicación inmediata"
+    },
+    {
+      "tema": "LEY DISCIPLINARIA",
+      "subtema": "Faltas gravísimas"
+    },
+    {
+      "tema": "REGIMEN DISCIPLINARIO Y REGIMEN PENAL",
+      "subtema": "Distinción en objetivos"
+    },
+    {
+      "tema": "DERECHO PENAL",
+      "subtema": "Implementación en demás regímenes no es plena"
+    },
+    {
+      "tema": "DERECHO SANCIONADOR DISCIPLINARIO",
+      "subtema": "Comportamiento culposo"
+    },
+    {
+      "tema": "DEBIDO PROCESO PUBLICO SIN DILACIONES INJUSTIFICADAS",
+      "subtema": "Indeterminación de términos para adelantar actuaciones procesales"
+    },
+    {
+      "tema": "DEBIDO PROCESO",
+      "subtema": "Consagración de etapas delimitadas por términos procesales y cumplimiento"
+    },
+    {
+      "tema": "DEBIDO PROCESO",
+      "subtema": "Impone al legislador establecimiento de términos procesales"
+    },
+    {
+      "tema": "DEBIDO PROCESO",
+      "subtema": "Términos procesales desproporcionados"
+    },
+    {
+      "tema": "COSA JUZGADA CONSTITUCIONAL",
+      "subtema": "Criterios para determinar la gravedad o levedad de faltas disciplinarias"
+    },
+    {
+      "tema": "DERECHO DISCIPLINARIO Y DERECHO PENAL",
+      "subtema": "Distinción"
+    },
+    {
+      "tema": "DERECHO DISCIPLINARIO",
+      "subtema": "Sanción por acciones dolosas o culposas"
+    },
+    {
+      "tema": "DERECHO DISCIPLINARIO",
+      "subtema": "Deber de cuidado, diligencia y corrección en desempeño de funciones"
+    },
+    {
+      "tema": "DERECHO DISCIPLINARIO",
+      "subtema": "Finalidad"
+    },
+    {
+      "tema": "DERECHO DISCIPLINARIO",
+      "subtema": "Dolo o culpa son elementos constitutivos de la acción"
+    },
+    {
+      "tema": "DERECHO DISCIPLINARIO",
+      "subtema": "Integración"
+    },
+    {
+      "tema": "DERECHO DISCIPLINARIO",
+      "subtema": "Sanción por conducta culposa o dolosa"
+    },
+    {
+      "tema": "DERECHO SANCIONADOR DISCIPLINARIO",
+      "subtema": "Regla aplicable es la del númerus apertus"
+    },
+    {
+      "tema": "FALTA DISCIPLINARIA POR GENOCIDIO",
+      "subtema": "Carácter gravísimo"
+    },
+    {
+      "tema": "FALTA DISCIPLINARIA",
+      "subtema": "Incumplimiento de deberes"
+    },
+    {
+      "tema": "FALTA DISCIPLINARIA",
+      "subtema": "Proporcionalidad de medida de exclusión de la carrera"
+    },
+    {
+      "tema": "FALTA DISCIPLINARIA POR GENOCIDIO",
+      "subtema": "No condicionamiento a realización en asalto"
+    },
+    {
+      "tema": "FALTA DISCIPLINARIA",
+      "subtema": "Carácter gravísimo"
+    },
+    {
+      "tema": "FALTA DISCIPLINARIA",
+      "subtema": "Proporcionalidad en imposición de sanción principal ante ausencia de norma expresa en sanción accesoria"
+    },
+    {
+      "tema": "FALTA DISCIPLINARIA",
+      "subtema": "Sistema de graduación no opera en la de carácter gravísimo"
+    },
+    {
+      "tema": "INCOMPATIBILIDADES DEL DIPUTADO",
+      "subtema": "Aplicación desde el momento de la elección"
+    },
+    {
+      "tema": "INCOMPATIBILIDADES DEL DIPUTADO",
+      "subtema": "Término de duración"
+    },
+    {
+      "tema": "INCOMPATIBILIDADES DEL SERVIDOR PUBLICO",
+      "subtema": "Finalidad"
+    },
+    {
+      "tema": "INDAGACION PRELIMINAR EN PROCESO DISCIPLINARIO",
+      "subtema": "Razonabilidad del término"
+    },
+    {
+      "tema": "INFRACCION DISCIPLINARIA",
+      "subtema": "Establecimiento de tipicidad"
+    },
+    {
+      "tema": "INCOMPATIBILIDADES DEL CONCEJAL",
+      "subtema": "Término de duración"
+    },
+    {
+      "tema": "LEY DISCIPLINARIA PARA PARTICULAR EN EJERCICIO DE FUNCIONES PUBLICAS",
+      "subtema": "No traslado en bloque"
+    },
+    {
+      "tema": "LIBERTAD DE CONFIGURACION LEGISLATIVA EN FALTA Y SANCION DISCIPLINARIA",
+      "subtema": "Diseño y graduación"
+    },
+    {
+      "tema": "INCOMPATIBILIDADES DE MIEMBROS DE JUNTA ADMINISTRADORA LOCAL",
+      "subtema": "Término de duración"
+    },
+    {
+      "tema": "INCOMPATIBILIDADES DEL DIPUTADO",
+      "subtema": "Apoderados o gestores ante entidades o autoridades administrativas o jurisdiccionales"
+    },
+    {
+      "tema": "INFRACCION DISCIPLINARIA",
+      "subtema": "Supone existencia de un deber"
+    },
+    {
+      "tema": "INDAGACION PRELIMINAR EN PROCESO DISCIPLINARIO",
+      "subtema": "Extensión indefinida vulnera el debido proceso"
+    },
+    {
+      "tema": "INFRACCION DISCIPLINARIA",
+      "subtema": "Definición de tipicidad a través de normas complementarias"
+    },
+    {
+      "tema": "ETAPAS DE PROCEDIMIENTO",
+      "subtema": "Necesidad de encontrarse claramente parceladas"
+    },
+    {
+      "tema": "INVESTIGACION DISCIPLINARIA",
+      "subtema": "Archivo definitivo"
+    },
+    {
+      "tema": "INVESTIGACION DISCIPLINARIA",
+      "subtema": "Extensión indefinida vulnera el debido proceso"
+    },
+    {
+      "tema": "NORMA SUSTANCIAL Y NORMA PROCESAL",
+      "subtema": "Aplicación de disposiciones más favorables"
+    },
+    {
+      "tema": "NULIDAD PROCESAL DISCIPLINARIA",
+      "subtema": "Excepciones a incompetencia del funcionario para fallar"
+    },
+    {
+      "tema": "PARTICULAR EN EJERCICIO DE FUNCIONES PUBLICAS",
+      "subtema": "Sujeción al régimen disciplinario de servidores públicos"
+    },
+    {
+      "tema": "PRINCIPIO DE APLICACION DE LA LEY EN EL TIEMPO Y DERECHOS ADQUIRIDOS",
+      "subtema": "Relación"
+    },
+    {
+      "tema": "PRINCIPIO DE FAVORABILIDAD PENAL",
+      "subtema": "Vías de aplicación"
+    },
+    {
+      "tema": "PRINCIPIO DE APLICACION DE LA LEY EN EL TIEMPO",
+      "subtema": "Objeto"
+    },
+    {
+      "tema": "PROCURADURÍA GENERAL DE LA NACIÓN",
+      "subtema": "Función disciplinaria es una sola"
+    },
+    {
+      "tema": "PROCURADURÍA GENERAL DE LA NACIÓN",
+      "subtema": "Improcedencia de nulidad sobre actuaciones surtidas por funcionario distinto al que debe fallar"
+    },
+    {
+      "tema": "PROCURADURÍA GENERAL DE LA NACIÓN",
+      "subtema": "No asignación de competencia exclusiva"
+    },
+    {
+      "tema": "PRINCIPIO DEL JUEZ NATURAL Y DEBIDO PROCESO",
+      "subtema": "Asignación de competencia exclusiva al Procurador General atendiendo cuantía del incremento patrimonial no justificado"
+    },
+    {
+      "tema": "PRINCIPIO PROCESAL DE PRECLUSION O EVENTUALIDAD",
+      "subtema": "Definición"
+    },
+    {
+      "tema": "PROCESO DISCIPLINARIO Y PROCESO PENAL",
+      "subtema": "Competencia privilegiada del juez penal en sanción accesoria"
+    },
+    {
+      "tema": "PROCURADOR GENERAL DE LA NACION",
+      "subtema": "Desvinculación del cargo por derivar evidente e indebido provecho patrimonial en ejercicio del cargo o funciones"
+    },
+    {
+      "tema": "PROCESO DISCIPLINARIO",
+      "subtema": "Controversia de pruebas decretadas de oficio"
+    },
+    {
+      "tema": "PROCESO DISCIPLINARIO",
+      "subtema": "No pérdida de poder de investigación y sanción por existencia de prueba para formulación de cargos"
+    },
+    {
+      "tema": "PROCESO DISCIPLINARIO",
+      "subtema": "Restricción de solicitud de pruebas en segunda instancia"
+    },
+    {
+      "tema": "PROCESO DISCIPLINARIO",
+      "subtema": "Solo incompetencia para fallar genera nulidad"
+    },
+    {
+      "tema": "PROCESO DISCIPLINARIO",
+      "subtema": "Omisión de análisis de proporcionalidad de archivo provisional de diligencias"
+    },
+    {
+      "tema": "PROCESO DISCIPLINARIO",
+      "subtema": "Práctica de pruebas en segunda instancia por excepción"
+    },
+    {
+      "tema": "PROCESO DISCIPLINARIO",
+      "subtema": "No imposición al Estado de pérdida de competencia para cumplimiento de fines"
+    },
+    {
+      "tema": "PROCESO DISCIPLINARIO",
+      "subtema": "Resolución oportuna"
+    },
+    {
+      "tema": "PROCURADOR GENERAL DE LA NACION",
+      "subtema": "Ejercicio del poder disciplinario preferente"
+    },
+    {
+      "tema": "SANCION DISCIPLINARIA",
+      "subtema": "Cumplimiento incompleto o defectuoso de deberes de cuidado y eficiencia"
+    },
+    {
+      "tema": "TERMINO PROCESAL",
+      "subtema": "Fijación adecuada"
+    },
+    {
+      "tema": "TERMINO PROCESAL",
+      "subtema": "Impone al legislador fijación de duración de cada etapa del procedimiento"
+    },
+    {
+      "tema": "TERMINO PROCESAL",
+      "subtema": "Omisión en señalamiento en procedimiento específico por ley o reglamento"
+    },
+    {
+      "tema": "SANCION DISCIPLINARIA",
+      "subtema": "Criterio de proporcionalidad derivado del grado de culpabilidad del sujeto"
+    },
+    {
+      "tema": "PRINCIPIO DE FAVORABILIDAD EN NORMA PROCESAL",
+      "subtema": null
+    },
+    {
+      "tema": "CODIGO DISCIPLINARIO UNICO",
+      "subtema": "Aplicación inmediata"
+    },
+    {
+      "tema": "CODIGO DISCIPLINARIO UNICO",
+      "subtema": "Destinatarios"
+    },
+    {
+      "tema": "DEBIDO PROCESO DISCIPLINARIO",
+      "subtema": "Prolongación indefinida más allá del término establecido"
+    },
+    {
+      "tema": "DEBIDO PROCESO EN TERMINO PROCESAL",
+      "subtema": "Implicaciones"
+    },
+    {
+      "tema": "DEBIDO PROCESO Y DERECHO DE DEFENSA",
+      "subtema": "Cumplimiento de términos procesales"
+    },
+    {
+      "tema": "DEBIDO PROCESO",
+      "subtema": "Decisión pronta y oportuna"
+    },
+    {
+      "tema": "SISTEMA DE NUMERUS APERTUS EN DERECHO DISCIPLINARIO",
+      "subtema": null
+    },
+    {
+      "tema": "DERECHO DE DEFENSA EN PROCESO DISCIPLINARIO",
+      "subtema": "Presentación de pruebas y controversia de las allegadas en contra"
+    },
+    {
+      "tema": "DERECHO DE DEFENSA",
+      "subtema": "Presentación de pruebas y controversia de las allegadas en contra"
+    },
+    {
+      "tema": "AUTORIDAD DISCIPLINARIA Y JUEZ PENAL",
+      "subtema": "Colaboración armónica en corrección del daño causado por la falta"
+    },
+    {
+      "tema": "AUTORIDAD DISCIPLINARIA",
+      "subtema": "Sanción accesoria de devolución, restitución o reparación del bien afectado cuando no se ha cumplido en asunto penal"
+    },
+    {
+      "tema": "CONTROL DE CONSTITUCIONALIDAD DE NORMA DISCIPLINARIA DEROGADA",
+      "subtema": "Procesos en curso"
+    },
+    {
+      "tema": "COSA JUZGADA CONSTITUCIONAL",
+      "subtema": "Determinación en la sentencia aunque se hubiere admitido"
+    },
+    {
+      "tema": "FALTA DISCIPLINARIA POR DESAPARICION FORZADA",
+      "subtema": "Carácter gravísimo"
+    },
+    {
+      "tema": "FALTA DISCIPLINARIA POR GENOCIDIO",
+      "subtema": "No solo la constituye la lesión grave"
+    },
+    {
+      "tema": "FALTA DISCIPLINARIA",
+      "subtema": "Ausencia de norma específica que contemple sanción principal"
+    },
+    {
+      "tema": "INCOMPATIBILIDADES DEL ALCALDE",
+      "subtema": "Término de duración"
+    },
+    {
+      "tema": "INVESTIGACION PRELIMINAR EN PROCESO DISCIPLINARIO",
+      "subtema": "Archivo definitivo"
+    },
+    {
+      "tema": "NULLUM CRIMEN, NULLA POENA SINE LEGE",
+      "subtema": "Significado"
+    },
+    {
+      "tema": "PARTICULAR EN EJERCICIO DE FUNCIONES PUBLICAS",
+      "subtema": "Regulación legislativa de temporalidad"
+    },
+    {
+      "tema": "PARTICULAR EN EJERCICIO DE FUNCIONES PUBLICAS",
+      "subtema": "Incremento de responsabilidad"
+    },
+    {
+      "tema": "PARTICULAR EN EJERCICIO DE FUNCIONES PUBLICAS",
+      "subtema": "No modificación de condición subjetiva ni conversión en servidor público"
+    },
+    {
+      "tema": "ETAPA DE INSTRUCCION EN FALTA DISCIPLINARIA",
+      "subtema": "No determina resultado de diligencias ni afecta garantías del debido proceso"
+    },
+    {
+      "tema": "FALTA DISCIPLINARIA",
+      "subtema": "Ausencia de norma que defina sanción principal a la cual se agrega sanción accesoria"
+    },
+    {
+      "tema": "FALTA DISCIPLINARIA",
+      "subtema": "Condicionamiento imposición de sanción accesoria a ausencia en asunto penal"
+    },
+    {
+      "tema": "FALTA DISCIPLINARIA",
+      "subtema": "Duración de sanción accesoria de exclusión de carrera"
+    },
+    {
+      "tema": "FALTA DISCIPLINARIA",
+      "subtema": "Modulación de gravedad de faltas y de sanciones principales y accesorias por operador jurídico"
+    },
+    {
+      "tema": "FALTA DISCIPLINARIA",
+      "subtema": "Procedimiento de graduación de la pena según gravedad de la conducta"
+    },
+    {
+      "tema": "FALTA DISCIPLINARIA",
+      "subtema": "Sanción accesoria de exclusión de carrera"
+    },
+    {
+      "tema": "FALTA DISCIPLINARIA",
+      "subtema": "Sanciones principales"
+    },
+    {
+      "tema": "ETAPA DE INSTRUCCION EN PROCESO DISCIPLINARIO",
+      "subtema": "Decisión de archivo o formulación de cargo"
+    },
+    {
+      "tema": "NORMA DISCIPLINARIA",
+      "subtema": "Normal y correcto funcionamiento de la gestión pública"
+    },
+    {
+      "tema": "NORMA DISCIPLINARIA",
+      "subtema": "Complemento normativo"
+    },
+    {
+      "tema": "NO JUZGAMIENTO SINO CONFORME A LEYES PREEXISTENTES",
+      "subtema": "Efectividad en situaciones jurídicas consolidadas"
+    },
+    {
+      "tema": "PRINCIPIO DE FAVORABILIDAD PENAL",
+      "subtema": "Significado"
+    },
+    {
+      "tema": "PROCESO DISCIPLINARIO",
+      "subtema": "Archivo provisional de diligencias"
+    },
+    {
+      "tema": "PROCESO DISCIPLINARIO",
+      "subtema": "Causales de nulidad"
+    },
+    {
+      "tema": "PROCESO DISCIPLINARIO",
+      "subtema": "No decreto de pérdida de competencia por existencia de prueba para formulación de cargos"
+    },
+    {
+      "tema": "PROCURADOR GENERAL DE LA NACION",
+      "subtema": "Competencia preferente para sancionar todos los incrementos patrimoniales no justificados"
+    },
+    {
+      "tema": "PROCURADOR GENERAL DE LA NACION",
+      "subtema": "Delegación de poder disciplinario"
+    },
+    {
+      "tema": "PROCURADURIA GENERAL DE LA NACION Y JUEZ DE LA REPUBLICA",
+      "subtema": "Distinción en actuación y competencia"
+    },
+    {
+      "tema": "PROCURADURIA GENERAL DE LA NACION Y SALA DISCIPLINARIA DEL CONSEJO SUPERIOR DE LA JUDICATURA",
+      "subtema": "Distribución de competencias para investigar y sancionar a funcionarios de la Rama Judicial"
+    },
+    {
+      "tema": "PROCESO DISCIPLINARIO",
+      "subtema": "Incompetencia para investigar no es determinante para validez de actuaciones"
+    },
+    {
+      "tema": "PROCURADOR GENERAL DE LA NACION",
+      "subtema": "Asignación de competencia exclusiva, atendiendo cuantía del incremento patrimonial no justificado, que vulnera derechos"
+    },
+    {
+      "tema": "PROCURADOR GENERAL DE LA NACION",
+      "subtema": "Carácter preferente y no exclusivo y directo de potestad disciplinaria"
+    },
+    {
+      "tema": "PROCURADOR GENERAL DE LA NACION",
+      "subtema": "Poder preferente que confiere la Constitución"
+    },
+    {
+      "tema": "LEY DISCIPLINARIA PARA PARTICULAR EN EJERCICIO DE FUNCIONES PUBLICAS",
+      "subtema": "Aplicación"
+    },
+    {
+      "tema": "LEY DISCIPLINARIA",
+      "subtema": "Destinatarios"
+    },
+    {
+      "tema": "LIBERTAD DE CONFIGURACION LEGISLATIVA EN INCOMPATIBILIDADES",
+      "subtema": "Término de duración"
+    },
+    {
+      "tema": "LIBERTAD DE CONFIGURACION LEGISLATIVA EN TERMINO PROCESAL",
+      "subtema": "Precisión para desarrollo de cada etapa del procedimiento"
+    },
+    {
+      "tema": "LIBERTAD DE CONFIGURACION LEGISLATIVA EN CONDUCTA DISCIPLINARIA",
+      "subtema": "Sujeción a la Constitución"
+    },
+    {
+      "tema": "LIBERTAD DE CONFIGURACION LEGISLATIVA EN DEFINICION DE CONDUCTA E IMPOSICION DE SANCIONES",
+      "subtema": "Límites"
+    },
+    {
+      "tema": "LIBERTAD DE CONFIGURACION LEGISLATIVA EN INHABILIDADES E INCOMPATIBILIDADES",
+      "subtema": "Sujeción a la Constitución"
+    },
+    {
+      "tema": "LIBERTAD DE CONFIGURACION LEGISLATIVA EN POTESTAD DISCIPLINARIA",
+      "subtema": "Definición de competencias y diseño de procedimientos sujetos a la Constitución"
+    },
+    {
+      "tema": "LIBERTAD DE CONFIGURACION LEGISLATIVA EN SANCION DISCIPLINARIA",
+      "subtema": "Sujeción a principios constitucionales"
+    },
+    {
+      "tema": "LIBERTAD DE CONFIGURACION LEGISLATIVA EN FALTA DISCIPLINARIA",
+      "subtema": "Modulación de gravedad"
+    },
+    {
+      "tema": "LIBERTAD DE CONFIGURACION LEGISLATIVA EN POTESTAD SANCIONATORIA DEL ESTADO",
+      "subtema": "Criterios aplicables"
+    },
+    {
+      "tema": "PROCURADURÍA GENERAL DE LA NACIÓN",
+      "subtema": "Competencia exclusiva sobre incremento patrimonial no justificado cuando cuantía exceda mil salarios mínimos mensuales"
+    },
+    {
+      "tema": "PROCURADURÍA GENERAL DE LA NACIÓN",
+      "subtema": "Poder preferente implica desplazamiento"
+    },
+    {
+      "tema": "PRINCIPIO NON BIS IN IDEM EN PROCESO DISCIPLINARIO Y PROCESO PENAL",
+      "subtema": "Vigencia y separación"
+    },
+    {
+      "tema": "PRINCIPIO NON BIS IN IDEM",
+      "subtema": "Sistema de competencias separadas por actuación independiente o coordinada"
+    },
+    {
+      "tema": "DESAPARICION FORZADA",
+      "subtema": "Consagración en legislación nacional e internacional"
+    },
+    {
+      "tema": "DERECHO PENAL",
+      "subtema": "Sanción por acciones dolosas o culposas"
+    },
+    {
+      "tema": "DERECHO PENAL",
+      "subtema": "Sistema de números cerrados"
+    },
+    {
+      "tema": "DEBIDO PROCESO DISCIPLINARIO",
+      "subtema": "Inconstitucionalidad de archivo provisional de diligencias"
+    },
+    {
+      "tema": "DEBIDO PROCESO",
+      "subtema": "Señalamiento de etapas claras y precisas"
+    },
+    {
+      "tema": "DEBIDO PROCESO Y ACCESO A LA ADMINISTRACION DE JUSTICIA",
+      "subtema": "Ponderación"
+    },
+    {
+      "tema": "COSA JUZGADA RELATIVA",
+      "subtema": "Aplicación"
+    },
+    {
+      "tema": "DERECHO DISCIPLINARIO",
+      "subtema": "Ontología de la falta determina realización con dolo o culpa"
+    },
+    {
+      "tema": "DERECHO DISCIPLINARIO",
+      "subtema": "Sistema de números abiertos en tipos de conductas que merecen sanción"
+    },
+    {
+      "tema": "DERECHO DISCIPLINARIO Y DERECHO PENAL",
+      "subtema": "Relación"
+    },
+    {
+      "tema": "DERECHO DISCIPLINARIO",
+      "subtema": "Estructura del tipo determina incursión en dolo o culpa"
+    },
+    {
+      "tema": "FALTA DISCIPLINARIA",
+      "subtema": "No solo la constituye la lesión grave"
+    },
+    {
+      "tema": "FALTA DISCIPLINARIA",
+      "subtema": "Sanción accesoria de reparación no es indemnizatoria"
+    },
+    {
+      "tema": "FALTA DISCIPLINARIA POR DESAPARICION FORZADA",
+      "subtema": "Carácter complejo"
+    },
+    {
+      "tema": "FALTA DISCIPLINARIA",
+      "subtema": "Discrecionalidad en imposición de sanción accesoria"
+    },
+    {
+      "tema": "GENOCIDIO",
+      "subtema": "Penalización de conducta dolosa o culposa"
+    },
+    {
+      "tema": "GENOCIDIO",
+      "subtema": "Dolo por acción o por omisión"
+    },
+    {
+      "tema": "GENOCIDIO",
+      "subtema": "Predicable a título de dolo"
+    },
+    {
+      "tema": "GENOCIDIO",
+      "subtema": "Comisión excepcional a título de imprudencia"
+    },
+    {
+      "tema": "INCOMPATIBILIDADES DEL GOBERNADOR",
+      "subtema": "Término de duración"
+    },
+    {
+      "tema": "LEY",
+      "subtema": "No rige situación jurídica anterior a vigencia"
+    },
+    {
+      "tema": "LEY DISCIPLINARIA PARA PARTICULAR EN EJERCICIO DE FUNCIONES PUBLICAS",
+      "subtema": "Sujeción no es total"
+    },
+    {
+      "tema": "LEY DISCIPLINARIA PARA PARTICULAR EN EJERCICIO DE FUNCIONES PUBLICAS",
+      "subtema": "Administración de recursos fiscales y parafiscales"
+    },
+    {
+      "tema": "LEY PROCESAL",
+      "subtema": "Inmediatez"
+    },
+    {
+      "tema": "PRINCIPIO DE APLICACION DE LA LEY EN EL TIEMPO",
+      "subtema": "Situaciones de hecho que surgen durante su vigencia"
+    },
+    {
+      "tema": "SANCION DISCIPLINARIA",
+      "subtema": "Exclusión de carrera por falta gravísima"
+    },
+    {
+      "tema": "SANCION DISCIPLINARIA",
+      "subtema": "Metodología de los números abiertos"
+    },
+    {
+      "tema": "SANCION DISCIPLINARIA",
+      "subtema": "Regla general es el castigo de la culpa"
+    },
+    {
+      "tema": "PROCESO DISCIPLINARIO",
+      "subtema": "Decreto y práctica de pruebas de oficio en segunda instancia"
+    },
+    {
+      "tema": "PROCESO DISCIPLINARIO",
+      "subtema": "Solicitud y controversia de pruebas"
+    },
+    {
+      "tema": "PROCURADOR GENERAL DE LA NACION",
+      "subtema": "Asignación restrictiva y en casos especiales de competencias directivas"
+    },
+    {
+      "tema": "PROCURADOR GENERAL DE LA NACION",
+      "subtema": "Restricción para asignación de competencia directa"
+    },
+    {
+      "tema": "REGIMEN DISCIPLINARIO PARA PARTICULAR EN EJERCICIO DE FUNCIONES PUBLICAS",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "PROCESO DISCIPLINARIO",
+      "subtema": "Circunstancias para archivo definitivo"
+    },
+    {
+      "tema": "TERMINO PROCESAL",
+      "subtema": "Etapas del procedimiento razonablemente diseñadas"
+    },
+    {
+      "tema": "TERMINO PROCESAL",
+      "subtema": "Fijación dentro del procedimiento"
+    },
+    {
+      "tema": "TERMINO PROCESAL",
+      "subtema": "Prerrogativa real de acción"
+    },
+    {
+      "tema": "TERMINO PROCESAL",
+      "subtema": "Incumplimiento"
+    },
+    {
+      "tema": "PROCURADURÍA GENERAL DE LA NACIÓN",
+      "subtema": "Competencia exclusiva sobre incremento patrimonial no justificado"
+    },
+    {
+      "tema": "SANCION DISCIPLINARIA",
+      "subtema": "Complemento normativo"
+    }
+  ]
+}

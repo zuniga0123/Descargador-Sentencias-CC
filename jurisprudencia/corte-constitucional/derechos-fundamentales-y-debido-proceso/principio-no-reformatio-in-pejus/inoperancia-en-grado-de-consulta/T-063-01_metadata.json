@@ -1,0 +1,41 @@
+{
+  "radicado": "T-063-01",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2001,
+  "fecha_creacion": "2001-01-25",
+  "magistrado_ponente": "Dr ALFREDO BELTRÁN SIERRA",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "PRINCIPIO NO REFORMATIO IN PEJUS",
+  "subtema": "Inoperancia en grado de consulta",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 30 de 1986"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2001/T-063-01.htm",
+  "fecha_descarga": "2026-10-23T01:19:19.987688+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2001-01-25",
+  "fecha_publicacion": null,
+  "numero": "T-063/01",
+  "tipo_cc": "T",
+  "prov_id": "18530",
+  "tema_relatoria": "DEBIDO PROCESO. PROHIBICION DE LA REFORMATIO IN PEJUS. JUECES DE TUTELA. COMPETENCIA A PREVENCION POR RAZON DEL FACTOR TERRITORIAL. VIA DE HECHO. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "PRINCIPIO NO REFORMATIO IN PEJUS",
+      "subtema": "Inoperancia en grado de consulta"
+    },
+    {
+      "tema": "COMPETENCIA A PREVENCIÓN EN TUTELA",
+      "subtema": "Factor territorial"
+    },
+    {
+      "tema": "PRINCIPIO NO REFORMATIO IN PEJUS",
+      "subtema": "Competencia restringida del juez de segunda instancia"
+    }
+  ]
+}

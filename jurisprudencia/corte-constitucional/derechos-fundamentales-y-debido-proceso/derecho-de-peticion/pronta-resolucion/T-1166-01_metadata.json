@@ -1,0 +1,52 @@
+{
+  "radicado": "T-1166-01",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2001,
+  "fecha_creacion": "2001-11-06",
+  "magistrado_ponente": "Dr ALFREDO BELTRÁN SIERRA",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "DERECHO DE PETICIÓN",
+  "subtema": "Pronta resolución",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Decreto 2709 de 1994",
+    "Decreto 1748 de 1995",
+    "Decreto 656 de 1994"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2001/T-1166-01.htm",
+  "fecha_descarga": "2026-10-23T01:15:20.258784+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2001-11-06",
+  "fecha_publicacion": "2001-11-20",
+  "numero": "T-1166/01",
+  "tipo_cc": "T",
+  "prov_id": "19938",
+  "tema_relatoria": "DERECHO DE PETICION. SOLICITUD RECONOCIMIENTO Y PAGO PENSION DE JUBILACION. RESPUESTA CLARA Y OPORTUNA. FALTAS DISCIPLINARIAS. CONCEDIDA",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO DE PETICIÓN",
+      "subtema": "Pronta resolución"
+    },
+    {
+      "tema": "DERECHO DE PETICION ANTE SOCIEDADES QUE ADMINISTRAN FONDOS DE PENSIONES",
+      "subtema": "Término para resolver solicitud de pensiones"
+    },
+    {
+      "tema": "DERECHO DE PETICION ANTE EL SEGURO SOCIAL",
+      "subtema": "Aplicación analógica de término de cuatro meses para resolver reconocimiento de pensiones legales"
+    },
+    {
+      "tema": "DERECHO DE PETICIÓN",
+      "subtema": "Resolución oportuna y de fondo"
+    },
+    {
+      "tema": "DERECHO DE PETICIÓN",
+      "subtema": "Vulneración por falta de respuesta oportuna y de fondo"
+    }
+  ]
+}

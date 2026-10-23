@@ -1,0 +1,41 @@
+{
+  "radicado": "T-1007-01",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2001,
+  "fecha_creacion": "2001-09-20",
+  "magistrado_ponente": "Dr ALVARO TAFUR GALVIS",
+  "area": "Derecho a la Salud",
+  "tema": "AGENCIA OFICIOSA EN TUTELA",
+  "subtema": "Hermano del afectado en salud",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2001/T-1007-01.htm",
+  "fecha_descarga": "2026-10-23T01:17:49.020194+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2001-09-20",
+  "fecha_publicacion": null,
+  "numero": "T-1007/01",
+  "tipo_cc": "T",
+  "prov_id": "19745",
+  "tema_relatoria": "DERECHOS A LA VIDA SALUD INTEGRIDAD PERSONAL Y SEGURIDAD SOCIAL. SUMINISTRO DE MEDICAMENTOS NO INCLUIDOS EN EL POS. LEGITIMACION PARA ACTUAR. AGENCIA OFICIOSA. FALTA DE PRUEBA. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "AGENCIA OFICIOSA EN TUTELA",
+      "subtema": "Hermano del afectado en salud"
+    },
+    {
+      "tema": "DERECHO A LA VIDA Y A LA DIGNIDAD HUMANA",
+      "subtema": "No existe prueba de vulneración por no entrega de medicamentos"
+    },
+    {
+      "tema": "PLAN OBLIGATORIO DE SALUD",
+      "subtema": "Exclusión de medicamentos"
+    }
+  ]
+}

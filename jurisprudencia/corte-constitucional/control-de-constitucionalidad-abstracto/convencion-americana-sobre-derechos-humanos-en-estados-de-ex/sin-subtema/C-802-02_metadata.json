@@ -1,0 +1,932 @@
+{
+  "radicado": "C-802-02",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2002,
+  "fecha_creacion": "2002-10-02",
+  "magistrado_ponente": null,
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "CONVENCION AMERICANA SOBRE DERECHOS HUMANOS EN ESTADOS DE EXCEPCION",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2067 de 1991",
+    "Decreto 1837 de 2002",
+    "Decreto 1038 de 1984",
+    "Decreto 1837 de 2000",
+    "Ley 137 de 1994",
+    "Ley 387 de 1997",
+    "Ley 733 de 2001",
+    "Decreto 333 de 1992",
+    "Decreto Ley 1 de 1984",
+    "Decreto 1370 de 1995",
+    "Decreto 3742 de 1982",
+    "Ley 137 de 1993",
+    "Decreto 195 de 1999",
+    "Ley 733 de 2002",
+    "Decreto 2667 de 2001",
+    "Ley 747 de 2002",
+    "Ley 759 de 2002",
+    "Ley 599 de 2000",
+    "Ley 548 de 1999",
+    "Ley 642 de 2001",
+    "Ley 16 de 1972",
+    "Ley 70 de 1986",
+    "Ley 74 de 1968",
+    "Ley 28 de 1959",
+    "Decreto 680 de 1992",
+    "Decreto 1155 de 1992",
+    "Decreto 1793 de 1992",
+    "Decreto 974 de 1994",
+    "Decreto 1178 de 1994",
+    "Decreto 1900 de 1995",
+    "Decreto 80 de 1997",
+    "Decreto 2330 de 1998"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2002/C-802-02.htm",
+  "fecha_descarga": "2026-10-23T00:56:56.222056+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2002-10-02",
+  "fecha_publicacion": null,
+  "numero": "C-802/02",
+  "tipo_cc": "C",
+  "prov_id": "21207",
+  "tema_relatoria": "CONMOCION INTERIOR. NO INTERRUPCIÓN DE NORMAL FUNCIONAMIENTO DE RAMAS DEL PODER PÚBLICO Y ÓRGANOS DEL ESTADO",
+  "resumen": "DECRETO LEGISLATIVO 1837 DE 2002. CONMOCION INTERIOR. ESTADOS DE EXCEPCION. ASAMBLEA NACIONAL CONSTITUYENTE. COLISION POSITIVA DE COMPETENCIAS. FACULTADES EXCEPCIONALES DEL PRESIDENTE. ORDEN PUBLICO. AUTORIDADES DE POLICIA. ATRIBUCIONES O MEDIDAS ORDINARIAS",
+  "titulaciones": [
+    {
+      "tema": "CONVENCION AMERICANA SOBRE DERECHOS HUMANOS EN ESTADOS DE EXCEPCION",
+      "subtema": null
+    },
+    {
+      "tema": "ACTO DE GOBIERNO",
+      "subtema": "Control jurisdiccional"
+    },
+    {
+      "tema": "ACTO JURIDICO DE PODER PUBLICO",
+      "subtema": "Control"
+    },
+    {
+      "tema": "ACTO POLITICO",
+      "subtema": "Evolución histórica del control jurisdiccional"
+    },
+    {
+      "tema": "CONMOCION INTERIOR",
+      "subtema": "Facultades del Ejecutivo"
+    },
+    {
+      "tema": "CONMOCION INTERIOR",
+      "subtema": "Límites en declaración y atribuciones"
+    },
+    {
+      "tema": "CONMOCION INTERIOR",
+      "subtema": "Presupuestos"
+    },
+    {
+      "tema": "CONTROL DE CONSTITUCIONALIDAD DE DECRETO DECLARATORIO DE CONMOCION INTERIOR",
+      "subtema": "Análisis doble en aspectos económicos"
+    },
+    {
+      "tema": "CONTROL DE CONSTITUCIONALIDAD DE DECRETO DECLARATORIO DE CONMOCION INTERIOR",
+      "subtema": "Competencia de la Corte Constitucional según normatividad constitucional"
+    },
+    {
+      "tema": "CONTROL DE CONSTITUCIONALIDAD DE DECRETO DECLARATORIO DE CONMOCION INTERIOR",
+      "subtema": "Límites al legislador excepcional en materia de gasto público"
+    },
+    {
+      "tema": "CONTROL DE CONSTITUCIONALIDAD POR LA CORTE CONSTITUCIONAL",
+      "subtema": "Asuntos objeto de control formal y material"
+    },
+    {
+      "tema": "CONMOCION INTERIOR EN LA CONSTITUCION DE 1991",
+      "subtema": "Ambitos de regulación"
+    },
+    {
+      "tema": "CONMOCION INTERIOR",
+      "subtema": "Competencia para declaración"
+    },
+    {
+      "tema": "CONMOCION INTERIOR",
+      "subtema": "Condicionamiento material de decretos declaratorios y de desarrollo"
+    },
+    {
+      "tema": "CONTROL DE CONSTITUCIONALIDAD DE DECRETO DECLARATORIO DE CONMOCION INTERIOR",
+      "subtema": "Inconstitucionalidad por medidas sobre gasto público en Fuerza Pública"
+    },
+    {
+      "tema": "CONTROL DE CONSTITUCIONALIDAD DE DECRETO DECLARATORIO DE CONMOCION INTERIOR",
+      "subtema": "Presupuestos de verificación"
+    },
+    {
+      "tema": "CONMOCION INTERIOR",
+      "subtema": "Alcance de facultades del Ejecutivo"
+    },
+    {
+      "tema": "CONMOCION INTERIOR",
+      "subtema": "No interrupción de normal funcionamiento de ramas del poder público y órganos del Estado"
+    },
+    {
+      "tema": "ALCALDE",
+      "subtema": "Amenaza por grupos armados irregulares"
+    },
+    {
+      "tema": "CONFLICTO ARMADO INTERNO",
+      "subtema": "Consecuencias"
+    },
+    {
+      "tema": "CONFLICTO ARMADO INTERNO",
+      "subtema": "Toma de municipios por grupos armados irregulares"
+    },
+    {
+      "tema": "CONFLICTO ARMADO INTERNO",
+      "subtema": "Intensificación y expansión"
+    },
+    {
+      "tema": "CONFLICTO ARMADO INTERNO",
+      "subtema": "Alternativas de financiación de grupos armados irregulares"
+    },
+    {
+      "tema": "CONFLICTO DE JURISDICCION Y COMPETENCIA EN DECRETO DECLARATORIO DE CONMOCION INTERIOR",
+      "subtema": "Inexistencia"
+    },
+    {
+      "tema": "PRINCIPIOS DE NECESIDAD Y PROPORCIONALIDAD EN ESTADOS DE EXCEPCION",
+      "subtema": null
+    },
+    {
+      "tema": "CORTE CONSTITUCIONAL EN DECRETO LEGISLATIVO DE ESTADOS DE EXCEPCION",
+      "subtema": "Decisión definitiva sobre constitucionalidad"
+    },
+    {
+      "tema": "CORTE CONSTITUCIONAL EN MATERIA DE ESTADOS DE EXCEPCION",
+      "subtema": "Juez constitucional"
+    },
+    {
+      "tema": "CONTROL DE CONSTITUCIONALIDAD DE DECRETO DECLARATORIO DE CONMOCION INTERIOR",
+      "subtema": "Carácter más estricto en aspectos económicos"
+    },
+    {
+      "tema": "CONTROL DE CONSTITUCIONALIDAD DE DECRETO DECLARATORIO DE CONMOCION INTERIOR",
+      "subtema": "Etapas en la historia del derecho constitucional colombiano sobre la competencia"
+    },
+    {
+      "tema": "CONTROL DE CONSTITUCIONALIDAD DE DECRETO DECLARATORIO DE CONMOCION INTERIOR",
+      "subtema": "Precisión de contenido del razonamiento jurídico"
+    },
+    {
+      "tema": "CORTE CONSTITUCIONAL EN JURISDICCION CONSTITUCIONAL",
+      "subtema": "Organo de cierre"
+    },
+    {
+      "tema": "DERECHO CONSTITUCIONAL DE EXCEPCION DE ESTADOS PARTES",
+      "subtema": "Principios"
+    },
+    {
+      "tema": "DERECHO CONSTITUCIONAL DE EXCEPCION",
+      "subtema": "Rediseño transitorio del funcionamiento del Estado"
+    },
+    {
+      "tema": "DERECHO CONSTITUCIONAL DE EXCEPCION",
+      "subtema": "No interrupción de normal funcionamiento de ramas del poder público y órganos del Estado"
+    },
+    {
+      "tema": "ACTO ACLARATORIO DE ESTADOS DE EXCEPCION",
+      "subtema": "Control jurídico material"
+    },
+    {
+      "tema": "ACTO JURIDICO DE PODER EJECUTIVO",
+      "subtema": "Sujeción a la Constitución"
+    },
+    {
+      "tema": "BLOQUE DE CONSTITUCIONALIDAD EN DERECHOS HUMANOS Y LIBERTADES FUNDAMENTALES",
+      "subtema": "Prevalencia en el orden interno"
+    },
+    {
+      "tema": "BLOQUE DE CONSTITUCIONALIDAD EN ESTADOS DE EXCEPCION",
+      "subtema": "Requisitos de forma"
+    },
+    {
+      "tema": "BLOQUE DE CONSTITUCIONALIDAD EN DERECHO CONSTITUCIONAL DE EXCEPCION",
+      "subtema": "Conformación"
+    },
+    {
+      "tema": "BLOQUE DE CONSTITUCIONALIDAD EN ESTADOS DE EXCEPCION",
+      "subtema": "Proclamación y notificación"
+    },
+    {
+      "tema": "CONMOCION INTERIOR",
+      "subtema": "Condicionamiento material de acto declaratorio"
+    },
+    {
+      "tema": "CONMOCION INTERIOR",
+      "subtema": "No suspensión de derechos humanos ni libertades fundamentales"
+    },
+    {
+      "tema": "CONMOCION INTERIOR",
+      "subtema": "Regulación"
+    },
+    {
+      "tema": "ESTADOS DE EXCEPCION EN MATERIA DE DERECHOS HUMANOS",
+      "subtema": "Efectos"
+    },
+    {
+      "tema": "ESTADOS DE EXCEPCION",
+      "subtema": "Control político"
+    },
+    {
+      "tema": "ESTADOS DE EXCEPCION",
+      "subtema": "Principales anomalías o desviaciones"
+    },
+    {
+      "tema": "ESTADO IDEAL",
+      "subtema": "Significado"
+    },
+    {
+      "tema": "ESTADOS DE EXCEPCION",
+      "subtema": "Límites constitucionales"
+    },
+    {
+      "tema": "ESTADOS DE EXCEPCION",
+      "subtema": "Medidas necesarias y proporcionales"
+    },
+    {
+      "tema": "ESTADOS DE EXCEPCION",
+      "subtema": "Normas y principios que lo regulan"
+    },
+    {
+      "tema": "ESTADOS DE EXCEPCION",
+      "subtema": "Sistema eficaz de controles para garantía de límites al Ejecutivo"
+    },
+    {
+      "tema": "ESTADOS PARTES EN SITUACIONES EXCEPCIONALES",
+      "subtema": "Exigencias para suspensión de obligaciones contraídas"
+    },
+    {
+      "tema": "MUNICIPIO",
+      "subtema": "Importancia"
+    },
+    {
+      "tema": "PRINCIPIO DE COMPATIBILIDAD, CONCORDANCIA Y COMPLEMENTARIEDAD DE NORMAS DEL DERECHO INTERNACIONAL DE ESTADOS DE EXCEPCION",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "PRINCIPIO DE TEMPORALIDAD EN ESTADOS DE EXCEPCION",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "PRINCIPIO DE PROCLAMACION DE ESTADOS DE EXCEPCION",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "PRINCIPIO DE NOTIFICACION DE ESTADOS DE EXCEPCION",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "PRINCIPIO DE NO DISCRIMINACION DE ESTADOS DE EXCEPCION",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "ESTADOS DE ANORMALIDAD INSTITUCIONAL",
+      "subtema": "Indole excepcional, transitoria y restrictiva"
+    },
+    {
+      "tema": "ESTADOS DE EXCEPCION",
+      "subtema": "Control político y control jurídico"
+    },
+    {
+      "tema": "ESTADOS DE EXCEPCION",
+      "subtema": "Sujeción a controles internos e internacionales"
+    },
+    {
+      "tema": "ESTADO DE SITIO",
+      "subtema": "Abusos presentados"
+    },
+    {
+      "tema": "ESTADO REAL",
+      "subtema": "Significado"
+    },
+    {
+      "tema": "ESTADOS DE EXCEPCION",
+      "subtema": "Control jurídico lo impone la Constitución"
+    },
+    {
+      "tema": "ESTADOS DE EXCEPCION",
+      "subtema": "Controles de carácter jurisdiccional para protección de derechos"
+    },
+    {
+      "tema": "ESTADOS DE EXCEPCION",
+      "subtema": "Límites a medidas"
+    },
+    {
+      "tema": "ESTADOS DE EXCEPCION",
+      "subtema": "Naturaleza de restricciones sobre derechos no tangibles"
+    },
+    {
+      "tema": "ESTADOS DE EXCEPCION",
+      "subtema": "No investigación ni juzgamiento de civiles por justicia penal militar"
+    },
+    {
+      "tema": "ESTADOS DE EXCEPCION",
+      "subtema": "Régimen de juridicidad"
+    },
+    {
+      "tema": "DOCTRINA EUROPEA EN ESTADOS DE EXCEPCION",
+      "subtema": "Legitimad de medidas"
+    },
+    {
+      "tema": "DECLARACION DE CONMOCION INTERIOR",
+      "subtema": "Presupuesto es parámetro de validez de decretos dictados al amparo"
+    },
+    {
+      "tema": "DECLARACION DE ESTADOS DE EXCEPCION",
+      "subtema": "Responsabilidad del Presidente de la República y Ministros"
+    },
+    {
+      "tema": "DECRETO DECLARATORIO DE CONMOCION INTERIOR",
+      "subtema": "Exclusión de hecho no probado"
+    },
+    {
+      "tema": "DECRETO DECLARATORIO DE CONMOCION INTERIOR",
+      "subtema": "Precisión en tipo de límites y valoración del Presidente sobre suficiencia de medios ordinarios"
+    },
+    {
+      "tema": "DECRETO DECLARATORIO DE ESTADOS DE EXCEPCION",
+      "subtema": "Límites"
+    },
+    {
+      "tema": "DECRETO DECLARATORIO DE CONMOCION INTERIOR",
+      "subtema": "Acto jurídico con elemento reglado y discrecional"
+    },
+    {
+      "tema": "DECRETO DECLARATORIO DE CONMOCION INTERIOR",
+      "subtema": "Envío a la Corte Constitucional"
+    },
+    {
+      "tema": "DECRETO DECLARATORIO DE CONMOCION INTERIOR",
+      "subtema": "Existencia de instrumentos legales ordinarios"
+    },
+    {
+      "tema": "DECRETO DECLARATORIO DE CONMOCION INTERIOR",
+      "subtema": "No se probó hechos sobrevinientes ni falta de medios ordinarios"
+    },
+    {
+      "tema": "DECRETO DECLARATORIO DE CONMOCION INTERIOR",
+      "subtema": "Reproducción normativa de deber de envío a la Corte Constitucional"
+    },
+    {
+      "tema": "DECRETO DECLARATORIO DE ESTADOS DE EXCEPCION",
+      "subtema": "Presupuestos formales y materiales del Constituyente y legislador estatutario"
+    },
+    {
+      "tema": "DECRETO DECLARATORIO DE CONMOCION INTERIOR",
+      "subtema": "Fuerza y valor material de ley"
+    },
+    {
+      "tema": "DECRETO DECLARATORIO DE CONMOCION INTERIOR",
+      "subtema": "No son inusitados actos de terrorismo contra infraestructura de servicios esenciales"
+    },
+    {
+      "tema": "DECRETO DECLARATORIO DE ESTADOS DE EXCEPCION",
+      "subtema": "Sujeción a control jurídico y político"
+    },
+    {
+      "tema": "DECRETO DECLARATORIO Y DE DESARROLLO LEGISLATIVO DE CONMOCION INTERIOR",
+      "subtema": "Inescindibilidad indiscutible"
+    },
+    {
+      "tema": "DECRETO DECLARATORIO DE CONMOCION INTERIOR",
+      "subtema": "Inexistencia de hechos sobrevinientes"
+    },
+    {
+      "tema": "DECRETO DECLARATORIO DE ESTADOS DE EXCEPCION",
+      "subtema": "Naturaleza del control que ejerce la Corte Constitucional"
+    },
+    {
+      "tema": "DECLARACION DE CONMOCION INTERIOR",
+      "subtema": "Indicación general de libertades que resulta necesario restringir"
+    },
+    {
+      "tema": "DECLARACION DE CONMOCION INTERIOR",
+      "subtema": "Juicio sobre suficiencia de medidas ordinarias de policía"
+    },
+    {
+      "tema": "DECLARACION DE CONMOCION INTERIOR",
+      "subtema": "Decreto legislativo de desarrollo"
+    },
+    {
+      "tema": "DECLARACION DE CONMOCION INTERIOR",
+      "subtema": "Inferencias adicionales para examen de presupuesto valorativo"
+    },
+    {
+      "tema": "DECLARACION DE CONMOCION INTERIOR",
+      "subtema": "Legitimidad"
+    },
+    {
+      "tema": "DECLARACION DE CONMOCION INTERIOR",
+      "subtema": "Consideraciones cuantitativas y cualitativas en presupuesto valorativo"
+    },
+    {
+      "tema": "CORTE CONSTITUCIONAL",
+      "subtema": "Interpretación auténtica de la Constitución Política"
+    },
+    {
+      "tema": "DERECHO INTERNACIONAL HUMANITARIO",
+      "subtema": "Condición de ius cogens"
+    },
+    {
+      "tema": "DERECHO INTERNACIONAL HUMANITARIO",
+      "subtema": "Finalidad"
+    },
+    {
+      "tema": "JUSTICIA PENAL MILITAR",
+      "subtema": "Orbita funcional"
+    },
+    {
+      "tema": "JUSTICIA CONSTITUCIONAL",
+      "subtema": "Finalidad"
+    },
+    {
+      "tema": "ORDEN PUBLICO",
+      "subtema": "Alcance del concepto"
+    },
+    {
+      "tema": "PODER PUBLICO",
+      "subtema": "Sujeción al carácter normativo y supremo de la Constitución"
+    },
+    {
+      "tema": "CONTROL DE CONSTITUCIONALIDAD DE DECRETO DECLARATORIO DE CONMOCION INTERIOR",
+      "subtema": "Control formal y material"
+    },
+    {
+      "tema": "PACTO INTERNACIONAL DE DERECHOS CIVILES Y POLITICOS EN ESTADOS DE EXCEPCION",
+      "subtema": null
+    },
+    {
+      "tema": "ACTO JURIDICO",
+      "subtema": "Instancia de control jurídico"
+    },
+    {
+      "tema": "ALCALDE",
+      "subtema": "Importancia funcional"
+    },
+    {
+      "tema": "ALCALDE",
+      "subtema": "Amenaza para forzarlo a renunciar"
+    },
+    {
+      "tema": "ALCALDE",
+      "subtema": "Canal de expresión democrática"
+    },
+    {
+      "tema": "ALCALDIA",
+      "subtema": "Importancia"
+    },
+    {
+      "tema": "ACTO JURIDICO",
+      "subtema": "Sujeción a la Constitución"
+    },
+    {
+      "tema": "CONFLICTO ARMADO INTERNO",
+      "subtema": "Amenaza sistemática y generalizada de autoridades locales y regionales"
+    },
+    {
+      "tema": "CONFLICTO ARMADO INTERNO",
+      "subtema": "Atentados terroristas"
+    },
+    {
+      "tema": "CONFLICTO DE COMPETENCIA EN JURISDICCION CONSTITUCIONAL",
+      "subtema": "Imposibilidad"
+    },
+    {
+      "tema": "CONFLICTO ARMADO INTERNO",
+      "subtema": "Amenazas y atentados contra autoridades administrativas y judiciales"
+    },
+    {
+      "tema": "CONFLICTO ARMADO INTERNO",
+      "subtema": "Asesinatos de civiles"
+    },
+    {
+      "tema": "CONFLICTO ARMADO INTERNO",
+      "subtema": "Atentados contra infraestructura vial, eléctrica y de comunicaciones"
+    },
+    {
+      "tema": "DECLARACION DE CONMOCION INTERIOR",
+      "subtema": "Control político"
+    },
+    {
+      "tema": "DECLARACION DE CONMOCION INTERIOR",
+      "subtema": "Evaluación mínima de apreciación presidencial de insuficiencia de medidas ordinarias de policía"
+    },
+    {
+      "tema": "DECLARACION DE CONMOCION INTERIOR",
+      "subtema": "Requisitos necesarios"
+    },
+    {
+      "tema": "DECRETO DE ESTADOS DE EXCEPCION",
+      "subtema": "Control inmediato de legalidad sobre actos reglamentarios"
+    },
+    {
+      "tema": "DECRETO DECLARATORIO DE CONMOCION INTERIOR",
+      "subtema": "Improcedencia por situación crónica y no sobreviniente"
+    },
+    {
+      "tema": "DECRETO DECLARATORIO DE CONMOCION INTERIOR",
+      "subtema": "intensificación de comportamientos que afectan estabilidad institucional"
+    },
+    {
+      "tema": "CRIMINALIDAD",
+      "subtema": "Indice"
+    },
+    {
+      "tema": "DECLARACION DE CONMOCION INTERIOR",
+      "subtema": "Correspondencia entre presupuesto fáctico y ámbito material de regulación"
+    },
+    {
+      "tema": "DECLARACION DE CONMOCION INTERIOR",
+      "subtema": "Exigencia de concurrencia de presupuesto fáctico y suficiencia de medidas ordinarias de policía"
+    },
+    {
+      "tema": "DECLARACION DE CONMOCION INTERIOR",
+      "subtema": "Medidas requeridas"
+    },
+    {
+      "tema": "DECLARACION DE CONMOCION INTERIOR",
+      "subtema": "Presupuestos materiales"
+    },
+    {
+      "tema": "DECLARACION DE CONMOCION INTERIOR",
+      "subtema": "Responsabilidad"
+    },
+    {
+      "tema": "DERECHO EN ESTADOS DE EXCEPCION",
+      "subtema": null
+    },
+    {
+      "tema": "DERECHOS HUMANOS INTANGIBLES EN ESTADOS DE EXCEPCION",
+      "subtema": null
+    },
+    {
+      "tema": "ACTO POLITICO",
+      "subtema": "Control judicial"
+    },
+    {
+      "tema": "ACTO JURIDICO DE PODER PUBLICO",
+      "subtema": "Sujeción a la Constitución"
+    },
+    {
+      "tema": "DERECHO CONSTITUCIONAL DE EXCEPCION",
+      "subtema": "Ámbito"
+    },
+    {
+      "tema": "CONMOCION INTERIOR",
+      "subtema": "Requisitos formales para declaración"
+    },
+    {
+      "tema": "CONMOCION INTERIOR",
+      "subtema": "Naturaleza"
+    },
+    {
+      "tema": "CONMOCION INTERIOR",
+      "subtema": "Requisitos materiales para declaración"
+    },
+    {
+      "tema": "CONMOCION INTERIOR",
+      "subtema": "Facultades del Ejecutivo sujetas a la Constitución"
+    },
+    {
+      "tema": "CONMOCION INTERIOR",
+      "subtema": "Proporcionalidad entre grave perturbación del orden público y medidas adoptadas"
+    },
+    {
+      "tema": "CONMOCION INTERIOR",
+      "subtema": "Regulación legislativa sujeta a la Constitución"
+    },
+    {
+      "tema": "CONSTITUCION POLITICA",
+      "subtema": "Intérprete auténtico"
+    },
+    {
+      "tema": "CORTE CONSTITUCIONAL EN DECRETO DECLARATORIO DE ESTADOS DE EXCEPCION",
+      "subtema": "Competencia reconocida históricamente por la jurisprudencia nacional"
+    },
+    {
+      "tema": "CORTE CONSTITUCIONAL EN CONTROL DE CONSTITUCIONALIDAD DE DECRETO DECLARATORIO DE CONMOCION INTERIOR",
+      "subtema": "Juez único"
+    },
+    {
+      "tema": "CONTROL DE CONSTITUCIONALIDAD DE DECRETO DECLARATORIO DE CONMOCION INTERIOR",
+      "subtema": "Ajeno a juicios de oportunidad o conveniencia"
+    },
+    {
+      "tema": "CONTROL DE CONSTITUCIONALIDAD DE DECRETO DECLARATORIO DE CONMOCION INTERIOR",
+      "subtema": "Carácter automático y no rogado"
+    },
+    {
+      "tema": "CONTROL DE CONSTITUCIONALIDAD DE DECRETO DECLARATORIO DE CONMOCION INTERIOR",
+      "subtema": "Garantía institucional de presupuestos formales y materiales"
+    },
+    {
+      "tema": "CONTROL DE CONSTITUCIONALIDAD DE DECRETO DECLARATORIO DE CONMOCION INTERIOR",
+      "subtema": "Régimen constitucional anterior sobre competencia"
+    },
+    {
+      "tema": "CONTROL DE CONSTITUCIONALIDAD DE DECRETO DECLARATORIO DE ESTADOS DE EXCEPCION",
+      "subtema": "Carácter formal y material según línea jurisprudencial"
+    },
+    {
+      "tema": "CONTROL DE CONSTITUCIONALIDAD POR LA CORTE CONSTITUCIONAL DE DECRETO DECLARATORIO DE CONMOCION INTERIOR",
+      "subtema": "Determinación de respeto a límites constitucionales"
+    },
+    {
+      "tema": "CONTROL DE CONSTITUCIONALIDAD POR LA CORTE CONSTITUCIONAL",
+      "subtema": "Determinación expresa de objeto de control"
+    },
+    {
+      "tema": "CONTROL DE CONSTITUCIONALIDAD DE DECRETO DECLARATORIO DE CONMOCION INTERIOR",
+      "subtema": "Ambitos en determinación de contenidos del razonamiento jurídico"
+    },
+    {
+      "tema": "CONTROL DE CONSTITUCIONALIDAD DE DECRETO DECLARATORIO DE CONMOCION INTERIOR",
+      "subtema": "Inconstitucionalidad por reformas de fondo y estructurales al Estado en defensa y seguridad ciudadana"
+    },
+    {
+      "tema": "CONTROL DE CONSTITUCIONALIDAD DE DECRETO DECLARATORIO DE ESTADOS DE EXCEPCION",
+      "subtema": "Doctrina de la Corte Constitucional sobre competencia"
+    },
+    {
+      "tema": "CORTE CONSTITUCIONAL EN DECRETO DECLARATORIO DE CONMOCION INTERIOR",
+      "subtema": "Juez único"
+    },
+    {
+      "tema": "CONTROL DE CONSTITUCIONALIDAD DE DECRETO DECLARATORIO DE CONMOCION INTERIOR",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "CONTROL DE CONSTITUCIONALIDAD DE DECRETO DECLARATORIO DE CONMOCION INTERIOR",
+      "subtema": "Carácter formal y material"
+    },
+    {
+      "tema": "CONTROL DE CONSTITUCIONALIDAD DE DECRETO DECLARATORIO DE CONMOCION INTERIOR",
+      "subtema": "Control jurídico integral"
+    },
+    {
+      "tema": "CONTROL DE CONSTITUCIONALIDAD DE DECRETO DECLARATORIO DE CONMOCION INTERIOR",
+      "subtema": "Superación de juicio objetivo de ponderación"
+    },
+    {
+      "tema": "CONTROL DE CONSTITUCIONALIDAD POR LA CORTE CONSTITUCIONAL DE DECRETO DECLARATORIO DE ESTADOS DE EXCEPCION",
+      "subtema": "Carácter formal y material"
+    },
+    {
+      "tema": "CONTROL DE CONSTITUCIONALIDAD DE DECRETO DECLARATORIO DE CONMOCION INTERIOR",
+      "subtema": "Examen formal y de fondo"
+    },
+    {
+      "tema": "CONTROL DE CONSTITUCIONALIDAD DE DECRETO DECLARATORIO DE ESTADOS DE EXCEPCION",
+      "subtema": "Doctrina de la Corte Suprema de Justicia sobre competencia"
+    },
+    {
+      "tema": "CONTROL DE CONSTITUCIONALIDAD POR LA CORTE CONSTITUCIONAL DE DECRETO DECLARATORIO DE CONMOCION INTERIOR",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "CONTROL DE CONSTITUCIONALIDAD POR LA CORTE CONSTITUCIONAL DE DECRETO DECLARATORIO Y DE DESARROLLO LEGISLATIVO DE ESTADOS DE EXCEPCION",
+      "subtema": "Carácter formal y material"
+    },
+    {
+      "tema": "CONTROL DE CONSTITUCIONALIDAD POR LA CORTE CONSTITUCIONAL",
+      "subtema": "Asuntos objeto de control formal"
+    },
+    {
+      "tema": "CONTROL JURIDICO POR LA CORTE CONSTITUCIONAL",
+      "subtema": "Mecanismos diferentes"
+    },
+    {
+      "tema": "ORDEN PUBLICO",
+      "subtema": "Espacio de reconocimiento de derechos y deberes"
+    },
+    {
+      "tema": "EXISTENCIA DEL ESTADO",
+      "subtema": "Estados de anormalidad"
+    },
+    {
+      "tema": "ESTADOS DE EXCEPCION",
+      "subtema": "Alcance de la restricción de derechos"
+    },
+    {
+      "tema": "ESTADOS DE EXCEPCION",
+      "subtema": "Control jurídico"
+    },
+    {
+      "tema": "ESTADOS DE EXCEPCION",
+      "subtema": "Control jurídico por la Corte Constitucional"
+    },
+    {
+      "tema": "ESTADOS DE EXCEPCION",
+      "subtema": "Efecto sobre instituciones y Estado de derecho"
+    },
+    {
+      "tema": "ESTADOS DE EXCEPCION",
+      "subtema": "Límites a facultades del Ejecutivo para prevenir excesos"
+    },
+    {
+      "tema": "ESTADOS DE EXCEPCION",
+      "subtema": "Modelos constitucionales"
+    },
+    {
+      "tema": "ESTADOS DE EXCEPCION",
+      "subtema": "Naturaleza subjetiva de control político"
+    },
+    {
+      "tema": "ESTADOS DE EXCEPCION",
+      "subtema": "Restablecimiento del orden público por cesación de causas"
+    },
+    {
+      "tema": "ESTADOS DE EXCEPCION",
+      "subtema": "Antecedentes en la Asamblea Nacional Constituyente"
+    },
+    {
+      "tema": "ESTADOS DE EXCEPCION",
+      "subtema": "Control jurídico automático sobre decreto declaratorio y de desarrollo"
+    },
+    {
+      "tema": "ESTADOS DE EXCEPCION",
+      "subtema": "Controles para que potestades no degeneren en abuso"
+    },
+    {
+      "tema": "ESTADOS DE EXCEPCION",
+      "subtema": "Nueva regulación ante excesos"
+    },
+    {
+      "tema": "ORDEN PUBLICO",
+      "subtema": "Competencia en conservación y restauración"
+    },
+    {
+      "tema": "ORDEN PUBLICO",
+      "subtema": "Atentados indiscriminados contra población civil"
+    },
+    {
+      "tema": "PRINCIPIO DE AMENAZA EXCEPCIONAL DE ESTADOS DE EXCEPCION",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "PRINCIPIO DE INTANGIBILIDAD DE DERECHOS EN ESTADOS DE EXCEPCION",
+      "subtema": "Vías en que se origina extensión"
+    },
+    {
+      "tema": "PRINCIPIO DE PROPORCIONALIDAD EN ESTADOS DE EXCEPCION",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "PRINCIPIO DE LEGALIDAD EN ESTADOS DE EXCEPCION",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "PRINCIPIO DE INTANGIBILIDAD DE DERECHOS EN ESTADOS DE EXCEPCION",
+      "subtema": "No restricción del núcleo esencial de determinados derechos"
+    },
+    {
+      "tema": "PRINCIPIO DE INTANGIBILIDAD DE DERECHOS EN ESTADOS DE EXCEPCION",
+      "subtema": "Extensión"
+    },
+    {
+      "tema": "ESTADOS DE EXCEPCION",
+      "subtema": "Control jurídico objetivo"
+    },
+    {
+      "tema": "ESTADOS DE EXCEPCION",
+      "subtema": "Controles no son excluyentes"
+    },
+    {
+      "tema": "ESTADOS DE EXCEPCION",
+      "subtema": "Limitaciones institucionalizadas para ejercicio de facultades excepcionales"
+    },
+    {
+      "tema": "ESTADOS DE EXCEPCION",
+      "subtema": "Límites para evitar excesos"
+    },
+    {
+      "tema": "ESTADOS DE EXCEPCION",
+      "subtema": "Sistema de control"
+    },
+    {
+      "tema": "ESTADOS DE EXCEPCION",
+      "subtema": "Resistencia a la tentación del abuso"
+    },
+    {
+      "tema": "LEY ESTATUTARIA DE ESTADOS DE EXCEPCION",
+      "subtema": "Delimitación"
+    },
+    {
+      "tema": "PRINCIPIOS DE NECESIDAD Y ESPECIFICIDAD EN CONMOCION INTERIOR",
+      "subtema": "Exigencias en facultades del Ejecutivo"
+    },
+    {
+      "tema": "DERECHOS",
+      "subtema": "Multiplicidad funcional e interferencia"
+    },
+    {
+      "tema": "DERECHOS HUMANOS EN ESTADOS DE EXCEPCION",
+      "subtema": "Evolución de la protección internacional"
+    },
+    {
+      "tema": "DERECHOS HUMANOS Y ESTADOS DE EXCEPCION",
+      "subtema": "Evolución mundial"
+    },
+    {
+      "tema": "DECRETO DECLARATORIO DE CONMOCION INTERIOR",
+      "subtema": "Competencia incuestionable de la Corte Constitucional"
+    },
+    {
+      "tema": "DECRETO DECLARATORIO DE CONMOCION INTERIOR",
+      "subtema": "Inexistencia de hechos novedosos"
+    },
+    {
+      "tema": "DECRETO DECLARATORIO DE CONMOCION INTERIOR",
+      "subtema": "Materias que no demuestran insuficiencia de atribuciones ordinarias"
+    },
+    {
+      "tema": "DECRETO DE ESTADOS DE EXCEPCION",
+      "subtema": "Control automático de constitucionalidad"
+    },
+    {
+      "tema": "DECRETO DECLARATORIO DE CONMOCION INTERIOR",
+      "subtema": "Defecto en redacción por afirmaciones generales carentes de significado jurídico"
+    },
+    {
+      "tema": "DECRETO DECLARATORIO DE CONMOCION INTERIOR",
+      "subtema": "Existencia de amenaza real, inminente y actual contra estabilidad institucional, seguridad del Estado o convivencia ciudadana"
+    },
+    {
+      "tema": "DECRETO LEGISLATIVO DE ESTADOS DE EXCEPCION",
+      "subtema": "Tipos"
+    },
+    {
+      "tema": "DECRETO DECLARATORIO DE CONMOCION INTERIOR",
+      "subtema": "Afirmaciones retóricas o políticas irrelevantes"
+    },
+    {
+      "tema": "DECRETO DECLARATORIO DE CONMOCION INTERIOR",
+      "subtema": "Límites formales y materiales impuestos por el Constituyente"
+    },
+    {
+      "tema": "DECRETO LEGISLATIVO DE CONMOCION INTERIOR",
+      "subtema": "Competencia incuestionable de la Corte Constitucional"
+    },
+    {
+      "tema": "DECLARACION DE CONMOCION INTERIOR",
+      "subtema": "Atentado inminente contra estabilidad institucional, seguridad del Estado o convivencia ciudadana"
+    },
+    {
+      "tema": "DECLARACION DE ESTADOS DE EXCEPCION",
+      "subtema": "Perturbación que puede dar lugar"
+    },
+    {
+      "tema": "DECLARACION DE CONMOCION INTERIOR",
+      "subtema": "Conexidad teleológica con causas de perturbación"
+    },
+    {
+      "tema": "DECLARACION DE CONMOCION INTERIOR",
+      "subtema": "Presupuestos valorativos"
+    },
+    {
+      "tema": "DECLARACION DE ESTADOS DE EXCEPCION",
+      "subtema": "Cláusula de suspensión de obligaciones convencionales"
+    },
+    {
+      "tema": "DERECHO INTERNACIONAL HUMANITARIO",
+      "subtema": "Prevalencia en el orden jurídico interno"
+    },
+    {
+      "tema": "DERECHO INTERNACIONAL HUMANITARIO EN ESTADOS DE EXCEPCION",
+      "subtema": "Respeto de reglas"
+    },
+    {
+      "tema": "JURISDICCION CONSTITUCIONAL",
+      "subtema": "Concepción actual y función"
+    },
+    {
+      "tema": "VIDA DEL ESTADO",
+      "subtema": "Situaciones excepcionales"
+    },
+    {
+      "tema": "REGIMEN CONSTITUCIONAL DE ESTADOS DE EXCEPCION",
+      "subtema": "Sujeción al Estado social y democrático de derecho"
+    },
+    {
+      "tema": "SENTENCIA DE CONSTITUCIONALIDAD INTEGRADORA POR OMISION LEGISLATIVA RELATIVA",
+      "subtema": "Aplicación"
+    },
+    {
+      "tema": "DECRETO DECLARATORIO DE CONMOCION INTERIOR",
+      "subtema": "Hechos que inusitadamente adquieren mayor intensidad"
+    },
+    {
+      "tema": "DECLARACION DE CONMOCION INTERIOR",
+      "subtema": "Grave alteración del orden público"
+    }
+  ]
+}

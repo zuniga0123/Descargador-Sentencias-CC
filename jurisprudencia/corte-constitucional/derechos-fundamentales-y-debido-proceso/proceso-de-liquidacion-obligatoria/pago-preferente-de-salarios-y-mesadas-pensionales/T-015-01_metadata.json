@@ -1,0 +1,46 @@
+{
+  "radicado": "T-015-01",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2001,
+  "fecha_creacion": "2001-01-18",
+  "magistrado_ponente": "Dr ALFREDO BELTRÁN SIERRA",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "PROCESO DE LIQUIDACION OBLIGATORIA",
+  "subtema": "Pago preferente de salarios y mesadas pensionales",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 222 de 1995",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2001/T-015-01.htm",
+  "fecha_descarga": "2026-10-23T01:20:20.887296+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2001-01-18",
+  "fecha_publicacion": null,
+  "numero": "T-015/01",
+  "tipo_cc": "T",
+  "prov_id": "18467",
+  "tema_relatoria": "DERECHO A LA VIDA SEGURIDAD SOCIAL MINIMO VITAL Y PROTECCION DE LAS PERSONAS DE LA TERCERA EDAD. PAGO MESADAS PENSIONALES. MORA EN EL PAGO DE APORTES A SALUD POR EMPLEADOR. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "PROCESO DE LIQUIDACION OBLIGATORIA",
+      "subtema": "Pago preferente de salarios y mesadas pensionales"
+    },
+    {
+      "tema": "EMPLEADOR",
+      "subtema": "Asunción de responsabilidad por mora en aportes en salud"
+    },
+    {
+      "tema": "DERECHO A LA VIDA DIGNA DEL PENSIONADO",
+      "subtema": "Pago oportuno de mesadas por compañía de inversiones de Flota Mercante"
+    },
+    {
+      "tema": "PERJUICIO IRREMEDIABLE",
+      "subtema": "No pago oportuno de mesadas pensionales por situación concordataria de empresa"
+    }
+  ]
+}

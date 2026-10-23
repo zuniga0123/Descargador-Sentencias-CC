@@ -1,0 +1,51 @@
+{
+  "radicado": "T-1073-01",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2001,
+  "fecha_creacion": "2001-10-11",
+  "magistrado_ponente": "Dra CLARA INÉS VARGAS HERNÁNDEZ",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "CESANTIAS PARCIALES",
+  "subtema": "Reconocimiento no sujeto a disponibilidad presupuestal",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 1775 de 1990",
+    "Ley 344 de 1996",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2001/T-1073-01.htm",
+  "fecha_descarga": "2026-10-23T01:19:09.032886+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2001-10-11",
+  "fecha_publicacion": null,
+  "numero": "T-1073/01",
+  "tipo_cc": "T",
+  "prov_id": "19826",
+  "tema_relatoria": "DERECHO DE PETICION VIVIENDA Y VIDA DE DOCENTE. SOLICITUD CESANTIAS PARCIALES PARA REPARACIONES LOCATIVAS. RESPUESTA CLARA Y OPORTUNA. DISPONIBILIDAD PRESUPUESTAL. FIDUCIARIA LA PREVISORA S.A. CONCEDIDA PARCIALMENTE.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "CESANTIAS PARCIALES",
+      "subtema": "Reconocimiento no sujeto a disponibilidad presupuestal"
+    },
+    {
+      "tema": "DERECHO DE PETICION Y DERECHO A LO PEDIDO",
+      "subtema": "Diferencias"
+    },
+    {
+      "tema": "DERECHO DE PETICION EN CESANTIAS PARCIALES",
+      "subtema": "Pronta resolución y decisión de fondo"
+    },
+    {
+      "tema": "DERECHO A LA VIVIENDA DIGNA",
+      "subtema": "Carácter prestacional"
+    },
+    {
+      "tema": "FIDUCIARIA LA PREVISORA",
+      "subtema": "Respuesta sobre solicitud de cesantías parciales"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "radicado": "SU110-02",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2002,
+  "fecha_creacion": "2002-02-20",
+  "magistrado_ponente": null,
+  "area": "Derecho Penal y Sistema Acusatorio",
+  "tema": "PRINCIPIO DE TERRITORIALIDAD DE LA LEY PENAL",
+  "subtema": "Alcance sobre ilícitos cometidos parcial o totalmente",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 100 de 1980",
+    "Decreto 2591 de 1991",
+    "Decreto Ley 2700 de 1991",
+    "Ley 599 de 1999",
+    "Ley 600 de 2000"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2002/SU110-02.htm",
+  "fecha_descarga": "2026-10-23T01:14:32.920886+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2002-02-20",
+  "fecha_publicacion": null,
+  "numero": "SU.110/02",
+  "tipo_cc": "SU",
+  "prov_id": "20256",
+  "tema_relatoria": "DERECHO AL DEBIDO PROCESO DEFENSA E IGUALDAD. ACCESO A LA ADMINISTRACION DE JUSTICIA. EXTRADICION NACIONALES COLOMBIANOS POR NACIMIENTO. DELITOS COMETIDOS EN EL EXTERIOR. AUTONOMIA DE LA CORTE SUPREMA DE JUSTICIA PARA EVALUAR LA PROCEDENCIA. JURISDICCION",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "PRINCIPIO DE TERRITORIALIDAD DE LA LEY PENAL",
+      "subtema": "Alcance sobre ilícitos cometidos parcial o totalmente"
+    },
+    {
+      "tema": "DERECHO A LA IGUALDAD",
+      "subtema": "No existe vulneración cuando no se aplica el precedente que está supeditado a identidad de supuestos fácticos"
+    },
+    {
+      "tema": "EXTRADICION",
+      "subtema": "Ausencia de hecho consumado cuando ya se ha remitido al Estado requiriente a la persona solicitada"
+    },
+    {
+      "tema": "EXTRADICION",
+      "subtema": "Régimen aplicable es el del Código de Procedimiento Penal vigente"
+    },
+    {
+      "tema": "EXTRADICION",
+      "subtema": "Autonomía de la Corte Suprema de Justicia para evaluar las condiciones de procedencia"
+    },
+    {
+      "tema": "EXTRADICION",
+      "subtema": "Delitos cometidos parcial o totalmente en el exterior"
+    },
+    {
+      "tema": "EXTRADICION",
+      "subtema": "Naturaleza"
+    },
+    {
+      "tema": "EXTRADICION",
+      "subtema": "Existencia de proceso penal en Colombia se aplica jurisdicción penal colombiana"
+    }
+  ]
+}

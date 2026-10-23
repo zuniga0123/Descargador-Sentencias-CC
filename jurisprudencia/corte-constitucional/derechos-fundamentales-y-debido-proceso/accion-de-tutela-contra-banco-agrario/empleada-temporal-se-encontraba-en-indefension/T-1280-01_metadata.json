@@ -1,0 +1,51 @@
+{
+  "radicado": "T-1280-01",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2001,
+  "fecha_creacion": "2001-11-30",
+  "magistrado_ponente": "Dra CLARA INÉS VARGAS HERNÁNDEZ",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCION DE TUTELA CONTRA BANCO AGRARIO",
+  "subtema": "Empleada temporal se encontraba en indefensión",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Decreto 2591 de 1991",
+    "Ley 50 de 1990"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2001/T-1280-01.htm",
+  "fecha_descarga": "2026-10-23T01:17:41.682448+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2001-11-30",
+  "fecha_publicacion": "2001-02-11",
+  "numero": "T-1280/01",
+  "tipo_cc": "T",
+  "prov_id": "20055",
+  "tema_relatoria": "DERECHOS A LA VIDA SALUD Y TRABAJO. SOLICITUD REINTEGRO AL CARGO DE EMPLEADA DE EMPRESA DE SERVICIOS TEMPORALES EN MISION DESPEDIDA POR CAUSA DE ENFERMEDAD. PROTECCION CONSTITUCIONAL A PERSONAS QUE SE ENCUENRAN EN ESTADO DE DEBILIDAD MANIFIESTA. MINIMO VI",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCION DE TUTELA CONTRA BANCO AGRARIO",
+      "subtema": "Empleada temporal se encontraba en indefensión"
+    },
+    {
+      "tema": "ACCION DE TUTELA TRANSITORIA",
+      "subtema": "Procedencia para empleada temporal por cáncer"
+    },
+    {
+      "tema": "CONTRATO DE TRABAJO TEMPORAL",
+      "subtema": "Objeto no había desaparecido"
+    },
+    {
+      "tema": "CONTRATO DE TRABAJO TEMPORAL",
+      "subtema": "Corresponde a jurisdicción ordinaria decidir si se terminó con justa causa o sin ella"
+    },
+    {
+      "tema": "EMPRESA DE SERVICIOS TEMPORALES Y EMPRESA USUARIA",
+      "subtema": "Las dos pueden ser sujeto pasivo de acción de tutela"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "radicado": "T-223-01",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2001,
+  "fecha_creacion": "2001-02-22",
+  "magistrado_ponente": "Dr FABIO MORON DIAZ",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "ACCIÓN DE TUTELA",
+  "subtema": "Subsidiariedad",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 1572 de 1998",
+    "Ley 16 de 1972",
+    "Decreto 2591 de 1991",
+    "Decreto 2504 de 1998"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2001/T-223-01.htm",
+  "fecha_descarga": "2026-10-23T01:20:28.171871+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2001-02-22",
+  "fecha_publicacion": null,
+  "numero": "T-223/01",
+  "tipo_cc": "T",
+  "prov_id": "18742",
+  "tema_relatoria": "DERECHO DE ASOCIACION SINDICAL Y TRABAJO. DESPIDO DE TRABAJADORES SINDICALIZADOS. REINTEGRO. INDEMNIZACION POR SUPRESION DEL CARGO. REESTRUCTURACION. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Subsidiariedad"
+    },
+    {
+      "tema": "PROCESO DE REESTRUCTURACION",
+      "subtema": "Pago de indemnización"
+    },
+    {
+      "tema": "PERJUICIO IRREMEDIABLE",
+      "subtema": "Inexistencia por pago de indemnización"
+    },
+    {
+      "tema": "MEDIO DE DEFENSA JUDICIAL",
+      "subtema": "Reintegro al cargo"
+    }
+  ]
+}

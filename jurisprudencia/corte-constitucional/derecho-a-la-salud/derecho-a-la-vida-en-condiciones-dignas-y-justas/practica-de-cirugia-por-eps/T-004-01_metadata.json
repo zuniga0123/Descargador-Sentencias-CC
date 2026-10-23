@@ -1,0 +1,71 @@
+{
+  "radicado": "T-004-01",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2001,
+  "fecha_creacion": "2001-01-15",
+  "magistrado_ponente": "Dra MARTHA VICTORIA SÁCHICA MÉNDEZ",
+  "area": "Derecho a la Salud",
+  "tema": "DERECHO A LA VIDA EN CONDICIONES DIGNAS Y JUSTAS",
+  "subtema": "Práctica de cirugía por EPS",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 222 de 1995",
+    "Ley 100 de 1993",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2001/T-004-01.htm",
+  "fecha_descarga": "2026-10-23T01:20:17.284634+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2001-01-15",
+  "fecha_publicacion": null,
+  "numero": "T-004/01",
+  "tipo_cc": "T",
+  "prov_id": "18446",
+  "tema_relatoria": "DERECHO A LA SALUD. PROGRAMACION Y REALIZACION INTERVENCION QUIRURGICA. PAGO APORTES A SEGURIDAD SOCIAL POR EMPLEADOR. PRESTACION SERVICIOS MEDICOS ASISTENCIALES A AFILIADOS DE EMPRESA EN LIQUIDACION OBLIGATORIA. CONCECIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA VIDA EN CONDICIONES DIGNAS Y JUSTAS",
+      "subtema": "Práctica de cirugía por EPS"
+    },
+    {
+      "tema": "PROCESO DE LIQUIDACION OBLIGATORIA",
+      "subtema": "Pago oportuno y completo de salarios, prestaciones sociales y seguridad social"
+    },
+    {
+      "tema": "ENTIDAD PROMOTORA DE SALUD",
+      "subtema": "Responsabilidad subsidiaria en protección de la salud del trabajador"
+    },
+    {
+      "tema": "ENTIDAD PROMOTORA DE SALUD",
+      "subtema": "Debe realizar cirugía por encontrarse el empleador en proceso de liquidación obligatoria"
+    },
+    {
+      "tema": "ENTIDAD PROMOTORA DE SALUD",
+      "subtema": "No se practica cirugía por mora en aportes de empresa en liquidación"
+    },
+    {
+      "tema": "DERECHO A LA VIDA EN CONDICIONES DIGNAS Y JUSTAS",
+      "subtema": "Dolor"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Protección preventiva y no sólo en caso de gravedad"
+    },
+    {
+      "tema": "REGIMEN CONTRIBUTIVO DE SEGURIDAD SOCIAL EN SALUD",
+      "subtema": "Vinculación"
+    },
+    {
+      "tema": "EMPRESA EN LIQUIDACION",
+      "subtema": "Mora en aportes a seguridad social en salud"
+    },
+    {
+      "tema": "EMPLEADOR",
+      "subtema": "Asunción de responsabilidad por no pago de aportes en salud"
+    }
+  ]
+}

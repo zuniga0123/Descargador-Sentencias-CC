@@ -1,0 +1,52 @@
+{
+  "radicado": "C-008-02",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2002,
+  "fecha_creacion": "2002-01-23",
+  "magistrado_ponente": "Dra CLARA INÉS VARGAS HERNÁNDEZ",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "DEMANDA DE INCONSTITUCIONALIDAD",
+  "subtema": "Requisitos mínimos",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 142 de 1994",
+    "Decreto 2067 de 1991",
+    "Ley 40 de 1990",
+    "Ley 42 de 1994"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2002/C-008-02.htm",
+  "fecha_descarga": "2026-10-23T01:01:38.365986+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2002-01-23",
+  "fecha_publicacion": null,
+  "numero": "C-008/02",
+  "tipo_cc": "C",
+  "prov_id": "20138",
+  "tema_relatoria": "FALLO INHIBITORIO POR INEPTITUD DE DEMANDA DE INCONSTITUCIONALIDAD CONTRA NORMA DE LA LEY 142 DE 1994",
+  "resumen": "LEY 142 DE 1994. ART. 96 (P.). SERVICIOS PUBLICOS DOMICILIARIOS. OTROS COBROS TARIFARIOS POR RECONEXION Y REINSTALACION. PAGO INTERESES DE MORA. IMPOSICION DE MULTAS O SANCIONES. INEPTITUD SUSTANTIVA DE LA DEMANDA. FALTA DE CONCEPTO. INHIBIDA.",
+  "titulaciones": [
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "Requisitos mínimos"
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "Acusación fundada en razones legales"
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "Argumentación concreta"
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "Requisitos de los cargos de inconstitucionalidad"
+    },
+    {
+      "tema": "INHIBICION DE LA CORTE CONSTITUCIONAL",
+      "subtema": "Formulación aparente de cargos"
+    }
+  ]
+}

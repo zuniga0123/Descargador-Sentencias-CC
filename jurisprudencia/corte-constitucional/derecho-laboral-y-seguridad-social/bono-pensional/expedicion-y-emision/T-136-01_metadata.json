@@ -1,0 +1,39 @@
+{
+  "radicado": "T-136-01",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2001,
+  "fecha_creacion": "2001-02-07",
+  "magistrado_ponente": "Dr CARLOS GAVIRIA DÍAZ",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "BONO PENSIONAL",
+  "subtema": "Expedición y emisión",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Decreto 1474 de 1997",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2001/T-136-01.htm",
+  "fecha_descarga": "2026-10-23T01:21:25.803063+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2001-02-07",
+  "fecha_publicacion": null,
+  "numero": "T-136/01",
+  "tipo_cc": "T",
+  "prov_id": "18631",
+  "tema_relatoria": "DERECHOS A LA VIDA IGUALDAD Y SEGURIDAD SOCIAL. SOLICITUD EXPEDICION REMISION Y PAGO DEL BONO PENSIONAL. ISS. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "BONO PENSIONAL",
+      "subtema": "Expedición y emisión"
+    },
+    {
+      "tema": "PENSION DE JUBILACION",
+      "subtema": "No puede negarse si el bono pensional no ha sido obtenido"
+    }
+  ]
+}

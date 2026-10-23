@@ -1,0 +1,64 @@
+{
+  "radicado": "C-561-02",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2002,
+  "fecha_creacion": "2002-07-24",
+  "magistrado_ponente": "Dr RODRIGO ESCOBAR GIL",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "DEMANDA DE INCONSTITUCIONALIDAD",
+  "subtema": "Inexistencia de relación causal entre contenido de disposición acusada y cargo formulado",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2304 de 1989",
+    "Decreto 2067 de 1991",
+    "Decreto 1 de 1984",
+    "Ley 270 de 1996"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2002/C-561-02.htm",
+  "fecha_descarga": "2026-10-23T01:05:41.238819+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2002-07-24",
+  "fecha_publicacion": null,
+  "numero": "C-561/02",
+  "tipo_cc": "C",
+  "prov_id": "20807",
+  "tema_relatoria": "COSA JUZGADA CONSTITUCIONAL EN PROCEDENCIA DE ACCIÓN DE REPETICIÓN EN CONTRA DE AGENTES",
+  "resumen": "CODIGO CONTENCIOSO ADMINISTRATIVO. ARTS. 77 78 Y 217. SUBROGADO POR DECRETO 2304 DE 1989. ART. 54. ACTOS Y HECHOS QUE DAN LUGAR A RESPONSABILIDAD DE DAÑOS CAUSADOS POR CULPA GRAVE O DOLO EN EJERCICIO DE FUNCIONES. CONTROVERSIAS CONTRACTUALES. ESTESE A LO RESUELTO EN C-100/01 y C-430/00",
+  "titulaciones": [
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "Inexistencia de relación causal entre contenido de disposición acusada y cargo formulado"
+    },
+    {
+      "tema": "INHIBICION DE LA CORTE CONSTITUCIONAL",
+      "subtema": "Cargos indirectos e irrazonables"
+    },
+    {
+      "tema": "INHIBICION DE LA CORTE CONSTITUCIONAL",
+      "subtema": "Cargos no predicados de norma demandada"
+    },
+    {
+      "tema": "COSA JUZGADA CONSTITUCIONAL",
+      "subtema": "Procedencia de acción de repetición en contra de agentes"
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "Cargo concreto, específico y directo"
+    },
+    {
+      "tema": "COSA JUZGADA CONSTITUCIONAL",
+      "subtema": "Actos y hechos que dan lugar a responsabilidad de funcionarios y jurisdicción competente"
+    },
+    {
+      "tema": "INHIBICION DE LA CORTE CONSTITUCIONAL",
+      "subtema": "Acusación no formulada contra normas que se ocupan específicamente del tema"
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "Requisitos mínimos"
+    }
+  ]
+}

@@ -1,0 +1,558 @@
+{
+  "radicado": "C-389-02",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2002,
+  "fecha_creacion": "2002-05-22",
+  "magistrado_ponente": null,
+  "area": "Derecho Constitucional Económico",
+  "tema": "LIBRE COMPETENCIA ECONOMICA EN SERVICIOS PUBLICOS",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 142 de 1994",
+    "Ley 689 de 2001",
+    "Decreto 2067 de 1991",
+    "Ley 40 de 1990",
+    "Decreto 1 de 1984",
+    "Ley 143 de 1994",
+    "Ley 286 de 1996",
+    "Decreto Ley 663 de 1993",
+    "Ley 45 de 1990",
+    "Decreto 250 de 1970"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2002/C-389-02.htm",
+  "fecha_descarga": "2026-10-23T01:07:50.440575+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2002-05-22",
+  "fecha_publicacion": null,
+  "numero": "C-389/02",
+  "tipo_cc": "C",
+  "prov_id": "20571",
+  "tema_relatoria": "CONTRATO DE SERVICIOS PUBLICOS DOMICILIARIOS. GARANTÍA CON TÍTULO VALOR DE PAGO DE FACTURAS NO SE APLICA AL SUSCRIPTOR O USUARIO DE INMUEBLES RESIDENCIALES",
+  "resumen": "LEY 142 DE 1994. ARTS. 87 (P.) 88 90 96 109 (PS.) 125 126 127 130 (P.) 134 138 141 144 147 152 (PS.) Y 159. LEY 689 DE 2001. ARTS. 18 Y 20 (PS.). SERVICIOS PUBLICOS DOMICILARIOS. REGIMEN TARIFARIO. REGULACION Y LIBERTAD DE TARIFAS",
+  "titulaciones": [
+    {
+      "tema": "LIBRE COMPETENCIA ECONOMICA EN SERVICIOS PUBLICOS",
+      "subtema": null
+    },
+    {
+      "tema": "LIBRE ACTIVIDAD ECONOMICA E INICIATIVA PRIVADA EN SERVICIOS PUBLICOS",
+      "subtema": null
+    },
+    {
+      "tema": "ACTO ADMINISTRATIVO UNILATERAL EN CUMPLIMIENTO DE LEY DE SERVICIOS PUBLICOS DOMICILIARIOS",
+      "subtema": "Pago de honorarios a auxiliares de la administración"
+    },
+    {
+      "tema": "ACTO ADMINISTRATIVO UNILATERAL",
+      "subtema": null
+    },
+    {
+      "tema": "CONTRATO DE PRESTACION DE SERVICIOS PUBLICOS DOMICILIARIOS",
+      "subtema": "Carácter oneroso y aplicación de normas de derecho privado"
+    },
+    {
+      "tema": "CONTRATO DE SERVICIOS PUBLICOS DOMICILIARIOS",
+      "subtema": "Suspensión del servicio o terminación del contrato por suscriptor o usuario"
+    },
+    {
+      "tema": "CONTRATO DE PRESTACION DE SERVICIOS PUBLICOS DOMICILIARIOS",
+      "subtema": "Obligaciones correlativas y no garantía con un título valor por usuarios"
+    },
+    {
+      "tema": "CONTRATO DE SERVICIOS PUBLICOS DOMICILIARIOS",
+      "subtema": "Garantía con título valor de pago de facturas no se aplica al suscriptor o usuario de inmuebles residenciales"
+    },
+    {
+      "tema": "CONTRATO DE SERVICIOS PUBLICOS DOMICILIARIOS",
+      "subtema": "Carácter oneroso"
+    },
+    {
+      "tema": "CONDICIONES UNIFORMES EN CONTRATO DE SERVICIOS PUBLICOS",
+      "subtema": "Garantía con título valor del pago de las facturas"
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "Existencia de cargo de inconstitucionalidad"
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "Forma en que criterio subjetivo del actor es incompatible con argumentación del cargo de inexequibilidad"
+    },
+    {
+      "tema": "FINES DEL ESTADO",
+      "subtema": "Contenido social"
+    },
+    {
+      "tema": "EMPRESAS DE SERVICIOS PUBLICOS DOMICILIARIOS Y USUARIO",
+      "subtema": "Relación jurídica de naturaleza contractual"
+    },
+    {
+      "tema": "EMPRESAS DE SERVICIOS PUBLICOS DOMICILIARIOS",
+      "subtema": "Fijación por ley de eventos de terminación del contrato por incumplimiento y corte del servicio"
+    },
+    {
+      "tema": "POSICION DOMINANTE EN EL MERCADO",
+      "subtema": "Doble connotación"
+    },
+    {
+      "tema": "PRINCIPIO DE ECONOMIA EN FUNCION ADMINISTRATIVA",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "LIBRE COMPETENCIA EN EMPRESAS DE SERVICIOS PUBLICOS DOMICILIARIOS",
+      "subtema": "Libertad del usuario de escoger entre varios proveedores en señalamiento libre de tarifas"
+    },
+    {
+      "tema": "LIBRE COMPETENCIA",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "LIBRE COMPETENCIA",
+      "subtema": "No es obstáculo a la intervención del Estado en la economía ni al logro de los fines del Estado social de derecho"
+    },
+    {
+      "tema": "REGIMEN TARIFARIO DE SERVICIOS PUBLICOS DOMICILIARIOS",
+      "subtema": "Régimen de regulación o de libertad"
+    },
+    {
+      "tema": "EMPRESAS DE SERVICIOS PUBLICOS DOMICILIARIOS",
+      "subtema": "Causas de resolución y corte"
+    },
+    {
+      "tema": "EMPRESAS DE SERVICIOS PUBLICOS DOMICILIARIOS",
+      "subtema": "Incumplimiento, terminación y corte del servicio"
+    },
+    {
+      "tema": "EMPRESAS DE SERVICIOS PUBLICOS DOMICILIARIOS",
+      "subtema": "No fijación libre de tarifas ante posición dominante"
+    },
+    {
+      "tema": "EMPRESAS DE SERVICIOS PUBLICOS DOMICILIARIOS",
+      "subtema": "Obligación del Estado de evitar o controlar cualquier abuso en el mercado nacional"
+    },
+    {
+      "tema": "EMPRESAS DE SERVICIOS PUBLICOS DOMICILIARIOS",
+      "subtema": "Resolución del contrato y corte del servicio al incumplir por un periodo de varios meses"
+    },
+    {
+      "tema": "EMPRESAS DE SERVICIOS PUBLICOS DOMICILIARIOS Y USUARIO",
+      "subtema": "Naturaleza de la relación jurídica y momento de existencia"
+    },
+    {
+      "tema": "EMPRESAS DE SERVICIOS PUBLICOS DOMICILIARIOS",
+      "subtema": "Actualización de tarifas durante el periodo de vigencia"
+    },
+    {
+      "tema": "EMPRESAS DE SERVICIOS PUBLICOS DOMICILIARIOS",
+      "subtema": "Fijación de tarifas como prestadoras del servicio sujeta al régimen de regulación"
+    },
+    {
+      "tema": "EMPRESAS DE SERVICIOS PUBLICOS DOMICILIARIOS Y USUARIO",
+      "subtema": "Características de la relación contractual"
+    },
+    {
+      "tema": "EMPRESAS DE SERVICIOS PUBLICOS DOMICILIARIOS",
+      "subtema": "Fijación por comisión de regulación de fórmulas de tarifas y modificación"
+    },
+    {
+      "tema": "EMPRESAS DE SERVICIOS PUBLICOS DOMICILIARIOS",
+      "subtema": "No prohibición de posición dominante en mercadeo determinado"
+    },
+    {
+      "tema": "EMPRESAS DE SERVICIOS PUBLICOS DOMICILIARIOS",
+      "subtema": "Suspensión de común acuerdo cuando lo solicite un suscriptor o usuario si conviene la empresa y tercero afectados"
+    },
+    {
+      "tema": "DELEGACION DE FUNCIONES PRESIDENCIALES EN SERVICIOS PUBLICOS DOMICILIARIOS",
+      "subtema": "Implica facultad para dictar normas administrativas"
+    },
+    {
+      "tema": "INHIBICION DE LA CORTE CONSTITUCIONAL",
+      "subtema": "Afirmaciones contradictorias"
+    },
+    {
+      "tema": "INHIBICION DE LA CORTE CONSTITUCIONAL",
+      "subtema": "No indicación clara, específica e inteligible de razones por las cuales norma acusada viola la Constitución"
+    },
+    {
+      "tema": "INHIBICION DE LA CORTE CONSTITUCIONAL",
+      "subtema": "Planteamientos enmarcados dentro de un aspecto puramente subjetivo"
+    },
+    {
+      "tema": "INHIBICION DE LA CORTE CONSTITUCIONAL",
+      "subtema": "Apreciaciones orientadas hacia un cargo de carácter legal"
+    },
+    {
+      "tema": "INHIBICION DE LA CORTE CONSTITUCIONAL",
+      "subtema": "Argumentación que no es de carácter constitucional"
+    },
+    {
+      "tema": "INHIBICION DE LA CORTE CONSTITUCIONAL",
+      "subtema": "No estructuración de concepto de violación"
+    },
+    {
+      "tema": "INHIBICION DE LA CORTE CONSTITUCIONAL",
+      "subtema": "Ausencia de razones del por qué criterios desconocen la Constitución"
+    },
+    {
+      "tema": "INHIBICION DE LA CORTE CONSTITUCIONAL",
+      "subtema": "Cargos que no son de constitucionalidad"
+    },
+    {
+      "tema": "INHIBICION DE LA CORTE CONSTITUCIONAL",
+      "subtema": "No estructuración ni presentación de cargo concreto de inconstitucionalidad"
+    },
+    {
+      "tema": "INHIBICION DE LA CORTE CONSTITUCIONAL",
+      "subtema": "Ausencia de concepto de vulneración"
+    },
+    {
+      "tema": "PRESIDENTE DE LA REPUBLICA EN SERVICIOS PUBLICOS DOMICILIARIOS",
+      "subtema": "Señalamiento de políticas generales de administración y control de eficiencia"
+    },
+    {
+      "tema": "POSICION DOMINANTE EN EMPRESAS DE SERVICIOS PUBLICOS DOMICILIARIOS",
+      "subtema": "Actuación de comisiones de regulación en desarrollar finalidad social de la intervención del Estado para evitar abuso"
+    },
+    {
+      "tema": "POSICION DOMINANTE EN EMPRESAS DE SERVICIOS PUBLICOS DOMICILIARIOS",
+      "subtema": "Doble connotación"
+    },
+    {
+      "tema": "PRINCIPIO PRO ACTIONE EN DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "Existencia de cargo"
+    },
+    {
+      "tema": "SERVICIOS PUBLICOS DOMICILIARIOS",
+      "subtema": "Conflictos entre órganos de control y empresas en honorarios de auxiliar de la administración"
+    },
+    {
+      "tema": "SERVICIOS PUBLICOS DOMICILIARIOS",
+      "subtema": "Obligación de garantizar con título valor en contratos uniformes el pago de facturas"
+    },
+    {
+      "tema": "SERVICIOS PUBLICOS DOMICILIARIOS",
+      "subtema": "Consentimiento de terceros afectados en suspensión del servicio o terminación del contrato"
+    },
+    {
+      "tema": "SERVICIOS PUBLICOS DOMICILIARIOS",
+      "subtema": "Regulación y libertad de tarifas"
+    },
+    {
+      "tema": "SERVICIOS PÚBLICOS",
+      "subtema": "Características constitucionales"
+    },
+    {
+      "tema": "SERVICIOS PUBLICOS DOMICILIARIOS",
+      "subtema": "Asunción por autoridad de valor si quien pidió la prueba demuestra incapacidad económica"
+    },
+    {
+      "tema": "SERVICIOS PUBLICOS DOMICILIARIOS",
+      "subtema": "Competencia en condiciones de igualdad"
+    },
+    {
+      "tema": "SERVICIOS PUBLICOS DOMICILIARIOS",
+      "subtema": "Incompetencia del legislador para fijar de manera directa las tarifas"
+    },
+    {
+      "tema": "SERVICIOS PUBLICOS DOMICILIARIOS",
+      "subtema": "Aumento implica una nueva tarifa"
+    },
+    {
+      "tema": "SERVICIOS PUBLICOS DOMICILIARIOS",
+      "subtema": "Inconstitucionalidad de capitalización de intereses moratorios"
+    },
+    {
+      "tema": "SERVICIOS PUBLICOS DOMICILIARIOS",
+      "subtema": "Satisfacción de necesidades básicas esenciales de las personas"
+    },
+    {
+      "tema": "SERVICIOS PUBLICOS DOMICILIARIOS",
+      "subtema": "Terminación por demolición de inmueble"
+    },
+    {
+      "tema": "SERVICIOS PÚBLICOS",
+      "subtema": "Concurrencia en prestación de particulares y Estado"
+    },
+    {
+      "tema": "SERVICIOS PÚBLICOS",
+      "subtema": "Intervención del Estado"
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "Requisitos mínimos"
+    },
+    {
+      "tema": "LIBERTAD DE CONFIGURACION LEGISLATIVA EN REGIMEN TARIFARIO DE SERVICIOS PUBLICOS DOMICILIARIOS",
+      "subtema": null
+    },
+    {
+      "tema": "ANATOCISMO",
+      "subtema": null
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "Argumentación debe ser formulada material y formalmente"
+    },
+    {
+      "tema": "CONTRATO DE SERVICIOS PUBLICOS DOMICILIARIOS",
+      "subtema": "Capitalización de intereses moratorios"
+    },
+    {
+      "tema": "CONTRATO DE SERVICIOS PUBLICOS DOMICILIARIOS",
+      "subtema": "Incumplimiento por varios meses o en forma repetida o en materias que afecten gravemente la empresa o terceros"
+    },
+    {
+      "tema": "CONTRATO DE SERVICIOS PUBLICOS DOMICILIARIOS",
+      "subtema": "Límites a la autonomía de la voluntad en suspensión por solicitud del usuario o suscriptor si convienen empresa y terceros afectados"
+    },
+    {
+      "tema": "CARGA PROCESAL",
+      "subtema": "Competencia legislativa para establecerla"
+    },
+    {
+      "tema": "CONTRATO DE SERVICIOS PUBLICOS",
+      "subtema": "Características"
+    },
+    {
+      "tema": "CONTRATO DE SERVICIOS PUBLICOS DOMICILIARIOS",
+      "subtema": "Aplicación de tasa de interés moratorio del Código Civil"
+    },
+    {
+      "tema": "CONTRATO DE SERVICIOS PUBLICOS DOMICILIARIOS",
+      "subtema": "Tasa de interés moratorio del Código Civil a usuarios de inmuebles residenciales"
+    },
+    {
+      "tema": "CONTRATO DE SERVICIOS PUBLICOS",
+      "subtema": "Connotaciones del vínculo contractual"
+    },
+    {
+      "tema": "COSA JUZGADA CONSTITUCIONAL",
+      "subtema": "Derecho a los servicios públicos domiciliarios"
+    },
+    {
+      "tema": "INHIBICION DE LA CORTE CONSTITUCIONAL",
+      "subtema": "Ausencia de cargo de inconstitucionalidad"
+    },
+    {
+      "tema": "INHIBICION DE LA CORTE CONSTITUCIONAL",
+      "subtema": "Discusión de naturaleza constitucional y no de carácter subjetivo"
+    },
+    {
+      "tema": "EMPRESAS DE SERVICIOS PUBLICOS DOMICILIARIOS Y USUARIO",
+      "subtema": "Incumplimiento de pago por la prestación puede acarrear imposición de sanción"
+    },
+    {
+      "tema": "EMPRESAS DE SERVICIOS PUBLICOS DOMICILIARIOS",
+      "subtema": "Libertad de cobrar, rebajar o exonerar a usuarios del pago de intereses moratorios o realización de convenios con deudores"
+    },
+    {
+      "tema": "EMPRESAS DE SERVICIOS PUBLICOS DOMICILIARIOS",
+      "subtema": "Medidas administrativas de intervención policiva que el mercado requiera"
+    },
+    {
+      "tema": "PRESIDENTE DE LA REPUBLICA EN SERVICIOS PUBLICOS DOMICILIARIOS",
+      "subtema": "Control, inspección y vigilancia de entidades prestadoras por medio de Superintendencia"
+    },
+    {
+      "tema": "PRESIDENTE DE LA REPUBLICA EN SERVICIOS PUBLICOS DOMICILIARIOS",
+      "subtema": "Señalamiento de políticas generales de administración y control de eficiencia por medio de comisiones de regulación si decide delegarlas"
+    },
+    {
+      "tema": "PRESIDENTE DE LA REPUBLICA EN SERVICIOS PUBLICOS DOMICILIARIOS",
+      "subtema": "Delegación de función de fijación de políticas de control y eficiencia"
+    },
+    {
+      "tema": "PRESUNCION LEGAL",
+      "subtema": "Admisión de prueba en contrario"
+    },
+    {
+      "tema": "LIBRE COMPETENCIA ECONOMICA",
+      "subtema": "Límites"
+    },
+    {
+      "tema": "LIBRE COMPETENCIA",
+      "subtema": "Dimensiones"
+    },
+    {
+      "tema": "EMPRESAS DE SERVICIOS PUBLICOS DOMICILIARIOS Y USUARIO",
+      "subtema": "Modalidad contractual"
+    },
+    {
+      "tema": "EMPRESAS DE SERVICIOS PUBLICOS DOMICILIARIOS",
+      "subtema": "Facultades a comisiones de regulación para modificar fórmulas tarifarias"
+    },
+    {
+      "tema": "EMPRESAS DE SERVICIOS PUBLICOS DOMICILIARIOS",
+      "subtema": "Fórmulas para la fijación de tarifas"
+    },
+    {
+      "tema": "EMPRESAS DE SERVICIOS PUBLICOS DOMICILIARIOS",
+      "subtema": "Modificación de fórmulas tarifarias no se utiliza para capitalizarlas ni financiarlas"
+    },
+    {
+      "tema": "ECONOMIA EN MATERIA DE SERVICIOS PUBLICOS",
+      "subtema": "Intervención del Estado"
+    },
+    {
+      "tema": "EMPRESAS DE SERVICIOS PUBLICOS DOMICILIARIOS",
+      "subtema": "Cobro de cargo fijo ante suspensión del servicio"
+    },
+    {
+      "tema": "EMPRESAS DE SERVICIOS PUBLICOS DOMICILIARIOS",
+      "subtema": "Control directo de tarifas donde existe posición dominante"
+    },
+    {
+      "tema": "EMPRESAS DE SERVICIOS PUBLICOS DOMICILIARIOS",
+      "subtema": "Libertad regulada en fijación de tarifas"
+    },
+    {
+      "tema": "EMPRESAS DE SERVICIOS PUBLICOS DOMICILIARIOS",
+      "subtema": "No libertad absoluta para fijar tarifas"
+    },
+    {
+      "tema": "ECONOMIA Y MERCADO DE BIENES Y SERVICIOS",
+      "subtema": "Intervención del Estado"
+    },
+    {
+      "tema": "EMPRESAS DE SERVICIOS PUBLICOS DOMICILIARIOS Y USUARIO",
+      "subtema": "Pago de interés de mora por incumplimiento de obligación de pagar el servicio"
+    },
+    {
+      "tema": "EMPRESAS DE SERVICIOS PUBLICOS DOMICILIARIOS",
+      "subtema": "Libertad vigilada en fijación de tarifas"
+    },
+    {
+      "tema": "EMPRESAS DE SERVICIOS PUBLICOS DOMICILIARIOS",
+      "subtema": "No adopción de manera automática de terminación por estar precedida de un debido proceso"
+    },
+    {
+      "tema": "DELEGACION DE FUNCIONES PRESIDENCIALES EN SERVICIOS PUBLICOS DOMICILIARIOS",
+      "subtema": "Implicaciones de regulación por comisiones sobre políticas de administración y control de eficiencia"
+    },
+    {
+      "tema": "DELEGACION DE FUNCIONES PRESIDENCIALES EN SERVICIOS PUBLICOS DOMICILIARIOS",
+      "subtema": "Regulación por comisiones de políticas generales de administración y control de eficiencia"
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "Razones por las cuales normas constitucionales se estiman violadas"
+    },
+    {
+      "tema": "DEBIDO PROCESO EN PRESTACION DE SERVICIOS PUBLICOS DOMICILIARIOS",
+      "subtema": "Terminación del contrato"
+    },
+    {
+      "tema": "INHIBICION DE LA CORTE CONSTITUCIONAL",
+      "subtema": "Ausencia de cargos"
+    },
+    {
+      "tema": "INHIBICION DE LA CORTE CONSTITUCIONAL",
+      "subtema": "No transcripción de disposición acusada"
+    },
+    {
+      "tema": "INHIBICION DE LA CORTE CONSTITUCIONAL",
+      "subtema": "Sustentación clara del concepto de violación"
+    },
+    {
+      "tema": "PRESIDENTE DE LA REPUBLICA EN SERVICIOS PUBLICOS DOMICILIARIOS",
+      "subtema": "Potestad de reglamentar leyes para asegurar cumplida ejecución"
+    },
+    {
+      "tema": "PRESUNCION LEGAL",
+      "subtema": "Establecimiento no desconoce derecho de defensa ni debido proceso"
+    },
+    {
+      "tema": "REGIMEN TARIFARIO DE SERVICIOS PUBLICOS DOMICILIARIOS",
+      "subtema": "Reglas generales en regulación por legislador"
+    },
+    {
+      "tema": "REGIMEN JURIDICO DE SERVICIOS PUBLICOS",
+      "subtema": "Fijación por el legislador"
+    },
+    {
+      "tema": "SERVICIOS PUBLICOS DOMICILIARIOS",
+      "subtema": "Anuencia de la empresa en resolución de suspensión de servicio o terminación de contrato"
+    },
+    {
+      "tema": "SERVICIOS PUBLICOS DOMICILIARIOS",
+      "subtema": "Cumplimiento pleno de función social en inmuebles de carácter residencial"
+    },
+    {
+      "tema": "SERVICIOS PUBLICOS DOMICILIARIOS",
+      "subtema": "Desarrollo de fines sociales de la intervención del Estado en la prestación"
+    },
+    {
+      "tema": "SERVICIOS PUBLICOS DOMICILIARIOS",
+      "subtema": "Funcionario para la práctica de pruebas y decisión de recursos"
+    },
+    {
+      "tema": "SERVICIOS PUBLICOS DOMICILIARIOS",
+      "subtema": "Libertad contractual para tomar y ejecutar decisiones en prestación no es absoluta"
+    },
+    {
+      "tema": "SERVICIOS PUBLICOS DOMICILIARIOS",
+      "subtema": "Objetivos de la reglamentación"
+    },
+    {
+      "tema": "SERVICIOS PUBLICOS EN EL ESTADO SOCIAL DE DERECHO",
+      "subtema": "Prestación eficiente a todos los habitantes del territorio nacional"
+    },
+    {
+      "tema": "SERVICIOS PUBLICOS DOMICILIARIOS",
+      "subtema": "Establecimiento de causales y mecanismos de control por las cuales la empresa no pueda negarse a suspender el servicio o terminar el contrato"
+    },
+    {
+      "tema": "SERVICIOS PUBLICOS DOMICILIARIOS",
+      "subtema": "Honorarios de auxiliares sufragados por partes iguales entre autoridad e interesados cuando soliciten la prueba"
+    },
+    {
+      "tema": "SERVICIOS PUBLICOS DOMICILIARIOS",
+      "subtema": "Regulación sujeta a la Constitución y a determinación previa y específica del legislador"
+    },
+    {
+      "tema": "SERVICIOS PÚBLICOS",
+      "subtema": "Concurrencia en prestación por comunidades organizadas o particulares"
+    },
+    {
+      "tema": "SERVICIOS PÚBLICOS",
+      "subtema": "Regulación, control y vigilancia por el Estado"
+    },
+    {
+      "tema": "SERVICIOS PUBLICOS DOMICILIARIOS",
+      "subtema": "No exigencia de cancelación de honorarios por usuario sin medios económicos para costos en práctica de prueba"
+    },
+    {
+      "tema": "SERVICIOS PUBLICOS DOMICILIARIOS",
+      "subtema": "Reglamentación"
+    },
+    {
+      "tema": "SERVICIOS PUBLICOS DOMICILIARIOS",
+      "subtema": "Significado"
+    },
+    {
+      "tema": "SERVICIOS PUBLICOS DOMICILIARIOS",
+      "subtema": "Tarifas no pueden ser fijadas por particulares"
+    },
+    {
+      "tema": "SERVICIOS PUBLICOS DOMICILIARIOS",
+      "subtema": "Determinación de entidades competentes para fijar tarifas"
+    },
+    {
+      "tema": "SERVICIOS PUBLICOS DOMICILIARIOS",
+      "subtema": "Legislador determina entidades competentes para fijar tarifas"
+    },
+    {
+      "tema": "SERVICIOS PÚBLICOS",
+      "subtema": "Competencia del legislador para determinar régimen jurídico en general"
+    },
+    {
+      "tema": "SERVICIOS PÚBLICOS",
+      "subtema": "Prestación no directa ni exclusiva por el Estado"
+    }
+  ]
+}

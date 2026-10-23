@@ -1,0 +1,45 @@
+{
+  "radicado": "C-108-02",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2002,
+  "fecha_creacion": "2002-02-20",
+  "magistrado_ponente": "Dr EDUARDO MONTEALEGRE LYNETT",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "COSA JUZGADA CONSTITUCIONAL",
+  "subtema": "Supresión, disolución y liquidación de organismos administrativos nacionales",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 489 de 1998"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2002/C-108-02.htm",
+  "fecha_descarga": "2026-10-23T01:00:57.201762+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2002-02-20",
+  "fecha_publicacion": null,
+  "numero": "C-108/02",
+  "tipo_cc": "C",
+  "prov_id": "20254",
+  "tema_relatoria": "COSA JUZGADA CONSTITUCIONAL EN SUPRESIÓN, DISOLUCIÓN Y LIQUIDACIÓN DE ORGANISMOS ADMINISTRATIVOS NACIONALES",
+  "resumen": "LEY 498 DE 1998. ART. 52. ORGANIZACIÓN Y FUNCIONAMIENTO DE LAS ENTIDADES DEL ORDEN NACIONAL. CREACION. FUSION. SUPRESION. REESTRUCTURACION. DISOLUCION. LIQUIDACION DE ENTIDADES U ORGANISMOS ADMINISTRATIVOS NACIONALES. FACULTADES EXTRAORDINARIAS DEL PRESIDENTE. ESTARSE A LO RESUELTO EN C-702/99",
+  "titulaciones": [
+    {
+      "tema": "COSA JUZGADA CONSTITUCIONAL",
+      "subtema": "Supresión, disolución y liquidación de organismos administrativos nacionales"
+    },
+    {
+      "tema": "COSA JUZGADA RELATIVA",
+      "subtema": "Problema constitucional idéntico a pesar de diferencias formales"
+    },
+    {
+      "tema": "COSA JUZGADA RELATIVA",
+      "subtema": "Estudio si cargos analizados son los mismos"
+    },
+    {
+      "tema": "COSA JUZGADA RELATIVA",
+      "subtema": "Restricción al cargo o problema estudiado"
+    }
+  ]
+}

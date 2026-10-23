@@ -1,0 +1,46 @@
+{
+  "radicado": "T-1060-01",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2001,
+  "fecha_creacion": "2001-10-05",
+  "magistrado_ponente": "Dr JAIME ARAÚJO RENTERÍA",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "DERECHO A LA SUBSISTENCIA DEL TRABAJADOR",
+  "subtema": "Pago oportuno de salarios",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 550 de 1999"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2001/T-1060-01.htm",
+  "fecha_descarga": "2026-10-23T01:18:58.159154+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2001-10-05",
+  "fecha_publicacion": null,
+  "numero": "T-1060/01",
+  "tipo_cc": "T",
+  "prov_id": "19807",
+  "tema_relatoria": "DERECHO A LA VIDA SUBSISTENCIA Y MINIMO VITAL DE PERSONAS DE LA TERCERA EDAD. PAGO OPORTUNO DE ACREENCIAS LABORALES. MESADAS PENSIONALES. DEFICIT PRESUPUESTAL. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA SUBSISTENCIA DEL TRABAJADOR",
+      "subtema": "Pago oportuno de salarios"
+    },
+    {
+      "tema": "EMPLEADOR",
+      "subtema": "Situación económica o presupuestal no es óbice para desconocer pago de mesadas pensionales"
+    },
+    {
+      "tema": "DERECHO AL MINIMO VITAL DEL PENSIONADO",
+      "subtema": "Presunción de afectación por no pago oportuno de mesadas"
+    },
+    {
+      "tema": "ENTIDAD PUBLICA",
+      "subtema": "Verificación de rubro presupuestal para pago de salarios"
+    }
+  ]
+}

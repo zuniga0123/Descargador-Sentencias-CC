@@ -1,0 +1,50 @@
+{
+  "radicado": "T-1340-01",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2001,
+  "fecha_creacion": "2001-12-11",
+  "magistrado_ponente": "Dr ALVARO TAFUR GALVIS",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "DEBIDO PROCESO ADMINISTRATIVO",
+  "subtema": "Fijación de procedimientos para admisión a universidad",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 30 de 1992",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2001/T-1340-01.htm",
+  "fecha_descarga": "2026-10-23T01:21:11.349674+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2001-12-11",
+  "fecha_publicacion": null,
+  "numero": "T-1340/01",
+  "tipo_cc": "T",
+  "prov_id": "20124",
+  "tema_relatoria": "DERECHOS A LA IGUALDAD DEBIDO PROCESO Y EDUCACION. REVOCACION A LA ACTORA POR PARTE DE LA ACCIONADA DE CUPO ESPECIAL EN FACULTAD DE ECONOMIA. ACCION DE TUTELA Y ASIGNACION DE CUPOS ESPECIALES A MIEMBROS DE COMUNIDADES INDIGENAS POR PARTE DE UNIVERSIDADES",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DEBIDO PROCESO ADMINISTRATIVO",
+      "subtema": "Fijación de procedimientos para admisión a universidad"
+    },
+    {
+      "tema": "REVOCATORIA DIRECTA DE ACTO DE ASIGNACION DE CUPO POR UNIVERSIDAD",
+      "subtema": null
+    },
+    {
+      "tema": "CUPOS ESPECIALES DE ACCESO A UNIVERSIDAD DE MIEMBROS DE COMUNIDADES INDIGENAS",
+      "subtema": "Constitucionales"
+    },
+    {
+      "tema": "CUPOS ESPECIALES DE ACCESO A UNIVERSIDAD DE MIEMBROS DE COMUNIDADES INDIGENAS",
+      "subtema": "Procedimientos para admisión no pueden ser modificados"
+    },
+    {
+      "tema": "CUPOS ESPECIALES DE ACCESO A UNIVERSIDAD",
+      "subtema": "Procedencia de la tutela"
+    }
+  ]
+}

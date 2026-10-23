@@ -1,0 +1,68 @@
+{
+  "radicado": "C-419-02",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2002,
+  "fecha_creacion": "2002-05-28",
+  "magistrado_ponente": "Dr MARCO GERARDO MONROY CABRA",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "INHIBICION DE LA CORTE CONSTITUCIONAL",
+  "subtema": "Cargo de contenido normativo inexistente",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 84 de 1990",
+    "Decreto 2067 de 1991",
+    "Decreto 84 de 1980",
+    "Ley 30 de 1992",
+    "Ley 489 de 1998",
+    "Ley 84 de 1990",
+    "Ley 754 de 1982",
+    "Decreto Ley 84 de 1980"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2002/C-419-02.htm",
+  "fecha_descarga": "2026-10-23T01:07:46.496069+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2002-05-28",
+  "fecha_publicacion": null,
+  "numero": "C-419/02",
+  "tipo_cc": "C",
+  "prov_id": "20602",
+  "tema_relatoria": "FALLO INHIBITORIO POR INEPTITUD DE DEMANDA DE INCONSTITUCIONALIDAD CONTRA NORMA DEL DECRETO EXTRAORDINARIO N° 84 DE 1990",
+  "resumen": "DECRETO 84 DE 1990. ART. 1 (P.). UNIDAD ADMINISTRATIVA ESPECIAL EN EL MINISTERIO DE DEFENSA NACIONAL. PROGRAMAS DE EDUCACION POST-SECUNDARIA DE LA ESCUELA MILITAR DE CADETES JOSE MARIA CORDOBA Y DE MEDICINA DEL HOSPITAL MILITAR. PATRIMONIO INDEPENDIENTE. INHIBICION",
+  "titulaciones": [
+    {
+      "tema": "INHIBICION DE LA CORTE CONSTITUCIONAL",
+      "subtema": "Cargo de contenido normativo inexistente"
+    },
+    {
+      "tema": "NORMA ACUSADA",
+      "subtema": "Pronunciamiento ante vigencia dudosa por incertidumbre de derogatoria tácita"
+    },
+    {
+      "tema": "DEROGACION EXPRESA DE NORMA",
+      "subtema": "Inhibición salvo producción de efectos jurídicos"
+    },
+    {
+      "tema": "UNIDAD NORMATIVA",
+      "subtema": "No conformación sobre decretos reglamentarios"
+    },
+    {
+      "tema": "UNIDAD ADMINISTRATIVA ESPECIAL EN MINISTERIO DE DEFENSA NACIONAL",
+      "subtema": "Modificación de naturaleza jurídica"
+    },
+    {
+      "tema": "UNIDAD ADMINISTRATIVA ESPECIAL EN MINISTERIO DE DEFENSA NACIONAL",
+      "subtema": "Evolución legal"
+    },
+    {
+      "tema": "UNIDAD NORMATIVA",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "UNIVERSIDAD MILITAR NUEVA GRANADA",
+      "subtema": "Naturaleza jurídica"
+    }
+  ]
+}

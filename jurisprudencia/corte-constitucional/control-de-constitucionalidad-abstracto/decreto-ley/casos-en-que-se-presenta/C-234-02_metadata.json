@@ -1,0 +1,69 @@
+{
+  "radicado": "C-234-02",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2002,
+  "fecha_creacion": "2002-04-02",
+  "magistrado_ponente": "Dr EDUARDO MONTEALEGRE LYNETT",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "DECRETO LEY",
+  "subtema": "Casos en que se presenta",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 48 de 1968"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2002/C-234-02.htm",
+  "fecha_descarga": "2026-10-23T01:00:01.907274+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2002-04-02",
+  "fecha_publicacion": null,
+  "numero": "C-234/02",
+  "tipo_cc": "C",
+  "prov_id": "20384",
+  "tema_relatoria": "LEGISLADOR. NO DELEGACIÓN EN GOBIERNO DE POSIBILIDAD PARA INAPLICAR NORMAS LABORALES",
+  "resumen": "LEY 48 DE 1968. ART. 3 (P.). DECRETOS LEGISLATIVOS. FACULTADES AL PRESIDENTE PARA EXPEDIR CODIGOS Y ASAMBLEAS. POTESTAD REGLAMENTARIA. REFORMA DEL CODIGO SUSTANTIVO DEL TRABAJO. ESTADO DE SITIO. INTERPRETACION SISTEMATICA. REGLAMENTOS ESPECIALES. NORMAS",
+  "titulaciones": [
+    {
+      "tema": "DECRETO LEY",
+      "subtema": "Casos en que se presenta"
+    },
+    {
+      "tema": "POTESTAD REGLAMENTARIA",
+      "subtema": "Posibilidad restringida por desarrollo de leyes concretas y precisas"
+    },
+    {
+      "tema": "LEY Y REGLAMENTO",
+      "subtema": "Matices y excepciones en reparto general de competencias"
+    },
+    {
+      "tema": "LEGISLADOR",
+      "subtema": "Potestad de inaplicación de la ley"
+    },
+    {
+      "tema": "REGLAMENTOS ESPECIALES",
+      "subtema": "Inconstitucionalidad"
+    },
+    {
+      "tema": "CONGRESO Y GOBIERNO",
+      "subtema": "Mecanismos de reparto de competencias"
+    },
+    {
+      "tema": "LEY Y REGLAMENTO",
+      "subtema": "Reparto general de competencias"
+    },
+    {
+      "tema": "LEY Y REGLAMENTO",
+      "subtema": "Mecanismos de reparto de competencia"
+    },
+    {
+      "tema": "LEGISLADOR",
+      "subtema": "No delegación en Gobierno de posibilidad para inaplicar normas laborales"
+    },
+    {
+      "tema": "POTESTAD REGLAMENTARIA",
+      "subtema": "Mayor frente a leyes de contenido general"
+    }
+  ]
+}

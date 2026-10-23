@@ -1,0 +1,58 @@
+{
+  "radicado": "T-1056-01",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2001,
+  "fecha_creacion": "2001-10-04",
+  "magistrado_ponente": "Dra CLARA INÉS VARGAS HERNÁNDEZ",
+  "area": "Derecho a la Salud",
+  "tema": "DERECHO A LA VIDA DIGNA",
+  "subtema": "Suministro de medicamentos excluidos del POS",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Decreto 806 de 1998"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2001/T-1056-01.htm",
+  "fecha_descarga": "2026-10-23T01:18:43.599426+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2001-10-04",
+  "fecha_publicacion": null,
+  "numero": "T-1056/01",
+  "tipo_cc": "T",
+  "prov_id": "19800",
+  "tema_relatoria": "DERECHO A LA SALUD Y VIDA. AUTORIZACION PRUEBA DE CARGA VIRAL A PACIENTE CON VIH. SUMINISTRO MEDICAMENTOS Y TRATAMIENTOS NO INCLUIDOS EN EL POS. ACCION DE REPETICION. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA VIDA DIGNA",
+      "subtema": "Suministro de medicamentos excluidos del POS"
+    },
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Conexidad con la vida"
+    },
+    {
+      "tema": "JUEZ DE TUTELA",
+      "subtema": "Omisión en práctica de pruebas"
+    },
+    {
+      "tema": "ENTIDAD PROMOTORA DE SALUD",
+      "subtema": "Repetición contra el FOSYGA"
+    },
+    {
+      "tema": "ENTIDAD PROMOTORA DE SALUD",
+      "subtema": "Deber de suministrar tratamientos y medicamentos a enfermos de sida"
+    },
+    {
+      "tema": "DERECHO A LA SALUD DEL ENFERMO DE SIDA",
+      "subtema": "Realización examen de carga viral"
+    },
+    {
+      "tema": "DERECHO A LA SALUD DEL ENFERMO DE SIDA",
+      "subtema": "Examen de carga viral fundamental para tratamiento del sida"
+    }
+  ]
+}

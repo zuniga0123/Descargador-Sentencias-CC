@@ -1,0 +1,503 @@
+{
+  "radicado": "C-1007-02",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2002,
+  "fecha_creacion": "2002-11-18",
+  "magistrado_ponente": null,
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "NORMAS CONSUETUDINARIAS HUMANITARIAS",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 333 de 1996",
+    "Decreto 2067 de 1991",
+    "Decreto 1837 de 2002",
+    "Decreto 1975 de 2002",
+    "Ley 589 de 2000",
+    "Decreto 2007 de 2001",
+    "Ley 365 de 1997",
+    "Decreto 1975 de 2000",
+    "Ley 134 de 1994",
+    "Decreto 99 de 1991",
+    "Ley 104 de 1993",
+    "Decreto 2271 de 1991",
+    "Ley 137 de 1994",
+    "Ley 633 de 1996",
+    "Decreto 1900 de 1990"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2002/C-1007-02.htm",
+  "fecha_descarga": "2026-10-23T01:14:05.032794+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2002-11-18",
+  "fecha_publicacion": null,
+  "numero": "C-1007/02",
+  "tipo_cc": "C",
+  "prov_id": "21463",
+  "tema_relatoria": "EXTINCION DE DOMINIO EN CONMOCION INTERIOR. PRESENTACIÓN CONTRA POSEEDOR Y TITULAR DERECHO DE DOMINIO CUANDO NO ESTÉ RADICADA EN LA MISMA PERSONA",
+  "resumen": "DECRETO LEGISLATIVO 1975 DE 2002. SUSPENDE LA LEY 333 DE 1996. EXTINCION DE DOMINIO. ACCION Y TRAMITE. DEBIDO PROCESO Y GARANTIAS. COMPETENCIA Y PROCEDIMIENTO. PROCESOS EN CURSO. LIMITES MATERIALES AL EJERCICIO DE COMPETENCIAS EXCEPCIONALES. DERECHOS INTANGIBLES Y LAS MEDIDAS EXCEPCIONALES",
+  "titulaciones": [
+    {
+      "tema": "NORMAS CONSUETUDINARIAS HUMANITARIAS",
+      "subtema": null
+    },
+    {
+      "tema": "NUCLEO DURO DE DERECHOS INDEROGABLES EN ESTADOS DE EXCEPCION",
+      "subtema": null
+    },
+    {
+      "tema": "CLAUSULA DE SALVAGUARDIA EN TRATADO INTERNACIONAL DE DERECHOS HUMANOS",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "ACCION DE EXTINCION DE DOMINIO EN CONMOCION INTERIOR",
+      "subtema": "No puede abarcar a toda persona"
+    },
+    {
+      "tema": "ACCIÓN DE EXTINCION DE DOMINIO",
+      "subtema": "Naturaleza jurisdiccional"
+    },
+    {
+      "tema": "DEBIDO PROCESO DE EXTINCION DE DOMINIO EN CONMOCION INTERIOR",
+      "subtema": "Garantía intangible"
+    },
+    {
+      "tema": "DEBIDO PROCESO DE EXTINCION DE DOMINIO EN CONMOCION INTERIOR",
+      "subtema": "Protección derecho de defensa del afectado"
+    },
+    {
+      "tema": "EXTINCION DE DOMINIO, COMISO PENAL Y DECOMISO ADMINISTRATIVO",
+      "subtema": null
+    },
+    {
+      "tema": "COSA JUZGADA CONSTITUCIONAL EN DECRETO LEGISLATIVO DE CONMOCION INTERIOR",
+      "subtema": "Inoperancia"
+    },
+    {
+      "tema": "EXTINCION DE DOMINIO EN CONMOCION INTERIOR",
+      "subtema": "Alcance respecto del poseedor de buena fe"
+    },
+    {
+      "tema": "EXTINCION DE DOMINIO EN CONMOCION INTERIOR",
+      "subtema": "Alcance respecto del tercero adquirente"
+    },
+    {
+      "tema": "EXTINCION DE DOMINIO EN CONMOCION INTERIOR",
+      "subtema": "Comprende sólo delitos relacionados con causas generadoras"
+    },
+    {
+      "tema": "EXTINCION DE DOMINIO EN CONMOCION INTERIOR",
+      "subtema": "Fase inicial"
+    },
+    {
+      "tema": "EXTINCION DE DOMINIO EN CONMOCION INTERIOR",
+      "subtema": "Presencia en el proceso del afectado"
+    },
+    {
+      "tema": "EXTINCION DE DOMINIO EN CONMOCION INTERIOR",
+      "subtema": "Procedencia contra quien tenga posesión material del bien"
+    },
+    {
+      "tema": "EXTINCION DE DOMINIO EN CONMOCION INTERIOR",
+      "subtema": "Pruebas sólidas para medidas cautelares"
+    },
+    {
+      "tema": "EXTINCION DE DOMINIO",
+      "subtema": "Bienes adquiridos de actividad ilícita"
+    },
+    {
+      "tema": "EXTINCION DE DOMINIO",
+      "subtema": "Bienes que afecta"
+    },
+    {
+      "tema": "EXTINCION DE DOMINIO EN CONMOCION INTERIOR",
+      "subtema": "Concepto"
+    },
+    {
+      "tema": "EXTINCION DE DOMINIO EN CONMOCION INTERIOR",
+      "subtema": "Inconstitucionalidad de pérdida de dominio por no comparecencia personal al proceso"
+    },
+    {
+      "tema": "EXTINCION DE DOMINIO EN CONMOCION INTERIOR",
+      "subtema": "Procedencia contra titular de cualquier derecho real, principal o accesorio"
+    },
+    {
+      "tema": "EXTINCION DE DOMINIO EN CONMOCION INTERIOR",
+      "subtema": "Recompensas"
+    },
+    {
+      "tema": "ESTADOS DE EXCEPCION",
+      "subtema": "Límites materiales a facultades del Gobierno"
+    },
+    {
+      "tema": "EXTINCION DE DOMINIO EN CONMOCION INTERIOR",
+      "subtema": "Causales de nulidad"
+    },
+    {
+      "tema": "EXTINCION DE DOMINIO EN CONMOCION INTERIOR",
+      "subtema": "Inconstitucionalidad en bien lícito mezclado con proveniencia ilícita sin limitación alguna"
+    },
+    {
+      "tema": "EXTINCION DE DOMINIO EN CONMOCION INTERIOR",
+      "subtema": "No condicionamiento de cumplimiento de deber jurídico o pago de retribución"
+    },
+    {
+      "tema": "EXTINCION DE DOMINIO EN CONMOCION INTERIOR",
+      "subtema": "Remisión para caso de vacíos"
+    },
+    {
+      "tema": "EXTINCION DE DOMINIO EN ESTADOS DE EXCEPCION",
+      "subtema": "Reformas profundas a la configuración procesal"
+    },
+    {
+      "tema": "EXTINCION DE DOMINIO",
+      "subtema": "Fundamental"
+    },
+    {
+      "tema": "PRESUNCION DE INOCENCIA EN EXTINCION DE DOMINIO EN CONMOCION INTERIOR",
+      "subtema": "Carga de la prueba"
+    },
+    {
+      "tema": "LIBERTAD DE CONFIGURACION LEGISLATIVA EN COMPETENCIA JUDICIAL",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "DERECHO A LA PROPIEDAD",
+      "subtema": "Protección de adquirida lícitamente y conforme a exigencias legales"
+    },
+    {
+      "tema": "DERECHO A LA PROPIEDAD EN ESTADOS DE EXCEPCION",
+      "subtema": "Límites razonables y proporcionales"
+    },
+    {
+      "tema": "DERECHO A LA PROPIEDAD PRIVADA",
+      "subtema": "Protección del núcleo esencial"
+    },
+    {
+      "tema": "DECRETO LEGISLATIVO DE CONMOCION INTERIOR",
+      "subtema": "Control formal"
+    },
+    {
+      "tema": "DECRETO LEGISLATIVO DE EXTINCION DE DOMINIO EN CONMOCION INTERIOR",
+      "subtema": "Inconstitucionalidad por incompetencia para regulación íntegra"
+    },
+    {
+      "tema": "DECLARACION DE CONMOCION INTERIOR",
+      "subtema": "Organizaciones que cometen delitos de diversa naturaleza y gravedad"
+    },
+    {
+      "tema": "DERECHO DE DOMINIO O PROPIEDAD",
+      "subtema": "Concepto"
+    },
+    {
+      "tema": "DERECHO INTERNO Y DERECHO INTERNACIONAL PUBLICO",
+      "subtema": "Integración normativa"
+    },
+    {
+      "tema": "EXTINCION DE DOMINIO EN CONMOCION INTERIOR",
+      "subtema": "Autonomía de la acción"
+    },
+    {
+      "tema": "EXTINCION DE DOMINIO EN CONMOCION INTERIOR",
+      "subtema": "Competencia"
+    },
+    {
+      "tema": "EXTINCION DE DOMINIO EN CONMOCION INTERIOR",
+      "subtema": "Gastos procesales y de administración"
+    },
+    {
+      "tema": "EXTINCION DE DOMINIO EN CONMOCION INTERIOR",
+      "subtema": "Inicio oficioso de la acción"
+    },
+    {
+      "tema": "EXTINCION DE DOMINIO EN CONMOCION INTERIOR",
+      "subtema": "Personas determinables"
+    },
+    {
+      "tema": "EXTINCION DE DOMINIO EN CONMOCION INTERIOR",
+      "subtema": "Procedencia contra quien aparezca como titular de cualquier derecho real, principal o accesorio"
+    },
+    {
+      "tema": "EXTINCION DE DOMINIO EN CONMOCION INTERIOR",
+      "subtema": "Profundización del carácter autónomo de la acción"
+    },
+    {
+      "tema": "EXTINCION DE DOMINIO EN CONMOCION INTERIOR",
+      "subtema": "Retribución y ayuda de obtención de pruebas conducentes"
+    },
+    {
+      "tema": "EXTINCION DE DOMINIO",
+      "subtema": "Bienes adquiridos por enajenación o permuta"
+    },
+    {
+      "tema": "PRESUNCION DE INOCENCIA EN EXTINCION DE DOMINIO EN CONMOCION INTERIOR",
+      "subtema": "Estado debe probar que bienes son ilícitos"
+    },
+    {
+      "tema": "PRESUNCION DE INOCENCIA EN EXTINCION DE DOMINIO EN CONMOCION INTERIOR",
+      "subtema": "Vulneración por inversión de la carga de la prueba"
+    },
+    {
+      "tema": "POSESION",
+      "subtema": "Significado"
+    },
+    {
+      "tema": "TITULOS VALORES A LA ORDEN",
+      "subtema": "Definición"
+    },
+    {
+      "tema": "TITULOS VALORES AL PORTADOR",
+      "subtema": "Definición"
+    },
+    {
+      "tema": "TITULOS VALORES NOMINATIVOS",
+      "subtema": "Definición"
+    },
+    {
+      "tema": "TITULOS VALORES",
+      "subtema": "Clasificación"
+    },
+    {
+      "tema": "TENEDOR LEGITIMO DE TITULO VALOR",
+      "subtema": "Calidad"
+    },
+    {
+      "tema": "PRINCIPIO DE AUTONOMIA DE LA ACCION DE EXTINCION DE DOMINIO EN CONMOCION INTERIOR",
+      "subtema": null
+    },
+    {
+      "tema": "ACCIÓN DE EXTINCION DE DOMINIO",
+      "subtema": "Autonomía respecto de la acción penal"
+    },
+    {
+      "tema": "ACCIÓN DE EXTINCION DE DOMINIO",
+      "subtema": "Connotación real"
+    },
+    {
+      "tema": "ACCIÓN DE EXTINCION DE DOMINIO",
+      "subtema": "Finalidad de combatir fuentes de financiación de grupos que alteran el orden público"
+    },
+    {
+      "tema": "CLAUSULA DE SALVAGUARDIA EN ESTADOS DE EXCEPCION",
+      "subtema": null
+    },
+    {
+      "tema": "DERECHO INTERNACIONAL HUMANITARIO",
+      "subtema": null
+    },
+    {
+      "tema": "CLAUSULA DE SALVAGUARDIA EN ESTADOS DE EXCEPCION",
+      "subtema": "Sentido y alcance dado por órganos internacionales"
+    },
+    {
+      "tema": "DERECHO DE DEFENSA EN EXTINCION DE DOMINIO EN ESTADOS DE EXCEPCION",
+      "subtema": "Respeto"
+    },
+    {
+      "tema": "DERECHO DE DOMINIO",
+      "subtema": "Pérdida de titularidad"
+    },
+    {
+      "tema": "EXTINCION DE DOMINIO EN CONMOCION INTERIOR",
+      "subtema": "Alcance respecto del tenedor del bien"
+    },
+    {
+      "tema": "EXTINCION DE DOMINIO EN CONMOCION INTERIOR",
+      "subtema": "Análisis de proporcionalidad"
+    },
+    {
+      "tema": "EXTINCION DE DOMINIO EN CONMOCION INTERIOR",
+      "subtema": "Emplazamiento del afectado"
+    },
+    {
+      "tema": "EXTINCION DE DOMINIO EN CONMOCION INTERIOR",
+      "subtema": "Finalidad de la medida"
+    },
+    {
+      "tema": "EXTINCION DE DOMINIO EN CONMOCION INTERIOR",
+      "subtema": "Participación de víctimas"
+    },
+    {
+      "tema": "EXTINCION DE DOMINIO EN CONMOCION INTERIOR",
+      "subtema": "Primera notificación"
+    },
+    {
+      "tema": "EXTINCION DE DOMINIO EN CONMOCION INTERIOR",
+      "subtema": "Procedimiento después de fase inicial"
+    },
+    {
+      "tema": "EXTINCION DE DOMINIO",
+      "subtema": "Ausencia de contraprestación o compensación pecuniaria"
+    },
+    {
+      "tema": "EXTINCION DE DOMINIO",
+      "subtema": "Titularidad de la acción real"
+    },
+    {
+      "tema": "EXTINCION DE DOMINIO EN CONMOCION INTERIOR",
+      "subtema": "Bienes destinados o usados como medios para actividades ilícitas"
+    },
+    {
+      "tema": "EXTINCION DE DOMINIO EN CONMOCION INTERIOR",
+      "subtema": "Improcedencia de prejudicialidad y acumulación de procesos"
+    },
+    {
+      "tema": "EXTINCION DE DOMINIO EN CONMOCION INTERIOR",
+      "subtema": "Medidas cautelares reales ilimitadas en bienes que recae y personas afectadas"
+    },
+    {
+      "tema": "EXTINCION DE DOMINIO EN CONMOCION INTERIOR",
+      "subtema": "Notificaciones"
+    },
+    {
+      "tema": "EXTINCION DE DOMINIO EN ESTADOS DE EXCEPCION",
+      "subtema": "Necesidad de expedir una nueva regulación"
+    },
+    {
+      "tema": "EXTINCION DE DOMINIO",
+      "subtema": "Consecuencias en heredero o legatario"
+    },
+    {
+      "tema": "ESTADOS DE EXCEPCION",
+      "subtema": "Límites o restricciones de derechos"
+    },
+    {
+      "tema": "DERECHOS FUNDAMENTALES",
+      "subtema": "Distinción entre privación, suspensión y limitación"
+    },
+    {
+      "tema": "DERECHOS INTANGIBLES EN ESTADOS DE EXCEPCION",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "ENDOSO DEL TITULO VALOR",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "DERECHO A LA PROPIEDAD EN CONMOCION INTERIOR",
+      "subtema": "No se puede hablar de la función social con el conflicto entre el interés general y particular"
+    },
+    {
+      "tema": "DERECHO A LA PROPIEDAD EN ESTADOS DE EXCEPCION",
+      "subtema": "Lesión"
+    },
+    {
+      "tema": "DERECHO A LA PROPIEDAD EN CONMOCION INTERIOR",
+      "subtema": "Limitaciones no ilimitadas"
+    },
+    {
+      "tema": "DERECHO A LA PROPIEDAD EN ESTADOS DE EXCEPCION",
+      "subtema": "No pertenencia a categoría de intangibles"
+    },
+    {
+      "tema": "DECRETO LEGISLATIVO DE EXTINCION DE DOMINIO EN CONMOCION INTERIOR",
+      "subtema": "Análisis de conexidad"
+    },
+    {
+      "tema": "DECLARACION DE ESTADOS DE EXCEPCION Y DECRETOS DE DESARROLLO",
+      "subtema": "Intervinientes en determinación de límites materiales"
+    },
+    {
+      "tema": "DERECHO INTERNACIONAL HUMANITARIO",
+      "subtema": "Principios"
+    },
+    {
+      "tema": "DERECHO DE DOMINIO",
+      "subtema": "Pérdida a favor del Estado"
+    },
+    {
+      "tema": "EXTINCION DE DOMINIO EN CONMOCION INTERIOR",
+      "subtema": "Alcance respecto del tenedor legítimo de un título valor"
+    },
+    {
+      "tema": "EXTINCION DE DOMINIO EN CONMOCION INTERIOR",
+      "subtema": "Excepciones e incidentes"
+    },
+    {
+      "tema": "EXTINCION DE DOMINIO EN CONMOCION INTERIOR",
+      "subtema": "No decreto de medidas cautelares hasta no darse relación procesal"
+    },
+    {
+      "tema": "EXTINCION DE DOMINIO EN ESTADOS DE EXCEPCION",
+      "subtema": "Regulación razonable y justificada"
+    },
+    {
+      "tema": "EXTINCION DE DOMINIO",
+      "subtema": "Alcance respecto del tercero adquirente ante buena fe simple o buena fe cualificada"
+    },
+    {
+      "tema": "FRAUDE E INMORALIDAD",
+      "subtema": "No generan derechos"
+    },
+    {
+      "tema": "LEY ESTATUTARIA DE ESTADOS DE EXCEPCION",
+      "subtema": "Margen de maniobra del legislador extraordinario para medidas"
+    },
+    {
+      "tema": "LEY ESTATUTARIA DE ESTADOS DE EXCEPCION",
+      "subtema": "No enumeración taxativa de medidas a adoptar"
+    },
+    {
+      "tema": "EXTINCION DE DOMINIO EN CONMOCION INTERIOR",
+      "subtema": "Alcance respecto del poseedor de buena fe simple o cualificada"
+    },
+    {
+      "tema": "EXTINCION DE DOMINIO EN CONMOCION INTERIOR",
+      "subtema": "Ampliación de ámbito de aplicación"
+    },
+    {
+      "tema": "EXTINCION DE DOMINIO EN CONMOCION INTERIOR",
+      "subtema": "Causales"
+    },
+    {
+      "tema": "EXTINCION DE DOMINIO EN CONMOCION INTERIOR",
+      "subtema": "Finalidad de combatir finanzas de quienes alteran el orden público"
+    },
+    {
+      "tema": "EXTINCION DE DOMINIO EN CONMOCION INTERIOR",
+      "subtema": "No comparecencia del afectado después de emplazamiento"
+    },
+    {
+      "tema": "EXTINCION DE DOMINIO EN CONMOCION INTERIOR",
+      "subtema": "Nulidades"
+    },
+    {
+      "tema": "EXTINCION DE DOMINIO EN CONMOCION INTERIOR",
+      "subtema": "Presentación contra poseedor y titular derecho de dominio cuando no esté radicada en la misma persona"
+    },
+    {
+      "tema": "EXTINCION DE DOMINIO EN ESTADOS DE EXCEPCION",
+      "subtema": "Necesidad de respuesta normativa e institucional más efectiva y ágil"
+    },
+    {
+      "tema": "EXTINCION DE DOMINIO",
+      "subtema": "Adquisición mediante enriquecimiento ilícito"
+    },
+    {
+      "tema": "EXTINCION DE DOMINIO",
+      "subtema": "Bienes de origen ilícito o uso ilícito de bienes lícitos"
+    },
+    {
+      "tema": "EXTINCION DE DOMINIO",
+      "subtema": "Protección de terceros de buena fe respecto de enajenación o permuta"
+    },
+    {
+      "tema": "EXTINCION DE DOMINIO",
+      "subtema": "Utilización de bienes para ocultar o mezclar bienes de ilícita procedencia"
+    },
+    {
+      "tema": "TENENCIA DE BIENES",
+      "subtema": "Definición"
+    },
+    {
+      "tema": "TRADICION",
+      "subtema": "Definición"
+    },
+    {
+      "tema": "TRATADO INTERNACIONAL",
+      "subtema": "Incompatibilidades"
+    }
+  ]
+}

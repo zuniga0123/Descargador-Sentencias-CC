@@ -1,0 +1,53 @@
+{
+  "radicado": "C-520-02",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2002,
+  "fecha_creacion": "2002-07-09",
+  "magistrado_ponente": "Dr ALVARO TAFUR GALVIS",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "INHIBICION DE LA CORTE CONSTITUCIONAL",
+  "subtema": "Ausencia de cargo directo",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2067 de 1991",
+    "Decreto 2158 de 1948",
+    "Ley 16 de 1968",
+    "Ley 16 de 1972",
+    "Ley 50 de 1990"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2002/C-520-02.htm",
+  "fecha_descarga": "2026-10-23T01:14:12.460390+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2002-07-09",
+  "fecha_publicacion": null,
+  "numero": "C-520/02",
+  "tipo_cc": "C",
+  "prov_id": "20749",
+  "tema_relatoria": "FALLO INHIBITORIO POR INEPTITUD DE DEMANDA DE INCONSTITUCIONALIDAD CONTRA NORMA DEL CODIGO SUSTANTIVO DEL TRABAJO Y CODIGO DE COMERCIO",
+  "resumen": "DECRETO 2663 DE 1950. ART. 36 (P.). DECRETO 410 DE 1971. ART. 252 INC. 1. CODIGO SUSTANTIVO DEL TRABAJO Y DE COMERCIO. RESPONSABILIDAD SOLIDARIA. LIQUIDACION DEL PATRIMONIO SOCIAL. FACULTADES EXTRAORDINARIAS. FIDEICOMISOS. ACCION PUBLICA DE INCONSTITUCIONALIDAD",
+  "titulaciones": [
+    {
+      "tema": "INHIBICION DE LA CORTE CONSTITUCIONAL",
+      "subtema": "Ausencia de cargo directo"
+    },
+    {
+      "tema": "INHIBICION DE LA CORTE CONSTITUCIONAL",
+      "subtema": "Formulaciones genéricas, confusas y sin relación causal de cargos"
+    },
+    {
+      "tema": "INHIBICION DE LA CORTE CONSTITUCIONAL",
+      "subtema": "Ausencia de cargos"
+    },
+    {
+      "tema": "PRINCIPIO PRO ACTIONE EN DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "Límites"
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "Requisitos mínimos"
+    }
+  ]
+}

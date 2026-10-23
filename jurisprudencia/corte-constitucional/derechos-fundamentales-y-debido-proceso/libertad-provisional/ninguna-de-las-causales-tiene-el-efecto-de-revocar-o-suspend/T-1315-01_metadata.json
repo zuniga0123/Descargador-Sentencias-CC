@@ -1,0 +1,51 @@
+{
+  "radicado": "T-1315-01",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2001,
+  "fecha_creacion": "2001-12-07",
+  "magistrado_ponente": "Dr JAIME CÓRDOBA TRIVIÑO",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "LIBERTAD PROVISIONAL",
+  "subtema": "Ninguna de las causales tiene el efecto de revocar o suspender la detención preventiva",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Decreto 2700 de 1991",
+    "Ley 600 de 2000"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2001/T-1315-01.htm",
+  "fecha_descarga": "2026-10-23T01:14:58.188949+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2001-12-07",
+  "fecha_publicacion": "2002-01-11",
+  "numero": "T-1315/01",
+  "tipo_cc": "T",
+  "prov_id": "20099",
+  "tema_relatoria": null,
+  "resumen": "DERECHO A LA LIBERTAD Y DEBIDO PROCESO. REVOCATORIA DE LIBERTAD PROVISIONAL SIN ESTAR EJECUTORIADA SENTENCIA CONDENATORIA. ACCION DE TUTELA Y HABEAS CORPUS. NEGADA.",
+  "titulaciones": [
+    {
+      "tema": "LIBERTAD PROVISIONAL",
+      "subtema": "Ninguna de las causales tiene el efecto de revocar o suspender la detención preventiva"
+    },
+    {
+      "tema": "SENTENCIA CONDENATORIA NO EJECUTORIADA",
+      "subtema": "Efectos que produce en el ámbito de la libertad del procesado"
+    },
+    {
+      "tema": "PROVIDENCIAS SOBRE LIBERTAD Y DETENCION",
+      "subtema": "Cumplimiento inmediato"
+    },
+    {
+      "tema": "DERECHO A LA LIBERTAD PERSONAL",
+      "subtema": "Eficacia de la tutela para la protección"
+    },
+    {
+      "tema": "HABEAS CORPUS",
+      "subtema": "Mecanismo efectivo"
+    }
+  ]
+}

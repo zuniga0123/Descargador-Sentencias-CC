@@ -1,0 +1,62 @@
+{
+  "radicado": "T-1273-01",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2001,
+  "fecha_creacion": "2001-11-30",
+  "magistrado_ponente": "Dr ALVARO TAFUR GALVIS",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "RESPONSABILIDAD SUBSIDIARIA DE SOCIEDAD MATRIZ",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 222 de 1995",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2001/T-1273-01.htm",
+  "fecha_descarga": "2026-10-23T01:17:23.672009+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2001-11-30",
+  "fecha_publicacion": "2001-02-11",
+  "numero": "T-1273/01",
+  "tipo_cc": "T",
+  "prov_id": "20048",
+  "tema_relatoria": "DERECHOS A LA VIDA MINIMO VITAL Y SEGURIDAD SOCIAL. SOLICITUD REANUDACION DEL PAGO DE MESADAS PENSIONALES Y PAGOS POR CONCEPTO DE SEGURIDAD SOCIAL. PROCEDENCIA EXCEPCIONAL DE TUTELA PARA PAGO DE ACREENCIAS LABORALES. AFECTACION DEL MINIMO VITAL. CONCEDIDA",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "RESPONSABILIDAD SUBSIDIARIA DE SOCIEDAD MATRIZ",
+      "subtema": null
+    },
+    {
+      "tema": "DERECHO A LA SEGURIDAD SOCIAL",
+      "subtema": "Fundamental por conexidad"
+    },
+    {
+      "tema": "EMPRESA EN LIQUIDACION",
+      "subtema": "Casos excepcionales para pago de mesadas pensionales"
+    },
+    {
+      "tema": "ACCION DE TUTELA TRANSITORIA",
+      "subtema": "Procedencia"
+    },
+    {
+      "tema": "COMPAÑIA DE INVERSIONES DE LA FLOTA MERCANTE",
+      "subtema": "Disponibilidad de recursos para pago de mesadas pensionales"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Procedencia excepcional pago de acreencias laborales"
+    },
+    {
+      "tema": "EMPRESA EN CONCORDATO O LIQUIDACION",
+      "subtema": "Pago preferente de acreencias laborales"
+    },
+    {
+      "tema": "FEDERACION NACIONAL DE CAFETEROS",
+      "subtema": "Responsabilidad subsidiaria"
+    }
+  ]
+}
