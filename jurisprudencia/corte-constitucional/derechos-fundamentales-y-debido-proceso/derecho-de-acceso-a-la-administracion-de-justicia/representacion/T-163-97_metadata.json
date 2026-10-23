@@ -1,0 +1,56 @@
+{
+  "radicado": "T-163-97",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1997,
+  "fecha_creacion": "1997-03-20",
+  "magistrado_ponente": "Dr CARLOS GAVIRIA DÍAZ",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "DERECHO DE ACCESO A LA ADMINISTRACIÓN DE JUSTICIA",
+  "subtema": "Representación",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 1888 de 1989",
+    "Ley 270 de 1996",
+    "Ley 200 de 1995",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1997/T-163-97.htm",
+  "fecha_descarga": "2026-10-23T06:20:28.719540+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1997-03-20",
+  "fecha_publicacion": null,
+  "numero": "T-163/97",
+  "tipo_cc": "T",
+  "prov_id": "13965",
+  "tema_relatoria": "DEBIDO PROCESO. IGUALDAD ANTE LA LEY. VIA DE HECHO. SALA DISCIPLINARIA DEL CONSEJO SECCIONAL DE LA JUDICATURA DEL META. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO DE ACCESO A LA ADMINISTRACIÓN DE JUSTICIA",
+      "subtema": "Representación"
+    },
+    {
+      "tema": "PROCESO DISCIPLINARIO",
+      "subtema": "Juzgamiento separado de responsables"
+    },
+    {
+      "tema": "VIA DE HECHO POR CONSEJO SECCIONAL DE LA JUDICATURA",
+      "subtema": "Improcedencia de consulta"
+    },
+    {
+      "tema": "NULIDAD DE PROCESO DISCIPLINARIO",
+      "subtema": null
+    },
+    {
+      "tema": "DERECHO DE POSTULACION",
+      "subtema": null
+    },
+    {
+      "tema": "CONSEJO SUPERIOR DE LA JUDICATURA",
+      "subtema": "Incompetencia para tramitar consulta"
+    }
+  ]
+}

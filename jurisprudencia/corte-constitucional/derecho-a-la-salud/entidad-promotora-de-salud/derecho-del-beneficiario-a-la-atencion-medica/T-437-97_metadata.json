@@ -1,0 +1,55 @@
+{
+  "radicado": "T-437-97",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1997,
+  "fecha_creacion": "1997-09-10",
+  "magistrado_ponente": "Dr JOSE GREGORIO HERNANDEZ GALINDO",
+  "area": "Derecho a la Salud",
+  "tema": "ENTIDAD PROMOTORA DE SALUD",
+  "subtema": "Derecho del beneficiario a la atención médica",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 100 de 1993",
+    "Decreto 1938 de 1994"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1997/T-437-97.htm",
+  "fecha_descarga": "2026-10-23T06:25:15.023662+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1997-09-10",
+  "fecha_publicacion": null,
+  "numero": "T-437/97",
+  "tipo_cc": "T",
+  "prov_id": "14264",
+  "tema_relatoria": "DER. A LA SALUD. CARACTER EXCEPCIONAL DE LA COTIZACION MINIMA A LA E.P.S. DER. A LA ATENCION MEDICA. SALUD TOTAL. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ENTIDAD PROMOTORA DE SALUD",
+      "subtema": "Derecho del beneficiario a la atención médica"
+    },
+    {
+      "tema": "ENTIDAD PROMOTORA DE SALUD",
+      "subtema": "No imposición general semanas máximas de cotización por enfermedades de alto costo"
+    },
+    {
+      "tema": "ENTIDAD PROMOTORA DE SALUD",
+      "subtema": "Régimen general que excluye preexistencias"
+    },
+    {
+      "tema": "ENTIDAD PROMOTORA DE SALUD",
+      "subtema": "No decide unilateralmente cuáles son las enfermedades de alto costo"
+    },
+    {
+      "tema": "ENTIDAD PROMOTORA DE SALUD",
+      "subtema": "No decide unilateralmente niveles mínimos de cotización"
+    },
+    {
+      "tema": "ENTIDAD PROMOTORA DE SALUD",
+      "subtema": "Régimen excepcional por servicios de alto costo"
+    }
+  ]
+}

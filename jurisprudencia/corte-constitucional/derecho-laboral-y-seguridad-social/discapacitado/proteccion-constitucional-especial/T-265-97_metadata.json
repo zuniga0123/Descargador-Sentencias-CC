@@ -1,0 +1,49 @@
+{
+  "radicado": "T-265-97",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1997,
+  "fecha_creacion": "1997-05-29",
+  "magistrado_ponente": "Dr CARLOS GAVIRIA DÍAZ",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "DISCAPACITADO",
+  "subtema": "Protección constitucional especial",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1997/T-265-97.htm",
+  "fecha_descarga": "2026-10-23T06:22:09.471511+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1997-05-29",
+  "fecha_publicacion": null,
+  "numero": "T-265/97",
+  "tipo_cc": "T",
+  "prov_id": "14074",
+  "tema_relatoria": "DERS. DE LOS DISCAPACITADOS. DISMINUIDO PSIQUICO. SUSTITUCION PENSIONAL DE SU PADRE. INDEFENSION. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DISCAPACITADO",
+      "subtema": "Protección constitucional especial"
+    },
+    {
+      "tema": "INDEFENSION",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "MEDIO DE DEFENSA JUDICIAL INEFICAZ",
+      "subtema": "Pago de mesadas pensionales a disminuido síquico"
+    },
+    {
+      "tema": "DISCAPACITADO",
+      "subtema": "Pago de mesadas por sustitución de pensión"
+    },
+    {
+      "tema": "SUSTITUCIÓN PENSIONAL",
+      "subtema": "Pago de mesadas a beneficiarios con disminución síquica"
+    }
+  ]
+}

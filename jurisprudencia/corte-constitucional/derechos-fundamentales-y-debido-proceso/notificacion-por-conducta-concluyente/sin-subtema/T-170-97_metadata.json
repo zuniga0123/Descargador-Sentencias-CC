@@ -1,0 +1,55 @@
+{
+  "radicado": "T-170-97",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1997,
+  "fecha_creacion": "1997-04-03",
+  "magistrado_ponente": "Dr JORGE ARANGO MEJÍA",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "NOTIFICACION POR CONDUCTA CONCLUYENTE",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1997/T-170-97.htm",
+  "fecha_descarga": "2026-10-23T06:20:43.270870+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1997-04-03",
+  "fecha_publicacion": null,
+  "numero": "T-170/97",
+  "tipo_cc": "T",
+  "prov_id": "13974",
+  "tema_relatoria": "DEBIDO PROCESO. SE REVIVE PROCESO YA CONCLUIDO. QUERELLA POLICIVA. NO ES NECESARIO NOTIFICAR DOS VECES EL FALLO. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "NOTIFICACION POR CONDUCTA CONCLUYENTE",
+      "subtema": null
+    },
+    {
+      "tema": "NULIDAD POR REVIVIR QUERELLA DE AMPARO POLICIVO CONCLUIDO",
+      "subtema": "No saneable"
+    },
+    {
+      "tema": "DEBIDO PROCESO",
+      "subtema": "Vulneración por revivir proceso concluído"
+    },
+    {
+      "tema": "NOTIFICACION DE SENTENCIAS POR EDICTO",
+      "subtema": null
+    },
+    {
+      "tema": "COSA JUZGADA FORMAL",
+      "subtema": "Violación por revivir proceso concluído"
+    },
+    {
+      "tema": "MEDIO DE DEFENSA JUDICIAL INEFICAZ",
+      "subtema": "Debido proceso en actuaciones ante autoridad policiva"
+    },
+    {
+      "tema": "DEBIDO PROCESO",
+      "subtema": "Doble notificación fallo de amparo policivo"
+    }
+  ]
+}

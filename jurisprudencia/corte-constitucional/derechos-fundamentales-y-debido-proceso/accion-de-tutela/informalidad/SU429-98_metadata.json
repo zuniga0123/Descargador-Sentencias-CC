@@ -1,0 +1,71 @@
+{
+  "radicado": "SU429-98",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1998,
+  "fecha_creacion": "1998-08-19",
+  "magistrado_ponente": "Dr VLADIMIRO NARANJO MESA",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCIÓN DE TUTELA",
+  "subtema": "Informalidad",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Decreto 2304 de 1989",
+    "Decreto 2067 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1998/SU429-98.htm",
+  "fecha_descarga": "2026-10-23T06:17:57.917743+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1998-08-19",
+  "fecha_publicacion": null,
+  "numero": "SU.429/98",
+  "tipo_cc": "SU",
+  "prov_id": "15017",
+  "tema_relatoria": "VIA DE HECHO EN PROVIDENCIAS JUDICIALES. SOLICITUD DE INVALIDEZ DEL RECURSO DE SUPLICA POR EL CONSEJO DE ESTADO. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Informalidad"
+    },
+    {
+      "tema": "DEBIDO PROCESO",
+      "subtema": "Formas propias de cada juicio"
+    },
+    {
+      "tema": "COSA JUZGADA CONSTITUCIONAL",
+      "subtema": "Verificación sustancial de posible desacato"
+    },
+    {
+      "tema": "VIA DE HECHO",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Procedencia excepcional"
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA RECURSO DE SUPLICA",
+      "subtema": "Análisis material"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Análisis material de la pretensión"
+    },
+    {
+      "tema": "COSA JUZGADA CONSTITUCIONAL",
+      "subtema": "Periodo de gobernadores"
+    },
+    {
+      "tema": "RECURSO DE SUPLICA ANTE SALA PLENA DE LO CONTENCIOSO ADMINISTRATIVO",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "JUEZ DE TUTELA",
+      "subtema": "Facultad de fallar extra y ultra petita"
+    }
+  ]
+}

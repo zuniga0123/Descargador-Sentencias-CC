@@ -1,0 +1,49 @@
+{
+  "radicado": "T-668-97",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1997,
+  "fecha_creacion": "1997-12-10",
+  "magistrado_ponente": "Dr ALEJANDRO MARTINEZ CABALLERO",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "JURISDICCION ORDINARIA",
+  "subtema": "Trámite asunto de otra jurisdicción no se justifica por silencio de partes o desidia del juez",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1997/T-668-97.htm",
+  "fecha_descarga": "2026-10-23T06:28:43.502927+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1997-12-10",
+  "fecha_publicacion": null,
+  "numero": "T-668/97",
+  "tipo_cc": "T",
+  "prov_id": "14521",
+  "tema_relatoria": "DEBIDO PROCESO.VIA DE HECHO. SE FALLO POR JURISDICCION ORDINARIA CUANDO DEBIO HACERSE POR LA CONTENCIOSO ADMINISTRATIVA. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "JURISDICCION ORDINARIA",
+      "subtema": "Trámite asunto de otra jurisdicción no se justifica por silencio de partes o desidia del juez"
+    },
+    {
+      "tema": "VIA DE HECHO",
+      "subtema": "Tramitación de asunto por jurisdicción que no corresponde"
+    },
+    {
+      "tema": "JUEZ COMPETENTE",
+      "subtema": "Tramitación de asunto por jurisdicción correspondiente"
+    },
+    {
+      "tema": "DERECHO A LA JURISDICCION PERTINENTE",
+      "subtema": "Orden justo"
+    },
+    {
+      "tema": "DEBIDO PROCESO",
+      "subtema": "Orden justo"
+    }
+  ]
+}

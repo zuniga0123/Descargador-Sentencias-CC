@@ -1,0 +1,52 @@
+{
+  "radicado": "C-115-98",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1998,
+  "fecha_creacion": "1998-03-25",
+  "magistrado_ponente": "Dr HERNANDO HERRERA VERGARA",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "CADUCIDAD",
+  "subtema": "No opera frente a violación de derechos humanos",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 1 de 1984",
+    "Decreto 2304 de 1989",
+    "Ley 288 de 1996",
+    "Decreto 2067 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1998/C-115-98.htm",
+  "fecha_descarga": "2026-10-23T06:16:38.363609+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1998-03-25",
+  "fecha_publicacion": null,
+  "numero": "C-115/98",
+  "tipo_cc": "C",
+  "prov_id": "14664",
+  "tema_relatoria": "DEC. 01/84. C.C.A. ART. 136 PARCIAL. CADUCIDAD DE LA ACCION DE REPARACION DIRECTA. EXEQUIBLE.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "CADUCIDAD",
+      "subtema": "No opera frente a violación de derechos humanos"
+    },
+    {
+      "tema": "CADUCIDAD DE LA ACCION CONTENCIOSO ADMINISTRATIVA",
+      "subtema": "Límite para reclamar determinado derecho"
+    },
+    {
+      "tema": "CADUCIDAD",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "DERECHO A LA IGUALDAD",
+      "subtema": "Tratamiento especial que amerita tratamiento diferenciado"
+    },
+    {
+      "tema": "ACCION DE REPARACION DIRECTA",
+      "subtema": "Término de caducidad"
+    }
+  ]
+}

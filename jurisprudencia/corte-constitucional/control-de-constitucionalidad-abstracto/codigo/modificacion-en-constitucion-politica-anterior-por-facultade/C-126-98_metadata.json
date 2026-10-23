@@ -1,0 +1,68 @@
+{
+  "radicado": "C-126-98",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1998,
+  "fecha_creacion": "1998-04-01",
+  "magistrado_ponente": null,
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "CODIGO",
+  "subtema": "Modificación en Constitución Política anterior por facultades extraordinarias",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 23 de 1973",
+    "Ley 2811 de 1974",
+    "Ley 142 de 1994",
+    "Ley 80 de 1993",
+    "Decreto 2811 de 1974",
+    "Ley 99 de 1993",
+    "Decreto Ley 2811 de 1974",
+    "Ley 2811 de 1994"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1998/C-126-98.htm",
+  "fecha_descarga": "2026-10-23T06:16:42.110553+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1998-04-01",
+  "fecha_publicacion": null,
+  "numero": "C-126/98",
+  "tipo_cc": "C",
+  "prov_id": "14677",
+  "tema_relatoria": "LEY 23/73. ARTS. 19 Y 20. DEC. 2811/74. LEY 142/94. ART. 39 N° 1. FACULTADES EXTRAORDINARIAS. LEGISLACION AMBIENTAL Y DE RECURSOS NATURALES. EXEQUIBLES.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "CODIGO",
+      "subtema": "Modificación en Constitución Política anterior por facultades extraordinarias"
+    },
+    {
+      "tema": "CODIGO DE RECURSOS NATURALES",
+      "subtema": "Expedición"
+    },
+    {
+      "tema": "PRINCIPIOS CONSTITUCIONALES",
+      "subtema": "Valor"
+    },
+    {
+      "tema": "CODIGO DE RECURSOS NATURALES",
+      "subtema": "Desarrollo sostenible"
+    },
+    {
+      "tema": "CODIGO DE RECURSOS NATURALES",
+      "subtema": "Ausencia de extralimitación en ejercicio de facultades"
+    },
+    {
+      "tema": "CONSTITUCIÓN ECOLÓGICA",
+      "subtema": null
+    },
+    {
+      "tema": "FACULTADES EXTRAORDINARIAS",
+      "subtema": "Distinción entre precisión y generalidad"
+    },
+    {
+      "tema": "LEGISLACION AMBIENTAL Y LEGISLACION CIVIL",
+      "subtema": "Distinciones"
+    }
+  ]
+}

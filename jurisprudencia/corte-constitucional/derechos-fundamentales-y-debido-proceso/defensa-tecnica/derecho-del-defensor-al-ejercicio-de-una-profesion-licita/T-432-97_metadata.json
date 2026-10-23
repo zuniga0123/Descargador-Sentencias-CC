@@ -1,0 +1,77 @@
+{
+  "radicado": "T-432-97",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1997,
+  "fecha_creacion": "1997-09-04",
+  "magistrado_ponente": "Dr CARLOS GAVIRIA DÍAZ",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "DEFENSA TECNICA",
+  "subtema": "Derecho del defensor al ejercicio de una profesión lícita",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1997/T-432-97.htm",
+  "fecha_descarga": "2026-10-23T06:37:02.921409+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1997-09-04",
+  "fecha_publicacion": null,
+  "numero": "T-432/97",
+  "tipo_cc": "T",
+  "prov_id": "14259",
+  "tema_relatoria": "DEBIDO PROCESO. DER. A LA DEFENSA TECNICA. VIA DE HECHO EN LA INDAGATORIA. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DEFENSA TECNICA",
+      "subtema": "Derecho del defensor al ejercicio de una profesión lícita"
+    },
+    {
+      "tema": "DERECHO DE ACCESO A CARGOS PUBLICOS",
+      "subtema": "Derecho del defensor a examinar el expediente"
+    },
+    {
+      "tema": "DERECHO DE DEFENSA TECNICA",
+      "subtema": "Derecho del defensor a examinar el expediente"
+    },
+    {
+      "tema": "VIA DE HECHO EN INDAGATORIA",
+      "subtema": "Negativa a permitir examen del expediente por defensor"
+    },
+    {
+      "tema": "VIA DE HECHO POR FISCAL REGIONAL EN INDAGATORIA",
+      "subtema": null
+    },
+    {
+      "tema": "DERECHO DE DEFENSA TECNICA",
+      "subtema": "Inicio del ejercicio"
+    },
+    {
+      "tema": "JUEZ PENAL",
+      "subtema": "Aplicación del debido proceso"
+    },
+    {
+      "tema": "PROCESO PENAL",
+      "subtema": "Mayor cantidad de garantías constitucionales para el procesado"
+    },
+    {
+      "tema": "VIA DE HECHO EN INDAGATORIA",
+      "subtema": "Existencia de mecanismos distintos para corregir deficiencias"
+    },
+    {
+      "tema": "VIA DE HECHO EN TRAMITE DE SANCION CORRECCIONAL",
+      "subtema": "Sanción no figura entre las consagradas en la ley"
+    },
+    {
+      "tema": "VIA DE HECHO",
+      "subtema": "Falta de garantía constitucional básica"
+    },
+    {
+      "tema": "VIA DE HECHO EN INDAGATORIA",
+      "subtema": "No aceptación ejercicio de defensa técnica"
+    }
+  ]
+}

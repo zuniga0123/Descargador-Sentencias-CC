@@ -1,0 +1,53 @@
+{
+  "radicado": "T-215-97",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1997,
+  "fecha_creacion": "1997-04-29",
+  "magistrado_ponente": "Dr CARLOS GAVIRIA DÍAZ",
+  "area": "Otros - Sin clasificar",
+  "tema": "AUTONOMÍA UNIVERSITARIA",
+  "subtema": "Programa académico y otorgamiento de título",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1997/T-215-97.htm",
+  "fecha_descarga": "2026-10-23T06:33:38.413300+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1997-04-29",
+  "fecha_publicacion": null,
+  "numero": "T-215/97",
+  "tipo_cc": "T",
+  "prov_id": "14026",
+  "tema_relatoria": "AUTONOMIA UNIVERSITARIA. NO OTORGAMIENTO DE GRADO DE CIRUJANO NI ESPECIALIZACION. CONVALIDACION DE PRACTICAS ACADEMICAS. ICFES. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "AUTONOMÍA UNIVERSITARIA",
+      "subtema": "Programa académico y otorgamiento de título"
+    },
+    {
+      "tema": "INSTITUCION UNIVERSITARIA",
+      "subtema": "Diligencia para reingreso y culminación de especialización"
+    },
+    {
+      "tema": "EJERCICIO DE OCUPACIONES, ARTES Y OFICIOS",
+      "subtema": "Regulación constitucional"
+    },
+    {
+      "tema": "AUTONOMÍA UNIVERSITARIA",
+      "subtema": "Otorgamiento título de especialista"
+    },
+    {
+      "tema": "AUTONOMÍA UNIVERSITARIA",
+      "subtema": "Otorgamiento título de especialista cumplido el programa"
+    },
+    {
+      "tema": "JUEZ DE TUTELA",
+      "subtema": "Competencia reglada"
+    }
+  ]
+}

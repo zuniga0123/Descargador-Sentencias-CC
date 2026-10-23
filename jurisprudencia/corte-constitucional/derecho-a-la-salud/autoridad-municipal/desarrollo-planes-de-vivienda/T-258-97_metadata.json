@@ -1,0 +1,45 @@
+{
+  "radicado": "T-258-97",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1997,
+  "fecha_creacion": "1997-05-28",
+  "magistrado_ponente": "Dr CARLOS GAVIRIA DÍAZ",
+  "area": "Derecho a la Salud",
+  "tema": "AUTORIDAD MUNICIPAL",
+  "subtema": "Desarrollo planes de vivienda",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1997/T-258-97.htm",
+  "fecha_descarga": "2026-10-23T06:34:03.527031+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1997-05-28",
+  "fecha_publicacion": null,
+  "numero": "T-258/97",
+  "tipo_cc": "T",
+  "prov_id": "14067",
+  "tema_relatoria": "DER. A LA VIVIENDA DIGNA. CONTAMINACION AMBIENTAL. DER. A LA SALUD. PLANES DE VIVIENDA. MUNICIPIO DE YUMBO. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "AUTORIDAD MUNICIPAL",
+      "subtema": "Desarrollo planes de vivienda"
+    },
+    {
+      "tema": "PLAN DE VIVIENDA BASICA",
+      "subtema": "Zonas de alto riesgo o contaminadas"
+    },
+    {
+      "tema": "DERECHO A LA VIVIENDA DIGNA",
+      "subtema": "Condición asistencial"
+    },
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Contaminación ambiental en Yumbo"
+    }
+  ]
+}

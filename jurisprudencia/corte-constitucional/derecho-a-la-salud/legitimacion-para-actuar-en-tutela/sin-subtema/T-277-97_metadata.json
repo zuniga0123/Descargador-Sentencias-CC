@@ -1,0 +1,46 @@
+{
+  "radicado": "T-277-97",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1997,
+  "fecha_creacion": "1997-06-03",
+  "magistrado_ponente": "Dr JOSE GREGORIO HERNANDEZ GALINDO",
+  "area": "Derecho a la Salud",
+  "tema": "LEGITIMACION PARA ACTUAR EN TUTELA",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 100 de 1993"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1997/T-277-97.htm",
+  "fecha_descarga": "2026-10-23T06:34:35.938816+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1997-06-03",
+  "fecha_publicacion": null,
+  "numero": "T-277/97",
+  "tipo_cc": "T",
+  "prov_id": "14086",
+  "tema_relatoria": "CIRUGIA EN LA CADERA. ENTIDADES DE MEDICINA PREPAGADA NO DEBEN RESPONDER POR PREEXISTENCIAS QUE ESTEN ESTABLECIDAS EN EL CONTRATO. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "LEGITIMACION PARA ACTUAR EN TUTELA",
+      "subtema": null
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA EMPRESA DE MEDICINA PREPAGADA",
+      "subtema": "Procedencia"
+    },
+    {
+      "tema": "EMPRESA DE MEDICINA PREPAGADA",
+      "subtema": "No responde por preexistencias expresadas en contrato"
+    },
+    {
+      "tema": "LEGITIMACIÓN POR ACTIVA EN TUTELA",
+      "subtema": "Cónyuge del afectado en salud"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "radicado": "C-088-98",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1998,
+  "fecha_creacion": "1998-03-18",
+  "magistrado_ponente": "Dr ALEJANDRO MARTÍNEZ CABALLERO",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "EMPRESAS INDUSTRIALES Y COMERCIALES DEL ESTADO",
+  "subtema": "Reserva legal para su creación o autorización de su existencia",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 1679 de 1997",
+    "Decreto 1050 de 1968",
+    "Decreto 1042 de 1978",
+    "Ley 344 de 1995"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1998/C-088-98.htm",
+  "fecha_descarga": "2026-10-23T06:16:16.257452+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1998-03-18",
+  "fecha_publicacion": null,
+  "numero": "C-088/98",
+  "tipo_cc": "C",
+  "prov_id": "14633",
+  "tema_relatoria": "DEC. 1679/97. ART. 6 INCISO 1. PLAZO MAXIMO DE FUSION ENTRE MINERALCO Y ECOCARBON EN LA EMPRESA MINERACOL LTDA. EXEQUIBLE.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "EMPRESAS INDUSTRIALES Y COMERCIALES DEL ESTADO",
+      "subtema": "Reserva legal para su creación o autorización de su existencia"
+    },
+    {
+      "tema": "FACULTADES EXTRAORDINARIAS",
+      "subtema": "Término para su ejercicio"
+    },
+    {
+      "tema": "EMPRESAS INDUSTRIALES Y COMERCIALES DEL ESTADO",
+      "subtema": "Límites a la autonomía"
+    },
+    {
+      "tema": "DECISION LEGAL",
+      "subtema": "Término para su cumplimiento"
+    },
+    {
+      "tema": "FUSION DE MINERALCO Y ECOCARBON",
+      "subtema": "Actividad administrativa"
+    }
+  ]
+}

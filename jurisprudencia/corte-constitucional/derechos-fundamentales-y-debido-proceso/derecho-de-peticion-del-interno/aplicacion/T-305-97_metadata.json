@@ -1,0 +1,39 @@
+{
+  "radicado": "T-305-97",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1997,
+  "fecha_creacion": "1997-06-20",
+  "magistrado_ponente": "Dr JOSE GREGORIO HERNANDEZ GALINDO",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "DERECHO DE PETICION DEL INTERNO",
+  "subtema": "Aplicación",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 65 de 1993",
+    "Decreto 1 de 1984"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1997/T-305-97.htm",
+  "fecha_descarga": "2026-10-23T06:35:04.499383+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1997-06-20",
+  "fecha_publicacion": null,
+  "numero": "T-305/97",
+  "tipo_cc": "T",
+  "prov_id": "14116",
+  "tema_relatoria": "DER. DE PETICION. PERMISO A RECLUSO. EL JUEZ DE TUTELA UNA VEZ PROFERIDO SU FALLO NO PUEDE MODIFICARLO ADICIONARLO O REVOCARLO. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO DE PETICION DEL INTERNO",
+      "subtema": "Aplicación"
+    },
+    {
+      "tema": "JUEZ DE TUTELA",
+      "subtema": "Proferido el fallo pierde competencia para modificarlo, adicionarlo o revocarlo"
+    }
+  ]
+}

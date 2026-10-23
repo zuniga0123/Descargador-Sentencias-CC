@@ -1,0 +1,42 @@
+{
+  "radicado": "SU022-98",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1998,
+  "fecha_creacion": "1998-02-11",
+  "magistrado_ponente": "Dr CARLOS GAVIRIA DIAZ",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "HUELGA",
+  "subtema": "No es un hecho irresistible",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 50 de 1990"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1998/SU022-98.htm",
+  "fecha_descarga": "2026-10-23T06:18:19.956856+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1998-02-11",
+  "fecha_publicacion": null,
+  "numero": "SU.022/98",
+  "tipo_cc": "SU",
+  "prov_id": "14569",
+  "tema_relatoria": "DER. A LA SEGURIDAD SOCIAL. DER. AL MINIMO VITAL. LOA HUELGA NO PUEDE JUSTIFICAR LA FALTA DE PAGO DE LAS MESADAS PENSIONALES. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "HUELGA",
+      "subtema": "No es un hecho irresistible"
+    },
+    {
+      "tema": "DERECHO AL MINIMO VITAL DEL PENSIONADO",
+      "subtema": "Previsión de pago oportuno de mesadas en periodo de huelga"
+    },
+    {
+      "tema": "HUELGA",
+      "subtema": "Cancelación periódica de pensiones"
+    }
+  ]
+}

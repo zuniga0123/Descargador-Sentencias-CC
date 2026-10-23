@@ -1,0 +1,47 @@
+{
+  "radicado": "T-533-97",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1997,
+  "fecha_creacion": "1997-10-21",
+  "magistrado_ponente": "Dr Vladimiro Naranjo Mesa",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "VIA DE HECHO",
+  "subtema": "No trámite de colisión positiva de competencia",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 270 de 1996",
+    "Ley 81 de 1993"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1997/T-533-97.htm",
+  "fecha_descarga": "2026-10-23T06:38:50.129165+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1997-10-21",
+  "fecha_publicacion": null,
+  "numero": "T-533/97",
+  "tipo_cc": "T",
+  "prov_id": "14372",
+  "tema_relatoria": "DEBIDO PROCESO. CONFLICTO DE COMPETENCIA ENTRE LA JUSTICIA ORDINARIA Y LA MILITAR. VIA DE HECHO. HECHO SUPERADO. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "VIA DE HECHO",
+      "subtema": "No trámite de colisión positiva de competencia"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Procedencia excepcional"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Hecho superado en conflicto positivo de competencia"
+    },
+    {
+      "tema": "SALA DISCIPLINARIA DEL CONSEJO SUPERIOR DE LA JUDICATURA",
+      "subtema": "Dirime conflicto de competencia entre justicia ordinaria y la militar"
+    }
+  ]
+}

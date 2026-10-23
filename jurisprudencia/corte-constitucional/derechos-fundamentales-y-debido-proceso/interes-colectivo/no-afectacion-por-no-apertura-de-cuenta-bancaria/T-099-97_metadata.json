@@ -1,0 +1,55 @@
+{
+  "radicado": "T-099-97",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1997,
+  "fecha_creacion": "1997-03-04",
+  "magistrado_ponente": "Dr ALEJANDRO MARTINEZ CABALLERO",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "INTERES COLECTIVO",
+  "subtema": "No afectación por no apertura de cuenta bancaria",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Decreto 133 de 1976",
+    "Decreto 1050 de 1968",
+    "Decreto 663 de 1993",
+    "Decreto 130 de 1976",
+    "Decreto 3130 de 1968",
+    "Ley 48 de 1968"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1997/T-099-97.htm",
+  "fecha_descarga": "2026-10-23T06:19:56.455103+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1997-03-04",
+  "fecha_publicacion": null,
+  "numero": "T-099/97",
+  "tipo_cc": "T",
+  "prov_id": "13900",
+  "tema_relatoria": "TUTELA CONTRA PARTICULARES. IMPROCEDENCIA DE LA ACTIVIDAD BANCARIA COMO SERV. PUBLICO ESENCIAL. NO AFECTA INTERES COLECTIVO. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "INTERES COLECTIVO",
+      "subtema": "No afectación por no apertura de cuenta bancaria"
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA BANCOS",
+      "subtema": "No apertura de cuenta"
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA PARTICULARES",
+      "subtema": "No apertura de cuenta bancaria"
+    },
+    {
+      "tema": "CONDUCTA LEGITIMA DE PARTICULAR",
+      "subtema": "Negativa apertura de cuenta bancaria"
+    },
+    {
+      "tema": "INTERES PUBLICO",
+      "subtema": "Actividades financieras"
+    }
+  ]
+}

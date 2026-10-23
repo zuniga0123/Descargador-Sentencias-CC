@@ -1,0 +1,41 @@
+{
+  "radicado": "T-607-97",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1997,
+  "fecha_creacion": "1997-11-25",
+  "magistrado_ponente": "Dr ALEJANDRO MARTINEZ CABALLERO",
+  "area": "Derecho a la Salud",
+  "tema": "ENFERMEDADES CATASTROFICAS O RUINOSAS",
+  "subtema": "Repetición de EPS contra el Estado por no cumplirse periodo mínimo de cotización",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 1938 de 1994"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1997/T-607-97.htm",
+  "fecha_descarga": "2026-10-23T06:27:31.793781+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1997-11-25",
+  "fecha_publicacion": null,
+  "numero": "T-607/97",
+  "tipo_cc": "T",
+  "prov_id": "14458",
+  "tema_relatoria": "COTIZACIONES A LAS E.P.S SEMANAS DE COTIZACION REPETICION CONTRA EL ESTADO. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ENFERMEDADES CATASTROFICAS O RUINOSAS",
+      "subtema": "Repetición de EPS contra el Estado por no cumplirse periodo mínimo de cotización"
+    },
+    {
+      "tema": "ENFERMEDADES CATASTROFICAS O RUINOSAS",
+      "subtema": "Tratamiento de quimioterapia por EPS"
+    },
+    {
+      "tema": "SISTEMA GENERAL DE SEGURIDAD SOCIAL EN SALUD",
+      "subtema": "Afiliación es al sistema y no a la EPS"
+    }
+  ]
+}

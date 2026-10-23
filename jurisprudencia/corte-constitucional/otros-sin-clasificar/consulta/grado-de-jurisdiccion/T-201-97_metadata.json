@@ -1,0 +1,61 @@
+{
+  "radicado": "T-201-97",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1997,
+  "fecha_creacion": "1997-04-18",
+  "magistrado_ponente": "Dr VLADIMIRO NARANJO MESA",
+  "area": "Otros - Sin clasificar",
+  "tema": "CONSULTA",
+  "subtema": "Grado de jurisdicción",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 30 de 1986"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1997/T-201-97.htm",
+  "fecha_descarga": "2026-10-23T06:21:01.256678+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1997-04-18",
+  "fecha_publicacion": null,
+  "numero": "T-201/97",
+  "tipo_cc": "T",
+  "prov_id": "14005",
+  "tema_relatoria": "VIA DE HECHO EN GRADO JURISDICCIONAL DE CONSULTA. REFORMATIO IN PEJUS. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "CONSULTA",
+      "subtema": "Grado de jurisdicción"
+    },
+    {
+      "tema": "CONSULTA",
+      "subtema": "Agravación situación del imputado"
+    },
+    {
+      "tema": "DERECHO A LA LIBERTAD",
+      "subtema": "Vulneración"
+    },
+    {
+      "tema": "NULIDAD DE SENTENCIA POR VIA DE HECHO",
+      "subtema": "Imposición de pena mayor"
+    },
+    {
+      "tema": "PRINCIPIO NO REFORMATIO IN PEJUS",
+      "subtema": "Inoperancia en grado de consulta"
+    },
+    {
+      "tema": "PRINCIPIO DE AUTONOMIA FUNCIONAL DEL JUEZ",
+      "subtema": "Acatamiento"
+    },
+    {
+      "tema": "VIA DE HECHO",
+      "subtema": "Imposición de pena mayor"
+    },
+    {
+      "tema": "VIA DE HECHO EN GRADO DE CONSULTA",
+      "subtema": "Ignorancia circunstancia de atenuación punitiva"
+    }
+  ]
+}

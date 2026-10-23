@@ -1,0 +1,57 @@
+{
+  "radicado": "T-606-97",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1997,
+  "fecha_creacion": "1997-11-24",
+  "magistrado_ponente": "Dr ALEJANDRO MARTINEZ CABALLERO",
+  "area": "Derecho a la Salud",
+  "tema": "PLAN DE ATENCION BASICA EN SALUD",
+  "subtema": "Prestación por el Estado",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 1938 de 1994",
+    "Ley 100 de 1993",
+    "Decreto 2591 de 1991",
+    "Decreto 1070 de 1995",
+    "Decreto 1485 de 1994"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1997/T-606-97.htm",
+  "fecha_descarga": "2026-10-23T06:39:26.166229+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1997-11-24",
+  "fecha_publicacion": null,
+  "numero": "T-606/97",
+  "tipo_cc": "T",
+  "prov_id": "14457",
+  "tema_relatoria": "AFILIACION AL SISTEMA DE SEGURIDAD SOCIAL. COTIZACIONES CUANDO SE PUEDE REPETIR CONTRA EL ESTADO. CONCEDIDA PARCIALMENTE.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "PLAN DE ATENCION BASICA EN SALUD",
+      "subtema": "Prestación por el Estado"
+    },
+    {
+      "tema": "PLAN OBLIGATORIO DE SALUD",
+      "subtema": "Prestación por EPS"
+    },
+    {
+      "tema": "DERECHO A LA VIDA",
+      "subtema": "Suministro de medicamentos no contenido en listado oficial"
+    },
+    {
+      "tema": "ENTIDAD PROMOTORA DE SALUD",
+      "subtema": "Repetición contra el Estado por medicamentos que no figuran en listado"
+    },
+    {
+      "tema": "ENFERMEDADES CATASTROFICAS O RUINOSAS",
+      "subtema": "Periodos mínimos de cotización"
+    },
+    {
+      "tema": "SISTEMA GENERAL DE SEGURIDAD SOCIAL EN SALUD",
+      "subtema": "Afiliación es al sistema y no a la EPS"
+    }
+  ]
+}

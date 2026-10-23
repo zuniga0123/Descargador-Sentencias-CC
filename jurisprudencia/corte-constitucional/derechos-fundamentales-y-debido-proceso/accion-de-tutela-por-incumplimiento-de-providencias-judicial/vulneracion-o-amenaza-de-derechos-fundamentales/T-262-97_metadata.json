@@ -1,0 +1,67 @@
+{
+  "radicado": "T-262-97",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1997,
+  "fecha_creacion": "1997-05-28",
+  "magistrado_ponente": "Dr JOSE GREGORIO HERNANDEZ GALINDO",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCION DE TUTELA POR INCUMPLIMIENTO DE PROVIDENCIAS JUDICIALES",
+  "subtema": "Vulneración o amenaza de derechos fundamentales",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 179 de 1994",
+    "Ley 224 de 1995"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1997/T-262-97.htm",
+  "fecha_descarga": "2026-10-23T06:22:02.291692+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1997-05-28",
+  "fecha_publicacion": null,
+  "numero": "T-262/97",
+  "tipo_cc": "T",
+  "prov_id": "14071",
+  "tema_relatoria": "TUTELA CONTRA PROVIDENCIAS JUDICIALES CUANDO ESTAN DE POR MEDIO DERS. FUNDAM. EMBARGABILIDAD DE DINEROS PUBLICOS. DEBIDO PROCESO. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCION DE TUTELA POR INCUMPLIMIENTO DE PROVIDENCIAS JUDICIALES",
+      "subtema": "Vulneración o amenaza de derechos fundamentales"
+    },
+    {
+      "tema": "DEBIDO PROCESO",
+      "subtema": "Vulneración por personas distintas a sujetos procesales"
+    },
+    {
+      "tema": "INEMBARGABILIDAD DE BIENES O DINEROS PUBLICOS",
+      "subtema": "No es absoluto"
+    },
+    {
+      "tema": "CUMPLIMIENTO DE PROVIDENCIAS JUDICIALES",
+      "subtema": "Desobediencia por entidades bancarias"
+    },
+    {
+      "tema": "CUMPLIMIENTO DE PROVIDENCIAS JUDICIALES",
+      "subtema": "Renuencia del obligado"
+    },
+    {
+      "tema": "BIENES O DINEROS PUBLICOS",
+      "subtema": "Pago de acreencias laborales"
+    },
+    {
+      "tema": "MEDIO DE DEFENSA JUDICIAL INEFICAZ",
+      "subtema": "Cumplimiento de orden judicial"
+    },
+    {
+      "tema": "DINEROS PUBLICOS",
+      "subtema": "Ordenes de embargo con independencia de su origen"
+    },
+    {
+      "tema": "DEBIDO PROCESO",
+      "subtema": "Vulneración por no cumplimiento de orden judicial"
+    }
+  ]
+}

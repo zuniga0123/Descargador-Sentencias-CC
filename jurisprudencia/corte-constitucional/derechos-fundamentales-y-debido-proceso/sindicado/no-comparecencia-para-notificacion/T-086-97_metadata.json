@@ -1,0 +1,53 @@
+{
+  "radicado": "T-086-97",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1997,
+  "fecha_creacion": "1997-02-25",
+  "magistrado_ponente": "Dr EDUARDO CIFUENTES MUÑOZ",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "SINDICADO",
+  "subtema": "No comparecencia para notificación",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1997/T-086-97.htm",
+  "fecha_descarga": "2026-10-23T06:31:43.184979+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1997-02-25",
+  "fecha_publicacion": null,
+  "numero": "T-086/97",
+  "tipo_cc": "T",
+  "prov_id": "13887",
+  "tema_relatoria": "DEBIDO PROCESO. REVOCATORIA DEL BENEFICIO DE DETENCION DOMICILIARIA POR LA CORTE SUPREMA. INEXISTENCIA DE VIA DE HECHO. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "SINDICADO",
+      "subtema": "No comparecencia para notificación"
+    },
+    {
+      "tema": "NORMA VIGENTE",
+      "subtema": "Interpretación más rigurosa"
+    },
+    {
+      "tema": "JUEZ DE TUTELA",
+      "subtema": "No reemplaza al juez natural"
+    },
+    {
+      "tema": "JUEZ NATURAL",
+      "subtema": "Valoración inasistencia para notificación"
+    },
+    {
+      "tema": "VIA DE HECHO",
+      "subtema": "Alcance por vicios o defectos"
+    },
+    {
+      "tema": "VIA DE HECHO",
+      "subtema": "Inexistencia por revocatoria de detención domiciliaria"
+    }
+  ]
+}

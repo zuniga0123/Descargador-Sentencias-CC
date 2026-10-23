@@ -1,0 +1,87 @@
+{
+  "radicado": "SU430-98",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1998,
+  "fecha_creacion": "1998-08-19",
+  "magistrado_ponente": "Dr VLADIMIRO NARANJO MESA",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "DERECHO A LA SEGURIDAD SOCIAL",
+  "subtema": "Fundamental por conexidad",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 100 de 1993",
+    "Decreto 1283 de 1994"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1998/SU430-98.htm",
+  "fecha_descarga": "2026-10-23T06:18:01.641548+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1998-08-19",
+  "fecha_publicacion": null,
+  "numero": "SU.430/98",
+  "tipo_cc": "SU",
+  "prov_id": "15018",
+  "tema_relatoria": "SOLICITUD DE PENSION DE VEJEZ. DERS. ADQUIRIDOS. MORA DEL PATRONO EN APORTES. CAXDAC. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA SEGURIDAD SOCIAL",
+      "subtema": "Fundamental por conexidad"
+    },
+    {
+      "tema": "CAJA DE AUXILIOS Y PRESTACIONES DE LA ASOCIACION COLOMBIANA DE AVIADORES CIVILES",
+      "subtema": "Reconocimiento de pensión aunque empleador incumpla pago de algunos aportes"
+    },
+    {
+      "tema": "DERECHOS ADQUIRIDOS",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "DERECHO A LA PENSION DE JUBILACION",
+      "subtema": "Fundamental por conexidad"
+    },
+    {
+      "tema": "PENSION DE VEJEZ",
+      "subtema": "Reconocimiento por Caxdac aunque incumpla empleador pago de aportes"
+    },
+    {
+      "tema": "CAJA DE AUXILIOS Y PRESTACIONES DE LA ASOCIACION COLOMBIANA DE AVIADORES CIVILES",
+      "subtema": "Aportes son fondos comunes"
+    },
+    {
+      "tema": "CAJA DE AUXILIOS Y PRESTACIONES DE LA ASOCIACION COLOMBIANA DE AVIADORES CIVILES",
+      "subtema": "Aportes constituyen contribución parafiscal"
+    },
+    {
+      "tema": "DERECHO ADQUIRIDO A LA PENSION DE VEJEZ",
+      "subtema": "Cumplimiento de requisitos legales"
+    },
+    {
+      "tema": "PENSION DE JUBILACION",
+      "subtema": "Imprescriptibilidad"
+    },
+    {
+      "tema": "EMPLEADOR",
+      "subtema": "Responsabilidad en aportes aunque no hubiere efectuado descuentos"
+    },
+    {
+      "tema": "MEDIO DE DEFENSA JUDICIAL INEFICAZ",
+      "subtema": "Reconocimiento oportuno de pensión por Caxdac"
+    },
+    {
+      "tema": "ENTIDAD ADMINISTRADORA DE PENSIONES",
+      "subtema": "Reconocimiento aunque empleador no hubiere cotizado algunos meses"
+    },
+    {
+      "tema": "PENSION DE JUBILACION",
+      "subtema": "Utilización por Caxdac de vías jurídicas para obtener pago de aportes"
+    },
+    {
+      "tema": "PENSION DE VEJEZ",
+      "subtema": "Reconocimiento por existencia de nuevos hechos y cumplimiento de requisitos legales"
+    }
+  ]
+}

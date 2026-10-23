@@ -1,0 +1,45 @@
+{
+  "radicado": "T-449-97",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1997,
+  "fecha_creacion": "1997-09-18",
+  "magistrado_ponente": "Dr HERNANDO HERRERA VERGARA",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCION DE TUTELA TRANSITORIA PARA RECONOCIMIENTO DE SUSTITUCION PENSIONAL",
+  "subtema": "Inexistencia de inminente riesgo por retardo en práctica de cirugía estética",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1997/T-449-97.htm",
+  "fecha_descarga": "2026-10-23T06:37:10.028836+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1997-09-18",
+  "fecha_publicacion": null,
+  "numero": "T-449/97",
+  "tipo_cc": "T",
+  "prov_id": "14276",
+  "tema_relatoria": "TUTELA CONTRA PARTICULARES. RESPONSABILIDAD CIVIL. MEDIO DE DEFENSA JUDICIAL. TRANSPORTES OMEGA LTDA. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCION DE TUTELA TRANSITORIA PARA RECONOCIMIENTO DE SUSTITUCION PENSIONAL",
+      "subtema": "Inexistencia de inminente riesgo por retardo en práctica de cirugía estética"
+    },
+    {
+      "tema": "INDEFENSION",
+      "subtema": "Del usuario frente a la empresa transportadora"
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA PARTICULARES",
+      "subtema": "Procedencia contra empresa transportadora"
+    },
+    {
+      "tema": "MEDIO DE DEFENSA JUDICIAL",
+      "subtema": "Responsabilidad civil de empresa transportadora por accidente de ocupante"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "radicado": "T-046-97",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1997,
+  "fecha_creacion": "1997-02-06",
+  "magistrado_ponente": "Dr HERNANDO HERRERA VERGARA",
+  "area": "Otros - Sin clasificar",
+  "tema": "INDIGENCIA",
+  "subtema": "Protección por el Estado",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1997/T-046-97.htm",
+  "fecha_descarga": "2026-10-23T06:30:52.924887+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1997-02-06",
+  "fecha_publicacion": null,
+  "numero": "T-046/97",
+  "tipo_cc": "T",
+  "prov_id": "13852",
+  "tema_relatoria": "DER. A LA VIDA. DER. A LA SALUD. BENEF. DE C/NAMARCA NO ADMITE A INDIGENTE CON RETARDO MENTAL. PERSONAS EN CIRCUNSTANCIAS DE DEBILIDAD MANIFIESTA. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "INDIGENCIA",
+      "subtema": "Protección por el Estado"
+    },
+    {
+      "tema": "SERVICIO PUBLICO DE SALUD",
+      "subtema": "Circunstancia de debilidad manifiesta"
+    },
+    {
+      "tema": "BENEFICENCIA DE CUNDINAMARCA",
+      "subtema": "Trámites ingreso de indigente"
+    },
+    {
+      "tema": "SERVICIO PUBLICO DE SALUD",
+      "subtema": "Asistencia de indigente con retardo mental"
+    }
+  ]
+}

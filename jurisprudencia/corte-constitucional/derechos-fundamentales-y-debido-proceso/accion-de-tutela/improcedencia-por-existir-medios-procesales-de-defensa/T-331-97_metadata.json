@@ -1,0 +1,53 @@
+{
+  "radicado": "T-331-97",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1997,
+  "fecha_creacion": "1997-07-15",
+  "magistrado_ponente": "Dr JOSE GREGORIO HERNANDEZ GALINDO",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCIÓN DE TUTELA",
+  "subtema": "Improcedencia por existir medios procesales de defensa",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1997/T-331-97.htm",
+  "fecha_descarga": "2026-10-23T06:35:15.189213+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1997-07-15",
+  "fecha_publicacion": null,
+  "numero": "T-331/97",
+  "tipo_cc": "T",
+  "prov_id": "14150",
+  "tema_relatoria": "TUTELA CONTRA PROVIDENCIAS JUDICIALES. INEXISTENCIA DE VIA DE HECHO. PROCESO SUCESORIO. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Improcedencia por existir medios procesales de defensa"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Subsidiariedad"
+    },
+    {
+      "tema": "DEFENSOR DEL PUEBLO O PERSONERO MUNICIPAL",
+      "subtema": "Persiguen en nombre de la sociedad proteger los derechos fundamentales"
+    },
+    {
+      "tema": "DEFENSOR DEL PUEBLO O PERSONERO MUNICIPAL",
+      "subtema": "Presunción indefensión de menores"
+    },
+    {
+      "tema": "VIA DE HECHO",
+      "subtema": "No la constituye interpretación judicial"
+    },
+    {
+      "tema": "VIA DE HECHO",
+      "subtema": "Situación extraordinaria"
+    }
+  ]
+}

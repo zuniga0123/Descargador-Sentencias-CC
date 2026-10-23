@@ -1,0 +1,72 @@
+{
+  "radicado": "C-183-98",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1998,
+  "fecha_creacion": "1998-05-06",
+  "magistrado_ponente": null,
+  "area": "Derecho Constitucional Económico",
+  "tema": "JUICIO DE CONSTITUCIONALIDAD EN MATERIA TRIBUTARIA",
+  "subtema": "Intensidad cuando se presente indicio objetivo de inequidad en distribución de cargas públicas",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 624 de 1989",
+    "Ley 75 de 1986",
+    "Ley 43 de 1987",
+    "Ley 223 de 1995",
+    "Ley 100 de 1993",
+    "Ley 174 de 1994",
+    "Decreto 663 de 1993",
+    "Ley 45 de 1990"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1998/C-183-98.htm",
+  "fecha_descarga": "2026-10-23T06:17:07.912601+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1998-05-06",
+  "fecha_publicacion": null,
+  "numero": "C-183/98",
+  "tipo_cc": "C",
+  "prov_id": "14736",
+  "tema_relatoria": "DEC. 624/89. ART. 476 PARCIAL. SERVICIOS GRAVADOS. PRINCIPIO DE IGUALDAD EN LA CARGA TRIBUTARIA. LEGISLACION TRIBUTARIA Y SUS EFECTOS EN LA LIBRE COMPETENCIA Y EN EL MERCADO. EXEQUIBLE.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "JUICIO DE CONSTITUCIONALIDAD EN MATERIA TRIBUTARIA",
+      "subtema": "Intensidad cuando se presente indicio objetivo de inequidad en distribución de cargas públicas"
+    },
+    {
+      "tema": "PRINCIPIO DE IGUALDAD EN LA CARGA TRIBUTARIA",
+      "subtema": "Test fuerte"
+    },
+    {
+      "tema": "PRINCIPIO DE IGUALDAD EN LA CARGA TRIBUTARIA",
+      "subtema": "Indicio de inequidad"
+    },
+    {
+      "tema": "SOCIEDAD FIDUCIARIA",
+      "subtema": "Comisiones gravadas con IVA"
+    },
+    {
+      "tema": "SENTENCIA INTEGRADORA",
+      "subtema": null
+    },
+    {
+      "tema": "LEY TRIBUTARIA",
+      "subtema": "Efectos en la libre competencia y el mercado"
+    },
+    {
+      "tema": "PRINCIPIO DE IGUALDAD EN LA CARGA TRIBUTARIA",
+      "subtema": "Test intermedio"
+    },
+    {
+      "tema": "SOCIEDAD COMISIONISTA DE BOLSA",
+      "subtema": "Comisiones exentas de IVA"
+    },
+    {
+      "tema": "SENTENCIA DE CONSTITUCIONALIDAD CONDICIONADA",
+      "subtema": "Improcedencia en caso concreto para exención de impuestos"
+    }
+  ]
+}

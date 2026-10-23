@@ -1,0 +1,57 @@
+{
+  "radicado": "T-165-97",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1997,
+  "fecha_creacion": "1997-04-01",
+  "magistrado_ponente": "Dr JOSE GREGORIO HERNANDEZ GALINDO",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "DERECHO DE PETICION ANTE ORGANIZACIONES PRIVADAS",
+  "subtema": "Protección de las personas en su salud",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Decreto Ley 1 de 1984",
+    "Ley 200 de 1995",
+    "Decreto 2150 de 1995",
+    "Ley 190 de 1995"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1997/T-165-97.htm",
+  "fecha_descarga": "2026-10-23T06:20:32.364366+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1997-04-01",
+  "fecha_publicacion": null,
+  "numero": "T-165/97",
+  "tipo_cc": "T",
+  "prov_id": "13967",
+  "tema_relatoria": "DER. DE PETICION. SOLICITUD DE PENSION GRACIA. DOCENTE. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO DE PETICION ANTE ORGANIZACIONES PRIVADAS",
+      "subtema": "Protección de las personas en su salud"
+    },
+    {
+      "tema": "DERECHO DE PETICIÓN",
+      "subtema": "Término para resolver"
+    },
+    {
+      "tema": "DERECHO DE PETICION ANTE ORGANIZACIONES PRIVADAS",
+      "subtema": "Aplicación a EPS privada y medicina prepagada"
+    },
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Fundamental por conexidad"
+    },
+    {
+      "tema": "DERECHO DE PETICIÓN",
+      "subtema": "No admisión de respuestas evasivas"
+    },
+    {
+      "tema": "PRESUNCIÓN DE VERACIDAD EN TUTELA",
+      "subtema": "Aplicación por no rendición de informe"
+    }
+  ]
+}

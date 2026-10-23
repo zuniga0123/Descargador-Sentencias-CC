@@ -1,0 +1,77 @@
+{
+  "radicado": "T-059-97",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1997,
+  "fecha_creacion": "1997-02-10",
+  "magistrado_ponente": "Dr ALEJANDRO MARTÍNEZ CABALLERO",
+  "area": "Derecho a la Salud",
+  "tema": "CONTRATO DE SEGURIDAD SOCIAL",
+  "subtema": "Principios",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Decreto 1938 de 1994",
+    "Ley 10 de 1990",
+    "Decreto 753 de 1956",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1997/T-059-97.htm",
+  "fecha_descarga": "2026-10-23T06:29:51.846325+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1997-02-10",
+  "fecha_publicacion": null,
+  "numero": "T-059/97",
+  "tipo_cc": "T",
+  "prov_id": "13857",
+  "tema_relatoria": "DER. A LA VIDA Y A LA SALUD. CONTINUIDAD EN EL SERVICIO DE SALUD. CAFESALUD. CIRUGIA DE PACIENTE HEMOFILICO. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "CONTRATO DE SEGURIDAD SOCIAL",
+      "subtema": "Principios"
+    },
+    {
+      "tema": "ALLANAMIENTO A LA MORA",
+      "subtema": "Recibo de aportes debidos en salud"
+    },
+    {
+      "tema": "ALLANAMIENTO A LA MORA POR ENTIDAD PROMOTORA DE SALUD",
+      "subtema": "Prestación servicio"
+    },
+    {
+      "tema": "DERECHO A LA VIDA",
+      "subtema": "Práctica de operación"
+    },
+    {
+      "tema": "EMPLEADOR",
+      "subtema": "Pago oportuno de cuotas adicionales en salud"
+    },
+    {
+      "tema": "PRINCIPIO DE CONTINUIDAD EN EL SERVICIO DE SALUD",
+      "subtema": null
+    },
+    {
+      "tema": "PRINCIPIO DE LA BUENA FE EN CONTRATO SERVICIO PUBLICO DE SALUD",
+      "subtema": null
+    },
+    {
+      "tema": "EXCEPCION DE CONTRATO NO CUMPLIDO",
+      "subtema": "No pago oportuno de aportes"
+    },
+    {
+      "tema": "PRINCIPIO DE CONTINUIDAD POR ENTIDAD PROMOTORA DE SALUD",
+      "subtema": "Práctica de operación por Cafesalud"
+    },
+    {
+      "tema": "ENTIDAD PROMOTORA DE SALUD",
+      "subtema": "Información al usuario de cuotas no pagadas"
+    },
+    {
+      "tema": "ENTIDAD PROMOTORA DE SALUD",
+      "subtema": "Atención por recibo de aportes debidos"
+    }
+  ]
+}

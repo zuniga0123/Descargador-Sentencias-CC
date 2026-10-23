@@ -1,0 +1,54 @@
+{
+  "radicado": "T-202-97",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1997,
+  "fecha_creacion": "1997-04-18",
+  "magistrado_ponente": "Dr FABIO MORON DIAZ",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "ACCION DE TUTELA CONTRA PARTICULARES",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1997/T-202-97.htm",
+  "fecha_descarga": "2026-10-23T06:33:20.074399+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1997-04-18",
+  "fecha_publicacion": null,
+  "numero": "T-202/97",
+  "tipo_cc": "T",
+  "prov_id": "14006",
+  "tema_relatoria": "TUTELA CONTRA PARTICULARES. MORA EN LOS APORTES POR PARTE DEL PATRONO AL I.S.S. DER. A LA SEGURIDAD SOCIAL. DER. A LA VIDA Y SALUD. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCION DE TUTELA CONTRA PARTICULARES",
+      "subtema": null
+    },
+    {
+      "tema": "SUBORDINACION EN CONTRATO DE TRABAJO",
+      "subtema": null
+    },
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Mora en pago de aportes patronales"
+    },
+    {
+      "tema": "PRINCIPIO DE IRRENUNCIABILIDAD DE LA SEGURIDAD SOCIAL",
+      "subtema": "No transferencia de aportes obrero patronales en salud"
+    },
+    {
+      "tema": "SUBSIDIO FAMILIAR",
+      "subtema": "Improcedencia de reclamación por tutela"
+    },
+    {
+      "tema": "SISTEMA GENERAL DE SEGURIDAD SOCIAL EN SALUD",
+      "subtema": "No suministro de aportes descontados por empleador"
+    }
+  ]
+}

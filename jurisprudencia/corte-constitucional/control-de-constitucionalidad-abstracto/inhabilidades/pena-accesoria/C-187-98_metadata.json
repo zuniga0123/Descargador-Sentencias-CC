@@ -1,0 +1,44 @@
+{
+  "radicado": "C-187-98",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1998,
+  "fecha_creacion": "1998-05-06",
+  "magistrado_ponente": "Dr HERNANDO HERRERA VERGARA",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "INHABILIDADES",
+  "subtema": "Pena accesoria",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 200 de 1995",
+    "Decreto 2067 de 1991",
+    "Ley 190 de 1995",
+    "Decreto 100 de 1980"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1998/C-187-98.htm",
+  "fecha_descarga": "2026-10-23T06:17:15.096369+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1998-05-06",
+  "fecha_publicacion": null,
+  "numero": "C-187/98",
+  "tipo_cc": "C",
+  "prov_id": "14740",
+  "tema_relatoria": "LEY 200/95. ART. 30 PARAGRAFO PARCIAL DEL N° 1. SANCIONES ACCESORIAS. INHABILIDADES. EXEQUIBLES.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "INHABILIDADES",
+      "subtema": "Pena accesoria"
+    },
+    {
+      "tema": "INHABILIDADES PARA EJERCER FUNCIONES PUBLICAS",
+      "subtema": "Sanción accesoria no puede exceder a la principal"
+    },
+    {
+      "tema": "INHABILIDADES PARA EJERCER FUNCIONES PUBLICAS",
+      "subtema": "Sanción accesoria"
+    }
+  ]
+}

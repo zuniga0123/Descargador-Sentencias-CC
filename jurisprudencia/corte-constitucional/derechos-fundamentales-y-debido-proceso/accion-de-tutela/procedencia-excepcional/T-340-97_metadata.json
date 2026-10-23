@@ -1,0 +1,60 @@
+{
+  "radicado": "T-340-97",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1997,
+  "fecha_creacion": "1997-07-18",
+  "magistrado_ponente": "Dr HERNANDO HERRERA VERGARA",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCIÓN DE TUTELA",
+  "subtema": "Procedencia excepcional",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 80 de 1983",
+    "Ley 80 de 1993",
+    "Ley 2 de 1990",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1997/T-340-97.htm",
+  "fecha_descarga": "2026-10-23T06:35:29.469375+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1997-07-18",
+  "fecha_publicacion": null,
+  "numero": "T-340/97",
+  "tipo_cc": "T",
+  "prov_id": "14159",
+  "tema_relatoria": "DISCREPANCIAS ENTRE LAS PARTES EN LA EJECUCION Y DESARROLLO DE UN CONTRATO. DERS. LITIGIOSOS. MEDIO DE DEFENSA JUDICIAL. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Procedencia excepcional"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "No dirime derechos litigiosos emanados de interpretación de ley"
+    },
+    {
+      "tema": "MEDIO DE DEFENSA JUDICIAL",
+      "subtema": "Ampliación lote de terreno para exploración de metales preciosos"
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA ACTO DE TRAMITE",
+      "subtema": "Improcedencia de la tutela en principio"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "No resuelve conflictos judiciales cuyas competencias están establecidas"
+    },
+    {
+      "tema": "MEDIO DE DEFENSA JUDICIAL",
+      "subtema": "Discrepancias por ejecución y desarrollo de contrato"
+    },
+    {
+      "tema": "MEDIO DE DEFENSA JUDICIAL",
+      "subtema": "Reconocimiento de derechos contractuales"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "radicado": "T-230-97",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1997,
+  "fecha_creacion": "1997-05-14",
+  "magistrado_ponente": "Dr ANTONIO BARRERA CARBONELL",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "ACCION DE TUTELA CONTRA EMPLEADOR Y SINDICATO",
+  "subtema": "Titularidad de derechos constitucionales",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 50 de 1990"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1997/T-230-97.htm",
+  "fecha_descarga": "2026-10-23T06:21:30.266824+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1997-05-14",
+  "fecha_publicacion": null,
+  "numero": "T-230/97",
+  "tipo_cc": "T",
+  "prov_id": "14037",
+  "tema_relatoria": "DER. AL TRABAJO EN CONDICIONES DIGNAS. DER. A LA IGUALDAD. DER. A LA LIBERTAD INDIVIDUAL. DISCRIMINACION POR NO AGOGERSE A LEY 50/90. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCION DE TUTELA CONTRA EMPLEADOR Y SINDICATO",
+      "subtema": "Titularidad de derechos constitucionales"
+    },
+    {
+      "tema": "DERECHO A LA IGUALDAD",
+      "subtema": "Cláusula de discriminación laboral por régimen de cesantías"
+    },
+    {
+      "tema": "SINDICATO",
+      "subtema": "Controversia sobre intereses colectivos"
+    },
+    {
+      "tema": "ACCION DE TUTELA TRANSITORIA",
+      "subtema": "Improcedencia suspensión disposiciones convencionales"
+    },
+    {
+      "tema": "CONVENCION COLECTIVA",
+      "subtema": "Cláusula de discriminación salarial por régimen de cesantías"
+    },
+    {
+      "tema": "CONVENCION COLECTIVA",
+      "subtema": "Respeto derechos constitucionales de minoría"
+    },
+    {
+      "tema": "CONVENCION COLECTIVA",
+      "subtema": "Límites a la libertad de celebración"
+    },
+    {
+      "tema": "LIBERTAD INDIVIDUAL",
+      "subtema": "Opción régimen de cesantías"
+    },
+    {
+      "tema": "EFICACIA DE MEDIOS DE DEFENSA JUDICIALES",
+      "subtema": "Lentitud del proceso"
+    },
+    {
+      "tema": "DERECHO A LA IGUALDAD EN CONVENCION COLECTIVA",
+      "subtema": "Protección derechos constitucionales de minoría"
+    },
+    {
+      "tema": "MEDIO DE DEFENSA JUDICIAL EFICAZ",
+      "subtema": "Nivelaciones salariales"
+    }
+  ]
+}

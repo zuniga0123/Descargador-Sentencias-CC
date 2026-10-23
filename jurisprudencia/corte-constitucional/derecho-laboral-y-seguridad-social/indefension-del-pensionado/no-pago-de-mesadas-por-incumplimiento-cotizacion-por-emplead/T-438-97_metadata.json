@@ -1,0 +1,42 @@
+{
+  "radicado": "T-438-97",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1997,
+  "fecha_creacion": "1997-09-10",
+  "magistrado_ponente": "Dr JOSE GREGORIO HERNANDEZ GALINDO",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "INDEFENSION DEL PENSIONADO",
+  "subtema": "No pago de mesadas por incumplimiento cotización por empleador",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1997/T-438-97.htm",
+  "fecha_descarga": "2026-10-23T06:25:18.606064+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1997-09-10",
+  "fecha_publicacion": null,
+  "numero": "T-438/97",
+  "tipo_cc": "T",
+  "prov_id": "14265",
+  "tema_relatoria": "TUTELA CONTRA PARTICULARES. INDEFENSION DE LAS PERSONAS DE LA TERCERA EDAD. INCLUSION EN NOMINA PARA PAGO DE PENSION. HIPODROMO DE TECHO. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "INDEFENSION DEL PENSIONADO",
+      "subtema": "No pago de mesadas por incumplimiento cotización por empleador"
+    },
+    {
+      "tema": "MEDIO DE DEFENSA JUDICIAL",
+      "subtema": "Definición de quién debe pagar la pensión"
+    },
+    {
+      "tema": "EMPLEADOR",
+      "subtema": "Responsabilidad en pensiones por no cotizar para seguridad social"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "radicado": "T-234-97",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1997,
+  "fecha_creacion": "1997-05-15",
+  "magistrado_ponente": "Dr CARLOS GAVIRIA DÍAZ",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "DERECHO AL TRABAJO EN CONDICIONES DIGNAS Y JUSTAS",
+  "subtema": "Pago oportuno salarios de educadores",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1997/T-234-97.htm",
+  "fecha_descarga": "2026-10-23T06:21:33.749381+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1997-05-15",
+  "fecha_publicacion": null,
+  "numero": "T-234/97",
+  "tipo_cc": "T",
+  "prov_id": "14042",
+  "tema_relatoria": "DER.AL MINIMO VITAL. DER. AL TRABAJO. DER. A LA VIDA. NEGLIGENCIA EN EL PAGO DE SALARIOS A DOCENTES. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO AL TRABAJO EN CONDICIONES DIGNAS Y JUSTAS",
+      "subtema": "Pago oportuno salarios de educadores"
+    },
+    {
+      "tema": "ACCION DE TUTELA EN MATERIA LABORAL",
+      "subtema": "Procedencia excepcional"
+    },
+    {
+      "tema": "PARTIDA PRESUPUESTAL",
+      "subtema": "Gestión y distribución para pago oportuno de salarios"
+    },
+    {
+      "tema": "SALARIO",
+      "subtema": "Periodicidad y oportunidad"
+    }
+  ]
+}

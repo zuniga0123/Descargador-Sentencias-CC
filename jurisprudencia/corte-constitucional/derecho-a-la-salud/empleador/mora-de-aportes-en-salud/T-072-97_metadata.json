@@ -1,0 +1,42 @@
+{
+  "radicado": "T-072-97",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1997,
+  "fecha_creacion": "1997-02-17",
+  "magistrado_ponente": "Dr VLADIMIRO NARANJO MESA",
+  "area": "Derecho a la Salud",
+  "tema": "EMPLEADOR",
+  "subtema": "Mora de aportes en salud",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Decreto 1938 de 1994"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1997/T-072-97.htm",
+  "fecha_descarga": "2026-10-23T06:19:42.147134+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1997-02-17",
+  "fecha_publicacion": null,
+  "numero": "T-072/97",
+  "tipo_cc": "T",
+  "prov_id": "13871",
+  "tema_relatoria": "VINCULO LABORAL. PRESTACION DEL SERVICIO MEDICO POR EL I.S.S. MORA EN LOS APORTES. INEXISTENCIA DE PERJUICIO IRREMEDIABLE. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "EMPLEADOR",
+      "subtema": "Mora de aportes en salud"
+    },
+    {
+      "tema": "DERECHO A LA SEGURIDAD SOCIAL",
+      "subtema": "Obligación de afiliar al trabajador"
+    },
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Omisión patronal de pago de aportes"
+    }
+  ]
+}

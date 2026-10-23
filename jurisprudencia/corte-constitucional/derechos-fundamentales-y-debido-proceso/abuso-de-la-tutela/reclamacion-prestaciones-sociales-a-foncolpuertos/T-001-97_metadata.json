@@ -1,0 +1,100 @@
+{
+  "radicado": "T-001-97",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1997,
+  "fecha_creacion": "1997-01-21",
+  "magistrado_ponente": "Jose Gregorio Hernandez Galindo",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ABUSO DE LA TUTELA",
+  "subtema": "Reclamación prestaciones sociales a Foncolpuertos",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 1 de 1991",
+    "Decreto 36 de 1992",
+    "Decreto 37 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1997/T-001-97.htm",
+  "fecha_descarga": "2026-10-23T06:29:08.524358+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1997-01-21",
+  "fecha_publicacion": null,
+  "numero": "T-001/97",
+  "tipo_cc": "T",
+  "prov_id": "13797",
+  "tema_relatoria": "PAGO DE PRESTACIONES SOCIALES INDEMNIZACIONES REAJUSTES RELIQUIDACIONES. FONCOLPUERTOS. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ABUSO DE LA TUTELA",
+      "subtema": "Reclamación prestaciones sociales a Foncolpuertos"
+    },
+    {
+      "tema": "FRAUDE PROCESAL",
+      "subtema": null
+    },
+    {
+      "tema": "ACCION DE TUTELA EN MATERIA LABORAL",
+      "subtema": "Improcedencia general"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Improcedencia general para reclamar pago de acreencias laborales"
+    },
+    {
+      "tema": "MEDIO DE DEFENSA JUDICIAL IDONEO Y EFICAZ",
+      "subtema": "Improcedencia de tutela"
+    },
+    {
+      "tema": "JUEZ DE TUTELA",
+      "subtema": "Incompetencia para liquidación de prestaciones"
+    },
+    {
+      "tema": "PERJUICIO IRREMEDIABLE",
+      "subtema": "Procedencia transitoria de tutela"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Improcedencia general ejecución de obligaciones laborales"
+    },
+    {
+      "tema": "ACCION DE TUTELA TEMERARIA",
+      "subtema": "Consecuencias"
+    },
+    {
+      "tema": "ACCION DE TUTELA TRANSITORIA",
+      "subtema": "Protección de derechos"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Procedencia por falta de idoneidad del medio judicial"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Resolución"
+    },
+    {
+      "tema": "BUENA FE PROCESAL",
+      "subtema": "Particulares demandan servicios a cargo del Estado"
+    },
+    {
+      "tema": "DEMANDA DE TUTELA",
+      "subtema": "Acreditación del título para reclamar prestaciones"
+    },
+    {
+      "tema": "COSTAS EN TUTELA",
+      "subtema": "Ejercicio temerario de acción"
+    },
+    {
+      "tema": "JUEZ DE TUTELA",
+      "subtema": "Devolución dineros pagados sin título a Foncolpuertos"
+    },
+    {
+      "tema": "PROCESO EJECUTIVO LABORAL",
+      "subtema": "Improcedencia de tutela"
+    }
+  ]
+}

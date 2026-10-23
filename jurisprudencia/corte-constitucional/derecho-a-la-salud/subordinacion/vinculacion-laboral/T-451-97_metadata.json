@@ -1,0 +1,42 @@
+{
+  "radicado": "T-451-97",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1997,
+  "fecha_creacion": "1997-09-18",
+  "magistrado_ponente": "Dr HERNANDO HERRERA VERGARA",
+  "area": "Derecho a la Salud",
+  "tema": "SUBORDINACION",
+  "subtema": "Vinculación laboral",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 100 de 1993"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1997/T-451-97.htm",
+  "fecha_descarga": "2026-10-23T06:25:33.409311+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1997-09-18",
+  "fecha_publicacion": null,
+  "numero": "T-451/97",
+  "tipo_cc": "T",
+  "prov_id": "14278",
+  "tema_relatoria": "DER. A LA SALUD. NO ASISTENCIA MEDICA PORQUE PATRONO NO TRASLADA LOS APORTES OBRERO PATRONALES AL SEGURO SOCIAL. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "SUBORDINACION",
+      "subtema": "Vinculación laboral"
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA PARTICULARES",
+      "subtema": "Procedencia"
+    },
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "No transferencia de aportes por empleador para seguridad social"
+    }
+  ]
+}

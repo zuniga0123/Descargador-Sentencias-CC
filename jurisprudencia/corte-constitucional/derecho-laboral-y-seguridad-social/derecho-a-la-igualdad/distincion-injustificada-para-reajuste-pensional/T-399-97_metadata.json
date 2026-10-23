@@ -1,0 +1,43 @@
+{
+  "radicado": "T-399-97",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1997,
+  "fecha_creacion": "1997-08-25",
+  "magistrado_ponente": "Dr JOSE GREGORIO HERNANDEZ GALINDO",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "DERECHO A LA IGUALDAD",
+  "subtema": "Distinción injustificada para reajuste pensional",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 153 de 1887",
+    "Ley 270 de 1996"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1997/T-399-97.htm",
+  "fecha_descarga": "2026-10-23T06:24:57.057480+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1997-08-25",
+  "fecha_publicacion": null,
+  "numero": "T-399/97",
+  "tipo_cc": "T",
+  "prov_id": "14225",
+  "tema_relatoria": "DER. A LA IGUALDAD. REAJUSTE DE PENSION DE JUBILACION. DISCRIMINACION CON LOS DEMAS PENSIONADOS DE LA UNIVERSIDAD. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA IGUALDAD",
+      "subtema": "Distinción injustificada para reajuste pensional"
+    },
+    {
+      "tema": "JUEZ DE TUTELA",
+      "subtema": "No puede generar conductas discriminatorias"
+    },
+    {
+      "tema": "DOCTRINA CONSTITUCIONAL EN TUTELA",
+      "subtema": "Casos idénticos"
+    }
+  ]
+}

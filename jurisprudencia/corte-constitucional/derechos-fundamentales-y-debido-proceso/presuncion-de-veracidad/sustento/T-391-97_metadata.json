@@ -1,0 +1,52 @@
+{
+  "radicado": "T-391-97",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1997,
+  "fecha_creacion": "1997-08-19",
+  "magistrado_ponente": "Dr JOSE GREGORIO HERNANDEZ GALINDO",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "PRESUNCION DE VERACIDAD",
+  "subtema": "Sustento",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 125 de 1996",
+    "Ley 115 de 1994",
+    "Ley 60 de 1993",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1997/T-391-97.htm",
+  "fecha_descarga": "2026-10-23T06:36:16.161093+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1997-08-19",
+  "fecha_publicacion": null,
+  "numero": "T-391/97",
+  "tipo_cc": "T",
+  "prov_id": "14216",
+  "tema_relatoria": "DER. A LA IGUALDAD. DEBIDO PROCESO. DER. AL TRABAJO. DOCENTE QUE NO FUE NOMBRADA HABIENDO PASADO EL CONCURSO. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "PRESUNCION DE VERACIDAD",
+      "subtema": "Sustento"
+    },
+    {
+      "tema": "DEBIDO PROCESO",
+      "subtema": "Acto arbitrario de la administración contra particular"
+    },
+    {
+      "tema": "DEBIDO PROCESO ADMINISTRATIVO",
+      "subtema": "Plenitud de las formas propias de cada juicio"
+    },
+    {
+      "tema": "DEBIDO PROCESO EN PROVISION DE CARGOS",
+      "subtema": "No se tuvo en cuenta experiencia docente laboral"
+    },
+    {
+      "tema": "DEBIDO PROCESO EN CONCURSO PARA CARRERA DOCENTE",
+      "subtema": "No se tuvo en cuenta experiencia laboral"
+    }
+  ]
+}

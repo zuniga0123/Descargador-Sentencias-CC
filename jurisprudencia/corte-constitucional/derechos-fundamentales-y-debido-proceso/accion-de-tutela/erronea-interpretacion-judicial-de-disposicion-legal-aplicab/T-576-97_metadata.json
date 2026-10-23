@@ -1,0 +1,49 @@
+{
+  "radicado": "T-576-97",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1997,
+  "fecha_creacion": "1997-11-10",
+  "magistrado_ponente": "Dr JOSÉ GREGORIO HERNÁNDEZ GALINDO",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCIÓN DE TUTELA",
+  "subtema": "Errónea interpretación judicial de disposición legal aplicable",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1997/T-576-97.htm",
+  "fecha_descarga": "2026-10-23T06:27:10.343160+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1997-11-10",
+  "fecha_publicacion": null,
+  "numero": "T-576/97",
+  "tipo_cc": "T",
+  "prov_id": "14424",
+  "tema_relatoria": "PROCEDENCIA DE LA TUTELA CUANDO EL SOLICITANTE HA HECHO USO DEL MEDIO JUDICIAL ORDINARIO Y ESTE HA RESULTADO INEFICAZ. PAGO DE CESANTIAS. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Errónea interpretación judicial de disposición legal aplicable"
+    },
+    {
+      "tema": "DERECHO DE ACCESO A LA ADMINISTRACIÓN DE JUSTICIA",
+      "subtema": "Negativa trámite de demanda por errónea interpretación de disposición"
+    },
+    {
+      "tema": "MEDIO DE DEFENSA JUDICIAL INEFICAZ",
+      "subtema": "Procedencia de tutela"
+    },
+    {
+      "tema": "PROCESO DE EJECUCION DE ACTO ADMINISTRATIVO",
+      "subtema": "Pago inmediato de crédito laboral en favor de servidores públicos"
+    },
+    {
+      "tema": "PROCESO EJECUTIVO",
+      "subtema": "Rechazo de demanda por errónea interpretación"
+    }
+  ]
+}

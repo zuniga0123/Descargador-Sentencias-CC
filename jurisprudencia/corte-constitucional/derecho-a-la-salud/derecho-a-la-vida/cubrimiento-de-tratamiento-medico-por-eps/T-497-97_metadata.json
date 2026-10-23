@@ -1,0 +1,54 @@
+{
+  "radicado": "T-497-97",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1997,
+  "fecha_creacion": "1997-10-03",
+  "magistrado_ponente": "Dr CARLOS GAVIRIA DÍAZ",
+  "area": "Derecho a la Salud",
+  "tema": "DERECHO A LA VIDA",
+  "subtema": "Cubrimiento de tratamiento médico por EPS",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Decreto 1938 de 1994"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1997/T-497-97.htm",
+  "fecha_descarga": "2026-10-23T06:18:59.068509+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1997-10-03",
+  "fecha_publicacion": "2023-02-27",
+  "numero": "T-497/97",
+  "tipo_cc": "T",
+  "prov_id": "14331",
+  "tema_relatoria": null,
+  "resumen": "DERECHO A LA SALUD. PREEXISTENCIAS. PERIODOS MINIMOS DE COTIZACION COMO PRERREQUISITO DE ATENCION MEDICA. SALUDCOOP E.P.S. CONCEDIDA.",
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA VIDA",
+      "subtema": "Cubrimiento de tratamiento médico por EPS"
+    },
+    {
+      "tema": "SISTEMA INTEGRAL DE SEGURIDAD SOCIAL EN SALUD",
+      "subtema": "Estado como responsable de garantizarla"
+    },
+    {
+      "tema": "CONTRATO CON ENTIDAD PROMOTORA DE SALUD",
+      "subtema": "Períodos mínimos de cotización para atención médica"
+    },
+    {
+      "tema": "CONTRATO CON ENTIDAD PROMOTORA DE SALUD",
+      "subtema": "Cubrimiento de preexistencias por desconocimiento y no realización de examen"
+    },
+    {
+      "tema": "MEDIO DE DEFENSA JUDICIAL INEFICAZ",
+      "subtema": "Urgencia de tratamiento quirúrgico y hospitalario"
+    },
+    {
+      "tema": "PRINCIPIO DE LA BUENA FE",
+      "subtema": "Atención de enfermedades no incluidas en lista de preexistencias"
+    }
+  ]
+}

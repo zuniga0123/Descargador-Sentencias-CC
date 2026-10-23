@@ -1,0 +1,42 @@
+{
+  "radicado": "T-605-97",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1997,
+  "fecha_creacion": "1997-11-21",
+  "magistrado_ponente": "Dr VLADIMIRO NARANJO MESA",
+  "area": "Otros - Sin clasificar",
+  "tema": "DERECHO A LA UNIDAD FAMILIAR DE PERSONAS PRIVADAS DE LA LIBERTAD",
+  "subtema": "Restricción",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 24 de 1992"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1997/T-605-97.htm",
+  "fecha_descarga": "2026-10-23T06:27:28.188769+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1997-11-21",
+  "fecha_publicacion": null,
+  "numero": "T-605/97",
+  "tipo_cc": "T",
+  "prov_id": "14456",
+  "tema_relatoria": "TRASLADO DE LOS PROCESADOS. COMPETENCIA JURISDICCIONAL DEL DIRECTIVO DEL INPEC. ASISTENCIA JURIDICA AL RECLUSO INSOLVENTE. NEGADA",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA UNIDAD FAMILIAR DE PERSONAS PRIVADAS DE LA LIBERTAD",
+      "subtema": "Restricción"
+    },
+    {
+      "tema": "MEDIO DE DEFENSA JUDICIAL",
+      "subtema": "Resolución que ordena traslado de reclusos"
+    },
+    {
+      "tema": "INSTITUTO NACIONAL PENITENCIARIO Y CARCELARIO",
+      "subtema": "Discrecionalidad para decidir traslado de internos"
+    }
+  ]
+}
