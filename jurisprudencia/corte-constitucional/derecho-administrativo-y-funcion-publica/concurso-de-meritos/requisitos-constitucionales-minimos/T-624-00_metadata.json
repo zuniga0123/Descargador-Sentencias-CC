@@ -1,0 +1,46 @@
+{
+  "radicado": "T-624-00",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-05-29",
+  "magistrado_ponente": "Dr EDUARDO CIFUENTES MUÑOZ",
+  "area": "Derecho Administrativo y Función Pública",
+  "tema": "CONCURSO DE MERITOS",
+  "subtema": "Requisitos constitucionales mínimos",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2652 de 1991",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/T-624-00.htm",
+  "fecha_descarga": "2026-10-23T03:04:08.879749+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-05-29",
+  "fecha_publicacion": null,
+  "numero": "T-624/00",
+  "tipo_cc": "T",
+  "prov_id": "17209",
+  "tema_relatoria": "CONCURSO DE MERITOS. PROCESO DE SELECCION EXCEPCIONAL. LA ACTORA PRETENDE ACCEDER A UN CARGO QUE YA ESTA OCUPADO POR CONCURSO. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "CONCURSO DE MERITOS",
+      "subtema": "Requisitos constitucionales mínimos"
+    },
+    {
+      "tema": "JUEZ ORDINARIO",
+      "subtema": "Competencia para decidir sobre procesos de selección realizados con anterioridad a ley Estatutaria de Administración de Justicia"
+    },
+    {
+      "tema": "CONCURSO DE MERITOS",
+      "subtema": "Nombramiento de magistrados de salas jurisdiccionales disciplinarias de consejos seccionales de la judicatura"
+    },
+    {
+      "tema": "RECURSO DE AMPARO",
+      "subtema": "Procedencia"
+    }
+  ]
+}

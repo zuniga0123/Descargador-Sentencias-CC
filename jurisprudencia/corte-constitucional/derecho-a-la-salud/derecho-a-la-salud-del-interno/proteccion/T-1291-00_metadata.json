@@ -1,0 +1,45 @@
+{
+  "radicado": "T-1291-00",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-09-25",
+  "magistrado_ponente": "Dr JOSÉ GREGORIO HERNÁNDEZ GALINDO",
+  "area": "Derecho a la Salud",
+  "tema": "DERECHO A LA SALUD DEL INTERNO",
+  "subtema": "Protección",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/T-1291-00.htm",
+  "fecha_descarga": "2026-10-23T03:11:36.033082+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-09-25",
+  "fecha_publicacion": null,
+  "numero": "T-1291/00",
+  "tipo_cc": "T",
+  "prov_id": "17889",
+  "tema_relatoria": "DERECHO A LA SALUD A LA IGUALDAD Y PETICION. INTERNO DE LA PENITENCIARIA \"PICALEÑA\" QUIEN PADECE DEL SINDROME DE GUILLAIN BARRE. SOLICITUD DE REHABILITACION. RESPONSABILIDAD DEL ESTADO FRENTE A LA SALUD DE LAS PERSONAS PRIVADAS DE LA LIBERTAD. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA SALUD DEL INTERNO",
+      "subtema": "Protección"
+    },
+    {
+      "tema": "DERECHO A LA DIGNIDAD HUMANA DEL INTERNO",
+      "subtema": "Función resocializadora"
+    },
+    {
+      "tema": "ESTADO DE COSAS INCONSTITUCIONAL EN ESTABLECIMIENTO CARCELARIO",
+      "subtema": null
+    },
+    {
+      "tema": "DERECHOS DEL INTERNO",
+      "subtema": "Responsabilidad del Estado en atención a la salud"
+    }
+  ]
+}

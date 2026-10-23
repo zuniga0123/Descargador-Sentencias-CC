@@ -1,0 +1,53 @@
+{
+  "radicado": "T-1300-00",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-09-25",
+  "magistrado_ponente": "Dr FABIO MORON DIAZ",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "EMPLEADOR",
+  "subtema": "Situación económica o presupuestal no es óbice para desconocer pago de salarios",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/T-1300-00.htm",
+  "fecha_descarga": "2026-10-23T03:11:57.703681+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-09-25",
+  "fecha_publicacion": null,
+  "numero": "T-1300/00",
+  "tipo_cc": "T",
+  "prov_id": "17897",
+  "tema_relatoria": "PAGO DE ACREENCIAS LABORALES Y PAGO DE SALARIOS. SUMINISTRO DE DOTACION. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "EMPLEADOR",
+      "subtema": "Situación económica o presupuestal no es óbice para desconocer pago de salarios"
+    },
+    {
+      "tema": "DERECHO A LA SUBSISTENCIA",
+      "subtema": "Retribución salarial"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Criterios de procedencia para el pago cumplido de salarios"
+    },
+    {
+      "tema": "PRINCIPIO DE LA BUENA FE",
+      "subtema": "Creencia de que se actúa dentro de la legalidad"
+    },
+    {
+      "tema": "EMPLEADOR",
+      "subtema": "Pago oportuno y completo de salarios"
+    },
+    {
+      "tema": "REMUNERACION MINIMA VITAL Y MOVIL",
+      "subtema": "Alcance"
+    }
+  ]
+}

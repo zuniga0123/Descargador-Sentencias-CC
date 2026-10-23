@@ -1,0 +1,61 @@
+{
+  "radicado": "T-1450-00",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-10-26",
+  "magistrado_ponente": "Dr ALFREDO BELTRÁN SIERRA",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "PROCESO DE RESPONSABILIDAD FISCAL",
+  "subtema": "Etapa de investigación",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 42 de 1993"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/T-1450-00.htm",
+  "fecha_descarga": "2026-10-23T03:08:05.321500+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-10-26",
+  "fecha_publicacion": null,
+  "numero": "T-1450/00",
+  "tipo_cc": "T",
+  "prov_id": "18065",
+  "tema_relatoria": "DEBIDO PROCESO. SOLICITUD NULIDAD EN PROCESO FISCAL. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "PROCESO DE RESPONSABILIDAD FISCAL",
+      "subtema": "Etapa de investigación"
+    },
+    {
+      "tema": "DILIGENCIA DE INDAGATORIA",
+      "subtema": "Definición y connotación jurídica"
+    },
+    {
+      "tema": "PROCESO DE RESPONSABILIDAD FISCAL",
+      "subtema": "Naturaleza"
+    },
+    {
+      "tema": "DEBIDO PROCESO DE RESPONSABILIDAD FISCAL",
+      "subtema": "Aplicación"
+    },
+    {
+      "tema": "DEBIDO PROCESO",
+      "subtema": "Citación a rendir versión libre en proceso de responsabilidad fiscal"
+    },
+    {
+      "tema": "DEBIDO PROCESO",
+      "subtema": "Vulneración por omisión en la citación a rendir versión libre"
+    },
+    {
+      "tema": "PROCESO DE RESPONSABILIDAD FISCAL",
+      "subtema": "Juicio fiscal"
+    },
+    {
+      "tema": "VERSION LIBRE EN PROCESO DE RESPONSABILIDAD FISCAL",
+      "subtema": "Obligatoria por excepción"
+    }
+  ]
+}

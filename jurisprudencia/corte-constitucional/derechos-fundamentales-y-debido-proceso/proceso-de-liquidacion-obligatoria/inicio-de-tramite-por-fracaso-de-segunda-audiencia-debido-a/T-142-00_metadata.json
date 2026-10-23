@@ -1,0 +1,71 @@
+{
+  "radicado": "T-142-00",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-02-19",
+  "magistrado_ponente": "Dr VLADIMIRO NARANJO MESA",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "PROCESO DE LIQUIDACION OBLIGATORIA",
+  "subtema": "Inicio de trámite por fracaso de segunda audiencia debido a la falta de votos necesarios",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 222 de 1995",
+    "Decreto 350 de 1989"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/T-142-00.htm",
+  "fecha_descarga": "2026-10-23T03:07:42.345308+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-02-19",
+  "fecha_publicacion": null,
+  "numero": "T-142/00",
+  "tipo_cc": "T",
+  "prov_id": "16678",
+  "tema_relatoria": "DER AL TRABAJO. PROCESO CONCORDATARIO ADELANTADO POR LA SUPERINTENDENCIA DE SOCIEDADES. VER T-494/99 . NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "PROCESO DE LIQUIDACION OBLIGATORIA",
+      "subtema": "Inicio de trámite por fracaso de segunda audiencia debido a la falta de votos necesarios"
+    },
+    {
+      "tema": "SUPERINTENDENCIA DE SOCIEDADES",
+      "subtema": "Procedimiento a seguir por presentarse acuerdo concordatario atendiendo decisión del juez de tutela en primera instancia"
+    },
+    {
+      "tema": "SUPERINTENDENCIA DE SOCIEDADES",
+      "subtema": "Decisiones jurisdiccionales en trámites concordatarios"
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA SUPERINTENDENCIA DE SOCIEDADES",
+      "subtema": "Determinación si conducta procesal es una vía de hecho"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Decisión sobre vulneración de derechos fundamentales"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Improcedencia respecto a simple expectativa de sufrir una agresión"
+    },
+    {
+      "tema": "DERECHO AL TRABAJO",
+      "subtema": "No implica vinculación laboral concreta"
+    },
+    {
+      "tema": "PROCEDIMIENTO CONCURSAL",
+      "subtema": "Carácter garantista respecto de derechos de trabajadores"
+    },
+    {
+      "tema": "SUPERINTENDENCIA DE SOCIEDADES",
+      "subtema": "Fracasado el acuerdo concordatario se impone apertura de fase liquidatoria"
+    },
+    {
+      "tema": "VIA DE HECHO",
+      "subtema": "Clases de defectos en la actuación"
+    }
+  ]
+}

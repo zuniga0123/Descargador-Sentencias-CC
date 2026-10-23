@@ -1,0 +1,51 @@
+{
+  "radicado": "T-1430-00",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-10-20",
+  "magistrado_ponente": "Dr JOSÉ GREGORIO HERNÁNDEZ GALINDO",
+  "area": "Derecho a la Salud",
+  "tema": "PREVALENCIA DELOS DERECHOS DEL NIÑO",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Decreto 806 de 1998",
+    "Ley 508 de 1999"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/T-1430-00.htm",
+  "fecha_descarga": "2026-10-23T03:07:56.668190+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-10-20",
+  "fecha_publicacion": null,
+  "numero": "T-1430/00",
+  "tipo_cc": "T",
+  "prov_id": "18047",
+  "tema_relatoria": "DERECHO A LA SALUD SEGURIDAD SOCIAL E IGUALDAD. MENOR QUE SUFRE AFECCION DE OIDOS. SOLICITUD IMPLANTE COCLEAR. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "PREVALENCIA DELOS DERECHOS DEL NIÑO",
+      "subtema": null
+    },
+    {
+      "tema": "DERECHO A LA SALUD DE NIÑOS, NIÑAS Y ADOLESCENTES",
+      "subtema": "Fundamental"
+    },
+    {
+      "tema": "INAPLICACION DE NORMAS DEL PLAN OBLIGATORIO DE SALUD",
+      "subtema": "Práctica de cirugía coclear excluida del POS"
+    },
+    {
+      "tema": "PRINCIPIO DE DIGNIDAD HUMANA",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "PRINCIPIO DEL INTERÉS SUPERIOR DEL MENOR",
+      "subtema": "Alcance"
+    }
+  ]
+}

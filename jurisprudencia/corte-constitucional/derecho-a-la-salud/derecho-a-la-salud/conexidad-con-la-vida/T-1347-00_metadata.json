@@ -1,0 +1,44 @@
+{
+  "radicado": "T-1347-00",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-10-02",
+  "magistrado_ponente": "Dr ALVARO TAFUR GALVIS",
+  "area": "Derecho a la Salud",
+  "tema": "DERECHO A LA SALUD",
+  "subtema": "Conexidad con la vida",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 100 de 1993",
+    "Decreto 806 de 1998",
+    "Decreto 1938 de 1994"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/T-1347-00.htm",
+  "fecha_descarga": "2026-10-23T03:10:05.487509+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-10-02",
+  "fecha_publicacion": null,
+  "numero": "T-1347/00",
+  "tipo_cc": "T",
+  "prov_id": "17932",
+  "tema_relatoria": "DERECHOS A LA SALUD INTEGRIDAD FISICA Y SEGURIDAD SOCIAL. INAPLICACION DE NORMAS LEGALES CUANDO SE OMITE UNA CIRUGIA PRESCRITA POR UN MEDICO DE LA ENTIDAD ACCIONADA. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Conexidad con la vida"
+    },
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "No se pueden oponer periodos mínimos de cotización ante situaciones de urgencia"
+    },
+    {
+      "tema": "DERECHO A LA DIGNIDAD HUMANA",
+      "subtema": "Omisión de cirugía que ocasiona dolor"
+    }
+  ]
+}

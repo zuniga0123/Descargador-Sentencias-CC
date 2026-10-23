@@ -1,0 +1,47 @@
+{
+  "radicado": "T-633-00",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-05-30",
+  "magistrado_ponente": "Dr ALVARO TAFUR GALVIS",
+  "area": "Derecho a la Salud",
+  "tema": "DERECHO A LA SALUD DE NIÑOS, NIÑAS Y ADOLESCENTES",
+  "subtema": "Omisión práctica de cirugía",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Decreto 806 de 1998",
+    "Ley 100 de 1993"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/T-633-00.htm",
+  "fecha_descarga": "2026-10-23T03:04:19.461457+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-05-30",
+  "fecha_publicacion": null,
+  "numero": "T-633/00",
+  "tipo_cc": "T",
+  "prov_id": "17217",
+  "tema_relatoria": "DERECHO A LA SALUD Y VIDA. NO SE REALIZA CIRUGIA DE OIDO A MENOR POR MORA DEL PATRONO EN APORTES A E.P.S. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA SALUD DE NIÑOS, NIÑAS Y ADOLESCENTES",
+      "subtema": "Omisión práctica de cirugía"
+    },
+    {
+      "tema": "EMPLEADOR",
+      "subtema": "Asunción de responsabilidad por mora en aportes a seguridad social"
+    },
+    {
+      "tema": "ENTIDAD PROMOTORA DE SALUD",
+      "subtema": "Responsabilidad subsidiaria por mora en aportes a seguridad social"
+    },
+    {
+      "tema": "EMPLEADOR",
+      "subtema": "Mora de aportes en salud"
+    }
+  ]
+}

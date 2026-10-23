@@ -1,0 +1,43 @@
+{
+  "radicado": "T-627-00",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-05-30",
+  "magistrado_ponente": "Dr ALVARO TAFUR GALVIS",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "PENSIÓN DE SOBREVIVIENTES",
+  "subtema": "Interrupción que impide continuación de estudios",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Decreto 3041 de 1966",
+    "Ley 100 de 1993"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/T-627-00.htm",
+  "fecha_descarga": "2026-10-23T03:04:12.443823+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-05-30",
+  "fecha_publicacion": null,
+  "numero": "T-627/00",
+  "tipo_cc": "T",
+  "prov_id": "17211",
+  "tema_relatoria": "DERECHO DE PETICION Y EDUCACION. SUSPENSION DE PENSION DE SOBREVIVIENTE POR LLEGAR A LA MAYORIA DE EDAD AUN CUANDO ESTA ESTUDIANDO. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "PENSIÓN DE SOBREVIVIENTES",
+      "subtema": "Interrupción que impide continuación de estudios"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Procedencia excepcional pago de mesadas pensionales"
+    },
+    {
+      "tema": "SUSTITUCION PENSIONAL O PENSION DE SOBREVIVIENTES PARA HIJOS MAYORES DE 18 AÑOS, IMPOSIBILITADOS PARA TRABAJAR EN RAZON DE SUS ESTUDIOS, HASTA LOS 25 AÑOS",
+      "subtema": "Reiteración de jurisprudencia"
+    }
+  ]
+}

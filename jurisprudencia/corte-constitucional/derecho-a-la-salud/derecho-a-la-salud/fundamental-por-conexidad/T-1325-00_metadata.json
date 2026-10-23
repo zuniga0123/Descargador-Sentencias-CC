@@ -1,0 +1,48 @@
+{
+  "radicado": "T-1325-00",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-09-26",
+  "magistrado_ponente": "Dr VLADIMIRO NARANJO MESA",
+  "area": "Derecho a la Salud",
+  "tema": "DERECHO A LA SALUD",
+  "subtema": "Fundamental por conexidad",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Decreto 47 de 2000",
+    "Ley 100 de 1993",
+    "Decreto 806 de 1998"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/T-1325-00.htm",
+  "fecha_descarga": "2026-10-23T03:12:37.226890+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-09-26",
+  "fecha_publicacion": null,
+  "numero": "T-1325/00",
+  "tipo_cc": "T",
+  "prov_id": "17916",
+  "tema_relatoria": "DERECHO A LA SALUD Y EDUCACION. NO FIRMA DEL PAGARE QUE GARANTIZA EL PAGO DE LA AFILIACION DEL COTIZANTE DEPENDIENTE AL SERVICIO DE SALUD. OMISION DE ESTA AL NO CUMPLIR CON UN REQUISITO OBLIGATORIO PARA TODOS LOS AFILIADOS LO QUE CONLLEVA A LA SUSPENSION DEL TRATAMIENTO DE SU HERMANO. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Fundamental por conexidad"
+    },
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Naturaleza"
+    },
+    {
+      "tema": "ENTIDAD PROMOTORA DE SALUD",
+      "subtema": "Requisito de suscripción título valor para afiliaciones adicionales"
+    },
+    {
+      "tema": "REGIMEN CONTRIBUTIVO DE SALUD",
+      "subtema": "Suscripción título valor para afiliaciones adicionales"
+    }
+  ]
+}

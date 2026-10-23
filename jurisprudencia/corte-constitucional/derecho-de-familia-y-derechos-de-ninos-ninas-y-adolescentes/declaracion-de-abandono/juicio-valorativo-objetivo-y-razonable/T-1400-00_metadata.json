@@ -1,0 +1,46 @@
+{
+  "radicado": "T-1400-00",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-10-19",
+  "magistrado_ponente": "Dr ALFREDO BELTRÁN SIERRA",
+  "area": "Derecho de Familia y Derechos de Niños, Niñas y Adolescentes",
+  "tema": "DECLARACION DE ABANDONO",
+  "subtema": "Juicio valorativo, objetivo y razonable",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Decreto 2737 de 1989"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/T-1400-00.htm",
+  "fecha_descarga": "2026-10-23T03:07:31.425205+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-10-19",
+  "fecha_publicacion": null,
+  "numero": "T-1400/00",
+  "tipo_cc": "T",
+  "prov_id": "18022",
+  "tema_relatoria": "DERECHOS DE LOS NIÑOS. MENOR DEJADO EN CUSTODIA AL ICBF Y LUEGO DECLARADO EN ABANDONO. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DECLARACION DE ABANDONO",
+      "subtema": "Juicio valorativo, objetivo y razonable"
+    },
+    {
+      "tema": "MEDIO DE DEFENSA JUDICIAL",
+      "subtema": "Recurso de revisión contra sentencia de adopción"
+    },
+    {
+      "tema": "DERECHOS DEL NIÑO A TENER UNA FAMILIA",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "PRINCIPIO DEL INTERÉS SUPERIOR DEL MENOR",
+      "subtema": "Alcance"
+    }
+  ]
+}

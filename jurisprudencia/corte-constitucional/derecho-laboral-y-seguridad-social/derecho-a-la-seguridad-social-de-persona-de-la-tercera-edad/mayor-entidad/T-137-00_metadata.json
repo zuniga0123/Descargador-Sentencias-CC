@@ -1,0 +1,70 @@
+{
+  "radicado": "T-137-00",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-02-17",
+  "magistrado_ponente": "Dr CARLOS GAVIRIA DÍAZ",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "DERECHO A LA SEGURIDAD SOCIAL DE PERSONA DE LA TERCERA EDAD",
+  "subtema": "Mayor entidad",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/T-137-00.htm",
+  "fecha_descarga": "2026-10-23T03:10:34.125514+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-02-17",
+  "fecha_publicacion": null,
+  "numero": "T-137/00",
+  "tipo_cc": "T",
+  "prov_id": "16672",
+  "tema_relatoria": "AFILIACION A UNA EPS. PROTECCION ESPECIAL A LAS PERSONAS DE LA TERCERA EDAD. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA SEGURIDAD SOCIAL DE PERSONA DE LA TERCERA EDAD",
+      "subtema": "Mayor entidad"
+    },
+    {
+      "tema": "SISTEMA DE SEGURIDAD SOCIAL",
+      "subtema": "Afiliación de trabajadores y pensionados por empleador"
+    },
+    {
+      "tema": "SEGURIDAD SOCIAL",
+      "subtema": "Derecho inalienable e irrenunciable"
+    },
+    {
+      "tema": "DERECHO A LA SEGURIDAD SOCIAL",
+      "subtema": "Fundamental por conexidad"
+    },
+    {
+      "tema": "EMPLEADOR",
+      "subtema": "Pago a pensionado de totalidad de gastos en que incurrió para atender la salud desde la suspensión del servicio"
+    },
+    {
+      "tema": "EMPLEADOR",
+      "subtema": "Afiliación de trabajadores y pensionados a seguridad social"
+    },
+    {
+      "tema": "DERECHO A LA SALUD DEL PENSIONADO",
+      "subtema": "Negativa de afiliación por razón de edad"
+    },
+    {
+      "tema": "SUPERINTENDENCIA DE SALUD",
+      "subtema": "Investigación al Seguro Social respecto de no afiliación de pensionado por razón de edad"
+    },
+    {
+      "tema": "SISTEMA GENERAL DE SEGURIDAD SOCIAL EN SALUD",
+      "subtema": "Afiliación a pensionado"
+    },
+    {
+      "tema": "DERECHO A LA IGUALDAD",
+      "subtema": "Discriminación por razón de edad"
+    }
+  ]
+}

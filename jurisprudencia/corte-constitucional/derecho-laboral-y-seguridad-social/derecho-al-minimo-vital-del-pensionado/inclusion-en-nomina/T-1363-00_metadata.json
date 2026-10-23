@@ -1,0 +1,42 @@
+{
+  "radicado": "T-1363-00",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-10-09",
+  "magistrado_ponente": "Dr ALVARO TAFUR GALVIS",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "DERECHO AL MINIMO VITAL DEL PENSIONADO",
+  "subtema": "Inclusión en nómina",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/T-1363-00.htm",
+  "fecha_descarga": "2026-10-23T03:10:30.579078+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-10-09",
+  "fecha_publicacion": null,
+  "numero": "T-1363/00",
+  "tipo_cc": "T",
+  "prov_id": "17964",
+  "tema_relatoria": "DERECHO AL MINIMO VITAL. PAGO OPORTUNO Y REAJUSTE PERIODICO DE LA PENSION. INSCRIPCION EN NOMINA DE PENSIONADOS. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO AL MINIMO VITAL DEL PENSIONADO",
+      "subtema": "Inclusión en nómina"
+    },
+    {
+      "tema": "DERECHO A LA SEGURIDAD SOCIAL",
+      "subtema": "Fundamental por conexidad"
+    },
+    {
+      "tema": "ACCION DE TUTELA PARA CUMPLIMIENTO DE SENTENCIAS",
+      "subtema": "Inclusión en nómina de pensionados"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "radicado": "T-1157-00",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-09-04",
+  "magistrado_ponente": "Dr ANTONIO BARRERA CARBONELL",
+  "area": "Otros - Sin clasificar",
+  "tema": "CELEBRACION DE CONTRATOS EN TERRITORIO NACIONAL",
+  "subtema": "Aplicación de ley nacional",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 393 de 1997",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/T-1157-00.htm",
+  "fecha_descarga": "2026-10-23T03:09:47.568874+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-09-04",
+  "fecha_publicacion": null,
+  "numero": "T-1157/00",
+  "tipo_cc": "T",
+  "prov_id": "17753",
+  "tema_relatoria": "DERECHO A LA IGUALDAD. CONTRATO DE MUTUO CON HIPOTECA. SOLICITUD DE DACION EN PAGO DE INMUEBLE HIPOTECADO EN GARANTIA DE UN PRESTAMO DE VIVIENDA. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "CELEBRACION DE CONTRATOS EN TERRITORIO NACIONAL",
+      "subtema": "Aplicación de ley nacional"
+    },
+    {
+      "tema": "PRINCIPIO DE TERRITORIALIDAD DE LA LEY",
+      "subtema": "Excepciones"
+    },
+    {
+      "tema": "CONTRATO DE MUTUO CON GARANTIA HIPOTECARIA",
+      "subtema": "No aceptación de dación en pago por Bancafé Panamá"
+    },
+    {
+      "tema": "BIENES ENTREGADOS EN DACION EN PAGO",
+      "subtema": "Obligación de recibirlos"
+    },
+    {
+      "tema": "DERECHO A LA IGUALDAD EN APLICACION DE LA LEY",
+      "subtema": "Protección por tutela"
+    },
+    {
+      "tema": "PRINCIPIO DE TERRITORIALIDAD DE LA LEY",
+      "subtema": "Alcance"
+    }
+  ]
+}

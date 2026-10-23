@@ -1,0 +1,50 @@
+{
+  "radicado": "T-1421-00",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-10-18",
+  "magistrado_ponente": "Dr FABIO MORON DIAZ",
+  "area": "Derecho a la Salud",
+  "tema": "DERECHO A LA SALUD",
+  "subtema": "Fundamental por conexidad con la vida",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Ley 383 de 1997"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/T-1421-00.htm",
+  "fecha_descarga": "2026-10-23T03:07:45.957141+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-10-18",
+  "fecha_publicacion": null,
+  "numero": "T-1421/00",
+  "tipo_cc": "T",
+  "prov_id": "18011",
+  "tema_relatoria": "DERECHO A LA SALUD Y SEGURIDAD SOCIAL. SOLICITUD PRACTICA CIRUGIA. MORA EN EL PAGO DE APORTES POR EMPLEADOR. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Fundamental por conexidad con la vida"
+    },
+    {
+      "tema": "TRABAJADOR ASALARIADO",
+      "subtema": "Suspensión de afiliación resulta desproporcionada para el trabajador debido al no pago de aportes en salud por empleador, según sentencia C-177/98"
+    },
+    {
+      "tema": "DERECHO A LA SEGURIDAD SOCIAL EN SALUD",
+      "subtema": "Contenido constitucionalmente protegido"
+    },
+    {
+      "tema": "EMPLEADOR",
+      "subtema": "Sanciones por no pago de aportes en seguridad social"
+    },
+    {
+      "tema": "TRABAJADOR DEPENDIENTE",
+      "subtema": "Incumplimiento en pago de aportes en salud por empleador"
+    }
+  ]
+}

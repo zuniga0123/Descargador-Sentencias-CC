@@ -1,0 +1,50 @@
+{
+  "radicado": "T-185-00",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-04-28",
+  "magistrado_ponente": "Dr JOSÉ GREGORIO HERNÁNDEZ GALINDO",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ENFERMO DE SIDA",
+  "subtema": "Trato especial",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 100 de 1993"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/T-185-00.htm",
+  "fecha_descarga": "2026-10-23T03:06:55.960844+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-04-28",
+  "fecha_publicacion": null,
+  "numero": "T-185/00",
+  "tipo_cc": "T",
+  "prov_id": "17014",
+  "tema_relatoria": "DERECHO A LA SALUD Y VIDA. HABEAS DATA. RECTIFICACION DE DATOS EN LA ENCUESTA DEL SISBEN PARA ACCEDER AL REGIMEN SUBSIDIADO DE SEGURIDAD SOCIAL EN SALUD. ENFERMO DE SIDA. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ENFERMO DE SIDA",
+      "subtema": "Trato especial"
+    },
+    {
+      "tema": "HABEAS DATA ADMINISTRATIVO EN PROGRAMA DEL SISBEN",
+      "subtema": "Afectación por inexistencia de certeza de cuál fue su clasificación"
+    },
+    {
+      "tema": "SISBEN",
+      "subtema": "Clasificación de enfermo de sida en nivel que lo deja por fuera del régimen subsidiado"
+    },
+    {
+      "tema": "SISBEN",
+      "subtema": "Regulación ineficiente para detectar a las personas pobres"
+    },
+    {
+      "tema": "SISBEN",
+      "subtema": "Participantes vinculados"
+    }
+  ]
+}

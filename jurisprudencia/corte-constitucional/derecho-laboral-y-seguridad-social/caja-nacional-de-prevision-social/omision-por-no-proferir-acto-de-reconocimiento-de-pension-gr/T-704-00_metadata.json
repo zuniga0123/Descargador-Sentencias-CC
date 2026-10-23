@@ -1,0 +1,45 @@
+{
+  "radicado": "T-704-00",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-06-19",
+  "magistrado_ponente": "Dr VLADIMIRO NARANJO MESA",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "CAJA NACIONAL DE PREVISION SOCIAL",
+  "subtema": "Omisión por no proferir acto de reconocimiento de pensión gracia",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/T-704-00.htm",
+  "fecha_descarga": "2026-10-23T03:13:54.038056+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-06-19",
+  "fecha_publicacion": null,
+  "numero": "T-704/00",
+  "tipo_cc": "T",
+  "prov_id": "17307",
+  "tema_relatoria": "DERECHO DE PETICION. DEBIDO PROCESO. RECONOCIMIENTO DE PENSION DE JUBILACION QUE YA HABIA SIDO ORDENADA. HECHO SUPERADO. CARENCIA ACTUAL DE OBJETO. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "CAJA NACIONAL DE PREVISION SOCIAL",
+      "subtema": "Omisión por no proferir acto de reconocimiento de pensión gracia"
+    },
+    {
+      "tema": "DERECHO AL MINIMO VITAL DEL PENSIONADO",
+      "subtema": "Pago oportuno de mesadas"
+    },
+    {
+      "tema": "DERECHO A LA SEGURIDAD SOCIAL",
+      "subtema": "Fundamental por conexidad"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Hecho superado"
+    }
+  ]
+}

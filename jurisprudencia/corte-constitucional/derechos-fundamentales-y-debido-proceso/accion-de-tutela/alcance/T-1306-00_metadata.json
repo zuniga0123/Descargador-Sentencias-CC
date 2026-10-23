@@ -1,0 +1,51 @@
+{
+  "radicado": "T-1306-00",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-09-25",
+  "magistrado_ponente": "Dr FABIO MORON DIAZ",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCIÓN DE TUTELA",
+  "subtema": "Alcance",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 142 de 1994",
+    "Decreto 2591 de 1991",
+    "Ley 16 de 1972"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/T-1306-00.htm",
+  "fecha_descarga": "2026-10-23T03:12:08.653037+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-09-25",
+  "fecha_publicacion": null,
+  "numero": "T-1306/00",
+  "tipo_cc": "T",
+  "prov_id": "17903",
+  "tema_relatoria": "DERECHO A LA PRESTACION DE SERVICIO PUBLICO DE TELEFONIA. DERECHO DE PETICION. DERECHOS ESENCIALES DE LA PERSONA. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "JUEZ DE TUTELA",
+      "subtema": "Interpretación de derechos fundamentales"
+    },
+    {
+      "tema": "DERECHOS FUNDAMENTALES",
+      "subtema": "Criterios para determinarlos"
+    },
+    {
+      "tema": "DERECHO DE PETICIÓN",
+      "subtema": "Resolución oportuna y de fondo"
+    },
+    {
+      "tema": "SERVICIO PUBLICO TELEFONICO",
+      "subtema": "No reúne características de fundamental"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "radicado": "T-1273-00",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-09-21",
+  "magistrado_ponente": "Carlos Gaviria Díaz",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCION DE TUTELA TRANSITORIA",
+  "subtema": "Improcedencia incremento salarial para servidores públicos",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 111 de 1996",
+    "Ley 4 de 1992",
+    "Ley 547 de 1999"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/T-1273-00.htm",
+  "fecha_descarga": "2026-10-23T03:11:11.016269+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-09-21",
+  "fecha_publicacion": null,
+  "numero": "T-1273/00",
+  "tipo_cc": "T",
+  "prov_id": "17873",
+  "tema_relatoria": "DERECHO A LA IGUALDAD Y AL TRABAJO. INCREMENTO DE SALARIOS Y PENSIONES PARA EL AÑO 2000 DE SERVIDORES Y PENSIONADOS PUBLICOS. IMPROCEDENCIA DE LA TUTELA COMO MECANISMO TRANSITORIO. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCION DE TUTELA TRANSITORIA",
+      "subtema": "Improcedencia incremento salarial para servidores públicos"
+    },
+    {
+      "tema": "JUEZ DE TUTELA",
+      "subtema": "Imposibilidad de modificar presupuesto para incremento salarial de servidores públicos"
+    },
+    {
+      "tema": "JUEZ CONSTITUCIONAL",
+      "subtema": "Improcedencia para sustituir a las autoridades en las competencias asignadas por la Constitución Política"
+    },
+    {
+      "tema": "GOBIERNO",
+      "subtema": "Formulación anual del presupuesto y ley de apropiaciones"
+    }
+  ]
+}

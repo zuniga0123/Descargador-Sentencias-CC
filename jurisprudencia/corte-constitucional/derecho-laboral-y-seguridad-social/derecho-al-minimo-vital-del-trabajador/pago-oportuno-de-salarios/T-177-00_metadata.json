@@ -1,0 +1,54 @@
+{
+  "radicado": "T-177-00",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-02-24",
+  "magistrado_ponente": "Dr JOSÉ GREGORIO HERNÁNDEZ GALINDO",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "DERECHO AL MINIMO VITAL DEL TRABAJADOR",
+  "subtema": "Pago oportuno de salarios",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 222 de 1995"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/T-177-00.htm",
+  "fecha_descarga": "2026-10-23T03:06:38.242526+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-02-24",
+  "fecha_publicacion": null,
+  "numero": "T-177/00",
+  "tipo_cc": "T",
+  "prov_id": "16717",
+  "tema_relatoria": "PAGO DE ACREENCIAS LABORALES. HOSPITAL SAN JUAN DE DIOS DE CALI. DERECHO AL SALARIO. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO AL MINIMO VITAL DEL TRABAJADOR",
+      "subtema": "Pago oportuno de salarios"
+    },
+    {
+      "tema": "DERECHO AL PAGO OPORTUNO DEL SALARIO",
+      "subtema": "Fundamental"
+    },
+    {
+      "tema": "PROCESO CONCORDATARIO",
+      "subtema": "Pago preferente de acreencias laborales"
+    },
+    {
+      "tema": "ESTABLECIMIENTO HOSPITALARIO EN CONCORDATO",
+      "subtema": "Pago oportuno de salarios"
+    },
+    {
+      "tema": "EMPLEADOR",
+      "subtema": "Situación económica o presupuestal no es óbice para desconocer obligaciones laborales"
+    },
+    {
+      "tema": "PROCESO CONCORDATARIO",
+      "subtema": "No exime obligación de pago de salarios y aportes a seguridad social"
+    }
+  ]
+}

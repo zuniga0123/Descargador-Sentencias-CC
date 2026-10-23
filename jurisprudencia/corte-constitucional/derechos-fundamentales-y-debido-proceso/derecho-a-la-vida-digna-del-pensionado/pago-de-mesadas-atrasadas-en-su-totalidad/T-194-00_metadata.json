@@ -1,0 +1,41 @@
+{
+  "radicado": "T-194-00",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-02-28",
+  "magistrado_ponente": "Dr JOSÉ GREGORIO HERNÁNDEZ GALINDO",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "DERECHO A LA VIDA DIGNA DEL PENSIONADO",
+  "subtema": "Pago de mesadas atrasadas en su totalidad",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/T-194-00.htm",
+  "fecha_descarga": "2026-10-23T03:07:17.137305+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-02-28",
+  "fecha_publicacion": null,
+  "numero": "T-194/00",
+  "tipo_cc": "T",
+  "prov_id": "16733",
+  "tema_relatoria": "DERECHO A LA VIDA DE PERSONAS DE LA TERCERA EDAD. INDEFENSION. PAGO DE MESADAS ATRASADAS. ACERIAS PAZ DEL RIO. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA VIDA DIGNA DEL PENSIONADO",
+      "subtema": "Pago de mesadas atrasadas en su totalidad"
+    },
+    {
+      "tema": "DERECHO AL MINIMO VITAL DEL PENSIONADO",
+      "subtema": "Pago de mesadas atrasadas en su totalidad"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Procedencia pago de mesadas pensionales atrasadas cuando se afecta el mínimo vital"
+    }
+  ]
+}

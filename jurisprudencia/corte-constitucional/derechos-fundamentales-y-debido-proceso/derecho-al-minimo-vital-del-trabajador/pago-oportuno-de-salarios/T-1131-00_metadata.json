@@ -1,0 +1,62 @@
+{
+  "radicado": "T-1131-00",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-08-25",
+  "magistrado_ponente": "Dr ALEJANDRO MARTÍNEZ CABALLERO",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "DERECHO AL MINIMO VITAL DEL TRABAJADOR",
+  "subtema": "Pago oportuno de salarios",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 1645 de 1992",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/T-1131-00.htm",
+  "fecha_descarga": "2026-10-23T03:09:31.949674+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-08-25",
+  "fecha_publicacion": null,
+  "numero": "T-1131/00",
+  "tipo_cc": "T",
+  "prov_id": "17721",
+  "tema_relatoria": "DERECHO AL PAGO DE ACREENCIAS LABORALES. LIQUIDACION PARCIAL DE CESANTIAS. PROCEDENCIA EXCEPCIONAL DE LA TUTELA PARA EL PAGO DE SALARIOS. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO AL MINIMO VITAL DEL TRABAJADOR",
+      "subtema": "Pago oportuno de salarios"
+    },
+    {
+      "tema": "DERECHO AL PAGO OPORTUNO DEL SALARIO",
+      "subtema": "Fundamental"
+    },
+    {
+      "tema": "DERECHO A LA VIDA",
+      "subtema": "Traslado de docente amenazado"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Procedencia excepcional pago de salarios"
+    },
+    {
+      "tema": "ACTO DISCRECIONAL DE LA ADMINISTRACION",
+      "subtema": "Deja de serlo cuando existe amenaza contra vida de empleados"
+    },
+    {
+      "tema": "DERECHO DE PETICIÓN",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "DERECHO A LA VIDA",
+      "subtema": "Traslado de trabajadores"
+    },
+    {
+      "tema": "DERECHO DE PETICIÓN",
+      "subtema": "Núcleo esencial"
+    }
+  ]
+}
