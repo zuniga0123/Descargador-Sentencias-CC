@@ -1,0 +1,46 @@
+{
+  "radicado": "T-590-99",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1999,
+  "fecha_creacion": "1999-08-17",
+  "magistrado_ponente": "Dr CARLOS GAVIRIA DÍAZ",
+  "area": "Derecho a la Salud",
+  "tema": "DERECHO A LA VIDA",
+  "subtema": "Práctica de cirugía del corazón por EPS sin cumplir periodo mínimo de cotización en persona de escasos recursos",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 806 de 1998",
+    "Decreto 1938 de 1994"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1999/T-590-99.htm",
+  "fecha_descarga": "2026-10-23T04:35:56.121010+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1999-08-17",
+  "fecha_publicacion": null,
+  "numero": "T-590/99",
+  "tipo_cc": "T",
+  "prov_id": "16070",
+  "tema_relatoria": "DER. A LA SALUD VIDA Y SEGURIDAD SOCIAL. NO SE HA REALIZADO CIRUGIA DE CORAZON POR CAJANAL POR NO TENER LAS SEMANAS COTIZADAS. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA VIDA",
+      "subtema": "Práctica de cirugía del corazón por EPS sin cumplir periodo mínimo de cotización en persona de escasos recursos"
+    },
+    {
+      "tema": "INAPLICACION DE NORMAS DEL PLAN OBLIGATORIO DE SALUD",
+      "subtema": "Casos en que procede por exclusión de tratamientos y medicamentos de alto costo"
+    },
+    {
+      "tema": "SUBCUENTA DEL FONDO DE SOLIDARIDAD Y GARANTIA DEL SISTEMA GENERAL DE SEGURIDAD SOCIAL EN SALUD",
+      "subtema": "Reclamo por sobrecostos de tratamiento excluido del POS"
+    },
+    {
+      "tema": "SISTEMA PUBLICO DE SALUD",
+      "subtema": "Afiliado que no cumple periodo mínimo de cotización sin capacidad de pago para enfermedad de alto costo"
+    }
+  ]
+}

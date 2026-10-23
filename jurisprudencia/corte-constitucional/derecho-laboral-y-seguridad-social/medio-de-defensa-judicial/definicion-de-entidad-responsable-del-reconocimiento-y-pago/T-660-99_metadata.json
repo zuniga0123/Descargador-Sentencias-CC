@@ -1,0 +1,46 @@
+{
+  "radicado": "T-660-99",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1999,
+  "fecha_creacion": "1999-09-07",
+  "magistrado_ponente": "Dr ALVARO TAFUR GALVIS",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "MEDIO DE DEFENSA JUDICIAL",
+  "subtema": "Definición de entidad responsable del reconocimiento y pago de pensión",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 100 de 1993"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1999/T-660-99.htm",
+  "fecha_descarga": "2026-10-23T04:49:25.971514+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1999-09-07",
+  "fecha_publicacion": null,
+  "numero": "T-660/99",
+  "tipo_cc": "T",
+  "prov_id": "16144",
+  "tema_relatoria": "DERS. DE LOS NIÑOS. SOLICITUD DE RECONOCIMIENTO Y PAGO DE PENSION DE SOBREVIVIENTES. MEDIO DE DEFENSA JUDICIAL. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "MEDIO DE DEFENSA JUDICIAL",
+      "subtema": "Definición de entidad responsable del reconocimiento y pago de pensión"
+    },
+    {
+      "tema": "SUPERINTENDENCIA BANCARIA",
+      "subtema": "Resolución de conflicto por doble vinculación pensional"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Improcedencia general para reconocimiento de pensiones"
+    },
+    {
+      "tema": "DERECHO DE PETICIÓN",
+      "subtema": "Núcleo esencial"
+    }
+  ]
+}

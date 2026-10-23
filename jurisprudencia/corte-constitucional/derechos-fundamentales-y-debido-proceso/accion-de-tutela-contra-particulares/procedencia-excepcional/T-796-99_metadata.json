@@ -1,0 +1,49 @@
+{
+  "radicado": "T-796-99",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1999,
+  "fecha_creacion": "1999-10-14",
+  "magistrado_ponente": "Dr JOSE GREGORIO HERNANDEZ GALINDO",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCION DE TUTELA CONTRA PARTICULARES",
+  "subtema": "Procedencia excepcional",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1999/T-796-99.htm",
+  "fecha_descarga": "2026-10-23T04:37:04.635182+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1999-10-14",
+  "fecha_publicacion": null,
+  "numero": "T-796/99",
+  "tipo_cc": "T",
+  "prov_id": "16271",
+  "tema_relatoria": "DERS DEPORTIVOS CLUB. LIBERTAD DE CONTRATACION. JUGADOR DE FUTBOL. TUTELA CONTRA CLUB DE FUTBOL POR NO INCLUIRLO EN TORNEOS. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCION DE TUTELA CONTRA PARTICULARES",
+      "subtema": "Procedencia excepcional"
+    },
+    {
+      "tema": "CLUB DEPORTIVO",
+      "subtema": "Libertad del jugador por inexistencia de relación contractual"
+    },
+    {
+      "tema": "CLUB DEPORTIVO",
+      "subtema": "Libertad del jugador cuando desaparece relación contractual"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Demostración de amenaza o vulneración de derechos fundamentales"
+    },
+    {
+      "tema": "INDEFENSION",
+      "subtema": "Jugador respecto de club deportivo"
+    }
+  ]
+}

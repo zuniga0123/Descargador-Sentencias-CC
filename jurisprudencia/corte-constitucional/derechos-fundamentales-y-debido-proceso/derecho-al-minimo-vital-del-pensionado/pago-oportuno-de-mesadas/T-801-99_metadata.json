@@ -1,0 +1,41 @@
+{
+  "radicado": "T-801-99",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1999,
+  "fecha_creacion": "1999-10-19",
+  "magistrado_ponente": "Dr CARLOS GAVIRIA DÍAZ",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "DERECHO AL MINIMO VITAL DEL PENSIONADO",
+  "subtema": "Pago oportuno de mesadas",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1999/T-801-99.htm",
+  "fecha_descarga": "2026-10-23T04:50:48.392678+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1999-10-19",
+  "fecha_publicacion": null,
+  "numero": "T-801/99",
+  "tipo_cc": "T",
+  "prov_id": "16276",
+  "tema_relatoria": "DERECHO A LA IGUALDAD.DER SEGURIDAD SOCIAL Y PAGO OPORTUNO DE PENSIONES A PERSONAS DE LA TERCERA EDAD. NO AFECTA MINIMO VITAL. CARENCIA ACTUAL DE OBJETO. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO AL MINIMO VITAL DEL PENSIONADO",
+      "subtema": "Pago oportuno de mesadas"
+    },
+    {
+      "tema": "DERECHO A LA VIDA DIGNA DE PERSONA DE LA TERCERA EDAD",
+      "subtema": "Pago oportuno de mesadas pensionales"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Carencia actual de objeto"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "radicado": "T-530-99",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1999,
+  "fecha_creacion": "1999-07-26",
+  "magistrado_ponente": "Dr VLADIMIRO NARANJO MESA",
+  "area": "Derecho a la Salud",
+  "tema": "DERECHO A LA SALUD",
+  "subtema": "Naturaleza jurídica",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 100 de 1993"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1999/T-530-99.htm",
+  "fecha_descarga": "2026-10-23T04:53:47.854103+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1999-07-26",
+  "fecha_publicacion": null,
+  "numero": "T-530/99",
+  "tipo_cc": "T",
+  "prov_id": "16004",
+  "tema_relatoria": "DER. A LA SALUD DE LOS RECLUSOS. ATENCION DIRECTA Y GRATUITA POR HOSPITAL DEL ESTADO. AFILIACION DE LOS RECLUSOS A LA SEGURIDAD SOCIAL.. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Naturaleza jurídica"
+    },
+    {
+      "tema": "DERECHO A LA SALUD DEL INTERNO",
+      "subtema": "Protección internacional"
+    },
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Desarrollo progresivo"
+    },
+    {
+      "tema": "ESTADO DE COSAS INCONSTITUCIONAL EN ESTABLECIMIENTO CARCELARIO",
+      "subtema": "Afectación del derecho a la salud"
+    },
+    {
+      "tema": "DERECHO A LA SALUD DEL INTERNO",
+      "subtema": "Atención médica integral no puede asumirse gratuitamente por única entidad hospitalaria por exceder presupuesto"
+    },
+    {
+      "tema": "DERECHO A LA SALUD DEL INTERNO",
+      "subtema": "Protección aunque no se encuentre en circunstancia extrema"
+    },
+    {
+      "tema": "DERECHO A LA SALUD DEL INTERNO",
+      "subtema": "Protección por el Estado"
+    },
+    {
+      "tema": "SISTEMA GENERAL DE SEGURIDAD SOCIAL EN SALUD",
+      "subtema": "Régimen contributivo y subsidiado"
+    },
+    {
+      "tema": "SISTEMA INTEGRAL DE SEGURIDAD SOCIAL",
+      "subtema": "Participación, objetivos y principios"
+    },
+    {
+      "tema": "SISTEMA DE SEGURIDAD SOCIAL EN SALUD PARA INTERNO",
+      "subtema": "Afiliación"
+    },
+    {
+      "tema": "SISTEMA DE SEGURIDAD SOCIAL EN SALUD PARA INTERNO",
+      "subtema": "Contratación de régimen subsidiado"
+    }
+  ]
+}

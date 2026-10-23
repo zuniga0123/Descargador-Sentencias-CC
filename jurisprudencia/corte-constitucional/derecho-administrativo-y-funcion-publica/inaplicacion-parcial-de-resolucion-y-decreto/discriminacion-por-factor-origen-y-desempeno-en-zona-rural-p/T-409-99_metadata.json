@@ -1,0 +1,50 @@
+{
+  "radicado": "T-409-99",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1999,
+  "fecha_creacion": "1999-06-04",
+  "magistrado_ponente": "Dr VLADIMIRO NARANJO MESA",
+  "area": "Derecho Administrativo y Función Pública",
+  "tema": "INAPLICACION PARCIAL DE RESOLUCION Y DECRETO",
+  "subtema": "Discriminación por factor origen y desempeño en zona rural para acceso a carrera docente",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 48 de 1993",
+    "Decreto 638 de 1997"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1999/T-409-99.htm",
+  "fecha_descarga": "2026-10-23T04:41:15.431230+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1999-06-04",
+  "fecha_publicacion": null,
+  "numero": "T-409/99",
+  "tipo_cc": "T",
+  "prov_id": "15878",
+  "tema_relatoria": "DER. A LA IGUALDAD. DER. A LA PARTICIPACION EN EL PODER POLITICO. DOCENTE DISCRIMINADO EN CONCURSO DE MERITOS. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "INAPLICACION PARCIAL DE RESOLUCION Y DECRETO",
+      "subtema": "Discriminación por factor origen y desempeño en zona rural para acceso a carrera docente"
+    },
+    {
+      "tema": "SISTEMA DE CARRERA",
+      "subtema": "Mérito como elemento esencial"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Subsidiariedad"
+    },
+    {
+      "tema": "DERECHO A LA IGUALDAD EN ACCESO A CARRERA DOCENTE",
+      "subtema": "Prerrogativa por origen de la persona"
+    },
+    {
+      "tema": "DERECHO A LA IGUALDAD EN ACCESO A CARRERA DOCENTE",
+      "subtema": "Puntaje adicional por prestación de servicios en zona rural"
+    }
+  ]
+}

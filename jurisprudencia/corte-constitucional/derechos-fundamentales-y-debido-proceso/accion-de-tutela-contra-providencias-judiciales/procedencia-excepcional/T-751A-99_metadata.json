@@ -1,0 +1,75 @@
+{
+  "radicado": "T-751A-99",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1999,
+  "fecha_creacion": "1999-10-08",
+  "magistrado_ponente": "Dr FABIO MORON DIAZ",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+  "subtema": "Procedencia excepcional",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2221 de 1983",
+    "Decreto 3817 de 1982",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1999/T-751A-99.htm",
+  "fecha_descarga": "2026-10-23T04:47:19.300707+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1999-10-08",
+  "fecha_publicacion": null,
+  "numero": "T-751A/99",
+  "tipo_cc": "T",
+  "prov_id": "16247",
+  "tema_relatoria": "DEBIDO PROCESO. VIA DE HECHO RESTITUCION DE BIEN INMUEBLE ARRENDADO. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Procedencia excepcional"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Juez no resuelve materia objeto de debate"
+    },
+    {
+      "tema": "INCIDENTE DE DESACATO",
+      "subtema": "Inicio para evitar cascada de tutelas"
+    },
+    {
+      "tema": "DEBIDO PROCESO",
+      "subtema": "Vulneración por revivir proceso concluído"
+    },
+    {
+      "tema": "PRINCIPIO DE AUTONOMIA FUNCIONAL DEL JUEZ",
+      "subtema": "Respeto"
+    },
+    {
+      "tema": "ACCION DE TUTELA TEMERARIA",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "NULIDAD POR REVIVIR PROCESO DE TUTELA CONCLUIDO",
+      "subtema": "Aplicación"
+    },
+    {
+      "tema": "DEBIDO PROCESO",
+      "subtema": "Recta administración de justicia"
+    },
+    {
+      "tema": "DEBIDO PROCESO",
+      "subtema": "Fundamental"
+    },
+    {
+      "tema": "INCIDENTE DE DESACATO",
+      "subtema": "Fundamento"
+    },
+    {
+      "tema": "VIA DE HECHO",
+      "subtema": "No la constituye interpretaciones del juez que no comparten las partes"
+    }
+  ]
+}

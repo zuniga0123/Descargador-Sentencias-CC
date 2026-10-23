@@ -1,0 +1,54 @@
+{
+  "radicado": "T-639-99",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1999,
+  "fecha_creacion": "1999-08-31",
+  "magistrado_ponente": "Dr VLADIMIRO NARANJO MESA",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "CONCORDATO PREVENTIVO OBLIGATORIO",
+  "subtema": "Pago preferente de salarios",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 222 de 1995"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1999/T-639-99.htm",
+  "fecha_descarga": "2026-10-23T04:52:10.712759+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1999-08-31",
+  "fecha_publicacion": null,
+  "numero": "T-639/99",
+  "tipo_cc": "T",
+  "prov_id": "16124",
+  "tema_relatoria": "DER. AL MINIMO VITAL. DER. AL TRABAJO. MORA EN EL PAGO DE SALARIOS PRESTACIONES SOCIALES Y APORTES EN SALUD. EDINALCO LTDA. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "CONCORDATO PREVENTIVO OBLIGATORIO",
+      "subtema": "Pago preferente de salarios"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Procedencia excepcional pago de acreencias laborales"
+    },
+    {
+      "tema": "SUBORDINACION LABORAL",
+      "subtema": "Pago oportuno de salarios"
+    },
+    {
+      "tema": "CONCORDATO PREVENTIVO OBLIGATORIO",
+      "subtema": "No suspensión de pago de cotizaciones en salud"
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA PARTICULARES",
+      "subtema": "Procedencia excepcional"
+    },
+    {
+      "tema": "DERECHO AL MINIMO VITAL DEL TRABAJADOR",
+      "subtema": "Pago oportuno de salarios"
+    }
+  ]
+}

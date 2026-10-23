@@ -1,0 +1,52 @@
+{
+  "radicado": "T-005-99",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1999,
+  "fecha_creacion": "1999-01-21",
+  "magistrado_ponente": "Dr ALFREDO BELTRÁN SIERRA",
+  "area": "Otros - Sin clasificar",
+  "tema": "DERECHO AL MINIMO VITAL DEL PENSIONADO",
+  "subtema": "Pago oportuno de mesadas",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto Ley 2591 de 1991",
+    "Ley 171 de 1961",
+    "Decreto 2677 de 1971",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1999/T-005-99.htm",
+  "fecha_descarga": "2026-10-23T04:55:45.680361+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1999-01-21",
+  "fecha_publicacion": null,
+  "numero": "T-005/99",
+  "tipo_cc": "T",
+  "prov_id": "15439",
+  "tema_relatoria": "DER. AL MINIMO VITAL. MORA EN EL PAGO DE MESADAS PENSIONALES Y PRIMA. OMISION DE CONMUTACION PENSIONAL. CROYDON S.A. EMPRESA EN LIQUIDACION. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO AL MINIMO VITAL DEL PENSIONADO",
+      "subtema": "Pago oportuno de mesadas"
+    },
+    {
+      "tema": "PROCESO DE LIQUIDACION OBLIGATORIA",
+      "subtema": "Omisión de conmutación pensional"
+    },
+    {
+      "tema": "EMPRESA EN LIQUIDACION",
+      "subtema": "Activos insuficientes para pago de mesadas pensionales"
+    },
+    {
+      "tema": "PROCESO DE LIQUIDACION OBLIGATORIA",
+      "subtema": "Negligencia del liquidador en pago de pasivo pensional"
+    },
+    {
+      "tema": "SUPERINTENDENCIA DE SOCIEDADES",
+      "subtema": "Protección derechos del pensionado en trámite de concordato"
+    }
+  ]
+}

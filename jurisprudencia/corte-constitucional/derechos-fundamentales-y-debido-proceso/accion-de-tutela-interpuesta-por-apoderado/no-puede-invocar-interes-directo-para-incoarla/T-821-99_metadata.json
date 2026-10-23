@@ -1,0 +1,57 @@
+{
+  "radicado": "T-821-99",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1999,
+  "fecha_creacion": "1999-10-21",
+  "magistrado_ponente": "Dr ALFREDO BELTRÁN SIERRA",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCION DE TUTELA INTERPUESTA POR APODERADO",
+  "subtema": "No puede invocar interés directo para incoarla",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 196 de 1971"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1999/T-821-99.htm",
+  "fecha_descarga": "2026-10-23T04:37:43.747208+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1999-10-21",
+  "fecha_publicacion": null,
+  "numero": "T-821/99",
+  "tipo_cc": "T",
+  "prov_id": "16299",
+  "tema_relatoria": "DERECHO DE PETICION. TITULOS MINEROS ESTAN SOMETIDOS A RESERVA DE DOCUMENTOS FALTA LEGITIMACION ACTORA. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCION DE TUTELA INTERPUESTA POR APODERADO",
+      "subtema": "No puede invocar interés directo para incoarla"
+    },
+    {
+      "tema": "FALTA DE LEGITIMACION POR ACTIVA EN TUTELA",
+      "subtema": "Apoderado no puede invocar interés directo"
+    },
+    {
+      "tema": "DOCUMENTO RESERVADO",
+      "subtema": "Improcedencia general de tutela para entrega salvo perjuicio irremediable"
+    },
+    {
+      "tema": "ACCION DE TUTELA INTERPUESTA POR APODERADO",
+      "subtema": "Carencia de poder no se suple con otro otorgado para asunto diferente"
+    },
+    {
+      "tema": "ACCION DE TUTELA INTERPUESTA POR APODERADO",
+      "subtema": "Necesidad de poder"
+    },
+    {
+      "tema": "DERECHO DE PETICION POR APODERADO",
+      "subtema": "No obtención de respuesta vulnera derecho del representado"
+    },
+    {
+      "tema": "MEDIO DE DEFENSA JUDICIAL",
+      "subtema": "Controversia sobre negativa a entregar documentos señalados como reservados"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "radicado": "T-717-99",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1999,
+  "fecha_creacion": "1999-09-28",
+  "magistrado_ponente": "Dr JOSE GREGORIO HERNANDEZ GALINDO",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCIÓN DE TUTELA",
+  "subtema": "Improcedencia para modificar planta de personal",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 60 de 1993",
+    "Ley 115 de 1994"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1999/T-717-99.htm",
+  "fecha_descarga": "2026-10-23T04:48:42.514764+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1999-09-28",
+  "fecha_publicacion": null,
+  "numero": "T-717/99",
+  "tipo_cc": "T",
+  "prov_id": "16209",
+  "tema_relatoria": "DERECHO A LA EDUCACION POR MODIFICACION DE PLANTA DE PERSONAL DOCENTE. SECRETARIA DE EDUCACION DEL VALLE. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Improcedencia para modificar planta de personal"
+    },
+    {
+      "tema": "JUEZ DE TUTELA",
+      "subtema": "Verificación de hechos"
+    },
+    {
+      "tema": "JUEZ DE TUTELA",
+      "subtema": "Debe fallar de manera independiente considerando el caso y no providencias de otros jueces en proceso diferentes"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "radicado": "T-516-99",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1999,
+  "fecha_creacion": "1999-07-19",
+  "magistrado_ponente": "Dr CARLOS GAVIRIA DÍAZ",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "DERECHO A LA SALUD DE PERSONA DISMINUIDA FISICA Y PSIQUICAMENTE",
+  "subtema": "Prestación de atención especializada que requiera por el Estado",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Decreto 1346 de 1994",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1999/T-516-99.htm",
+  "fecha_descarga": "2026-10-23T04:52:39.398347+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1999-07-19",
+  "fecha_publicacion": null,
+  "numero": "T-516/99",
+  "tipo_cc": "T",
+  "prov_id": "15990",
+  "tema_relatoria": "DEBIDO PROCESO DERECHO A LA IGUALDAD SALUD SUSTITUCION PENSIONAL CAMBIO DE CALIFICACION DE INVALIDEZ CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA SALUD DE PERSONA DISMINUIDA FISICA Y PSIQUICAMENTE",
+      "subtema": "Prestación de atención especializada que requiera por el Estado"
+    },
+    {
+      "tema": "DEBIDO PROCESO ADMINISTRATIVO",
+      "subtema": "Omisión de poner en conocimiento motivos de desacuerdo sobre determinación de invalidez"
+    },
+    {
+      "tema": "JUNTA DE CALIFICACIÓN DE INVALIDEZ",
+      "subtema": "Funciones"
+    },
+    {
+      "tema": "VIA DE HECHO",
+      "subtema": "Modificación inmotivada de calificación de invalidez"
+    },
+    {
+      "tema": "JUNTA DE CALIFICACIÓN DE INVALIDEZ",
+      "subtema": "Cambio de diagnóstico"
+    },
+    {
+      "tema": "PRINCIPIO DE LA BUENA FE",
+      "subtema": "Casos de debilidad manifiesta por invalidez parcial o total"
+    },
+    {
+      "tema": "DISCAPACITADO",
+      "subtema": "Calificación de invalidez para acceder a pensión sustitutiva"
+    },
+    {
+      "tema": "DEBIDO PROCESO",
+      "subtema": "No manifestación al interesado de información relevante sobre impugnación de calificación de invalidez"
+    },
+    {
+      "tema": "JUNTA DE CALIFICACIÓN DE INVALIDEZ",
+      "subtema": "Reconocimiento como titular de una pensión o sustitución"
+    },
+    {
+      "tema": "SUSTITUCIÓN PENSIONAL",
+      "subtema": "Hijo mayor de edad con invalidez"
+    }
+  ]
+}

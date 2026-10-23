@@ -1,0 +1,51 @@
+{
+  "radicado": "T-887-99",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1999,
+  "fecha_creacion": "1999-11-08",
+  "magistrado_ponente": "Dr CARLOS GAVIRIA DÍAZ",
+  "area": "Derecho a la Salud",
+  "tema": "DERECHO A LA VIDA DIGNA DEL NIÑO",
+  "subtema": "Suministro silla de ruedas",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Decreto 1938 de 1994",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1999/T-887-99.htm",
+  "fecha_descarga": "2026-10-23T04:45:17.646008+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1999-11-08",
+  "fecha_publicacion": null,
+  "numero": "T-887/99",
+  "tipo_cc": "T",
+  "prov_id": "16373",
+  "tema_relatoria": "DERECHO A LA SEGURIDAD SOCIAL. DER A LA DIGNIDAD DEL MENOR. SUMINISTRO DE SILLA DE RUEDAS ISS. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA VIDA DIGNA DEL NIÑO",
+      "subtema": "Suministro silla de ruedas"
+    },
+    {
+      "tema": "DERECHO A LA SALUD FISICA Y MENTAL DEL NIÑO",
+      "subtema": "Suministro silla de ruedas"
+    },
+    {
+      "tema": "INAPLICACION DE NORMAS DEL PLAN OBLIGATORIO DE SALUD",
+      "subtema": "Exclusión de suministro silla de ruedas a menor"
+    },
+    {
+      "tema": "PRINCIPIO DE DIGNIDAD HUMANA",
+      "subtema": "Suministro silla de ruedas a menores"
+    },
+    {
+      "tema": "DERECHO A LA SALUD DE NIÑOS, NIÑAS Y ADOLESCENTES",
+      "subtema": "Fundamental"
+    }
+  ]
+}

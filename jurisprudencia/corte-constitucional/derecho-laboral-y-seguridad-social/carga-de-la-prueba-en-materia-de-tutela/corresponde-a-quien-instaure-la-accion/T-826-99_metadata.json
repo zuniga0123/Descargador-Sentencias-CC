@@ -1,0 +1,47 @@
+{
+  "radicado": "T-826-99",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1999,
+  "fecha_creacion": "1999-10-21",
+  "magistrado_ponente": "Dr JOSE GREGORIO HERNANDEZ GALINDO",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "CARGA DE LA PRUEBA EN MATERIA DE TUTELA",
+  "subtema": "Corresponde a quien instaure la acción",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Decreto 1127 de 1991",
+    "Decreto 1543 de 1997"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1999/T-826-99.htm",
+  "fecha_descarga": "2026-10-23T04:37:54.559972+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1999-10-21",
+  "fecha_publicacion": null,
+  "numero": "T-826/99",
+  "tipo_cc": "T",
+  "prov_id": "16303",
+  "tema_relatoria": "DERECHO A LA VIDA. DER A LA SALUD. A LA DIGNIDAD HUMANA. ENFERMO SIDA. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "CARGA DE LA PRUEBA EN MATERIA DE TUTELA",
+      "subtema": "Corresponde a quien instaure la acción"
+    },
+    {
+      "tema": "CONTRATO DE TRABAJO A TERMINO FIJO",
+      "subtema": "No demostración que terminación la motivó ser portador del VIH"
+    },
+    {
+      "tema": "DERECHO AL TRABAJO",
+      "subtema": "Prohibición de exigir prueba sobre V.I.H."
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Improcedencia cuando desvinculación laboral no se relaciona con enfermedad del trabajador"
+    }
+  ]
+}

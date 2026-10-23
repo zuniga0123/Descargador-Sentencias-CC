@@ -1,0 +1,53 @@
+{
+  "radicado": "T-757-99",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1999,
+  "fecha_creacion": "1999-10-12",
+  "magistrado_ponente": "Dr JOSE GREGORIO HERNANDEZ GALINDO",
+  "area": "Derecho a la Salud",
+  "tema": "EMPLEADOR",
+  "subtema": "Asunción servicio de salud por mora en aportes",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1999/T-757-99.htm",
+  "fecha_descarga": "2026-10-23T04:36:32.439872+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1999-10-12",
+  "fecha_publicacion": null,
+  "numero": "T-757/99",
+  "tipo_cc": "T",
+  "prov_id": "16253",
+  "tema_relatoria": "DERECHO A LA SALUD.DER.A LA VIDA.INTEGRIDAD PERSONAL.SEGURIDAD SOCIAL POR OMISION EN EL PAGO DE APORTES PATRONALES.CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "EMPLEADOR",
+      "subtema": "Asunción servicio de salud por mora en aportes"
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA PARTICULARES",
+      "subtema": "Procedencia excepcional"
+    },
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Mora en pago de aportes patronales"
+    },
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Amenaza por mora patronal en aportes a seguridad social"
+    },
+    {
+      "tema": "JUEZ DE TUTELA",
+      "subtema": "Deber de tramitar demanda"
+    },
+    {
+      "tema": "SUBORDINACION LABORAL",
+      "subtema": "Aplicación"
+    }
+  ]
+}

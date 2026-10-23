@@ -1,0 +1,56 @@
+{
+  "radicado": "T-495-99",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1999,
+  "fecha_creacion": "1999-07-09",
+  "magistrado_ponente": "Dr CARLOS GAVIRIA DIAZ",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCION DE TUTELA CONTRA PARTICULARES",
+  "subtema": "Procedencia excepcional",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 50 de 1990",
+    "Ley 100 de 1993",
+    "Decreto 2591 de 1991",
+    "Ley 11 de 1988"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1999/T-495-99.htm",
+  "fecha_descarga": "2026-10-23T04:40:42.855420+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1999-07-09",
+  "fecha_publicacion": null,
+  "numero": "T-495/99",
+  "tipo_cc": "T",
+  "prov_id": "15966",
+  "tema_relatoria": "DERECHO A LA VIDA. DER. A LA SEGURIDAD SOCIAL. NO PAGO DE MESADAS PENSIONALES AL PERSONAL DEL SERVICIO DOMESTICO CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCION DE TUTELA CONTRA PARTICULARES",
+      "subtema": "Procedencia excepcional"
+    },
+    {
+      "tema": "ACCION DE TUTELA TRANSITORIA PARA EXEMPLEADA DEL SERVICIO DOMESTICO",
+      "subtema": "Pago de suma equivalente al salario mínimo y afiliación al POS"
+    },
+    {
+      "tema": "DERECHO A LA SEGURIDAD SOCIAL DE PERSONA DE LA TERCERA EDAD",
+      "subtema": "Fundamental por afectación del mínimo vital"
+    },
+    {
+      "tema": "DERECHO A LA VIDA DIGNA",
+      "subtema": "Contenido"
+    },
+    {
+      "tema": "INDEFENSION",
+      "subtema": "Empleada doméstica"
+    },
+    {
+      "tema": "TRABAJO DOMÉSTICO",
+      "subtema": "Afiliación al régimen de pensiones"
+    }
+  ]
+}

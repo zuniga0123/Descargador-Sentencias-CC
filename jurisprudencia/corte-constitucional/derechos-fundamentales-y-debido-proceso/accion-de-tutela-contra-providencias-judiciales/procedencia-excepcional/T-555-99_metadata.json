@@ -1,0 +1,69 @@
+{
+  "radicado": "T-555-99",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1999,
+  "fecha_creacion": "1999-08-02",
+  "magistrado_ponente": "Dr JOSE GREGORIO HERNANDEZ GALINDO",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+  "subtema": "Procedencia excepcional",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1999/T-555-99.htm",
+  "fecha_descarga": "2026-10-23T04:34:55.125091+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1999-08-02",
+  "fecha_publicacion": null,
+  "numero": "T-555/99",
+  "tipo_cc": "T",
+  "prov_id": "16034",
+  "tema_relatoria": "DEBIDO PROCESO. VIA DE HECHO. DER. A LA IGUALDAD. INDEBIDA VALORACION PROBATORIA. ICOLLANTAS. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Procedencia excepcional"
+    },
+    {
+      "tema": "PRINCIPIO DE FAVORABILIDAD LABORAL EN INCIDENTE DE DESACATO",
+      "subtema": "Aplicación"
+    },
+    {
+      "tema": "VIA DE HECHO",
+      "subtema": "Clases de defectos en la actuación"
+    },
+    {
+      "tema": "VIA DE HECHO EN INCIDENTE DE DESACATO",
+      "subtema": "Aplicación de norma más favorable al trabajador"
+    },
+    {
+      "tema": "VIA DE HECHO",
+      "subtema": "Configuración"
+    },
+    {
+      "tema": "DERECHO A LA PRUEBA",
+      "subtema": "Incidencia lógica y jurídica en decisión del juez"
+    },
+    {
+      "tema": "VIA DE HECHO EN INCIDENTE DE DESACATO",
+      "subtema": "Procedencia por incumplimiento de orden de tutela"
+    },
+    {
+      "tema": "VIA DE HECHO",
+      "subtema": "Desconocimiento absoluto de pruebas aportadas"
+    },
+    {
+      "tema": "VIA DE HECHO",
+      "subtema": "Omisión de apreciación y evaluación de pruebas"
+    },
+    {
+      "tema": "VIA DE HECHO",
+      "subtema": "Conclusión judicial contraevidente en evaluación de pruebas"
+    }
+  ]
+}

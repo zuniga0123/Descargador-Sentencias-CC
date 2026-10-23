@@ -1,0 +1,49 @@
+{
+  "radicado": "T-603-99",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1999,
+  "fecha_creacion": "1999-08-19",
+  "magistrado_ponente": "Dr CARLOS GAVIRIA DÍAZ",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "DERECHO AL MINIMO VITAL DEL TRABAJADOR",
+  "subtema": "Pago oportuno de salarios",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1999/T-603-99.htm",
+  "fecha_descarga": "2026-10-23T04:53:26.090883+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1999-08-19",
+  "fecha_publicacion": null,
+  "numero": "T-603/99",
+  "tipo_cc": "T",
+  "prov_id": "16086",
+  "tema_relatoria": "DER. AL MINIMO VITAL. DER. AL TRABAJO EN CONDICIONES DIGNAS Y JUSTAS. MORA EN EL PAGO DE SALARIOS POR EL MUNICIPIO. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO AL MINIMO VITAL DEL TRABAJADOR",
+      "subtema": "Pago oportuno de salarios"
+    },
+    {
+      "tema": "DERECHO A LA IGUALDAD",
+      "subtema": "Reiteración de doctrina constitucional"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Procedencia excepcional pago de acreencias laborales"
+    },
+    {
+      "tema": "MUNICIPIO",
+      "subtema": "Situación económica o presupuestal no es óbice para desconocer obligaciones laborales"
+    },
+    {
+      "tema": "PRINCIPIO DE LA BUENA FE",
+      "subtema": "Actuaciones administrativas y judiciales"
+    }
+  ]
+}

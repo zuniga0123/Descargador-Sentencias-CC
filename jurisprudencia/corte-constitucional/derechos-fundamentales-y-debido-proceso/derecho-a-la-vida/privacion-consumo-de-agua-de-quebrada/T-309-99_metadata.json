@@ -1,0 +1,41 @@
+{
+  "radicado": "T-309-99",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1999,
+  "fecha_creacion": "1999-05-06",
+  "magistrado_ponente": "Dr ALFREDO BELTRÁN SIERRA",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "DERECHO A LA VIDA",
+  "subtema": "Privación consumo de agua de quebrada",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1999/T-309-99.htm",
+  "fecha_descarga": "2026-10-23T04:54:38.147668+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1999-05-06",
+  "fecha_publicacion": null,
+  "numero": "T-309/99",
+  "tipo_cc": "T",
+  "prov_id": "15766",
+  "tema_relatoria": "DER. A LA SALUD Y A LA VIDA. DER. AL AMBIENTE SANO. CONSTRUCCION DE CASA Y REPRESA QUE OBSTRUYE EL CAUCE NATURAL DE UNA QUEBRADA. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA VIDA",
+      "subtema": "Privación consumo de agua de quebrada"
+    },
+    {
+      "tema": "ABUSO DEL DERECHO",
+      "subtema": "Privación consumo agua de quebrada"
+    },
+    {
+      "tema": "INDEFENSION",
+      "subtema": "Obras que obstruyen el cauce natural de quebrada"
+    }
+  ]
+}

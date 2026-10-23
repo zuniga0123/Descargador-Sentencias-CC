@@ -1,0 +1,41 @@
+{
+  "radicado": "T-498-99",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1999,
+  "fecha_creacion": "1999-07-12",
+  "magistrado_ponente": "Dr ALEJANDRO MARTÍNEZ CABALLERO",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "PRINCIPIO DE LA BUENA FE",
+  "subtema": "Actuaciones de funcionarios judiciales",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1999/T-498-99.htm",
+  "fecha_descarga": "2026-10-23T04:40:53.547408+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1999-07-12",
+  "fecha_publicacion": null,
+  "numero": "T-498/99",
+  "tipo_cc": "T",
+  "prov_id": "15969",
+  "tema_relatoria": "TUTELA CONTRA PROVIDENCIAS JUDICIALES. DEBIDO PROCESO. IMPROCEDENCIA VIA DE HECHO. FALTA DE NOTIFICACION. NEGADA",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "PRINCIPIO DE LA BUENA FE",
+      "subtema": "Actuaciones de funcionarios judiciales"
+    },
+    {
+      "tema": "DEBIDO PROCESO",
+      "subtema": "Inexistencia de vulneración por notificación debida"
+    },
+    {
+      "tema": "VIA DE HECHO",
+      "subtema": "Clases de defectos en la actuación"
+    }
+  ]
+}

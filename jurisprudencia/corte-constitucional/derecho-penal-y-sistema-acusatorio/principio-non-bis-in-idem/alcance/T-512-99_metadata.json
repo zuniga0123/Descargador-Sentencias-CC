@@ -1,0 +1,49 @@
+{
+  "radicado": "T-512-99",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1999,
+  "fecha_creacion": "1999-07-15",
+  "magistrado_ponente": "Dr ANTONIO BARRERA CARBONELL",
+  "area": "Derecho Penal y Sistema Acusatorio",
+  "tema": "PRINCIPIO NON BIS IN IDEM",
+  "subtema": "Alcance",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1999/T-512-99.htm",
+  "fecha_descarga": "2026-10-23T04:52:32.190347+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1999-07-15",
+  "fecha_publicacion": null,
+  "numero": "T-512/99",
+  "tipo_cc": "T",
+  "prov_id": "15985",
+  "tema_relatoria": "DEBIDO PROCESO. PRINCIPIO NON BIS IN IDEM. FALSEDAD EN DOCUMENTO PUBLICO Y PRIVADO. MEDIO DE DEFENSA JUDICIAL. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "PRINCIPIO NON BIS IN IDEM",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "USO DE DOCUMENTO PUBLICO FALSO",
+      "subtema": "Es delito autónomo u opera como agravante"
+    },
+    {
+      "tema": "ACCION DE REVISION EN PROCESO PENAL",
+      "subtema": "En principio no constituye mecanismo alternativo de defensa judicial idóneo y eficaz"
+    },
+    {
+      "tema": "ACCION DE REVISION EN PROCESO PENAL",
+      "subtema": "Ejercicio hace improcedente tutela para el caso"
+    },
+    {
+      "tema": "PRINCIPIO NON BIS IN IDEM",
+      "subtema": "Falsificación de documento y uso"
+    }
+  ]
+}

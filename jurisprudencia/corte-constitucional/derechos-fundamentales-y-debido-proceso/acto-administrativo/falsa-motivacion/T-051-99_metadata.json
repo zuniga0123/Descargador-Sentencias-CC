@@ -1,0 +1,57 @@
+{
+  "radicado": "T-051-99",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1999,
+  "fecha_creacion": "1999-02-02",
+  "magistrado_ponente": "Dr FABIO MORÓN DÍAZ",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACTO ADMINISTRATIVO",
+  "subtema": "Falsa motivación",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1999/T-051-99.htm",
+  "fecha_descarga": "2026-10-23T04:56:45.740673+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1999-02-02",
+  "fecha_publicacion": null,
+  "numero": "T-051/99",
+  "tipo_cc": "T",
+  "prov_id": "15480",
+  "tema_relatoria": "DEBIDO PROCESO. DER. DE DEFENSA. QUERELLA POLICIVA. NOTIFICACION A TERCEROS INTERESADOS. DEMOLICION DE EDIFICIO SANTA ANA 110. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACTO ADMINISTRATIVO",
+      "subtema": "Falsa motivación"
+    },
+    {
+      "tema": "DERECHO A LA VIDA",
+      "subtema": "Orden de demolición de fachada de edificio que pone en peligro a los habitantes"
+    },
+    {
+      "tema": "DEBIDO PROCESO POLICIVO",
+      "subtema": "Notificación de tercero interesado"
+    },
+    {
+      "tema": "ACCION DE TUTELA TRANSITORIA",
+      "subtema": "Suspensión orden de demolición fachada de edificio que pone en peligro la vida de habitantes"
+    },
+    {
+      "tema": "DEBIDO PROCESO JUDICIAL Y ADMINISTRATIVO",
+      "subtema": "Notificación de tercero interesado"
+    },
+    {
+      "tema": "MEDIO DE DEFENSA JUDICIAL",
+      "subtema": "Inconsistencias en proceso de querella"
+    },
+    {
+      "tema": "DEBIDO PROCESO POLICIVO",
+      "subtema": "Notificación a propietarios de apartamentos por orden de demolición fachada de edificio"
+    }
+  ]
+}

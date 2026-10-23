@@ -1,0 +1,39 @@
+{
+  "radicado": "T-1007-99",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1999,
+  "fecha_creacion": "1999-12-09",
+  "magistrado_ponente": "Dr JOSE GREGORIO HERNANDEZ GALINDO",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "EMPLEADOR",
+  "subtema": "Pago de aportes en seguridad social",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2400 de 1968",
+    "Decreto 2591 de 1991",
+    "Ley 71 de 1988"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1999/T-1007-99.htm",
+  "fecha_descarga": "2026-10-23T04:58:04.067697+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1999-12-09",
+  "fecha_publicacion": null,
+  "numero": "T-1007/99",
+  "tipo_cc": "T",
+  "prov_id": "16494",
+  "tema_relatoria": "EMPLEADO DE GOBERNACION DEL CASANARE. SE HA INCUMPLIDO CON OBLIGACION DE COTIZAR AL I.S.S. RETIRO DEL SERVICIO ESTA CONDICIONADO A INCLUSION DEL PENSIONADO EN NOMIMA. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "EMPLEADOR",
+      "subtema": "Pago de aportes en seguridad social"
+    },
+    {
+      "tema": "RETIRO DEL SERVICIO",
+      "subtema": "Condicionado a inclusión en nómina de pensionados"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "radicado": "T-554-99",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1999,
+  "fecha_creacion": "1999-08-02",
+  "magistrado_ponente": "Dr ANTONIO BARRERA CARBONELL",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+  "subtema": "Procedencia excepcional",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Decreto 2282 de 1989"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1999/T-554-99.htm",
+  "fecha_descarga": "2026-10-23T04:54:23.988523+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1999-08-02",
+  "fecha_publicacion": null,
+  "numero": "T-554/99",
+  "tipo_cc": "T",
+  "prov_id": "16033",
+  "tema_relatoria": "DEBIDO PROCESO. VIA DE HECHO. RECHAZO DE ESCRITO DE RECURSO DE REPOSICION POR EL CONSEJO SUPERIOR DE LA JUDICATURA. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Procedencia excepcional"
+    },
+    {
+      "tema": "PODER DISCIPLINARIO DEL JUEZ",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "VIA DE HECHO EN PROCESO DISCIPLINARIO",
+      "subtema": "Notificación de decisión que dispone devolución de escrito de reposición considerado irrespetuoso"
+    },
+    {
+      "tema": "DERECHO DE DEFENSA EN PODER DISCIPLINARIO DEL JUEZ",
+      "subtema": "Devolución de escritos irrespetuosos cuando afecta intereses de partes requiere publicidad o notificación"
+    },
+    {
+      "tema": "PODER DISCIPLINARIO DEL JUEZ",
+      "subtema": "Alcance respecto devolución de escritos irrespetuosos"
+    },
+    {
+      "tema": "PODER DISCIPLINARIO DEL JUEZ",
+      "subtema": "Límites"
+    }
+  ]
+}

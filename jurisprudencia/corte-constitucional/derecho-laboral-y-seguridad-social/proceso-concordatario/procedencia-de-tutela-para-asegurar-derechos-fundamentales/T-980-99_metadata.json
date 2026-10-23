@@ -1,0 +1,55 @@
+{
+  "radicado": "T-980-99",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1999,
+  "fecha_creacion": "1999-12-06",
+  "magistrado_ponente": "Dr JOSE GREGORIO HERNANDEZ GALINDO",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "PROCESO CONCORDATARIO",
+  "subtema": "Procedencia de tutela para asegurar derechos fundamentales",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 222 de 1995",
+    "Ley 50 de 1990"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1999/T-980-99.htm",
+  "fecha_descarga": "2026-10-23T04:48:10.010461+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1999-12-06",
+  "fecha_publicacion": null,
+  "numero": "T-980/99",
+  "tipo_cc": "T",
+  "prov_id": "16474",
+  "tema_relatoria": "DER A LA VIDA DER AL MINIMO VITAL SEGURIDAD SOCIAL TRABAJO DERS DE LOS NIÑOS.COMODERNA EN PROCESO CONCORDATARIO NO CANCELA APORTES PENSION SALUD CESANTIA SUBSIDIO FAMILIAR. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "PROCESO CONCORDATARIO",
+      "subtema": "Procedencia de tutela para asegurar derechos fundamentales"
+    },
+    {
+      "tema": "SUPERINTENDENCIA DE SOCIEDADES",
+      "subtema": "Deber de asegurar pago preferente de acreencias laborales por empresa en concordato"
+    },
+    {
+      "tema": "CONCORDATO PREVENTIVO OBLIGATORIO",
+      "subtema": "Pago preferente de salarios, aportes a seguridad social y subsidio familiar"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Pluralidad de demandados"
+    },
+    {
+      "tema": "PROCESO CONCORDATARIO",
+      "subtema": "Pago preferente de acreencias laborales"
+    },
+    {
+      "tema": "PROCESO CONCORDATARIO",
+      "subtema": "No exime obligación de pago de salarios y aportes a seguridad social"
+    }
+  ]
+}

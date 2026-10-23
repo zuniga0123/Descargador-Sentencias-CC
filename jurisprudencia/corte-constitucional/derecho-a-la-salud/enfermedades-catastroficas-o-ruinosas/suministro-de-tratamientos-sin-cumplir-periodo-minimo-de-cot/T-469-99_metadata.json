@@ -1,0 +1,68 @@
+{
+  "radicado": "T-469-99",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1999,
+  "fecha_creacion": "1999-07-06",
+  "magistrado_ponente": "Dr JOSE GREGORIO HERNANDEZ GALINDO",
+  "area": "Derecho a la Salud",
+  "tema": "ENFERMEDADES CATASTROFICAS O RUINOSAS",
+  "subtema": "Suministro de tratamientos sin cumplir periodo mínimo de cotización en persona de escasos recursos",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 100 de 1993",
+    "Ley 352 de 1997",
+    "Decreto 806 de 1998"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1999/T-469-99.htm",
+  "fecha_descarga": "2026-10-23T04:42:30.808375+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1999-07-06",
+  "fecha_publicacion": null,
+  "numero": "T-469/99",
+  "tipo_cc": "T",
+  "prov_id": "15939",
+  "tema_relatoria": "DER. A LA SALUD Y A LA VIDA. ENFERMEDADES CATASTROFICAS. APLICACION DE PERIODOS MINIMOS DE COTIZACION. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ENFERMEDADES CATASTROFICAS O RUINOSAS",
+      "subtema": "Suministro de tratamientos sin cumplir periodo mínimo de cotización en persona de escasos recursos"
+    },
+    {
+      "tema": "RÉGIMEN ESPECIAL DE SALUD DE LAS FUERZAS MILITARES Y POLICIA NACIONAL",
+      "subtema": "Periodos mínimos de cotización no pueden convertirse en barrera absoluta para acceso a salud"
+    },
+    {
+      "tema": "SISTEMA GENERAL DE SEGURIDAD SOCIAL EN SALUD",
+      "subtema": "Periodo mínimo de cotización no es extensible a casos de urgencia o gravedad"
+    },
+    {
+      "tema": "AGENCIA OFICIOSA",
+      "subtema": "Persona que padece grave enfermedad"
+    },
+    {
+      "tema": "DERECHO A LA VIDA",
+      "subtema": "Suministro de tratamiento sin cumplir periodo mínimo de cotización en persona de escasos recursos"
+    },
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Periodo mínimo de cotización no es extensivo a casos de urgencia o gravedad"
+    },
+    {
+      "tema": "PLAN OBLIGATORIO DE SALUD",
+      "subtema": "Cotización de un mínimo de semanas para acceso a todos los servicios del POS"
+    },
+    {
+      "tema": "SUBCUENTA DEL FONDO DE SOLIDARIDAD Y GARANTIA DEL SISTEMA GENERAL DE SEGURIDAD SOCIAL EN SALUD",
+      "subtema": "Repetición de EPS por sobrecostos"
+    },
+    {
+      "tema": "SISTEMA GENERAL DE SEGURIDAD SOCIAL EN SALUD",
+      "subtema": "Pérdida de la antigüedad por suspensión de cotización por seis meses o más"
+    }
+  ]
+}

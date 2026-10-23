@@ -1,0 +1,61 @@
+{
+  "radicado": "T-970-99",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1999,
+  "fecha_creacion": "1999-12-02",
+  "magistrado_ponente": "Dr ALFREDO BELTRÁN SIERRA",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "VIA DE HECHO",
+  "subtema": "Configuración",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Decreto 1943 de 1956",
+    "Decreto 2813 de 1976",
+    "Decreto 1816 de 1990",
+    "Decreto 2813 de 1978"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1999/T-970-99.htm",
+  "fecha_descarga": "2026-10-23T04:47:51.643775+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1999-12-02",
+  "fecha_publicacion": null,
+  "numero": "T-970/99",
+  "tipo_cc": "T",
+  "prov_id": "16465",
+  "tema_relatoria": "TUTELA CONTRA JUEZ POR VIA DE HECHO. DEBIDO PROCESO.DER DE DEFENSA. RESTITUCION DE INMUEBLE DADO EN ARRENDAMIENTO. PAGO DE CANON DE ARRENDAMIENTO. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "VIA DE HECHO",
+      "subtema": "Configuración"
+    },
+    {
+      "tema": "VIA DE HECHO EN RESTITUCION DE INMUEBLE ARRENDADO",
+      "subtema": "Omisión de análisis crítico de elementos probatorios"
+    },
+    {
+      "tema": "PRINCIPIO DE AUTONOMIA FUNCIONAL DEL JUEZ",
+      "subtema": "Límites en valoración de pruebas"
+    },
+    {
+      "tema": "DEBIDO PROCESO",
+      "subtema": "Completo y exhaustivo análisis de pruebas"
+    },
+    {
+      "tema": "DEBIDO PROCESO",
+      "subtema": "Omisión de análisis crítico de elementos probatorios"
+    },
+    {
+      "tema": "DEBIDO PROCESO",
+      "subtema": "Falta de análisis de realidad fáctica y de prueba"
+    },
+    {
+      "tema": "SENTENCIA",
+      "subtema": "Motivación"
+    }
+  ]
+}

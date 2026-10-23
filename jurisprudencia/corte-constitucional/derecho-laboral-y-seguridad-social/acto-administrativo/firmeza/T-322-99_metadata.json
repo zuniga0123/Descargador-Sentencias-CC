@@ -1,0 +1,80 @@
+{
+  "radicado": "T-322-99",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1999,
+  "fecha_creacion": "1999-05-10",
+  "magistrado_ponente": "Dr VLADIMIRO NARANJO MESA",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "ACTO ADMINISTRATIVO",
+  "subtema": "Firmeza",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 50 de 1990",
+    "Decreto 1 de 1984",
+    "Ley 141 de 1961"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1999/T-322-99.htm",
+  "fecha_descarga": "2026-10-23T04:55:10.222657+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1999-05-10",
+  "fecha_publicacion": null,
+  "numero": "T-322/99",
+  "tipo_cc": "T",
+  "prov_id": "15780",
+  "tema_relatoria": "DEBIDO PROCESO. VIA DE HECHO. DESPIDO DE TRABAJADOR AMPARADO CON FUERO SINDICAL. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACTO ADMINISTRATIVO",
+      "subtema": "Firmeza"
+    },
+    {
+      "tema": "COSA JUZGADA CONSTITUCIONAL",
+      "subtema": "Fundamentos que guarden relación directa con parte resolutiva como los que la Corporación indique"
+    },
+    {
+      "tema": "DOCTRINA CONSTITUCIONAL SOBRE VIA DE HECHO",
+      "subtema": "Fuerza vinculante y de obligatorio cumplimiento"
+    },
+    {
+      "tema": "FUERO SINDICAL",
+      "subtema": "Firmeza de la inscripción en el registro sindical"
+    },
+    {
+      "tema": "VIA DE HECHO",
+      "subtema": "Clases de defectos en la actuación"
+    },
+    {
+      "tema": "VIA DE HECHO EN PROCESO LABORAL",
+      "subtema": "Efectividad de la inscripción sindical"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Procedencia excepcional por vía de hecho"
+    },
+    {
+      "tema": "ACTO ADMINISTRATIVO",
+      "subtema": "Inscripción en el registro sindical"
+    },
+    {
+      "tema": "DEBIDO PROCESO LABORAL",
+      "subtema": "Efectividad de la inscripción sindical"
+    },
+    {
+      "tema": "FUERO SINDICAL",
+      "subtema": "Amparados hasta dos meses después de la inscripción en el registro"
+    },
+    {
+      "tema": "SENTENCIA DE CONSTITUCIONALIDAD CONDICIONADA",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "COSA JUZGADA CONSTITUCIONAL",
+      "subtema": "Efectos"
+    }
+  ]
+}

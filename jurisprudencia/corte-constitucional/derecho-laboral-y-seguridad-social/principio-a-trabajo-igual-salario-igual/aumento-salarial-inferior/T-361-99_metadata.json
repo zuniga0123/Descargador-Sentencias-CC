@@ -1,0 +1,42 @@
+{
+  "radicado": "T-361-99",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1999,
+  "fecha_creacion": "1999-05-20",
+  "magistrado_ponente": "Dr JOSE GREGORIO HERNANDEZ GALINDO",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "PRINCIPIO A TRABAJO IGUAL SALARIO IGUAL",
+  "subtema": "Aumento salarial inferior",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 50 de 1990",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1999/T-361-99.htm",
+  "fecha_descarga": "2026-10-23T04:39:49.063023+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1999-05-20",
+  "fecha_publicacion": null,
+  "numero": "T-361/99",
+  "tipo_cc": "T",
+  "prov_id": "15823",
+  "tema_relatoria": "DER. A LA LIBERTAD. DER. AL TRABAJO EN CONDICIONES DIGNAS Y JUSTAS. LIBERTAD PARA ACOGERSE AL REGIMEN DE CESANTIAS QUE DESEEN. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "PRINCIPIO A TRABAJO IGUAL SALARIO IGUAL",
+      "subtema": "Aumento salarial inferior"
+    },
+    {
+      "tema": "PRINCIPIO DE REMUNERACION PROPORCIONAL A LA CANTIDAD Y CALIDAD DE TRABAJO",
+      "subtema": "Discriminación en el campo de aumentos salariales"
+    },
+    {
+      "tema": "REGIMEN DE CESANTIAS",
+      "subtema": "Inadmisibilidad de presiones patronales por libertad de opción del trabajador"
+    }
+  ]
+}

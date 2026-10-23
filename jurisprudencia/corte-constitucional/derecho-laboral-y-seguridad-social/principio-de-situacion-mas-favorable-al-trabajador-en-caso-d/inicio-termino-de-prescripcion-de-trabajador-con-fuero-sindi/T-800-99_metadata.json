@@ -1,0 +1,54 @@
+{
+  "radicado": "T-800-99",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1999,
+  "fecha_creacion": "1999-10-19",
+  "magistrado_ponente": "Dr CARLOS GAVIRIA DÍAZ",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "PRINCIPIO DE SITUACION MAS FAVORABLE AL TRABAJADOR EN CASO DE DUDA EN LA APLICACION E INTERPRETACION DE FUENTES FORMALES DEL DERECHO",
+  "subtema": "Inicio término de prescripción de trabajador con fuero sindical despedido sin permiso del juez de trabajo",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 204 de 1957",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1999/T-800-99.htm",
+  "fecha_descarga": "2026-10-23T04:50:44.891624+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1999-10-19",
+  "fecha_publicacion": null,
+  "numero": "T-800/99",
+  "tipo_cc": "T",
+  "prov_id": "16275",
+  "tema_relatoria": "DERECHO AL DEBIDO PROCESO Y ACCESO A LA ADMINISTRACION. PAGO ACREENCIAS LABORALES. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "PRINCIPIO DE SITUACION MAS FAVORABLE AL TRABAJADOR EN CASO DE DUDA EN LA APLICACION E INTERPRETACION DE FUENTES FORMALES DEL DERECHO",
+      "subtema": "Inicio término de prescripción de trabajador con fuero sindical despedido sin permiso del juez de trabajo"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "ACCION DE REINTEGRO DE TRABAJADOR CON FUERO SINDICAL",
+      "subtema": "Prescripción"
+    },
+    {
+      "tema": "ACCION DE REINTEGRO DE TRABAJADOR CON FUERO SINDICAL CONTRA ENTIDAD DE DERECHO PUBLICO",
+      "subtema": "Regla especial"
+    },
+    {
+      "tema": "PRINCIPIO DE SITUACION MAS FAVORABLE AL TRABAJADOR EN CASO DE DUDA EN LA APLICACION E INTERPRETACION DE FUENTES FORMALES DEL DERECHO",
+      "subtema": "Autonomía judicial relativa"
+    },
+    {
+      "tema": "PRINCIPIO DE SITUACION MAS FAVORABLE AL TRABAJADOR EN CASO DE DUDA EN LA APLICACION E INTERPRETACION DE FUENTES FORMALES DEL DERECHO",
+      "subtema": "Desconocimiento por el juez implica vía de hecho"
+    }
+  ]
+}

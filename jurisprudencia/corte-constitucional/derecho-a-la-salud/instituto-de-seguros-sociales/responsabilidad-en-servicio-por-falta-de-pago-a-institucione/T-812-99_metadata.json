@@ -1,0 +1,54 @@
+{
+  "radicado": "T-812-99",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1999,
+  "fecha_creacion": "1999-10-19",
+  "magistrado_ponente": "Dr CARLOS GAVIRIA DÍAZ",
+  "area": "Derecho a la Salud",
+  "tema": "INSTITUTO DE SEGUROS SOCIALES",
+  "subtema": "Responsabilidad en servicio por falta de pago a instituciones que le colaboran",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 806 de 1998",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1999/T-812-99.htm",
+  "fecha_descarga": "2026-10-23T04:51:06.125826+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1999-10-19",
+  "fecha_publicacion": null,
+  "numero": "T-812/99",
+  "tipo_cc": "T",
+  "prov_id": "16287",
+  "tema_relatoria": "DERECHO A LA VIDA. DER A LA SALUD. PERIODO MINIMO DE COTIZACIONES.ATENCION MEDICA Y HOSPITALARIA. TRANSPLANTE DE CORNEA.INAPLICACION DE NORMA DEL ISS. DEC 806/98 ART 61. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "INSTITUTO DE SEGUROS SOCIALES",
+      "subtema": "Responsabilidad en servicio por falta de pago a instituciones que le colaboran"
+    },
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Transplante de cornea"
+    },
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Falta de recursos presupuestales no exime a EPS de cumplimiento de obligaciones"
+    },
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "No se pueden oponer periodos mínimos de cotización ante situaciones de urgencia"
+    },
+    {
+      "tema": "PRINCIPIO DE CONTINUIDAD EN EL SERVICIO DE SALUD",
+      "subtema": "Inconvenientes de atención a beneficiarios por trámites internos"
+    },
+    {
+      "tema": "SISTEMA GENERAL DE SEGURIDAD SOCIAL EN SALUD",
+      "subtema": "Inconvenientes presupuestales o trámites internos no deben afectar atención médica"
+    }
+  ]
+}

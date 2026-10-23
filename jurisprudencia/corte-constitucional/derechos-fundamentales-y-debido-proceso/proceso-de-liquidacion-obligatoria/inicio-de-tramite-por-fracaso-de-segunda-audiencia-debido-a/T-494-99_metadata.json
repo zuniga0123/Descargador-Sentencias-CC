@@ -1,0 +1,56 @@
+{
+  "radicado": "T-494-99",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1999,
+  "fecha_creacion": "1999-07-09",
+  "magistrado_ponente": "Dr VLADIMIRO NARANJO MESA",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "PROCESO DE LIQUIDACION OBLIGATORIA",
+  "subtema": "Inicio de trámite por fracaso de segunda audiencia debido a la falta de votos necesarios",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 222 de 1995",
+    "Ley 50 de 1990",
+    "Decreto 350 de 1989"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1999/T-494-99.htm",
+  "fecha_descarga": "2026-10-23T04:40:39.269298+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1999-07-09",
+  "fecha_publicacion": null,
+  "numero": "T-494/99",
+  "tipo_cc": "T",
+  "prov_id": "15965",
+  "tema_relatoria": "DEBIDO PROCESO. DER. AL TRABAJO PROCESO CONCORDATARIO ADELANTADO POR LA SUPERINTENDENCIA DE SOCIEDADES NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "PROCESO DE LIQUIDACION OBLIGATORIA",
+      "subtema": "Inicio de trámite por fracaso de segunda audiencia debido a la falta de votos necesarios"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Improcedencia respecto a simple expectativa de sufrir una agresión"
+    },
+    {
+      "tema": "DERECHO AL TRABAJO",
+      "subtema": "No implica vinculación laboral concreta"
+    },
+    {
+      "tema": "SUPERINTENDENCIA DE SOCIEDADES",
+      "subtema": "Fracasada segunda audiencia por falta de votos para acuerdo concordatario se inicia trámite de liquidación"
+    },
+    {
+      "tema": "VIA DE HECHO",
+      "subtema": "Clases de defectos en la actuación"
+    },
+    {
+      "tema": "SUPERINTENDENCIA DE SALUD",
+      "subtema": "Decisiones jurisdiccionales en trámites concordatarios"
+    }
+  ]
+}

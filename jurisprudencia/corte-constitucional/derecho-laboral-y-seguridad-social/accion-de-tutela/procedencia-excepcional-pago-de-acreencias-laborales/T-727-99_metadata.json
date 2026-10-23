@@ -1,0 +1,45 @@
+{
+  "radicado": "T-727-99",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1999,
+  "fecha_creacion": "1999-09-30",
+  "magistrado_ponente": "Dr ALVARO TAFUR GALVIS",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "ACCIÓN DE TUTELA",
+  "subtema": "Procedencia excepcional pago de acreencias laborales",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1999/T-727-99.htm",
+  "fecha_descarga": "2026-10-23T04:48:49.783111+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1999-09-30",
+  "fecha_publicacion": null,
+  "numero": "T-727/99",
+  "tipo_cc": "T",
+  "prov_id": "16218",
+  "tema_relatoria": "DER. AL MINIMO VITAL. DER. AL TRABAJO. MORA EN EL PAGO DE SALARIOS Y PRESTACIONES SOCIALES. MUNICIPIO DE BUENAVENTURA. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Procedencia excepcional pago de acreencias laborales"
+    },
+    {
+      "tema": "DERECHO AL TRABAJO EN CONDICIONES DIGNAS Y JUSTAS",
+      "subtema": "Pago oportuno de salarios"
+    },
+    {
+      "tema": "DERECHO AL MINIMO VITAL DEL TRABAJADOR",
+      "subtema": "Pago oportuno de salarios"
+    },
+    {
+      "tema": "TRABAJO",
+      "subtema": "Presupuesto esencial para la efectividad"
+    }
+  ]
+}

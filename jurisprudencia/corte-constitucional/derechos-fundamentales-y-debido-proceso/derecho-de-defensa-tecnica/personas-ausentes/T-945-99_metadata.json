@@ -1,0 +1,61 @@
+{
+  "radicado": "T-945-99",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1999,
+  "fecha_creacion": "1999-11-26",
+  "magistrado_ponente": "Dr VLADIMIRO NARANJO MESA",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "DERECHO DE DEFENSA TECNICA",
+  "subtema": "Personas ausentes",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1999/T-945-99.htm",
+  "fecha_descarga": "2026-10-23T04:47:48.030291+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1999-11-26",
+  "fecha_publicacion": null,
+  "numero": "T-945/99",
+  "tipo_cc": "T",
+  "prov_id": "16439",
+  "tema_relatoria": "DERECHO A LA DEFENSA. DEBIDO PROCESO. TUTELA CONTRA SENTENCIA NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO DE DEFENSA TECNICA",
+      "subtema": "Personas ausentes"
+    },
+    {
+      "tema": "DEBIDO PROCESO",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "PROCESAMIENTO EN AUSENCIA",
+      "subtema": "Naturaleza"
+    },
+    {
+      "tema": "ABOGADO",
+      "subtema": "No está obligado a presentar totalidad de recursos"
+    },
+    {
+      "tema": "DEBIDO PROCESO PENAL",
+      "subtema": "Trámite de ausencia sin agotar previamente notificación al sindicado"
+    },
+    {
+      "tema": "DERECHO DE DEFENSA TECNICA",
+      "subtema": "Inexistencia de vulneración por no presentación de recurso de casación"
+    },
+    {
+      "tema": "DECLARACION DE PERSONA AUSENTE",
+      "subtema": "Naturaleza"
+    },
+    {
+      "tema": "DERECHO DE DEFENSA TECNICA",
+      "subtema": "Alcance"
+    }
+  ]
+}

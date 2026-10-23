@@ -1,0 +1,58 @@
+{
+  "radicado": "T-500-99",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1999,
+  "fecha_creacion": "1999-07-12",
+  "magistrado_ponente": "Dr ALEJANDRO MARTÍNEZ CABALLERO",
+  "area": "Otros - Sin clasificar",
+  "tema": "AUTONOMÍA UNIVERSITARIA",
+  "subtema": "Medida destinada a organizar los pagos es razonable y útil",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 30 de 1992"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1999/T-500-99.htm",
+  "fecha_descarga": "2026-10-23T04:41:00.784110+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1999-07-12",
+  "fecha_publicacion": null,
+  "numero": "T-500/99",
+  "tipo_cc": "T",
+  "prov_id": "15971",
+  "tema_relatoria": "DER. A LA IGUALDAD. AUTONOMIA UNIVERSITARIA. NO AUTORIZACION DE MATRICULA EXTEMPORANEA. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "AUTONOMÍA UNIVERSITARIA",
+      "subtema": "Medida destinada a organizar los pagos es razonable y útil"
+    },
+    {
+      "tema": "ESTABLECIMIENTO EDUCATIVO",
+      "subtema": "Discrecionalidad para autorizar matrículas extemporáneas no es absoluta"
+    },
+    {
+      "tema": "AUTONOMÍA UNIVERSITARIA",
+      "subtema": "Límites"
+    },
+    {
+      "tema": "AUTONOMÍA UNIVERSITARIA",
+      "subtema": "Vertientes"
+    },
+    {
+      "tema": "AUTONOMÍA UNIVERSITARIA",
+      "subtema": "Posibilidad de regular aspectos administrativos y presupuestales"
+    },
+    {
+      "tema": "ESTABLECIMIENTO EDUCATIVO",
+      "subtema": "Posibilidad de regular aspectos administrativos y presupuestales"
+    },
+    {
+      "tema": "ESTABLECIMIENTO EDUCATIVO",
+      "subtema": "Posibilidad de fijar fechas límites para pagos y matrículas de alumnos"
+    }
+  ]
+}

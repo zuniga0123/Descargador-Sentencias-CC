@@ -1,0 +1,54 @@
+{
+  "radicado": "T-714-99",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1999,
+  "fecha_creacion": "1999-09-27",
+  "magistrado_ponente": "Dr ALEJANDRO MARTINEZ CABALLERO",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCIÓN DE TUTELA",
+  "subtema": "Improcedencia para obtener regalías en favor de municipios",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 141 de 1994",
+    "Ley 472 de 1998"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1999/T-714-99.htm",
+  "fecha_descarga": "2026-10-23T04:48:35.144651+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1999-09-27",
+  "fecha_publicacion": null,
+  "numero": "T-714/99",
+  "tipo_cc": "T",
+  "prov_id": "16206",
+  "tema_relatoria": "DEBIDO PROCESO. NULIDAD DE ACTUACIONES ADTIVAS. RECUPERACION DE REGALIAS POR MUNICIPIOS. MEDIO DE DEFENSA JUDICIAL. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Improcedencia para obtener regalías en favor de municipios"
+    },
+    {
+      "tema": "MEDIO DE DEFENSA JUDICIAL",
+      "subtema": "Legalidad de actos administrativos"
+    },
+    {
+      "tema": "ACCION POPULAR",
+      "subtema": "Defensa del patrimonio público"
+    },
+    {
+      "tema": "ACTO ADMINISTRATIVO",
+      "subtema": "Improcedencia de tutela para controvertir legalidad"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Improcedencia para revivir términos de caducidad"
+    },
+    {
+      "tema": "PERJUICIO IRREMEDIABLE",
+      "subtema": "Elementos para que se configure"
+    }
+  ]
+}

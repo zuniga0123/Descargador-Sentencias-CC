@@ -1,0 +1,55 @@
+{
+  "radicado": "T-878-99",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1999,
+  "fecha_creacion": "1999-11-08",
+  "magistrado_ponente": "Dr ANTONIO BARRERA CARBONELL",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "AUTORIDAD DE POLICIA",
+  "subtema": "Función jurisdiccional",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 992 de 1930",
+    "Ley 57 de 1905",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1999/T-878-99.htm",
+  "fecha_descarga": "2026-10-23T04:45:07.074072+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1999-11-08",
+  "fecha_publicacion": null,
+  "numero": "T-878/99",
+  "tipo_cc": "T",
+  "prov_id": "16364",
+  "tema_relatoria": "DERECHO AL DEBIDO PROCESO. DER A LA POSESION SOBRE INMUEBLE EN SOLEDAD(ATL) DILIGENCIA DE LANZAMIENTO. COSA JUZGADA Y RECURSO NO AUTORIZADO EN LA LEY. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "AUTORIDAD DE POLICIA",
+      "subtema": "Función jurisdiccional"
+    },
+    {
+      "tema": "VIA DE HECHO EN PROCESO POLICIVO",
+      "subtema": "Trámite de recurso de apelación no procedente"
+    },
+    {
+      "tema": "LANZAMIENTO POR OCUPACION DE HECHO",
+      "subtema": "Normatividad aplicable"
+    },
+    {
+      "tema": "LANZAMIENTO POR OCUPACION DE HECHO",
+      "subtema": "Objeto"
+    },
+    {
+      "tema": "VIA DE HECHO POR AUTORIDAD DE POLICIA",
+      "subtema": "Procedencia"
+    },
+    {
+      "tema": "VIA DE HECHO EN PROCESO POLICIVO",
+      "subtema": "Procedencia"
+    }
+  ]
+}

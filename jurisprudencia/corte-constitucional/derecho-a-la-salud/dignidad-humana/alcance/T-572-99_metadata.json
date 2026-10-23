@@ -1,0 +1,53 @@
+{
+  "radicado": "T-572-99",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1999,
+  "fecha_creacion": "1999-08-11",
+  "magistrado_ponente": "Dr FABIO MORÓN DÍAZ",
+  "area": "Derecho a la Salud",
+  "tema": "DIGNIDAD HUMANA",
+  "subtema": "Alcance",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1999/T-572-99.htm",
+  "fecha_descarga": "2026-10-23T04:35:34.671182+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1999-08-11",
+  "fecha_publicacion": null,
+  "numero": "T-572/99",
+  "tipo_cc": "T",
+  "prov_id": "16061",
+  "tema_relatoria": "DER. A LA DIGNIDAD. DER. A LA INTEGRIDAD FISICA MORAL Y PSICOLOGICA. IMPLANTACION DE PROTESIS MAMARIAS. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DIGNIDAD HUMANA",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "DERECHO A LA VIDA DIGNA",
+      "subtema": "Implantación de prótesis mamarias y tratamiento psicológico"
+    },
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Fundamental por conexidad"
+    },
+    {
+      "tema": "PLAN OBLIGATORIO DE SALUD",
+      "subtema": "Exclusión de cirugía estética"
+    },
+    {
+      "tema": "INAPLICACION DE NORMAS DEL PLAN DE SERVICIOS DE SANIDAD MILITAR",
+      "subtema": "Cirugía de implantación de prótesis mamarias"
+    },
+    {
+      "tema": "TRIBUNAL DE ETICA MEDICA Y FISCALIA GENERAL DE LA NACION",
+      "subtema": "Intervención quirúrgica decidida unilateralmente"
+    }
+  ]
+}

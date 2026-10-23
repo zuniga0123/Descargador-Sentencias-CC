@@ -1,0 +1,62 @@
+{
+  "radicado": "T-665-99",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1999,
+  "fecha_creacion": "1999-09-08",
+  "magistrado_ponente": "Dr CARLOS GAVIRIA DÍAZ",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "EMPLEADOR",
+  "subtema": "Sanciones administrativas y penales por mora en aportes en salud y pensión",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 50 de 1990",
+    "Ley 100 de 1993"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1999/T-665-99.htm",
+  "fecha_descarga": "2026-10-23T04:41:37.071367+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1999-09-08",
+  "fecha_publicacion": null,
+  "numero": "T-665/99",
+  "tipo_cc": "T",
+  "prov_id": "16149",
+  "tema_relatoria": "DER. A LA SEGURIDAD SOCIAL. DER. A LA SALUD. DER. AL TRABAJO. MORA DEL PATRONO EN APORTES A SALUD Y PENSION. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "EMPLEADOR",
+      "subtema": "Sanciones administrativas y penales por mora en aportes en salud y pensión"
+    },
+    {
+      "tema": "SUBORDINACION LABORAL",
+      "subtema": "Empresa en liquidación"
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA PARTICULARES",
+      "subtema": "Procedencia excepcional"
+    },
+    {
+      "tema": "EMPLEADOR",
+      "subtema": "Situación económica o presupuestal no es óbice para desconocer obligaciones laborales"
+    },
+    {
+      "tema": "EMPLEADOR",
+      "subtema": "Asunción, en principio, servicio de salud por mora en aportes"
+    },
+    {
+      "tema": "EMPLEADOR",
+      "subtema": "Pago oportuno de aportes para pensión"
+    },
+    {
+      "tema": "PROCESO DE LIQUIDACION OBLIGATORIA",
+      "subtema": "Pago de aportes en salud y pensión"
+    },
+    {
+      "tema": "PROCESO DE LIQUIDACION OBLIGATORIA",
+      "subtema": "Pago oportuno de salarios"
+    }
+  ]
+}

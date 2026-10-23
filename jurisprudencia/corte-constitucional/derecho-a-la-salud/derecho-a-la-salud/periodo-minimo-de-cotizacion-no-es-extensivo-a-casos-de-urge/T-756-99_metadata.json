@@ -1,0 +1,52 @@
+{
+  "radicado": "T-756-99",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1999,
+  "fecha_creacion": "1999-10-12",
+  "magistrado_ponente": "Dr JOSE GREGORIO HERNANDEZ GALINDO",
+  "area": "Derecho a la Salud",
+  "tema": "DERECHO A LA SALUD",
+  "subtema": "Periodo mínimo de cotización no es extensivo a casos de urgencia para enfermedades de alto costo",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 100 de 1993",
+    "Decreto 1938 de 1994",
+    "Decreto 806 de 1998"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1999/T-756-99.htm",
+  "fecha_descarga": "2026-10-23T04:36:28.856517+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1999-10-12",
+  "fecha_publicacion": null,
+  "numero": "T-756/99",
+  "tipo_cc": "T",
+  "prov_id": "16252",
+  "tema_relatoria": "DERECHO A LA SALUD COTIZACIONES ENFERMEDADES CATASTROFICAS PROTESIS TOTAL DE HOMBRO. VER C-89/98 Y C-112/98 .",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Periodo mínimo de cotización no es extensivo a casos de urgencia para enfermedades de alto costo"
+    },
+    {
+      "tema": "SISTEMA GENERAL DE SEGURIDAD SOCIAL EN SALUD",
+      "subtema": "Periodo mínimo de cotización no es extensible a casos de urgencia o gravedad"
+    },
+    {
+      "tema": "PRINCIPIO DE LA BUENA FE POR ENTIDAD PROMOTORA DE SALUD",
+      "subtema": "Culminación de tratamiento médico"
+    },
+    {
+      "tema": "ENTIDAD PROMOTORA DE SALUD",
+      "subtema": "Periodo mínimo de cotización no es extensible a casos de urgencia para enfermedades de alto costo"
+    },
+    {
+      "tema": "ENTIDAD PROMOTORA DE SALUD",
+      "subtema": "En casos de urgencia y ante imposibilidad económica del usuario que no cumple periodo mínimo de cotización podrá acudir al Fosyga"
+    }
+  ]
+}

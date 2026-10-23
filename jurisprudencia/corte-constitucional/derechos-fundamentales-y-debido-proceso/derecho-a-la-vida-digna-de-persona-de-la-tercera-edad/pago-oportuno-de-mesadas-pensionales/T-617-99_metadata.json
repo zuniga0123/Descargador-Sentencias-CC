@@ -1,0 +1,53 @@
+{
+  "radicado": "T-617-99",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1999,
+  "fecha_creacion": "1999-08-23",
+  "magistrado_ponente": "Dr ALVARO TAFUR GALVIS",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "DERECHO A LA VIDA DIGNA DE PERSONA DE LA TERCERA EDAD",
+  "subtema": "Pago oportuno de mesadas pensionales",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1999/T-617-99.htm",
+  "fecha_descarga": "2026-10-23T04:40:06.797700+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1999-08-23",
+  "fecha_publicacion": null,
+  "numero": "T-617/99",
+  "tipo_cc": "T",
+  "prov_id": "16100",
+  "tema_relatoria": "DER. A LA SEGURIDAD SOCIAL. DER. A LA SALUD. MORA DE ALCALDE EN PAGO DE MESADAS PENSIONALES. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA VIDA DIGNA DE PERSONA DE LA TERCERA EDAD",
+      "subtema": "Pago oportuno de mesadas pensionales"
+    },
+    {
+      "tema": "MEDIO DE DEFENSA JUDICIAL",
+      "subtema": "Pago de mesadas pensionales atrasadas"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Procedencia excepcional pago de acreencias laborales"
+    },
+    {
+      "tema": "MUNICIPIO",
+      "subtema": "Pago de mesadas pensionales atendiendo disponibilidad presupuestal o inicio de diligencias para la consecución"
+    },
+    {
+      "tema": "MUNICIPIO",
+      "subtema": "Asunción de responsabilidad por no pago oportuno de aportes en salud para pensionado"
+    },
+    {
+      "tema": "RENTAS DE LIBRE DISPOSICION DEL ENTE TERRITORIAL",
+      "subtema": "Cancelación de prestaciones sociales"
+    }
+  ]
+}

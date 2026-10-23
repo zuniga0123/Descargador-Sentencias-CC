@@ -1,0 +1,41 @@
+{
+  "radicado": "T-482-99",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1999,
+  "fecha_creacion": "1999-07-08",
+  "magistrado_ponente": "Dr ALFREDO BELTRÁN SIERRA",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "ACCIÓN DE TUTELA",
+  "subtema": "Improcedencia para desconocer turno de entrega de pago de cesantías",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 344 de 1996"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1999/T-482-99.htm",
+  "fecha_descarga": "2026-10-23T04:37:58.209866+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1999-07-08",
+  "fecha_publicacion": null,
+  "numero": "T-482/99",
+  "tipo_cc": "T",
+  "prov_id": "15954",
+  "tema_relatoria": "SOLICITUD DE CESANTIAS PARCIALES DE SERVIDORES DE LA RAMA JUDICIAL. INDEXACION. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Improcedencia para desconocer turno de entrega de pago de cesantías"
+    },
+    {
+      "tema": "CESANTIAS PARCIALES",
+      "subtema": "Apropiación para el pago no debe implicar alteración turno de entrega"
+    },
+    {
+      "tema": "CESANTIAS PARCIALES",
+      "subtema": "Necesidad de situar fondos necesarios y pagar indexación por encontrarse incluido en apropiación presupuestal"
+    }
+  ]
+}

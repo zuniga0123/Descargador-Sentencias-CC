@@ -1,0 +1,41 @@
+{
+  "radicado": "T-627-99",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1999,
+  "fecha_creacion": "1999-08-27",
+  "magistrado_ponente": "Dr CARLOS GAVIRIA DÍAZ",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCIÓN DE TUTELA",
+  "subtema": "Subsidiariedad",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1999/T-627-99.htm",
+  "fecha_descarga": "2026-10-23T04:51:45.738801+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1999-08-27",
+  "fecha_publicacion": null,
+  "numero": "T-627/99",
+  "tipo_cc": "T",
+  "prov_id": "16112",
+  "tema_relatoria": "PRINCIPIO NO REFORMATIO IN PEJUS. INEXISTENCIA DE PERJUICIO IRREMEDIABLE. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Subsidiariedad"
+    },
+    {
+      "tema": "RECURSO DE CASACION",
+      "subtema": "Improcedencia de tutela por iguales motivos y encontrarse pendiente de solución"
+    },
+    {
+      "tema": "JUEZ DE TUTELA Y JUEZ ORDINARIO",
+      "subtema": "Distinción en asignación de competencias"
+    }
+  ]
+}

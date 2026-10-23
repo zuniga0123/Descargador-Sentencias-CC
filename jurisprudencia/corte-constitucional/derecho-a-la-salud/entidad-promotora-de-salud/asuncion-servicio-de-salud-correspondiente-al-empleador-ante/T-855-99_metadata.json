@@ -1,0 +1,45 @@
+{
+  "radicado": "T-855-99",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1999,
+  "fecha_creacion": "1999-10-28",
+  "magistrado_ponente": "Dr CARLOS GAVIRIA DÍAZ",
+  "area": "Derecho a la Salud",
+  "tema": "ENTIDAD PROMOTORA DE SALUD",
+  "subtema": "Asunción servicio de salud correspondiente al empleador ante daño irremediable",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1999/T-855-99.htm",
+  "fecha_descarga": "2026-10-23T04:38:44.619288+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1999-10-28",
+  "fecha_publicacion": null,
+  "numero": "T-855/99",
+  "tipo_cc": "T",
+  "prov_id": "16338",
+  "tema_relatoria": "DERECHO A LA VIDA. DER A LA SALUD DE LOS BENEFICIARIOS Y COTIZANTES. MORA DE APORTES GOBERNACION DE BOLIVAR. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ENTIDAD PROMOTORA DE SALUD",
+      "subtema": "Asunción servicio de salud correspondiente al empleador ante daño irremediable"
+    },
+    {
+      "tema": "ENTIDAD PROMOTORA DE SALUD",
+      "subtema": "Responsabilidad subsidiaria por mora en aportes del empleador"
+    },
+    {
+      "tema": "EMPLEADOR",
+      "subtema": "Obligación de depositar aportes descontados para salud"
+    },
+    {
+      "tema": "EMPLEADOR",
+      "subtema": "Asunción, en principio, servicio de salud por mora en aportes"
+    }
+  ]
+}
