@@ -1,0 +1,51 @@
+{
+  "radicado": "C-490-95",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1995,
+  "fecha_creacion": "1995-11-02",
+  "magistrado_ponente": "Dr VLADIMIRO NARANJO MESA",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "CONTROL DE CONSTITUCIONALIDAD",
+  "subtema": "Objeto",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 1334 de 1970",
+    "Decreto 1809 de 1990",
+    "Decreto Ley 1344 de 1970",
+    "Decreto Ley 1809 de 1990",
+    "Decreto 1344 de 1970",
+    "Ley 1344 de 1970",
+    "Ley 1809 de 1990"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1995/C-490-95.htm",
+  "fecha_descarga": "2026-10-23T08:14:33.936159+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1995-11-02",
+  "fecha_publicacion": null,
+  "numero": "C-490/95",
+  "tipo_cc": "C",
+  "prov_id": "12861",
+  "tema_relatoria": "DEC. 1334/70. ART. 173. DEC. 1809/90. ART. 1. CODIGO DE TRANSITO TERRESTRE. NORMAS PARA VEHICULOS DE SERVICIO PUBLICO. EXEQUIBLES.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "CONTROL DE CONSTITUCIONALIDAD",
+      "subtema": "Objeto"
+    },
+    {
+      "tema": "SERVICIO PUBLICO DE TRANSPORTE",
+      "subtema": "Vigilancia"
+    },
+    {
+      "tema": "SERVICIO PUBLICO DE TRANSPORTE",
+      "subtema": "Prestación eficiente"
+    },
+    {
+      "tema": "SERVICIO PUBLICO DE TRANSPORTE",
+      "subtema": "Sistema de control de pasajes"
+    }
+  ]
+}

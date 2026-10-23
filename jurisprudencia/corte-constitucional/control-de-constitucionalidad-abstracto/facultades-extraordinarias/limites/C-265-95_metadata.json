@@ -1,0 +1,52 @@
+{
+  "radicado": "C-265-95",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1995,
+  "fecha_creacion": "1995-06-22",
+  "magistrado_ponente": "Antonio Barrera Carbonell",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "FACULTADES EXTRAORDINARIAS",
+  "subtema": "Límites",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 1279 de 1994",
+    "Decreto 2141 de 1992",
+    "Ley 101 de 1993",
+    "Decreto 585 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1995/C-265-95.htm",
+  "fecha_descarga": "2026-10-23T08:17:09.687762+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1995-06-22",
+  "fecha_publicacion": null,
+  "numero": "C-265/95",
+  "tipo_cc": "C",
+  "prov_id": "12614",
+  "tema_relatoria": "DEC.1279/94. ART. 38. TRASLADO DE LA SECRETARIA DEL CONSEJO DE CIENCIA Y TECNOLOGIA AGROPECUARIA DEL ICA AL MINISTERIO. EXEQUIBLE.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "FACULTADES EXTRAORDINARIAS",
+      "subtema": "Límites"
+    },
+    {
+      "tema": "GOBIERNO",
+      "subtema": null
+    },
+    {
+      "tema": "CONSEJO DE CIENCIA Y TECNOLOGIA AGROPECUARIA",
+      "subtema": null
+    },
+    {
+      "tema": "MINISTERIO DE AGRICULTURA",
+      "subtema": "Reestructuración"
+    },
+    {
+      "tema": "MINISTERIO DE AGRICULTURA",
+      "subtema": "Funciones integradoras"
+    }
+  ]
+}

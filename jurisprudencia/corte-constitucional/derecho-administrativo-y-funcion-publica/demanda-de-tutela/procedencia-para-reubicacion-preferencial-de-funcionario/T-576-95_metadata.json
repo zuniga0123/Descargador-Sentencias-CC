@@ -1,0 +1,40 @@
+{
+  "radicado": "T-576-95",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1995,
+  "fecha_creacion": "1995-11-30",
+  "magistrado_ponente": "Dr FABIO MORON DIAZ",
+  "area": "Derecho Administrativo y Función Pública",
+  "tema": "DEMANDA DE TUTELA",
+  "subtema": "Procedencia para reubicación preferencial de funcionario",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 27 de 1992",
+    "Decreto 1223 de 1993",
+    "Decreto 2591 de 1991",
+    "Decreto 77 de 1987"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1995/T-576-95.htm",
+  "fecha_descarga": "2026-10-23T08:01:20.328634+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1995-11-30",
+  "fecha_publicacion": null,
+  "numero": "T-576/95",
+  "tipo_cc": "T",
+  "prov_id": "12952",
+  "tema_relatoria": "DER. DE PETICION. DER. AL TRABAJO. EMPLEADO PUBLICO DE CARRERA ADTIVA. REUBICACION. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DEMANDA DE TUTELA",
+      "subtema": "Procedencia para reubicación preferencial de funcionario"
+    },
+    {
+      "tema": "CARRERA ADMINISTRATIVA",
+      "subtema": "Reubicación preferencial en cargo"
+    }
+  ]
+}

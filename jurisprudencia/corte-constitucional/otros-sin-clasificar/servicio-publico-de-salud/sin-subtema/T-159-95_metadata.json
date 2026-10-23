@@ -1,0 +1,49 @@
+{
+  "radicado": "T-159-95",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1995,
+  "fecha_creacion": "1995-04-05",
+  "magistrado_ponente": "Dr HERNANDO HERRERA VERGARA",
+  "area": "Otros - Sin clasificar",
+  "tema": "SERVICIO PUBLICO DE SALUD",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 1839 de 1994",
+    "Decreto 2591 de 1991",
+    "Decreto 2737 de 1989",
+    "Ley 100 de 1993",
+    "Decreto Ley 1650 de 1977"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1995/T-159-95.htm",
+  "fecha_descarga": "2026-10-23T08:05:39.254411+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1995-04-05",
+  "fecha_publicacion": null,
+  "numero": "T-159/95",
+  "tipo_cc": "T",
+  "prov_id": "12492",
+  "tema_relatoria": "DERS. DE LOS NIÑOS. DER. A LA SALUD. TERAPIAS PARA DISCAPACITADOS. NIÑOS CON PROBLEMAS AUDITIVOS. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "SERVICIO PUBLICO DE SALUD",
+      "subtema": null
+    },
+    {
+      "tema": "DERECHOS DE LA NIÑEZ",
+      "subtema": null
+    },
+    {
+      "tema": "INSTITUTO DE SEGUROS SOCIALES",
+      "subtema": null
+    },
+    {
+      "tema": "MENOR ENFERMO",
+      "subtema": "Rehabilitación"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "radicado": "T-218-95",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1995,
+  "fecha_creacion": "1995-05-17",
+  "magistrado_ponente": "Dr EDUARDO CIFUENTES MUÑOZ Temas",
+  "area": "Otros - Sin clasificar",
+  "tema": "BACHILLER",
+  "subtema": "Cumplimiento de requisitos académicos",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2225 de 1993",
+    "Ley 115 de 1994",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1995/T-218-95.htm",
+  "fecha_descarga": "2026-10-23T08:04:00.652545+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1995-05-17",
+  "fecha_publicacion": null,
+  "numero": "T-218/95",
+  "tipo_cc": "T",
+  "prov_id": "12559",
+  "tema_relatoria": "DER. A LA EDUCACION. CUMPLIMIENTO DE REQUISITOS ACADEMICOS CULPOSAMENTE OMITIDOS PARA EL OTORGAMIENTO DE UN TITULO. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "BACHILLER",
+      "subtema": "Cumplimiento de requisitos académicos"
+    },
+    {
+      "tema": "ESTABLECIMIENTO EDUCATIVO",
+      "subtema": "Irregularidades"
+    },
+    {
+      "tema": "DERECHO A LA EDUCACIÓN",
+      "subtema": "Requisito de validación"
+    }
+  ]
+}

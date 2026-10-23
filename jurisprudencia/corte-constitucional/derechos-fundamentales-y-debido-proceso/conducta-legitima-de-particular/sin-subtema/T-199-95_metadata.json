@@ -1,0 +1,57 @@
+{
+  "radicado": "T-199-95",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1995,
+  "fecha_creacion": "1995-05-09",
+  "magistrado_ponente": "Dr JOSE GREGORIO HERNANDEZ GALINDO",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "CONDUCTA LEGITIMA DE PARTICULAR",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1995/T-199-95.htm",
+  "fecha_descarga": "2026-10-23T08:03:27.895989+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1995-05-09",
+  "fecha_publicacion": null,
+  "numero": "T-199/95",
+  "tipo_cc": "T",
+  "prov_id": "12540",
+  "tema_relatoria": "HABEAS DATA. DER. AL BUEN NOMBRE. DEBIDO PROCESO. BANCO DE DATOS. INFORMACION INCOMPLETA. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "CONDUCTA LEGITIMA DE PARTICULAR",
+      "subtema": null
+    },
+    {
+      "tema": "RECTIFICACION DE INFORMACION",
+      "subtema": null
+    },
+    {
+      "tema": "DERECHO A LA INFORMACIÓN",
+      "subtema": "Veracidad"
+    },
+    {
+      "tema": "HABEAS DATA",
+      "subtema": null
+    },
+    {
+      "tema": "ABUSO DEL DERECHO",
+      "subtema": null
+    },
+    {
+      "tema": "DERECHO DE ACCESO A LA ADMINISTRACIÓN DE JUSTICIA",
+      "subtema": "Vulneración"
+    },
+    {
+      "tema": "DERECHO AL BUEN NOMBRE",
+      "subtema": "Vulneración"
+    }
+  ]
+}

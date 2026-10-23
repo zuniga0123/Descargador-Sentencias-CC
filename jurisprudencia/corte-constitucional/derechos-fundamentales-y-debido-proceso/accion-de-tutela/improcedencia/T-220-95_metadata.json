@@ -1,0 +1,48 @@
+{
+  "radicado": "T-220-95",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1995,
+  "fecha_creacion": "1995-05-17",
+  "magistrado_ponente": "Dr VLADIMIRO NARANJO MESA Temas",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCIÓN DE TUTELA",
+  "subtema": "Improcedencia",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Decreto 2 de 1982",
+    "Decreto 2206 de 1983",
+    "Ley 99 de 1993"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1995/T-220-95.htm",
+  "fecha_descarga": "2026-10-23T08:04:07.953533+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1995-05-17",
+  "fecha_publicacion": null,
+  "numero": "T-220/95",
+  "tipo_cc": "T",
+  "prov_id": "12561",
+  "tema_relatoria": "DER. AL AMBIENTE SANO. DER. A LA SALUD. ACCIONES POPULARES. FALTA DE RELACION DE CAUSALIDAD. CONTAMINACION. PUENTE ARANDA. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Improcedencia"
+    },
+    {
+      "tema": "DERECHOS FUNDAMENTALES",
+      "subtema": "Conexidad"
+    },
+    {
+      "tema": "DERECHO AL AMBIENTE SANO",
+      "subtema": null
+    },
+    {
+      "tema": "ACCION POPULAR",
+      "subtema": null
+    }
+  ]
+}

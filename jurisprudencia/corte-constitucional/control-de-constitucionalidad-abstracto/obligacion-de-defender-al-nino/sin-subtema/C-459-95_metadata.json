@@ -1,0 +1,63 @@
+{
+  "radicado": "C-459-95",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1995,
+  "fecha_creacion": "1995-10-12",
+  "magistrado_ponente": "Dr EDUARDO CIFUENTES MUÑOZ",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "OBLIGACION DE DEFENDER AL NIÑO",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2700 de 1991",
+    "Ley 81 de 1993",
+    "Decreto 2820 de 1974"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1995/C-459-95.htm",
+  "fecha_descarga": "2026-10-23T08:11:31.314081+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1995-10-12",
+  "fecha_publicacion": null,
+  "numero": "C-459/95",
+  "tipo_cc": "C",
+  "prov_id": "12827",
+  "tema_relatoria": "DEC. 2700/91. ART. 33 MODIFICADO POR EL ART. 2 DE LA LEY 81/93. DELITOS QUE REQUIEREN QUERELLA DE PARTE. EXEQUIBLE.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "OBLIGACION DE DEFENDER AL NIÑO",
+      "subtema": null
+    },
+    {
+      "tema": "QUERELLA EN DELITOS CONTRA MENORES",
+      "subtema": "Improcedencia"
+    },
+    {
+      "tema": "DERECHOS DEL MENOR",
+      "subtema": "Protección penal"
+    },
+    {
+      "tema": "PREVALENCIA DELOS DERECHOS DEL NIÑO",
+      "subtema": null
+    },
+    {
+      "tema": "PRINCIPIO DE OFICIOSIDAD",
+      "subtema": null
+    },
+    {
+      "tema": "DELITOS CONTRA MENORES",
+      "subtema": "Condición de procesabilidad"
+    },
+    {
+      "tema": "DERECHO AL AMPARO PENAL DEL NIÑO",
+      "subtema": "Fundamental"
+    },
+    {
+      "tema": "PRINCIPIO DE PROPORCIONALIDAD",
+      "subtema": "Vulneración en norma legal"
+    }
+  ]
+}

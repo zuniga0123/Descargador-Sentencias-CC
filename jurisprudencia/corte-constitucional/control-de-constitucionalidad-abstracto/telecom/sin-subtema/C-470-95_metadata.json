@@ -1,0 +1,52 @@
+{
+  "radicado": "C-470-95",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1995,
+  "fecha_creacion": "1995-10-19",
+  "magistrado_ponente": "Antonio Barrera Carbonell",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "TELECOM",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto Ley 325 de 1981",
+    "Decreto 53 de 1989",
+    "Ley 42 de 1980",
+    "Decreto Ley 307 de 1983",
+    "Ley 57 de 1982",
+    "Decreto Ley 53 de 1989",
+    "Decreto 307 de 1983",
+    "Decreto 325 de 1981"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1995/C-470-95.htm",
+  "fecha_descarga": "2026-10-23T08:14:00.836004+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1995-10-19",
+  "fecha_publicacion": null,
+  "numero": "C-470/95",
+  "tipo_cc": "C",
+  "prov_id": "12839",
+  "tema_relatoria": "DEC. 53/89. ART. 5. REGIMEN SALARIAL EN TELECOM. EXEQUIBLE.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "TELECOM",
+      "subtema": null
+    },
+    {
+      "tema": "PRESTACIONES SOCIALES",
+      "subtema": "Determinación legal de factores salariales"
+    },
+    {
+      "tema": "DERECHOS ADQUIRIDOS",
+      "subtema": "Inexistencia"
+    },
+    {
+      "tema": "SOBRERREMUNERACION",
+      "subtema": "No es factor salarial"
+    }
+  ]
+}

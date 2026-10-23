@@ -1,0 +1,62 @@
+{
+  "radicado": "C-564-95",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1995,
+  "fecha_creacion": "1995-11-30",
+  "magistrado_ponente": "Dr JOSE GREGORIO HERNANDEZ GALINDO",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "COMISION NACIONAL DE TELEVISION",
+  "subtema": "No se puede asignar función legislativa",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 182 de 1995",
+    "Decreto 2067 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1995/C-564-95.htm",
+  "fecha_descarga": "2026-10-23T08:19:22.274253+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1995-11-30",
+  "fecha_publicacion": null,
+  "numero": "C-564/95",
+  "tipo_cc": "C",
+  "prov_id": "12940",
+  "tema_relatoria": "LEY 182/95. ART. 33 PARCIAL. COMISION NACIONAL DE TELEVISION. INEXEQUIBLE.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "COMISION NACIONAL DE TELEVISION",
+      "subtema": "No se puede asignar función legislativa"
+    },
+    {
+      "tema": "FUNCION LEGISLATIVA",
+      "subtema": "No puede el Congreso desprenderse de ella"
+    },
+    {
+      "tema": "ESPECTRO ELECTROMAGNETICO",
+      "subtema": null
+    },
+    {
+      "tema": "COMISION NACIONAL DE TELEVISION",
+      "subtema": "No puede modificar porcentajes de programación nacional"
+    },
+    {
+      "tema": "FUNCION LEGISLATIVA",
+      "subtema": null
+    },
+    {
+      "tema": "COMISION NACIONAL DE TELEVISION",
+      "subtema": null
+    },
+    {
+      "tema": "PRINCIPIO DE SEPARACION DE FUNCIONES ENTRE ORGANOS DEL ESTADO",
+      "subtema": "Vulneración"
+    },
+    {
+      "tema": "LEY",
+      "subtema": "Competencia para modificarla"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "radicado": "T-124-95",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1995,
+  "fecha_creacion": "1995-03-21",
+  "magistrado_ponente": null,
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "DEBIDO PROCESO ADMINISTRATIVO",
+  "subtema": "Práctica de cirugía",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Ley 91 de 1989",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1995/T-124-95.htm",
+  "fecha_descarga": "2026-10-23T08:04:40.961205+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1995-03-21",
+  "fecha_publicacion": null,
+  "numero": "T-124/95",
+  "tipo_cc": "T",
+  "prov_id": "12452",
+  "tema_relatoria": "DEBIDO PROCESO. DER. DE PETICION. FONDO PRESTACIONAL DEL MAGISTERIO. CIRUGIA DE CADERA. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DEBIDO PROCESO ADMINISTRATIVO",
+      "subtema": "Práctica de cirugía"
+    },
+    {
+      "tema": "SUSPENSION DE AFILIACION",
+      "subtema": null
+    },
+    {
+      "tema": "ASISTENCIA MEDICA",
+      "subtema": "Cobertura familiar"
+    },
+    {
+      "tema": "DEBIDO PROCESO ADMINISTRATIVO",
+      "subtema": "Vulneración"
+    }
+  ]
+}

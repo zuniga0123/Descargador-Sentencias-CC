@@ -1,0 +1,89 @@
+{
+  "radicado": "C-431-95",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1995,
+  "fecha_creacion": "1995-09-28",
+  "magistrado_ponente": "Hernando Herrera Vergara",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "ARBITRO",
+  "subtema": "Función jurisdiccional",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2279 de 1989",
+    "Ley 23 de 1991",
+    "Decreto 2651 de 1991",
+    "Ley 30 de 1987",
+    "Decreto 2067 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1995/C-431-95.htm",
+  "fecha_descarga": "2026-10-23T08:21:16.595705+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1995-09-28",
+  "fecha_publicacion": null,
+  "numero": "C-431/95",
+  "tipo_cc": "C",
+  "prov_id": "12797",
+  "tema_relatoria": "DEC. 2279/89. ART. 32. LEY 23/91. ART. 110. DEC. 2651/91. ART. 2 INC. 2.. MEDIDAS CAUTELARES EN EL PROCESO ARBITRAL. EXEQUIBLE. ESTARSE A LO RESUELTO EN LA C-294/95 .",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ARBITRO",
+      "subtema": "Función jurisdiccional"
+    },
+    {
+      "tema": "ADMINISTRACION DE JUSTICIA POR PARTICULARES",
+      "subtema": null
+    },
+    {
+      "tema": "MEDIDAS CAUTELARES",
+      "subtema": "Facultades de los árbitros"
+    },
+    {
+      "tema": "FUNCION CONSTITUCIONAL",
+      "subtema": "Expresamente determinada"
+    },
+    {
+      "tema": "JUEZ",
+      "subtema": "Poderes"
+    },
+    {
+      "tema": "MEDIDAS CAUTELARES",
+      "subtema": null
+    },
+    {
+      "tema": "ADMINISTRACION DE JUSTICIA",
+      "subtema": "Facultad del Estado"
+    },
+    {
+      "tema": "AUTOTUTELA",
+      "subtema": null
+    },
+    {
+      "tema": "ARBITRAMENTO",
+      "subtema": "Materia arbitral"
+    },
+    {
+      "tema": "ARBITRAMENTO",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "ARBITRO",
+      "subtema": "Facultades"
+    },
+    {
+      "tema": "PROCESO ARBITRAL",
+      "subtema": null
+    },
+    {
+      "tema": "MEDIDAS CAUTELARES",
+      "subtema": "Naturaleza"
+    },
+    {
+      "tema": "PROCESO EJECUTIVO",
+      "subtema": "No susceptible de arbitramento"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "radicado": "T-193-95",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1995,
+  "fecha_creacion": "1995-05-04",
+  "magistrado_ponente": "Carlos Gaviria Díaz",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+  "subtema": "Improcedencia",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 144 de 1994",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1995/T-193-95.htm",
+  "fecha_descarga": "2026-10-23T08:06:22.561217+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1995-05-04",
+  "fecha_publicacion": null,
+  "numero": "T-193/95",
+  "tipo_cc": "T",
+  "prov_id": "12534",
+  "tema_relatoria": "TUTELA CONTRA SENTENCIAS. TRAMITE Y EFECTOS DE LA PERDIDA DE INVESTIDURA. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Improcedencia"
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA CONSEJO DE ESTADO POR PERDIDA DE INVESTIDURA DE CONGRESISTA",
+      "subtema": null
+    },
+    {
+      "tema": "PERDIDA DE INVESTIDURA",
+      "subtema": "Efectos"
+    },
+    {
+      "tema": "PERDIDA DE INVESTIDURA",
+      "subtema": "Trámite"
+    },
+    {
+      "tema": "VIA DE HECHO",
+      "subtema": "Inexistencia"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "radicado": "T-310-95",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1995,
+  "fecha_creacion": "1995-07-17",
+  "magistrado_ponente": "Dr VLADIMIRO NARANJO MESA",
+  "area": "Derecho a la Salud",
+  "tema": "FALLO DE TUTELA EXTRA PETITA",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 1117 de 1988",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1995/T-310-95.htm",
+  "fecha_descarga": "2026-10-23T08:03:02.407304+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1995-07-17",
+  "fecha_publicacion": null,
+  "numero": "T-310/95",
+  "tipo_cc": "T",
+  "prov_id": "12664",
+  "tema_relatoria": "DER. DE PETICION. DER. DE PROPIEDAD. DESALOJO DE PERSONAS. MEJORAS. CONCEDIDA PARCIALMENTE.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "FALLO DE TUTELA EXTRA PETITA",
+      "subtema": null
+    },
+    {
+      "tema": "ESTADO SOCIAL DE DERECHO",
+      "subtema": "Vigencia de derechos constitucionales"
+    },
+    {
+      "tema": "DERECHO A LA PROPIEDAD",
+      "subtema": "Fundamental"
+    },
+    {
+      "tema": "DESALOJO",
+      "subtema": null
+    },
+    {
+      "tema": "JUEZ DE TUTELA",
+      "subtema": "Derechos invocados"
+    },
+    {
+      "tema": "PARTIDA PRESUPUESTAL",
+      "subtema": "No se puede incluir por orden judicial"
+    },
+    {
+      "tema": "DERECHO DE PETICIÓN",
+      "subtema": "Contenido"
+    },
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Fundamental"
+    },
+    {
+      "tema": "JUEZ DE TUTELA",
+      "subtema": "Facultad de fallar extra y ultra petita"
+    }
+  ]
+}

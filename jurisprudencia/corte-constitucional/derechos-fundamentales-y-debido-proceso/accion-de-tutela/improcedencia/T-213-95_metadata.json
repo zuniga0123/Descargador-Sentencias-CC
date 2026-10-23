@@ -1,0 +1,53 @@
+{
+  "radicado": "T-213-95",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1995,
+  "fecha_creacion": "1995-05-16",
+  "magistrado_ponente": "Dr Hernando Herrera Vergara",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCIÓN DE TUTELA",
+  "subtema": "Improcedencia",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1995/T-213-95.htm",
+  "fecha_descarga": "2026-10-23T08:03:46.126518+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1995-05-16",
+  "fecha_publicacion": null,
+  "numero": "T-213/95",
+  "tipo_cc": "T",
+  "prov_id": "12554",
+  "tema_relatoria": "DER. AL AMBIENTE SANO. DERS. COLECTIVOS. ACCIONES POPULARES. INEXISTENCIA DE RELACION DE CAUSALIDAD. AGREGADOS DE LA SABANA. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Improcedencia"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Nexo causal"
+    },
+    {
+      "tema": "DERECHO AL AMBIENTE SANO",
+      "subtema": "Explotación minera"
+    },
+    {
+      "tema": "DERECHO AL AMBIENTE SANO",
+      "subtema": null
+    },
+    {
+      "tema": "DERECHOS COLECTIVOS",
+      "subtema": null
+    },
+    {
+      "tema": "ACCION POPULAR",
+      "subtema": null
+    }
+  ]
+}

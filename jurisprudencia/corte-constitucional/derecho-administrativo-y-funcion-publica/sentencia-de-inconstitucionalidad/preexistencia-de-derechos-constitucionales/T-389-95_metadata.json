@@ -1,0 +1,52 @@
+{
+  "radicado": "T-389-95",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1995,
+  "fecha_creacion": "1995-09-05",
+  "magistrado_ponente": null,
+  "area": "Derecho Administrativo y Función Pública",
+  "tema": "SENTENCIA DE INCONSTITUCIONALIDAD",
+  "subtema": "Preexistencia de derechos constitucionales",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto Ley 1222 de 1993",
+    "Decreto 2591 de 1991",
+    "Ley 27 de 1992",
+    "Decreto 1222 de 1993"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1995/T-389-95.htm",
+  "fecha_descarga": "2026-10-23T07:59:38.232158+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1995-09-05",
+  "fecha_publicacion": null,
+  "numero": "T-389/95",
+  "tipo_cc": "T",
+  "prov_id": "12752",
+  "tema_relatoria": "CONCURSO DE MERITOS. DER. A LA IGUALDAD. OMISION DEL I.C.B.F. EN NOMBRAMIENTO DE QUIEN OCUPO EL PRIMER PUESTO. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "SENTENCIA DE INCONSTITUCIONALIDAD",
+      "subtema": "Preexistencia de derechos constitucionales"
+    },
+    {
+      "tema": "CONCURSO DE MERITOS",
+      "subtema": "Nombramiento de quien obtuvo el primer puesto"
+    },
+    {
+      "tema": "DERECHO AL TRABAJO",
+      "subtema": "Nombramiento de quien obtuvo el primero puesto"
+    },
+    {
+      "tema": "MEDIO DE DEFENSA JUDICIAL INEFICAZ",
+      "subtema": "Nombramiento de quien obtuvo el primer puesto"
+    },
+    {
+      "tema": "DERECHOS FUNDAMENTALES",
+      "subtema": "Aplicación permanente"
+    }
+  ]
+}

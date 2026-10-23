@@ -1,0 +1,106 @@
+{
+  "radicado": "C-578-95",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1995,
+  "fecha_creacion": "1995-12-04",
+  "magistrado_ponente": null,
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "OBEDIENCIA DEBIDA",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto Ley 85 de 1989",
+    "Decreto 85 de 1989",
+    "Ley 5 de 1989",
+    "Ley 28 de 1959",
+    "Ley 70 de 1986",
+    "Ley 137 de 1994"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1995/C-578-95.htm",
+  "fecha_descarga": "2026-10-23T08:19:37.156362+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1995-12-04",
+  "fecha_publicacion": null,
+  "numero": "C-578/95",
+  "tipo_cc": "C",
+  "prov_id": "12956",
+  "tema_relatoria": "DEC. 85/89. ART. 15 PARCIAL. ORDENES MILITARES. OBEDIENCIA DEBIDA. EXEQUIBLE.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "OBEDIENCIA DEBIDA",
+      "subtema": null
+    },
+    {
+      "tema": "ORDEN DEL SERVICIO",
+      "subtema": null
+    },
+    {
+      "tema": "RESPONSABILIDAD DEL PERSONAL MILITAR",
+      "subtema": null
+    },
+    {
+      "tema": "DEBER DE ADVERTENCIA",
+      "subtema": "Ejercicio ilegítimo"
+    },
+    {
+      "tema": "SENTENCIA DE CONSTITUCIONALIDAD CONDICIONADA",
+      "subtema": null
+    },
+    {
+      "tema": "DERECHOS FUNDAMENTALES",
+      "subtema": "No son absolutos"
+    },
+    {
+      "tema": "IUS COGENS",
+      "subtema": null
+    },
+    {
+      "tema": "ORDENES MILITARES",
+      "subtema": null
+    },
+    {
+      "tema": "DEBER DE CUMPLIMIENTO DE ORDEN ILEGAL",
+      "subtema": null
+    },
+    {
+      "tema": "DEBER DE OBEDIENCIA",
+      "subtema": null
+    },
+    {
+      "tema": "DEBER DE ADVERTENCIA",
+      "subtema": null
+    },
+    {
+      "tema": "BLOQUE DE CONSTITUCIONALIDAD",
+      "subtema": null
+    },
+    {
+      "tema": "DERECHO INTERNACIONAL HUMANITARIO",
+      "subtema": null
+    },
+    {
+      "tema": "DERECHO INTERNACIONAL HUMANITARIO",
+      "subtema": "Validez en el orden interno"
+    },
+    {
+      "tema": "FUERZA PUBLICA",
+      "subtema": "No deliberante"
+    },
+    {
+      "tema": "FUNCION ADMINISTRATIVA",
+      "subtema": "Principios son aplicables a la fuerza pública"
+    },
+    {
+      "tema": "OBEDIENCIA DEBIDA",
+      "subtema": "Límites"
+    },
+    {
+      "tema": "RESPONSABILIDAD DEL PERSONAL MILITAR",
+      "subtema": "Improcedencia de exoneración"
+    }
+  ]
+}

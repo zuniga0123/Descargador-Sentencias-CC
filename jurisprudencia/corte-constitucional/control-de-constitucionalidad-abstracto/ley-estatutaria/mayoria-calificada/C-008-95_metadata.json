@@ -1,0 +1,61 @@
+{
+  "radicado": "C-008-95",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1995,
+  "fecha_creacion": "1995-01-17",
+  "magistrado_ponente": "Dr JOSE GREGORIO HERNANDEZ GALINDO",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "LEY ESTATUTARIA",
+  "subtema": "Mayoría calificada",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2067 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1995/C-008-95.htm",
+  "fecha_descarga": "2026-10-23T08:11:35.132126+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1995-01-17",
+  "fecha_publicacion": null,
+  "numero": "C-008/95",
+  "tipo_cc": "C",
+  "prov_id": "12323",
+  "tema_relatoria": "P.E.N° 12/93 SENADO Y 127/93 CAMARA. RECOLECCION MANEJO Y DIVULGACION DE INFORMACION COMERCIAL. HABEAS DATA. INEXEQUIBLE.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "LEY ESTATUTARIA",
+      "subtema": "Mayoría calificada"
+    },
+    {
+      "tema": "LEY ESTATUTARIA SOBRE HABEAS DATA",
+      "subtema": "Vicio de procedimiento"
+    },
+    {
+      "tema": "LEY ESTATUTARIA",
+      "subtema": "Iniciativa"
+    },
+    {
+      "tema": "LEY ESTATUTARIA",
+      "subtema": "Mayoría"
+    },
+    {
+      "tema": "APROBACION EN MATERIA LEGISLATIVA",
+      "subtema": null
+    },
+    {
+      "tema": "QUORUM DELIBERATORIO",
+      "subtema": null
+    },
+    {
+      "tema": "QUORUM DECISORIO",
+      "subtema": null
+    },
+    {
+      "tema": "LEY ESTATUTARIA SOBRE HABEAS DATA",
+      "subtema": "Vicio insubsanable"
+    }
+  ]
+}

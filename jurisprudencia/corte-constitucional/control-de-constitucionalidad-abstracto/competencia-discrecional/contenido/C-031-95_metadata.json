@@ -1,0 +1,62 @@
+{
+  "radicado": "C-031-95",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1995,
+  "fecha_creacion": "1995-02-02",
+  "magistrado_ponente": "Hernando Herrera Vergara",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "COMPETENCIA DISCRECIONAL",
+  "subtema": "Contenido",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2535 de 1993",
+    "Ley 61 de 1993",
+    "Decreto Ley 2535 de 1993",
+    "Decreto 1 de 1984",
+    "Decreto 6 de 1993",
+    "Decreto 2067 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1995/C-031-95.htm",
+  "fecha_descarga": "2026-10-23T08:11:53.337718+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1995-02-02",
+  "fecha_publicacion": null,
+  "numero": "C-031/95",
+  "tipo_cc": "C",
+  "prov_id": "12349",
+  "tema_relatoria": "DEC. 2535/93. ART 3. NORMAS SOBRE ARMAS MUNICIONES Y EXPLOSIVOS. EXEQUIBLE.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "COMPETENCIA DISCRECIONAL",
+      "subtema": "Contenido"
+    },
+    {
+      "tema": "PORTE DE ARMAS",
+      "subtema": "Autorización"
+    },
+    {
+      "tema": "ACTO DISCRECIONAL",
+      "subtema": "Control jurisdiccional"
+    },
+    {
+      "tema": "DISCRECIONALIDAD",
+      "subtema": null
+    },
+    {
+      "tema": "ARBITRARIEDAD",
+      "subtema": null
+    },
+    {
+      "tema": "COMPETENCIA REGLADA",
+      "subtema": null
+    },
+    {
+      "tema": "PORTE DE ARMAS",
+      "subtema": "Reglamentación"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "radicado": "T-275-95",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1995,
+  "fecha_creacion": "1995-06-27",
+  "magistrado_ponente": "Antonio Barrera Carbonell",
+  "area": "Derecho Administrativo y Función Pública",
+  "tema": "MEDIO DE DEFENSA JUDICIAL",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2272 de 1991",
+    "Decreto 2591 de 1991",
+    "Ley 30 de 1986"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1995/T-275-95.htm",
+  "fecha_descarga": "2026-10-23T08:02:29.461977+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1995-06-27",
+  "fecha_publicacion": null,
+  "numero": "T-275/95",
+  "tipo_cc": "T",
+  "prov_id": "12626",
+  "tema_relatoria": "DEBIDO PROCESO. DER. A LA HONRA. DER. A LA INTIMIDAD. SUSPENSION DE PERMISO DE OPERACION. MEDIO DE DEFENSA JUDICIAL. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "MEDIO DE DEFENSA JUDICIAL",
+      "subtema": null
+    },
+    {
+      "tema": "CERTIFICADO DE CARENCIA DE INFORMES SOBRE NARCOTRAFICO",
+      "subtema": null
+    },
+    {
+      "tema": "PERSONA JURIDICA",
+      "subtema": "Derechos de los que no puede ser titular"
+    },
+    {
+      "tema": "SILENCIO ADMINISTRATIVO POSITIVO",
+      "subtema": null
+    },
+    {
+      "tema": "ISLEÑA DE AVIACION",
+      "subtema": "Suspensión de permiso de operación"
+    },
+    {
+      "tema": "PERJUICIO IRREMEDIABLE",
+      "subtema": "Inexistencia"
+    }
+  ]
+}

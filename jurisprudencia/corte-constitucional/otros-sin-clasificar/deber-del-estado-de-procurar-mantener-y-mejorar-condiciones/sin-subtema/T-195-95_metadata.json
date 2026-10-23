@@ -1,0 +1,49 @@
+{
+  "radicado": "T-195-95",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1995,
+  "fecha_creacion": "1995-05-05",
+  "magistrado_ponente": "Dr VLADIMIRO NARANJO MESA",
+  "area": "Otros - Sin clasificar",
+  "tema": "DEBER DEL ESTADO DE PROCURAR MANTENER Y MEJORAR CONDICIONES DE VIDA",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1995/T-195-95.htm",
+  "fecha_descarga": "2026-10-23T08:06:26.187136+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1995-05-05",
+  "fecha_publicacion": null,
+  "numero": "T-195/95",
+  "tipo_cc": "T",
+  "prov_id": "12535",
+  "tema_relatoria": "IMPROCEDENCIA DE LA TUTELA FRENTE A LA EJECUCION DE OBRAS PUBLICAS. CONSTRUCCION DE PUENTE. ITUANGO. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DEBER DEL ESTADO DE PROCURAR MANTENER Y MEJORAR CONDICIONES DE VIDA",
+      "subtema": null
+    },
+    {
+      "tema": "FENOMENOS NATURALES",
+      "subtema": null
+    },
+    {
+      "tema": "EJECUCION DE OBRA PUBLICA",
+      "subtema": "Improcedencia"
+    },
+    {
+      "tema": "PARTIDA PRESUPUESTAL",
+      "subtema": "Inclusión para construcción de puente"
+    },
+    {
+      "tema": "ZONAS DE ALTO RIESGO",
+      "subtema": "Desbordamiento de quebrada"
+    }
+  ]
+}

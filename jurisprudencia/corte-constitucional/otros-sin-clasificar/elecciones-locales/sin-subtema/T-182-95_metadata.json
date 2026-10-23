@@ -1,0 +1,42 @@
+{
+  "radicado": "T-182-95",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1995,
+  "fecha_creacion": "1995-04-26",
+  "magistrado_ponente": null,
+  "area": "Otros - Sin clasificar",
+  "tema": "ELECCIONES LOCALES",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 163 de 1994"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1995/T-182-95.htm",
+  "fecha_descarga": "2026-10-23T08:06:00.822546+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1995-04-26",
+  "fecha_publicacion": null,
+  "numero": "T-182/95",
+  "tipo_cc": "T",
+  "prov_id": "12520",
+  "tema_relatoria": "DER. AL VOTO. INSCRIPCION DE CEDULAS. ALTERACION DEL PROCESO ELECTORAL. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ELECCIONES LOCALES",
+      "subtema": null
+    },
+    {
+      "tema": "CENSO ELECTORAL",
+      "subtema": "Inscripciones"
+    },
+    {
+      "tema": "DERECHO AL SUFRAGIO",
+      "subtema": "Residentes en el lugar"
+    }
+  ]
+}

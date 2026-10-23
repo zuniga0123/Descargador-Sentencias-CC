@@ -1,0 +1,54 @@
+{
+  "radicado": "T-277-95",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1995,
+  "fecha_creacion": "1995-06-27",
+  "magistrado_ponente": "Dr HERNANDO HERRERA VERGARA",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "PENSION GRACIA",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 33 de 1985",
+    "Decreto 2277 de 1979",
+    "Decreto 1848 de 1969",
+    "Decreto 2733 de 1959",
+    "Decreto 1 de 1984"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1995/T-277-95.htm",
+  "fecha_descarga": "2026-10-23T08:02:36.796504+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1995-06-27",
+  "fecha_publicacion": null,
+  "numero": "T-277/95",
+  "tipo_cc": "T",
+  "prov_id": "12628",
+  "tema_relatoria": "DER. A LA VIDA. DER. A LA SEGURIDAD SOCIAL. PENSION DE JUBILACION. INCLUSION EN NOMINA. CONCEDIDA PARCIALMENTE.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "PENSION GRACIA",
+      "subtema": null
+    },
+    {
+      "tema": "ACTO ADMINISTRATIVO",
+      "subtema": "Irrevocabilidad"
+    },
+    {
+      "tema": "PENSION DOBLE",
+      "subtema": null
+    },
+    {
+      "tema": "ACTO ADMINISTRATIVO",
+      "subtema": "Presunción de legalidad"
+    },
+    {
+      "tema": "CAJA NACIONAL DE PREVISION SOCIAL",
+      "subtema": "Expedición de actos inconstitucionales"
+    }
+  ]
+}

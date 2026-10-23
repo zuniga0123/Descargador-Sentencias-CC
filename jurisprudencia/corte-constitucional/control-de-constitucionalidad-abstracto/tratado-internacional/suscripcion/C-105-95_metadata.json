@@ -1,0 +1,41 @@
+{
+  "radicado": "C-105-95",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1995,
+  "fecha_creacion": "1995-03-15",
+  "magistrado_ponente": "Alejandro Martinez Caballero",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "TRATADO INTERNACIONAL",
+  "subtema": "Suscripción",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 155 de 1994"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1995/C-105-95.htm",
+  "fecha_descarga": "2026-10-23T08:19:44.535270+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1995-03-15",
+  "fecha_publicacion": null,
+  "numero": "C-105/95",
+  "tipo_cc": "C",
+  "prov_id": "12433",
+  "tema_relatoria": "R.E DEL ACUERDO LATINOAMERICANO DE COPRODUCCION CINEMATOGRAFICA. LEY 155/94. EXEQUIBLE.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "TRATADO INTERNACIONAL",
+      "subtema": "Suscripción"
+    },
+    {
+      "tema": "ACUERDO DE COPRODUCCION CINEMATOGRAFICA",
+      "subtema": "Finalidad"
+    },
+    {
+      "tema": "CONVENIO INTERNACIONAL",
+      "subtema": "Alcance"
+    }
+  ]
+}

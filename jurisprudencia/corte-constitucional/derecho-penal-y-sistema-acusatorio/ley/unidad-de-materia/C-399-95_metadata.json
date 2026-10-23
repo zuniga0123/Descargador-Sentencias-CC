@@ -1,0 +1,72 @@
+{
+  "radicado": "C-399-95",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1995,
+  "fecha_creacion": "1995-09-07",
+  "magistrado_ponente": "Alejandro Martínez Caballero",
+  "area": "Derecho Penal y Sistema Acusatorio",
+  "tema": "LEY",
+  "subtema": "Unidad de materia",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 201 de 1995",
+    "Ley 153 de 1887",
+    "Decreto 2550 de 1988",
+    "Ley 4 de 1990"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1995/C-399-95.htm",
+  "fecha_descarga": "2026-10-23T08:15:54.997920+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1995-09-07",
+  "fecha_publicacion": null,
+  "numero": "C-399/95",
+  "tipo_cc": "C",
+  "prov_id": "12763",
+  "tema_relatoria": "LEY 4/90. ART. 18 LIT. D. FUNCIONES DE LA PROCURADURIA DELEGADA PARA EL MINISTERIO PUBLICO. FUERO MILITAR. EXEQUIBLE.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "LEY",
+      "subtema": "Unidad de materia"
+    },
+    {
+      "tema": "JUSTICIA PENAL MILITAR",
+      "subtema": "Ley ordinaria puede regularla"
+    },
+    {
+      "tema": "FUERO PENAL MILITAR",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "FISCAL MILITAR",
+      "subtema": null
+    },
+    {
+      "tema": "CODIGO PENAL MILITAR",
+      "subtema": "Interpretación de sus normas"
+    },
+    {
+      "tema": "PRINCIPIO DEL EFECTO UTIL",
+      "subtema": null
+    },
+    {
+      "tema": "FUERO PENAL MILITAR",
+      "subtema": "Fines"
+    },
+    {
+      "tema": "JUSTICIA PENAL MILITAR",
+      "subtema": "Exclusión de la fiscalía"
+    },
+    {
+      "tema": "PROCURADURÍA GENERAL DE LA NACIÓN",
+      "subtema": "Intervención en procesos penales militares"
+    },
+    {
+      "tema": "PROCESO PENAL MILITAR",
+      "subtema": "Desplazamiento del agente ordinario por agente especial"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "radicado": "C-469-95",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1995,
+  "fecha_creacion": "1995-10-19",
+  "magistrado_ponente": "Dr JOSE GREGORIO HERNANDEZ GALINDO",
+  "area": "Derecho Penal y Sistema Acusatorio",
+  "tema": "CAUCION",
+  "subtema": "Finalidad",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 42 de 1993",
+    "Decreto 2067 de 1991",
+    "Ley 31 de 1992",
+    "Ley 42 de 1923",
+    "Decreto 2520 de 1993",
+    "Ley 20 de 1975"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1995/C-469-95.htm",
+  "fecha_descarga": "2026-10-23T08:21:38.599535+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1995-10-19",
+  "fecha_publicacion": null,
+  "numero": "C-469/95",
+  "tipo_cc": "C",
+  "prov_id": "12838",
+  "tema_relatoria": "LEY 42/93. ARTS. 45 Y 87. ACTOS DE EMISION DE MONEDA PRESIDIDOS POR EL CONTRALOR GENERAL. EXEQUIBLES.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "CAUCION",
+      "subtema": "Finalidad"
+    },
+    {
+      "tema": "BANCO DE LA REPUBLICA",
+      "subtema": "Intervención de la Contraloría en labores de impresión, acuñación, retiro o incineración de moneda"
+    },
+    {
+      "tema": "CONTRALOR COMO PARTE CIVIL EN PROCESO PENAL",
+      "subtema": null
+    },
+    {
+      "tema": "BANCO DE LA REPUBLICA",
+      "subtema": "Autonomía"
+    }
+  ]
+}

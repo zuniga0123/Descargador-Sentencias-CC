@@ -1,0 +1,51 @@
+{
+  "radicado": "T-079-95",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1995,
+  "fecha_creacion": "1995-02-28",
+  "magistrado_ponente": "Alejandro Martinez Caballero",
+  "area": "Otros - Sin clasificar",
+  "tema": "PRINCIPIOS GENERALES DEL DERECHO",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 22 de 1967",
+    "Ley 50 de 1990"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1995/T-079-95.htm",
+  "fecha_descarga": "2026-10-23T08:07:20.990530+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1995-02-28",
+  "fecha_publicacion": null,
+  "numero": "T-079/95",
+  "tipo_cc": "T",
+  "prov_id": "12404",
+  "tema_relatoria": "A TRABAJO IGUAL SALARIO IGUAL. VIA ADECUADA PARA RECLAMAR LA NIVELACION SALARIAL. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "PRINCIPIOS GENERALES DEL DERECHO",
+      "subtema": null
+    },
+    {
+      "tema": "PRINCIPIOS Y VALORES CONSTITUCIONALES",
+      "subtema": "Aplicación inmediata"
+    },
+    {
+      "tema": "PRINCIPIO DE IGUALDAD EN LA APLICACION DE NORMAS LABORALES",
+      "subtema": "Carga de la prueba"
+    },
+    {
+      "tema": "PRINCIPIO A TRABAJO IGUAL SALARIO IGUAL",
+      "subtema": "Término de comparación"
+    },
+    {
+      "tema": "SALARIO",
+      "subtema": "Nivelación"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "radicado": "T-502A-95",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1995,
+  "fecha_creacion": "1995-11-08",
+  "magistrado_ponente": "Dr ALEJANDRO MARTINEZ CABALLERO",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "DERECHO DE PETICIÓN",
+  "subtema": "Inscripción al seguro social",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1995/T-502A-95.htm",
+  "fecha_descarga": "2026-10-23T07:58:18.205509+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1995-11-08",
+  "fecha_publicacion": null,
+  "numero": "T-502A/95",
+  "tipo_cc": "T",
+  "prov_id": "12873",
+  "tema_relatoria": "DER. DE PETICION. PENSION DE JUBILACION. INSCRIPCION AL I.S.S. COTIZANTE MOROSO. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO DE PETICIÓN",
+      "subtema": "Inscripción al seguro social"
+    },
+    {
+      "tema": "PENSION DE JUBILACION",
+      "subtema": "Mora en aportes"
+    }
+  ]
+}

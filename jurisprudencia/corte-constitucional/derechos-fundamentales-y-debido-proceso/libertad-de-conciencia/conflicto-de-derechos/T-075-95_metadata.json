@@ -1,0 +1,61 @@
+{
+  "radicado": "T-075-95",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1995,
+  "fecha_creacion": "1995-02-24",
+  "magistrado_ponente": "Dr Carlos Gaviria Díaz",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "LIBERTAD DE CONCIENCIA",
+  "subtema": "Conflicto de derechos",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2229 de 1947",
+    "Decreto 3408 de 1948",
+    "Decreto 1002 de 1989",
+    "Ley 115 de 1994",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1995/T-075-95.htm",
+  "fecha_descarga": "2026-10-23T08:07:10.005782+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1995-02-24",
+  "fecha_publicacion": null,
+  "numero": "T-075/95",
+  "tipo_cc": "T",
+  "prov_id": "12400",
+  "tema_relatoria": "DER. A LA IGUALDAD. DEBIDO PROCESO. LIBERTAD DE CONCIENCIA Y RELIGION. TESTIGO DE JEHOVA. SANCION POR NO PARTICIPAR EN DESFILE. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "LIBERTAD DE CONCIENCIA",
+      "subtema": "Conflicto de derechos"
+    },
+    {
+      "tema": "LIBERTAD DE CONCIENCIA",
+      "subtema": "Testigo de Jehová"
+    },
+    {
+      "tema": "REGLAMENTO EDUCATIVO",
+      "subtema": "Inconstitucionalidad"
+    },
+    {
+      "tema": "DEBER PATRIOTICO",
+      "subtema": "Participación en desfile"
+    },
+    {
+      "tema": "DERECHO A LA EDUCACIÓN",
+      "subtema": "Sanción por no participar en desfile"
+    },
+    {
+      "tema": "DEBIDO PROCESO",
+      "subtema": "Vulneración por sanción estudiantil"
+    },
+    {
+      "tema": "DEBER CIVICO",
+      "subtema": "Inasistencia a desfile"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "radicado": "T-571-95",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1995,
+  "fecha_creacion": "1995-11-30",
+  "magistrado_ponente": "Dr FABIO MORON DIAZ",
+  "area": "Derecho a la Salud",
+  "tema": "DERECHO A LA SALUD",
+  "subtema": "Suspensión de atención hospitalaria a menor",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 75 de 1968",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1995/T-571-95.htm",
+  "fecha_descarga": "2026-10-23T08:01:05.660018+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1995-11-30",
+  "fecha_publicacion": null,
+  "numero": "T-571/95",
+  "tipo_cc": "T",
+  "prov_id": "12947",
+  "tema_relatoria": "DERS. DE LOS NIÑOS. DER. A LA SALUD. DER. A LA VIDA. TRATAMIENTO MEDICO. HOSPITAL LEON XIII. NEGADA PARCIALMENTE.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Suspensión de atención hospitalaria a menor"
+    },
+    {
+      "tema": "DEMANDA DE TUTELA",
+      "subtema": "Protección al menor por intervención quirúrgica"
+    },
+    {
+      "tema": "DERECHO A LA SEGURIDAD SOCIAL",
+      "subtema": "Asistencia humanitaria al menor"
+    },
+    {
+      "tema": "DERECHO A LA VIDA",
+      "subtema": "Extrema necesidad"
+    },
+    {
+      "tema": "PREVALENCIA DE LOS DERECHOS DEL NIÑO",
+      "subtema": "Continuación tratamiento médico a menor"
+    },
+    {
+      "tema": "MEDIO DE DEFENSA JUDICIAL",
+      "subtema": "Responsabilidad hospitalaria"
+    }
+  ]
+}

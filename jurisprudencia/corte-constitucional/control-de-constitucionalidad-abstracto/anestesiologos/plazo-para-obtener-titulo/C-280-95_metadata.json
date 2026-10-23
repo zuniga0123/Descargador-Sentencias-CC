@@ -1,0 +1,53 @@
+{
+  "radicado": "C-280-95",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1995,
+  "fecha_creacion": "1995-06-29",
+  "magistrado_ponente": "Jorge Arango Mejia",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "ANESTESIOLOGOS",
+  "subtema": "Plazo para obtener título",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 6 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1995/C-280-95.htm",
+  "fecha_descarga": "2026-10-23T08:12:56.421176+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1995-06-29",
+  "fecha_publicacion": null,
+  "numero": "C-280/95",
+  "tipo_cc": "C",
+  "prov_id": "12631",
+  "tema_relatoria": "LEY 6/91. VARIOS ARTS. POR LA CUAL SE REGLAMENTA LA ESPECIALIDAD MEDICA DE ANESTESIOLOGIA. EXEQUIBLES E INEXEQUIBLES.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ANESTESIOLOGOS",
+      "subtema": "Plazo para obtener título"
+    },
+    {
+      "tema": "ANESTESIOLOGOS",
+      "subtema": "Ejercicio de la profesión"
+    },
+    {
+      "tema": "TITULO DE IDONEIDAD",
+      "subtema": null
+    },
+    {
+      "tema": "COMITE NACIONAL DE EJERCICIO DE ANESTESIOLOGIA",
+      "subtema": null
+    },
+    {
+      "tema": "EXTRANJEROS",
+      "subtema": "Relaciones laborales"
+    },
+    {
+      "tema": "MEDICO",
+      "subtema": "Revalidación del título"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "radicado": "T-080-95",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1995,
+  "fecha_creacion": "1995-02-28",
+  "magistrado_ponente": "Jorge Arango Mejia",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "COMPETENCIA DE TUTELA",
+  "subtema": "Envío al juez competente",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1995/T-080-95.htm",
+  "fecha_descarga": "2026-10-23T08:07:24.583339+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1995-02-28",
+  "fecha_publicacion": null,
+  "numero": "T-080/95",
+  "tipo_cc": "T",
+  "prov_id": "12405",
+  "tema_relatoria": "CONFLICTO DE COMPETENCIA EN TUTELA. COMPETENCIA TERRITORIAL. PETICIONARIO ELIGE JUEZ.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "COMPETENCIA DE TUTELA",
+      "subtema": "Envío al juez competente"
+    },
+    {
+      "tema": "COMPETENCIA DE TUTELA",
+      "subtema": "Juez de segunda instancia"
+    },
+    {
+      "tema": "COMPETENCIA TERRITORIAL",
+      "subtema": null
+    },
+    {
+      "tema": "NULIDAD SANEABLE",
+      "subtema": null
+    },
+    {
+      "tema": "ACCION DE TUTELA PRESENTADA ANTE CORPORACIONES JUDICIALES NACIONALES",
+      "subtema": null
+    },
+    {
+      "tema": "COMPETENCIA FUNCIONAL",
+      "subtema": null
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Informalidad"
+    }
+  ]
+}

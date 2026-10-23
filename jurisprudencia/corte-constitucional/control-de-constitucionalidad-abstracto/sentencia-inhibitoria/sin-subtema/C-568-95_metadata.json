@@ -1,0 +1,46 @@
+{
+  "radicado": "C-568-95",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1995,
+  "fecha_creacion": "1995-11-30",
+  "magistrado_ponente": "Dr EDUARDO CIFUENTES MUÑOZ",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "SENTENCIA INHIBITORIA",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 106 de 1993",
+    "Decreto 2067 de 1997"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1995/C-568-95.htm",
+  "fecha_descarga": "2026-10-23T08:19:33.359872+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1995-11-30",
+  "fecha_publicacion": null,
+  "numero": "C-568/95",
+  "tipo_cc": "C",
+  "prov_id": "12944",
+  "tema_relatoria": "LEY 106/93. ARTS 125129130 Y 131. CONTRALORIA GRAL DE LA REPUBLICA. SENTENCIA INHIBITORIA POR AUSENCIA DE CONCEPTO DE VIOLACION.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "SENTENCIA INHIBITORIA",
+      "subtema": null
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "Ausencia de concepto de violación"
+    },
+    {
+      "tema": "CONTRALORIA GENERAL DE LA REPUBLICA",
+      "subtema": "Extemporaneidad del concurso"
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "No procede para juzgar legalidad de convocatoria a concurso"
+    }
+  ]
+}

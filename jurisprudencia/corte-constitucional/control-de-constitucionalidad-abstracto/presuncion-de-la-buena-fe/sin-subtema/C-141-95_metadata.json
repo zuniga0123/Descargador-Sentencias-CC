@@ -1,0 +1,66 @@
+{
+  "radicado": "C-141-95",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1995,
+  "fecha_creacion": "1995-03-29",
+  "magistrado_ponente": "Antonio Barrera Carbonell",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "PRESUNCION DE LA BUENA FE",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto Ley 2550 de 1988",
+    "Decreto 2550 de 1988"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1995/C-141-95.htm",
+  "fecha_descarga": "2026-10-23T08:20:10.181745+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1995-03-29",
+  "fecha_publicacion": null,
+  "numero": "C-141/95",
+  "tipo_cc": "C",
+  "prov_id": "12471",
+  "tema_relatoria": "DEC.2550/88. ART. 656. CODIGO PENAL MILITAR. CONSEJO VERBAL DE GUERRA. OFICIALES EN SERVICIO ACTIVO. INEXEQUIBLE.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "PRESUNCION DE LA BUENA FE",
+      "subtema": null
+    },
+    {
+      "tema": "FUERO PENAL MILITAR",
+      "subtema": null
+    },
+    {
+      "tema": "OBEDIENCIA DEBIDA",
+      "subtema": null
+    },
+    {
+      "tema": "JURISDICCION PENAL MILITAR",
+      "subtema": null
+    },
+    {
+      "tema": "CONSEJO VERBAL DE GUERRA",
+      "subtema": "Oficial en servicio activo"
+    },
+    {
+      "tema": "CONSEJO VERBAL DE GUERRA",
+      "subtema": "Vocales"
+    },
+    {
+      "tema": "FUERO PENAL MILITAR",
+      "subtema": "Características"
+    },
+    {
+      "tema": "FUERO PENAL MILITAR",
+      "subtema": "Concepto"
+    },
+    {
+      "tema": "TRIBUNAL MILITAR",
+      "subtema": "Personal civil"
+    }
+  ]
+}

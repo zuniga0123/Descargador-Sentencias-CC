@@ -1,0 +1,53 @@
+{
+  "radicado": "T-272-95",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1995,
+  "fecha_creacion": "1995-06-23",
+  "magistrado_ponente": "Alejandro Martinez Caballero",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "RETROSPECTIVIDAD DE LA TUTELA",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1995/T-272-95.htm",
+  "fecha_descarga": "2026-10-23T08:02:18.501395+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1995-06-23",
+  "fecha_publicacion": null,
+  "numero": "T-272/95",
+  "tipo_cc": "T",
+  "prov_id": "12623",
+  "tema_relatoria": "TUTELA CONTRA PARTICULARES. VIGENCIA DE LA TUTELA. PRUEBA DEL ESTADO CIVIL. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "RETROSPECTIVIDAD DE LA TUTELA",
+      "subtema": null
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA DIOCESIS",
+      "subtema": null
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Hecho anterior"
+    },
+    {
+      "tema": "DEBIDO PROCESO",
+      "subtema": null
+    },
+    {
+      "tema": "CONSTITUCION POLITICA",
+      "subtema": "Vigencia"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Vigencia"
+    }
+  ]
+}

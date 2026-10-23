@@ -1,0 +1,73 @@
+{
+  "radicado": "T-101-95",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1995,
+  "fecha_creacion": "1995-03-08",
+  "magistrado_ponente": "Dr VLADIMIRO NARANJO MESA Temas",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "LEGITIMACIÓN POR ACTIVA EN TUTELA",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1995/T-101-95.htm",
+  "fecha_descarga": "2026-10-23T08:07:50.020755+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1995-03-08",
+  "fecha_publicacion": null,
+  "numero": "T-101/95",
+  "tipo_cc": "T",
+  "prov_id": "12429",
+  "tema_relatoria": "LEGITIMACION POR ACTIVA. NOTIFICACION DE PROVIDENCIAS EN MATERIA DE TUTELA. HECHO SUPERADO. NOMBRAMIENTO DE MEDICO. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "LEGITIMACIÓN POR ACTIVA EN TUTELA",
+      "subtema": null
+    },
+    {
+      "tema": "MEDIO DE DEFENSA JUDICIAL",
+      "subtema": null
+    },
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Nombramiento de médico rural"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Ausencia de pruebas"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Hecho superado"
+    },
+    {
+      "tema": "ACTO ADMINISTRATIVO",
+      "subtema": null
+    },
+    {
+      "tema": "AGENCIAMIENTO DE DERECHOS AJENOS",
+      "subtema": null
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Improcedencia"
+    },
+    {
+      "tema": "NOTIFICACION DE ACCION DE TUTELA",
+      "subtema": "Despacho comisorio"
+    },
+    {
+      "tema": "FALLO DE TUTELA",
+      "subtema": "Notificación"
+    },
+    {
+      "tema": "JUEZ DE TUTELA",
+      "subtema": "Cogobierno"
+    }
+  ]
+}

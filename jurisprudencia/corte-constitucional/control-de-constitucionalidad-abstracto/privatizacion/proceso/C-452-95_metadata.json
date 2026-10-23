@@ -1,0 +1,71 @@
+{
+  "radicado": "C-452-95",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1995,
+  "fecha_creacion": "1995-10-05",
+  "magistrado_ponente": "Dr FABIO MORON DIAZ",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "PRIVATIZACION",
+  "subtema": "Proceso",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 663 de 1993",
+    "Ley 117 de 1985",
+    "Decreto 130 de 1976",
+    "Ley 35 de 1993",
+    "Decreto 439 de 1994",
+    "Decreto 2067 de 1991",
+    "Decreto 2067 de 1992"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1995/C-452-95.htm",
+  "fecha_descarga": "2026-10-23T08:11:27.689182+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1995-10-05",
+  "fecha_publicacion": null,
+  "numero": "C-452/95",
+  "tipo_cc": "C",
+  "prov_id": "12820",
+  "tema_relatoria": "DEC. 663/93. VARIOS ARTS PARCIALES. PRIVATIZACION DE LOS BANCOS. EXEQUIBLES E INEXEQUIBLES.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "PRIVATIZACION",
+      "subtema": "Proceso"
+    },
+    {
+      "tema": "DERECHO PREFERENCIAL DE ACCESO A LA PROPIEDAD",
+      "subtema": "No es excluyente"
+    },
+    {
+      "tema": "PROPIEDAD ACCIONARIA",
+      "subtema": "Democratización"
+    },
+    {
+      "tema": "NACIONALIZACION DE ENTIDADES FINANCIERAS",
+      "subtema": null
+    },
+    {
+      "tema": "APORTES DE CAPITAL",
+      "subtema": null
+    },
+    {
+      "tema": "SISTEMA DE MARTILLO",
+      "subtema": null
+    },
+    {
+      "tema": "PATRIMONIO PUBLICO",
+      "subtema": "Incremento"
+    },
+    {
+      "tema": "PROPIEDAD",
+      "subtema": "Acceso"
+    },
+    {
+      "tema": "FOGAFIN",
+      "subtema": "Función de orientación"
+    }
+  ]
+}

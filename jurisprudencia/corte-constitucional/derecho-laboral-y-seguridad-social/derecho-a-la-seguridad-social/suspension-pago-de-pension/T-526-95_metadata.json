@@ -1,0 +1,41 @@
+{
+  "radicado": "T-526-95",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1995,
+  "fecha_creacion": "1995-11-17",
+  "magistrado_ponente": "Dr FABIO MORON DIAZ",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "DERECHO A LA SEGURIDAD SOCIAL",
+  "subtema": "Suspensión pago de pensión",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1995/T-526-95.htm",
+  "fecha_descarga": "2026-10-23T08:00:07.373728+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1995-11-17",
+  "fecha_publicacion": null,
+  "numero": "T-526/95",
+  "tipo_cc": "T",
+  "prov_id": "12899",
+  "tema_relatoria": "DER. A LA SEGURIDAD SOCIAL. MORA DEL EMPLEADOR EN EL PAGO.DE APORTES. SUSPENSION DE PAGO DE UNA SUSTITUCION PENSIONAL. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA SEGURIDAD SOCIAL",
+      "subtema": "Suspensión pago de pensión"
+    },
+    {
+      "tema": "MESADA PENSIONAL",
+      "subtema": "Suspensión de pago"
+    },
+    {
+      "tema": "PENSIÓN DE SOBREVIVIENTES",
+      "subtema": "Suspensión del aporte patronal"
+    }
+  ]
+}

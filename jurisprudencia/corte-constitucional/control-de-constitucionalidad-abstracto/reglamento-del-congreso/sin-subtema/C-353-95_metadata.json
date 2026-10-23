@@ -1,0 +1,51 @@
+{
+  "radicado": "C-353-95",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1995,
+  "fecha_creacion": "1995-08-09",
+  "magistrado_ponente": "Dr JOSE GREGORIO HERNANDEZ GALINDO",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "REGLAMENTO DEL CONGRESO",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 179 de 1994",
+    "Decreto 2067 de 1991",
+    "Ley 38 de 1989"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1995/C-353-95.htm",
+  "fecha_descarga": "2026-10-23T08:15:32.467003+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1995-08-09",
+  "fecha_publicacion": null,
+  "numero": "C-353/95",
+  "tipo_cc": "C",
+  "prov_id": "12709",
+  "tema_relatoria": "LEY 179/94. ART 26 INC. 3 Y ART. 27. MODIFICACIONES A LA LEY 38/89 ORGANICA DEL PRESUPUESTO. INEXEQUIBLE UNAS EXPRESIONES.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "REGLAMENTO DEL CONGRESO",
+      "subtema": null
+    },
+    {
+      "tema": "PROYECTO DE PRESUPUESTO",
+      "subtema": "Comisión en que se debate"
+    },
+    {
+      "tema": "LEY ORGANICA",
+      "subtema": null
+    },
+    {
+      "tema": "COMISIONES CONSTITUCIONALES PERMANENTES",
+      "subtema": "Asignación de competencias"
+    },
+    {
+      "tema": "LEY DE PRESUPUESTO",
+      "subtema": "Exceso"
+    }
+  ]
+}

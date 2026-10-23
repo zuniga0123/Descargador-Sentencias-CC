@@ -1,0 +1,52 @@
+{
+  "radicado": "C-503-95",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1995,
+  "fecha_creacion": "1995-11-09",
+  "magistrado_ponente": "Hernando Herrera Vergara",
+  "area": "Derecho Penal y Sistema Acusatorio",
+  "tema": "SENTENCIA DE INCONSTITUCIONALIDAD",
+  "subtema": "Incongruencia",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 1372 de 1995",
+    "Ley 65 de 1993",
+    "Ley 65 de 1995",
+    "Decreto 407 de 1994",
+    "Ley 137 de 1994",
+    "Decreto 1370 de 1995",
+    "Decreto 1410 de 1995",
+    "Decreto 2067 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1995/C-503-95.htm",
+  "fecha_descarga": "2026-10-23T08:18:23.772324+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1995-11-09",
+  "fecha_publicacion": null,
+  "numero": "C-503/95",
+  "tipo_cc": "C",
+  "prov_id": "12874",
+  "tema_relatoria": "REVISION DEL DEC. 1372/95. NORMAS EN RELACION CON EL SISTEMA CARCELARIO Y PENITENCIARIO. INEXEQUIBLE.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "SENTENCIA DE INCONSTITUCIONALIDAD",
+      "subtema": "Incongruencia"
+    },
+    {
+      "tema": "CONMOCION INTERIOR",
+      "subtema": "Sentencia inhibitoria sobre decretos expedidos"
+    },
+    {
+      "tema": "CONMOCION INTERIOR",
+      "subtema": "Inconstitucionalidad de decretos expedidos"
+    },
+    {
+      "tema": "SENTENCIA DE INCONSTITUCIONALIDAD DE CONMOCION",
+      "subtema": "Efectos del fallo a partir de la notificación"
+    }
+  ]
+}

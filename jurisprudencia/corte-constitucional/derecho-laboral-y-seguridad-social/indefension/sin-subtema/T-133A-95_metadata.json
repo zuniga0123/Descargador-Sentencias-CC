@@ -1,0 +1,54 @@
+{
+  "radicado": "T-133A-95",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1995,
+  "fecha_creacion": "1995-03-24",
+  "magistrado_ponente": "Dr VLADIMIRO NARANJO MESA Temas Derecho",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "INDEFENSION",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 1848 de 1969",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1995/T-133A-95.htm",
+  "fecha_descarga": "2026-10-23T08:04:48.249642+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1995-03-24",
+  "fecha_publicacion": null,
+  "numero": "T-133A/95",
+  "tipo_cc": "T",
+  "prov_id": "12463",
+  "tema_relatoria": "DER. A LA SALUD. RECONOCIMIENTO DE PENSION DE INVALIDEZ. MEDIO DE DEFENSA JUDICIAL. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "INDEFENSION",
+      "subtema": null
+    },
+    {
+      "tema": "JURISDICCION ORDINARIA",
+      "subtema": null
+    },
+    {
+      "tema": "PENSIÓN DE INVALIDEZ",
+      "subtema": "Reconocimiento"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Naturaleza"
+    },
+    {
+      "tema": "JUEZ",
+      "subtema": "Deberes"
+    },
+    {
+      "tema": "JUEZ DE TUTELA",
+      "subtema": "Función de aplicar la ley"
+    }
+  ]
+}

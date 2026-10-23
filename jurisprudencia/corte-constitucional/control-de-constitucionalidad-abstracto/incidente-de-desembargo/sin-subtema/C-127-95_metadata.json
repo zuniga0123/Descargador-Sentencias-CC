@@ -1,0 +1,39 @@
+{
+  "radicado": "C-127-95",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1995,
+  "fecha_creacion": "1995-03-23",
+  "magistrado_ponente": "Dr VLADIMIRO NARANJO MESA",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "INCIDENTE DE DESEMBARGO",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2067 de 1991",
+    "Decreto 2282 de 1989",
+    "Ley 30 de 1987"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1995/C-127-95.htm",
+  "fecha_descarga": "2026-10-23T08:19:55.466693+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1995-03-23",
+  "fecha_publicacion": null,
+  "numero": "C-127/95",
+  "tipo_cc": "C",
+  "prov_id": "12456",
+  "tema_relatoria": "C.P.C. ARTS 549 Y 687 N°8 INC. 3 Y 4. LA MULTA EN LOS INCIDENTES DE DESEMBARGO. EXEQUIBLE",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "INCIDENTE DE DESEMBARGO",
+      "subtema": null
+    },
+    {
+      "tema": "PROCESO JUDICIAL",
+      "subtema": "Simplificación en el trámite"
+    }
+  ]
+}

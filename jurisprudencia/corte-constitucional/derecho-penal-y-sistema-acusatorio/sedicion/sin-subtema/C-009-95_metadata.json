@@ -1,0 +1,51 @@
+{
+  "radicado": "C-009-95",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1995,
+  "fecha_creacion": "1995-01-17",
+  "magistrado_ponente": "Dr VLADIMIRO NARANJO MESA",
+  "area": "Derecho Penal y Sistema Acusatorio",
+  "tema": "SEDICION",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 100 de 1980",
+    "Decreto 1857 de 1989",
+    "Decreto 2067 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1995/C-009-95.htm",
+  "fecha_descarga": "2026-10-23T08:21:42.285734+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1995-01-17",
+  "fecha_publicacion": null,
+  "numero": "C-009/95",
+  "tipo_cc": "C",
+  "prov_id": "12324",
+  "tema_relatoria": "DEC.1857/89 ARTS. 1 Y 2 PARCIALES. DEC.100/80. C.P. ARTS. 128130 Y 131 REBELION SEDICION ASONADA Y CONSPIRACION. EXEQUIBLES.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "SEDICION",
+      "subtema": null
+    },
+    {
+      "tema": "PARAMILITARES",
+      "subtema": null
+    },
+    {
+      "tema": "ASONADA",
+      "subtema": null
+    },
+    {
+      "tema": "DELITO POLITICO",
+      "subtema": null
+    },
+    {
+      "tema": "REBELION",
+      "subtema": null
+    }
+  ]
+}

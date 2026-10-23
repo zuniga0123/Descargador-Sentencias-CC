@@ -1,0 +1,53 @@
+{
+  "radicado": "C-086-95",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1995,
+  "fecha_creacion": "1995-03-01",
+  "magistrado_ponente": "Dr VLADIMIRO NARANJO MESA",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "LEY",
+  "subtema": "Unidad de materia",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 80 de 1993",
+    "Decreto 2067 de 1991",
+    "Ley 45 de 1923",
+    "Ley 222 de 1983",
+    "Ley 37 de 1993"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1995/C-086-95.htm",
+  "fecha_descarga": "2026-10-23T08:10:04.959435+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1995-03-01",
+  "fecha_publicacion": null,
+  "numero": "C-086/95",
+  "tipo_cc": "C",
+  "prov_id": "12410",
+  "tema_relatoria": "LEY 80/93. ART. 32. ESTATUTO GRAL DE CONTRATACION ADTIVA. EMBARGO FIDUCIARIO Y FIDUCIA PUBLICA. EXEQUIBLE E INEXEQUIBLE.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "LEY",
+      "subtema": "Unidad de materia"
+    },
+    {
+      "tema": "GOBIERNO",
+      "subtema": "Definición"
+    },
+    {
+      "tema": "CONTRATO DE FIDUCIA PUBLICA",
+      "subtema": null
+    },
+    {
+      "tema": "CONTRATO ADMINISTRATIVO",
+      "subtema": "Autonomía de Congreso para regularlo"
+    },
+    {
+      "tema": "CONTRATO DE FIDUCIA PUBLICA",
+      "subtema": "Reglamentación"
+    }
+  ]
+}

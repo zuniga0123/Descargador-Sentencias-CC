@@ -1,0 +1,52 @@
+{
+  "radicado": "C-471-95",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1995,
+  "fecha_creacion": "1995-10-19",
+  "magistrado_ponente": "Dr HERNANDO HERRERA VERGARA",
+  "area": "Derecho Penal y Sistema Acusatorio",
+  "tema": "DESCENTRALIZACION TERRITORIAL",
+  "subtema": "Limitaciones",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 65 de 1993",
+    "Decreto 1817 de 1964",
+    "Ley 29 de 1973",
+    "Decreto 2067 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1995/C-471-95.htm",
+  "fecha_descarga": "2026-10-23T08:14:04.471634+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1995-10-19",
+  "fecha_publicacion": null,
+  "numero": "C-471/95",
+  "tipo_cc": "C",
+  "prov_id": "12840",
+  "tema_relatoria": "LEY 65/93. ART. 17 INC. 1. CODIGO PENITENCIARIO. CREACION FUSION ORGANIZACION Y VIGILANCIA DE LAS CARCELES. EXEQUIBLES.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DESCENTRALIZACION TERRITORIAL",
+      "subtema": "Limitaciones"
+    },
+    {
+      "tema": "INSTITUTO NACIONAL PENITENCIARIO Y CARCELARIO",
+      "subtema": null
+    },
+    {
+      "tema": "DESCENTRALIZACION DEL SISTEMA CARCELARIO",
+      "subtema": null
+    },
+    {
+      "tema": "ESTABLECIMIENTO CARCELARIO",
+      "subtema": "Creación"
+    },
+    {
+      "tema": "DESCENTRALIZACION DEL SISTEMA CARCELARIO",
+      "subtema": "Recursos"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "radicado": "C-108-95",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1995,
+  "fecha_creacion": "1995-03-15",
+  "magistrado_ponente": "Dr VLADIMIRO NARANJO MESA",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "LEY",
+  "subtema": "Promulgación",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto Ley 407 de 1994",
+    "Decreto 2067 de 1991",
+    "Decreto 407 de 1994",
+    "Decreto 1817 de 1964",
+    "Ley 65 de 1993",
+    "Ley 32 de 1986"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1995/C-108-95.htm",
+  "fecha_descarga": "2026-10-23T08:19:51.847699+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1995-03-15",
+  "fecha_publicacion": null,
+  "numero": "C-108/95",
+  "tipo_cc": "C",
+  "prov_id": "12436",
+  "tema_relatoria": "DEC. 407/94. VARIOS ARTS. REGIMEN DE PERSONAL DEL INPEC. VIATICOS. EXEQUIBLES E INEXEQUIBLES.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "LEY",
+      "subtema": "Promulgación"
+    },
+    {
+      "tema": "EMPLEADOS DEL INSTITUTO NACIONAL PENITENCIARIO Y CARCELARIO",
+      "subtema": "Retiro del servicio"
+    },
+    {
+      "tema": "EMPLEADOS DEL INSTITUTO NACIONAL PENITENCIARIO Y CARCELARIO",
+      "subtema": "Retiro voluntario y reintegro"
+    },
+    {
+      "tema": "IRRENUNCIABILIDAD DE BENEFICIOS MINIMOS",
+      "subtema": null
+    },
+    {
+      "tema": "EMPLEADOS DEL INSTITUTO NACIONAL PENITENCIARIO Y CARCELARIO",
+      "subtema": "Reserva de pruebas en proceso de selección"
+    },
+    {
+      "tema": "PROCESO DISCIPLINARIO",
+      "subtema": "Suspensión provisional"
+    },
+    {
+      "tema": "EMPLEADOS DEL INSTITUTO NACIONAL PENITENCIARIO Y CARCELARIO",
+      "subtema": "Encargo"
+    },
+    {
+      "tema": "EMPLEADOS DEL INSTITUTO NACIONAL PENITENCIARIO Y CARCELARIO",
+      "subtema": "Radicación"
+    },
+    {
+      "tema": "LEY",
+      "subtema": "Expedición"
+    },
+    {
+      "tema": "VIATICOS",
+      "subtema": "Finalidad"
+    },
+    {
+      "tema": "VIATICOS",
+      "subtema": "No pago"
+    }
+  ]
+}

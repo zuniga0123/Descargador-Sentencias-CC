@@ -1,0 +1,41 @@
+{
+  "radicado": "T-014-95",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1995,
+  "fecha_creacion": "1995-01-20",
+  "magistrado_ponente": "Alejandro Martinez Caballero",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCIÓN DE TUTELA",
+  "subtema": "Improcedencia",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1995/T-014-95.htm",
+  "fecha_descarga": "2026-10-23T08:08:30.287042+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1995-01-20",
+  "fecha_publicacion": null,
+  "numero": "T-014/95",
+  "tipo_cc": "T",
+  "prov_id": "12330",
+  "tema_relatoria": "DER. DE PETICION. DER. A LA LIBERTAD. APERTURA DE CUENTA BANCARIA PARA PAGO DE SUELDOS. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Improcedencia"
+    },
+    {
+      "tema": "MINISTERIO DE EDUCACION",
+      "subtema": "Directora administrativa"
+    },
+    {
+      "tema": "SALARIO",
+      "subtema": "Pago por consignación en banco"
+    }
+  ]
+}

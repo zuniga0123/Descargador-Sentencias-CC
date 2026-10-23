@@ -1,0 +1,82 @@
+{
+  "radicado": "T-518-95",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1995,
+  "fecha_creacion": "1995-11-15",
+  "magistrado_ponente": "Dr VLADIMIRO NARANJO MESA",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+  "subtema": "Alcance del fallo",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 38 de 1989",
+    "Decreto 2148 de 1992",
+    "Decreto 1050 de 1968",
+    "Decreto 1650 de 1977",
+    "Ley 179 de 1994"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1995/T-518-95.htm",
+  "fecha_descarga": "2026-10-23T08:00:03.760394+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1995-11-15",
+  "fecha_publicacion": null,
+  "numero": "T-518/95",
+  "tipo_cc": "T",
+  "prov_id": "12891",
+  "tema_relatoria": "VIA DE HECHO. DEBIDO PROCESO. TUTELA CONTRA PROVIDENCIAS JUDICIALES. PAGO DE PENSION DE JUBILACION. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Alcance del fallo"
+    },
+    {
+      "tema": "INSTITUTO DE SEGUROS SOCIALES",
+      "subtema": "Ejecución de obligaciones laborales"
+    },
+    {
+      "tema": "EJECUCION DE ENTIDADES PUBLICAS",
+      "subtema": "Título base"
+    },
+    {
+      "tema": "INSTITUTO DE SEGUROS SOCIALES",
+      "subtema": "Naturaleza"
+    },
+    {
+      "tema": "VIA DE HECHO",
+      "subtema": "Concepto"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Procedencia"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Procedencia"
+    },
+    {
+      "tema": "CUMPLIMIENTO DE SENTENCIA LABORAL",
+      "subtema": "Inmediatez"
+    },
+    {
+      "tema": "INSTITUTO DE SEGUROS SOCIALES",
+      "subtema": "Pago de pensiones"
+    },
+    {
+      "tema": "PROCESO EJECUTIVO LABORAL",
+      "subtema": "Embargabilidad de bienes"
+    },
+    {
+      "tema": "VIA DE HECHO",
+      "subtema": "Procedencia excepcional de tutela"
+    },
+    {
+      "tema": "VIA DE HECHO",
+      "subtema": "Ejecución de obligaciones laborales"
+    }
+  ]
+}

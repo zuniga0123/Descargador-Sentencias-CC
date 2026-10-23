@@ -1,0 +1,56 @@
+{
+  "radicado": "C-430-95",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1995,
+  "fecha_creacion": "1995-09-28",
+  "magistrado_ponente": "Dr JOSE GREGORIO HERNANDEZ GALINDO",
+  "area": "Derecho Constitucional Económico",
+  "tema": "CONTRIBUCION ESPECIAL",
+  "subtema": "Denominación tributaria",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2067 de 1991",
+    "Decreto 416 de 1991",
+    "Decreto 2267 de 1991",
+    "Ley 6 de 1992"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1995/C-430-95.htm",
+  "fecha_descarga": "2026-10-23T08:10:58.347242+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1995-09-28",
+  "fecha_publicacion": null,
+  "numero": "C-430/95",
+  "tipo_cc": "C",
+  "prov_id": "12796",
+  "tema_relatoria": "LEY 6/92. ARTS 12 A 15. NORMAS EN MATERIA TRIBUTARIA. EXPLOTACION DE PETROLEO. EXEQUIBLES.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "CONTRIBUCION ESPECIAL",
+      "subtema": "Denominación tributaria"
+    },
+    {
+      "tema": "IMPUESTO",
+      "subtema": "Concepto de generalidad"
+    },
+    {
+      "tema": "OBLIGACIÓN TRIBUTARIA",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "AUTONOMIA LEGISLATIVA EN MATERIA TRIBUTARIA",
+      "subtema": null
+    },
+    {
+      "tema": "CONTRIBUCION ESPECIAL POR EXPLOTACION O EXPORTACION DE PETROLEO, GAS, CARBON Y FERRONIQUEL",
+      "subtema": null
+    },
+    {
+      "tema": "CONTRIBUCION",
+      "subtema": "Ausencia de univocidad en la Constitución"
+    }
+  ]
+}

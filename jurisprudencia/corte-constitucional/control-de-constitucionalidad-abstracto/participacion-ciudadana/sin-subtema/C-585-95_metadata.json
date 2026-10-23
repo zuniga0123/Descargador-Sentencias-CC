@@ -1,0 +1,59 @@
+{
+  "radicado": "C-585-95",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1995,
+  "fecha_creacion": "1995-12-07",
+  "magistrado_ponente": "Dr HERNANDO HERRERA VERGARA",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "PARTICIPACION CIUDADANA",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 142 de 1994",
+    "Decreto 1842 de 1991",
+    "Ley 142 de 1995"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1995/C-585-95.htm",
+  "fecha_descarga": "2026-10-23T08:09:42.818285+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1995-12-07",
+  "fecha_publicacion": null,
+  "numero": "C-585/95",
+  "tipo_cc": "C",
+  "prov_id": "12965",
+  "tema_relatoria": "LEY 142/94. ART. 27. N. 6. REGIMEN DE SERVICIOS PUBLICOS DOMICILIARIOS. PARTICIPACION DE ENTIDADES PUBLICAS. EXEQUIBLE.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "PARTICIPACION CIUDADANA",
+      "subtema": null
+    },
+    {
+      "tema": "DEMOCRACIA PARTICIPATIVA",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "PARTICIPACION CIUDADANA",
+      "subtema": "Fiscalización"
+    },
+    {
+      "tema": "SERVICIOS PUBLICOS DOMICILIARIOS",
+      "subtema": null
+    },
+    {
+      "tema": "ESTADO SOCIAL DE DERECHO",
+      "subtema": "Finalidad"
+    },
+    {
+      "tema": "EMPRESAS DE SERVICIOS PUBLICOS",
+      "subtema": "Participación en gestión y fiscalización"
+    },
+    {
+      "tema": "EMPRESAS DE SERVICIOS PUBLICOS",
+      "subtema": "Integración de junta directiva"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "radicado": "T-574-95",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1995,
+  "fecha_creacion": "1995-11-30",
+  "magistrado_ponente": "Dr FABIO MORON DIAZ",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "DERECHO DE PETICIÓN",
+  "subtema": "Pronta resolución",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1995/T-574-95.htm",
+  "fecha_descarga": "2026-10-23T08:01:12.950354+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1995-11-30",
+  "fecha_publicacion": null,
+  "numero": "T-574/95",
+  "tipo_cc": "T",
+  "prov_id": "12950",
+  "tema_relatoria": "INFORME DE INVESTIGACION CONTRA LOS MEDICOS. RESPONSABILIDAD MEDICA. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO DE PETICIÓN",
+      "subtema": "Pronta resolución"
+    },
+    {
+      "tema": "PRESUNCION DE VERACIDAD",
+      "subtema": "Resolución de solicitudes"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Ejercicio simultáneo con acción administrativa"
+    },
+    {
+      "tema": "NULIDAD POR FALTA DE COMPETENCIA",
+      "subtema": "Saneamiento por no alegación"
+    },
+    {
+      "tema": "DERECHO DE PETICIÓN",
+      "subtema": "Legitimación en la presentación de solicitud"
+    }
+  ]
+}

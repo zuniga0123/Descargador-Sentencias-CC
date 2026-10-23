@@ -1,0 +1,105 @@
+{
+  "radicado": "C-600A-95",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1995,
+  "fecha_creacion": "1995-12-11",
+  "magistrado_ponente": null,
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "LEY ORGANICA TERRITORIAL",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 60 de 1993",
+    "Ley 10 de 1990",
+    "Ley 10 de 1992",
+    "Ley 91 de 1989",
+    "Decreto 2127 de 1992"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1995/C-600A-95.htm",
+  "fecha_descarga": "2026-10-23T08:16:47.193382+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1995-12-11",
+  "fecha_publicacion": null,
+  "numero": "C-600A/95",
+  "tipo_cc": "C",
+  "prov_id": "12980",
+  "tema_relatoria": "LEY 60/93. CAPITULO I. RESERVA DE LEY ORGANICA. DISTRIBUCION DE COMPETENCIAS ENTRE ENT. TERRITORIALES Y LEY ORGANICA. EXEQUIBLE.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "LEY ORGANICA TERRITORIAL",
+      "subtema": null
+    },
+    {
+      "tema": "LIBERTAD DE CONFIGURACIÓN LEGISLATIVA",
+      "subtema": null
+    },
+    {
+      "tema": "INTERPRETACION SISTEMATICA",
+      "subtema": null
+    },
+    {
+      "tema": "ACCION DE INCONSTITUCIONALIDAD",
+      "subtema": "Caducidad"
+    },
+    {
+      "tema": "AUTONOMIA DE ENTIDADES TERRITORIALES",
+      "subtema": null
+    },
+    {
+      "tema": "LEY",
+      "subtema": "Puede contener varias leyes"
+    },
+    {
+      "tema": "LEY ORDINARIA",
+      "subtema": "No puede regular asuntos de ley orgánica"
+    },
+    {
+      "tema": "RESERVA DE LEY ORGANICA",
+      "subtema": "Vulneración"
+    },
+    {
+      "tema": "VICIO FORMAL",
+      "subtema": "Improcedencia"
+    },
+    {
+      "tema": "PRINCIPIO DE CONSERVACION DEL DERECHO",
+      "subtema": null
+    },
+    {
+      "tema": "DISTRIBUCION DE COMPETENCIAS ENTRE LA NACION Y ENTIDADES TERRITORIALES",
+      "subtema": null
+    },
+    {
+      "tema": "PRINCIPIO DEL EFECTO UTIL",
+      "subtema": null
+    },
+    {
+      "tema": "VICIO FORMAL",
+      "subtema": null
+    },
+    {
+      "tema": "CADUCIDAD DE LA ACCION PUBLICA DE INCONSTITUCIONALIDAD",
+      "subtema": "Improcedencia"
+    },
+    {
+      "tema": "LEY ORGANICA TERRITORIAL",
+      "subtema": "Contenido"
+    },
+    {
+      "tema": "LEY ORGANICA",
+      "subtema": "Regulación asuntos de ley ordinaria"
+    },
+    {
+      "tema": "LEY ORDINARIA",
+      "subtema": "Límites"
+    },
+    {
+      "tema": "RESERVA DE LEY ORGANICA",
+      "subtema": "Vulneración configura una falta de competencia"
+    }
+  ]
+}

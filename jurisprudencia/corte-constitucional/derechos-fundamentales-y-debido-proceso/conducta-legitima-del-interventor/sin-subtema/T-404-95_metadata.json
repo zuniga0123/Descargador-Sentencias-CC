@@ -1,0 +1,67 @@
+{
+  "radicado": "T-404-95",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1995,
+  "fecha_creacion": "1995-09-11",
+  "magistrado_ponente": "Dr VLADIMIRO NARANJO MESA",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "CONDUCTA LEGITIMA DEL INTERVENTOR",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Decreto 2158 de 1992",
+    "Decreto 482 de 1985"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1995/T-404-95.htm",
+  "fecha_descarga": "2026-10-23T07:59:56.361200+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1995-09-11",
+  "fecha_publicacion": null,
+  "numero": "T-404/95",
+  "tipo_cc": "T",
+  "prov_id": "12772",
+  "tema_relatoria": "DER. AL BUEN NOMBRE. DER. A LA HONRA. IRREGULARIDADES EN LA OFICINA DE REGISTRO. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "CONDUCTA LEGITIMA DEL INTERVENTOR",
+      "subtema": null
+    },
+    {
+      "tema": "INFORME DEL INTERVENTOR",
+      "subtema": "Objeto"
+    },
+    {
+      "tema": "PROCESO DISCIPLINARIO",
+      "subtema": "Objeto"
+    },
+    {
+      "tema": "SERVICIOS PÚBLICOS",
+      "subtema": "Prestación irregular"
+    },
+    {
+      "tema": "DERECHO AL BUEN NOMBRE",
+      "subtema": "Interventoría en oficina de registro"
+    },
+    {
+      "tema": "EMPLEADO PUBLICO",
+      "subtema": "Deber de informar"
+    },
+    {
+      "tema": "DERECHO A LA HONRA",
+      "subtema": "Interventoría en oficina de registro"
+    },
+    {
+      "tema": "DEBIDO PROCESO",
+      "subtema": "Interventoría"
+    },
+    {
+      "tema": "INTERVENTORIA",
+      "subtema": "Naturaleza de la información"
+    }
+  ]
+}

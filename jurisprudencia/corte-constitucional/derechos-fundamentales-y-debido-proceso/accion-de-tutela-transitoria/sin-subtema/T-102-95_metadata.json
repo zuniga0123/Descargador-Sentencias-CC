@@ -1,0 +1,81 @@
+{
+  "radicado": "T-102-95",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1995,
+  "fecha_creacion": "1995-03-13",
+  "magistrado_ponente": "Dr ALEJANDRO MARTINEZ CABALLERO",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCION DE TUTELA TRANSITORIA",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 50 de 1990",
+    "Decreto 2591 de 1991",
+    "Ley 187 de 1959",
+    "Ley 22 de 1967",
+    "Decreto 616 de 1954"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1995/T-102-95.htm",
+  "fecha_descarga": "2026-10-23T08:07:53.767397+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1995-03-13",
+  "fecha_publicacion": null,
+  "numero": "T-102/95",
+  "tipo_cc": "T",
+  "prov_id": "12430",
+  "tema_relatoria": "A TRABAJO IGUAL SALARIO IGUAL. EQUILIBRIO ENTRE EL SALARIO Y LA PRESTACION DEL SERVICIO. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCION DE TUTELA TRANSITORIA",
+      "subtema": null
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA EL EMPLEADOR",
+      "subtema": null
+    },
+    {
+      "tema": "TRABAJADOR",
+      "subtema": "Subordinación"
+    },
+    {
+      "tema": "SALARIO",
+      "subtema": "Valor intrínseco"
+    },
+    {
+      "tema": "SALARIO",
+      "subtema": "Reajuste"
+    },
+    {
+      "tema": "DISCRIMINACION SALARIAL",
+      "subtema": null
+    },
+    {
+      "tema": "INDEXACION",
+      "subtema": null
+    },
+    {
+      "tema": "PRINCIPIO A TRABAJO IGUAL SALARIO IGUAL",
+      "subtema": null
+    },
+    {
+      "tema": "INDEFENSION DEL TRABAJADOR",
+      "subtema": null
+    },
+    {
+      "tema": "REMUNERACION MOVIL",
+      "subtema": null
+    },
+    {
+      "tema": "PERJUICIO IRREMEDIABLE",
+      "subtema": "Pérdida del valor del salario"
+    },
+    {
+      "tema": "DERECHO A LA IGUALDAD",
+      "subtema": "Vulneración"
+    }
+  ]
+}

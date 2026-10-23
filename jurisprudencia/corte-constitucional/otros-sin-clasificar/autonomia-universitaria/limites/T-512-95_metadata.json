@@ -1,0 +1,57 @@
+{
+  "radicado": "T-512-95",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1995,
+  "fecha_creacion": "1995-11-14",
+  "magistrado_ponente": "Dr EDUARDO CIFUENTES MUÑOZ",
+  "area": "Otros - Sin clasificar",
+  "tema": "AUTONOMÍA UNIVERSITARIA",
+  "subtema": "Límites",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1995/T-512-95.htm",
+  "fecha_descarga": "2026-10-23T07:58:21.807584+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1995-11-14",
+  "fecha_publicacion": null,
+  "numero": "T-512/95",
+  "tipo_cc": "T",
+  "prov_id": "12885",
+  "tema_relatoria": "DER. A LA EDUCACION. AUTONOMIA UNIVERSITARIA. HABILITACION DE MATERIAS YA APROBADAS. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "AUTONOMÍA UNIVERSITARIA",
+      "subtema": "Límites"
+    },
+    {
+      "tema": "AUTONOMÍA UNIVERSITARIA",
+      "subtema": "Razonabilidad y proporcionalidad"
+    },
+    {
+      "tema": "REGLAMENTO UNIVERSITARIO",
+      "subtema": "Procedencia de tutela"
+    },
+    {
+      "tema": "AUTONOMÍA UNIVERSITARIA",
+      "subtema": "Inexistencia de norma reglamentaria"
+    },
+    {
+      "tema": "CERTIFICACIONES DE PROFESORES",
+      "subtema": "Alcance probatorio"
+    },
+    {
+      "tema": "DERECHO A LA EDUCACIÓN",
+      "subtema": "Habilitación de materia"
+    },
+    {
+      "tema": "DEMANDA DE TUTELA",
+      "subtema": "Procedencia frente a violaciones presentes"
+    }
+  ]
+}

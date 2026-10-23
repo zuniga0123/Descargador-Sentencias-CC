@@ -1,0 +1,67 @@
+{
+  "radicado": "C-203-95",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1995,
+  "fecha_creacion": "1995-05-11",
+  "magistrado_ponente": "Dr JOSE GREGORIO HERNANDEZ GALINDO",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "QUORUM DECISORIO",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2067 de 1991",
+    "Ley 62 de 1973",
+    "Ley 149 de 1995"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1995/C-203-95.htm",
+  "fecha_descarga": "2026-10-23T08:20:39.773534+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1995-05-11",
+  "fecha_publicacion": null,
+  "numero": "C-203/95",
+  "tipo_cc": "C",
+  "prov_id": "12544",
+  "tema_relatoria": "LEY 149/95. CONVENIO CONSTITUTIVO DEL ORGANISMO MULTILATERAL DE GARANTIA DE INVERSIONES. MIGA. EXEQUIBLE.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "QUORUM DECISORIO",
+      "subtema": null
+    },
+    {
+      "tema": "PROYECTO DE LEY",
+      "subtema": "Término del debate"
+    },
+    {
+      "tema": "TRATADO INTERNACIONAL",
+      "subtema": "Control de constitucionalidad"
+    },
+    {
+      "tema": "MIGA",
+      "subtema": null
+    },
+    {
+      "tema": "INTEGRACION ECONOMICA",
+      "subtema": null
+    },
+    {
+      "tema": "LEY APROBATORIA DE TRATADO INTERNACIONAL",
+      "subtema": "Vicio subsanable"
+    },
+    {
+      "tema": "QUORUM DECISORIO",
+      "subtema": "Vicio subsanable"
+    },
+    {
+      "tema": "TRATADO INTERNACIONAL",
+      "subtema": "Cumplimiento con afectación al presupuesto nacional"
+    },
+    {
+      "tema": "PROYECTO DE LEY",
+      "subtema": "Días hábiles e inhábiles"
+    }
+  ]
+}

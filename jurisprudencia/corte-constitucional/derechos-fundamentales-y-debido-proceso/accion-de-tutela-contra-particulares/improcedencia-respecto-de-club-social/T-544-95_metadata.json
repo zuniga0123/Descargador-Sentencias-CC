@@ -1,0 +1,53 @@
+{
+  "radicado": "T-544-95",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1995,
+  "fecha_creacion": "1995-11-23",
+  "magistrado_ponente": "Dr JOSE GREGORIO HERNANDEZ GALINDO",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCION DE TUTELA CONTRA PARTICULARES",
+  "subtema": "Improcedencia respecto de club social",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1995/T-544-95.htm",
+  "fecha_descarga": "2026-10-23T08:00:32.794346+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1995-11-23",
+  "fecha_publicacion": null,
+  "numero": "T-544/95",
+  "tipo_cc": "T",
+  "prov_id": "12917",
+  "tema_relatoria": "CONFLICTOS PARTICULARES ENTRE UN CLUB SOCIAL Y SUS MIEMBROS. MEDIO DE DEFENSA JUDICIAL. GOLF & TENNIS COUNTRY CLUB. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCION DE TUTELA CONTRA PARTICULARES",
+      "subtema": "Improcedencia respecto de club social"
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA PARTICULARES",
+      "subtema": "Procedencia respecto de club social"
+    },
+    {
+      "tema": "DERECHO DE ACCESO A LA ADMINISTRACIÓN DE JUSTICIA",
+      "subtema": "Irrenunciabilidad frente a cláusulas contractuales"
+    },
+    {
+      "tema": "MEDIO DE DEFENSA JUDICIAL",
+      "subtema": "Club social"
+    },
+    {
+      "tema": "DEMANDA DE TUTELA",
+      "subtema": "Expulsión socio de Club Hatogrande"
+    },
+    {
+      "tema": "DEBIDO PROCESO",
+      "subtema": "Expulsión socio de club social"
+    }
+  ]
+}

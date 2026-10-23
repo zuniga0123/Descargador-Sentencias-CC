@@ -1,0 +1,70 @@
+{
+  "radicado": "T-500-95",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1995,
+  "fecha_creacion": "1995-11-08",
+  "magistrado_ponente": "Vladimiro Naranjo Mesa",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "DEBIDO PROCESO EN LAS ACTUACIONES POLICIVAS",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Decreto 992 de 1930"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1995/T-500-95.htm",
+  "fecha_descarga": "2026-10-23T07:58:07.352500+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1995-11-08",
+  "fecha_publicacion": null,
+  "numero": "T-500/95",
+  "tipo_cc": "T",
+  "prov_id": "12870",
+  "tema_relatoria": "VIAS DE HECHO. DEBIDO PROCESO. DER. DE PETICION. RESTITUCION DE INMUEBLE. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DEBIDO PROCESO EN LAS ACTUACIONES POLICIVAS",
+      "subtema": null
+    },
+    {
+      "tema": "VIA DE HECHO",
+      "subtema": null
+    },
+    {
+      "tema": "MEDIDAS PROVISIONALES PARA PROTEGER UN DERECHO",
+      "subtema": null
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "ABOGADO",
+      "subtema": "Deberes"
+    },
+    {
+      "tema": "MEDIO DE DEFENSA JUDICIAL",
+      "subtema": "Proceso civil de policía"
+    },
+    {
+      "tema": "COSA JUZGADA CONSTITUCIONAL EN TUTELA",
+      "subtema": "Hechos nuevos"
+    },
+    {
+      "tema": "DERECHO DE DEFENSA",
+      "subtema": "Igualdad de las partes"
+    },
+    {
+      "tema": "JUEZ DE TUTELA",
+      "subtema": "Función"
+    },
+    {
+      "tema": "RECUSACION",
+      "subtema": "Improcedencia"
+    }
+  ]
+}

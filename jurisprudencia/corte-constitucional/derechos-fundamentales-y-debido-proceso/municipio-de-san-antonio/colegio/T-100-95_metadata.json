@@ -1,0 +1,49 @@
+{
+  "radicado": "T-100-95",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1995,
+  "fecha_creacion": "1995-03-08",
+  "magistrado_ponente": "Dr VLADIMIRO NARANJO MESA",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "MUNICIPIO DE SAN ANTONIO",
+  "subtema": "Colegio",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1995/T-100-95.htm",
+  "fecha_descarga": "2026-10-23T08:07:46.328211+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1995-03-08",
+  "fecha_publicacion": null,
+  "numero": "T-100/95",
+  "tipo_cc": "T",
+  "prov_id": "12428",
+  "tema_relatoria": "DER. A LA EDUCACION. HECHO SUPERADO. NOMBRAMIENTO DE DOCENTES PARA DIFERENTES AREAS. COLEGIO STO DOMINGO SAVIO. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "MUNICIPIO DE SAN ANTONIO",
+      "subtema": "Colegio"
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA ALCALDE",
+      "subtema": null
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Hecho superado"
+    },
+    {
+      "tema": "DERECHO A LA EDUCACIÓN",
+      "subtema": "Falta de profesores"
+    },
+    {
+      "tema": "DERECHO A LA EDUCACIÓN",
+      "subtema": "Protección"
+    }
+  ]
+}

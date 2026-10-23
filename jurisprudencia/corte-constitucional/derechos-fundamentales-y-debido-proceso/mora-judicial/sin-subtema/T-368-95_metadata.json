@@ -1,0 +1,57 @@
+{
+  "radicado": "T-368-95",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1995,
+  "fecha_creacion": "1995-08-24",
+  "magistrado_ponente": "Alejandro Martínez Caballero",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "MORA JUDICIAL",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1995/T-368-95.htm",
+  "fecha_descarga": "2026-10-23T07:59:05.346442+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1995-08-24",
+  "fecha_publicacion": null,
+  "numero": "T-368/95",
+  "tipo_cc": "T",
+  "prov_id": "12734",
+  "tema_relatoria": "FUNCION JUDICIAL. CUMPLIMIENTO DILIGENTE DE LOS TERMINOS PROCESALES. CARENCIA ACTUAL DE OBJETO. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "MORA JUDICIAL",
+      "subtema": null
+    },
+    {
+      "tema": "DILACION INJUSTIFICADA",
+      "subtema": null
+    },
+    {
+      "tema": "CESACION DE LA ACTUACION IMPUGNADA",
+      "subtema": "Naturaleza de la providencia"
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA FISCAL",
+      "subtema": "Incumplimiento de términos"
+    },
+    {
+      "tema": "DEBIDO PROCESO",
+      "subtema": "Vulneración por incumplimiento de términos"
+    },
+    {
+      "tema": "IMPUGNACIÓN FALLO DE TUTELA",
+      "subtema": null
+    },
+    {
+      "tema": "JUEZ DE TUTELA",
+      "subtema": "Límites en procesos penales"
+    }
+  ]
+}

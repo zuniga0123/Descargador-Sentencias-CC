@@ -1,0 +1,50 @@
+{
+  "radicado": "C-088-95",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1995,
+  "fecha_creacion": "1995-03-01",
+  "magistrado_ponente": "Dr VLADIMIRO NARANJO MESA",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "TITULO DE IDONEIDAD",
+  "subtema": "Límites",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 147 de 1994",
+    "Ley 32 de 1985",
+    "Ley 30 de 1992",
+    "Decreto 2126 de 1992",
+    "Ley 147 de 1993",
+    "Decreto 2067 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1995/C-088-95.htm",
+  "fecha_descarga": "2026-10-23T08:10:08.704829+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1995-03-01",
+  "fecha_publicacion": null,
+  "numero": "C-088/95",
+  "tipo_cc": "C",
+  "prov_id": "12412",
+  "tema_relatoria": "LEY 147/94. CONVENIO DE RECONOCIMIENTO DE CERTIFICADOS DE EDUCACION ENTRE COLOMBIA Y ARGENTINA. EXEQUIBLE.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "TITULO DE IDONEIDAD",
+      "subtema": "Límites"
+    },
+    {
+      "tema": "IUS REPRAESENTATIONIS OMNIMODAE",
+      "subtema": null
+    },
+    {
+      "tema": "DERECHO AL EJERCICIO DE PROFESION",
+      "subtema": "Convalidación en el exterior"
+    },
+    {
+      "tema": "TRATADO INTERNACIONAL",
+      "subtema": "Celebración"
+    }
+  ]
+}

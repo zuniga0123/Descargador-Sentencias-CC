@@ -1,0 +1,56 @@
+{
+  "radicado": "C-451-95",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1995,
+  "fecha_creacion": "1995-10-04",
+  "magistrado_ponente": "Eduardo Cifuentes Muñoz",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "PRINCIPIO DE EQUIDAD",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2279 de 1989",
+    "Ley 30 de 1987",
+    "Decreto Ley 2279 de 1989",
+    "Ley 23 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1995/C-451-95.htm",
+  "fecha_descarga": "2026-10-23T08:11:23.914631+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1995-10-04",
+  "fecha_publicacion": null,
+  "numero": "C-451/95",
+  "tipo_cc": "C",
+  "prov_id": "12819",
+  "tema_relatoria": "DEC. 2279/89. ARTS. 3440 Y 44 PARCIALES. SOLUCION DE CONFLICTOS ENTRE PARTICULARES. LAUDO ARBITRAL. EXEQUIBLES.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "PRINCIPIO DE EQUIDAD",
+      "subtema": null
+    },
+    {
+      "tema": "HONORARIOS DE ARBITRO",
+      "subtema": "Condición negativa"
+    },
+    {
+      "tema": "HONORARIOS DE ARBITRO",
+      "subtema": "Pago en dos contados"
+    },
+    {
+      "tema": "PRINCIPIO DE LA BUENA FE",
+      "subtema": null
+    },
+    {
+      "tema": "RESPONSABILIDAD DEL ARBITRO",
+      "subtema": null
+    },
+    {
+      "tema": "LAUDO ARBITRAL",
+      "subtema": "Nulidad"
+    }
+  ]
+}

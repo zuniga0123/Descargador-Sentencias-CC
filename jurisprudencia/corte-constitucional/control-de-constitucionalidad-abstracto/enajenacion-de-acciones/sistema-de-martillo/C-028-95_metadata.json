@@ -1,0 +1,53 @@
+{
+  "radicado": "C-028-95",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1995,
+  "fecha_creacion": "1995-02-02",
+  "magistrado_ponente": "Dr FABIO MORON DIAZ",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "ENAJENACION DE ACCIONES",
+  "subtema": "Sistema de martillo",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 663 de 1993",
+    "Ley 35 de 1993",
+    "Ley 117 de 1985",
+    "Decreto 2067 de 1991",
+    "Decreto 663 de 1994"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1995/C-028-95.htm",
+  "fecha_descarga": "2026-10-23T08:09:31.696948+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1995-02-02",
+  "fecha_publicacion": "1995-02-08",
+  "numero": "C-028/95",
+  "tipo_cc": "C",
+  "prov_id": "12346",
+  "tema_relatoria": "ESTATUTO ORGANICO DEL SISTEMA FINANCIERO.",
+  "resumen": "Demanda de inconstitucionalidad contra los arts. 303, 304 y 309 (todos parciales) del Decreto 663 de 1993, “por medio del cual se actualiza el Estatuto Orgánico del Sistema Financiero y se modifica su titulación y numeración”. El actor señaló que el sistema de “martillo” es contraria a la democratización, el acceso a la propiedad y a los principios de solidaridad social, dignidad humana, justicia distributiva y de la igualdad, por favorecer a quienes disponen de una mayor capacidad financiera. Afirmó que el art. 303 del decreto acusado pone en desventaja a las organizaciones solidarias y de trabajadores con un sujeto privado para la adquisición de acciones de entidades con participación estatal. La Sala señaló que frente los arts. 304 y 309 de la norma demanda se configuró el fenómeno de cosa juzgada, por lo que decidió estarse a lo resuelto en la sentencia C-211 de 1994. Frente al art. 303, la Corporación señaló que el sistema de “martillo” se realiza de forma cerrada o por franjas, de manera que no compitan en el mismo, sectores desiguales por el interés de la empresa y sometiéndose al trato favorable, representado en las condiciones que se refiere el art. 60 de la Carta. Por lo que declaró exequible el art. 303 del citado decreto.",
+  "titulaciones": [
+    {
+      "tema": "ENAJENACION DE ACCIONES",
+      "subtema": "Sistema de martillo"
+    },
+    {
+      "tema": "DEMOCRATIZACION DE LA PROPIEDAD ACCIONARIA DEL ESTADO",
+      "subtema": null
+    },
+    {
+      "tema": "DEMOCRACIA ECONOMICA",
+      "subtema": null
+    },
+    {
+      "tema": "DEMOCRACIA INDUSTRIAL",
+      "subtema": null
+    },
+    {
+      "tema": "PROPIEDAD ACCIONARIA",
+      "subtema": "Condiciones especiales"
+    }
+  ]
+}

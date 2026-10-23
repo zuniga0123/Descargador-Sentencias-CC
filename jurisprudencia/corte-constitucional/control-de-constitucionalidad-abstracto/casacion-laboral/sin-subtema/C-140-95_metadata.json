@@ -1,0 +1,61 @@
+{
+  "radicado": "C-140-95",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1995,
+  "fecha_creacion": "1995-03-29",
+  "magistrado_ponente": "Dr VLADIMIRO NARANJO MESA",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "CASACION LABORAL",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 16 de 1969",
+    "Decreto 528 de 1964",
+    "Ley 16 de 1968",
+    "Ley 16 de 1993",
+    "Decreto 2067 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1995/C-140-95.htm",
+  "fecha_descarga": "2026-10-23T08:09:17.078390+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1995-03-29",
+  "fecha_publicacion": "1995-04-28",
+  "numero": "C-140/95",
+  "tipo_cc": "C",
+  "prov_id": "12470",
+  "tema_relatoria": "DEBIDO PROCESO. LA CASACION EN MATERIA LABORAL.",
+  "resumen": "Demanda de inconstitucionalidad contra el art. 7º (parcial) de la Ley 16 de 1969, “por la cual se introducen unas modificaciones a la Ley 16 de 1968 y a los Códigos Penal y de Procedimiento Penal y se divide temporalmente la Sala de Casación Civil de la Corte Suprema de Justicia, en dos secciones”. El actor estimó que la expresión demandada contraría los arts. 5, 13, 23, 29, 31 y 229 de la Constitución Política. La Sala Plena señaló que la norma demandada no desconoce el derecho a la igualdad y al debido proceso de las personas que pretendan interponer la demanda de casación en materia laboral, ya que la restricción para tres medios probatorios (documento auténtico, confesión judicial e inspección judicial), responde a la imposibilidad del juez de casación de apreciar, dentro de la causal de error de hecho, las consideraciones subjetivas y valorativas que tuvo el juez de instancia al ser, en virtud de lo ordenado por la ley, quien dirigió y practicó personalmente las pruebas a lo largo del litigio. Así las cosas, esa determinación garantiza el derecho de defensa, pues hace que el juez de casación funde sus argumentaciones en hechos objetivos y no en meras especulaciones respecto de la forma de pensar, concluir, razonar o actuar de quienes administraron justicia en materia probatoria, tanto en primera como en segunda instancia. Por lo anterior, la Corte declaró exequible la parte acusada del art.7 de la Ley 16 de 1969.",
+  "titulaciones": [
+    {
+      "tema": "CASACION LABORAL",
+      "subtema": null
+    },
+    {
+      "tema": "PRUEBAS EN MATERIA LABORAL",
+      "subtema": null
+    },
+    {
+      "tema": "DEBIDO PROCESO",
+      "subtema": "Formas propias de cada juicio"
+    },
+    {
+      "tema": "PRIMACIA DE LA REALIDAD EN MATERIA LABORAL",
+      "subtema": null
+    },
+    {
+      "tema": "CASACION LABORAL",
+      "subtema": "Vulneración de principios fundamentales"
+    },
+    {
+      "tema": "CASACION",
+      "subtema": "Causales en laboral"
+    },
+    {
+      "tema": "RECURSO DE CASACION",
+      "subtema": "Constitucionalización"
+    }
+  ]
+}

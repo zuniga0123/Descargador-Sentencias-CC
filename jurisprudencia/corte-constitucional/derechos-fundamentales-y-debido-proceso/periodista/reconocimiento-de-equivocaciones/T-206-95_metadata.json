@@ -1,0 +1,65 @@
+{
+  "radicado": "T-206-95",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1995,
+  "fecha_creacion": "1995-05-11",
+  "magistrado_ponente": "Dr Jorge Arango Mejía",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "PERIODISTA",
+  "subtema": "Reconocimiento de equivocaciones",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1995/T-206-95.htm",
+  "fecha_descarga": "2026-10-23T08:03:35.174103+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1995-05-11",
+  "fecha_publicacion": null,
+  "numero": "T-206/95",
+  "tipo_cc": "T",
+  "prov_id": "12546",
+  "tema_relatoria": "DER. A LA INTIMIDAD. DER. AL BUEN NOMBRE. RECTIFICACION DE INFORMACION. NOTICIERO Q.A.P. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "PERIODISTA",
+      "subtema": "Reconocimiento de equivocaciones"
+    },
+    {
+      "tema": "LIBERTAD DE EXPRESIÓN",
+      "subtema": "Límites"
+    },
+    {
+      "tema": "DERECHO A LA INFORMACIÓN",
+      "subtema": "Veracidad"
+    },
+    {
+      "tema": "DECISION JUDICIAL",
+      "subtema": "Obligación de acatarla"
+    },
+    {
+      "tema": "NOTICIERO QAP",
+      "subtema": null
+    },
+    {
+      "tema": "NULIDAD POR FALTA DE NOTIFICACION",
+      "subtema": null
+    },
+    {
+      "tema": "NOTICIERO",
+      "subtema": "Responsabilidad"
+    },
+    {
+      "tema": "DERECHO A LA INFORMACIÓN",
+      "subtema": "Veracidad e imparcialidad"
+    },
+    {
+      "tema": "PERJUICIO",
+      "subtema": "Improcedencia"
+    }
+  ]
+}

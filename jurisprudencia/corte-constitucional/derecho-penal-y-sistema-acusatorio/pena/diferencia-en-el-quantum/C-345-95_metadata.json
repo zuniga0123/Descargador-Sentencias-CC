@@ -1,0 +1,45 @@
+{
+  "radicado": "C-345-95",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1995,
+  "fecha_creacion": "1995-08-02",
+  "magistrado_ponente": "Dr EDUARDO CIFUENTES MUÑOZ",
+  "area": "Derecho Penal y Sistema Acusatorio",
+  "tema": "PENA",
+  "subtema": "Diferencia en el quantum",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto Ley 100 de 1980",
+    "Decreto 100 de 1980",
+    "Ley 5 de 1979",
+    "Decreto 2550 de 1988",
+    "Decreto Ley 2550 de 1988"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1995/C-345-95.htm",
+  "fecha_descarga": "2026-10-23T08:13:45.908014+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1995-08-02",
+  "fecha_publicacion": null,
+  "numero": "C-345/95",
+  "tipo_cc": "C",
+  "prov_id": "12701",
+  "tema_relatoria": "DEC. 100/80. C.P. ART. 82. PRESCRIPCION DE LA ACCION PENAL. DELITO COMETIDO POR EMPLEADO OFICIAL. EXEQUIBLE.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "PENA",
+      "subtema": "Diferencia en el quantum"
+    },
+    {
+      "tema": "PRESCRIPCION DE LA ACCION PENAL",
+      "subtema": "Empleados públicos"
+    },
+    {
+      "tema": "PRESCRIPCION DE LA ACCION PENAL",
+      "subtema": "Empleados públicos militares y no militares"
+    }
+  ]
+}

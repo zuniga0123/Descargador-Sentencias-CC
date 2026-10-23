@@ -1,0 +1,55 @@
+{
+  "radicado": "T-291-95",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1995,
+  "fecha_creacion": "1995-07-05",
+  "magistrado_ponente": null,
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "PATRIMONIO DE LA EMPRESA",
+  "subtema": "Protección",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 2158 de 1948",
+    "Ley 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1995/T-291-95.htm",
+  "fecha_descarga": "2026-10-23T08:02:44.197521+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1995-07-05",
+  "fecha_publicacion": null,
+  "numero": "T-291/95",
+  "tipo_cc": "T",
+  "prov_id": "12642",
+  "tema_relatoria": "DER. AL TRABAJO. DER. A LA IGUALDAD. DEBIDO PROCESO. MEDIO DE DEFENSA JUDICIAL. EMPRESA \"EL RECREO LTDA\". NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "PATRIMONIO DE LA EMPRESA",
+      "subtema": "Protección"
+    },
+    {
+      "tema": "TRABAJADOR ACUSADO DE HURTO",
+      "subtema": "Suspensión de funciones"
+    },
+    {
+      "tema": "REUBICACION LABORAL",
+      "subtema": "Improcedencia"
+    },
+    {
+      "tema": "DERECHO AL TRABAJO",
+      "subtema": null
+    },
+    {
+      "tema": "LEGITIMIDAD DE MEDIDAS PATRONALES",
+      "subtema": null
+    },
+    {
+      "tema": "DERECHO SOCIAL",
+      "subtema": null
+    }
+  ]
+}

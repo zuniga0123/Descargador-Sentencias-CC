@@ -1,0 +1,48 @@
+{
+  "radicado": "C-026-95",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1995,
+  "fecha_creacion": "1995-02-02",
+  "magistrado_ponente": "Dr CARLOS GAVIRIA DIAZ",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "PROHIBICION DE BEBIDAS ALCOHOLICAS",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 100 de 1980",
+    "Decreto 100 de 1980",
+    "Ley 40 de 1993",
+    "Ley 30 de 1986"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1995/C-026-95.htm",
+  "fecha_descarga": "2026-10-23T08:11:42.356793+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1995-02-02",
+  "fecha_publicacion": null,
+  "numero": "C-026/95",
+  "tipo_cc": "C",
+  "prov_id": "12344",
+  "tema_relatoria": "DEC. 100/80. C.P. ARTS. 44 PARCIAL Y 59. PENA ACCESORIA DEL CONSUMO DE BEBIDAS ALCOHOLICAS. EXEQUIBLE.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "PROHIBICION DE BEBIDAS ALCOHOLICAS",
+      "subtema": null
+    },
+    {
+      "tema": "FACULTAD LEGISLATIVA EN MATERIA PENAL",
+      "subtema": null
+    },
+    {
+      "tema": "PENA",
+      "subtema": "Clasificación"
+    },
+    {
+      "tema": "PENA",
+      "subtema": "Fines"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "radicado": "C-223-95",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1995,
+  "fecha_creacion": "1995-05-18",
+  "magistrado_ponente": "Antonio Barrera Carbonell",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "PERSONERO MUNICIPAL",
+  "subtema": "Naturaleza",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 136 de 1994",
+    "Decreto 2067 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1995/C-223-95.htm",
+  "fecha_descarga": "2026-10-23T08:09:13.266541+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1995-05-18",
+  "fecha_publicacion": "1995-05-25",
+  "numero": "C-223/95",
+  "tipo_cc": "C",
+  "prov_id": "12564",
+  "tema_relatoria": "SALARIOS Y PRESTACIONES DE PERSONEROS MUNICIPALES Y ALCALDES.",
+  "resumen": "Demanda de inconstitucionalidad contra art. 177 de la Ley 136 de 1994, “Por la cual se dictan normas tendientes a modernizar la organización y el funcionamiento de los municipios”. El actor señaló que (i) la norma acusada violó los arts. 13, 118 y 280 de la Constitución, ya que el tratamiento que se da a los personeros genera una discriminación y categorización; (ii) es contrario al principio de la igualdad el seguro de vida para los funcionarios de la rama jurisdiccional y personeros. La Sala Plena señaló que dicha categorización no tiene un sustento serio, objetivo y razonable que justifique que los personeros de municipios, de las categorías especiales, primera y segunda, tengan una asignación salarial distinta. Por otro lado, la Corte afirmó que no se pueden asimilar los personeros a los funcionarios de la rama jurisdiccional ante quienes actúan porque al no ser agentes permanentes del Procurador ante las autoridades jurisdiccionales no se les aplica el art. 280 de la Constitución. Por lo anterior, la Corte declaró exequible el art. 77 de la Ley 136 de 1994, salvo las expresiones \"en los municipios y distritos de las categorías especiales primera y segunda\" y \"En los demás municipios será igual al setenta por ciento (70%) del salario mensual aprobado por el concejo para el alcalde\", las cuales se declaran inexequibles.",
+  "titulaciones": [
+    {
+      "tema": "PERSONERO MUNICIPAL",
+      "subtema": "Naturaleza"
+    },
+    {
+      "tema": "MINISTERIO PUBLICO",
+      "subtema": "Agentes"
+    },
+    {
+      "tema": "MUNICIPIO",
+      "subtema": "Categorías"
+    },
+    {
+      "tema": "PERSONERO MUNICIPAL",
+      "subtema": "Igualdad salarial"
+    }
+  ]
+}

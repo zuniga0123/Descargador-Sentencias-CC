@@ -1,0 +1,51 @@
+{
+  "radicado": "T-573-95",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1995,
+  "fecha_creacion": "1995-11-30",
+  "magistrado_ponente": "Dr FABIO MORON DIAZ",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "ESTABLECIMIENTO EDUCATIVO",
+  "subtema": "Matrícula como vínculo contractual",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2542 de 1991",
+    "Decreto 2591 de 1991",
+    "Decreto 2541 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1995/T-573-95.htm",
+  "fecha_descarga": "2026-10-23T08:01:09.306119+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1995-11-30",
+  "fecha_publicacion": null,
+  "numero": "T-573/95",
+  "tipo_cc": "T",
+  "prov_id": "12949",
+  "tema_relatoria": "DER. A LA EDUCACION.NO ENTREGA DE DIPLOMA Y CERTIFICADOS POR NO PAGO DE PENSIONES. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ESTABLECIMIENTO EDUCATIVO",
+      "subtema": "Matrícula como vínculo contractual"
+    },
+    {
+      "tema": "DERECHO A LA EDUCACIÓN",
+      "subtema": "No pago de pensión"
+    },
+    {
+      "tema": "ESTABLECIMIENTO EDUCATIVO",
+      "subtema": "Cobro de pensiones"
+    },
+    {
+      "tema": "DEMANDA DE TUTELA",
+      "subtema": "Retención de diploma por no pago de pensión"
+    },
+    {
+      "tema": "DERECHO A LA EDUCACIÓN",
+      "subtema": "Naturaleza"
+    }
+  ]
+}

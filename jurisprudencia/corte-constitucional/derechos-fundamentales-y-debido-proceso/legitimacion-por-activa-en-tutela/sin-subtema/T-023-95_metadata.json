@@ -1,0 +1,57 @@
+{
+  "radicado": "T-023-95",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1995,
+  "fecha_creacion": "1995-02-01",
+  "magistrado_ponente": "Dr Jorge Arango Mejía",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "LEGITIMACIÓN POR ACTIVA EN TUTELA",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1995/T-023-95.htm",
+  "fecha_descarga": "2026-10-23T08:08:41.457635+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1995-02-01",
+  "fecha_publicacion": null,
+  "numero": "T-023/95",
+  "tipo_cc": "T",
+  "prov_id": "12341",
+  "tema_relatoria": "LEGITIMACION EN LA CAUSA. DER. AL AMBIENTE SANO. ACCIONES POPULARES. SUPRESION DE SERVICIO DE ACUEDUCTO. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "LEGITIMACIÓN POR ACTIVA EN TUTELA",
+      "subtema": null
+    },
+    {
+      "tema": "AGENCIA OFICIOSA EN TUTELA",
+      "subtema": null
+    },
+    {
+      "tema": "SERVICIO PUBLICO DE ACUEDUCTO",
+      "subtema": "Restablecimiento inmediato"
+    },
+    {
+      "tema": "ACCION DE TUTELA INTERPUESTA POR CONCEJAL",
+      "subtema": null
+    },
+    {
+      "tema": "JUEZ DE TUTELA",
+      "subtema": "Orden de suspender servicio"
+    },
+    {
+      "tema": "SERVICIO PUBLICO DE ACUEDUCTO",
+      "subtema": "Suspensión"
+    },
+    {
+      "tema": "MEDIDAS PROVISIONALES EN PROCESO DE TUTELA PARA PROTEGER UN DERECHO",
+      "subtema": "Finalidad"
+    }
+  ]
+}

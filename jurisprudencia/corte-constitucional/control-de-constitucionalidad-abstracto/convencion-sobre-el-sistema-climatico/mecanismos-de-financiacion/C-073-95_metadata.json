@@ -1,0 +1,55 @@
+{
+  "radicado": "C-073-95",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1995,
+  "fecha_creacion": "1995-02-23",
+  "magistrado_ponente": "Eduardo Cifuentes Muñoz",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "CONVENCION SOBRE EL SISTEMA CLIMATICO",
+  "subtema": "Mecanismos de financiación",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 164 de 1994",
+    "Ley 99 de 1993",
+    "Ley 165 de 1994"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1995/C-073-95.htm",
+  "fecha_descarga": "2026-10-23T08:22:08.265330+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1995-02-23",
+  "fecha_publicacion": null,
+  "numero": "C-073/95",
+  "tipo_cc": "C",
+  "prov_id": "12398",
+  "tema_relatoria": "LEY 164/94. CONVENCION MARCO DE LAS NACIONES UNIDAS SOBRE EL CAMBIO CLIMATICO. EXEQUIBLE.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "CONVENCION SOBRE EL SISTEMA CLIMATICO",
+      "subtema": "Mecanismos de financiación"
+    },
+    {
+      "tema": "RECURSOS NATURALES",
+      "subtema": "Protección"
+    },
+    {
+      "tema": "PRINCIPIO DE AUTODETERMINACION DE LOS PUEBLOS",
+      "subtema": null
+    },
+    {
+      "tema": "CONVENIO INTERNACIONAL",
+      "subtema": null
+    },
+    {
+      "tema": "CONVENCION SOBRE EL SISTEMA CLIMATICO",
+      "subtema": "Confidencialidad de informaciones"
+    },
+    {
+      "tema": "CONVENCION INTERNACIONAL SOBRE CAMBIO CLIMATICO",
+      "subtema": "Solución de conflicto"
+    }
+  ]
+}

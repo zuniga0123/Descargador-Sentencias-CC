@@ -1,0 +1,69 @@
+{
+  "radicado": "C-407-95",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1995,
+  "fecha_creacion": "1995-09-11",
+  "magistrado_ponente": "Dr EDUARDO CIFUENTES MUÑOZ",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "VICTIMAS",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 1185 de 1994",
+    "Ley 9 de 1989",
+    "Decreto 1264 de 1994",
+    "Ley 31 de 1992",
+    "Decreto 2067 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1995/C-407-95.htm",
+  "fecha_descarga": "2026-10-23T08:16:06.248430+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1995-09-11",
+  "fecha_publicacion": null,
+  "numero": "C-407/95",
+  "tipo_cc": "C",
+  "prov_id": "12770",
+  "tema_relatoria": "O.P. AL PROYECTO DE LEY N°43/94 SENADO. 118/95 CAMARA POR EL CUAL SE MODIFICA EL DEC. 1264/94. EMERGENCIA ECONOMICA. EXEQUIBLE E INEXEQUIBLE.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "VICTIMAS",
+      "subtema": null
+    },
+    {
+      "tema": "DAMNIFICADOS",
+      "subtema": null
+    },
+    {
+      "tema": "FACULTADES EXCEPCIONALES",
+      "subtema": "Situaciones de emergencia"
+    },
+    {
+      "tema": "FUNCION LEGISLATIVA",
+      "subtema": "Desarrollo"
+    },
+    {
+      "tema": "LINEA DE CREDITO ESPECIAL",
+      "subtema": "Competencia para su creación"
+    },
+    {
+      "tema": "INICIATIVA LEGISLATIVA",
+      "subtema": "Término en que se reasume"
+    },
+    {
+      "tema": "INICIATIVA LEGISLATIVA",
+      "subtema": "Naturaleza"
+    },
+    {
+      "tema": "PROYECTO DE LEY TRIBUTARIA",
+      "subtema": "Iniciación"
+    },
+    {
+      "tema": "PROYECTO DE LEY",
+      "subtema": "Vicio subsanable"
+    }
+  ]
+}
