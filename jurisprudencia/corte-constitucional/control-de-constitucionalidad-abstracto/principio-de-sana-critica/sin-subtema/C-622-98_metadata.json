@@ -1,0 +1,73 @@
+{
+  "radicado": "C-622-98",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1998,
+  "fecha_creacion": "1998-11-04",
+  "magistrado_ponente": "Dr FABIO MORON DIAZ",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "PRINCIPIO DE SANA CRITICA",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2282 de 1989"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1998/C-622-98.htm",
+  "fecha_descarga": "2026-10-23T06:13:40.167560+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1998-11-04",
+  "fecha_publicacion": null,
+  "numero": "C-622/98",
+  "tipo_cc": "C",
+  "prov_id": "15238",
+  "tema_relatoria": "C. DE P.C. ARTS. 202210242 Y 246 PARCIALES Y 217. CONFESION FICTA O PRESUNTA. COLABORACION DE LAS PARTES. INSPECCION JUDICIAL. EXEQUIBLES.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "PRINCIPIO DE SANA CRITICA",
+      "subtema": null
+    },
+    {
+      "tema": "CONFESION FICTA O PRESUNTA",
+      "subtema": "Debe cumplir requisitos legales"
+    },
+    {
+      "tema": "TESTIGO SOSPECHOSO",
+      "subtema": null
+    },
+    {
+      "tema": "DERECHO DE DEFENSA",
+      "subtema": "No es vulnerado por confesión ficta o presunta, o presunción de indicios en contra de interrogado"
+    },
+    {
+      "tema": "PRESUNCION DE LA BUENA FE",
+      "subtema": "Valoración de testimonio sospechoso"
+    },
+    {
+      "tema": "PRINCIPIO DE NO AUTOINCRIMINACION",
+      "subtema": "Sólo aplicable en asuntos criminales, correccionales y de policía"
+    },
+    {
+      "tema": "PRINCIPIO NON BIS IN IDEM",
+      "subtema": "Sólo se aplica en el ámbito del ius puniendi"
+    },
+    {
+      "tema": "PRINCIPIO DE LA BUENA FE",
+      "subtema": "Aspectos activo y pasivo"
+    },
+    {
+      "tema": "PRINCIPIO DE NO AUTOINCRIMINACION",
+      "subtema": "Carácter general"
+    },
+    {
+      "tema": "PRINCIPIO NON BIS IN IDEM",
+      "subtema": "Aplicación en el ámbito penal y administrativo"
+    },
+    {
+      "tema": "PRINCIPIO DE AUTONOMIA FUNCIONAL DEL JUEZ",
+      "subtema": "No es vulnerado por confesión ficta o presunta o presunción de indicios en contra de interrogado"
+    }
+  ]
+}

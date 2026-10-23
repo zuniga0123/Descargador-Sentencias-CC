@@ -1,0 +1,59 @@
+{
+  "radicado": "C-111-98",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1998,
+  "fecha_creacion": "1998-03-25",
+  "magistrado_ponente": "Dr JOSE GREGORIO HERNANDEZ GALINDO",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "REGIMEN DISCIPLINARIO",
+  "subtema": "Contenido",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 1888 de 1989",
+    "Decreto 2281 de 1989",
+    "Ley 200 de 1995",
+    "Decreto 2067 de 1991",
+    "Ley 30 de 1987",
+    "Ley 270 de 1996",
+    "Ley 190 de 1995"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1998/C-111-98.htm",
+  "fecha_descarga": "2026-10-23T06:04:32.950270+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1998-03-25",
+  "fecha_publicacion": null,
+  "numero": "C-111/98",
+  "tipo_cc": "C",
+  "prov_id": "14660",
+  "tema_relatoria": "DEC. 1888/89. ART. 3. DEC. 2281/89. ART. 1. LEY 200/95. ART. 43. INHABILIDADES PARA DESEMPEÑAR CARGOS EN LA RAMA JUDICIAL. EXEQUIBLE. INCONSTIT. ART. 3. VER. C-558/94 .",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "REGIMEN DISCIPLINARIO",
+      "subtema": "Contenido"
+    },
+    {
+      "tema": "COSA JUZGADA CONSTITUCIONAL",
+      "subtema": null
+    },
+    {
+      "tema": "RESERVA LEGAL EN MATERIA DE INHABILIDADES",
+      "subtema": null
+    },
+    {
+      "tema": "GOBIERNO",
+      "subtema": "Límites al dictar decretos leyes"
+    },
+    {
+      "tema": "INHABILIDADES PARA FUNCIONARIOS Y EMPLEADOS DE LA RAMA JUDICIAL",
+      "subtema": "Constitucionalidad"
+    },
+    {
+      "tema": "PRINCIPIO DE UNIDAD DE MATERIA",
+      "subtema": "Alcance"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "radicado": "T-424-98",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1998,
+  "fecha_creacion": "1998-08-14",
+  "magistrado_ponente": "Dr VLADIMIRO NARANJO MESA",
+  "area": "Derecho Administrativo y Función Pública",
+  "tema": "DERECHO DE ACCESO A DOCUMENTOS PUBLICOS",
+  "subtema": "Protección por tutela",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 57 de 1985"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1998/T-424-98.htm",
+  "fecha_descarga": "2026-10-23T05:51:44.429153+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1998-08-14",
+  "fecha_publicacion": null,
+  "numero": "T-424/98",
+  "tipo_cc": "T",
+  "prov_id": "15008",
+  "tema_relatoria": "DER. DE PETICION. ACCESO A DOCUMENTOS PUBLICOS. SOLICITUD A LA IMPRENTA NACIONAL DE COPIAS DEL ACTA DE UNA LICITACION. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO DE ACCESO A DOCUMENTOS PUBLICOS",
+      "subtema": "Protección por tutela"
+    },
+    {
+      "tema": "DERECHOS DE PETICIÓN Y ACCESO A DOCUMENTOS PÚBLICOS",
+      "subtema": "Solicitud de copias"
+    },
+    {
+      "tema": "SILENCIO ADMINISTRATIVO POSITIVO",
+      "subtema": "Solicitud de copia de documentos"
+    }
+  ]
+}

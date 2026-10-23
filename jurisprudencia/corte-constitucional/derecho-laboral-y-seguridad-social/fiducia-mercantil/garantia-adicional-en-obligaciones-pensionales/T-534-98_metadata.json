@@ -1,0 +1,56 @@
+{
+  "radicado": "T-534-98",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1998,
+  "fecha_creacion": "1998-09-30",
+  "magistrado_ponente": "Dr ALEJANDRO MARTINEZ CABALLERO",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "FIDUCIA MERCANTIL",
+  "subtema": "Garantía adicional en obligaciones pensionales",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Decreto 2591 de 1991",
+    "Decreto 2677 de 1971",
+    "Decreto 1572 de 1973"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1998/T-534-98.htm",
+  "fecha_descarga": "2026-10-23T05:54:11.775590+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1998-09-30",
+  "fecha_publicacion": null,
+  "numero": "T-534/98",
+  "tipo_cc": "T",
+  "prov_id": "15140",
+  "tema_relatoria": "DER. A LA VIDA. DER. A LA IGUALDAD Y A LA SEGURIDAD SOCIAL. CONMUTACION PENSIONAL. PENSIONADOS DE LA FLOTA MERCANTE GRAN COLOMBIANA. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "FIDUCIA MERCANTIL",
+      "subtema": "Garantía adicional en obligaciones pensionales"
+    },
+    {
+      "tema": "SISTEMA GENERAL DE PENSIONES",
+      "subtema": "Campo de aplicación"
+    },
+    {
+      "tema": "CONMUTACION PENSIONAL",
+      "subtema": "Alcance y operancia"
+    },
+    {
+      "tema": "DERECHO A LA SEGURIDAD SOCIAL DE PERSONA DE LA TERCERA EDAD",
+      "subtema": "Fundamental por afectación del mínimo vital de pensionado"
+    },
+    {
+      "tema": "CONMUTACION PENSIONAL",
+      "subtema": "Flota Mercante Gran Colombiana"
+    },
+    {
+      "tema": "SISTEMA INTEGRAL DE SEGURIDAD SOCIAL",
+      "subtema": "Necesidad de asegurar obligación pensional"
+    }
+  ]
+}

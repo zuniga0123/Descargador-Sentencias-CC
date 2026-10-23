@@ -1,0 +1,50 @@
+{
+  "radicado": "T-474-98",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1998,
+  "fecha_creacion": "1998-09-08",
+  "magistrado_ponente": "Dr JOSE GREGORIO HERNANDEZ GALINDO",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "ACCION DE TUTELA INTERPUESTA POR SINDICATO",
+  "subtema": "Protección derechos fundamentales de sindicalizados",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 100 de 1993"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1998/T-474-98.htm",
+  "fecha_descarga": "2026-10-23T05:52:56.321596+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1998-09-08",
+  "fecha_publicacion": null,
+  "numero": "T-474/98",
+  "tipo_cc": "T",
+  "prov_id": "15067",
+  "tema_relatoria": "DER. A LA SEGURIDAD SOCIAL. MORA DEL PATRONO EN APORTES AL I.S.S. DER. A LA SALUD. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCION DE TUTELA INTERPUESTA POR SINDICATO",
+      "subtema": "Protección derechos fundamentales de sindicalizados"
+    },
+    {
+      "tema": "DERECHO A LA SEGURIDAD SOCIAL EN SALUD",
+      "subtema": "Traslado a Fiscalía por desvío de aportes"
+    },
+    {
+      "tema": "LEGITIMACION POR ACTIVA DEL SINDICATO",
+      "subtema": "Representación de asociados"
+    },
+    {
+      "tema": "INFORMES EN TUTELA",
+      "subtema": "Presunción de veracidad sobre los hechos"
+    },
+    {
+      "tema": "SISTEMA GENERAL DE SEGURIDAD SOCIAL EN SALUD",
+      "subtema": "Asunción de responsabilidad por empleador al no entregar aportes descontados"
+    }
+  ]
+}

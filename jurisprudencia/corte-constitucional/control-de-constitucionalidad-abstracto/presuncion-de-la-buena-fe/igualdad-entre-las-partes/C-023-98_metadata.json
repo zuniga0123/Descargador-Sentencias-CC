@@ -1,0 +1,65 @@
+{
+  "radicado": "C-023-98",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1998,
+  "fecha_creacion": "1998-02-11",
+  "magistrado_ponente": "Dr JORGE ARANGO MEJÍA",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "PRESUNCION DE LA BUENA FE",
+  "subtema": "Igualdad entre las partes",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2150 de 1995"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1998/C-023-98.htm",
+  "fecha_descarga": "2026-10-23T06:15:12.883428+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1998-02-11",
+  "fecha_publicacion": null,
+  "numero": "C-023/98",
+  "tipo_cc": "C",
+  "prov_id": "14564",
+  "tema_relatoria": "DEC. 2282/89. C. de P.C. ARTS. 254 Y 268 PARCIALES. VALOR PROBATORIO DE LAS COPIAS. APORTACION DE DOCUMENTOS PRIVADOS. EXEQUIBLES.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "PRESUNCION DE LA BUENA FE",
+      "subtema": "Igualdad entre las partes"
+    },
+    {
+      "tema": "PROCESO JUDICIAL",
+      "subtema": "Copias de documentos autenticadas"
+    },
+    {
+      "tema": "PREVALENCIA DEL DERECHO SUSTANCIAL",
+      "subtema": null
+    },
+    {
+      "tema": "PRESUNCION DE AUTENTICIDAD",
+      "subtema": null
+    },
+    {
+      "tema": "PRINCIPIO DE LA BUENA FE PROCESAL",
+      "subtema": null
+    },
+    {
+      "tema": "NORMA SUSPENDIDA",
+      "subtema": "Posibilidad de la Corte para decidir exequibilidad"
+    },
+    {
+      "tema": "PRINCIPIO DE LA BUENA FE PROCESAL",
+      "subtema": "Desconocimiento"
+    },
+    {
+      "tema": "PRESUNCION DE LA BUENA FE",
+      "subtema": "No es incompatible con la exigencia de pruebas"
+    },
+    {
+      "tema": "VALOR PROBATORIO DE LAS COPIAS",
+      "subtema": "Autenticación"
+    }
+  ]
+}

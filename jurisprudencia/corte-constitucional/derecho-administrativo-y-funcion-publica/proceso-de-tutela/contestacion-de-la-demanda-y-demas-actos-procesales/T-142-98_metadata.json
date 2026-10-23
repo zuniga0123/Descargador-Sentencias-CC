@@ -1,0 +1,43 @@
+{
+  "radicado": "T-142-98",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1998,
+  "fecha_creacion": "1998-04-20",
+  "magistrado_ponente": "Dr ANTONIO BARRERA CARBONELL",
+  "area": "Derecho Administrativo y Función Pública",
+  "tema": "PROCESO DE TUTELA",
+  "subtema": "Contestación de la demanda y demás actos procesales",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 223 de 1995",
+    "Decreto 196 de 1996",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1998/T-142-98.htm",
+  "fecha_descarga": "2026-10-23T06:02:06.879827+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1998-04-20",
+  "fecha_publicacion": null,
+  "numero": "T-142/98",
+  "tipo_cc": "T",
+  "prov_id": "14696",
+  "tema_relatoria": "DEBIDO PROCESO. SOLICITUD DE SANEAMIENTO DE IMPUGNACIONES A LA ADMINISTRACION DE IMPUESTOS DE SAN ANDRES. MEDIO DE DEFENSA JUDICIAL. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "PROCESO DE TUTELA",
+      "subtema": "Contestación de la demanda y demás actos procesales"
+    },
+    {
+      "tema": "ACCION DE NULIDAD Y RESTABLECIMIENTO DEL DERECHO",
+      "subtema": "Improcedencia de tutela"
+    },
+    {
+      "tema": "PERJUICIO IRREMEDIABLE",
+      "subtema": "Criterios para determinar su configuración"
+    }
+  ]
+}

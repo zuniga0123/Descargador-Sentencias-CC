@@ -1,0 +1,46 @@
+{
+  "radicado": "T-428-98",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1998,
+  "fecha_creacion": "1998-08-18",
+  "magistrado_ponente": "Dr VLADIMIRO NARANJO MESA",
+  "area": "Derecho a la Salud",
+  "tema": "SENTENCIA DE REVISION DE TUTELA",
+  "subtema": "Fallecimiento de actor no exime pronunciamiento de fondo",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 100 de 1993"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1998/T-428-98.htm",
+  "fecha_descarga": "2026-10-23T05:51:51.644675+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1998-08-18",
+  "fecha_publicacion": null,
+  "numero": "T-428/98",
+  "tipo_cc": "T",
+  "prov_id": "15012",
+  "tema_relatoria": "DER. A LA VIDA Y A LA SALUD DE INDIGENA. DILACIONES EN LA PRESTACION DEL SERVICIO DE SALUD. HOSPITAL SAN JUAN DE DIOS. HECHO SUPERADO. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "SENTENCIA DE REVISION DE TUTELA",
+      "subtema": "Fallecimiento de actor no exime pronunciamiento de fondo"
+    },
+    {
+      "tema": "CARENCIA ACTUAL DE OBJETO",
+      "subtema": "No exime al juez de tutela realizar estudio del asunto que llega a su conocimiento y emitir fallo cuando se presenta durante el trámite de revisión"
+    },
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Inconvenientes de atención a beneficiarios por trámites internos de compensación de cuentas"
+    },
+    {
+      "tema": "PREVENCION EN TUTELA",
+      "subtema": "Dilación injustificada en prestación prioritaria servicio de salud"
+    }
+  ]
+}

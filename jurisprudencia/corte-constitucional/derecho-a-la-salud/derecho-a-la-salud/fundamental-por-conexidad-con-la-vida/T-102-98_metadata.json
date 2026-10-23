@@ -1,0 +1,53 @@
+{
+  "radicado": "T-102-98",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1998,
+  "fecha_creacion": "1998-03-24",
+  "magistrado_ponente": "Dr ANTONIO BARRERA CARBONELL",
+  "area": "Derecho a la Salud",
+  "tema": "DERECHO A LA SALUD",
+  "subtema": "Fundamental por conexidad con la vida",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1998/T-102-98.htm",
+  "fecha_descarga": "2026-10-23T06:01:12.744603+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1998-03-24",
+  "fecha_publicacion": null,
+  "numero": "T-102/98",
+  "tipo_cc": "T",
+  "prov_id": "14650",
+  "tema_relatoria": "DER. A LA SALUD. CIRUGIA DE SENOS PROMINENTES. COOMEVA E.P.S. SE NIEGA A REALIZARLA POR CONSIDERAR QUE ES CIRUGIA ESTETICA. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Fundamental por conexidad con la vida"
+    },
+    {
+      "tema": "DERECHO A LA SEGURIDAD SOCIAL EN SALUD",
+      "subtema": "Carácter prestacional"
+    },
+    {
+      "tema": "DERECHO A LA SEGURIDAD SOCIAL",
+      "subtema": "Promoción estatal de acceso"
+    },
+    {
+      "tema": "PLAN OBLIGATORIO DE SALUD",
+      "subtema": "Cubrimiento de cirugía que no tiene fines estéticos"
+    },
+    {
+      "tema": "PLAN OBLIGATORIO DE SALUD",
+      "subtema": "Exclusiones y limitaciones"
+    },
+    {
+      "tema": "VIDA DIGNA",
+      "subtema": "Necesidad de cirugía que no tiene fines estéticos"
+    }
+  ]
+}

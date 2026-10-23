@@ -1,0 +1,45 @@
+{
+  "radicado": "T-508-98",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1998,
+  "fecha_creacion": "1998-09-17",
+  "magistrado_ponente": "Dr VLADIMIRO NARANJO MESA",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "PENSION DE JUBILACION",
+  "subtema": "Protección pago de mesadas por afectación del mínimo vital",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1998/T-508-98.htm",
+  "fecha_descarga": "2026-10-23T05:53:28.759679+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1998-09-17",
+  "fecha_publicacion": null,
+  "numero": "T-508/98",
+  "tipo_cc": "T",
+  "prov_id": "15110",
+  "tema_relatoria": "DER. A LA VIDA. DER. A LA SEGURIDAD SOCIAL. REANUDACION DE MESADAS PENSIONALES. FAVIDI. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "PENSION DE JUBILACION",
+      "subtema": "Protección pago de mesadas por afectación del mínimo vital"
+    },
+    {
+      "tema": "SUSTITUCIÓN PENSIONAL",
+      "subtema": "Pago oportuno de mesadas a beneficiario"
+    },
+    {
+      "tema": "DERECHO A LA SUBSISTENCIA DEL PENSIONADO",
+      "subtema": "Pago oportuno de mesadas"
+    },
+    {
+      "tema": "MEDIO DE DEFENSA JUDICIAL",
+      "subtema": "Pago de mesadas pensionales atrasadas"
+    }
+  ]
+}

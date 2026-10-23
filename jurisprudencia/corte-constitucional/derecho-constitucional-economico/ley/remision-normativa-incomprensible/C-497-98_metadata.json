@@ -1,0 +1,50 @@
+{
+  "radicado": "C-497-98",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1998,
+  "fecha_creacion": "1998-09-15",
+  "magistrado_ponente": "Dr ALEJANDRO MARTÍNEZ CABALLERO",
+  "area": "Derecho Constitucional Económico",
+  "tema": "LEY",
+  "subtema": "Remisión normativa incomprensible",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 141 de 1994",
+    "Ley 344 de 1996",
+    "Ley 188 de 1995",
+    "Ley 105 de 1993",
+    "Ley 60 de 1993",
+    "Ley 341 de 1996"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1998/C-497-98.htm",
+  "fecha_descarga": "2026-10-23T06:07:56.289519+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1998-09-15",
+  "fecha_publicacion": null,
+  "numero": "C-497/98",
+  "tipo_cc": "C",
+  "prov_id": "15097",
+  "tema_relatoria": "LEY 344/96. ART. 3 PARCIAL. LEY 141/94. ART. 53 PARCIAL. RACIONALIZACION TRIBUTARIA. DESTINACION DE RECURSOS DEL FONDO NAL DE REGALIAS. INHIBITORIA E INEXEQUIBLE.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "LEY",
+      "subtema": "Remisión normativa incomprensible"
+    },
+    {
+      "tema": "CONTROL DE CONSTITUCIONALIDAD",
+      "subtema": "Integral"
+    },
+    {
+      "tema": "FONDO NACIONAL DE REGALIAS",
+      "subtema": "Destinación de recursos"
+    },
+    {
+      "tema": "SANCION PRESIDENCIAL",
+      "subtema": "Vicio al sancionar texto distinto al aprobado por el Congreso"
+    }
+  ]
+}

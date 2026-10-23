@@ -1,0 +1,48 @@
+{
+  "radicado": "T-729-98",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1998,
+  "fecha_creacion": "1998-11-26",
+  "magistrado_ponente": "Dr HERNANDO HERRERA VERGARA",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "ACCION DE REINTEGRO",
+  "subtema": "Despido de trabajador sin permiso judicial amparado por fuero sindical",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Decreto 204 de 1957",
+    "Ley 50 de 1990",
+    "Ley 362 de 1997"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1998/T-729-98.htm",
+  "fecha_descarga": "2026-10-23T05:57:50.973855+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1998-11-26",
+  "fecha_publicacion": null,
+  "numero": "T-729/98",
+  "tipo_cc": "T",
+  "prov_id": "15350",
+  "tema_relatoria": "DER. DE ASOCIACION Y LIBERTAD SINDICAL. FUERO SINDICAL. REINTEGRO DE TRABAJADORES Y PAGO DE SALARIOS. MEDIO DE DEFENSA JUDICIAL. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCION DE REINTEGRO",
+      "subtema": "Despido de trabajador sin permiso judicial amparado por fuero sindical"
+    },
+    {
+      "tema": "ADMINISTRACION DEPARTAMENTAL",
+      "subtema": "Supresión de cargos amparados o no por fuero sindical"
+    },
+    {
+      "tema": "JURISDICCION LABORAL",
+      "subtema": "Competencia para resolver conflictos sobre fuero sindical de empleados públicos"
+    },
+    {
+      "tema": "PERJUICIO IRREMEDIABLE",
+      "subtema": "Inexistencia por despido de trabajador sin permiso judicial amparado o no por fuero sindical"
+    }
+  ]
+}

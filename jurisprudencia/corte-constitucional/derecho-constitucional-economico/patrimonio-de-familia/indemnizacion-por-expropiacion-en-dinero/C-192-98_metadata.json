@@ -1,0 +1,43 @@
+{
+  "radicado": "C-192-98",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1998,
+  "fecha_creacion": "1998-05-06",
+  "magistrado_ponente": "Dr JOSE GREGORIO HERNANDEZ GALINDO",
+  "area": "Derecho Constitucional Económico",
+  "tema": "PATRIMONIO DE FAMILIA",
+  "subtema": "Indemnización por expropiación en dinero",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 258 de 1996",
+    "Decreto 2067 de 1991",
+    "Ley 284 de 1996"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1998/C-192-98.htm",
+  "fecha_descarga": "2026-10-23T06:05:24.025453+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1998-05-06",
+  "fecha_publicacion": null,
+  "numero": "C-192/98",
+  "tipo_cc": "C",
+  "prov_id": "14745",
+  "tema_relatoria": "LEY 258/96. ART. 8 PARCIAL. EXPROPIACION DE INMUEBLE AFECTADO A VIVIENDA FAMILIAR. EXEQUIBLE.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "PATRIMONIO DE FAMILIA",
+      "subtema": "Indemnización por expropiación en dinero"
+    },
+    {
+      "tema": "SENTENCIA DE CONSTITUCIONALIDAD CONDICIONADA",
+      "subtema": null
+    },
+    {
+      "tema": "PATRIMONIO DE FAMILIA",
+      "subtema": "Levantamiento judicial para hacer posible expropiación"
+    }
+  ]
+}

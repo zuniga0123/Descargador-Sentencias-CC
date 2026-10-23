@@ -1,0 +1,61 @@
+{
+  "radicado": "T-100-98",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1998,
+  "fecha_creacion": "1998-03-24",
+  "magistrado_ponente": "Dr JOSE GREGORIO HERNANDEZ GALINDO",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "PRINCIPIO DE AUTONOMIA FUNCIONAL DEL JUEZ",
+  "subtema": "Protección del criterio jurídico en las decisiones",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1998/T-100-98.htm",
+  "fecha_descarga": "2026-10-23T06:01:05.520119+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1998-03-24",
+  "fecha_publicacion": null,
+  "numero": "T-100/98",
+  "tipo_cc": "T",
+  "prov_id": "14648",
+  "tema_relatoria": "MEDIDAS PROVISIONALES EN TUTELA. TUTELA CONTRA PROVIDENCIAS JUDICIALES. VALORACION DE PRUEBAS. SOCIEDAD ENOS LTDA. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "PRINCIPIO DE AUTONOMIA FUNCIONAL DEL JUEZ",
+      "subtema": "Protección del criterio jurídico en las decisiones"
+    },
+    {
+      "tema": "VIA DE HECHO",
+      "subtema": "Análisis y valoración de pruebas por jueces"
+    },
+    {
+      "tema": "MEDIDAS PROVISIONALES PARA PROTEGER UN DERECHO Y AUTONOMIA FUNCIONAL DEL JUEZ",
+      "subtema": "Conciliación"
+    },
+    {
+      "tema": "LEY",
+      "subtema": "Interpretación por juez"
+    },
+    {
+      "tema": "DEBIDO PROCESO",
+      "subtema": "Análisis y valoración de pruebas por jueces"
+    },
+    {
+      "tema": "IMPUGNACIÓN FALLO DE TUTELA",
+      "subtema": "No requiere sustentación"
+    },
+    {
+      "tema": "PRUEBAS",
+      "subtema": "Importancia para el juez"
+    },
+    {
+      "tema": "VIA DE HECHO",
+      "subtema": "Procedencia excepcional de tutela"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "radicado": "C-406-98",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1998,
+  "fecha_creacion": "1998-08-10",
+  "magistrado_ponente": "Dr JOSE GREGORIO HERNANDEZ GALINDO",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "NORMA DEROGADA",
+  "subtema": "Carencia actual de objeto",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 153 de 1887",
+    "Decreto 2158 de 1948",
+    "Decreto 2067 de 1991",
+    "Ley 201 de 1995",
+    "Decreto 4133 de 1948",
+    "Ley 90 de 1948"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1998/C-406-98.htm",
+  "fecha_descarga": "2026-10-23T06:06:59.413419+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1998-08-10",
+  "fecha_publicacion": null,
+  "numero": "C-406/98",
+  "tipo_cc": "C",
+  "prov_id": "14990",
+  "tema_relatoria": "DEC. 2158/48. C.P.L. REPRESENTACION JUDICIAL. ASESORIA AL MINISTERIO PUBLICO. SENTENCIA INHIBITORIA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "NORMA DEROGADA",
+      "subtema": "Carencia actual de objeto"
+    },
+    {
+      "tema": "SENTENCIA INHIBITORIA",
+      "subtema": "Derogación de norma demandada"
+    }
+  ]
+}

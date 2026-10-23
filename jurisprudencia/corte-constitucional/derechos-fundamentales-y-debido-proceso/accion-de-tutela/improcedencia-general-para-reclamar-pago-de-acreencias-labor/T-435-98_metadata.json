@@ -1,0 +1,61 @@
+{
+  "radicado": "T-435-98",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1998,
+  "fecha_creacion": "1998-08-20",
+  "magistrado_ponente": "Dr FABIO MORÓN DÍAZ",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCIÓN DE TUTELA",
+  "subtema": "Improcedencia general para reclamar pago de acreencias laborales",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1998/T-435-98.htm",
+  "fecha_descarga": "2026-10-23T05:51:59.175241+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1998-08-20",
+  "fecha_publicacion": null,
+  "numero": "T-435/98",
+  "tipo_cc": "T",
+  "prov_id": "15024",
+  "tema_relatoria": "DER. A LA IGUALDAD. DER. DE PETICION. RECONOCIMIENTO LIQUIDACION Y PAGO DE CESANTIAS PARCIALES. CONCEDIDA PARCIALMENTE.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Improcedencia general para reclamar pago de acreencias laborales"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Improcedencia para reconocimiento exclusivo de intereses moratorios"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Improcedencia general pago de cesantías definitivas"
+    },
+    {
+      "tema": "ACCION DE TUTELA TEMERARIA",
+      "subtema": "Iguales hechos y contra la misma autoridad"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Improcedencia para reconocimiento exclusivo de indexación"
+    },
+    {
+      "tema": "INDEXACION",
+      "subtema": "Reconocimiento por retardo en cancelación de cesantías parciales"
+    },
+    {
+      "tema": "DERECHO A LA IGUALDAD",
+      "subtema": "Discriminación por tránsito de legislación respecto pago de cesantías parciales"
+    },
+    {
+      "tema": "DERECHO DE PETICIÓN",
+      "subtema": "Reconocimiento de prestación no supeditado a disponibilidad presupuestal"
+    }
+  ]
+}

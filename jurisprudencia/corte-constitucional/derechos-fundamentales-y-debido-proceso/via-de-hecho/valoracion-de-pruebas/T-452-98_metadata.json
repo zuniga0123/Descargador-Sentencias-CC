@@ -1,0 +1,55 @@
+{
+  "radicado": "T-452-98",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1998,
+  "fecha_creacion": "1998-08-26",
+  "magistrado_ponente": "Dr HERNANDO HERRERA VERGARA",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "VIA DE HECHO",
+  "subtema": "Valoración de pruebas",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Decreto 196 de 1971",
+    "Ley 20 de 1972"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1998/T-452-98.htm",
+  "fecha_descarga": "2026-10-23T05:52:27.695237+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1998-08-26",
+  "fecha_publicacion": null,
+  "numero": "T-452/98",
+  "tipo_cc": "T",
+  "prov_id": "15038",
+  "tema_relatoria": "VIA DE HECHO. DEBIDO PROCESO. DER. A LA HONRA. DER. AL BUEN NOMBRE. ACCION DISCIPLINARIA CONTRA ABOGADO. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "VIA DE HECHO",
+      "subtema": "Valoración de pruebas"
+    },
+    {
+      "tema": "VIA DE HECHO",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Procedencia excepcional"
+    },
+    {
+      "tema": "PRINCIPIO DE AUTONOMIA FUNCIONAL DEL JUEZ",
+      "subtema": "Validez, aptitud, pertinencia y conducencia de la prueba"
+    },
+    {
+      "tema": "PRINCIPIO DE AUTONOMIA FUNCIONAL DEL JUEZ",
+      "subtema": "Interpretación y aplicación del derecho"
+    },
+    {
+      "tema": "SALA DISCIPLINARIA DEL CONSEJO SUPERIOR DE LA JUDICATURA",
+      "subtema": "Sanción por falta a la honradez del abogado"
+    }
+  ]
+}

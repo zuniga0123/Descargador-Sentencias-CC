@@ -1,0 +1,61 @@
+{
+  "radicado": "C-341-98",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1998,
+  "fecha_creacion": "1998-07-08",
+  "magistrado_ponente": "Dr JOSE GREGORIO HERNANDEZ GALINDO",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "AUTOLIMITACION LEGISLATIVA EN MATERIA TRIBUTARIA",
+  "subtema": "Inoperancia",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 223 de 1995",
+    "Ley 383 de 1997",
+    "Ley 218 de 1995",
+    "Ley 5 de 1992",
+    "Ley 7 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1998/C-341-98.htm",
+  "fecha_descarga": "2026-10-23T06:11:46.986402+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1998-07-08",
+  "fecha_publicacion": null,
+  "numero": "C-341/98",
+  "tipo_cc": "C",
+  "prov_id": "14915",
+  "tema_relatoria": "LEY 383/97. ART. 37. EXENCIONES TRIBUTARIAS EN MATERIAS PRIMAS AGROPECUARIAS PESQUERAS E INDUSTRIALES. EXEQUIBLE.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "AUTOLIMITACION LEGISLATIVA EN MATERIA TRIBUTARIA",
+      "subtema": "Inoperancia"
+    },
+    {
+      "tema": "EXEQUIBILIDAD DE NORMA",
+      "subtema": "No limita al ejercicio de la potestad legislativa"
+    },
+    {
+      "tema": "AUTONOMIA TRIBUTARIA",
+      "subtema": "Materias reservadas al Congreso"
+    },
+    {
+      "tema": "CONSEJO SUPERIOR DE COMERCIO EXTERIOR",
+      "subtema": "No puede establecer exención tributaria"
+    },
+    {
+      "tema": "EXENCION TRIBUTARIA",
+      "subtema": "No existen derechos adquiridos por periodos no transcurridos"
+    },
+    {
+      "tema": "EXENCION TRIBUTARIA",
+      "subtema": "Facultad del Congreso para suprimirla o modificarla"
+    },
+    {
+      "tema": "FUNCION LEGISLATIVA",
+      "subtema": "Inconstitucionalidad de delegación para reconocer exención tributaria"
+    }
+  ]
+}

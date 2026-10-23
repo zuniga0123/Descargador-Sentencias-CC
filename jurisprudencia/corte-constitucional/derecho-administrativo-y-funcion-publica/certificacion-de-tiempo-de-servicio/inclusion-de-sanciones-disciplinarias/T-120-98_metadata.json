@@ -1,0 +1,58 @@
+{
+  "radicado": "T-120-98",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1998,
+  "fecha_creacion": "1998-03-26",
+  "magistrado_ponente": "Dr FABIO MORON DIAZ",
+  "area": "Derecho Administrativo y Función Pública",
+  "tema": "CERTIFICACION DE TIEMPO DE SERVICIO",
+  "subtema": "Inclusión de sanciones disciplinarias",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 200 de 1995",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1998/T-120-98.htm",
+  "fecha_descarga": "2026-10-23T06:01:45.367800+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1998-03-26",
+  "fecha_publicacion": null,
+  "numero": "T-120/98",
+  "tipo_cc": "T",
+  "prov_id": "14669",
+  "tema_relatoria": "DER. AL BUEN NOMBRE. HABEAS DATA. DER. DE PETICION. ANOTACIONES EN HOJAS DE VIDA Y CERTIFICACIONES DE TIEMPO DE SERVICIOS. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "CERTIFICACION DE TIEMPO DE SERVICIO",
+      "subtema": "Inclusión de sanciones disciplinarias"
+    },
+    {
+      "tema": "SANCION DISCIPLINARIA A SERVIDOR PUBLICO",
+      "subtema": "Publicidad y registro"
+    },
+    {
+      "tema": "ANTECEDENTES DISCIPLINARIOS DE SERVIDOR PUBLICO",
+      "subtema": "No afecta derechos y son públicos"
+    },
+    {
+      "tema": "CERTIFICACION DE TIEMPO DE SERVICIO",
+      "subtema": "Inclusión verídica, cierta e imparcial de un dato no constituye sanción"
+    },
+    {
+      "tema": "DERECHO A LA INFORMACIÓN",
+      "subtema": "Inclusión en banco de datos no constituye por sí misma sanción"
+    },
+    {
+      "tema": "HOJA DE VIDA",
+      "subtema": "Inclusión de sanciones disciplinarias"
+    },
+    {
+      "tema": "SANCION DISCIPLINARIA A SERVIDOR PUBLICO",
+      "subtema": "Inclusión en archivos o registros informativos"
+    }
+  ]
+}

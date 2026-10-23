@@ -1,0 +1,47 @@
+{
+  "radicado": "C-432-98",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1998,
+  "fecha_creacion": "1998-08-19",
+  "magistrado_ponente": "Dr JOSE GREGORIO HERNANDEZ GALINDO",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "BANCO DE LA REPUBLICA",
+  "subtema": "Autonomía como autoridad monetaria",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 425 de 1998",
+    "Decreto 2067 de 1991",
+    "Ley 31 de 1992"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1998/C-432-98.htm",
+  "fecha_descarga": "2026-10-23T06:12:30.518898+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1998-08-19",
+  "fecha_publicacion": null,
+  "numero": "C-432/98",
+  "tipo_cc": "C",
+  "prov_id": "15016",
+  "tema_relatoria": "LEY 425/98. ART. 2 LIT. d). EMISION DE BILLETE CON LA EFIGIE DE JORGE ELIECER GAITAN. EXEQUIBLE.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "BANCO DE LA REPUBLICA",
+      "subtema": "Autonomía como autoridad monetaria"
+    },
+    {
+      "tema": "CONGRESO",
+      "subtema": "Norma de honores sobre personaje histórico"
+    },
+    {
+      "tema": "CONTROL DE CONSTITUCIONALIDAD",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "ATRIBUCIONES LEGISLATIVAS",
+      "subtema": "Inclusión gráfica de homenaje público en billetes"
+    }
+  ]
+}

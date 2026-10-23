@@ -1,0 +1,49 @@
+{
+  "radicado": "C-062-98",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1998,
+  "fecha_creacion": "1998-03-04",
+  "magistrado_ponente": "Dr CARLOS GAVIRIA DÍAZ",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "SECRETO PROFESIONAL DE CONTADOR",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 43 de 1990"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1998/C-062-98.htm",
+  "fecha_descarga": "2026-10-23T06:03:59.425393+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1998-03-04",
+  "fecha_publicacion": null,
+  "numero": "C-062/98",
+  "tipo_cc": "C",
+  "prov_id": "14604",
+  "tema_relatoria": "COD. DE COMERCIO. ART. 489 INC. 2. INFORMES DE LOS REVISORES FISCALES A LA SUPERBANCARIA. EXEQUIBLE.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "SECRETO PROFESIONAL DE CONTADOR",
+      "subtema": null
+    },
+    {
+      "tema": "SOCIEDAD EXTRANJERA",
+      "subtema": "Permiso de funcionamiento"
+    },
+    {
+      "tema": "SECRETO PROFESIONAL DE REVISOR FISCAL",
+      "subtema": null
+    },
+    {
+      "tema": "REVISOR FISCAL",
+      "subtema": "Deber de informar a las autoridades sobre irregularidades de las sociedades mercantiles"
+    },
+    {
+      "tema": "SECRETO PROFESIONAL",
+      "subtema": "Alcance"
+    }
+  ]
+}

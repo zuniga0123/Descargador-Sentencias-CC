@@ -1,0 +1,50 @@
+{
+  "radicado": "C-228-98",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1998,
+  "fecha_creacion": "1998-05-20",
+  "magistrado_ponente": "Dr CARLOS GAVIRIA DIAZ",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "CORTE CONSTITUCIONAL",
+  "subtema": "No le corresponde determinar vigencia de normas",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 19 de 1990",
+    "Decreto 1333 de 1986",
+    "Ley 14 de 1983",
+    "Ley 143 de 1994",
+    "Ley 153 de 1887",
+    "Ley 56 de 1981"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1998/C-228-98.htm",
+  "fecha_descarga": "2026-10-23T06:05:53.461205+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1998-05-20",
+  "fecha_publicacion": null,
+  "numero": "C-228/98",
+  "tipo_cc": "C",
+  "prov_id": "14785",
+  "tema_relatoria": "LEY 143/94. ART. 97 PARCIAL. GENERACION INTERCONEXION Y COMERCIALIZACION DE ELECTRICIDAD EN EL TERRITORIO NAL. NORMAS EN MATERIA ENERGETICA. EXEQ.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "CORTE CONSTITUCIONAL",
+      "subtema": "No le corresponde determinar vigencia de normas"
+    },
+    {
+      "tema": "NORMA DEROGADA",
+      "subtema": "No recobra vigencia"
+    },
+    {
+      "tema": "AUTONOMIA LEGISLATIVA EN MATERIA TRIBUTARIA",
+      "subtema": "Derogación de normas"
+    },
+    {
+      "tema": "NORMA DEROGADA",
+      "subtema": "Pronunciamiento de fondo"
+    }
+  ]
+}

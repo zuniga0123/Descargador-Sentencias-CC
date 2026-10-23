@@ -1,0 +1,43 @@
+{
+  "radicado": "C-480-98",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1998,
+  "fecha_creacion": "1998-09-09",
+  "magistrado_ponente": "Dr FABIO MORON DIAZ",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "PENSIÓN DE SOBREVIVIENTES",
+  "subtema": "No extinción por nuevo matrimonio",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 224 de 1972",
+    "Decreto 1213 de 1990",
+    "Decreto 1214 de 1990"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1998/C-480-98.htm",
+  "fecha_descarga": "2026-10-23T06:07:36.193378+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1998-09-09",
+  "fecha_publicacion": null,
+  "numero": "C-480/98",
+  "tipo_cc": "C",
+  "prov_id": "15074",
+  "tema_relatoria": "DEC. 224/72. ART. 7 PARCIAL. PENSION DE JUBILACION DE DOCENTES QUE NO HAN CUMPLIDO LA EDAD NI HAN CONTRAIDO NUEVAS NUPCIAS. SENTENCIA INHIBITORIA POR DEROGACION DE NORMA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "PENSIÓN DE SOBREVIVIENTES",
+      "subtema": "No extinción por nuevo matrimonio"
+    },
+    {
+      "tema": "SENTENCIA INHIBITORIA POR NORMA DEROGADA",
+      "subtema": null
+    },
+    {
+      "tema": "PENSIÓN DE SOBREVIVIENTES",
+      "subtema": "Límite temporal"
+    }
+  ]
+}

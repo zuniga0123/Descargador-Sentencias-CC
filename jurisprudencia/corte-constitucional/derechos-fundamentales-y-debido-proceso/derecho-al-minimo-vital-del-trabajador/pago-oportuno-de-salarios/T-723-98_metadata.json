@@ -1,0 +1,42 @@
+{
+  "radicado": "T-723-98",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1998,
+  "fecha_creacion": "1998-11-26",
+  "magistrado_ponente": "Dr ALFREDO BELTRÁN SIERRA",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "DERECHO AL MINIMO VITAL DEL TRABAJADOR",
+  "subtema": "Pago oportuno de salarios",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 1381 de 1997",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1998/T-723-98.htm",
+  "fecha_descarga": "2026-10-23T05:57:33.006924+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1998-11-26",
+  "fecha_publicacion": null,
+  "numero": "T-723/98",
+  "tipo_cc": "T",
+  "prov_id": "15345",
+  "tema_relatoria": "DER. AL MINIMO VITAL. PROCEDENCIA EXCEPCIONAL DE LA TUTELA EN ASUNTOS LABORALES. PAGO DE SALARIOS A DOCENTE. TAMINANGO- NARIÑO. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO AL MINIMO VITAL DEL TRABAJADOR",
+      "subtema": "Pago oportuno de salarios"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Procedencia excepcional pago de acreencias laborales"
+    },
+    {
+      "tema": "DISPONIBILIDAD PRESUPUESTAL",
+      "subtema": "Provisión de empleo remunerado"
+    }
+  ]
+}

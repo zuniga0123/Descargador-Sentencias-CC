@@ -1,0 +1,65 @@
+{
+  "radicado": "C-773-98",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1998,
+  "fecha_creacion": "1998-12-10",
+  "magistrado_ponente": "Dr HERNANDO HERRERA VERGARA",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "BONO PENSIONAL",
+  "subtema": "Función",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Decreto 1295 de 1994",
+    "Decreto Ley 1299 de 1994",
+    "Decreto Ley 1314 de 1994",
+    "Decreto 1266 de 1994"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1998/C-773-98.htm",
+  "fecha_descarga": "2026-10-23T06:14:50.882338+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1998-12-10",
+  "fecha_publicacion": null,
+  "numero": "C-773/98",
+  "tipo_cc": "C",
+  "prov_id": "15398",
+  "tema_relatoria": "DEC. 1295/94. ART. 53 PARAGRAFO. DEVOLUCION DE SALDOS E INDEMNIZACION SUSTITUTIVA. BONOS PENSIONALES. EXEQUIBLE.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "BONO PENSIONAL",
+      "subtema": "Función"
+    },
+    {
+      "tema": "REGIMEN DE PRIMA MEDIA CON PRESTACION DEFINIDA",
+      "subtema": null
+    },
+    {
+      "tema": "SISTEMA GENERAL DE RIESGOS PROFESIONALES",
+      "subtema": null
+    },
+    {
+      "tema": "REGIMEN DE AHORRO INDIVIDUAL CON SOLIDARIDAD",
+      "subtema": null
+    },
+    {
+      "tema": "BONO PENSIONAL",
+      "subtema": "Redención"
+    },
+    {
+      "tema": "FACULTADES EXTRAORDINARIAS",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "PRINCIPIO DE IGUALDAD",
+      "subtema": "Regímenes diversos"
+    },
+    {
+      "tema": "PRINCIPIO DE IGUALDAD",
+      "subtema": "Tratamiento diferenciado"
+    }
+  ]
+}

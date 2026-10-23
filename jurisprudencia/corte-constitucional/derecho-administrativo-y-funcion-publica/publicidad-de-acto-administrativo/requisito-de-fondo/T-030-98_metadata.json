@@ -1,0 +1,45 @@
+{
+  "radicado": "T-030-98",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1998,
+  "fecha_creacion": "1998-02-16",
+  "magistrado_ponente": "Dr ALEJANDRO MARTINEZ CABALLERO",
+  "area": "Derecho Administrativo y Función Pública",
+  "tema": "PUBLICIDAD DE ACTO ADMINISTRATIVO",
+  "subtema": "Requisito de fondo",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1998/T-030-98.htm",
+  "fecha_descarga": "2026-10-23T05:59:57.124657+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1998-02-16",
+  "fecha_publicacion": null,
+  "numero": "T-030/98",
+  "tipo_cc": "T",
+  "prov_id": "14573",
+  "tema_relatoria": "DER. DE PETICION. SOLICITUD DE RECONOCIMIENTO DE PAGO DE SALARIOS Y DEMAS ACREENCIAS LABORALES. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "PUBLICIDAD DE ACTO ADMINISTRATIVO",
+      "subtema": "Requisito de fondo"
+    },
+    {
+      "tema": "DERECHO AL MINIMO VITAL DEL TRABAJADOR",
+      "subtema": "Pago oportuno de salarios"
+    },
+    {
+      "tema": "MEDIO DE DEFENSA JUDICIAL",
+      "subtema": "Reconocimiento y cuantificación de prestaciones sociales"
+    },
+    {
+      "tema": "DERECHO DE PETICIÓN",
+      "subtema": "Resolución oportuna y seria"
+    }
+  ]
+}

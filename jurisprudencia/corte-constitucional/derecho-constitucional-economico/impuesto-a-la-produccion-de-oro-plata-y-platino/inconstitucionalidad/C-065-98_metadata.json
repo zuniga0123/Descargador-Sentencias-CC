@@ -1,0 +1,58 @@
+{
+  "radicado": "C-065-98",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1998,
+  "fecha_creacion": "1998-03-05",
+  "magistrado_ponente": "Dr FABIO MORON DIAZ",
+  "area": "Derecho Constitucional Económico",
+  "tema": "IMPUESTO A LA PRODUCCION DE ORO, PLATA Y PLATINO",
+  "subtema": "Inconstitucionalidad",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 366 de 1997",
+    "Decreto 2067 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1998/C-065-98.htm",
+  "fecha_descarga": "2026-10-23T06:04:03.123596+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1998-03-05",
+  "fecha_publicacion": null,
+  "numero": "C-065/98",
+  "tipo_cc": "C",
+  "prov_id": "14609",
+  "tema_relatoria": "LEY 366/97. ART. 9 IMPUESTOS POR LA EXPLOTACION DE METALES PRECIOSOS. INEXEQUIBLE.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "IMPUESTO A LA PRODUCCION DE ORO, PLATA Y PLATINO",
+      "subtema": "Inconstitucionalidad"
+    },
+    {
+      "tema": "PRINCIPIO DE REPRESENTACION POPULAR",
+      "subtema": "Objetivo"
+    },
+    {
+      "tema": "PROYECTO DE LEY",
+      "subtema": "Aprobación en la Cámara sin objeciones"
+    },
+    {
+      "tema": "EXPLOTACION DE RECURSOS NATURALES NO RENOVABLES",
+      "subtema": "Coexistencia entre impuesto y regalías"
+    },
+    {
+      "tema": "PROYECTO DE LEY EN MATERIA TRIBUTARIA",
+      "subtema": "Vicio de procedimiento"
+    },
+    {
+      "tema": "PROYECTO DE LEY",
+      "subtema": "Adición de contenido tributario"
+    },
+    {
+      "tema": "PRINCIPIO DE PREDETERMINACION DEL TRIBUTO",
+      "subtema": "Objetivo"
+    }
+  ]
+}

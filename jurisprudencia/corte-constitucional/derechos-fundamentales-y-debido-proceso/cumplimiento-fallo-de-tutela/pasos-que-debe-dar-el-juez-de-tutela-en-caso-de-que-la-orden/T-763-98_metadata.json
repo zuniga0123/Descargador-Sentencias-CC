@@ -1,0 +1,50 @@
+{
+  "radicado": "T-763-98",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1998,
+  "fecha_creacion": "1998-12-07",
+  "magistrado_ponente": "Dr ALEJANDRO MARTINEZ CABALLERO",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "CUMPLIMIENTO FALLO DE TUTELA",
+  "subtema": "Pasos que debe dar el juez de tutela en caso de que la orden no sea cumplida",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 85 de 1989",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1998/T-763-98.htm",
+  "fecha_descarga": "2026-10-23T05:58:41.927961+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1998-12-07",
+  "fecha_publicacion": null,
+  "numero": "T-763/98",
+  "tipo_cc": "T",
+  "prov_id": "15386",
+  "tema_relatoria": "DEBIDO PROCESO. VIA DE HECHO. DIFERENCIA ENTRE CUMPLIMIENTO DE SENTENCIA DE TUTELA Y DESACATO. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "CUMPLIMIENTO FALLO DE TUTELA",
+      "subtema": "Pasos que debe dar el juez de tutela en caso de que la orden no sea cumplida"
+    },
+    {
+      "tema": "CUMPLIMIENTO FALLO DE TUTELA",
+      "subtema": "Competencia radica en juzgado o tribunal que se pronunció en primera instancia"
+    },
+    {
+      "tema": "CUMPLIMIENTO FALLO DE TUTELA E INCIDENTE DE DESACATO",
+      "subtema": "Diferencias"
+    },
+    {
+      "tema": "VIA DE HECHO",
+      "subtema": "Error manifiesto en el juicio valorativo de la prueba"
+    },
+    {
+      "tema": "VIA DE HECHO EN INCIDENTE DE DESACATO",
+      "subtema": "Error manifiesto en el juicio"
+    }
+  ]
+}

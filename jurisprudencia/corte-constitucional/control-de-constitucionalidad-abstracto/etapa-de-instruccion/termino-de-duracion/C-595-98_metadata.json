@@ -1,0 +1,49 @@
+{
+  "radicado": "C-595-98",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1998,
+  "fecha_creacion": "1998-10-21",
+  "magistrado_ponente": "Dr EDUARDO CIFUENTES MUÑOZ",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "ETAPA DE INSTRUCCION",
+  "subtema": "Término de duración",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2700 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1998/C-595-98.htm",
+  "fecha_descarga": "2026-10-23T06:08:55.180763+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1998-10-21",
+  "fecha_publicacion": null,
+  "numero": "C-595/98",
+  "tipo_cc": "C",
+  "prov_id": "15208",
+  "tema_relatoria": "DEC. 2700/91. ART. 260 PARCIAL. C.P.P. REQUISITOS DE LA INSPECCION. EXEQUIBLE.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ETAPA DE INSTRUCCION",
+      "subtema": "Término de duración"
+    },
+    {
+      "tema": "INSPECCION JUDICIAL",
+      "subtema": "Neutralidad"
+    },
+    {
+      "tema": "INSPECCION JUDICIAL",
+      "subtema": "Práctica sin providencia previa"
+    },
+    {
+      "tema": "INVESTIGACION PREVIA",
+      "subtema": "Finalidad"
+    },
+    {
+      "tema": "INSPECCION JUDICIAL",
+      "subtema": "Publicidad y contradicción de la prueba"
+    }
+  ]
+}

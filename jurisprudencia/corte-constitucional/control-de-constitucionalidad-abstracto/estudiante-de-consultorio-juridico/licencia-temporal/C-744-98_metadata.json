@@ -1,0 +1,47 @@
+{
+  "radicado": "C-744-98",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1998,
+  "fecha_creacion": "1998-12-02",
+  "magistrado_ponente": "Dr JOSE GREGORIO HERNANDEZ GALINDO",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "ESTUDIANTE DE CONSULTORIO JURIDICO",
+  "subtema": "Licencia temporal",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 196 de 1971",
+    "Decreto 2067 de 1991",
+    "Ley 16 de 1968"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1998/C-744-98.htm",
+  "fecha_descarga": "2026-10-23T06:14:32.515840+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1998-12-02",
+  "fecha_publicacion": null,
+  "numero": "C-744/98",
+  "tipo_cc": "C",
+  "prov_id": "15366",
+  "tema_relatoria": "DEC. 196/71. ART. 31. EXCEPCIONES AL EJERCICIO DE LA PROFESION DE ABOGADO. TERMINACION Y APROBACION DE ESTUDIOS. EXEQUIBLE. VER SENTENCIA C-034/97 .",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ESTUDIANTE DE CONSULTORIO JURIDICO",
+      "subtema": "Licencia temporal"
+    },
+    {
+      "tema": "ABOGADO",
+      "subtema": "Reglamentación de profesión"
+    },
+    {
+      "tema": "COSA JUZGADA CONSTITUCIONAL",
+      "subtema": null
+    },
+    {
+      "tema": "LEGISLADOR",
+      "subtema": "Facultad para establecer títulos de idoneidad"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "radicado": "C-057-98",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1998,
+  "fecha_creacion": "1998-03-04",
+  "magistrado_ponente": "Dr CARLOS GAVIRIA DIAZ",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "PROCURADOR GENERAL DE LA NACION",
+  "subtema": "Excepciones al ejercicio del poder disciplinario preferente",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 200 de 1995"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1998/C-057-98.htm",
+  "fecha_descarga": "2026-10-23T06:03:52.302699+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1998-03-04",
+  "fecha_publicacion": null,
+  "numero": "C-057/98",
+  "tipo_cc": "C",
+  "prov_id": "14599",
+  "tema_relatoria": "LEY 200/95. ART. 94 PARCIAL. CODIGO DISCIPLINARIO UNICO. EJECUCION DE LA SANCION. EXEQUIBLE E INEXEQUIBLE.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "PROCURADOR GENERAL DE LA NACION",
+      "subtema": "Excepciones al ejercicio del poder disciplinario preferente"
+    },
+    {
+      "tema": "FUNCIONARIO Y EMPLEADO DE LA RAMA JUDICIAL",
+      "subtema": "Poder disciplinario preferente de Procuraduría o Consejo Superior"
+    },
+    {
+      "tema": "CONSEJO SUPERIOR DE LA JUDICATURA",
+      "subtema": "Competencia preventiva en materia disciplinaria"
+    },
+    {
+      "tema": "CODIGO DISCIPLINARIO UNICO",
+      "subtema": "Contratistas no son destinatarios"
+    },
+    {
+      "tema": "PROCURADOR GENERAL DE LA NACION",
+      "subtema": "Ejercicio del poder disciplinario preferente"
+    },
+    {
+      "tema": "SANCION DISCIPLINARIA",
+      "subtema": "Competencia para hacerla efectiva"
+    }
+  ]
+}

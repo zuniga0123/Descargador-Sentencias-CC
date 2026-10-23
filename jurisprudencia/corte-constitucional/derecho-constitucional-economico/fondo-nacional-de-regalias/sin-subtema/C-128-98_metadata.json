@@ -1,0 +1,45 @@
+{
+  "radicado": "C-128-98",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1998,
+  "fecha_creacion": "1998-04-01",
+  "magistrado_ponente": "Dr FABIO MORON DIAZ",
+  "area": "Derecho Constitucional Económico",
+  "tema": "FONDO NACIONAL DE REGALIAS",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 6 de 1992",
+    "Ley 141 de 1994",
+    "Ley 153 de 1887",
+    "Decreto 2655 de 1988",
+    "Decreto 2067 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1998/C-128-98.htm",
+  "fecha_descarga": "2026-10-23T06:04:43.930385+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1998-04-01",
+  "fecha_publicacion": null,
+  "numero": "C-128/98",
+  "tipo_cc": "C",
+  "prov_id": "14679",
+  "tema_relatoria": "LEY 6/92. ART. 134. INGRESOS PROVENIENTES DE LA EXPLOTACION DE CARBON DEL CERREJON. EXEQUIBLE.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "FONDO NACIONAL DE REGALIAS",
+      "subtema": null
+    },
+    {
+      "tema": "CARBOCOL",
+      "subtema": "Transferencia de regalías e ingresos al Departamento de la Guajira"
+    },
+    {
+      "tema": "REGALIAS",
+      "subtema": "Propiedad estatal"
+    }
+  ]
+}

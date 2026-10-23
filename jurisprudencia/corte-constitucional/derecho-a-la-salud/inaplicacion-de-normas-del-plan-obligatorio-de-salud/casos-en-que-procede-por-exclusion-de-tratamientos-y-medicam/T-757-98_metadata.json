@@ -1,0 +1,62 @@
+{
+  "radicado": "T-757-98",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1998,
+  "fecha_creacion": "1998-12-04",
+  "magistrado_ponente": "Dr ALEJANDRO MARTINEZ CABALLERO",
+  "area": "Derecho a la Salud",
+  "tema": "INAPLICACION DE NORMAS DEL PLAN OBLIGATORIO DE SALUD",
+  "subtema": "Casos en que procede por exclusión de tratamientos y medicamentos de alto costo",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1998/T-757-98.htm",
+  "fecha_descarga": "2026-10-23T05:58:34.734842+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1998-12-04",
+  "fecha_publicacion": null,
+  "numero": "T-757/98",
+  "tipo_cc": "T",
+  "prov_id": "15380",
+  "tema_relatoria": "DER. A LA SALUD. PLAN OBLIGATORIO DE SALUD. EXCLUSIONES Y LIMITACIONES. CESACION DE LAS COTIZACIONES AL I.S.S. CIRUGIA ESTETICA POR NODULO EN LA CEJA. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "INAPLICACION DE NORMAS DEL PLAN OBLIGATORIO DE SALUD",
+      "subtema": "Casos en que procede por exclusión de tratamientos y medicamentos de alto costo"
+    },
+    {
+      "tema": "PLAN OBLIGATORIO DE SALUD",
+      "subtema": "Periodo de protección laboral"
+    },
+    {
+      "tema": "REGIMEN CONTRIBUTIVO DE SALUD",
+      "subtema": "Suspensión de cotizaciones"
+    },
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Fundamental por conexidad"
+    },
+    {
+      "tema": "PLAN OBLIGATORIO DE SALUD",
+      "subtema": "Exclusiones y limitaciones"
+    },
+    {
+      "tema": "PLAN OBLIGATORIO DE SALUD",
+      "subtema": "Suspensión de cotizaciones"
+    },
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Cirugía reconstructiva por lipoma sobre ceja"
+    },
+    {
+      "tema": "PLAN OBLIGATORIO DE SALUD",
+      "subtema": "Cirugía reconstructiva excluída del manual de actividades, intervenciones y procedimientos"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "radicado": "T-080-98",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1998,
+  "fecha_creacion": "1998-03-16",
+  "magistrado_ponente": "Dr HERNANDO HERRERA VERGARA",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ABUSO DE LA TUTELA",
+  "subtema": "Sanciones",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 1222 de 1994",
+    "Ley 100 de 1993",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1998/T-080-98.htm",
+  "fecha_descarga": "2026-10-23T06:00:40.229014+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1998-03-16",
+  "fecha_publicacion": null,
+  "numero": "T-080/98",
+  "tipo_cc": "T",
+  "prov_id": "14625",
+  "tema_relatoria": "DER. A LA SALUD. PREEXISTENCIAS. CIRUGIA EN LA RODILLA. CATETERISMO CARDIACO. COLSANITAS. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ABUSO DE LA TUTELA",
+      "subtema": "Sanciones"
+    },
+    {
+      "tema": "PROFESIONAL DEL DERECHO",
+      "subtema": "Verificación de los hechos expuestos a través de las pruebas"
+    },
+    {
+      "tema": "TEMERIDAD O MALA FE",
+      "subtema": "Uso indebido de la tutela"
+    },
+    {
+      "tema": "CONTRATO DE MEDICINA PREPAGADA",
+      "subtema": "Preexistencia debidamente excluida"
+    },
+    {
+      "tema": "ACCION DE TUTELA TEMERARIA",
+      "subtema": "Obtención de beneficio económico sin justa causa"
+    },
+    {
+      "tema": "ACCION DE TUTELA TEMERARIA POR APODERADO Y REPRESENTADO",
+      "subtema": "Sanción pecuniaria"
+    },
+    {
+      "tema": "MEDIO DE DEFENSA JUDICIAL",
+      "subtema": "Controversia de carácter contractual y económica"
+    },
+    {
+      "tema": "MEDIO DE DEFENSA JUDICIAL",
+      "subtema": "Reembolso de dineros por asunción de costos médicos"
+    },
+    {
+      "tema": "PRINCIPIO NO REFORMATIO IN PEJUS",
+      "subtema": "Improcedencia en materia de revisión de tutela"
+    }
+  ]
+}

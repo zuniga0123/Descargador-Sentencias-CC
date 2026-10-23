@@ -1,0 +1,71 @@
+{
+  "radicado": "T-416-98",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1998,
+  "fecha_creacion": "1998-08-12",
+  "magistrado_ponente": "Dr ALEJANDRO MARTÍNEZ CABALLERO",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "DEBIDO PROCESO",
+  "subtema": "Núcleo esencial",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 92 de 1938",
+    "Decreto 1260 de 1970",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1998/T-416-98.htm",
+  "fecha_descarga": "2026-10-23T05:51:23.043625+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1998-08-12",
+  "fecha_publicacion": null,
+  "numero": "T-416/98",
+  "tipo_cc": "T",
+  "prov_id": "15000",
+  "tema_relatoria": "DEBIDO PROCESO. VIA DE HECHO. FALTA DE NOTIFICACION.. INDEBIDO ESTUDIO DE LAS PRUEBAS. HECHO SUPERADO. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DEBIDO PROCESO",
+      "subtema": "Núcleo esencial"
+    },
+    {
+      "tema": "DERECHO DE IMPUGNACION",
+      "subtema": "No concesión de recurso y no interposición de queja"
+    },
+    {
+      "tema": "JUEZ COMPETENTE",
+      "subtema": "Recurso que suspende competencia"
+    },
+    {
+      "tema": "RECURSO DE HECHO",
+      "subtema": "Aplicación"
+    },
+    {
+      "tema": "JUEZ NATURAL IMPARCIAL",
+      "subtema": null
+    },
+    {
+      "tema": "RECURSO DE QUEJA",
+      "subtema": "Negativa a posibilidad de recurrir"
+    },
+    {
+      "tema": "DEBIDO PROCESO",
+      "subtema": "Nadie podrá ser juzgado sino ante juez o tribunal competente"
+    },
+    {
+      "tema": "DERECHO DE DEFENSA",
+      "subtema": "Fundamental"
+    },
+    {
+      "tema": "INDEFENSION",
+      "subtema": "Negativa en concesión de recurso"
+    },
+    {
+      "tema": "JUEZ COMPETENTE",
+      "subtema": "Alcance"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "radicado": "T-707-98",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1998,
+  "fecha_creacion": "1998-11-24",
+  "magistrado_ponente": "Dr CARLOS GAVIRIA DÍAZ",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "MEDIO DE DEFENSA JUDICIAL NO IDONEO E INEFICAZ",
+  "subtema": "Nivelación salarial",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 142 de 1994",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1998/T-707-98.htm",
+  "fecha_descarga": "2026-10-23T05:57:18.659442+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1998-11-24",
+  "fecha_publicacion": null,
+  "numero": "T-707/98",
+  "tipo_cc": "T",
+  "prov_id": "15328",
+  "tema_relatoria": "DER. A LA IGUALDAD EN LAS RELACIONES LABORALES. NIVELACION SALARIAL. EMCALI E.I.C.E. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "MEDIO DE DEFENSA JUDICIAL NO IDONEO E INEFICAZ",
+      "subtema": "Nivelación salarial"
+    },
+    {
+      "tema": "PRINCIPIO A TRABAJO IGUAL SALARIO IGUAL",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "DERECHO AL TRABAJO EN CONDICIONES DIGNAS Y JUSTAS",
+      "subtema": "Modificación de condiciones laborales del trabajador no es absoluta"
+    },
+    {
+      "tema": "DERECHO A LA IGUALDAD SALARIAL",
+      "subtema": "Nivelación"
+    },
+    {
+      "tema": "IUS VARIANDI",
+      "subtema": "Discrecionalidad limitada de empleador para modificar condiciones laborales del trabajador"
+    }
+  ]
+}

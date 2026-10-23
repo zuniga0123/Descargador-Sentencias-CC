@@ -1,0 +1,43 @@
+{
+  "radicado": "C-620-98",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1998,
+  "fecha_creacion": "1998-11-04",
+  "magistrado_ponente": "Dr VLADIMIRO NARANJO MESA",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "DEMANDA DE INCONSTITUCIONALIDAD",
+  "subtema": "Finalidad",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 200 de 1995",
+    "Decreto 2067 de 1991",
+    "Decreto 85 de 1989"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1998/C-620-98.htm",
+  "fecha_descarga": "2026-10-23T06:09:06.186428+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1998-11-04",
+  "fecha_publicacion": null,
+  "numero": "C-620/98",
+  "tipo_cc": "C",
+  "prov_id": "15236",
+  "tema_relatoria": "LEY 200/95. ARTS. 5175 Y 177 PARCIALES. PROCESO DISCIPLINARIO DE SERVIDORES PUBLICOS Y DE LOS MIEMBROS DE LA FUERZA PUBLICA. VIGENCIA DE LA LEY. EXEQUIBLES.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "Finalidad"
+    },
+    {
+      "tema": "REGIMEN DISCIPLINARIO ESPECIAL DE LA FUERZA PUBLICA",
+      "subtema": "Sólo pueden comprender regulaciones íntimamente vinculadas con objeto específico"
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "No procede para solicitar aclaración de sentencias"
+    }
+  ]
+}

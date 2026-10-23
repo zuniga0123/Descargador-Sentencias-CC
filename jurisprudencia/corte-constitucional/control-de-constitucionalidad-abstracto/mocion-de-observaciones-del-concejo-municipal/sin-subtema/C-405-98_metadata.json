@@ -1,0 +1,61 @@
+{
+  "radicado": "C-405-98",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1998,
+  "fecha_creacion": "1998-08-10",
+  "magistrado_ponente": null,
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "MOCION DE OBSERVACIONES DEL CONCEJO MUNICIPAL",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 136 de 1994"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1998/C-405-98.htm",
+  "fecha_descarga": "2026-10-23T06:06:55.727308+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1998-08-10",
+  "fecha_publicacion": null,
+  "numero": "C-405/98",
+  "tipo_cc": "C",
+  "prov_id": "14989",
+  "tema_relatoria": "LEY 136/94. ART. 38. FUNCIONES DE CONTROL DEL CONCEJO MUNICIPAL. CITACION AL PERSONERO Y AL CONTRALOR. EXEQUIBLE.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "MOCION DE OBSERVACIONES DEL CONCEJO MUNICIPAL",
+      "subtema": null
+    },
+    {
+      "tema": "CONCEJO MUNICIPAL",
+      "subtema": "Naturaleza administrativa"
+    },
+    {
+      "tema": "CONCEJO MUNICIPAL",
+      "subtema": "Control político"
+    },
+    {
+      "tema": "PRINCIPIO DE CONSERVACION DEL DERECHO",
+      "subtema": null
+    },
+    {
+      "tema": "CONTRALORIA",
+      "subtema": "Autonomía y relación con cuerpos plurales representativos"
+    },
+    {
+      "tema": "MOCION DE OBSERVACIONES Y MOCION DE CENSURA",
+      "subtema": "Diferencias"
+    },
+    {
+      "tema": "MOCION DE OBSERVACIONES",
+      "subtema": "Exequibilidad condicionada"
+    },
+    {
+      "tema": "PERSONERIA MUNICIPAL Y CONTRALORIA MUNICIPAL",
+      "subtema": "Autonomía orgánica y financiera"
+    }
+  ]
+}

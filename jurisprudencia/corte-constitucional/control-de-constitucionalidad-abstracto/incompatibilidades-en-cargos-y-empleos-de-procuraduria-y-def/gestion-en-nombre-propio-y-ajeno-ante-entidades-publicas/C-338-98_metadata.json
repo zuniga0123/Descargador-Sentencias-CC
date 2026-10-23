@@ -1,0 +1,43 @@
+{
+  "radicado": "C-338-98",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1998,
+  "fecha_creacion": "1998-07-08",
+  "magistrado_ponente": "Dr VLADIMIRO NARANJO MESA",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "INCOMPATIBILIDADES EN CARGOS Y EMPLEOS DE PROCURADURIA Y DEFENSORIA",
+  "subtema": "Gestión en nombre propio y ajeno ante entidades públicas",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 201 de 1995",
+    "Decreto 1333 de 1986",
+    "Ley 270 de 1996"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1998/C-338-98.htm",
+  "fecha_descarga": "2026-10-23T06:11:43.296557+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1998-07-08",
+  "fecha_publicacion": null,
+  "numero": "C-338/98",
+  "tipo_cc": "C",
+  "prov_id": "14912",
+  "tema_relatoria": "LEY 201/95. ART. 175 PARCIAL. INCOMPATIBILIDADES DE CARGOS DE LA PROCURADURIA Y LA DEFENSORIA DEL PUEBLO. EXEQUIBLES.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "INCOMPATIBILIDADES EN CARGOS Y EMPLEOS DE PROCURADURIA Y DEFENSORIA",
+      "subtema": "Gestión en nombre propio y ajeno ante entidades públicas"
+    },
+    {
+      "tema": "INCOMPATIBILIDADES EN CARGOS Y EMPLEOS DE PROCURADURIA Y DEFENSORIA",
+      "subtema": "Ejercicio de la abogacía o de cualquier otra profesión"
+    },
+    {
+      "tema": "INHABILIDADES E INCOMPATIBILIDADES",
+      "subtema": "Facultad legislativa para establecerlas dentro de criterios de razonabilidad y proporcionalidad"
+    }
+  ]
+}

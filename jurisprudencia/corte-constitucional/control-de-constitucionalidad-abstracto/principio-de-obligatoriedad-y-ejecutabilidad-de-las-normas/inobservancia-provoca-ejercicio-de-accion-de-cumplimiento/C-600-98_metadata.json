@@ -1,0 +1,63 @@
+{
+  "radicado": "C-600-98",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1998,
+  "fecha_creacion": "1998-10-21",
+  "magistrado_ponente": null,
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "PRINCIPIO DE OBLIGATORIEDAD Y EJECUTABILIDAD DE LAS NORMAS",
+  "subtema": "Inobservancia provoca ejercicio de acción de cumplimiento",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 153 de 1887",
+    "Ley 393 de 1997",
+    "Decreto 2067 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1998/C-600-98.htm",
+  "fecha_descarga": "2026-10-23T06:13:32.822929+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1998-10-21",
+  "fecha_publicacion": null,
+  "numero": "C-600/98",
+  "tipo_cc": "C",
+  "prov_id": "15212",
+  "tema_relatoria": "LEY 393/97. ART. 20. EXCEPCION DE INCONSTITUCIONALIDAD. EXEQUIBLE.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "PRINCIPIO DE OBLIGATORIEDAD Y EJECUTABILIDAD DE LAS NORMAS",
+      "subtema": "Inobservancia provoca ejercicio de acción de cumplimiento"
+    },
+    {
+      "tema": "COSA JUZGADA RELATIVA EN SENTENCIAS DEL CONSEJO DE ESTADO",
+      "subtema": null
+    },
+    {
+      "tema": "CONSEJO DE ESTADO",
+      "subtema": "Efecto erga omnes de las decisiones"
+    },
+    {
+      "tema": "CORTE CONSTITUCIONAL",
+      "subtema": "Efecto erga omnes de las decisiones"
+    },
+    {
+      "tema": "EXCEPCIÓN DE INCONSTITUCIONALIDAD",
+      "subtema": "Efectos inter partes"
+    },
+    {
+      "tema": "PROPOSICION JURIDICA COMPLETA",
+      "subtema": "Necesidad de integrarla"
+    },
+    {
+      "tema": "DOCTRINA CONSTITUCIONAL",
+      "subtema": "Prevalencia"
+    },
+    {
+      "tema": "JUEZ DE CUMPLIMIENTO",
+      "subtema": "Pronunciamiento sobre excepción de inconstitucionalidad"
+    }
+  ]
+}

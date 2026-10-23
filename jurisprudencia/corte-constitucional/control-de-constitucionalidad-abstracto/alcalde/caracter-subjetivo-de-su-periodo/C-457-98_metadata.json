@@ -1,0 +1,54 @@
+{
+  "radicado": "C-457-98",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1998,
+  "fecha_creacion": "1998-09-02",
+  "magistrado_ponente": "Dr ALEJANDRO MARTÍNEZ CABALLERO",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "ALCALDE",
+  "subtema": "Carácter subjetivo de su periodo",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 136 de 1994",
+    "Ley 177 de 1994"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1998/C-457-98.htm",
+  "fecha_descarga": "2026-10-23T06:07:21.292224+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1998-09-02",
+  "fecha_publicacion": null,
+  "numero": "C-457/98",
+  "tipo_cc": "C",
+  "prov_id": "15047",
+  "tema_relatoria": "LEY 136/94. ART. 161 PARCIAL. LEY 177/94. ART. 9 PARCIAL. PERIODO DEL CONTRALOR MUNICIPAL. INHABILIDADES. EXEQUIBLE. VER LA SENTENCIA C-367/96 .",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ALCALDE",
+      "subtema": "Carácter subjetivo de su periodo"
+    },
+    {
+      "tema": "CONTRALOR DEPARTAMENTAL",
+      "subtema": "Falta absoluta"
+    },
+    {
+      "tema": "CONTRALOR Y ALCALDE",
+      "subtema": "Elección para un periodo igual"
+    },
+    {
+      "tema": "CONTRALOR MUNICIPAL",
+      "subtema": "Carácter objetivo de su periodo"
+    },
+    {
+      "tema": "CONCEJO MUNICIPAL",
+      "subtema": "Elección de Contralor"
+    },
+    {
+      "tema": "CARGO DE PERIODO",
+      "subtema": "Criterios subjetivo y objetivo"
+    }
+  ]
+}

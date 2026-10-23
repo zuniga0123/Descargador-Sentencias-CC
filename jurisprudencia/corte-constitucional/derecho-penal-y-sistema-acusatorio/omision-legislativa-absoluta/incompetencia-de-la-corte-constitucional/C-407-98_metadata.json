@@ -1,0 +1,46 @@
+{
+  "radicado": "C-407-98",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1998,
+  "fecha_creacion": "1998-08-10",
+  "magistrado_ponente": "Dr EDUARDO CIFUENTES MUÑOZ",
+  "area": "Derecho Penal y Sistema Acusatorio",
+  "tema": "OMISION LEGISLATIVA ABSOLUTA",
+  "subtema": "Incompetencia de la Corte Constitucional",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 81 de 1993",
+    "Decreto 2700 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1998/C-407-98.htm",
+  "fecha_descarga": "2026-10-23T06:12:23.343454+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1998-08-10",
+  "fecha_publicacion": null,
+  "numero": "C-407/98",
+  "tipo_cc": "C",
+  "prov_id": "14991",
+  "tema_relatoria": "C. DE P.P. ART. 218. PROCEDENCIA EXCEPCIONAL DEL RECURSO DE CASACION. EXEQUIBLE.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "OMISION LEGISLATIVA ABSOLUTA",
+      "subtema": "Incompetencia de la Corte Constitucional"
+    },
+    {
+      "tema": "RECURSO DE CASACION PENAL EXCEPCIONAL",
+      "subtema": "Procedencia"
+    },
+    {
+      "tema": "OMISIÓN LEGISLATIVA RELATIVA",
+      "subtema": "Competencia de la Corte Constitucional"
+    },
+    {
+      "tema": "RECURSO DE CASACION PENAL EXCEPCIONAL",
+      "subtema": "Fiscal no está legitimado para interponer el recurso"
+    }
+  ]
+}

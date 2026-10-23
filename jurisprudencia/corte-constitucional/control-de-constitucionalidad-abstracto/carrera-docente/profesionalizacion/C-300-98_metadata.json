@@ -1,0 +1,53 @@
+{
+  "radicado": "C-300-98",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1998,
+  "fecha_creacion": "1998-06-17",
+  "magistrado_ponente": "Dr JOSE GREGORIO HERNANDEZ GALINDO",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "CARRERA DOCENTE",
+  "subtema": "Profesionalización",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 2277 de 1979",
+    "Decreto 2067 de 1991",
+    "Ley 8 de 1979",
+    "Decreto 2277 de 1979",
+    "Decreto Ley 2277 de 1979"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1998/C-300-98.htm",
+  "fecha_descarga": "2026-10-23T06:11:28.670405+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1998-06-17",
+  "fecha_publicacion": null,
+  "numero": "C-300/98",
+  "tipo_cc": "C",
+  "prov_id": "14865",
+  "tema_relatoria": "DEC. 2277/79. ART. 10 PARCIAL. REQUISITOS PARA ASCENSO AL ESCALAFON DOCENTE. EXEQUIBLES.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "CARRERA DOCENTE",
+      "subtema": "Profesionalización"
+    },
+    {
+      "tema": "ESCALAFON DOCENTE",
+      "subtema": "Ascenso"
+    },
+    {
+      "tema": "PERSONAL DOCENTE",
+      "subtema": "Ascenso"
+    },
+    {
+      "tema": "PRINCIPIO DE IGUALDAD PARA DOCENTE",
+      "subtema": "Equiparación entre título obtenido y elaboración de una obra"
+    },
+    {
+      "tema": "ESCALAFON DOCENTE",
+      "subtema": "Calificación de la obra"
+    }
+  ]
+}

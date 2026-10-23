@@ -1,0 +1,47 @@
+{
+  "radicado": "C-520-98",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1998,
+  "fecha_creacion": "1998-09-23",
+  "magistrado_ponente": "Dr ALFREDO BELTRÁN SIERRA",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "LEY",
+  "subtema": "Error en la publicación",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1998/C-520-98.htm",
+  "fecha_descarga": "2026-10-23T06:12:56.244990+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1998-09-23",
+  "fecha_publicacion": null,
+  "numero": "C-520/98",
+  "tipo_cc": "C",
+  "prov_id": "15123",
+  "tema_relatoria": "LEY 336/96. ART. 35 INC. 3. ESTATUTO NACIONAL DE TRANSPORTE. PROGRAMAS DE CAPACITACION A TRAVES DEL SENA A EMPRESAS DE SERVICIO PUBLICO. EXEQUIBLE.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "LEY",
+      "subtema": "Error en la publicación"
+    },
+    {
+      "tema": "MINISTERIO DE TRANSPORTE",
+      "subtema": "Autorización a instituciones para desarrollar programas de capacitación"
+    },
+    {
+      "tema": "ESTATUTO NACIONAL DE TRANSPORTE",
+      "subtema": "Atribución al Ministerio de Transporte"
+    },
+    {
+      "tema": "EMPRESAS DE TRANSPORTE PUBLICO",
+      "subtema": "Programas de capacitación por el SENA o por entidades especializadas"
+    },
+    {
+      "tema": "PRESUNCION DE RACIONALIDAD DEL LEGISLADOR",
+      "subtema": "Texto legal oscuro"
+    }
+  ]
+}

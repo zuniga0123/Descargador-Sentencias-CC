@@ -1,0 +1,62 @@
+{
+  "radicado": "C-351-98",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1998,
+  "fecha_creacion": "1998-07-15",
+  "magistrado_ponente": "Dr FABIO MORON DIAZ",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "DERECHO A LA DIGNIDAD HUMANA",
+  "subtema": "Vulneración",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 409 de 1997",
+    "Ley 406 de 1997"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1998/C-351-98.htm",
+  "fecha_descarga": "2026-10-23T06:06:37.373716+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1998-07-15",
+  "fecha_publicacion": null,
+  "numero": "C-351/98",
+  "tipo_cc": "C",
+  "prov_id": "14929",
+  "tema_relatoria": "LEY 409/97. CONVENCION INTERAMERICANA PARA PREVENIR Y SANCIONAR LA TORTURA. EXEQUIBLES.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA DIGNIDAD HUMANA",
+      "subtema": "Vulneración"
+    },
+    {
+      "tema": "PROYECTO DE LEY",
+      "subtema": "Trámite en el Congreso"
+    },
+    {
+      "tema": "TORTURA",
+      "subtema": "Prevención por el Estado"
+    },
+    {
+      "tema": "CONVENCION INTERAMERICANA PARA PREVENIR Y SANCIONAR LA TORTURA",
+      "subtema": null
+    },
+    {
+      "tema": "CONVENCION INTERNACIONAL",
+      "subtema": "Objetivos"
+    },
+    {
+      "tema": "PRINCIPIO DE OBEDIENCIA DEBIDA",
+      "subtema": "Límites"
+    },
+    {
+      "tema": "DERECHOS HUMANOS",
+      "subtema": "Indemnización por violación"
+    },
+    {
+      "tema": "TRATADO INTERNACIONAL",
+      "subtema": "Control de constitucionalidad"
+    }
+  ]
+}

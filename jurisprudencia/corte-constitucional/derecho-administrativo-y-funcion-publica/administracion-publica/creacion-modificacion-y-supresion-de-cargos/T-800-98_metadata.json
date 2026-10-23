@@ -1,0 +1,70 @@
+{
+  "radicado": "T-800-98",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1998,
+  "fecha_creacion": "1998-12-14",
+  "magistrado_ponente": "Dr VLADIMIRO NARANJO MESA",
+  "area": "Derecho Administrativo y Función Pública",
+  "tema": "ADMINISTRACION PUBLICA",
+  "subtema": "Creación, modificación y supresión de cargos",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 61 de 1987",
+    "Decreto 1330 de 1998",
+    "Decreto 2329 de 1995",
+    "Ley 27 de 1992",
+    "Ley 443 de 1998"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1998/T-800-98.htm",
+  "fecha_descarga": "2026-10-23T05:59:28.336516+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1998-12-14",
+  "fecha_publicacion": null,
+  "numero": "T-800/98",
+  "tipo_cc": "T",
+  "prov_id": "15427",
+  "tema_relatoria": "DER. AL TRABAJO. TUTELA TRANSITORIA. DESVINCULACION DEL CARGO SIN JUSTA CAUSA. MADRE CABEZA DE FAMILIA. AUXILIAR DE ENFERMERIA. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ADMINISTRACION PUBLICA",
+      "subtema": "Creación, modificación y supresión de cargos"
+    },
+    {
+      "tema": "DERECHO DE PERMANENCIA EN CARGO DE CARRERA ADMINISTRATIVA",
+      "subtema": "Insubsistencia por vencimiento del término de nombramiento en provisionalidad"
+    },
+    {
+      "tema": "DERECHO DE PERMANENCIA EN UN CARGO",
+      "subtema": "No es un derecho fundamental"
+    },
+    {
+      "tema": "DERECHO A LA ESTABILIDAD LABORAL",
+      "subtema": "Cargos de libre nombramiento y remoción"
+    },
+    {
+      "tema": "DERECHO DE PERMANENCIA EN UN CARGO",
+      "subtema": "Procedencia excepcional de tutela"
+    },
+    {
+      "tema": "MADRE CABEZA DE FAMILIA",
+      "subtema": "Estabilidad laboral"
+    },
+    {
+      "tema": "NOMBRAMIENTO EN PROVISIONALIDAD EN CARGO DE CARRERA ADMINISTRATIVA",
+      "subtema": "Desvinculación por vencimiento del término siempre que se convoque a concurso de méritos"
+    },
+    {
+      "tema": "DERECHO A LA ESTABILIDAD LABORAL",
+      "subtema": "Cargos de carrera administrativa"
+    },
+    {
+      "tema": "DERECHO A LA ESTABILIDAD LABORAL",
+      "subtema": "No se reduce por ocupar cargo de carrera administrativa en provisionalidad"
+    }
+  ]
+}

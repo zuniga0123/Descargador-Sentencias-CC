@@ -1,0 +1,83 @@
+{
+  "radicado": "C-621-98",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1998,
+  "fecha_creacion": "1998-11-04",
+  "magistrado_ponente": null,
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "SENTENCIA INHIBITORIA POR NO FORMULAR CARGOS",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2700 de 1991",
+    "Decreto 2067 de 1991",
+    "Ley 74 de 1968"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1998/C-621-98.htm",
+  "fecha_descarga": "2026-10-23T06:13:36.503312+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1998-11-04",
+  "fecha_publicacion": null,
+  "numero": "C-621/98",
+  "tipo_cc": "C",
+  "prov_id": "15237",
+  "tema_relatoria": "DEC. 2700/91. C.DE P.P. ARTS. 248 253 357 358363 PARCIALES Y 322 Y 377. INCONSTITUCIONALIDAD DE LA EXHORTACION AL INDAGADO PARA QUE DIGA LA VERDAD. EXEQUIBLE E INEXEQUIBLE.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "SENTENCIA INHIBITORIA POR NO FORMULAR CARGOS",
+      "subtema": null
+    },
+    {
+      "tema": "DERECHO DEL DETENIDO A RENDIR VERSION ESPONTANEA",
+      "subtema": null
+    },
+    {
+      "tema": "DERECHO DEL CAPTURADO A NO SER INCOMUNICADO",
+      "subtema": null
+    },
+    {
+      "tema": "EXHORTACION AL INDAGADO A DECIR LA VERDAD",
+      "subtema": "Error al interpretarlo como procedimiento aislado y autónomo"
+    },
+    {
+      "tema": "INDAGATORIA",
+      "subtema": "Se rinde ante funcionario judicial"
+    },
+    {
+      "tema": "SENTENCIA DE CONSTITUCIONALIDAD CONDICIONADA",
+      "subtema": "Solicitud del demandante de exequibilidad parcial"
+    },
+    {
+      "tema": "DERECHO DE DEFENSA DEL DETENIDO",
+      "subtema": null
+    },
+    {
+      "tema": "DERECHO A NO RENDIR INDAGATORIA",
+      "subtema": null
+    },
+    {
+      "tema": "AMPLIACION DE INDAGATORIA",
+      "subtema": "Solicitud por el procesado"
+    },
+    {
+      "tema": "CAPTURA",
+      "subtema": "Formalidades"
+    },
+    {
+      "tema": "EXHORTACION AL INDAGADO A DECIR LA VERDAD",
+      "subtema": "No puede interpretarse como mecanismo de coacción judicial"
+    },
+    {
+      "tema": "EXHORTACION AL INDAGADO A DECIR LA VERDAD",
+      "subtema": "Inconstitucionalidad"
+    },
+    {
+      "tema": "PRINCIPIO DE NO AUTOINCRIMINACION",
+      "subtema": "Silencio voluntario del individuo llamado a indagatoria"
+    }
+  ]
+}

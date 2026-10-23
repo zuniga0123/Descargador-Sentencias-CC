@@ -1,0 +1,46 @@
+{
+  "radicado": "T-052-98",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1998,
+  "fecha_creacion": "1998-03-03",
+  "magistrado_ponente": "Dr ANTONIO BARRERA CARBONELL",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "CONTRATO DE PRESTACION DE SERVICIOS",
+  "subtema": "No generan relación laboral subordinada",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 80 de 1993"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1998/T-052-98.htm",
+  "fecha_descarga": "2026-10-23T06:00:18.413453+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1998-03-03",
+  "fecha_publicacion": null,
+  "numero": "T-052/98",
+  "tipo_cc": "T",
+  "prov_id": "14596",
+  "tema_relatoria": "PAGO DE ACREENCIAS LABORALES. CONTRATO DE PRESTACION DE SERVICIOS. MEDIO DE DEFENSA JUDICIAL . NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "CONTRATO DE PRESTACION DE SERVICIOS",
+      "subtema": "No generan relación laboral subordinada"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Improcedencia de determinación de relación laboral subordinada"
+    },
+    {
+      "tema": "MEDIO DE DEFENSA JUDICIAL",
+      "subtema": "Determinación de relación laboral subordinada"
+    },
+    {
+      "tema": "PRINCIPIO DE PRIMACÍA DE LA REALIDAD SOBRE FORMALIDADES EN RELACIONES LABORALES",
+      "subtema": "Subordinación"
+    }
+  ]
+}

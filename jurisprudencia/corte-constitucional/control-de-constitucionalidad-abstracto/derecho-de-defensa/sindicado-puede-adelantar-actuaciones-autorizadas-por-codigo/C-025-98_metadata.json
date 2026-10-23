@@ -1,0 +1,43 @@
+{
+  "radicado": "C-025-98",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1998,
+  "fecha_creacion": "1998-02-11",
+  "magistrado_ponente": "Dr FABIO MORON DIAZ",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "DERECHO DE DEFENSA",
+  "subtema": "Sindicado puede adelantar actuaciones autorizadas por Código de Procedimiento Penal",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 196 de 1971",
+    "Ley 16 de 1968",
+    "Decreto 765 de 1977"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1998/C-025-98.htm",
+  "fecha_descarga": "2026-10-23T06:15:16.472658+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1998-02-11",
+  "fecha_publicacion": null,
+  "numero": "C-025/98",
+  "tipo_cc": "C",
+  "prov_id": "14566",
+  "tema_relatoria": "DEC. 196/71. ARTS. 31 PARCIAL Y 33. DER. A LA DEFENSA TECNICA. EGRESADOS DE DERECHO APODERADOS EN PROCESOS PENALES. EXEQUIBLES.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO DE DEFENSA",
+      "subtema": "Sindicado puede adelantar actuaciones autorizadas por Código de Procedimiento Penal"
+    },
+    {
+      "tema": "DERECHO DE DEFENSA TECNICA",
+      "subtema": "Excepcionalmente estudiante de derecho"
+    },
+    {
+      "tema": "DERECHO DE DEFENSA TECNICA",
+      "subtema": "Abogado titulado"
+    }
+  ]
+}

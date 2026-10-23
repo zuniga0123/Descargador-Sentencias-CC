@@ -1,0 +1,80 @@
+{
+  "radicado": "C-401-98",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1998,
+  "fecha_creacion": "1998-08-19",
+  "magistrado_ponente": "Dr VLADIMIRO NARANJO MESA",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "EMPLEADOS SUPERNUMERARIOS",
+  "subtema": "Protección en salud",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 1042 de 1978",
+    "Decreto 2067 de 1991",
+    "Ley 100 de 1993",
+    "Decreto 1045 de 1978"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1998/C-401-98.htm",
+  "fecha_descarga": "2026-10-23T06:12:16.219843+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1998-08-19",
+  "fecha_publicacion": null,
+  "numero": "C-401/98",
+  "tipo_cc": "C",
+  "prov_id": "15014",
+  "tema_relatoria": "DEC. 1042/78. ART. 83. VVINCULACION DE PERSONAL SUPERNUMERARIO. EXEQUIBLE. INEXEQUIBLE Y SENTENCIA INHIBITORIA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "EMPLEADOS SUPERNUMERARIOS",
+      "subtema": "Protección en salud"
+    },
+    {
+      "tema": "EMPLEADOS SUPERNUMERARIOS",
+      "subtema": "Vinculación excepcional con la Administración Pública"
+    },
+    {
+      "tema": "PERSONAL SUPERNUMERARIO",
+      "subtema": "Desconocimiento de prestaciones sociales"
+    },
+    {
+      "tema": "PRINCIPIO DE IGUALDAD DE OPORTUNIDADES",
+      "subtema": "Violación"
+    },
+    {
+      "tema": "VINCULACION DE SUPERNUMERARIOS",
+      "subtema": "No desconoce derechos de empleados de carrera administrativa"
+    },
+    {
+      "tema": "PRINCIPIO DE PRIMACIA DE LA REALIDAD SOBRE FORMALIDADES ESTABLECIDAS POR SUJETOS DE RELACIONES LABORALES",
+      "subtema": null
+    },
+    {
+      "tema": "DERECHOS DE LA MUJER EMBARAZADA",
+      "subtema": null
+    },
+    {
+      "tema": "PERSONAL SUPERNUMERARIO CON RELACION LABORAL PERMANENTE",
+      "subtema": "Protección a la maternidad"
+    },
+    {
+      "tema": "MUJER TRABAJADORA EMBARAZADA",
+      "subtema": "Estabilidad laboral"
+    },
+    {
+      "tema": "PRINCIPIO DE IRRENUNCIABILIDAD A LOS BENEFICIOS MINIMOS LABORALES",
+      "subtema": "Violación"
+    },
+    {
+      "tema": "VINCULACION DE SUPERNUMERARIOS POR CUALQUIER TIEMPO",
+      "subtema": "Contradice la normatividad constitucional"
+    },
+    {
+      "tema": "VINCULACION DE SUPERNUMERARIOS",
+      "subtema": "Temporalidad"
+    }
+  ]
+}

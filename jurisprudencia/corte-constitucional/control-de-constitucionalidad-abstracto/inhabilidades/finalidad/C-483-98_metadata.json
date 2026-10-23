@@ -1,0 +1,50 @@
+{
+  "radicado": "C-483-98",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1998,
+  "fecha_creacion": "1998-09-09",
+  "magistrado_ponente": "Dr JOSE GREGORIO HERNANDEZ GALINDO",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "INHABILIDADES",
+  "subtema": "Finalidad",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 136 de 1994",
+    "Decreto 2067 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1998/C-483-98.htm",
+  "fecha_descarga": "2026-10-23T06:07:39.945639+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1998-09-09",
+  "fecha_publicacion": null,
+  "numero": "C-483/98",
+  "tipo_cc": "C",
+  "prov_id": "15077",
+  "tema_relatoria": "LEY 136/94. ART. 174 LIT. a). INHABILIDADES DE PERSONEROS. EXEQUIBLE.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "INHABILIDADES",
+      "subtema": "Finalidad"
+    },
+    {
+      "tema": "PERSONERO MUNICIPAL",
+      "subtema": "Competencia del Congreso para establecer inhabilidades e incompatibilidades"
+    },
+    {
+      "tema": "DERECHO A LA IGUALDAD",
+      "subtema": "No vulneración por inhabilidades"
+    },
+    {
+      "tema": "INHABILIDADES E INCOMPATIBILIDADES",
+      "subtema": "Cláusula general de competencia del Congreso"
+    },
+    {
+      "tema": "PERSONERO MUNICIPAL",
+      "subtema": "Puede tener el mismo régimen de inhabilidades del alcalde"
+    }
+  ]
+}
