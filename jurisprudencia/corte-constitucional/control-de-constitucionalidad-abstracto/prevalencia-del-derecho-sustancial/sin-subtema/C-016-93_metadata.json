@@ -1,0 +1,47 @@
+{
+  "radicado": "C-016-93",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1993,
+  "fecha_creacion": "1993-01-21",
+  "magistrado_ponente": "Doctor Ciro Angarita Baron Temas",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "PREVALENCIA DEL DERECHO SUSTANCIAL",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2067 de 1991",
+    "Decreto 88 de 1976",
+    "Ley 28 de 1974",
+    "Decreto 1657 de 1978",
+    "Decreto 1878 de 1987",
+    "Decreto 2416 de 1988",
+    "Decreto 525 de 1990"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1993/C-016-93.htm",
+  "fecha_descarga": "2026-10-23T09:35:23.343575+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1993-01-21",
+  "fecha_publicacion": null,
+  "numero": "C-016/93",
+  "tipo_cc": "C",
+  "prov_id": "11104",
+  "tema_relatoria": "DEC. 088/76. ART 3. INC 1 Y 3. EXPRESION \"NO FORMAL\". EDUCACION NO FORMAL. EXEQUIBLE",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "PREVALENCIA DEL DERECHO SUSTANCIAL",
+      "subtema": null
+    },
+    {
+      "tema": "EDUCACION FORMAL",
+      "subtema": null
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "Informalidad y requisitos mínimos"
+    }
+  ]
+}

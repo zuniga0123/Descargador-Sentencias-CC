@@ -1,0 +1,63 @@
+{
+  "radicado": "T-248-93",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1993,
+  "fecha_creacion": "1993-06-29",
+  "magistrado_ponente": "Dr HERNANDO HERRERA VERGARA",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "CONSULTA",
+  "subtema": "Improcedencia",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Decreto 306 de 1992",
+    "Decreto 1 de 1984"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1993/T-248-93.htm",
+  "fecha_descarga": "2026-10-23T09:17:47.257638+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1993-06-29",
+  "fecha_publicacion": null,
+  "numero": "T-248/93",
+  "tipo_cc": "T",
+  "prov_id": "11342",
+  "tema_relatoria": "DEBIDO PROCESO DERECHO DE PROPIEDAD. PRESCRIPCION. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "CONSULTA",
+      "subtema": "Improcedencia"
+    },
+    {
+      "tema": "DEBIDO PROCESO",
+      "subtema": "Vulneración"
+    },
+    {
+      "tema": "LEGITIMACION PARA IMPUGNAR",
+      "subtema": null
+    },
+    {
+      "tema": "MEDIO DE DEFENSA JUDICIAL",
+      "subtema": null
+    },
+    {
+      "tema": "COADYUVANCIA EN LA ACCION DE TUTELA",
+      "subtema": null
+    },
+    {
+      "tema": "ACCION REIVINDICATORIA",
+      "subtema": null
+    },
+    {
+      "tema": "ACTO POLICIVO",
+      "subtema": null
+    },
+    {
+      "tema": "POSESION",
+      "subtema": "Perturbación"
+    }
+  ]
+}

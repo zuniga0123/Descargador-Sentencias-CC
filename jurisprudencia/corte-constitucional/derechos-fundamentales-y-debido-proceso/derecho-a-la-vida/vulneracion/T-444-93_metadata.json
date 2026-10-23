@@ -1,0 +1,44 @@
+{
+  "radicado": "T-444-93",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1993,
+  "fecha_creacion": "1993-10-12",
+  "magistrado_ponente": "Antonio Barrera Carbonell",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "DERECHO A LA VIDA",
+  "subtema": "Vulneración",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2655 de 1988",
+    "Decreto Ley 2591 de 1991",
+    "Ley 2591 de 1991",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1993/T-444-93.htm",
+  "fecha_descarga": "2026-10-23T09:23:08.793389+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1993-10-12",
+  "fecha_publicacion": null,
+  "numero": "T-444/93",
+  "tipo_cc": "T",
+  "prov_id": "11541",
+  "tema_relatoria": "DERECHO AL AMBIENTE SANO. ACCION POPULAR. DERECHOS COLECTIVOS. EXPLOTACION DE CANTERAS. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA VIDA",
+      "subtema": "Vulneración"
+    },
+    {
+      "tema": "DERECHO AL AMBIENTE SANO",
+      "subtema": null
+    },
+    {
+      "tema": "CANTERAS",
+      "subtema": "Explotación"
+    }
+  ]
+}

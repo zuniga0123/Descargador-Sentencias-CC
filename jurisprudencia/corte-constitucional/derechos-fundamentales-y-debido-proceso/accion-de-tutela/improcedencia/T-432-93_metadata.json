@@ -1,0 +1,37 @@
+{
+  "radicado": "T-432-93",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1993,
+  "fecha_creacion": "1993-10-11",
+  "magistrado_ponente": null,
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCIÓN DE TUTELA",
+  "subtema": "Improcedencia",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1993/T-432-93.htm",
+  "fecha_descarga": "2026-10-23T09:22:54.147048+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1993-10-11",
+  "fecha_publicacion": null,
+  "numero": "T-432/93",
+  "tipo_cc": "T",
+  "prov_id": "11529",
+  "tema_relatoria": "DEBIDO PROCESO. TUTELA CONTRA PROVIDENCIAS JUDICIALES. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Improcedencia"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": null
+    }
+  ]
+}

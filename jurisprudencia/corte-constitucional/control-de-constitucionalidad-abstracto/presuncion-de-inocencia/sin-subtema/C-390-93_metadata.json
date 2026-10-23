@@ -1,0 +1,53 @@
+{
+  "radicado": "C-390-93",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1993,
+  "fecha_creacion": "1993-09-16",
+  "magistrado_ponente": "Alejandro Martinez Caballero",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "PRESUNCION DE INOCENCIA",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto Ley 2282 de 1989"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1993/C-390-93.htm",
+  "fecha_descarga": "2026-10-23T09:33:19.308193+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1993-09-16",
+  "fecha_publicacion": null,
+  "numero": "C-390/93",
+  "tipo_cc": "C",
+  "prov_id": "11486",
+  "tema_relatoria": "DEC. 1400/70. C.P.C. ARTS 152 PARCIAL Y 156. RECUSACION. EXEQUIBLES.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "PRESUNCION DE INOCENCIA",
+      "subtema": null
+    },
+    {
+      "tema": "SANCION DISCIPLINARIA",
+      "subtema": null
+    },
+    {
+      "tema": "CARGA DE LA PRUEBA",
+      "subtema": null
+    },
+    {
+      "tema": "RECUSACION",
+      "subtema": null
+    },
+    {
+      "tema": "PRINCIPIO DE LA DOBLE INSTANCIA",
+      "subtema": "Excepciones"
+    },
+    {
+      "tema": "RECUSACION",
+      "subtema": "Clases"
+    }
+  ]
+}

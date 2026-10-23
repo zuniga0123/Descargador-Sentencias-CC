@@ -1,0 +1,75 @@
+{
+  "radicado": "C-175-93",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1993,
+  "fecha_creacion": "1993-05-06",
+  "magistrado_ponente": "Dr CARLOS GAVIRIA DIAZ",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "PERSONAL MILITAR",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 1793 de 1992",
+    "Decreto Ley 1212 de 1990",
+    "Decreto Ley 100 de 1989",
+    "Decreto Ley 1213 de 1990",
+    "Decreto 1212 de 1990",
+    "Decreto 1213 de 1990",
+    "Decreto 2010 de 1992"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1993/C-175-93.htm",
+  "fecha_descarga": "2026-10-23T09:37:32.443519+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1993-05-06",
+  "fecha_publicacion": null,
+  "numero": "C-175/93",
+  "tipo_cc": "C",
+  "prov_id": "11267",
+  "tema_relatoria": "DEC. 2010/92. ARRESTO SOLO POR ORDEN JUDICIAL. CONMOCION INTERIOR. EXEQUIBLE SALVO ART 5.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "PERSONAL MILITAR",
+      "subtema": null
+    },
+    {
+      "tema": "ARRESTO POR AUTORIDAD JUDICIAL",
+      "subtema": null
+    },
+    {
+      "tema": "EMPLEADOS DE LIBRE NOMBRAMIENTO Y REMOCION",
+      "subtema": null
+    },
+    {
+      "tema": "EXCEPCIÓN DE INCONSTITUCIONALIDAD",
+      "subtema": null
+    },
+    {
+      "tema": "RETIRO DEL SERVICIO",
+      "subtema": "Discrecionalidad"
+    },
+    {
+      "tema": "REGLAMENTO DE POLICIA",
+      "subtema": null
+    },
+    {
+      "tema": "DERECHO A LA LIBERTAD",
+      "subtema": null
+    },
+    {
+      "tema": "ARRESTO",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "POLICIA NACIONAL",
+      "subtema": "Ingreso"
+    },
+    {
+      "tema": "POLICIA NACIONAL",
+      "subtema": "Eficacia"
+    }
+  ]
+}

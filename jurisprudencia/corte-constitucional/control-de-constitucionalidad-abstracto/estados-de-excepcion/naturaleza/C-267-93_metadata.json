@@ -1,0 +1,43 @@
+{
+  "radicado": "C-267-93",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1993,
+  "fecha_creacion": "1993-07-08",
+  "magistrado_ponente": "Dr Hernando Herrera Vergara",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "ESTADOS DE EXCEPCION",
+  "subtema": "Naturaleza",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 624 de 1993",
+    "Decreto 2067 de 1991",
+    "Decreto 7 de 1993"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1993/C-267-93.htm",
+  "fecha_descarga": "2026-10-23T09:28:49.214393+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1993-07-08",
+  "fecha_publicacion": null,
+  "numero": "C-267/93",
+  "tipo_cc": "C",
+  "prov_id": "11361",
+  "tema_relatoria": "DEC. 682/93. MODIFICA EL DEC. 624/93 EN MATERIA DE RADIOCOMUNICACIONES. CONMOCION INTERIOR. EXEQUIBLE.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ESTADOS DE EXCEPCION",
+      "subtema": "Naturaleza"
+    },
+    {
+      "tema": "FACULTADES EXTRAORDINARIAS",
+      "subtema": "Agotamiento"
+    },
+    {
+      "tema": "SISTEMAS DE RADIOCOMUNICACION",
+      "subtema": "Límites"
+    }
+  ]
+}

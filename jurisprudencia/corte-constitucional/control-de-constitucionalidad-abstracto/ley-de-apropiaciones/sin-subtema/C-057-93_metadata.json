@@ -1,0 +1,66 @@
+{
+  "radicado": "C-057-93",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1993,
+  "fecha_creacion": "1993-02-22",
+  "magistrado_ponente": "Simon Rodriguez Rodriguez",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "LEY DE APROPIACIONES",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 294 de 1974",
+    "Ley 38 de 1989"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1993/C-057-93.htm",
+  "fecha_descarga": "2026-10-23T09:35:53.306482+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1993-02-22",
+  "fecha_publicacion": null,
+  "numero": "C-057/93",
+  "tipo_cc": "C",
+  "prov_id": "11146",
+  "tema_relatoria": "LEY 134/89. OBJECIONES PRESIDENCIALES. 450 AÑOS (MARMATO-CALDAS). OBJECIONES INFUNDADAS.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "LEY DE APROPIACIONES",
+      "subtema": null
+    },
+    {
+      "tema": "CONTROL DE CONSTITUCIONALIDAD",
+      "subtema": "Naturaleza"
+    },
+    {
+      "tema": "TRANSITO CONSTITUCIONAL",
+      "subtema": "Proyecto de ley"
+    },
+    {
+      "tema": "RENTAS DE DESTINACION ESPECIFICA",
+      "subtema": null
+    },
+    {
+      "tema": "GASTO PUBLICO",
+      "subtema": null
+    },
+    {
+      "tema": "COMPETENCIA",
+      "subtema": null
+    },
+    {
+      "tema": "CORTE CONSTITUCIONAL",
+      "subtema": null
+    },
+    {
+      "tema": "OBJECION PRESIDENCIAL",
+      "subtema": "Trámite"
+    },
+    {
+      "tema": "LEY DE HONORES",
+      "subtema": "Indeterminación"
+    }
+  ]
+}

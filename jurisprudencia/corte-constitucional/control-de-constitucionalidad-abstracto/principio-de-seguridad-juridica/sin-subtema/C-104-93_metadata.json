@@ -1,0 +1,54 @@
+{
+  "radicado": "C-104-93",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1993,
+  "fecha_creacion": "1993-03-11",
+  "magistrado_ponente": "Alejandro Martinez Caballero",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "PRINCIPIO DE SEGURIDAD JURIDICA",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2304 de 1989",
+    "Decreto 2288 de 1989",
+    "Ley 30 de 1987",
+    "Ley 153 de 1887",
+    "Decreto 2067 de 1991",
+    "Decreto 2967 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1993/C-104-93.htm",
+  "fecha_descarga": "2026-10-23T09:36:41.125452+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1993-03-11",
+  "fecha_publicacion": null,
+  "numero": "C-104/93",
+  "tipo_cc": "C",
+  "prov_id": "11193",
+  "tema_relatoria": "ART. 130. CODIGO CONTENCIOSO ADMINISTRATIVO. RECURSO DE SUPLICA. EXEQUIBLE.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "PRINCIPIO DE SEGURIDAD JURIDICA",
+      "subtema": null
+    },
+    {
+      "tema": "DERECHO DE ACCESO A LA ADMINISTRACIÓN DE JUSTICIA",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "RECURSO DE SUPLICA CONTRA RECHAZO DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": null
+    },
+    {
+      "tema": "LEY",
+      "subtema": "Aplicación"
+    },
+    {
+      "tema": "JURISPRUDENCIA",
+      "subtema": "Unificación"
+    }
+  ]
+}

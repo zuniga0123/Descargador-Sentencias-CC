@@ -1,0 +1,54 @@
+{
+  "radicado": "SU491-93",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1993,
+  "fecha_creacion": "1993-10-28",
+  "magistrado_ponente": "Dr EDUARDO CIFUENTES MUÑOZ",
+  "area": "Otros - Sin clasificar",
+  "tema": "PRIMACIA DE LOS DERECHOS INALIENABLES",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2732 de 1989",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1993/SU491-93.htm",
+  "fecha_descarga": "2026-10-23T09:37:56.522803+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1993-10-28",
+  "fecha_publicacion": "1993-11-10",
+  "numero": "SU.491/93",
+  "tipo_cc": "SU",
+  "prov_id": "11589",
+  "tema_relatoria": "SERVICIO MILITAR. UNION DE HECHO. PROTECCION DEL NASCITURUS. RECONOCIMIENTO DE LA PATERNIDAD. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "PRIMACIA DE LOS DERECHOS INALIENABLES",
+      "subtema": null
+    },
+    {
+      "tema": "DERECHOS DE LA NIÑEZ",
+      "subtema": null
+    },
+    {
+      "tema": "PRINCIPIO DE RECIPROCIDAD",
+      "subtema": null
+    },
+    {
+      "tema": "MATERNIDAD",
+      "subtema": "Protección"
+    },
+    {
+      "tema": "NASCITURUS",
+      "subtema": "Protección"
+    },
+    {
+      "tema": "SERVICIO MILITAR",
+      "subtema": "Desacuartelamiento"
+    }
+  ]
+}

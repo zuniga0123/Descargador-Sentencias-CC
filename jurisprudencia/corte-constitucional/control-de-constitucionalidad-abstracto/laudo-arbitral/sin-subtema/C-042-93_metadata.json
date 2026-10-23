@@ -1,0 +1,72 @@
+{
+  "radicado": "C-042-93",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1993,
+  "fecha_creacion": "1993-02-11",
+  "magistrado_ponente": "Eduardo Cifuentes Muñoz",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "LAUDO ARBITRAL",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 30 de 1987",
+    "Decreto 2279 de 1989",
+    "Decreto 624 de 1989",
+    "Decreto 2304 de 1989"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1993/C-042-93.htm",
+  "fecha_descarga": "2026-10-23T09:30:30.435260+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1993-02-11",
+  "fecha_publicacion": null,
+  "numero": "C-042/93",
+  "tipo_cc": "C",
+  "prov_id": "11131",
+  "tema_relatoria": "DEC. 2304/89. ART. 45. NULIDAD DE ACTOS ADMINISTRATIVOS. EXCESO EN EJERCICIO DE FACULTADES EXTRAORDINARIAS. INHIBIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "LAUDO ARBITRAL",
+      "subtema": null
+    },
+    {
+      "tema": "CADUCIDAD",
+      "subtema": null
+    },
+    {
+      "tema": "FACULTADES EXTRAORDINARIAS",
+      "subtema": null
+    },
+    {
+      "tema": "FACULTADES EXTRAORDINARIAS",
+      "subtema": "Exceso"
+    },
+    {
+      "tema": "COSA JUZGADA RELATIVA",
+      "subtema": null
+    },
+    {
+      "tema": "RECURSO DE ANULACION CONTRA LAUDO ARBITRAL",
+      "subtema": null
+    },
+    {
+      "tema": "TRANSITO CONSTITUCIONAL",
+      "subtema": null
+    },
+    {
+      "tema": "COMPETENCIA",
+      "subtema": "Naturaleza"
+    },
+    {
+      "tema": "FACULTADES EXTRAORDINARIAS",
+      "subtema": "Vicios de forma"
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "Vicios de forma"
+    }
+  ]
+}

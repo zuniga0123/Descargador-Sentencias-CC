@@ -1,0 +1,46 @@
+{
+  "radicado": "T-148-93",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1993,
+  "fecha_creacion": "1993-04-22",
+  "magistrado_ponente": "Alejandro Martinez Caballero",
+  "area": "Derecho a la Salud",
+  "tema": "ACCIÓN DE TUTELA",
+  "subtema": "Indefensión",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 129 de 1931",
+    "Ley 12 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1993/T-148-93.htm",
+  "fecha_descarga": "2026-10-23T09:14:06.876657+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1993-04-22",
+  "fecha_publicacion": null,
+  "numero": "T-148/93",
+  "tipo_cc": "T",
+  "prov_id": "11247",
+  "tema_relatoria": "DERECHO A LA VIDA. DERECHO A LA SALUD. CUSTODIA DE UN MENOR (B/QUILLA). NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Indefensión"
+    },
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Protección"
+    },
+    {
+      "tema": "MEDIO DE DEFENSA JUDICIAL",
+      "subtema": "Eficacia"
+    },
+    {
+      "tema": "PRUEBAS",
+      "subtema": "Inexistencia"
+    }
+  ]
+}

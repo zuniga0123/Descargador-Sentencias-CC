@@ -1,0 +1,63 @@
+{
+  "radicado": "T-231-93",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1993,
+  "fecha_creacion": "1993-06-18",
+  "magistrado_ponente": "Alejandro Martinez Caballero",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "MEDIO DE DEFENSA ADMINISTRATIVO",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Decreto 2105 de 1983",
+    "Decreto 2104 de 1983"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1993/T-231-93.htm",
+  "fecha_descarga": "2026-10-23T09:17:28.987756+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1993-06-18",
+  "fecha_publicacion": null,
+  "numero": "T-231/93",
+  "tipo_cc": "T",
+  "prov_id": "11326",
+  "tema_relatoria": "ACCION POPULAR.DERECHO AL AMBIENTE SANO.DUCTO DE AGUAS LLUVIAS. AGENCIA OFICIOSA. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "MEDIO DE DEFENSA ADMINISTRATIVO",
+      "subtema": null
+    },
+    {
+      "tema": "DERECHOS FUNDAMENTALES",
+      "subtema": "Amenaza"
+    },
+    {
+      "tema": "DERECHOS FUNDAMENTALES",
+      "subtema": "Vulneración"
+    },
+    {
+      "tema": "LEGITIMACIÓN POR ACTIVA EN TUTELA",
+      "subtema": null
+    },
+    {
+      "tema": "MEDIO DE DEFENSA JUDICIAL",
+      "subtema": null
+    },
+    {
+      "tema": "DERECHO AL AMBIENTE SANO",
+      "subtema": null
+    },
+    {
+      "tema": "ACCION POPULAR",
+      "subtema": null
+    },
+    {
+      "tema": "CONTAMINACION AMBIENTAL",
+      "subtema": null
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "radicado": "T-146-93",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1993,
+  "fecha_creacion": "1993-04-21",
+  "magistrado_ponente": "Dr JORGE ARANGO MEJÍA",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "NULIDAD PROCESAL",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Decreto 2282 de 1989"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1993/T-146-93.htm",
+  "fecha_descarga": "2026-10-23T09:13:59.551033+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1993-04-21",
+  "fecha_publicacion": null,
+  "numero": "T-146/93",
+  "tipo_cc": "T",
+  "prov_id": "11236",
+  "tema_relatoria": "INCORA. SUPERINT. NOTARIADO Y REGISTRO. USURPACION DE COMPETENCIA. NULIDAD.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "NULIDAD PROCESAL",
+      "subtema": null
+    },
+    {
+      "tema": "COMPETENCIA FUNCIONAL",
+      "subtema": null
+    },
+    {
+      "tema": "USURPACION DE COMPETENCIA",
+      "subtema": null
+    },
+    {
+      "tema": "COMPETENCIA DE TUTELA",
+      "subtema": null
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Aplicación de normas del Código de Procedimiento Civil"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Impugnación"
+    }
+  ]
+}

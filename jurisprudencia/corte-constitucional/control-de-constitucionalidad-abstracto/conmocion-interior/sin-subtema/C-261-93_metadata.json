@@ -1,0 +1,55 @@
+{
+  "radicado": "C-261-93",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1993,
+  "fecha_creacion": "1993-07-01",
+  "magistrado_ponente": "Dr Hernando Herrera Vergara",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "CONMOCION INTERIOR",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 543 de 1993",
+    "Decreto 446 de 1993",
+    "Decreto 1793 de 1992",
+    "Decreto 2269 de 1991",
+    "Decreto 1940 de 1992",
+    "Decreto 294 de 1973",
+    "Ley 38 de 1989"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1993/C-261-93.htm",
+  "fecha_descarga": "2026-10-23T09:32:38.178476+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1993-07-01",
+  "fecha_publicacion": null,
+  "numero": "C-261/93",
+  "tipo_cc": "C",
+  "prov_id": "11355",
+  "tema_relatoria": "DEC. 543/93. OPERACIONES REALIZADAS EN EL PRESUPUESTO GENERAL DE LA NACION Y LA RAMA EJECUTIVA. CONMOCION INTERIOR. EXEQUIBLE.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "CONMOCION INTERIOR",
+      "subtema": null
+    },
+    {
+      "tema": "PRESUPUESTO GENERAL DE LA NACION",
+      "subtema": "Contracrédito presupuestal"
+    },
+    {
+      "tema": "PRESUPUESTO GENERAL DE LA NACION",
+      "subtema": "Créditos adicionales"
+    },
+    {
+      "tema": "PRESUPUESTO GENERAL DE LA NACION",
+      "subtema": "Modificación"
+    },
+    {
+      "tema": "PRESUPUESTO GENERAL DE LA NACION",
+      "subtema": "Traslados"
+    }
+  ]
+}

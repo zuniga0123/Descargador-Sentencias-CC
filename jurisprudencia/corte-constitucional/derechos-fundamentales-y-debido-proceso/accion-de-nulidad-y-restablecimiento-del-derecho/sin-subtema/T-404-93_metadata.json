@@ -1,0 +1,56 @@
+{
+  "radicado": "T-404-93",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1993,
+  "fecha_creacion": "1993-09-22",
+  "magistrado_ponente": "Dr JORGE ARANGO MEJIA",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCION DE NULIDAD Y RESTABLECIMIENTO DEL DERECHO",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 222 de 1983",
+    "Decreto Ley 222 de 1983",
+    "Decreto Ley 2282 de 1989",
+    "Ley 56 de 1985"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1993/T-404-93.htm",
+  "fecha_descarga": "2026-10-23T09:22:10.217565+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1993-09-22",
+  "fecha_publicacion": null,
+  "numero": "T-404/93",
+  "tipo_cc": "T",
+  "prov_id": "11500",
+  "tema_relatoria": "DEBIDO PROCESO. PERSONA JURIDICA TITULAR DE ACCION DE TUTELA. CADUCIDAD DE CONTRATO DE ARRENDAMIENTO. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCION DE NULIDAD Y RESTABLECIMIENTO DEL DERECHO",
+      "subtema": null
+    },
+    {
+      "tema": "PERSONA JURIDICA",
+      "subtema": null
+    },
+    {
+      "tema": "DEBIDO PROCESO ADMINISTRATIVO",
+      "subtema": null
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Improcedencia"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Titularidad"
+    },
+    {
+      "tema": "CADUCIDAD DEL CONTRATO",
+      "subtema": "Declaratoria"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "radicado": "T-341-93",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1993,
+  "fecha_creacion": "1993-08-25",
+  "magistrado_ponente": "Dr JOSE GREGORIO HERNANDEZ GALINDO",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "DERECHOS FUNDAMENTALES",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 1398 de 1973",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1993/T-341-93.htm",
+  "fecha_descarga": "2026-10-23T09:21:30.210609+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1993-08-25",
+  "fecha_publicacion": null,
+  "numero": "T-341/93",
+  "tipo_cc": "T",
+  "prov_id": "11436",
+  "tema_relatoria": "DERECHO A LA EDUCACION. ACTOS DE INDISCIPLINA. EXPULSION DE ALUMNA. I.D.E.M. CACERES. ANTIOQUIA. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHOS FUNDAMENTALES",
+      "subtema": null
+    },
+    {
+      "tema": "EDUCACIÓN",
+      "subtema": "Derecho-deber"
+    },
+    {
+      "tema": "ABANDONO DEL ESTUDIO",
+      "subtema": null
+    },
+    {
+      "tema": "ACCION DE TUTELA INTERPUESTA POR MENOR",
+      "subtema": null
+    },
+    {
+      "tema": "DERECHO A LA EDUCACIÓN",
+      "subtema": "Responsabilidad"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "radicado": "T-253-93",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1993,
+  "fecha_creacion": "1993-06-30",
+  "magistrado_ponente": "Dr JORGE ARANGO MEJÍA",
+  "area": "Derecho Administrativo y Función Pública",
+  "tema": "SILENCIO ADMINISTRATIVO NEGATIVO",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 1 de 1984"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1993/T-253-93.htm",
+  "fecha_descarga": "2026-10-23T09:18:01.801860+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1993-06-30",
+  "fecha_publicacion": null,
+  "numero": "T-253/93",
+  "tipo_cc": "T",
+  "prov_id": "11347",
+  "tema_relatoria": "DERECHO DE PETICION. SILENCIO ADMINISTRATIVO NEGATIVO. SOLICITUD DE PENSION. CAJA NACIONAL DE PREVISION. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "SILENCIO ADMINISTRATIVO NEGATIVO",
+      "subtema": null
+    },
+    {
+      "tema": "JUEZ DE TUTELA",
+      "subtema": "Facultades"
+    },
+    {
+      "tema": "MEDIO DE DEFENSA JUDICIAL",
+      "subtema": null
+    },
+    {
+      "tema": "ACCION DE REPARACION DIRECTA",
+      "subtema": null
+    },
+    {
+      "tema": "DERECHO DE PETICIÓN",
+      "subtema": "Pronta resolución"
+    },
+    {
+      "tema": "INDEMNIZACION DE PERJUICIOS",
+      "subtema": "Improcedencia de tutela"
+    }
+  ]
+}

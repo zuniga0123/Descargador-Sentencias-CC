@@ -1,0 +1,49 @@
+{
+  "radicado": "C-165-93",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1993,
+  "fecha_creacion": "1993-04-29",
+  "magistrado_ponente": "Dr Carlos Gaviria Diaz",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "PRINCIPIO DE RAZONABILIDAD",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2651 de 1991",
+    "Decreto 2282 de 1989",
+    "Decreto 2067 de 1991",
+    "Ley 30 de 1987",
+    "Ley 23 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1993/C-165-93.htm",
+  "fecha_descarga": "2026-10-23T09:28:08.844740+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1993-04-29",
+  "fecha_publicacion": null,
+  "numero": "C-165/93",
+  "tipo_cc": "C",
+  "prov_id": "11257",
+  "tema_relatoria": "ART 101 DEL CPC MODIFICADO POR REGLA 51 DEL ART 1 DEL DEC 2282/89 Y ART 10 DEL DEC 2651/91. AUDIENCIA DE CONCILIACION. EXEQUIBLE.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "PRINCIPIO DE RAZONABILIDAD",
+      "subtema": null
+    },
+    {
+      "tema": "SANCION",
+      "subtema": null
+    },
+    {
+      "tema": "CONCILIACION",
+      "subtema": null
+    },
+    {
+      "tema": "COSA JUZGADA CONSTITUCIONAL",
+      "subtema": null
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "radicado": "C-132-93",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1993,
+  "fecha_creacion": "1993-04-01",
+  "magistrado_ponente": "Doctor JOSE GREGORIO HERNANDEZ GALINDO",
+  "area": "Derecho Administrativo y Función Pública",
+  "tema": "CONTROL FISCAL EXTERNO",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2505 de 1991",
+    "Decreto 1730 de 1991",
+    "Decreto 2067 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1993/C-132-93.htm",
+  "fecha_descarga": "2026-10-23T09:27:35.676453+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1993-04-01",
+  "fecha_publicacion": null,
+  "numero": "C-132/93",
+  "tipo_cc": "C",
+  "prov_id": "11222",
+  "tema_relatoria": "ESTATUTO ORGANICO DEL SISTEMA FINANCIERO. ARTS. 2.4.13.2.25 y 2.4.13.4.4. BANCO DE COMERCIO EXTERIOR. CONTROL FISCAL. INEXEQUIBLES.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "CONTROL FISCAL EXTERNO",
+      "subtema": null
+    },
+    {
+      "tema": "CONTRALORIA GENERAL DE LA REPUBLICA",
+      "subtema": "Límites"
+    },
+    {
+      "tema": "BANCO DE COMERCIO EXTERIOR",
+      "subtema": null
+    },
+    {
+      "tema": "CONTROL DE CONSTITUCIONALIDAD",
+      "subtema": "Objeto"
+    },
+    {
+      "tema": "FACULTADES EXTRAORDINARIAS",
+      "subtema": "Límites"
+    }
+  ]
+}

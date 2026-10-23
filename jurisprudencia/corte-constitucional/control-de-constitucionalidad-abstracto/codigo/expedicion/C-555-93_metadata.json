@@ -1,0 +1,49 @@
+{
+  "radicado": "C-555-93",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1993,
+  "fecha_creacion": "1993-12-02",
+  "magistrado_ponente": "Eduardo Cifuentes Muñoz",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "CODIGO",
+  "subtema": "Expedición",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 58 de 1984",
+    "Decreto 1 de 1984",
+    "Ley 58 de 1982",
+    "Ley 38 de 1989",
+    "Decreto Ley 1 de 1984"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1993/C-555-93.htm",
+  "fecha_descarga": "2026-10-23T09:27:05.224433+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1993-12-02",
+  "fecha_publicacion": null,
+  "numero": "C-555/93",
+  "tipo_cc": "C",
+  "prov_id": "11659",
+  "tema_relatoria": "DEC. 01/84. ART 177 PARCIAL. C.C.A. EXPRESION 18 MESES. EXEQUIBLE.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "CODIGO",
+      "subtema": "Expedición"
+    },
+    {
+      "tema": "SENTENCIA CONTRA ENTIDAD PUBLICA",
+      "subtema": "Efectividad"
+    },
+    {
+      "tema": "TRANSITO CONSTITUCIONAL",
+      "subtema": null
+    },
+    {
+      "tema": "OBLIGACIONES LABORALES",
+      "subtema": "Pago"
+    }
+  ]
+}

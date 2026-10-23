@@ -1,0 +1,80 @@
+{
+  "radicado": "C-025-93",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1993,
+  "fecha_creacion": "1993-02-04",
+  "magistrado_ponente": null,
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "AUXILIOS O DONACIONES",
+  "subtema": "Vigencia de su prohibición",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 5 de 1992",
+    "Ley 6 de 1992",
+    "Decreto 2652 de 1991",
+    "Decreto 2275 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1993/C-025-93.htm",
+  "fecha_descarga": "2026-10-23T09:35:38.525591+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1993-02-04",
+  "fecha_publicacion": null,
+  "numero": "C-025/93",
+  "tipo_cc": "C",
+  "prov_id": "11116",
+  "tema_relatoria": "LEY 5/92. LEY 6/92. REGLAMENTO DEL CONGRESO SENADO Y CAMARA. AUXILIOS PARLAMENTARIOS. CONSTITUCIONALES e INCONSTITUCIONALES.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "AUXILIOS O DONACIONES",
+      "subtema": "Vigencia de su prohibición"
+    },
+    {
+      "tema": "REGLAMENTO DEL CONGRESO",
+      "subtema": null
+    },
+    {
+      "tema": "NORMA CONSTITUCIONAL",
+      "subtema": "Efectos"
+    },
+    {
+      "tema": "FUERO DEL CONGRESISTA",
+      "subtema": "Naturaleza"
+    },
+    {
+      "tema": "FACULTADES EXTRAORDINARIAS CONFERIDAS POR LA ASAMBLEA CONSTITUYENTE",
+      "subtema": "Naturaleza"
+    },
+    {
+      "tema": "LEY ORGANICA",
+      "subtema": null
+    },
+    {
+      "tema": "PRINCIPIO DE UNIDAD DE MATERIA",
+      "subtema": null
+    },
+    {
+      "tema": "TRANSITO CONSTITUCIONAL",
+      "subtema": null
+    },
+    {
+      "tema": "MAGISTRADO DE CONSEJO SUPERIOR DE LA JUDICATURA",
+      "subtema": "Periodo"
+    },
+    {
+      "tema": "NORMA CONSTITUCIONAL TRANSITORIA",
+      "subtema": "Carácter"
+    },
+    {
+      "tema": "LEY",
+      "subtema": "Trámite de urgencia"
+    },
+    {
+      "tema": "LEY",
+      "subtema": "Trámite"
+    }
+  ]
+}

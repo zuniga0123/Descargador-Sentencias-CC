@@ -1,0 +1,47 @@
+{
+  "radicado": "C-060-93",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1993,
+  "fecha_creacion": "1993-02-22",
+  "magistrado_ponente": "Dr FABIO MORON DIAZ",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "BALDIOS",
+  "subtema": "Regulación legal",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 1793 de 1992",
+    "Decreto 1942 de 1992",
+    "Ley 135 de 1961"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1993/C-060-93.htm",
+  "fecha_descarga": "2026-10-23T09:30:41.828226+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1993-02-22",
+  "fecha_publicacion": null,
+  "numero": "C-060/93",
+  "tipo_cc": "C",
+  "prov_id": "11148",
+  "tema_relatoria": "DEC. 1942/92. RESERVA Y ADJUDICACION DE BALDIOS. CONMOCION INTERIOR. EXEQUIBLE.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "BALDIOS",
+      "subtema": "Regulación legal"
+    },
+    {
+      "tema": "ESTADOS DE EXCEPCION",
+      "subtema": "Efectos"
+    },
+    {
+      "tema": "BALDIOS",
+      "subtema": "Naturaleza"
+    },
+    {
+      "tema": "ESTADOS DE EXCEPCION",
+      "subtema": "Levantamiento"
+    }
+  ]
+}

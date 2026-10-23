@@ -1,0 +1,56 @@
+{
+  "radicado": "C-002-93",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1993,
+  "fecha_creacion": "1993-01-14",
+  "magistrado_ponente": "Doctor JOSE GREGORIO HERNANDEZ GALINDO",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "ABOGADO",
+  "subtema": "Prohibición",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 196 de 1971",
+    "Decreto 2067 de 1991",
+    "Ley 16 de 1968",
+    "Decreto 432 de 1969"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1993/C-002-93.htm",
+  "fecha_descarga": "2026-10-23T09:29:33.863352+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1993-01-14",
+  "fecha_publicacion": null,
+  "numero": "C-002/93",
+  "tipo_cc": "C",
+  "prov_id": "11089",
+  "tema_relatoria": "DEC196/91. ART 53 ESTATUTO DE LA ABOGACIA. EXEQUIBLE",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ABOGADO",
+      "subtema": "Prohibición"
+    },
+    {
+      "tema": "COSA JUZGADA RELATIVA",
+      "subtema": null
+    },
+    {
+      "tema": "TRANSITO CONSTITUCIONAL",
+      "subtema": null
+    },
+    {
+      "tema": "DERECHO AL TRABAJO",
+      "subtema": "Obligación"
+    },
+    {
+      "tema": "LIBERTAD DE EJERCER PROFESION U OFICIO",
+      "subtema": "Reglamentación"
+    },
+    {
+      "tema": "DEMANDA",
+      "subtema": "Alcance"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "radicado": "T-452-93",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1993,
+  "fecha_creacion": "1993-10-12",
+  "magistrado_ponente": "Jorge Arango Mejia",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "DOMICILIO TRIBUTARIO",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2503 de 1987",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1993/T-452-93.htm",
+  "fecha_descarga": "2026-10-23T09:18:31.299561+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1993-10-12",
+  "fecha_publicacion": null,
+  "numero": "T-452/93",
+  "tipo_cc": "T",
+  "prov_id": "11549",
+  "tema_relatoria": "DEBIDO PROCESO. NOTIFICACION DE LIQUIDACION DEL IMPUESTO DE RENTA. MEDIO DE DEFENSA JUDICIAL. DIRECCION DE IMPUESTOS NALES. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DOMICILIO TRIBUTARIO",
+      "subtema": null
+    },
+    {
+      "tema": "JURISDICCION CONTENCIOSO ADMINISTRATIVA",
+      "subtema": null
+    },
+    {
+      "tema": "CADUCIDAD",
+      "subtema": null
+    },
+    {
+      "tema": "DESACATO DE TUTELA",
+      "subtema": null
+    },
+    {
+      "tema": "MEDIO DE DEFENSA JUDICIAL",
+      "subtema": null
+    },
+    {
+      "tema": "DIRECCION DE IMPUESTOS NACIONALES",
+      "subtema": null
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Vigencia"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Hecho consumado"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "radicado": "T-578-93",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1993,
+  "fecha_creacion": "1993-12-13",
+  "magistrado_ponente": "Alejandro Martinez Caballero",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "LIBERTAD DE INFORMACIÓN",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 57 de 1985",
+    "Ley 74 de 1968",
+    "Ley 74 de 1966",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1993/T-578-93.htm",
+  "fecha_descarga": "2026-10-23T09:16:37.719294+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1993-12-13",
+  "fecha_publicacion": null,
+  "numero": "T-578/93",
+  "tipo_cc": "T",
+  "prov_id": "11683",
+  "tema_relatoria": "DERECHO A LA INFORMACION. DERECHO DE PETICION. DESTINATARIOS DE LA ACCION DE TUTELA. EMISORA DEL CHOCO.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "LIBERTAD DE INFORMACIÓN",
+      "subtema": null
+    },
+    {
+      "tema": "ACTO DE GESTION",
+      "subtema": null
+    },
+    {
+      "tema": "DERECHO DE INFORMACION SOBRE SI MISMO",
+      "subtema": "Naturaleza"
+    },
+    {
+      "tema": "AUTORIDAD PUBLICA",
+      "subtema": "Concepto"
+    },
+    {
+      "tema": "DERECHO DE ACCESO A LA INFORMACIÓN",
+      "subtema": null
+    },
+    {
+      "tema": "ACTO DE PODER",
+      "subtema": null
+    },
+    {
+      "tema": "DERECHO A LA INFORMACIÓN",
+      "subtema": "Veracidad"
+    },
+    {
+      "tema": "DERECHO DE PETICIÓN",
+      "subtema": "Organizaciones privadas"
+    }
+  ]
+}

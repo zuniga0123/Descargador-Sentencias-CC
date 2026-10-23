@@ -1,0 +1,58 @@
+{
+  "radicado": "C-265-93",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1993,
+  "fecha_creacion": "1993-07-08",
+  "magistrado_ponente": "Dr FABIO MORON DIAZ",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "CONSEJO SUPERIOR DE LA JUDICATURA",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2652 de 1991",
+    "Decreto Ley 2652 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1993/C-265-93.htm",
+  "fecha_descarga": "2026-10-23T09:28:41.885126+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1993-07-08",
+  "fecha_publicacion": null,
+  "numero": "C-265/93",
+  "tipo_cc": "C",
+  "prov_id": "11359",
+  "tema_relatoria": "DEC. 2652/91. ART 4. FUNCIONES DEL CONSEJO SUPERIOR DE LA JUDICATURA. EXEQUIBLE SALVO NUMS 3 4 5 6 7 8 9 10 12 14 17.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "CONSEJO SUPERIOR DE LA JUDICATURA",
+      "subtema": null
+    },
+    {
+      "tema": "SALA PLENA DEL CONSEJO SUPERIOR DE LA JUDICATURA",
+      "subtema": null
+    },
+    {
+      "tema": "CONSEJO SUPERIOR DE LA JUDICATURA",
+      "subtema": "Dependencias administrativas"
+    },
+    {
+      "tema": "CONSEJO SUPERIOR DE LA JUDICATURA",
+      "subtema": "Reglamento interno"
+    },
+    {
+      "tema": "SALA DISCIPLINARIA DEL CONSEJO SUPERIOR DE LA JUDICATURA",
+      "subtema": "Funciones"
+    },
+    {
+      "tema": "SALA ADMINISTRATIVA DEL CONSEJO SUPERIOR DE LA JUDICATURA",
+      "subtema": "Funciones"
+    },
+    {
+      "tema": "SALA ADMINISTRATIVA DEL CONSEJO SUPERIOR DE LA JUDICATURA",
+      "subtema": "Naturaleza"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "radicado": "T-350-93",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1993,
+  "fecha_creacion": "1993-08-27",
+  "magistrado_ponente": null,
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACTO ADMINISTRATIVO VOLUNTARIO",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 57 de 1987",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1993/T-350-93.htm",
+  "fecha_descarga": "2026-10-23T09:21:51.915630+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1993-08-27",
+  "fecha_publicacion": null,
+  "numero": "T-350/93",
+  "tipo_cc": "T",
+  "prov_id": "11445",
+  "tema_relatoria": "DEBIDO PROCESO. MEDIO DE DEFENSA JUDICIAL. ACTOS ADMINISTRATIVOS. SENTENCIA CUMPLIMIENTO. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACTO ADMINISTRATIVO VOLUNTARIO",
+      "subtema": null
+    },
+    {
+      "tema": "ACCION DE TUTELA TRANSITORIA",
+      "subtema": null
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Hecho anterior"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Finalidad"
+    },
+    {
+      "tema": "SENTENCIA",
+      "subtema": "Cumplimiento"
+    }
+  ]
+}

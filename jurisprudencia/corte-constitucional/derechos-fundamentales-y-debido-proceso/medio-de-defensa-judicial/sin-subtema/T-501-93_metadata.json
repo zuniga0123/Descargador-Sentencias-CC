@@ -1,0 +1,52 @@
+{
+  "radicado": "T-501-93",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1993,
+  "fecha_creacion": "1993-11-03",
+  "magistrado_ponente": "Dr Carlos Gaviria Díaz",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "MEDIO DE DEFENSA JUDICIAL",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 1333 de 1986",
+    "Decreto 640 de 1937",
+    "Ley 28 de 1974",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1993/T-501-93.htm",
+  "fecha_descarga": "2026-10-23T09:19:37.050703+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1993-11-03",
+  "fecha_publicacion": null,
+  "numero": "T-501/93",
+  "tipo_cc": "T",
+  "prov_id": "11599",
+  "tema_relatoria": "DERECHO A LA PROPIEDAD. DERECHO A LA IGUALDAD. DERECHO DE PETICION. LOTE DE TERRENO. CALI. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "MEDIO DE DEFENSA JUDICIAL",
+      "subtema": null
+    },
+    {
+      "tema": "CARGA FISCAL",
+      "subtema": null
+    },
+    {
+      "tema": "EXPROPIACION",
+      "subtema": null
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Improcedencia"
+    },
+    {
+      "tema": "PROCESO EJECUTIVO POR JURISDICCION COACTIVA",
+      "subtema": "Suspensión"
+    }
+  ]
+}

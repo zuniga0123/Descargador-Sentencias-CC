@@ -1,0 +1,42 @@
+{
+  "radicado": "C-169-93",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1993,
+  "fecha_creacion": "1993-04-29",
+  "magistrado_ponente": "Dr VLADIMIRO NARANJO MESA",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "SISTEMAS DE RADIOCOMUNICACION",
+  "subtema": "Límites",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 1793 de 1992",
+    "Decreto Ley 1900 de 1990",
+    "Decreto 7 de 1993",
+    "Decreto 266 de 1993",
+    "Decreto 7 de 1992",
+    "Decreto 1900 de 1990"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1993/C-169-93.htm",
+  "fecha_descarga": "2026-10-23T09:28:12.487000+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1993-04-29",
+  "fecha_publicacion": null,
+  "numero": "C-169/93",
+  "tipo_cc": "C",
+  "prov_id": "11261",
+  "tema_relatoria": "DEC 266/93 MEDIDAS EN MATERIA DE RADIOCOMUNICACIONES. CONMOCION INTERIOR. EXEQUIBLE",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "SISTEMAS DE RADIOCOMUNICACION",
+      "subtema": "Límites"
+    },
+    {
+      "tema": "LIBERTAD DE COMUNICACION",
+      "subtema": null
+    }
+  ]
+}

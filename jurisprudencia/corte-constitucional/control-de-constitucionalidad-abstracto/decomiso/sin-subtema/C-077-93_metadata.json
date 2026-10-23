@@ -1,0 +1,52 @@
+{
+  "radicado": "C-077-93",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1993,
+  "fecha_creacion": "1993-02-25",
+  "magistrado_ponente": "Eduardo Cifuentes Muñoz",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "DECOMISO",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 6 de 1993",
+    "Decreto 1793 de 1992",
+    "Decreto 3664 de 1986",
+    "Decreto 2266 de 1991",
+    "Decreto 1663 de 1979",
+    "Decreto 1129 de 1970",
+    "Decreto 667 de 1984",
+    "Decreto 1667 de 1987"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1993/C-077-93.htm",
+  "fecha_descarga": "2026-10-23T09:36:15.293912+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1993-02-25",
+  "fecha_publicacion": null,
+  "numero": "C-077/93",
+  "tipo_cc": "C",
+  "prov_id": "11166",
+  "tema_relatoria": "DEC. 06/93. PORTE DE ARMAS MUNICIONES y EXPLOSIVOS. CONMOCION INTERIOR. CONSTITUCIONAL.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DECOMISO",
+      "subtema": null
+    },
+    {
+      "tema": "PORTE DE ARMAS",
+      "subtema": null
+    },
+    {
+      "tema": "VEHICULO BLINDADOS",
+      "subtema": "Control"
+    },
+    {
+      "tema": "SALVOCONDUCTOS",
+      "subtema": "Suspensión"
+    }
+  ]
+}

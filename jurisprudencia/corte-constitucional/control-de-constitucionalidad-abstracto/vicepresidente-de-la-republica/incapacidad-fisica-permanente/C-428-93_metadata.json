@@ -1,0 +1,50 @@
+{
+  "radicado": "C-428-93",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1993,
+  "fecha_creacion": "1993-10-07",
+  "magistrado_ponente": "Dr JOSE GREGORIO HERNANDEZ GALINDO",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "VICEPRESIDENTE DE LA REPÚBLICA",
+  "subtema": "Incapacidad física permanente",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 5 de 1992",
+    "Decreto 2067 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1993/C-428-93.htm",
+  "fecha_descarga": "2026-10-23T09:33:47.175092+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1993-10-07",
+  "fecha_publicacion": null,
+  "numero": "C-428/93",
+  "tipo_cc": "C",
+  "prov_id": "11525",
+  "tema_relatoria": "LEY 5/92. ARTS 18 NUMS 5 Y 8. ART 19 NUM 3. REGLAMENTO DEL CONGRESO SENADO Y CAMARA. EXEQUIBLES SALVO NUM 3 DEL ART 19.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "VICEPRESIDENTE DE LA REPÚBLICA",
+      "subtema": "Incapacidad física permanente"
+    },
+    {
+      "tema": "CONGRESO",
+      "subtema": "Atribuciones"
+    },
+    {
+      "tema": "COMPETENCIA CONSTITUCIONAL",
+      "subtema": null
+    },
+    {
+      "tema": "PRESIDENTE DE LA REPUBLICA",
+      "subtema": "Reemplazo"
+    },
+    {
+      "tema": "VICEPRESIDENTE DE LA REPÚBLICA",
+      "subtema": "Reemplazo"
+    }
+  ]
+}

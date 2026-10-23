@@ -1,0 +1,61 @@
+{
+  "radicado": "C-426-93",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1993,
+  "fecha_creacion": "1993-10-07",
+  "magistrado_ponente": null,
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "PRINCIPIO DE PRECLUSIVIDAD",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 1793 de 1991",
+    "Decreto 2271 de 1991",
+    "Ley 15 de 1992",
+    "Decreto 2700 de 1991",
+    "Decreto 2790 de 1990"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1993/C-426-93.htm",
+  "fecha_descarga": "2026-10-23T09:33:39.976470+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1993-10-07",
+  "fecha_publicacion": null,
+  "numero": "C-426/93",
+  "tipo_cc": "C",
+  "prov_id": "11523",
+  "tema_relatoria": "DEC. 1496/93. TERMINOS DE INSTRUCCION. CAUSALES DE LIBERTAD PROVISIONAL EN PROC. DE COMP. DE JUECES REGIONALES. CONMOCION INTERIOR. EXEQUIBLE.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "PRINCIPIO DE PRECLUSIVIDAD",
+      "subtema": null
+    },
+    {
+      "tema": "CONMOCION INTERIOR",
+      "subtema": "Conexidad"
+    },
+    {
+      "tema": "LIBERTAD PROVISIONAL",
+      "subtema": "Causales"
+    },
+    {
+      "tema": "DILACION INJUSTIFICADA",
+      "subtema": null
+    },
+    {
+      "tema": "REGIMEN PENAL ESPECIAL",
+      "subtema": null
+    },
+    {
+      "tema": "TERMINO JUDICIAL",
+      "subtema": null
+    },
+    {
+      "tema": "DECRETO LEGISLATIVO",
+      "subtema": "Conexidad"
+    }
+  ]
+}

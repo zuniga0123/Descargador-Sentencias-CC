@@ -1,0 +1,40 @@
+{
+  "radicado": "C-153-93",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1993,
+  "fecha_creacion": "1993-04-22",
+  "magistrado_ponente": "Dr JOSE GREGORIO HERNANDEZ GALINDO",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "FACULTADES EXTRAORDINARIAS",
+  "subtema": "Agotamiento",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 7 de 1993",
+    "Decreto 2067 de 1991",
+    "Decreto 1793 de 1992",
+    "Decreto 262 de 1993"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1993/C-153-93.htm",
+  "fecha_descarga": "2026-10-23T09:28:01.584564+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1993-04-22",
+  "fecha_publicacion": null,
+  "numero": "C-153/93",
+  "tipo_cc": "C",
+  "prov_id": "11243",
+  "tema_relatoria": "DEC. 262/93. MODIFICA EL DEC. 07/93 EN MATERIA DE RADIOCOMUNICACIONES. CONMOCION INTERIOR. EXEQUIBLE.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "FACULTADES EXTRAORDINARIAS",
+      "subtema": "Agotamiento"
+    },
+    {
+      "tema": "ESTADOS DE EXCEPCION",
+      "subtema": "Naturaleza"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "radicado": "C-014-93",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1993,
+  "fecha_creacion": "1993-01-21",
+  "magistrado_ponente": "Doctor Ciro Angarita Baron",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "FACULTADES EXTRAORDINARIAS",
+  "subtema": "Núcleo esencial",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 9 de 1991",
+    "Ley 444 de 1967",
+    "Decreto Ley 444 de 1967",
+    "Decreto 2406 de 1991",
+    "Decreto 624 de 1989"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1993/C-014-93.htm",
+  "fecha_descarga": "2026-10-23T09:35:19.665320+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1993-01-21",
+  "fecha_publicacion": null,
+  "numero": "C-014/93",
+  "tipo_cc": "C",
+  "prov_id": "11102",
+  "tema_relatoria": "DEC. 2406/91. SUPRESION DE LA OFICINA DE CAMBIOS DEL BANCO DE LA REPUBLICA. EXEQUIBLE",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "FACULTADES EXTRAORDINARIAS",
+      "subtema": "Núcleo esencial"
+    },
+    {
+      "tema": "LEGISLACION PREEXISTENTE",
+      "subtema": "No derogatoria"
+    },
+    {
+      "tema": "BANCO DE LA REPUBLICA",
+      "subtema": "Oficina de cambios"
+    },
+    {
+      "tema": "CONSTITUCION POLITICA",
+      "subtema": "Aplicación inmediata"
+    },
+    {
+      "tema": "FACULTADES EXTRAORDINARIAS",
+      "subtema": "Vigencia"
+    },
+    {
+      "tema": "INCONSTITUCIONALIDAD SOBREVINIENTE",
+      "subtema": "Efectos"
+    }
+  ]
+}

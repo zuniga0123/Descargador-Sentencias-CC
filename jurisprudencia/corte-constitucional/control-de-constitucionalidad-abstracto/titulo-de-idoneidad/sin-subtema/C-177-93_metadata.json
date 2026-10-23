@@ -1,0 +1,51 @@
+{
+  "radicado": "C-177-93",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1993,
+  "fecha_creacion": "1993-05-06",
+  "magistrado_ponente": "Hernando Herrera Vergara",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "TITULO DE IDONEIDAD",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 19 de 1990",
+    "Decreto 2725 de 1980",
+    "Decreto 991 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1993/C-177-93.htm",
+  "fecha_descarga": "2026-10-23T09:28:19.933381+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1993-05-06",
+  "fecha_publicacion": null,
+  "numero": "C-177/93",
+  "tipo_cc": "C",
+  "prov_id": "11269",
+  "tema_relatoria": "LEY 19/90. REGLAMENTO DE LA PROFESION DE TECNICO ELECTRICISTA. EXEQUIBLE SALVO ART 3 LIT B.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "TITULO DE IDONEIDAD",
+      "subtema": null
+    },
+    {
+      "tema": "DERECHO A LA IGUALDAD",
+      "subtema": "Vulneración"
+    },
+    {
+      "tema": "DERECHO A EJERCER PROFESION U OFICIO",
+      "subtema": null
+    },
+    {
+      "tema": "CONSEJO NACIONAL DE TECNICOS ELECTRICISTAS",
+      "subtema": "Facultades"
+    },
+    {
+      "tema": "TECNICO ELECTRICISTA",
+      "subtema": "Experiencia laboral"
+    }
+  ]
+}

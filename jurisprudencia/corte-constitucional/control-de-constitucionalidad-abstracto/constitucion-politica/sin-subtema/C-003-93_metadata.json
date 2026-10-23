@@ -1,0 +1,57 @@
+{
+  "radicado": "C-003-93",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1993,
+  "fecha_creacion": "1993-01-14",
+  "magistrado_ponente": "Alejandro Martinez Caballero",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "CONSTITUCION POLITICA",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2067 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1993/C-003-93.htm",
+  "fecha_descarga": "2026-10-23T09:35:00.858439+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1993-01-14",
+  "fecha_publicacion": null,
+  "numero": "C-003/93",
+  "tipo_cc": "C",
+  "prov_id": "11090",
+  "tema_relatoria": "DEC.2067/91.ART 2. INC. FINAL. REGIMEN DE LOS JUICIOS ANTE LA CORTE. TITULARIDAD DE LA ACCION DE INCONSTITUCIONALIDAD. INEXEQUIBLE.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "CONSTITUCION POLITICA",
+      "subtema": null
+    },
+    {
+      "tema": "NORMA CONSTITUCIONAL TRANSITORIA",
+      "subtema": "Ubicación"
+    },
+    {
+      "tema": "NORMA CONSTITUCIONAL TRANSITORIA",
+      "subtema": null
+    },
+    {
+      "tema": "FACULTADES EXTRAORDINARIAS",
+      "subtema": null
+    },
+    {
+      "tema": "DERECHOS POLITICOS",
+      "subtema": "Titularidad"
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "Titularidad"
+    },
+    {
+      "tema": "PERSONA JURIDICA",
+      "subtema": "Titularidad de derechos fundamentales"
+    }
+  ]
+}

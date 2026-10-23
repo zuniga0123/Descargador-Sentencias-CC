@@ -1,0 +1,48 @@
+{
+  "radicado": "C-170-93",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1993,
+  "fecha_creacion": "1993-04-29",
+  "magistrado_ponente": "Dr FABIO MORON DIAZ",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "INCONSTITUCIONALIDAD SOBREVINIENTE",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 86 de 1989",
+    "Decreto 2067 de 1991",
+    "Ley 51 de 1990",
+    "Decreto Ley 86 de 1989"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1993/C-170-93.htm",
+  "fecha_descarga": "2026-10-23T09:28:16.093414+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1993-04-29",
+  "fecha_publicacion": null,
+  "numero": "C-170/93",
+  "tipo_cc": "C",
+  "prov_id": "11262",
+  "tema_relatoria": "LEY 86/89 ART 5. SERVICIO PUBLICO URBANO DE TRANSPORTE MASIVO DE PASAJEROS. CONSTITUCIONAL.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "INCONSTITUCIONALIDAD SOBREVINIENTE",
+      "subtema": null
+    },
+    {
+      "tema": "COSA JUZGADA ABSOLUTA",
+      "subtema": null
+    },
+    {
+      "tema": "COSA JUZGADA RELATIVA",
+      "subtema": null
+    },
+    {
+      "tema": "TRANSITO CONSTITUCIONAL",
+      "subtema": null
+    }
+  ]
+}

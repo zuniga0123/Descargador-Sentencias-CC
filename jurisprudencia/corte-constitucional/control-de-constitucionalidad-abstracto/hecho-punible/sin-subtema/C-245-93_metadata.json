@@ -1,0 +1,59 @@
+{
+  "radicado": "C-245-93",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1993,
+  "fecha_creacion": "1993-06-24",
+  "magistrado_ponente": "Dr FABIO MORON DIAZ",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "HECHO PUNIBLE",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2700 de 1991",
+    "Decreto 2067 de 1991",
+    "Decreto 50 de 1987"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1993/C-245-93.htm",
+  "fecha_descarga": "2026-10-23T09:25:12.849733+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1993-06-24",
+  "fecha_publicacion": "1993-07-13",
+  "numero": "C-245/93",
+  "tipo_cc": "C",
+  "prov_id": "11340",
+  "tema_relatoria": "CANCELACION DE REGISTROS OBTENIDOS FRAUDULENTAMENTE. TIPICIDAD DEL HECHO PUNIBLE.",
+  "resumen": "Demanda de inconstitucionalidad contra el art. 61 del Decreto 2700 de 1991, “por el cual se expiden las normas de procedimiento penal”. El demandante señaló que el artículo demandado es contrario a los dispuesto por los art. 29, 31, 34, 58, 83, y 228 de la Constitución Política. La Corte señaló que la demostración de la tipicidad del hecho punible significa que esta situación jurídica le atribuye al funcionario judicial razón suficiente para enervar los efectos jurídicos del título y del registro, habilitándolo para ordenar su cancelación. La razón de la norma acusada es impedir que el título viciado genere una cadena de defraudaciones a la ley y a los derechos de terceros que actúan de buena fe. Por ende, es éste el ámbito propio y específico de una decisión judicial anticipada que persigue la preservación del derecho de propiedad y la garantía de la seguridad jurídica. Por lo anterior, declaró la exequibilidad condicionada del art. 61 del Decreto demandado, bajo el entendimiento que la medida que autoriza la norma acusada tiene el sentido preventivo o cautelar.",
+  "titulaciones": [
+    {
+      "tema": "HECHO PUNIBLE",
+      "subtema": null
+    },
+    {
+      "tema": "DEBIDO PROCESO",
+      "subtema": null
+    },
+    {
+      "tema": "NORMA CONSTITUCIONAL",
+      "subtema": "Inexequibilidad"
+    },
+    {
+      "tema": "DERECHO A LA PROPIEDAD",
+      "subtema": null
+    },
+    {
+      "tema": "TIPICIDAD",
+      "subtema": null
+    },
+    {
+      "tema": "DECRETO LEGISLATIVO DE FACULTADES CONSTITUCIONALES",
+      "subtema": null
+    },
+    {
+      "tema": "REGISTRO OBTENIDO FRAUDULENTAMENTE",
+      "subtema": "Cancelación"
+    }
+  ]
+}

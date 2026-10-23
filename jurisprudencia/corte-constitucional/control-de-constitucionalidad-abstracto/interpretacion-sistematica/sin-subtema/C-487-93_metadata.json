@@ -1,0 +1,51 @@
+{
+  "radicado": "C-487-93",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1993,
+  "fecha_creacion": "1993-10-28",
+  "magistrado_ponente": "Dr JOSE GREGORIO HERNANDEZ GALINDO",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "INTERPRETACION SISTEMATICA",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 24 de 1992",
+    "Ley 74 de 1968",
+    "Decreto 2067 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1993/C-487-93.htm",
+  "fecha_descarga": "2026-10-23T09:26:16.302963+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1993-10-28",
+  "fecha_publicacion": null,
+  "numero": "C-487/93",
+  "tipo_cc": "C",
+  "prov_id": "11585",
+  "tema_relatoria": "LEY 24/92. ART 3. DEFENSOR DEL PUEBLO. DESEMPEÑO DE CARGOS PUBLICOS. EXEQUIBLE.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "INTERPRETACION SISTEMATICA",
+      "subtema": null
+    },
+    {
+      "tema": "DEFENSOR DEL PUEBLO",
+      "subtema": "Calidades"
+    },
+    {
+      "tema": "CONSTITUCION POLITICA",
+      "subtema": null
+    },
+    {
+      "tema": "EJERCICIO DE CARGOS",
+      "subtema": "Requisitos"
+    },
+    {
+      "tema": "DEFENSOR DEL PUEBLO",
+      "subtema": "Requisitos"
+    }
+  ]
+}

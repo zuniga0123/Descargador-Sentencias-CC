@@ -1,0 +1,54 @@
+{
+  "radicado": "C-490-93",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1993,
+  "fecha_creacion": "1993-10-28",
+  "magistrado_ponente": "Alejandro Martinez Caballero",
+  "area": "Derecho de Familia y Derechos de Niños, Niñas y Adolescentes",
+  "tema": "ALIMENTOS",
+  "subtema": "Protección",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 51 de 1966",
+    "Ley 67 de 1983"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1993/C-490-93.htm",
+  "fecha_descarga": "2026-10-23T09:34:05.755423+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1993-10-28",
+  "fecha_publicacion": null,
+  "numero": "C-490/93",
+  "tipo_cc": "C",
+  "prov_id": "11588",
+  "tema_relatoria": "LEY 51/66. ART 1. RENTAS NACIONALES DE DESTINACION ESPECIFICA. RECURSOS PARAFISCALES. EXEQUIBLE.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ALIMENTOS",
+      "subtema": "Protección"
+    },
+    {
+      "tema": "CUOTA DE FOMENTO PARAFISCAL",
+      "subtema": null
+    },
+    {
+      "tema": "RENTAS DE DESTINACION ESPECIFICA",
+      "subtema": "Prohibición"
+    },
+    {
+      "tema": "INTERVENCION DEL ESTADO",
+      "subtema": null
+    },
+    {
+      "tema": "CONTRIBUCION FISCAL",
+      "subtema": null
+    },
+    {
+      "tema": "CUOTA DE FOMENTO CEREALISTA",
+      "subtema": "Naturaleza"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "radicado": "C-103-93",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1993,
+  "fecha_creacion": "1993-03-11",
+  "magistrado_ponente": "Fabio Moron Diaz",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "INVERSION EXTRANJERA",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 624 de 1989",
+    "Ley 49 de 1990",
+    "Decreto 2067 de 1991",
+    "Ley 75 de 1986",
+    "Ley 43 de 1987"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1993/C-103-93.htm",
+  "fecha_descarga": "2026-10-23T09:25:35.311691+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1993-03-11",
+  "fecha_publicacion": "1993-03-15",
+  "numero": "C-103/93",
+  "tipo_cc": "C",
+  "prov_id": "11192",
+  "tema_relatoria": "ESTATUTO TRIBUTARIO. EXEQUIBLE",
+  "resumen": "Demanda de inconstitucionalidad contra el artículo 321-1 (parcial) del Decreto 624 de 1989, “Por el cual se expide el Estatuto Tributario de los impuestos administrados por la Dirección General de Impuestos Nacionales. adicionado por el artículo 23 de la Ley 49 de 1990, “Por la cual se reglamenta la repatriación de capitales, se estimula el mercado accionario, se expiden normas en materia tributaria, aduanera y se dictan otras disposiciones”. El demandante señaló que la norma desconoce las reglas de la igualdad en términos tributarios porque frente a los principios de justicia, igualdad y equidad entre nacionales y extranjeros al conceder una ventaja en favor de las nuevas inversiones extranjeras y en detrimento de las ya preestablecidas en el país. La Corte señaló que la citada distinción y el trato diferencial ordenado por la norma acusada, no desconoció disposición constitucional alguna, ya que se fundamenta en propósitos racionales de carácter económico y encuentra justificación en los fines generales del Estado y en las competencias que le asigna la Constitución en materia de intervención en la economía. Declaró exequible las partes acusadas del artículo 321-1 del Decreto 624 de 1989, adicionado por el artículo 23 de la Ley 49 de 1990.",
+  "titulaciones": [
+    {
+      "tema": "INVERSION EXTRANJERA",
+      "subtema": null
+    },
+    {
+      "tema": "PRINCIPIO DE IGUALDAD",
+      "subtema": null
+    },
+    {
+      "tema": "NORMA DEROGADA",
+      "subtema": null
+    },
+    {
+      "tema": "IMPUESTO DE REMESAS",
+      "subtema": null
+    },
+    {
+      "tema": "SUSTRACCION DE MATERIA",
+      "subtema": "Improcedencia"
+    }
+  ]
+}

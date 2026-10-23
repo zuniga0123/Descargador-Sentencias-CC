@@ -1,0 +1,51 @@
+{
+  "radicado": "C-055-93",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1993,
+  "fecha_creacion": "1993-02-18",
+  "magistrado_ponente": "Doctor JOSE GREGORIO HERNANDEZ GALINDO",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "TRANSITO CONSTITUCIONAL",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2550 de 1988",
+    "Decreto 2067 de 1991",
+    "Ley 53 de 1987"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1993/C-055-93.htm",
+  "fecha_descarga": "2026-10-23T09:30:37.772303+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1993-02-18",
+  "fecha_publicacion": null,
+  "numero": "C-055/93",
+  "tipo_cc": "C",
+  "prov_id": "11143",
+  "tema_relatoria": "DEC. 2550/88 ART. 430 y 434. CODIGO PENAL MILITAR. REFORMATIO IN PEJUS. CONSULTA. EXEQUIBLE SALVO EXPRESION \"SIN LIMITACION ALGUNA\". ART. 430",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "TRANSITO CONSTITUCIONAL",
+      "subtema": null
+    },
+    {
+      "tema": "RECURSO DE APELACION",
+      "subtema": null
+    },
+    {
+      "tema": "CONSULTA",
+      "subtema": null
+    },
+    {
+      "tema": "PRINCIPIO NO REFORMATIO IN PEJUS",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "PRINCIPIO NO REFORMATIO IN PEJUS",
+      "subtema": "Vulneración"
+    }
+  ]
+}

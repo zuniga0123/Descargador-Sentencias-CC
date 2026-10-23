@@ -1,0 +1,74 @@
+{
+  "radicado": "T-495-93",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1993,
+  "fecha_creacion": "1993-10-29",
+  "magistrado_ponente": "Alejandro Martinez Caballero",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "PRESUNCION DE DESPIDO POR EMBARAZO",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 20 de 1974",
+    "Decreto 53 de 1952",
+    "Ley 50 de 1990",
+    "Decreto 2191 de 1991",
+    "Decreto 2351 de 1965",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1993/T-495-93.htm",
+  "fecha_descarga": "2026-10-23T09:19:14.820730+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1993-10-29",
+  "fecha_publicacion": null,
+  "numero": "T-495/93",
+  "tipo_cc": "T",
+  "prov_id": "11593",
+  "tema_relatoria": "TUTELA CONTRA PARTICULARES. MEDIO DE DEFENSA JUDICIAL. TERMINACION DE CONTRATO. MATERNIDAD. ARQUIDIOCESIS DE BTA. NEGADA",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "PRESUNCION DE DESPIDO POR EMBARAZO",
+      "subtema": null
+    },
+    {
+      "tema": "JURISDICCION LABORAL",
+      "subtema": null
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Improcedencia"
+    },
+    {
+      "tema": "JURISDICCION CANONICA",
+      "subtema": null
+    },
+    {
+      "tema": "DERECHO AL LIBRE DESARROLLO DE LA PERSONALIDAD",
+      "subtema": null
+    },
+    {
+      "tema": "EMPLEADOS DE LA IGLESIA",
+      "subtema": null
+    },
+    {
+      "tema": "CONTRATO DE TRABAJO",
+      "subtema": "Terminación unilateral"
+    },
+    {
+      "tema": "ARQUIDIOCESIS DE BOGOTA",
+      "subtema": "Naturaleza jurídica"
+    },
+    {
+      "tema": "MATERNIDAD",
+      "subtema": "Protección"
+    },
+    {
+      "tema": "ENTIDAD SIN ANIMO DE LUCRO",
+      "subtema": "Pago de prestaciones sociales"
+    }
+  ]
+}

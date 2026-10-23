@@ -1,0 +1,55 @@
+{
+  "radicado": "C-053-93",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1993,
+  "fecha_creacion": "1993-02-18",
+  "magistrado_ponente": "Doctor JOSE GREGORIO HERNANDEZ GALINDO",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "JUEZ SIN ROSTRO",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2700 de 1991",
+    "Ley 16 de 1972",
+    "Decreto 2790 de 1990"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1993/C-053-93.htm",
+  "fecha_descarga": "2026-10-23T09:30:34.179329+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1993-02-18",
+  "fecha_publicacion": null,
+  "numero": "C-053/93",
+  "tipo_cc": "C",
+  "prov_id": "11141",
+  "tema_relatoria": "DEC. 2700/91. ART 158 y 293 C de P.P. PROTECCION Y RESERVA DE TESTIGOS. EXEQUIBLE.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "JUEZ SIN ROSTRO",
+      "subtema": null
+    },
+    {
+      "tema": "DERECHO A LA IGUALDAD",
+      "subtema": null
+    },
+    {
+      "tema": "PRESUNCION DE INOCENCIA",
+      "subtema": null
+    },
+    {
+      "tema": "DEBIDO PROCESO",
+      "subtema": null
+    },
+    {
+      "tema": "TESTIGO SIN ROSTRO",
+      "subtema": null
+    },
+    {
+      "tema": "IDENTIDAD",
+      "subtema": "Protección"
+    }
+  ]
+}

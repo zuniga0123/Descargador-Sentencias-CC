@@ -1,0 +1,43 @@
+{
+  "radicado": "C-039-93",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1993,
+  "fecha_creacion": "1993-02-11",
+  "magistrado_ponente": "Dr JOSE GREGORIO HERNANDEZ GALINDO",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "COMPETENCIA",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2192 de 1991",
+    "Decreto 2067 de 1991",
+    "Decreto 2192 de 1992"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1993/C-039-93.htm",
+  "fecha_descarga": "2026-10-23T09:35:42.100071+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1993-02-11",
+  "fecha_publicacion": null,
+  "numero": "C-039/93",
+  "tipo_cc": "C",
+  "prov_id": "11128",
+  "tema_relatoria": "DEC. 2192/91 ART 1. FINANCIACION DE CAMPAÑAS ELECTORALES. INHIBIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "COMPETENCIA",
+      "subtema": null
+    },
+    {
+      "tema": "CORTE CONSTITUCIONAL",
+      "subtema": null
+    },
+    {
+      "tema": "CAMPAÑAS POLITICAS",
+      "subtema": "Financiación"
+    }
+  ]
+}

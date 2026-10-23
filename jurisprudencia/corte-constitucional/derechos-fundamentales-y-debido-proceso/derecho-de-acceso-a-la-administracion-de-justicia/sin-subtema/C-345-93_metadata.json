@@ -1,0 +1,67 @@
+{
+  "radicado": "C-345-93",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1993,
+  "fecha_creacion": "1993-08-26",
+  "magistrado_ponente": null,
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "DERECHO DE ACCESO A LA ADMINISTRACIÓN DE JUSTICIA",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 597 de 1988",
+    "Ley 30 de 1987",
+    "Ley 1 de 1984"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1993/C-345-93.htm",
+  "fecha_descarga": "2026-10-23T09:33:11.886187+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1993-08-26",
+  "fecha_publicacion": null,
+  "numero": "C-345/93",
+  "tipo_cc": "C",
+  "prov_id": "11440",
+  "tema_relatoria": "DEC. 01/84. C.C.A. ARTS 131 NUM 6 LIT B Y 132 NUM 6 INC 3 PARTE FINAL. CUANTIAS EN PRIMERA Y UNICA INSTANCIA EN MATERIA LABORAL. INEXEQUIBLES",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO DE ACCESO A LA ADMINISTRACIÓN DE JUSTICIA",
+      "subtema": null
+    },
+    {
+      "tema": "DEBIDO PROCESO",
+      "subtema": null
+    },
+    {
+      "tema": "COSA JUZGADA RELATIVA",
+      "subtema": null
+    },
+    {
+      "tema": "TRANSITO CONSTITUCIONAL",
+      "subtema": null
+    },
+    {
+      "tema": "DERECHO A LA IGUALDAD",
+      "subtema": null
+    },
+    {
+      "tema": "PRINCIPIO DE LA DOBLE INSTANCIA",
+      "subtema": "Naturaleza"
+    },
+    {
+      "tema": "PRINCIPIO DE LA DOBLE INSTANCIA",
+      "subtema": "Vulneración"
+    },
+    {
+      "tema": "PROCESO LABORAL",
+      "subtema": "Cuantía"
+    },
+    {
+      "tema": "PROCESO LABORAL",
+      "subtema": "Unica instancia"
+    }
+  ]
+}

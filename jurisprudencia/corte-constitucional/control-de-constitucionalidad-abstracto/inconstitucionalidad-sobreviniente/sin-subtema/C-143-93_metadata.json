@@ -1,0 +1,58 @@
+{
+  "radicado": "C-143-93",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1993,
+  "fecha_creacion": "1993-04-20",
+  "magistrado_ponente": "Doctor JOSE GREGORIO HERNANDEZ GALINDO",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "INCONSTITUCIONALIDAD SOBREVINIENTE",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 1333 de 1986",
+    "Decreto 1222 de 1986",
+    "Decreto 2067 de 1991",
+    "Ley 78 de 1986",
+    "Ley 153 de 1887",
+    "Ley 11 de 1986"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1993/C-143-93.htm",
+  "fecha_descarga": "2026-10-23T09:27:50.398628+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1993-04-20",
+  "fecha_publicacion": null,
+  "numero": "C-143/93",
+  "tipo_cc": "C",
+  "prov_id": "11233",
+  "tema_relatoria": "LEY 3/86. ARTS. 16 y 20 DEC. 1222/86. ARTS. 246 249 y 250. CONTROL FISCAL DE LOS CONTRALORES. EXEQUIBLES UNOS INEXEQUIBLES OTROS.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "INCONSTITUCIONALIDAD SOBREVINIENTE",
+      "subtema": null
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "Concepto de violación"
+    },
+    {
+      "tema": "CONTRALOR DEPARTAMENTAL",
+      "subtema": "Elección"
+    },
+    {
+      "tema": "TRANSITO CONSTITUCIONAL",
+      "subtema": null
+    },
+    {
+      "tema": "CONSTITUCION POLITICA",
+      "subtema": "Vigencia"
+    },
+    {
+      "tema": "CONTRALOR DEPARTAMENTAL",
+      "subtema": "Periodo"
+    }
+  ]
+}

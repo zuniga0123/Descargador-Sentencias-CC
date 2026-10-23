@@ -1,0 +1,53 @@
+{
+  "radicado": "T-198-93",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1993,
+  "fecha_creacion": "1993-05-21",
+  "magistrado_ponente": null,
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "SECUESTRO DE BIEN INMUEBLE",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1993/T-198-93.htm",
+  "fecha_descarga": "2026-10-23T09:24:34.019152+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1993-05-21",
+  "fecha_publicacion": null,
+  "numero": "T-198/93",
+  "tipo_cc": "T",
+  "prov_id": "11293",
+  "tema_relatoria": "DERECHO DE POSESION. DEBIDO PROCESO. SECUESTRO DE PREDIO EN ARMENIA. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "SECUESTRO DE BIEN INMUEBLE",
+      "subtema": null
+    },
+    {
+      "tema": "DEBIDO PROCESO",
+      "subtema": "Vulneración"
+    },
+    {
+      "tema": "DERECHOS DEL POSEEDOR",
+      "subtema": null
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA ACTUACIONES JUDICIALES",
+      "subtema": null
+    },
+    {
+      "tema": "VIA DE HECHO",
+      "subtema": null
+    },
+    {
+      "tema": "DERECHO DE DEFENSA",
+      "subtema": "Vulneración"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "radicado": "C-206-93",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1993,
+  "fecha_creacion": "1993-06-02",
+  "magistrado_ponente": "Antonio Barrera Carbonell",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "PRESUPUESTO GENERAL DE LA NACION",
+  "subtema": "Modificación",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 466 de 1993",
+    "Ley 38 de 1989",
+    "Decreto 446 de 1993",
+    "Decreto 1940 de 1992",
+    "Decreto 294 de 1973"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1993/C-206-93.htm",
+  "fecha_descarga": "2026-10-23T09:32:04.528511+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1993-06-02",
+  "fecha_publicacion": null,
+  "numero": "C-206/93",
+  "tipo_cc": "C",
+  "prov_id": "11301",
+  "tema_relatoria": "DEC 446/93. OPERACIONES PRESUPUESTALES EN EL PRESUPUESTO GENERAL DE LA NACION. VIGENCIA FISCAL/93. CONMOCION INTERIOR. EXEQUIBLE.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "PRESUPUESTO GENERAL DE LA NACION",
+      "subtema": "Modificación"
+    },
+    {
+      "tema": "CONMOCION INTERIOR",
+      "subtema": null
+    },
+    {
+      "tema": "CREDITOS ADICIONALES",
+      "subtema": "Supresión"
+    },
+    {
+      "tema": "PRINCIPIO DEL EQUILIBRIO PRESUPUESTAL",
+      "subtema": "Eliminación"
+    },
+    {
+      "tema": "PRESUPUESTO GENERAL DE LA NACION",
+      "subtema": "Adición"
+    }
+  ]
+}

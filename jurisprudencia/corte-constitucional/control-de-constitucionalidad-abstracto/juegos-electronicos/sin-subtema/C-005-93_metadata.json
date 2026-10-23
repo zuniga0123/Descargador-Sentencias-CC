@@ -1,0 +1,50 @@
+{
+  "radicado": "C-005-93",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1993,
+  "fecha_creacion": "1993-01-14",
+  "magistrado_ponente": "Doctor CIRO ANGARITA BARON",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "JUEGOS ELECTRONICOS",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2067 de 1991",
+    "Ley 56 de 1988"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1993/C-005-93.htm",
+  "fecha_descarga": "2026-10-23T09:35:08.339025+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1993-01-14",
+  "fecha_publicacion": null,
+  "numero": "C-005/93",
+  "tipo_cc": "C",
+  "prov_id": "11092",
+  "tema_relatoria": "ART. 322. CODIGO DEL MENOR. JUEGOS ELECTRONICOS. EXEQUIBLE",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "JUEGOS ELECTRONICOS",
+      "subtema": null
+    },
+    {
+      "tema": "DERECHO A LA RECREACION",
+      "subtema": "Límites"
+    },
+    {
+      "tema": "DERECHO A LA EDUCACIÓN",
+      "subtema": "Prevalencia"
+    },
+    {
+      "tema": "DERECHO A LA RECREACION",
+      "subtema": null
+    },
+    {
+      "tema": "DERECHOS DE LA NIÑEZ",
+      "subtema": "Protección"
+    }
+  ]
+}

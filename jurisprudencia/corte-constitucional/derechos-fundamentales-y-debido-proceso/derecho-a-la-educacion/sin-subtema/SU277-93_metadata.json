@@ -1,0 +1,73 @@
+{
+  "radicado": "SU277-93",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1993,
+  "fecha_creacion": "1993-07-22",
+  "magistrado_ponente": "Antonio Barrera Carbonell",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "DERECHO A LA EDUCACIÓN",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 48 de 1993"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1993/SU277-93.htm",
+  "fecha_descarga": "2026-10-23T09:38:03.901432+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1993-07-22",
+  "fecha_publicacion": "1993-08-11",
+  "numero": "SU.277/93",
+  "tipo_cc": "SU",
+  "prov_id": "11371",
+  "tema_relatoria": "REGULACION DEL SERVICIO MILITAR OBLIGATORIO. MINORIA DE EDAD. DERECHO A LA EDUCACION. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA EDUCACIÓN",
+      "subtema": null
+    },
+    {
+      "tema": "DERECHO AL LIBRE DESARROLLO DE LA PERSONALIDAD",
+      "subtema": "Vulneración"
+    },
+    {
+      "tema": "DERECHOS FUNDAMENTALES",
+      "subtema": "Regulación"
+    },
+    {
+      "tema": "DERECHO A LA EDUCACIÓN",
+      "subtema": "Límites"
+    },
+    {
+      "tema": "SERVICIO MILITAR",
+      "subtema": "Obligación"
+    },
+    {
+      "tema": "PRINCIPIO DE PROPORCIONALIDAD",
+      "subtema": null
+    },
+    {
+      "tema": "SERVICIO MILITAR",
+      "subtema": null
+    },
+    {
+      "tema": "DERECHO A LA FAMILIA",
+      "subtema": "Vulneración"
+    },
+    {
+      "tema": "SERVICIO MILITAR",
+      "subtema": "Minoría de edad"
+    },
+    {
+      "tema": "SERVICIO MILITAR",
+      "subtema": "Incorporación"
+    },
+    {
+      "tema": "SERVICIO MILITAR OBLIGATORIO",
+      "subtema": "Exenciones previstas en la Ley"
+    }
+  ]
+}

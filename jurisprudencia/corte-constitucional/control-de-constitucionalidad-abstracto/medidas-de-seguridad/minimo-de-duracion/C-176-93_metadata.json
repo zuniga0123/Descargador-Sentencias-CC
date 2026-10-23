@@ -1,0 +1,54 @@
+{
+  "radicado": "C-176-93",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1993,
+  "fecha_creacion": "1993-05-06",
+  "magistrado_ponente": "Alejandro Martinez Caballero",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "MEDIDAS DE SEGURIDAD",
+  "subtema": "Mínimo de duración",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2067 de 1991",
+    "Decreto 100 de 1980"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1993/C-176-93.htm",
+  "fecha_descarga": "2026-10-23T09:31:57.060512+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1993-05-06",
+  "fecha_publicacion": null,
+  "numero": "C-176/93",
+  "tipo_cc": "C",
+  "prov_id": "11268",
+  "tema_relatoria": "DEC 100/80 CP ARTS 94 95 Y 96. INIMPUTABLES. REHABILITACION. INEXEQUIBLES ALGUNAS EXPRESIONES. EXEQUIBLE UNA EXPRESION.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "MEDIDAS DE SEGURIDAD",
+      "subtema": "Mínimo de duración"
+    },
+    {
+      "tema": "INIMPUTABLE",
+      "subtema": "Atención integral"
+    },
+    {
+      "tema": "DERECHO AL LIBRE DESARROLLO DE LA PERSONALIDAD",
+      "subtema": null
+    },
+    {
+      "tema": "MEDIDAS DE SEGURIDAD",
+      "subtema": "Naturaleza"
+    },
+    {
+      "tema": "MEDIDAS DE SEGURIDAD",
+      "subtema": "Suspensión"
+    },
+    {
+      "tema": "MEDIDAS DE SEGURIDAD",
+      "subtema": "Máximo de duración"
+    }
+  ]
+}

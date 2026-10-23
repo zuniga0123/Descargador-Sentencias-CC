@@ -1,0 +1,51 @@
+{
+  "radicado": "T-200-93",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1993,
+  "fecha_creacion": "1993-05-25",
+  "magistrado_ponente": "Dr CARLOS GAVIRIA DIAZ",
+  "area": "Derecho a la Salud",
+  "tema": "DERECHOS DE LA NIÑEZ",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1993/T-200-93.htm",
+  "fecha_descarga": "2026-10-23T09:24:37.606805+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1993-05-25",
+  "fecha_publicacion": null,
+  "numero": "T-200/93",
+  "tipo_cc": "T",
+  "prov_id": "11295",
+  "tema_relatoria": "DERECHO A LA SALU. MENORES DISMINUIDOS FISICAMENTE. OMISION DEL ISS EN PRESTACION DEL SERVICIO. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHOS DE LA NIÑEZ",
+      "subtema": null
+    },
+    {
+      "tema": "PERSONA DISMINUIDA FISICAMENTE",
+      "subtema": null
+    },
+    {
+      "tema": "DERECHOS FUNDAMENTALES POR CONEXIDAD",
+      "subtema": null
+    },
+    {
+      "tema": "DERECHOS SOCIALES",
+      "subtema": null
+    },
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": null
+    },
+    {
+      "tema": "INSTITUTO DE SEGUROS SOCIALES",
+      "subtema": "Asistencia médica"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "radicado": "C-567-93",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1993,
+  "fecha_creacion": "1993-12-09",
+  "magistrado_ponente": "Dr Carlos Gaviria Díaz",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "SUPRANACIONALIDAD",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 20 de 1974",
+    "Decreto 2067 de 1991",
+    "Ley 54 de 1924",
+    "Ley 32 de 1985"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1993/C-567-93.htm",
+  "fecha_descarga": "2026-10-23T09:27:16.514799+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1993-12-09",
+  "fecha_publicacion": null,
+  "numero": "C-567/93",
+  "tipo_cc": "C",
+  "prov_id": "11671",
+  "tema_relatoria": "LEY 20/74. ART.2. CONCORDATO. COMPETENCIA DE LA CORTE EN MATERIA DE LEYES APROBATORIAS DE TRATADOS. SE INHIBE LA CORTE.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "SUPRANACIONALIDAD",
+      "subtema": null
+    },
+    {
+      "tema": "CONTROL DE CONSTITUCIONALIDAD",
+      "subtema": null
+    },
+    {
+      "tema": "TRATADO INTERNACIONAL",
+      "subtema": null
+    },
+    {
+      "tema": "IUS COGENS",
+      "subtema": null
+    },
+    {
+      "tema": "CORTE CONSTITUCIONAL",
+      "subtema": "Incompetencia"
+    },
+    {
+      "tema": "PACTA SUNT SERVANDA",
+      "subtema": "Vicio del consentimiento del Estado"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "radicado": "C-228-93",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1993,
+  "fecha_creacion": "1993-06-17",
+  "magistrado_ponente": "Dr VLADIMIRO NARANJO MESA",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "PRESIDENTE DE LA REPUBLICA",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 1372 de 1992"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1993/C-228-93.htm",
+  "fecha_descarga": "2026-10-23T09:32:30.670858+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1993-06-17",
+  "fecha_publicacion": null,
+  "numero": "C-228/93",
+  "tipo_cc": "C",
+  "prov_id": "11323",
+  "tema_relatoria": "LEY 6/92. ARTS 19 24 Y 25. IVA. EXEQUIBLES.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "PRESIDENTE DE LA REPUBLICA",
+      "subtema": null
+    },
+    {
+      "tema": "PRINCIPIO DE CERTEZA JURIDICA",
+      "subtema": null
+    },
+    {
+      "tema": "POTESTAD REGLAMENTARIA",
+      "subtema": null
+    },
+    {
+      "tema": "FACULTAD IMPOSITIVA",
+      "subtema": null
+    },
+    {
+      "tema": "OBLIGACIÓN TRIBUTARIA",
+      "subtema": "Naturaleza"
+    },
+    {
+      "tema": "SERVICIO",
+      "subtema": "Concepto"
+    }
+  ]
+}

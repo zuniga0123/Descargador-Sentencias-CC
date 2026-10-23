@@ -1,0 +1,51 @@
+{
+  "radicado": "C-209-93",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1993,
+  "fecha_creacion": "1993-06-07",
+  "magistrado_ponente": "Alejandro Martinez Caballero",
+  "area": "Derecho Constitucional Económico",
+  "tema": "CONTROL DE CONSTITUCIONALIDAD",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2067 de 1991",
+    "Ley 35 de 1993",
+    "Ley 75 de 1986"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1993/C-209-93.htm",
+  "fecha_descarga": "2026-10-23T09:32:12.281490+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1993-06-07",
+  "fecha_publicacion": null,
+  "numero": "C-209/93",
+  "tipo_cc": "C",
+  "prov_id": "11304",
+  "tema_relatoria": "LEY 6/92. ART 26. IVA EN LOS SERVICIOS FINANCIEROS. EXEQUIBLE",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "CONTROL DE CONSTITUCIONALIDAD",
+      "subtema": null
+    },
+    {
+      "tema": "CORTE CONSTITUCIONAL",
+      "subtema": "Función"
+    },
+    {
+      "tema": "PRINCIPIO DE LEGALIDAD DEL IMPUESTO",
+      "subtema": null
+    },
+    {
+      "tema": "SUJETO PASIVO DEL IMPUESTO",
+      "subtema": "Indeterminación"
+    },
+    {
+      "tema": "SUJETO PASIVO DEL IMPUESTO",
+      "subtema": "Determinación"
+    }
+  ]
+}

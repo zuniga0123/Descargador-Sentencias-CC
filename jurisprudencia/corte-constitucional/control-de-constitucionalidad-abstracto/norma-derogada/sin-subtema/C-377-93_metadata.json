@@ -1,0 +1,50 @@
+{
+  "radicado": "C-377-93",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1993,
+  "fecha_creacion": "1993-09-09",
+  "magistrado_ponente": "Dr FABIO MORON DIAZ",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "NORMA DEROGADA",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 884 de 1944",
+    "Decreto 2067 de 1991",
+    "Ley 15 de 1968",
+    "Decreto 2398 de 1986",
+    "Decreto 2400 de 1968",
+    "Decreto 625 de 1974",
+    "Decreto Ley 512 de 1989",
+    "Decreto 2110 de 1992",
+    "Ley 78 de 1986",
+    "Ley 30 de 1986"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1993/C-377-93.htm",
+  "fecha_descarga": "2026-10-23T09:29:22.847650+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1993-09-09",
+  "fecha_publicacion": null,
+  "numero": "C-377/93",
+  "tipo_cc": "C",
+  "prov_id": "11472",
+  "tema_relatoria": "DEC.888/44. ART. 1. CERT. SOBRE ACTOS DELICTUOSOS PARA POSESION DE EMPLEOS FALLO INHIBITORIO PORQUE LO ACUSADO NO SURTE ACTUALMENTE NINGUN EFECTO.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "NORMA DEROGADA",
+      "subtema": null
+    },
+    {
+      "tema": "CARENCIA DE OBJETO ACTUAL",
+      "subtema": null
+    },
+    {
+      "tema": "CONTROL DE CONSTITUCIONALIDAD",
+      "subtema": "Requisitos de forma"
+    }
+  ]
+}

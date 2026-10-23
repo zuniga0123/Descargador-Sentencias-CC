@@ -1,0 +1,55 @@
+{
+  "radicado": "T-338-93",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1993,
+  "fecha_creacion": "1993-08-24",
+  "magistrado_ponente": "Alejandro Martinez Caballero",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "AUTONOMIA DE LA VOLUNTAD",
+  "subtema": "Finalidad",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 23 de 1982",
+    "Decreto 3116 de 1984"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1993/T-338-93.htm",
+  "fecha_descarga": "2026-10-23T09:21:19.323093+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1993-08-24",
+  "fecha_publicacion": null,
+  "numero": "T-338/93",
+  "tipo_cc": "T",
+  "prov_id": "11433",
+  "tema_relatoria": "DERECHO AL TRABAJO. LIBERTAD DE ESCOGER PROFESION U OFICIO. TUTELA CONTRA PARTICULARES. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "AUTONOMIA DE LA VOLUNTAD",
+      "subtema": "Finalidad"
+    },
+    {
+      "tema": "PRINCIPIO DE DIGNIDAD HUMANA",
+      "subtema": "Relación laboral"
+    },
+    {
+      "tema": "CONTRATO DE EXCLUSIVIDAD",
+      "subtema": null
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Conflictos particulares"
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA PARTICULARES",
+      "subtema": "Indefensión"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Hecho superado"
+    }
+  ]
+}

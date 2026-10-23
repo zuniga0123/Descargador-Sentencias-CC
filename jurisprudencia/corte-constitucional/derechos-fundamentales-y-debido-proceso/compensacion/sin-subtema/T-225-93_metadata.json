@@ -1,0 +1,61 @@
+{
+  "radicado": "T-225-93",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1993,
+  "fecha_creacion": "1993-06-15",
+  "magistrado_ponente": "Dr VLADIMIRO NARANJO MESA",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "COMPENSACION",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1993/T-225-93.htm",
+  "fecha_descarga": "2026-10-23T09:17:18.016842+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1993-06-15",
+  "fecha_publicacion": null,
+  "numero": "T-225/93",
+  "tipo_cc": "T",
+  "prov_id": "11320",
+  "tema_relatoria": "ACCIONES POPULARES. ACUEDUCTO DE NARIÑO (C/MARCA). PROVISION DE AGUA POTABLE. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "COMPENSACION",
+      "subtema": null
+    },
+    {
+      "tema": "DERECHOS FUNDAMENTALES",
+      "subtema": "Amenaza"
+    },
+    {
+      "tema": "FALLO DE TUTELA",
+      "subtema": "Notificación por telegrama"
+    },
+    {
+      "tema": "INDEMNIZACION DE PERJUICIOS",
+      "subtema": null
+    },
+    {
+      "tema": "MEDIO DE DEFENSA JUDICIAL",
+      "subtema": null
+    },
+    {
+      "tema": "ACCION POPULAR",
+      "subtema": null
+    },
+    {
+      "tema": "DAÑO CONTINGENTE",
+      "subtema": null
+    },
+    {
+      "tema": "PERJUICIO IRREMEDIABLE",
+      "subtema": "Concepto"
+    }
+  ]
+}

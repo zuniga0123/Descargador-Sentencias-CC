@@ -1,0 +1,66 @@
+{
+  "radicado": "C-208-93",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1993,
+  "fecha_creacion": "1993-06-03",
+  "magistrado_ponente": "Hernando Herrera Vergara",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "LEGISLACION PERMANENTE",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2265 de 1991",
+    "Decreto 1303 de 1990",
+    "Ley 30 de 1986",
+    "Decreto 2372 de 1990",
+    "Decreto 1303 de 1991",
+    "Decreto 2790 de 1990",
+    "Decreto 2700 de 1991",
+    "Decreto 1156 de 1992",
+    "Decreto 50 de 1987",
+    "Decreto 3030 de 1990"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1993/C-208-93.htm",
+  "fecha_descarga": "2026-10-23T09:32:08.457593+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1993-06-03",
+  "fecha_publicacion": null,
+  "numero": "C-208/93",
+  "tipo_cc": "C",
+  "prov_id": "11303",
+  "tema_relatoria": "DEC 2265/91. ARTS 2 3 5 y 6. SE ADOPTA COMO LEGISLACION PERMANENTE NORMAS DE ESTADO DE SITIO. EXEQUIBLE.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "LEGISLACION PERMANENTE",
+      "subtema": null
+    },
+    {
+      "tema": "SOMETIMIENTO A LA JUSTICIA",
+      "subtema": null
+    },
+    {
+      "tema": "NORMA DE ESTADO DE SITIO",
+      "subtema": null
+    },
+    {
+      "tema": "CODIGO DE PROCEDIMIENTO PENAL",
+      "subtema": "Normas derogadas"
+    },
+    {
+      "tema": "PRINCIPIO DEL JUEZ NATURAL",
+      "subtema": null
+    },
+    {
+      "tema": "ACUMULACION DE COMPETENCIAS",
+      "subtema": null
+    },
+    {
+      "tema": "PRUEBAS",
+      "subtema": "Solicitud en el extranjero"
+    }
+  ]
+}

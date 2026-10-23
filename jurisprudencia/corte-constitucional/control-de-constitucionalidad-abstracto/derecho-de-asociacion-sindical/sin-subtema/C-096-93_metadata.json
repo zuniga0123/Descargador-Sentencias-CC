@@ -1,0 +1,52 @@
+{
+  "radicado": "C-096-93",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1993,
+  "fecha_creacion": "1993-02-27",
+  "magistrado_ponente": "Dr SIMON RODRIGUEZ RODRIGUEZ",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "DERECHO DE ASOCIACIÓN SINDICAL",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 50 de 1990",
+    "Decreto 2067 de 1991",
+    "Ley 26 de 1976",
+    "Ley 20 de 1976"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1993/C-096-93.htm",
+  "fecha_descarga": "2026-10-23T09:36:33.810137+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1993-02-27",
+  "fecha_publicacion": null,
+  "numero": "C-096/93",
+  "tipo_cc": "C",
+  "prov_id": "11185",
+  "tema_relatoria": "LEY 50/90. ART. 52. REGIMEN DE SEGURIDAD Y PREVISION SOCIAL. EXEQUIBLE.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO DE ASOCIACIÓN SINDICAL",
+      "subtema": null
+    },
+    {
+      "tema": "SINDICATO",
+      "subtema": "Disolución"
+    },
+    {
+      "tema": "PRINCIPIO NON BIS IN IDEM",
+      "subtema": null
+    },
+    {
+      "tema": "SINDICATO",
+      "subtema": "Personería jurídica"
+    },
+    {
+      "tema": "SENTENCIA DE EXEQUIBILIDAD",
+      "subtema": "Límites"
+    }
+  ]
+}

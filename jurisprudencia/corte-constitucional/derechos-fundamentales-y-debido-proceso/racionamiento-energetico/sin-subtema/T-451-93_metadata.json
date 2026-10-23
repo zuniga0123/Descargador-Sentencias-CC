@@ -1,0 +1,64 @@
+{
+  "radicado": "T-451-93",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1993,
+  "fecha_creacion": "1993-10-12",
+  "magistrado_ponente": "Jorge Arango Mejia",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "RACIONAMIENTO ENERGETICO",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2700 de 1991",
+    "Decreto 717 de 1992",
+    "Decreto 3464 de 1980",
+    "Decreto 50 de 1987"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1993/T-451-93.htm",
+  "fecha_descarga": "2026-10-23T09:18:27.581088+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1993-10-12",
+  "fecha_publicacion": null,
+  "numero": "T-451/93",
+  "tipo_cc": "T",
+  "prov_id": "11548",
+  "tema_relatoria": "DEBIDO PROCESO. TUTELA CONTRA SENTENCIAS. DEMANDA DE CASACION. PRORROGA DE TERMINOS. DERECHO A LA IGUALDAD. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "RACIONAMIENTO ENERGETICO",
+      "subtema": null
+    },
+    {
+      "tema": "CASO FORTUITO",
+      "subtema": "Inexistencia"
+    },
+    {
+      "tema": "DEMANDA DE CASACION",
+      "subtema": "Presentación en notaría"
+    },
+    {
+      "tema": "FUERZA MAYOR",
+      "subtema": "Inexistencia"
+    },
+    {
+      "tema": "DEBIDO PROCESO",
+      "subtema": null
+    },
+    {
+      "tema": "PRORROGA DE TERMINOS EN MATERIA PENAL",
+      "subtema": null
+    },
+    {
+      "tema": "TERMINO LEGAL",
+      "subtema": "Vencimiento"
+    },
+    {
+      "tema": "TERMINO PROCESAL",
+      "subtema": "Cumplimiento"
+    }
+  ]
+}

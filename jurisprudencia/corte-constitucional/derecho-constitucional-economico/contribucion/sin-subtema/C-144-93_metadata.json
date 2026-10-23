@@ -1,0 +1,62 @@
+{
+  "radicado": "C-144-93",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1993,
+  "fecha_creacion": "1993-04-20",
+  "magistrado_ponente": "Eduardo Cifuentes Muñoz",
+  "area": "Derecho Constitucional Económico",
+  "tema": "CONTRIBUCION",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2067 de 1991",
+    "Ley 6 de 1992"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1993/C-144-93.htm",
+  "fecha_descarga": "2026-10-23T09:25:20.317326+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1993-04-20",
+  "fecha_publicacion": "1993-05-18",
+  "numero": "C-144/93",
+  "tipo_cc": "C",
+  "prov_id": "11234",
+  "tema_relatoria": "NORMAS EN MATERIA TRIBUTARIA. TARIFAS. PROPIEDAD INDUSTRIAL.",
+  "resumen": "Demanda de inconstitucionalidad contra los artículos 119 y 124 de la Ley 6ª de 1992, “por la cual se expiden normas en materia tributaria, se otorgan facultades para emitir título de deuda pública interna, se dispone un ajuste de pensiones del sector público nacional y se dictan otras disposiciones\". El actor señaló que las normas acusadas transgreden el inciso segundo del artículo 338 de la Constitución Política. Frente a la fijación de las tasas para los procedimientos de propiedad industrial, la Corte señaló que no se evidencia que el legislador hubiere abandonado la determinación del sistema y método para calcular el costo del servicio en manos de la autoridad encargada de señalar la tarifa de la tasa, en cuanto se definió un sistema proporcional para ello. Ahora, frente a la fijación relativa al registro mercantil, la Sala reiteró que la prestación de un servicio o función desempeñada por un particular no impide que el Legislador sujete dicha actividad o servicio a un sistema tributario de tasa, máxime si éste resulta ser el único adecuado e idóneo para ese propósito. Por lo anterior, declaró exequible los artículos 119 y 124 de la Ley 6ª de 1992.",
+  "titulaciones": [
+    {
+      "tema": "CONTRIBUCION",
+      "subtema": null
+    },
+    {
+      "tema": "CAMARA DE COMERCIO",
+      "subtema": "Naturaleza"
+    },
+    {
+      "tema": "REGISTRO MERCANTIL",
+      "subtema": "Tarifa"
+    },
+    {
+      "tema": "RESERVA LEGAL",
+      "subtema": null
+    },
+    {
+      "tema": "CAMARA DE COMERCIO",
+      "subtema": "Tarifa"
+    },
+    {
+      "tema": "AUTORIDAD PUBLICA",
+      "subtema": "Noción"
+    },
+    {
+      "tema": "TASA",
+      "subtema": "Tarifa"
+    },
+    {
+      "tema": "SISTEMA TARIFARIO",
+      "subtema": "Método"
+    }
+  ]
+}
