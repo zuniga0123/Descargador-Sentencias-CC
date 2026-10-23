@@ -1,0 +1,73 @@
+{
+  "radicado": "T-301-96",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1996,
+  "fecha_creacion": "1996-07-10",
+  "magistrado_ponente": "Dr EDUARDO CIFUENTES MUÑOZ",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "AUTONOMÍA UNIVERSITARIA",
+  "subtema": "Límites",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1996/T-301-96.htm",
+  "fecha_descarga": "2026-10-23T07:08:38.180466+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1996-07-10",
+  "fecha_publicacion": null,
+  "numero": "T-301/96",
+  "tipo_cc": "T",
+  "prov_id": "13340",
+  "tema_relatoria": "AUTONOMIA UNIVERSITARIA. DEBIDO PROCESO EN ACTUACIONES DISCIPLINARIAS DE ORDEN ACADEMICO. POSTGRADO DE ODONTOLOGIA. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "AUTONOMÍA UNIVERSITARIA",
+      "subtema": "Límites"
+    },
+    {
+      "tema": "DERECHO DE DEFENSA",
+      "subtema": "Procedimiento académico sancionatorio"
+    },
+    {
+      "tema": "DERECHO DE DEFENSA EN MATERIA DISCIPLINARIA",
+      "subtema": "Calificación conducta de estudiante"
+    },
+    {
+      "tema": "ESTABLECIMIENTO EDUCATIVO",
+      "subtema": "Control de actuaciones"
+    },
+    {
+      "tema": "REGLAMENTO UNIVERSITARIO",
+      "subtema": "Elementos del procedimiento sancionatorio"
+    },
+    {
+      "tema": "AUTONOMÍA UNIVERSITARIA",
+      "subtema": "Revisión de actuaciones"
+    },
+    {
+      "tema": "PRINCIPIO DE LEGALIDAD",
+      "subtema": "Procedimiento académico sancionatorio"
+    },
+    {
+      "tema": "DEBIDO PROCESO DISCIPLINARIO",
+      "subtema": "Procedimiento académico sancionatorio"
+    },
+    {
+      "tema": "REGLAMENTO UNIVERSITARIO",
+      "subtema": "Publicidad procedimiento sancionatorio"
+    },
+    {
+      "tema": "REGLAMENTO UNIVERSITARIO",
+      "subtema": "Consagración procedimiento disciplinario"
+    },
+    {
+      "tema": "REGLAMENTO UNIVERSITARIO",
+      "subtema": "Requisitos mínimos de defensa"
+    }
+  ]
+}

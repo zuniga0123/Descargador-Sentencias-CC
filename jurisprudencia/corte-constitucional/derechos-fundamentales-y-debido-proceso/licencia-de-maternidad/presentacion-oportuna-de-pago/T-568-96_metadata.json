@@ -1,0 +1,49 @@
+{
+  "radicado": "T-568-96",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1996,
+  "fecha_creacion": "1996-10-28",
+  "magistrado_ponente": "Dr EDUARDO CIFUENTES MUÑOZ",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "LICENCIA DE MATERNIDAD",
+  "subtema": "Presentación oportuna de pago",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 1008 de 1990",
+    "Decreto 1008 de 1991",
+    "Ley 100 de 1993",
+    "Decreto 536 de 1971",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1996/T-568-96.htm",
+  "fecha_descarga": "2026-10-23T07:17:22.061661+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1996-10-28",
+  "fecha_publicacion": null,
+  "numero": "T-568/96",
+  "tipo_cc": "T",
+  "prov_id": "13640",
+  "tema_relatoria": "NO PAGO DE INCAPACIDADES MEDICAS. LICENCIA DE MATERNIDAD. TUTELA SE INTERPONE UN AÑO DESPUES. MEDIO DE DEFENSA JUDICIAL. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "LICENCIA DE MATERNIDAD",
+      "subtema": "Presentación oportuna de pago"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Pago auxilio de maternidad"
+    },
+    {
+      "tema": "LICENCIA DE MATERNIDAD",
+      "subtema": "Pago oportuno"
+    },
+    {
+      "tema": "LICENCIA DE MATERNIDAD",
+      "subtema": "Objeto"
+    }
+  ]
+}

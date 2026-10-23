@@ -1,0 +1,45 @@
+{
+  "radicado": "C-686-96",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1996,
+  "fecha_creacion": "1996-12-05",
+  "magistrado_ponente": "Dr ALEJANDRO MARTÍNEZ CABALLERO",
+  "area": "Derecho Administrativo y Función Pública",
+  "tema": "CONTROL DE CONSTITUCIONALIDAD",
+  "subtema": "Interpretaciones razonables",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2700 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1996/C-686-96.htm",
+  "fecha_descarga": "2026-10-23T07:22:53.406511+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1996-12-05",
+  "fecha_publicacion": "1996-12-19",
+  "numero": "C-686/96",
+  "tipo_cc": "C",
+  "prov_id": "13762",
+  "tema_relatoria": "PRIVACION DE LA LIBERTAD DEL SERVIDOR PUBLICO. HABEAS CORPUS. GARANTIAS PROCESALES.",
+  "resumen": "Acción pública de inconstitucionalidad contra los arts. 374 inciso 1 (parcial), y 435 (parcial) del Decreto N.º 2700 de 1991, “por el cual se expiden las normas de Procedimiento Penal”. El actor señaló que la expresión del art. 374 dejó al libre arbitrio del juez o fiscal el análisis de si la administración pública se afecta o no con la captura del servidor público. Respecto al art. 435 señaló que la entidad judicial que ha debido resultar investigada y sancionada ante la arbitrariedad de una detención por ella efectuada, “queda transformada en acusadora del juez que precisamente encontró inconstitucional su proceder”. La Corte advirtió que no se está confiriendo una facultad abierta al funcionario judicial para que proceda o no a privar de la libertad al servidor público, según su arbitrio, sino que simplemente la norma está señalando que corresponde al funcionario judicial — y no a otra autoridad — determinar si se dan los presupuestos fácticos para proceder o no a la privación de la libertad del servidor público. De otra parte, determinó la protección de la labor de los servidores públicos e indica que es posible establecer para quienes ejercen tales funciones ciertas excepciones a las regulaciones penales ordinarias, no como una prerrogativa de la persona sino como una garantía al cargo en sí mismo considerado, que es lo que justifica instituciones como los fueros penales o disciplinarios. Por lo anterior, la Corte declaró exequible el inciso primero del art. 374 y el art. 435 del Decreto 2700 de 1991.",
+  "titulaciones": [
+    {
+      "tema": "CONTROL DE CONSTITUCIONALIDAD",
+      "subtema": "Interpretaciones razonables"
+    },
+    {
+      "tema": "PRIVACION DE LA LIBERTAD DE SERVIDOR PUBLICO",
+      "subtema": "Regulación penal específica"
+    },
+    {
+      "tema": "PRIVACION DE LA LIBERTAD DE SERVIDOR PUBLICO",
+      "subtema": "Requisitos"
+    },
+    {
+      "tema": "FUNCIÓN PÚBLICA",
+      "subtema": "Protección"
+    }
+  ]
+}

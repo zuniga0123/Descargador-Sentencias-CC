@@ -1,0 +1,49 @@
+{
+  "radicado": "T-144-96",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1996,
+  "fecha_creacion": "1996-04-11",
+  "magistrado_ponente": "Dr ANTONIO BARRERA CARBONELL",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCIÓN DE TUTELA",
+  "subtema": "Declaración de responsabilidad en accidente de tránsito",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1996/T-144-96.htm",
+  "fecha_descarga": "2026-10-23T07:21:45.403592+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1996-04-11",
+  "fecha_publicacion": null,
+  "numero": "T-144/96",
+  "tipo_cc": "T",
+  "prov_id": "13166",
+  "tema_relatoria": "RESPONSABILIDAD CIVIL EXTRACONTRACTUAL. PERJUICIOS POR ACCIDENTE DE TRANSITO. MEDIO DE DEFENSA. FLOTA MACARENA. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Declaración de responsabilidad en accidente de tránsito"
+    },
+    {
+      "tema": "NULIDAD SANEABLE",
+      "subtema": "Inexistencia providencia admisoria"
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA PARTICULARES",
+      "subtema": "Accidente de tránsito por empresa de transporte"
+    },
+    {
+      "tema": "MEDIO DE DEFENSA JUDICIAL",
+      "subtema": "Declaración de responsabilidad extracontractual"
+    },
+    {
+      "tema": "INDEMNIZACION DE PERJUICIOS",
+      "subtema": "Improcedencia de tutela"
+    }
+  ]
+}

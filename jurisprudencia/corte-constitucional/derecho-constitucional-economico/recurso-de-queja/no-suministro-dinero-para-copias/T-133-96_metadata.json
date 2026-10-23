@@ -1,0 +1,48 @@
+{
+  "radicado": "T-133-96",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1996,
+  "fecha_creacion": "1996-03-28",
+  "magistrado_ponente": "Dr HERNANDO HERRERA VERGARA",
+  "area": "Derecho Constitucional Económico",
+  "tema": "RECURSO DE QUEJA",
+  "subtema": "No suministro dinero para copias",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 1943 de 1956",
+    "Decreto 1816 de 1990",
+    "Decreto 2651 de 1991",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1996/T-133-96.htm",
+  "fecha_descarga": "2026-10-23T07:10:03.867750+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1996-03-28",
+  "fecha_publicacion": null,
+  "numero": "T-133/96",
+  "tipo_cc": "T",
+  "prov_id": "13154",
+  "tema_relatoria": "DEBIDO PROCESO. TUTELA CONTRA PROVIDENCIAS JUDICIALES. NO INTERPOSICION DE RECURSO DE QUEJA. PAGO DE CANONES DE ARRENDAMIENTO. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "RECURSO DE QUEJA",
+      "subtema": "No suministro dinero para copias"
+    },
+    {
+      "tema": "LANZAMIENTO Y RESTITUCION DE INMUEBLE",
+      "subtema": "No pago de cánones"
+    },
+    {
+      "tema": "JUEZ",
+      "subtema": "Autonomía"
+    },
+    {
+      "tema": "VIA DE HECHO",
+      "subtema": "Inexistencia por aplicación de la ley"
+    }
+  ]
+}

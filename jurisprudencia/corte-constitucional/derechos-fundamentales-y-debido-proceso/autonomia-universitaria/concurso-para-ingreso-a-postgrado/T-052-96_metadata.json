@@ -1,0 +1,37 @@
+{
+  "radicado": "T-052-96",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1996,
+  "fecha_creacion": "1996-02-14",
+  "magistrado_ponente": "Dr ALEJANDRO MARTINEZ CABALLERO",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "AUTONOMÍA UNIVERSITARIA",
+  "subtema": "Concurso para ingreso a postgrado",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1996/T-052-96.htm",
+  "fecha_descarga": "2026-10-23T07:20:43.059234+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1996-02-14",
+  "fecha_publicacion": null,
+  "numero": "T-052/96",
+  "tipo_cc": "T",
+  "prov_id": "13061",
+  "tema_relatoria": "DER. A LA EDUCACION. ACTOS ACADEMICOS. EVALUACION PARA INGRESO AL POSGRADO. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "AUTONOMÍA UNIVERSITARIA",
+      "subtema": "Concurso para ingreso a postgrado"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Improcedencia para alterar evaluación académica"
+    }
+  ]
+}

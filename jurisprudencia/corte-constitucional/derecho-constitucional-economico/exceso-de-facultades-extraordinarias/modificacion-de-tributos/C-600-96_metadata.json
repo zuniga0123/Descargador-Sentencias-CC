@@ -1,0 +1,47 @@
+{
+  "radicado": "C-600-96",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1996,
+  "fecha_creacion": "1996-11-06",
+  "magistrado_ponente": "Dr VLADIMIRO NARANJO MESA",
+  "area": "Derecho Constitucional Económico",
+  "tema": "EXCESO DE FACULTADES EXTRAORDINARIAS",
+  "subtema": "Modificación de tributos",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2150 de 1995",
+    "Decreto 2875 de 1994",
+    "Decreto 117 de 1994"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1996/C-600-96.htm",
+  "fecha_descarga": "2026-10-23T07:29:00.821999+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1996-11-06",
+  "fecha_publicacion": null,
+  "numero": "C-600/96",
+  "tipo_cc": "C",
+  "prov_id": "13674",
+  "tema_relatoria": "DEC. 2150/95. ART. 125. UNIFICACION DE TASA PARA LA PROPIEDAD INDUSTRIAL. EXEQUIBLE.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "EXCESO DE FACULTADES EXTRAORDINARIAS",
+      "subtema": "Modificación de tributos"
+    },
+    {
+      "tema": "TASA EN PROPIEDAD INDUSTRIAL",
+      "subtema": "Naturaleza"
+    },
+    {
+      "tema": "FACULTADES EXTRAORDINARIAS",
+      "subtema": "Prolongación indebida"
+    },
+    {
+      "tema": "UNIFICACION DE TASA EN PROPIEDAD INDUSTRIAL",
+      "subtema": "Reducción del procedimiento"
+    }
+  ]
+}

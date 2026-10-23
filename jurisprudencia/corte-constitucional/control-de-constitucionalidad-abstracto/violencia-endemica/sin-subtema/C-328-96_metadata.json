@@ -1,0 +1,78 @@
+{
+  "radicado": "C-328-96",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1996,
+  "fecha_creacion": "1996-07-25",
+  "magistrado_ponente": "Dr EDUARDO CIFUENTES MUÑOZ",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "VIOLENCIA ENDEMICA",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 1900 de 1995",
+    "Decreto 777 de 1996",
+    "Decreto 2067 de 1991",
+    "Decreto 208 de 1996",
+    "Ley 137 de 1994",
+    "Ley 137 de 1996"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1996/C-328-96.htm",
+  "fecha_descarga": "2026-10-23T07:24:35.988106+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1996-07-25",
+  "fecha_publicacion": null,
+  "numero": "C-328/96",
+  "tipo_cc": "C",
+  "prov_id": "13371",
+  "tema_relatoria": "DEC. 777/96. POR EL CUAL SE PRORROGA EL ESTADO DE CONMOCION INTERIOR. EXEQUIBLE.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "VIOLENCIA ENDEMICA",
+      "subtema": null
+    },
+    {
+      "tema": "CONMOCION INTERIOR",
+      "subtema": "Control de constitucionalidad"
+    },
+    {
+      "tema": "CONMOCION INTERIOR",
+      "subtema": "Declaración sujeta a control político del Congreso"
+    },
+    {
+      "tema": "GUERRA EXTERIOR",
+      "subtema": "Declaración no sujeta a control de constitucionalidad"
+    },
+    {
+      "tema": "CONMOCION INTERIOR",
+      "subtema": "Prórroga"
+    },
+    {
+      "tema": "CORTE CONSTITUCIONAL",
+      "subtema": "Incompetencia"
+    },
+    {
+      "tema": "CONMOCION INTERIOR",
+      "subtema": "Declaración no sujeta a control de constitucionalidad"
+    },
+    {
+      "tema": "CONMOCION INTERIOR",
+      "subtema": "Declaración, levantamiento o prórroga no sujetos a control de constitucionalidad"
+    },
+    {
+      "tema": "ESTADOS DE EXCEPCION",
+      "subtema": "Facultades del Presidente de la República"
+    },
+    {
+      "tema": "CORTE CONSTITUCIONAL",
+      "subtema": "Alcance del control de decretos legislativos"
+    },
+    {
+      "tema": "ORDEN PUBLICO",
+      "subtema": "Conservación y restablecimiento"
+    }
+  ]
+}

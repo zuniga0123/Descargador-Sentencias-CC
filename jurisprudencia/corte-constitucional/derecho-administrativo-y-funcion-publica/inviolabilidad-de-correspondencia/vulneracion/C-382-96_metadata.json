@@ -1,0 +1,48 @@
+{
+  "radicado": "C-382-96",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1996,
+  "fecha_creacion": "1996-08-22",
+  "magistrado_ponente": "Dr JOSE GREGORIO HERNANDEZ GALINDO",
+  "area": "Derecho Administrativo y Función Pública",
+  "tema": "INVIOLABILIDAD DE CORRESPONDENCIA",
+  "subtema": "Vulneración",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2067 de 1991",
+    "Ley 28 de 1992",
+    "Ley 54 de 1973",
+    "Ley 32 de 1985"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1996/C-382-96.htm",
+  "fecha_descarga": "2026-10-23T07:25:49.363907+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1996-08-22",
+  "fecha_publicacion": null,
+  "numero": "C-382/96",
+  "tipo_cc": "C",
+  "prov_id": "13435",
+  "tema_relatoria": "LEY 252/95. CONSTITUCION DE LA UNION INTERNACIONAL DE TELECOMUNICACIONES. EXEQUIBLES SALVO ART. 34 Y 36.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "INVIOLABILIDAD DE CORRESPONDENCIA",
+      "subtema": "Vulneración"
+    },
+    {
+      "tema": "ESPECTRO ELECTROMAGNETICO",
+      "subtema": "Control"
+    },
+    {
+      "tema": "SERVICIO INTERNACIONAL DE TELECOMUNICACIONES",
+      "subtema": "Suspensión"
+    },
+    {
+      "tema": "SERVICIO INTERNACIONAL DE TELECOMUNICACIONES",
+      "subtema": "Responsabilidad del Estado"
+    }
+  ]
+}

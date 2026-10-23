@@ -1,0 +1,51 @@
+{
+  "radicado": "T-207-96",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1996,
+  "fecha_creacion": "1996-05-09",
+  "magistrado_ponente": "Dr HERNANDO HERRERA VERGARA",
+  "area": "Derecho Penal y Sistema Acusatorio",
+  "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+  "subtema": "Procedencia excepcional",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 190 de 1995",
+    "Ley 43 de 1982"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1996/T-207-96.htm",
+  "fecha_descarga": "2026-10-23T07:06:56.673274+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1996-05-09",
+  "fecha_publicacion": null,
+  "numero": "T-207/96",
+  "tipo_cc": "T",
+  "prov_id": "13233",
+  "tema_relatoria": "SUSPENSION DE LA PRIVACION DE LA LIBERTAD POR SER MAYOR DE 65 AÑOS. MEDIO DE DEFENSA JUDICIAL. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Procedencia excepcional"
+    },
+    {
+      "tema": "PRIVACION DE LA LIBERTAD",
+      "subtema": "Suspensión en persona mayor de 65 años"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Improcedencia suspensión detención preventiva"
+    },
+    {
+      "tema": "MEDIO DE DEFENSA JUDICIAL",
+      "subtema": "Suspensión detención preventiva de anciano"
+    },
+    {
+      "tema": "JUEZ",
+      "subtema": "Autonomía funcional"
+    }
+  ]
+}

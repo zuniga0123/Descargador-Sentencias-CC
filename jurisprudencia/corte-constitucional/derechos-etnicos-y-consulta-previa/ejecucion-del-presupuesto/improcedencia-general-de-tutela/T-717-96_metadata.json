@@ -1,0 +1,50 @@
+{
+  "radicado": "T-717-96",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1996,
+  "fecha_creacion": "1996-12-16",
+  "magistrado_ponente": "Dr ANTONIO BARRERA CARBONELL",
+  "area": "Derechos Étnicos y Consulta Previa",
+  "tema": "EJECUCION DEL PRESUPUESTO",
+  "subtema": "Improcedencia general de tutela",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Decreto 111 de 1996"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1996/T-717-96.htm",
+  "fecha_descarga": "2026-10-23T07:20:06.336472+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1996-12-16",
+  "fecha_publicacion": null,
+  "numero": "T-717/96",
+  "tipo_cc": "T",
+  "prov_id": "13795",
+  "tema_relatoria": "DER. A LA EDUCACION. LIBRE DESARROLLO DE LA PERSONALIDAD. RECURSOS PARA EL MEJORAMIENTO DE LA EDUCACION DE LOS INDIGENAS. CONCEDIDA",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "EJECUCION DEL PRESUPUESTO",
+      "subtema": "Improcedencia general de tutela"
+    },
+    {
+      "tema": "INEJECUCION PRESUPUESTAL",
+      "subtema": "Negligencia administrativa"
+    },
+    {
+      "tema": "PARTIDA PRESUPUESTAL",
+      "subtema": "Ejecución no procede por tutela"
+    },
+    {
+      "tema": "PARTIDA PRESUPUESTAL",
+      "subtema": "Ejecución procede excepcionalmente por tutela"
+    },
+    {
+      "tema": "INEJECUCION PRESUPUESTAL PARA EDUCACION DE COMUNIDAD INDIGENA",
+      "subtema": "Formalización convenio interadministrativo"
+    }
+  ]
+}

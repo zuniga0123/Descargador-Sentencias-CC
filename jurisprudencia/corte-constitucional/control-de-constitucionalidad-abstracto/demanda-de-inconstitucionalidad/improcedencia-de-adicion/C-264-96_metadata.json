@@ -1,0 +1,73 @@
+{
+  "radicado": "C-264-96",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1996,
+  "fecha_creacion": "1996-06-13",
+  "magistrado_ponente": null,
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "DEMANDA DE INCONSTITUCIONALIDAD",
+  "subtema": "Improcedencia de adición",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 23 de 1981"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1996/C-264-96.htm",
+  "fecha_descarga": "2026-10-23T07:30:43.329596+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1996-06-13",
+  "fecha_publicacion": null,
+  "numero": "C-264/96",
+  "tipo_cc": "C",
+  "prov_id": "13294",
+  "tema_relatoria": "LEY 23/81. ARTS. 37 Y 38 PARCIALES. NORMAS EN MATERIA DE ETICA MEDICA. EXEQUIBLES.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "Improcedencia de adición"
+    },
+    {
+      "tema": "SECRETO MEDICO",
+      "subtema": "Revelación a autoridades judiciales"
+    },
+    {
+      "tema": "SECRETO PROFESIONAL",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "SECRETO PROFESIONAL",
+      "subtema": "Facultad del Legislador de regularlo"
+    },
+    {
+      "tema": "SECRETO MEDICO",
+      "subtema": null
+    },
+    {
+      "tema": "FAX",
+      "subtema": null
+    },
+    {
+      "tema": "DEBER DE GUARDAR SECRETO",
+      "subtema": null
+    },
+    {
+      "tema": "ETICA MEDICA",
+      "subtema": null
+    },
+    {
+      "tema": "INFORME SANITARIO",
+      "subtema": "Restricción en cuanto individualización de paciente"
+    },
+    {
+      "tema": "SECRETO MEDICO",
+      "subtema": "Revelación a los interesados cuando esté en peligro la vida"
+    },
+    {
+      "tema": "SECRETO MEDICO",
+      "subtema": "Revelación a familiares del paciente"
+    }
+  ]
+}

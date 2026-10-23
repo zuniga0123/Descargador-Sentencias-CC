@@ -1,0 +1,51 @@
+{
+  "radicado": "C-627-96",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1996,
+  "fecha_creacion": "1996-11-21",
+  "magistrado_ponente": "Dr ANTONIO BARRERA CARBONELL",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "JUZGAMIENTO EN AUSENCIA",
+  "subtema": "Intervención del imputado",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 228 de 1995",
+    "Ley 200 de 1995",
+    "Decreto 196 de 1971"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1996/C-627-96.htm",
+  "fecha_descarga": "2026-10-23T07:29:40.993997+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1996-11-21",
+  "fecha_publicacion": null,
+  "numero": "C-627/96",
+  "tipo_cc": "C",
+  "prov_id": "13701",
+  "tema_relatoria": "LEY 228/95. ART. 21 PARCIAL. LEY 200/95. ARTS. 87 Y 152 PARC. Y 154. DEC. 196/71. ART. 75. AUDIENCIA EN CASO DE QUERELLA. NOTIFICACION. EXEQUIBLES.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "JUZGAMIENTO EN AUSENCIA",
+      "subtema": "Intervención del imputado"
+    },
+    {
+      "tema": "NOTIFICACION POR EDICTO DE PERSONA AUSENTE",
+      "subtema": null
+    },
+    {
+      "tema": "DEFENSOR DE OFICIO",
+      "subtema": "Persona declarada ausente"
+    },
+    {
+      "tema": "NOTIFICACION POR EDICTO EN PROCESO DISCIPLINARIO",
+      "subtema": "Subsidiariedad"
+    },
+    {
+      "tema": "PROCESO DISCIPLINARIO CONTRA PROCURADOR GENERAL DE LA NACION",
+      "subtema": "Decisión de naturaleza administrativa"
+    }
+  ]
+}

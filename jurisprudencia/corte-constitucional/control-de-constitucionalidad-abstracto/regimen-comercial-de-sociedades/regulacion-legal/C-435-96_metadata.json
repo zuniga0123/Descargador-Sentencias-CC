@@ -1,0 +1,57 @@
+{
+  "radicado": "C-435-96",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1996,
+  "fecha_creacion": "1996-09-12",
+  "magistrado_ponente": "Dr JOSE GREGORIO HERNANDEZ GALINDO Dr",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "REGIMEN COMERCIAL DE SOCIEDADES",
+  "subtema": "Regulación legal",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 222 de 1995",
+    "Ley 190 de 1995",
+    "Decreto 1260 de 1970",
+    "Decreto 410 de 1971",
+    "Decreto 2067 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1996/C-435-96.htm",
+  "fecha_descarga": "2026-10-23T07:23:04.505673+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1996-09-12",
+  "fecha_publicacion": "1996-10-18",
+  "numero": "C-435/96",
+  "tipo_cc": "C",
+  "prov_id": "13489",
+  "tema_relatoria": "SOCIEDADES CIVILES Y COMERCIALES.",
+  "resumen": "Demanda de inconstitucionalidad contra los artículos 1 (parcial) y 238 (parcial) de la Ley 222 de 1995, “Por la cual se modifica el Libro II del Código de Comercio, se expide un nuevo régimen de procesos concursales y se dictan otras disposiciones”. El actor señaló que la norma demandada eliminó las sociedades civiles del ordenamiento jurídico, obligando a las sociedades a regirse por la legislación comercial. La Corte señaló que el Congreso no incumplió la unidad de materia porque se refirió a integrar las reglas aplicables a órganos, estructura, funcionamiento, reformas, disolución y liquidación de sociedades. Así mismo, encontró infundado el cargo demandado porque señaló que el individuo es autónomo de poder escoger entre las sociedades de naturaleza civil y comerciales, precisando que no se impuso la legislación mercantil. Declaró exequible el inciso 2 del art. 1 y 238 de la Ley 222 de 1995.",
+  "titulaciones": [
+    {
+      "tema": "REGIMEN COMERCIAL DE SOCIEDADES",
+      "subtema": "Regulación legal"
+    },
+    {
+      "tema": "UNIDAD TEMATICA DE LAS LEYES",
+      "subtema": "Concatenación sustancial"
+    },
+    {
+      "tema": "CODIGO",
+      "subtema": "Función"
+    },
+    {
+      "tema": "CODIGO",
+      "subtema": "Modificación"
+    },
+    {
+      "tema": "UNIDAD DE MATERIA EN REGIMEN COMERCIAL DE SOCIEDADES",
+      "subtema": null
+    },
+    {
+      "tema": "UNIFICACION DEL REGIMEN SOCIETARIO",
+      "subtema": "Comerciales y civiles"
+    }
+  ]
+}

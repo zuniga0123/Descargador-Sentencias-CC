@@ -1,0 +1,48 @@
+{
+  "radicado": "T-672-96",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1996,
+  "fecha_creacion": "1996-12-03",
+  "magistrado_ponente": "Dr ALEJANDRO MARTINEZ CABALLERO",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "INAPLICACION DE NORMAS DE POLICIA",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 160 de 1994",
+    "Ley 201 de 1995",
+    "Ley 136 de 1994",
+    "Ley 57 de 1905"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1996/T-672-96.htm",
+  "fecha_descarga": "2026-10-23T07:19:07.692288+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1996-12-03",
+  "fecha_publicacion": null,
+  "numero": "T-672/96",
+  "tipo_cc": "T",
+  "prov_id": "13748",
+  "tema_relatoria": "DEBIDO PROCESO. TRAMITACION DE QUERELLA POLICIVA. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "INAPLICACION DE NORMAS DE POLICIA",
+      "subtema": null
+    },
+    {
+      "tema": "COMPETENCIA EN PROCESO POLICIVO",
+      "subtema": "Asunción arbitraria por secretario de gobierno"
+    },
+    {
+      "tema": "DESCONCENTRACION FUNCIONES DE POLICIA",
+      "subtema": "No admisible"
+    },
+    {
+      "tema": "VIA DE HECHO EN PROCESO POLICIVO",
+      "subtema": "Incompetencia del secretario de Gobierno"
+    }
+  ]
+}

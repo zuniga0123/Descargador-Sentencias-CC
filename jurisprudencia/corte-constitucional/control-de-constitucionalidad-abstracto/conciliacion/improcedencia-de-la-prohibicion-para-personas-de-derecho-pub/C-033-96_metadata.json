@@ -1,0 +1,42 @@
+{
+  "radicado": "C-033-96",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1996,
+  "fecha_creacion": "1996-02-01",
+  "magistrado_ponente": "Dr HERNANDO HERRERA VERGARA",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "CONCILIACION",
+  "subtema": "Improcedencia de la prohibición para personas de derecho público",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2158 de 1948",
+    "Ley 23 de 1991",
+    "Decreto 2651 de 1991",
+    "Decreto 3130 de 1968",
+    "Ley 100 de 1993",
+    "Decreto 2067 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1996/C-033-96.htm",
+  "fecha_descarga": "2026-10-23T07:24:15.074142+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1996-02-01",
+  "fecha_publicacion": null,
+  "numero": "C-033/96",
+  "tipo_cc": "C",
+  "prov_id": "13039",
+  "tema_relatoria": "C.P.L. ART. 23. IMPROCEDENCIA DE LA CONCILIACION CUANDO INTERVIENEN PERSONAS DE DERECHO PUBLICO. INEXEQUIBLE.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "CONCILIACION",
+      "subtema": "Improcedencia de la prohibición para personas de derecho público"
+    },
+    {
+      "tema": "DERECHO A LA IGUALDAD",
+      "subtema": "Fundamental"
+    }
+  ]
+}

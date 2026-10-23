@@ -1,0 +1,41 @@
+{
+  "radicado": "T-376-96",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1996,
+  "fecha_creacion": "1996-08-21",
+  "magistrado_ponente": "Dr HERNANDO HERRERA VERGARA",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "REVOCACION DIRECTA DE ACTO ADMINISTRATIVO PARTICULAR Y CONCRETO",
+  "subtema": "Procedencia por afiliación ilegal",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 100 de 1993",
+    "Decreto 758 de 1990",
+    "Decreto 2665 de 1988",
+    "Decreto 1 de 1984"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1996/T-376-96.htm",
+  "fecha_descarga": "2026-10-23T07:14:10.277099+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1996-08-21",
+  "fecha_publicacion": null,
+  "numero": "T-376/96",
+  "tipo_cc": "T",
+  "prov_id": "13429",
+  "tema_relatoria": "REVOCATORIA DE ACTO ADMINISTRATIVO. SUSPENSION DEL PAGO DE PENSION DE VEJEZ POR AFILIACION ILEGAL. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "REVOCACION DIRECTA DE ACTO ADMINISTRATIVO PARTICULAR Y CONCRETO",
+      "subtema": "Procedencia por afiliación ilegal"
+    },
+    {
+      "tema": "PENSION DE VEJEZ",
+      "subtema": "Suspensión por afiliación fraudulenta"
+    }
+  ]
+}

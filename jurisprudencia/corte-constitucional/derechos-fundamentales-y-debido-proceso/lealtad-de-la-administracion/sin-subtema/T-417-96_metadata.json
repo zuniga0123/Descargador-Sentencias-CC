@@ -1,0 +1,50 @@
+{
+  "radicado": "T-417-96",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1996,
+  "fecha_creacion": "1996-09-09",
+  "magistrado_ponente": "Dr JOSE GREGORIO HERNANDEZ GALINDO",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "LEALTAD DE LA ADMINISTRACION",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 9 de 1989"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1996/T-417-96.htm",
+  "fecha_descarga": "2026-10-23T07:14:43.149496+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1996-09-09",
+  "fecha_publicacion": null,
+  "numero": "T-417/96",
+  "tipo_cc": "T",
+  "prov_id": "13470",
+  "tema_relatoria": "DER. A LA PROPIEDAD. DER. A LA VIVIENDA. CONSTRUCCION DE VIVIENDAS AUTORIZADAS. ALCALDIA MPAL DE MOCOA. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "LEALTAD DE LA ADMINISTRACION",
+      "subtema": null
+    },
+    {
+      "tema": "DERECHO A LA VIDA",
+      "subtema": "Preferencia"
+    },
+    {
+      "tema": "CONFLICTO DE DERECHOS CONSTITUCIONALES",
+      "subtema": "Armonización"
+    },
+    {
+      "tema": "DERECHO A LA VIDA",
+      "subtema": "Viviendas sobre terreno inseguro"
+    },
+    {
+      "tema": "PRINCIPIO DE LA BUENA FE",
+      "subtema": "Actividad pública"
+    }
+  ]
+}

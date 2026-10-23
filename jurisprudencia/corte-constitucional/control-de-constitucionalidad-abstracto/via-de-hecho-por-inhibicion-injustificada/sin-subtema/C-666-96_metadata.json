@@ -1,0 +1,58 @@
+{
+  "radicado": "C-666-96",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1996,
+  "fecha_creacion": "1996-11-28",
+  "magistrado_ponente": "Dr JOSE GREGORIO HERNANDEZ GALINDO",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "VIA DE HECHO POR INHIBICION INJUSTIFICADA",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2067 de 1991",
+    "Decreto 2282 de 1989"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1996/C-666-96.htm",
+  "fecha_descarga": "2026-10-23T07:30:06.455250+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1996-11-28",
+  "fecha_publicacion": null,
+  "numero": "C-666/96",
+  "tipo_cc": "C",
+  "prov_id": "13741",
+  "tema_relatoria": "C.P.C. ARTS. 91 Y 333 PARCIALES. OPERANCIA DE LA CADUCIDAD. SENT. QUE NO CONSTITUYEN COSA JUZGADA. EXEQUIBLES.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "VIA DE HECHO POR INHIBICION INJUSTIFICADA",
+      "subtema": null
+    },
+    {
+      "tema": "SENTENCIA INHIBITORIA",
+      "subtema": "Prohibición no absoluta"
+    },
+    {
+      "tema": "DECISION INHIBITORIA",
+      "subtema": "No interrumpe prescripción"
+    },
+    {
+      "tema": "DECISION INHIBITORIA",
+      "subtema": "No constituye cosa juzgada"
+    },
+    {
+      "tema": "PROVIDENCIA INHIBITORIA",
+      "subtema": "Carácter excepcional"
+    },
+    {
+      "tema": "SENTENCIA INHIBITORIA",
+      "subtema": "Naturaleza"
+    },
+    {
+      "tema": "VIA DE HECHO POR DECISION INHIBITORIA",
+      "subtema": "No imputable al demandante"
+    }
+  ]
+}

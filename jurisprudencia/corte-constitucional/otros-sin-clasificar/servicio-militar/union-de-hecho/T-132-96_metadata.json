@@ -1,0 +1,42 @@
+{
+  "radicado": "T-132-96",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1996,
+  "fecha_creacion": "1996-03-28",
+  "magistrado_ponente": "Dr HERNANDO HERRERA VERGARA",
+  "area": "Otros - Sin clasificar",
+  "tema": "SERVICIO MILITAR",
+  "subtema": "Unión de hecho",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 48 de 1993"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1996/T-132-96.htm",
+  "fecha_descarga": "2026-10-23T07:10:00.193912+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1996-03-28",
+  "fecha_publicacion": null,
+  "numero": "T-132/96",
+  "tipo_cc": "T",
+  "prov_id": "13153",
+  "tema_relatoria": "DERS. FUND. DE LOS NIÑOS. SERVICIO MILITAR. DESACUARTELAMIENTO. UNION DE HECHO. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "SERVICIO MILITAR",
+      "subtema": "Unión de hecho"
+    },
+    {
+      "tema": "SERVICIO MILITAR",
+      "subtema": "Juramento de no estar incurso en exenciones"
+    },
+    {
+      "tema": "SERVICIO MILITAR",
+      "subtema": "Exención para protección hijo menor"
+    }
+  ]
+}

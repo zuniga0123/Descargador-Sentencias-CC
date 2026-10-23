@@ -1,0 +1,55 @@
+{
+  "radicado": "T-298-96",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1996,
+  "fecha_creacion": "1996-07-05",
+  "magistrado_ponente": "Dr JORGE ARANGO MEJÍA",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "MEDIO DE DEFENSA JUDICIAL",
+  "subtema": "Litigios laborales",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 39 de 1995",
+    "Ley 60 de 1993",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1996/T-298-96.htm",
+  "fecha_descarga": "2026-10-23T07:08:34.462714+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1996-07-05",
+  "fecha_publicacion": null,
+  "numero": "T-298/96",
+  "tipo_cc": "T",
+  "prov_id": "13338",
+  "tema_relatoria": "PAGO DE SALARIOS Y PRESTACIONES SOCIALES. MEDIO DE DEFENSA JUDICIAL. DER. DE PETICION. CONCEDIDA PARCIALMENTE.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "MEDIO DE DEFENSA JUDICIAL",
+      "subtema": "Litigios laborales"
+    },
+    {
+      "tema": "MEDIO DE DEFENSA JUDICIAL",
+      "subtema": "Pago de salarios y prestaciones sociales"
+    },
+    {
+      "tema": "MEDIO DE DEFENSA JUDICIAL",
+      "subtema": "Existencia de relación laboral"
+    },
+    {
+      "tema": "MEDIO DE DEFENSA JUDICIAL",
+      "subtema": "Reconocimiento beneficio convencional"
+    },
+    {
+      "tema": "MEDIO DE DEFENSA JUDICIAL",
+      "subtema": "Terminación de relación laboral"
+    },
+    {
+      "tema": "DERECHO DE PETICIÓN",
+      "subtema": "Contenido de la decisión"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "radicado": "C-601-96",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1996,
+  "fecha_creacion": "1996-11-06",
+  "magistrado_ponente": "Dr JOSE GREGORIO HERNANDEZ GALINDO",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "NOTARIO",
+  "subtema": "Función de registro civil",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2158 de 1970",
+    "Decreto 960 de 1970",
+    "Decreto Ley 1260 de 1970",
+    "Decreto 2067 de 1991",
+    "Decreto Ley 2158 de 1970",
+    "Decreto Ley 960 de 1970"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1996/C-601-96.htm",
+  "fecha_descarga": "2026-10-23T07:29:04.421467+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1996-11-06",
+  "fecha_publicacion": null,
+  "numero": "C-601/96",
+  "tipo_cc": "C",
+  "prov_id": "13675",
+  "tema_relatoria": "DEC. 2158/70. ART. 10 PARCIAL. DEC. 960/70. ART. 3 PARCIAL. FUNCION DE LOS NOTARIOS Y REGISTRO CIVIL DE LAS PERSONAS. EXEQUIBLE.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "NOTARIO",
+      "subtema": "Función de registro civil"
+    },
+    {
+      "tema": "REGISTRADOR NACIONAL DEL ESTADO CIVIL",
+      "subtema": "Dirección y organización"
+    }
+  ]
+}

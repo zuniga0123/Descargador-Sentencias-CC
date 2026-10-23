@@ -1,0 +1,55 @@
+{
+  "radicado": "C-656-96",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1996,
+  "fecha_creacion": "1996-11-28",
+  "magistrado_ponente": "Dr ALEJANDRO MARTÍNEZ CABALLERO",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "EXEQUATUR",
+  "subtema": "Exclusión",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 291 de 1996",
+    "Ley 250 de 1995",
+    "Ley 74 de 1968"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1996/C-656-96.htm",
+  "fecha_descarga": "2026-10-23T07:29:51.945928+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1996-11-28",
+  "fecha_publicacion": null,
+  "numero": "C-656/96",
+  "tipo_cc": "C",
+  "prov_id": "13732",
+  "tema_relatoria": "TRASLADO DE PERSONAS CONDENADAS ENTRE EL GOBIERNO DE COLOMBIA Y EL DE PANAMA. DIGNIDAD DE LOS CONDENADOS. EXEQUIBLE.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "EXEQUATUR",
+      "subtema": "Exclusión"
+    },
+    {
+      "tema": "TRATADO SOBRE TRASLADO DE CONDENADOS CON PANAMA",
+      "subtema": "Cooperación judicial"
+    },
+    {
+      "tema": "FUNCION RESOCIALIZADORA DEL SISTEMA PENAL",
+      "subtema": "Naturaleza y límites"
+    },
+    {
+      "tema": "REPATRIACION DE PRESOS",
+      "subtema": "Resocialización"
+    },
+    {
+      "tema": "REPATRIACION DE PRESOS",
+      "subtema": "Dignidad del condenado"
+    },
+    {
+      "tema": "SOBERANIA DE LAS DECISIONES DEL ESTADO",
+      "subtema": "Límites"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "radicado": "C-335-96",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1996,
+  "fecha_creacion": "1996-08-01",
+  "magistrado_ponente": "Dr JORGE ARANGO MEJIA",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "INMUEBLES POR DESTINACION",
+  "subtema": "No inclusión en avalúo catastral",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 1333 de 1986",
+    "Ley 14 de 1983",
+    "Ley 26 de 1904"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1996/C-335-96.htm",
+  "fecha_descarga": "2026-10-23T07:24:43.306498+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1996-08-01",
+  "fecha_publicacion": null,
+  "numero": "C-335/96",
+  "tipo_cc": "C",
+  "prov_id": "13380",
+  "tema_relatoria": "LEY 14/83. ARTS. 11 Y 39. FISCOS DE ENTIDADES TERRITORIALES. DEC. 1333/86. CODIGO DE REGIMEN MUNICIPAL. EXEQUIBLES.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "INMUEBLES POR DESTINACION",
+      "subtema": "No inclusión en avalúo catastral"
+    },
+    {
+      "tema": "AUTONOMIA TRIBUTARIA DE MUNICIPIO Y DEPARTAMENTO",
+      "subtema": "Límites"
+    },
+    {
+      "tema": "AUTONOMIA TRIBUTARIA DE MUNICIPIO",
+      "subtema": "Vulneración"
+    }
+  ]
+}

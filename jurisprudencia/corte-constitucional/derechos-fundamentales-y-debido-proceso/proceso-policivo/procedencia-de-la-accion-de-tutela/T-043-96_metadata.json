@@ -1,0 +1,48 @@
+{
+  "radicado": "T-043-96",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1996,
+  "fecha_creacion": "1996-02-07",
+  "magistrado_ponente": "Dr JOSE GREGORIO HERNANDEZ GALINDO",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "PROCESO POLICIVO",
+  "subtema": "Procedencia de la acción de tutela",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Decreto 1 de 1984",
+    "Decreto 2304 de 1989",
+    "Decreto 1355 de 1970"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1996/T-043-96.htm",
+  "fecha_descarga": "2026-10-23T07:20:35.758146+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1996-02-07",
+  "fecha_publicacion": null,
+  "numero": "T-043/96",
+  "tipo_cc": "T",
+  "prov_id": "13050",
+  "tema_relatoria": "DEBIDO PROCESO. VIOLACION DE DERECHOS FUNDAMENTALES EN PROCESOS POLICIVOS. POSESION. BARU.CONCEDIDA",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "PROCESO POLICIVO",
+      "subtema": "Procedencia de la acción de tutela"
+    },
+    {
+      "tema": "DERECHO DE DEFENSA",
+      "subtema": "Controversia de la prueba"
+    },
+    {
+      "tema": "IMPUGNACIÓN FALLO DE TUTELA",
+      "subtema": "Legitimación"
+    },
+    {
+      "tema": "PROCESO POLICIVO",
+      "subtema": "Dictamen pericial"
+    }
+  ]
+}

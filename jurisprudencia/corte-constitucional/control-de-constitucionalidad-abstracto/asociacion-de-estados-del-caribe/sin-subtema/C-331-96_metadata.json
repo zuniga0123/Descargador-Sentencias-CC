@@ -1,0 +1,47 @@
+{
+  "radicado": "C-331-96",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1996,
+  "fecha_creacion": "1996-08-01",
+  "magistrado_ponente": "Dr EDUARDO CIFUENTES MUÑOZ",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "ASOCIACION DE ESTADOS DEL CARIBE",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 216 de 1995",
+    "Decreto 2067 de 1991",
+    "Ley 3 de 1992"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1996/C-331-96.htm",
+  "fecha_descarga": "2026-10-23T07:24:39.717060+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1996-08-01",
+  "fecha_publicacion": null,
+  "numero": "C-331/96",
+  "tipo_cc": "C",
+  "prov_id": "13376",
+  "tema_relatoria": "LEY 216/95. CONVENIO CONSTITUTIVO DE LA ASOCIACION DE LOS ESTADOS DEL CARIBE. EXEQUIBLE.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ASOCIACION DE ESTADOS DEL CARIBE",
+      "subtema": null
+    },
+    {
+      "tema": "LEY APROBATORIA DE TRATADO INTERNACIONAL",
+      "subtema": "Exequibilidad"
+    },
+    {
+      "tema": "ASOCIACION DE ESTADOS DEL CARIBE",
+      "subtema": "Exequibilidad"
+    },
+    {
+      "tema": "SUPRANACIONALIDAD",
+      "subtema": "Concepto"
+    }
+  ]
+}

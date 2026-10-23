@@ -1,0 +1,63 @@
+{
+  "radicado": "C-002-96",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1996,
+  "fecha_creacion": "1996-01-18",
+  "magistrado_ponente": "Dr JOSE GREGORIO HERNANDEZ GALINDO",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "PROYECTO DE LEY",
+  "subtema": "Término del debate",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2067 de 1991",
+    "Ley 35 de 1969",
+    "Ley 178 de 1994"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1996/C-002-96.htm",
+  "fecha_descarga": "2026-10-23T07:23:38.057416+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1996-01-18",
+  "fecha_publicacion": null,
+  "numero": "C-002/96",
+  "tipo_cc": "C",
+  "prov_id": "13009",
+  "tema_relatoria": "LEY 178/95. CONVENIO DE PARIS PARA LA PROTECCION DE LA PROPIEDAD INDUSTRIAL. EXEQUIBLE.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "PROYECTO DE LEY",
+      "subtema": "Término del debate"
+    },
+    {
+      "tema": "TRATADO INTERNACIONAL",
+      "subtema": "Control de constitucionalidad"
+    },
+    {
+      "tema": "TRATADO INTERNACIONAL",
+      "subtema": "Celebración"
+    },
+    {
+      "tema": "PROPIEDAD INDUSTRIAL",
+      "subtema": null
+    },
+    {
+      "tema": "CONVENIO DE PARIS",
+      "subtema": "Objeto"
+    },
+    {
+      "tema": "SENTENCIA DE CONSTITUCIONALIDAD CONDICIONADA EN TRATADO INTERNACIONAL",
+      "subtema": "Improcedencia"
+    },
+    {
+      "tema": "TRATADO INTERNACIONAL",
+      "subtema": "Discrepancias"
+    },
+    {
+      "tema": "PROYECTO DE LEY",
+      "subtema": "Días hábiles e inhábiles"
+    }
+  ]
+}

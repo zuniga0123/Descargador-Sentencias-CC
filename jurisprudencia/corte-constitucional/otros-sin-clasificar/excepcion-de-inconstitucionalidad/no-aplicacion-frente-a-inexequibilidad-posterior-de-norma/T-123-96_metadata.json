@@ -1,0 +1,57 @@
+{
+  "radicado": "T-123-96",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1996,
+  "fecha_creacion": "1996-03-22",
+  "magistrado_ponente": "Dr ANTONIO BARRERA CARBONELL",
+  "area": "Otros - Sin clasificar",
+  "tema": "EXCEPCIÓN DE INCONSTITUCIONALIDAD",
+  "subtema": "No aplicación frente a inexequibilidad posterior de norma",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Decreto 2304 de 1989",
+    "Ley 96 de 1985",
+    "Ley 14 de 1988",
+    "Decreto 2288 de 1989",
+    "Ley 14 de 1989",
+    "Ley 153 de 1887",
+    "Ley 57 de 1887",
+    "Decreto Ley 1 de 1984",
+    "Decreto Ley 2304 de 1989",
+    "Ley 30 de 1987",
+    "Ley 2304 de 1989",
+    "Decreto 2067 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1996/T-123-96.htm",
+  "fecha_descarga": "2026-10-23T07:21:30.805579+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1996-03-22",
+  "fecha_publicacion": null,
+  "numero": "T-123/96",
+  "tipo_cc": "T",
+  "prov_id": "13141",
+  "tema_relatoria": "IMPROCEDENCIA DEL RECURSO DE SUPLICA CONTRA SENT. DE LA SECC. 5 DEL CONSEJO DE ESTADO ANTES DE LA C-005/96 . INEXISTENCIA DE VIA DE HECHO. NEGADA. VER AUTO 021/96.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "EXCEPCIÓN DE INCONSTITUCIONALIDAD",
+      "subtema": "No aplicación frente a inexequibilidad posterior de norma"
+    },
+    {
+      "tema": "RECURSO DE SUPLICA CONTRA SENTENCIA DE SECCION QUINTA DEL CONSEJO DE ESTADO",
+      "subtema": "Procedencia"
+    },
+    {
+      "tema": "ORDEN JURIDICO VIGENTE",
+      "subtema": "Aplicación"
+    },
+    {
+      "tema": "VIA DE HECHO",
+      "subtema": "Inexistencia por inexequibilidad posterior de norma"
+    }
+  ]
+}

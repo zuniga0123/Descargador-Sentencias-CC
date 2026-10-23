@@ -1,0 +1,44 @@
+{
+  "radicado": "C-563-96",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1996,
+  "fecha_creacion": "1996-10-24",
+  "magistrado_ponente": "Dr HERNANDO HERRERA VERGARA",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "CONGRESO",
+  "subtema": "Función judicial",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2700 de 1991",
+    "Ley 270 de 1996",
+    "Ley 273 de 1996",
+    "Decreto 2067 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1996/C-563-96.htm",
+  "fecha_descarga": "2026-10-23T07:28:38.814504+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1996-10-24",
+  "fecha_publicacion": null,
+  "numero": "C-563/96",
+  "tipo_cc": "C",
+  "prov_id": "13631",
+  "tema_relatoria": "LEY 5/92. VARIOS ARTS. DEC. 2700/91. ART. 469. FUNCIONES DE LA COMISION DE ACUSACIONES. INVESTIGACION OFICIOSA DE LA CAMARA. EXEQ. VER C-222 Y 245/96.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "CONGRESO",
+      "subtema": "Función judicial"
+    },
+    {
+      "tema": "CAMARA DE REPRESENTANTES",
+      "subtema": "Acusación funcionarios con fuero constitucional"
+    },
+    {
+      "tema": "CAMARA DE REPRESENTANTES",
+      "subtema": "Función judicial"
+    }
+  ]
+}

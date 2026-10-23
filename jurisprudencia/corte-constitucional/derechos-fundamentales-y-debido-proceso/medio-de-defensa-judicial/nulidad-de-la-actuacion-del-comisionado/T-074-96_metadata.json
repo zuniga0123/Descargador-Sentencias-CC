@@ -1,0 +1,49 @@
+{
+  "radicado": "T-074-96",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1996,
+  "fecha_creacion": "1996-02-28",
+  "magistrado_ponente": "Dr CARLOS GAVIRIA DÍAZ",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "MEDIO DE DEFENSA JUDICIAL",
+  "subtema": "Nulidad de la actuación del comisionado",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1996/T-074-96.htm",
+  "fecha_descarga": "2026-10-23T07:20:50.338279+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1996-02-28",
+  "fecha_publicacion": null,
+  "numero": "T-074/96",
+  "tipo_cc": "T",
+  "prov_id": "13087",
+  "tema_relatoria": "DEBIDO PROCESO. TUTELA CONTRA PROVIDENCIAS JUDICIALES. FISCAL DELEGADO. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "MEDIO DE DEFENSA JUDICIAL",
+      "subtema": "Nulidad de la actuación del comisionado"
+    },
+    {
+      "tema": "DEBIDO PROCESO",
+      "subtema": "Vencimiento del término y extralimitación del comisionado"
+    },
+    {
+      "tema": "COMISION",
+      "subtema": "Término y competencia del fiscal delegado"
+    },
+    {
+      "tema": "COMISION",
+      "subtema": "Límites"
+    },
+    {
+      "tema": "VIA DE HECHO",
+      "subtema": "No remisión de expediente al comitente"
+    }
+  ]
+}

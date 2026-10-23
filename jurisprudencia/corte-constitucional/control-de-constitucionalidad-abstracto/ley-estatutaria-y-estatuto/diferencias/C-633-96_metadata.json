@@ -1,0 +1,48 @@
+{
+  "radicado": "C-633-96",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1996,
+  "fecha_creacion": "1996-11-21",
+  "magistrado_ponente": "Dr JOSE GREGORIO HERNANDEZ GALINDO",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "LEY ESTATUTARIA Y ESTATUTO",
+  "subtema": "Diferencias",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2150 de 1995",
+    "Decreto 2067 de 1991",
+    "Ley 190 de 1995",
+    "Ley 80 de 1993"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1996/C-633-96.htm",
+  "fecha_descarga": "2026-10-23T07:29:48.256357+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1996-11-21",
+  "fecha_publicacion": null,
+  "numero": "C-633/96",
+  "tipo_cc": "C",
+  "prov_id": "13707",
+  "tema_relatoria": "DEC. 2150/95. ART. 38. MENOR CUANTIA PARA LA CONTRATACION. EXEQUIBLE.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "LEY ESTATUTARIA Y ESTATUTO",
+      "subtema": "Diferencias"
+    },
+    {
+      "tema": "CONTRATACION ADMINISTRATIVA",
+      "subtema": "Naturaleza de sus normas"
+    },
+    {
+      "tema": "NORMA DE CONTRATACION ADMINISTRATIVA",
+      "subtema": "Facultades extraordinarias al ejecutivo"
+    },
+    {
+      "tema": "NORMA DE CONTRATACION ADMINISTRATIVA",
+      "subtema": "Expedición por Congreso"
+    }
+  ]
+}

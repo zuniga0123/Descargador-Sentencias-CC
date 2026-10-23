@@ -1,0 +1,41 @@
+{
+  "radicado": "T-464-96",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1996,
+  "fecha_creacion": "1996-09-20",
+  "magistrado_ponente": "Dr JOSE GREGORIO HERNANDEZ GALINDO",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCIÓN DE TUTELA",
+  "subtema": "Improcedencia copias de expediente extraviado",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1996/T-464-96.htm",
+  "fecha_descarga": "2026-10-23T07:15:36.994277+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1996-09-20",
+  "fecha_publicacion": null,
+  "numero": "T-464/96",
+  "tipo_cc": "T",
+  "prov_id": "13519",
+  "tema_relatoria": "DER. DE PETICION. EXPEDICION DE COPIAS DE EXPEDIENTE EXTRAVIADO QUE SE ESTA RECONSTRUYENDO. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Improcedencia copias de expediente extraviado"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Improcedencia para obligar a lo imposible"
+    },
+    {
+      "tema": "MORA JUDICIAL",
+      "subtema": "Dilación injustificada"
+    }
+  ]
+}

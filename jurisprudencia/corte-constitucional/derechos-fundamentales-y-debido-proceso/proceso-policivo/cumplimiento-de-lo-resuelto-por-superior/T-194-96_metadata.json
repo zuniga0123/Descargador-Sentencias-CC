@@ -1,0 +1,60 @@
+{
+  "radicado": "T-194-96",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1996,
+  "fecha_creacion": "1996-05-08",
+  "magistrado_ponente": "Dr EDUARDO CIFUENTES MUÑOZ",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "PROCESO POLICIVO",
+  "subtema": "Cumplimiento de lo resuelto por superior",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 992 de 1930",
+    "Decreto 1355 de 1970",
+    "Decreto 2591 de 1991",
+    "Decreto 2067 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1996/T-194-96.htm",
+  "fecha_descarga": "2026-10-23T07:10:58.617836+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1996-05-08",
+  "fecha_publicacion": null,
+  "numero": "T-194/96",
+  "tipo_cc": "T",
+  "prov_id": "13222",
+  "tema_relatoria": "DEBIDO PROCESO. ACCIONES POLICIVAS. DERECHO DE POSESION SOBRE INMUEBLE. CONCEDIDA PARCIALMENTE. VER AUTO 056/96.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "PROCESO POLICIVO",
+      "subtema": "Cumplimiento de lo resuelto por superior"
+    },
+    {
+      "tema": "FUNCION POLICIVA",
+      "subtema": "Naturaleza"
+    },
+    {
+      "tema": "DEBIDO PROCESO EN LAS ACTUACIONES POLICIVAS",
+      "subtema": null
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Procedencia restringida en actuaciones policivas"
+    },
+    {
+      "tema": "ACCION POLICIVA",
+      "subtema": "Situación posesoria o mera tenencia"
+    },
+    {
+      "tema": "DESACATO",
+      "subtema": "Actuaciones policivas"
+    },
+    {
+      "tema": "LANZAMIENTO POR OCUPACION DE HECHO",
+      "subtema": "Negación recurso de apelación"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "radicado": "T-131A-96",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1996,
+  "fecha_creacion": "1996-03-27",
+  "magistrado_ponente": "Dr VLADIMIRO NARANJO MESA",
+  "area": "Derecho Administrativo y Función Pública",
+  "tema": "MEDIO DE DEFENSA JUDICIAL",
+  "subtema": "Revocación licencia a empresa de transporte",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2357 de 1993",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1996/T-131A-96.htm",
+  "fecha_descarga": "2026-10-23T07:21:34.432630+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1996-03-27",
+  "fecha_publicacion": null,
+  "numero": "T-131A/96",
+  "tipo_cc": "T",
+  "prov_id": "13151",
+  "tema_relatoria": "COMPETENCIA DE LOS JUECES EN MATERIA DE TUTELA. LEGITIMACION PARA ACTUAR. MIN-TRANSPORTE. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "MEDIO DE DEFENSA JUDICIAL",
+      "subtema": "Revocación licencia a empresa de transporte"
+    },
+    {
+      "tema": "SUSPENSION PROVISIONAL DE ACTO ADMINISTRATIVO",
+      "subtema": "No ejercicio de apelación"
+    },
+    {
+      "tema": "COMPETENCIA DE TUTELA",
+      "subtema": "Entidad nacional"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Procedencia de presentación por socios"
+    },
+    {
+      "tema": "DEMANDA DE TUTELA",
+      "subtema": "Presentación de la misma acción por varios socios"
+    },
+    {
+      "tema": "PERSONA JURIDICA",
+      "subtema": "Protección derechos de asociados"
+    }
+  ]
+}

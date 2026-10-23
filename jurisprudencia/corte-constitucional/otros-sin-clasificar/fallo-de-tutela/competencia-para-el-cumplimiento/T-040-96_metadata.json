@@ -1,0 +1,41 @@
+{
+  "radicado": "T-040-96",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1996,
+  "fecha_creacion": "1996-02-06",
+  "magistrado_ponente": "Dr ALEJANDRO MARTINEZ CABALLERO",
+  "area": "Otros - Sin clasificar",
+  "tema": "FALLO DE TUTELA",
+  "subtema": "Competencia para el cumplimiento",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1996/T-040-96.htm",
+  "fecha_descarga": "2026-10-23T07:20:24.622926+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1996-02-06",
+  "fecha_publicacion": null,
+  "numero": "T-040/96",
+  "tipo_cc": "T",
+  "prov_id": "13047",
+  "tema_relatoria": "CUMPLIMIENTO DE SENTENCIA DE TUTELA. DESACATO. TUTELA TEMERARIA. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "FALLO DE TUTELA",
+      "subtema": "Competencia para el cumplimiento"
+    },
+    {
+      "tema": "DESACATO DE TUTELA",
+      "subtema": "Incumplimiento orden de statu quo"
+    },
+    {
+      "tema": "DESACATO DE TUTELA",
+      "subtema": "Normatividad aplicable"
+    }
+  ]
+}

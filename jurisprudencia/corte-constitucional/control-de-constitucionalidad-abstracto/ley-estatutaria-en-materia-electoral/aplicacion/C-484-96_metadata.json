@@ -1,0 +1,68 @@
+{
+  "radicado": "C-484-96",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1996,
+  "fecha_creacion": "1996-09-26",
+  "magistrado_ponente": "Dr EDUARDO CIFUENTES MUÑOZ",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "LEY ESTATUTARIA EN MATERIA ELECTORAL",
+  "subtema": "Aplicación",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 70 de 1993",
+    "Ley 22 de 1981",
+    "Decreto 2067 de 1991",
+    "Ley 84 de 1993"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1996/C-484-96.htm",
+  "fecha_descarga": "2026-10-23T07:27:17.953641+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1996-09-26",
+  "fecha_publicacion": null,
+  "numero": "C-484/96",
+  "tipo_cc": "C",
+  "prov_id": "13539",
+  "tema_relatoria": "LEY 70/93. ART. 66. REPRESENTANTES DE LAS COMUNIDADES NEGRAS EN LA CAMARA DE REPRESENTANTES. INEXEQUIBLE.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "LEY ESTATUTARIA EN MATERIA ELECTORAL",
+      "subtema": "Aplicación"
+    },
+    {
+      "tema": "LEY ELECTORAL",
+      "subtema": "Regulación especial"
+    },
+    {
+      "tema": "SENTENCIA DE CONSTITUCIONALIDAD CONDICIONADA",
+      "subtema": "Efectividad del voto"
+    },
+    {
+      "tema": "TRATAMIENTO DESIGUAL",
+      "subtema": "Test para examinar la norma"
+    },
+    {
+      "tema": "CIRCUNSCRIPCION ELECTORAL ESPECIAL",
+      "subtema": "Efectos"
+    },
+    {
+      "tema": "CIRCUNSCRIPCION ELECTORAL ESPECIAL PARA COMUNIDADES NEGRAS",
+      "subtema": "Regulación legal estatutaria"
+    },
+    {
+      "tema": "MEDIDAS ELECTORALES DE DIFERENCIACION POSITIVA",
+      "subtema": "Minorías"
+    },
+    {
+      "tema": "MEDIDAS DE DIFERENCIACION POSITIVA",
+      "subtema": "Razón objetiva"
+    },
+    {
+      "tema": "REPRESENTANTES A LA CAMARA POR COMUNIDADES NEGRAS",
+      "subtema": "Incumplimiento requisitos procedimentales"
+    }
+  ]
+}

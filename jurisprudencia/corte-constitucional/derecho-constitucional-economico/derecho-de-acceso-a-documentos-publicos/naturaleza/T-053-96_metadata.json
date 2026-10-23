@@ -1,0 +1,51 @@
+{
+  "radicado": "T-053-96",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1996,
+  "fecha_creacion": "1996-02-14",
+  "magistrado_ponente": "Dr ANTONIO BARRERA CARBONELL",
+  "area": "Derecho Constitucional Económico",
+  "tema": "DERECHO DE ACCESO A DOCUMENTOS PUBLICOS",
+  "subtema": "Naturaleza",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Decreto 1250 de 1970",
+    "Decreto 1708 de 1989"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1996/T-053-96.htm",
+  "fecha_descarga": "2026-10-23T07:09:11.174407+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1996-02-14",
+  "fecha_publicacion": null,
+  "numero": "T-053/96",
+  "tipo_cc": "T",
+  "prov_id": "13062",
+  "tema_relatoria": "DER. A LA CONSULTA DE DOCUMENTOS PUBLICOS DE LAS OFICINAS DE REGISTRO DE INSTRUMENTOS PUBLICOS. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO DE ACCESO A DOCUMENTOS PUBLICOS",
+      "subtema": "Naturaleza"
+    },
+    {
+      "tema": "DERECHO DE CONSULTA",
+      "subtema": "Conexidad con peticiones"
+    },
+    {
+      "tema": "DERECHO DE ACCESO A DOCUMENTOS PUBLICOS",
+      "subtema": "Restricción a consulta de matrícula inmobiliaria"
+    },
+    {
+      "tema": "NOTARIADO Y REGISTRO",
+      "subtema": "Fijación de tarifa"
+    },
+    {
+      "tema": "DERECHO DE PETICIÓN",
+      "subtema": "Conexidad con la consulta de documentos"
+    }
+  ]
+}

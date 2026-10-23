@@ -1,0 +1,62 @@
+{
+  "radicado": "T-704-96",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1996,
+  "fecha_creacion": "1996-12-09",
+  "magistrado_ponente": "Dr EDUARDO CIFUENTES MUÑOZ",
+  "area": "Otros - Sin clasificar",
+  "tema": "ACCESO A LA INFORMACION",
+  "subtema": "No implica relación entre sujetos",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 1211 de 1990",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1996/T-704-96.htm",
+  "fecha_descarga": "2026-10-23T07:19:51.520983+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1996-12-09",
+  "fecha_publicacion": null,
+  "numero": "T-704/96",
+  "tipo_cc": "T",
+  "prov_id": "13786",
+  "tema_relatoria": "DER. A LA IGUALDAD. DER. AL TRABAJO. REQUISITOS PARA INGRESAR A LA FAC. ESTATURA Y ESTADO CIVIL. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCESO A LA INFORMACION",
+      "subtema": "No implica relación entre sujetos"
+    },
+    {
+      "tema": "SOLICITUD DE INFORMACION GENERAL",
+      "subtema": "No afectación derechos para ingresar a F.A.C."
+    },
+    {
+      "tema": "LIBERTAD DE ESCOGER PROFESION U OFICIO",
+      "subtema": "Vulneración"
+    },
+    {
+      "tema": "DERECHOS FUNDAMENTALES",
+      "subtema": "Afectación directa"
+    },
+    {
+      "tema": "FAMILIA",
+      "subtema": "Protección"
+    },
+    {
+      "tema": "INGRESO A LA FUERZA AEREA COLOMBIANA",
+      "subtema": "Discriminación por estar casado"
+    },
+    {
+      "tema": "INGRESO A LA ADMINISTRACION PUBLICA",
+      "subtema": "Límites a discrecionalidad sobre cursos"
+    },
+    {
+      "tema": "INGRESO A LAS FUERZAS ARMADAS",
+      "subtema": "Límites a discrecionalidad sobre cursos"
+    }
+  ]
+}

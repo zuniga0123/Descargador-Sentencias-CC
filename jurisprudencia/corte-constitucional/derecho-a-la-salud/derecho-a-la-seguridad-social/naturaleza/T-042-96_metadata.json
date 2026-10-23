@@ -1,0 +1,66 @@
+{
+  "radicado": "T-042-96",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1996,
+  "fecha_creacion": "1996-02-07",
+  "magistrado_ponente": "Dr CARLOS GAVIRIA DÍAZ",
+  "area": "Derecho a la Salud",
+  "tema": "DERECHO A LA SEGURIDAD SOCIAL",
+  "subtema": "Naturaleza",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1996/T-042-96.htm",
+  "fecha_descarga": "2026-10-23T07:20:32.041086+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1996-02-07",
+  "fecha_publicacion": null,
+  "numero": "T-042/96",
+  "tipo_cc": "T",
+  "prov_id": "13049",
+  "tema_relatoria": "DER. A LA SEGURIDAD SOCIAL. DER. A LA SALUD. PROGRAMACION DE CIRUGIA. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA SEGURIDAD SOCIAL",
+      "subtema": "Naturaleza"
+    },
+    {
+      "tema": "INSTITUTO DE SEGUROS SOCIALES",
+      "subtema": "Incumplimiento de fecha para cirugía de prótesis"
+    },
+    {
+      "tema": "FRAUDE PROCESAL",
+      "subtema": "Posible información falsa"
+    },
+    {
+      "tema": "DERECHO A LA SEGURIDAD SOCIAL",
+      "subtema": "Fundamental por conexidad"
+    },
+    {
+      "tema": "DERECHO A LA SEGURIDAD SOCIAL",
+      "subtema": "Omisión de cirugía"
+    },
+    {
+      "tema": "DERECHOS PRESTACIONALES",
+      "subtema": "Efectividad"
+    },
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "No práctica de cirugía"
+    },
+    {
+      "tema": "PRESUNCION DE VERACIDAD",
+      "subtema": "Fecha programada para cirugía"
+    },
+    {
+      "tema": "PRINCIPIO DE EFICIENCIA DE LA SEGURIDAD SOCIAL",
+      "subtema": "Prestación del servicio médico"
+    }
+  ]
+}

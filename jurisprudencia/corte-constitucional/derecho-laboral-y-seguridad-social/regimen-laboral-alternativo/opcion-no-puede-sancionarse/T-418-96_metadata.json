@@ -1,0 +1,66 @@
+{
+  "radicado": "T-418-96",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1996,
+  "fecha_creacion": "1996-09-09",
+  "magistrado_ponente": "Dr JOSE GREGORIO HERNANDEZ GALINDO",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "REGIMEN LABORAL ALTERNATIVO",
+  "subtema": "Opción no puede sancionarse",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 270 de 1996",
+    "Ley 50 de 1990",
+    "Decreto 57 de 1993",
+    "Ley 33 de 1985",
+    "Decreto 110 de 1993"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1996/T-418-96.htm",
+  "fecha_descarga": "2026-10-23T07:14:46.850253+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1996-09-09",
+  "fecha_publicacion": null,
+  "numero": "T-418/96",
+  "tipo_cc": "T",
+  "prov_id": "13471",
+  "tema_relatoria": "DERS. DE LOS TRABAJADORES AL PAGO OPORTUNO DE SUS PRESTACIONES. PAGO DE INTERESES POR MORA. CESANTIAS DE LA RAMA JUDICIAL. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "REGIMEN LABORAL ALTERNATIVO",
+      "subtema": "Opción no puede sancionarse"
+    },
+    {
+      "tema": "TRANSITO DE SISTEMA SALARIAL O PRESTACIONAL",
+      "subtema": "Protección derechos constitucionales"
+    },
+    {
+      "tema": "CESANTIAS PARCIALES DE EMPLEADOS JUDICIALES",
+      "subtema": "Pago oportuno"
+    },
+    {
+      "tema": "ESTADO",
+      "subtema": "Pago oportuno de prestaciones sociales"
+    },
+    {
+      "tema": "JUEZ DE TUTELA",
+      "subtema": "Prevalencia de preceptos constitucionales"
+    },
+    {
+      "tema": "TRANSITO REGIMEN DE CESANTIAS",
+      "subtema": "Reconocimiento intereses moratorios"
+    },
+    {
+      "tema": "SALARIOS Y PRESTACIONES SOCIALES",
+      "subtema": "Reconocimiento de intereses moratorios"
+    },
+    {
+      "tema": "SENTENCIA CONTRA PATRONO",
+      "subtema": "Actualización de valores retenidos"
+    }
+  ]
+}

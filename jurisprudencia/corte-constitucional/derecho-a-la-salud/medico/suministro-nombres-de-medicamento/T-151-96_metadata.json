@@ -1,0 +1,91 @@
+{
+  "radicado": "T-151-96",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1996,
+  "fecha_creacion": "1996-04-17",
+  "magistrado_ponente": "Jose Gregorio Hernandez Galindo",
+  "area": "Derecho a la Salud",
+  "tema": "MEDICO",
+  "subtema": "Suministro nombres de medicamento",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 23 de 1981",
+    "Decreto 2591 de 1991",
+    "Decreto 2304 de 1989"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1996/T-151-96.htm",
+  "fecha_descarga": "2026-10-23T07:10:25.744790+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1996-04-17",
+  "fecha_publicacion": null,
+  "numero": "T-151/96",
+  "tipo_cc": "T",
+  "prov_id": "13173",
+  "tema_relatoria": "SECRETO PROFESIONAL. DER. DEL PACIENTE A CONOCER EL TRATAMIENTO. MEDIO DE DEFENSA JUDICIAL. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "MEDICO",
+      "subtema": "Suministro nombres de medicamento"
+    },
+    {
+      "tema": "PACIENTE",
+      "subtema": "Derecho a conocer tratamiento"
+    },
+    {
+      "tema": "SECRETO PROFESIONAL",
+      "subtema": "Naturaleza"
+    },
+    {
+      "tema": "RELACION MEDICO PACIENTE",
+      "subtema": "Confianza y respeto"
+    },
+    {
+      "tema": "TRIBUNAL DE ETICA MEDICA",
+      "subtema": "Objeto"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "No información tratamiento dado al paciente"
+    },
+    {
+      "tema": "PERJUICIO IRREMEDIABLE",
+      "subtema": "Inexistencia por suspensión de profesión"
+    },
+    {
+      "tema": "MEDICO",
+      "subtema": "Formulación por escrito de medicamento"
+    },
+    {
+      "tema": "MEDICO",
+      "subtema": "Faltas frente al paciente"
+    },
+    {
+      "tema": "MEDIO DE DEFENSA JUDICIAL",
+      "subtema": "Legalidad sanción disciplinaria a médico"
+    },
+    {
+      "tema": "RELACION MEDICO PACIENTE",
+      "subtema": "Terminación"
+    },
+    {
+      "tema": "RESERVA DE DIAGNOSTICO MEDICO",
+      "subtema": "Naturaleza"
+    },
+    {
+      "tema": "RELACION MEDICO PACIENTE",
+      "subtema": "Tratamiento y suministro de medicamento"
+    },
+    {
+      "tema": "TRIBUNAL DE ETICA MEDICA",
+      "subtema": "Alcance de sus decisiones"
+    },
+    {
+      "tema": "TRIBUNAL DE ETICA MEDICA",
+      "subtema": "Función pública"
+    }
+  ]
+}

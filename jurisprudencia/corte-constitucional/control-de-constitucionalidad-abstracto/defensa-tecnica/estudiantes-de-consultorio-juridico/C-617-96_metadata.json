@@ -1,0 +1,57 @@
+{
+  "radicado": "C-617-96",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1996,
+  "fecha_creacion": "1996-11-13",
+  "magistrado_ponente": "Dr JOSE GREGORIO HERNANDEZ GALINDO",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "DEFENSA TECNICA",
+  "subtema": "Estudiantes de consultorio jurídico",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 196 de 1971",
+    "Decreto 2067 de 1991",
+    "Ley 16 de 1968",
+    "Ley 270 de 1996",
+    "Ley 228 de 1995"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1996/C-617-96.htm",
+  "fecha_descarga": "2026-10-23T07:29:26.431693+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1996-11-13",
+  "fecha_publicacion": null,
+  "numero": "C-617/96",
+  "tipo_cc": "C",
+  "prov_id": "13687",
+  "tema_relatoria": "DEC. 196/71. ART. 30 PARCIAL. CASOS EN LOS QUE PUEDEN LITIGAR LOS ESTUDIANTES DE CONSULTORIO JURIDICO. EXEQUIBLE.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DEFENSA TECNICA",
+      "subtema": "Estudiantes de consultorio jurídico"
+    },
+    {
+      "tema": "DERECHO DE DEFENSA TECNICA",
+      "subtema": "Naturaleza"
+    },
+    {
+      "tema": "DEFENSA TECNICA",
+      "subtema": "Idoneidad estudiantes de consultorio jurídico"
+    },
+    {
+      "tema": "DERECHO DE DEFENSA",
+      "subtema": "Naturaleza"
+    },
+    {
+      "tema": "DEFENSORÍA PÚBLICA",
+      "subtema": "Funcionamiento"
+    },
+    {
+      "tema": "UNIVERSIDAD",
+      "subtema": "Preparación estudiantes de consultorios jurídicos"
+    }
+  ]
+}

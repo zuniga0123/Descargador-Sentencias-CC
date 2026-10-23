@@ -1,0 +1,43 @@
+{
+  "radicado": "T-077-96",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1996,
+  "fecha_creacion": "1996-02-28",
+  "magistrado_ponente": "Dr HERNANDO HERRERA VERGARA",
+  "area": "Derecho Administrativo y Función Pública",
+  "tema": "ACCION DE NULIDAD Y RESTABLECIMIENTO DEL DERECHO",
+  "subtema": "Cuantía determina la competencia",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Decreto 597 de 1988",
+    "Decreto 1 de 1984"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1996/T-077-96.htm",
+  "fecha_descarga": "2026-10-23T07:09:30.973152+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1996-02-28",
+  "fecha_publicacion": null,
+  "numero": "T-077/96",
+  "tipo_cc": "T",
+  "prov_id": "13090",
+  "tema_relatoria": "INEXISTENCIA DE VIA DE HECHO. SE NIEGA RECURSO DE APELACION. INSUBSISTENCIA DEL CARGO. SUPERBANCARIA. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCION DE NULIDAD Y RESTABLECIMIENTO DEL DERECHO",
+      "subtema": "Cuantía determina la competencia"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Apelación negada por cuantía"
+    },
+    {
+      "tema": "JUEZ",
+      "subtema": "Autonomía funcional"
+    }
+  ]
+}

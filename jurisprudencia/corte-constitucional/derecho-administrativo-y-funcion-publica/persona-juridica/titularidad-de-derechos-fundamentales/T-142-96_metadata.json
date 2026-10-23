@@ -1,0 +1,45 @@
+{
+  "radicado": "T-142-96",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1996,
+  "fecha_creacion": "1996-04-11",
+  "magistrado_ponente": "Dr VLADIMIRO NARANJO MESA",
+  "area": "Derecho Administrativo y Función Pública",
+  "tema": "PERSONA JURIDICA",
+  "subtema": "Titularidad de derechos fundamentales",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1996/T-142-96.htm",
+  "fecha_descarga": "2026-10-23T07:10:07.538285+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1996-04-11",
+  "fecha_publicacion": null,
+  "numero": "T-142/96",
+  "tipo_cc": "T",
+  "prov_id": "13164",
+  "tema_relatoria": "TITULARIDAD DE LAS PERSONAS JURIDICAS. MEDIO DE DEFENSA JUDICIAL LICENCIA DE CONSTRUCCION. MATADERO DEL SUR. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "PERSONA JURIDICA",
+      "subtema": "Titularidad de derechos fundamentales"
+    },
+    {
+      "tema": "MEDIO DE DEFENSA JUDICIAL",
+      "subtema": "Levantamiento sellamiento de matadero"
+    },
+    {
+      "tema": "MEDIO DE DEFENSA JUDICIAL",
+      "subtema": "Trámite licencia construcción de matadero"
+    },
+    {
+      "tema": "SILENCIO ADMINISTRATIVO NEGATIVO",
+      "subtema": "Operancia por falta de notificación"
+    }
+  ]
+}

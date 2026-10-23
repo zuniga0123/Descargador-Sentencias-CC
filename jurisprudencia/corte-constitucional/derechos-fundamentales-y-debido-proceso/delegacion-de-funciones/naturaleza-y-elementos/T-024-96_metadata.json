@@ -1,0 +1,48 @@
+{
+  "radicado": "T-024-96",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1996,
+  "fecha_creacion": "1996-01-25",
+  "magistrado_ponente": "Dr ALEJANDRO MARTINEZ CABALLERO",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "DELEGACION DE FUNCIONES",
+  "subtema": "Naturaleza y elementos",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 3130 de 1968",
+    "Ley 119 de 1994",
+    "Decreto 2149 de 1992",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1996/T-024-96.htm",
+  "fecha_descarga": "2026-10-23T07:20:13.728179+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1996-01-25",
+  "fecha_publicacion": null,
+  "numero": "T-024/96",
+  "tipo_cc": "T",
+  "prov_id": "13032",
+  "tema_relatoria": "DER. A LA EDUCACION. REGLAMENTO ACADEMICO. CANCELACION DE MATRICULA POR PERDIDA DE EXAMEN. SENA. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DELEGACION DE FUNCIONES",
+      "subtema": "Naturaleza y elementos"
+    },
+    {
+      "tema": "DESCONCENTRACION FUNCIONAL",
+      "subtema": "Características"
+    },
+    {
+      "tema": "DERECHO A LA EDUCACIÓN",
+      "subtema": "Cancelación de matrícula"
+    },
+    {
+      "tema": "DEBIDO PROCESO",
+      "subtema": "Sanción a estudiante"
+    }
+  ]
+}
