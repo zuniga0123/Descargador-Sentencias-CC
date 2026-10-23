@@ -1,0 +1,41 @@
+{
+  "radicado": "T-1063-01",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2001,
+  "fecha_creacion": "2001-10-11",
+  "magistrado_ponente": "Dr ALVARO TAFUR GALVIS",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "DERECHO DE PETICION ANTE ENTIDADES PUBLICAS",
+  "subtema": "Pronunciamiento siempre y cuando exista la solicitud formal",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2001/T-1063-01.htm",
+  "fecha_descarga": "2026-10-23T01:45:27.061900+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2001-10-11",
+  "fecha_publicacion": null,
+  "numero": "T-1063/01",
+  "tipo_cc": "T",
+  "prov_id": "19822",
+  "tema_relatoria": "DERECHO A LA SALUD. SOLICITUD NUEVA ENCUESTA PARA RECLASIFICACION EN OTRO NIVEL. SISBEN. PRACTICA CIRUGIA EN PIE IZQUIERDO. NO PRESENTACION DEL DERECHO DE PETICION. ORIENTACION POR PARTE DE LA DEFENSORIA DEL PUEBLO. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO DE PETICION ANTE ENTIDADES PUBLICAS",
+      "subtema": "Pronunciamiento siempre y cuando exista la solicitud formal"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Improcedencia por cuanto accionante no tramitó la petición"
+    },
+    {
+      "tema": "DERECHO DE PETICIÓN",
+      "subtema": "No se presentó solicitud de reclasificación en el sisben"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "radicado": "T-110-01",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2001,
+  "fecha_creacion": "2001-01-31",
+  "magistrado_ponente": "Dra MARTHA VICTORIA SÁCHICA MÉNDEZ",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCIÓN DE TUTELA",
+  "subtema": "Improcedencia por no demostración de amenaza o vulneración de derechos fundamentales",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 546 de 1999",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2001/T-110-01.htm",
+  "fecha_descarga": "2026-10-23T01:28:38.579207+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2001-01-31",
+  "fecha_publicacion": null,
+  "numero": "T-110/01",
+  "tipo_cc": "T",
+  "prov_id": "18581",
+  "tema_relatoria": "DERECHO DE PETICION. SOLICITUD COPIA PROFORMA RELIQUIDACION DEL CREDITO EN UPAC Y REDENOMINACION EN MONEDA LEGAL COLOMBIANA. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Improcedencia por no demostración de amenaza o vulneración de derechos fundamentales"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Demostración de amenaza o vulneración de derechos fundamentales"
+    },
+    {
+      "tema": "DERECHO DE PETICION FRENTE A ENTIDAD BANCARIA",
+      "subtema": "Respuesta oportuna y de fondo"
+    }
+  ]
+}

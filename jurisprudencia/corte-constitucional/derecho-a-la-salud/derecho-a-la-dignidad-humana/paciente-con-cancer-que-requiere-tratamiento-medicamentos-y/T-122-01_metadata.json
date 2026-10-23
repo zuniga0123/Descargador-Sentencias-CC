@@ -1,0 +1,41 @@
+{
+  "radicado": "T-122-01",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2001,
+  "fecha_creacion": "2001-02-01",
+  "magistrado_ponente": "Dr CARLOS GAVIRIA DÍAZ",
+  "area": "Derecho a la Salud",
+  "tema": "DERECHO A LA DIGNIDAD HUMANA",
+  "subtema": "Paciente con cáncer que requiere tratamiento, medicamentos y utensilios no incluidos en listado oficial",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2001/T-122-01.htm",
+  "fecha_descarga": "2026-10-23T01:32:37.767113+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2001-02-01",
+  "fecha_publicacion": null,
+  "numero": "T-122/01",
+  "tipo_cc": "T",
+  "prov_id": "18609",
+  "tema_relatoria": "DERECHOS A LA VIDA SALUD Y SEGURIDAD SOCIAL. SUMINISTRO DE MEDICAMENTOS Y ARTICULOS NO INCLUIDOS EN EL POS. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA DIGNIDAD HUMANA",
+      "subtema": "Paciente con cáncer que requiere tratamiento, medicamentos y utensilios no incluidos en listado oficial"
+    },
+    {
+      "tema": "PRINCIPIO DE INTEGRALIDAD DEL SISTEMA DE SEGURIDAD SOCIAL EN SALUD",
+      "subtema": "Contenido"
+    },
+    {
+      "tema": "ENTIDAD PROMOTORA DE SALUD",
+      "subtema": "Suministro de tratamiento, medicamentos y utensilios no incluidos en listado oficial"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "radicado": "T-536-01",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2001,
+  "fecha_creacion": "2001-05-21",
+  "magistrado_ponente": "Dr RODRIGO ESCOBAR GIL",
+  "area": "Derecho a la Salud",
+  "tema": "DERECHO A LA DIGNIDAD HUMANA",
+  "subtema": "Vulneración por no realizar cirugía",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Decreto 806 de 1998"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2001/T-536-01.htm",
+  "fecha_descarga": "2026-10-23T01:37:02.328756+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2001-05-21",
+  "fecha_publicacion": null,
+  "numero": "T-536/01",
+  "tipo_cc": "T",
+  "prov_id": "19190",
+  "tema_relatoria": "DERECHO A LA VIDA SALUD Y VIDA DIGNA. PRACTICA DE CIRUJIA LA CUAL NO HA SIDO AUTORIZADA POR SER DE SEGUNDO NIVEL DE COMPLEJIDAD. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA DIGNIDAD HUMANA",
+      "subtema": "Vulneración por no realizar cirugía"
+    },
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Fundamental por conexidad con la vida"
+    },
+    {
+      "tema": "ENTIDAD PROMOTORA DE SALUD",
+      "subtema": "Información al afiliado sobre posibilidad de atención en servicio no incluido en POS"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "radicado": "T-456-01",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2001,
+  "fecha_creacion": "2001-05-04",
+  "magistrado_ponente": "Dr JAIME CÓRDOBA TRIVIÑO",
+  "area": "Derecho Administrativo y Función Pública",
+  "tema": "PROCURADURÍA GENERAL DE LA NACIÓN",
+  "subtema": "Cláusula general de competencia",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 200 de 1995",
+    "Decreto 2591 de 1991",
+    "Decreto 262 de 2000",
+    "Ley 2000 de 1995"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2001/T-456-01.htm",
+  "fecha_descarga": "2026-10-23T01:24:26.764983+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2001-05-04",
+  "fecha_publicacion": null,
+  "numero": "T-456/01",
+  "tipo_cc": "T",
+  "prov_id": "19098",
+  "tema_relatoria": "DEBIDO PROCESO HONRA Y TRABAJO. PROCESO DISCIPLINARIO CONTRA EL ACTOR EN EL CUAL SE LE SUSPENDIO 3 MESES EN EL EJERCICIO DE SU CARGO. COMPETENCIA DE LA PROCURADURIA EN MATERIA DISCIPLINARIA. CLAUSULA GENERAL DE COMPETENCIA. DIFERENCIA ENTRE SUSPENSION PRO",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "PROCURADURÍA GENERAL DE LA NACIÓN",
+      "subtema": "Cláusula general de competencia"
+    },
+    {
+      "tema": "SUSPENSION PROVISIONAL EN MATERIA DISCIPLINARIA",
+      "subtema": "Procedencia"
+    },
+    {
+      "tema": "SUSPENSION PROVISIONAL Y DESVINCULACION",
+      "subtema": "Diferencias"
+    }
+  ]
+}

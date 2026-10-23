@@ -1,0 +1,54 @@
+{
+  "radicado": "T-161-01",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2001,
+  "fecha_creacion": "2001-02-12",
+  "magistrado_ponente": "Dr FABIO MORON DIAZ",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "ACCION DE TUTELA PARA EL PAGO DE LICENCIA DE MATERNIDAD",
+  "subtema": "Procedencia excepcional",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 806 de 1998",
+    "Ley 100 de 1993"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2001/T-161-01.htm",
+  "fecha_descarga": "2026-10-23T01:23:24.650560+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2001-02-12",
+  "fecha_publicacion": null,
+  "numero": "T-161/01",
+  "tipo_cc": "T",
+  "prov_id": "18655",
+  "tema_relatoria": "DERECHOS A LA SALUD SEGURIDAD SOCIAL SUBSISTENCIA Y MINIMO VITAL. PROTECCION A LA MUJER EMBARAZADA Y SU HIJO POR NACER. PAGO LICENCIA DE MATERNIDAD. MORA EN EL PAGO DE APORTES POR EMPLEADOR. ACCION DE REPETICION. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCION DE TUTELA PARA EL PAGO DE LICENCIA DE MATERNIDAD",
+      "subtema": "Procedencia excepcional"
+    },
+    {
+      "tema": "TRABAJADOR ASALARIADO",
+      "subtema": "Suspensión de la afiliación"
+    },
+    {
+      "tema": "DERECHO A RECIBIR LAS PRESTACIONES MEDICAS",
+      "subtema": null
+    },
+    {
+      "tema": "MATERNIDAD",
+      "subtema": "Pago por allanamiento a la mora por EPS"
+    },
+    {
+      "tema": "EMPLEADOR",
+      "subtema": "Responsabilidad por no pago de aportes"
+    },
+    {
+      "tema": "SISTEMA DE SALUD",
+      "subtema": "Relaciones entre empleador y entidad de seguridad social"
+    }
+  ]
+}

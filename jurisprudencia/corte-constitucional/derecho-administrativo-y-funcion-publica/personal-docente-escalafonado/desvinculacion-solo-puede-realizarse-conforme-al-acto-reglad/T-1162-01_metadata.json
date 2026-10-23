@@ -1,0 +1,58 @@
+{
+  "radicado": "T-1162-01",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2001,
+  "fecha_creacion": "2001-11-01",
+  "magistrado_ponente": "Dr JAIME ARAUJO RENTERIA",
+  "area": "Derecho Administrativo y Función Pública",
+  "tema": "PERSONAL DOCENTE ESCALAFONADO",
+  "subtema": "Desvinculación solo puede realizarse conforme al acto reglado",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 190 de 1995"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2001/T-1162-01.htm",
+  "fecha_descarga": "2026-10-23T01:34:15.405799+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2001-11-01",
+  "fecha_publicacion": null,
+  "numero": "T-1162/01",
+  "tipo_cc": "T",
+  "prov_id": "19928",
+  "tema_relatoria": "DERECHO AL TRABAJO Y DEBIDO PROCESO DE DOCENTES. REVOCATORIA DIRECTA DE ACTOS DE CARÁCTER PARTICULAR Y CONCRETO. DESVINCULACION DE NOMBRAMIENTOS. OMISION ADMINISTRATIVA POR FALTA DE CONVOCATORIA. PRINCIPIO DE BUENA FE. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "PERSONAL DOCENTE ESCALAFONADO",
+      "subtema": "Desvinculación solo puede realizarse conforme al acto reglado"
+    },
+    {
+      "tema": "REVOCACION DIRECTA DE ACTO ADMINISTRATIVO PARTICULAR Y CONCRETO",
+      "subtema": "Consentimiento expreso y escrito del titular"
+    },
+    {
+      "tema": "ALCALDE",
+      "subtema": "Revocatoria unilateral nombramiento de docentes"
+    },
+    {
+      "tema": "ADMINISTRACION MUNICIPAL",
+      "subtema": "Omisión en convocatoria a concurso de docentes"
+    },
+    {
+      "tema": "REVOCACION DIRECTA DE ACTO ADMINISTRATIVO PARTICULAR Y CONCRETO",
+      "subtema": "Alcance frente al debido proceso"
+    },
+    {
+      "tema": "REVOCACION DIRECTA DE ACTO ADMINISTRATIVO PARTICULAR Y CONCRETO",
+      "subtema": "Procedencia de los que resulten de aplicación del silencio administrativo positivo"
+    },
+    {
+      "tema": "REVOCACION DIRECTA DE ACTO ADMINISTRATIVO PARTICULAR Y CONCRETO",
+      "subtema": "Actuaciones"
+    }
+  ]
+}

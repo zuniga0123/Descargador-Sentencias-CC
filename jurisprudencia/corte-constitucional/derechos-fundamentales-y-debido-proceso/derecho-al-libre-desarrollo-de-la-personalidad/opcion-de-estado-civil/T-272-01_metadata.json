@@ -1,0 +1,61 @@
+{
+  "radicado": "T-272-01",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2001,
+  "fecha_creacion": "2001-03-09",
+  "magistrado_ponente": "Dr MANUEL JOSÉ CEPEDA ESPINOSA",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "DERECHO AL LIBRE DESARROLLO DE LA PERSONALIDAD",
+  "subtema": "Opción de estado civil",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2001/T-272-01.htm",
+  "fecha_descarga": "2026-10-23T01:22:59.418350+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2001-03-09",
+  "fecha_publicacion": null,
+  "numero": "T-272/01",
+  "tipo_cc": "T",
+  "prov_id": "18809",
+  "tema_relatoria": "DERECHOS A LA IGUALDAD AUTONOMIA PERSONAL EDUCACION Y LIBRE DESARROLLO DE LA PERSONALIDAD. DESVINCULACION DE ESTUDIANTES POR CONVIVIR EN UNION LIBRE O ESTAR EMBARAZADAS. LEGITIMIDAD DEL MANUAL DE CONVIVENCIA. TRATO DIFERENTE. SANCIONES ACADEMICAS O DISCIP",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO AL LIBRE DESARROLLO DE LA PERSONALIDAD",
+      "subtema": "Opción de estado civil"
+    },
+    {
+      "tema": "DERECHO A LA EDUCACIÓN",
+      "subtema": "Estudiante que convive en unión libre"
+    },
+    {
+      "tema": "DERECHO AL LIBRE DESARROLLO DE LA PERSONALIDAD",
+      "subtema": "Expulsión de estudiante por convivir en unión libre"
+    },
+    {
+      "tema": "MANUAL DE CONVIVENCIA",
+      "subtema": "Sanción de expulsión a estudiante por convivir en unión libre"
+    },
+    {
+      "tema": "MANUAL DE CONVIVENCIA",
+      "subtema": "Supremacía normativa de la Constitución"
+    },
+    {
+      "tema": "DERECHO A LA IGUALDAD",
+      "subtema": "Vulneración por reglas del manual de convivencia"
+    },
+    {
+      "tema": "DERECHO A LA AUTONOMIA DEL ESTUDIANTE",
+      "subtema": "Vulneración por reglas del manual de convivencia"
+    },
+    {
+      "tema": "LEGITIMACIÓN POR ACTIVA EN TUTELA",
+      "subtema": "Padre en representación de hijo"
+    }
+  ]
+}

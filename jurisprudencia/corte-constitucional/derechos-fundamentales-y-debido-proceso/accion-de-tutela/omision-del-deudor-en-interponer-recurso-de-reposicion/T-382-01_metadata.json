@@ -1,0 +1,62 @@
+{
+  "radicado": "T-382-01",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2001,
+  "fecha_creacion": "2001-04-05",
+  "magistrado_ponente": "Dr RODRIGO ESCOBAR GIL",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCIÓN DE TUTELA",
+  "subtema": "Omisión del deudor en interponer recurso de reposición",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 222 de 1995"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2001/T-382-01.htm",
+  "fecha_descarga": "2026-10-23T01:25:49.664660+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2001-04-05",
+  "fecha_publicacion": null,
+  "numero": "T-382/01",
+  "tipo_cc": "T",
+  "prov_id": "18984",
+  "tema_relatoria": "DERECHO AL DEBIDO PROCESO Y ACCESO A LA ADMINISTRACION DE JUSTICIA. PROCESO CONCORDATARIO. AUDIENCIA PRELIMINAR. OPOSICION DEL DEUDOR. VIA DE HECHO. TUTELA CONTRA PROVIDENCIAS JUDICIALES. PROCEDIBILIDAD DE LA ACCION. PRINCIPIO DE RAZONABILIDAD. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Omisión del deudor en interponer recurso de reposición"
+    },
+    {
+      "tema": "VIA DE HECHO",
+      "subtema": "Aprobación de concordato a pesar de la oposición del deudor"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Procedencia excepcional por vía de hecho"
+    },
+    {
+      "tema": "CONCORDATO",
+      "subtema": "Presupone acuerdo de voluntades"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Procedencia excepcional cuando interpretaciones del ordenamiento jurídico contravienen principios y valores constitucionales"
+    },
+    {
+      "tema": "DECISION ULTRA O EXTRA VIRES",
+      "subtema": "No constituye ejercicio de la autonomía"
+    },
+    {
+      "tema": "PRINCIPIO DE AUTONOMIA FUNCIONAL DEL JUEZ",
+      "subtema": "Sometimiento al imperio de la ley"
+    },
+    {
+      "tema": "PREVALENCIA DEL DERECHO SUSTANCIAL",
+      "subtema": "No es exigible al demandante conocer las ritualidades procedimentales para interponer recurso de reposición"
+    }
+  ]
+}

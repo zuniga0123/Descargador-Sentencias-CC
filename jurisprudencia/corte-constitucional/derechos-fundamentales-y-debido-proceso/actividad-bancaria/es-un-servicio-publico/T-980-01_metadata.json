@@ -1,0 +1,48 @@
+{
+  "radicado": "T-980-01",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2001,
+  "fecha_creacion": "2001-09-13",
+  "magistrado_ponente": "Dr JAIME CÓRDOBA TRIVIÑO",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACTIVIDAD BANCARIA",
+  "subtema": "Es un servicio público",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Decreto 1593 de 1959",
+    "Decreto 753 de 1956",
+    "Ley 48 de 1968"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2001/T-980-01.htm",
+  "fecha_descarga": "2026-10-23T01:30:16.643655+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2001-09-13",
+  "fecha_publicacion": null,
+  "numero": "T-980/01",
+  "tipo_cc": "T",
+  "prov_id": "19716",
+  "tema_relatoria": "DERECHO DE PETICION FRENTE A ENTIDADES FINANCIERAS. SOLICITUD DESVINCULACION DE DATACREDITO. RESPUESTA CLARA Y OPORTUNA. TUTELA CONTRA PARTICULARES QUE PRESTAN SERVICIO PUBLICO. CONCEDIDA",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACTIVIDAD BANCARIA",
+      "subtema": "Es un servicio público"
+    },
+    {
+      "tema": "DERECHO DE PETICION FRENTE A ENTIDAD BANCARIA",
+      "subtema": "Respuesta oportuna y de fondo"
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA ENTIDAD BANCARIA",
+      "subtema": "Procedencia por prestación de servicio público"
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA PARTICULARES",
+      "subtema": "Procedencia excepcional"
+    }
+  ]
+}

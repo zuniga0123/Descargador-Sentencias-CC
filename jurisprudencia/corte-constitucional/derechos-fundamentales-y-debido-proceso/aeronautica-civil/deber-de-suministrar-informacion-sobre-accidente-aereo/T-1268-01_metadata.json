@@ -1,0 +1,50 @@
+{
+  "radicado": "T-1268-01",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2001,
+  "fecha_creacion": "2001-11-29",
+  "magistrado_ponente": "Dr JAIME ARAÚJO RENTERÍA",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "AERONAUTICA CIVIL",
+  "subtema": "Deber de suministrar información sobre accidente aéreo",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 57 de 1985"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2001/T-1268-01.htm",
+  "fecha_descarga": "2026-10-23T01:31:39.739044+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2001-11-29",
+  "fecha_publicacion": null,
+  "numero": "T-1268/01",
+  "tipo_cc": "T",
+  "prov_id": "20041",
+  "tema_relatoria": "DERECHOS AL DEBIDO PROCESO INFORMACION Y ACCESO A LA ADMINISTRACION DE JUSTICIA. NEGATIVA DE LA ACCIONADA A EXPEDIR COPIAS SOLICITADAS. ACCESO A DOCUMENTOS PUBLICOS FRENTE A POSIBLES RESERVAS. LIMITES A LA RESERVA. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "AERONAUTICA CIVIL",
+      "subtema": "Deber de suministrar información sobre accidente aéreo"
+    },
+    {
+      "tema": "REGLAMENTO AERONAUTICO",
+      "subtema": "Improcedencia de reserva sobre información de accidente aéreo"
+    },
+    {
+      "tema": "DERECHOS DE PETICIÓN Y ACCESO A DOCUMENTOS PÚBLICOS",
+      "subtema": "Solicitud de copias"
+    },
+    {
+      "tema": "DERECHO A OBTENER COPIAS",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "DOCUMENTO PUBLICO",
+      "subtema": "Publicidad como regla general"
+    }
+  ]
+}

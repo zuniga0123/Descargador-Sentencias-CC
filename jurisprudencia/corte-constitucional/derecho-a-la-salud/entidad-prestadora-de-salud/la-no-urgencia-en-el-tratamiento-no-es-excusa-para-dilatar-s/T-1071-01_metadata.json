@@ -1,0 +1,54 @@
+{
+  "radicado": "T-1071-01",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2001,
+  "fecha_creacion": "2001-10-11",
+  "magistrado_ponente": "Dra CLARA INÉS VARGAS HERNÁNDEZ",
+  "area": "Derecho a la Salud",
+  "tema": "ENTIDAD PRESTADORA DE SALUD",
+  "subtema": "La no urgencia en el tratamiento no es excusa para dilatar su realización",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 100 de 1993"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2001/T-1071-01.htm",
+  "fecha_descarga": "2026-10-23T01:45:34.298131+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2001-10-11",
+  "fecha_publicacion": null,
+  "numero": "T-1071/01",
+  "tipo_cc": "T",
+  "prov_id": "19824",
+  "tema_relatoria": "DERECHO A LA SALUD Y VIDA DE MENOR DE EDAD QUE NO DESARROLLA SU CAPACIDAD MOTRIZ CIENTO POR CIENTO NORMAL. SOLICITUD TERAPIAS OCUPACIONALES. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ENTIDAD PRESTADORA DE SALUD",
+      "subtema": "La no urgencia en el tratamiento no es excusa para dilatar su realización"
+    },
+    {
+      "tema": "DERECHO A LA SALUD DE NIÑOS, NIÑAS Y ADOLESCENTES",
+      "subtema": "Práctica de terapias ocupacionales"
+    },
+    {
+      "tema": "DERECHO A LA INTEGRIDAD FISICA Y PSIQUICA DEL NIÑO",
+      "subtema": "Práctica de terapias ocupacionales"
+    },
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Fundamental por conexidad"
+    },
+    {
+      "tema": "PRINCIPIO DE CONTINUIDAD EN LOS SERVICIOS PUBLICOS",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Práctica de examen o procedimiento clínico no urgente"
+    }
+  ]
+}

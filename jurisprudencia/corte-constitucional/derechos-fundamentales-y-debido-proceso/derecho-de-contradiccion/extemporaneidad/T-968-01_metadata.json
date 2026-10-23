@@ -1,0 +1,45 @@
+{
+  "radicado": "T-968-01",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2001,
+  "fecha_creacion": "2001-09-10",
+  "magistrado_ponente": "Dr JAIME ARAUJO RENTERÍA",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "DERECHO DE CONTRADICCION",
+  "subtema": "Extemporaneidad",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2001/T-968-01.htm",
+  "fecha_descarga": "2026-10-23T01:30:02.178522+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2001-09-10",
+  "fecha_publicacion": null,
+  "numero": "T-968/01",
+  "tipo_cc": "T",
+  "prov_id": "19705",
+  "tema_relatoria": "DERECHO AL DEBIDO PROCESO. SOLICITUD NULIDAD DE LA PERENCION EN PROCESO POR ACCIDENTE LABORAL. RESARCIMIENTO DE LOS PERJUICIOS SUFRIDOS. VIA DE HECHO. CARGA DE LA PRUEBA. OPORTUNIDAD PROCESAL PARA INTERPONER LOS RECURSOS DE LEY. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO DE CONTRADICCION",
+      "subtema": "Extemporaneidad"
+    },
+    {
+      "tema": "PERENCION DEL PROCESO",
+      "subtema": null
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Improcedencia para revivir términos"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Subsidiariedad"
+    }
+  ]
+}

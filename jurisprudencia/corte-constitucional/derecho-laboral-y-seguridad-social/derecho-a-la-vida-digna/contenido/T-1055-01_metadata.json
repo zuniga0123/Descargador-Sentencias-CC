@@ -1,0 +1,60 @@
+{
+  "radicado": "T-1055-01",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2001,
+  "fecha_creacion": "2001-10-04",
+  "magistrado_ponente": "Dra CLARA INÉS VARGAS HERNÁNDEZ",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "DERECHO A LA VIDA DIGNA",
+  "subtema": "Contenido",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 50 de 1990",
+    "Ley 100 de 1993",
+    "Ley 11 de 1988"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2001/T-1055-01.htm",
+  "fecha_descarga": "2026-10-23T01:45:12.662149+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2001-10-04",
+  "fecha_publicacion": null,
+  "numero": "T-1055/01",
+  "tipo_cc": "T",
+  "prov_id": "19799",
+  "tema_relatoria": "DERECHOS A LA VIDA MINIMO VITAL Y SEGURIDAD SOCIAL. PAGO DE ACREENCIAS LABORALES. PENSION. AFILIACION AL PLAN OBLIGATORIO DE SALUD Y RECONOCIMIENTO DE LA PENSION DE VEJEZ. TUTELA CONTRA PARTICULARES. TUTELA COMO MECANISMO TRANSITORIO. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA VIDA DIGNA",
+      "subtema": "Contenido"
+    },
+    {
+      "tema": "DERECHO A LA DIGNIDAD HUMANA",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "TRABAJO DOMÉSTICO",
+      "subtema": "Afiliación al régimen de pensiones"
+    },
+    {
+      "tema": "DERECHO A LA VIDA DIGNA DE PERSONA DE LA TERCERA EDAD",
+      "subtema": "Protección de los servicios personales domésticos"
+    },
+    {
+      "tema": "DERECHO A LA SEGURIDAD SOCIAL",
+      "subtema": "Fundamental por conexidad"
+    },
+    {
+      "tema": "DERECHO A LA VIDA EN CONDICIONES DIGNAS Y JUSTAS",
+      "subtema": "Protección del mínimo vital"
+    },
+    {
+      "tema": "ACCION DE TUTELA TRANSITORIA DE PERSONA DE LA TERCERA EDAD",
+      "subtema": "Pago suma equivalente al salario mínimo"
+    }
+  ]
+}

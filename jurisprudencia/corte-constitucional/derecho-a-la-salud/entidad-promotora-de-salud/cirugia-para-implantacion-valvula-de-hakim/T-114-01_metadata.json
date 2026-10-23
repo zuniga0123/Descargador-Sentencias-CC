@@ -1,0 +1,45 @@
+{
+  "radicado": "T-114-01",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2001,
+  "fecha_creacion": "2001-01-31",
+  "magistrado_ponente": "Martha Victoria Sáchica Méndez",
+  "area": "Derecho a la Salud",
+  "tema": "ENTIDAD PROMOTORA DE SALUD",
+  "subtema": "Cirugía para implantación válvula de hakim",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 100 de 1993",
+    "Decreto 809 de 1998",
+    "Ley 508 de 1999",
+    "Decreto 806 de 1998"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2001/T-114-01.htm",
+  "fecha_descarga": "2026-10-23T01:33:35.961899+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2001-01-31",
+  "fecha_publicacion": null,
+  "numero": "T-114/01",
+  "tipo_cc": "T",
+  "prov_id": "18585",
+  "tema_relatoria": "DERECHO A LA SALUD Y VIDA DE PERSONAS DE LA TERECERA EDAD. SOLICITUD PRACTICA CIRUGIA PARA LA IMPLANTACION DE VALVULA DE HAKIM PROGRAMABLE. ENFERMEDAD DE ALTO COSTO Y CATASTROFICA. PERIODO MINIMO DE COTIZACION. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ENTIDAD PROMOTORA DE SALUD",
+      "subtema": "Cirugía para implantación válvula de hakim"
+    },
+    {
+      "tema": "ENFERMEDADES CATASTROFICAS O RUINOSAS",
+      "subtema": "Intervención quirúrgica por EPS sin cumplir periodo mínimo de cotización"
+    },
+    {
+      "tema": "ENTIDAD PROMOTORA DE SALUD",
+      "subtema": "Repetición contra el FOSYGA"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "radicado": "T-311-01",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2001,
+  "fecha_creacion": "2001-03-23",
+  "magistrado_ponente": "Dr MARCO GERARDO MONROY CABRA",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "MEDIO DE DEFENSA JUDICIAL",
+  "subtema": "Definición de existencia y cuantía de obligaciones en dinero",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 74 de 1968"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2001/T-311-01.htm",
+  "fecha_descarga": "2026-10-23T01:27:01.783162+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2001-03-23",
+  "fecha_publicacion": null,
+  "numero": "T-311/01",
+  "tipo_cc": "T",
+  "prov_id": "18886",
+  "tema_relatoria": "DERECHOS AL TRABAJO MINIMO VITAL Y SEGURIDAD SOCIAL DE LA MADRE Y SU HIJO. ESTABILIDAD LABORAL REFORZADA DE MUJER EMBARAZADA. CONTRATO DE TRABAJO A TERMINO FIJO. PAGO INDEMNIZACION. HECHO SUPERADO. CONCEDIDA PARCIALMENTE.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "MEDIO DE DEFENSA JUDICIAL",
+      "subtema": "Definición de existencia y cuantía de obligaciones en dinero"
+    },
+    {
+      "tema": "MEDIO DE DEFENSA JUDICIAL",
+      "subtema": "Indemnización por despido de mujer embarazada"
+    },
+    {
+      "tema": "MUJER TRABAJADORA EMBARAZADA",
+      "subtema": "Protección constitucional especial"
+    },
+    {
+      "tema": "DERECHO A LA ESTABILIDAD LABORAL REFORZADA DE MUJER EMBARAZADA",
+      "subtema": "Conocimiento por empleador de estado de gravidez con anterioridad al vencimiento del contrato de trabajo"
+    },
+    {
+      "tema": "DERECHO A LA ESTABILIDAD LABORAL REFORZADA DE MUJER EMBARAZADA",
+      "subtema": "Despido previa autorización de la oficina de trabajo"
+    }
+  ]
+}

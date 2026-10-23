@@ -1,0 +1,45 @@
+{
+  "radicado": "T-800-01",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2001,
+  "fecha_creacion": "2001-07-31",
+  "magistrado_ponente": "Dr ALVARO TAFUR GALVIS",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "NULIDAD",
+  "subtema": "Facultad del legislador para determinar causales",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2001/T-800-01.htm",
+  "fecha_descarga": "2026-10-23T01:41:54.010184+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2001-07-31",
+  "fecha_publicacion": null,
+  "numero": "T-800/01",
+  "tipo_cc": "T",
+  "prov_id": "19522",
+  "tema_relatoria": "DERECHOS AL TRABAJO MINIMO VITAL Y DEFENSA. PAGO DE ACREENCIAS LABORALES. SALARIOS. SOLICITUD NULIDAD POR FALTA DE NOTIFICACION. CONCEDIDA PARCIALMENTE.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "NULIDAD",
+      "subtema": "Facultad del legislador para determinar causales"
+    },
+    {
+      "tema": "DERECHO AL MINIMO VITAL DEL TRABAJADOR",
+      "subtema": "Pago oportuno de salarios"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Procedencia excepcional pago de salarios"
+    },
+    {
+      "tema": "NULIDAD POR FALTA DE NOTIFICACION",
+      "subtema": "Demandado"
+    }
+  ]
+}

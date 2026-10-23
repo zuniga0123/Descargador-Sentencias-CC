@@ -1,0 +1,45 @@
+{
+  "radicado": "T-1075-01",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2001,
+  "fecha_creacion": "2001-10-11",
+  "magistrado_ponente": "Dr JAIME ARAUJO RENTERIA",
+  "area": "Derecho a la Salud",
+  "tema": "DERECHOS DE LA NIÑEZ",
+  "subtema": "Protección constitucional especial",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2001/T-1075-01.htm",
+  "fecha_descarga": "2026-10-23T01:45:41.746806+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2001-10-11",
+  "fecha_publicacion": null,
+  "numero": "T-1075/01",
+  "tipo_cc": "T",
+  "prov_id": "19828",
+  "tema_relatoria": "DERECHO A LA SALUD Y SEGURIDAD SOCIAL DE MENOR DE EDAD. SUMINISTRO MEDICAMENTOS Y TRATAMIENTO MEDICO NO INCLUIDOS EN EL POS. HECHOS FUTUROS E INCIERTOS. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHOS DE LA NIÑEZ",
+      "subtema": "Protección constitucional especial"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "No es el medio para prevenir hechos futuros e inciertos"
+    },
+    {
+      "tema": "DERECHOS FUNDAMENTALES DEL NIÑO",
+      "subtema": "Prevalencia"
+    },
+    {
+      "tema": "DERECHO A LA SALUD DE NIÑOS, NIÑAS Y ADOLESCENTES",
+      "subtema": "Inexistencia de amenaza o vulneración"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "radicado": "T-423-01",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2001,
+  "fecha_creacion": "2001-04-26",
+  "magistrado_ponente": "Dr JAIME CÓRDOBA TRIVIÑO",
+  "area": "Derecho a la Salud",
+  "tema": "DERECHO A LA SALUD",
+  "subtema": "Dilación injustificada en suministro de medicamentos y atención médica",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2001/T-423-01.htm",
+  "fecha_descarga": "2026-10-23T01:23:57.307427+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2001-04-26",
+  "fecha_publicacion": null,
+  "numero": "T-423/01",
+  "tipo_cc": "T",
+  "prov_id": "19051",
+  "tema_relatoria": "DERECHO A LA SALUD Y A LA VIDA. NEGATIVA DE LA ACCIONADA A SUMINISTRAR MEDICAMENTOS REQUERIDOS. PROTECCION ESPECIAL A LAS PERSONAS DE LA TERCERA EDAD. CALIDAD DE VIDA. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Dilación injustificada en suministro de medicamentos y atención médica"
+    },
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Fundamental por conexidad con la vida"
+    },
+    {
+      "tema": "DERECHO A LA SEGURIDAD SOCIAL DE PERSONA DE LA TERCERA EDAD",
+      "subtema": "Fundamental"
+    },
+    {
+      "tema": "PERSONA DE LA TERCERA EDAD",
+      "subtema": "Atención médica y suministro de medicamentos por enfermedad de Parkinson"
+    },
+    {
+      "tema": "ENTIDAD PROMOTORA DE SALUD",
+      "subtema": "Atención médica y suministro de medicamentos"
+    }
+  ]
+}

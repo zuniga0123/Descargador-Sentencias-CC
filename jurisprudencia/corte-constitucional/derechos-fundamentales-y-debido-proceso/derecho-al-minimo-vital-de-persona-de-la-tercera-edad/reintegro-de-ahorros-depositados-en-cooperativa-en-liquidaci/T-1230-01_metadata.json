@@ -1,0 +1,41 @@
+{
+  "radicado": "T-1230-01",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2001,
+  "fecha_creacion": "2001-11-22",
+  "magistrado_ponente": "Dr MARCO GERARDO MONROY CABRA",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "DERECHO AL MINIMO VITAL DE PERSONA DE LA TERCERA EDAD",
+  "subtema": "Reintegro de ahorros depositados en cooperativa en liquidación",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2001/T-1230-01.htm",
+  "fecha_descarga": "2026-10-23T01:30:49.126032+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2001-11-22",
+  "fecha_publicacion": null,
+  "numero": "T-1230/01",
+  "tipo_cc": "T",
+  "prov_id": "20003",
+  "tema_relatoria": "DERECHO AL MINIMO VITAL E IGUALDAD DE PERSONA DE LA TERCERA EDAD ACREEDOR DE ENTIDAD FINANCIERA EN LIQUIDACION. DEVOLUCION AHORROS DEPOSITADOS COMO APORTES SOCIALES. TUTELA CONTRA PARTICULARES. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO AL MINIMO VITAL DE PERSONA DE LA TERCERA EDAD",
+      "subtema": "Reintegro de ahorros depositados en cooperativa en liquidación"
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA ENTIDAD BANCARIA",
+      "subtema": "Procedencia por prestación de servicio público"
+    },
+    {
+      "tema": "PERSONA DE LA TERCERA EDAD",
+      "subtema": "Trato constitucional preferente"
+    }
+  ]
+}

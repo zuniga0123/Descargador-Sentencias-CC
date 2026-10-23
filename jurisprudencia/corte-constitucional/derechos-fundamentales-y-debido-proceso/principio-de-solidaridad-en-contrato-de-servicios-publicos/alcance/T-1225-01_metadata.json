@@ -1,0 +1,50 @@
+{
+  "radicado": "T-1225-01",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2001,
+  "fecha_creacion": "2001-11-22",
+  "magistrado_ponente": "Dr ALFREDO BELTRÁN SIERRA",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "PRINCIPIO DE SOLIDARIDAD EN CONTRATO DE SERVICIOS PUBLICOS",
+  "subtema": "Alcance",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 142 de 1994",
+    "Ley 689 de 2001"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2001/T-1225-01.htm",
+  "fecha_descarga": "2026-10-23T01:30:31.200394+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2001-11-22",
+  "fecha_publicacion": null,
+  "numero": "T-1225/01",
+  "tipo_cc": "T",
+  "prov_id": "19998",
+  "tema_relatoria": "DERECHO DE PETICION Y DEBIDO PROCESO. REINSTALACION SERVICIO PUBLICO DE ENERGIA EN LOCAL COMERCIAL ARRENDADO NO SUSPENDIDO OPORTUNAMENTE. MORA EN TRES PERIODOS DE FACTURACION. SOLIDARIDAD ENTRE PROPIETARIO DEL INMUEBLE SUSCRIPTOR Y USUARIO. VIA DE HECHO.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "PRINCIPIO DE SOLIDARIDAD EN CONTRATO DE SERVICIOS PUBLICOS",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "SERVICIO DE ENERGIA",
+      "subtema": "Desconexión por no pagar el arrendatario más de tres periodos facturados"
+    },
+    {
+      "tema": "DEBIDO PROCESO",
+      "subtema": "Facturación de energía a propietario sustraída fraudulentamente por arrendatario"
+    },
+    {
+      "tema": "SERVICIO DE ENERGIA",
+      "subtema": "Conexión fraudulenta por arrendatario a pesar de suspensión"
+    },
+    {
+      "tema": "VIA DE HECHO POR EMPRESA DE SERVICIOS PUBLICOS",
+      "subtema": "Dejó crecer deuda de energía"
+    }
+  ]
+}

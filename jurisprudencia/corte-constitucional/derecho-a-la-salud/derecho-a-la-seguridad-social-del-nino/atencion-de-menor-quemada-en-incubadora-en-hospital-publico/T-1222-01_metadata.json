@@ -1,0 +1,39 @@
+{
+  "radicado": "T-1222-01",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2001,
+  "fecha_creacion": "2001-11-22",
+  "magistrado_ponente": "Dr ALVARO TAFUR GALVIS",
+  "area": "Derecho a la Salud",
+  "tema": "DERECHO A LA SEGURIDAD SOCIAL DEL NIÑO",
+  "subtema": "Atención de menor quemada en incubadora en hospital público",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 583 de 1999",
+    "Decreto 283 de 1999",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2001/T-1222-01.htm",
+  "fecha_descarga": "2026-10-23T01:32:44.977922+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2001-11-22",
+  "fecha_publicacion": null,
+  "numero": "T-1222/01",
+  "tipo_cc": "T",
+  "prov_id": "19995",
+  "tema_relatoria": "DERECHO A LA SALUD E INTEGRIDAD FISICA DE MENOR DE EDAD. SOLICITUD TRATAMIENTO MEDICO. ACCESO AL REGIMEN SUBSIDIADO EN SALUD. SISBEN. REALIZACION NUEVA ENCUESTA. EXISTENCIA DE OTRO MEDIO DE DEFENSA JUDICIAL. PRINCIPIO DE SUBSIDIARIDAD. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA SEGURIDAD SOCIAL DEL NIÑO",
+      "subtema": "Atención de menor quemada en incubadora en hospital público"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Improcedencia cuando hay caducidad de la acción principal"
+    }
+  ]
+}

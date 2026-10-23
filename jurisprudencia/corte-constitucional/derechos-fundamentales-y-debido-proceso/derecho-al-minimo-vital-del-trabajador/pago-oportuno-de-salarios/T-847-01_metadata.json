@@ -1,0 +1,41 @@
+{
+  "radicado": "T-847-01",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2001,
+  "fecha_creacion": "2001-08-09",
+  "magistrado_ponente": "Dr ALVARO TAFUR GALVIS",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "DERECHO AL MINIMO VITAL DEL TRABAJADOR",
+  "subtema": "Pago oportuno de salarios",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2001/T-847-01.htm",
+  "fecha_descarga": "2026-10-23T01:42:15.641637+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2001-08-09",
+  "fecha_publicacion": null,
+  "numero": "T-847/01",
+  "tipo_cc": "T",
+  "prov_id": "19571",
+  "tema_relatoria": "DERECHO A LA VIDA SALUD IGUALDAD TRABAJO Y SUBSISTENCIA. PAGO DE ACREENCIAS LABORALES. SALARIOS Y APORTES A SEGURIDAD SOCIAL. DISPONIBILIDAD PRESUPUESTAL. CONCEDIDA",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO AL MINIMO VITAL DEL TRABAJADOR",
+      "subtema": "Pago oportuno de salarios"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Procedencia excepcional pago de acreencias laborales"
+    },
+    {
+      "tema": "PARTIDA PRESUPUESTAL",
+      "subtema": "Disponibilidad por pago de salarios y prestaciones"
+    }
+  ]
+}

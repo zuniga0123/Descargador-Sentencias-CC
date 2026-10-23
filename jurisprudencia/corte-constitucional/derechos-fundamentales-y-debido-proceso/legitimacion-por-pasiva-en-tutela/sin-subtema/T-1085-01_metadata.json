@@ -1,0 +1,64 @@
+{
+  "radicado": "T-1085-01",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2001,
+  "fecha_creacion": "2001-10-11",
+  "magistrado_ponente": "Dr EDUARDO MONTEALEGRE LYNETT",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "LEGITIMACION POR PASIVA EN TUTELA",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Decreto 2331 de 1998",
+    "Decreto 908 de 1999",
+    "Decreto 20 de 2001"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2001/T-1085-01.htm",
+  "fecha_descarga": "2026-10-23T01:46:10.996112+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2001-10-11",
+  "fecha_publicacion": null,
+  "numero": "T-1085/01",
+  "tipo_cc": "T",
+  "prov_id": "19838",
+  "tema_relatoria": "DERECHOS A LA HONRA BUEN NOMBRE Y HABEAS DATA. SOLICITUD DACION EN PAGO. ELIMINACION DE LA BASE DE DATOS DE ASOBANCARIA. LEGITIMACION PASIVA. INTEGRACION DEL CONTRADICTORIO. LLAMADO A PREVENCION. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "LEGITIMACION POR PASIVA EN TUTELA",
+      "subtema": null
+    },
+    {
+      "tema": "PRINCIPIO DE OFICIOSIDAD E INFORMALIDAD DE PROCESO DE TUTELA",
+      "subtema": "Conformación del legítimo contradictorio"
+    },
+    {
+      "tema": "HABEAS DATA",
+      "subtema": "Vulneración"
+    },
+    {
+      "tema": "DACION EN PAGO",
+      "subtema": "Reportes negativos en centrales de información financiera"
+    },
+    {
+      "tema": "IMPARCIALIDAD DE LA INFORMACION",
+      "subtema": "Mayor diligencia de las autoridades financieras"
+    },
+    {
+      "tema": "HABEAS DATA",
+      "subtema": "Finalidad"
+    },
+    {
+      "tema": "VERACIDAD DE LA INFORMACION",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "IMPARCIALIDAD DE LA INFORMACION",
+      "subtema": "Alcance"
+    }
+  ]
+}

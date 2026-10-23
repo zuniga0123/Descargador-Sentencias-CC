@@ -1,0 +1,42 @@
+{
+  "radicado": "T-484-01",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2001,
+  "fecha_creacion": "2001-05-10",
+  "magistrado_ponente": "Dr EDUARDO MONTEALEGRE LYNETT",
+  "area": "Derecho a la Salud",
+  "tema": "DERECHO A LA SALUD",
+  "subtema": "Práctica de cirugía de histerectomía",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 100 de 1993"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2001/T-484-01.htm",
+  "fecha_descarga": "2026-10-23T01:43:38.733274+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2001-05-10",
+  "fecha_publicacion": null,
+  "numero": "T-484/01",
+  "tipo_cc": "T",
+  "prov_id": "19121",
+  "tema_relatoria": "DERECHO A LA SALUD Y A LA VIDA. SOLICITUD DE PRACTICA DE CIRUGIA. NEGATIVA DE LA ACCIONADA POR CUANTO LA AFILIADA NO SE ENCUENTRA AL DIA EN EL PAGO DE LAS AUTOLIQUIDACIONES. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Práctica de cirugía de histerectomía"
+    },
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "No práctica de cirugía por mora en el pago de aportes"
+    },
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Mora en el pago de los aportes"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "radicado": "T-972-01",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2001,
+  "fecha_creacion": "2001-09-07",
+  "magistrado_ponente": "Dr MANUEL JOSÉ CEPEDA ESPINOSA",
+  "area": "Derecho a la Salud",
+  "tema": "DERECHO A LA SALUD DE NIÑOS, NIÑAS Y ADOLESCENTES",
+  "subtema": "Protección estatal",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2001/T-972-01.htm",
+  "fecha_descarga": "2026-10-23T01:30:13.045758+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2001-09-07",
+  "fecha_publicacion": null,
+  "numero": "T-972/01",
+  "tipo_cc": "T",
+  "prov_id": "19698",
+  "tema_relatoria": "DERECHO A LA SALUD DE MENOR AFILIADA AL REGIMEN SUBSIDIADO DE SALUD. SOLICITUD TRANSPLANTE DE HIGADO. TRATAMIENTO NO INCLUIDO EN EL POS. ACCION DE REPETICION. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA SALUD DE NIÑOS, NIÑAS Y ADOLESCENTES",
+      "subtema": "Protección estatal"
+    },
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Protección preventiva y no solamente en caso de gravedad"
+    },
+    {
+      "tema": "ENTIDAD PROMOTORA DE SALUD",
+      "subtema": "Transplante de hígado y repetición contra el FOSYGA"
+    },
+    {
+      "tema": "DERECHO A LA SALUD DE NIÑOS, NIÑAS Y ADOLESCENTES",
+      "subtema": "Fundamental"
+    },
+    {
+      "tema": "REGIMEN SUBSIDIADO DE SALUD",
+      "subtema": "Transplante de hígado a menor"
+    },
+    {
+      "tema": "DERECHO A LA SALUD DE NIÑOS, NIÑAS Y ADOLESCENTES",
+      "subtema": "Transplante de hígado"
+    }
+  ]
+}

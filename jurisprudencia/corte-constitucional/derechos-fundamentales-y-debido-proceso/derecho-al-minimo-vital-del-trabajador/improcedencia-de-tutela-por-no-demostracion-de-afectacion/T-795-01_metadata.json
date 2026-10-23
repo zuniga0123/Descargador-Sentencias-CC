@@ -1,0 +1,41 @@
+{
+  "radicado": "T-795-01",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2001,
+  "fecha_creacion": "2001-07-27",
+  "magistrado_ponente": "Dr MANUEL JOSE CEPEDA ESPINOSA",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "DERECHO AL MINIMO VITAL DEL TRABAJADOR",
+  "subtema": "Improcedencia de tutela por no demostración de afectación",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2001/T-795-01.htm",
+  "fecha_descarga": "2026-10-23T01:36:22.280825+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2001-07-27",
+  "fecha_publicacion": null,
+  "numero": "T-795/01",
+  "tipo_cc": "T",
+  "prov_id": "19516",
+  "tema_relatoria": "DERECHOS AL TRABAJO IGUALDAD Y MINIMO VITAL. PAGO DE ACREENCIAS LABORALES. SALARIOS DE SERVIDORES PUBLICOS. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO AL MINIMO VITAL DEL TRABAJADOR",
+      "subtema": "Improcedencia de tutela por no demostración de afectación"
+    },
+    {
+      "tema": "DERECHO AL MINIMO VITAL",
+      "subtema": "Prueba de la amenaza"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Procedencia excepcional pago de salarios"
+    }
+  ]
+}

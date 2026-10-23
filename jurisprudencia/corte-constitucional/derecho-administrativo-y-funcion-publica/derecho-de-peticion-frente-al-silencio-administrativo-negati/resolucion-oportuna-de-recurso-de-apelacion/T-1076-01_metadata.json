@@ -1,0 +1,49 @@
+{
+  "radicado": "T-1076-01",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2001,
+  "fecha_creacion": "2001-10-11",
+  "magistrado_ponente": "Dr JAIME ARAUJO RENTERIA",
+  "area": "Derecho Administrativo y Función Pública",
+  "tema": "DERECHO DE PETICION FRENTE AL SILENCIO ADMINISTRATIVO NEGATIVO",
+  "subtema": "Resolución oportuna de recurso de apelación",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2001/T-1076-01.htm",
+  "fecha_descarga": "2026-10-23T01:45:45.324794+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2001-10-11",
+  "fecha_publicacion": null,
+  "numero": "T-1076/01",
+  "tipo_cc": "T",
+  "prov_id": "19829",
+  "tema_relatoria": "DERECHO DE PETICION. SOLICITUD RELIQUIDACION DE LA PENSION DE JUBILACION. RESPUESTA CLARA Y OPORTUNA A RECURSO DE APELACION INTERPUESTO. SILENCIO ADMINISTRATIVO NEGATIVO. FALTAS DISCIPLINARIAS DE SERVIDOR PUBLICO. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO DE PETICION FRENTE AL SILENCIO ADMINISTRATIVO NEGATIVO",
+      "subtema": "Resolución oportuna de recurso de apelación"
+    },
+    {
+      "tema": "DERECHO DE PETICION EN VIA GUBERNATIVA",
+      "subtema": "Resolución oportuna de recursos"
+    },
+    {
+      "tema": "DERECHO DE PETICION FRENTE AL SILENCIO ADMINISTRATIVO NEGATIVO",
+      "subtema": "Debe resolver la solicitud"
+    },
+    {
+      "tema": "SERVIDOR PUBLICO",
+      "subtema": "Falta disciplinaria por no resolución oportuna de peticiones"
+    },
+    {
+      "tema": "SILENCIO ADMINISTRATIVO NEGATIVO",
+      "subtema": "No subsana violación del derecho de petición"
+    }
+  ]
+}

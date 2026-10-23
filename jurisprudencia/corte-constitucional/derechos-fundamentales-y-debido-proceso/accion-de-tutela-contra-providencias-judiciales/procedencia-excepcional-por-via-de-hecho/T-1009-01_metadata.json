@@ -1,0 +1,59 @@
+{
+  "radicado": "T-1009-01",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2001,
+  "fecha_creacion": "2001-09-20",
+  "magistrado_ponente": "Dr JAIME CÓRDOBA TRIVIÑO",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+  "subtema": "Procedencia excepcional por vía de hecho",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 446 de 1998",
+    "Decreto 196 de 1971"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2001/T-1009-01.htm",
+  "fecha_descarga": "2026-10-23T01:46:14.829069+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2001-09-20",
+  "fecha_publicacion": null,
+  "numero": "T-1009/01",
+  "tipo_cc": "T",
+  "prov_id": "19747",
+  "tema_relatoria": "DERECHOS DE DEFENSA DEBIDO PROCESO Y TRABAJO. VIA DE HECHO. REVOCATORIA Y CONFIRMACION DE SENTENCIAS. TUTELA CONTRA PROVIDENCIAS JUDICIALES. ACCION U OMISION DE AUTORIDAD JUDICIAL. VALORACION DE LA PRUEBA. RECONOCIMIENTO HONORARIOS DE ABOGADO. PAGO CONTRA",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Procedencia excepcional por vía de hecho"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Improcedencia para fallar proceso disciplinario a favor del procesado"
+    },
+    {
+      "tema": "VIA DE HECHO",
+      "subtema": "Omisión de apreciación de pruebas"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Improcedencia para ordenar reconocimiento de honorarios profesionales"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Improcedencia para solicitar aspiraciones patrimoniales frustradas en otras instancias"
+    },
+    {
+      "tema": "MEDIO DE DEFENSA JUDICIAL EFICAZ",
+      "subtema": "Reconocimiento de honorarios profesionales"
+    },
+    {
+      "tema": "VIA DE HECHO",
+      "subtema": "Análisis y valoración de pruebas por jueces"
+    }
+  ]
+}

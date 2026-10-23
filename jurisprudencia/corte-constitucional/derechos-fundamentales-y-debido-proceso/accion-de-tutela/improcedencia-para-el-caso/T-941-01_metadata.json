@@ -1,0 +1,41 @@
+{
+  "radicado": "T-941-01",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2001,
+  "fecha_creacion": "2001-09-03",
+  "magistrado_ponente": "Dr JAIME ARAUJO RENTERÍA",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCIÓN DE TUTELA",
+  "subtema": "Improcedencia para el caso",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2001/T-941-01.htm",
+  "fecha_descarga": "2026-10-23T01:29:22.071194+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2001-09-03",
+  "fecha_publicacion": null,
+  "numero": "T-941/01",
+  "tipo_cc": "T",
+  "prov_id": "19673",
+  "tema_relatoria": "DEBIDO PROCESO. DERECHO A LA LIBERTAD Y A LA IGUALDAD. NO SE SURTIO NOTIFICACIÓN DE LA PROVIDENCIA DE CIERRE DE LA INVESTIGACION. LOS INTERNOS SE ENCONTRABAN EN DESOBEDIENCIA CIVIL. INEXISTENCIA DE PERJUICIO IRREMEDIABLE. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Improcedencia para el caso"
+    },
+    {
+      "tema": "DESOBEDIENCIA CIVIL DE INTERNOS",
+      "subtema": "No se pudo practicar notificación de providencia de cierre investigativo"
+    },
+    {
+      "tema": "DESOBEDIENCIA CIVIL",
+      "subtema": "Notificación de providencia condicionada a carácter favorable"
+    }
+  ]
+}

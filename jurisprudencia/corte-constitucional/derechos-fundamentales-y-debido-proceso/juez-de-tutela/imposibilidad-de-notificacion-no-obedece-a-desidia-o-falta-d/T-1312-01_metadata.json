@@ -1,0 +1,53 @@
+{
+  "radicado": "T-1312-01",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2001,
+  "fecha_creacion": "2001-12-07",
+  "magistrado_ponente": "Dra CLARA INÉS VARGAS HERNÁNDEZ",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "JUEZ DE TUTELA",
+  "subtema": "Imposibilidad de notificación no obedece a desidia o falta de diligencia",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2001/T-1312-01.htm",
+  "fecha_descarga": "2026-10-23T01:32:55.892828+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2001-12-07",
+  "fecha_publicacion": null,
+  "numero": "T-1312/01",
+  "tipo_cc": "T",
+  "prov_id": "20096",
+  "tema_relatoria": "PAGO DE ACREENCIAS LABORALES. DERECHO AL MINIMO VITAL. SOLICITUD PAGO DE SALARIOS ATRASADOS. PROCEDENCIA EXCEPCIONAL DE TUTELA AUN CUANDO HAYA CESADO EL VINCULO LABORAL. MINIMO VITAL. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "JUEZ DE TUTELA",
+      "subtema": "Imposibilidad de notificación no obedece a desidia o falta de diligencia"
+    },
+    {
+      "tema": "DEBIDO PROCESO",
+      "subtema": "Notificación al demandado"
+    },
+    {
+      "tema": "DERECHO AL MINIMO VITAL DEL TRABAJADOR",
+      "subtema": "Pago oportuno de acreencias laborales"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Pago de salarios aún cuando ya no exista vinculación a la empresa"
+    },
+    {
+      "tema": "EMPLEADOR",
+      "subtema": "Falta de presupuesto o insolvencia para pago oportuno de salarios no es razón suficiente"
+    },
+    {
+      "tema": "JUEZ DE TUTELA",
+      "subtema": "Imposibilidad de notificación"
+    }
+  ]
+}

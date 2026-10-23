@@ -1,0 +1,45 @@
+{
+  "radicado": "T-803-01",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2001,
+  "fecha_creacion": "2001-07-31",
+  "magistrado_ponente": "Dra CLARA INES VARGAS HERNANDEZ",
+  "area": "Derecho de Familia y Derechos de Niños, Niñas y Adolescentes",
+  "tema": "DERECHO A LA EDUCACIÓN",
+  "subtema": "Retención certificado de estudios por no pago de pensión",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2001/T-803-01.htm",
+  "fecha_descarga": "2026-10-23T01:42:01.212795+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2001-07-31",
+  "fecha_publicacion": null,
+  "numero": "T-803/01",
+  "tipo_cc": "T",
+  "prov_id": "19524",
+  "tema_relatoria": "DERECHO A LA EDUCACION DE MENOR DE EDAD. EXPEDICION DE CERTIFICADOS DE NOTAS. MORA EN EL PAGO DE PENSIONES. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA EDUCACIÓN",
+      "subtema": "Retención certificado de estudios por no pago de pensión"
+    },
+    {
+      "tema": "ESTABLECIMIENTO EDUCATIVO",
+      "subtema": "Expedición certificado de estudios"
+    },
+    {
+      "tema": "DERECHO A LA EDUCACIÓN",
+      "subtema": "Expedición certificado de estudios"
+    },
+    {
+      "tema": "DERECHO A LA EDUCACIÓN",
+      "subtema": "Modulación de orden de no retención de notas"
+    }
+  ]
+}

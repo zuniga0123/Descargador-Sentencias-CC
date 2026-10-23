@@ -1,0 +1,42 @@
+{
+  "radicado": "T-773-01",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2001,
+  "fecha_creacion": "2001-05-24",
+  "magistrado_ponente": "Dra CLARA INES VARGAS HERNANDEZ",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "DEBIDO PROCESO DE INTERNO",
+  "subtema": "Vulneración",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 65 de 1993",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2001/T-773-01.htm",
+  "fecha_descarga": "2026-10-23T01:35:46.357162+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2001-05-24",
+  "fecha_publicacion": null,
+  "numero": "T-773/01",
+  "tipo_cc": "T",
+  "prov_id": "19206",
+  "tema_relatoria": "DERECHO AL DEBIDO PROCESO DE RECLUSOS. INVESTIGACION ADMINISTRATIVA DISCIPLINARIA. AISLAMIENTOS. FALTAS GRAVES. RECURSO DE REPOSICION. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DEBIDO PROCESO DE INTERNO",
+      "subtema": "Vulneración"
+    },
+    {
+      "tema": "FALTA DISCIPLINARIA GRAVE COMETIDA POR INTERNO",
+      "subtema": "Autoridad competente para resolver"
+    },
+    {
+      "tema": "VIA DE HECHO",
+      "subtema": "No se informó a internos que podían interponer recurso de reposición"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "radicado": "T-1160-01",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2001,
+  "fecha_creacion": "2001-11-01",
+  "magistrado_ponente": "Dr JAIME ARAUJO RENTERIA",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCIÓN DE TUTELA",
+  "subtema": "Procedencia excepcional pago de acreencias laborales",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2001/T-1160-01.htm",
+  "fecha_descarga": "2026-10-23T01:34:08.072831+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2001-11-01",
+  "fecha_publicacion": null,
+  "numero": "T-1160/01",
+  "tipo_cc": "T",
+  "prov_id": "19925",
+  "tema_relatoria": "DERECHO AL MINIMO VITAL DE DOCENTES. PAGO DE ACREENCIAS LABORALES. SALARIOS. PROCEDENCIA EXCEPCIONAL DE LA TUTELA. CONDUCTA OMISIVA. LLAMADO A PREVENCION. HECHO SUPERADO PARCIALMENTE. LEY 550 DE 1999. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Procedencia excepcional pago de acreencias laborales"
+    },
+    {
+      "tema": "PROCESO DE REESTRUCTURACION DE ENTIDADES",
+      "subtema": "Pago preferencial de acreencias laborales"
+    },
+    {
+      "tema": "ENTIDADES TERRITORIALES",
+      "subtema": "Acuerdos de reestructuración"
+    },
+    {
+      "tema": "DERECHO AL MINIMO VITAL DEL TRABAJADOR",
+      "subtema": "Pago oportuno de salarios"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Hecho superado"
+    },
+    {
+      "tema": "EMPLEADOR",
+      "subtema": "Situación económica o presupuestal no es óbice para desconocer obligaciones laborales"
+    }
+  ]
+}

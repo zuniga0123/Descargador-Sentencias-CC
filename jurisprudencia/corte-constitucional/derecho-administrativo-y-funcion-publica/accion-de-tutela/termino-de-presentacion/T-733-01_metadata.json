@@ -1,0 +1,61 @@
+{
+  "radicado": "T-733-01",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2001,
+  "fecha_creacion": "2001-07-10",
+  "magistrado_ponente": "Dr JAIME CÓRDOBA TRIVIÑO",
+  "area": "Derecho Administrativo y Función Pública",
+  "tema": "ACCIÓN DE TUTELA",
+  "subtema": "Término de presentación",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Decreto 34 de 1997",
+    "Decreto 1223 de 1993",
+    "Ley 27 de 1992",
+    "Ley 443 de 1998",
+    "Decreto 306 de 1992",
+    "Ley 50 de 1990",
+    "Decreto 2400 de 1968",
+    "Decreto 1950 de 1973"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2001/T-733-01.htm",
+  "fecha_descarga": "2026-10-23T01:38:53.821655+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2001-07-10",
+  "fecha_publicacion": null,
+  "numero": "T-733/01",
+  "tipo_cc": "T",
+  "prov_id": "19436",
+  "tema_relatoria": "DERECHO A LA IGUALDAD Y ASOCIACION SINDICAL. SUPRESION DE EMPLEOS DE CARRERA ADMINISTRATIVA. NO HAY PRUEBA DE PERSECUSION AL SINDICATO. CATEGORIAS DE LOS SERVIDORES PUBLICOS. NATURALEZA DEL EMPLEO Y EL RETIRO DEL SERVICIO. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Término de presentación"
+    },
+    {
+      "tema": "CARRERA ADMINISTRATIVA",
+      "subtema": "Supresión de cargos por reestructuración"
+    },
+    {
+      "tema": "SERVIDOR PUBLICO",
+      "subtema": "Categorías"
+    },
+    {
+      "tema": "ADMINISTRACION PUBLICA",
+      "subtema": "Fundamentos del proceso de reestructuración"
+    },
+    {
+      "tema": "DERECHO DE ASOCIACIÓN SINDICAL",
+      "subtema": "Desconocimiento por despido colectivo de trabajadores"
+    },
+    {
+      "tema": "SUPRESION DE CARGOS",
+      "subtema": "Indemnización incluye perjuicio irremediable"
+    }
+  ]
+}

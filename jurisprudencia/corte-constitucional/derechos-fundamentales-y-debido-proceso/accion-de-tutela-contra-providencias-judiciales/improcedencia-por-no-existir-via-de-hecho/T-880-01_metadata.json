@@ -1,0 +1,41 @@
+{
+  "radicado": "T-880-01",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2001,
+  "fecha_creacion": "2001-08-16",
+  "magistrado_ponente": "Dra CLARA INES VARGAS HERNANDEZ",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+  "subtema": "Improcedencia por no existir vía de hecho",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2001/T-880-01.htm",
+  "fecha_descarga": "2026-10-23T01:37:45.221510+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2001-08-16",
+  "fecha_publicacion": null,
+  "numero": "T-880/01",
+  "tipo_cc": "T",
+  "prov_id": "19611",
+  "tema_relatoria": "DERECHO A LA LIBERTAD Y DEBIDO PROCESO DE GERENTE DE COMPAÑÍA MINERA. CONCURRENCIA DE SANCIONES PENAL Y DISCIPLINARIA POR DESACATO. TUTELA CONTRA PROVIDENCIA JUDICIAL IMPROCEDENCIA. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Improcedencia por no existir vía de hecho"
+    },
+    {
+      "tema": "DESACATO DE TUTELA",
+      "subtema": "Concurrencia de sanciones disciplinaria y penal"
+    },
+    {
+      "tema": "DEBIDO PROCESO PENAL",
+      "subtema": "Actor no ejerció su defensa ni interpuso recursos"
+    }
+  ]
+}

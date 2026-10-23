@@ -1,0 +1,49 @@
+{
+  "radicado": "T-521-01",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2001,
+  "fecha_creacion": "2001-05-18",
+  "magistrado_ponente": "Dr MANUEL JOSE CEPEDA ESPINOSA",
+  "area": "Derecho a la Salud",
+  "tema": "DERECHO A LA SALUD DEL INTERNO",
+  "subtema": "Preservación por el Estado",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2001/T-521-01.htm",
+  "fecha_descarga": "2026-10-23T01:36:36.808260+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2001-05-18",
+  "fecha_publicacion": null,
+  "numero": "T-521/01",
+  "tipo_cc": "T",
+  "prov_id": "19174",
+  "tema_relatoria": "DERECHO A LA VIDA DIGNIDAD HUMANA SALUD. SITUACION DE INDEFENCION. RETARDO INJUSTIFICADO EN LA PRACTICA DE CIRUJIA POR SU CONDICION DE DETENIDO. OBLIGACION ESTATAL DE MANTENER LA SALUD DE LOS RECLUSOS. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA SALUD DEL INTERNO",
+      "subtema": "Preservación por el Estado"
+    },
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Fundamental por conexidad"
+    },
+    {
+      "tema": "ESTABLECIMIENTO CARCELARIO",
+      "subtema": "Atención médica adecuada, digna y oportuna de internos"
+    },
+    {
+      "tema": "DERECHO A LA SALUD DEL INTERNO",
+      "subtema": "Atención médica, adecuada, digna y oportuna"
+    },
+    {
+      "tema": "SISTEMA CARCELARIO",
+      "subtema": "Fallas administrativas en atención de salud de internos no excusa al Estado en el cumplimiento de sus deberes"
+    }
+  ]
+}

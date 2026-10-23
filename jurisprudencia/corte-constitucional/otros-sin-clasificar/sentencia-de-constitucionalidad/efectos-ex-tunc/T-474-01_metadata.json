@@ -1,0 +1,41 @@
+{
+  "radicado": "T-474-01",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2001,
+  "fecha_creacion": "2001-05-07",
+  "magistrado_ponente": "Dr MARCO GERARDO MONROY CABRA",
+  "area": "Otros - Sin clasificar",
+  "tema": "SENTENCIA DE CONSTITUCIONALIDAD",
+  "subtema": "Efectos Ex tunc",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 1161 de 1999",
+    "Decreto 2591 de 1991",
+    "Decreto 2351 de 1965",
+    "Ley 50 de 1990",
+    "Ley 489 de 1998"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2001/T-474-01.htm",
+  "fecha_descarga": "2026-10-23T01:43:20.683794+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2001-05-07",
+  "fecha_publicacion": null,
+  "numero": "T-474/01",
+  "tipo_cc": "T",
+  "prov_id": "19107",
+  "tema_relatoria": "DERECHO DE ASOCIACION SINDICAL. SUPRESION DE CARGOS DE PERSONAS AFILIADAS A SINDICATO POR REESTRUCTURACION. LEGITIMACION POR ACTIVA DE SINDICATO. DESPIDOS COLECTIVOS. REDUCCION DE PERSONAL EN ENTIDADES DONDE TENGA PARTICIPACION EL ESTADO. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "SENTENCIA DE CONSTITUCIONALIDAD",
+      "subtema": "Efectos Ex tunc"
+    },
+    {
+      "tema": "CORELCA",
+      "subtema": "Improcedencia de reintegro de trabajadores sindicalizados despedidos"
+    }
+  ]
+}

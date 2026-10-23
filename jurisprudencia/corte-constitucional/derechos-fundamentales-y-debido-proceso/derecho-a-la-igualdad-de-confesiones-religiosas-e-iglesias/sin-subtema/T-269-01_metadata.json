@@ -1,0 +1,60 @@
+{
+  "radicado": "T-269-01",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2001,
+  "fecha_creacion": "2001-03-09",
+  "magistrado_ponente": "Dr MANUEL JOSE CEPEDA ESPINOSA",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "DERECHO A LA IGUALDAD DE CONFESIONES RELIGIOSAS E IGLESIAS",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 20 de 1974",
+    "Ley 133 de 1994",
+    "Ley 99 de 1993",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2001/T-269-01.htm",
+  "fecha_descarga": "2026-10-23T01:22:52.188971+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2001-03-09",
+  "fecha_publicacion": null,
+  "numero": "T-269/01",
+  "tipo_cc": "T",
+  "prov_id": "18806",
+  "tema_relatoria": "DERECHO A LA IGUAL LIBERTAD DE CULTOS E IGLESIAS. EXENCION PAGO A LA SOBRETASA AMBIENTAL. DISCRIMINACION ENTRE LA IGLESIA CRISTIANA PENTECOSTAL DE COLOMBIA Y LA CATOLICA. AUTONOMIA DE LA IGLESIA. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA IGUALDAD DE CONFESIONES RELIGIOSAS E IGLESIAS",
+      "subtema": null
+    },
+    {
+      "tema": "DERECHO A LA IGUALDAD",
+      "subtema": "Estado debe dar igual tratamiento tributario a diferentes confesiones religiosas e iglesias"
+    },
+    {
+      "tema": "GOBIERNO",
+      "subtema": "Proyecto de ley para garantizar tratamiento igual a todas las iglesias en materia tributaria"
+    },
+    {
+      "tema": "IGLESIA CRISTIANA PENTECOSTAL",
+      "subtema": "No demostró requisitos para obtener exención tributaria"
+    },
+    {
+      "tema": "LEGISLADOR",
+      "subtema": "Debe establecer iguales condiciones a confesiones religiosas e iglesias para beneficio de exención tributaria"
+    },
+    {
+      "tema": "LEGITIMACIÓN POR ACTIVA EN TUTELA",
+      "subtema": "Ministro de iglesia cristiana pentecostal"
+    },
+    {
+      "tema": "SOBRETASA AMBIENTAL",
+      "subtema": "Naturaleza"
+    }
+  ]
+}

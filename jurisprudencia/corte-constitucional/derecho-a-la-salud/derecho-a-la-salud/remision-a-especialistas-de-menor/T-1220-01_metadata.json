@@ -1,0 +1,42 @@
+{
+  "radicado": "T-1220-01",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2001,
+  "fecha_creacion": "2001-11-22",
+  "magistrado_ponente": "Dr ALVARO TAFUR GALVIS",
+  "area": "Derecho a la Salud",
+  "tema": "DERECHO A LA SALUD",
+  "subtema": "Remisión a especialistas de menor",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Decreto 806 de 1998"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2001/T-1220-01.htm",
+  "fecha_descarga": "2026-10-23T01:32:41.343101+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2001-11-22",
+  "fecha_publicacion": null,
+  "numero": "T-1220/01",
+  "tipo_cc": "T",
+  "prov_id": "19993",
+  "tema_relatoria": "DERECHOS A LA SALUD VIDA DIGNIDAD HUMANA INTEGRIDAD FISICA Y SEGURIDAD SOCIAL DE MENOR DE EDAD AFILIADA AL REGIMEN SUBSIDIADO EN SALUD. SOLICITUD SERVICIOS MEDICOS Y SUMINISTRO MEDICAMENTOS NO INCLUIDOS EN EL POS. DEBER DE INFORMACION. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Remisión a especialistas de menor"
+    },
+    {
+      "tema": "ADMINISTRADORA DEL REGIMEN SUBSIDIADO",
+      "subtema": "Información al afiliado sobre posibilidad de atención en servicio no incluido en POS"
+    },
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Práctica de exámenes a menor"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "radicado": "T-728-01",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2001,
+  "fecha_creacion": "2001-07-05",
+  "magistrado_ponente": "Dr RODRIGO ESCOBAR GIL",
+  "area": "Derecho a la Salud",
+  "tema": "DERECHO A LA SALUD",
+  "subtema": "Retardo en programación de cirugía no urgente",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2001/T-728-01.htm",
+  "fecha_descarga": "2026-10-23T01:38:46.507720+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2001-07-05",
+  "fecha_publicacion": null,
+  "numero": "T-728/01",
+  "tipo_cc": "T",
+  "prov_id": "19426",
+  "tema_relatoria": "DERECHO A LA VIDA Y SALUD. RETARDO EN LA DETERMINACION DE FECHA Y REALIZACION PARA LA PRACTICA DE CIRUGIA DE TABIQUE. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Retardo en programación de cirugía no urgente"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Procedencia por retardo en programación de cirugía urgente"
+    },
+    {
+      "tema": "DERECHO A LA SALUD DEL INTERNO",
+      "subtema": "Práctica de cirugía"
+    },
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Suministro de fecha exacta sobre intervención quirúrgica"
+    }
+  ]
+}

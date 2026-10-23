@@ -1,0 +1,64 @@
+{
+  "radicado": "T-1032-01",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2001,
+  "fecha_creacion": "2001-09-27",
+  "magistrado_ponente": "Dr EDUARDO MONTEALEGRE LYNETT",
+  "area": "Derecho a la Salud",
+  "tema": "ENTIDAD PROMOTORA DE SALUD",
+  "subtema": "No imposición general semanas máximas de cotización por enfermedades de alto costo",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 100 de 1993",
+    "Ley 352 de 1997",
+    "Decreto 806 de 1998"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2001/T-1032-01.htm",
+  "fecha_descarga": "2026-10-23T01:46:54.847875+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2001-09-27",
+  "fecha_publicacion": null,
+  "numero": "T-1032/01",
+  "tipo_cc": "T",
+  "prov_id": "19772",
+  "tema_relatoria": "DERECHO A LA SALUD Y VIDA. REANUDACION TRATAMIENTOS DE QUIMIOTERAPIA Y RADIOTERAPIA. INAPLICACION DE PERIODOS MINIMOS DE COTIZACION EN CASO DE ENFERMEDAD CATASTROFICA. LEGITIMACION PARA ACTUAR. AGENCIA OFICIOSA. ACCION DE REPETICION. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ENTIDAD PROMOTORA DE SALUD",
+      "subtema": "No imposición general semanas máximas de cotización por enfermedades de alto costo"
+    },
+    {
+      "tema": "ENTIDAD PROMOTORA DE SALUD",
+      "subtema": "Régimen general que excluye preexistencias"
+    },
+    {
+      "tema": "ENTIDAD PROMOTORA DE SALUD",
+      "subtema": "Tratamiento de quimioterapia a persona de escasos recursos sin cumplir periodo mínimo de cotización"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Procedencia respecto a tratamiento para enfermo de cáncer"
+    },
+    {
+      "tema": "ENFERMEDADES CATASTROFICAS O RUINOSAS",
+      "subtema": "Tratamiento de quimioterapia a persona de escasos recursos sin cumplir periodo mínimo de cotización"
+    },
+    {
+      "tema": "ENTIDAD PROMOTORA DE SALUD",
+      "subtema": "Régimen excepcional por servicios de alto costo"
+    },
+    {
+      "tema": "ENFERMEDADES CATASTROFICAS O RUINOSAS",
+      "subtema": "Periodos mínimos de cotización"
+    },
+    {
+      "tema": "LEGITIMACIÓN POR ACTIVA EN TUTELA",
+      "subtema": "Cónyuge del afectado en salud"
+    }
+  ]
+}

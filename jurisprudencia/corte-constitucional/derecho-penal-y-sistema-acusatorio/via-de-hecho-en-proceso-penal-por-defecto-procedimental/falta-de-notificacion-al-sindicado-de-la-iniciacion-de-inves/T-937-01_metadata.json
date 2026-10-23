@@ -1,0 +1,52 @@
+{
+  "radicado": "T-937-01",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2001,
+  "fecha_creacion": "2001-08-30",
+  "magistrado_ponente": "Dr MANUEL JOSE CEPEDA ESPINOSA",
+  "area": "Derecho Penal y Sistema Acusatorio",
+  "tema": "VIA DE HECHO EN PROCESO PENAL POR DEFECTO PROCEDIMENTAL",
+  "subtema": "Falta de notificación al sindicado de la iniciación de investigación",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 81 de 1993",
+    "Ley 504 de 1999",
+    "Decreto 2591 de 1991",
+    "Decreto 2700 de 1991",
+    "Decreto 3664 de 1986",
+    "Decreto 2266 de 1991",
+    "Ley 600 de 2000",
+    "Ley 553 de 2000"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2001/T-937-01.htm",
+  "fecha_descarga": "2026-10-23T01:29:14.744068+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2001-08-30",
+  "fecha_publicacion": null,
+  "numero": "T-937/01",
+  "tipo_cc": "T",
+  "prov_id": "19668",
+  "tema_relatoria": "DEBIDO PROCESO. DERECHO DE DEFENSA ACCESO A LA ADMINISTRACIÓN DE JUSTICIA Y LIBERTAD. VIA DE HECHO. SUPUESTAS IRREGULARIDADES OCURRIDAS EN EL TRANSCURSO DEL PROCESO PENAL POR HOMICIDIO. MEDIO DE DEFENSA JUDICIAL. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "VIA DE HECHO EN PROCESO PENAL POR DEFECTO PROCEDIMENTAL",
+      "subtema": "Falta de notificación al sindicado de la iniciación de investigación"
+    },
+    {
+      "tema": "VIA DE HECHO EN PROCESO PENAL POR ERROR SUSTANTIVO",
+      "subtema": "Negativa de otorgar libertad provisional por vencimiento de términos por no haber sido calificado el mérito del sumario"
+    },
+    {
+      "tema": "VIA DE HECHO EN PROCESO PENAL POR DEFECTO ORGANICO",
+      "subtema": "Falta de competencia del Fiscal para conocer del delito"
+    },
+    {
+      "tema": "VIA DE HECHO EN PROCESO PENAL POR DEFECTO PROCEDIMENTAL",
+      "subtema": "Falta de traslado común a los procesados del recurso de apelación concedido"
+    }
+  ]
+}

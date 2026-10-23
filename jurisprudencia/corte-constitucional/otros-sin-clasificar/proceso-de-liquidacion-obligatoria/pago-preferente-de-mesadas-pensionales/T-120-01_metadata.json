@@ -1,0 +1,42 @@
+{
+  "radicado": "T-120-01",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2001,
+  "fecha_creacion": "2001-02-01",
+  "magistrado_ponente": "Dr CARLOS GAVIRIA DÍAZ",
+  "area": "Otros - Sin clasificar",
+  "tema": "PROCESO DE LIQUIDACION OBLIGATORIA",
+  "subtema": "Pago preferente de mesadas pensionales",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 100 de 1993"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2001/T-120-01.htm",
+  "fecha_descarga": "2026-10-23T01:32:15.847270+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2001-02-01",
+  "fecha_publicacion": null,
+  "numero": "T-120/01",
+  "tipo_cc": "T",
+  "prov_id": "18607",
+  "tema_relatoria": "DERECHOS A LA VIDA SALUD DIGNIDAD PERSONAL Y MINIMO VITAL DE PERSONAS DE LA TERCERA EDAD. PAGO ACREENCIAS LABORALES. MESADAS PENSIONALES. EMPRESA EN LIQUIDACION. INDEXACION. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "PROCESO DE LIQUIDACION OBLIGATORIA",
+      "subtema": "Pago preferente de mesadas pensionales"
+    },
+    {
+      "tema": "DERECHO AL MINIMO VITAL DEL PENSIONADO",
+      "subtema": "Pago oportuno de mesadas"
+    },
+    {
+      "tema": "PERSONA DE LA TERCERA EDAD",
+      "subtema": "Vulneración de derechos fundamentales por mora en el pago de mesadas pensionales"
+    }
+  ]
+}

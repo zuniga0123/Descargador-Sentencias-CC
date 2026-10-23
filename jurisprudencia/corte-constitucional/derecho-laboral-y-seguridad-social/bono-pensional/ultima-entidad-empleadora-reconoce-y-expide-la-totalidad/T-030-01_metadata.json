@@ -1,0 +1,66 @@
+{
+  "radicado": "T-030-01",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2001,
+  "fecha_creacion": "2001-01-16",
+  "magistrado_ponente": "Dr ALEJANDRO MARTINEZ CABALLERO",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "BONO PENSIONAL",
+  "subtema": "Ultima entidad empleadora reconoce y expide la totalidad",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 1296 de 1994",
+    "Decreto 2591 de 1991",
+    "Decreto 1513 de 1998",
+    "Decreto 1748 de 1995",
+    "Decreto 1474 de 1997",
+    "Ley 100 de 1993"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2001/T-030-01.htm",
+  "fecha_descarga": "2026-10-23T01:27:44.831986+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2001-01-16",
+  "fecha_publicacion": null,
+  "numero": "T-030/01",
+  "tipo_cc": "T",
+  "prov_id": "18447",
+  "tema_relatoria": "DERECHO A LA PENSION DE VEJEZ. ISS. SOLICITUD EMISION BONO PENSIONAL. REGIMEN DE TRANSICION. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "BONO PENSIONAL",
+      "subtema": "Ultima entidad empleadora reconoce y expide la totalidad"
+    },
+    {
+      "tema": "BONO PENSIONAL",
+      "subtema": "Procedencia de tutela para reclamar la remisión"
+    },
+    {
+      "tema": "PENSION DE JUBILACION",
+      "subtema": "Tiempos compartidos"
+    },
+    {
+      "tema": "SEGURO SOCIAL",
+      "subtema": "Pago de pensión una vez sea expedido el bono pensional"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Debe instaurarse contra el responsable de la demora en el trámite de la pensión"
+    },
+    {
+      "tema": "DERECHOS FUNDAMENTALES",
+      "subtema": "Vulneración cuando demora en emisión del bono impide acceso a pensión de jubilación"
+    },
+    {
+      "tema": "ENTIDADES TERRITORIALES",
+      "subtema": "Pago de pensión cuando no pueda hacerlo el ISS por no expedición del bono pensional"
+    },
+    {
+      "tema": "SEGURO SOCIAL",
+      "subtema": "Exigencia de certificación sobre existencia de recursos para pago del bono pensional"
+    }
+  ]
+}

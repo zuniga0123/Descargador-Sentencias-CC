@@ -1,0 +1,55 @@
+{
+  "radicado": "T-212-01",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2001,
+  "fecha_creacion": "2001-02-22",
+  "magistrado_ponente": "Dr CARLOS GAVIRIA DÍAZ",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "PRESUNCION DE INOCENCIA EN PROCESO DE EXTINCION DE DOMINIO",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 333 de 1996",
+    "Ley 365 de 1997",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2001/T-212-01.htm",
+  "fecha_descarga": "2026-10-23T01:44:32.835199+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2001-02-22",
+  "fecha_publicacion": null,
+  "numero": "T-212/01",
+  "tipo_cc": "T",
+  "prov_id": "18731",
+  "tema_relatoria": "DEBIDO PROCESO. ACCESO A LA ADMINISTRACION DE JUSTICIA. GARANTIA DEL PRINCIPIO \"NON BIS IN IDEM\". COSA JUZGADA. EXTINCION DEL DOMINIO Y LAVADO DE ACTIVOS. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "PRESUNCION DE INOCENCIA EN PROCESO DE EXTINCION DE DOMINIO",
+      "subtema": null
+    },
+    {
+      "tema": "TERCERO DE BUENA FE EN PROCESO DE EXTINCION DE DOMINIO",
+      "subtema": null
+    },
+    {
+      "tema": "MEDIO DE DEFENSA JUDICIAL INEFICAZ",
+      "subtema": "Procedencia de tutela"
+    },
+    {
+      "tema": "ACCIÓN DE EXTINCION DE DOMINIO",
+      "subtema": "Autonomía"
+    },
+    {
+      "tema": "EXTINCION DE DOMINIO",
+      "subtema": "Definición"
+    },
+    {
+      "tema": "DEBIDO PROCESO",
+      "subtema": "Vulneración por continuación proceso de extinción de dominio una vez precluido proceso penal"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "radicado": "T-598-01",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2001,
+  "fecha_creacion": "2001-06-07",
+  "magistrado_ponente": "Dra CLARA INES VARGAS HERNANDEZ",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "SISBEN",
+  "subtema": "Atención en salud de niño",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 100 de 1993",
+    "Ley 270 de 1996"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2001/T-598-01.htm",
+  "fecha_descarga": "2026-10-23T01:41:32.190687+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2001-06-07",
+  "fecha_publicacion": null,
+  "numero": "T-598/01",
+  "tipo_cc": "T",
+  "prov_id": "19274",
+  "tema_relatoria": "DERECHO A LA VIDA SALUD SEGURIDAD SOCIAL Y DERECHOS DE LOS NIÑOS. COMPORTAMIENTO INHUMANO AL NO TOMAR UN TAC AL MENOR POR NO ENCONTRARSE HOSPITALIZADO. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "SISBEN",
+      "subtema": "Atención en salud de niño"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Cumplimiento de término judicial para fallar"
+    },
+    {
+      "tema": "DIRECCION SECCIONAL DE SALUD",
+      "subtema": "Orden para realizar TAC a niño"
+    }
+  ]
+}

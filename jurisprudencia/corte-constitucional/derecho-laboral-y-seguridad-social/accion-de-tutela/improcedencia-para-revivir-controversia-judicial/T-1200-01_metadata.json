@@ -1,0 +1,74 @@
+{
+  "radicado": "T-1200-01",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2001,
+  "fecha_creacion": "2001-11-16",
+  "magistrado_ponente": "Dr JAIME CÓRDOBA TRIVIÑO",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "ACCIÓN DE TUTELA",
+  "subtema": "Improcedencia para revivir controversia judicial",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 27 de 1976",
+    "Ley 50 de 1990",
+    "Ley 5 de 1992",
+    "Ley 23 de 1981",
+    "Decreto 2351 de 1965"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2001/T-1200-01.htm",
+  "fecha_descarga": "2026-10-23T01:32:19.555474+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2001-11-16",
+  "fecha_publicacion": null,
+  "numero": "T-1200/01",
+  "tipo_cc": "T",
+  "prov_id": "19971",
+  "tema_relatoria": "DERECHO A LA LIBERTAD DE ASOCIACION SINDICAL. SOLICITUD REAJUSTE SALARIAL DE TRABAJADORES SINDICALIZADOS. ESTADO DE SUBORDINACION. RESPONSABILIDAD DE LOS ACCIONANTES EN EL USO DE LOS MECANISMOS JURIDICOS. PROCEDIBILIDAD DE ACCIONES JUDICIALES. INVESTIGACI",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Improcedencia para revivir controversia judicial"
+    },
+    {
+      "tema": "DERECHO DE ASOCIACIÓN SINDICAL",
+      "subtema": "Protección"
+    },
+    {
+      "tema": "DERECHO A CONSTITUIR UN SINDICATO",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "TRABAJADOR NO SINDICALIZADO",
+      "subtema": "Privilegios"
+    },
+    {
+      "tema": "CONFLICTO LABORAL COLECTIVO",
+      "subtema": "Casos en que procede la tutela"
+    },
+    {
+      "tema": "DERECHO DE ASOCIACIÓN SINDICAL",
+      "subtema": "Desconocimiento por despido colectivo de trabajadores"
+    },
+    {
+      "tema": "EMPLEADOR",
+      "subtema": "Abuso de la posición de preeminencia"
+    },
+    {
+      "tema": "DERECHO A LA NEGOCIACION COLECTIVA",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "JURISDICCION ORDINARIA",
+      "subtema": "Solicitud reconocimiento de derechos laborales"
+    },
+    {
+      "tema": "TRABAJADOR SINDICALIZADO",
+      "subtema": "Discriminación"
+    }
+  ]
+}

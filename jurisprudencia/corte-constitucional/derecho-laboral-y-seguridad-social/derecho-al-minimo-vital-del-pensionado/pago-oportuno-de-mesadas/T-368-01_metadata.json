@@ -1,0 +1,43 @@
+{
+  "radicado": "T-368-01",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2001,
+  "fecha_creacion": "2001-04-04",
+  "magistrado_ponente": "Dr MARCO GERARDO MONROY CABRA",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "DERECHO AL MINIMO VITAL DEL PENSIONADO",
+  "subtema": "Pago oportuno de mesadas",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Decreto 3088 de 1997",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2001/T-368-01.htm",
+  "fecha_descarga": "2026-10-23T01:25:31.329977+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2001-04-04",
+  "fecha_publicacion": null,
+  "numero": "T-368/01",
+  "tipo_cc": "T",
+  "prov_id": "18964",
+  "tema_relatoria": "DERECHOS AL TRABAJO MINIMO VITAL Y SEGURIDAD SOCIAL. PAGO DE ACREENCIAS LABORALES. MESADAS PENSIONALES. CARGA DE LA PRUEBA. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO AL MINIMO VITAL DEL PENSIONADO",
+      "subtema": "Pago oportuno de mesadas"
+    },
+    {
+      "tema": "DERECHO AL MINIMO VITAL",
+      "subtema": "Prueba de la amenaza"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Procedencia excepcional pago de mesadas pensionales"
+    }
+  ]
+}

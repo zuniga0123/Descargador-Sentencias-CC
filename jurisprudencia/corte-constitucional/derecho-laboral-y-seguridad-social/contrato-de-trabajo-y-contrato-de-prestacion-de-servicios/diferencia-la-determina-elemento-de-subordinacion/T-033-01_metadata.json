@@ -1,0 +1,54 @@
+{
+  "radicado": "T-033-01",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2001,
+  "fecha_creacion": "2001-01-19",
+  "magistrado_ponente": "Dr ALEJANDRO MARTÍNEZ CABALLERO",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "CONTRATO DE TRABAJO Y CONTRATO DE PRESTACION DE SERVICIOS",
+  "subtema": "Diferencia la determina elemento de subordinación",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 30 de 1992",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2001/T-033-01.htm",
+  "fecha_descarga": "2026-10-23T01:27:48.436414+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2001-01-19",
+  "fecha_publicacion": null,
+  "numero": "T-033/01",
+  "tipo_cc": "T",
+  "prov_id": "18488",
+  "tema_relatoria": "DERECHO AL TRABAJO Y MINIMO VITAL. PAGO DE ACREENCIAS LABORALES. SALARIOS. CONTRATO DE PRESTACION DE SERVICIOS. RELACION LABORAL Y ACTIVIDAD DOCENTE. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "CONTRATO DE TRABAJO Y CONTRATO DE PRESTACION DE SERVICIOS",
+      "subtema": "Diferencia la determina elemento de subordinación"
+    },
+    {
+      "tema": "CONTRATO DE PRESTACION DE SERVICIOS DE DOCENTE",
+      "subtema": "Subordinación"
+    },
+    {
+      "tema": "PRINCIPIO DE PRIMACIA DE LA REALIDAD SOBRE FORMALIDADES ESTABLECIDAS POR SUJETOS DE RELACIONES CONTRACTUALES",
+      "subtema": null
+    },
+    {
+      "tema": "DERECHO AL MINIMO VITAL",
+      "subtema": "Prueba de la amenaza"
+    },
+    {
+      "tema": "DERECHO AL PAGO OPORTUNO DEL SALARIO",
+      "subtema": "Fundamental"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Procedencia excepcional pago de salarios"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "radicado": "T-601-01",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2001,
+  "fecha_creacion": "2001-06-07",
+  "magistrado_ponente": "Dra CLARA INES VARGAS HERNANDEZ",
+  "area": "Derecho Administrativo y Función Pública",
+  "tema": "TRABAJADORES DEL INSTITUTO DISTRITAL DE CULTURA Y TURISMO",
+  "subtema": "Pago de indemnización por supresión del cargo de carrera administrativa",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 1421 de 1993",
+    "Decreto 1223 de 1993",
+    "Ley 27 de 1992",
+    "Decreto 2591 de 1991",
+    "Ley 50 de 1990",
+    "Decreto Ley 2351 de 1965",
+    "Decreto 2351 de 1965",
+    "Ley 26 de 1976",
+    "Ley 27 de 1976",
+    "Ley 443 de 1998"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2001/T-601-01.htm",
+  "fecha_descarga": "2026-10-23T01:41:35.877531+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2001-06-07",
+  "fecha_publicacion": null,
+  "numero": "T-601/01",
+  "tipo_cc": "T",
+  "prov_id": "19277",
+  "tema_relatoria": "DERECHO A LIBRE ASOCIACION SINDICAL. INEXISTENCIA DE PRUEBAS CONTUNDENTES QUE DEMUESTREN PRESIONES INDEBIDAS A LOS TRABAJADORES. TERMINOS PARA INTERPONER TUTELA. INDEMNIZACION A EMPLEADOS DE CARRERA ADMINISTRATIVA POR SUPRESION DE CARGO. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "TRABAJADORES DEL INSTITUTO DISTRITAL DE CULTURA Y TURISMO",
+      "subtema": "Pago de indemnización por supresión del cargo de carrera administrativa"
+    },
+    {
+      "tema": "DERECHO DE ASOCIACIÓN SINDICAL",
+      "subtema": "No vulneración por libre retiro de sindicalizados"
+    }
+  ]
+}

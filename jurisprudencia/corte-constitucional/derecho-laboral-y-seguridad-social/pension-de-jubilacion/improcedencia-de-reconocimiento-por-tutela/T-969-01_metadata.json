@@ -1,0 +1,44 @@
+{
+  "radicado": "T-969-01",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2001,
+  "fecha_creacion": "2001-09-10",
+  "magistrado_ponente": "Dr JAIME ARAUJO RENTERIA",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "PENSION DE JUBILACION",
+  "subtema": "Improcedencia de reconocimiento por tutela",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 100 de 1993",
+    "Ley 33 de 1985",
+    "Decreto 1382 de 2000"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2001/T-969-01.htm",
+  "fecha_descarga": "2026-10-23T01:30:05.740234+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2001-09-10",
+  "fecha_publicacion": null,
+  "numero": "T-969/01",
+  "tipo_cc": "T",
+  "prov_id": "19706",
+  "tema_relatoria": "DERECHOS A LA VIDA SALUD SEGURIDAD SOCIAL Y MINIMO VITAL. SOLICITUD RECONOCIMIENTO DE LA PENSION DE JUBILACION SIN CUMPLIR LOS REQUISITOS DE LEY. EXISTENCIA DE OTRO MEDIO DE DEFENSA JUDICIAL. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "PENSION DE JUBILACION",
+      "subtema": "Improcedencia de reconocimiento por tutela"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Improcedencia respecto a expectativa sobre derecho pensional"
+    },
+    {
+      "tema": "DERECHO DE PETICIÓN",
+      "subtema": "Resolución sobre reconocimiento de pensión de jubilación"
+    }
+  ]
+}

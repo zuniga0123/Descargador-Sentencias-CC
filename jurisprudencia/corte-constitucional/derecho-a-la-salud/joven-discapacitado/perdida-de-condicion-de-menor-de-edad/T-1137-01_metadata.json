@@ -1,0 +1,44 @@
+{
+  "radicado": "T-1137-01",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2001,
+  "fecha_creacion": "2001-10-25",
+  "magistrado_ponente": "Dra CLARA INÉS VARGAS HERNÁNDEZ",
+  "area": "Derecho a la Salud",
+  "tema": "JOVEN DISCAPACITADO",
+  "subtema": "Pérdida de condición de menor de edad",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 10 de 1993",
+    "Decreto 1137 de 1999",
+    "Decreto 2591 de 1991",
+    "Ley 12 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2001/T-1137-01.htm",
+  "fecha_descarga": "2026-10-23T01:35:20.856352+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2001-10-25",
+  "fecha_publicacion": null,
+  "numero": "T-1137/01",
+  "tipo_cc": "T",
+  "prov_id": "19897",
+  "tema_relatoria": "DERECHO A LA SALUD DE MENOR DISCAPACITADO CON SINDROME DE DAWN QUE CUMPLIO LA MAYORIA DE EDAD. SOLICITUD CONTINUACION ATENCION MEDICA. ACCESO AL REGIMEN SUBSIDIADO DE SALUD. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "JOVEN DISCAPACITADO",
+      "subtema": "Pérdida de condición de menor de edad"
+    },
+    {
+      "tema": "JOVEN DISCAPACITADO",
+      "subtema": "Síndrome de Dawn"
+    },
+    {
+      "tema": "SISBEN",
+      "subtema": "Atención en salud a joven con síndrome de Dawn"
+    }
+  ]
+}

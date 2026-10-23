@@ -1,0 +1,45 @@
+{
+  "radicado": "T-905-01",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2001,
+  "fecha_creacion": "2001-08-27",
+  "magistrado_ponente": "Dr JAIME CÓRDOBA TRIVIÑO",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "DERECHO AL MINIMO VITAL DEL TRABAJADOR",
+  "subtema": "Pago de salarios actuales y futuros",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2001/T-905-01.htm",
+  "fecha_descarga": "2026-10-23T01:37:56.045888+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2001-08-27",
+  "fecha_publicacion": null,
+  "numero": "T-905/01",
+  "tipo_cc": "T",
+  "prov_id": "19633",
+  "tema_relatoria": "DERECHO AL MINIMO VITAL DEL TRABAJADOR. NO PAGO DE SALARIOS. TRAMITE DE DISPONIBILIDAD PRESUPUESTAL. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO AL MINIMO VITAL DEL TRABAJADOR",
+      "subtema": "Pago de salarios actuales y futuros"
+    },
+    {
+      "tema": "SALARIO",
+      "subtema": "Pago previa disponibilidad presupuestal o inicio de diligencias para su consecución"
+    },
+    {
+      "tema": "DERECHO AL MINIMO VITAL DEL TRABAJADOR",
+      "subtema": "Pago oportuno de salarios"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Procedencia excepcional pago de salarios"
+    }
+  ]
+}

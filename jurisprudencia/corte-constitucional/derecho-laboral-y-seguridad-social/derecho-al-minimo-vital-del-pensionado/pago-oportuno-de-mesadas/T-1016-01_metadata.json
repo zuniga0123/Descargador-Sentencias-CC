@@ -1,0 +1,42 @@
+{
+  "radicado": "T-1016-01",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2001,
+  "fecha_creacion": "2001-09-20",
+  "magistrado_ponente": "Dr EDUARDO MONTEALEGRE LYNETT",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "DERECHO AL MINIMO VITAL DEL PENSIONADO",
+  "subtema": "Pago oportuno de mesadas",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Decreto 3061 de 1997"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2001/T-1016-01.htm",
+  "fecha_descarga": "2026-10-23T01:46:33.063964+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2001-09-20",
+  "fecha_publicacion": null,
+  "numero": "T-1016/01",
+  "tipo_cc": "T",
+  "prov_id": "19754",
+  "tema_relatoria": "DERECHO A LA VIDA Y MINIMO VITAL. PAGO OPORTUNO DE ACREENCIAS LABORALES. MESADAS PENSIONALES. FUNDACION SAN JUAN DE DIOS. DEFICIT PRESUPUESTAL. DESACATO. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO AL MINIMO VITAL DEL PENSIONADO",
+      "subtema": "Pago oportuno de mesadas"
+    },
+    {
+      "tema": "DERECHO A LA PENSION DE JUBILACION",
+      "subtema": "Trámite administrativo o presupuestal no impide pago oportuno de mesadas"
+    },
+    {
+      "tema": "FUNDACION SAN JUAN DE DIOS",
+      "subtema": "Pago de mesadas pensionales"
+    }
+  ]
+}

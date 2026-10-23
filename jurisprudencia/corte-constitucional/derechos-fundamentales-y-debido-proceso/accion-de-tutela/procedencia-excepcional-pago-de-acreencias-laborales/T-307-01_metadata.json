@@ -1,0 +1,45 @@
+{
+  "radicado": "T-307-01",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2001,
+  "fecha_creacion": "2001-02-22",
+  "magistrado_ponente": "Dr ALFREDO BELTRÁN SIERRA",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCIÓN DE TUTELA",
+  "subtema": "Procedencia excepcional pago de acreencias laborales",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2001/T-307-01.htm",
+  "fecha_descarga": "2026-10-23T01:26:54.647727+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2001-02-22",
+  "fecha_publicacion": null,
+  "numero": "T-307/01",
+  "tipo_cc": "T",
+  "prov_id": "18748",
+  "tema_relatoria": "DERECHO AL MINIMO VITAL DE PENSIONADOS DE LA FUNDACION SAN JUAN DE DIOS. PAGO DE ACREENCIAS LABORALES. MESADAS PENSIONALES. DEFICIT PRESUPUESTAL EN EL SECTOR SALUD. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Procedencia excepcional pago de acreencias laborales"
+    },
+    {
+      "tema": "DERECHO AL MINIMO VITAL DEL PENSIONADO",
+      "subtema": "Pago de mesadas atrasadas y futuras"
+    },
+    {
+      "tema": "DERECHO AL MINIMO VITAL DEL PENSIONADO",
+      "subtema": "Pago oportuno de mesadas"
+    },
+    {
+      "tema": "EMPLEADOR",
+      "subtema": "Situación económica o presupuestal no es óbice para desconocer pago de mesadas pensionales"
+    }
+  ]
+}

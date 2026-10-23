@@ -1,0 +1,50 @@
+{
+  "radicado": "T-604-01",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2001,
+  "fecha_creacion": "2001-06-07",
+  "magistrado_ponente": "Dr EDUARDO MONTEALEGRE LYNETT",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "CONTRATO DE CONCURRENCIA",
+  "subtema": "Creado para pagar pasivo prestacional de entidades de salud",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 100 de 1993",
+    "Decreto 3061 de 1997",
+    "Decreto 530 de 1994",
+    "Decreto 350 de 1994",
+    "Ley 60 de 1993"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2001/T-604-01.htm",
+  "fecha_descarga": "2026-10-23T01:41:46.812813+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2001-06-07",
+  "fecha_publicacion": null,
+  "numero": "T-604/01",
+  "tipo_cc": "T",
+  "prov_id": "19280",
+  "tema_relatoria": "DERECHO A LA PENSION Y SOLICITUD PAGO DE MESADAS PENSIONALES ATRASADAS. LOS PENSIONADOS NO PUEDEN ASUMIR LAS CONSECUENCIAS DE LOS MANEJOS ADMINISTRATIVOS Y FINANCIEROS DE LA ENTIDAD OBLIGADA A PAGAR LA MESADA PENSIONAL. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "CONTRATO DE CONCURRENCIA",
+      "subtema": "Creado para pagar pasivo prestacional de entidades de salud"
+    },
+    {
+      "tema": "DERECHO AL MINIMO VITAL DEL PENSIONADO",
+      "subtema": "Pago oportuno de mesadas"
+    },
+    {
+      "tema": "PERJUICIO IRREMEDIABLE",
+      "subtema": "No pago oportuno de mesadas pensionales por iliquidez de entidad de salud"
+    },
+    {
+      "tema": "DERECHO A LA PENSION DE JUBILACION",
+      "subtema": "Trámite administrativo o presupuestal no impide pago oportuno de mesadas"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "radicado": "T-1229-01",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2001,
+  "fecha_creacion": "2001-11-22",
+  "magistrado_ponente": "Dr MARCO GERARDO MONROY CABRA",
+  "area": "Derecho de Familia y Derechos de Niños, Niñas y Adolescentes",
+  "tema": "DEBIDO PROCESO EN RECONOCIMIENTO DE HIJO EXTRAMATRIMONIAL",
+  "subtema": "Violación por pretermitir trámite legal",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Decreto 1260 de 1970",
+    "Ley 45 de 1936",
+    "Ley 75 de 1968",
+    "Ley 153 de 1887"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2001/T-1229-01.htm",
+  "fecha_descarga": "2026-10-23T01:30:41.994533+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2001-11-22",
+  "fecha_publicacion": null,
+  "numero": "T-1229/01",
+  "tipo_cc": "T",
+  "prov_id": "20002",
+  "tema_relatoria": "DERECHO AL DEBIDO PROCESO A TENER UN NOMBRE Y CONOCER SU FILIACION. RECONOCIMIENTO DE LA PATERNIDAD DE HIJA EXTRAMATRIMONIAL. FALTA DE NOTIFICACION. ACEPTACION O REPUDIO. DEFINICION DE LA PERSONALIDAD JURIDICA. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DEBIDO PROCESO EN RECONOCIMIENTO DE HIJO EXTRAMATRIMONIAL",
+      "subtema": "Violación por pretermitir trámite legal"
+    },
+    {
+      "tema": "DERECHO AL NOMBRE",
+      "subtema": "Contenido"
+    },
+    {
+      "tema": "HIJO EXTRAMATRIMONIAL",
+      "subtema": "Reconocimiento puede ser repudiado o aceptado"
+    },
+    {
+      "tema": "DERECHO A LA FILIACIÓN",
+      "subtema": "Atributo de la personalidad"
+    },
+    {
+      "tema": "HIJO EXTRAMATRIMONIAL",
+      "subtema": "Reconocimiento debe ser notificado"
+    },
+    {
+      "tema": "NOTARIO",
+      "subtema": "Obligación de notificar reconocimiento de hijo extramatrimonial"
+    },
+    {
+      "tema": "REGISTRO CIVIL",
+      "subtema": "Error al ordenar cambio de nombre"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "radicado": "T-282-01",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2001,
+  "fecha_creacion": "2001-03-15",
+  "magistrado_ponente": "Dr ALFREDO BELTRÁN SIERRA",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "DEBIDO PROCESO DE RESPONSABILIDAD FISCAL",
+  "subtema": "Notificación",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2001/T-282-01.htm",
+  "fecha_descarga": "2026-10-23T01:23:13.622204+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2001-03-15",
+  "fecha_publicacion": null,
+  "numero": "T-282/01",
+  "tipo_cc": "T",
+  "prov_id": "18832",
+  "tema_relatoria": "DERECHOS AL BUEN NOMBRE DEFENSA Y DEBIDO PROCESO. SOLICITUD NULIDAD DECISION PROFERIDA EN PROCESO DE RESPONSABILIDAD FISCAL. EJECUCION Y LIQUIDACION DE CREDITO EN PROCESO DE JURISDICCION COACTIVA. MANEJO DINEROS PUBLICOS. PAGO DE LO NO DEBIDO. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DEBIDO PROCESO DE RESPONSABILIDAD FISCAL",
+      "subtema": "Notificación"
+    },
+    {
+      "tema": "CONTROL FISCAL",
+      "subtema": "Ejercicio"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Improcedencia para revivir términos o recursos procesales"
+    },
+    {
+      "tema": "DEBIDO PROCESO EN JURISDICCION COACTIVA",
+      "subtema": "Notificación"
+    },
+    {
+      "tema": "PROCESO DE JURISDICCION COACTIVA",
+      "subtema": "Cobro de deudas fiscales"
+    }
+  ]
+}

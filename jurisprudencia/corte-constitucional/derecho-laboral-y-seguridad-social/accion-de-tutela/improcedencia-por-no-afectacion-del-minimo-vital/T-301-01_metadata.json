@@ -1,0 +1,53 @@
+{
+  "radicado": "T-301-01",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2001,
+  "fecha_creacion": "2001-03-21",
+  "magistrado_ponente": "Dra CLARA INÉS VARGAS HERNÁNDEZ",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "ACCIÓN DE TUTELA",
+  "subtema": "Improcedencia por no afectación del mínimo vital",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Decreto 1 de 1984",
+    "Ley 58 de 1982",
+    "Ley 142 de 1994",
+    "Ley 489 de 1998"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2001/T-301-01.htm",
+  "fecha_descarga": "2026-10-23T01:26:47.401316+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2001-03-21",
+  "fecha_publicacion": null,
+  "numero": "T-301/01",
+  "tipo_cc": "T",
+  "prov_id": "18854",
+  "tema_relatoria": "DERECHOS A LA VIDA SALUD DEBIDO PROCESO Y MINIMO VITAL. SOLICITUD REINICIACION PAGO COMPLETO DE LA PENSION CONVENCIONAL. DISMINUCION. PENSION COMPARTIDA. ISS. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Improcedencia por no afectación del mínimo vital"
+    },
+    {
+      "tema": "MEDIO DE DEFENSA JUDICIAL",
+      "subtema": "Controversia sobre disminución en el monto de la pensión"
+    },
+    {
+      "tema": "DERECHO AL MINIMO VITAL",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "PENSION DE JUBILACION",
+      "subtema": "Incompatible con pensión de vejez"
+    },
+    {
+      "tema": "PRINCIPIO DE UNIDAD Y UNIVERSALIDAD DE LAS PRESTACIONES",
+      "subtema": "Pensionado no puede pretender duplicidad o acumulación de beneficios"
+    }
+  ]
+}

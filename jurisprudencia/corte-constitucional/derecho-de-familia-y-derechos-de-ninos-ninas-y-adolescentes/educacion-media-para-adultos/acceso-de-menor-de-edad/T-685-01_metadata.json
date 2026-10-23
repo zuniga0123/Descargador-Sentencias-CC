@@ -1,0 +1,50 @@
+{
+  "radicado": "T-685-01",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2001,
+  "fecha_creacion": "2001-06-29",
+  "magistrado_ponente": "Dr MANUEL JOSÉ CEPEDA ESPINOSA",
+  "area": "Derecho de Familia y Derechos de Niños, Niñas y Adolescentes",
+  "tema": "EDUCACION MEDIA PARA ADULTOS",
+  "subtema": "Acceso de menor de edad",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 907 de 1996",
+    "Decreto 1860 de 1994",
+    "Decreto 3011 de 1997",
+    "Decreto 2225 de 1993",
+    "Decreto 2591 de 1991",
+    "Ley 115 de 1994"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2001/T-685-01.htm",
+  "fecha_descarga": "2026-10-23T01:40:17.005030+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2001-06-29",
+  "fecha_publicacion": null,
+  "numero": "T-685/01",
+  "tipo_cc": "T",
+  "prov_id": "19385",
+  "tema_relatoria": "DERECHO A LA EDUCACION E IGUALDAD. EDUCACION MEDIA PARA ADULTOS. NEGATIVA DE CUPO POR SER MENOR DE EDAD. NEGARLE A UNA PERSONA SU EDUCACION CONSTITUYE TRATO DISCRIMINATORIO. TEST DE RAZONABILIDAD EN EDUCACION. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "EDUCACION MEDIA PARA ADULTOS",
+      "subtema": "Acceso de menor de edad"
+    },
+    {
+      "tema": "TEST DE RAZONABILIDAD INTERMEDIO EN EDUCACION",
+      "subtema": "Imposibilidad de defender Decreto Reglamentario expedido por el Gobierno"
+    },
+    {
+      "tema": "TEST DE RAZONABILIDAD INTERMEDIO EN EDUCACION",
+      "subtema": "Aplicación"
+    },
+    {
+      "tema": "TEST DE RAZONABILIDAD INTERMEDIO EN EDUCACION",
+      "subtema": "Pasos a seguir en caso concreto"
+    }
+  ]
+}

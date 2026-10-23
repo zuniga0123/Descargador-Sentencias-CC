@@ -1,0 +1,42 @@
+{
+  "radicado": "T-797-01",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2001,
+  "fecha_creacion": "2001-07-31",
+  "magistrado_ponente": "Dr JAIME ARAUJO RENTERIA",
+  "area": "Derecho a la Salud",
+  "tema": "ACCION DE REPETICION CONTRA ENTIDAD PROMOTORA DE SALUD",
+  "subtema": "Suministro de tratamiento de alto costo sin cumplir periodo mínimo de cotización",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 100 de 1993"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2001/T-797-01.htm",
+  "fecha_descarga": "2026-10-23T01:36:25.896591+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2001-07-31",
+  "fecha_publicacion": null,
+  "numero": "T-797/01",
+  "tipo_cc": "T",
+  "prov_id": "19519",
+  "tema_relatoria": "DERECHO A LA SALUD Y VIDA. SUMINISTRO TRATAMIENTO DE DIALISIS. ENFERMEDAD RUINOSA O CATASTROFICA. PERIODO MINIMO DE COTIZACION. ACCION DE REPETICION. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCION DE REPETICION CONTRA ENTIDAD PROMOTORA DE SALUD",
+      "subtema": "Suministro de tratamiento de alto costo sin cumplir periodo mínimo de cotización"
+    },
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Tratamiento de diálisis"
+    },
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Periodo mínimo de cotización por enfermedad de alto costo"
+    }
+  ]
+}

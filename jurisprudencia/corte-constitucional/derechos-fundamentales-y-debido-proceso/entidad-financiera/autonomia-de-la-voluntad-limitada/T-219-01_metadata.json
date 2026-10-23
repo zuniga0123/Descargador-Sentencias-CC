@@ -1,0 +1,66 @@
+{
+  "radicado": "T-219-01",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2001,
+  "fecha_creacion": "2001-02-22",
+  "magistrado_ponente": "Dr FABIO MORON DIAZ",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ENTIDAD FINANCIERA",
+  "subtema": "Autonomía de la voluntad limitada",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 546 de 1999",
+    "Decreto 2591 de 1991",
+    "Ley 510 de 1999",
+    "Decreto 1593 de 1959",
+    "Decreto 753 de 1956",
+    "Ley 48 de 1968"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2001/T-219-01.htm",
+  "fecha_descarga": "2026-10-23T01:44:40.209753+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2001-02-22",
+  "fecha_publicacion": null,
+  "numero": "T-219/01",
+  "tipo_cc": "T",
+  "prov_id": "18738",
+  "tema_relatoria": "DERECHO DE PETICION. SOLICITUD INFORMACION MOVIMIENTO HISTORICO DE CREDITOS HIPOTECARIOS. CONTRATO PARCIAL DE CESION DE ACTIVOS. TUTELA CONTRA PARTICULARES. SERVICIO PUBLICO DE LA ACTIVIDAD BANCARIA. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ENTIDAD FINANCIERA",
+      "subtema": "Autonomía de la voluntad limitada"
+    },
+    {
+      "tema": "DERECHO DE PETICIÓN",
+      "subtema": "Señalamiento de remisión a entidad competente si constituye respuesta de recibo"
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA PARTICULARES",
+      "subtema": "Prestación de servicio público"
+    },
+    {
+      "tema": "ACTIVIDAD BANCARIA",
+      "subtema": "Es un servicio público"
+    },
+    {
+      "tema": "DERECHO DE PETICION ANTE ORGANIZACIONES PRIVADAS",
+      "subtema": "Improcedencia cuando no actúa como autoridad"
+    },
+    {
+      "tema": "DERECHO DE PETICIÓN",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "DERECHO DE PETICIÓN",
+      "subtema": "Falta de competencia de la entidad ante quien se solicita la información no la exonera de contestar"
+    },
+    {
+      "tema": "DERECHO DE PETICIÓN",
+      "subtema": "No comprende sentido de la decisión"
+    }
+  ]
+}

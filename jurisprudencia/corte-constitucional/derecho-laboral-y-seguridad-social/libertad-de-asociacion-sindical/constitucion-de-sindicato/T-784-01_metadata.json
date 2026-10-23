@@ -1,0 +1,56 @@
+{
+  "radicado": "T-784-01",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2001,
+  "fecha_creacion": "2001-07-26",
+  "magistrado_ponente": "Dr ALFREDO BELTRÁN SIERRA",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "LIBERTAD DE ASOCIACION SINDICAL",
+  "subtema": "Constitución de sindicato",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 584 de 2000",
+    "Ley 50 de 1990",
+    "Ley 362 de 1997",
+    "Ley 27 de 1987"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2001/T-784-01.htm",
+  "fecha_descarga": "2026-10-23T01:35:50.091813+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2001-07-26",
+  "fecha_publicacion": null,
+  "numero": "T-784/01",
+  "tipo_cc": "T",
+  "prov_id": "19503",
+  "tema_relatoria": "DERECHO DE LIBRE ASOCIACION Y CREACION DE SINDICATO. ANTRASALUDCOOP. NEGOCIACION COLECTIVA. REINTEGRO A CARGOS DE IGUAL O SUPERIOR CATEGORIA. CONTRATO A TERMINO INDEFINIDO. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "LIBERTAD DE ASOCIACION SINDICAL",
+      "subtema": "Constitución de sindicato"
+    },
+    {
+      "tema": "SINDICATO DE SALUDCOOP",
+      "subtema": "Terminación de contratos laborales a los afiliados sindicalizados"
+    },
+    {
+      "tema": "SINDICATO",
+      "subtema": "Momento en que se produce la cancelación"
+    },
+    {
+      "tema": "DERECHO DE ASOCIACIÓN SINDICAL",
+      "subtema": "Límites para la autonomía de los despidos"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Procedencia por despido de trabajadores sindicalizados"
+    },
+    {
+      "tema": "SINDICATO",
+      "subtema": "Momento en que nace"
+    }
+  ]
+}

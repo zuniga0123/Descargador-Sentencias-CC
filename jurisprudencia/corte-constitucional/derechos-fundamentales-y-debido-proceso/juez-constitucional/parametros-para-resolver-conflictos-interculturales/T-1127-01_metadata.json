@@ -1,0 +1,53 @@
+{
+  "radicado": "T-1127-01",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2001,
+  "fecha_creacion": "2001-10-25",
+  "magistrado_ponente": "Dr JAIME ARAUJO RENTERÍA",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "JUEZ CONSTITUCIONAL",
+  "subtema": "Parámetros para resolver conflictos interculturales",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 74 de 1968",
+    "Ley 16 de 1972",
+    "Ley 78 de 1986",
+    "Ley 5 de 1960"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2001/T-1127-01.htm",
+  "fecha_descarga": "2026-10-23T01:29:07.429812+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2001-10-25",
+  "fecha_publicacion": null,
+  "numero": "T-1127/01",
+  "tipo_cc": "T",
+  "prov_id": "19887",
+  "tema_relatoria": "DEBIDO PROCESO. SOLICITUD INFORME PERMANENTE DE MENOR. PROCESO DE ARMONIZACION. TUTELA CONTRA DECISIONES DE AUTORIDADES INDIGENAS. DIVERSIDAD CULTURAL. ORDEN DE ENTREVISTA PERSONAL ENTRE MADRE E HIJO PAEZ. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "JUEZ CONSTITUCIONAL",
+      "subtema": "Parámetros para resolver conflictos interculturales"
+    },
+    {
+      "tema": "JURISDICCION INDIGENA",
+      "subtema": "Durante proceso debe permitirse comunicación entre madre e hijo"
+    },
+    {
+      "tema": "JURISDICCION INDIGENA",
+      "subtema": "Colocación de valores afectivos por encima de valores culturales de la comunidad"
+    },
+    {
+      "tema": "JURISDICCION INDIGENA Y DEBIDO PROCESO",
+      "subtema": "Restricciones mínimas ligadas a la previsibilidad"
+    },
+    {
+      "tema": "JURISDICCION INDIGENA",
+      "subtema": "Respeto a la autonomía"
+    }
+  ]
+}

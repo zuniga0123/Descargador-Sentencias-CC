@@ -1,0 +1,39 @@
+{
+  "radicado": "T-1302-01",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2001,
+  "fecha_creacion": "2001-12-06",
+  "magistrado_ponente": "Dr Marco Gerardo Monroy Cabra",
+  "area": "Derecho a la Salud",
+  "tema": "DERECHO A LA SALUD",
+  "subtema": "Suministro de medicamentos",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 806 de 1998",
+    "Decreto 2591 de 1991",
+    "Ley 100 de 1993"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2001/T-1302-01.htm",
+  "fecha_descarga": "2026-10-23T01:34:51.883471+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2001-12-06",
+  "fecha_publicacion": null,
+  "numero": "T-1302/01",
+  "tipo_cc": "T",
+  "prov_id": "20082",
+  "tema_relatoria": "DERECHO A LA SALUD E IGUALDAD. BENEFICIARIA DEL REGIMEN SUBSIDIADO QUIEN SOLICITA MEDICAMENTOS PARA TRATAMIENTO DE ENFERMEDAD. AFILIADOS A REGIMEN SUBSIDIADO DE SALUD QUIENES REQUIEREN DE TRATAMIENTO EXCLUIDO DEL POS SUBSIDIADO. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Suministro de medicamentos"
+    },
+    {
+      "tema": "ADMINISTRADORA DEL REGIMEN SUBSIDIADO",
+      "subtema": "Información al afiliado sobre suministro de medicamentos"
+    }
+  ]
+}

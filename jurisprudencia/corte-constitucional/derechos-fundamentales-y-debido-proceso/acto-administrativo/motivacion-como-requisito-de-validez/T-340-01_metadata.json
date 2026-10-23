@@ -1,0 +1,57 @@
+{
+  "radicado": "T-340-01",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2001,
+  "fecha_creacion": "2001-03-29",
+  "magistrado_ponente": "Dr MARCO GERARDO MONROY CABRA",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACTO ADMINISTRATIVO",
+  "subtema": "Motivación como requisito de validez",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2001/T-340-01.htm",
+  "fecha_descarga": "2026-10-23T01:24:59.066898+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2001-03-29",
+  "fecha_publicacion": null,
+  "numero": "T-340/01",
+  "tipo_cc": "T",
+  "prov_id": "18918",
+  "tema_relatoria": "DERECHO AL DEBIDO PROCESO Y DEFENSA. PROCESO DISCIPLINARIO EDUCATIVO. DESVINCULACION DE ALUMNOS. MOTIVACION DE ACTO ADMINISTRATIVO. REGLAMENTO INTERNO O MANUAL DE CONVIVENCIA. DAS. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACTO ADMINISTRATIVO",
+      "subtema": "Motivación como requisito de validez"
+    },
+    {
+      "tema": "DEBIDO PROCESO DISCIPLINARIO",
+      "subtema": "Vulneración en expulsión de alumnos de curso para detectives"
+    },
+    {
+      "tema": "DEBIDO PROCESO DISCIPLINARIO",
+      "subtema": "Procedimiento sancionatorio"
+    },
+    {
+      "tema": "DEBIDO PROCESO",
+      "subtema": "Aplicación en procesos sancionatorios educativos"
+    },
+    {
+      "tema": "DERECHO DE DEFENSA",
+      "subtema": "Vulneración por falta de motivación del acto de expulsión"
+    },
+    {
+      "tema": "PROCESO DISCIPLINARIO",
+      "subtema": "Expulsión de alumnos de curso para detectives por presuntas relaciones amorosas"
+    },
+    {
+      "tema": "REGLAMENTO UNIVERSITARIO",
+      "subtema": "Elementos del procedimiento sancionatorio"
+    }
+  ]
+}

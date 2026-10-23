@@ -1,0 +1,45 @@
+{
+  "radicado": "T-608-01",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2001,
+  "fecha_creacion": "2001-06-07",
+  "magistrado_ponente": "Dr JAIME ARAUJO RENTERIA",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "INDEFENSION",
+  "subtema": "Alcance",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2001/T-608-01.htm",
+  "fecha_descarga": "2026-10-23T01:42:44.639480+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2001-06-07",
+  "fecha_publicacion": null,
+  "numero": "T-608/01",
+  "tipo_cc": "T",
+  "prov_id": "19284",
+  "tema_relatoria": "DERECHO A LA INTEGRIDAD PERSONAL PAZ Y PROTECCION INTEGRAL A LA FAMILIA. PROTECCION JUDICIAL POR MALTRATO FISICO A LA ACCIONANTE Y SUS HIJAS. SUBORDINACION E INDEFENSION. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "INDEFENSION",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "ACCION DE TUTELA TRANSITORIA",
+      "subtema": "Paz y tranquilidad familiar"
+    },
+    {
+      "tema": "JUEZ DE TUTELA",
+      "subtema": "Configuración de amenaza o violación de derechos fundamentales"
+    },
+    {
+      "tema": "DERECHOS FUNDAMENTALES",
+      "subtema": "Vulneración"
+    }
+  ]
+}

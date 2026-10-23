@@ -1,0 +1,38 @@
+{
+  "radicado": "T-350-01",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2001,
+  "fecha_creacion": "2001-03-30",
+  "magistrado_ponente": "Dr RODRIGO ESCOBAR GIL",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "MEDIO DE DEFENSA JUDICIAL",
+  "subtema": "Controversias sobre afiliación de menor a EPS",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 806 de 1998",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2001/T-350-01.htm",
+  "fecha_descarga": "2026-10-23T01:25:13.411477+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2001-03-30",
+  "fecha_publicacion": null,
+  "numero": "T-350/01",
+  "tipo_cc": "T",
+  "prov_id": "18936",
+  "tema_relatoria": "DERECHOS A LA SALUD SEGURIDAD SOCIAL Y DEBIDO PROCESO DE MENOR DE EDAD. AFILIACION COMO BENEFICIARIO ADICIONAL. MORA EN EL PAGO DE APORTES A SALUD. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "MEDIO DE DEFENSA JUDICIAL",
+      "subtema": "Controversias sobre afiliación de menor a EPS"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Inexistencia de perjuicio irremediable"
+    }
+  ]
+}

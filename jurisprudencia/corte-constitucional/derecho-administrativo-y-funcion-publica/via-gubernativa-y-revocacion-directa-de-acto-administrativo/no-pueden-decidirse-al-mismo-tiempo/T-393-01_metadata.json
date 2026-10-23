@@ -1,0 +1,41 @@
+{
+  "radicado": "T-393-01",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2001,
+  "fecha_creacion": "2001-04-17",
+  "magistrado_ponente": "Dr MARCO GERARDO MONROY CABRA",
+  "area": "Derecho Administrativo y Función Pública",
+  "tema": "VIA GUBERNATIVA Y REVOCACION DIRECTA DE ACTO ADMINISTRATIVO",
+  "subtema": "No pueden decidirse al mismo tiempo",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2001/T-393-01.htm",
+  "fecha_descarga": "2026-10-23T01:26:00.362303+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2001-04-17",
+  "fecha_publicacion": null,
+  "numero": "T-393/01",
+  "tipo_cc": "T",
+  "prov_id": "18995",
+  "tema_relatoria": "DERECHO AL DEBIDO PROCESO. NO REFORMATIO IN PEJUS. CONCURSO PARA PROVEER CARGOS EN LA RAMA JUDICIAL. DISMINUCION DEL PUNTAJE TOTAL. VIA DE HECHO. REVOCATORIA DIRECTA DE ACTOS ADMINISTRATIVOS. CONCEDIDA PARCIALMENTE.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "VIA GUBERNATIVA Y REVOCACION DIRECTA DE ACTO ADMINISTRATIVO",
+      "subtema": "No pueden decidirse al mismo tiempo"
+    },
+    {
+      "tema": "DEBIDO PROCESO",
+      "subtema": "Vulneración por disminución puntaje en concurso de méritos"
+    },
+    {
+      "tema": "REVOCACION DIRECTA DE ACTO ADMINISTRATIVO PARTICULAR Y CONCRETO",
+      "subtema": "Consentimiento expreso y escrito del titular"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "radicado": "T-945-01",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2001,
+  "fecha_creacion": "2001-09-04",
+  "magistrado_ponente": "Dr MANUEL JOSÉ CEPEDA ESPINOSA",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "MEDIO DE DEFENSA JUDICIAL EFICAZ",
+  "subtema": "Controversia sobre la decisión del Icetex",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 3155 de 1968",
+    "Decreto 2591 de 1991",
+    "Decreto 317 de 1958"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2001/T-945-01.htm",
+  "fecha_descarga": "2026-10-23T01:29:29.380047+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2001-09-04",
+  "fecha_publicacion": null,
+  "numero": "T-945/01",
+  "tipo_cc": "T",
+  "prov_id": "19677",
+  "tema_relatoria": "DERECHO DE DEFENSA Y DEBIDO PROCESO. RETENCION SALARIO DE DEUDOR SOLIDARIO. CREDITO EDUCATIVO. ICETEX. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "MEDIO DE DEFENSA JUDICIAL EFICAZ",
+      "subtema": "Controversia sobre la decisión del Icetex"
+    },
+    {
+      "tema": "ICETEX",
+      "subtema": "No requiere intervención judicial para ordenar retención de salarios de deudores morosos"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Improcedencia por existir otro medio de defensa judicial"
+    },
+    {
+      "tema": "DEBIDO PROCESO",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "DEBIDO PROCESO",
+      "subtema": "Contenido"
+    }
+  ]
+}
