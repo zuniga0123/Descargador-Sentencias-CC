@@ -1,0 +1,41 @@
+{
+  "radicado": "T-101-99",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1999,
+  "fecha_creacion": "1999-02-23",
+  "magistrado_ponente": "Dr ANTONIO BARRERA CARBONELL",
+  "area": "Derecho Administrativo y Función Pública",
+  "tema": "CARRERA ADMINISTRATIVA EN LA CONTRALORIA GENERAL DE LA REPUBLICA",
+  "subtema": "Provisión de vacantes atendiendo lista de elegibles",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 106 de 1993"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1999/T-101-99.htm",
+  "fecha_descarga": "2026-10-23T04:58:28.194709+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1999-02-23",
+  "fecha_publicacion": null,
+  "numero": "T-101/99",
+  "tipo_cc": "T",
+  "prov_id": "15552",
+  "tema_relatoria": "DER. A LA IGUALDAD. DER. AL TRABAJO. CONCURSO DE MERITOS. PROVISION DE CARGOS CON PERSONAS QUE NO ESTAN LISTA DE ELEGIBLES. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "CARRERA ADMINISTRATIVA EN LA CONTRALORIA GENERAL DE LA REPUBLICA",
+      "subtema": "Provisión de vacantes atendiendo lista de elegibles"
+    },
+    {
+      "tema": "SISTEMA DE CARRERA",
+      "subtema": "Provisión de vacantes atendiendo lista de elegibles y en estricto orden de resultados"
+    },
+    {
+      "tema": "SISTEMA DE CARRERA",
+      "subtema": "Mérito como elemento esencial"
+    }
+  ]
+}

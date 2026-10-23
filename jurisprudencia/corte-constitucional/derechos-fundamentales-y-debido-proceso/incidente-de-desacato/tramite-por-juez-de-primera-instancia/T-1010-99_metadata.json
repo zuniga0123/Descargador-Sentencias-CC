@@ -1,0 +1,46 @@
+{
+  "radicado": "T-1010-99",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1999,
+  "fecha_creacion": "1999-12-09",
+  "magistrado_ponente": "Dr ALEJANDRO MARTINEZ CABALLERO",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "INCIDENTE DE DESACATO",
+  "subtema": "Trámite por juez de primera instancia",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 222 de 1995"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1999/T-1010-99.htm",
+  "fecha_descarga": "2026-10-23T04:58:31.801128+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1999-12-09",
+  "fecha_publicacion": null,
+  "numero": "T-1010/99",
+  "tipo_cc": "T",
+  "prov_id": "16497",
+  "tema_relatoria": "PAGO MESADAS PENSIONALES. CONMUTACION PENSIONAL. MINIMO VITAL. COLCURTIDOS S.A EN LIQUIDACION. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "INCIDENTE DE DESACATO",
+      "subtema": "Trámite por juez de primera instancia"
+    },
+    {
+      "tema": "SOLIDARIDAD DE SOCIOS",
+      "subtema": "Carácter legal que debe ser apreciado por jurisdicción ordinaria"
+    },
+    {
+      "tema": "CONTRATO DE FIDUCIA",
+      "subtema": "Adecuación"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Presentación de varias acciones contra distintos socios invocando la solidaridad"
+    }
+  ]
+}
