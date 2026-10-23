@@ -1,0 +1,57 @@
+{
+  "radicado": "T-016-99",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1999,
+  "fecha_creacion": "1999-01-21",
+  "magistrado_ponente": "Dr ALEJANDRO MARTÍNEZ CABALLERO",
+  "area": "Derecho a la Salud",
+  "tema": "ENFERMEDADES CATASTROFICAS O RUINOSAS",
+  "subtema": "Suministro de tratamientos y medicamentos por EPS sin cumplir periodo mínimo de cotización",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1999/T-016-99.htm",
+  "fecha_descarga": "2026-10-23T04:29:10.481397+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1999-01-21",
+  "fecha_publicacion": null,
+  "numero": "T-016/99",
+  "tipo_cc": "T",
+  "prov_id": "15450",
+  "tema_relatoria": "DER. A LA SALUD Y A LA VIDA. ENFERMEDADES CATASTROFICAS. SUMINISTRO DE MEDICAMENTOS. UNIMEC. S.A. ENFERMO DE CANCER. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ENFERMEDADES CATASTROFICAS O RUINOSAS",
+      "subtema": "Suministro de tratamientos y medicamentos por EPS sin cumplir periodo mínimo de cotización"
+    },
+    {
+      "tema": "ENFERMEDADES CATASTROFICAS O RUINOSAS",
+      "subtema": "Alternativas para efectuar los tratamientos cuando no se ha superado el periodo mínimo de cotización"
+    },
+    {
+      "tema": "DERECHO A LA VIDA",
+      "subtema": "Suministro de tratamientos y medicamentos sin cumplir periodo mínimo de cotización"
+    },
+    {
+      "tema": "DERECHO A LA VIDA",
+      "subtema": "Suministro de medicamentos para quimioterapia de cáncer en persona de escasos recursos y sin cumplir periodo mínimo de cotización"
+    },
+    {
+      "tema": "ENFERMEDADES CATASTROFICAS O RUINOSAS",
+      "subtema": "Tratamiento para el cáncer"
+    },
+    {
+      "tema": "ENTIDAD PROMOTORA DE SALUD",
+      "subtema": "Suministro de medicamentos para cáncer sin cumplir periodo mínimo de cotización en persona de escasos recursos"
+    },
+    {
+      "tema": "SUBCUENTA DEL FONDO DE SOLIDARIDAD Y GARANTIA DEL SISTEMA GENERAL DE SEGURIDAD SOCIAL EN SALUD",
+      "subtema": "Repetición de EPS contra el Estado por excedente en valor del medicamento"
+    }
+  ]
+}

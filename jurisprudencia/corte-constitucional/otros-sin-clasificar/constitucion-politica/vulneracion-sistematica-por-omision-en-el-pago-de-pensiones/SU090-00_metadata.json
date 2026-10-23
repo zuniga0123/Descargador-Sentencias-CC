@@ -1,0 +1,43 @@
+{
+  "radicado": "SU090-00",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-02-02",
+  "magistrado_ponente": "Dr EDUARDO CIFUENTES MUÑOZ",
+  "area": "Otros - Sin clasificar",
+  "tema": "CONSTITUCION POLITICA",
+  "subtema": "Vulneración sistemática por omisión en el pago de pensiones",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/SU090-00.htm",
+  "fecha_descarga": "2026-10-23T04:26:19.088695+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-02-02",
+  "fecha_publicacion": null,
+  "numero": "SU.090/00",
+  "tipo_cc": "SU",
+  "prov_id": "16615",
+  "tema_relatoria": "INCUMPLIMIENTO SISTEMATICO DE LAS SENTENCIAS DE TUTELA POR PAGO DE PENSIONES EN EL DEPARTAMENTO DEL CHOCO. SUSPENSION DEL ESTUDIO DEL PROYECTO DE SENTENCIA MIENTRAS SE EXPEDIA LA LEY 549/99 QUE ORDENA ANTICIPO PARA CUBRIR LA MORA PENSIONAL DE LAS ENTIDADES TERRITORIALES.CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "CONSTITUCION POLITICA",
+      "subtema": "Vulneración sistemática por omisión en el pago de pensiones"
+    },
+    {
+      "tema": "ESTADO DE COSAS INCONSTITUCIONAL POR OMISION EN EL PAGO DE PENSIONES",
+      "subtema": null
+    },
+    {
+      "tema": "PROYECTO DE SENTENCIA DE TUTELA",
+      "subtema": "Suspensión por próxima expedición de ley que cubre pasivos pensionales de entidades territoriales"
+    },
+    {
+      "tema": "SENTENCIA DE TUTELA",
+      "subtema": "Incumplimiento sistemático"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "radicado": "C-1158-00",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-09-06",
+  "magistrado_ponente": "Dr JOSÉ GREGORIO HERNÁNDEZ GALINDO",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "ESTADO",
+  "subtema": "Promoción de la cultura",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2067 de 1991",
+    "Ley 564 de 2000"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/C-1158-00.htm",
+  "fecha_descarga": "2026-10-23T04:17:48.956096+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-09-06",
+  "fecha_publicacion": null,
+  "numero": "C-1158/00",
+  "tipo_cc": "C",
+  "prov_id": "17755",
+  "tema_relatoria": "LEY 564 DE 2000. CONVENIO DE COOPERACION CULTURAL ENTRE COLOMBIA Y LITUANIA. PROMOCION Y DESARROLLO DE LAS RELACIONES CULTURALES. DIFUSION DE LA CULTURA POR MEDIO DEL ARTE LA EDUCACION LA CIENCIA EL CINE LOS MEDIOS DE COMUNICACION EL TURISMO Y LOS DEPORTES. EXEQUIBLES",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ESTADO",
+      "subtema": "Promoción de la cultura"
+    },
+    {
+      "tema": "CONVENIO DE COOPERACION CULTURAL",
+      "subtema": "Objeto"
+    },
+    {
+      "tema": "SENTENCIA DE CONSTITUCIONALIDAD CONDICIONADA EN TRATADO INTERNACIONAL",
+      "subtema": "Procedencia en cuanto se refiere a exenciones"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "radicado": "T-1015-99",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1999,
+  "fecha_creacion": "1999-12-10",
+  "magistrado_ponente": "Dr CARLOS GAVIRIA DÍAZ",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "DERECHO AL DESEMPEÑO DE CARGOS Y FUNCIONES PUBLICAS",
+  "subtema": "Ocupación puesto de alcalde",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 136 de 1994",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1999/T-1015-99.htm",
+  "fecha_descarga": "2026-10-23T04:30:58.512721+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1999-12-10",
+  "fecha_publicacion": null,
+  "numero": "T-1015/99",
+  "tipo_cc": "T",
+  "prov_id": "16509",
+  "tema_relatoria": "IMPROCEDENCIA DE TUTELA CUANDO EXISTEN OTROS MECANISMOS ORDINARIOS DE PROTECCION. DER DE PARTICIPACION. DER AL TRABAJO. ALCALDE DE HATONUEVO. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO AL DESEMPEÑO DE CARGOS Y FUNCIONES PUBLICAS",
+      "subtema": "Ocupación puesto de alcalde"
+    },
+    {
+      "tema": "MEDIO DE DEFENSA JUDICIAL",
+      "subtema": "Legalidad de decreto de nombramiento de nuevo alcalde"
+    },
+    {
+      "tema": "DERECHO AL TRABAJO",
+      "subtema": "Límite establecido por la legalidad"
+    },
+    {
+      "tema": "DERECHO AL TRABAJO",
+      "subtema": "Cumplimiento de requisitos para ocupar alcaldía"
+    },
+    {
+      "tema": "MEDIO DE DEFENSA JUDICIAL",
+      "subtema": "Resolución tardía de proceso sobre derecho a ocupar alcaldía"
+    }
+  ]
+}

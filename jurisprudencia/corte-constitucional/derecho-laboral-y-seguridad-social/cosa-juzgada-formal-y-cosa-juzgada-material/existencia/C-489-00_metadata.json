@@ -1,0 +1,59 @@
+{
+  "radicado": "C-489-00",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-05-04",
+  "magistrado_ponente": "Dr CARLOS GAVIRIA DIAZ",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "COSA JUZGADA FORMAL Y COSA JUZGADA MATERIAL",
+  "subtema": "Existencia",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 91 de 1989",
+    "Ley 114 de 1913",
+    "Ley 43 de 1975"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/C-489-00.htm",
+  "fecha_descarga": "2026-10-23T04:10:02.276514+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-05-04",
+  "fecha_publicacion": null,
+  "numero": "C-489/00",
+  "tipo_cc": "C",
+  "prov_id": "17051",
+  "tema_relatoria": "DERECHOS ADQUIRIDOS EN PENSION GRACIA DE DOCENTE. RECONOCIMIENTO A QUIENES COMPLETARON TODOS LOS REQUISITOS ANTES DE VIGENCIA DE LEY",
+  "resumen": "LEY 91 DE 1989. ART.15 NUM.2(P.). PENSION GRACIA DE DOCENTES. EXEQUIBLE.",
+  "titulaciones": [
+    {
+      "tema": "COSA JUZGADA FORMAL Y COSA JUZGADA MATERIAL",
+      "subtema": "Existencia"
+    },
+    {
+      "tema": "NORMA DEROGADA",
+      "subtema": "Permanencia de efectos"
+    },
+    {
+      "tema": "DERECHO A LA IGUALDAD EN PENSION GRACIA DE DOCENTE",
+      "subtema": "No desconocimiento por concesión hasta determinada fecha"
+    },
+    {
+      "tema": "DERECHOS ADQUIRIDOS EN PENSION GRACIA DE DOCENTE",
+      "subtema": "Reconocimiento a quienes completaron todos los requisitos antes de vigencia de ley"
+    },
+    {
+      "tema": "PENSION GRACIA DE DOCENTE",
+      "subtema": "Exclusión a partir de fecha determinada"
+    },
+    {
+      "tema": "COSA JUZGADA CONSTITUCIONAL",
+      "subtema": "Existencia"
+    },
+    {
+      "tema": "COSA JUZGADA CONSTITUCIONAL",
+      "subtema": "Inexistencia por contenidos normativos diferentes"
+    }
+  ]
+}

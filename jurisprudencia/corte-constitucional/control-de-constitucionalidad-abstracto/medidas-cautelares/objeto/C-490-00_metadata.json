@@ -1,0 +1,54 @@
+{
+  "radicado": "C-490-00",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-05-04",
+  "magistrado_ponente": "Dr ALEJANDRO MARTÍNEZ CABALLERO",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "MEDIDAS CAUTELARES",
+  "subtema": "Objeto",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2067 de 1991",
+    "Ley 70 de 1931"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/C-490-00.htm",
+  "fecha_descarga": "2026-10-23T04:23:25.736232+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-05-04",
+  "fecha_publicacion": null,
+  "numero": "C-490/00",
+  "tipo_cc": "C",
+  "prov_id": "17052",
+  "tema_relatoria": "PRINCIPIO DE LA BUENA FE EN MEDIDAS CAUTELARES. NO DESCONOCIMIENTO",
+  "resumen": "C.P.C. ARTS. 327 Y 513 PARCIALES MODIFICADO POR EL DEC. 2282/89. ART. 1 No 153 Y 272. CUMPLIMIENTO Y NOTIFICACION DE LAS MEDIDAS CAUTELARES. EXEQUIBLE. ESTARSE A LO RESUELTO EN LA C-925/99",
+  "titulaciones": [
+    {
+      "tema": "MEDIDAS CAUTELARES",
+      "subtema": "Objeto"
+    },
+    {
+      "tema": "MEDIDAS CAUTELARES",
+      "subtema": "Práctica antes de notificación al demandado"
+    },
+    {
+      "tema": "MEDIDAS CAUTELARES",
+      "subtema": "Requisitos para decretarlas"
+    },
+    {
+      "tema": "MEDIDAS CAUTELARES",
+      "subtema": "Sustento constitucional"
+    },
+    {
+      "tema": "COSA JUZGADA CONSTITUCIONAL",
+      "subtema": "Cumplimiento y notificación de medidas cautelares"
+    },
+    {
+      "tema": "PRINCIPIO DE LA BUENA FE EN MEDIDAS CAUTELARES",
+      "subtema": "No desconocimiento"
+    }
+  ]
+}

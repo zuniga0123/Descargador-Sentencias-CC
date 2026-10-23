@@ -1,0 +1,47 @@
+{
+  "radicado": "C-492-00",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-05-04",
+  "magistrado_ponente": "Dr ALEJANDRO MARTÍNEZ CABALLERO",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "COSA JUZGADA RELATIVA Y SENTENCIA DE CONSTITUCIONALIDAD CONDICIONADA",
+  "subtema": "Distinción",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 393 de 1997",
+    "Decreto 2067 de 1991",
+    "Ley 153 de 1887"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/C-492-00.htm",
+  "fecha_descarga": "2026-10-23T04:23:36.663812+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-05-04",
+  "fecha_publicacion": null,
+  "numero": "C-492/00",
+  "tipo_cc": "C",
+  "prov_id": "17054",
+  "tema_relatoria": "COSA JUZGADA CONSTITUCIONAL EN EXCEPCIÓN DE INCONSTITUCIONALIDAD EN MATERIA DE ACCIÓN DE CUMPLIMIENTO",
+  "resumen": "LEY 393/97. ART. 20 PARAGRAFO. EXCEPCION DE INCONSTITUCIONALIDAD SOBRE NORMAS Y OBJETO DE ANALISIS DE EXEQUIBILIDAD POR EL CONSEJO DE ESTADO Y LA CORTE CONSTITUCIONAL. ESTARSE A LO RESUELTO EN LA C-600/98",
+  "titulaciones": [
+    {
+      "tema": "COSA JUZGADA RELATIVA Y SENTENCIA DE CONSTITUCIONALIDAD CONDICIONADA",
+      "subtema": "Distinción"
+    },
+    {
+      "tema": "PROPOSICION JURIDICA COMPLETA",
+      "subtema": "Integración"
+    },
+    {
+      "tema": "COSA JUZGADA ABSOLUTA",
+      "subtema": "Regla general"
+    },
+    {
+      "tema": "COSA JUZGADA CONSTITUCIONAL",
+      "subtema": "Excepción de inconstitucionalidad en materia de acción de cumplimiento"
+    }
+  ]
+}

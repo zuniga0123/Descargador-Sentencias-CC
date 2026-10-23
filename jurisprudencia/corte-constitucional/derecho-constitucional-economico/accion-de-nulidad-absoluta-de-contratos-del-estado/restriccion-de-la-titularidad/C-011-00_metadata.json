@@ -1,0 +1,80 @@
+{
+  "radicado": "C-011-00",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-01-19",
+  "magistrado_ponente": "Dr JOSE GREGORIO HERNANDEZ GALINDO",
+  "area": "Derecho Constitucional Económico",
+  "tema": "ACCION DE NULIDAD ABSOLUTA DE CONTRATOS DEL ESTADO",
+  "subtema": "Restricción de la titularidad",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 1 de 1984",
+    "Ley 446 de 1998",
+    "Decreto 2067 de 1991",
+    "Ley 58 de 1982",
+    "Decreto 2651 de 1991",
+    "Ley 23 de 1991",
+    "Decreto 2279 de 1989",
+    "Ley 80 de 1993"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/C-011-00.htm",
+  "fecha_descarga": "2026-10-23T04:12:51.675432+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-01-19",
+  "fecha_publicacion": null,
+  "numero": "C-011/00",
+  "tipo_cc": "C",
+  "prov_id": "16529",
+  "tema_relatoria": "MECANISMOS DE PARTICIPACION CIUDADANA. VIGILANCIA Y CONTROL SOBRE CONTRATOS QUE CELEBRAN ENTIDADES DEL ESTADO",
+  "resumen": "DEC 01/84.ART 136 NUM 10 LIT E. CCA. MODIFICADO POR LEY 446/98. ACCION DE NULIDAD DE CONTRATOS ESTATALES. TERCERO CON INTERES DIRECTO. EXEQUIBLE.",
+  "titulaciones": [
+    {
+      "tema": "ACCION DE NULIDAD ABSOLUTA DE CONTRATOS DEL ESTADO",
+      "subtema": "Restricción de la titularidad"
+    },
+    {
+      "tema": "MECANISMOS DE PARTICIPACION CIUDADANA",
+      "subtema": "Vigilancia de gestión del Estado"
+    },
+    {
+      "tema": "MECANISMOS DE PARTICIPACION CIUDADANA",
+      "subtema": "Vigilancia y control sobre contratos que celebran entidades del Estado"
+    },
+    {
+      "tema": "NULIDAD ABSOLUTA DE CONTRATOS DEL ESTADO",
+      "subtema": "Solicitud por cualquier persona interesada"
+    },
+    {
+      "tema": "DERECHO DE PARTICIPACION DE TODOS EN LAS DECISIONES QUE LOS AFECTAN",
+      "subtema": "Exigencia de interés directo podrá demandar nulidad absoluta de contrato administrativo"
+    },
+    {
+      "tema": "PARTICIPACION CIUDADANA",
+      "subtema": "Protección del bien común y control de gestión pública"
+    },
+    {
+      "tema": "PARTICIPACION CIUDADANA",
+      "subtema": "Procesos de contratación del Estado"
+    },
+    {
+      "tema": "LEY",
+      "subtema": "Condiciones al ejercicio de acciones judiciales cuando se celebra contrato estatal"
+    },
+    {
+      "tema": "INTERES COLECTIVO",
+      "subtema": "Dilaciones y trámites contrarios a agilidad de gestión pública"
+    },
+    {
+      "tema": "LEGISLADOR",
+      "subtema": "No puede quitar al ciudadano control de actividad contractual de administración"
+    },
+    {
+      "tema": "LEGISLADOR",
+      "subtema": "Restricciones para ejercicio de determinadas acciones"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "radicado": "SU091-00",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-02-02",
+  "magistrado_ponente": "Dr ALVARO TAFUR GALVIS",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "AMIGABLE COMPOSICION Y ARBITRAMENTO",
+  "subtema": "Diferencias",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 446 de 1998",
+    "Decreto 2591 de 1991",
+    "Ley 80 de 1993",
+    "Decreto 2651 de 1991",
+    "Decreto 1818 de 1998",
+    "Decreto 222 de 1983"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/SU091-00.htm",
+  "fecha_descarga": "2026-10-23T04:26:07.545656+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-02-02",
+  "fecha_publicacion": null,
+  "numero": "SU.091/00",
+  "tipo_cc": "SU",
+  "prov_id": "16616",
+  "tema_relatoria": "TUTELA CONTRA CAMARA DE COMERCIO DE MEDELLIN. CONSTRUCCION DEL METRO DE MEDELLIN. DESIGNACION DEL AMIGABLE COMPONEDOR. TUTELA TRANSITORIA. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "AMIGABLE COMPOSICION Y ARBITRAMENTO",
+      "subtema": "Diferencias"
+    },
+    {
+      "tema": "PERJUICIO IRREMEDIABLE A EMPRESA DE TRANSPORTE MASIVO DEL VALLE DE ABURRA",
+      "subtema": "Inexistencia"
+    },
+    {
+      "tema": "PERJUICIO IRREMEDIABLE A EMPRESA DE TRANSPORTE MASIVO DEL VALLE DE ABURRA",
+      "subtema": null
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA CAMARA DE COMERCIO DE MEDELLIN",
+      "subtema": "Conducta que se censura es resultado de ejecución de contrato"
+    },
+    {
+      "tema": "AMIGABLE COMPOSICION",
+      "subtema": "Designación del amigable componedor viola derecho al debido proceso y de acceso a la administración de justicia"
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA CAMARA DE COMERCIO DE MEDELLIN",
+      "subtema": null
+    }
+  ]
+}

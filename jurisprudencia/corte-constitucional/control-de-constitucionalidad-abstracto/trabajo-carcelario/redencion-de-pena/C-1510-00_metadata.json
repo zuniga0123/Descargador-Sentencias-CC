@@ -1,0 +1,56 @@
+{
+  "radicado": "C-1510-00",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-11-08",
+  "magistrado_ponente": "Dr JOSÉ GREGORIO HERNÁNDEZ GALINDO",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "TRABAJO CARCELARIO",
+  "subtema": "Redención de pena",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 65 de 1993",
+    "Decreto 2067 de 1991",
+    "Ley 16 de 1972",
+    "Ley 81 de 1995"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/C-1510-00.htm",
+  "fecha_descarga": "2026-10-23T04:15:22.295499+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-11-08",
+  "fecha_publicacion": null,
+  "numero": "C-1510/00",
+  "tipo_cc": "C",
+  "prov_id": "18145",
+  "tema_relatoria": "LEY 65 DE 1993. ARTS. 80 Y 81 (PS.). CODIGO PENITENCIARIO Y CARCELARIO. PLANEACION ORGANIZACION EVALUACION Y CERTIFICACION DEL TRABAJO. MEDIO PARA ALCANZAR LA RESOCIALIZACION DEL INFRACTOR DE LA LEY PENAL. EXEQUIBLE.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "TRABAJO CARCELARIO",
+      "subtema": "Redención de pena"
+    },
+    {
+      "tema": "TRABAJO CARCELARIO",
+      "subtema": "Detención domiciliaria"
+    },
+    {
+      "tema": "INSTITUTO NACIONAL PENITENCIARIO Y CARCELARIO",
+      "subtema": "Planeación y organización del trabajo"
+    },
+    {
+      "tema": "PRIVACION DE LA LIBERTAD",
+      "subtema": "Modalidades"
+    },
+    {
+      "tema": "TRABAJO CARCELARIO",
+      "subtema": "Modalidades"
+    },
+    {
+      "tema": "TRABAJO CARCELARIO",
+      "subtema": "Detenidos y condenados"
+    }
+  ]
+}

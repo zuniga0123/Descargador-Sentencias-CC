@@ -1,0 +1,65 @@
+{
+  "radicado": "C-040-00",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-01-26",
+  "magistrado_ponente": "Dr FABIO MORON DíAZ",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "DERECHO DE PARTICIPACION CIUDADANA",
+  "subtema": "Control de la gestión pública contractual de autoridades estatales",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 80 de 1993",
+    "Decreto 2067 de 1991",
+    "Ley 80 de 1983",
+    "Decreto 855 de 1994",
+    "Ley 190 de 1995"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/C-040-00.htm",
+  "fecha_descarga": "2026-10-23T04:20:01.749915+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-01-26",
+  "fecha_publicacion": null,
+  "numero": "C-040/00",
+  "tipo_cc": "C",
+  "prov_id": "16570",
+  "tema_relatoria": "ESTATUTO GENERAL DE CONTRATACION DE LA ADMINISTRACION PUBLICA. SUJECIÓN DE COOPERATIVAS Y ASOCIACIONES CONFORMADAS POR ENTIDADES TERRITORIALES",
+  "resumen": "LEY 80/93. ART. 2.PARAGRAFO UNICO COOPERATIVAS Y ASOCIACIONES CONFORMADAS POR ENTIDADES TERRITORIALES. ESTATUTO DE CONTRATACION DE LA ADMINISTRACION PUBLICA. CARGOS DE INCONSTITUCIONALIDAD DEBEN REFERIRSE A CONTENIDO EN ABSTRACTO. EXEQUIBLE.",
+  "titulaciones": [
+    {
+      "tema": "DERECHO DE PARTICIPACION CIUDADANA",
+      "subtema": "Control de la gestión pública contractual de autoridades estatales"
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "Cargos contra una norma no pueden originarse en distorsiones que sufran por la ilegal aplicación"
+    },
+    {
+      "tema": "ESTATUTO GENERAL DE CONTRATACION DE LA ADMINISTRACION PUBLICA",
+      "subtema": "Corrupción administrativa"
+    },
+    {
+      "tema": "ENTIDAD DEL ESTADO",
+      "subtema": "Cooperativas y asociaciones conformadas por entidades territoriales"
+    },
+    {
+      "tema": "ACCION PUBLICA DE INCONSTITUCIONALIDAD",
+      "subtema": "No combate prácticas de apropiación del patrimonio público"
+    },
+    {
+      "tema": "CONTRATACION DIRECTA",
+      "subtema": "Potestad se debe ejercer con sujeción al reglamento"
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "Cargos contra una norma deben referirse al contenido en abstracto y no a sus desarrollos o aplicación"
+    },
+    {
+      "tema": "ESTATUTO GENERAL DE CONTRATACION DE LA ADMINISTRACION PUBLICA",
+      "subtema": "Sujeción de cooperativas y asociaciones de entidades territoriales"
+    }
+  ]
+}

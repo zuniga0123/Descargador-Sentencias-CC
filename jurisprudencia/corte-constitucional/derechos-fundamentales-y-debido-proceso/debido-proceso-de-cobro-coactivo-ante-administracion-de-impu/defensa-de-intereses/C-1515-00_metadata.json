@@ -1,0 +1,64 @@
+{
+  "radicado": "C-1515-00",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-11-08",
+  "magistrado_ponente": "Dra MARTHA VICTORIA SÁCHICA MÉNDEZ",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "DEBIDO PROCESO DE COBRO COACTIVO ANTE ADMINISTRACION DE IMPUESTOS",
+  "subtema": "Defensa de intereses",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 624 de 1989",
+    "Decreto 2067 de 1991",
+    "Ley 6 de 1992",
+    "Decreto 1072 de 1999"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/C-1515-00.htm",
+  "fecha_descarga": "2026-10-23T04:15:33.460501+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-11-08",
+  "fecha_publicacion": null,
+  "numero": "C-1515/00",
+  "tipo_cc": "C",
+  "prov_id": "18150",
+  "tema_relatoria": "DECRETO 624 DE 1989. ART. 843-2. ESTATUTO TRIBUTARIO DE LOS IMPUESTOS ADMINISTRADOS POR LA DIAN. PROCEDIMIENTO ADMINISTRATIVO COACTIVO DE COBRO TRIBUTARIO. DEBIDO PROCESO EN MATERIA TRIBUTARIA. MAYOR FLEXIBILIDAD QUE EN DERECHO PENAL. CADUCIDAD. EXEQUIBLE.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DEBIDO PROCESO DE COBRO COACTIVO ANTE ADMINISTRACION DE IMPUESTOS",
+      "subtema": "Defensa de intereses"
+    },
+    {
+      "tema": "PROCESO DE COBRO COACTIVO ANTE ADMINISTRACION DE IMPUESTOS",
+      "subtema": "Aplicación de depósitos"
+    },
+    {
+      "tema": "PROCESO DE COBRO COACTIVO DE IMPUESTOS",
+      "subtema": "Procedimiento administrativo"
+    },
+    {
+      "tema": "CADUCIDAD EN MATERIA TRIBUTARIA",
+      "subtema": "Término para devolución de dineros"
+    },
+    {
+      "tema": "PRINCIPIO DE SEGURIDAD JURIDICA EN MATERIA TRIBUTARIA",
+      "subtema": "Término para reclamo de remanente"
+    },
+    {
+      "tema": "PROCESO DE COBRO COACTIVO ANTE ADMINISTRACION DE IMPUESTOS",
+      "subtema": "Defensa de intereses"
+    },
+    {
+      "tema": "PROCESO DE COBRO COACTIVO ANTE ADMINISTRACION DE IMPUESTOS",
+      "subtema": "Término para reclamo de remanente o títulos de depósito"
+    },
+    {
+      "tema": "RENTAS DE DESTINACION ESPECIFICA",
+      "subtema": "Alcance"
+    }
+  ]
+}

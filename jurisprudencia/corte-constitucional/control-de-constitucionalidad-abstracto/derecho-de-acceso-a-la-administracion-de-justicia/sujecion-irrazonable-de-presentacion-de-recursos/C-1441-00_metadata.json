@@ -1,0 +1,55 @@
+{
+  "radicado": "C-1441-00",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-10-25",
+  "magistrado_ponente": "Dr FABIO MORóN DíAZ",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "DERECHO DE ACCESO A LA ADMINISTRACIÓN DE JUSTICIA",
+  "subtema": "Sujeción irrazonable de presentación de recursos",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 624 de 1989",
+    "Decreto 2067 de 1991",
+    "Ley 223 de 1995"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/C-1441-00.htm",
+  "fecha_descarga": "2026-10-23T04:19:43.362982+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-10-25",
+  "fecha_publicacion": null,
+  "numero": "C-1441/00",
+  "tipo_cc": "C",
+  "prov_id": "18057",
+  "tema_relatoria": "DECRETO 624 DE 1989. ART. 722 LIT. D) Y ART. 804 INC. 2. ESTATUTO TRIBUTARIO. DERECHO DE DEFENSA. ACCESO A LA ADMINISTRACION DE JUSTICIA. REQUISITOS DE LOS RECURSOS DE RECONSIDERACION. PAGO LIQUIDACION PRIVADA. REIMPUTACION DEL PAGO. INEXEQUIBLE Y EXEQUIBLE.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO DE ACCESO A LA ADMINISTRACIÓN DE JUSTICIA",
+      "subtema": "Sujeción irrazonable de presentación de recursos"
+    },
+    {
+      "tema": "TRIBUTO",
+      "subtema": "Imputación del pago a sanciones, intereses y anticipos"
+    },
+    {
+      "tema": "RECURSO DE RECONSIDERACION",
+      "subtema": "Acceso sujeto a pago de liquidación privada"
+    },
+    {
+      "tema": "DERECHO DE ACCESO A RECURSO",
+      "subtema": "Presentación sujeta a capacidad económica"
+    },
+    {
+      "tema": "RECURSOS",
+      "subtema": "Presentación sujeta a capacidad económica"
+    },
+    {
+      "tema": "TRIBUTO",
+      "subtema": "Reimputación del pago a sanciones, intereses y anticipos"
+    }
+  ]
+}

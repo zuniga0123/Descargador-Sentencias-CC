@@ -1,0 +1,78 @@
+{
+  "radicado": "C-700-00",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-06-14",
+  "magistrado_ponente": "Dr JOSÉ GREGORIO HERNÁNDEZ GALINDO",
+  "area": "Derecho Penal y Sistema Acusatorio",
+  "tema": "CAPTURA MEDIANTE NOTA DIPLOMATICA",
+  "subtema": "Justificación",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto Ley 2700 de 1991",
+    "Decreto 2067 de 1991",
+    "Acto Legislativo 1 de 1997",
+    "Decreto 2700 de 1991",
+    "Decreto Ley 100 de 1980",
+    "Ley 16 de 1972"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/C-700-00.htm",
+  "fecha_descarga": "2026-10-23T04:08:36.837260+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-06-14",
+  "fecha_publicacion": null,
+  "numero": "C-700/00",
+  "tipo_cc": "C",
+  "prov_id": "17286",
+  "tema_relatoria": "COOPERACION INTERNACIONAL EN MATERIA PENAL. EFECTIVIDAD CON LA CAPTURA MEDIANTE NOTA DIPLOMÁTICA",
+  "resumen": "DEC. 2700/91. C.P.P. ART. 566. CAPTURA DE LA PERSONA REQUERIDA EN EXTRADICION CON NOTA DIPLOMATICA. EXEQUIBLE.",
+  "titulaciones": [
+    {
+      "tema": "CAPTURA MEDIANTE NOTA DIPLOMATICA",
+      "subtema": "Justificación"
+    },
+    {
+      "tema": "COOPERACION INTERNACIONAL EN MATERIA PENAL",
+      "subtema": "Efectividad con la captura mediante nota diplomática"
+    },
+    {
+      "tema": "DERECHO A LA IGUALDAD",
+      "subtema": "Naturaleza y alcance"
+    },
+    {
+      "tema": "CAPTURA CON FINES DE EXTRADICION",
+      "subtema": null
+    },
+    {
+      "tema": "EXTRADICION",
+      "subtema": null
+    },
+    {
+      "tema": "DERECHO DE DEFENSA",
+      "subtema": "No se vulnera con la captura hecha en virtud de nota diplomática"
+    },
+    {
+      "tema": "CAPTURA MEDIANTE NOTA DIPLOMATICA",
+      "subtema": "Estado requerido carece de jurisdicción para verificar legalidad de proceso penal"
+    },
+    {
+      "tema": "EXTRADICION",
+      "subtema": "Garantía del derecho de defensa"
+    },
+    {
+      "tema": "PRIVACION DE LA LIBERTAD EN VIRTUD DE NOTA DIPLOMATICA",
+      "subtema": "Cumplimiento de requisitos constitucionales"
+    },
+    {
+      "tema": "DERECHO A LA IGUALDAD",
+      "subtema": "No supone identidad matemática"
+    },
+    {
+      "tema": "DERECHO A LA IGUALDAD",
+      "subtema": "No vulneración por observarse un proceso diferente al colombiano"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "radicado": "C-732-00",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-06-21",
+  "magistrado_ponente": "Dr VLADIMIRO NARANJO MESA",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "SENTENCIA DE CONSTITUCIONALIDAD",
+  "subtema": "Reiteración de jurisprudencia en relación con el cargo",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 472 de 1998",
+    "Decreto 2067 de 1991",
+    "Ley 472 de 1995"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/C-732-00.htm",
+  "fecha_descarga": "2026-10-23T04:11:59.419308+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-06-21",
+  "fecha_publicacion": null,
+  "numero": "C-732/00",
+  "tipo_cc": "C",
+  "prov_id": "17317",
+  "tema_relatoria": "ACCION DE CLASE O DE GRUPO. FINALIDAD",
+  "resumen": "LEY 472/98. ART. 55 PARCIAL Y 65 No 23 Y 4. INDEMNIZACION A LOS BENEFICIARIOS AUSENTES DEL PROCESO EN LAS ACCIONES POPULARES. AFECTADOS POR EL DAÑO (INUNDACIONTERREMOTOETC). EXEQUIBLE.",
+  "titulaciones": [
+    {
+      "tema": "SENTENCIA DE CONSTITUCIONALIDAD",
+      "subtema": "Reiteración de jurisprudencia en relación con el cargo"
+    },
+    {
+      "tema": "ACCION DE CLASE O DE GRUPO",
+      "subtema": "Naturaleza"
+    },
+    {
+      "tema": "ACCION DE CLASE O DE GRUPO",
+      "subtema": "Finalidad"
+    }
+  ]
+}

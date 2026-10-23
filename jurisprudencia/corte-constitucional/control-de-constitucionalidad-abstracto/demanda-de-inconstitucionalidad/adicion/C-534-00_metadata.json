@@ -1,0 +1,79 @@
+{
+  "radicado": "C-534-00",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-05-10",
+  "magistrado_ponente": null,
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "DEMANDA DE INCONSTITUCIONALIDAD",
+  "subtema": "Adición",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2067 de 1991",
+    "Decreto 2067 de 1995",
+    "Decreto 432 de 1969"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/C-534-00.htm",
+  "fecha_descarga": "2026-10-23T04:22:33.242556+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-05-10",
+  "fecha_publicacion": null,
+  "numero": "C-534/00",
+  "tipo_cc": "C",
+  "prov_id": "17102",
+  "tema_relatoria": "PROCESO DE CONSTITUCIONALIDAD. TÉRMINO PROPIO PARA PROCURADOR Y PARA MAGISTRADO SUSTANCIADOR",
+  "resumen": "DEC. 2067/91. ART. 32 PARCIAL. OBJECIONES DE INCONSTITUCIONALIDAD SURTIDAS ANTE LA CORTE CONSTITUCIONAL. EXEQUIBLES.",
+  "titulaciones": [
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "Adición"
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "Improcedencia de extensión de artículos acusados"
+    },
+    {
+      "tema": "COSA JUZGADA CONSTITUCIONAL",
+      "subtema": "Término de presentación de proyecto de fallo para decretos legislativos"
+    },
+    {
+      "tema": "PROCESO DE CONSTITUCIONALIDAD",
+      "subtema": "Término para proyecto de fallo y para decisión en Sala Plena"
+    },
+    {
+      "tema": "PROPOSICION JURIDICA COMPLETA",
+      "subtema": "Integración"
+    },
+    {
+      "tema": "CONTROL DE CONSTITUCIONALIDAD DE FACULTADES EXTRAORDINARIAS",
+      "subtema": "Otorgamiento por artículo transitorio de la Constitución"
+    },
+    {
+      "tema": "OBJECION PRESIDENCIAL",
+      "subtema": "Procedimiento y términos"
+    },
+    {
+      "tema": "PROCESO DE CONSTITUCIONALIDAD",
+      "subtema": "Concepto del Procurador General de la Nación"
+    },
+    {
+      "tema": "PROCESO DE CONSTITUCIONALIDAD",
+      "subtema": "Términos"
+    },
+    {
+      "tema": "PROCESO DE CONSTITUCIONALIDAD",
+      "subtema": "Facultad legislativa para complementar procedimientos y términos"
+    },
+    {
+      "tema": "PROCESO DE CONSTITUCIONALIDAD",
+      "subtema": "Término propio para Procurador y para Magistrado sustanciador"
+    },
+    {
+      "tema": "PROCESO DE CONSTITUCIONALIDAD",
+      "subtema": "Términos para razonamiento y debida motivación"
+    }
+  ]
+}

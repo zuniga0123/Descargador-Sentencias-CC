@@ -1,0 +1,59 @@
+{
+  "radicado": "SU998-00",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-08-02",
+  "magistrado_ponente": "Dr ALEJANDRO MARTÍNEZ CABALLERO",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "DERECHO DE ASOCIACIÓN SINDICAL",
+  "subtema": "Improcedencia de vulneración por desvinculación razonable de trabajadores sindicalizados",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Decreto 2351 de 1965",
+    "Ley 50 de 1990"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/SU998-00.htm",
+  "fecha_descarga": "2026-10-23T04:26:03.794297+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-08-02",
+  "fecha_publicacion": null,
+  "numero": "SU.998/00",
+  "tipo_cc": "SU",
+  "prov_id": "17587",
+  "tema_relatoria": "REINTEGRO AL CARGO DE IGUAL O SUPERIOR CATEGORIA SIN SOLUCION DE CONTINUIDAD Y CON DERECHO A CAPACITACION. DERECHO AL TRABAJO DE ASOCIACION Y LIBERTAD SINDICAL. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO DE ASOCIACIÓN SINDICAL",
+      "subtema": "Improcedencia de vulneración por desvinculación razonable de trabajadores sindicalizados"
+    },
+    {
+      "tema": "JURISDICCION LABORAL",
+      "subtema": "Competencia para resolver conflictos que se originen del contrato de trabajo"
+    },
+    {
+      "tema": "TERMINACION UNILATERAL DE CONTRATO DE TRABAJO SIN JUSTA CAUSA",
+      "subtema": "Facultad del empleador no es absoluta"
+    },
+    {
+      "tema": "CONFLICTO LABORAL COLECTIVO",
+      "subtema": "Casos en que procede la tutela"
+    },
+    {
+      "tema": "DERECHO DE ASOCIACIÓN SINDICAL",
+      "subtema": "Desconocimiento por despido colectivo de trabajadores"
+    },
+    {
+      "tema": "DERECHO DE ASOCIACIÓN SINDICAL",
+      "subtema": "Despido colectivo de trabajadores afecta Convenios de la OIT"
+    },
+    {
+      "tema": "DERECHO DE ASOCIACIÓN SINDICAL",
+      "subtema": "Fundamental"
+    }
+  ]
+}

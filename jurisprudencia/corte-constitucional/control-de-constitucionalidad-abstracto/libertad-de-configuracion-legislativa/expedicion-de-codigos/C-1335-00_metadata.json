@@ -1,0 +1,54 @@
+{
+  "radicado": "C-1335-00",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-10-04",
+  "magistrado_ponente": "Dr CARLOS GAVIRIA DIAZ",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "LIBERTAD DE CONFIGURACIÓN LEGISLATIVA",
+  "subtema": "Expedición de códigos",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2282 de 1989",
+    "Decreto 2067 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/C-1335-00.htm",
+  "fecha_descarga": "2026-10-23T04:17:19.681905+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-10-04",
+  "fecha_publicacion": null,
+  "numero": "C-1335/00",
+  "tipo_cc": "C",
+  "prov_id": "17936",
+  "tema_relatoria": "CODIGO DE PROCEDIMIENTO CIVIL. ART 555 NUM. 2 (P.). MODIFICADO POR EL ART. 1 NUM. 303-2 DEL DECRETO 2282 DE 1989. PROCESO EJECUTIVO. DEBIDO PROCESO E IGUALDAD COMO LIMITES DE LA LIBERTAD DE CONFIGURACION LEGISLATIVA. EXEQUIBLE.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "LIBERTAD DE CONFIGURACIÓN LEGISLATIVA",
+      "subtema": "Expedición de códigos"
+    },
+    {
+      "tema": "TERMINO PROCESAL",
+      "subtema": "Duración"
+    },
+    {
+      "tema": "LIBERTAD DE CONFIGURACIÓN LEGISLATIVA",
+      "subtema": "Duración de términos judiciales"
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "Solicitud de aclaración de vigencia"
+    },
+    {
+      "tema": "PROCESO EJECUTIVO CON TITULO HIPOTECARIO O PRENDARIO",
+      "subtema": "Término para excepciones previas y de mérito"
+    },
+    {
+      "tema": "PROCESO EJECUTIVO SINGULAR Y EJECUTIVO HIPOTECARIO O PRENDARIO",
+      "subtema": "Término para excepciones previas y de mérito"
+    }
+  ]
+}

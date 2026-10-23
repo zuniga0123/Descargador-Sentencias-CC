@@ -1,0 +1,82 @@
+{
+  "radicado": "C-1408-00",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-10-19",
+  "magistrado_ponente": "Dr JOSÉ GREGORIO HERNÁNDEZ GALINDO",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "DEMANDA DE INCONSTITUCIONALIDAD",
+  "subtema": "Informalidad y requisitos mínimos",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 1809 de 1990",
+    "Decreto 2067 de 1991",
+    "Decreto Ley 1344 de 1970",
+    "Ley 1344 de 1970",
+    "Ley 488 de 1998",
+    "Decreto 1809 de 1990"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/C-1408-00.htm",
+  "fecha_descarga": "2026-10-23T04:19:21.351397+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-10-19",
+  "fecha_publicacion": null,
+  "numero": "C-1408/00",
+  "tipo_cc": "C",
+  "prov_id": "18016",
+  "tema_relatoria": "DECRETO 1809 DE 1990. ART. 1 NUM. 186. MODIFICA EL ART. 231 DEL CODIGO NACIONAL DE TRANSITO TERRESTRE. ALCANCE Y SENTIDO DE LAS MEDIDAS QUE SE PUEDEN ADOPTAR. DIFERENCIA ENTRE DECOMISO Y TRASLADO TEMPORAL A LOS PATIOS. EXEQUIBLE.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "Informalidad y requisitos mínimos"
+    },
+    {
+      "tema": "PODER DE POLICIA",
+      "subtema": "Límites a libertades"
+    },
+    {
+      "tema": "ESPACIO PUBLICO",
+      "subtema": "Protección"
+    },
+    {
+      "tema": "ZONAS DE USO PUBLICO",
+      "subtema": "Costos de parqueaderos por retiro de vehículos"
+    },
+    {
+      "tema": "AUTORIDAD DE TRANSITO",
+      "subtema": "Costos de parqueadero por retiro de vehículos"
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "No señalamiento de normas constitucionales infringidas"
+    },
+    {
+      "tema": "ESPACIO PUBLICO",
+      "subtema": "Retiro de vehículos estacionados en zona prohibida"
+    },
+    {
+      "tema": "LIBERTAD DE CIRCULACION",
+      "subtema": "Retiro de vehículos estacionados en zona prohibida"
+    },
+    {
+      "tema": "PROPIEDAD PRIVADA",
+      "subtema": "Abuso"
+    },
+    {
+      "tema": "ESPACIO PUBLICO",
+      "subtema": "Uso indebido"
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "Números de artículos constitucionales infringidos"
+    },
+    {
+      "tema": "ZONAS DE USO PUBLICO",
+      "subtema": "Retiro de vehículos"
+    }
+  ]
+}

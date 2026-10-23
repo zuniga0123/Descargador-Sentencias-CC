@@ -1,0 +1,59 @@
+{
+  "radicado": "C-1444-00",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-10-25",
+  "magistrado_ponente": "Dr ALFREDO BELTRÁN SIERRA",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "CONTRAVENCION",
+  "subtema": "Vaguedad e imprecisión",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2067 de 1991",
+    "Decreto 1355 de 1970",
+    "Ley 1335 de 1970"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/C-1444-00.htm",
+  "fecha_descarga": "2026-10-23T04:08:11.125587+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-10-25",
+  "fecha_publicacion": null,
+  "numero": "C-1444/00",
+  "tipo_cc": "C",
+  "prov_id": "18060",
+  "tema_relatoria": "DECRETO 1335 DE 1970. ART. 206 NUM 3. NORMAS SOBRE POLICIA. PODER. LIMITES. PRESENTACION PERIODICA ANTE EL COMANDO DE PERSONA QUE DEAMBULA POR LAS CALLES EN ACTITUD SOSPECHOSA. LIBERTAD DE LOCOMOCION. INEXEQUIBLE.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "CONTRAVENCION",
+      "subtema": "Vaguedad e imprecisión"
+    },
+    {
+      "tema": "PRESUNCION DE INOCENCIA",
+      "subtema": "Sospecha"
+    },
+    {
+      "tema": "MEDIDAS CORRECTIVAS",
+      "subtema": "Límite temporal"
+    },
+    {
+      "tema": "MEDIDAS CORRECTIVAS",
+      "subtema": "Presentación periódica"
+    },
+    {
+      "tema": "MEDIDAS CORRECTIVAS",
+      "subtema": "Deambular por calles en actitud sospechosa"
+    },
+    {
+      "tema": "LIBERTAD DE CIRCULACION",
+      "subtema": "Límites"
+    },
+    {
+      "tema": "PODER DE POLICIA",
+      "subtema": "Concepto y límites"
+    }
+  ]
+}

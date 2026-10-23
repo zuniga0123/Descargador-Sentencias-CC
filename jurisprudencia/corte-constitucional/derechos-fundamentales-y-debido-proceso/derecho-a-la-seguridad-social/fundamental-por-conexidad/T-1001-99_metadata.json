@@ -1,0 +1,49 @@
+{
+  "radicado": "T-1001-99",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1999,
+  "fecha_creacion": "1999-12-09",
+  "magistrado_ponente": "Dr JOSE GREGORIO HERNANDEZ GALINDO",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "DERECHO A LA SEGURIDAD SOCIAL",
+  "subtema": "Fundamental por conexidad",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1999/T-1001-99.htm",
+  "fecha_descarga": "2026-10-23T04:30:36.676741+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1999-12-09",
+  "fecha_publicacion": null,
+  "numero": "T-1001/99",
+  "tipo_cc": "T",
+  "prov_id": "38776",
+  "tema_relatoria": "ACCION DE TUTELA PARA RECLAMAR EL PAGO DE MESADAS PENSIONALES ADEUDADAS. IMPROCEDENCIA POR NO ACREDITAR AFECTACION DEL MINIMO VITAL.",
+  "resumen": "Se interpuso la acción de tutela para reclamarle a la Gobernación de Bolívar, el pago de varias mesadas pensionales adeudadas a la actora, en tanto ello le ocasiona un perjuicio irremediable al depender de esos recursos para el sostenimiento propio y el de su familia. Se analizó temática relacionada con el derecho a la seguridad social y el pago oportuno de las mesadas pensionales y se decidió confirmar la decisión de instancia que declaró la IMPROCEDENCIA de la acción constitucional, al no encontrarse evidencia de la afectación del mínimo vital de la peticionaria, en tanto cuenta con otros ingresos que le permiten su subsistencia y el cubrimiento de sus necesidades básicas, además que para la satisfacción de la pretensión cuenta con otros medios de defensa judicial.",
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA SEGURIDAD SOCIAL",
+      "subtema": "Fundamental por conexidad"
+    },
+    {
+      "tema": "MINIMO VITAL",
+      "subtema": "Definición"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Procedencia excepcional pago de acreencias laborales"
+    },
+    {
+      "tema": "DERECHO AL MINIMO VITAL DEL PENSIONADO",
+      "subtema": "Improcedencia de tutela por no demostración de afectación"
+    },
+    {
+      "tema": "DERECHO A LA VIDA DIGNA DEL PENSIONADO",
+      "subtema": "Pago oportuno de mesadas"
+    }
+  ]
+}

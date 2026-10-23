@@ -1,0 +1,54 @@
+{
+  "radicado": "C-1048-00",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-08-10",
+  "magistrado_ponente": "Dr JOSÉ GREGORIO HERNÁNDEZ GALINDO",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "SENTENCIA INHIBITORIA POR INEXISTENCIA DE PROPOSICION JURIDICA COMPLETA",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 89 de 1984",
+    "Decreto 2067 de 1991",
+    "Ley 19 de 1983",
+    "Decreto Ley 95 de 1989",
+    "Decreto Ley 1211 de 1990",
+    "Decreto 95 de 1989"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/C-1048-00.htm",
+  "fecha_descarga": "2026-10-23T04:16:17.391153+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-08-10",
+  "fecha_publicacion": null,
+  "numero": "C-1048/00",
+  "tipo_cc": "C",
+  "prov_id": "17634",
+  "tema_relatoria": "DECRETO 0089 DE 1984. ART.177. REORGANIZA LA CARRERA DE OFICIALES Y SUBOFICIALES DE LAS FUERZAS MILITARES. ORDEN DE PREFERENCIA DE LOS BENEFICIARIOS QUE LA LEY LES RECONOCE EL DERECHO A LAS PRESTACIONES SOCIALES Y A LA PENSION POR CAUSA DE MUERTE. INHIBIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "SENTENCIA INHIBITORIA POR INEXISTENCIA DE PROPOSICION JURIDICA COMPLETA",
+      "subtema": null
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "No puede prosperar cuando se parte de disposiciones imaginarias"
+    },
+    {
+      "tema": "INHIBICION DE LA CORTE CONSTITUCIONAL",
+      "subtema": "Ineptitud sustantiva de la demanda"
+    },
+    {
+      "tema": "INHIBICION DE LA CORTE CONSTITUCIONAL",
+      "subtema": "Derogación de norma"
+    },
+    {
+      "tema": "PENSIÓN DE SOBREVIVIENTES",
+      "subtema": "Orden de beneficiarios en fuerzas militares"
+    }
+  ]
+}

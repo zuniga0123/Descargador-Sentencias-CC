@@ -1,0 +1,48 @@
+{
+  "radicado": "T-416-99",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1999,
+  "fecha_creacion": "1999-06-09",
+  "magistrado_ponente": "Dra MARTHA VICTORIA SÁCHICA DE MONCALEANO",
+  "area": "Derecho a la Salud",
+  "tema": "DERECHO A LA VIDA DIGNA",
+  "subtema": "No suministro de tratamientos y medicamentos de alto costo",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Decreto 2591 de 1991",
+    "Decreto 806 de 1998",
+    "Decreto 1938 de 1994"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1999/T-416-99.htm",
+  "fecha_descarga": "2026-10-23T04:27:36.453278+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1999-06-09",
+  "fecha_publicacion": "1999-07-13",
+  "numero": "T-416/99",
+  "tipo_cc": "T",
+  "prov_id": "15885",
+  "tema_relatoria": "DER. A LA SALUD Y A LA VIDA. DER. A LA SEGURIDAD SOCIAL. NO ATENCION DE ENFERMEDADES CATASTROFICAS POR NO CUMPLIR PERIODOS DE COTIZACION. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA VIDA DIGNA",
+      "subtema": "No suministro de tratamientos y medicamentos de alto costo"
+    },
+    {
+      "tema": "INAPLICACION DE NORMAS DEL PLAN OBLIGATORIO DE SALUD",
+      "subtema": "Casos en que procede por exclusión de tratamientos y medicamentos de alto costo"
+    },
+    {
+      "tema": "ENFERMEDADES CATASTROFICAS O RUINOSAS",
+      "subtema": "Periodos mínimos de cotización"
+    },
+    {
+      "tema": "SUBCUENTA DEL FONDO DE SOLIDARIDAD Y GARANTIA DEL SISTEMA GENERAL DE SEGURIDAD SOCIAL EN SALUD",
+      "subtema": "Reclamo por sobrecostos de tratamiento excluido del POS"
+    }
+  ]
+}

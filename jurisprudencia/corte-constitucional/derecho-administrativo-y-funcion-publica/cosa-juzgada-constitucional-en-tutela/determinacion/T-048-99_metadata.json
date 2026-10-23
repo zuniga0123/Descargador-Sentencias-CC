@@ -1,0 +1,70 @@
+{
+  "radicado": "T-048-99",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1999,
+  "fecha_creacion": "1999-02-01",
+  "magistrado_ponente": "Dr JOSE GREGORIO HERNANDEZ GALINDO",
+  "area": "Derecho Administrativo y Función Pública",
+  "tema": "COSA JUZGADA CONSTITUCIONAL EN TUTELA",
+  "subtema": "Determinación",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 99 de 1993",
+    "Decreto 2700 de 1991",
+    "Ley 393 de 1997",
+    "Decreto Ley 2591 de 1991",
+    "Decreto 1 de 1984"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1999/T-048-99.htm",
+  "fecha_descarga": "2026-10-23T04:29:53.562794+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1999-02-01",
+  "fecha_publicacion": null,
+  "numero": "T-048/99",
+  "tipo_cc": "T",
+  "prov_id": "15476",
+  "tema_relatoria": "DEBIDO PROCESO. INCOMPETENCIA DE LA FISCALIA PARA SUSPENDER ACTOS ADMINISTRATIVOS. ALCALDE YUMBO CORPORACION AUTONOMA REGIONAL DEL VALLE. CONCEDIDA PARCIALMENTE.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "COSA JUZGADA CONSTITUCIONAL EN TUTELA",
+      "subtema": "Determinación"
+    },
+    {
+      "tema": "DEBIDO PROCESO PENAL",
+      "subtema": "Incompetencia de la Fiscalía para suspender actos administrativos"
+    },
+    {
+      "tema": "JURISDICCION CONTENCIOSO ADMINISTRATIVA",
+      "subtema": "Impugnación de decisiones adoptadas por la administración"
+    },
+    {
+      "tema": "SUSPENSION PROVISIONAL E INAPLICACION DE ACTO ADMINISTRATIVO EN MATERIA DE TUTELA",
+      "subtema": "Competencia"
+    },
+    {
+      "tema": "ACTO ADMINISTRATIVO",
+      "subtema": "Competencia para suspensión, modificación o anulación"
+    },
+    {
+      "tema": "ACTO ADMINISTRATIVO",
+      "subtema": "Incompetencia de la Fiscalía para suspensión o revocación"
+    },
+    {
+      "tema": "ACTO ADMINISTRATIVO",
+      "subtema": "Suspensión, en principio, por juez administrativo"
+    },
+    {
+      "tema": "COSA JUZGADA CONSTITUCIONAL EN TUTELA",
+      "subtema": "Inexistencia por ausencia de identidad entre las partes"
+    },
+    {
+      "tema": "FISCAL GENERAL DE LA NACION",
+      "subtema": "Incompetencia para suspender actos administrativos"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "radicado": "C-600-00",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-05-24",
+  "magistrado_ponente": "Dr CARLOS GAVIRIA DIAZ",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "INHIBICION DE LA CORTE CONSTITUCIONAL",
+  "subtema": "Argumento que versa sobre materia distinta a la consagrada por norma acusada",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 228 de 1995"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/C-600-00.htm",
+  "fecha_descarga": "2026-10-23T04:09:43.934508+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-05-24",
+  "fecha_publicacion": null,
+  "numero": "C-600/00",
+  "tipo_cc": "C",
+  "prov_id": "17181",
+  "tema_relatoria": "FALLO INHIBITORIO POR INEPTITUD SUSTANTIVA DE LA DEMANDA CONTRA NORMA DE LA LEY 228 DE 1995",
+  "resumen": "LEY 228/95. ART. 18 (P). CAPTURA EN FLAGRANCIA. TERMINO PARA PONER EL CAPTURADO A DISPOSICION DEL FUNCIONARIO. CONTRAVFENCIONES. SENTENCIA INHIBITORIA.",
+  "titulaciones": [
+    {
+      "tema": "INHIBICION DE LA CORTE CONSTITUCIONAL",
+      "subtema": "Argumento que versa sobre materia distinta a la consagrada por norma acusada"
+    },
+    {
+      "tema": "INHIBICION DE LA CORTE CONSTITUCIONAL",
+      "subtema": "Ausencia de concepto de vulneración"
+    }
+  ]
+}

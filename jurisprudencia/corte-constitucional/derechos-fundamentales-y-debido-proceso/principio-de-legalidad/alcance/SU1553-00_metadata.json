@@ -1,0 +1,61 @@
+{
+  "radicado": "SU1553-00",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-11-21",
+  "magistrado_ponente": "Dr JAIRO CHARRY RIVAS",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "PRINCIPIO DE LEGALIDAD",
+  "subtema": "Alcance",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/SU1553-00.htm",
+  "fecha_descarga": "2026-10-23T04:25:22.598324+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-11-21",
+  "fecha_publicacion": "2001-01-12",
+  "numero": "SU.1553/00",
+  "tipo_cc": "SU",
+  "prov_id": "18221",
+  "tema_relatoria": "DEBIDO PROCESO. PRINCIPIO DE LA NO REFORMATIO IN PEJUS. INCREMENTO DE LA PENA SIN RECONOCER QUE ES UNICO INTERESADO EN LA DEMANDA DE CASACION. SUPREMACIA DE LA DOCTRINA CONSTITUCIONAL. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "PRINCIPIO DE LEGALIDAD",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "FUNCION JUDICIAL",
+      "subtema": "Es reglada"
+    },
+    {
+      "tema": "PRINCIPIO NO REFORMATIO IN PEJUS",
+      "subtema": "No vulneración"
+    },
+    {
+      "tema": "PREVALENCIA DE LA DOCTRINA CONSTITUCIONAL",
+      "subtema": null
+    },
+    {
+      "tema": "VIA DE HECHO POR DESCONOCIMIENTO DEL PRINCIPIO NO REFORMATIO IN PEJUS",
+      "subtema": null
+    },
+    {
+      "tema": "PRINCIPIO DE LEGALIDAD DE LA PENA",
+      "subtema": "Vulneración"
+    },
+    {
+      "tema": "PRINCIPIO NO REFORMATIO IN PEJUS",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "TRIBUNAL DE CASACION",
+      "subtema": "No puede establecer excepciones a la prohibición de agravar la pena del apelante único"
+    }
+  ]
+}

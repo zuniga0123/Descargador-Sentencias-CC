@@ -1,0 +1,70 @@
+{
+  "radicado": "C-1269-00",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-09-20",
+  "magistrado_ponente": "Dr FABIO MORON DIAZ",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "CORTE CONSTITUCIONAL",
+  "subtema": "Incompetencia para aclarar alcance de normas",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 132 de 1995",
+    "Decreto 1091 de 1995",
+    "Ley 180 de 1995",
+    "Decreto 2067 de 1991",
+    "Decreto 41 de 1994",
+    "Decreto 132 de 1995",
+    "Decreto Ley 132 de 1995",
+    "Decreto 1212 de 1990",
+    "Decreto 1313 de 1990",
+    "Decreto 1095 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/C-1269-00.htm",
+  "fecha_descarga": "2026-10-23T04:17:01.396814+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-09-20",
+  "fecha_publicacion": null,
+  "numero": "C-1269/00",
+  "tipo_cc": "C",
+  "prov_id": "17862",
+  "tema_relatoria": "DECRETO 132 DE 1995. CARRERA PROFESIONAL DEL NIVEL EJECUTIVO DE LA POLICIA NACIONAL. DECRETO 1091 DE 1995. ART. 58 IB. Y 51. REGIMEN DE ASIGNACIONES Y PRESTACIONES DE RETIRO POR LLAMAMIENTO A CALIFICAR SERVICIOS. EXEQUIBLE. INHIBIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "CORTE CONSTITUCIONAL",
+      "subtema": "Incompetencia para aclarar alcance de normas"
+    },
+    {
+      "tema": "LEY DE FACULTADES EXTRAORDINARIAS",
+      "subtema": "Límite temporal"
+    },
+    {
+      "tema": "LEY DE FACULTADES EXTRAORDINARIAS",
+      "subtema": "Concesión a partir de promulgación"
+    },
+    {
+      "tema": "CONTROL DE CONSTITUCIONALIDAD",
+      "subtema": "Improcedencia sobre desarrollo o aplicación de la norma"
+    },
+    {
+      "tema": "FACULTADES EXTRAORDINARIAS",
+      "subtema": "Ejercicio"
+    },
+    {
+      "tema": "LEY DE FACULTADES EXTRAORDINARIAS",
+      "subtema": "Promulgación concomitante con decretos"
+    },
+    {
+      "tema": "DECRETO REGLAMENTARIO",
+      "subtema": "Incompetencia de la Corte Constitucional"
+    },
+    {
+      "tema": "FACULTADES EXTRAORDINARIAS",
+      "subtema": "Límite material"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "radicado": "C-561-00",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-05-17",
+  "magistrado_ponente": "Dr ANTONIO BARRERA CARBONELL",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "NULIDAD POR FALTA DE COMPETENCIA FUNCIONAL",
+  "subtema": "No saneamiento",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2282 de 1989",
+    "Decreto 2067 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/C-561-00.htm",
+  "fecha_descarga": "2026-10-23T04:10:38.937796+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-05-17",
+  "fecha_publicacion": null,
+  "numero": "C-561/00",
+  "tipo_cc": "C",
+  "prov_id": "17153",
+  "tema_relatoria": "FALLO INHIBITORIO POR INEPTITUD SUSTANTIVA DE LA DEMANDA CONTRA NORMA DEL DECRETO LEY 2282/89",
+  "resumen": "DECRETO 2282 DE 1989. ART. 1 NUM. 84 REFORMO EL ART. 144 DEL C.P.C. SANEAMIENTO DE LA NULIDAD. SENTENCIA INHIBITORIA.",
+  "titulaciones": [
+    {
+      "tema": "NULIDAD POR FALTA DE COMPETENCIA FUNCIONAL",
+      "subtema": "No saneamiento"
+    },
+    {
+      "tema": "INHIBICION DE LA CORTE CONSTITUCIONAL",
+      "subtema": "Ausencia de cargos"
+    }
+  ]
+}

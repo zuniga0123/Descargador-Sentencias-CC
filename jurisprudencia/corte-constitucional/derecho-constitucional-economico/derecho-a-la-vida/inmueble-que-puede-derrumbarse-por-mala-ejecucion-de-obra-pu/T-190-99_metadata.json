@@ -1,0 +1,49 @@
+{
+  "radicado": "T-190-99",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1999,
+  "fecha_creacion": "1999-03-24",
+  "magistrado_ponente": "Dr FABIO MORON DIAZ",
+  "area": "Derecho Constitucional Económico",
+  "tema": "DERECHO A LA VIDA",
+  "subtema": "Inmueble que puede derrumbarse por mala ejecución de obra pública",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1999/T-190-99.htm",
+  "fecha_descarga": "2026-10-23T04:32:31.634486+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1999-03-24",
+  "fecha_publicacion": null,
+  "numero": "T-190/99",
+  "tipo_cc": "T",
+  "prov_id": "15640",
+  "tema_relatoria": "DER. A LA VIDA. DER. A LA VIVIENDA DIGNA. DETERIORO DE VIVIENDA POR CANALIZACION DE QUEBRADA. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA VIDA",
+      "subtema": "Inmueble que puede derrumbarse por mala ejecución de obra pública"
+    },
+    {
+      "tema": "DERECHO A LA VIVIENDA DIGNA",
+      "subtema": "Protección ante mala ejecución de obra pública que afecta un derecho fundamental"
+    },
+    {
+      "tema": "MEDIO DE DEFENSA JUDICIAL INEFICAZ",
+      "subtema": "Mala ejecución de obra pública que deterioró estructura de vivienda amenazando vidas de habitantes"
+    },
+    {
+      "tema": "MEDIO DE DEFENSA JUDICIAL",
+      "subtema": "Apreciación por el juez de tutela en relación con los derechos fundamentales"
+    },
+    {
+      "tema": "MEDIO DE DEFENSA JUDICIAL",
+      "subtema": "Evaluación y calificación por el juez de tutela en cuanto a su eficacia"
+    }
+  ]
+}

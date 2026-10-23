@@ -1,0 +1,85 @@
+{
+  "radicado": "SU1723-00",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-12-12",
+  "magistrado_ponente": null,
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCION DE TUTELA CONTRA PARTICULARES",
+  "subtema": "Indefensión",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/SU1723-00.htm",
+  "fecha_descarga": "2026-10-23T04:26:00.074003+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-12-12",
+  "fecha_publicacion": null,
+  "numero": "SU.1723/00",
+  "tipo_cc": "SU",
+  "prov_id": "18391",
+  "tema_relatoria": "DERECHO A LA INTIMIDAD HONRA BUEN NOMBRE Y DEBIDO PROCESO. PRESUNCION DE INOCENCIA. LIBERTAD DE INFORMACION. PROGRAMA UNIDAD INVESTIGATIVA. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCION DE TUTELA CONTRA PARTICULARES",
+      "subtema": "Indefensión"
+    },
+    {
+      "tema": "DERECHO A LA INTIMIDAD Y AL BUEN NOMBRE",
+      "subtema": "Vulneración"
+    },
+    {
+      "tema": "DERECHO A LA LIBERTAD DE EXPRESION",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "INJERENCIA DEL DERECHO AL HONOR E INTROMISION DEL DERECHO A LA INTIMIDAD",
+      "subtema": "Diferencias"
+    },
+    {
+      "tema": "PRINCIPIO DE RELEVANCIA PUBLICA",
+      "subtema": null
+    },
+    {
+      "tema": "DERECHO A INFORMAR EN MEDIOS MASIVOS DE COMUNICACION",
+      "subtema": null
+    },
+    {
+      "tema": "CALIDAD DE LA INFORMACION",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "PRINCIPIO DE IMPARCIALIDAD",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "LIBERTAD DE INFORMACIÓN",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "DERECHO A LA INFORMACIÓN",
+      "subtema": "Es de doble vía"
+    },
+    {
+      "tema": "DERECHO A LA INFORMACIÓN",
+      "subtema": "Personajes públicos"
+    },
+    {
+      "tema": "DERECHO A LA LIBERTAD DE INFORMACION",
+      "subtema": "Es de doble vía"
+    },
+    {
+      "tema": "VERACIDAD E IMPARCIALIDAD DE LA INFORMACION",
+      "subtema": "Programa de televisión Unidad Investigativa"
+    },
+    {
+      "tema": "VERACIDAD DE LA INFORMACION",
+      "subtema": "Alcance"
+    }
+  ]
+}

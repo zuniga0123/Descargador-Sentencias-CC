@@ -1,0 +1,51 @@
+{
+  "radicado": "C-1378-00",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-10-11",
+  "magistrado_ponente": "Dr ANTONIO BARRERA CARBONELL",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "INHIBICION DE LA CORTE CONSTITUCIONAL",
+  "subtema": "Ineptitud sustantiva de la demanda",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto Ley 1333 de 1986",
+    "Ley 97 de 1913",
+    "Ley 26 de 1904",
+    "Ley 373 de 1986",
+    "Ley 84 de 1915",
+    "Decreto 2067 de 1991",
+    "Decreto 1333 de 1986"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/C-1378-00.htm",
+  "fecha_descarga": "2026-10-23T04:19:14.018976+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-10-11",
+  "fecha_publicacion": null,
+  "numero": "C-1378/00",
+  "tipo_cc": "C",
+  "prov_id": "17978",
+  "tema_relatoria": "DECRETO 333 DE 1986. ARTS. 195 196 197 198 199 200 Y 259. CODIGO DE REGIMEN MUNICIPAL. PROCEDIMIENTO ORDINARIO. IMPUESTO DE INDUSTRIA Y COMERCIO. ACTIVIDADES INDUSTRIALES COMERCIALES Y DE SERVICIO. IMPUESTO DE AVISOS Y TABLEROS. CARGA TRIBUTARIA AFECTA LOS RECURSOS DE LAS EPS Y ARP. INHIBIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "INHIBICION DE LA CORTE CONSTITUCIONAL",
+      "subtema": "Ineptitud sustantiva de la demanda"
+    },
+    {
+      "tema": "CONTROL DE CONSTITUCIONALIDAD",
+      "subtema": "Improcedencia para excluir de regulación"
+    },
+    {
+      "tema": "CONTROL DE CONSTITUCIONALIDAD",
+      "subtema": "Improcedencia sobre aplicación y efectos de norma"
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "No protección de intereses económicos particulares"
+    }
+  ]
+}

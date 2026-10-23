@@ -1,0 +1,59 @@
+{
+  "radicado": "T-415-99",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1999,
+  "fecha_creacion": "1999-06-09",
+  "magistrado_ponente": "Dra MARTHA VICTORIA SÁCHICA MÉNDEZ",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "DERECHO DE PETICIÓN",
+  "subtema": "Alcance",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 393 de 1997",
+    "Ley 50 de 1990",
+    "Decreto 1469 de 1978"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1999/T-415-99.htm",
+  "fecha_descarga": "2026-10-23T04:27:40.067398+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1999-06-09",
+  "fecha_publicacion": "1999-07-08",
+  "numero": "T-415/99",
+  "tipo_cc": "T",
+  "prov_id": "15884",
+  "tema_relatoria": "DER. DE PETICION. DEBIDO PROCESO. MORA EN LA RESOLUCION DE SOLICITUDES POR EL MINISTERIO DE TRABAJO. SUSTRACCION DE MATERIA. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO DE PETICIÓN",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "PREVENCION A DIRECCION REGIONAL DE TRABAJO Y SEGURIDAD SOCIAL",
+      "subtema": "Estudio económico no efectuado dentro de los términos legales"
+    },
+    {
+      "tema": "PERSONA JURIDICA",
+      "subtema": "Titularidad de derechos fundamentales"
+    },
+    {
+      "tema": "DERECHO DE PETICION POR PERSONA JURIDICA",
+      "subtema": "Solicitud de autorización de suspensión de contratos de trabajo ante el Ministerio de Trabajo y Dirección Regional"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Carencia actual de objeto"
+    },
+    {
+      "tema": "MINISTERIO DE TRABAJO Y SEGURIDAD SOCIAL",
+      "subtema": "Respuesta oportuna de solicitud de suspensión de actividades o clausura temporal de empresa"
+    },
+    {
+      "tema": "DEBIDO PROCESO DE PERSONA JURIDICA",
+      "subtema": "Respuesta tardía sobre autorización de suspensión de actividades o clausura de empresa"
+    }
+  ]
+}

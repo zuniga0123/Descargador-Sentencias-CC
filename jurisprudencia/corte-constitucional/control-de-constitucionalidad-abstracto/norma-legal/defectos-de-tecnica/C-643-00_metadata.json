@@ -1,0 +1,71 @@
+{
+  "radicado": "C-643-00",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-05-31",
+  "magistrado_ponente": "Dr ALVARO TAFUR GALVIS",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "NORMA LEGAL",
+  "subtema": "Defectos de técnica",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 5 de 1992",
+    "Decreto 2067 de 1991",
+    "Ley 134 de 1994"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/C-643-00.htm",
+  "fecha_descarga": "2026-10-23T04:21:22.373265+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-05-31",
+  "fecha_publicacion": null,
+  "numero": "C-643/00",
+  "tipo_cc": "C",
+  "prov_id": "17226",
+  "tema_relatoria": "MECANISMOS DE PARTICIPACION CIUDADANA. FORTALECIMIENTO Y PROFUNDIZACIÓN",
+  "resumen": "LEY 5/92. ART. 142. No 18. REFERENDO. EXEQUIBLE.",
+  "titulaciones": [
+    {
+      "tema": "NORMA LEGAL",
+      "subtema": "Defectos de técnica"
+    },
+    {
+      "tema": "PARTICIPACION DEMOCRATICA",
+      "subtema": "Principio fundante y fin esencial"
+    },
+    {
+      "tema": "PARTICIPACION CIUDADANA",
+      "subtema": "Ejercicio del poder público legislativo"
+    },
+    {
+      "tema": "PARTICIPACION CIUDADANA",
+      "subtema": "Deber"
+    },
+    {
+      "tema": "PARTICIPACION CIUDADANA",
+      "subtema": "Presentación de proyectos de ley"
+    },
+    {
+      "tema": "PRINCIPIO DE CONSERVACION DEL DERECHO",
+      "subtema": "Interpretación sistemática de disposiciones"
+    },
+    {
+      "tema": "MECANISMOS DE PARTICIPACION CIUDADANA",
+      "subtema": "Fortalecimiento y profundización"
+    },
+    {
+      "tema": "DEMOCRACIA PARTICIPATIVA",
+      "subtema": "Bien ciudadano"
+    },
+    {
+      "tema": "INICIATIVA POPULAR",
+      "subtema": "Presentación de proyectos de ley"
+    },
+    {
+      "tema": "REFERENDO",
+      "subtema": "Iniciativa ciudadana para proyecto de reforma constitucional"
+    }
+  ]
+}

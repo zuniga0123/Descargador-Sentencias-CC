@@ -1,0 +1,86 @@
+{
+  "radicado": "C-662-00",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-06-08",
+  "magistrado_ponente": "Dr FABIO MORóN DíAZ",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "ADMINISTRACION DE JUSTICIA",
+  "subtema": "No todos los aspectos deben ser regulados por ley estatutaria",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 527 de 1999",
+    "Decreto 2067 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/C-662-00.htm",
+  "fecha_descarga": "2026-10-23T04:12:10.411956+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-06-08",
+  "fecha_publicacion": null,
+  "numero": "C-662/00",
+  "tipo_cc": "C",
+  "prov_id": "17247",
+  "tema_relatoria": "VALOR PROBATORIO DE MENSAJES ELECTRONICOS",
+  "resumen": "LEY 527/99. ARTS. 10 A 15 Y 27 A 45. COMERCIO ELECTRONICO. VALOR PROBATORIO DE LOS MENSAJES DE DATOS. FIRMAS DIGITALES. EXEQUIBLES.",
+  "titulaciones": [
+    {
+      "tema": "ADMINISTRACION DE JUSTICIA",
+      "subtema": "No todos los aspectos deben ser regulados por ley estatutaria"
+    },
+    {
+      "tema": "CERTIFICACION TECNICA",
+      "subtema": "Transacciones comerciales por vía informática y mensaje de datos"
+    },
+    {
+      "tema": "MEDIOS DE COMUNICACIÓN",
+      "subtema": "Modernización"
+    },
+    {
+      "tema": "DERECHO A LA INFORMACIÓN",
+      "subtema": "Transacciones comerciales telemáticas"
+    },
+    {
+      "tema": "FUNCION PUBLICA POR PARTICULARES",
+      "subtema": "Servicio de certificación"
+    },
+    {
+      "tema": "FUNCION NOTARIAL",
+      "subtema": "Regulación por legislador"
+    },
+    {
+      "tema": "CODIGO",
+      "subtema": "Expedición"
+    },
+    {
+      "tema": "VALOR PROBATORIO DE MENSAJES ELECTRONICOS",
+      "subtema": null
+    },
+    {
+      "tema": "ACCESO A LA INFORMACION",
+      "subtema": "Escrita y mensaje de datos"
+    },
+    {
+      "tema": "AUTENTICIDAD DE LA INFORMACION",
+      "subtema": "Función de entidades de certificación"
+    },
+    {
+      "tema": "LIBERTAD INFORMATICA",
+      "subtema": "Intercambio electrónico de informaciones"
+    },
+    {
+      "tema": "PRESTACION DE SERVICIOS PUBLICOS",
+      "subtema": "Entidades de certificación"
+    },
+    {
+      "tema": "UNIDAD NORMATIVA",
+      "subtema": "Aplicación"
+    },
+    {
+      "tema": "RESERVA DE LEY ESTATUTARIA EN MATERIA DE JUSTICIA",
+      "subtema": "Sentido restrictivo"
+    }
+  ]
+}

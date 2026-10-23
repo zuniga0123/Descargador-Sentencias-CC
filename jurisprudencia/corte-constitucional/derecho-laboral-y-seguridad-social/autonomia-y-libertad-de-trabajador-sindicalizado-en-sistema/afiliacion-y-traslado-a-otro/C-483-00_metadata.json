@@ -1,0 +1,46 @@
+{
+  "radicado": "C-483-00",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-05-04",
+  "magistrado_ponente": "Dr JOSÉ GREGORIO HERNÁNDEZ GALINDO",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "AUTONOMIA Y LIBERTAD DE TRABAJADOR SINDICALIZADO EN SISTEMA DE SEGURIDAD SOCIAL INTEGRAL",
+  "subtema": "Afiliación y traslado a otro",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Decreto 2067 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/C-483-00.htm",
+  "fecha_descarga": "2026-10-23T04:23:40.280418+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-05-04",
+  "fecha_publicacion": null,
+  "numero": "C-483/00",
+  "tipo_cc": "C",
+  "prov_id": "17045",
+  "tema_relatoria": "AUTONOMIA Y LIBERTAD DE TRABAJADOR SINDICALIZADO EN SISTEMA DE SEGURIDAD SOCIAL INTEGRAL. AFILIACIÓN Y TRASLADO A OTRO",
+  "resumen": "LEY 100/93. ART. 274. ASESORIA Y ELECCION A TRAVES DE LAS ORGANIZACIONES SINDICALES. EXEQUIBLE.",
+  "titulaciones": [
+    {
+      "tema": "AUTONOMIA Y LIBERTAD DE TRABAJADOR SINDICALIZADO EN SISTEMA DE SEGURIDAD SOCIAL INTEGRAL",
+      "subtema": "Afiliación y traslado a otro"
+    },
+    {
+      "tema": "PROPOSICION JURIDICA COMPLETA",
+      "subtema": "Integración"
+    },
+    {
+      "tema": "ORGANIZACION SINDICAL EN SISTEMA DE SEGURIDAD SOCIAL INTEGRAL",
+      "subtema": "Afiliación y selección de instituciones sometida a decisión de mayoría y aplicable a voto afirmativo"
+    },
+    {
+      "tema": "ORGANIZACION SINDICAL EN SISTEMA DE SEGURIDAD SOCIAL INTEGRAL",
+      "subtema": "Asesoría de afiliados para escogencia de entidad sujeto a votación"
+    }
+  ]
+}

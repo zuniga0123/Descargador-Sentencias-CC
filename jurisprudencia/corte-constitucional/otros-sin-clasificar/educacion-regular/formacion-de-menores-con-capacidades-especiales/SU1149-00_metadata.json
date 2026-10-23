@@ -1,0 +1,56 @@
+{
+  "radicado": "SU1149-00",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-08-30",
+  "magistrado_ponente": "Dr ANTONIO BARRERA CARBONELL",
+  "area": "Otros - Sin clasificar",
+  "tema": "EDUCACION REGULAR",
+  "subtema": "Formación de menores con capacidades especiales",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 115 de 1994",
+    "Decreto 1860 de 1994",
+    "Ley 361 de 1997",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/SU1149-00.htm",
+  "fecha_descarga": "2026-10-23T04:26:30.364416+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-08-30",
+  "fecha_publicacion": null,
+  "numero": "SU.1149/00",
+  "tipo_cc": "SU",
+  "prov_id": "17740",
+  "tema_relatoria": "DERECHO A LA EDUCACION ESPECIAL DE MENORES CON CAPACIDADES Y TALENTOS EXCEPCIONALES. DESESCOLARIZACION FORZOSA. SISTEMAS DE FINANCIACION CON EL ICETEX.. PLAN DE EDUCACION OFICIAL. SUBSIDIOS Y BECAS SEGUN CALIFICACION DE MERITOS. CONCEDIDA PARCIALMENTE.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "EDUCACION REGULAR",
+      "subtema": "Formación de menores con capacidades especiales"
+    },
+    {
+      "tema": "DERECHO A LA EDUCACIÓN",
+      "subtema": "Padres pueden escoger la educación de sus hijos"
+    },
+    {
+      "tema": "EDUCACION ESPECIAL",
+      "subtema": "Fundamental"
+    },
+    {
+      "tema": "EDUCACION ESPECIAL DEL MENOR CON CAPACIDADES ESPECIALES",
+      "subtema": "Financiación insuficiente por el ICETEX"
+    },
+    {
+      "tema": "EDUCACION ESPECIAL",
+      "subtema": "Función social"
+    },
+    {
+      "tema": "DERECHO A LA EDUCACIÓN",
+      "subtema": "Fundamental"
+    }
+  ]
+}

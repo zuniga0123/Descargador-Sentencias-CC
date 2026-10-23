@@ -1,0 +1,49 @@
+{
+  "radicado": "C-1050-00",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-08-10",
+  "magistrado_ponente": "Dr ANTONIO BARRERA CARBONELL",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "DERECHO DE LA VIUDA A RECIBIR PENSION DE SOBREVIVIENTE",
+  "subtema": "Nuevo matrimonio",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2701 de 1988",
+    "Decreto 2067 de 1991",
+    "Ley 5 de 1988",
+    "Ley 100 de 1993",
+    "Ley 2701 de 1988"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/C-1050-00.htm",
+  "fecha_descarga": "2026-10-23T04:16:21.009878+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-08-10",
+  "fecha_publicacion": null,
+  "numero": "C-1050/00",
+  "tipo_cc": "C",
+  "prov_id": "17636",
+  "tema_relatoria": "DECRETO 2701 DE 1988. ART. 49 PARCIAL. PARAGRAFO. REGIMEN PRESTACIONAL DE LOS EMPLEADOS PUBLICOS Y TRABAJADORES OFICIALES ADSCRITOS O VINCULADOS AL MINISTERIO DE DEFENSA NACIONAL. SUSTITUCION PENSIONAL PERDIDA DE ESTE DERECHO POR NUEVAS NUPCIAS. INEXEQUIBLE.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO DE LA VIUDA A RECIBIR PENSION DE SOBREVIVIENTE",
+      "subtema": "Nuevo matrimonio"
+    },
+    {
+      "tema": "DERECHO A LA IGUALDAD EN PENSION DE SOBREVIVIENTES",
+      "subtema": "Trato discriminatorio por nuevas nupcias o vida marital"
+    },
+    {
+      "tema": "DERECHO AL LIBRE DESARROLLO DE LA PERSONALIDAD",
+      "subtema": "Vulneración por contraer nuevo matrimonio"
+    },
+    {
+      "tema": "REGIMEN EXCEPCIONAL EN SISTEMA INTEGRAL DE SEGURIDAD SOCIAL",
+      "subtema": "Tratamiento inequitativo"
+    }
+  ]
+}

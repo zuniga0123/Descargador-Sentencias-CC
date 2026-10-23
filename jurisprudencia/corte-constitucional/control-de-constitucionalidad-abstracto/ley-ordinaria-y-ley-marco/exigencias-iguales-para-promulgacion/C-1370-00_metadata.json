@@ -1,0 +1,50 @@
+{
+  "radicado": "C-1370-00",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-10-11",
+  "magistrado_ponente": null,
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "LEY ORDINARIA Y LEY MARCO",
+  "subtema": "Exigencias iguales para promulgación",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 35 de 1993",
+    "Decreto 663 de 1993",
+    "Ley 510 de 1999",
+    "Decreto 2067 de 1991",
+    "Ley 45 de 1990",
+    "Decreto Ley 663 de 1993"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/C-1370-00.htm",
+  "fecha_descarga": "2026-10-23T04:18:22.749479+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-10-11",
+  "fecha_publicacion": null,
+  "numero": "C-1370/00",
+  "tipo_cc": "C",
+  "prov_id": "17970",
+  "tema_relatoria": "DECRETO 663 DE 1993. VARIOS ARTICULOS. ESTATUTO ORGANICO DEL SISTEMA FINANCIERO. LEY 510 DE 1999. ARTS. 1 A 42 44 45 46 62 63 78 105 106 119 Y 123 (P.). SISTEMA FINANCIERO Y ASEGURADOR. MERCADO PUBLICO DE VALORES Y SUPERBANCARIA. LEY 35 DE 1993. ACTIVIDAD BURSATIL. EXEQUIBLES.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "LEY ORDINARIA Y LEY MARCO",
+      "subtema": "Exigencias iguales para promulgación"
+    },
+    {
+      "tema": "LEY ORDINARIA Y LEY MARCO",
+      "subtema": "Exigencias para formación"
+    },
+    {
+      "tema": "LEY MARCO EN ACTIVIDAD FINANCIERA, BURSATIL Y ASEGURADORA",
+      "subtema": "Ausencia en financiación de vivienda a largo plazo"
+    },
+    {
+      "tema": "INHIBICION DE LA CORTE CONSTITUCIONAL",
+      "subtema": "Ausencia de concepto de vulneración"
+    }
+  ]
+}

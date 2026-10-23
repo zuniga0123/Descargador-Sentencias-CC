@@ -1,0 +1,66 @@
+{
+  "radicado": "C-1712-00",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-12-12",
+  "magistrado_ponente": "Dra CRISTINA PARDO SCHLESINGER",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "CONSEJO NACIONAL DE CIENCIA Y TECNOLOGIA",
+  "subtema": "Objeto institucional",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 344 de 1996",
+    "Decreto 2067 de 1991",
+    "Ley 119 de 1999",
+    "Ley 119 de 1994",
+    "Decreto 585 de 1991",
+    "Ley 29 de 1990"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/C-1712-00.htm",
+  "fecha_descarga": "2026-10-23T04:14:41.683112+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-12-12",
+  "fecha_publicacion": null,
+  "numero": "C-1712/00",
+  "tipo_cc": "C",
+  "prov_id": "18380",
+  "tema_relatoria": "LEY 344 DE 1996. ART. 16. PARAG. RACIONALIZACION DEL GASTO PUBLICO Y SE CONCEDEN UNAS FACULTADES EXTRAORDINARIAS. INGRESOS CORRESPONDIENTES A LOS APORTES SOBRE LAS NOMINAS. DIRECTORES DEL SENA Y COLCIENCIAS. UNIDAD DE MATERIA. EXEQUIBLE.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "CONSEJO NACIONAL DE CIENCIA Y TECNOLOGIA",
+      "subtema": "Objeto institucional"
+    },
+    {
+      "tema": "SERVICIO NACIONAL DE APRENDIZAJE",
+      "subtema": "Director de Colciencias hace parte de Consejo Directivo"
+    },
+    {
+      "tema": "PRINCIPIO DE UNIDAD DE MATERIA",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "PRINCIPIO DE UNIDAD DE MATERIA",
+      "subtema": "Norma ajena al tema principal"
+    },
+    {
+      "tema": "LEY",
+      "subtema": "Relación de conexidad con materia"
+    },
+    {
+      "tema": "LEY",
+      "subtema": "Reducción, racionalización y reasignación de recursos"
+    },
+    {
+      "tema": "SERVICIO NACIONAL DE APRENDIZAJE",
+      "subtema": "Director hace parte de Colciencias"
+    },
+    {
+      "tema": "SERVICIO NACIONAL DE APRENDIZAJE",
+      "subtema": "Objeto institucional"
+    }
+  ]
+}

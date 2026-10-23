@@ -1,0 +1,66 @@
+{
+  "radicado": "C-699-00",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-06-14",
+  "magistrado_ponente": "Dr ALEJANDRO MARTÍNEZ CABALLERO",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "PRINCIPIO DE CELERIDAD PROCESAL",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 228 de 1995",
+    "Decreto 2067 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/C-699-00.htm",
+  "fecha_descarga": "2026-10-23T04:08:40.448182+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-06-14",
+  "fecha_publicacion": null,
+  "numero": "C-699/00",
+  "tipo_cc": "C",
+  "prov_id": "17285",
+  "tema_relatoria": "CONTROL DE CONSTITUCIONALIDAD. NECESIDAD DE DETERMINAR EL SIGNIFICADO DE LA NORMA",
+  "resumen": "LEY 228/95. ART. 21 (P). AUDIENCIA PRELIMINAR EN CASO DE QUERELLA. CONTRAVENCIONES. EXEQUIBLE.",
+  "titulaciones": [
+    {
+      "tema": "PRINCIPIO DE CELERIDAD PROCESAL",
+      "subtema": null
+    },
+    {
+      "tema": "CONTROL DE CONSTITUCIONALIDAD",
+      "subtema": "Juicio relacional"
+    },
+    {
+      "tema": "DEBIDO PROCESO PUBLICO SIN DILACIONES INJUSTIFICADAS",
+      "subtema": null
+    },
+    {
+      "tema": "CONTROL DE CONSTITUCIONALIDAD",
+      "subtema": "Necesidad de determinar significado de la norma"
+    },
+    {
+      "tema": "CONTRAVENCION ESPECIAL",
+      "subtema": "Audiencia preliminar"
+    },
+    {
+      "tema": "CORTE CONSTITUCIONAL",
+      "subtema": "Improcedencia de control oficioso"
+    },
+    {
+      "tema": "CORTE CONSTITUCIONAL",
+      "subtema": "Análisis del alcance de la norma acusada"
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "Contenido distinto de la norma"
+    },
+    {
+      "tema": "CORTE CONSTITUCIONAL",
+      "subtema": "Incompetencia para estudiar sugerencias de reforma procesal"
+    }
+  ]
+}

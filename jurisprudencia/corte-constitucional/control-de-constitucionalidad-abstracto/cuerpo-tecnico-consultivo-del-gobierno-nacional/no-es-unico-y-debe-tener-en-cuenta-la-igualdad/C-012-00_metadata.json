@@ -1,0 +1,90 @@
+{
+  "radicado": "C-012-00",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-01-19",
+  "magistrado_ponente": "Dr ALFREDO BELTRÁN SIERRA",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "CUERPO TECNICO CONSULTIVO DEL GOBIERNO NACIONAL",
+  "subtema": "No es único y debe tener en cuenta la igualdad",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2067 de 1991",
+    "Ley 51 de 1986"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/C-012-00.htm",
+  "fecha_descarga": "2026-10-23T04:12:48.026412+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-01-19",
+  "fecha_publicacion": null,
+  "numero": "C-012/00",
+  "tipo_cc": "C",
+  "prov_id": "16530",
+  "tema_relatoria": "CUERPO TECNICO CONSULTIVO DEL GOBIERNO NACIONAL. NO ES ÚNICO Y DEBE TENER EN CUENTA LA IGUALDAD",
+  "resumen": "LEY 51/86. REGLAMENTA PROFESIONES DE INGENIERIA ELECTRICA INGENIERIA MECANICA Y PROFESIONES AFINES. EXEQUIBLES E INEXEQUIBLES.",
+  "titulaciones": [
+    {
+      "tema": "CUERPO TECNICO CONSULTIVO DEL GOBIERNO NACIONAL",
+      "subtema": "No es único y debe tener en cuenta la igualdad"
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "Cargos sobre vicio en la formación de ley que se apoya en simple afirmación y en cita de norma constitucional"
+    },
+    {
+      "tema": "CONSEJO PROFESIONAL NACIONAL DE INGENIERIAS ELECTRICA, MECANICA Y PROFESIONES AFINES",
+      "subtema": "Creación para determinadas profesiones"
+    },
+    {
+      "tema": "CONSEJO PROFESIONAL NACIONAL DE INGENIERIAS ELECTRICA, MECANICA Y PROFESIONES AFINES",
+      "subtema": "Faltas contra la ética profesional"
+    },
+    {
+      "tema": "LEGISLADOR",
+      "subtema": "Función de expedir códigos"
+    },
+    {
+      "tema": "ASOCIACION COLOMBIANA DE INGENIEROS ELECTRICISTAS, MECANICOS Y PROFESIONES AFINES",
+      "subtema": "Órgano consultivo"
+    },
+    {
+      "tema": "CODIGO DE ETICA PROFESIONAL",
+      "subtema": "Incompetencia de expedición por Gobierno Nacional"
+    },
+    {
+      "tema": "CONTROL DE CONSTITUCIONALIDAD",
+      "subtema": "Carácter rogado"
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "Imprecisión en cargos formulados"
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "Cargos de conveniencia"
+    },
+    {
+      "tema": "LEGISLADOR",
+      "subtema": "Reglamentación de profesiones y exigencia de títulos de idoneidad"
+    },
+    {
+      "tema": "LEY",
+      "subtema": "Tipificación de faltas, respeto del debido proceso y garantía de defensa"
+    },
+    {
+      "tema": "LEGISLADOR",
+      "subtema": "Reglamentación general de profesión y específica de ramas de profesión"
+    },
+    {
+      "tema": "LEGISLADOR",
+      "subtema": "Competencia para crear cuerpo dispositivo para inspección y vigilancia del ejercicio de profesiones"
+    },
+    {
+      "tema": "LEGISLADOR",
+      "subtema": "Reglamentación general y anterior de profesión no excluye la específica"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "radicado": "T-088-99",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1999,
+  "fecha_creacion": "1999-02-17",
+  "magistrado_ponente": "Dr JOSE GREGORIO HERNANDEZ GALINDO",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "DEBIDO PROCESO DE TUTELA",
+  "subtema": "Debate sobre el caso concreto debe tramitarse en las instancias",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1999/T-088-99.htm",
+  "fecha_descarga": "2026-10-23T04:30:26.061349+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1999-02-17",
+  "fecha_publicacion": null,
+  "numero": "T-088/99",
+  "tipo_cc": "T",
+  "prov_id": "15532",
+  "tema_relatoria": "FALTA DE LEGITIMACION POR ACTIVA. IMPROCEDENCIA DEL INCIDENTE DE DESACATO. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DEBIDO PROCESO DE TUTELA",
+      "subtema": "Debate sobre el caso concreto debe tramitarse en las instancias"
+    },
+    {
+      "tema": "FALTA DE LEGITIMACION POR ACTIVA EN TUTELA",
+      "subtema": "Tardía ratificación de poder de abogado"
+    },
+    {
+      "tema": "INCIDENTE DE DESACATO",
+      "subtema": "Objeto jurídico"
+    },
+    {
+      "tema": "FALTA DE LEGITIMACION POR ACTIVA EN TUTELA",
+      "subtema": "Abogado con poder de asunto de tutela anterior"
+    },
+    {
+      "tema": "FALTA DE LEGITIMACION POR ACTIVA EN TUTELA",
+      "subtema": "Abogado con poder especial conferido para asunto diferente"
+    },
+    {
+      "tema": "INCIDENTE DE DESACATO",
+      "subtema": "Improcedencia de tutela para atacar la decisión judicial que lo resuelve"
+    },
+    {
+      "tema": "REVISION EVENTUAL FALLO DE TUTELA",
+      "subtema": "Objeto"
+    }
+  ]
+}

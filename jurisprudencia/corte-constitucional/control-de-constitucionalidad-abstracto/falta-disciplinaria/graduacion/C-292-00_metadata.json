@@ -1,0 +1,43 @@
+{
+  "radicado": "C-292-00",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-03-15",
+  "magistrado_ponente": "Dr ALFREDO BELTRÁN SIERRA",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "FALTA DISCIPLINARIA",
+  "subtema": "Graduación",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 200 de 1995",
+    "Decreto 2067 de 1991",
+    "Ley 270 de 1996"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/C-292-00.htm",
+  "fecha_descarga": "2026-10-23T04:21:59.329287+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-03-15",
+  "fecha_publicacion": null,
+  "numero": "C-292/00",
+  "tipo_cc": "C",
+  "prov_id": "16838",
+  "tema_relatoria": "COSA JUZGADA CONSTITUCIONAL. CRITERIOS PARA DETERMINAR LA GRAVEDAD O LEVEDAD DE LA FALTA EN CÓDIGO DISCIPLINARIO UNICO",
+  "resumen": "LEY 200/95 ART 27. ESTARSE A LO RESUELTO EN C-708/99",
+  "titulaciones": [
+    {
+      "tema": "FALTA DISCIPLINARIA",
+      "subtema": "Graduación"
+    },
+    {
+      "tema": "COSA JUZGADA CONSTITUCIONAL",
+      "subtema": "Criterios para determinar la gravedad o levedad de la falta en Código Disciplinario Unico"
+    },
+    {
+      "tema": "FALTA DISCIPLINARIA",
+      "subtema": "Criterio para determinar gravedad o levedad"
+    }
+  ]
+}

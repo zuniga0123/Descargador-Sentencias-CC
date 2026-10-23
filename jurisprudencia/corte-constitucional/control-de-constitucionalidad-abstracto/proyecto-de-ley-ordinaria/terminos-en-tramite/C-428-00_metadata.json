@@ -1,0 +1,40 @@
+{
+  "radicado": "C-428-00",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-04-12",
+  "magistrado_ponente": "Dr ANTONIO BARRERA CARBONELL",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "PROYECTO DE LEY ORDINARIA",
+  "subtema": "Términos en trámite",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 490 de 1998",
+    "Decreto 2067 de 1991",
+    "Ley 100 de 1993",
+    "Decreto 2400 de 1968"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/C-428-00.htm",
+  "fecha_descarga": "2026-10-23T04:22:25.833354+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-04-12",
+  "fecha_publicacion": null,
+  "numero": "C-428/00",
+  "tipo_cc": "C",
+  "prov_id": "16984",
+  "tema_relatoria": "PROYECTO DE LEY ORDINARIA. TÉRMINOS EN EL TRÁMITE",
+  "resumen": "LEY 490/98. POR LA CUAL SE TRANSFORMA LA CAJA NAL DE PREVISION DE ESTABLECIMIENTO PUBLICO EN EMPRESA INDUSTRIAL Y COMERCIAL DEL ESTADO. EXEQUIBLE SALVO ART. 14. ESTARSE A LO RESUELTO EN LA C-644/99",
+  "titulaciones": [
+    {
+      "tema": "PROYECTO DE LEY ORDINARIA",
+      "subtema": "Términos en trámite"
+    },
+    {
+      "tema": "LEY",
+      "subtema": "Trámite general para expedición"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "radicado": "SU1382-00",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-10-11",
+  "magistrado_ponente": "Dr ALEJANDRO MARTÍNEZ CABALLERO",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCION DE TUTELA TRANSITORIA",
+  "subtema": "Improcedencia incremento salarial para servidores públicos",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 515 de 1996",
+    "Ley 136 de 1994",
+    "Decreto 111 de 1996"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/SU1382-00.htm",
+  "fecha_descarga": "2026-10-23T04:26:37.893590+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-10-11",
+  "fecha_publicacion": null,
+  "numero": "SU.1382/00",
+  "tipo_cc": "SU",
+  "prov_id": "17983",
+  "tema_relatoria": "DERECHO A LA IGUALDAD Y TRABAJO. NO INCREMENTO SALARIAL PARA LA VIGENCIA FISCAL DEL 1 DE ENERO AL 31 DE DICIEMBRE DE 1997 A LOS TRABAJADORES DEL MUNICIPIO DE QUIBDO. MODIFICACION DE LA POLITICA ECONOMICA DEL EJECUTIVO. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCION DE TUTELA TRANSITORIA",
+      "subtema": "Improcedencia incremento salarial para servidores públicos"
+    },
+    {
+      "tema": "JUEZ DE TUTELA",
+      "subtema": "Imposibilidad de modificar presupuesto para incremento salarial de servidores públicos"
+    },
+    {
+      "tema": "JUEZ CONSTITUCIONAL",
+      "subtema": "Improcedencia para sustituir a las autoridades en las competencias asignadas por la Constitución Política"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "radicado": "C-270-00",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-03-08",
+  "magistrado_ponente": "Dr CARLOS GAVIRIA DIAZ",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "CONTRATO DE CONCESION A PARTICULARES DE TELEFONIA MOVIL CELULAR",
+  "subtema": "Dineros que recibe el Estado",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 217 de 1995",
+    "Decreto 111 de 1996",
+    "Ley 179 de 1994",
+    "Ley 168 de 1994",
+    "Ley 270 de 1996",
+    "Ley 38 de 1989"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/C-270-00.htm",
+  "fecha_descarga": "2026-10-23T04:24:47.485987+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-03-08",
+  "fecha_publicacion": null,
+  "numero": "C-270/00",
+  "tipo_cc": "C",
+  "prov_id": "16812",
+  "tema_relatoria": "CONTRATO DE CONCESION DE TELEFONIA MOVIL CELULAR. DISPOSICIÓN POR LEGISLADOR DE MANERA DE CUMPLIR SENTENCIA DE CONSTITUCIONALIDAD",
+  "resumen": "LEY 217 DE 1995. ART 5. EFECTOS DE LAS SENTENCIAS DE LA CORTE CONSTITUCIONAL EN EJERCICIO DEL CONTROL DE CONSTITUCIONALIDAD. EFECTOS SENTENCIA EN C-423/95 TRANSFERENCIA DE RECURSOS DE TELEFONIA MOVIL CELULAR. EXEQUIBLE.",
+  "titulaciones": [
+    {
+      "tema": "CONTRATO DE CONCESION A PARTICULARES DE TELEFONIA MOVIL CELULAR",
+      "subtema": "Dineros que recibe el Estado"
+    },
+    {
+      "tema": "CONTRATO DE CONCESION DE TELEFONIA MOVIL CELULAR",
+      "subtema": "Disposición por legislador de manera de cumplir sentencia de constitucionalidad"
+    },
+    {
+      "tema": "CORTE CONSTITUCIONAL",
+      "subtema": "Efectos de los fallos en control constitucional"
+    },
+    {
+      "tema": "CONTROL DE CONSTITUCIONALIDAD",
+      "subtema": "Efectos en el tiempo de fallos"
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "Cumplimiento por legislador de sentencia de constitucionalidad respecto a efectos en el tiempo"
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "Disposición legal que contraría norma constitucional que regula efecto de sentencia de constitucionalidad"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "radicado": "C-664-00",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-06-08",
+  "magistrado_ponente": "Dr FABIO MORÓN DÍAZ",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "CLAUSULA ACELERATORIA EN PROCESO EJECUTIVO CON TITULO HIPOTECARIO O PRENDARIO",
+  "subtema": "Libre estipulación",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2282 de 1989",
+    "Decreto 2067 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/C-664-00.htm",
+  "fecha_descarga": "2026-10-23T04:21:18.660010+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-06-08",
+  "fecha_publicacion": null,
+  "numero": "C-664/00",
+  "tipo_cc": "C",
+  "prov_id": "17249",
+  "tema_relatoria": "PROCESO EJECUTIVO CON TITULO HIPOTECARIO O PRENDARIO. COBRO DE LA TOTALIDAD DE LAS OBLIGACIONES",
+  "resumen": "C.P.C. ART. 554. INC. 4 REQUISITOS DE LA DEMANDA. PAGO DE LA OBLIGACION A CARGO DEL DEUDOR. EXEQUIBLE.",
+  "titulaciones": [
+    {
+      "tema": "CLAUSULA ACELERATORIA EN PROCESO EJECUTIVO CON TITULO HIPOTECARIO O PRENDARIO",
+      "subtema": "Libre estipulación"
+    },
+    {
+      "tema": "HIPOTECA",
+      "subtema": "Acción real"
+    },
+    {
+      "tema": "PREVALENCIA DEL DERECHO SUSTANCIAL",
+      "subtema": "Contenido"
+    },
+    {
+      "tema": "PROCESO EJECUTIVO CON TITULO HIPOTECARIO O PRENDARIO",
+      "subtema": "Cobro de la totalidad de las obligaciones"
+    },
+    {
+      "tema": "PROCESO EJECUTIVO CON TITULO HIPOTECARIO O PRENDARIO",
+      "subtema": "Garantía real"
+    },
+    {
+      "tema": "PROCESO EJECUTIVO CON TITULO HIPOTECARIO O PRENDARIO",
+      "subtema": "Acciones del acreedor real"
+    }
+  ]
+}

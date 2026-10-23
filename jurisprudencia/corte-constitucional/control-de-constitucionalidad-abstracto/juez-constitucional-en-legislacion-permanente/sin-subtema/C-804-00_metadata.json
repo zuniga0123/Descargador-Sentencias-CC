@@ -1,0 +1,64 @@
+{
+  "radicado": "C-804-00",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-06-29",
+  "magistrado_ponente": "Dr CARLOS GAVIRIA DÍAZ",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "JUEZ CONSTITUCIONAL EN LEGISLACION PERMANENTE",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2651 de 1991",
+    "Ley 446 de 1998",
+    "Decreto 2067 de 1991",
+    "Decreto Ley 2651 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/C-804-00.htm",
+  "fecha_descarga": "2026-10-23T04:18:26.477289+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-06-29",
+  "fecha_publicacion": null,
+  "numero": "C-804/00",
+  "tipo_cc": "C",
+  "prov_id": "17397",
+  "tema_relatoria": "DEC. 2651/91. ART. 51 No 4. REGLAS DE CASACION. ESTARSE A LO RESUELTO EN LA C-586/92 .",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "JUEZ CONSTITUCIONAL EN LEGISLACION PERMANENTE",
+      "subtema": null
+    },
+    {
+      "tema": "CASACION",
+      "subtema": "Cargos incompatibles entre sí"
+    },
+    {
+      "tema": "CASACION",
+      "subtema": "Requisitos"
+    },
+    {
+      "tema": "COSA JUZGADA CONSTITUCIONAL",
+      "subtema": "Norma transitoria estudiada por la Corte"
+    },
+    {
+      "tema": "CONTROL DE CONSTITUCIONALIDAD",
+      "subtema": "Norma transitoria que se adoptó como permanente sin que se modificara su contenido"
+    },
+    {
+      "tema": "CONTROL DE CONSTITUCIONALIDAD DE NORMAS TRANSITORIAS Y NORMAS PERMANENTES",
+      "subtema": "Opticas distintas"
+    },
+    {
+      "tema": "LEGISLADOR ORDINARIO",
+      "subtema": "Facultad para fijar validez temporal de una norma"
+    },
+    {
+      "tema": "JUEZ CONSTITUCIONAL EN LEGISLACION TRANSITORIA",
+      "subtema": "Benevolencia"
+    }
+  ]
+}

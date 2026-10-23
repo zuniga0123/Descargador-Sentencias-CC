@@ -1,0 +1,40 @@
+{
+  "radicado": "C-131-00",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-02-16",
+  "magistrado_ponente": "Dr EDUARDO CIFUENTES MUÑOZ",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "COSA JUZGADA CONSTITUCIONAL",
+  "subtema": "Supresión de trámites",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 1165 de 1999",
+    "Decreto 1122 de 1999",
+    "Decreto 2067 de 1991",
+    "Ley 489 de 1998"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/C-131-00.htm",
+  "fecha_descarga": "2026-10-23T04:25:13.336277+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-02-16",
+  "fecha_publicacion": null,
+  "numero": "C-131/00",
+  "tipo_cc": "C",
+  "prov_id": "16660",
+  "tema_relatoria": "COSA JUZGADA CONSTITUCIONAL EN REESTRUCTURACIÓN DE LA SUPERINTENDENCIA DE SERVICIOS PÚBLICOS DOMICILIARIOS",
+  "resumen": "DECRETOS 1165 DE 1999 Y 1122 DE 1999. ESTESE A LO RESUELTO EN C-969/99 Y C-923/99",
+  "titulaciones": [
+    {
+      "tema": "COSA JUZGADA CONSTITUCIONAL",
+      "subtema": "Supresión de trámites"
+    },
+    {
+      "tema": "COSA JUZGADA CONSTITUCIONAL",
+      "subtema": "Reestructuración de la superintendencia de servicios públicos domiciliarios"
+    }
+  ]
+}

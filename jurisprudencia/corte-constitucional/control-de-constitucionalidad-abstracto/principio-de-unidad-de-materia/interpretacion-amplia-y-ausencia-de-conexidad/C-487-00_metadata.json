@@ -1,0 +1,45 @@
+{
+  "radicado": "C-487-00",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-05-04",
+  "magistrado_ponente": "Dr ANTONIO BARRERA CARBONELL",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "PRINCIPIO DE UNIDAD DE MATERIA",
+  "subtema": "Interpretación amplia y ausencia de conexidad",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2067 de 1991",
+    "Decreto 2279 de 1989",
+    "Ley 446 de 1998",
+    "Decreto 2651 de 1991",
+    "Ley 23 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/C-487-00.htm",
+  "fecha_descarga": "2026-10-23T04:10:09.484202+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-05-04",
+  "fecha_publicacion": null,
+  "numero": "C-487/00",
+  "tipo_cc": "C",
+  "prov_id": "17049",
+  "tema_relatoria": "PRINCIPIO DE UNIDAD DE MATERIA. INTEGRACIÓN POR NORMAS SUSTANTIVAS Y PROCESALES CON CONEXIDAD TEMÁTICA O TELEOLÓGICA",
+  "resumen": "LEY 446/98. ART. 16. VALORACION DE DAÑOS. EXEQUIBLE.",
+  "titulaciones": [
+    {
+      "tema": "PRINCIPIO DE UNIDAD DE MATERIA",
+      "subtema": "Interpretación amplia y ausencia de conexidad"
+    },
+    {
+      "tema": "PRINCIPIO DE UNIDAD DE MATERIA",
+      "subtema": "Integración por normas sustantivas y procesales con conexidad temática o teleológica"
+    },
+    {
+      "tema": "PRINCIPIO DE UNIDAD DE MATERIA",
+      "subtema": "Alcance"
+    }
+  ]
+}

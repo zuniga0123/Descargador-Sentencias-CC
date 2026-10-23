@@ -1,0 +1,75 @@
+{
+  "radicado": "C-659-00",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-06-08",
+  "magistrado_ponente": "Dr FABIO MORÓN DÍAZ",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "CONGRESO",
+  "subtema": "Facultad de derogar las leyes",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2067 de 1991",
+    "Ley 54 de 1983",
+    "Decreto 717 de 1978"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/C-659-00.htm",
+  "fecha_descarga": "2026-10-23T04:12:25.189375+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-06-08",
+  "fecha_publicacion": null,
+  "numero": "C-659/00",
+  "tipo_cc": "C",
+  "prov_id": "17244",
+  "tema_relatoria": "PRINCIPIO DE UNIDAD DE MATERIA. VULNERACIÓN POR NORMA QUE ESTABLECE DEROGATORIAS",
+  "resumen": "LEY 54/83. ARTS. 23 Y 4. POR LA CUAL SE REFORMA EL ART. 31 DEL DEC. 0717/78. DEROGACION DE ARTICULOS. INEXEQUIBLE. ESTARSE A LO RESUELTO EN LA C-273/96",
+  "titulaciones": [
+    {
+      "tema": "CONGRESO",
+      "subtema": "Facultad de derogar las leyes"
+    },
+    {
+      "tema": "CORTE CONSTITUCIONAL",
+      "subtema": "No puede restringir función del Congreso de derogar leyes"
+    },
+    {
+      "tema": "PRIMA DE VACACIONES",
+      "subtema": "Descuento de tres días"
+    },
+    {
+      "tema": "PRINCIPIO DE UNIDAD DE MATERIA",
+      "subtema": "Inexistencia de conexidad"
+    },
+    {
+      "tema": "INCONSTITUCIONALIDAD POR CONEXIDAD DIRECTA",
+      "subtema": "Norma carente de precepto jurídico propio"
+    },
+    {
+      "tema": "COSA JUZGADA CONSTITUCIONAL",
+      "subtema": null
+    },
+    {
+      "tema": "CONTRIBUCION PARAFISCAL",
+      "subtema": "Prohibición destino a particulares"
+    },
+    {
+      "tema": "RECURSOS PARAFISCALES",
+      "subtema": null
+    },
+    {
+      "tema": "PRINCIPIO DE UNIDAD DE MATERIA",
+      "subtema": "Contenido"
+    },
+    {
+      "tema": "PRINCIPIO DE UNIDAD DE MATERIA",
+      "subtema": "Vulneración por norma derogatoria"
+    },
+    {
+      "tema": "PRIMA DE VACACIONES",
+      "subtema": "Reconocimiento y liquidación"
+    }
+  ]
+}

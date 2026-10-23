@@ -1,0 +1,87 @@
+{
+  "radicado": "C-568-00",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-05-17",
+  "magistrado_ponente": "Dr ALEJANDRO MARTÍNEZ CABALLERO",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "CORTE CONSTITUCIONAL",
+  "subtema": "Interpretación de normas legales",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2067 de 1991",
+    "Decreto 2282 de 1989",
+    "Ley 446 de 1998"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/C-568-00.htm",
+  "fecha_descarga": "2026-10-23T04:10:27.894066+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-05-17",
+  "fecha_publicacion": null,
+  "numero": "C-568/00",
+  "tipo_cc": "C",
+  "prov_id": "17160",
+  "tema_relatoria": "PRINCIPIO DE AUTONOMIA FUNCIONAL DEL JUEZ ORDINARIO. DETERMINACIÓN DEL SIGNIFICADO DE NORMAS LEGALES",
+  "resumen": "C.P.C. ART. 346. PERENCION DEL PROCESO. LEVANTAMIENTO DE MEDIDAS CAUTELARES Y PROCESOS DE UNICA INSTANCIA. EXEQUIBLES.",
+  "titulaciones": [
+    {
+      "tema": "CORTE CONSTITUCIONAL",
+      "subtema": "Interpretación de normas legales"
+    },
+    {
+      "tema": "PERENCION DEL PROCESO",
+      "subtema": "Efectos antes y después de sentencia"
+    },
+    {
+      "tema": "PERENCION DEL PROCESO EN UNICA INSTANCIA",
+      "subtema": "Operancia"
+    },
+    {
+      "tema": "NORMA PROCEDIMENTAL",
+      "subtema": "Excepciones expresas"
+    },
+    {
+      "tema": "NORMA LEGAL",
+      "subtema": "Competente para establecer sentido autorizado"
+    },
+    {
+      "tema": "PRINCIPIO DE AUTONOMIA FUNCIONAL DEL JUEZ ORDINARIO",
+      "subtema": "Determinación del significado de normas legales"
+    },
+    {
+      "tema": "INHIBICION DE LA CORTE CONSTITUCIONAL",
+      "subtema": "Ausencia de cargos"
+    },
+    {
+      "tema": "CONTROL DE CONSTITUCIONALIDAD",
+      "subtema": "Establecimiento del significado de normas legales"
+    },
+    {
+      "tema": "NORMA LEGAL",
+      "subtema": "Diferencia interpretativa"
+    },
+    {
+      "tema": "INTERPRETACION DE NORMA LEGAL",
+      "subtema": "Textual, sistemática, teleológica y jurisprudencial"
+    },
+    {
+      "tema": "JURISDICCION ORDINARIA",
+      "subtema": "Establecimiento de sentido autorizado de normas legales"
+    },
+    {
+      "tema": "PERENCION DEL PROCESO",
+      "subtema": "Excepciones expresas"
+    },
+    {
+      "tema": "PROCESO EJECUTIVO DE UNICA INSTANCIA",
+      "subtema": "Declaración de desierto de excepciones previas"
+    },
+    {
+      "tema": "PROCESO EJECUTIVO",
+      "subtema": "Levantamiento de medidas cautelares en vez de perención"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "radicado": "C-326-00",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-03-22",
+  "magistrado_ponente": "Dr ALFREDO BELTRÁN SIERRA",
+  "area": "Derecho de Familia y Derechos de Niños, Niñas y Adolescentes",
+  "tema": "ACUERDO DE COOPERACION PARA LA PREVENCION, CONTROL Y REPRESION DEL LAVADO DE ACTIVOS DERIVADO DE CUALQUIER ACTIVIDAD ILICITA CON LA REPUBLICA DE PARAGUAY",
+  "subtema": "Objeto",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 663 de 1993",
+    "Ley 190 de 1995",
+    "Decreto 1552 de 1995",
+    "Ley 365 de 1997"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/C-326-00.htm",
+  "fecha_descarga": "2026-10-23T04:21:37.294653+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-03-22",
+  "fecha_publicacion": null,
+  "numero": "C-326/00",
+  "tipo_cc": "C",
+  "prov_id": "16873",
+  "tema_relatoria": "ACUERDO DE COOPERACION PARA PREVENCION CONTROL Y REPRESION DE LAVADO DE ACTIVOS SUSCRITO ENTRE COLOMBIA Y PARAGUAY",
+  "resumen": "LEY 517/99. ACUERDO DE COOPERACION PARA PREVENCION CONTROL Y REPRESION DE LAVADO DE ACTIVOS SUSCRITO ENTRE COLOMBIA Y PARAGUAY. EXEQUIBLE.",
+  "titulaciones": [
+    {
+      "tema": "ACUERDO DE COOPERACION PARA LA PREVENCION, CONTROL Y REPRESION DEL LAVADO DE ACTIVOS DERIVADO DE CUALQUIER ACTIVIDAD ILICITA CON LA REPUBLICA DE PARAGUAY",
+      "subtema": "Objeto"
+    },
+    {
+      "tema": "LAVADO DE ACTIVOS",
+      "subtema": "Actividades comprendidas"
+    },
+    {
+      "tema": "LAVADO DE ACTIVOS",
+      "subtema": "Normas en materia de control en entidades financieras para prevenir y controlar"
+    },
+    {
+      "tema": "ACUERDO DE ASISTENCIA JUDICIAL",
+      "subtema": "Garantía temporal"
+    },
+    {
+      "tema": "COOPERACION JUDICIAL EN MATERIA PENAL",
+      "subtema": "Objeto"
+    },
+    {
+      "tema": "CONVENCION DE VIENA",
+      "subtema": "Ius representationis"
+    },
+    {
+      "tema": "LAVADO DE ACTIVOS",
+      "subtema": "Reserva de carácter comercial y bancaria"
+    },
+    {
+      "tema": "LAVADO DE ACTIVOS",
+      "subtema": "Adopción de medidas judiciales y administrativas"
+    },
+    {
+      "tema": "LAVADO DE ACTIVOS",
+      "subtema": "Documentos internacionales"
+    }
+  ]
+}

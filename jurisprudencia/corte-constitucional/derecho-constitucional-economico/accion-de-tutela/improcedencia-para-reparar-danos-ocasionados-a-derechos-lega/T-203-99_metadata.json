@@ -1,0 +1,59 @@
+{
+  "radicado": "T-203-99",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1999,
+  "fecha_creacion": "1999-04-07",
+  "magistrado_ponente": "Dr VLADIMIRO NARANJO MESA",
+  "area": "Derecho Constitucional Económico",
+  "tema": "ACCIÓN DE TUTELA",
+  "subtema": "Improcedencia para reparar daños ocasionados a derechos legales",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Decreto 2663 de 1988",
+    "Decreto 1565 de 1996"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1999/T-203-99.htm",
+  "fecha_descarga": "2026-10-23T04:32:49.744087+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1999-04-07",
+  "fecha_publicacion": null,
+  "numero": "T-203/99",
+  "tipo_cc": "T",
+  "prov_id": "15654",
+  "tema_relatoria": "DER. A LA VIVIENDA DIGNA. DER. AL MINIMO VITAL Y A LA IGUALDAD. URBANIZACION SAN MATEO. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Improcedencia para reparar daños ocasionados a derechos legales"
+    },
+    {
+      "tema": "DERECHO A LA VIVIENDA DIGNA",
+      "subtema": "Fundamental por conexidad"
+    },
+    {
+      "tema": "DERECHO A LA VIVIENDA DIGNA",
+      "subtema": "Carácter prestacional"
+    },
+    {
+      "tema": "DERECHO A LA VIVIENDA DIGNA",
+      "subtema": "Exclusión pago de impuesto predial a estamento sobre lote de viviendas no afecta derechos fundamentales"
+    },
+    {
+      "tema": "JUEZ DE TUTELA",
+      "subtema": "Incompetencia para definir quien debe asumir una carga fiscal"
+    },
+    {
+      "tema": "MEDIO DE DEFENSA JUDICIAL",
+      "subtema": "Titularización del derecho a la propiedad e indemnización de daños materiales"
+    },
+    {
+      "tema": "MEDIO DE DEFENSA JUDICIAL",
+      "subtema": "Controversia sobre titularidad de una obligación pecuniaria"
+    }
+  ]
+}

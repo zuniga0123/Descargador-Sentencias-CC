@@ -1,0 +1,43 @@
+{
+  "radicado": "T-012-99",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1999,
+  "fecha_creacion": "1999-01-21",
+  "magistrado_ponente": "Dr ALFREDO BELTRÁN SIERRA",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "DERECHO AL LIBRE DESARROLLO DE LA PERSONALIDAD",
+  "subtema": "No proclamación grado de estudiante embarazada",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1999/T-012-99.htm",
+  "fecha_descarga": "2026-10-23T04:28:59.293546+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1999-01-21",
+  "fecha_publicacion": null,
+  "numero": "T-012/99",
+  "tipo_cc": "T",
+  "prov_id": "15446",
+  "tema_relatoria": "DER. AL LIBRE DESARROLLO DE LA PERSONALIDAD. IGUALDAD. INTIMIDAD. PROHIBICION DE ASISTIR A GRADUACION POR SER ALUMNOS QUE ESTAN CONVIVIENDO Y TIENEN HIJOS. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO AL LIBRE DESARROLLO DE LA PERSONALIDAD",
+      "subtema": "No proclamación grado de estudiante embarazada"
+    },
+    {
+      "tema": "DERECHO A LA IGUALDAD",
+      "subtema": "Discriminación de estudiante por razón de maternidad"
+    },
+    {
+      "tema": "REGLAMENTO EDUCATIVO",
+      "subtema": "No proclamación grado de estudiante embarazada"
+    },
+    {
+      "tema": "REGLAMENTO EDUCATIVO",
+      "subtema": "Supremacía normativa de la Constitución"
+    }
+  ]
+}

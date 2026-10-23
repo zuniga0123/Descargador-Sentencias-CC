@@ -1,0 +1,40 @@
+{
+  "radicado": "SU1148-00",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-08-30",
+  "magistrado_ponente": "Dr JOSÉ GREGORIO HERNÁNDEZ GALINDO",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "JUEZ DE TUTELA",
+  "subtema": "Imposibilidad de modificar presupuesto para incremento salarial de servidores públicos",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Decreto 111 de 1996",
+    "Ley 4 de 1992",
+    "Ley 547 de 1999"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/SU1148-00.htm",
+  "fecha_descarga": "2026-10-23T04:26:11.130188+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-08-30",
+  "fecha_publicacion": null,
+  "numero": "SU.1148/00",
+  "tipo_cc": "SU",
+  "prov_id": "17739",
+  "tema_relatoria": "DERECHO A LA IGUALDAD Y AL TRABAJO. REAJUSTE SALARIAL PARA EL AÑO 2000 DE EMPLEADOS PUBLICOS. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "JUEZ DE TUTELA",
+      "subtema": "Imposibilidad de modificar presupuesto para incremento salarial de servidores públicos"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Naturaleza"
+    }
+  ]
+}

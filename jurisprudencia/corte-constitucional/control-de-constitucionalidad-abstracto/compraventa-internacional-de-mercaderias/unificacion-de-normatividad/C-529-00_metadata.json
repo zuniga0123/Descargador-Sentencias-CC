@@ -1,0 +1,58 @@
+{
+  "radicado": "C-529-00",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-05-10",
+  "magistrado_ponente": "Dr ANTONIO BARRERA CARBONELL",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "COMPRAVENTA INTERNACIONAL DE MERCADERIAS",
+  "subtema": "Unificación de normatividad",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 518 de 1999",
+    "Decreto 2067 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/C-529-00.htm",
+  "fecha_descarga": "2026-10-23T04:23:29.348255+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-05-10",
+  "fecha_publicacion": null,
+  "numero": "C-529/00",
+  "tipo_cc": "C",
+  "prov_id": "17097",
+  "tema_relatoria": "CONVENCION DE LAS NACIONES UNIDAS SOBRE LOS CONTRATOS DE COMPRAVENTA INTERNACIONAL DE MERCADERIAS",
+  "resumen": "LEY 518/99. CONVENCION DE LAS NACIONES UNIDAS SOBRE LOS CONTRATOS DE COMPRAVENTA INTERNACIONAL DE MERCADERIAS. EXEQUIBLES.",
+  "titulaciones": [
+    {
+      "tema": "COMPRAVENTA INTERNACIONAL DE MERCADERIAS",
+      "subtema": "Unificación de normatividad"
+    },
+    {
+      "tema": "PRINCIPIO DE AUTONOMIA DE LA VOLUNTAD PRIVADA",
+      "subtema": "Libertad de contratar"
+    },
+    {
+      "tema": "CONVENCION DE LAS NACIONES UNIDAS SOBRE LOS CONTRATOS DE COMPRAVENTA INTERNACIONAL DE MERCADERIAS",
+      "subtema": "Control formal"
+    },
+    {
+      "tema": "CONVENCION DE LAS NACIONES UNIDAS SOBRE LOS CONTRATOS DE COMPRAVENTA INTERNACIONAL DE MERCADERIAS",
+      "subtema": "Promoción de internacionalización de relaciones económicas"
+    },
+    {
+      "tema": "PRINCIPIO DE AUTONOMIA DE LA VOLUNTAD PRIVADA",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "PRINCIPIO DE LA BUENA FE",
+      "subtema": "Actividad mercantil por particulares con ciudadanos de Estados diferentes"
+    },
+    {
+      "tema": "PRINCIPIO DE LA BUENA FE",
+      "subtema": "Actuaciones procesales"
+    }
+  ]
+}

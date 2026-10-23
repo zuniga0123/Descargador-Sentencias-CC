@@ -1,0 +1,42 @@
+{
+  "radicado": "C-1065-00",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-08-16",
+  "magistrado_ponente": "Dr ALEJANDRO MARTÍNEZ CABALLERO",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "RECURSO DE CASACION",
+  "subtema": "Error de hecho manifiesto",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2067 de 1991",
+    "Decreto 2282 de 1989"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/C-1065-00.htm",
+  "fecha_descarga": "2026-10-23T04:16:28.325340+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-08-16",
+  "fecha_publicacion": null,
+  "numero": "C-1065/00",
+  "tipo_cc": "C",
+  "prov_id": "17650",
+  "tema_relatoria": "CODIGO DE PROCEDIMEINTO CIVIL. ART. 368. ORDINAL 1. EL ERROR DE HECHO MANIFIESTO COMO CAUSAL DE DE CASACION. LA FUNCION DE LA CASACION DE LA CORTE SUPREMA Y LA NATURALEZA DEL RECURSO DE CASACION COMO RECURSO EXTRAORDINARIO. EXEQUIBLE.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "RECURSO DE CASACION",
+      "subtema": "Error de hecho manifiesto"
+    },
+    {
+      "tema": "RECURSO DE CASACION",
+      "subtema": "No distinción entre error grave y leve"
+    },
+    {
+      "tema": "RECURSO DE CASACION",
+      "subtema": "Naturaleza"
+    }
+  ]
+}

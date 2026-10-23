@@ -1,0 +1,56 @@
+{
+  "radicado": "T-121-99",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1999,
+  "fecha_creacion": "1999-02-26",
+  "magistrado_ponente": "Dra MARTHA VICTORIA SÁCHICA MÉNDEZ",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "VIA DE HECHO",
+  "subtema": "Procedencia excepcional de tutela para controvertir interpretaciones judiciales",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 270 de 1996",
+    "Ley 200 de 1995",
+    "Ley 200 de 1996"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1999/T-121-99.htm",
+  "fecha_descarga": "2026-10-23T04:28:26.978801+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1999-02-26",
+  "fecha_publicacion": "1999-03-10",
+  "numero": "T-121/99",
+  "tipo_cc": "T",
+  "prov_id": "15566",
+  "tema_relatoria": "DEBIDO PROCESO. VIA DE HECHO. TUTELA CONTRA PROVIDENCIAS JUDICIALES. RECHAZO DE RECURSO DE REPOSICION POR EL CONSEJO SUPERIOR DE LA JUDICATURA. SANCION A FISCAL. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "VIA DE HECHO",
+      "subtema": "Procedencia excepcional de tutela para controvertir interpretaciones judiciales"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Procedencia excepcional"
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA PROVIDENCIAS JUDICIALES DE LA SALA JURISDICCIONAL DISCIPLINARIA DEL CONSEJO SUPERIOR DE LA JUDICATURA",
+      "subtema": "Procedencia excepcional"
+    },
+    {
+      "tema": "PRINCIPIO DE AUTONOMIA FUNCIONAL DEL JUEZ",
+      "subtema": "Improcedencia general de tutela para controvertir interpretaciones judiciales"
+    },
+    {
+      "tema": "PRINCIPIO DE AUTONOMIA FUNCIONAL DEL JUEZ",
+      "subtema": "Interpretación debidamente sustentada y razonada"
+    },
+    {
+      "tema": "VIA DE HECHO",
+      "subtema": "Clases de defectos en la actuación"
+    }
+  ]
+}

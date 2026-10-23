@@ -1,0 +1,62 @@
+{
+  "radicado": "C-565-00",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-05-17",
+  "magistrado_ponente": "Dr VLADIMIRO NARANJO MESA",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "CONTROL DE CONSTITUCIONALIDAD DE NORMAS MODIFICADAS",
+  "subtema": "Nuevo pronunciamiento",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 446 de 1998",
+    "Decreto 2067 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/C-565-00.htm",
+  "fecha_descarga": "2026-10-23T04:10:31.608956+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-05-17",
+  "fecha_publicacion": null,
+  "numero": "C-565/00",
+  "tipo_cc": "C",
+  "prov_id": "17157",
+  "tema_relatoria": "ACCION DE NULIDAD Y RESTABLECIMIENTO DEL DERECHO. CADUCIDAD",
+  "resumen": "C.C.A. ART. 136 No 2. CADUCIDAD DE LAS ACCIONES. RESTABLECIMIENTO DEL DERECHO. EXEQUIBLE.",
+  "titulaciones": [
+    {
+      "tema": "CONTROL DE CONSTITUCIONALIDAD DE NORMAS MODIFICADAS",
+      "subtema": "Nuevo pronunciamiento"
+    },
+    {
+      "tema": "PRECEDENTE JUDICIAL",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "ACCION CONTENCIOSO ADMINISTRATIVA",
+      "subtema": "Caducidad"
+    },
+    {
+      "tema": "CONTROL DE CONSTITUCIONALIDAD DE NORMAS MODIFICADAS",
+      "subtema": "Existencia de pronunciamiento"
+    },
+    {
+      "tema": "ACCION DE NULIDAD Y RESTABLECIMIENTO DEL DERECHO",
+      "subtema": "Caducidad"
+    },
+    {
+      "tema": "COSA JUZGADA MATERIAL",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "DERECHO DE ACCION",
+      "subtema": "Ejercicio oportuno"
+    },
+    {
+      "tema": "LEGISLADOR EN DERECHO DE ACCION",
+      "subtema": "Determinación de oportunidad para ejercicio"
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "radicado": "C-1340-00",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-10-04",
+  "magistrado_ponente": "Dr ALEJANDRO MARTÍNEZ CABALLERO",
+  "area": "Derecho Constitucional Económico",
+  "tema": "CORPORACION AUTONOMA REGIONAL",
+  "subtema": "Financiación con impuesto municipal",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 99 de 1993",
+    "Decreto 2067 de 1991",
+    "Ley 60 de 1993",
+    "Ley 66 de 1999"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/C-1340-00.htm",
+  "fecha_descarga": "2026-10-23T04:17:34.591406+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-10-04",
+  "fecha_publicacion": null,
+  "numero": "C-1340/00",
+  "tipo_cc": "C",
+  "prov_id": "17941",
+  "tema_relatoria": "LEY 99 DE 1993. ARTS. 64 65 Y 66. MINISTERIO DEL MEDIO AMBIENTE. SISTEMA NACIONAL AMBIENTAL-SINA. FUNCIONES DE LAS ENTIDADES TERRITORIALES Y LA PLANIFICACION AMBIENTAL. LIMITACION DE LA COSA JUZGADA CONSTITUCIONAL. EXEQUIBLE CONDICIONADO.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "CORPORACION AUTONOMA REGIONAL",
+      "subtema": "Financiación con impuesto municipal"
+    },
+    {
+      "tema": "IMPUESTO PREDIAL",
+      "subtema": "Financiación de entidades ambientales"
+    },
+    {
+      "tema": "LEY ORGANICA",
+      "subtema": "Distribución de competencias entre la Nación y entidades territoriales"
+    },
+    {
+      "tema": "LEY ORDINARIA",
+      "subtema": "Desarrollo de competencias ambientales"
+    },
+    {
+      "tema": "DEPARTAMENTO",
+      "subtema": "Función ambiental"
+    },
+    {
+      "tema": "MUNICIPIO",
+      "subtema": "Titularidad del impuesto sobre propiedad inmueble"
+    },
+    {
+      "tema": "MUNICIPIO",
+      "subtema": "Función ambiental"
+    },
+    {
+      "tema": "MUNICIPIO",
+      "subtema": "Porcentaje de tributo para la C.A.R."
+    },
+    {
+      "tema": "LEY ORGANICA",
+      "subtema": "Reserva"
+    },
+    {
+      "tema": "LEY ORDINARIA",
+      "subtema": "Asignación, en principio, de funciones ambientales"
+    },
+    {
+      "tema": "MEDIO AMBIENTE",
+      "subtema": "Reparto de competencias entre niveles del Gobierno"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "radicado": "C-1268-00",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-09-20",
+  "magistrado_ponente": "Dr JOSÉ GREGORIO HERNÁNDEZ GALINDO",
+  "area": "Derecho Constitucional Económico",
+  "tema": "PRINCIPIO DE EQUILIBRIO ECONOMICO",
+  "subtema": "Operadores de telefonía móvil celular",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 555 de 2000",
+    "Decreto 2067 de 1991",
+    "Ley 37 de 1993",
+    "Ley 80 de 1993"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/C-1268-00.htm",
+  "fecha_descarga": "2026-10-23T04:16:57.597351+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-09-20",
+  "fecha_publicacion": null,
+  "numero": "C-1268/00",
+  "tipo_cc": "C",
+  "prov_id": "17861",
+  "tema_relatoria": "LEY 555 DE 2000. ART.11 PARAGRAFO 2 PARCIAL. PRESTACION DE SERVICIOS DE COMUNICACIÓN PERSONAL PCS. LIBRE COMPETENCIA Y PRESTACION DE SERVICIOS PUBLICOS. ATRIBUCIONES DEL ESTADO AL FIJAR LOS VALORES DE LAS CONCESIONES. EQUILIBRIO ECONOMICO ENTRE LOS OPERADORES. TELEFONIA MOVIL CELULAR. EXEQUIBLE",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "PRINCIPIO DE EQUILIBRIO ECONOMICO",
+      "subtema": "Operadores de telefonía móvil celular"
+    },
+    {
+      "tema": "LIBRE COMPETENCIA ECONOMICA Y SERVICIOS PUBLICOS",
+      "subtema": "Atribuciones del Estado al fijar valores de concesiones"
+    },
+    {
+      "tema": "SERVICIO PUBLICO DE TELECOMUNICACIONES",
+      "subtema": "Atribuciones del Estado al fijar valores de concesiones"
+    },
+    {
+      "tema": "SERVICIO PUBLICO DE TELECOMUNICACIONES",
+      "subtema": "Telefonía móvil celular y servicios de comunicación personal"
+    }
+  ]
+}

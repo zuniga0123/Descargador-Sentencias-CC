@@ -1,0 +1,53 @@
+{
+  "radicado": "T-1016-99",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1999,
+  "fecha_creacion": "1999-12-13",
+  "magistrado_ponente": "Dr EDUARDO CIFUENTES MUÑOZ",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCION DE TUTELA CONTRA EMPRESA DE SERVICIOS PUBLICOS DOMICILIARIOS",
+  "subtema": "Procedencia en situaciones especiales para dirimir conflictos con usuarios",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 142 de 1994"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1999/T-1016-99.htm",
+  "fecha_descarga": "2026-10-23T04:31:02.252268+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1999-12-13",
+  "fecha_publicacion": null,
+  "numero": "T-1016/99",
+  "tipo_cc": "T",
+  "prov_id": "16511",
+  "tema_relatoria": "NO SUMINISTRO SERVICIO DE AGUA EN CONJUNTO RESIDENCIAL POR DEUDA PENDIENTE DEL ARRENDADOR ANTERIOR A LA FIRMA CONTRATO DE ARRENDAMIENTO. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCION DE TUTELA CONTRA EMPRESA DE SERVICIOS PUBLICOS DOMICILIARIOS",
+      "subtema": "Procedencia en situaciones especiales para dirimir conflictos con usuarios"
+    },
+    {
+      "tema": "REGLA DE EQUILIBRIO CONTRACTUAL",
+      "subtema": "Empresa y propietarios"
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA EMPRESA DE SERVICIOS PUBLICOS DOMICILIARIOS",
+      "subtema": "Suspensión de servicio de agua por conocimiento desde un principio de mora en el pago"
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA EMPRESA DE SERVICIOS PUBLICOS DOMICILIARIOS",
+      "subtema": "Cortes de servicio de agua a arrendatario"
+    },
+    {
+      "tema": "EMPRESAS DE SERVICIOS PUBLICOS DOMICILIARIOS",
+      "subtema": "Suspensión del servicio y consecuencias cuando el usuario se atrasa en pago de tres facturas"
+    },
+    {
+      "tema": "SERVICIOS PÚBLICOS",
+      "subtema": "Implicaciones sobre la calidad de vida"
+    }
+  ]
+}

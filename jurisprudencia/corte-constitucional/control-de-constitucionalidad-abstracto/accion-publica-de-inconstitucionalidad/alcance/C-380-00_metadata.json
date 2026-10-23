@@ -1,0 +1,63 @@
+{
+  "radicado": "C-380-00",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-04-05",
+  "magistrado_ponente": "Dr VLADIMIRO NARANJO MESA",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "ACCION PUBLICA DE INCONSTITUCIONALIDAD",
+  "subtema": "Alcance",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 91 de 1989",
+    "Decreto 2067 de 1991",
+    "Decreto 81 de 1976",
+    "Ley 114 de 1913",
+    "Ley 116 de 1928",
+    "Ley 37 de 1933",
+    "Ley 60 de 1993"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/C-380-00.htm",
+  "fecha_descarga": "2026-10-23T04:23:07.100309+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-04-05",
+  "fecha_publicacion": null,
+  "numero": "C-380/00",
+  "tipo_cc": "C",
+  "prov_id": "16933",
+  "tema_relatoria": "FALLO INHIBITORIO POR INEPTITUD SUSTANTIVA DE LA DEMANDA CONTRA NORMA DE LA LEY 91 DE 1989",
+  "resumen": "LEY 91/89. ART. 15 No 2. LIT. A PARCIAL. PENSION GRACIA. SENTENCIA INHIBITORIA.",
+  "titulaciones": [
+    {
+      "tema": "ACCION PUBLICA DE INCONSTITUCIONALIDAD",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "INHIBICION DE LA CORTE CONSTITUCIONAL",
+      "subtema": "Ineptitud sustantiva de la demanda"
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "Formulación de cargos como consecuencia de interpretación que cumple organismo judicial"
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "Cargo indeterminado e indirecto"
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "Fallo inhibitorio por ineptitud sustantiva"
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "Incompetencia para cuestionamiento de diversas formas de aplicación concreta de la ley"
+    },
+    {
+      "tema": "CORTE CONSTITUCIONAL",
+      "subtema": "Incompetencia para cuestionar diversas formas de aplicación concreta de la ley"
+    }
+  ]
+}

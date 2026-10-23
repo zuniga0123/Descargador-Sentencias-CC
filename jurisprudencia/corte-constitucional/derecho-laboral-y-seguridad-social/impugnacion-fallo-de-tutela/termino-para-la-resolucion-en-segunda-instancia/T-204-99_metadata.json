@@ -1,0 +1,50 @@
+{
+  "radicado": "T-204-99",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1999,
+  "fecha_creacion": "1999-04-08",
+  "magistrado_ponente": "Dr ALFREDO BELTRÁN SIERRA",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "IMPUGNACIÓN FALLO DE TUTELA",
+  "subtema": "Término para la resolución en segunda instancia",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 50 de 1990",
+    "Ley 100 de 1993"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1999/T-204-99.htm",
+  "fecha_descarga": "2026-10-23T04:32:53.378149+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1999-04-08",
+  "fecha_publicacion": null,
+  "numero": "T-204/99",
+  "tipo_cc": "T",
+  "prov_id": "15656",
+  "tema_relatoria": "DER. A LA IGUALDAD. ACTO ADMINISTRATIVO. INCLUSION EN NOMINA PARA PENSIONADO. NEGADA",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "IMPUGNACIÓN FALLO DE TUTELA",
+      "subtema": "Término para la resolución en segunda instancia"
+    },
+    {
+      "tema": "PENSION DE JUBILACION",
+      "subtema": "Reconocimiento constituye un acto administrativo complejo"
+    },
+    {
+      "tema": "PENSION DE JUBILACION",
+      "subtema": "Reconocimiento y pago corresponde a entidades distintas"
+    },
+    {
+      "tema": "MEDIO DE DEFENSA JUDICIAL",
+      "subtema": "Controversia para ordenar la inclusión en nómina del pensionado"
+    },
+    {
+      "tema": "PENSION DE JUBILACION",
+      "subtema": "Casos en que procede la inclusión en nómina"
+    }
+  ]
+}

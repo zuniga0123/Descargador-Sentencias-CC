@@ -1,0 +1,77 @@
+{
+  "radicado": "SU1150-00",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-08-30",
+  "magistrado_ponente": null,
+  "area": "Otros - Sin clasificar",
+  "tema": "DESPLAZAMIENTO FORZADO",
+  "subtema": "Campesinos",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2067 de 1991",
+    "Decreto 992 de 1930",
+    "Ley 57 de 1905",
+    "Decreto 976 de 1997",
+    "Decreto 489 de 1999"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/SU1150-00.htm",
+  "fecha_descarga": "2026-10-23T04:25:38.020652+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-08-30",
+  "fecha_publicacion": null,
+  "numero": "SU.1150/00",
+  "tipo_cc": "SU",
+  "prov_id": "17741",
+  "tema_relatoria": "DERECHO AL ALBERGUE TEMPORAL E INCLUSION EN LOS PROGRAMAS EXISTENTES REFERIDOS A LA POBLACION DESPLAZADA. SUSPENSION ORDEN DE DESALOJO DEL TERRENO DE CORVIDE. INCLUSION PROGRAMA ESPECIAL DE VIVIENDA. AYUDA ECONOMICA PARA PROYECTO PRODUCTIVO. HECHO SUPERADO. CONCEDIDA PARCIALMENTE.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DESPLAZAMIENTO FORZADO",
+      "subtema": "Campesinos"
+    },
+    {
+      "tema": "DESPLAZAMIENTO FORZADO",
+      "subtema": "Consecuencias"
+    },
+    {
+      "tema": "DESPLAZAMIENTO FORZADO",
+      "subtema": "Vulneración múltiple, masiva y continua de derechos fundamentales"
+    },
+    {
+      "tema": "DESPLAZADOS INTERNOS",
+      "subtema": "Víctimas de la violencia"
+    },
+    {
+      "tema": "ESTADO",
+      "subtema": "Debe garantizar atención de personas desplazadas"
+    },
+    {
+      "tema": "NACION",
+      "subtema": "Asume costos financieros para atención de personas desplazadas"
+    },
+    {
+      "tema": "RAMA EJECUTIVA",
+      "subtema": "Mecanismos necesarios para la atención de personas desplazadas"
+    },
+    {
+      "tema": "DESPLAZADOS INTERNOS",
+      "subtema": "Emergencia social"
+    },
+    {
+      "tema": "DESPLAZADOS INTERNOS",
+      "subtema": "Plan de acción propuesto por el CONPES"
+    },
+    {
+      "tema": "DEFENSORIA DEL PUEBLO",
+      "subtema": "Controla el funcionamiento de atención a personas desplazadas"
+    },
+    {
+      "tema": "DERECHO A LA IGUALDAD",
+      "subtema": "Vulneración por discriminación a personas desplazadas"
+    }
+  ]
+}

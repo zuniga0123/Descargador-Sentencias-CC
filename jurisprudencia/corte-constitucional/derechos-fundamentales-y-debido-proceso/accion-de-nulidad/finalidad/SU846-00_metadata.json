@@ -1,0 +1,77 @@
+{
+  "radicado": "SU846-00",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-07-06",
+  "magistrado_ponente": "Dr ALFREDO BELTRÁN SIERRA",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCION DE NULIDAD",
+  "subtema": "Finalidad",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto Ley 663 de 1993",
+    "Decreto 663 de 1993",
+    "Ley 31 de 1992",
+    "Decreto 2067 de 1991",
+    "Ley 546 de 1999"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/SU846-00.htm",
+  "fecha_descarga": "2026-10-23T04:26:41.599168+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-07-06",
+  "fecha_publicacion": null,
+  "numero": "SU.846/00",
+  "tipo_cc": "SU",
+  "prov_id": "17443",
+  "tema_relatoria": "DEBIDO PROCESO. DERECHO A UNA VIVIENDA DIGNA. RELIQUIDACION DE CREDITOS DEL SISTEMA UPAC. REMATES. CONCEDIDA PARCIALMENTE.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCION DE NULIDAD",
+      "subtema": "Finalidad"
+    },
+    {
+      "tema": "ACCION DE TUTELA TRANSITORIA",
+      "subtema": "Suspensión remate de vivienda"
+    },
+    {
+      "tema": "ACCION DE TUTELA TRANSITORIA",
+      "subtema": "Reliquidación crédito de vivienda"
+    },
+    {
+      "tema": "JUEZ",
+      "subtema": "Función interpretativa"
+    },
+    {
+      "tema": "SENTENCIA DE CONSTITUCIONALIDAD",
+      "subtema": "Efectos"
+    },
+    {
+      "tema": "CONTRATO DE MUTUO CON GARANTIA HIPOTECARIA",
+      "subtema": "Contratos dirigidos por restringir autonomía de la voluntad"
+    },
+    {
+      "tema": "ESTADO SOCIAL DE DERECHO",
+      "subtema": "Funciones de los jueces"
+    },
+    {
+      "tema": "COSA JUZGADA CONSTITUCIONAL",
+      "subtema": "Vulneración"
+    },
+    {
+      "tema": "JUEZ ORDINARIO",
+      "subtema": "Competencia para garantizar derechos a usuarios del sistema UPAC"
+    },
+    {
+      "tema": "UPAC",
+      "subtema": "Reliquidación de créditos"
+    },
+    {
+      "tema": "UPAC",
+      "subtema": "Determinación del valor no podrá reflejar movimientos de la tasa de interés en la economía"
+    }
+  ]
+}

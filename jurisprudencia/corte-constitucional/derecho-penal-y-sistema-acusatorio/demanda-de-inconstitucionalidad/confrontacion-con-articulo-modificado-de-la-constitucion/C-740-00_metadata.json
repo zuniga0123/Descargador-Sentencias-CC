@@ -1,0 +1,85 @@
+{
+  "radicado": "C-740-00",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-06-22",
+  "magistrado_ponente": "Dr EDUARDO CIFUENTES MUÑOZ",
+  "area": "Derecho Penal y Sistema Acusatorio",
+  "tema": "DEMANDA DE INCONSTITUCIONALIDAD",
+  "subtema": "Confrontación con artículo modificado de la Constitución",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Acto Legislativo 1 de 1997",
+    "Decreto 100 de 1980",
+    "Decreto 2067 de 1991",
+    "Decreto 2700 de 1991",
+    "Decreto 1860 de 1989"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/C-740-00.htm",
+  "fecha_descarga": "2026-10-23T04:20:31.178791+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-06-22",
+  "fecha_publicacion": null,
+  "numero": "C-740/00",
+  "tipo_cc": "C",
+  "prov_id": "17329",
+  "tema_relatoria": "EXTRADICION DE COLOMBIANOS POR ADOPCION-SUJECIÓN A TRATADOS PÚBLICOS O EN SU DEFECTO A LA LEY",
+  "resumen": "DEC. 100/80. ART. 17 PARCIAL. EXTRADICION. EXEQUIBLE E INEXEQUIBLE.",
+  "titulaciones": [
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "Confrontación con artículo modificado de la Constitución"
+    },
+    {
+      "tema": "CORTE CONSTITUCIONAL",
+      "subtema": "Necesidad de nuevo pronunciamiento frente a modificación de artículo de la Constitución"
+    },
+    {
+      "tema": "EXTRADICION",
+      "subtema": "Improcedencia por delitos políticos"
+    },
+    {
+      "tema": "EXTRADICION",
+      "subtema": "Improcedencia por hechos cometidos antes del Acto Legislativo 01 de 1997"
+    },
+    {
+      "tema": "LEGISLADOR EN EXTRADICION",
+      "subtema": "Límites"
+    },
+    {
+      "tema": "LEY EN EXTRADICION",
+      "subtema": "Aplicación en defecto"
+    },
+    {
+      "tema": "EXTRADICION DE COLOMBIANOS POR NACIMIENTO",
+      "subtema": null
+    },
+    {
+      "tema": "CONSTITUCION POLITICA",
+      "subtema": "Efectos derogatorios"
+    },
+    {
+      "tema": "EXTRADICION DE COLOMBIANOS POR ADOPCION",
+      "subtema": "Sujeción a tratados públicos o en su defecto a la ley"
+    },
+    {
+      "tema": "EXTRADICION",
+      "subtema": "Establecimiento marco por la Constitución"
+    },
+    {
+      "tema": "REFORMA, ELIMINACION O MODIFICACION DE NORMA CONSTITUCIONAL",
+      "subtema": "No restablece vigencia de disposiciones expulsadas del ordenamiento mediante sentencia"
+    },
+    {
+      "tema": "EXTRADICION",
+      "subtema": "Fuentes para solicitar, conceder u ofrecer"
+    },
+    {
+      "tema": "TRATADO PUBLICO EN EXTRADICION",
+      "subtema": "Aplicación principal y preferencial"
+    }
+  ]
+}

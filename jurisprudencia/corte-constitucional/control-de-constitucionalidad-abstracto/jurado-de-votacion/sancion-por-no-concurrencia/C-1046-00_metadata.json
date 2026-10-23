@@ -1,0 +1,42 @@
+{
+  "radicado": "C-1046-00",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-08-10",
+  "magistrado_ponente": "Dr EDUARDO CIFUENTES MUNOZ",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "JURADO DE VOTACION",
+  "subtema": "Sanción por no concurrencia",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2241 de 1986",
+    "Decreto 2067 de 1991",
+    "Decreto Ley 2241 de 1986",
+    "Ley 163 de 1994",
+    "Ley 200 de 1995",
+    "Ley 84 de 1993"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/C-1046-00.htm",
+  "fecha_descarga": "2026-10-23T04:16:10.193267+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-08-10",
+  "fecha_publicacion": null,
+  "numero": "C-1046/00",
+  "tipo_cc": "C",
+  "prov_id": "17632",
+  "tema_relatoria": "DECRETO 2241 DE 1986. ART. 105 (P.). ADOPTA EL CODIGO ELECTORAL. CARGO DE JURADO DE VOTACION Y NOTIFICACION DE NOMBRAMIENTOS. COSA JUZGADA CONSTITUCIONAL. VER SENTENCIA C-353/94 . INHIBIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "JURADO DE VOTACION",
+      "subtema": "Sanción por no concurrencia"
+    },
+    {
+      "tema": "INHIBICION DE LA CORTE CONSTITUCIONAL",
+      "subtema": "Derogación de norma"
+    }
+  ]
+}

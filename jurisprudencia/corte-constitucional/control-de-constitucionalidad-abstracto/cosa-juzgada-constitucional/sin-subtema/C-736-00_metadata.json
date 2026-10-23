@@ -1,0 +1,42 @@
+{
+  "radicado": "C-736-00",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-06-21",
+  "magistrado_ponente": "Dr CARLOS GAVIRIA DÍAZ",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "COSA JUZGADA CONSTITUCIONAL",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2067 de 1991",
+    "Decreto 700 de 1992"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/C-736-00.htm",
+  "fecha_descarga": "2026-10-23T04:20:45.546842+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-06-21",
+  "fecha_publicacion": null,
+  "numero": "C-736/00",
+  "tipo_cc": "C",
+  "prov_id": "17321",
+  "tema_relatoria": "COSA JUZGADA CONSTITUCIONAL EN EXENCION TRIBUTARIA A BONOS COLOMBIA",
+  "resumen": "LEY 488/98. ART. 7 ELIMINACION DE EXENCION TRIBUTARIA A CONTRIBUYENTES QUE POSEAN TITULOS DE DEUDA DE LA NACION. ESTARSE A LO RESUELTO EN LA C-291/00 Y C-604/00",
+  "titulaciones": [
+    {
+      "tema": "COSA JUZGADA CONSTITUCIONAL",
+      "subtema": null
+    },
+    {
+      "tema": "EXENCION TRIBUTARIA A BONOS COLOMBIA",
+      "subtema": null
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "Improcedencia de acumulación"
+    }
+  ]
+}

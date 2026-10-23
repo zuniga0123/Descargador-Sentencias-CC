@@ -1,0 +1,47 @@
+{
+  "radicado": "T-1018-99",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1999,
+  "fecha_creacion": "1999-12-13",
+  "magistrado_ponente": "Dr JOSÉ GREGORIO HERNÁNDEZ GALINDO",
+  "area": "Derecho a la Salud",
+  "tema": "DERECHO A LA SALUD",
+  "subtema": "No se pueden oponer periodos mínimos de cotización ante situaciones de urgencia",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Decreto 806 de 1998",
+    "Ley 100 de 1993"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1999/T-1018-99.htm",
+  "fecha_descarga": "2026-10-23T04:31:05.789768+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1999-12-13",
+  "fecha_publicacion": null,
+  "numero": "T-1018/99",
+  "tipo_cc": "T",
+  "prov_id": "16513",
+  "tema_relatoria": "TUTELA CONTRA SALUD COLMENA. CIRUGIA DE CORAZON. INAPLICA ART. 61. DECRETO 806/98. ORDENA REEMPLAZO DE VALVULA AORTICA. CONCEDIDA",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "No se pueden oponer periodos mínimos de cotización ante situaciones de urgencia"
+    },
+    {
+      "tema": "DERECHO A LA VIDA",
+      "subtema": "Intervención quirúrgica de urgencia sin cumplir periodo mínimo de cotización"
+    },
+    {
+      "tema": "INAPLICACION DE NORMAS DEL PLAN OBLIGATORIO DE SALUD",
+      "subtema": "Intervención quirúrgica de urgencia sin cumplir periodo mínimo de cotización"
+    },
+    {
+      "tema": "SUBCUENTA DEL FONDO DE SOLIDARIDAD Y GARANTIA DEL SISTEMA GENERAL DE SEGURIDAD SOCIAL EN SALUD",
+      "subtema": "Repetición de EPS por sobrecostos"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "radicado": "T-594-99",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1999,
+  "fecha_creacion": "1999-08-17",
+  "magistrado_ponente": "Dr JOSE GREGORIO HERNANDEZ GALINDO",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCIÓN DE TUTELA",
+  "subtema": "Improcedencia general para reclamar pago de acreencias laborales",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1999/T-594-99.htm",
+  "fecha_descarga": "2026-10-23T04:27:14.387339+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1999-08-17",
+  "fecha_publicacion": "1999-08-26",
+  "numero": "T-594/99",
+  "tipo_cc": "T",
+  "prov_id": "16073",
+  "tema_relatoria": "PAGO DE SALARIOS Y PRESTACIONES POR TUTELA. NO SE AFECTA EL MINIMO VITAL. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Improcedencia general para reclamar pago de acreencias laborales"
+    },
+    {
+      "tema": "MEDIO DE DEFENSA JUDICIAL",
+      "subtema": "Pago de salarios a persona desvinculada de empresa"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Procedencia excepcional pago de salarios a persona de la tercera edad"
+    },
+    {
+      "tema": "PRINCIPIO DE OFICIOSIDAD E INFORMALIDAD DE PROCESO DE TUTELA",
+      "subtema": "Invocación del derecho amenazado o violado"
+    },
+    {
+      "tema": "PRINCIPIO DE OFICIOSIDAD E INFORMALIDAD DE PROCESO DE TUTELA",
+      "subtema": "Prohibición de exigir requisitos adicionales o fórmulas sacramentales"
+    }
+  ]
+}

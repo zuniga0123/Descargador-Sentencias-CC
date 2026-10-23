@@ -1,0 +1,57 @@
+{
+  "radicado": "C-289-00",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-03-15",
+  "magistrado_ponente": "Dr ANTONIO BARRERA CARBONELL",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "FAMILIA",
+  "subtema": "Núcleo fundamental de la sociedad",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2820 de 1974"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/C-289-00.htm",
+  "fecha_descarga": "2026-10-23T04:11:12.097759+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-03-15",
+  "fecha_publicacion": null,
+  "numero": "C-289/00",
+  "tipo_cc": "C",
+  "prov_id": "16835",
+  "tema_relatoria": "DERECHO A LA IGUALDAD DE LA FAMILIA. MATRIMONIO Y UNIÓN LIBRE",
+  "resumen": "CODIGO CIVIL. ARTS 169 Y 171 MODIFICADOS POR DEC 2820/74 ARTS 5 Y 7. INVENTARIO DE BIENES CUANDO HAY HIJOS DE MATRIMONIO PRECEDENTE. INEXEQUIBLES ALGUNAS EXPRESIONES.",
+  "titulaciones": [
+    {
+      "tema": "FAMILIA",
+      "subtema": "Núcleo fundamental de la sociedad"
+    },
+    {
+      "tema": "DERECHO A LA IGUALDAD DE LA FAMILIA",
+      "subtema": "Matrimonio y unión libre"
+    },
+    {
+      "tema": "DERECHO A LA IGUALDAD DE LOS HIJOS",
+      "subtema": "Protección del patrimonio de los habidos en matrimonio y unión libre"
+    },
+    {
+      "tema": "DERECHO A LA IGUALDAD DE LA FAMILIA",
+      "subtema": "Manifestaciones"
+    },
+    {
+      "tema": "DERECHO A LA IGUALDAD DE LA FAMILIA",
+      "subtema": "Formas de matrimonio"
+    },
+    {
+      "tema": "INVENTARIO SOLEMNE DE BIENES",
+      "subtema": "Matrimonio y unión libre"
+    },
+    {
+      "tema": "INVENTARIO SOLEMNE DE BIENES",
+      "subtema": "Hijos habidos en matrimonio y unión libre"
+    }
+  ]
+}

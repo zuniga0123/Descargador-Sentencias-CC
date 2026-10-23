@@ -1,0 +1,46 @@
+{
+  "radicado": "C-951-00",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-07-26",
+  "magistrado_ponente": "Dr ALFREDO BELTRÁN SIERRA",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "CONVENIO CULTURAL",
+  "subtema": "Objeto",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2067 de 1991",
+    "Ley 32 de 1985"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/C-951-00.htm",
+  "fecha_descarga": "2026-10-23T04:18:41.194987+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-07-26",
+  "fecha_publicacion": null,
+  "numero": "C-951/00",
+  "tipo_cc": "C",
+  "prov_id": "17543",
+  "tema_relatoria": "LEY 536/99. POR MEDIO DE LA CUAL SE APRUEBA EL CONVENIO CULTURAL ENTRE EL GOBIERNO DE COLOMBIA E IRAN. EXEQUIBLES.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "CONVENIO CULTURAL",
+      "subtema": "Objeto"
+    },
+    {
+      "tema": "TRATADO INTERNACIONAL",
+      "subtema": "Alcance del examen de fondo por la Corte Constitucional"
+    },
+    {
+      "tema": "CONVENIO CULTURAL",
+      "subtema": "Constitucionalidad"
+    },
+    {
+      "tema": "LEY APROBATORIA DE TRATADO INTERNACIONAL",
+      "subtema": "Incumplimiento del término para remitirla a la Corte Constitucional, no la hace inconstitucional"
+    }
+  ]
+}

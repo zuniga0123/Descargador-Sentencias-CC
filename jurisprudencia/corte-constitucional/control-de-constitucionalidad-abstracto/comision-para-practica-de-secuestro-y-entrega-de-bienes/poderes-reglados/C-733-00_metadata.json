@@ -1,0 +1,63 @@
+{
+  "radicado": "C-733-00",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-06-21",
+  "magistrado_ponente": "Dr EDUARDO CIFUENTES MUÑOZ",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "COMISION PARA PRACTICA DE SECUESTRO Y ENTREGA DE BIENES",
+  "subtema": "Poderes reglados",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2067 de 1991",
+    "Decreto 2282 de 1989",
+    "Decreto 2651 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/C-733-00.htm",
+  "fecha_descarga": "2026-10-23T04:11:45.009794+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-06-21",
+  "fecha_publicacion": null,
+  "numero": "C-733/00",
+  "tipo_cc": "C",
+  "prov_id": "17318",
+  "tema_relatoria": "PROCESO EJECUTIVO. INTERVENCIÓN DE OPOSITORES Y TENEDORES SIN ASISTENCIA DE ABOGADO",
+  "resumen": "C.P.C. ARTS. 3132 PARC. 682 Y 686. REGLAS PARA EL SECUESTRO DE BIENES. EXEQUIBLES.",
+  "titulaciones": [
+    {
+      "tema": "COMISION PARA PRACTICA DE SECUESTRO Y ENTREGA DE BIENES",
+      "subtema": "Poderes reglados"
+    },
+    {
+      "tema": "MEDIDAS CAUTELARES",
+      "subtema": "Momento en que se deben decretar y practicar"
+    },
+    {
+      "tema": "MEDIDAS CAUTELARES",
+      "subtema": "Oposición al secuestro"
+    },
+    {
+      "tema": "MEDIDAS CAUTELARES",
+      "subtema": "Naturaleza"
+    },
+    {
+      "tema": "MEDIDAS CAUTELARES",
+      "subtema": "Práctica por alcaldes y funcionarios de policía"
+    },
+    {
+      "tema": "RAMAS DEL PODER PUBLICO",
+      "subtema": "Colaboración armónica"
+    },
+    {
+      "tema": "DERECHO A LA ASISTENCIA DE UN ABOGADO",
+      "subtema": "Restricciones"
+    },
+    {
+      "tema": "PROCESO EJECUTIVO",
+      "subtema": "Intervención de opositores y tenedores sin asistencia de abogado"
+    }
+  ]
+}

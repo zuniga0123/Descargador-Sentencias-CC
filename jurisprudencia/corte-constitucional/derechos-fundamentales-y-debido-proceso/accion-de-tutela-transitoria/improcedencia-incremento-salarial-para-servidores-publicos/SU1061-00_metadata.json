@@ -1,0 +1,51 @@
+{
+  "radicado": "SU1061-00",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-08-16",
+  "magistrado_ponente": "Dr ALFREDO BELTRÁN SIERRA",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCION DE TUTELA TRANSITORIA",
+  "subtema": "Improcedencia incremento salarial para servidores públicos",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 111 de 1996",
+    "Ley 4 de 1992",
+    "Ley 547 de 1999"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/SU1061-00.htm",
+  "fecha_descarga": "2026-10-23T04:26:22.877989+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-08-16",
+  "fecha_publicacion": null,
+  "numero": "SU.1061/00",
+  "tipo_cc": "SU",
+  "prov_id": "17652",
+  "tema_relatoria": "DERECHO A LA IGUALDAD AL TRABAJO Y AL REAJUSTE PERIODICO DE PENSIONES. NO AUMENTO DE SALARIOS Y PENSIONES PARA EL AÑO 2000 CUANDO FUERAN SUPERIORES A DOS SALARIOS MINIMOS. EMPLEADOS Y PENSIONADOS PUBLICOS. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCION DE TUTELA TRANSITORIA",
+      "subtema": "Improcedencia incremento salarial para servidores públicos"
+    },
+    {
+      "tema": "JUEZ DE TUTELA",
+      "subtema": "Improcedencia para sustituir a las autoridades en las competencias asignadas por la Constitución Política"
+    },
+    {
+      "tema": "JUEZ DE TUTELA",
+      "subtema": "Imposibilidad de modificar presupuesto para incremento salarial de servidores públicos"
+    },
+    {
+      "tema": "JUEZ CONSTITUCIONAL",
+      "subtema": "Improcedencia para sustituir a las autoridades en las competencias asignadas por la Constitución Política"
+    },
+    {
+      "tema": "GOBIERNO",
+      "subtema": "Formulación anual del presupuesto y ley de apropiaciones"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "radicado": "C-997-00",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-08-02",
+  "magistrado_ponente": "Dr JOSÉ GREGORIO HERNÁNDEZ GALINDO",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "MINISTERIO DE SALUD",
+  "subtema": "Función de autorizar apertura o traslado de droguerías",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 8 de 1971",
+    "Decreto 2067 de 1991",
+    "Ley 47 de 1967",
+    "Decreto 124 de 1954"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/C-997-00.htm",
+  "fecha_descarga": "2026-10-23T04:18:59.336389+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-08-02",
+  "fecha_publicacion": null,
+  "numero": "C-997/00",
+  "tipo_cc": "C",
+  "prov_id": "17586",
+  "tema_relatoria": "LEY 8 DE 1971. ART.1 PARAG.2. MODIFICA EL NUM. b) Y LOS PARAGS. 2 Y 3 DEL ART.1 Y 4 DE LA LAY 47 DE 1967. DROGUERIA. CARRERA INTERMEDIA DE REGENTE DE FARMACIA. ESTUDIO Y FIJACION POR PARTE DEL MINSALUD DE UBICACION DEL SERVICIO DE DROGUERIAS. PERMISO DE APERTURA O TRASLADO. EXEQUIBLE.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "MINISTERIO DE SALUD",
+      "subtema": "Función de autorizar apertura o traslado de droguerías"
+    },
+    {
+      "tema": "DROGUERIA",
+      "subtema": "Bien común exige cobertura general"
+    },
+    {
+      "tema": "DROGUERIA",
+      "subtema": "Apertura o traslado de acuerdo con ubicación geográfica"
+    },
+    {
+      "tema": "DROGUERIA",
+      "subtema": "Racionalización del servicio"
+    },
+    {
+      "tema": "LEGISLADOR",
+      "subtema": "Establecimiento de requisitos para funcionamiento de droguerías"
+    },
+    {
+      "tema": "SALUD",
+      "subtema": "Protección por el Estado"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "radicado": "C-1376-00",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-10-11",
+  "magistrado_ponente": "Dr ALFREDO BELTRÁN SIERRA",
+  "area": "Derecho Constitucional Económico",
+  "tema": "IGUALDAD ENTRE SOCIEDADES Y PERSONAS NATURALES",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2067 de 1991",
+    "Ley 222 de 1995"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/C-1376-00.htm",
+  "fecha_descarga": "2026-10-23T04:19:10.286313+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-10-11",
+  "fecha_publicacion": null,
+  "numero": "C-1376/00",
+  "tipo_cc": "C",
+  "prov_id": "17976",
+  "tema_relatoria": "DECRETO 624 DE 1989. ART. 147 (P.). ESTATUTO TRIBUTARIO DE LOS IMPUESTOS ADMINISTRADOS POR LA DIAN. DEDUCCION DE PERDIDAS DE LAS SOCIEDADES. DISCRIMINACION RESPECTO DE LAS PERSONAS NATURALES. EXEQUIBLE EXPRESIONES.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "IGUALDAD ENTRE SOCIEDADES Y PERSONAS NATURALES",
+      "subtema": null
+    },
+    {
+      "tema": "IGUALDAD EN MATERIA TRIBUTARIA",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "TRIBUTO",
+      "subtema": "Distinción entre persona natural y jurídica"
+    },
+    {
+      "tema": "IMPUESTO SOBRE LA RENTA",
+      "subtema": "Compensación de pérdidas fiscales"
+    },
+    {
+      "tema": "DERECHO A LA IGUALDAD ANTE LA LEY",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "IMPUESTO SOBRE LA RENTA",
+      "subtema": "Deducción de pérdidas de sociedades"
+    },
+    {
+      "tema": "IMPUESTO SOBRE LA RENTA",
+      "subtema": "Distinción entre persona natural y jurídica"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "radicado": "C-698-00",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-06-14",
+  "magistrado_ponente": "Dr VLADIMIRO NARANJO MESA",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "CONTROL DE CONSTITUCIONALIDAD",
+  "subtema": "Invocación de atribuciones por Ejecutivo no establece competencia de Tribunal",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 1932 de 1999",
+    "Decreto 2067 de 1991",
+    "Ley 489 de 1998",
+    "Ley 352 de 1997"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/C-698-00.htm",
+  "fecha_descarga": "2026-10-23T04:20:12.828401+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-06-14",
+  "fecha_publicacion": null,
+  "numero": "C-698/00",
+  "tipo_cc": "C",
+  "prov_id": "17284",
+  "tema_relatoria": "FALLO INHIBITORIO POR FALTA ABSOLUTA DE JURISDICCIÓN SOBRE DECRETOS REGLAMENTARIOS",
+  "resumen": "DEC. 1932/99. POR EL CUAL SE MODIFICA LA ESTRUCTURA DEL MINISTERIO DE DEFENSA NACIONAL. INHIBITORIA.",
+  "titulaciones": [
+    {
+      "tema": "CONTROL DE CONSTITUCIONALIDAD",
+      "subtema": "Invocación de atribuciones por Ejecutivo no establece competencia de Tribunal"
+    },
+    {
+      "tema": "CORTE CONSTITUCIONAL",
+      "subtema": "Competencia a pesar de encabezamiento dado por el Gobierno"
+    },
+    {
+      "tema": "INHIBICION DE LA CORTE CONSTITUCIONAL POR CARENCIA DE JURISDICCION",
+      "subtema": null
+    },
+    {
+      "tema": "ADMINISTRACION NACIONAL",
+      "subtema": "Modificación de estructura de ministerios por el Gobierno"
+    },
+    {
+      "tema": "CORTE CONSTITUCIONAL",
+      "subtema": "Incompetencia sobre decretos de naturaleza administrativa"
+    },
+    {
+      "tema": "CORTE CONSTITUCIONAL",
+      "subtema": "Definición de competencia con abandono del criterio formal"
+    },
+    {
+      "tema": "DECRETO REGLAMENTARIO",
+      "subtema": "Incompetencia de la Corte Constitucional"
+    },
+    {
+      "tema": "PRESIDENTE DE LA REPUBLICA EN ADMINISTRACION NACIONAL",
+      "subtema": "Modificación de estructura sujeto a principios y reglas generales que defina la ley"
+    }
+  ]
+}

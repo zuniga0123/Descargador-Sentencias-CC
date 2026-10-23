@@ -1,0 +1,55 @@
+{
+  "radicado": "T-191-99",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1999,
+  "fecha_creacion": "1999-03-25",
+  "magistrado_ponente": "Dr FABIO MORÓN DÍAZ",
+  "area": "Derecho Penal y Sistema Acusatorio",
+  "tema": "DERECHO DE DEFENSA TECNICA",
+  "subtema": "Alcance",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Decreto 196 de 1971",
+    "Decreto 2700 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1999/T-191-99.htm",
+  "fecha_descarga": "2026-10-23T04:32:35.333045+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1999-03-25",
+  "fecha_publicacion": null,
+  "numero": "T-191/99",
+  "tipo_cc": "T",
+  "prov_id": "15642",
+  "tema_relatoria": "DEBIDO PROCESO. DER. DE DEFENSA. CONTROVERSIA PROBATORIA EN PROCESO PENAL. NOTIFICACION DEL AUTO DE APERTURA DE INVESTIGACION. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO DE DEFENSA TECNICA",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "APERTURA DE INVESTIGACION PREVIA",
+      "subtema": "Práctica y recaudo de pruebas indispensables para identidad o individualización de autores o partícipes"
+    },
+    {
+      "tema": "DERECHO DE DEFENSA",
+      "subtema": "Restricciones adecuadas, necesarias y proporcionales"
+    },
+    {
+      "tema": "INDAGATORIA",
+      "subtema": "Imposibilidad material y real de contar con abogado inscrito"
+    },
+    {
+      "tema": "INDAGATORIA",
+      "subtema": "Designación de ciudadano honorable para dicha diligencia en vigencia de la ley no constituye por sí sola una vía de hecho"
+    },
+    {
+      "tema": "INVESTIGACION PREVIA",
+      "subtema": "Reserva de diligencias y pruebas para asegurar el establecimiento de la verdad material"
+    }
+  ]
+}

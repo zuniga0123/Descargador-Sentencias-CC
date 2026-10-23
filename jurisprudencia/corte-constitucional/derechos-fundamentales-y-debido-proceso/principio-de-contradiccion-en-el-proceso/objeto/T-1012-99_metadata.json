@@ -1,0 +1,77 @@
+{
+  "radicado": "T-1012-99",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1999,
+  "fecha_creacion": "1999-12-10",
+  "magistrado_ponente": "Dr ALFREDO BELTRÁN SIERRA",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "PRINCIPIO DE CONTRADICCION EN EL PROCESO",
+  "subtema": "Objeto",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1999/T-1012-99.htm",
+  "fecha_descarga": "2026-10-23T04:26:59.754048+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1999-12-10",
+  "fecha_publicacion": "1999-12-15",
+  "numero": "T-1012/99",
+  "tipo_cc": "T",
+  "prov_id": "39665",
+  "tema_relatoria": null,
+  "resumen": "Se interpone la acción de tutela en contra de la decisión judicial adoptada al interior de una demanda ejecutiva con título hipotecario, en donde se notificó personalmente el mandamiento de pago a una persona y se designó curador ad litem para las otras ejecutadas, quienes al parecer estaban secuestradas. El apoderado de la primera propuso las excepciones de exceptio pacto conventi, petición antes de tiempo y mora creditoris, de las cuales el juez declaró probada la primera. Ante esta decisión el Banco apeló y el Tribunal accionado revocó el fallo de primera instancia y, en su lugar, declaró no probadas las excepciones propuestas por la coodemandada y ordenó seguir adelante la ejecución. Se aborda temática relacionada con el debido proceso, el derecho de defensa y el agente oficioso y su afirmación de actuar como tal. Se confirma la decisión de instancia que concedió el amparo invocado.",
+  "titulaciones": [
+    {
+      "tema": "PRINCIPIO DE CONTRADICCION EN EL PROCESO",
+      "subtema": "Objeto"
+    },
+    {
+      "tema": "PRINCIPIO NADIE ESTA OBLIGADO A LO IMPOSIBLE",
+      "subtema": "Presentación de excepciones personales a quien se encuentra secuestrado"
+    },
+    {
+      "tema": "AGENCIA OFICIOSA EN TUTELA",
+      "subtema": "Requisitos"
+    },
+    {
+      "tema": "AGENCIA OFICIOSA EN TUTELA",
+      "subtema": "Imposibilidad de defensa de la persona en cuyo nombre se actúa"
+    },
+    {
+      "tema": "AGENCIA OFICIOSA EN TUTELA",
+      "subtema": "Inexistencia de manifestación expresa"
+    },
+    {
+      "tema": "AGENCIA OFICIOSA EN TUTELA",
+      "subtema": "Persona privada de libertad por secuestro"
+    },
+    {
+      "tema": "DEBIDO PROCESO EJECUTIVO HIPOTECARIO",
+      "subtema": "Imposibilidad absoluta de notificación personal por secuestro"
+    },
+    {
+      "tema": "DEBIDO PROCESO",
+      "subtema": "Principios generales"
+    },
+    {
+      "tema": "NOTIFICACION POR EMPLAZAMIENTO",
+      "subtema": "Persona privada de la libertad por secuestro"
+    },
+    {
+      "tema": "NOTIFICACION POR EMPLAZAMIENTO",
+      "subtema": "Finalidad"
+    },
+    {
+      "tema": "PRINCIPIO DE PUBLICIDAD DEL PROCESO",
+      "subtema": "Objeto"
+    },
+    {
+      "tema": "DERECHO DE DEFENSA",
+      "subtema": "Trámite de proceso sobre persona privada de libertad por secuestro"
+    }
+  ]
+}

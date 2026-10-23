@@ -1,0 +1,54 @@
+{
+  "radicado": "C-1108-00",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-08-24",
+  "magistrado_ponente": "Dr FABIO MORON DIAZ",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "LEY",
+  "subtema": "Vicio de forma por falta de citación de congresistas a sesión",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 552 de 1999",
+    "Ley 446 de 1998",
+    "Decreto 2067 de 1991",
+    "Ley 5 de 1992",
+    "Ley 522 de 1999",
+    "Ley 112 de 1999"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/C-1108-00.htm",
+  "fecha_descarga": "2026-10-23T04:16:39.252977+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-08-24",
+  "fecha_publicacion": null,
+  "numero": "C-1108/00",
+  "tipo_cc": "C",
+  "prov_id": "17697",
+  "tema_relatoria": "LEY 552 DE 1999. DEROGA EL TITULO I DE LA PARTE QUINTA DE LA LEY 446 DE 1998. DEROGACION DEL SERVICIO LEGAL POPULAR OBLIGATORIO PARA EGRESADOS DE FACULTADES DE DERECHO. CADUCIDAD DE LA ACCION POR VICIO DE FORMA. CUMPLIMIENTO ESTAPAS Y TRAMITE DE TODO PROCESO LEGISLATIVO. EXEQUIBLE CONDICIONADO.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "LEY",
+      "subtema": "Vicio de forma por falta de citación de congresistas a sesión"
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "Vicios de forma"
+    },
+    {
+      "tema": "PROYECTO DE LEY",
+      "subtema": "Publicación oficial para segundo debate"
+    },
+    {
+      "tema": "REPRESENTANTES A LA CAMARA",
+      "subtema": "Asistencia a sesiones en horarios habilitados por la ley"
+    },
+    {
+      "tema": "SERVICIO LEGAL POPULAR",
+      "subtema": "Derogación"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "radicado": "C-954-00",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2000,
+  "fecha_creacion": "2000-07-26",
+  "magistrado_ponente": "Dr VLADIMIRO NARANJO MESA",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "PENSION GRACIA",
+  "subtema": "Origen y alcance",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 91 de 1989",
+    "Decreto 2067 de 1991",
+    "Decreto 81 de 1976",
+    "Ley 114 de 1913",
+    "Ley 39 de 1903",
+    "Ley 43 de 1975",
+    "Ley 37 de 1933"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2000/C-954-00.htm",
+  "fecha_descarga": "2026-10-23T04:18:48.344777+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2000-07-26",
+  "fecha_publicacion": null,
+  "numero": "C-954/00",
+  "tipo_cc": "C",
+  "prov_id": "17546",
+  "tema_relatoria": "LEY 91 DE 1989. ART.15. NUM.2. LIT.A). FONDO DE PRESTACIONES DEL MAGISTERIO. PENSION GRACIA A DOCENTES EL SECTOR OFICIAL. EXEQUIBLE SALVO EXPRESION ESTARSE C-489/00 2000.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "PENSION GRACIA",
+      "subtema": "Origen y alcance"
+    },
+    {
+      "tema": "COSA JUZGADA CONSTITUCIONAL",
+      "subtema": "Límite temporal a reconocimiento de pensión gracia"
+    },
+    {
+      "tema": "PENSION GRACIA",
+      "subtema": "Destinatarios"
+    },
+    {
+      "tema": "PRINCIPIO DE IGUALDAD",
+      "subtema": "Carácter relacional"
+    },
+    {
+      "tema": "PENSION GRACIA",
+      "subtema": "Exigencia de requisitos no vulnera igualdad"
+    }
+  ]
+}
