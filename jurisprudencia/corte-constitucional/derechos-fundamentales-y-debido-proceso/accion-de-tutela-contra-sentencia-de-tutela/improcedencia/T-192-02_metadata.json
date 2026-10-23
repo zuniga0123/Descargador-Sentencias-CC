@@ -1,0 +1,53 @@
+{
+  "radicado": "T-192-02",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2002,
+  "fecha_creacion": "2002-03-14",
+  "magistrado_ponente": "Dr EDUARDO MONTEALEGRE LYNETT",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCION DE TUTELA CONTRA SENTENCIA DE TUTELA",
+  "subtema": "Improcedencia",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2002/T-192-02.htm",
+  "fecha_descarga": "2026-10-23T00:34:51.289881+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2002-03-14",
+  "fecha_publicacion": null,
+  "numero": "T-192/02",
+  "tipo_cc": "T",
+  "prov_id": "20343",
+  "tema_relatoria": "DERECHO AL DEBIDO PROCESO E IGUALDAD. ACCESO A LA ADMINISTRACION DE JUSTICIA. NOMBRAMIENTO CONTRALOR MUNICIPAL. SUPRESION CARGOS. VIA DE HECHO. DEBIDA INTERPRETACION DE LAS PRUEBAS. TUTELA CONTRA DECISIONES JUDICIALES. COSA JUZGADA CONSTITUCIONAL. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCION DE TUTELA CONTRA SENTENCIA DE TUTELA",
+      "subtema": "Improcedencia"
+    },
+    {
+      "tema": "REVISION FALLO DE TUTELA",
+      "subtema": "Decisión de no revisarlo no tiene efecto de cosa juzgada"
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA SENTENCIA DE TUTELA",
+      "subtema": "Procedencia por ser sentencia violatoria de la Constitución"
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA SENTENCIA DE TUTELA POR VIA DE HECHO",
+      "subtema": "Procedencia"
+    },
+    {
+      "tema": "CONTRALOR MUNICIPAL",
+      "subtema": "Pago oportuno de salarios"
+    },
+    {
+      "tema": "REVISION FALLO DE TUTELA",
+      "subtema": "No garantiza el cierre del sistema por el órgano jurisdiccional"
+    }
+  ]
+}

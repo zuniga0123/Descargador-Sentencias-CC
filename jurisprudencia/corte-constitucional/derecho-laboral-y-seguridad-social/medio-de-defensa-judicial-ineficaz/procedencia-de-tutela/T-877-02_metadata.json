@@ -1,0 +1,43 @@
+{
+  "radicado": "T-877-02",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2002,
+  "fecha_creacion": "2002-10-17",
+  "magistrado_ponente": "Dr JAIME CÓRDOBA TRIVIÑO",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "MEDIO DE DEFENSA JUDICIAL INEFICAZ",
+  "subtema": "Procedencia de tutela",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 100 de 1993",
+    "Ley 734 de 2002"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2002/T-877-02.htm",
+  "fecha_descarga": "2026-10-23T00:31:42.694422+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2002-10-17",
+  "fecha_publicacion": null,
+  "numero": "T-877/02",
+  "tipo_cc": "T",
+  "prov_id": "21297",
+  "tema_relatoria": "DERECHO A LA SEGURIDAD SOCIAL DE PENSIONADA Y SU CONYUGE. SOLICITUD INSCRIPCION COMO BENEFICIARIO DEL PLAN DE SALUD. INVESTIGACION DISCIPLINARIA. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "MEDIO DE DEFENSA JUDICIAL INEFICAZ",
+      "subtema": "Procedencia de tutela"
+    },
+    {
+      "tema": "MEDIO DE DEFENSA JUDICIAL",
+      "subtema": "Servicio de salud para cónyuge"
+    },
+    {
+      "tema": "DERECHO A LA IGUALDAD",
+      "subtema": "No extensión de beneficios extralegales a esposo de empleada de ECOPETROL"
+    }
+  ]
+}

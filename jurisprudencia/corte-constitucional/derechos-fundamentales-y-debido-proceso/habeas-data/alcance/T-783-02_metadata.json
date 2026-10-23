@@ -1,0 +1,46 @@
+{
+  "radicado": "T-783-02",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2002,
+  "fecha_creacion": "2002-09-20",
+  "magistrado_ponente": "Dr MANUEL JOSE CEPEDA ESPINOSA",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "HABEAS DATA",
+  "subtema": "Alcance",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 716 de 2001"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2002/T-783-02.htm",
+  "fecha_descarga": "2026-10-23T00:49:09.836904+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2002-09-20",
+  "fecha_publicacion": null,
+  "numero": "T-783/02",
+  "tipo_cc": "T",
+  "prov_id": "21175",
+  "tema_relatoria": "DERECHO AL BUEN NOMBRE Y HABEAS DATA. ACTUALIZACION Y RECTIFICACION DE INFORMACION EN BANCOS DE DATOS. PAGO VOLUNTARIO. MORA POR MAS DE 180 DIAS. CADUCIDAD AUTOMATICA DE INFORMACION NEGATIVA. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "HABEAS DATA",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "HABEAS DATA",
+      "subtema": "Permanecer en base de datos una vez cancelada deuda no constituye vulneración"
+    },
+    {
+      "tema": "HABEAS DATA",
+      "subtema": "Caducidad"
+    },
+    {
+      "tema": "HABEAS DATA",
+      "subtema": "Finalidad"
+    }
+  ]
+}

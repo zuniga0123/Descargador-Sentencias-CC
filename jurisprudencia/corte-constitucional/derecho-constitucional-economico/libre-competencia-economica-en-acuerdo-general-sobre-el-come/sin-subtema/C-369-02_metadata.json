@@ -1,0 +1,496 @@
+{
+  "radicado": "C-369-02",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2002,
+  "fecha_creacion": "2002-05-14",
+  "magistrado_ponente": null,
+  "area": "Derecho Constitucional Económico",
+  "tema": "LIBRE COMPETENCIA ECONOMICA EN ACUERDO GENERAL SOBRE EL COMERCIO",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 170 de 1994",
+    "Ley 671 de 2001",
+    "Ley 32 de 1985",
+    "Ley 406 de 1997"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2002/C-369-02.htm",
+  "fecha_descarga": "2026-10-23T00:54:20.398077+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2002-05-14",
+  "fecha_publicacion": null,
+  "numero": "C-369/02",
+  "tipo_cc": "C",
+  "prov_id": "20545",
+  "tema_relatoria": "CONTROL DE CONSTITUCIONALIDAD DEL CUARTO PROTOCOLO ANEXO AL ACUERDO GENERAL SOBRE EL COMERCIO DE SERVICIOS CON LA LISTA DE COMPROMISOS ESPECIFICOS DE COLOMBIA ANEXA",
+  "resumen": "LEY 671 DE 2001. CUARTO PROTOCOLO ANEXO AL ACUERDO GENERAL SOBRE EL COMERCIO DE SERVICIOS CON LA LISTA DE COMPROMISOS ESPECIFICOS DE COLOMBIA ANEXA. TELECOMUNICACIONES. INTERCONEXION. TELEFONIA PUBLICA BASICA CONMUTADA. OTORGAMIENTO DE LICENCIAS. TELECOM.",
+  "titulaciones": [
+    {
+      "tema": "LIBRE COMPETENCIA ECONOMICA EN ACUERDO GENERAL SOBRE EL COMERCIO",
+      "subtema": null
+    },
+    {
+      "tema": "ACUERDO GENERAL SOBRE EL COMERCIO DE SERVICIOS",
+      "subtema": "Declaración interpretativa"
+    },
+    {
+      "tema": "ACUERDO GENERAL SOBRE EL COMERCIO DE SERVICIOS",
+      "subtema": "Obligaciones para sus miembros"
+    },
+    {
+      "tema": "ACUERDO GENERAL SOBRE EL COMERCIO DE SERVICIOS",
+      "subtema": "Listas nacionales anexas"
+    },
+    {
+      "tema": "COMERCIO INTERNACIONAL",
+      "subtema": "Estímulo"
+    },
+    {
+      "tema": "CUARTO PROTOCOLO ANEXO AL ACUERDO GENERAL SOBRE EL COMERCIO DE SERVICIOS CON LISTA DE COMPROMISOS ESPECIFICOS DE COLOMBIA ANEXA",
+      "subtema": "Actos del embajador y no incidencia en competencia de revisión constitucional"
+    },
+    {
+      "tema": "CUARTO PROTOCOLO ANEXO AL ACUERDO GENERAL SOBRE EL COMERCIO DE SERVICIOS",
+      "subtema": "No comprometió por lo que Gobierno debe ratificarlo"
+    },
+    {
+      "tema": "CUARTO PROTOCOLO ANEXO AL ACUERDO GENERAL SOBRE EL COMERCIO DE SERVICIOS CON LISTA DE COMPROMISOS ESPECIFICOS DE COLOMBIA ANEXA",
+      "subtema": "Acto externo que modifica legislación existente"
+    },
+    {
+      "tema": "CUARTO PROTOCOLO ANEXO AL ACUERDO GENERAL SOBRE EL COMERCIO DE SERVICIOS CON LISTA DE COMPROMISOS ESPECIFICOS DE COLOMBIA ANEXA",
+      "subtema": "Inexistencia de acto administrativo que ordene aplicación provisional ni envío inmediato al Congreso para aprobación"
+    },
+    {
+      "tema": "CUARTO PROTOCOLO ANEXO AL ACUERDO GENERAL SOBRE EL COMERCIO DE SERVICIOS CON LISTA DE COMPROMISOS ESPECIFICOS DE COLOMBIA ANEXA",
+      "subtema": "Vicio insubsanable"
+    },
+    {
+      "tema": "CUARTO PROTOCOLO ANEXO AL ACUERDO GENERAL SOBRE EL COMERCIO DE SERVICIOS CON LISTA DE COMPROMISOS ESPECIFICOS DE COLOMBIA ANEXA",
+      "subtema": "Competencia para conocer a pesar de vigencia internacional"
+    },
+    {
+      "tema": "ESPECTRO ELECTROMAGNETICO EN ACUERDO GENERAL SOBRE EL COMERCIO DE SERVICIOS",
+      "subtema": null
+    },
+    {
+      "tema": "CONGRESO",
+      "subtema": "Sistema bicameral en que no existe prevalencia funcional"
+    },
+    {
+      "tema": "ORGANIZACION MUNDIAL DEL COMERCIO",
+      "subtema": "Ámbito"
+    },
+    {
+      "tema": "ORGANIZACION MUNDIAL DEL COMERCIO",
+      "subtema": "Clases de acuerdos"
+    },
+    {
+      "tema": "LIBRE COMPETENCIA ECONOMICA",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "LEY APROBATORIA DE TRATADO INTERNACIONAL",
+      "subtema": "Finalidad"
+    },
+    {
+      "tema": "LIBRE COMPETENCIA ECONOMICA",
+      "subtema": "Concepto y finalidad"
+    },
+    {
+      "tema": "LEY",
+      "subtema": "Origen en cualquiera de las Cámaras"
+    },
+    {
+      "tema": "PROTOCOLO",
+      "subtema": "Suscripción"
+    },
+    {
+      "tema": "PROYECTO DE LEY",
+      "subtema": "Aprobación como culminación del segundo en la Cámara de origen"
+    },
+    {
+      "tema": "PROYECTO DE LEY",
+      "subtema": "Iniciación trámite se circunscribe a comenzarlo o promoverlo y no a terminación integral"
+    },
+    {
+      "tema": "PROYECTO DE LEY",
+      "subtema": "No alteración de orden de aprobación"
+    },
+    {
+      "tema": "ENMIENDA DE TRATADO INTERNACIONAL",
+      "subtema": "Modificación de compromisos"
+    },
+    {
+      "tema": "LEY APROBATORIA DE TRATADO INTERNACIONAL",
+      "subtema": "Iniciación en Senado no implica aprobación integral en el mismo ante debate simultáneo por mensaje de urgencia"
+    },
+    {
+      "tema": "LEY APROBATORIA DE TRATADO INTERNACIONAL PERFECCIONADO",
+      "subtema": "Competencia de la Corte Constitucional"
+    },
+    {
+      "tema": "LEY APROBATORIA DE TRATADO INTERNACIONAL",
+      "subtema": "Demanda ciudadana por perfeccionamiento"
+    },
+    {
+      "tema": "PROYECTO DE LEY",
+      "subtema": "Orden de aprobación no se altera en caso de sesiones conjuntas de las comisiones"
+    },
+    {
+      "tema": "PROYECTO DE LEY",
+      "subtema": "Trámite de urgencia"
+    },
+    {
+      "tema": "PROYECTO DE LEY APROBATORIA DE TRATADO INTERNACIONAL",
+      "subtema": "Trámite ordinario limita competencia de la Cámara por tener prelación al Senado"
+    },
+    {
+      "tema": "PROYECTO DE LEY",
+      "subtema": "Eliminación de prelación usual de una Cámara sobre otra por deliberación conjunta"
+    },
+    {
+      "tema": "PROYECTO DE LEY",
+      "subtema": "Primacía de la Cámara no hace nugatoria deliberación conjunta"
+    },
+    {
+      "tema": "PROYECTO DE LEY",
+      "subtema": "Regulaciones especiales no anulan facultades del Gobierno"
+    },
+    {
+      "tema": "PROYECTO DE LEY",
+      "subtema": "Segundo debate en Cámara de origen ante objeción"
+    },
+    {
+      "tema": "PROYECTO DE LEY",
+      "subtema": "Trámite de urgencia altera el rito ordinario"
+    },
+    {
+      "tema": "TRATADO INTERNACIONAL",
+      "subtema": "No vincula sin previa aprobación por el Congreso y control constitucional"
+    },
+    {
+      "tema": "SERVICIO DE TELECOMUNICACIONES EN ACUERDO GENERAL SOBRE EL COMERCIO DE SERVICIOS",
+      "subtema": "Compromisos específicos"
+    },
+    {
+      "tema": "SERVICIO DE TELECOMUNICACIONES",
+      "subtema": "Reglamentación de otorgamiento de licencias para nuevos concesionarios"
+    },
+    {
+      "tema": "TRATADO INTERNACIONAL",
+      "subtema": "Consentimiento del Estado con violación de norma del derecho interno sobre competencia"
+    },
+    {
+      "tema": "TRATADO INTERNACIONAL",
+      "subtema": "Depósito de nuevo instrumento de ratificación para convalidar eventual nulidad por carencia absoluta de competencia del representante"
+    },
+    {
+      "tema": "TRATADO INTERNACIONAL",
+      "subtema": "Firma ad referéndum"
+    },
+    {
+      "tema": "TRATADO INTERNACIONAL",
+      "subtema": "Presupuesto para validez y eficacia internas"
+    },
+    {
+      "tema": "TRATADO INTERNACIONAL",
+      "subtema": "Revisión automática de constitucionalidad para ratificados con posterioridad a la Constitución"
+    },
+    {
+      "tema": "TRATADO INTERNACIONAL",
+      "subtema": "Vigencia no impide revisión constitucional"
+    },
+    {
+      "tema": "TRATADO INTERNACIONAL",
+      "subtema": "Análisis de competencia para conocer de ley aprobatoria perfeccionada"
+    },
+    {
+      "tema": "TRATADO INTERNACIONAL",
+      "subtema": "Depósito por Gobierno de instrumento de ratificación para validez"
+    },
+    {
+      "tema": "TRATADO INTERNACIONAL",
+      "subtema": "Revisión constitucional para ejecución interna"
+    },
+    {
+      "tema": "TRATADO INTERNACIONAL",
+      "subtema": "Vigencia previa aprobación por el parlamento"
+    },
+    {
+      "tema": "TRATADO INTERNACIONAL",
+      "subtema": "Efectos distintos de la firma"
+    },
+    {
+      "tema": "PROYECTO DE LEY APROBATORIA DE TRATADO INTERNACIONAL",
+      "subtema": "Mensaje de urgencia y solicitud de deliberación conjunta"
+    },
+    {
+      "tema": "PROYECTO DE LEY",
+      "subtema": "En trámite de urgencia deliberación conjunta obvia paso de una Cámara a otra"
+    },
+    {
+      "tema": "PROTOCOLO ANEXO AL ACUERDO GENERAL SOBRE EL COMERCIO DE SERVICIOS",
+      "subtema": "Formalidades de otra clase"
+    },
+    {
+      "tema": "PROTOCOLO",
+      "subtema": "No prevé firma de representantes de Estados"
+    },
+    {
+      "tema": "SERVICIO DE TELECOMUNICACIONES EN ACUERDO GENERAL SOBRE EL COMERCIO DE SERVICIOS",
+      "subtema": "Subcomisión de seguimiento"
+    },
+    {
+      "tema": "CUARTO PROTOCOLO ANEXO AL ACUERDO GENERAL SOBRE EL COMERCIO DE SERVICIOS CON LISTA DE COMPROMISOS ESPECIFICOS DE COLOMBIA ANEXA",
+      "subtema": null
+    },
+    {
+      "tema": "ACUERDO GENERAL SOBRE TARIFAS Y COMERCIO",
+      "subtema": null
+    },
+    {
+      "tema": "ACUERDO GENERAL SOBRE EL COMERCIO DE SERVICIOS",
+      "subtema": "Cláusulas autoejecutables y programáticas"
+    },
+    {
+      "tema": "ACUERDO GENERAL SOBRE EL COMERCIO DE SERVICIOS",
+      "subtema": "Objeto"
+    },
+    {
+      "tema": "ACUERDO GENERAL SOBRE EL COMERCIO DE SERVICIOS",
+      "subtema": "Estados pueden modificar sus compromisos específicos"
+    },
+    {
+      "tema": "CLAUSULA DE LA NACION MAS FAVORECIDA EN ORGANIZACION MUNDIAL DEL COMERCIO",
+      "subtema": "Excepciones y limitaciones"
+    },
+    {
+      "tema": "COMERCIO DE SERVICIOS",
+      "subtema": "Particularidades"
+    },
+    {
+      "tema": "CONGRESO",
+      "subtema": "Bicameral"
+    },
+    {
+      "tema": "CUARTO PROTOCOLO ANEXO AL ACUERDO GENERAL SOBRE EL COMERCIO DE SERVICIOS CON LISTA DE COMPROMISOS ESPECIFICOS DE COLOMBIA ANTEXA",
+      "subtema": "Vulneración de la Constitución"
+    },
+    {
+      "tema": "LIBERTAD DE COMERCIO",
+      "subtema": "Vigilancia estatal y reserva de algunas actividades"
+    },
+    {
+      "tema": "LEY",
+      "subtema": "Carácter obsoleto por requerir regulación dinámica, transparente y multidisciplinaria"
+    },
+    {
+      "tema": "PROYECTO DE LEY",
+      "subtema": "Requisitos"
+    },
+    {
+      "tema": "PROYECTO DE LEY",
+      "subtema": "En trámite de urgencia la posible simultaneidad del segundo debate hace que no exista prelación temporal de una Cámara sobre otra"
+    },
+    {
+      "tema": "PROYECTO DE LEY",
+      "subtema": "Mensaje de urgencia implica por lo menos agotamiento de una etapa en la Cámara correspondiente"
+    },
+    {
+      "tema": "PROYECTO DE LEY",
+      "subtema": "Objeción por el Ejecutivo y devolución donde tuvo origen"
+    },
+    {
+      "tema": "PROYECTO DE LEY",
+      "subtema": "Solicitud de deliberación conjunta encontrándose al estudio de una Comisión"
+    },
+    {
+      "tema": "ENMIENDA DE TRATADO INTERNACIONAL",
+      "subtema": "Sujeción al mismo procedimiento de aprobación y control constitucional"
+    },
+    {
+      "tema": "ESPECTRO ELECTROMAGNETICO",
+      "subtema": "Acceso en condiciones de igualdad"
+    },
+    {
+      "tema": "ESPECTRO ELECTROMAGNETICO",
+      "subtema": "Concepto y alcance"
+    },
+    {
+      "tema": "CUARTO PROTOCOLO ANEXO AL ACUERDO GENERAL SOBRE EL COMERCIO DE SERVICIOS CON LISTA DE COMPROMISOS ESPECIFICOS DE COLOMBIA ANEXA",
+      "subtema": "Inexistencia de necesidad de firma y vigencia antes de aprobación por el Congreso"
+    },
+    {
+      "tema": "CUARTO PROTOCOLO ANEXO AL ACUERDO GENERAL SOBRE EL COMERCIO DE SERVICIOS CON LISTA DE COMPROMISOS ESPECIFICOS DE COLOMBIA ANEXA",
+      "subtema": "Acuerdo comercial plurilaterales"
+    },
+    {
+      "tema": "CUARTO PROTOCOLO ANEXO AL ACUERDO GENERAL SOBRE EL COMERCIO DE SERVICIOS CON LISTA DE COMPROMISOS ESPECIFICOS DE COLOMBIA ANEXA",
+      "subtema": "Vigencia al momento de revisión constitucional"
+    },
+    {
+      "tema": "LEY APROBATORIA DE TRATADO INTERNACIONAL",
+      "subtema": "Propuesta razonada por comisión competente a la Plenaria"
+    },
+    {
+      "tema": "INSTRUMENTOS INTERNACIONALES",
+      "subtema": "Efectos distintos de la firma"
+    },
+    {
+      "tema": "ORGANIZACION MUNDIAL DEL COMERCIO",
+      "subtema": "Finalidad de evitar discriminaciones comerciales"
+    },
+    {
+      "tema": "PROTOCOLO",
+      "subtema": "Abierto a la aceptación de miembros interesados de la OMC"
+    },
+    {
+      "tema": "PROTOCOLO",
+      "subtema": "Constituye un acuerdo internacional y produce efectos"
+    },
+    {
+      "tema": "PROTOCOLO",
+      "subtema": "Fijación del texto para posterior aprobación interna y ratificación por Estados"
+    },
+    {
+      "tema": "PROYECTO DE LEY APROBATORIA DE TRATADO INTERNACIONAL",
+      "subtema": "No salto abrupto de comisiones en sesiones conjuntas a la Cámara para aprobación antes del Senado"
+    },
+    {
+      "tema": "PROYECTO DE LEY",
+      "subtema": "Iniciación trámite no incluye culminación en comisión del Senado antes de aprobación en Cámara si existió sesión conjunta por mensaje de urgencia"
+    },
+    {
+      "tema": "PROYECTO DE LEY",
+      "subtema": "Sanción presidencial"
+    },
+    {
+      "tema": "PROYECTO DE LEY APROBATORIA DE TRATADO INTERNACIONAL",
+      "subtema": "Iniciación del trámite no desconoce competencia del Gobierno para trámite de urgencia"
+    },
+    {
+      "tema": "PROYECTO DE LEY APROBATORIA DE TRATADO INTERNACIONAL",
+      "subtema": "Vicio insubsanable por aprobación en la Cámara por plenaria antes de aprobación de Senado"
+    },
+    {
+      "tema": "PROYECTO DE LEY",
+      "subtema": "Aprobación en segundo debate se cumple en Cámara en que tuvo origen"
+    },
+    {
+      "tema": "PROYECTO DE LEY",
+      "subtema": "Deliberación conjunta por tener exigencias especiales en relación con la iniciación"
+    },
+    {
+      "tema": "PROYECTO DE LEY",
+      "subtema": "Mensaje de urgencia encontrándose al estudio de una comisión permanente"
+    },
+    {
+      "tema": "PROYECTO DE LEY",
+      "subtema": "Negativa en primer debate"
+    },
+    {
+      "tema": "PROYECTO DE LEY",
+      "subtema": "Trámite de urgencia no hace imperativo mediación de quince días"
+    },
+    {
+      "tema": "SERVICIOS DE TELECOMUNICADORES EN ACUERDO GENERAL SOBRE EL COMERCIO DE SERVICIOS",
+      "subtema": "Vigilancia y control del Estado sobre prestación de servicios y reserva de algunas actividades"
+    },
+    {
+      "tema": "SERVICIO DE TELECOMUNICACIONES",
+      "subtema": "Apertura y servicio portador"
+    },
+    {
+      "tema": "TRATADO INTERNACIONAL",
+      "subtema": "Concepción monista moderada en competencia sobre el perfeccionamiento"
+    },
+    {
+      "tema": "TRATADO INTERNACIONAL",
+      "subtema": "Consecuencias de la inconstitucionalidad por irregularidad en suscripción"
+    },
+    {
+      "tema": "TRATADO INTERNACIONAL",
+      "subtema": "Finalidad de la aprobación por el Congreso"
+    },
+    {
+      "tema": "TRATADO INTERNACIONAL",
+      "subtema": "Firma que compromete al Estado"
+    },
+    {
+      "tema": "TRATADO INTERNACIONAL",
+      "subtema": "Inaplicación por ser contrario a la Constitución"
+    },
+    {
+      "tema": "TRATADO INTERNACIONAL",
+      "subtema": "Irregularidades que no afectan validez"
+    },
+    {
+      "tema": "TRATADO INTERNACIONAL",
+      "subtema": "No aprobación previa por el Congreso ni revisión previa por la Corte Constitucional"
+    },
+    {
+      "tema": "TRATADO INTERNACIONAL",
+      "subtema": "Previa aprobación legislativa y control constitucional"
+    },
+    {
+      "tema": "TRATADO INTERNACIONAL PERFECCIONADO",
+      "subtema": "Revisión integral de constitucionalidad"
+    },
+    {
+      "tema": "TRATADO INTERNACIONAL",
+      "subtema": "Compromiso previa aprobación del Congreso y control constitucional"
+    },
+    {
+      "tema": "TRATADO INTERNACIONAL",
+      "subtema": "Consentimiento del Estado es posterior al cumplimiento de exigencias constitucionales"
+    },
+    {
+      "tema": "TRATADO INTERNACIONAL",
+      "subtema": "Declaración interpretativa"
+    },
+    {
+      "tema": "TRATADO INTERNACIONAL",
+      "subtema": "Firma entendida exclusivamente como ad referéndum"
+    },
+    {
+      "tema": "TRATADO INTERNACIONAL",
+      "subtema": "Irregularidad en suscripción"
+    },
+    {
+      "tema": "TRATADO INTERNACIONAL PERFECCIONADO",
+      "subtema": "Competencia"
+    },
+    {
+      "tema": "TRATADO INTERNACIONAL",
+      "subtema": "Confirmación presidencial subsana vicios de representación en suscripción"
+    },
+    {
+      "tema": "TRATADO INTERNACIONAL",
+      "subtema": "Excepción a compromiso previa aprobación del Congreso y control constitucional"
+    },
+    {
+      "tema": "TRATADO INTERNACIONAL",
+      "subtema": "Suscripción irregular por compromiso antes de aprobación por el Congreso y control constitucional"
+    },
+    {
+      "tema": "TRATADO INTERNACIONAL",
+      "subtema": "Competencia de revisión constitucional aunque se encuentre vigente"
+    },
+    {
+      "tema": "TRATADO INTERNACIONAL",
+      "subtema": "Entendimiento de firma de representante como ad referéndum"
+    },
+    {
+      "tema": "TRATADO INTERNACIONAL",
+      "subtema": "Firma que no compromete por desconocer normas constitucionales de competencia para aprobación"
+    },
+    {
+      "tema": "TRATADO INTERNACIONAL",
+      "subtema": "Incluyen protocolos y modificaciones"
+    }
+  ]
+}

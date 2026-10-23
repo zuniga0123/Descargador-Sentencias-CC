@@ -1,0 +1,50 @@
+{
+  "radicado": "T-676-02",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2002,
+  "fecha_creacion": "2002-08-21",
+  "magistrado_ponente": "Dr JAIME ARAUJO RENTERIA",
+  "area": "Derecho a la Salud",
+  "tema": "INAPLICACION DE NORMAS DEL PLAN OBLIGATORIO DE SALUD",
+  "subtema": "Casos en que procede por exclusión de tratamientos y medicamentos de alto costo",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Decreto 806 de 1998"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2002/T-676-02.htm",
+  "fecha_descarga": "2026-10-23T00:44:12.148509+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2002-08-21",
+  "fecha_publicacion": null,
+  "numero": "T-676/02",
+  "tipo_cc": "T",
+  "prov_id": "21005",
+  "tema_relatoria": "DERECHOS A LA VIDA INTEGRIDAD SALUD Y SEGURIDAD SOCIAL. PRACTICA CIRUGIA ESTETICA MAMOPLASTIA NO INCLUIDA EN EL POS. BENEFICIARIA REGIMEN CONTRIBUTIVO. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "INAPLICACION DE NORMAS DEL PLAN OBLIGATORIO DE SALUD",
+      "subtema": "Casos en que procede por exclusión de tratamientos y medicamentos de alto costo"
+    },
+    {
+      "tema": "PLAN OBLIGATORIO DE SALUD",
+      "subtema": "Exclusión de tratamientos originados como consecuencia de cirugía estética"
+    },
+    {
+      "tema": "MEDIO DE DEFENSA JUDICIAL",
+      "subtema": "Presunta responsabilidad médica por complicaciones derivadas de cirugía estética"
+    },
+    {
+      "tema": "PLAN OBLIGATORIO DE SALUD",
+      "subtema": "Regulación de servicios"
+    },
+    {
+      "tema": "PLAN OBLIGATORIO DE SALUD",
+      "subtema": "Exclusiones y limitaciones"
+    }
+  ]
+}

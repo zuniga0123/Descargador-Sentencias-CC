@@ -1,0 +1,45 @@
+{
+  "radicado": "T-1115-02",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2002,
+  "fecha_creacion": "2002-12-09",
+  "magistrado_ponente": "Dr RODRIGO ESCOBAR GIL",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "HABEAS DATA ADMINISTRATIVO EN PROGRAMA DEL SISBEN",
+  "subtema": "Inclusión de datos e información sobre derecho a ser afiliado",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2002/T-1115-02.htm",
+  "fecha_descarga": "2026-10-23T00:36:58.730976+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2002-12-09",
+  "fecha_publicacion": null,
+  "numero": "T-1115/02",
+  "tipo_cc": "T",
+  "prov_id": "21600",
+  "tema_relatoria": "DERECHO A LA SALUD. HABEAS DATA ADMINISTRATIVO. SOLICITUD SERVICIOS MEDICOS. REALIZACION NUEVA ENCUESTA. SISBEN. NEGLIGENCIA JUDICIAL. INVESTIGACION DISCIPLINARIA. HECHO SUPERADO. LLAMADO A PREVENCION. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "HABEAS DATA ADMINISTRATIVO EN PROGRAMA DEL SISBEN",
+      "subtema": "Inclusión de datos e información sobre derecho a ser afiliado"
+    },
+    {
+      "tema": "SISBEN",
+      "subtema": "Nueva encuesta para reclasificación"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Hecho superado por prestación del servicio de salud"
+    },
+    {
+      "tema": "SISBEN",
+      "subtema": "Regulación ineficiente para detectar a las personas pobres"
+    }
+  ]
+}

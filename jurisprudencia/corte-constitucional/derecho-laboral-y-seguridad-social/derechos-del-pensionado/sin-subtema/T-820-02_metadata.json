@@ -1,0 +1,50 @@
+{
+  "radicado": "T-820-02",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2002,
+  "fecha_creacion": "2002-10-03",
+  "magistrado_ponente": "Dra CLARA INÉS VARGAS HERNÁNDEZ",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "DERECHOS DEL PENSIONADO",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 60 de 1993"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2002/T-820-02.htm",
+  "fecha_descarga": "2026-10-23T00:43:17.409707+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2002-10-03",
+  "fecha_publicacion": null,
+  "numero": "T-820/02",
+  "tipo_cc": "T",
+  "prov_id": "21223",
+  "tema_relatoria": "DERECHOS AL MINIMO VITAL SEGURIDAD SOCIAL IGUALDAD Y ADQUIRIDOS. PAGO DE ACREENCIAS LABORALES. MESADAS PENSIONALES. APORTES A LA SALUD. EXHORTAR. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHOS DEL PENSIONADO",
+      "subtema": null
+    },
+    {
+      "tema": "DERECHO A LA VIDA DIGNA DEL PENSIONADO",
+      "subtema": "Afectación por no pago oportuno de mesadas"
+    },
+    {
+      "tema": "DERECHO AL MINIMO VITAL DEL PENSIONADO",
+      "subtema": "Pago oportuno de mesadas"
+    },
+    {
+      "tema": "JUEZ DE TUTELA",
+      "subtema": "Facultades"
+    },
+    {
+      "tema": "FUNDACION SAN JUAN DE DIOS",
+      "subtema": "Pago de mesadas pensionales"
+    }
+  ]
+}

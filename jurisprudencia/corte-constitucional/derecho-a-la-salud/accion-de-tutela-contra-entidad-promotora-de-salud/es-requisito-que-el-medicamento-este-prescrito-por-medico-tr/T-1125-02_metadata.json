@@ -1,0 +1,61 @@
+{
+  "radicado": "T-1125-02",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2002,
+  "fecha_creacion": "2002-12-12",
+  "magistrado_ponente": "Dr ALVARO TAFUR GALVIS",
+  "area": "Derecho a la Salud",
+  "tema": "ACCION DE TUTELA CONTRA ENTIDAD PROMOTORA DE SALUD",
+  "subtema": "Es requisito que el medicamento esté prescrito por médico tratante",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2002/T-1125-02.htm",
+  "fecha_descarga": "2026-10-23T00:37:17.016542+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2002-12-12",
+  "fecha_publicacion": null,
+  "numero": "T-1125/02",
+  "tipo_cc": "T",
+  "prov_id": "21610",
+  "tema_relatoria": "DERECHO A LA SALUD Y VIDA DE PERSONA CON VIH. SOLICITUD PRACTICA EXAMEN DE CARGA VIRAL Y SUMINISTRO MEDICAMENTOS NO INCLUIDOS EN EL POS NO PRESCRITOS POR MEDICO ADSCRITO. ACCION DE REPETICION. CONCEDIDA PARCIAL.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCION DE TUTELA CONTRA ENTIDAD PROMOTORA DE SALUD",
+      "subtema": "Es requisito que el medicamento esté prescrito por médico tratante"
+    },
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Fundamental por conexidad con la vida"
+    },
+    {
+      "tema": "INAPLICACION DE NORMAS DEL PLAN OBLIGATORIO DE SALUD",
+      "subtema": "Casos en que procede por exclusión de medicamentos"
+    },
+    {
+      "tema": "ENTIDAD PROMOTORA DE SALUD",
+      "subtema": "Suministro de medicamentos señalados por médico tratante aunque no figuren en listado del POS"
+    },
+    {
+      "tema": "ENTIDAD PROMOTORA DE SALUD",
+      "subtema": "Repetición contra el FOSYGA"
+    },
+    {
+      "tema": "ENTIDAD PROMOTORA DE SALUD",
+      "subtema": "Deber de suministrar tratamientos y medicamentos a enfermos de sida"
+    },
+    {
+      "tema": "DERECHO A LA SALUD DEL ENFERMO DE SIDA",
+      "subtema": "Realización examen de carga viral"
+    },
+    {
+      "tema": "DERECHO A LA SALUD DEL ENFERMO DE SIDA",
+      "subtema": "Examen de carga viral fundamental para tratamiento del sida"
+    }
+  ]
+}

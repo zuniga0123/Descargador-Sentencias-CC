@@ -1,0 +1,42 @@
+{
+  "radicado": "T-365-02",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2002,
+  "fecha_creacion": "2002-05-10",
+  "magistrado_ponente": "Dr JAIME CÓRDOBA TRIVIÑO",
+  "area": "Derecho a la Salud",
+  "tema": "DERECHO A LA SALUD",
+  "subtema": "Realización de cirugía",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 100 de 1993",
+    "Decreto 806 de 1998",
+    "Decreto 1222 de 1994",
+    "Decreto 1570 de 1993",
+    "Ley 10 de 1990"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2002/T-365-02.htm",
+  "fecha_descarga": "2026-10-23T00:50:15.156538+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2002-05-10",
+  "fecha_publicacion": null,
+  "numero": "T-365/02",
+  "tipo_cc": "T",
+  "prov_id": "20539",
+  "tema_relatoria": "DERECHOS A LA INTEGRIDAD PERSONAL SALUD Y VIDA. SOLICITUD PRACTICA LAPAROSCOPIA NO INCLUIDA EN EL POS. BUENA FE EN EJECUCION DE CONTRATOS DE MEDICINA PREPAGADA. PREEXISTENCIAS Y EXCLUSIONES. LLAMADO A PREVENCION. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Realización de cirugía"
+    },
+    {
+      "tema": "CONTRATO DE MEDICINA PREPAGADA",
+      "subtema": "Preexistencias no excluidas al momento del contrato"
+    }
+  ]
+}

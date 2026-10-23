@@ -1,0 +1,54 @@
+{
+  "radicado": "T-558-02",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2002,
+  "fecha_creacion": "2002-07-25",
+  "magistrado_ponente": "Dr JAIME ARAUJO RENTERIA",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCIÓN DE TUTELA",
+  "subtema": "Inmediatez",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 734 de 2002"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2002/T-558-02.htm",
+  "fecha_descarga": "2026-10-23T00:46:33.456600+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2002-07-25",
+  "fecha_publicacion": null,
+  "numero": "T-558/02",
+  "tipo_cc": "T",
+  "prov_id": "20808",
+  "tema_relatoria": "DERECHO AL DEBIDO PROCESO Y HABEAS DATA DE DOCENTE. VIA DE HECHO. SUSPENSION DEL CARGO. CERTIFICADO DE ANTECEDENTES DISCIPLINARIOS. PRINCIPIO DE LEALTAD PROCESAL. COSA JUZGADA. INMEDIATEZ DE LA TUTELA. CADUCIDAD. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Inmediatez"
+    },
+    {
+      "tema": "PROCURADURÍA GENERAL DE LA NACIÓN",
+      "subtema": "Certificado de antecedentes disciplinarios"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Subsidiariedad"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Improcedencia por no darse el presupuesto de inmediatez"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Término razonable de presentación"
+    },
+    {
+      "tema": "COSA JUZGADA",
+      "subtema": "Sentencia sobre validez y eficacia de resolución sancionatoria"
+    }
+  ]
+}

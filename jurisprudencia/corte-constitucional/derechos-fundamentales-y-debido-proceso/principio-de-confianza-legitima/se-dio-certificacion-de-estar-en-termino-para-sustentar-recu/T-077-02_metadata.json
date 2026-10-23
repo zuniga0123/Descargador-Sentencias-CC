@@ -1,0 +1,53 @@
+{
+  "radicado": "T-077-02",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2002,
+  "fecha_creacion": "2002-02-08",
+  "magistrado_ponente": "Dr MANUEL JOSÉ CEPEDA ESPINOSA",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "PRINCIPIO DE CONFIANZA LEGITIMA",
+  "subtema": "Se dio certificación de estar en término para sustentar recurso",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2002/T-077-02.htm",
+  "fecha_descarga": "2026-10-23T00:39:34.500810+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2002-02-08",
+  "fecha_publicacion": null,
+  "numero": "T-077/02",
+  "tipo_cc": "T",
+  "prov_id": "20213",
+  "tema_relatoria": "DERECHO A LA DEFENSA Y DEBIDO PROCESO DE CONDENADO POR LESIONES PERSONALES. SOLICITUD RESOLUCION RECURSO DE APELACION PRESENTADO EN FORMA EXTEMPORANEA. CONFIANZA LEGITIMA. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "PRINCIPIO DE CONFIANZA LEGITIMA",
+      "subtema": "Se dio certificación de estar en término para sustentar recurso"
+    },
+    {
+      "tema": "RECURSO DE APELACION EN PROCESO PENAL",
+      "subtema": "Declaración de desierto por error de secretaría de juzgado"
+    },
+    {
+      "tema": "ERROR JUDICIAL",
+      "subtema": "Efectos"
+    },
+    {
+      "tema": "PRINCIPIO PRO ACTIONE",
+      "subtema": null
+    },
+    {
+      "tema": "PRESUNCION DE LA BUENA FE",
+      "subtema": "Aplicación"
+    },
+    {
+      "tema": "DEBIDO PROCESO Y DERECHO DE DEFENSA",
+      "subtema": "Vulneración por declaración de desierto de recurso"
+    }
+  ]
+}

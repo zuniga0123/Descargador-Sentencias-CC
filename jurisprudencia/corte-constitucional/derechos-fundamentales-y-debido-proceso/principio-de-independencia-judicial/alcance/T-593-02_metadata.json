@@ -1,0 +1,68 @@
+{
+  "radicado": "T-593-02",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2002,
+  "fecha_creacion": "2002-08-01",
+  "magistrado_ponente": "Dr MANUEL JOSÉ CEPEDA ESPINOSA",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "PRINCIPIO DE INDEPENDENCIA JUDICIAL",
+  "subtema": "Alcance",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 142 de 1994",
+    "Ley 510 de 1999",
+    "Decreto 2591 de 1991",
+    "Ley 222 de 1995"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2002/T-593-02.htm",
+  "fecha_descarga": "2026-10-23T00:41:42.685664+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2002-08-01",
+  "fecha_publicacion": null,
+  "numero": "T-593/02",
+  "tipo_cc": "T",
+  "prov_id": "20860",
+  "tema_relatoria": "DERECHO AL DEBIDO PROCESO. VIA DE HECHO. PROCESO EJECUTIVO CONTRA ENTIDAD PRESTADORA DE SERVICIOS PUBLICOS DECLARADA EN TOMA DE POSESION CON FINES DE LIQUIDACION. TEMERIDAD. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "PRINCIPIO DE INDEPENDENCIA JUDICIAL",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "EMPRESA DE SERVICIOS PUBLICOS",
+      "subtema": "Aplicación de normas de instituciones financieras cuando se trate de toma de posesión con fines de liquidación"
+    },
+    {
+      "tema": "VIA DE HECHO",
+      "subtema": "Clases de defectos en la actuación"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Procedencia excepcional por vía de hecho"
+    },
+    {
+      "tema": "ACCION DE TUTELA TEMERARIA",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "ACCION DE TUTELA TEMERARIA",
+      "subtema": "Inexistencia por cuanto actores y objeto de la tutela son distintos"
+    },
+    {
+      "tema": "JUEZ ORDINARIO",
+      "subtema": "Carece de jurisdicción para iniciar o proseguir proceso ejecutivo con base en la sentencia condenatoria"
+    },
+    {
+      "tema": "PROCESO DE TOMA DE POSESION",
+      "subtema": "Régimen legal aplicable"
+    },
+    {
+      "tema": "VIA DE HECHO",
+      "subtema": "Defecto orgánico"
+    }
+  ]
+}

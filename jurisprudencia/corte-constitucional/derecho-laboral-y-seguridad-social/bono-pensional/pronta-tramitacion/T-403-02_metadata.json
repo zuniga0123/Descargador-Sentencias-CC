@@ -1,0 +1,48 @@
+{
+  "radicado": "T-403-02",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2002,
+  "fecha_creacion": "2002-05-23",
+  "magistrado_ponente": "Dr MANUEL JOSE CEPEDA ESPINOSA",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "BONO PENSIONAL",
+  "subtema": "Pronta tramitación",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 13 de 2001",
+    "Ley 100 de 1993",
+    "Decreto 266 de 2000",
+    "Decreto 1725 de 1994"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2002/T-403-02.htm",
+  "fecha_descarga": "2026-10-23T00:52:47.872321+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2002-05-23",
+  "fecha_publicacion": null,
+  "numero": "T-403/02",
+  "tipo_cc": "T",
+  "prov_id": "20585",
+  "tema_relatoria": "DERECHO A LA SEGURIDAD SOCIAL Y MINIMO VITAL. SOLICITUD RECONOCIMIENTO Y PAGO PENSION DE VEJEZ. EXPEDICION BONO PENSIONAL. VIA DE HECHO. INVESTIGACION DISCIPLINARIA. ISS. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "BONO PENSIONAL",
+      "subtema": "Pronta tramitación"
+    },
+    {
+      "tema": "BONO PENSIONAL",
+      "subtema": "Demora en emisión afecta derechos fundamentales"
+    },
+    {
+      "tema": "BONO PENSIONAL",
+      "subtema": "Situaciones en que no procede tutela"
+    },
+    {
+      "tema": "PENSION DE JUBILACION",
+      "subtema": "No puede negarse si el bono no ha sido expedido"
+    }
+  ]
+}

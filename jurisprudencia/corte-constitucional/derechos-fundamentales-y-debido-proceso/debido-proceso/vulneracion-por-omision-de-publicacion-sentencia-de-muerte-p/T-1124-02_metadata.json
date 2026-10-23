@@ -1,0 +1,49 @@
+{
+  "radicado": "T-1124-02",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2002,
+  "fecha_creacion": "2002-12-12",
+  "magistrado_ponente": "Dr ALVARO TAFUR GALVIS",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "DEBIDO PROCESO",
+  "subtema": "Vulneración por omisión de publicación sentencia de muerte presunta",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2002/T-1124-02.htm",
+  "fecha_descarga": "2026-10-23T00:37:13.370739+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2002-12-12",
+  "fecha_publicacion": null,
+  "numero": "T-1124/02",
+  "tipo_cc": "T",
+  "prov_id": "21609",
+  "tema_relatoria": "DERECHO AL DEBIDO PROCESO. EXTENSION REGISTRO CIVIL DE DEFUNCION. DECLARACION DE ABIERTO Y RADICADO PROCESO DE SUCESION SIN ALLEGAR PUBLICACION DE SENTENCIA DE REPERCUSION GENERAL POR MUERTE PRESUNTA. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DEBIDO PROCESO",
+      "subtema": "Vulneración por omisión de publicación sentencia de muerte presunta"
+    },
+    {
+      "tema": "VIA DE HECHO EN PROCESO DE PRESUNCION DE MUERTE POR DESAPARECIMIENTO",
+      "subtema": "Omisión de publicación de sentencia"
+    },
+    {
+      "tema": "MUERTE PRESUNTA",
+      "subtema": "Omisión de publicación de sentencia"
+    },
+    {
+      "tema": "MUERTE PRESUNTA",
+      "subtema": "Objeto de la publicación de la sentencia"
+    },
+    {
+      "tema": "REGISTRO CIVIL DE DEFUNCION",
+      "subtema": "Orden de expedición para adelantar proceso de sucesión"
+    }
+  ]
+}

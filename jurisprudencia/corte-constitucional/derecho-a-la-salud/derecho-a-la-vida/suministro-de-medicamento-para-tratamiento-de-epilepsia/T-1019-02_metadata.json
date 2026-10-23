@@ -1,0 +1,54 @@
+{
+  "radicado": "T-1019-02",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2002,
+  "fecha_creacion": "2002-11-21",
+  "magistrado_ponente": "Dr ALFREDO BELTRÁN SIERRA",
+  "area": "Derecho a la Salud",
+  "tema": "DERECHO A LA VIDA",
+  "subtema": "Suministro de medicamento para tratamiento de epilepsia",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 806 de 1998",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2002/T-1019-02.htm",
+  "fecha_descarga": "2026-10-23T00:40:39.609491+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2002-11-21",
+  "fecha_publicacion": null,
+  "numero": "T-1019/02",
+  "tipo_cc": "T",
+  "prov_id": "21475",
+  "tema_relatoria": "DERECHO A LA SALUD DE MENOR DE EDAD CON EPILEPSIA. SOLICITUD PRACTICA EXAMEN DE TELEMETRIA Y SUMINISTRO MEDICAMENTO PRESCRITOS POR MEDICO TRATANTE NO INCLUIDOS EN EL POS. REGIMEN CONTRIBUTIVO. ACCION DE REPETICION. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA VIDA",
+      "subtema": "Suministro de medicamento para tratamiento de epilepsia"
+    },
+    {
+      "tema": "DERECHO A LA SALUD DE NIÑOS, NIÑAS Y ADOLESCENTES",
+      "subtema": "Práctica de examen"
+    },
+    {
+      "tema": "DERECHO A LA VIDA",
+      "subtema": "Protección de menor disminuido física y psíquicamente"
+    },
+    {
+      "tema": "DIGNIDAD HUMANA",
+      "subtema": "Protección de menor disminuido física y psíquicamente"
+    },
+    {
+      "tema": "DERECHO A LA SALUD DE NIÑOS, NIÑAS Y ADOLESCENTES",
+      "subtema": "Afirmación del padre sobre incapacidad económica puede ser desvirtuada por la EPS o el Estado"
+    },
+    {
+      "tema": "DERECHO A LA SALUD DE NIÑOS, NIÑAS Y ADOLESCENTES",
+      "subtema": "Suministro de medicamento excluido del POS"
+    }
+  ]
+}

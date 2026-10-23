@@ -1,0 +1,42 @@
+{
+  "radicado": "T-056-02",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2002,
+  "fecha_creacion": "2002-02-01",
+  "magistrado_ponente": "Dr MANUEL JOSE CEPEDA ESPINOSA",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCIÓN DE TUTELA",
+  "subtema": "Improcedencia general para reclamar pago de acreencias laborales",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 550 de 1999",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2002/T-056-02.htm",
+  "fecha_descarga": "2026-10-23T00:39:05.629787+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2002-02-01",
+  "fecha_publicacion": null,
+  "numero": "T-056/02",
+  "tipo_cc": "T",
+  "prov_id": "20188",
+  "tema_relatoria": "DERECHO AL MINIMO VITAL DEBIDO PROCESO E IGUALDAD. PAGO DE ACREENCIAS LABORALES. MESADAS PENSIONALES Y RETROACTIVO. SUSTITUCION PENSIONAL. IGUALDAD DE TRATO FRENTE A LA ILEGALIDAD. PRELACION DE CREDITOS. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Improcedencia general para reclamar pago de acreencias laborales"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Improcedencia pago del retroactivo pensional"
+    },
+    {
+      "tema": "DERECHO A LA IGUALDAD",
+      "subtema": "No se puede pretender igualdad de trato frente a la ilegalidad"
+    }
+  ]
+}

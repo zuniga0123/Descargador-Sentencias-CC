@@ -1,0 +1,55 @@
+{
+  "radicado": "T-350-02",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2002,
+  "fecha_creacion": "2002-05-09",
+  "magistrado_ponente": "Dr JAIME ARAUJO RENTERIA",
+  "area": "Derecho a la Salud",
+  "tema": "REGIMEN SUBSIDIADO DE SEGURIDAD SOCIAL EN SALUD",
+  "subtema": "Alcance",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 100 de 1993",
+    "Decreto 806 de 1998"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2002/T-350-02.htm",
+  "fecha_descarga": "2026-10-23T00:52:44.354693+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2002-05-09",
+  "fecha_publicacion": null,
+  "numero": "T-350/02",
+  "tipo_cc": "T",
+  "prov_id": "20524",
+  "tema_relatoria": "DERECHO A LA SALUD Y VIDA DE BENEFICIARIO. ENFERMEDAD CATASTROFICA O RUINOSA. DEBER DE INFORMAR. PRINCIPIO DE SOLIDARIDAD. PERIODO MINIMO DE COTIZACION. REGIMEN CONTRIBUTIVO. LLAMADO A PREVENCION. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "REGIMEN SUBSIDIADO DE SEGURIDAD SOCIAL EN SALUD",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "URGENCIAS EN ENFERMEDADES DE ALTO COSTO",
+      "subtema": "Atención inmediata sin tener en cuenta periodos mínimos de cotización ni capacidad de pago"
+    },
+    {
+      "tema": "PLAN OBLIGATORIO DE SALUD",
+      "subtema": "No está probado que el tratamiento lo ordenó el médico adscrito"
+    },
+    {
+      "tema": "REGIMEN CONTRIBUTIVO DE SEGURIDAD SOCIAL EN SALUD",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "ENFERMEDADES CATASTROFICAS O RUINOSAS",
+      "subtema": "Periodos mínimos de cotización"
+    },
+    {
+      "tema": "ENFERMEDADES CATASTROFICAS O RUINOSAS",
+      "subtema": "Cobro de porcentaje por no cumplirse periodo mínimo de cotización"
+    }
+  ]
+}

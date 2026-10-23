@@ -1,0 +1,54 @@
+{
+  "radicado": "T-103-02",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2002,
+  "fecha_creacion": "2002-02-18",
+  "magistrado_ponente": "Dr JAIME CÓRDOBA TRIVIÑO",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "MEDIO DE DEFENSA JUDICIAL",
+  "subtema": "Improcedencia de tutela",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 617 de 2000"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2002/T-103-02.htm",
+  "fecha_descarga": "2026-10-23T00:37:49.556506+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2002-02-18",
+  "fecha_publicacion": null,
+  "numero": "T-103/02",
+  "tipo_cc": "T",
+  "prov_id": "20247",
+  "tema_relatoria": "DERECHO A LA IGUALDAD SALARIAL TRABAJO Y MINIMO VITAL DE TRABAJADORA EN PROVISIONALIDAD. NO EXISTENCIA DE RELACION LABORAL VIGENTE. NEGADA",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "MEDIO DE DEFENSA JUDICIAL",
+      "subtema": "Improcedencia de tutela"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Subsidiariedad"
+    },
+    {
+      "tema": "PRINCIPIO A TRABAJO IGUAL SALARIO IGUAL",
+      "subtema": "Fundamentación de diferenciación"
+    },
+    {
+      "tema": "DERECHOS FUNDAMENTALES",
+      "subtema": "Amenaza no es actual por no existir relación laboral vigente"
+    },
+    {
+      "tema": "DERECHO A LA IGUALDAD SALARIAL",
+      "subtema": "Fundamental"
+    },
+    {
+      "tema": "PRINCIPIO A TRABAJO IGUAL SALARIO IGUAL",
+      "subtema": "Existencia de relación laboral"
+    }
+  ]
+}

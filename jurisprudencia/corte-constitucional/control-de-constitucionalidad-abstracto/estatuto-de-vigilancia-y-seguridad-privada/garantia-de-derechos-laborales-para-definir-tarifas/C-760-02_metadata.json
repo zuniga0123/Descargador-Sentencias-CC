@@ -1,0 +1,57 @@
+{
+  "radicado": "C-760-02",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2002,
+  "fecha_creacion": "2002-09-17",
+  "magistrado_ponente": "Dra CLARA INES VARGAS HERNANDEZ",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "ESTATUTO DE VIGILANCIA Y SEGURIDAD PRIVADA",
+  "subtema": "Garantía de derechos laborales para definir tarifas",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto Ley 356 de 1994",
+    "Decreto 2067 de 1991",
+    "Ley 61 de 1993",
+    "Decreto Ley 356 de 1993",
+    "Decreto 356 de 1994"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2002/C-760-02.htm",
+  "fecha_descarga": "2026-10-23T00:56:37.051620+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2002-09-17",
+  "fecha_publicacion": null,
+  "numero": "C-760/02",
+  "tipo_cc": "C",
+  "prov_id": "21141",
+  "tema_relatoria": "ESTATUTO DE VIGILANCIA Y SEGURIDAD PRIVADA. GARANTÍA DE DERECHOS LABORALES PARA DEFINIR TARIFAS",
+  "resumen": "DECRETO 356 DE 1994. ART. 92. ESTATUTO DE VIGILANCIA Y SEGURIDAD PRIVADA. TARIFAS PARA LA PRESTACION DEL SERVICIO. PRESTACIONES LEGALES. GARANTIA DE DERECHOS LABORALES. FACULTADES EXTRAORDINARIAS. EXEQUIBLE.",
+  "titulaciones": [
+    {
+      "tema": "ESTATUTO DE VIGILANCIA Y SEGURIDAD PRIVADA",
+      "subtema": "Garantía de derechos laborales para definir tarifas"
+    },
+    {
+      "tema": "FACULTADES EXTRAORDINARIAS EN ESTATUTO DE VIGILANCIA Y SEGURIDAD PRIVADA",
+      "subtema": "Tarifas"
+    },
+    {
+      "tema": "ESTATUTO DE VIGILANCIA Y SEGURIDAD PRIVADA",
+      "subtema": "Regulación de materia tarifaria"
+    },
+    {
+      "tema": "REGIMEN DE SERVICIO DE VIGILANCIA Y SEGURIDAD PRIVADA",
+      "subtema": "Conjunto de reglas que se imponen"
+    },
+    {
+      "tema": "REGIMEN DE SERVICIO DE VIGILANCIA Y SEGURIDAD PRIVADA",
+      "subtema": "Reglas y principios de actividad"
+    },
+    {
+      "tema": "SEGURIDAD",
+      "subtema": "Fin del Estado"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "radicado": "T-727-02",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2002,
+  "fecha_creacion": "2002-09-05",
+  "magistrado_ponente": "Dra CLARA INÉS VARGAS HERNÁNDEZ",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "HABEAS DATA",
+  "subtema": "Prueba en relación con que se hizo solicitud de corrección, rectificación o actualización",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2002/T-727-02.htm",
+  "fecha_descarga": "2026-10-23T00:45:13.501017+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2002-09-05",
+  "fecha_publicacion": null,
+  "numero": "T-727/02",
+  "tipo_cc": "T",
+  "prov_id": "21100",
+  "tema_relatoria": "DERECHO DE PETICION Y HABEAS DATA. ACLARACION ACTUALIZACION Y RECTIFICACION INFORMACION EN BASE DE DATOS. PAGO VOLUNTARIO. TERMINO DE CADUCIDAD. PROCEDIBILIDAD. LLAMADO A PREVENCION. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "HABEAS DATA",
+      "subtema": "Prueba en relación con que se hizo solicitud de corrección, rectificación o actualización"
+    },
+    {
+      "tema": "CADUCIDAD DEL DATO",
+      "subtema": "Límite temporal"
+    }
+  ]
+}

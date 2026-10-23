@@ -1,0 +1,59 @@
+{
+  "radicado": "T-252-02",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2002,
+  "fecha_creacion": "2002-04-11",
+  "magistrado_ponente": "Dr ALVARO TAFUR GALVIS",
+  "area": "Derecho a la Salud",
+  "tema": "DERECHO A LA VIDA DIGNA DE PERSONA DE LA TERCERA EDAD",
+  "subtema": "Protección",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Decreto 806 de 1998",
+    "Ley 100 de 1993"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2002/T-252-02.htm",
+  "fecha_descarga": "2026-10-23T00:35:24.149336+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2002-04-11",
+  "fecha_publicacion": null,
+  "numero": "T-252/02",
+  "tipo_cc": "T",
+  "prov_id": "20415",
+  "tema_relatoria": "DERECHOS A LA VIDA IGUALDAD Y DIGNIDAD DE PERSONA DE LA TERCERA EDAD. SUMINISTRO ASISTENCIA MEDICA NO INCLUIDA EN EL POS. REGIMEN SUBSIDIADO. LEGITIMACION PARA ACTUAR. DEBER DE INFORMAR. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA VIDA DIGNA DE PERSONA DE LA TERCERA EDAD",
+      "subtema": "Protección"
+    },
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Fundamental por conexidad con la vida"
+    },
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Personas en circunstancias de debilidad manifiesta"
+    },
+    {
+      "tema": "AGENCIA OFICIOSA EN TUTELA",
+      "subtema": "Hijo del afectado en salud"
+    },
+    {
+      "tema": "ADMINISTRADORA DEL REGIMEN SUBSIDIADO",
+      "subtema": "Información al afiliado sobre posibilidad de atención en servicio no incluido en POS"
+    },
+    {
+      "tema": "DERECHO A LA SALUD DE PERSONA DE LA TERCERA EDAD",
+      "subtema": "Fundamental autónomo"
+    },
+    {
+      "tema": "PERSONA DE LA TERCERA EDAD",
+      "subtema": "Protección constitucional especial"
+    }
+  ]
+}

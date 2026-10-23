@@ -1,0 +1,62 @@
+{
+  "radicado": "T-668-02",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2002,
+  "fecha_creacion": "2002-08-15",
+  "magistrado_ponente": "Dr EDUARDO MONTEALEGRE LYNETT",
+  "area": "Derecho a la Salud",
+  "tema": "AGENCIA OFICIOSA EN TUTELA",
+  "subtema": "Consentimiento del titular",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Decreto 806 de 1998"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2002/T-668-02.htm",
+  "fecha_descarga": "2026-10-23T00:44:04.922568+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2002-08-15",
+  "fecha_publicacion": null,
+  "numero": "T-668/02",
+  "tipo_cc": "T",
+  "prov_id": "20962",
+  "tema_relatoria": "DERECHOS A LA SALUD VIDA E INTEGRIDAD PERSONAL. SOLICITUD CIRUGIA ABDOMINAL PRESCRITA POR MEDICO TRATANTE TRATAMIENTOS Y ATENCION MEDICA NO INCLUIDOS EN EL POS. PERIODO MINIMO DE COTIZACION. FALTA DE LEGITIMIDAD POR ACTIVA. ACCION DE REPETICION. CONCEDIDA",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "AGENCIA OFICIOSA EN TUTELA",
+      "subtema": "Consentimiento del titular"
+    },
+    {
+      "tema": "ENTIDAD PROMOTORA DE SALUD",
+      "subtema": "Práctica de cirugía sin cumplir periodo mínimo de cotización"
+    },
+    {
+      "tema": "AGENCIA OFICIOSA EN TUTELA",
+      "subtema": "Legitimidad e interés"
+    },
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Fundamental por conexidad con la vida"
+    },
+    {
+      "tema": "ENTIDAD PROMOTORA DE SALUD",
+      "subtema": "Repetición contra el FOSYGA"
+    },
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Cubrimiento de cirugía urgente por EPS"
+    },
+    {
+      "tema": "INAPLICACION DE NORMAS DEL PLAN OBLIGATORIO DE SALUD",
+      "subtema": "Casos en que procede por exclusión de tratamientos y medicamentos de alto costo"
+    },
+    {
+      "tema": "INAPLICACION DE NORMAS DEL PLAN OBLIGATORIO DE SALUD",
+      "subtema": "Prelación normas de rango constitucional"
+    }
+  ]
+}

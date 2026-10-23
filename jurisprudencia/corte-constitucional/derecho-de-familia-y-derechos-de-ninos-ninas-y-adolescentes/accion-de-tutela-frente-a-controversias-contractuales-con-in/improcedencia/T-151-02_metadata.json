@@ -1,0 +1,41 @@
+{
+  "radicado": "T-151-02",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2002,
+  "fecha_creacion": "2002-03-01",
+  "magistrado_ponente": "Dr MANUEL JOSÉ CEPEDA ESPINOSA",
+  "area": "Derecho de Familia y Derechos de Niños, Niñas y Adolescentes",
+  "tema": "ACCION DE TUTELA FRENTE A CONTROVERSIAS CONTRACTUALES CON INSTITUCION EDUCATIVA",
+  "subtema": "Improcedencia",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2002/T-151-02.htm",
+  "fecha_descarga": "2026-10-23T00:34:04.457537+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2002-03-01",
+  "fecha_publicacion": null,
+  "numero": "T-151/02",
+  "tipo_cc": "T",
+  "prov_id": "20297",
+  "tema_relatoria": "DERECHO A LA EDUCACION DE MENOR DE EDAD. SOLICITUD EXPEDICION CERTIFICADOS DE ESTUDIO Y REINTEGRO DE DINERO. OBLIGACION CONTRACTUAL. MORA EN EL PAGO DE PENSIONES. PROHIBICION INGRESOS A CLASES. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCION DE TUTELA FRENTE A CONTROVERSIAS CONTRACTUALES CON INSTITUCION EDUCATIVA",
+      "subtema": "Improcedencia"
+    },
+    {
+      "tema": "DERECHO A LA EDUCACION DEL NIÑO",
+      "subtema": "Prohibición de retiro de clases o retención de certificado de estudios por no pago de pensión"
+    },
+    {
+      "tema": "INDEMNIZACION DE PERJUICIOS EN TUTELA",
+      "subtema": "Requisitos para que proceda"
+    }
+  ]
+}

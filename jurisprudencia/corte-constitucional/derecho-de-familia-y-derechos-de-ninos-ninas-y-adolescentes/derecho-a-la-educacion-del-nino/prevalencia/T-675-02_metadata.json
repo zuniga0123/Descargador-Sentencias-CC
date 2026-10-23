@@ -1,0 +1,54 @@
+{
+  "radicado": "T-675-02",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2002,
+  "fecha_creacion": "2002-08-21",
+  "magistrado_ponente": "Dr JAIME CÓRDOBA TRIVIÑO",
+  "area": "Derecho de Familia y Derechos de Niños, Niñas y Adolescentes",
+  "tema": "DERECHO A LA EDUCACION DEL NIÑO",
+  "subtema": "Prevalencia",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 3011 de 1997",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2002/T-675-02.htm",
+  "fecha_descarga": "2026-10-23T00:44:08.527209+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2002-08-21",
+  "fecha_publicacion": null,
+  "numero": "T-675/02",
+  "tipo_cc": "T",
+  "prov_id": "21004",
+  "tema_relatoria": "DERECHO A LA EDUCACION DE MENOR DE EDAD. AUTORIZACION MATRICULA EN JORNADA SABATINA POR SUPRESION DE JORNADA NOCTURNA Y NO TENER MAYORIA DE EDAD. EDUCACION BASICA FORMAL DE ADULTOS. LLAMADO A PREVENCION. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA EDUCACION DEL NIÑO",
+      "subtema": "Prevalencia"
+    },
+    {
+      "tema": "DERECHO A LA EDUCACION DEL NIÑO",
+      "subtema": "Fundamental"
+    },
+    {
+      "tema": "DERECHO A LA EDUCACIÓN",
+      "subtema": "Fusión de establecimientos educativos"
+    },
+    {
+      "tema": "DERECHO A LA EDUCACION DEL NIÑO",
+      "subtema": "Núcleo esencial"
+    },
+    {
+      "tema": "EXCEPCIÓN DE INCONSTITUCIONALIDAD",
+      "subtema": "Aplicación"
+    },
+    {
+      "tema": "ACCESO EXCEPCIONAL DE MENORES A PROGRAMAS DE EDUCACION PARA ADULTOS",
+      "subtema": "Requisitos"
+    }
+  ]
+}

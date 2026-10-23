@@ -1,0 +1,47 @@
+{
+  "radicado": "T-443-02",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2002,
+  "fecha_creacion": "2002-05-30",
+  "magistrado_ponente": "Dr JAIME ARAUJO RENTERIA",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCIÓN DE TUTELA",
+  "subtema": "Improcedencia por no vulneración derechos fundamentales",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 16 de 1985",
+    "Ley 675 de 2001"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2002/T-443-02.htm",
+  "fecha_descarga": "2026-10-23T00:32:48.181602+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2002-05-30",
+  "fecha_publicacion": null,
+  "numero": "T-443/02",
+  "tipo_cc": "T",
+  "prov_id": "20633",
+  "tema_relatoria": "DERECHOS A LA DIGNIDAD HONRA Y DEBIDO PROCESO. ACCESO A CENTRO COMERCIAL. PROPIEDAD HORIZONTAL. ORGANOS DE DIRECCION Y ADMINISTRACION DE EDIFICIOS O CONJUNTOS RESIDENCIALES. ASAMBLEA GENERAL DE PROPIETARIOS. DECISIONES. OBLIGATORIEDAD. LEY 675 DE 2001. LE",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Improcedencia por no vulneración derechos fundamentales"
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA CENTRO COMERCIAL",
+      "subtema": "Procedencia"
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA PARTICULARES",
+      "subtema": "Procedencia frente a quienes administran condominio"
+    },
+    {
+      "tema": "SUBORDINACION",
+      "subtema": "Usuario respecto de reglamento de centro comercial"
+    }
+  ]
+}

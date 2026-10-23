@@ -1,0 +1,61 @@
+{
+  "radicado": "T-355-02",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2002,
+  "fecha_creacion": "2002-05-09",
+  "magistrado_ponente": "Dr MARCO GERARDO MONROY CABRA",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "DERECHO A LA INFORMACIÓN",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 716 de 2001"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2002/T-355-02.htm",
+  "fecha_descarga": "2026-10-23T00:49:45.732964+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2002-05-09",
+  "fecha_publicacion": null,
+  "numero": "T-355/02",
+  "tipo_cc": "T",
+  "prov_id": "20529",
+  "tema_relatoria": "DERECHO DE PETICION Y HABEAS DATA. PERMANENCIA EN EL BANCO DE DATOS UNA VEZ CANCELADA LA DEUDA. INFORMACION VERAZ EN ASUNTOS DE CREDITO. TUTELA CONTRA PARTICULARES. LEY 716 DE 2001. DECRETO 181 DE 2002. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA INFORMACIÓN",
+      "subtema": null
+    },
+    {
+      "tema": "DERECHO AL BUEN NOMBRE",
+      "subtema": null
+    },
+    {
+      "tema": "CADUCIDAD DEL DATO",
+      "subtema": "Aplicación de ley con régimen de excepción no puede ser retroactiva"
+    },
+    {
+      "tema": "HABEAS DATA",
+      "subtema": "Permanecer en base de datos una vez cancelada deuda no constituye vulneración"
+    },
+    {
+      "tema": "VERACIDAD DE LA INFORMACION",
+      "subtema": null
+    },
+    {
+      "tema": "CADUCIDAD DEL DATO",
+      "subtema": "Límite temporal"
+    },
+    {
+      "tema": "CADUCIDAD DEL DATO",
+      "subtema": "Aplicación de ley con régimen de excepción para personas que se pongan al día"
+    },
+    {
+      "tema": "DERECHO DE PETICIÓN",
+      "subtema": "No conlleva respuesta favorable a la solicitud"
+    }
+  ]
+}

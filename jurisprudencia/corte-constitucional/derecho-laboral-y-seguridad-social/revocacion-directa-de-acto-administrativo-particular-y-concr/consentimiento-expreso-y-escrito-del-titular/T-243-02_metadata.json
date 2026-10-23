@@ -1,0 +1,53 @@
+{
+  "radicado": "T-243-02",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2002,
+  "fecha_creacion": "2002-04-05",
+  "magistrado_ponente": "Dr JAIME CÓRDOBA TRIVIÑO",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "REVOCACION DIRECTA DE ACTO ADMINISTRATIVO PARTICULAR Y CONCRETO",
+  "subtema": "Consentimiento expreso y escrito del titular",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Decreto 3041 de 1966",
+    "Ley 100 de 1993",
+    "Decreto 1160 de 1989",
+    "Decreto 1889 de 1984"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2002/T-243-02.htm",
+  "fecha_descarga": "2026-10-23T00:51:35.295174+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2002-04-05",
+  "fecha_publicacion": null,
+  "numero": "T-243/02",
+  "tipo_cc": "T",
+  "prov_id": "20405",
+  "tema_relatoria": "DERECHO A LA EDUCACION. SUSPENSION PENSION DE SOBREVIVIENTE. SOLICITUD REANUDAR PAGO MESADAS PENSIONALES. CALIDAD DE ESTUDIANTE. CONTINUIDAD. LLAMADO A PREVENCION. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "REVOCACION DIRECTA DE ACTO ADMINISTRATIVO PARTICULAR Y CONCRETO",
+      "subtema": "Consentimiento expreso y escrito del titular"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Demostración de admisión en institución de educación superior"
+    },
+    {
+      "tema": "PENSIÓN DE SOBREVIVIENTES",
+      "subtema": "Suspensión a hijo mayor de dieciocho años que se encuentra estudiando"
+    },
+    {
+      "tema": "DERECHO A LA EDUCACIÓN",
+      "subtema": "Suspensión de pensión por llegar hijo a los dieciocho años"
+    },
+    {
+      "tema": "PENSIÓN DE SOBREVIVIENTES",
+      "subtema": "Suspensión invocando disposición anterior a la Constitución y desconociendo ley de seguridad social"
+    }
+  ]
+}

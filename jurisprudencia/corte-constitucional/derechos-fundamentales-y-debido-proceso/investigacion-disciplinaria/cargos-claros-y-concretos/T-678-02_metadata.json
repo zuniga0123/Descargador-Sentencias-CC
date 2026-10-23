@@ -1,0 +1,42 @@
+{
+  "radicado": "T-678-02",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2002,
+  "fecha_creacion": "2002-08-22",
+  "magistrado_ponente": "Dr ALFREDO BELTRÁN SIERRA",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "INVESTIGACION DISCIPLINARIA",
+  "subtema": "Cargos claros y concretos",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 49 de 1993"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2002/T-678-02.htm",
+  "fecha_descarga": "2026-10-23T00:44:19.343771+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2002-08-22",
+  "fecha_publicacion": null,
+  "numero": "T-678/02",
+  "tipo_cc": "T",
+  "prov_id": "21010",
+  "tema_relatoria": "DERECHO AL DEBIDO PROCESO Y DEFENSA. CELEBRACION CONTRATO SIN AUTORIZACION DEL COMITE EJECUTIVO. FALTAS MUY GRAVES. NULIDAD POR FALTA DE NOTIFICACION. REGIMEN DISCIPLINARIO EN EL DEPORTE. LEY 49 DE 1993. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "INVESTIGACION DISCIPLINARIA",
+      "subtema": "Cargos claros y concretos"
+    },
+    {
+      "tema": "DEBIDO PROCESO Y DERECHO DE DEFENSA",
+      "subtema": "Oportunidad de ejercer el derecho de contradicción"
+    },
+    {
+      "tema": "DEBIDO PROCESO",
+      "subtema": "Obligatorio acatamiento en actuaciones disciplinarias"
+    }
+  ]
+}

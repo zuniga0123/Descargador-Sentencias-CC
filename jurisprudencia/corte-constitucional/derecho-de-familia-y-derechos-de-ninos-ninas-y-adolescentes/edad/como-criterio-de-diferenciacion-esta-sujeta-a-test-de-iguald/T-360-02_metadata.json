@@ -1,0 +1,46 @@
+{
+  "radicado": "T-360-02",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2002,
+  "fecha_creacion": "2002-05-09",
+  "magistrado_ponente": "Dr EDUARDO MONTEALEGRE LYNETT",
+  "area": "Derecho de Familia y Derechos de Niños, Niñas y Adolescentes",
+  "tema": "EDAD",
+  "subtema": "Como criterio de diferenciación está sujeta a test de igualdad intermedio",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 12 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2002/T-360-02.htm",
+  "fecha_descarga": "2026-10-23T00:50:04.162292+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2002-05-09",
+  "fecha_publicacion": null,
+  "numero": "T-360/02",
+  "tipo_cc": "T",
+  "prov_id": "20534",
+  "tema_relatoria": "DERECHOS A LA IGUALDAD INTIMIDAD Y A TENER UNA FAMILIA DE MENOR DE EDAD. PUBLICIDAD PARCIAL EN PROCESO DE ADOPCION. ADOPTANTES ADULTOS MAYORES. REQUISITOS. EDAD LIMITE. TEST DE IGUALDAD. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "EDAD",
+      "subtema": "Como criterio de diferenciación está sujeta a test de igualdad intermedio"
+    },
+    {
+      "tema": "ADOPCION DE MENOR POR ADULTO MAYOR",
+      "subtema": "Establecimiento de edad límite"
+    },
+    {
+      "tema": "ADOPCION",
+      "subtema": "Proporcionalidad de la medida de negar autorización"
+    },
+    {
+      "tema": "INSTITUTO COLOMBIANO DE BIENESTAR FAMILIAR",
+      "subtema": "Negativa de autorización para adoptar a un menor persigue un fin legítimo"
+    }
+  ]
+}

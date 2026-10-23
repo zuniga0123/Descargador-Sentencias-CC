@@ -1,0 +1,47 @@
+{
+  "radicado": "T-730-02",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2002,
+  "fecha_creacion": "2002-09-05",
+  "magistrado_ponente": "Dr MANUEL JOSE CEPEDA ESPINOSA",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "DEBIDO PROCESO",
+  "subtema": "Facturación de acueducto a propietario por cuanto arrendatario no pagó",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 142 de 1994",
+    "Decreto 2591 de 1991",
+    "Ley 689 de 2001"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2002/T-730-02.htm",
+  "fecha_descarga": "2026-10-23T00:45:24.569135+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2002-09-05",
+  "fecha_publicacion": null,
+  "numero": "T-730/02",
+  "tipo_cc": "T",
+  "prov_id": "21103",
+  "tema_relatoria": "DERECHO AL DEBIDO PROCESO. RECONEXION SERVICIO PUBLICO DE AGUA. PAGO DE LAS TRES PRIMERAS FACTURAS. BUENA FE Y CONFIANZA LEGITIMA. RECONEXION FRAUDULENTA Y REINCIDENCIA DE NO PAGO DE NUEVOS TENEDORES DEL INMUEBLE. ABUSO DEL SERVICIO. RESPONSABILIDAD SOLID",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DEBIDO PROCESO",
+      "subtema": "Facturación de acueducto a propietario por cuanto arrendatario no pagó"
+    },
+    {
+      "tema": "DERECHO A LA VIDA DIGNA Y SERVICIO DE ACUEDUCTO",
+      "subtema": "Conexidad"
+    },
+    {
+      "tema": "PRINCIPIO DE CONFIANZA LEGITIMA DEL ADMINISTRADO CON LA ADMINISTRACION",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "PRINCIPIO DE SOLIDARIDAD EN CONTRATO DE PRESTACION DE SERVICIOS PUBLICOS",
+      "subtema": "Solo cobija pago de tres periodos facturados y no pagados por arrendatario"
+    }
+  ]
+}

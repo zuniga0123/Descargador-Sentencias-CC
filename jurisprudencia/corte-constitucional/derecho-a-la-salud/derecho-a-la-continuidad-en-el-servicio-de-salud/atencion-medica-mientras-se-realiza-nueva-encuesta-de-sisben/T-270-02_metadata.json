@@ -1,0 +1,41 @@
+{
+  "radicado": "T-270-02",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2002,
+  "fecha_creacion": "2002-04-18",
+  "magistrado_ponente": "Dr MARCO GERARDO MONROY CABRA",
+  "area": "Derecho a la Salud",
+  "tema": "DERECHO A LA CONTINUIDAD EN EL SERVICIO DE SALUD",
+  "subtema": "Atención médica mientras se realiza nueva encuesta de SISBEN",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 60 de 1993"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2002/T-270-02.htm",
+  "fecha_descarga": "2026-10-23T00:35:45.977099+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2002-04-18",
+  "fecha_publicacion": null,
+  "numero": "T-270/02",
+  "tipo_cc": "T",
+  "prov_id": "20436",
+  "tema_relatoria": "DERECHO A LA SALUD Y VIDA DE PERSONA SIN CAPACIDAD DE PAGO. SUMINISTRO ATENCION MEDICA. BENEFICIARIOS DEL REGIMEN SUBSIDIADO. CARNE DE AFILIACION. REALIZACION NUEVA ENCUESTA. ESTADO SOCIAL DE DERECHO. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA CONTINUIDAD EN EL SERVICIO DE SALUD",
+      "subtema": "Atención médica mientras se realiza nueva encuesta de SISBEN"
+    },
+    {
+      "tema": "SISBEN",
+      "subtema": "Definición"
+    },
+    {
+      "tema": "SISBEN",
+      "subtema": "No tener el carnet por haber cambiado de lugar de residencia no es obstáculo para continuar tratamiento"
+    }
+  ]
+}

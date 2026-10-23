@@ -1,0 +1,54 @@
+{
+  "radicado": "T-125-02",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2002,
+  "fecha_creacion": "2002-02-22",
+  "magistrado_ponente": "Dr MANUEL JOSÉ CEPEDA ESPINOSA",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCION DE TUTELA CONTRA PARTICULARES",
+  "subtema": "Prestación de servicio público de salud",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 270 de 1996",
+    "Decreto 1295 de 1994",
+    "Decreto 1832 de 1994",
+    "Decreto 1346 de 1994",
+    "Ley 100 de 1993"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2002/T-125-02.htm",
+  "fecha_descarga": "2026-10-23T00:33:20.893164+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2002-02-22",
+  "fecha_publicacion": null,
+  "numero": "T-125/02",
+  "tipo_cc": "T",
+  "prov_id": "20269",
+  "tema_relatoria": "DERECHO AL DEBIDO PROCESO ADMINISTRATIVO. PRESTACION SERVICIO PUBLICO DE SEGURIDAD SOCIAL EN SALUD. DETERMINACION ORIGEN PATOLOGIA PRESENTADA. PROHIBICION FALLO INHIBITORIO EN TUTELA. TRANSGRESION DE LA NORMA. INVESTIGACION DISCIPLINARIA. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCION DE TUTELA CONTRA PARTICULARES",
+      "subtema": "Prestación de servicio público de salud"
+    },
+    {
+      "tema": "ADMINISTRADORA DE RIESGOS PROFESIONALES",
+      "subtema": "Al detener la calificación del origen de la enfermedad de forma arbitraria impidió obtener servicio de salud"
+    },
+    {
+      "tema": "ADMINISTRADORA DE RIESGOS PROFESIONALES",
+      "subtema": "Documentos requeridos para la solicitud de calificación"
+    },
+    {
+      "tema": "DEMANDANTE EN TUTELA",
+      "subtema": "No es necesario identificar derecho vulnerado"
+    },
+    {
+      "tema": "SENTENCIA INHIBITORIA",
+      "subtema": "Prohibición en tutela"
+    }
+  ]
+}

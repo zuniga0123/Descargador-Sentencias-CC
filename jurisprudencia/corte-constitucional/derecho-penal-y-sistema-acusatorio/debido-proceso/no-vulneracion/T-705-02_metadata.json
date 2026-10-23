@@ -1,0 +1,45 @@
+{
+  "radicado": "T-705-02",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2002,
+  "fecha_creacion": "2002-08-29",
+  "magistrado_ponente": "Dr MANUEL JOSÉ CEPEDA ESPINOSA",
+  "area": "Derecho Penal y Sistema Acusatorio",
+  "tema": "DEBIDO PROCESO",
+  "subtema": "No vulneración",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2002/T-705-02.htm",
+  "fecha_descarga": "2026-10-23T00:44:48.172562+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2002-08-29",
+  "fecha_publicacion": null,
+  "numero": "T-705/02",
+  "tipo_cc": "T",
+  "prov_id": "21070",
+  "tema_relatoria": "DERECHO AL DEBIDO PROCESO Y DEFENSA. FALTA NOTIFICACION DE PROCESO PENAL EN CONTRA. VIA DE HECHO POR SITUACION JURIDICA QUE CONLLEVA A UN PERJUICIO IUSFUNDAMENTAL. RATIO DECIDENDI. ERROR ESTATAL. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DEBIDO PROCESO",
+      "subtema": "No vulneración"
+    },
+    {
+      "tema": "DECLARACION DE PERSONA AUSENTE COMO FORMA DE VINCULACION EN EL PROCESO PENAL",
+      "subtema": null
+    },
+    {
+      "tema": "DERECHO DE DEFENSA",
+      "subtema": "Improcedencia de violación"
+    },
+    {
+      "tema": "VIA DE HECHO POR CONSECUENCIA",
+      "subtema": "Procedencia"
+    }
+  ]
+}

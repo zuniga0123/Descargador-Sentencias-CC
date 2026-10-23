@@ -1,0 +1,47 @@
+{
+  "radicado": "T-724-02",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2002,
+  "fecha_creacion": "2002-09-05",
+  "magistrado_ponente": "Dr ALVARO TAFUR GALVIS",
+  "area": "Derecho a la Salud",
+  "tema": "ENTIDAD PROMOTORA DE SALUD",
+  "subtema": "Repetición para recuperar valores",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Decreto 806 de 1998",
+    "Ley 100 de 1993"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2002/T-724-02.htm",
+  "fecha_descarga": "2026-10-23T00:45:09.903416+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2002-09-05",
+  "fecha_publicacion": null,
+  "numero": "T-724/02",
+  "tipo_cc": "T",
+  "prov_id": "21097",
+  "tema_relatoria": "DERECHOS A LA SALUD VIDA E INTEGRIDAD PERSONAL. SOLICITUD TRATAMIENTO AMBULATORIO DE HEMODIALISIS PRESCRITA POR MEDICO TRATANTE. ENFERMEDAD RUINOSA O CATASTROFICA EN FASE TERMINAL. PERIODO MINIMO DE COTIZACION. ACCION DE REPETICION. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ENTIDAD PROMOTORA DE SALUD",
+      "subtema": "Repetición para recuperar valores"
+    },
+    {
+      "tema": "DERECHO A LA VIDA",
+      "subtema": "Protección por encima de discusiones legales o contractuales"
+    },
+    {
+      "tema": "ENTIDAD PROMOTORA DE SALUD",
+      "subtema": "Tratamiento de persona de escasos recursos sin cumplir periodo mínimo de cotización"
+    },
+    {
+      "tema": "ENFERMEDADES CATASTROFICAS O RUINOSAS",
+      "subtema": "Suministro de tratamientos sin cumplir periodo mínimo de cotización"
+    }
+  ]
+}

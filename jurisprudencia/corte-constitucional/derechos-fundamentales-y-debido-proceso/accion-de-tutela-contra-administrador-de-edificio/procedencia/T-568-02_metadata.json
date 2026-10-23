@@ -1,0 +1,49 @@
+{
+  "radicado": "T-568-02",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2002,
+  "fecha_creacion": "2002-07-25",
+  "magistrado_ponente": "Dr ALVARO TAFUR GALVIS",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCION DE TUTELA CONTRA ADMINISTRADOR DE EDIFICIO",
+  "subtema": "Procedencia",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2002/T-568-02.htm",
+  "fecha_descarga": "2026-10-23T00:46:40.646465+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2002-07-25",
+  "fecha_publicacion": null,
+  "numero": "T-568/02",
+  "tipo_cc": "T",
+  "prov_id": "20815",
+  "tema_relatoria": "DERECHO A LA SALUD Y VIDA. RESTABLECIMIENTO SERVICIO SUSPENDIDO DE ASCENSOR A OFICINAS. MORA EN CUOTAS DE ADMINISTRACION. PROPIEDAD HORIZONTAL. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCION DE TUTELA CONTRA ADMINISTRADOR DE EDIFICIO",
+      "subtema": "Procedencia"
+    },
+    {
+      "tema": "ADMINISTRADOR DE PROPIEDAD HORIZONTAL",
+      "subtema": "Suspensión servicio de ascensores a personas de la tercera edad"
+    },
+    {
+      "tema": "ADMINISTRADOR DE PROPIEDAD HORIZONTAL",
+      "subtema": "Suspensión de servicios comunes siempre que no se afecten necesidades vitales"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Improcedencia para ordenar exonerar el pago de cuotas de administración"
+    },
+    {
+      "tema": "DERECHO A LA VIDA E INTEGRIDAD PERSONAL",
+      "subtema": "Suspensión servicio de ascensor"
+    }
+  ]
+}

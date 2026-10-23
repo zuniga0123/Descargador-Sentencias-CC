@@ -1,0 +1,69 @@
+{
+  "radicado": "T-540-02",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2002,
+  "fecha_creacion": "2002-07-18",
+  "magistrado_ponente": "Dra CLARA INÉS VARGAS HERNÁNDEZ",
+  "area": "Derecho a la Salud",
+  "tema": "ACCION DE TUTELA DE UN DERECHO PRESTACIONAL",
+  "subtema": "Requisitos concurrentes",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Ley 352 de 1997",
+    "Decreto 1795 de 2000",
+    "Decreto 2591 de 1991",
+    "Ley 578 de 2000"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2002/T-540-02.htm",
+  "fecha_descarga": "2026-10-23T00:47:35.622339+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2002-07-18",
+  "fecha_publicacion": null,
+  "numero": "T-540/02",
+  "tipo_cc": "T",
+  "prov_id": "20782",
+  "tema_relatoria": "DERECHO A LA SALUD Y VIDA DE PERSONA DE LA TERCERA EDAD. SUMINISTRO MEDICAMENTOS NO INCLUIDOS EN EL POS O VADEMECUM OFICIAL DEL EJERCITO. ACCION DE REPETICION. LEY 352 DE 1997. SUBSISTEMA DE SALUD DE LAS FUERZAS MILITARES. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCION DE TUTELA DE UN DERECHO PRESTACIONAL",
+      "subtema": "Requisitos concurrentes"
+    },
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Suministro de medicamentos excluidos del vademécum oficial del Ejército"
+    },
+    {
+      "tema": "ENTIDAD PROMOTORA DE SALUD",
+      "subtema": "Repetición contra el FOSYGA"
+    },
+    {
+      "tema": "DIRECCION GENERAL DE SANIDAD MILITAR",
+      "subtema": "Tiene régimen especial"
+    },
+    {
+      "tema": "DIRECCION GENERAL DE SANIDAD MILITAR",
+      "subtema": "No puede repetir contra el Fosyga por tener régimen especial"
+    },
+    {
+      "tema": "DIRECCION GENERAL DE SANIDAD MILITAR",
+      "subtema": "No puede ser catalogada como EPS"
+    },
+    {
+      "tema": "DERECHO A LA SALUD DEL MENOR Y PERSONAS DE LA TERCERA EDAD",
+      "subtema": "Fundamental"
+    },
+    {
+      "tema": "INAPLICACION DE NORMAS DEL PLAN OBLIGATORIO DE SALUD",
+      "subtema": "Suministro de tratamientos o medicamentos excluidos del POS"
+    },
+    {
+      "tema": "SISTEMA GENERAL DE SEGURIDAD SOCIAL",
+      "subtema": "No se aplica a miembros de Fuerzas Militares ni Policía Nacional"
+    }
+  ]
+}

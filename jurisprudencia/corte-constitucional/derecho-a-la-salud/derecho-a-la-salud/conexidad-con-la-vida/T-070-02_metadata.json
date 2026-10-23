@@ -1,0 +1,45 @@
+{
+  "radicado": "T-070-02",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2002,
+  "fecha_creacion": "2002-02-07",
+  "magistrado_ponente": "Dr JAIME CÓRDOBA TRIVIÑO",
+  "area": "Derecho a la Salud",
+  "tema": "DERECHO A LA SALUD",
+  "subtema": "Conexidad con la vida",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2002/T-070-02.htm",
+  "fecha_descarga": "2026-10-23T00:39:20.190046+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2002-02-07",
+  "fecha_publicacion": null,
+  "numero": "T-070/02",
+  "tipo_cc": "T",
+  "prov_id": "20206",
+  "tema_relatoria": "DERECHO A LA VIDA Y SALUD. AUTORIZACION PRUEBA DE CARGA VIRAL A PACIENTE CON VIH NO INCLUIDO EN EL POS. ENFERMEDAD RUINOSA O CATASTROFICA. ACCION DE REPETICION. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Conexidad con la vida"
+    },
+    {
+      "tema": "DERECHO A LA SALUD DEL ENFERMO DE SIDA",
+      "subtema": "Realización examen de carga viral"
+    },
+    {
+      "tema": "DERECHO A LA SALUD DEL ENFERMO DE SIDA",
+      "subtema": "Examen de carga viral fundamental para tratamiento del sida"
+    },
+    {
+      "tema": "INAPLICACION DE NORMAS DEL PLAN OBLIGATORIO DE SALUD",
+      "subtema": "Casos en que procede por exclusión de tratamientos y medicamentos de alto costo"
+    }
+  ]
+}

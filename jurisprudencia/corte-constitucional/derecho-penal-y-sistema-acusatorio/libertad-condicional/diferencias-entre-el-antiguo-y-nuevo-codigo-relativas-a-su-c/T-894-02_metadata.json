@@ -1,0 +1,51 @@
+{
+  "radicado": "T-894-02",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2002,
+  "fecha_creacion": "2002-10-24",
+  "magistrado_ponente": "Dr ALVARO TAFUR GALVIS",
+  "area": "Derecho Penal y Sistema Acusatorio",
+  "tema": "LIBERTAD CONDICIONAL",
+  "subtema": "Diferencias entre el antiguo y nuevo código relativas a su concesión",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 599 de 2000",
+    "Ley 30 de 1986",
+    "Ley 365 de 1997",
+    "Decreto 2591 de 1991",
+    "Ley 600 de 2000",
+    "Decreto 100 de 1980",
+    "Ley 415 de 1997"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2002/T-894-02.htm",
+  "fecha_descarga": "2026-10-23T00:32:00.747339+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2002-10-24",
+  "fecha_publicacion": null,
+  "numero": "T-894/02",
+  "tipo_cc": "T",
+  "prov_id": "21328",
+  "tema_relatoria": "DERECHO A LA LIBERTAD. SOLICITUD LIBERTAD CONDICIONAL. APLICACION DE LA LEY PERMISIVA O FAVORABLE. DOSIFICACION DE LA PENA. SUBROGADOS PENALES. FAVORABILIDAD. RECONSIDERACION DEL JUEZ. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "LIBERTAD CONDICIONAL",
+      "subtema": "Diferencias entre el antiguo y nuevo código relativas a su concesión"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Improcedencia para reemplazar recursos no utilizados"
+    },
+    {
+      "tema": "PRINCIPIO DE FAVORABILIDAD PENAL",
+      "subtema": "Aplicación"
+    },
+    {
+      "tema": "PRINCIPIO DE FAVORABILIDAD PENAL",
+      "subtema": "Aplicación de norma del nuevo Código Penal sobre libertad condicional"
+    }
+  ]
+}

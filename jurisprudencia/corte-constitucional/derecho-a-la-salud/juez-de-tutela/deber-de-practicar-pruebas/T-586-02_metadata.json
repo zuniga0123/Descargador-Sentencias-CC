@@ -1,0 +1,56 @@
+{
+  "radicado": "T-586-02",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2002,
+  "fecha_creacion": "2002-07-29",
+  "magistrado_ponente": "Dra CLARA INÉS VARGAS HERNÁNDEZ",
+  "area": "Derecho a la Salud",
+  "tema": "JUEZ DE TUTELA",
+  "subtema": "Deber de practicar pruebas",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 806 de 1998",
+    "Ley 100 de 1993",
+    "Ley 10 de 1990",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2002/T-586-02.htm",
+  "fecha_descarga": "2026-10-23T00:41:28.243026+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2002-07-29",
+  "fecha_publicacion": null,
+  "numero": "T-586/02",
+  "tipo_cc": "T",
+  "prov_id": "20827",
+  "tema_relatoria": "DERECHO A LA SALUD Y VIDA. SOLICITUD PRUEBA DE CARGA VIRAL Y SUMINISTRO MEDICAMENTOS A PACIENTE CON VIH EXCLUIDOS DEL POS. PERIODO MINIMO DE COTIZACION. ACCION DE REPETICION. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "JUEZ DE TUTELA",
+      "subtema": "Deber de practicar pruebas"
+    },
+    {
+      "tema": "ENTIDAD PROMOTORA DE SALUD",
+      "subtema": "Repetición contra el FOSYGA"
+    },
+    {
+      "tema": "ENTIDAD PROMOTORA DE SALUD",
+      "subtema": "Deber de suministrar tratamientos y medicamentos a enfermos de sida"
+    },
+    {
+      "tema": "DERECHO A LA SALUD DEL ENFERMO DE SIDA",
+      "subtema": "Realización examen de carga viral"
+    },
+    {
+      "tema": "DERECHO A LA SALUD DEL ENFERMO DE SIDA",
+      "subtema": "Suministro de medicamentos sin cumplir periodo mínimo de cotización"
+    },
+    {
+      "tema": "DERECHO A LA SALUD DEL ENFERMO DE SIDA",
+      "subtema": "Examen de carga viral fundamental para tratamiento del sida"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "radicado": "T-305-02",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2002,
+  "fecha_creacion": "2002-04-25",
+  "magistrado_ponente": "Dr ALFREDO BELTRAN SIERRA",
+  "area": "Derecho a la Salud",
+  "tema": "ENTIDAD PROMOTORA DE SALUD",
+  "subtema": "Atención al trabajador en caso de urgencia aun cuando se de mora en aportes del empleador",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2002/T-305-02.htm",
+  "fecha_descarga": "2026-10-23T00:51:53.171673+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2002-04-25",
+  "fecha_publicacion": null,
+  "numero": "T-305/02",
+  "tipo_cc": "T",
+  "prov_id": "20472",
+  "tema_relatoria": "DERECHO A LA SALUD Y SEGURIDAD SOCIAL. SOLICITUD ASISTENCIA MEDICA Y QUIRURGICA. CREDITOS EN PROCESO LIQUIDATORIO. MORA EN EL PAGO DE APORTES POR PARTE DEL EMPLEADOR. LLAMADO A PREVENCION. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ENTIDAD PROMOTORA DE SALUD",
+      "subtema": "Atención al trabajador en caso de urgencia aun cuando se de mora en aportes del empleador"
+    },
+    {
+      "tema": "EMPRESA EN LIQUIDACION",
+      "subtema": "Mora en aportes a seguridad social en salud"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "radicado": "T-219-02",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2002,
+  "fecha_creacion": "2002-03-21",
+  "magistrado_ponente": "Dr ALVARO TAFUR GALVIS",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "DERECHO A LA VIDA DIGNA DEL DISMINUIDO FISICO",
+  "subtema": "Alcance",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2357 de 1995",
+    "Decreto 806 de 1998",
+    "Ley 344 de 1996",
+    "Ley 10 de 1990",
+    "Ley 100 de 1993",
+    "Decreto 2591 de 1991",
+    "Decreto 806 de 1992"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2002/T-219-02.htm",
+  "fecha_descarga": "2026-10-23T00:50:51.233618+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2002-03-21",
+  "fecha_publicacion": null,
+  "numero": "T-219/02",
+  "tipo_cc": "T",
+  "prov_id": "20374",
+  "tema_relatoria": "DERECHOS A LA VIDA SALUD Y DEBIDO PROCESO DE DISCAPACITADOS. SUMINISTRO MEDICAMENTOS. EXCLUSION Y ACCESO AL SISTEMA DE SEGURIDAD SOCIAL EN SALUD. INGRESO AL SISBEN. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA VIDA DIGNA DEL DISMINUIDO FISICO",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "DERECHO A LA SALUD DEL DISMINUIDO FISICO",
+      "subtema": "Orden de reactivar afiliación a ARS y prestar servicio de salud"
+    },
+    {
+      "tema": "DERECHO DE ACCESO A LA SEGURIDAD SOCIAL DE DISMINUIDO FISICO",
+      "subtema": "Protección especial"
+    },
+    {
+      "tema": "SISTEMA GENERAL DE SEGURIDAD SOCIAL EN SALUD",
+      "subtema": "El municipio y la Dirección departamental de Salud son responsables de garantizar acceso"
+    }
+  ]
+}

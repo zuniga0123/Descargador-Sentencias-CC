@@ -1,0 +1,46 @@
+{
+  "radicado": "T-796-02",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2002,
+  "fecha_creacion": "2002-09-26",
+  "magistrado_ponente": "Dr JAIME CÓRDOBA TRIVIÑO",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "SERVICIO DE TELEFONIA",
+  "subtema": "Prohibición de instalación en zonas de alto riesgo no recuperables",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 142 de 1994"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2002/T-796-02.htm",
+  "fecha_descarga": "2026-10-23T00:42:55.611146+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2002-09-26",
+  "fecha_publicacion": null,
+  "numero": "T-796/02",
+  "tipo_cc": "T",
+  "prov_id": "21195",
+  "tema_relatoria": "DERECHO A LA IGUALDAD Y PETICION. SOLICITUD INSTALACION LINEA TELEFONICA EN ZONAS DE ALTO RIESGO NO RECUPERABLE. SERVICIOS PUBLICOS DOMICILIARIOS. CARÁCTER ESENCIAL. PLAN DE ORDENAMIENTO TERRITORIAL. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "SERVICIO DE TELEFONIA",
+      "subtema": "Prohibición de instalación en zonas de alto riesgo no recuperables"
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA EMPRESA DE SERVICIOS PUBLICOS DOMICILIARIOS",
+      "subtema": "Procedencia"
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA EMPRESA DE SERVICIOS PUBLICOS DOMICILIARIOS",
+      "subtema": "Telefonía como servicio público de carácter esencial"
+    },
+    {
+      "tema": "DERECHO A LA IGUALDAD",
+      "subtema": "No se presentó violación por no instalación de línea telefónica"
+    }
+  ]
+}

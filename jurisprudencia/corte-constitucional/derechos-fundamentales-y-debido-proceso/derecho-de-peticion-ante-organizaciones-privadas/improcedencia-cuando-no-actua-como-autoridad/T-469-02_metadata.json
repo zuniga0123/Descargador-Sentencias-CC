@@ -1,0 +1,53 @@
+{
+  "radicado": "T-469-02",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2002,
+  "fecha_creacion": "2002-06-13",
+  "magistrado_ponente": "Dr EDUARDO MONTEALEGRE LYNETT",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "DERECHO DE PETICION ANTE ORGANIZACIONES PRIVADAS",
+  "subtema": "Improcedencia cuando no actúa como autoridad",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2002/T-469-02.htm",
+  "fecha_descarga": "2026-10-23T00:48:01.254687+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2002-06-13",
+  "fecha_publicacion": null,
+  "numero": "T-469/02",
+  "tipo_cc": "T",
+  "prov_id": "20678",
+  "tema_relatoria": "DERECHO DE PETICION Y TRABAJO. SOLICITUD COPIA DOCUMENTOS DE CARACETER LABORAL. NATURALEZA Y NUCLEO ESENCIAL. RESPUESTA CLARA Y OPORTUNA. TUTELA CONTRA PARTICULARES. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO DE PETICION ANTE ORGANIZACIONES PRIVADAS",
+      "subtema": "Improcedencia cuando no actúa como autoridad"
+    },
+    {
+      "tema": "DERECHO DE PETICIÓN",
+      "subtema": "Respuesta debe ser de fondo, oportuna, congruente y tener notificación efectiva"
+    },
+    {
+      "tema": "DERECHO DE PETICIÓN ANTE PARTICULARES",
+      "subtema": "Procedencia"
+    },
+    {
+      "tema": "DERECHO DE PETICION ANTE ORGANIZACIONES PRIVADAS",
+      "subtema": "Dignidad del trabajador hace exigible respuesta de particulares"
+    },
+    {
+      "tema": "DERECHO DE PETICION ANTE ORGANIZACIONES PRIVADAS",
+      "subtema": "Procedencia excepcional cuando no actúa como autoridad"
+    },
+    {
+      "tema": "DERECHO A LA INFORMACIÓN",
+      "subtema": "Protección por sigilo patronal respecto de reclamaciones laborales"
+    }
+  ]
+}

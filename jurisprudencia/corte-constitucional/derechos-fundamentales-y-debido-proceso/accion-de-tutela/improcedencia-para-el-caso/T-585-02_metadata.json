@@ -1,0 +1,80 @@
+{
+  "radicado": "T-585-02",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2002,
+  "fecha_creacion": "2002-07-29",
+  "magistrado_ponente": "Dra CLARA INÉS VARGAS HERNÁNDEZ",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCIÓN DE TUTELA",
+  "subtema": "Improcedencia para el caso",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 550 de 1999",
+    "Decreto 2591 de 1991",
+    "Ley 80 de 1993",
+    "Ley 136 de 1994"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2002/T-585-02.htm",
+  "fecha_descarga": "2026-10-23T00:41:24.646638+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2002-07-29",
+  "fecha_publicacion": null,
+  "numero": "T-585/02",
+  "tipo_cc": "T",
+  "prov_id": "20826",
+  "tema_relatoria": "DERECHOS A LA IGUALDAD MINIMO VITAL Y SUBSISTENCIA DE EX CONCEJALES. PAGO DE ACREENCIAS LABORALES. HONORARIOS TRANSPORTE Y CAPACITACION. CONTRATO DE PRESTACION DE SERVICIOS. REESTRUCTURACION ENTES TERRITORIALES. LEY 550 DE 1999. PAGO DE LO DEBIDO. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Improcedencia para el caso"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Improcedencia para pago de honorarios a concejales"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Subsidiariedad"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "No reemplaza acciones judiciales ordinarias"
+    },
+    {
+      "tema": "CONTRATO DE PRESTACION DE SERVICIOS",
+      "subtema": "Improcedencia de tutela para pago de sumas de dinero"
+    },
+    {
+      "tema": "PAGO DE LO DEBIDO",
+      "subtema": null
+    },
+    {
+      "tema": "DERECHO AL MINIMO VITAL",
+      "subtema": "Inexistencia de vulneración"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Inexistencia de perjuicio irremediable"
+    },
+    {
+      "tema": "MEDIO DE DEFENSA JUDICIAL",
+      "subtema": "Existencia no hace improcedente la tutela"
+    },
+    {
+      "tema": "DERECHOS FUNDAMENTALES",
+      "subtema": "Vulneración no hace procedente de manera mecánica la tutela"
+    },
+    {
+      "tema": "DERECHO A LA IGUALDAD",
+      "subtema": "Vulneración por tratamiento diferente no objetivo ni razonable"
+    },
+    {
+      "tema": "FALLO DE TUTELA REVOCADO",
+      "subtema": "Efectos cuando se han pagado sumas"
+    }
+  ]
+}

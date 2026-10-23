@@ -1,0 +1,38 @@
+{
+  "radicado": "T-1020-02",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2002,
+  "fecha_creacion": "2002-11-21",
+  "magistrado_ponente": "Dr ALFREDO BELTRÁN SIERRA",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCIÓN DE TUTELA",
+  "subtema": "Corte de servicio público en forma irregular",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 142 de 1994",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2002/T-1020-02.htm",
+  "fecha_descarga": "2026-10-23T00:40:43.203850+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2002-11-21",
+  "fecha_publicacion": null,
+  "numero": "T-1020/02",
+  "tipo_cc": "T",
+  "prov_id": "21476",
+  "tema_relatoria": "DERECHO AL DEBIDO PROCESO. SUSPENSION IRREGULAR DEL SERVICIO DE ENERGIA. FALTA DE NOTIFICACION. CONTRATO DE PRESTACION DE SERVICIOS PUBLICOS DOMICILIARIOS. CAMBIO Y REVISION DE MEDIDORES. IMPOSICION DE SANCIONES. CONCEDIDA .",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Corte de servicio público en forma irregular"
+    },
+    {
+      "tema": "DEBIDO PROCESO",
+      "subtema": "Irregularidades en corte de energía"
+    }
+  ]
+}

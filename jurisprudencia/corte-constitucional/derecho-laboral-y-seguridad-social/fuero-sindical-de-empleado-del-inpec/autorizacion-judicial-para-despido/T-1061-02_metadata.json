@@ -1,0 +1,52 @@
+{
+  "radicado": "T-1061-02",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2002,
+  "fecha_creacion": "2002-12-02",
+  "magistrado_ponente": "Dr MARCO GERARDO MONROY CABRA",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "FUERO SINDICAL DE EMPLEADO DEL INPEC",
+  "subtema": "Autorización judicial para despido",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 407 de 1994",
+    "Ley 584 de 2000",
+    "Ley 50 de 1990",
+    "Decreto Ley 2350 de 1944",
+    "Decreto 2313 de 1946",
+    "Decreto 1572 de 1998",
+    "Ley 443 de 1998",
+    "Decreto 2663 de 1950"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2002/T-1061-02.htm",
+  "fecha_descarga": "2026-10-23T00:36:07.691301+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2002-12-02",
+  "fecha_publicacion": null,
+  "numero": "T-1061/02",
+  "tipo_cc": "T",
+  "prov_id": "21527",
+  "tema_relatoria": "DERECHOS AL DEBIDO PROCESO E IGUALDAD DE EMPLEADO PUBLICO. VIA DE HECHO. ACCESO A LA ADMINISTRACION DE JUSTICIA. RETIRO TRABAJADOR AMPARADO CON FUERO SINDICAL PREVIA CALIFICACION JUDICIAL. SOLICITUD REINTEGRO. TUTELA CONTRA SENTENCIAS JUDICIALES. DECLARAR",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "FUERO SINDICAL DE EMPLEADO DEL INPEC",
+      "subtema": "Autorización judicial para despido"
+    },
+    {
+      "tema": "DERECHO DE ASOCIACIÓN SINDICAL",
+      "subtema": "Vulneración por despido sin autorización judicial"
+    },
+    {
+      "tema": "FUERO SINDICAL",
+      "subtema": "Vulneración por despido sin autorización judicial"
+    },
+    {
+      "tema": "NULIDAD DE SENTENCIA POR VIA DE HECHO",
+      "subtema": "Aplicación de causal de excepción inexistente legalmente"
+    }
+  ]
+}

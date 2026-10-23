@@ -1,0 +1,43 @@
+{
+  "radicado": "T-150-02",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2002,
+  "fecha_creacion": "2002-03-01",
+  "magistrado_ponente": "Dr MANUEL JOSÉ CEPEDA ESPINOSA",
+  "area": "Otros - Sin clasificar",
+  "tema": "DERECHO A LA EDUCACION DEL DISMINUIDO FISICO",
+  "subtema": "No se puede impedir acceso de invidente",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 361 de 1997",
+    "Decreto 2591 de 1991",
+    "Ley 115 de 1994"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2002/T-150-02.htm",
+  "fecha_descarga": "2026-10-23T00:34:00.823596+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2002-03-01",
+  "fecha_publicacion": null,
+  "numero": "T-150/02",
+  "tipo_cc": "T",
+  "prov_id": "20296",
+  "tema_relatoria": "DERECHO A LA IGUALDAD Y EDUCACION DE PERSONA INVIDENTE. INGRESO PROGRAMA FORMATIVO. CALIDAD. TEST DE RAZONABILIDAD. RELACION CON EL MERCADO LABORAL. AUSENCIA DE HERRAMIENTAS COMPUTACIONALES. TRATO DISCRIMINATORIO. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA EDUCACION DEL DISMINUIDO FISICO",
+      "subtema": "No se puede impedir acceso de invidente"
+    },
+    {
+      "tema": "TEST DE RAZONABILIDAD EN IGUALDAD",
+      "subtema": "Criterios establecidos por la Corte Constitucional"
+    },
+    {
+      "tema": "SENA",
+      "subtema": "Negativa de ingreso a programa por ser invidente"
+    }
+  ]
+}

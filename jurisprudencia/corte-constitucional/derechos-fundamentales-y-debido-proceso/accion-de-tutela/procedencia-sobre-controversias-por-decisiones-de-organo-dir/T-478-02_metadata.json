@@ -1,0 +1,56 @@
+{
+  "radicado": "T-478-02",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2002,
+  "fecha_creacion": "2002-06-21",
+  "magistrado_ponente": "Dr JAIME CÓRDOBA TRIVIÑO",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCIÓN DE TUTELA",
+  "subtema": "Procedencia sobre controversias por decisiones de órgano directivo de Cooperativa que afecta derecho fundamental",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 454 de 1998",
+    "Ley 79 de 1988",
+    "Ley 79 de 1998"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2002/T-478-02.htm",
+  "fecha_descarga": "2026-10-23T00:48:22.816775+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2002-06-21",
+  "fecha_publicacion": null,
+  "numero": "T-478/02",
+  "tipo_cc": "T",
+  "prov_id": "20687",
+  "tema_relatoria": "DERECHO DE LIBRE ASOCIACION Y PETICION. SOLICITUD DEVOLUCION APORTES POR RETIRO DE AFILIADO. IMPACTO DEL DESEMPEÑO ECONOMICO NEGATIVO EN EL BALANCE FINANCIERO. TUTELA FRENTE A COOPERATIVAS. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Procedencia sobre controversias por decisiones de órgano directivo de Cooperativa que afecta derecho fundamental"
+    },
+    {
+      "tema": "DERECHO DE ASOCIACION NEGATIVO",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "COOPERATIVA",
+      "subtema": "Desafiliación en tiempo de normalidad incluye devolución de aportes"
+    },
+    {
+      "tema": "DERECHO DE ASOCIACION NEGATIVO EN COOPERATIVA",
+      "subtema": "En situaciones extraordinarias es posible restringir la devolución de aportes sociales"
+    },
+    {
+      "tema": "MEDIO DE DEFENSA JUDICIAL EFICAZ",
+      "subtema": "Controversia con cooperativa por deducción de aportes"
+    },
+    {
+      "tema": "PERJUICIO IRREMEDIABLE",
+      "subtema": "Elementos para que se configure"
+    }
+  ]
+}

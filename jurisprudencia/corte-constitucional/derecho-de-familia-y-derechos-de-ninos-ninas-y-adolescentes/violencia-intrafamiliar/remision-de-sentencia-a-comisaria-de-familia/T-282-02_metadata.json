@@ -1,0 +1,44 @@
+{
+  "radicado": "T-282-02",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2002,
+  "fecha_creacion": "2002-04-18",
+  "magistrado_ponente": "Dr MANUEL JOSE CEPEDA ESPINOSA",
+  "area": "Derecho de Familia y Derechos de Niños, Niñas y Adolescentes",
+  "tema": "VIOLENCIA INTRAFAMILIAR",
+  "subtema": "Remisión de sentencia a Comisaría de familia",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 294 de 1996",
+    "Decreto 2591 de 1991",
+    "Ley 246 de 1996",
+    "Ley 572 de 2000"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2002/T-282-02.htm",
+  "fecha_descarga": "2026-10-23T00:51:42.342944+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2002-04-18",
+  "fecha_publicacion": null,
+  "numero": "T-282/02",
+  "tipo_cc": "T",
+  "prov_id": "20447",
+  "tema_relatoria": "DERECHOS A LA PAZ FAMILIAR INTIMIDAD Y TRABAJO. SOLICITUD ARRESTO. VIOLENCIA INTRAFAMILIAR. TUTELA CONTRA PARTICULARES. CUMPLIMIENTO FALLOS DE TUTELA. INTERVENCION AUTORIDAD DE FAMILIA. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "VIOLENCIA INTRAFAMILIAR",
+      "subtema": "Remisión de sentencia a Comisaría de familia"
+    },
+    {
+      "tema": "JUEZ DE TUTELA",
+      "subtema": "No puede ordenar que se prive de la libertad a una persona en ejercicio de las medidas provisionales previstas en el artículo 7 del Decreto 2591 de 1991"
+    },
+    {
+      "tema": "VIOLENCIA INTRAFAMILIAR",
+      "subtema": "Improcedencia de tutela"
+    }
+  ]
+}

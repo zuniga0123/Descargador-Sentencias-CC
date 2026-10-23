@@ -1,0 +1,50 @@
+{
+  "radicado": "T-446-02",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2002,
+  "fecha_creacion": "2002-06-06",
+  "magistrado_ponente": "Dr ALFREDO BELTRÁN SIERRA",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "FALLO DE TUTELA",
+  "subtema": "Incumplimiento no sirve de excusa para negar protección reclamada",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2002/T-446-02.htm",
+  "fecha_descarga": "2026-10-23T00:32:58.989345+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2002-06-06",
+  "fecha_publicacion": null,
+  "numero": "T-446/02",
+  "tipo_cc": "T",
+  "prov_id": "20639",
+  "tema_relatoria": "DERECHO AL MINIMO VITAL. PAGO OPORTUNO DE ACREENCIAS LABORALES. MESADAS PENSIONALES. NADIE ESTA OBLIGADO A LO IMPOSIBLE. DEFICIT PRESUPUESTAL. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "FALLO DE TUTELA",
+      "subtema": "Incumplimiento no sirve de excusa para negar protección reclamada"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Pago oportuno periódico mensual de mesadas pensionales"
+    },
+    {
+      "tema": "DERECHO AL MINIMO VITAL DEL PENSIONADO",
+      "subtema": "Presunción de afectación por ausencia prolongada en pago de mesadas"
+    },
+    {
+      "tema": "DERECHO AL PAGO OPORTUNO DE LA PENSION",
+      "subtema": "Naturaleza constitucional"
+    },
+    {
+      "tema": "EMPLEADOR",
+      "subtema": "Situación económica o presupuestal no es óbice para desconocer pago de mesadas pensionales"
+    }
+  ]
+}

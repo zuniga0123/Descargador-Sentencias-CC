@@ -1,0 +1,54 @@
+{
+  "radicado": "T-142-02",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2002,
+  "fecha_creacion": "2002-02-28",
+  "magistrado_ponente": "Dr EDUARDO MONTEALEGRE LYNETT",
+  "area": "Derecho a la Salud",
+  "tema": "PLAN OBLIGATORIO DE SALUD",
+  "subtema": "Capacidad económica del usuario respecto de servicios no cubiertos",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 100 de 1993"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2002/T-142-02.htm",
+  "fecha_descarga": "2026-10-23T00:33:46.272310+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2002-02-28",
+  "fecha_publicacion": null,
+  "numero": "T-142/02",
+  "tipo_cc": "T",
+  "prov_id": "20288",
+  "tema_relatoria": "DERECHO A LA SALUD Y VIDA DE MENOR DE EDAD CON VIH. SOLICITUD PRACTICA PRUEBA DE CARGA VIRAL. SUMINISTRO MEDICAMENTOS NO INCLUIDOS EN EL POS. FALTA COTIZACION DE SEMANAS EXIGIDAS. ACCION DE REPETICION. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "PLAN OBLIGATORIO DE SALUD",
+      "subtema": "Capacidad económica del usuario respecto de servicios no cubiertos"
+    },
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Conexidad con la vida"
+    },
+    {
+      "tema": "ENTIDAD PROMOTORA DE SALUD",
+      "subtema": "Tratamiento de persona de escasos recursos sin cumplir periodo mínimo de cotización"
+    },
+    {
+      "tema": "ENFERMEDADES CATASTROFICAS O RUINOSAS",
+      "subtema": "Tratamiento de personas de escasos recursos sin cumplir periodo mínimo de cotización"
+    },
+    {
+      "tema": "DERECHO A LA SALUD DEL ENFERMO DE SIDA",
+      "subtema": "Realización examen de carga viral"
+    },
+    {
+      "tema": "DERECHO A LA SALUD DEL ENFERMO DE SIDA",
+      "subtema": "Examen de carga viral fundamental para tratamiento del sida"
+    }
+  ]
+}

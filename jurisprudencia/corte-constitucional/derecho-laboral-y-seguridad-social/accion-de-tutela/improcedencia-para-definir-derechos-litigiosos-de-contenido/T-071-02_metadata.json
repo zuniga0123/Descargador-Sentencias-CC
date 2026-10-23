@@ -1,0 +1,41 @@
+{
+  "radicado": "T-071-02",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2002,
+  "fecha_creacion": "2002-02-07",
+  "magistrado_ponente": "Dr ALVARO TAFUR GALVIS",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "ACCIÓN DE TUTELA",
+  "subtema": "Improcedencia para definir derechos litigiosos de contenido económico",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2002/T-071-02.htm",
+  "fecha_descarga": "2026-10-23T00:39:23.833410+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2002-02-07",
+  "fecha_publicacion": null,
+  "numero": "T-071/02",
+  "tipo_cc": "T",
+  "prov_id": "20207",
+  "tema_relatoria": "DERECHO AL TRABAJO Y SUBSISTENCIA. PROGRAMA ESTIMULACION DE PRODUCCION AGROPECUARIA. CREDITOS EN ESPECIE Y DINERO PARA EL RECONOCIMIENTO DE JORNALES. INCUMPLIMIENTO EN LA ENTREGA. FIRATE. DERECHOS LITIGIOSOS DE CONTENIDO ECONOMICO. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Improcedencia para definir derechos litigiosos de contenido económico"
+    },
+    {
+      "tema": "PARTIDA PRESUPUESTAL",
+      "subtema": "Ejecución no procede por tutela"
+    },
+    {
+      "tema": "FONDO DE INVERSION Y REACTIVACION AGROPECUARIA",
+      "subtema": "Beneficiario de programa no tuvo relación laboral"
+    }
+  ]
+}

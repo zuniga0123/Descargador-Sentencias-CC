@@ -1,0 +1,61 @@
+{
+  "radicado": "T-1043-02",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2002,
+  "fecha_creacion": "2002-11-28",
+  "magistrado_ponente": "Dr MARCO GERARDO MONROY CABRA",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "ACCIÓN DE TUTELA",
+  "subtema": "Informalidad",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2002/T-1043-02.htm",
+  "fecha_descarga": "2026-10-23T00:38:11.301051+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2002-11-28",
+  "fecha_publicacion": null,
+  "numero": "T-1043/02",
+  "tipo_cc": "T",
+  "prov_id": "21508",
+  "tema_relatoria": "DERECHO DE PETICION Y DEBIDO PROCESO DE EMPLEADA DEL SERVICIO DOMESTICO. VIA DE HECHO. SOLICITUD RECONOCIMIENTO PENSION DE INVALIDEZ. PERIODO MINIMO DE COTIZACION. REVOCATORIA DIRECTA. PREVALENCIA DEL DERECHO SUSTANCIAL. OBLIGACION DEL JUEZ DE CONSIDERAR",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Informalidad"
+    },
+    {
+      "tema": "JUEZ DE TUTELA",
+      "subtema": "Protección derechos no invocados"
+    },
+    {
+      "tema": "VIA DE HECHO",
+      "subtema": "No valoración de prueba presentada por la entidad"
+    },
+    {
+      "tema": "ACCION DE TUTELA TEMERARIA",
+      "subtema": "Inexistencia"
+    },
+    {
+      "tema": "PENSIÓN DE INVALIDEZ",
+      "subtema": "Solicitud de reconocimiento con base en semanas cotizadas"
+    },
+    {
+      "tema": "PENSION DE JUBILACION",
+      "subtema": "Reconocimiento oportuno sin dilaciones en trámites administrativos"
+    },
+    {
+      "tema": "VIA DE HECHO",
+      "subtema": "Omisión de medio probatorio"
+    },
+    {
+      "tema": "VIA DE HECHO",
+      "subtema": "No se tuvo en cuenta que cotizaron más de las semanas exigidas"
+    }
+  ]
+}

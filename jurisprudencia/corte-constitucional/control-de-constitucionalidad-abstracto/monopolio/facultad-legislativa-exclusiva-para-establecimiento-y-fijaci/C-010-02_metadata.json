@@ -1,0 +1,83 @@
+{
+  "radicado": "C-010-02",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2002,
+  "fecha_creacion": "2002-01-23",
+  "magistrado_ponente": "Dr MARCO GERARDO MONROY CABRA",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "MONOPOLIO",
+  "subtema": "Facultad legislativa exclusiva para establecimiento y fijación de régimen propio",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 643 de 2001",
+    "Ley 182 de 1995",
+    "Ley 643 de 2000"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2002/C-010-02.htm",
+  "fecha_descarga": "2026-10-23T00:53:53.856979+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2002-01-23",
+  "fecha_publicacion": "2002-02-06",
+  "numero": "C-010/02",
+  "tipo_cc": "C",
+  "prov_id": "20140",
+  "tema_relatoria": "PRINCIPIO DE PUBLICIDAD DE LA FUNCION ADMINISTRATIVA. TRANSMISIÓN DE SORTEOS DE LOTERÍAS POR CANALES PÚBLICOS",
+  "resumen": "LEY 643 DE 2001. ART. 20 (P.). MONOPOLIO RENTISTICO DE JUEGOS DE SUERTE Y AZAR. TRANSMISION SORTEOS DE LOTERIAS POR LOS CANALES PUBLICOS DE TELEVISION. POTESTAD DEL LEGISLADOR. AUTONOMIA DE LA COMISION NACIONAL DE TELEVISION. PRINCIPIO DE PUBLICIDAD",
+  "titulaciones": [
+    {
+      "tema": "MONOPOLIO",
+      "subtema": "Facultad legislativa exclusiva para establecimiento y fijación de régimen propio"
+    },
+    {
+      "tema": "MONOPOLIO RENTISTICO",
+      "subtema": "Facultad legislativa para determinar régimen propio"
+    },
+    {
+      "tema": "MONOPOLIO EN JUEGOS DE SUERTE Y AZAR",
+      "subtema": "Potestad del legislador de regulación"
+    },
+    {
+      "tema": "MONOPOLIO EN JUEGOS DE SUERTE Y AZAR",
+      "subtema": "Transmisión de sorteos de loterías por canales públicos"
+    },
+    {
+      "tema": "COMISION NACIONAL DE TELEVISION",
+      "subtema": "Ejecución de políticas adoptadas por ley"
+    },
+    {
+      "tema": "COMISION NACIONAL DE TELEVISION",
+      "subtema": "Alcance de la autonomía"
+    },
+    {
+      "tema": "CONTROL DE CONSTITUCIONALIDAD EN MONOPOLIO RENTISTICO",
+      "subtema": "Intensidad en facultad legislativa para determinar régimen propio"
+    },
+    {
+      "tema": "MONOPOLIO",
+      "subtema": "Régimen propio"
+    },
+    {
+      "tema": "MONOPOLIO",
+      "subtema": "Facultad legislativa exclusiva"
+    },
+    {
+      "tema": "ESPECTRO ELECTROMAGNETICO",
+      "subtema": "Regulación de utilización"
+    },
+    {
+      "tema": "PRINCIPIO DE PUBLICIDAD DE LA FUNCION ADMINISTRATIVA",
+      "subtema": "Transmisión de sorteos de loterías por canales públicos"
+    },
+    {
+      "tema": "SORTEOS DE LOTERIA",
+      "subtema": "Transmisión en vivo y en directo por canales públicos"
+    },
+    {
+      "tema": "SORTEOS DE LOTERIA",
+      "subtema": "Interés público nacional"
+    }
+  ]
+}

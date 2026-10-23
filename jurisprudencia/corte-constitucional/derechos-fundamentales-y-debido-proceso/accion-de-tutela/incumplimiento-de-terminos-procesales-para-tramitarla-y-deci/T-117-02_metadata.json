@@ -1,0 +1,48 @@
+{
+  "radicado": "T-117-02",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2002,
+  "fecha_creacion": "2002-02-21",
+  "magistrado_ponente": "Dra CLARA INÉS VARGAS HERNÁNDEZ",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCIÓN DE TUTELA",
+  "subtema": "Incumplimiento de términos procesales para tramitarla y decidirla",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 344 de 1996",
+    "Decreto 1582 de 1998",
+    "Ley 142 de 1994",
+    "Decreto 663 de 1993",
+    "Ley 222 de 1995",
+    "Ley 510 de 1999",
+    "Decreto 556 de 2000"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2002/T-117-02.htm",
+  "fecha_descarga": "2026-10-23T00:33:06.186043+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2002-02-21",
+  "fecha_publicacion": null,
+  "numero": "T-117/02",
+  "tipo_cc": "T",
+  "prov_id": "20261",
+  "tema_relatoria": "DERECHO DE PETICION. SOLICITUD LIQUIDACION Y TRASLADO DE CESANTIAS. ACTUACION TEMERARIA. DOBLE EJERCICIO DE LA TUTELA. INCUMPLIMIENTO DE TERMINOS PROCESALES PARA TRAMITAR Y DECIDIR LA SOLICITUD. CONDENA EN COSTAS AL DEMANDANTE. INVESTIGACION DISCIPLINARIA",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Incumplimiento de términos procesales para tramitarla y decidirla"
+    },
+    {
+      "tema": "ACCION DE TUTELA TEMERARIA",
+      "subtema": "Condena en costas"
+    },
+    {
+      "tema": "ACCION DE TUTELA TEMERARIA",
+      "subtema": "Identidad de partes, hechos y pretensiones"
+    }
+  ]
+}

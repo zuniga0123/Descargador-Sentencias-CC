@@ -1,0 +1,50 @@
+{
+  "radicado": "T-598-02",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2002,
+  "fecha_creacion": "2002-08-01",
+  "magistrado_ponente": "Dr MANUEL JOSE CEPEDA ESPINOSA",
+  "area": "Otros - Sin clasificar",
+  "tema": "DEBERES DE LA PERSONA Y DEL CIUDADANO",
+  "subtema": "La pobreza no exime del deber social de contribuir al financiamiento de gastos del Estado",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 142 de 1994",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2002/T-598-02.htm",
+  "fecha_descarga": "2026-10-23T00:41:53.539483+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2002-08-01",
+  "fecha_publicacion": null,
+  "numero": "T-598/02",
+  "tipo_cc": "T",
+  "prov_id": "20865",
+  "tema_relatoria": "DERECHO DE IGUALDAD. SUSPENSION SERVICIO DE ACUEDUCTO ALCANTARILLADO Y ASEO POR FALTA DE PAGO. SITUACION DE POBREZA. AUMENTO TARIFAS. TRATO DISCRIMINATORIO. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DEBERES DE LA PERSONA Y DEL CIUDADANO",
+      "subtema": "La pobreza no exime del deber social de contribuir al financiamiento de gastos del Estado"
+    },
+    {
+      "tema": "EMPRESA DE SERVICIOS PUBLICOS DOMICILIARIOS",
+      "subtema": "Suspensión del servicio y consecuencias cuando el usuario se atrasa en pago de tres facturas"
+    },
+    {
+      "tema": "DERECHO A LA IGUALDAD",
+      "subtema": "Inexistencia de trato desigual"
+    },
+    {
+      "tema": "SERVICIOS PUBLICOS DOMICILIARIOS",
+      "subtema": "Falta de diligencia del actor ante corte de agua"
+    },
+    {
+      "tema": "SERVICIOS PUBLICOS DOMICILIARIOS",
+      "subtema": "Corte de agua ante incumplimiento en el pago"
+    }
+  ]
+}

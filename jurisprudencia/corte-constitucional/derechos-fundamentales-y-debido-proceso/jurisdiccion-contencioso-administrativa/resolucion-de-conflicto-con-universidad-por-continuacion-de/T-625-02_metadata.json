@@ -1,0 +1,43 @@
+{
+  "radicado": "T-625-02",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2002,
+  "fecha_creacion": "2002-08-08",
+  "magistrado_ponente": "Dr ALVARO TAFUR GALVIS",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "JURISDICCION CONTENCIOSO ADMINISTRATIVA",
+  "subtema": "Resolución de conflicto con universidad por continuación de estudios sin cancelar matrícula",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 1382 de 2000",
+    "Decreto 190 de 1996",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2002/T-625-02.htm",
+  "fecha_descarga": "2026-10-23T00:42:33.753072+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2002-08-08",
+  "fecha_publicacion": null,
+  "numero": "T-625/02",
+  "tipo_cc": "T",
+  "prov_id": "20900",
+  "tema_relatoria": "DERECHO A LA IGUALDAD EDUCACION Y DEBIDO PROCESO. RECONOCIMIENTO A CURSAR ESTUDIOS SIN PAGAR MATRICULA. TUTELA CONTRA TUTELA. COSA JUZGADA CONSTITUCIONAL MATERIAL Y FORMAL. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "JURISDICCION CONTENCIOSO ADMINISTRATIVA",
+      "subtema": "Resolución de conflicto con universidad por continuación de estudios sin cancelar matrícula"
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA SENTENCIA DE TUTELA",
+      "subtema": "Improcedencia"
+    },
+    {
+      "tema": "SENTENCIA DE TUTELA",
+      "subtema": "Inmutable y de imperativo cumplimiento"
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "radicado": "T-325-02",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2002,
+  "fecha_creacion": "2002-05-02",
+  "magistrado_ponente": "Dr JAIME ARAÚJO RENTERÍA",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCION DE CLASE O DE GRUPO Y ACCION POPULAR",
+  "subtema": "Viviendas amenazan ruina",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Decreto 2150 de 1995",
+    "Ley 388 de 1997",
+    "Decreto 1052 de 1998",
+    "Ley 9 de 1989"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2002/T-325-02.htm",
+  "fecha_descarga": "2026-10-23T00:52:07.874855+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2002-05-02",
+  "fecha_publicacion": null,
+  "numero": "T-325/02",
+  "tipo_cc": "T",
+  "prov_id": "20494",
+  "tema_relatoria": "DERECHO A LA VIDA Y DEBIDO PROCESO ADMINISTRATIVO. EXPEDICION LICENCIAS DE URBANISMO Y CONSTRUCCION. NOTIFICACION. REUBICACION OFICINA. PLANIFICACION Y VIVIENDA URBANA. EJERCICIO DE LAS ACCIONES POPULARES Y/O GRUPO EN CUATRO MESES. TUTELA CONTRA PARTICULA",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCION DE CLASE O DE GRUPO Y ACCION POPULAR",
+      "subtema": "Viviendas amenazan ruina"
+    },
+    {
+      "tema": "DAÑO",
+      "subtema": "Clases"
+    },
+    {
+      "tema": "ACCION DE TUTELA TRANSITORIA",
+      "subtema": "Viviendas amenazan ruina"
+    },
+    {
+      "tema": "LICENCIA DE URBANISMO",
+      "subtema": "Notificación"
+    },
+    {
+      "tema": "ESTADO Y PLANIFICACION URBANA",
+      "subtema": null
+    },
+    {
+      "tema": "DERECHO A LA VIDA",
+      "subtema": "Viviendas amenazan ruina"
+    },
+    {
+      "tema": "LICENCIA DE URBANISMO",
+      "subtema": "Notificación solamente a vecinos colindantes con la construcción en riesgo"
+    },
+    {
+      "tema": "DEBIDO PROCESO",
+      "subtema": "Inexistencia de vulneración"
+    },
+    {
+      "tema": "VIVIENDA URBANA",
+      "subtema": "Finalidad"
+    },
+    {
+      "tema": "VIVIENDA URBANA",
+      "subtema": "Fallas en su estructura"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "radicado": "T-553-02",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2002,
+  "fecha_creacion": "2002-07-18",
+  "magistrado_ponente": "Dr ALFREDO BELTRÁN SIERRA",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "DEBIDO PROCESO",
+  "subtema": "No vulneración por inexistencia de desacato",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 50 de 1990",
+    "Decreto 306 de 1992"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2002/T-553-02.htm",
+  "fecha_descarga": "2026-10-23T00:46:18.744616+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2002-07-18",
+  "fecha_publicacion": null,
+  "numero": "T-553/02",
+  "tipo_cc": "T",
+  "prov_id": "20795",
+  "tema_relatoria": "DERECHO AL DEBIDO PROCESO Y DOBLE INSTANCIA. ACCESO A LA ADMINISTRACION DE JUSTICIA. NIVELACION SALARIAL. DICTAMEN PERICIAL. INDEBIDA LIQUIDACION. INCIDENTE DE DESACATO. VIA DE HECHO. CUMPLIMIENTO FALLO DE TUTELA. INCAMETAL S.A. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DEBIDO PROCESO",
+      "subtema": "No vulneración por inexistencia de desacato"
+    },
+    {
+      "tema": "SENTENCIA DE TUTELA",
+      "subtema": "Cumplimiento inmediato"
+    },
+    {
+      "tema": "INCIDENTE DE DESACATO",
+      "subtema": "Finalidad"
+    },
+    {
+      "tema": "INCIDENTE DE DESACATO",
+      "subtema": "Improcedencia de recursos"
+    },
+    {
+      "tema": "VIA DE HECHO",
+      "subtema": "Inexistencia"
+    }
+  ]
+}

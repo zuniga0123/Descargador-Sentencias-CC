@@ -1,0 +1,38 @@
+{
+  "radicado": "T-733-02",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2002,
+  "fecha_creacion": "2002-08-06",
+  "magistrado_ponente": "Dr EDUARDO MONTEALEGRE LYNETT",
+  "area": "Derecho a la Salud",
+  "tema": "DERECHO A LA SALUD",
+  "subtema": "Inexistencia de amenaza por haberse brindado el tratamiento",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto Ley 2591 de 1991",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2002/T-733-02.htm",
+  "fecha_descarga": "2026-10-23T00:45:35.241018+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2002-08-06",
+  "fecha_publicacion": null,
+  "numero": "T-733/02",
+  "tipo_cc": "T",
+  "prov_id": "20885",
+  "tema_relatoria": "DERECHO A LA SALUD. SOLICITUD TRATAMIENTOS DE QUIMIOTERAPIA Y RADIOTERAPIA. REALIZACION ENCUESTA. FALTA CARNE DE AFILIACION AL REGIMEN SUBSIDIADO. SISBEN. HECHO SUPERADO. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Inexistencia de amenaza por haberse brindado el tratamiento"
+    },
+    {
+      "tema": "SISBEN",
+      "subtema": "Demora en carnetización no ha afectado la continuidad del tratamiento"
+    }
+  ]
+}

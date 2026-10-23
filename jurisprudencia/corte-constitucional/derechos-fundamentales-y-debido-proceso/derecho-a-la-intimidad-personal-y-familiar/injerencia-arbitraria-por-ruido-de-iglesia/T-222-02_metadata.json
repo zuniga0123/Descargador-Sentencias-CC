@@ -1,0 +1,41 @@
+{
+  "radicado": "T-222-02",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2002,
+  "fecha_creacion": "2002-03-21",
+  "magistrado_ponente": "Dra CLARA INÉS VARGAS HERNÁNDEZ",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "DERECHO A LA INTIMIDAD PERSONAL Y FAMILIAR",
+  "subtema": "Injerencia arbitraria por ruido de iglesia",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2002/T-222-02.htm",
+  "fecha_descarga": "2026-10-23T00:51:02.120791+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2002-03-21",
+  "fecha_publicacion": null,
+  "numero": "T-222/02",
+  "tipo_cc": "T",
+  "prov_id": "20377",
+  "tema_relatoria": "DERECHOS A LA INTIMIDAD PERSONAL FAMILIAR Y SALUD. LIBERTAD DE CULTOS. INTERES COLECTIVO. EXCESO DE RUIDO. DETERMINACION NIVELES DE SONIDO. TUTELA CONTRA PARTICULARES. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA INTIMIDAD PERSONAL Y FAMILIAR",
+      "subtema": "Injerencia arbitraria por ruido de iglesia"
+    },
+    {
+      "tema": "DERECHO A LA TRANQUILIDAD",
+      "subtema": "Vulneración por ruido de iglesia"
+    },
+    {
+      "tema": "LIBERTAD DE CULTOS",
+      "subtema": "Ejercicio abusivo por exceso de ruido"
+    }
+  ]
+}

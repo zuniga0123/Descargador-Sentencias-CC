@@ -1,0 +1,52 @@
+{
+  "radicado": "T-653-02",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2002,
+  "fecha_creacion": "2002-08-15",
+  "magistrado_ponente": "Dr JAIME ARAÚJO RENTERÍA",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCIÓN DE TUTELA",
+  "subtema": "Improcedencia",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Decreto 1804 de 1999",
+    "Decreto 1406 de 1999",
+    "Decreto 806 de 1998"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2002/T-653-02.htm",
+  "fecha_descarga": "2026-10-23T00:49:31.376614+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2002-08-15",
+  "fecha_publicacion": null,
+  "numero": "T-653/02",
+  "tipo_cc": "T",
+  "prov_id": "20947",
+  "tema_relatoria": "DERECHOS A LA SALUD VIDA E IGUALDAD Y MINIMO VITAL DE TRABAJADORA INDEPENDIENTE Y/O HIJO. SOLICITUD RECONOCIMIENTO Y PAGO LICENCIA DE MATERNIDAD. MORA EN PAGO DE APORTES. SUBSIDIARIDAD. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Improcedencia"
+    },
+    {
+      "tema": "JURISDICCION ORDINARIA",
+      "subtema": "Pago licencia de maternidad"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "No existe prueba sobre afectación del mínimo vital de la accionante y su hijo"
+    },
+    {
+      "tema": "ACCION DE TUTELA PARA EL PAGO DE LICENCIA DE MATERNIDAD",
+      "subtema": "Procedencia excepcional"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Hecho consumado por instauración de tutela cuando la licencia de maternidad había expirado"
+    }
+  ]
+}

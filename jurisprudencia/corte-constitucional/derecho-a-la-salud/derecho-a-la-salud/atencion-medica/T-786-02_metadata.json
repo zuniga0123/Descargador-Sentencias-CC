@@ -1,0 +1,45 @@
+{
+  "radicado": "T-786-02",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2002,
+  "fecha_creacion": "2002-09-19",
+  "magistrado_ponente": "Dra CLARA INÉS VARGAS HERNÁNDEZ",
+  "area": "Derecho a la Salud",
+  "tema": "DERECHO A LA SALUD",
+  "subtema": "Atención médica",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2002/T-786-02.htm",
+  "fecha_descarga": "2026-10-23T00:42:41.136071+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2002-09-19",
+  "fecha_publicacion": null,
+  "numero": "T-786/02",
+  "tipo_cc": "T",
+  "prov_id": "21173",
+  "tema_relatoria": "DERECHOS A LA SALUD VIDA Y SEGURIDAD SOCIAL. INADECUADA PRESTACION DEL SERVICO DE SALUD. SOLICITUD NUEVA VALORACION MEDICA. LLAMADO A PREVENCION. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Atención médica"
+    },
+    {
+      "tema": "ADMINISTRADORA DEL REGIMEN SUBSIDIADO",
+      "subtema": "Deber de informar a cuál entidad acudir cuando se presente exclusión del Sisben"
+    },
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Fundamental por conexidad"
+    },
+    {
+      "tema": "PRINCIPIO DE CONTINUIDAD EN EL SERVICIO DE SALUD",
+      "subtema": "Inconvenientes de atención a beneficiarios por trámites internos"
+    }
+  ]
+}

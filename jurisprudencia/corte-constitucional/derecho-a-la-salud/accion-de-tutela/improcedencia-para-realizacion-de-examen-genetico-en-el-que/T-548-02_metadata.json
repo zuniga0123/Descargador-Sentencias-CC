@@ -1,0 +1,42 @@
+{
+  "radicado": "T-548-02",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2002,
+  "fecha_creacion": "2002-07-18",
+  "magistrado_ponente": "Dr JAIME ARAUJO RENTERÍA",
+  "area": "Derecho a la Salud",
+  "tema": "ACCIÓN DE TUTELA",
+  "subtema": "Improcedencia para realización de examen genético en el que se cuenta con capacidad de pago",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Decreto 806 de 1998"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2002/T-548-02.htm",
+  "fecha_descarga": "2026-10-23T00:46:00.636202+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2002-07-18",
+  "fecha_publicacion": null,
+  "numero": "T-548/02",
+  "tipo_cc": "T",
+  "prov_id": "20790",
+  "tema_relatoria": "DERECHO A LA SALUD Y VIDA DE MENOR DE EDAD. TRAMIENTO Y EXAMEN EXLUIDOS DEL POS. REGIMEN CONTRIBUTIVO. MUTATIS MUTANDI. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Improcedencia para realización de examen genético en el que se cuenta con capacidad de pago"
+    },
+    {
+      "tema": "DERECHO A LA SALUD Y A LA VIDA",
+      "subtema": "Inexistencia de vulneración"
+    },
+    {
+      "tema": "PLAN OBLIGATORIO DE SALUD",
+      "subtema": "Exclusiones y limitaciones"
+    }
+  ]
+}

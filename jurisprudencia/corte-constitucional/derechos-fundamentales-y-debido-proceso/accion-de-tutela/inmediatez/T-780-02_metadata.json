@@ -1,0 +1,42 @@
+{
+  "radicado": "T-780-02",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2002,
+  "fecha_creacion": "2002-09-19",
+  "magistrado_ponente": "Dr JAIME ARAUJO RENTERIA",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCIÓN DE TUTELA",
+  "subtema": "Inmediatez",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 153 de 1887"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2002/T-780-02.htm",
+  "fecha_descarga": "2026-10-23T00:49:06.319047+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2002-09-19",
+  "fecha_publicacion": null,
+  "numero": "T-780/02",
+  "tipo_cc": "T",
+  "prov_id": "21169",
+  "tema_relatoria": "DERECHOS A LA IGUALDAD TRABAJO Y DEBIDO PROCESO. SOLICITUD DEVOLUCION DINEROS INDEBIDAMENTE PAGADOS POR DISTRIBUCION EXCLUSIVA DE LICORES. VIA DE HECHO POR DEFECTO FACTICO EN PROVIDENCIAS JUDICIALES. VALORACION DE LA PRUEBA. AUTONOMIA JUDICIAL. OBLIGATORI",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Inmediatez"
+    },
+    {
+      "tema": "DERECHO AL TRABAJO",
+      "subtema": "La decisión de un juez no constituye obstáculo para su ejercicio"
+    },
+    {
+      "tema": "VIA DE HECHO EN SENTENCIA DEL CONSEJO DE ESTADO",
+      "subtema": "Inexistencia al darse cumplimiento de la sentencia de tutela"
+    }
+  ]
+}

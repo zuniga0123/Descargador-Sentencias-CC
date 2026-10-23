@@ -1,0 +1,54 @@
+{
+  "radicado": "C-713-02",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2002,
+  "fecha_creacion": "2002-09-03",
+  "magistrado_ponente": "Dr ALFREDO BELTRÁN SIERRA",
+  "area": "Derecho Penal y Sistema Acusatorio",
+  "tema": "DEMANDA DE INCONSTITUCIONALIDAD POR OMISION LEGISLATIVA",
+  "subtema": "Formulación directa contra norma de cuyo texto surge",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 600 de 2000",
+    "Decreto 2700 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2002/C-713-02.htm",
+  "fecha_descarga": "2026-10-23T00:56:11.410778+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2002-09-03",
+  "fecha_publicacion": null,
+  "numero": "C-713/02",
+  "tipo_cc": "C",
+  "prov_id": "21079",
+  "tema_relatoria": "LIBERTAD PROVISIONAL ANTE DETENCION PREVENTIVA. TOPE A CAUCIÓN PRENDARIA",
+  "resumen": "LEY 600 DE 2000. ART. 366 . CODIGO DE PROCEDIMIENTO PENAL. BENEFICIO DE LIBERTAD PROVISIONAL. CAUCION PRENDARIA. DETENCION PREVENTIVA. COSA JUZGADA RELATIVA. OMISION LEGISLATIVA. EXEQUIBLE.",
+  "titulaciones": [
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD POR OMISION LEGISLATIVA",
+      "subtema": "Formulación directa contra norma de cuyo texto surge"
+    },
+    {
+      "tema": "LIBERTAD PROVISIONAL ANTE DETENCION PREVENTIVA",
+      "subtema": "Distinción entre pago de multa y caución prendaria"
+    },
+    {
+      "tema": "LIBERTAD PROVISIONAL ANTE DETENCION PREVENTIVA",
+      "subtema": "Tope a caución prendaria"
+    },
+    {
+      "tema": "COSA JUZGADA RELATIVA",
+      "subtema": "Momento de la libertad bajo caución"
+    },
+    {
+      "tema": "LIBERTAD PROVISIONAL ANTE DETENCION PREVENTIVA",
+      "subtema": "Finalidad de la caución prendaria"
+    },
+    {
+      "tema": "PROCESO PENAL",
+      "subtema": "Finalidad de la caución prendaria"
+    }
+  ]
+}

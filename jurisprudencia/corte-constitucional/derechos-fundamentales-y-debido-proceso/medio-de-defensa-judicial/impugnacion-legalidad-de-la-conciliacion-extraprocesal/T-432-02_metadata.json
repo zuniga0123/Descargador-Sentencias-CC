@@ -1,0 +1,53 @@
+{
+  "radicado": "T-432-02",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2002,
+  "fecha_creacion": "2002-05-28",
+  "magistrado_ponente": "Dr JAIME CÓRDOBA TRIVIÑO",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "MEDIO DE DEFENSA JUDICIAL",
+  "subtema": "Impugnación legalidad de la conciliación extraprocesal",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2002/T-432-02.htm",
+  "fecha_descarga": "2026-10-23T00:32:40.964678+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2002-05-28",
+  "fecha_publicacion": null,
+  "numero": "T-432/02",
+  "tipo_cc": "T",
+  "prov_id": "20607",
+  "tema_relatoria": "DERECHOS AL DEBIDO PROCESO VIDA SEGURIDAD SOCIAL EDUCACION Y VIVIENDA DE MENORES DE EDAD. CONCILIACION EXTRAPROCESAL SOBRE CONMUTACION PENSION DE SOBREVIVIENTE DE SENADOR. RELACION DE CAUSALIDAD. TUTELA CONTRA TUTELA. VIA DE HECHO. COMPAÑÍA DE SEGUROS ALF",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "MEDIO DE DEFENSA JUDICIAL",
+      "subtema": "Impugnación legalidad de la conciliación extraprocesal"
+    },
+    {
+      "tema": "PERJUICIO IRREMEDIABLE",
+      "subtema": "Inexistencia"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Procedencia excepcional por vía de hecho"
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA SENTENCIA DE TUTELA",
+      "subtema": "Prohibición"
+    },
+    {
+      "tema": "PROCESO ADMINISTRATIVO",
+      "subtema": "Lentitud y morosidad no configuran perjuicio irremediable"
+    },
+    {
+      "tema": "PERJUICIO IRREMEDIABLE",
+      "subtema": "Elementos para que se configure"
+    }
+  ]
+}

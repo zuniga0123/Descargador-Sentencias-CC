@@ -1,0 +1,49 @@
+{
+  "radicado": "T-345-02",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2002,
+  "fecha_creacion": "2002-05-09",
+  "magistrado_ponente": "Dr MANUEL JOSÉ CEPEDA ESPINOSA",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "LIBERTAD RELIGIOSA Y DE CULTOS",
+  "subtema": "En el ámbito universitario es diferente la protección a la que se da en el contexto de educación primaria o secundaria",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2002/T-345-02.htm",
+  "fecha_descarga": "2026-10-23T00:52:26.129389+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2002-05-09",
+  "fecha_publicacion": null,
+  "numero": "T-345/02",
+  "tipo_cc": "T",
+  "prov_id": "20519",
+  "tema_relatoria": "DERECHO A LA LIBERTAD DE CONCIENCIA. ESTABLECIMIENTOS EDUCATIVOS CONFESIONALES. AUTONOMIA UNIVERSITARIA. LIBERTAD DE ENSEÑANZA. CARENCIA ACTUAL DE OBJETO. SUSTRACCION DE MATERIA. LLAMADO A PREVENCION. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "LIBERTAD RELIGIOSA Y DE CULTOS",
+      "subtema": "En el ámbito universitario es diferente la protección a la que se da en el contexto de educación primaria o secundaria"
+    },
+    {
+      "tema": "LIBERTAD RELIGIOSA Y DE CULTOS",
+      "subtema": "Alcance de la protección"
+    },
+    {
+      "tema": "LIBERTAD DE CONCIENCIA",
+      "subtema": "Universidad que obliga a estudiante a tomar seminario de ética"
+    },
+    {
+      "tema": "LIBERTAD DE CONCIENCIA",
+      "subtema": "Alcance de la protección"
+    },
+    {
+      "tema": "SERVICIO PUBLICO DE EDUCACION",
+      "subtema": "Posibilidad de fundar establecimientos educativos confesionales"
+    }
+  ]
+}

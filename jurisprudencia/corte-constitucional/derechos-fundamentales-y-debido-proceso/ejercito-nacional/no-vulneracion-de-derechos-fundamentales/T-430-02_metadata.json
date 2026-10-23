@@ -1,0 +1,42 @@
+{
+  "radicado": "T-430-02",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2002,
+  "fecha_creacion": "2002-05-29",
+  "magistrado_ponente": "Dra CLARA INÉS VARGAS HERNÁNDEZ",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "EJERCITO NACIONAL",
+  "subtema": "No vulneración de derechos fundamentales",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Decreto 94 de 1989"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2002/T-430-02.htm",
+  "fecha_descarga": "2026-10-23T00:32:37.263624+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2002-05-29",
+  "fecha_publicacion": null,
+  "numero": "T-430/02",
+  "tipo_cc": "T",
+  "prov_id": "20619",
+  "tema_relatoria": "DERECHO A LA VIDA Y SALUD DE EX SOLDADO. SOLICITUD ASISTENCIA MEDICA Y PRACTICA CIRUGIA DE MANO. DISMINUCION CAPACIDAD LABORAL. PAGO INDEMNIZACION. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "EJERCITO NACIONAL",
+      "subtema": "No vulneración de derechos fundamentales"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Improcedencia por inexistencia de vulneración de derechos fundamentales"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Término de presentación"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "radicado": "T-1034-02",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2002,
+  "fecha_creacion": "2002-11-27",
+  "magistrado_ponente": "Dr JAIME CÓRDOBA TRIVIÑO",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCIÓN DE TUTELA",
+  "subtema": "Procedencia",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 100 de 1993"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2002/T-1034-02.htm",
+  "fecha_descarga": "2026-10-23T00:37:53.159643+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2002-11-27",
+  "fecha_publicacion": null,
+  "numero": "T-1034/02",
+  "tipo_cc": "T",
+  "prov_id": "21495",
+  "tema_relatoria": "DERECHOS A LA SALUD VIDA Y SEGURIDAD SOCIAL DE PERSONERO MUNICIPAL. SOLICITUD SUMINISTRO SERVICIOS MEDICOS INTEGRALES. MORA PAGO DE APORTES EN SALUD POR EMPLEADOR. FALTA DE PRUEBA. ISS. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Procedencia"
+    },
+    {
+      "tema": "MEDIO DE DEFENSA JUDICIAL EFICAZ",
+      "subtema": "Giro de transferencias que el municipio debe pagar a la Personería"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Improcedencia por inexistencia de vulneración de derechos fundamentales"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Improcedencia para hacer efectivo el cumplimiento de deberes legales o reglamentarios de las autoridades"
+    },
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Fundamental por conexidad con la vida"
+    },
+    {
+      "tema": "PRINCIPIO DE CONTINUIDAD EN EL SERVICIO DE SALUD",
+      "subtema": "Mora en el pago de aportes por empleador"
+    },
+    {
+      "tema": "EMPLEADOR",
+      "subtema": "Asunción de responsabilidad por mora en aportes en salud"
+    }
+  ]
+}

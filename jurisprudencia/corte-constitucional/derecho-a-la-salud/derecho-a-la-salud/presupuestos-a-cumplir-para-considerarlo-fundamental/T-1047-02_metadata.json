@@ -1,0 +1,54 @@
+{
+  "radicado": "T-1047-02",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2002,
+  "fecha_creacion": "2002-11-28",
+  "magistrado_ponente": "Dr JAIME ARAUJO RENTERIA",
+  "area": "Derecho a la Salud",
+  "tema": "DERECHO A LA SALUD",
+  "subtema": "Presupuestos a cumplir para considerarlo fundamental",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Decreto 806 de 1998"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2002/T-1047-02.htm",
+  "fecha_descarga": "2026-10-23T00:38:25.830738+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2002-11-28",
+  "fecha_publicacion": null,
+  "numero": "T-1047/02",
+  "tipo_cc": "T",
+  "prov_id": "21512",
+  "tema_relatoria": "DERECHO A LA SALUD Y VIDA DE MENOR DE EDAD. SOLICITUD EXAMEN NO INCLUIDO EN EL POS PRESCRITO POR MEDICO TRATANTE ADSCRITO A OTRA ENTIDAD. ACREDITAR FALTA CAPACIDAD DE PAGO. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Presupuestos a cumplir para considerarlo fundamental"
+    },
+    {
+      "tema": "DERECHO A LA SALUD DE NIÑOS, NIÑAS Y ADOLESCENTES",
+      "subtema": "Práctica de examen"
+    },
+    {
+      "tema": "DERECHO A LA SEGURIDAD SOCIAL",
+      "subtema": "Presupuestos a cumplir para considerarlo fundamental"
+    },
+    {
+      "tema": "PLAN OBLIGATORIO DE SALUD",
+      "subtema": "Exclusiones y limitaciones"
+    },
+    {
+      "tema": "DERECHO A LA SALUD DE NIÑOS, NIÑAS Y ADOLESCENTES",
+      "subtema": "Prueba de la incapacidad económica de los padres"
+    },
+    {
+      "tema": "PLAN OBLIGATORIO DE SALUD",
+      "subtema": "Capacidad económica del usuario respecto de servicios no cubiertos"
+    }
+  ]
+}

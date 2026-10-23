@@ -1,0 +1,64 @@
+{
+  "radicado": "T-632-02",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2002,
+  "fecha_creacion": "2002-08-08",
+  "magistrado_ponente": "Dr JAIME CÓRDOBA TRIVIÑO",
+  "area": "Derecho a la Salud",
+  "tema": "ADMINISTRADORA DEL REGIMEN SUBSIDIADO",
+  "subtema": "No está obligada a realizar cirugía no incluida en el POS",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 100 de 1993",
+    "Decreto 806 de 1998",
+    "Acto Legislativo 1 de 2001"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2002/T-632-02.htm",
+  "fecha_descarga": "2026-10-23T00:49:17.089580+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2002-08-08",
+  "fecha_publicacion": null,
+  "numero": "T-632/02",
+  "tipo_cc": "T",
+  "prov_id": "20907",
+  "tema_relatoria": "DERECHOS A LA SALUD VIDA E INTEGRIDAD. SOLICITUD PRACTICA CIRUGIA EN PARPADO IZQUIERDO NO INCLUIDA EN EL POS. REGIMEN SUBSIDIADO. SISBEN. DEBER DE INFORMAR. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ADMINISTRADORA DEL REGIMEN SUBSIDIADO",
+      "subtema": "No está obligada a realizar cirugía no incluida en el POS"
+    },
+    {
+      "tema": "ADMINISTRADORA DEL REGIMEN SUBSIDIADO",
+      "subtema": "Información al afiliado sobre prestación de servicios no cubiertos por el POS-S"
+    },
+    {
+      "tema": "ADMINISTRADORA DEL REGIMEN SUBSIDIADO",
+      "subtema": "Obligaciones frente a servicios no incluidos en el POS"
+    },
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Fundamental por conexidad"
+    },
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Carácter prestacional"
+    },
+    {
+      "tema": "INSTITUTO DEPARTAMENTAL DE SALUD",
+      "subtema": "Cirugía no incluida en el POS"
+    },
+    {
+      "tema": "REGIMEN SUBSIDIADO DE SALUD",
+      "subtema": "Finalidad"
+    },
+    {
+      "tema": "SISTEMA DE SEGURIDAD SOCIAL INTEGRAL",
+      "subtema": "Finalidad"
+    }
+  ]
+}
