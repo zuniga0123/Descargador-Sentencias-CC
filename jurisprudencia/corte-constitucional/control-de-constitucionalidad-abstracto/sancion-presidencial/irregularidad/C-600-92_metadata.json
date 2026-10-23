@@ -1,0 +1,41 @@
+{
+  "radicado": "C-600-92",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1992,
+  "fecha_creacion": "1992-12-10",
+  "magistrado_ponente": null,
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "SANCION PRESIDENCIAL",
+  "subtema": "Irregularidad",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 23 de 1982"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1992/C-600-92.htm",
+  "fecha_descarga": "2026-10-23T09:52:07.715905+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1992-12-10",
+  "fecha_publicacion": null,
+  "numero": "C-600/92",
+  "tipo_cc": "C",
+  "prov_id": "11072",
+  "tema_relatoria": "LEY 23/82. DERECHOS DE AUTOR. PREVALENCIA DEL DERECHO SUSTANCIAL. CONSTITUCIONAL.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "SANCION PRESIDENCIAL",
+      "subtema": "Irregularidad"
+    },
+    {
+      "tema": "PREVALENCIA DEL DERECHO SUSTANCIAL",
+      "subtema": null
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "Término"
+    }
+  ]
+}

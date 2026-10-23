@@ -1,0 +1,50 @@
+{
+  "radicado": "T-529-92",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1992,
+  "fecha_creacion": "1992-09-18",
+  "magistrado_ponente": null,
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "DERECHO A LA VIDA",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2820 de 1974",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1992/T-529-92.htm",
+  "fecha_descarga": "2026-10-23T09:40:01.499286+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1992-09-18",
+  "fecha_publicacion": null,
+  "numero": "T-529/92",
+  "tipo_cc": "T",
+  "prov_id": "10998",
+  "tema_relatoria": "DERECHO A LA INTEGRIDAD FISICA ENTRE CONYUGES. DERECHO A LA VIDA. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA VIDA",
+      "subtema": null
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA PARTICULARES",
+      "subtema": "Indefensión"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Objeto"
+    },
+    {
+      "tema": "FALLO DE TUTELA",
+      "subtema": "Cumplimiento"
+    },
+    {
+      "tema": "DERECHO A LA INTEGRIDAD PERSONAL",
+      "subtema": "Cónyuges"
+    }
+  ]
+}

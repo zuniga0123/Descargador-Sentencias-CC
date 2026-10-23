@@ -1,0 +1,66 @@
+{
+  "radicado": "C-477-92",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1992,
+  "fecha_creacion": "1992-08-06",
+  "magistrado_ponente": "Dr JOSE GREGORIO HERNANDEZ GALINDO",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "PRESIDENTE DE LA REPUBLICA",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2067 de 1991",
+    "Ley 32 de 1985",
+    "Ley 27 de 1980",
+    "Ley 20 de 1974",
+    "Ley 11 de 1991",
+    "Decreto Ley 2017 de 1968"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1992/C-477-92.htm",
+  "fecha_descarga": "2026-10-23T09:52:41.478678+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1992-08-06",
+  "fecha_publicacion": null,
+  "numero": "C-477/92",
+  "tipo_cc": "C",
+  "prov_id": "10945",
+  "tema_relatoria": "TRATADO INTERNACIONAL. ACUERDO DE COOPERACION TECNICA Y CIENTIFICA ENTRE COLOMBIA Y URUGUAY. EXEQUIBLE.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "PRESIDENTE DE LA REPUBLICA",
+      "subtema": null
+    },
+    {
+      "tema": "COMPETENCIA",
+      "subtema": null
+    },
+    {
+      "tema": "CORTE CONSTITUCIONAL",
+      "subtema": null
+    },
+    {
+      "tema": "TRATADO INTERNACIONAL",
+      "subtema": "Control previo"
+    },
+    {
+      "tema": "IUS REPRAESENTATIONIS OMNIMODAE",
+      "subtema": null
+    },
+    {
+      "tema": "TRANSITO CONSTITUCIONAL",
+      "subtema": null
+    },
+    {
+      "tema": "TRATADO INTERNACIONAL",
+      "subtema": "Revisión de constitucionalidad"
+    },
+    {
+      "tema": "TRATADO INTERNACIONAL",
+      "subtema": "Celebración"
+    }
+  ]
+}

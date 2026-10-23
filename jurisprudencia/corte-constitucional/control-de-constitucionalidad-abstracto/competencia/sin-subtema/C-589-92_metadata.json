@@ -1,0 +1,46 @@
+{
+  "radicado": "C-589-92",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1992,
+  "fecha_creacion": "1992-11-23",
+  "magistrado_ponente": "Dr Simon Rodriguez Rodriguez",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "COMPETENCIA",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 32 de 1985",
+    "Decreto 2067 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1992/C-589-92.htm",
+  "fecha_descarga": "2026-10-23T09:50:55.930685+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1992-11-23",
+  "fecha_publicacion": null,
+  "numero": "C-589/92",
+  "tipo_cc": "C",
+  "prov_id": "11062",
+  "tema_relatoria": "CONSTIT DEL CONV DE INTEGRACION CINEMATOGRAFICA IBEROAMERICANA. TRATADO INTERNACIONAL. EXEQUIBLE.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "COMPETENCIA",
+      "subtema": null
+    },
+    {
+      "tema": "CORTE CONSTITUCIONAL",
+      "subtema": null
+    },
+    {
+      "tema": "CONVENIO INTERNACIONAL",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "TRATADO INTERNACIONAL",
+      "subtema": "Control de constitucionalidad"
+    }
+  ]
+}

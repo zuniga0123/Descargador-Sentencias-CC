@@ -1,0 +1,65 @@
+{
+  "radicado": "C-449-92",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1992,
+  "fecha_creacion": "1992-07-09",
+  "magistrado_ponente": "Alejandro Martinez Caballero",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "FEDERACION NACIONAL DE CAFETEROS",
+  "subtema": "Naturaleza",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2067 de 1991",
+    "Ley 11 de 1972",
+    "Ley 66 de 1942",
+    "Decreto 2067 de 1940",
+    "Decreto 3130 de 1968",
+    "Decreto 444 de 1967",
+    "Decreto 2374 de 1974",
+    "Ley 35 de 1976",
+    "Decreto Ley 2078 de 1940"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1992/C-449-92.htm",
+  "fecha_descarga": "2026-10-23T09:52:37.708184+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1992-07-09",
+  "fecha_publicacion": null,
+  "numero": "C-449/92",
+  "tipo_cc": "C",
+  "prov_id": "10913",
+  "tema_relatoria": "LEY 9/91 ART 33 PARCIAL. RECURSOS PARAFISCALES. FONDO NAL DEL CAFE. INCONSTITUCIONAL EXPRESION \"DEL CONGRESO DE LA REPUBLICA\".",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "FEDERACION NACIONAL DE CAFETEROS",
+      "subtema": "Naturaleza"
+    },
+    {
+      "tema": "CONGRESO",
+      "subtema": null
+    },
+    {
+      "tema": "ESTADO SOCIAL DE DERECHO",
+      "subtema": null
+    },
+    {
+      "tema": "FEDERACION NACIONAL DE CAFETEROS",
+      "subtema": null
+    },
+    {
+      "tema": "CONTRATO ADMINISTRATIVO",
+      "subtema": null
+    },
+    {
+      "tema": "CONTRATO",
+      "subtema": "Revisión"
+    },
+    {
+      "tema": "FONDO NACIONAL DEL CAFE",
+      "subtema": "Naturaleza"
+    }
+  ]
+}

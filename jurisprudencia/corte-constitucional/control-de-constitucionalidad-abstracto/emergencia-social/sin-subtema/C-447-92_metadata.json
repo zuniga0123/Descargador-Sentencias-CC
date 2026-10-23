@@ -1,0 +1,56 @@
+{
+  "radicado": "C-447-92",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1992,
+  "fecha_creacion": "1992-07-09",
+  "magistrado_ponente": "Eduardo Cifuentes Muñoz",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "EMERGENCIA SOCIAL",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 680 de 1992",
+    "Decreto 919 de 1989",
+    "Decreto 700 de 1992",
+    "Decreto 3298 de 1985"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1992/C-447-92.htm",
+  "fecha_descarga": "2026-10-23T09:49:37.148967+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1992-07-09",
+  "fecha_publicacion": "1992-07-23",
+  "numero": "C-447/92",
+  "tipo_cc": "C",
+  "prov_id": "10911",
+  "tema_relatoria": "DECLARACION DEL ESTADO DE EMERGENCIA ECONOMICA Y SOCIAL. SERVICIO PUBLICO DE ENERGIA. CONMOCION INTERIOR.",
+  "resumen": "Revisión de constitucionalidad del Decreto Legislativo N.º 680 de 1992, \"por el cual se declara el Estado de Emergencia Económica y Social\". La precipitada norma fue declarada por consecuencia del fenómeno del niño, la cual trajo la peor sequía en 34 años del país. Lo anterior, ocasionó una abrupta reducción de la oferta de energía eléctrica que ocasionó profundos traumas en la vida social y económica del país. Declaró la constitucional el decreto legislativo objeto de revisión.",
+  "titulaciones": [
+    {
+      "tema": "EMERGENCIA SOCIAL",
+      "subtema": null
+    },
+    {
+      "tema": "ENERGIA ELECTRICA",
+      "subtema": null
+    },
+    {
+      "tema": "ESTADOS DE EXCEPCION",
+      "subtema": null
+    },
+    {
+      "tema": "HECHO SOBREVINIENTE",
+      "subtema": null
+    },
+    {
+      "tema": "SERVICIOS PÚBLICOS",
+      "subtema": null
+    },
+    {
+      "tema": "SISTEMA ELECTRICO",
+      "subtema": "Crisis"
+    }
+  ]
+}

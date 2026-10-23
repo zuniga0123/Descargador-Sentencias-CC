@@ -1,0 +1,66 @@
+{
+  "radicado": "T-570-92",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1992,
+  "fecha_creacion": "1992-10-26",
+  "magistrado_ponente": "Dr Jaime Sanin Greiffenstein",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "DERECHOS CULTURALES",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Decreto 753 de 1956"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1992/T-570-92.htm",
+  "fecha_descarga": "2026-10-23T09:48:34.819699+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1992-10-26",
+  "fecha_publicacion": null,
+  "numero": "T-570/92",
+  "tipo_cc": "T",
+  "prov_id": "11043",
+  "tema_relatoria": "SERVICIOS PUBLICOS. DERECHO AL SERVICIO DE ACUEDUCTO. DERECHO A LA SALUBRIDAD PUBLICA. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHOS CULTURALES",
+      "subtema": null
+    },
+    {
+      "tema": "DERECHOS ECONOMICOS",
+      "subtema": null
+    },
+    {
+      "tema": "DERECHOS SOCIALES",
+      "subtema": null
+    },
+    {
+      "tema": "SERVICIOS PÚBLICOS",
+      "subtema": "Acceso"
+    },
+    {
+      "tema": "DERECHO AL SERVICIO DE ACUEDUCTO",
+      "subtema": null
+    },
+    {
+      "tema": "DERECHO A LA SALUBRIDAD PUBLICA",
+      "subtema": null
+    },
+    {
+      "tema": "SERVICIOS PUBLICOS DOMICILIARIOS",
+      "subtema": null
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Objeto"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Hecho superado"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "radicado": "T-470-92",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1992,
+  "fecha_creacion": "1992-07-16",
+  "magistrado_ponente": null,
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "DERECHO DE PARTICIPACIÓN POLÍTICA",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Decreto Ley 1333 de 1986",
+    "Ley 42 de 1989",
+    "Ley 53 de 1887"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1992/T-470-92.htm",
+  "fecha_descarga": "2026-10-23T09:46:52.275304+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1992-07-16",
+  "fecha_publicacion": null,
+  "numero": "T-470/92",
+  "tipo_cc": "T",
+  "prov_id": "10931",
+  "tema_relatoria": "DERECHOS DE PARTICIPACION POLITICA. CONSULTA POPULAR. DERECHO AL BUEN NOMBRE. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO DE PARTICIPACIÓN POLÍTICA",
+      "subtema": null
+    },
+    {
+      "tema": "DERECHO A LA HONRA",
+      "subtema": null
+    },
+    {
+      "tema": "DERECHO AL BUEN NOMBRE",
+      "subtema": "Vulneración"
+    },
+    {
+      "tema": "CONSULTA POPULAR",
+      "subtema": "Ilegalidad"
+    }
+  ]
+}

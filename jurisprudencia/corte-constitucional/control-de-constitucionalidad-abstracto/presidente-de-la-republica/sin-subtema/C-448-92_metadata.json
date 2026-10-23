@@ -1,0 +1,89 @@
+{
+  "radicado": "C-448-92",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1992,
+  "fecha_creacion": "1992-07-09",
+  "magistrado_ponente": null,
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "PRESIDENTE DE LA REPUBLICA",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 700 de 1992",
+    "Decreto 680 de 1992",
+    "Decreto 2067 de 1991",
+    "Decreto 222 de 1983",
+    "Decreto 606 de 1992",
+    "Ley 51 de 1990",
+    "Decreto Ley 1742 de 1991",
+    "Decreto 294 de 1973",
+    "Ley 38 de 1989"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1992/C-448-92.htm",
+  "fecha_descarga": "2026-10-23T09:52:33.997336+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1992-07-09",
+  "fecha_publicacion": null,
+  "numero": "C-448/92",
+  "tipo_cc": "C",
+  "prov_id": "10912",
+  "tema_relatoria": "DEC. 700/92 CONTRATACION ADMINISTRATIVA. MEDIDAS ESPECIALES PARA EL SISTEMA ELECTRICO. CONMOCION INTERIOR. EXEQUIBLE.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "PRESIDENTE DE LA REPUBLICA",
+      "subtema": null
+    },
+    {
+      "tema": "DECRETO LEGISLATIVO",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "ESTADOS DE EXCEPCION",
+      "subtema": null
+    },
+    {
+      "tema": "CONTRATACION ADMINISTRATIVA",
+      "subtema": null
+    },
+    {
+      "tema": "IMPUESTO",
+      "subtema": "Modificaciones"
+    },
+    {
+      "tema": "EMERGENCIA ECONOMICA Y SOCIAL",
+      "subtema": null
+    },
+    {
+      "tema": "PRESUPUESTO NACIONAL",
+      "subtema": null
+    },
+    {
+      "tema": "PRESIDENTE DE LA REPUBLICA",
+      "subtema": "Facultades"
+    },
+    {
+      "tema": "RECURSOS FISCALES",
+      "subtema": "Obtención"
+    },
+    {
+      "tema": "DECRETO LEGISLATIVO",
+      "subtema": "Conexidad"
+    },
+    {
+      "tema": "FACULTADES LEGISLATIVAS",
+      "subtema": "Límites"
+    },
+    {
+      "tema": "IMPUESTO",
+      "subtema": "Exenciones"
+    },
+    {
+      "tema": "SISTEMA ELECTRICO",
+      "subtema": "Medidas especiales"
+    }
+  ]
+}

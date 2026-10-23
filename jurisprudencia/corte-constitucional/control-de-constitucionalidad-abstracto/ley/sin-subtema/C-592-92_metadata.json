@@ -1,0 +1,49 @@
+{
+  "radicado": "C-592-92",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1992,
+  "fecha_creacion": "1992-12-07",
+  "magistrado_ponente": "Dr FABIO MORON DIAZ",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "LEY",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2651 de 1991",
+    "Decreto 2279 de 1989",
+    "Decreto 350 de 1989",
+    "Ley 23 de 1991",
+    "Decreto 2282 de 1989"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1992/C-592-92.htm",
+  "fecha_descarga": "2026-10-23T09:50:59.649920+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1992-12-07",
+  "fecha_publicacion": null,
+  "numero": "C-592/92",
+  "tipo_cc": "C",
+  "prov_id": "11065",
+  "tema_relatoria": "DEC. 2651/91. ARTS 9 AL 22; 32 Y 41.DESCONGESTION DE DESPACHOS JUDICIALES. UNIDAD NORMATIVA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "LEY",
+      "subtema": null
+    },
+    {
+      "tema": "TRANSITO NORMATIVO",
+      "subtema": null
+    },
+    {
+      "tema": "UNIDAD NORMATIVA",
+      "subtema": null
+    },
+    {
+      "tema": "DECRETO LEGISLATIVO",
+      "subtema": null
+    }
+  ]
+}

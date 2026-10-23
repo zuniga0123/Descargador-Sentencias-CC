@@ -1,0 +1,73 @@
+{
+  "radicado": "T-441-92",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1992,
+  "fecha_creacion": "1992-07-03",
+  "magistrado_ponente": "Alejandro Martinez Caballero",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "IGUALDAD MATERIAL",
+  "subtema": "Vulneración",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 64 de 1968",
+    "Ley 49 de 1919",
+    "Ley 26 de 1976",
+    "Decreto 2351 de 1965"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1992/T-441-92.htm",
+  "fecha_descarga": "2026-10-23T09:46:12.183356+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1992-07-03",
+  "fecha_publicacion": null,
+  "numero": "T-441/92",
+  "tipo_cc": "T",
+  "prov_id": "10905",
+  "tema_relatoria": "PERSONA JURIDICA COMO TITULAR DE LA ACCION DE TUTELA. DERECHO DE ASOCIACION SINDICAL. CONVENCION COLECTIVA. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "IGUALDAD MATERIAL",
+      "subtema": "Vulneración"
+    },
+    {
+      "tema": "PERSONA JURIDICA",
+      "subtema": null
+    },
+    {
+      "tema": "ACCION DE TUTELA TRANSITORIA",
+      "subtema": "Improcedencia"
+    },
+    {
+      "tema": "DERECHO DE ASOCIACIÓN SINDICAL",
+      "subtema": null
+    },
+    {
+      "tema": "DERECHOS FUNDAMENTALES",
+      "subtema": null
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Improcedencia"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Titularidad"
+    },
+    {
+      "tema": "CONVENCION COLECTIVA",
+      "subtema": "Incumplimiento"
+    },
+    {
+      "tema": "JUEZ DE TUTELA",
+      "subtema": "Facultades"
+    },
+    {
+      "tema": "SUSPENSION PROVISIONAL",
+      "subtema": "Alcance"
+    }
+  ]
+}

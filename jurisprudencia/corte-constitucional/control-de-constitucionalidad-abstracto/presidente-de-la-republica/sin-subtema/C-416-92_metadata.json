@@ -1,0 +1,75 @@
+{
+  "radicado": "C-416-92",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1992,
+  "fecha_creacion": "1992-06-19",
+  "magistrado_ponente": "Dr JOSE GREGORIO HERNANDEZ GALINDO",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "PRESIDENTE DE LA REPUBLICA",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 112 de 1991",
+    "Decreto 80 de 1980",
+    "Ley 60 de 1990",
+    "Decreto 432 de 1969",
+    "Decreto 65 de 1990",
+    "Decreto Ley 80 de 1980",
+    "Decreto 2067 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1992/C-416-92.htm",
+  "fecha_descarga": "2026-10-23T09:52:22.903962+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1992-06-19",
+  "fecha_publicacion": null,
+  "numero": "C-416/92",
+  "tipo_cc": "C",
+  "prov_id": "10882",
+  "tema_relatoria": "DEC. 112/91. REMUNERACION DE DOCENTES DE LA UNIVERSIDAD DE LA AMAZONIA. INEXEQUIBLES.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "PRESIDENTE DE LA REPUBLICA",
+      "subtema": null
+    },
+    {
+      "tema": "CONTROL DE CONSTITUCIONALIDAD",
+      "subtema": null
+    },
+    {
+      "tema": "COMPETENCIA",
+      "subtema": null
+    },
+    {
+      "tema": "SENTENCIA INHIBITORIA",
+      "subtema": "Improcedencia"
+    },
+    {
+      "tema": "PERSONAL DOCENTE",
+      "subtema": null
+    },
+    {
+      "tema": "COSA JUZGADA CONSTITUCIONAL",
+      "subtema": null
+    },
+    {
+      "tema": "TRANSITO CONSTITUCIONAL",
+      "subtema": null
+    },
+    {
+      "tema": "SUSTRACCION DE MATERIA",
+      "subtema": null
+    },
+    {
+      "tema": "UNIVERSIDAD DE LA AMAZONIA",
+      "subtema": null
+    },
+    {
+      "tema": "FACULTADES EXTRAORDINARIAS",
+      "subtema": "Límites"
+    }
+  ]
+}

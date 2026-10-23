@@ -1,0 +1,76 @@
+{
+  "radicado": "T-568-92",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1992,
+  "fecha_creacion": "1992-10-23",
+  "magistrado_ponente": "Jose Gregorio Hernandez Galindo",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCIÓN DE TUTELA",
+  "subtema": "Impugnación",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Decreto 1041 de 1984",
+    "Decreto 1061 de 1984",
+    "Decreto 1355 de 1970"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1992/T-568-92.htm",
+  "fecha_descarga": "2026-10-23T09:40:34.462375+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1992-10-23",
+  "fecha_publicacion": null,
+  "numero": "T-568/92",
+  "tipo_cc": "T",
+  "prov_id": "11041",
+  "tema_relatoria": "DERECHO DE PROPIEDAD. DERECHO AL TRABAJO. TUTELA CONTRA SENTENCIAS. DECOMISO DE VEHICULO. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Impugnación"
+    },
+    {
+      "tema": "MEDIO DE DEFENSA JUDICIAL",
+      "subtema": "Efectividad"
+    },
+    {
+      "tema": "PRINCIPIO DE LA BUENA FE",
+      "subtema": null
+    },
+    {
+      "tema": "DECOMISO",
+      "subtema": null
+    },
+    {
+      "tema": "ACTO POLICIVO",
+      "subtema": null
+    },
+    {
+      "tema": "CONTRATO DE TRANSPORTE",
+      "subtema": "Responsabilidad"
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA SENTENCIAS",
+      "subtema": "Improcedencia"
+    },
+    {
+      "tema": "DERECHO AL TRABAJO",
+      "subtema": "Licitud"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Objeto"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Hecho consumado"
+    },
+    {
+      "tema": "DERECHO A LA PROPIEDAD",
+      "subtema": "Vulneración"
+    }
+  ]
+}

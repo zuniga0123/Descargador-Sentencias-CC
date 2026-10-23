@@ -1,0 +1,77 @@
+{
+  "radicado": "C-005-92",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1992,
+  "fecha_creacion": "1992-05-11",
+  "magistrado_ponente": "Dr JAIME SANIN GREIFFENSTEIN",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "LEY MARCO SALARIAL",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 333 de 1992",
+    "Decreto 3858 de 1985",
+    "Ley 131 de 1985",
+    "Decreto 335 de 1992",
+    "Decreto 333 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1992/C-005-92.htm",
+  "fecha_descarga": "2026-10-23T09:49:40.867155+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1992-05-11",
+  "fecha_publicacion": null,
+  "numero": "C-005/92",
+  "tipo_cc": "C",
+  "prov_id": "10844",
+  "tema_relatoria": "DEC. 335/92. REGIMEN SALARIAL PARA EL PERSONAL CIVIL Y MILITAR DE MINDEFENSA MILITARES Y POLICIA. CONMOCION INTERIOR. EXEQUIBLE",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "LEY MARCO SALARIAL",
+      "subtema": null
+    },
+    {
+      "tema": "PRESIDENTE DE LA REPUBLICA",
+      "subtema": null
+    },
+    {
+      "tema": "SALARIO",
+      "subtema": null
+    },
+    {
+      "tema": "EMERGENCIA SOCIAL",
+      "subtema": null
+    },
+    {
+      "tema": "COMPETENCIA",
+      "subtema": null
+    },
+    {
+      "tema": "PRESTACIONES SOCIALES",
+      "subtema": null
+    },
+    {
+      "tema": "TRANSITO CONSTITUCIONAL",
+      "subtema": null
+    },
+    {
+      "tema": "EMERGENCIA SOCIAL",
+      "subtema": "Procedencia"
+    },
+    {
+      "tema": "EMERGENCIA SOCIAL",
+      "subtema": "Causales"
+    },
+    {
+      "tema": "EMERGENCIA SOCIAL",
+      "subtema": "Conexidad"
+    },
+    {
+      "tema": "DECRETO LEGISLATIVO",
+      "subtema": "Conexidad"
+    }
+  ]
+}

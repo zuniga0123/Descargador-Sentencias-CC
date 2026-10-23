@@ -1,0 +1,61 @@
+{
+  "radicado": "T-602-92",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1992,
+  "fecha_creacion": "1992-12-11",
+  "magistrado_ponente": "Alejandro Martinez Caballero",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "MAGISTRADO",
+  "subtema": "Periodo",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 1888 de 1989",
+    "Decreto 2591 de 1991",
+    "Decreto 306 de 1992",
+    "Decreto 1881 de 1989",
+    "Decreto 52 de 1987"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1992/T-602-92.htm",
+  "fecha_descarga": "2026-10-23T09:43:30.157254+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1992-12-11",
+  "fecha_publicacion": null,
+  "numero": "T-602/92",
+  "tipo_cc": "T",
+  "prov_id": "11075",
+  "tema_relatoria": "ELECCION DE JUEZ. RESERVA MORAL. ACTO DE NOMBRAMIENTO. PERIODO. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "MAGISTRADO",
+      "subtema": "Periodo"
+    },
+    {
+      "tema": "JUEZ",
+      "subtema": "Periodo"
+    },
+    {
+      "tema": "LEY ESTATUTARIA DE LA ADMINISTRACION DE JUSTICIA",
+      "subtema": null
+    },
+    {
+      "tema": "DEBIDO PROCESO",
+      "subtema": null
+    },
+    {
+      "tema": "RESERVA MORAL",
+      "subtema": null
+    },
+    {
+      "tema": "ACTO DE NOMBRAMIENTO",
+      "subtema": "Vicios"
+    },
+    {
+      "tema": "JUEZ",
+      "subtema": "Elección"
+    }
+  ]
+}

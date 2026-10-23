@@ -1,0 +1,65 @@
+{
+  "radicado": "C-511-92",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1992,
+  "fecha_creacion": "1992-09-03",
+  "magistrado_ponente": "Eduardo Cifuentes Muñoz",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "DECRETO LEY",
+  "subtema": "Modificación",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 49 de 1990",
+    "Decreto 2250 de 1991",
+    "Decreto 1751 de 1991",
+    "Decreto 2067 de 1991",
+    "Decreto Ley 2250 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1992/C-511-92.htm",
+  "fecha_descarga": "2026-10-23T09:52:49.077545+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1992-09-03",
+  "fecha_publicacion": null,
+  "numero": "C-511/92",
+  "tipo_cc": "C",
+  "prov_id": "10981",
+  "tema_relatoria": "DEC. 2250/91. MODIFICA EL DEC. 1751/91. FACULTADES EXTRAORDINARIAS PARA EL SANEAMIENTO ADUANERO. INCONSTITUCIONAL",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DECRETO LEY",
+      "subtema": "Modificación"
+    },
+    {
+      "tema": "FACULTADES EXTRAORDINARIAS",
+      "subtema": "Vigencia"
+    },
+    {
+      "tema": "CONSTITUCION POLITICA",
+      "subtema": null
+    },
+    {
+      "tema": "SANEAMIENTO ADUANERO",
+      "subtema": null
+    },
+    {
+      "tema": "TRANSITO CONSTITUCIONAL",
+      "subtema": null
+    },
+    {
+      "tema": "FACULTADES EXTRAORDINARIAS",
+      "subtema": "Límites"
+    },
+    {
+      "tema": "IGUALDAD ANTE LA LEY",
+      "subtema": "Vulneración"
+    },
+    {
+      "tema": "PRINCIPIO DE LA BUENA FE",
+      "subtema": "Expedición de normas"
+    }
+  ]
+}

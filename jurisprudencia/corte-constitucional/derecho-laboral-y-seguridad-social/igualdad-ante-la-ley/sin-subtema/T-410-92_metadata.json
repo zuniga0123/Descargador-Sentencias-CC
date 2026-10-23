@@ -1,0 +1,48 @@
+{
+  "radicado": "T-410-92",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1992,
+  "fecha_creacion": "1992-06-08",
+  "magistrado_ponente": "Jose Gregorio Hernandez Galindo",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "IGUALDAD ANTE LA LEY",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 12 de 1986",
+    "Decreto 77 de 1987",
+    "Ley 77 de 1987",
+    "Decreto 2067 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1992/T-410-92.htm",
+  "fecha_descarga": "2026-10-23T09:45:28.034703+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1992-06-08",
+  "fecha_publicacion": null,
+  "numero": "T-410/92",
+  "tipo_cc": "T",
+  "prov_id": "10869",
+  "tema_relatoria": "DERECHO AL TRABAJO. IGUALDAD ANTE LA LEY. CARRERA ADMINISTRATIVA. INSTITUTO COLOMBIANO DE CONSTRUCCIONES ESCOLARES. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "IGUALDAD ANTE LA LEY",
+      "subtema": null
+    },
+    {
+      "tema": "IGUALDAD DE OPORTUNIDADES",
+      "subtema": null
+    },
+    {
+      "tema": "DERECHO AL TRABAJO",
+      "subtema": null
+    },
+    {
+      "tema": "CARRERA ADMINISTRATIVA",
+      "subtema": null
+    }
+  ]
+}
