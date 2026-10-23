@@ -1,0 +1,41 @@
+{
+  "radicado": "T-419-99",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1999,
+  "fecha_creacion": "1999-06-10",
+  "magistrado_ponente": "Dr EDUARDO CIFUENTES MUÑOZ",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "EMPLEADOR",
+  "subtema": "Incumplimiento en trasladar recursos propios y del trabajador para seguridad social",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1999/T-419-99.htm",
+  "fecha_descarga": "2026-10-23T05:05:01.663107+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1999-06-10",
+  "fecha_publicacion": null,
+  "numero": "T-419/99",
+  "tipo_cc": "T",
+  "prov_id": "15895",
+  "tema_relatoria": "DER. A LA IGUALDAD. DER. A LA SEGURIDAD SOCIAL. MORA PATRONAL EN EL PAGO DE APORTES AL I.S.S. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "EMPLEADOR",
+      "subtema": "Incumplimiento en trasladar recursos propios y del trabajador para seguridad social"
+    },
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Incumplimiento del empleador en trasladar recursos propios y del trabajador para seguridad social"
+    },
+    {
+      "tema": "SUPERINTENDENCIA DE SOCIEDADES",
+      "subtema": "Trámite de autorización para pago de obligaciones por empresa en concordato"
+    }
+  ]
+}

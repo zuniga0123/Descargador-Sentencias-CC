@@ -1,0 +1,53 @@
+{
+  "radicado": "T-851-99",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1999,
+  "fecha_creacion": "1999-10-28",
+  "magistrado_ponente": "Dr VLADIMIRO NARANJO MESA",
+  "area": "Derecho a la Salud",
+  "tema": "DERECHO A LA VIDA DIGNA DEL ENFERMO MENTAL",
+  "subtema": "Deficiente apoyo familiar debido a avanzada edad de progenitores y carencia de recursos económicos",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1999/T-851-99.htm",
+  "fecha_descarga": "2026-10-23T05:09:12.514376+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1999-10-28",
+  "fecha_publicacion": null,
+  "numero": "T-851/99",
+  "tipo_cc": "T",
+  "prov_id": "16334",
+  "tema_relatoria": "DERECHO A LA VIDA. DER. A LA SALUD. ENFERMO MENTAL. INGRESO A CENTRO ESPECIAL LA COLINA PARA ENFERMOS MENTALES. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA VIDA DIGNA DEL ENFERMO MENTAL",
+      "subtema": "Deficiente apoyo familiar debido a avanzada edad de progenitores y carencia de recursos económicos"
+    },
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Fundamental por conexidad"
+    },
+    {
+      "tema": "BENEFICENCIA DE CUNDINAMARCA",
+      "subtema": "Función pública asistencial"
+    },
+    {
+      "tema": "BENEFICENCIA DE CUNDINAMARCA",
+      "subtema": "Internación de persona con enfermedad mental ante incapacidad física y económica comprobada de los padres"
+    },
+    {
+      "tema": "DERECHO A LA SALUD DEL DISMINUIDO FISICO Y PSIQUICO",
+      "subtema": "Procura de rehabilitación e integración social por el Estado en mayor medida cuando familia no está en condiciones de hacerlo"
+    },
+    {
+      "tema": "DERECHO A LA SALUD DEL ENFERMO MENTAL",
+      "subtema": "Asunción de internación por el Estado ante incapacidad física y económica comprobada de los padres"
+    }
+  ]
+}

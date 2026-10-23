@@ -1,0 +1,67 @@
+{
+  "radicado": "C-481-99",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1999,
+  "fecha_creacion": "1999-07-07",
+  "magistrado_ponente": "Dr ALEJANDRO MARTÍNEZ CABALLERO",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "BANCO DE LA REPUBLICA",
+  "subtema": "Control de la inflación",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 31 de 1992",
+    "Ley 32 de 1993",
+    "Ley 32 de 1992"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1999/C-481-99.htm",
+  "fecha_descarga": "2026-10-23T05:13:27.857494+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1999-07-07",
+  "fecha_publicacion": null,
+  "numero": "C-481/99",
+  "tipo_cc": "C",
+  "prov_id": "15951",
+  "tema_relatoria": "LEY 31/92. ART. 2 PARCIAL. FINALIDAD CONSTITUCIONAL DEL BANCO DE LA REPUBLICA. METAS DE INFLACION. EXEQUIBLE E INEXEQUIBLE.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "BANCO DE LA REPUBLICA",
+      "subtema": "Control de la inflación"
+    },
+    {
+      "tema": "JUNTA DIRECTIVA DEL BANCO DE LA REPUBLICA",
+      "subtema": "Competencias"
+    },
+    {
+      "tema": "PROPOSICION JURIDICA",
+      "subtema": "Integración"
+    },
+    {
+      "tema": "AUTONOMIA DEL BANCO DE LA REPUBLICA Y PRESERVACION DE LA MONEDA SANA",
+      "subtema": null
+    },
+    {
+      "tema": "BANCO DE LA REPUBLICA",
+      "subtema": "Límites"
+    },
+    {
+      "tema": "BANCO DE LA REPUBLICA",
+      "subtema": "Coordinación entre decisiones monetarias, crediticias y cambiarias"
+    },
+    {
+      "tema": "JUNTA DIRECTIVA DEL BANCO DE LA REPUBLICA",
+      "subtema": "Inconstitucionalidad de adoptar metas de inflación inferiores a las registradas"
+    },
+    {
+      "tema": "JUNTA DIRECTIVA DEL BANCO DE LA REPUBLICA",
+      "subtema": "Metas decrecientes de reducción de la inflación"
+    },
+    {
+      "tema": "UNIDAD NORMATIVA",
+      "subtema": "Alcance excepcional"
+    }
+  ]
+}

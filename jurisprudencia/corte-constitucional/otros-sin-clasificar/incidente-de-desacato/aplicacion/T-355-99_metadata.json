@@ -1,0 +1,41 @@
+{
+  "radicado": "T-355-99",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1999,
+  "fecha_creacion": "1999-05-18",
+  "magistrado_ponente": "Dr CARLOS GAVIRIA DÍAZ",
+  "area": "Otros - Sin clasificar",
+  "tema": "INCIDENTE DE DESACATO",
+  "subtema": "Aplicación",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1999/T-355-99.htm",
+  "fecha_descarga": "2026-10-23T05:03:53.609540+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1999-05-18",
+  "fecha_publicacion": null,
+  "numero": "T-355/99",
+  "tipo_cc": "T",
+  "prov_id": "15815",
+  "tema_relatoria": "PRINCIPIO A TRABAJO IGUAL SALARIO IGUAL. REAJUSTE DE SALARIO. EMCALI. MEDIO DE DEFENSA JUDICIAL. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "INCIDENTE DE DESACATO",
+      "subtema": "Aplicación"
+    },
+    {
+      "tema": "MEDIO DE DEFENSA JUDICIAL",
+      "subtema": "Contradicción de medios probatorios"
+    },
+    {
+      "tema": "MEDIO DE DEFENSA JUDICIAL",
+      "subtema": "No reajuste salarial en encargo de labores"
+    }
+  ]
+}

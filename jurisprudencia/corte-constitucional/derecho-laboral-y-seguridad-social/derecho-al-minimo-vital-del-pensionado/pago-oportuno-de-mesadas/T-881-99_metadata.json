@@ -1,0 +1,45 @@
+{
+  "radicado": "T-881-99",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1999,
+  "fecha_creacion": "1999-11-08",
+  "magistrado_ponente": "Dr CARLOS GAVIRIA DÍAZ",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "DERECHO AL MINIMO VITAL DEL PENSIONADO",
+  "subtema": "Pago oportuno de mesadas",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1999/T-881-99.htm",
+  "fecha_descarga": "2026-10-23T05:07:32.521097+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1999-11-08",
+  "fecha_publicacion": null,
+  "numero": "T-881/99",
+  "tipo_cc": "T",
+  "prov_id": "16367",
+  "tema_relatoria": "DERECHO AL TRABAJO. DER A LA IGUALDAD. AFECTACION AL MINIMO VITAL. PAGO SALARIOS Y MESADAS PENSIONALES. HOSPITAL SAN JOSE SEVILLA (VALLE). CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO AL MINIMO VITAL DEL PENSIONADO",
+      "subtema": "Pago oportuno de mesadas"
+    },
+    {
+      "tema": "LIQUIDACION DE ESTABLECIMIENTO HOSPITALARIO",
+      "subtema": "Pago preferente de acreencias laborales"
+    },
+    {
+      "tema": "DERECHO AL MINIMO VITAL DEL TRABAJADOR",
+      "subtema": "Pago oportuno de salarios"
+    },
+    {
+      "tema": "DERECHO A LA VIDA DIGNA",
+      "subtema": "Pago oportuno de salarios y mesadas pensionales"
+    }
+  ]
+}

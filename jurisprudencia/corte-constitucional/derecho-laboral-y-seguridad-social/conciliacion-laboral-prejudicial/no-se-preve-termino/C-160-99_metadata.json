@@ -1,0 +1,72 @@
+{
+  "radicado": "C-160-99",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1999,
+  "fecha_creacion": "1999-03-17",
+  "magistrado_ponente": null,
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "CONCILIACION LABORAL PREJUDICIAL",
+  "subtema": "No se prevé término",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 446 de 1998",
+    "Ley 23 de 1991",
+    "Decreto 2651 de 1991",
+    "Decreto 2279 de 1989"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1999/C-160-99.htm",
+  "fecha_descarga": "2026-10-23T05:18:37.736449+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1999-03-17",
+  "fecha_publicacion": null,
+  "numero": "C-160/99",
+  "tipo_cc": "C",
+  "prov_id": "15610",
+  "tema_relatoria": "LEY 446/98. ARTS. 688285 Y 87. LEY 23/91. ART. 25 PARCIAL. CONCILIACION LABORAL. INEXEQUIBLES. INHIBITORIA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "CONCILIACION LABORAL PREJUDICIAL",
+      "subtema": "No se prevé término"
+    },
+    {
+      "tema": "CONCILIACION LABORAL",
+      "subtema": "No opera en procesos ejecutivos ni en los de fuero sindical"
+    },
+    {
+      "tema": "CONCILIACION",
+      "subtema": "Naturaleza"
+    },
+    {
+      "tema": "CONCILIACION LABORAL PREJUDICIAL Y PRESCRIPCION DE LA ACCION",
+      "subtema": null
+    },
+    {
+      "tema": "CONCILIACION LABORAL PREJUDICIAL Y VIA GUBERNATIVA",
+      "subtema": null
+    },
+    {
+      "tema": "CONCILIACION LABORAL PREJUDICIAL",
+      "subtema": null
+    },
+    {
+      "tema": "CONCILIACION LABORAL PREJUDICIAL Y DERECHO DE ACCESO A LA JUSTICIA",
+      "subtema": null
+    },
+    {
+      "tema": "CONCILIACION LABORAL",
+      "subtema": null
+    },
+    {
+      "tema": "PRUEBAS EN PROCESO DE CONSTITUCIONALIDAD",
+      "subtema": null
+    },
+    {
+      "tema": "CONCILIACION LABORAL PREJUDICIAL",
+      "subtema": "Obligatoria como requisito de procedibilidad"
+    }
+  ]
+}

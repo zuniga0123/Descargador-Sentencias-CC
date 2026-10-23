@@ -1,0 +1,41 @@
+{
+  "radicado": "T-108-99",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1999,
+  "fecha_creacion": "1999-02-22",
+  "magistrado_ponente": "Dr EDUARDO CIFUENTES MUÑOZ",
+  "area": "Derecho a la Salud",
+  "tema": "DERECHO A LA VIDA",
+  "subtema": "Suministro de medicamentos excluidos del POS",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1999/T-108-99.htm",
+  "fecha_descarga": "2026-10-23T05:00:28.531119+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1999-02-22",
+  "fecha_publicacion": null,
+  "numero": "T-108/99",
+  "tipo_cc": "T",
+  "prov_id": "15550",
+  "tema_relatoria": "DER. A LA VIDA Y A LA SALUD. NO SUMINISTRO DE MEDICAMENTO POR EL I.S.S. TRASPLANTE DE RIÑON. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA VIDA",
+      "subtema": "Suministro de medicamentos excluidos del POS"
+    },
+    {
+      "tema": "DERECHO A LA VIDA",
+      "subtema": "Suministro de medicamentos sustituto eficaz previa autorización del médico tratante"
+    },
+    {
+      "tema": "INAPLICACION DE NORMAS DEL PLAN OBLIGATORIO DE SALUD",
+      "subtema": "Casos en que procede por exclusión de tratamientos y medicamentos de alto costo"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "radicado": "T-194-99",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1999,
+  "fecha_creacion": "1999-03-25",
+  "magistrado_ponente": "Dr CARLOS GAVIRIA DÍAZ",
+  "area": "Otros - Sin clasificar",
+  "tema": "CUENCA DEL RIO SINU",
+  "subtema": "Explotación del recurso íctico, las prácticas dañinas y el control ineficiente",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 357 de 1997",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1999/T-194-99.htm",
+  "fecha_descarga": "2026-10-23T05:01:50.605995+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1999-03-25",
+  "fecha_publicacion": null,
+  "numero": "T-194/99",
+  "tipo_cc": "T",
+  "prov_id": "15645",
+  "tema_relatoria": "DER. AL AMBIENTE SANO. DESECACION Y CONTAMINACION DE AGUAS. DER. A LA PARTICIPACION. DISMINUCION DE LA PESCA. CORELCA Y URRA. CONCEDIDA PARCIALMENTE.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "CUENCA DEL RIO SINU",
+      "subtema": "Explotación del recurso íctico, las prácticas dañinas y el control ineficiente"
+    },
+    {
+      "tema": "CUENCA DEL RIO SINU",
+      "subtema": "Proceso de degradación medioambiental que la afecta"
+    },
+    {
+      "tema": "CUENCA HIDROGRAFICA DEL RIO SINU",
+      "subtema": "Patrón de poblamiento, desarrollo y costos asociados a las inundaciones periódicas"
+    },
+    {
+      "tema": "HIDROELECTRICA URRA I",
+      "subtema": "Impacto en el recurso ictiológico"
+    },
+    {
+      "tema": "HIDROELECTRICA URRA I",
+      "subtema": "Proceso de consulta y concertación por el impacto medioambiental"
+    },
+    {
+      "tema": "INCORA",
+      "subtema": "Prohibición de adjudicar como baldíos terrenos públicos de las ciénagas de Córdoba y áreas de la hoja del Sinú"
+    },
+    {
+      "tema": "SISTEMA DE HUMEDALES DEL SINU",
+      "subtema": "Desecación de los cuerpos de agua, contaminación y desempeño de entes públicos"
+    }
+  ]
+}

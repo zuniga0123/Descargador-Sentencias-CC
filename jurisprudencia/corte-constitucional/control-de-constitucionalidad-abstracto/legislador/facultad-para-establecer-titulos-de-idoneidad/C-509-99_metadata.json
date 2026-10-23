@@ -1,0 +1,43 @@
+{
+  "radicado": "C-509-99",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1999,
+  "fecha_creacion": "1999-07-14",
+  "magistrado_ponente": "Dr JOSE GREGORIO HERNANDEZ GALINDO",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "LEGISLADOR",
+  "subtema": "Facultad para establecer títulos de idoneidad",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 30 de 1992",
+    "Decreto 272 de 1998",
+    "Decreto 2067 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1999/C-509-99.htm",
+  "fecha_descarga": "2026-10-23T05:22:19.784961+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1999-07-14",
+  "fecha_publicacion": null,
+  "numero": "C-509/99",
+  "tipo_cc": "C",
+  "prov_id": "15980",
+  "tema_relatoria": "LEY 30/92. ART. 25 PARAGRAFO 2. REGLAMENTACION DE LA EXPEDICION DE TITULOS DE INSTITUCION TECNICA PROFESIONAL. EXEQUIBLE E INEXEQUIBLE.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "LEGISLADOR",
+      "subtema": "Facultad para establecer títulos de idoneidad"
+    },
+    {
+      "tema": "POTESTAD REGLAMENTARIA Y AUTONOMIA DEL PRESIDENTE DE LA REPUBLICA",
+      "subtema": null
+    },
+    {
+      "tema": "POTESTAD REGLAMENTARIA",
+      "subtema": "Alcance"
+    }
+  ]
+}

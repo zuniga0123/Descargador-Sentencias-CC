@@ -1,0 +1,68 @@
+{
+  "radicado": "C-511-99",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1999,
+  "fecha_creacion": "1999-07-14",
+  "magistrado_ponente": "Dr ANTONIO BARRERA CARBONELL",
+  "area": "Derecho Constitucional Económico",
+  "tema": "CIUDADANIA",
+  "subtema": "Presupuesto esencial para ejercicio de derechos políticos",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto Ley 2241 de 1986",
+    "Ley 84 de 1993",
+    "Ley 403 de 1997",
+    "Ley 486 de 1998"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1999/C-511-99.htm",
+  "fecha_descarga": "2026-10-23T05:13:43.370481+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1999-07-14",
+  "fecha_publicacion": null,
+  "numero": "C-511/99",
+  "tipo_cc": "C",
+  "prov_id": "15982",
+  "tema_relatoria": "DEC. 2241/86. ART. 65 PARCIAL. CODIGO ELECTORAL. COSTO DE LAS RENOVACIONES DE CEDULAS DE CIUDADANIA. INEXEQUIBLE.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "CIUDADANIA",
+      "subtema": "Presupuesto esencial para ejercicio de derechos políticos"
+    },
+    {
+      "tema": "CEDULA DE CIUDADANIA",
+      "subtema": "Cobro tiene carácter de tasa"
+    },
+    {
+      "tema": "SERVICIO DE CEDULACION",
+      "subtema": "No es gratuito"
+    },
+    {
+      "tema": "SERVICIOS PÚBLICOS",
+      "subtema": "Financiación a través de recursos del presupuesto o del cobro de tasas"
+    },
+    {
+      "tema": "CEDULA DE CIUDADANIA",
+      "subtema": null
+    },
+    {
+      "tema": "CEDULA DE CIUDADANIA",
+      "subtema": "No cobro por renovación"
+    },
+    {
+      "tema": "CEDULA DE CIUDADANIA",
+      "subtema": "Obtención por primera vez y renovación"
+    },
+    {
+      "tema": "TARIFA",
+      "subtema": "Sistema y método"
+    },
+    {
+      "tema": "SERVICIO PUBLICO DE CEDULACION",
+      "subtema": "El ciudadano debe asumir el costo"
+    }
+  ]
+}

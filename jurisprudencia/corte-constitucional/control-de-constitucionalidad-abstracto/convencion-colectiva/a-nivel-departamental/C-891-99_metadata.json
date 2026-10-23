@@ -1,0 +1,54 @@
+{
+  "radicado": "C-891-99",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1999,
+  "fecha_creacion": "1999-11-10",
+  "magistrado_ponente": "Dr ALVARO TAFUR GALVIS",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "CONVENCION COLECTIVA",
+  "subtema": "A nivel departamental",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2274 de 1991",
+    "Decreto 2067 de 1991",
+    "Decreto 1926 de 1975",
+    "Ley 141 de 1994",
+    "Decreto 469 de 1986",
+    "Ley 22 de 1986",
+    "Decreto 467 de 1986",
+    "Ley 28 de 1974",
+    "Decreto 1925 de 1975",
+    "Ley 22 de 1985"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1999/C-891-99.htm",
+  "fecha_descarga": "2026-10-23T05:24:56.622968+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1999-11-10",
+  "fecha_publicacion": null,
+  "numero": "C-891/99",
+  "tipo_cc": "C",
+  "prov_id": "16379",
+  "tema_relatoria": "DEC.2274/91 ART. 28 TRANSFERENCIAS DE LAS ANTIGUAS COMISARIAS. APROPIACIONES CON DESTINO A GASTOS DE FUNCIONAMIENTO. EXEQUIBLE. SALVO INC.1 INEXEQUIBLE.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "CONVENCION COLECTIVA",
+      "subtema": "A nivel departamental"
+    },
+    {
+      "tema": "COMISARIAS",
+      "subtema": "Aportes de la Nación con destino a financiación de gastos de funcionamiento"
+    },
+    {
+      "tema": "CONVENCION COLECTIVA",
+      "subtema": "Limitaciones en cuanto a cubrimiento de gastos de funcionamiento"
+    },
+    {
+      "tema": "RENTAS DE DESTINACION ESPECIFICA",
+      "subtema": "Excepción respecto a Comisarías"
+    }
+  ]
+}

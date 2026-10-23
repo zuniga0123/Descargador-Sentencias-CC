@@ -1,0 +1,51 @@
+{
+  "radicado": "C-744-99",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1999,
+  "fecha_creacion": "1999-10-06",
+  "magistrado_ponente": "Dr ANTONIO BARRERA CARBONELL",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "SENTENCIA DE CONSTITUCIONALIDAD",
+  "subtema": "Efectos retroactivos",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 1305 de 1975",
+    "Ley 100 de 1993",
+    "Decreto 1214 de 1990"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1999/C-744-99.htm",
+  "fecha_descarga": "2026-10-23T05:15:09.514588+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1999-10-06",
+  "fecha_publicacion": null,
+  "numero": "C-744/99",
+  "tipo_cc": "C",
+  "prov_id": "16238",
+  "tema_relatoria": "DEC.1214/90 ART.124 PARC. REFORMA DEL ESTATUTO Y REGIMEN PRESTACIONAL. PERSONAL CIVIL MINISTERIO DE DEFENSA. SUSTITUCION PENSIONAL. DER A LA IGUALDAD. SENTENCIA CON EFECTOS RETROACTIVOS A JULIO 7/91. INEXEQUIBLE.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "SENTENCIA DE CONSTITUCIONALIDAD",
+      "subtema": "Efectos retroactivos"
+    },
+    {
+      "tema": "SUSTITUCION PENSIONAL DE PERSONAL CIVIL DEL MINISTERIO DE DEFENSA Y DE LA POLICIA NACIONAL",
+      "subtema": null
+    },
+    {
+      "tema": "SUSTITUCION PENSIONAL DE PERSONAL CIVIL DEL MINISTERIO DE DEFENSA Y DE LA POLICIA NACIONAL",
+      "subtema": "Tratamiento diferente"
+    },
+    {
+      "tema": "SUSTITUCIÓN PENSIONAL",
+      "subtema": "Reconocimiento retroactivo"
+    },
+    {
+      "tema": "SUSTITUCIÓN PENSIONAL",
+      "subtema": "Tratamiento diferente"
+    }
+  ]
+}

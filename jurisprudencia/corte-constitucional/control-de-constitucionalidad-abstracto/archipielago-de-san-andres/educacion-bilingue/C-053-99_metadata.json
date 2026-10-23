@@ -1,0 +1,46 @@
+{
+  "radicado": "C-053-99",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1999,
+  "fecha_creacion": "1999-02-02",
+  "magistrado_ponente": "Dr EDUARDO CIFUENTES MUÑOZ",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "ARCHIPIELAGO DE SAN ANDRES",
+  "subtema": "Educación bilingüe",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 47 de 1993",
+    "Ley 115 de 1994"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1999/C-053-99.htm",
+  "fecha_descarga": "2026-10-23T05:17:46.818261+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1999-02-02",
+  "fecha_publicacion": null,
+  "numero": "C-053/99",
+  "tipo_cc": "C",
+  "prov_id": "15478",
+  "tema_relatoria": "LEY 47/93. ARTS. 14 2442 4345 Y 57. ORGANIZACIÓN Y FUNCIONAMIENTO DEL ARCHIPIELAGO DE SAN ANDRES PROVIDENCIA Y SANTA CATALINA. EXEQUIBLES.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ARCHIPIELAGO DE SAN ANDRES",
+      "subtema": "Educación bilingüe"
+    },
+    {
+      "tema": "RAIZALES",
+      "subtema": "Protección cultural"
+    },
+    {
+      "tema": "LENGUA OFICIAL",
+      "subtema": null
+    },
+    {
+      "tema": "LENGUA NATIVA",
+      "subtema": "Fomento"
+    }
+  ]
+}

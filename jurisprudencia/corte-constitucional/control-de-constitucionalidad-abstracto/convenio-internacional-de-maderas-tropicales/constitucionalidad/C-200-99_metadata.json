@@ -1,0 +1,48 @@
+{
+  "radicado": "C-200-99",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1999,
+  "fecha_creacion": "1999-04-07",
+  "magistrado_ponente": "Dr CARLOS GAVIRIA DIAZ",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "CONVENIO INTERNACIONAL DE MADERAS TROPICALES",
+  "subtema": "Constitucionalidad",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 464 de 1998",
+    "Decreto 2067 de 1991",
+    "Ley 47 de 1989",
+    "Ley 32 de 1985"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1999/C-200-99.htm",
+  "fecha_descarga": "2026-10-23T05:19:21.531634+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1999-04-07",
+  "fecha_publicacion": null,
+  "numero": "C-200/99",
+  "tipo_cc": "C",
+  "prov_id": "15651",
+  "tema_relatoria": "LEY 464/98. CONVENIO INTERNACIONAL DE MADERAS TROPICALES. EXEQUIBLES.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "CONVENIO INTERNACIONAL DE MADERAS TROPICALES",
+      "subtema": "Constitucionalidad"
+    },
+    {
+      "tema": "RECURSOS NATURALES",
+      "subtema": "Desarrollo sostenible"
+    },
+    {
+      "tema": "INMUNIDADES Y PRIVILEGIOS DE ORGANISMOS INTERNACIONALES",
+      "subtema": null
+    },
+    {
+      "tema": "CONVENIO INTERNACIONAL DE MADERAS TROPICALES",
+      "subtema": "Objeto"
+    }
+  ]
+}

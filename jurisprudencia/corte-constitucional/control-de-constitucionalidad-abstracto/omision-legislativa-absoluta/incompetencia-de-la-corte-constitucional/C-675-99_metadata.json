@@ -1,0 +1,49 @@
+{
+  "radicado": "C-675-99",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1999,
+  "fecha_creacion": "1999-09-09",
+  "magistrado_ponente": "Dr CARLOS GAVIRIA DÍAZ",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "OMISION LEGISLATIVA ABSOLUTA",
+  "subtema": "Incompetencia de la Corte Constitucional",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2584 de 1993",
+    "Decreto 85 de 1989",
+    "Decreto 2484 de 1993",
+    "Ley 200 de 1995",
+    "Decreto Ley 100 de 1980"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1999/C-675-99.htm",
+  "fecha_descarga": "2026-10-23T05:23:39.757624+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1999-09-09",
+  "fecha_publicacion": null,
+  "numero": "C-675/99",
+  "tipo_cc": "C",
+  "prov_id": "16157",
+  "tema_relatoria": "DEC. 2584/93. ARTS. 31 PARCIAL 383940 Y 42. POR EL CUAL SE MODIFICA EL REGLAMENTO DE DISCIPLINA PARA LA POLICIA NAL. CORRECTIVOS DISCIPLINARIOS. SENTENCIA INHIBITORIA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "OMISION LEGISLATIVA ABSOLUTA",
+      "subtema": "Incompetencia de la Corte Constitucional"
+    },
+    {
+      "tema": "OMISION LEGISLATIVA ABSOLUTA",
+      "subtema": "Tortura, desaparición forzada, ejecución extrajudicial y genocidio"
+    },
+    {
+      "tema": "EXHORTACION AL CONGRESO",
+      "subtema": "Inclusión de tortura, desaparición forzada, ejecución extrajudicial y genocidios"
+    },
+    {
+      "tema": "REGLAMENTO DE DISCIPLINA DE LA POLICIA NACIONAL",
+      "subtema": "Integración"
+    }
+  ]
+}

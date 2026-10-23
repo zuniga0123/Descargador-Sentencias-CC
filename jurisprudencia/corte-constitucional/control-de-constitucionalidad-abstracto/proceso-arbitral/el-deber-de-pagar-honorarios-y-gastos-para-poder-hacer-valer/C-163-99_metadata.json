@@ -1,0 +1,56 @@
+{
+  "radicado": "C-163-99",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1999,
+  "fecha_creacion": "1999-03-17",
+  "magistrado_ponente": "Dr ALEJANDRO MARTÍNEZ CABALLERO",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "PROCESO ARBITRAL",
+  "subtema": "El deber de pagar honorarios y gastos para poder hacer valer sus derechos",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2279 de 1989",
+    "Ley 446 de 1998",
+    "Decreto 2651 de 1991",
+    "Ley 23 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1999/C-163-99.htm",
+  "fecha_descarga": "2026-10-23T05:19:47.723280+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1999-03-17",
+  "fecha_publicacion": null,
+  "numero": "C-163/99",
+  "tipo_cc": "C",
+  "prov_id": "15613",
+  "tema_relatoria": "LEY 446/98. ART. 127. INTERVENCION DE TERCEROS EN EL PROCESO ARBITRAL. EXEQUIBLE.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "PROCESO ARBITRAL",
+      "subtema": "El deber de pagar honorarios y gastos para poder hacer valer sus derechos"
+    },
+    {
+      "tema": "MECANISMOS ALTERNATIVOS DE RESOLUCION DE CONFLICTOS",
+      "subtema": "Base constitucional"
+    },
+    {
+      "tema": "DERECHO DE ACCESO A LA ADMINISTRACION DE JUSTICIA Y MECANISMOS ALTERNATIVOS DE RESOLUCION DE CONFLICTOS",
+      "subtema": null
+    },
+    {
+      "tema": "INTERVENCION DE TERCERO EN PROCESO ARBITRAL",
+      "subtema": null
+    },
+    {
+      "tema": "JURISDICCION ARBITRAL",
+      "subtema": "Necesidad de habilitación"
+    },
+    {
+      "tema": "COSA JUZGADA EN PROCESO ARBITRAL",
+      "subtema": "Alcance"
+    }
+  ]
+}

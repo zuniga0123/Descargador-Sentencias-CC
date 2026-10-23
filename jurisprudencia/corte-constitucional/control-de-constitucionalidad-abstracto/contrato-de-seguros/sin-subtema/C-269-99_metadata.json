@@ -1,0 +1,75 @@
+{
+  "radicado": "C-269-99",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1999,
+  "fecha_creacion": "1999-04-28",
+  "magistrado_ponente": null,
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "CONTRATO DE SEGUROS",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 45 de 1990",
+    "Decreto 410 de 1972",
+    "Ley 49 de 1990"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1999/C-269-99.htm",
+  "fecha_descarga": "2026-10-23T05:10:36.384502+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1999-04-28",
+  "fecha_publicacion": "1999-05-18",
+  "numero": "C-269/99",
+  "tipo_cc": "C",
+  "prov_id": "15724",
+  "tema_relatoria": "TERMINACION AUTOMATICA DEL CONTRATO DE SEGURO.",
+  "resumen": "Demanda de inconstitucionalidad contra el artículo 82 de Ley 45 de 1990. La demanda sostiene que la norma acusada viola los principios de igualdad y debido proceso al eliminar la obligación de notificar al tomador del seguro sobre la terminación del contrato por mora en el pago de la prima, lo que pone en desventaja al tomador frente al asegurador e impide que el tomador, asegurado o beneficiario puedan defenderse y proteger su patrimonio. La Sala concluyó que la terminación automática del contrato de seguro por mora en el pago de la prima es constitucional, ya que protege los principios de buena fe, diligencia, equilibrio e igualdad entre las partes. Además, garantiza la estabilidad financiera del sector asegurador y no vulnera los derechos al debido proceso y defensa del tomador, asegurado o beneficiario, ya que las condiciones del contrato son conocidas por todas las partes desde su inicio. Por lo anterior, la Corte declaró exequible el artículo 82 de Ley 45 de 1990.",
+  "titulaciones": [
+    {
+      "tema": "CONTRATO DE SEGUROS",
+      "subtema": null
+    },
+    {
+      "tema": "CONTRATO DE SEGUROS",
+      "subtema": "Terminación automática"
+    },
+    {
+      "tema": "CONTRATO DE SEGUROS",
+      "subtema": "Elementos esenciales"
+    },
+    {
+      "tema": "PRINCIPIO DE LA BUENA FE",
+      "subtema": null
+    },
+    {
+      "tema": "CONTRATO DE SEGUROS Y PRINCIPIOS DE DILIGENCIA, EQUILIBRIO E IGUALDAD",
+      "subtema": null
+    },
+    {
+      "tema": "EXCEPTIO NON ADIMPLETI CONTRACTUS",
+      "subtema": null
+    },
+    {
+      "tema": "CONTRATO DE SEGUROS",
+      "subtema": "Partes o intervinientes"
+    },
+    {
+      "tema": "CONTRATO DE SEGUROS",
+      "subtema": "Terminación automática por mora en el pago de la prima"
+    },
+    {
+      "tema": "ACTIVIDAD ASEGURADORA",
+      "subtema": "Garantía del interés público"
+    },
+    {
+      "tema": "ACTIVIDAD ASEGURADORA",
+      "subtema": "Presupuestos constitucionales que rigen su desarrollo"
+    },
+    {
+      "tema": "LEGISLADOR",
+      "subtema": "Competencia para expedir normas en relación con contratos"
+    }
+  ]
+}

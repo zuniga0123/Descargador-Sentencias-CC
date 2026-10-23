@@ -1,0 +1,48 @@
+{
+  "radicado": "T-142-99",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1999,
+  "fecha_creacion": "1999-03-05",
+  "magistrado_ponente": "Dr CARLOS GAVIRIA DÍAZ",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "REGLAMENTO DE EVALUACION Y CLASIFICACION PARA EL PERSONAL DE LAS FUERZAS MILITARES",
+  "subtema": "Anotaciones de mérito en hoja de vida",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 1253 de 1988",
+    "Ley 200 de 1995",
+    "Decreto 85 de 1989",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1999/T-142-99.htm",
+  "fecha_descarga": "2026-10-23T05:01:03.207165+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1999-03-05",
+  "fecha_publicacion": null,
+  "numero": "T-142/99",
+  "tipo_cc": "T",
+  "prov_id": "15587",
+  "tema_relatoria": "DEBIDO PROCESO. TUTELA TEMERARIA. POSIBLE ALTERACION DE DOCUMENTOS. ANOTACIONES DE DEMERITO. CAPITAN. CONDENA EN COSTAS. NEGADA",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "REGLAMENTO DE EVALUACION Y CLASIFICACION PARA EL PERSONAL DE LAS FUERZAS MILITARES",
+      "subtema": "Anotaciones de mérito en hoja de vida"
+    },
+    {
+      "tema": "PROCURADURIA DELEGADA PARA LAS FUERZAS MILITARES",
+      "subtema": "Posible alteración de documentos"
+    },
+    {
+      "tema": "ACCION DE TUTELA TEMERARIA",
+      "subtema": "Condena en costas"
+    },
+    {
+      "tema": "ACCION DE TUTELA TEMERARIA",
+      "subtema": "Ejercicio oportuno del derecho de defensa"
+    }
+  ]
+}

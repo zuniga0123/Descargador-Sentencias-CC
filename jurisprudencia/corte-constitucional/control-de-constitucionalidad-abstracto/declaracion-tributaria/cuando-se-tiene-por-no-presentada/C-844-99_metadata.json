@@ -1,0 +1,40 @@
+{
+  "radicado": "C-844-99",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1999,
+  "fecha_creacion": "1999-10-27",
+  "magistrado_ponente": "Dr FABIO MORON DIAZ",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "DECLARACION TRIBUTARIA",
+  "subtema": "Cuando se tiene por no presentada",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2067 de 1991",
+    "Decreto 624 de 1989",
+    "Ley 49 de 1990",
+    "Ley 624 de 1989"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1999/C-844-99.htm",
+  "fecha_descarga": "2026-10-23T05:15:35.490312+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1999-10-27",
+  "fecha_publicacion": null,
+  "numero": "C-844/99",
+  "tipo_cc": "C",
+  "prov_id": "16321",
+  "tema_relatoria": "ESTATUTO TRIBUTARIO ARTS. 580 Y 650-1 OMISION REGISTRO EN PRESENTACION DECLARACIONES TRIBUTARIAS VER C-690/96 . EXEQUIBLE.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DECLARACION TRIBUTARIA",
+      "subtema": "Cuando se tiene por no presentada"
+    },
+    {
+      "tema": "INFORMACION TRIBUTARIA",
+      "subtema": "Finalidad"
+    }
+  ]
+}

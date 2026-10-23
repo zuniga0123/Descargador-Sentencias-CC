@@ -1,0 +1,50 @@
+{
+  "radicado": "C-002-99",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1999,
+  "fecha_creacion": "1999-01-20",
+  "magistrado_ponente": "Dr ANTONIO BARRERA CARBONELL",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "SUSTITUCIÓN PENSIONAL",
+  "subtema": "Reconocimiento retroactivo",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Decreto 1305 de 1975"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1999/C-002-99.htm",
+  "fecha_descarga": "2026-10-23T05:17:27.966924+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1999-01-20",
+  "fecha_publicacion": null,
+  "numero": "C-002/99",
+  "tipo_cc": "C",
+  "prov_id": "15436",
+  "tema_relatoria": "DEC. 1305/75. ART. 5 PARCIAL. SUSTITUCION PENSIONAL VITALICIA A LOS PADRES DE LOS SOLDADOS FALLECIDOS EN COMBATE. INEXEQUIBLE. SENTENCIA RETROACTIVA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "SUSTITUCIÓN PENSIONAL",
+      "subtema": "Reconocimiento retroactivo"
+    },
+    {
+      "tema": "SUSTITUCIÓN PENSIONAL",
+      "subtema": "Tratamiento diferente"
+    },
+    {
+      "tema": "SUSTITUCION PENSIONAL DE SOLDADO O GRUMETE",
+      "subtema": null
+    },
+    {
+      "tema": "SENTENCIA DE CONSTITUCIONALIDAD",
+      "subtema": "Efectos retroactivos"
+    },
+    {
+      "tema": "SUSTITUCIÓN PENSIONAL",
+      "subtema": "Finalidad"
+    }
+  ]
+}

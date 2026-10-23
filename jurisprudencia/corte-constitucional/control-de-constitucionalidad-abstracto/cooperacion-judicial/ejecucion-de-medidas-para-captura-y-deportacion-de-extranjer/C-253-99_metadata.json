@@ -1,0 +1,43 @@
+{
+  "radicado": "C-253-99",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1999,
+  "fecha_creacion": "1999-04-21",
+  "magistrado_ponente": "Dr JOSE GREGORIO HERNANDEZ GALINDO",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "COOPERACION JUDICIAL",
+  "subtema": "Ejecución de medidas para captura y deportación de extranjero",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2067 de 1991",
+    "Ley 333 de 1996",
+    "Ley 5 de 1992"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1999/C-253-99.htm",
+  "fecha_descarga": "2026-10-23T05:12:00.381882+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1999-04-21",
+  "fecha_publicacion": null,
+  "numero": "C-253/99",
+  "tipo_cc": "C",
+  "prov_id": "15706",
+  "tema_relatoria": "LEY 450/98. ACUERDO SOBRE ASISTENCIA LEGAL Y COOPERACION JUDICIAL MUTUA ENTRE EL GOBIERNO DE COLOMBIA Y EL DE PANAMA. EXEQUIBLES.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "COOPERACION JUDICIAL",
+      "subtema": "Ejecución de medidas para captura y deportación de extranjero"
+    },
+    {
+      "tema": "ACUERDO SOBRE ASISTENCIA LEGAL Y COOPERACION JUDICIAL MUTUA",
+      "subtema": "Solicitud y denegación de asistencia"
+    },
+    {
+      "tema": "ACUERDO SOBRE ASISTENCIA LEGAL Y COOPERACION JUDICIAL MUTUA",
+      "subtema": "Constitucionalidad"
+    }
+  ]
+}

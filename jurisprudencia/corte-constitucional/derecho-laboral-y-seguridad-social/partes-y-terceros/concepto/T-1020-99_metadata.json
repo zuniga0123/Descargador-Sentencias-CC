@@ -1,0 +1,53 @@
+{
+  "radicado": "T-1020-99",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1999,
+  "fecha_creacion": "1999-12-14",
+  "magistrado_ponente": "Dr FABIO MORON DIAZ",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "PARTES Y TERCEROS",
+  "subtema": "Concepto",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 50 de 1990",
+    "Decreto 2400 de 1968",
+    "Decreto 2591 de 1991",
+    "Decreto 2127 de 1945",
+    "Decreto 2067 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1999/T-1020-99.htm",
+  "fecha_descarga": "2026-10-23T05:00:21.423940+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1999-12-14",
+  "fecha_publicacion": null,
+  "numero": "T-1020/99",
+  "tipo_cc": "T",
+  "prov_id": "16515",
+  "tema_relatoria": "DEBIDO PROCESO.DER DEFENSA DER TRABAJO SUPRESION Y LIQUIDACION SECRETARIA OBRAS PUBLICAS PITALITO HUILA DER ASOC. SINDICAL FUERO SINDICAL.IMPOSIBLE ACCION REINTEGRO.NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "PARTES Y TERCEROS",
+      "subtema": "Concepto"
+    },
+    {
+      "tema": "REINTEGRO DE EMPLEADO PUBLICO CON FUERO SINDICAL",
+      "subtema": "Improcedencia cuando se debe a supresión del cargo por causa de reestructuración administrativa"
+    },
+    {
+      "tema": "DEBIDO PROCESO DE TUTELA",
+      "subtema": "Notificación de tercero interesado"
+    },
+    {
+      "tema": "REINTEGRO AL CARGO DE TRABAJADOR OFICIAL",
+      "subtema": "Improcedencia de quienes fueron indemnizados por supresión del cargo"
+    },
+    {
+      "tema": "REINTEGRO DE EMPLEADO PUBLICO CON FUERO SINDICAL",
+      "subtema": "Pago de indemnización impide que supresión del cargo produzca perjuicio irremediable"
+    }
+  ]
+}

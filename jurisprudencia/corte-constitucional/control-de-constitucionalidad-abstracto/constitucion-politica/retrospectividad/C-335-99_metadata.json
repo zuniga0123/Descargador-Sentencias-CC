@@ -1,0 +1,42 @@
+{
+  "radicado": "C-335-99",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1999,
+  "fecha_creacion": "1999-05-12",
+  "magistrado_ponente": "Dr VLADIMIRO NARANJO MESA",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "CONSTITUCION POLITICA",
+  "subtema": "Retrospectividad",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 43 de 1993",
+    "Ley 16 de 1972"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1999/C-335-99.htm",
+  "fecha_descarga": "2026-10-23T05:12:47.524543+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1999-05-12",
+  "fecha_publicacion": null,
+  "numero": "C-335/99",
+  "tipo_cc": "C",
+  "prov_id": "15793",
+  "tema_relatoria": "LEY 43/93. ART. 25. RECUPERACION DE LA NACIONALIDAD. EXEQUIBLE.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "CONSTITUCION POLITICA",
+      "subtema": "Retrospectividad"
+    },
+    {
+      "tema": "NACIONALIDAD",
+      "subtema": "Recuperación con arreglo a la ley"
+    },
+    {
+      "tema": "NACIONALIDAD",
+      "subtema": "Recuperación como derecho de libre disposición"
+    }
+  ]
+}

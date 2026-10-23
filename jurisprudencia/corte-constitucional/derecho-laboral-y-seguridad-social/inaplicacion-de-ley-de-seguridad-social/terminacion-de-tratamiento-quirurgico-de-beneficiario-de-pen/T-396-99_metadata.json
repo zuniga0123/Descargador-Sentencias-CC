@@ -1,0 +1,41 @@
+{
+  "radicado": "T-396-99",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1999,
+  "fecha_creacion": "1999-05-28",
+  "magistrado_ponente": "Dr EDUARDO CIFUENTES MUÑOZ",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "INAPLICACION DE LEY DE SEGURIDAD SOCIAL",
+  "subtema": "Terminación de tratamiento quirúrgico de beneficiario de pensión aunque hubiere cumplido mayoría de edad",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1999/T-396-99.htm",
+  "fecha_descarga": "2026-10-23T05:04:29.270992+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1999-05-28",
+  "fecha_publicacion": null,
+  "numero": "T-396/99",
+  "tipo_cc": "T",
+  "prov_id": "15863",
+  "tema_relatoria": "DER. A LA SALUD Y A LA VIDA. SUSPENSION DE TRATAMIENTO MEDICO POR EL I.S.S. POR LLEGAR EL BENEFICIARIO DE LA SUSTITUCION PENSIONAL A LA MAYORIA DE EDAD. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "INAPLICACION DE LEY DE SEGURIDAD SOCIAL",
+      "subtema": "Terminación de tratamiento quirúrgico de beneficiario de pensión aunque hubiere cumplido mayoría de edad"
+    },
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Culminación de tratamiento médico a beneficiario de pensión aunque hubiere cumplido mayoría de edad"
+    },
+    {
+      "tema": "PENSIÓN DE SOBREVIVIENTES",
+      "subtema": "Culminación de tratamiento médico a beneficiario aunque hubiere cumplido mayoría de edad"
+    }
+  ]
+}

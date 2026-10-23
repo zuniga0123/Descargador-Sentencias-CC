@@ -1,0 +1,80 @@
+{
+  "radicado": "C-671-99",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1999,
+  "fecha_creacion": "1999-09-09",
+  "magistrado_ponente": null,
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "FONDO MIXTO NACIONAL DE PROMOCION DE LA CULTURA Y LAS ARTES",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 397 de 1997",
+    "Ley 489 de 1998",
+    "Decreto 2067 de 1991",
+    "Decreto 3130 de 1968",
+    "Ley 130 de 1976",
+    "Decreto 130 de 1976",
+    "Ley 488 de 1990",
+    "Ley 498 de 1998"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1999/C-671-99.htm",
+  "fecha_descarga": "2026-10-23T05:23:36.069987+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1999-09-09",
+  "fecha_publicacion": null,
+  "numero": "C-671/99",
+  "tipo_cc": "C",
+  "prov_id": "16153",
+  "tema_relatoria": "LEY 397/97. ART. 63. LEY 489/98. ARTS. 95 Y 96 FONDOS MIXTOS DE PROMOCION DE LA CULTURA Y DE LAS ARTES. ASOCIACION DE ENTIDADES PUBLICAS. EXEQUIBLES E INEXEQUIBLE.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "FONDO MIXTO NACIONAL DE PROMOCION DE LA CULTURA Y LAS ARTES",
+      "subtema": null
+    },
+    {
+      "tema": "ASOCIACION ENTRE ENTIDADES PUBLICAS Y PERSONA JURIDICA SIN ANIMO DE LUCRO",
+      "subtema": "Improcedencia de sujeción a normas Código Civil"
+    },
+    {
+      "tema": "ASOCIACION DE MUNICIPIOS",
+      "subtema": null
+    },
+    {
+      "tema": "PRINCIPIO DE UNIDAD DE MATERIA",
+      "subtema": "Caso en que se presenta conexidad"
+    },
+    {
+      "tema": "PRINCIPIO DE UNIDAD DE MATERIA",
+      "subtema": "Finalidad"
+    },
+    {
+      "tema": "CULTURA EN LA CONSTITUCION POLITICA VIGENTE",
+      "subtema": null
+    },
+    {
+      "tema": "ASOCIACION DE ENTIDADES PUBLICAS CON PARTICULARES",
+      "subtema": null
+    },
+    {
+      "tema": "ASOCIACION ENTRE ENTIDADES PUBLICAS",
+      "subtema": null
+    },
+    {
+      "tema": "FEDERACION DE MUNICIPIOS",
+      "subtema": null
+    },
+    {
+      "tema": "ASOCIACION ENTRE ENTIDADES PUBLICAS Y PERSONA JURIDICA SIN ANIMO DE LUCRO",
+      "subtema": "Sujeción a normas del Código Civil"
+    },
+    {
+      "tema": "AUXILIOS O DONACIONES",
+      "subtema": "Excepción a la prohibición"
+    }
+  ]
+}

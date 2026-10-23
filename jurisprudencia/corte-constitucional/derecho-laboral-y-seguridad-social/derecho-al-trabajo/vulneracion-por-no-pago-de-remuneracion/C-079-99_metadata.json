@@ -1,0 +1,50 @@
+{
+  "radicado": "C-079-99",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1999,
+  "fecha_creacion": "1999-02-17",
+  "magistrado_ponente": "Dra MARTHA VICTORIA SACHICA MENDEZ",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "DERECHO AL TRABAJO",
+  "subtema": "Vulneración por no pago de remuneración",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 141 de 1961",
+    "Decreto 2351 de 1965"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1999/C-079-99.htm",
+  "fecha_descarga": "2026-10-23T05:11:08.479900+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1999-02-17",
+  "fecha_publicacion": "1999-03-04",
+  "numero": "C-079/99",
+  "tipo_cc": "C",
+  "prov_id": "15523",
+  "tema_relatoria": "INDEMNIZACION CUANDO A LA TERMINACION DEL CONTRATO EL PATRONO NO PAGA LOS SALARIOS Y PRESTACIONES DEBIDOS.",
+  "resumen": "Demanda de inconstitucionalidad contra el art. 65 (parcial) del Código Sustantivo del Trabajo. El actor señaló que la expresión “a la terminación del contrato” discrimina a los trabajadores con contrato de trabajo vigente, por impedir reclamar la indemnización moratoria generada por virtud del retardo del empleador en el pago del saldo adeudado por concepto de salarios y prestaciones sociales. La Corte concluyó que el criterio de diferenciación constituye razón suficiente para que el legislador lo constituyera de esa forma. Además, afirmó que conforme a la libertad de configuración normativa que tiene el legislador, consideró expedir regulaciones en sentido y términos diferentes en circunstancias similares, en cuanto tiene que ver con el no pago de salarios y prestaciones sociales, se encuentran fundamentadas sobre supuestos fácticos y jurídicos diferentes, lo que impide que el trato desigual adquiera la connotación de discriminatorio. La Corte declaró exequible la expresión contenida en el numeral 1 del art. 65 del Código Sustantivo del Trabajo.",
+  "titulaciones": [
+    {
+      "tema": "DERECHO AL TRABAJO",
+      "subtema": "Vulneración por no pago de remuneración"
+    },
+    {
+      "tema": "TRATAMIENTO DIFERENCIADO",
+      "subtema": "Alcance y condiciones"
+    },
+    {
+      "tema": "CONTRATO DE TRABAJO EN EJECUCION E INDEMNIZACION MORATORIA",
+      "subtema": "Improcedencia"
+    },
+    {
+      "tema": "INDEMNIZACION MORATORIA",
+      "subtema": "Finalidad"
+    },
+    {
+      "tema": "INDEMNIZACION MORATORIA",
+      "subtema": "Clases"
+    }
+  ]
+}

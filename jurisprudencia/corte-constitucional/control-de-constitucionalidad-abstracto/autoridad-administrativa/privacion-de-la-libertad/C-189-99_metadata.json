@@ -1,0 +1,74 @@
+{
+  "radicado": "C-189-99",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1999,
+  "fecha_creacion": "1999-03-24",
+  "magistrado_ponente": "Dr CARLOS GAVIRIA DÍAZ",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "AUTORIDAD ADMINISTRATIVA",
+  "subtema": "Privación de la libertad",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 1809 de 1990",
+    "Ley 228 de 1995",
+    "Ley 74 de 1968",
+    "Ley 16 de 1972",
+    "Ley 1344 de 1970",
+    "Ley 1355 de 1970"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1999/C-189-99.htm",
+  "fecha_descarga": "2026-10-23T05:19:03.260207+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1999-03-24",
+  "fecha_publicacion": null,
+  "numero": "C-189/99",
+  "tipo_cc": "C",
+  "prov_id": "15639",
+  "tema_relatoria": "DEC. 1809/90. ARTS. 158 Y 182 PARCIALES. ARRESTO DE CONDUCTOR EMBRIAGADO. INEXEQUIBLES.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "AUTORIDAD ADMINISTRATIVA",
+      "subtema": "Privación de la libertad"
+    },
+    {
+      "tema": "NORMA DE TRANSITO",
+      "subtema": "Conductores pueden ser arrestados por infringirlas"
+    },
+    {
+      "tema": "PRIVACION DE LA LIBERTAD",
+      "subtema": "Competencia de autoridades judiciales"
+    },
+    {
+      "tema": "NORMA DE TRANSITO",
+      "subtema": "Conductores no pueden ser arrestados por infringirlas"
+    },
+    {
+      "tema": "CODIGO NACIONAL DE TRANSITO TERRESTRE",
+      "subtema": null
+    },
+    {
+      "tema": "ARRESTO",
+      "subtema": "Conductores"
+    },
+    {
+      "tema": "CODIGO NACIONAL DE TRANSITO TERRESTRE Y LIBERTAD DE LOCOMOCION",
+      "subtema": "Límites y regulación"
+    },
+    {
+      "tema": "NORMA DE TRANSITO",
+      "subtema": "Carácter preventivo"
+    },
+    {
+      "tema": "DERECHO A LA LIBERTAD",
+      "subtema": "No es absoluto"
+    },
+    {
+      "tema": "POLICIA ADMINISTRATIVA",
+      "subtema": "Función preventiva"
+    }
+  ]
+}

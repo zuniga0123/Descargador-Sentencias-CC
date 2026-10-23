@@ -1,0 +1,72 @@
+{
+  "radicado": "C-383-99",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1999,
+  "fecha_creacion": "1999-05-27",
+  "magistrado_ponente": "Dr.ALFREDO BELTRÁN SIERRA",
+  "area": "Derecho Constitucional Económico",
+  "tema": "DERECHO A LA VIVIENDA DIGNA Y UPAC",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 31 de 1992",
+    "Decreto 2067 de 1991",
+    "Ley 45 de 1990",
+    "Decreto 756 de 1951",
+    "Ley 21 de 1963",
+    "Ley 5 de 1992",
+    "Decreto 1131 de 1984",
+    "Decreto 1319 de 1988"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1999/C-383-99.htm",
+  "fecha_descarga": "2026-10-23T05:21:26.522763+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1999-05-27",
+  "fecha_publicacion": null,
+  "numero": "C-383/99",
+  "tipo_cc": "C",
+  "prov_id": "15851",
+  "tema_relatoria": "LEY 31/92. ART. 16 PARCIAL. ATRIBUCIONES DEL BANCO DE LA REPUBLICA. UPAC. INEXEQUIBLE.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA VIVIENDA DIGNA Y UPAC",
+      "subtema": null
+    },
+    {
+      "tema": "DEMOCRATIZACION DEL CREDITO",
+      "subtema": null
+    },
+    {
+      "tema": "BANCO DE LA REPUBLICA",
+      "subtema": "Autonomía para establecer valor UPAC"
+    },
+    {
+      "tema": "MUNICIPIO",
+      "subtema": "Pago de salarios previa disponibilidad presupuestal o inicio de diligencias para su consecución"
+    },
+    {
+      "tema": "DERECHO A LA VIVIENDA DIGNA",
+      "subtema": null
+    },
+    {
+      "tema": "PRINCIPIO DE EQUIDAD Y CORRECCION MONETARIA",
+      "subtema": null
+    },
+    {
+      "tema": "BANCO DE LA REPUBLICA",
+      "subtema": "Autonomía técnica"
+    },
+    {
+      "tema": "UPAC",
+      "subtema": "Determinación del valor por ley tomando en cuenta tasa de interés del mercado"
+    },
+    {
+      "tema": "UPAC",
+      "subtema": "Determinación del valor no podrá tener en cuenta tasa de interés del mercado"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "radicado": "T-212-99",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1999,
+  "fecha_creacion": "1999-04-13",
+  "magistrado_ponente": "Dr FABIO MORÓN DÍAZ",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "DERECHO A LA VIDA",
+  "subtema": "Protección no puede supeditarse a que se pruebe la real existencia de la amenaza",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 1645 de 1992",
+    "Ley 2591 de 1991",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1999/T-212-99.htm",
+  "fecha_descarga": "2026-10-23T05:02:20.391240+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1999-04-13",
+  "fecha_publicacion": null,
+  "numero": "T-212/99",
+  "tipo_cc": "T",
+  "prov_id": "15664",
+  "tema_relatoria": "DER. A LA VIDA E INTEGRIDAD PERSONAL. TRASLADO DE DOCENTE POR AMENAZA DE PARAMILITARES. HECHO SUPERADO. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA VIDA",
+      "subtema": "Protección no puede supeditarse a que se pruebe la real existencia de la amenaza"
+    },
+    {
+      "tema": "COMITE DEPARTAMENTAL DE DOCENTES AMENAZADOS",
+      "subtema": "No aceptación de traslado"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Carencia actual de objeto"
+    },
+    {
+      "tema": "DERECHOS FUNDAMENTALES",
+      "subtema": "Distinción entre amenaza y vulneración"
+    },
+    {
+      "tema": "JUEZ DE TUTELA",
+      "subtema": "Función ante amenaza o vulneración de derechos fundamentales"
+    }
+  ]
+}

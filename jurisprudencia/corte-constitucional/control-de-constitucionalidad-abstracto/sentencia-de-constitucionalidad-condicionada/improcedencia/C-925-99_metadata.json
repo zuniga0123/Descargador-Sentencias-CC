@@ -1,0 +1,45 @@
+{
+  "radicado": "C-925-99",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1999,
+  "fecha_creacion": "1999-11-18",
+  "magistrado_ponente": "Dr VLADIMIRO NARANJO MESA",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "SENTENCIA DE CONSTITUCIONALIDAD CONDICIONADA",
+  "subtema": "Improcedencia",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2282 de 1989",
+    "Decreto 2067 de 1991",
+    "Decreto Ley 1400 de 1970",
+    "Decreto Ley 2282 de 1989",
+    "Ley 105 de 1931"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1999/C-925-99.htm",
+  "fecha_descarga": "2026-10-23T05:16:23.727505+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1999-11-18",
+  "fecha_publicacion": null,
+  "numero": "C-925/99",
+  "tipo_cc": "C",
+  "prov_id": "16412",
+  "tema_relatoria": "C. P. C. ARTS 327 Y 424 PARCIAL. NOTIFICACIONES DE LAS MEDIDAS CAUTELARES. RESTITUCION DE INMUEBLE ARRENDADO. NOTIFICACION CON FIJACION DE AVISO LUGAR ACCESO INMUEBLE. EXEQUIBLE. E INEXEQUIBLE.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "SENTENCIA DE CONSTITUCIONALIDAD CONDICIONADA",
+      "subtema": "Improcedencia"
+    },
+    {
+      "tema": "MEDIDAS CAUTELARES",
+      "subtema": "Momento en que se deben decretar y practicar"
+    },
+    {
+      "tema": "RESTITUCION DE BIEN INMUEBLE ARRENDADO",
+      "subtema": "Notificación personal del auto admisorio de demanda"
+    }
+  ]
+}

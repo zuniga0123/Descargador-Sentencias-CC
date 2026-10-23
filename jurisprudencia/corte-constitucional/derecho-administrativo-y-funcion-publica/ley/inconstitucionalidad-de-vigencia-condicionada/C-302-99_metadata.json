@@ -1,0 +1,59 @@
+{
+  "radicado": "C-302-99",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1999,
+  "fecha_creacion": "1999-05-05",
+  "magistrado_ponente": "Carlos Gaviria Diaz",
+  "area": "Derecho Administrativo y Función Pública",
+  "tema": "LEY",
+  "subtema": "Inconstitucionalidad de vigencia condicionada",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 443 de 1998",
+    "Ley 190 de 1995",
+    "Ley 4 de 1913"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1999/C-302-99.htm",
+  "fecha_descarga": "2026-10-23T05:20:49.778315+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1999-05-05",
+  "fecha_publicacion": null,
+  "numero": "C-302/99",
+  "tipo_cc": "C",
+  "prov_id": "15758",
+  "tema_relatoria": "LEY 443/98. ART. 83 INC. 1. REGIMEN DE TRANSICION EN CARRERA ADMINISTRATIVA. EXEQUIBLE.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "LEY",
+      "subtema": "Inconstitucionalidad de vigencia condicionada"
+    },
+    {
+      "tema": "LEY",
+      "subtema": "Vigencia sincrónica"
+    },
+    {
+      "tema": "POTESTAD REGLAMENTARIA",
+      "subtema": "Límites"
+    },
+    {
+      "tema": "POTESTAD REGLAMENTARIA",
+      "subtema": "Puede ejercerse en cualquier tiempo"
+    },
+    {
+      "tema": "LEY DE CARRERA ADMINISTRATIVA",
+      "subtema": "Vigencia condicionada"
+    },
+    {
+      "tema": "LEY",
+      "subtema": "Fijación de fecha en que empieza a regir"
+    },
+    {
+      "tema": "LEY",
+      "subtema": "Vigencia sucesiva"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "radicado": "C-155-99",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1999,
+  "fecha_creacion": "1999-03-10",
+  "magistrado_ponente": "Dr VLADIMIRO NARANJO MESA",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "INCONSTITUCIONALIDAD SOBREVINIENTE",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 153 de 1887",
+    "Decreto Ley 960 de 1970",
+    "Ley 960 de 1970",
+    "Decreto 2067 de 1991",
+    "Decreto 960 de 1970",
+    "Ley 29 de 1973"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1999/C-155-99.htm",
+  "fecha_descarga": "2026-10-23T05:18:34.048915+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1999-03-10",
+  "fecha_publicacion": null,
+  "numero": "C-155/99",
+  "tipo_cc": "C",
+  "prov_id": "15599",
+  "tema_relatoria": "DEC. 960/70. ART. 146 PARCIAL. REQUISITOS PARA SER NOTARIO EN PROPIEDAD. INEXEQUIBLE.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "INCONSTITUCIONALIDAD SOBREVINIENTE",
+      "subtema": null
+    },
+    {
+      "tema": "PRINCIPIO DE APLICACION INMEDIATA DE LA CONSTITUCION",
+      "subtema": null
+    },
+    {
+      "tema": "DEROGACION TACITA DE NORMAS PRECONSTITUCIONALES POR INCONSTITUCIONALIDAD SOBREVINIENTE",
+      "subtema": null
+    },
+    {
+      "tema": "CONCURSO NOTARIAL INCLUYE NOTARIO EN PROPIEDAD",
+      "subtema": "No pueden alegarse derechos adquiridos"
+    },
+    {
+      "tema": "CORTE CONSTITUCIONAL",
+      "subtema": "Necesidad de pronunciamiento sobre norma derogada tácitamente"
+    }
+  ]
+}

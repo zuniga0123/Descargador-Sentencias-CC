@@ -1,0 +1,52 @@
+{
+  "radicado": "C-815-99",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1999,
+  "fecha_creacion": "1999-10-20",
+  "magistrado_ponente": "Dr JOSE GREGORIO HERNANDEZ GALINDO",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "SALARIO MINIMO",
+  "subtema": "Criterios para fijarlo",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 31 de 1992",
+    "Ley 278 de 1996",
+    "Decreto 2067 de 1991",
+    "Decreto 2879 de 1985"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1999/C-815-99.htm",
+  "fecha_descarga": "2026-10-23T05:15:24.591056+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1999-10-20",
+  "fecha_publicacion": null,
+  "numero": "C-815/99",
+  "tipo_cc": "C",
+  "prov_id": "16290",
+  "tema_relatoria": "LEY 278/96 ART 8 FACTORES SALARIALES PARA FIJACION SALARIO MINIMO. SUJECION AL IPC. EXEQUIBLE.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "SALARIO MINIMO",
+      "subtema": "Criterios para fijarlo"
+    },
+    {
+      "tema": "SALARIO MINIMO",
+      "subtema": "Carácter subsidiario de la fijación gubernamental"
+    },
+    {
+      "tema": "COMISION PERMANENTE DE CONCERTACION DE POLITICAS SALARIALES Y LABORALES",
+      "subtema": null
+    },
+    {
+      "tema": "SALARIO MINIMO",
+      "subtema": "Improcedencia de sentencia condicionada"
+    },
+    {
+      "tema": "SALARIO MINIMO",
+      "subtema": "Búsqueda de consenso para fijación"
+    }
+  ]
+}

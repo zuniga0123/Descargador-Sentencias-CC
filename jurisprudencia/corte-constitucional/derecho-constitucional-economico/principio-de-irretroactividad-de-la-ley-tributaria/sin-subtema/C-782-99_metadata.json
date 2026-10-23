@@ -1,0 +1,52 @@
+{
+  "radicado": "C-782-99",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1999,
+  "fecha_creacion": "1999-10-13",
+  "magistrado_ponente": "Dr JOSE GREGORIO HERNANDEZ GALINDO",
+  "area": "Derecho Constitucional Económico",
+  "tema": "PRINCIPIO DE IRRETROACTIVIDAD DE LA LEY TRIBUTARIA",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 418 de 1997",
+    "Ley 104 de 1993",
+    "Ley 241 de 1995",
+    "Decreto 2067 de 1991",
+    "Decreto 2009 de 1992",
+    "Ley 80 de 1993",
+    "Decreto 1793 de 1992",
+    "Ley 124 de 1993"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1999/C-782-99.htm",
+  "fecha_descarga": "2026-10-23T05:15:17.169507+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1999-10-13",
+  "fecha_publicacion": null,
+  "numero": "C-782/99",
+  "tipo_cc": "C",
+  "prov_id": "16259",
+  "tema_relatoria": "LEY 241/95 ART 62. LEY 104/93 ART 123. LEY 418/97 ART.120. REGIMEN TRIBUTARIO CONTRIBUCION ESPECIAL POR CONTRATOS DE ADICION. PRINCIPIO DE IRRETROACTIVIDAD EN MATERIA TRIBUTARIA EXEQUIBLE E INHIBITORIA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "PRINCIPIO DE IRRETROACTIVIDAD DE LA LEY TRIBUTARIA",
+      "subtema": null
+    },
+    {
+      "tema": "ADICION CONTRACTUAL",
+      "subtema": "Contribución especial"
+    },
+    {
+      "tema": "JUICIO DE CONSTITUCIONALIDAD",
+      "subtema": "Norma extraordinaria transitoria y disposición legal transitoria"
+    },
+    {
+      "tema": "COSA JUZGADA",
+      "subtema": "Inexistencia"
+    }
+  ]
+}

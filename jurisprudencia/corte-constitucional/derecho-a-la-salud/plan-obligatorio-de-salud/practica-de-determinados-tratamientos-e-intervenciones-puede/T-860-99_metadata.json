@@ -1,0 +1,47 @@
+{
+  "radicado": "T-860-99",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1999,
+  "fecha_creacion": "1999-10-28",
+  "magistrado_ponente": "Dr CARLOS GAVIRIA DÍAZ",
+  "area": "Derecho a la Salud",
+  "tema": "PLAN OBLIGATORIO DE SALUD",
+  "subtema": "Práctica de determinados tratamientos e intervenciones pueden condicionarse a un mínimo de semanas de cotización",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1999/T-860-99.htm",
+  "fecha_descarga": "2026-10-23T05:09:33.664123+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1999-10-28",
+  "fecha_publicacion": null,
+  "numero": "T-860/99",
+  "tipo_cc": "T",
+  "prov_id": "16343",
+  "tema_relatoria": "TUTELA CONTRA EPS SALUD TOTAL. PRACTICA DE EXAMENES PREQUIRURGICOS. CATARATAS OJO DERECHO. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "PLAN OBLIGATORIO DE SALUD",
+      "subtema": "Práctica de determinados tratamientos e intervenciones pueden condicionarse a un mínimo de semanas de cotización"
+    },
+    {
+      "tema": "INAPLICACION DE NORMAS DEL PLAN OBLIGATORIO DE SALUD",
+      "subtema": "Periodo mínimo de cotización para acceder a tratamientos e intervenciones"
+    },
+    {
+      "tema": "DERECHO A LA VIDA DIGNA",
+      "subtema": "Contenido"
+    },
+    {
+      "tema": "DERECHO A LA VIDA DIGNA",
+      "subtema": "Práctica de examen y cirugía de cataratas sin cumplir periodo mínimo de cotización señalado por el POS"
+    },
+    {
+      "tema": "SUBCUENTA DEL FONDO DE SOLIDARIDAD Y GARANTIA DEL SISTEMA GENERAL DE SEGURIDAD SOCIAL EN SALUD",
+      "subtema": "Repetición de EPS por cubrimientos de tratamiento sometido a periodo mínimo de cotización"
+    }
+  ]
+}

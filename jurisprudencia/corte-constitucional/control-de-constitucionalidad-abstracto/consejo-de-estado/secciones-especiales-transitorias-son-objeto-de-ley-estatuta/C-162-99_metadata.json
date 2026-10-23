@@ -1,0 +1,48 @@
+{
+  "radicado": "C-162-99",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1999,
+  "fecha_creacion": "1999-03-17",
+  "magistrado_ponente": "Dr EDUARDO CIFUENTES MUÑOZ",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "CONSEJO DE ESTADO",
+  "subtema": "Secciones especiales transitorias son objeto de ley estatutaria",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 270 de 1996",
+    "Ley 446 de 1998",
+    "Decreto 2651 de 1991",
+    "Decreto 2279 de 1989"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1999/C-162-99.htm",
+  "fecha_descarga": "2026-10-23T05:19:44.043862+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1999-03-17",
+  "fecha_publicacion": null,
+  "numero": "C-162/99",
+  "tipo_cc": "C",
+  "prov_id": "15612",
+  "tema_relatoria": "LEY 446/98. ART. 62 PARCIAL. SECCIONES ESPECIALES TRANSITORIAS EN EL CONSEJO DE ESTADO Y EN TRIBUNALES ADTIVOS. RESERVA DE LEY ESTATUTARIA. EXEQUIBLE E INEXEQUIBLE",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "CONSEJO DE ESTADO",
+      "subtema": "Secciones especiales transitorias son objeto de ley estatutaria"
+    },
+    {
+      "tema": "LEY ESTATUTARIA DE ADMINISTRACION DE JUSTICIA",
+      "subtema": "Solución a problemas de congestión"
+    },
+    {
+      "tema": "RESERVA DE LEY ESTATUTARIA",
+      "subtema": "Regulación de materia estatutaria por ley ordinaria quebranta por omisión la Constitución"
+    },
+    {
+      "tema": "TRIBUNAL ADMINISTRATIVO",
+      "subtema": "Secciones especiales transitorias"
+    }
+  ]
+}

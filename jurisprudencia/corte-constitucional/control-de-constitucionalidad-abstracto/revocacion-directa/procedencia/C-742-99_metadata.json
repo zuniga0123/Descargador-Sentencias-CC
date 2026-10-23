@@ -1,0 +1,51 @@
+{
+  "radicado": "C-742-99",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1999,
+  "fecha_creacion": "1999-10-06",
+  "magistrado_ponente": "Dr JOSE GREGORIO HERNANDEZ GALINDO",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "REVOCACION DIRECTA",
+  "subtema": "Procedencia",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto Ley 1 de 1984",
+    "Decreto 2067 de 1991",
+    "Ley 58 de 1982"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1999/C-742-99.htm",
+  "fecha_descarga": "2026-10-23T05:24:01.928495+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1999-10-06",
+  "fecha_publicacion": null,
+  "numero": "C-742/99",
+  "tipo_cc": "C",
+  "prov_id": "16236",
+  "tema_relatoria": "DEC LEY 01/84 ART.70 C.C.A. IMPROCEDENCIA DE REVOCACION DIRECTA DE ACTOS ADTVOS. SI EL PETICIONARIO INTERPUSO RECURSOS DE VIA GUBERNATIVA REVOCATORIA DIRECTA. EXEQUIBLE",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "REVOCACION DIRECTA",
+      "subtema": "Procedencia"
+    },
+    {
+      "tema": "LIBERTAD DE CONFIGURACION LEGISLATIVA EN RECURSOS",
+      "subtema": null
+    },
+    {
+      "tema": "REVOCACION DIRECTA",
+      "subtema": "Naturaleza"
+    },
+    {
+      "tema": "REVOCACION DIRECTA",
+      "subtema": "Improcedencia si se han ejercitado recursos en vía gubernativa"
+    },
+    {
+      "tema": "REVOCACION DIRECTA",
+      "subtema": "Finalidad"
+    }
+  ]
+}

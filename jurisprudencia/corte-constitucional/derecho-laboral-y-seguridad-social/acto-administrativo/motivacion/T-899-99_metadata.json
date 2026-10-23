@@ -1,0 +1,54 @@
+{
+  "radicado": "T-899-99",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1999,
+  "fecha_creacion": "1999-11-16",
+  "magistrado_ponente": "Dr ALEJANDRO MARTINEZ CABALLERO",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "ACTO ADMINISTRATIVO",
+  "subtema": "Motivación",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 270 de 1996"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1999/T-899-99.htm",
+  "fecha_descarga": "2026-10-23T05:08:01.517846+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1999-11-16",
+  "fecha_publicacion": null,
+  "numero": "T-899/99",
+  "tipo_cc": "T",
+  "prov_id": "16389",
+  "tema_relatoria": "DERECHO AL TRABAJO. ESTADO SOCIAL DE DERECHO. DEBIDO PROCESO. COLISION DE COMPETENCIAS ADTIVAS. REINSTALACION PARA EX JUEZ QUE HABIA SIDO PENSIONADO POR INVALIDEZ Y LUEGO LO CALIFICAN COMO NO INVALIDO. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACTO ADMINISTRATIVO",
+      "subtema": "Motivación"
+    },
+    {
+      "tema": "CARRERA JUDICIAL",
+      "subtema": "Competencia para la reglamentación"
+    },
+    {
+      "tema": "REINSTALACION EN EL EMPLEO",
+      "subtema": "Improcedencia de tutela"
+    },
+    {
+      "tema": "DEBIDO PROCESO",
+      "subtema": "Omisión de actuación que oficiosamente ha debido efectuarse"
+    },
+    {
+      "tema": "REINSTALACION EN EL EMPLEO",
+      "subtema": "Exfuncionario judicial que gozaba de pensión de invalidez"
+    },
+    {
+      "tema": "SISTEMA DE CARRERA",
+      "subtema": "Mérito como elemento esencial"
+    }
+  ]
+}

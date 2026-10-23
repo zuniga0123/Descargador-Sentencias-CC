@@ -1,0 +1,44 @@
+{
+  "radicado": "C-274-99",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1999,
+  "fecha_creacion": "1999-04-28",
+  "magistrado_ponente": "Dr EDUARDO CIFUENTES MUÑOZ",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "BENEFICIO TRIBUTARIO",
+  "subtema": "Excluidas ventas provenientes de ejercicio de profesiones liberales y servicios inherentes a las mismas",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 10 de 1991",
+    "Ley 383 de 1997",
+    "Ley 337 de 1998",
+    "Ley 338 de 1997"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1999/C-274-99.htm",
+  "fecha_descarga": "2026-10-23T05:12:14.801557+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1999-04-28",
+  "fecha_publicacion": null,
+  "numero": "C-274/99",
+  "tipo_cc": "C",
+  "prov_id": "15729",
+  "tema_relatoria": "LEY 383/97. ART. 44. EXCLUSION DE RENTAS PROVENIENTES DEL EJERCICIO DE PROFESIONES LIBERALES. EXEQUIBLE.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "BENEFICIO TRIBUTARIO",
+      "subtema": "Excluidas ventas provenientes de ejercicio de profesiones liberales y servicios inherentes a las mismas"
+    },
+    {
+      "tema": "COMPETENCIA DEL CONGRESO PARA ESTABLECER, MODIFICAR O SUPRIMIR CONTRIBUCIONES FISCALES",
+      "subtema": null
+    },
+    {
+      "tema": "PRINCIPIO DE UNIDAD DE MATERIA",
+      "subtema": "Alcance"
+    }
+  ]
+}

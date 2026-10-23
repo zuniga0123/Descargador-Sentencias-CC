@@ -1,0 +1,53 @@
+{
+  "radicado": "T-366-99",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1999,
+  "fecha_creacion": "1999-05-25",
+  "magistrado_ponente": "Dr JOSE GREGORIO HERNANDEZ GALINDO",
+  "area": "Derecho a la Salud",
+  "tema": "DERECHO A LA SALUD",
+  "subtema": "Incorpora el derecho al diagnóstico",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1999/T-366-99.htm",
+  "fecha_descarga": "2026-10-23T05:04:00.897748+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1999-05-25",
+  "fecha_publicacion": null,
+  "numero": "T-366/99",
+  "tipo_cc": "T",
+  "prov_id": "15829",
+  "tema_relatoria": "DER. AL DIAGNOSTICO. ORDEN AL I.S.S. PARA PRACTICAR EXAMENES QUE PUEDAN DETERMINAR SI PADECE DE ENFERMEDADES QUE PONGAN EN PELIGRO LA VIDA. OIDOS. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Incorpora el derecho al diagnóstico"
+    },
+    {
+      "tema": "PREVENCION EN TUTELA",
+      "subtema": "Finalidad"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Procedencia por permanencia de hechos que dieron lugar a la presentación"
+    },
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Práctica inmediata e íntegra de exámenes ordenados"
+    },
+    {
+      "tema": "SENTENCIA INHIBITORIA EN TUTELA",
+      "subtema": "Improcedencia"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "No se configura carencia actual de objeto por permanencia de los hechos"
+    }
+  ]
+}

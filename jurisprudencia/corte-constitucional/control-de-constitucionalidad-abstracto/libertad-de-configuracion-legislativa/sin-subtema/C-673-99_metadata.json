@@ -1,0 +1,64 @@
+{
+  "radicado": "C-673-99",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1999,
+  "fecha_creacion": "1999-09-09",
+  "magistrado_ponente": "Dr ANTONIO BARRERA CARBONELL",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "LIBERTAD DE CONFIGURACIÓN LEGISLATIVA",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 160 de 1994",
+    "Ley 135 de 1961",
+    "Ley 30 de 1988",
+    "Ley 434 de 1998"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1999/C-673-99.htm",
+  "fecha_descarga": "2026-10-23T05:14:32.413160+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1999-09-09",
+  "fecha_publicacion": null,
+  "numero": "C-673/99",
+  "tipo_cc": "C",
+  "prov_id": "16155",
+  "tema_relatoria": "LEY 160/94. ART. 12 N° 20. FUNCIONES DEL INCORA. INEXEQUIBLE.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "LIBERTAD DE CONFIGURACIÓN LEGISLATIVA",
+      "subtema": null
+    },
+    {
+      "tema": "INCORA",
+      "subtema": "Adquisición de predios invadidos de hecho"
+    },
+    {
+      "tema": "PREDIO RURAL",
+      "subtema": "Adquisición por el INCORA dependiendo del tiempo de ocupación"
+    },
+    {
+      "tema": "PROPOSICION JURIDICA COMPLETA",
+      "subtema": "Integración"
+    },
+    {
+      "tema": "ADQUISICION DE PREDIOS INVADIDOS",
+      "subtema": "Tratamiento diferenciado"
+    },
+    {
+      "tema": "INCORA",
+      "subtema": "Competencia restrictiva para adquisición de predios invadidos"
+    },
+    {
+      "tema": "PREDIO RURAL",
+      "subtema": "Invasión de hecho"
+    },
+    {
+      "tema": "PRINCIPIO DE IGUALDAD",
+      "subtema": "Tratamiento desigual"
+    }
+  ]
+}

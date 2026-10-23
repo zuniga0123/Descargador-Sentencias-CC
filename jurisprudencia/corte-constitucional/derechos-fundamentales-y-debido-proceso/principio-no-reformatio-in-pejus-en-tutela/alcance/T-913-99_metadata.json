@@ -1,0 +1,62 @@
+{
+  "radicado": "T-913-99",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1999,
+  "fecha_creacion": "1999-11-18",
+  "magistrado_ponente": "Dr JOSE GREGORIO HERNANDEZ GALINDO",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "PRINCIPIO NO REFORMATIO IN PEJUS EN TUTELA",
+  "subtema": "Alcance",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 30 de 1992"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1999/T-913-99.htm",
+  "fecha_descarga": "2026-10-23T05:08:29.929067+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1999-11-18",
+  "fecha_publicacion": null,
+  "numero": "T-913/99",
+  "tipo_cc": "T",
+  "prov_id": "16413",
+  "tema_relatoria": "DER EDUCACION DEBIDO PROCESO DER A IGUALDAD.UNIVERSIDAD QUINDIO. CREAD DE CUBA. PAGO MATRICULA NO PUEDE SER DOBLE. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "PRINCIPIO NO REFORMATIO IN PEJUS EN TUTELA",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "PRINCIPIO DE LA BUENA FE",
+      "subtema": "Ambito de acción"
+    },
+    {
+      "tema": "DEBIDO PROCESO EN SERVICIO PUBLICO DE EDUCACION SUPERIOR",
+      "subtema": "Aplicación retroactiva de actos administrativos posteriores a los hechos"
+    },
+    {
+      "tema": "INSTITUCION UNIVERSITARIA",
+      "subtema": "Protección de derechos constitucionales en las relaciones económicas"
+    },
+    {
+      "tema": "PRINCIPIO NO REFORMATIO IN PEJUS",
+      "subtema": "No se limita exclusivamente al campo penal"
+    },
+    {
+      "tema": "PRINCIPIO DE LA BUENA FE EN SERVICIO PUBLICO DE EDUCACION SUPERIOR",
+      "subtema": "Pago valor de matrícula a quien consideraban autorizado"
+    },
+    {
+      "tema": "DERECHO A LA IGUALDAD EN SERVICIO PUBLICO DE EDUCACION SUPERIOR",
+      "subtema": "Preservación de integridad de derechos económicos"
+    },
+    {
+      "tema": "DERECHO A LA EDUCACIÓN",
+      "subtema": "Condicionamiento de entrega de certificaciones al pago de matrícula ya cancelada a quien consideraban autorizado"
+    }
+  ]
+}

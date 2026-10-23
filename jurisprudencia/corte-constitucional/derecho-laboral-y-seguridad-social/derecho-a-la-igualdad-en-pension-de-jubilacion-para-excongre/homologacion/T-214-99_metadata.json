@@ -1,0 +1,50 @@
+{
+  "radicado": "T-214-99",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1999,
+  "fecha_creacion": "1999-04-13",
+  "magistrado_ponente": "Dr VLADIMIRO NARANJO MESA",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "DERECHO A LA IGUALDAD EN PENSION DE JUBILACION PARA EXCONGRESISTA Y EXMAGISTRADO",
+  "subtema": "Homologación",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 1359 de 1993",
+    "Decreto 2591 de 1991",
+    "Decreto 104 de 1994",
+    "Ley 71 de 1988",
+    "Ley 33 de 1985",
+    "Decreto 47 de 1995"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1999/T-214-99.htm",
+  "fecha_descarga": "2026-10-23T05:02:27.594169+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1999-04-13",
+  "fecha_publicacion": null,
+  "numero": "T-214/99",
+  "tipo_cc": "T",
+  "prov_id": "15666",
+  "tema_relatoria": "DER. A LA IGUALDAD. SOLICITUD DE RELIQUIDACION DE PENSION DE JUBILACION. TUTELA TRANSITORIA. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA IGUALDAD EN PENSION DE JUBILACION PARA EXCONGRESISTA Y EXMAGISTRADO",
+      "subtema": "Homologación"
+    },
+    {
+      "tema": "ACCION DE TUTELA TRANSITORIA",
+      "subtema": "Discriminación en reliquidación pensional en persona de la tercera edad con enfermedad terminal"
+    },
+    {
+      "tema": "PENSION DE JUBILACION DE EXCONGRESISTA Y EXMAGISTRADO",
+      "subtema": "Homologación también para el reajuste"
+    },
+    {
+      "tema": "PENSION DE JUBILACION DE EXCONGRESISTA",
+      "subtema": "Efectos"
+    }
+  ]
+}

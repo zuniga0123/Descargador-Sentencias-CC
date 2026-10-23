@@ -1,0 +1,49 @@
+{
+  "radicado": "C-867-99",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1999,
+  "fecha_creacion": "1999-11-03",
+  "magistrado_ponente": "Dr FABIO MORON DIAZ",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "EXHORTACION AL CONGRESO",
+  "subtema": "Crímenes de lesa humanidad",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 85 de 1989",
+    "Decreto 2067 de 1991",
+    "Ley 200 de 1995",
+    "Decreto Ley 100 de 1980",
+    "Decreto 2584 de 1993"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1999/C-867-99.htm",
+  "fecha_descarga": "2026-10-23T05:15:46.588760+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1999-11-03",
+  "fecha_publicacion": null,
+  "numero": "C-867/99",
+  "tipo_cc": "C",
+  "prov_id": "16348",
+  "tema_relatoria": "DEC.083/85.ARTS 75142143184185. REGIMEN DISCIPLINARIO FUERZAS MILITARES. INCONSTITUCIONALIDAD POR OMISION LEGISLATIVA ABSOLUTA POR FALTA DE COMPETENCIA DELITOS DE LESA HUMANIDAD INHIBIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "EXHORTACION AL CONGRESO",
+      "subtema": "Crímenes de lesa humanidad"
+    },
+    {
+      "tema": "OMISION LEGISLATIVA ABSOLUTA",
+      "subtema": "Incompetencia de la Corte Constitucional"
+    },
+    {
+      "tema": "OMISION LEGISLATIVA ABSOLUTA",
+      "subtema": "Alcance de la competencia"
+    },
+    {
+      "tema": "OMISION LEGISLATIVA ABSOLUTA",
+      "subtema": "Crímenes de lesa humanidad"
+    }
+  ]
+}

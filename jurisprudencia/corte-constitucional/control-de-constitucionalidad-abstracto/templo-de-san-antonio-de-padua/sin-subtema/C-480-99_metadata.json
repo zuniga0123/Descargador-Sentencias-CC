@@ -1,0 +1,52 @@
+{
+  "radicado": "C-480-99",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1999,
+  "fecha_creacion": "1999-07-07",
+  "magistrado_ponente": "Dra MARTHA VICTORIA SÁCHICA DE MONCALEANO",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "TEMPLO DE SAN ANTONIO DE PADUA",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 163 de 1959",
+    "Decreto 264 de 1953",
+    "Ley 80 de 1993",
+    "Decreto 2067 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1999/C-480-99.htm",
+  "fecha_descarga": "2026-10-23T05:09:58.914017+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1999-07-07",
+  "fecha_publicacion": "1999-07-28",
+  "numero": "C-480/99",
+  "tipo_cc": "C",
+  "prov_id": "15950",
+  "tema_relatoria": "OBJECIONES PRESIDENCIAL A PROYECTO DE LEY QUE DECLARA MONUMENTO NACIONAL AL TEMPLO PARROQUIAL DE SAN ANTONIO DE PADUA.",
+  "resumen": "Revisión de objeciones presidenciales al Proyecto de Ley N.º 234/97 Senado y 337/97 Cámara de Representantes, “por medio de la cual se declara monumento nacional, el templo parroquial San Antonio de Padua del Municipio de Soledad, Departamento del Atlántico”. El presidente de la República objetó porque (i) desconoce la prohibición de asignar un auxilio en favor de una persona jurídica de derecho privado, (ii) el legislador incurrió en una invasión de las competencias del Gobierno Nacional. La Corte concluyó que (i) la asignación de unos recursos al municipio de Soledad para los fines indicados no contradice lo previsto en el artículo 355 de la Constitución, pues se trata de partidas que deberán ser giradas directamente al Municipio y no a una persona natural o jurídica de derecho privado; (ii) se trata de un proyecto de ley de origen parlamentario que se limita a decretar un gasto público, por lo que el Congreso no está invadiendo la órbita del Gobierno, toda vez que ese decreto no suprime la eventualidad de la inclusión de la partida correspondiente en la ley de presupuesto. En consecuencia, declaró constitucional las disposiciones del proyecto de ley, al no encontrar fundadas las objeciones formuladas por el presidente de la República.",
+  "titulaciones": [
+    {
+      "tema": "TEMPLO DE SAN ANTONIO DE PADUA",
+      "subtema": null
+    },
+    {
+      "tema": "INICIATIVA LEGISLATIVA PARA GASTOS",
+      "subtema": null
+    },
+    {
+      "tema": "AUXILIOS O DONACIONES",
+      "subtema": "Prohibición"
+    },
+    {
+      "tema": "PATRIMONIO CULTURAL DE LA NACION",
+      "subtema": "Protección"
+    },
+    {
+      "tema": "MONUMENTO NACIONAL",
+      "subtema": "Junta de conservación"
+    }
+  ]
+}

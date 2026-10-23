@@ -1,0 +1,53 @@
+{
+  "radicado": "C-406-99",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1999,
+  "fecha_creacion": "1999-06-02",
+  "magistrado_ponente": "Dr EDUARDO CIFUENTES MUÑOZ",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "TRATADO INTERNACIONAL",
+  "subtema": "No se puede dar trámite de ley estatutaria",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 479 de 1998"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1999/C-406-99.htm",
+  "fecha_descarga": "2026-10-23T05:21:45.228318+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1999-06-02",
+  "fecha_publicacion": null,
+  "numero": "C-406/99",
+  "tipo_cc": "C",
+  "prov_id": "15874",
+  "tema_relatoria": "LEY 479/98. CONVENIO ENTRE COLOMBIA Y PERU SOBRE ASISTENCIA JUDICIAL EN MATERIA PENAL. EXEQUIBLES.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "TRATADO INTERNACIONAL",
+      "subtema": "No se puede dar trámite de ley estatutaria"
+    },
+    {
+      "tema": "ASISTENCIA JUDICIAL",
+      "subtema": "Límites"
+    },
+    {
+      "tema": "ASISTENCIA JUDICIAL",
+      "subtema": "Causales para negarla"
+    },
+    {
+      "tema": "CONVENIO DE ASISTENCIA JUDICIAL EN MATERIA PENAL",
+      "subtema": "Confidencial"
+    },
+    {
+      "tema": "LEY ESTATUTARIA",
+      "subtema": "Objeto"
+    },
+    {
+      "tema": "TRATADO INTERNACIONAL",
+      "subtema": "Mecanismos de cooperación o asistencia judicial"
+    }
+  ]
+}

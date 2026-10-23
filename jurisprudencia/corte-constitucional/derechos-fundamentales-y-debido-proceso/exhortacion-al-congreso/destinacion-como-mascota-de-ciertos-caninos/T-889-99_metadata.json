@@ -1,0 +1,46 @@
+{
+  "radicado": "T-889-99",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1999,
+  "fecha_creacion": "1999-11-09",
+  "magistrado_ponente": "Dr FABIO MORON DIAZ",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "EXHORTACION AL CONGRESO",
+  "subtema": "Destinación como mascota de ciertos caninos",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 428 de 1998"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1999/T-889-99.htm",
+  "fecha_descarga": "2026-10-23T05:07:53.853980+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1999-11-09",
+  "fecha_publicacion": null,
+  "numero": "T-889/99",
+  "tipo_cc": "T",
+  "prov_id": "16376",
+  "tema_relatoria": "MASCOTAS EN CONJUNTOS RESIDENCIALES CERRADOS. ANIMALES DOMESTICOS. CARENCIA ACTUAL DE OBJETO. PERRO PITBULL. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "EXHORTACION AL CONGRESO",
+      "subtema": "Destinación como mascota de ciertos caninos"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Carencia actual de objeto"
+    },
+    {
+      "tema": "LLAMADO A PREVENCION AL JUEZ DE TUTELA",
+      "subtema": "Valoración de hechos y actividad probatoria"
+    },
+    {
+      "tema": "JUEZ DE TUTELA",
+      "subtema": "Valoración de hechos y actividad probatoria"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "radicado": "T-294-99",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1999,
+  "fecha_creacion": "1999-05-03",
+  "magistrado_ponente": "Dr FABIO MORóN DíAZ",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+  "subtema": "Procedencia excepcional",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 23 de 1991",
+    "Decreto 2279 de 1991",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1999/T-294-99.htm",
+  "fecha_descarga": "2026-10-23T05:03:35.648857+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1999-05-03",
+  "fecha_publicacion": null,
+  "numero": "T-294/99",
+  "tipo_cc": "T",
+  "prov_id": "15750",
+  "tema_relatoria": "DEBIDO PROCESO. VIA DE HECHO. IMPROCEDENCIA DE TUTELA CONTRA LAUDOS ARBITRALES. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Procedencia excepcional"
+    },
+    {
+      "tema": "VIA DE HECHO",
+      "subtema": "Improcedencia por existencia de mecanismo de defensa judicial"
+    },
+    {
+      "tema": "APODERADO JUDICIAL",
+      "subtema": "Falta a la ética por representación de ambas partes"
+    },
+    {
+      "tema": "APODERADO JUDICIAL",
+      "subtema": "Falta de diligencia en actuaciones procesales"
+    },
+    {
+      "tema": "VIA DE HECHO",
+      "subtema": "Improcedencia por no ejercicio oportuno de recursos"
+    }
+  ]
+}

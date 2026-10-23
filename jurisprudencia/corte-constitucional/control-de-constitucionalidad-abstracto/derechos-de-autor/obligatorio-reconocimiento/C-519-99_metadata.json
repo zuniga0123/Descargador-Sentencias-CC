@@ -1,0 +1,47 @@
+{
+  "radicado": "C-519-99",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1999,
+  "fecha_creacion": "1999-07-22",
+  "magistrado_ponente": "Dr JOSE GREGORIO HERNANDEZ GALINDO",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "DERECHOS DE AUTOR",
+  "subtema": "Obligatorio reconocimiento",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 23 de 1982",
+    "Decreto 3116 de 1984",
+    "Decreto 2067 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1999/C-519-99.htm",
+  "fecha_descarga": "2026-10-23T05:22:23.367789+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1999-07-22",
+  "fecha_publicacion": null,
+  "numero": "C-519/99",
+  "tipo_cc": "C",
+  "prov_id": "15992",
+  "tema_relatoria": "LEY 23/82. ART. 73 PARAGRAFO. DERS. DE AUTOR. TARIFAS EN ESPECTACULOS. EXEQUIBLE.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHOS DE AUTOR",
+      "subtema": "Obligatorio reconocimiento"
+    },
+    {
+      "tema": "DERECHOS DE AUTOR",
+      "subtema": "Protección"
+    },
+    {
+      "tema": "DERECHOS DE AUTOR",
+      "subtema": "Fijación de tarifas"
+    },
+    {
+      "tema": "PROCESO DE CONSTITUCIONALIDAD",
+      "subtema": "No se comparan normas legales con decisiones de organismos internacionales"
+    }
+  ]
+}

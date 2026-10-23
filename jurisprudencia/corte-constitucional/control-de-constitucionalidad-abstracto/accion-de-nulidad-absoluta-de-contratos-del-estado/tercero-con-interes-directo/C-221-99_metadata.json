@@ -1,0 +1,51 @@
+{
+  "radicado": "C-221-99",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1999,
+  "fecha_creacion": "1999-04-14",
+  "magistrado_ponente": "Dr FABIO MORÓN DÍAZ",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "ACCION DE NULIDAD ABSOLUTA DE CONTRATOS DEL ESTADO",
+  "subtema": "Tercero con interés directo",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 446 de 1998",
+    "Decreto 2651 de 1991",
+    "Ley 23 de 1991",
+    "Decreto 2279 de 1989",
+    "Decreto 1 de 1984",
+    "Decreto 2304 de 1989",
+    "Ley 80 de 1993"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1999/C-221-99.htm",
+  "fecha_descarga": "2026-10-23T05:11:30.825645+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1999-04-14",
+  "fecha_publicacion": null,
+  "numero": "C-221/99",
+  "tipo_cc": "C",
+  "prov_id": "15673",
+  "tema_relatoria": "LEY 446/98. ART. 32 CONTROVERSIAS CONTRACTUALES. EXEQUIBLE.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCION DE NULIDAD ABSOLUTA DE CONTRATOS DEL ESTADO",
+      "subtema": "Tercero con interés directo"
+    },
+    {
+      "tema": "ACCION DE NULIDAD ABSOLUTA DE CONTRATOS ADMINISTRATIVOS",
+      "subtema": "Tercero con interés directo"
+    },
+    {
+      "tema": "ACCION DE NULIDAD ABSOLUTA DE CONTRATOS DEL ESTADO",
+      "subtema": "Restricción legislativa de la titularidad"
+    },
+    {
+      "tema": "DERECHO DE PARTICIPACION CIUDADANA EN EL CONTROL DE ACTIVIDAD CONTRACTUAL DE LA ADMINISTRACION",
+      "subtema": null
+    }
+  ]
+}

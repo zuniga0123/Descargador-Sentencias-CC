@@ -1,0 +1,52 @@
+{
+  "radicado": "C-721-99",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1999,
+  "fecha_creacion": "1999-09-29",
+  "magistrado_ponente": "Dr ALEJANDRO MARTÍNEZ CABALLERO",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "INHIBICION DE LA CORTE CONSTITUCIONAL",
+  "subtema": "Carencia actual de objeto",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 80 de 1993",
+    "Ley 36 de 1966",
+    "Decreto 2067 de 1991",
+    "Ley 57 de 1985",
+    "Ley 222 de 1983",
+    "Ley 1670 de 1975",
+    "Decreto Ley 150 de 1976",
+    "Ley 80 de 1923"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1999/C-721-99.htm",
+  "fecha_descarga": "2026-10-23T05:14:47.305707+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1999-09-29",
+  "fecha_publicacion": null,
+  "numero": "C-721/99",
+  "tipo_cc": "C",
+  "prov_id": "16213",
+  "tema_relatoria": "LEY 4/64 ART.3 LEY 36/66 ART.2 INDUSTRIA DE LA CONSTRUCCION CONCURSOS Y CONTRATOS LEY 80/93 ART.2424 Y 30PAR. CONTRATACION ADTIVA. REGISTRO DE PROPONENTES CARENCIA ACTUAL OBJETO INHIBIRSE.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "INHIBICION DE LA CORTE CONSTITUCIONAL",
+      "subtema": "Carencia actual de objeto"
+    },
+    {
+      "tema": "INHIBICION DE LA CORTE CONSTITUCIONAL",
+      "subtema": "Demanda inepta por ausencia de cargo"
+    },
+    {
+      "tema": "PLIEGO DE CONDICIONES",
+      "subtema": "Cobro"
+    },
+    {
+      "tema": "UNIDAD NORMATIVA",
+      "subtema": "Improcedencia"
+    }
+  ]
+}

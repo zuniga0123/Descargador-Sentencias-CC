@@ -1,0 +1,39 @@
+{
+  "radicado": "T-398-99",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1999,
+  "fecha_creacion": "1999-05-28",
+  "magistrado_ponente": "Dr EDUARDO CIFUENTES MUÑOZ",
+  "area": "Derecho a la Salud",
+  "tema": "DERECHO A LA VIDA",
+  "subtema": "Suministro de medicamentos sin cumplir periodo mínimo de cotización en persona de escasos recursos enferma de sida",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1999/T-398-99.htm",
+  "fecha_descarga": "2026-10-23T05:04:36.377058+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1999-05-28",
+  "fecha_publicacion": null,
+  "numero": "T-398/99",
+  "tipo_cc": "T",
+  "prov_id": "15865",
+  "tema_relatoria": "DER. A LA SALUD Y A LA VIDA. NO SUMINISTRO DE MEDICAMENTOS POR EL I.S.S. POR NO CUMPLIR LOS PERIODOS DE COTIZACION. SIDA. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA VIDA",
+      "subtema": "Suministro de medicamentos sin cumplir periodo mínimo de cotización en persona de escasos recursos enferma de sida"
+    },
+    {
+      "tema": "INAPLICACION DE NORMAS DEL PLAN OBLIGATORIO DE SALUD",
+      "subtema": "Suministro de medicamentos sin cumplir periodo mínimo de cotización en persona de escasos recursos enferma de sida"
+    },
+    {
+      "tema": "SUBCUENTA DEL FONDO DE SOLIDARIDAD Y GARANTIA DEL SISTEMA GENERAL DE SEGURIDAD SOCIAL EN SALUD",
+      "subtema": "Repetición de EPS por sobrecostos"
+    }
+  ]
+}

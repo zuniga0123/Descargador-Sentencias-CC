@@ -1,0 +1,41 @@
+{
+  "radicado": "T-376-99",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1999,
+  "fecha_creacion": "1999-05-26",
+  "magistrado_ponente": "Dr EDUARDO CIFUENTES MUÑOZ",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "VIA DE HECHO EN PROCESO LABORAL",
+  "subtema": "Actuación producida con base en una norma derogada",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1999/T-376-99.htm",
+  "fecha_descarga": "2026-10-23T05:04:04.462958+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1999-05-26",
+  "fecha_publicacion": null,
+  "numero": "T-376/99",
+  "tipo_cc": "T",
+  "prov_id": "15838",
+  "tema_relatoria": "DER. A LA IGUALDAD. DEBIDO PROCESO. VIA DE HECHO. TUTELA CONTRA PROVIDENCIAS JUDICIALES. APLICACION DE NORMA DEROGADA. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "VIA DE HECHO EN PROCESO LABORAL",
+      "subtema": "Actuación producida con base en una norma derogada"
+    },
+    {
+      "tema": "VIA DE HECHO",
+      "subtema": "Defecto procedimental por surtir actuación al margen del procedimiento legal establecido"
+    },
+    {
+      "tema": "VIA DE HECHO POR APLICACION DE NORMA DEROGADA",
+      "subtema": "Procedencia de tutela"
+    }
+  ]
+}

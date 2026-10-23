@@ -1,0 +1,51 @@
+{
+  "radicado": "T-210-99",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1999,
+  "fecha_creacion": "1999-04-13",
+  "magistrado_ponente": "Dr CARLOS GAVIRIA DÍAZ",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "ACCION DE TUTELA PARA EL PAGO DE LICENCIA DE MATERNIDAD",
+  "subtema": "Procedencia excepcional",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 806 de 1998",
+    "Decreto 1938 de 1994",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1999/T-210-99.htm",
+  "fecha_descarga": "2026-10-23T05:02:13.166713+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1999-04-13",
+  "fecha_publicacion": null,
+  "numero": "T-210/99",
+  "tipo_cc": "T",
+  "prov_id": "15662",
+  "tema_relatoria": "DER. A LA SEGURIDAD SOCIAL. DER. A LA IGUALDAD. TRABAJO. PAGO DE LICENCIA DE MATERNIDAD. PERIODO DE COTIZACION. UNIMEC Y SALUD COLMENA. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCION DE TUTELA PARA EL PAGO DE LICENCIA DE MATERNIDAD",
+      "subtema": "Procedencia excepcional"
+    },
+    {
+      "tema": "PRINCIPIO DE FAVORABILIDAD NORMATIVA EN MATERIA DE LICENCIA DE MATERNIDAD",
+      "subtema": "Pago"
+    },
+    {
+      "tema": "LICENCIA DE MATERNIDAD",
+      "subtema": "Aplicación ultra activa de norma"
+    },
+    {
+      "tema": "LICENCIA DE MATERNIDAD",
+      "subtema": "Pago por aplicación de norma existente al iniciarse embarazo"
+    },
+    {
+      "tema": "LICENCIA DE MATERNIDAD",
+      "subtema": "Pago por tutela cuando afecta el mínimo vital de la madre y su hijo"
+    }
+  ]
+}

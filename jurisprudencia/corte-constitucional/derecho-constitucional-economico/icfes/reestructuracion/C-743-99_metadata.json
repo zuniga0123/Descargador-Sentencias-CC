@@ -1,0 +1,50 @@
+{
+  "radicado": "C-743-99",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1999,
+  "fecha_creacion": "1999-10-06",
+  "magistrado_ponente": "Dr FABIO MORÓN DÍAZ",
+  "area": "Derecho Constitucional Económico",
+  "tema": "ICFES",
+  "subtema": "Reestructuración",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 30 de 1992",
+    "Decreto 1211 de 1993",
+    "Decreto 2067 de 1991",
+    "Decreto Ley 1211 de 1993",
+    "Ley 1211 de 1993",
+    "Ley 489 de 1998",
+    "Decreto 89 de 1976",
+    "Decreto Ley 81 de 1980",
+    "Decreto Ley 80 de 1980",
+    "Decreto 1050 de 1968"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1999/C-743-99.htm",
+  "fecha_descarga": "2026-10-23T05:15:05.828247+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1999-10-06",
+  "fecha_publicacion": null,
+  "numero": "C-743/99",
+  "tipo_cc": "C",
+  "prov_id": "16237",
+  "tema_relatoria": "DEC. 1211/93. ART. 6 N. 3. FUNCIONES DE LA JUNTA DIRECTIVA DEL ICFES. TARIFAS POR CONCEPTO DE SERVICIOS. INEXEQUIBLE.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ICFES",
+      "subtema": "Reestructuración"
+    },
+    {
+      "tema": "ICFES",
+      "subtema": "Inconstitucionalidad de tasas que puede cobrar por prestación de servicios"
+    },
+    {
+      "tema": "TASA",
+      "subtema": "Requisitos para poder delegar su fijación"
+    }
+  ]
+}

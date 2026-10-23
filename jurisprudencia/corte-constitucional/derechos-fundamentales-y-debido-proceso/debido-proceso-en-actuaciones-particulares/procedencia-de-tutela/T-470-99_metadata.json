@@ -1,0 +1,69 @@
+{
+  "radicado": "T-470-99",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1999,
+  "fecha_creacion": "1999-07-06",
+  "magistrado_ponente": "Dr JOSE GREGORIO HERNANDEZ GALINDO",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "DEBIDO PROCESO EN ACTUACIONES PARTICULARES",
+  "subtema": "Procedencia de tutela",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1999/T-470-99.htm",
+  "fecha_descarga": "2026-10-23T05:05:29.996903+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1999-07-06",
+  "fecha_publicacion": null,
+  "numero": "T-470/99",
+  "tipo_cc": "T",
+  "prov_id": "15940",
+  "tema_relatoria": "DEBIDO PROCESO. DER. A LA VIVIENDA DIGNA. EXPULSION DE RESIDENTE EN CONJUNTO RESIDENCIAL POR RIÑAS. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DEBIDO PROCESO EN ACTUACIONES PARTICULARES",
+      "subtema": "Procedencia de tutela"
+    },
+    {
+      "tema": "DERECHO A LA LIBERTAD",
+      "subtema": "Expulsión de morador de conjunto residencial"
+    },
+    {
+      "tema": "DERECHO DE PROPIEDAD",
+      "subtema": "Expulsión de conjunto residencial"
+    },
+    {
+      "tema": "INDEFENSION",
+      "subtema": "Impedimento de acceso a morador de conjunto residencial"
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA PARTICULARES",
+      "subtema": "Procedencia excepcional"
+    },
+    {
+      "tema": "DERECHO AL BUEN NOMBRE",
+      "subtema": "Publicación castigo de expulsión de morador en conjunto residencial"
+    },
+    {
+      "tema": "DERECHO A LA VIDA",
+      "subtema": "Orden de disparar dada a celadores contra morador expulsado de conjunto residencial"
+    },
+    {
+      "tema": "DERECHO A LA INTEGRIDAD PERSONAL",
+      "subtema": "Expulsión de morador de conjunto residencial"
+    },
+    {
+      "tema": "DEBIDO PROCESO",
+      "subtema": "Sanción contra morador de conjunto residencial"
+    },
+    {
+      "tema": "INAPLICACION DE REGLAMENTO INTERNO DE PROPIEDAD HORIZONTAL",
+      "subtema": "Expulsión de morador"
+    }
+  ]
+}

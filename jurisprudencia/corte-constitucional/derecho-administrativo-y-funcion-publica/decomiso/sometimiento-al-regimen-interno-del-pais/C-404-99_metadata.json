@@ -1,0 +1,58 @@
+{
+  "radicado": "C-404-99",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1999,
+  "fecha_creacion": "1999-06-02",
+  "magistrado_ponente": null,
+  "area": "Derecho Administrativo y Función Pública",
+  "tema": "DECOMISO",
+  "subtema": "Sometimiento al régimen interno del país",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 40 de 1993",
+    "Decreto 1146 de 1990"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1999/C-404-99.htm",
+  "fecha_descarga": "2026-10-23T05:13:13.352567+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1999-06-02",
+  "fecha_publicacion": null,
+  "numero": "C-404/99",
+  "tipo_cc": "C",
+  "prov_id": "15872",
+  "tema_relatoria": "LEY 452/98. ACUERDO DE COOPERACION JUDICIAL EN MATERIA PENAL ENTRE EL GOBIERNO DE COLOMBIA Y EL DE PARAGUAY. EXEQUIBLE.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DECOMISO",
+      "subtema": "Sometimiento al régimen interno del país"
+    },
+    {
+      "tema": "COOPERACION EN EL AMBITO PENAL",
+      "subtema": "Reconocimiento de competencias a la Fiscalía y Ministerio de Justicia"
+    },
+    {
+      "tema": "TRASLADO DE PERSONA DETENIDA",
+      "subtema": "Consentimiento"
+    },
+    {
+      "tema": "ACUERDO DE COOPERACION EN MATERIA PENAL",
+      "subtema": "Finalidad"
+    },
+    {
+      "tema": "RESPONSABILIDAD DEL ESTADO EN LA EJECUCION DEL TRATADO",
+      "subtema": null
+    },
+    {
+      "tema": "PRUEBAS CONFIDENCIALES",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "LEY PREVIA SOBRE TRANSFERENCIA DE BIENES",
+      "subtema": "Legislación interna"
+    }
+  ]
+}

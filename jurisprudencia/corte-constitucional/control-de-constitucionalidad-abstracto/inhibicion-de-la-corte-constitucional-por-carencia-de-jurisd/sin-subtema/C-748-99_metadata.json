@@ -1,0 +1,52 @@
+{
+  "radicado": "C-748-99",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1999,
+  "fecha_creacion": "1999-10-06",
+  "magistrado_ponente": "Dr EDUARDO CIFUENTES MUÑOZ",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "INHIBICION DE LA CORTE CONSTITUCIONAL POR CARENCIA DE JURISDICCION",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 1818 de 1998",
+    "Ley 446 de 1998",
+    "Ley 23 de 1991",
+    "Decreto 2279 de 1989",
+    "Decreto 2651 de 1991",
+    "Ley 103 de 1991",
+    "Ley 466 de 1998",
+    "Decreto 111 de 1996"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1999/C-748-99.htm",
+  "fecha_descarga": "2026-10-23T05:24:12.785299+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1999-10-06",
+  "fecha_publicacion": null,
+  "numero": "C-748/99",
+  "tipo_cc": "C",
+  "prov_id": "16242",
+  "tema_relatoria": "DEC.1818/98 ART.64121126135136163138155 PARC.ESTATUTO DE MECANISMOS ALTERNATIVOS DE SOLUCION DE CONFLICTOS. HOMOLOGACION CONCILIACION ARBITRAJE FALTA COMPETENCIA. INHIBITORIA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "INHIBICION DE LA CORTE CONSTITUCIONAL POR CARENCIA DE JURISDICCION",
+      "subtema": null
+    },
+    {
+      "tema": "DECRETO COMPILADOR",
+      "subtema": "No requiere facultades extraordinarias"
+    },
+    {
+      "tema": "DECRETO COMPILADOR",
+      "subtema": "Competencia del Consejo de Estado o de la Corte Constitucional"
+    },
+    {
+      "tema": "DECRETO COMPILADOR",
+      "subtema": "No puede alterar legislación"
+    }
+  ]
+}

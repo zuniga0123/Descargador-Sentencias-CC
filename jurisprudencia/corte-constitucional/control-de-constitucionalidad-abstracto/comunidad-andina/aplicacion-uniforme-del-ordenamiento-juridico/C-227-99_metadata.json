@@ -1,0 +1,63 @@
+{
+  "radicado": "C-227-99",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1999,
+  "fecha_creacion": "1999-04-14",
+  "magistrado_ponente": "Dr EDUARDO CIFUENTES MUÑOZ",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "COMUNIDAD ANDINA",
+  "subtema": "Aplicación uniforme del ordenamiento jurídico",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 457 de 1998",
+    "Ley 323 de 1996",
+    "Ley 8 de 1973"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1999/C-227-99.htm",
+  "fecha_descarga": "2026-10-23T05:20:16.804257+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1999-04-14",
+  "fecha_publicacion": null,
+  "numero": "C-227/99",
+  "tipo_cc": "C",
+  "prov_id": "15679",
+  "tema_relatoria": "LEY 457/98. PROTOCOLO MODIFICATORIO DEL TRATADO DE CREACION DEL TRIBUNAL DE JUSTICIA DEL ACUERDO DE CARTAGENA. EXEQUIBLE.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "COMUNIDAD ANDINA",
+      "subtema": "Aplicación uniforme del ordenamiento jurídico"
+    },
+    {
+      "tema": "COMUNIDAD ANDINA",
+      "subtema": "Distinción entre obligatoriedad y aplicabilidad de las normas"
+    },
+    {
+      "tema": "ACCION DE NULIDAD",
+      "subtema": "Caducidad"
+    },
+    {
+      "tema": "COMUNIDAD ANDINA Y ACCION DE CUMPLIMIENTO",
+      "subtema": null
+    },
+    {
+      "tema": "COMUNIDAD ANDINA Y ACCION DE NULIDAD",
+      "subtema": null
+    },
+    {
+      "tema": "COMUNIDAD ANDINA",
+      "subtema": "Cumplimiento y publicidad de Sentencias"
+    },
+    {
+      "tema": "COMUNIDAD ANDINA",
+      "subtema": "Publicidad de normas comunitarias"
+    },
+    {
+      "tema": "TRIBUNAL ANDINO DE JUSTICIA",
+      "subtema": "Constitucionalidad de sus competencias"
+    }
+  ]
+}

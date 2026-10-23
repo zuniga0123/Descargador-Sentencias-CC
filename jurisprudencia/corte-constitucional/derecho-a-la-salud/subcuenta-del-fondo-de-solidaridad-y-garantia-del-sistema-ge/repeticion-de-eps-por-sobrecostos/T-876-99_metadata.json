@@ -1,0 +1,47 @@
+{
+  "radicado": "T-876-99",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1999,
+  "fecha_creacion": "1999-11-05",
+  "magistrado_ponente": "Dr JOSE GREGORIO HERNANDEZ GALINDO",
+  "area": "Derecho a la Salud",
+  "tema": "SUBCUENTA DEL FONDO DE SOLIDARIDAD Y GARANTIA DEL SISTEMA GENERAL DE SEGURIDAD SOCIAL EN SALUD",
+  "subtema": "Repetición de EPS por sobrecostos",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 100 de 1993",
+    "Decreto 806 de 1998"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1999/T-876-99.htm",
+  "fecha_descarga": "2026-10-23T05:07:21.826473+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1999-11-05",
+  "fecha_publicacion": null,
+  "numero": "T-876/99",
+  "tipo_cc": "T",
+  "prov_id": "16362",
+  "tema_relatoria": "DERECHO A LA VIDA. DER A LA SALUD Y SEGURIDAD SOCIAL. ATENCION MEDICA URGENTE SIN COMPLETAR PERIODOS MINIMOS DE COTIZACIONES. HECHO SUPERADO. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "SUBCUENTA DEL FONDO DE SOLIDARIDAD Y GARANTIA DEL SISTEMA GENERAL DE SEGURIDAD SOCIAL EN SALUD",
+      "subtema": "Repetición de EPS por sobrecostos"
+    },
+    {
+      "tema": "DERECHO A LA VIDA DE PERSONA DE LA TERCERA EDAD",
+      "subtema": "Falta de atención médica de urgencia por no haber previsto posibilidad de enfermarse"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Carencia actual de objeto"
+    },
+    {
+      "tema": "DERECHO A LA SALUD DE PERSONA DE LA TERCERA EDAD",
+      "subtema": "No se pueden oponer periodos mínimos de cotización ante situaciones de urgencia"
+    }
+  ]
+}

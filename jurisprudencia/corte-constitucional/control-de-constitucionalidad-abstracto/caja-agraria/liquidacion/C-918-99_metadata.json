@@ -1,0 +1,52 @@
+{
+  "radicado": "C-918-99",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1999,
+  "fecha_creacion": "1999-11-18",
+  "magistrado_ponente": "Dr JOSE GREGORIO HERNANDEZ GALINDO",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "CAJA AGRARIA",
+  "subtema": "Liquidación",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 489 de 1998",
+    "Decreto 1064 de 1999",
+    "Decreto 1065 de 1999",
+    "Decreto 2067 de 1991",
+    "Ley 6 de 1945",
+    "Ley 33 de 1985",
+    "Ley 489 de 1999",
+    "Decreto 110 de 1999"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1999/C-918-99.htm",
+  "fecha_descarga": "2026-10-23T05:16:05.296473+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1999-11-18",
+  "fecha_publicacion": null,
+  "numero": "C-918/99",
+  "tipo_cc": "C",
+  "prov_id": "16405",
+  "tema_relatoria": "DEC.1064/99 ART.2 LIT F) 8 INCISO 3152021 Y 22. DEC.1065/99 ART. 9 PARC. DECRETOS HIBRIDOS. ATRIBUCIONES PROPIAS DEL GOBIERNO Y LEGISLATIVAS EXTRAORDINARIAS. LIQUIDACION CAJA AGRARIA. INCONSTITUCIONALIDAD POR CONSECUENCIA. LEY 489/98 DEJA SIN FUNDAMENTO.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "CAJA AGRARIA",
+      "subtema": "Liquidación"
+    },
+    {
+      "tema": "INCONSTITUCIONALIDAD POR CONSECUENCIA",
+      "subtema": null
+    },
+    {
+      "tema": "DECRETO HIBRIDO",
+      "subtema": "Dificultad para control constitucional"
+    },
+    {
+      "tema": "DECRETO HIBRIDO",
+      "subtema": "Inexistencia"
+    }
+  ]
+}
