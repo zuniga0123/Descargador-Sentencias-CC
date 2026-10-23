@@ -1,0 +1,84 @@
+{
+  "radicado": "C-897-99",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1999,
+  "fecha_creacion": "1999-11-10",
+  "magistrado_ponente": null,
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "PRINCIPIO DE COHERENCIA NORMATIVA",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 488 de 1998",
+    "Decreto 2067 de 1991",
+    "Ley 223 de 1995",
+    "Ley 105 de 1993",
+    "Decreto Ley 1421 de 1993",
+    "Ley 358 de 1997",
+    "Decreto 696 de 1998",
+    "Ley 488 de 1999",
+    "Ley 60 de 1993",
+    "Ley 80 de 1993",
+    "Ley 86 de 1989",
+    "Decreto 2681 de 1993"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1999/C-897-99.htm",
+  "fecha_descarga": "2026-10-23T05:25:29.580822+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1999-11-10",
+  "fecha_publicacion": null,
+  "numero": "C-897/99",
+  "tipo_cc": "C",
+  "prov_id": "16385",
+  "tema_relatoria": "LEY 488/98 ART. 126 DISPOSICIONES FISCALES EN MATERIA TRIBUTARIA EN ENTIDADES TERRITORIALES. SOBRETASA A LA GASOLINA Y ACPM. EXEQUIBLE E INEXEQUIBLE.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "PRINCIPIO DE COHERENCIA NORMATIVA",
+      "subtema": null
+    },
+    {
+      "tema": "NORMA LEGAL",
+      "subtema": "Sujeta a diferentes interpretaciones"
+    },
+    {
+      "tema": "SOBRETASA AL ACPM",
+      "subtema": "Fuente exógena de financiación de entidades territoriales"
+    },
+    {
+      "tema": "PRINCIPIO DE UNIDAD DE MATERIA",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "CONTRATACION ADMINISTRATIVA",
+      "subtema": "Materia de ley ordinaria"
+    },
+    {
+      "tema": "ENTIDADES TERRITORIALES",
+      "subtema": "Fuentes de financiación"
+    },
+    {
+      "tema": "SOBRETASA AL ACPM",
+      "subtema": "Titularización de recursos"
+    },
+    {
+      "tema": "TRIBUTO",
+      "subtema": "Criterios para identificar entidad a que pertenece"
+    },
+    {
+      "tema": "SOBRETASA A LA GASOLINA",
+      "subtema": "Titularización de recursos"
+    },
+    {
+      "tema": "SOBRETASA A LA GASOLINA",
+      "subtema": "Destinación de recursos"
+    },
+    {
+      "tema": "SOBRETASA A LA GASOLINA",
+      "subtema": "Fuente endógena de financiación de entidades territoriales"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "radicado": "T-123-98",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1998,
+  "fecha_creacion": "1998-03-31",
+  "magistrado_ponente": "Dr ALEJANDRO MARTINEZ CABALLERO",
+  "area": "Otros - Sin clasificar",
+  "tema": "COLDEPORTES",
+  "subtema": "Registro",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 181 de 1995"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1998/T-123-98.htm",
+  "fecha_descarga": "2026-10-23T05:31:32.160621+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1998-03-31",
+  "fecha_publicacion": null,
+  "numero": "T-123/98",
+  "tipo_cc": "T",
+  "prov_id": "14674",
+  "tema_relatoria": "DERS. DEPORTIVOS DE LOS JUGADORES. PROTECCION A LA LIBERTAD DE TRABAJO. DEBERES DE COLDEPORTES. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "COLDEPORTES",
+      "subtema": "Registro"
+    },
+    {
+      "tema": "DERECHOS DEPORTIVOS DE LOS JUGADORES",
+      "subtema": "Registro"
+    },
+    {
+      "tema": "JURISPRUDENCIA",
+      "subtema": "Importancia del precedente"
+    },
+    {
+      "tema": "COLDEPORTES",
+      "subtema": "Deberes"
+    },
+    {
+      "tema": "LLAMADO A PREVENCION A COLDEPORTES",
+      "subtema": "Registro de derechos deportivos y transferencias"
+    },
+    {
+      "tema": "LIBERTAD DE TRABAJO DEL DEPORTISTA PROFESIONAL",
+      "subtema": "Garantía"
+    },
+    {
+      "tema": "DERECHOS DEPORTIVOS",
+      "subtema": "Alcance"
+    }
+  ]
+}

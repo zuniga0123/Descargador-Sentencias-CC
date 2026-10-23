@@ -1,0 +1,50 @@
+{
+  "radicado": "T-013-98",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1998,
+  "fecha_creacion": "1998-02-03",
+  "magistrado_ponente": "Dr ALEJANDRO MARTINEZ CABALLERO",
+  "area": "Derecho a la Salud",
+  "tema": "PLAN OBLIGATORIO DE SALUD",
+  "subtema": "Delegación para su prestación por EPS privada",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 100 de 1993"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1998/T-013-98.htm",
+  "fecha_descarga": "2026-10-23T05:29:54.777895+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1998-02-03",
+  "fecha_publicacion": null,
+  "numero": "T-013/98",
+  "tipo_cc": "T",
+  "prov_id": "14553",
+  "tema_relatoria": "DER. A LA SALUD. CONTINUIDAD DEL SERVICIO DE SALUD. NO ENTREGA DE MEDICAMENTOS POR MORA DE LA ENTIDAD A LA E.P.S. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "PLAN OBLIGATORIO DE SALUD",
+      "subtema": "Delegación para su prestación por EPS privada"
+    },
+    {
+      "tema": "PRINCIPIO DE CONTINUIDAD EN EL SERVICIO DE SALUD",
+      "subtema": "Periodo mínimo de cotización"
+    },
+    {
+      "tema": "PRINCIPIO NEMO AUDITUR PROPIAM TURPITUDINEM ALLEGANS",
+      "subtema": "No asunción pago de medicamentos por usuario de escasos recursos"
+    },
+    {
+      "tema": "DERECHO A LA CONTINUIDAD EN EL SERVICIO DE SALUD",
+      "subtema": "Entrega de medicamento recetado"
+    },
+    {
+      "tema": "PLAN DE ATENCION BASICA EN SALUD",
+      "subtema": "Obligación del Estado"
+    }
+  ]
+}

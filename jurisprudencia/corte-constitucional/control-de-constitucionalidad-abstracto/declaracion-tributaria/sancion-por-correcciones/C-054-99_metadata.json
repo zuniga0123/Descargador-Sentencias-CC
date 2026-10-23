@@ -1,0 +1,50 @@
+{
+  "radicado": "C-054-99",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1999,
+  "fecha_creacion": "1999-02-03",
+  "magistrado_ponente": "Dr VLADIMIRO NARANJO MESA",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "DECLARACION TRIBUTARIA",
+  "subtema": "Sanción por correcciones",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 624 de 1989",
+    "Decreto 2067 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1999/C-054-99.htm",
+  "fecha_descarga": "2026-10-23T05:26:56.122558+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1999-02-03",
+  "fecha_publicacion": null,
+  "numero": "C-054/99",
+  "tipo_cc": "C",
+  "prov_id": "15482",
+  "tema_relatoria": "DEC.624/89. ART. 644 PARCIAL. SANCION POR CORRECCION DE LAS DECLARACIONES TRIBUTARIAS. EXEQUIBLE",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DECLARACION TRIBUTARIA",
+      "subtema": "Sanción por correcciones"
+    },
+    {
+      "tema": "ERROR EN LA INFORMACION TRIBUTARIA",
+      "subtema": null
+    },
+    {
+      "tema": "NEGLIGENCIA",
+      "subtema": "Sanción"
+    },
+    {
+      "tema": "PRINCIPIO DE LA BUENA FE",
+      "subtema": "Alcance en materia tributaria"
+    },
+    {
+      "tema": "PRINCIPIO DE LA BUENA FE",
+      "subtema": "Naturaleza"
+    }
+  ]
+}

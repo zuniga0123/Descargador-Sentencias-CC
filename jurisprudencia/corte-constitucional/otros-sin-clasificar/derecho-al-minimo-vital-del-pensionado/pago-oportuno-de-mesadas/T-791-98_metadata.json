@@ -1,0 +1,48 @@
+{
+  "radicado": "T-791-98",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1998,
+  "fecha_creacion": "1998-12-11",
+  "magistrado_ponente": "Dr ALFREDO BELTRÁN SIERRA",
+  "area": "Otros - Sin clasificar",
+  "tema": "DERECHO AL MINIMO VITAL DEL PENSIONADO",
+  "subtema": "Pago oportuno de mesadas",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto Ley 2591 de 1991",
+    "Ley 171 de 1961",
+    "Decreto 2677 de 1971",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1998/T-791-98.htm",
+  "fecha_descarga": "2026-10-23T05:44:49.010148+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1998-12-11",
+  "fecha_publicacion": null,
+  "numero": "T-791/98",
+  "tipo_cc": "T",
+  "prov_id": "15417",
+  "tema_relatoria": "DER. AL MINIMO VITAL. NO PAGO DE MESADAS PENSIONALES. EMPRESA EN LIQUIDACION. CROYDON S.A. OMISION DE LA CONMUTACION PENSIONAL. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO AL MINIMO VITAL DEL PENSIONADO",
+      "subtema": "Pago oportuno de mesadas"
+    },
+    {
+      "tema": "PROCESO DE LIQUIDACION OBLIGATORIA",
+      "subtema": "Omisión de conmutación pensional"
+    },
+    {
+      "tema": "EMPRESA EN LIQUIDACION",
+      "subtema": "Activos insuficientes para pago de mesadas pensionales"
+    },
+    {
+      "tema": "SUPERINTENDENCIA DE SOCIEDADES",
+      "subtema": "Protección derechos del pensionado en trámite de concordato"
+    }
+  ]
+}

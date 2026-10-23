@@ -1,0 +1,51 @@
+{
+  "radicado": "T-262-98",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1998,
+  "fecha_creacion": "1998-05-28",
+  "magistrado_ponente": "Dr EDUARDO CIFUENTES MUÑOZ",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "MEDIO DE DEFENSA JUDICIAL",
+  "subtema": "Sanción disciplinaria de suspensión",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 3404 de 1983",
+    "Ley 81 de 1993",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1998/T-262-98.htm",
+  "fecha_descarga": "2026-10-23T05:33:33.067569+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1998-05-28",
+  "fecha_publicacion": null,
+  "numero": "T-262/98",
+  "tipo_cc": "T",
+  "prov_id": "14823",
+  "tema_relatoria": "DEBIDO PROCESO. VIA DE HECHO. RESPONSABILIDAD DISCIPLINARIA. MEDIO DE DEFENSA JUDICIAL. ACCION DE NULIDAD Y RESTABLECIMIENTO DEL DER. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "MEDIO DE DEFENSA JUDICIAL",
+      "subtema": "Sanción disciplinaria de suspensión"
+    },
+    {
+      "tema": "PERJUICIO IRREMEDIABLE",
+      "subtema": "Inexistencia por sanción disciplinaria de suspensión"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "No sustituye mecanismos de defensa judicial"
+    },
+    {
+      "tema": "JURISDICCION CONTENCIOSO ADMINISTRATIVA",
+      "subtema": "Revisión de actos administrativos de orden disciplinario"
+    },
+    {
+      "tema": "JUEZ DE TUTELA",
+      "subtema": "Respeto de jurisdicciones establecidas"
+    }
+  ]
+}

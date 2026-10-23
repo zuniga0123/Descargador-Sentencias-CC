@@ -1,0 +1,62 @@
+{
+  "radicado": "T-803-98",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1998,
+  "fecha_creacion": "1998-12-16",
+  "magistrado_ponente": "Dr EDUARDO CIFUENTES MUÑOZ",
+  "area": "Derecho Penal y Sistema Acusatorio",
+  "tema": "PROVIDENCIAS QUE DEBEN NOTIFICARSE EN PROCESO PENAL",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 190 de 1995",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1998/T-803-98.htm",
+  "fecha_descarga": "2026-10-23T05:45:17.843488+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1998-12-16",
+  "fecha_publicacion": null,
+  "numero": "T-803/98",
+  "tipo_cc": "T",
+  "prov_id": "15433",
+  "tema_relatoria": "DEBIDO PROCESO. DER. DE DEFENSA. VIA DE HECHO. NO EXPEDICION DE COPIAS PORQUE EL ACTOR NO ERA SUJETO PROCESAL. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "PROVIDENCIAS QUE DEBEN NOTIFICARSE EN PROCESO PENAL",
+      "subtema": null
+    },
+    {
+      "tema": "PROVIDENCIAS DE SUSTANCIACION",
+      "subtema": "No requieren ser notificadas de manera personal"
+    },
+    {
+      "tema": "VIA DE HECHO",
+      "subtema": "Clases de defectos en la actuación"
+    },
+    {
+      "tema": "VIA DE HECHO EN DECISION DE IMPEDIMENTO Y RECUSACION",
+      "subtema": "Presupuesto"
+    },
+    {
+      "tema": "CALIDAD DE SUJETO PROCESAL",
+      "subtema": "Nombramiento de defensor, invocación de nulidad y expedición de copias"
+    },
+    {
+      "tema": "RESERVA DE LAS DILIGENCIAS EN INVESTIGACION PREVIA",
+      "subtema": "Razonabilidad de la disposición"
+    },
+    {
+      "tema": "VIA DE HECHO EN PROCESO PENAL",
+      "subtema": "Inexistencia por no notificación personal decisiones de negación de copias y rechazo de recusación"
+    },
+    {
+      "tema": "VIA DE HECHO EN PROCESO PENAL",
+      "subtema": "Inexistencia por no notificación personal del llamado a rendir versión libre e indagatoria y autos de apertura de indagación preliminar y de instrucción"
+    }
+  ]
+}

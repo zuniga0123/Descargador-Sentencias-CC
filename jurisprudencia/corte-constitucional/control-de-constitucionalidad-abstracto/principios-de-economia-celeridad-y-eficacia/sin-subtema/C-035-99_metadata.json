@@ -1,0 +1,49 @@
+{
+  "radicado": "C-035-99",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1999,
+  "fecha_creacion": "1999-01-27",
+  "magistrado_ponente": "Dr ANTONIO BARRERA CARBONELL",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "PRINCIPIOS DE ECONOMIA, CELERIDAD Y EFICACIA",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 99 de 1993"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1999/C-035-99.htm",
+  "fecha_descarga": "2026-10-23T05:26:52.544234+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1999-01-27",
+  "fecha_publicacion": null,
+  "numero": "C-035/99",
+  "tipo_cc": "C",
+  "prov_id": "15470",
+  "tema_relatoria": "LEY 99/93. ART. 56. DIAGNOSTICO AMBIENTAL DE ALTERNATIVAS. EXEQUIBLE.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "PRINCIPIOS DE ECONOMIA, CELERIDAD Y EFICACIA",
+      "subtema": null
+    },
+    {
+      "tema": "DIAGNOSTICO AMBIENTAL DE ALTERNATIVAS",
+      "subtema": null
+    },
+    {
+      "tema": "LICENCIA AMBIENTAL",
+      "subtema": "Finalidad"
+    },
+    {
+      "tema": "DIAGNOSTICO AMBIENTAL DE ALTERNATIVAS",
+      "subtema": "Protección ambiental"
+    },
+    {
+      "tema": "DIAGNOSTICO AMBIENTAL DE ALTERNATIVAS",
+      "subtema": "No viola el derecho a la igualdad"
+    }
+  ]
+}

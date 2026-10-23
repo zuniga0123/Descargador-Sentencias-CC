@@ -1,0 +1,73 @@
+{
+  "radicado": "T-568-98",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1998,
+  "fecha_creacion": "1998-10-07",
+  "magistrado_ponente": "Dr EDUARDO CIFUENTES MUÑOZ",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "CENTRO DE FORMACION RELIGIOSA",
+  "subtema": "Aplazamiento prestación del servicio militar",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 30 de 1992",
+    "Ley 48 de 1993",
+    "Decreto 2048 de 1993",
+    "Ley 133 de 1994",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1998/T-568-98.htm",
+  "fecha_descarga": "2026-10-23T05:39:36.510035+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1998-10-07",
+  "fecha_publicacion": null,
+  "numero": "T-568/98",
+  "tipo_cc": "T",
+  "prov_id": "15177",
+  "tema_relatoria": "APLAZAMIENTO DE PRESTACION DEL SERVICIO MILITAR A ESTUDIANTES DE CENTROS DE FORMACION RELIGIOSA. ESTUDIANTE MENONITA. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "CENTRO DE FORMACION RELIGIOSA",
+      "subtema": "Aplazamiento prestación del servicio militar"
+    },
+    {
+      "tema": "DIRECCION DE RECLUTAMIENTO Y CONTROL DE RESERVAS DEL EJERCITO NACIONAL",
+      "subtema": "Discriminación por razón de creencias religiosas"
+    },
+    {
+      "tema": "SERVICIO MILITAR",
+      "subtema": "Aplazamiento por haber sido aceptado o estar cursando estudios de carrera sacerdotal"
+    },
+    {
+      "tema": "SERVICIO MILITAR",
+      "subtema": "Condiciones de igualdad en materia de exenciones"
+    },
+    {
+      "tema": "ACCION DE TUTELA Y ACCION CONTENCIOSO ADMINISTRATIVA",
+      "subtema": "Ejercicio conjunto"
+    },
+    {
+      "tema": "CENTRO DE EDUCACION RELIGIOSA FRENTE A CENTROS DE EDUCACION SUPERIOR",
+      "subtema": null
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Procedencia sobre actos cuya aplicación concreta afecte irremediablemente los derechos"
+    },
+    {
+      "tema": "CENTRO DE FORMACION RELIGIOSA",
+      "subtema": "Inexistencia de obligación de impartir educación similar a la educación superior"
+    },
+    {
+      "tema": "TEST DE IGUALDAD",
+      "subtema": "Condiciones"
+    },
+    {
+      "tema": "SERVICIO MILITAR",
+      "subtema": "Aplazamiento con la sola certificación de la autoridad eclesiástica"
+    }
+  ]
+}

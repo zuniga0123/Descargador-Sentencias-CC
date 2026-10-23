@@ -1,0 +1,62 @@
+{
+  "radicado": "T-325-98",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1998,
+  "fecha_creacion": "1998-07-02",
+  "magistrado_ponente": "Dr EDUARDO CIFUENTES MUÑOZ",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+  "subtema": "Procedencia excepcional",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 28 de 1932",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1998/T-325-98.htm",
+  "fecha_descarga": "2026-10-23T05:49:03.255201+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1998-07-02",
+  "fecha_publicacion": null,
+  "numero": "T-325/98",
+  "tipo_cc": "T",
+  "prov_id": "14897",
+  "tema_relatoria": "DEBIDO PROCESO. VIA DE HECHO. LLAMAMIENTO EX-OFFICIO. PROTECCION DE BIENES DE LA SOCIEDAD CONYUGAL EN DISOLUCION. VENTA DE BIENES. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Procedencia excepcional"
+    },
+    {
+      "tema": "DERECHO DE ACCESO A LA ADMINISTRACIÓN DE JUSTICIA",
+      "subtema": "No llamamiento para intervención en proceso"
+    },
+    {
+      "tema": "VIA DE HECHO POR OMISION EN LLAMAMIENTO EX-OFFICIO",
+      "subtema": "Procedencia cuando objetivamente se dan circunstancias para hacerlo"
+    },
+    {
+      "tema": "DOCTRINA CONSTITUCIONAL SOBRE VIA DE HECHO",
+      "subtema": null
+    },
+    {
+      "tema": "DISOLUCION DE SOCIEDAD CONYUGAL",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "PRINCIPIO DE CELERIDAD Y EFICIENCIA DE LA ADMINISTRACION DE JUSTICIA",
+      "subtema": "No declaración de nulidad por existir fallo favorable"
+    },
+    {
+      "tema": "SIMULACION DE CONTRATO",
+      "subtema": "Retiro de inmueble masa de gananciales de sociedad entre cónyuges"
+    },
+    {
+      "tema": "LLAMAMIENTO EX-OFFICIO",
+      "subtema": "Alcance"
+    }
+  ]
+}

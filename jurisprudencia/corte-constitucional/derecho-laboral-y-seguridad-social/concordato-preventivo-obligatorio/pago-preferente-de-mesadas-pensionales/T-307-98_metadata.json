@@ -1,0 +1,48 @@
+{
+  "radicado": "T-307-98",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1998,
+  "fecha_creacion": "1998-06-23",
+  "magistrado_ponente": "Dr FABIO MORÓN DÍAZ",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "CONCORDATO PREVENTIVO OBLIGATORIO",
+  "subtema": "Pago preferente de mesadas pensionales",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Decreto 2677 de 1971",
+    "Ley 50 de 1990",
+    "Ley 222 de 1995"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1998/T-307-98.htm",
+  "fecha_descarga": "2026-10-23T05:34:15.628314+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1998-06-23",
+  "fecha_publicacion": null,
+  "numero": "T-307/98",
+  "tipo_cc": "T",
+  "prov_id": "14874",
+  "tema_relatoria": "SEGURIDAD SOCIAL DE LAS PERSONAS DE LA TERCERA EDAD. DER. AL MINIMO VITAL. SUSPENSION DE MESADA PENSIONAL POR EMPRESA EN CONCORDATO. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "CONCORDATO PREVENTIVO OBLIGATORIO",
+      "subtema": "Pago preferente de mesadas pensionales"
+    },
+    {
+      "tema": "CONCORDATO PREVENTIVO OBLIGATORIO",
+      "subtema": "Orden a liquidadora de dar prioridad al pago de pasivo pensional"
+    },
+    {
+      "tema": "DERECHO A LA SEGURIDAD SOCIAL DE PERSONA DE LA TERCERA EDAD",
+      "subtema": "Fundamental por conexidad"
+    },
+    {
+      "tema": "DERECHO AL MINIMO VITAL DEL PENSIONADO",
+      "subtema": "Pago oportuno de mesadas"
+    }
+  ]
+}

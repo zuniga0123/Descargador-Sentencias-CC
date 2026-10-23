@@ -1,0 +1,48 @@
+{
+  "radicado": "T-143-98",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1998,
+  "fecha_creacion": "1998-04-20",
+  "magistrado_ponente": "Dr ALEJANDRO MARTINEZ CABALLERO",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "DERECHO A LA PENSIÓN DE INVALIDEZ",
+  "subtema": "Fundamental por conexidad",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Decreto 2591 de 1991",
+    "Decreto 1295 de 1994",
+    "Decreto 1772 de 1994"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1998/T-143-98.htm",
+  "fecha_descarga": "2026-10-23T05:31:49.953111+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1998-04-20",
+  "fecha_publicacion": null,
+  "numero": "T-143/98",
+  "tipo_cc": "T",
+  "prov_id": "14697",
+  "tema_relatoria": "DER. A LA SEGURIDAD SOCIAL. DER. A LA VIDA Y A LA SALUD. DER. DE PETICION. NEGATIVA AL PAGO DE PENSION DE INVALIDEZ POR INCUMPLIMIENTO PATRONAL DE APORTES. CONCEDIDA PARCIALMENTE.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA PENSIÓN DE INVALIDEZ",
+      "subtema": "Fundamental por conexidad"
+    },
+    {
+      "tema": "DERECHO A LA PENSIÓN DE INVALIDEZ",
+      "subtema": "Afectación del mínimo vital por no reconocimiento"
+    },
+    {
+      "tema": "MEDIO DE DEFENSA JUDICIAL INEFICAZ",
+      "subtema": "Negativa a otorgar pensión de invalidez por mora en aportes"
+    },
+    {
+      "tema": "DERECHO A LA PENSIÓN DE INVALIDEZ",
+      "subtema": "Mora patronal en pago de aportes"
+    }
+  ]
+}

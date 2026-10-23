@@ -1,0 +1,54 @@
+{
+  "radicado": "T-073-98",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1998,
+  "fecha_creacion": "1998-03-09",
+  "magistrado_ponente": "Dr VLADIMIRO NARANJO MESA",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "DERECHO DE PETICION ANTE ORGANIZACIONES PRIVADAS",
+  "subtema": "Prestación de servicio público",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 361 de 1997"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1998/T-073-98.htm",
+  "fecha_descarga": "2026-10-23T05:30:59.168206+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1998-03-09",
+  "fecha_publicacion": null,
+  "numero": "T-073/98",
+  "tipo_cc": "T",
+  "prov_id": "14617",
+  "tema_relatoria": "DER. DE PETICION FRENTE A ENTIDAD PRIVADA QUE PRESTA UN SERVICIO PUBLICO. DERS. FUND. DE LOS VOLUNTARIOS. CRUZ ROJA. TRATAMIENTO Y ATENCION MEDICA. RESP. CIVIL EXTRACONTRACTUAL. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO DE PETICION ANTE ORGANIZACIONES PRIVADAS",
+      "subtema": "Prestación de servicio público"
+    },
+    {
+      "tema": "ENTIDAD DE ASISTENCIA HUMANITARIA",
+      "subtema": "Deber de garantizar derechos de admitidos como voluntarios"
+    },
+    {
+      "tema": "DEBERES DE LA PERSONA",
+      "subtema": "Procurar el cuidado integral de la salud"
+    },
+    {
+      "tema": "CRUZ ROJA DE COLOMBIA",
+      "subtema": "Suministro de elementos aptos para evitar accidentes o enfermedades"
+    },
+    {
+      "tema": "PRINCIPIO DE SOLIDARIDAD",
+      "subtema": "Servicios médicos de prevención y rehabilitación"
+    },
+    {
+      "tema": "RESPONSABILIDAD CIVIL EXTRACONTRACTUAL",
+      "subtema": "Indemnización proporcional al daño causado por actividad peligrosa"
+    }
+  ]
+}

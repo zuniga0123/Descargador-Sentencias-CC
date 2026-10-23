@@ -1,0 +1,69 @@
+{
+  "radicado": "T-131-98",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1998,
+  "fecha_creacion": "1998-04-01",
+  "magistrado_ponente": "Dr HERNANDO HERRERA VERGARA",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCION DE TUTELA CONTRA PARTICULARES",
+  "subtema": "Manejo de datos e informaciones",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1998/T-131-98.htm",
+  "fecha_descarga": "2026-10-23T05:31:39.274951+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1998-04-01",
+  "fecha_publicacion": null,
+  "numero": "T-131/98",
+  "tipo_cc": "T",
+  "prov_id": "14682",
+  "tema_relatoria": "DER. DE PETICION. DER. A LA INTIMIDAD Y AL BUEN NOMBRE. REPORTE A ASOBANCARIA COMO DEUDOR MOROSO. FONDO NAL DE AHORRO Y GRANAHORRAR. CONCEDIDA PARCIALMENTE.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCION DE TUTELA CONTRA PARTICULARES",
+      "subtema": "Manejo de datos e informaciones"
+    },
+    {
+      "tema": "ASOCIACION BANCARIA",
+      "subtema": "Autorización expresa y voluntaria del interesado para disponer de la información"
+    },
+    {
+      "tema": "RECTIFICACION DE INFORMACION POR ASOCIACION BANCARIA",
+      "subtema": "Solicitud previa"
+    },
+    {
+      "tema": "DERECHO A LA HONRA",
+      "subtema": "Vulneración por suministro de información crediticia falsa o errónea"
+    },
+    {
+      "tema": "DERECHO AL BUEN NOMBRE",
+      "subtema": "Vulneración por suministro de información falsa o errónea"
+    },
+    {
+      "tema": "DERECHO A LA INFORMACIÓN",
+      "subtema": "No es absoluto"
+    },
+    {
+      "tema": "DERECHO DE PETICIÓN",
+      "subtema": "Pronta resolución sobre refinanciación de crédito hipotecario"
+    },
+    {
+      "tema": "HABEAS DATA",
+      "subtema": "Deudor moroso en obligación hipotecaria"
+    },
+    {
+      "tema": "HABEAS DATA",
+      "subtema": "Núcleo esencial"
+    },
+    {
+      "tema": "INFORMACION VERAZ E IMPARCIAL",
+      "subtema": "Deudores"
+    }
+  ]
+}

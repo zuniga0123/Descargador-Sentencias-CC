@@ -1,0 +1,69 @@
+{
+  "radicado": "T-608-98",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1998,
+  "fecha_creacion": "1998-10-27",
+  "magistrado_ponente": "Dr VLADIMIRO NARANJO MESA",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+  "subtema": "Procedencia excepcional",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Decreto 2651 de 1991",
+    "Ley 270 de 1996",
+    "Decreto 2279 de 1989",
+    "Decreto 1818 de 1998"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1998/T-608-98.htm",
+  "fecha_descarga": "2026-10-23T05:40:16.526430+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1998-10-27",
+  "fecha_publicacion": null,
+  "numero": "T-608/98",
+  "tipo_cc": "T",
+  "prov_id": "15221",
+  "tema_relatoria": "IMPROCEDENCIA DE LA TUTELA CONTRA VIAS DE HECHO CUANDO EXISTE OTRO MEDIO DE DEFENSA JUDICIAL. CONTROVERSIA DE LAUDO ARBITRAL. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Procedencia excepcional"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Subsidiariedad"
+    },
+    {
+      "tema": "RECURSO DE ANULACION CONTRA LAUDO ARBITRAL",
+      "subtema": "Aspectos sustanciales"
+    },
+    {
+      "tema": "RECURSO EXTRAORDINARIO DE ANULACION CONTRA LAUDO ARBITRAL",
+      "subtema": "Aspectos sustanciales"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Procedencia"
+    },
+    {
+      "tema": "PROCESO ARBITRAL",
+      "subtema": "Procedencia de recursos extraordinarios"
+    },
+    {
+      "tema": "VIA DE HECHO POR TRIBUNAL DE ARBITRAMENTO",
+      "subtema": "Improcedencia de análisis por encontrarse en trámite recurso de anulación"
+    },
+    {
+      "tema": "PERJUICIO IRREMEDIABLE",
+      "subtema": "Elementos para que se configure"
+    },
+    {
+      "tema": "ACCION DE TUTELA TRANSITORIA",
+      "subtema": "Alcance"
+    }
+  ]
+}

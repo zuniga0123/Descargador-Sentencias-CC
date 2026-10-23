@@ -1,0 +1,53 @@
+{
+  "radicado": "T-149-98",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1998,
+  "fecha_creacion": "1998-04-23",
+  "magistrado_ponente": "Dr ANTONIO BARRERA CARBONELL",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "DEBIDO PROCESO POLICIVO",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1998/T-149-98.htm",
+  "fecha_descarga": "2026-10-23T05:31:57.297228+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1998-04-23",
+  "fecha_publicacion": null,
+  "numero": "T-149/98",
+  "tipo_cc": "T",
+  "prov_id": "14703",
+  "tema_relatoria": "DEBIDO PROCESO. DER. DE POSESION. VIA DE HECHO EN ACTUACION POLICIVA. NO SE FORMULARON OPOSICIONES. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DEBIDO PROCESO POLICIVO",
+      "subtema": null
+    },
+    {
+      "tema": "AUTONOMIA FUNCIONAL DE LAS AUTORIDADES DE POLICIA",
+      "subtema": null
+    },
+    {
+      "tema": "PROCESO POLICIVO DE RESTITUCION DE INMUEBLE",
+      "subtema": "Oposición inoportuna en diligencia"
+    },
+    {
+      "tema": "ACTO JURISDICCIONAL",
+      "subtema": "Exclusión del control de la jurisdicción administrativa"
+    },
+    {
+      "tema": "PROCESO POLICIVO",
+      "subtema": "Función jurisdiccional de autoridades"
+    },
+    {
+      "tema": "VIA DE HECHO EN PROCESO POLICIVO",
+      "subtema": "Procedencia excepcional de tutela"
+    }
+  ]
+}

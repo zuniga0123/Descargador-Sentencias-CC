@@ -1,0 +1,50 @@
+{
+  "radicado": "T-323-98",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1998,
+  "fecha_creacion": "1998-07-02",
+  "magistrado_ponente": "Dr ALFREDO BELTRÁN SIERRA",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "PENSION DE JUBILACION",
+  "subtema": "Improcedencia de inclusión en nómina por carecer de competencia la entidad",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 50 de 1990",
+    "Ley 100 de 1993"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1998/T-323-98.htm",
+  "fecha_descarga": "2026-10-23T05:48:55.921268+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1998-07-02",
+  "fecha_publicacion": null,
+  "numero": "T-323/98",
+  "tipo_cc": "T",
+  "prov_id": "14895",
+  "tema_relatoria": "INCLUSION EN NOMINA DE PENSIONADOS. SUBSIDIARIEDAD DE LA TUTELA. CONFLICTO DE INTERESES. EMPOMARTA. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "PENSION DE JUBILACION",
+      "subtema": "Improcedencia de inclusión en nómina por carecer de competencia la entidad"
+    },
+    {
+      "tema": "LEY DE SEGURIDAD SOCIAL",
+      "subtema": "Beneficiarios fondo de pensiones de empresas de metales preciosos y Empos"
+    },
+    {
+      "tema": "PENSION DE JUBILACION",
+      "subtema": "Reconocimiento y pago corresponde a entidades distintas"
+    },
+    {
+      "tema": "MEDIO DE DEFENSA JUDICIAL",
+      "subtema": "Controversia para ordenar la inclusión en nómina del pensionado"
+    },
+    {
+      "tema": "PENSION DE JUBILACION",
+      "subtema": "Casos en que procede la inclusión en nómina"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "radicado": "C-111-99",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1999,
+  "fecha_creacion": "1999-02-24",
+  "magistrado_ponente": "Dr ALFREDO BELTRÁN SIERRA",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "CONCILIACION JUDICIAL O EXTRAJUDICIAL",
+  "subtema": "Interposición de recursos por el Ministerio Público",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2651 de 1991",
+    "Ley 23 de 1991",
+    "Decreto 2279 de 1989"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1999/C-111-99.htm",
+  "fecha_descarga": "2026-10-23T05:27:17.703708+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1999-02-24",
+  "fecha_publicacion": null,
+  "numero": "C-111/99",
+  "tipo_cc": "C",
+  "prov_id": "15554",
+  "tema_relatoria": "LEY 446/98. ART. 35 N° 5 PARCIAL. ATRIBUCIONES DEL MINISTERIO PUBLICO. TRAMITE CONCILIATORIO PREJUDICIAL. EXEQUIBLE.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "CONCILIACION JUDICIAL O EXTRAJUDICIAL",
+      "subtema": "Interposición de recursos por el Ministerio Público"
+    },
+    {
+      "tema": "CONCILIACION PREJUDICIAL",
+      "subtema": "Control judicial del acta"
+    },
+    {
+      "tema": "CONCILIACION EXTRAJUDICIAL",
+      "subtema": "Control jurídico"
+    },
+    {
+      "tema": "MINISTERIO PUBLICO",
+      "subtema": "Intervención en conciliaciones extrajudiciales"
+    }
+  ]
+}

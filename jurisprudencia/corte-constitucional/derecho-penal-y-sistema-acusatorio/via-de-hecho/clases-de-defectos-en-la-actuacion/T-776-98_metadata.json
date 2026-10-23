@@ -1,0 +1,45 @@
+{
+  "radicado": "T-776-98",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1998,
+  "fecha_creacion": "1998-12-11",
+  "magistrado_ponente": "Dr ALFREDO BELTRÁN SIERRA",
+  "area": "Derecho Penal y Sistema Acusatorio",
+  "tema": "VIA DE HECHO",
+  "subtema": "Clases de defectos en la actuación",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1998/T-776-98.htm",
+  "fecha_descarga": "2026-10-23T05:44:20.446088+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1998-12-11",
+  "fecha_publicacion": null,
+  "numero": "T-776/98",
+  "tipo_cc": "T",
+  "prov_id": "15402",
+  "tema_relatoria": "DEBIDO PROCESO. CONDENA DEL DEMANDANTE POR FALTA DE DEFENSA TECNICA. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "VIA DE HECHO",
+      "subtema": "Clases de defectos en la actuación"
+    },
+    {
+      "tema": "DERECHO DE DEFENSA EN PROCESO PENAL",
+      "subtema": "Práctica y controversia de pruebas y decisión de condena"
+    },
+    {
+      "tema": "VIA DE HECHO EN PROCESO PENAL",
+      "subtema": "Elementos adicionales a demostrar por fallas en la defensa técnica"
+    },
+    {
+      "tema": "VIA DE HECHO EN PROCESO PENAL",
+      "subtema": "Falta de defensa técnica en etapa de juzgamiento"
+    }
+  ]
+}

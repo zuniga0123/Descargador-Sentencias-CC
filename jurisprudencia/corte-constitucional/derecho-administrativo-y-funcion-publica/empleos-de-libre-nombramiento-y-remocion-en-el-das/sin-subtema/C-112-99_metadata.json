@@ -1,0 +1,48 @@
+{
+  "radicado": "C-112-99",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1999,
+  "fecha_creacion": "1999-02-25",
+  "magistrado_ponente": "Dr CARLOS GAVIRIA DÍAZ",
+  "area": "Derecho Administrativo y Función Pública",
+  "tema": "EMPLEOS DE LIBRE NOMBRAMIENTO Y REMOCION EN EL DAS",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2146 de 1989",
+    "Decreto 2147 de 1989",
+    "Decreto 2110 de 1992",
+    "Ley 61 de 1987"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1999/C-112-99.htm",
+  "fecha_descarga": "2026-10-23T05:27:21.345356+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1999-02-25",
+  "fecha_publicacion": null,
+  "numero": "C-112/99",
+  "tipo_cc": "C",
+  "prov_id": "15561",
+  "tema_relatoria": "DEC. 2146/89. ART. 34. INSUBSISTENCIA DISCRECIONAL DE EMPLEADOS DEL D.A.S. EXEQUIBLE.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "EMPLEOS DE LIBRE NOMBRAMIENTO Y REMOCION EN EL DAS",
+      "subtema": null
+    },
+    {
+      "tema": "CARRERA ADMINISTRATIVA",
+      "subtema": "Aplicación"
+    },
+    {
+      "tema": "PUBLICIDAD DE ACTO ADMINISTRATIVO",
+      "subtema": "Excepción por no motivación insubsistencia"
+    },
+    {
+      "tema": "PODER DISCRECIONAL",
+      "subtema": "Alcance"
+    }
+  ]
+}

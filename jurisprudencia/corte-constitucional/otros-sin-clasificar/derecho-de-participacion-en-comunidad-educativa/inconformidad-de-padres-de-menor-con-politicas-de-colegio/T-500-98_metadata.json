@@ -1,0 +1,54 @@
+{
+  "radicado": "T-500-98",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1998,
+  "fecha_creacion": "1998-09-15",
+  "magistrado_ponente": "Dr CARLOS GAVIRIA DÍAZ",
+  "area": "Otros - Sin clasificar",
+  "tema": "DERECHO DE PARTICIPACION EN COMUNIDAD EDUCATIVA",
+  "subtema": "Inconformidad de padres de menor con políticas de colegio",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 115 de 1994",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1998/T-500-98.htm",
+  "fecha_descarga": "2026-10-23T05:38:10.049946+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1998-09-15",
+  "fecha_publicacion": null,
+  "numero": "T-500/98",
+  "tipo_cc": "T",
+  "prov_id": "15100",
+  "tema_relatoria": "DER. A LA IGUALDAD. DER. A LA PARTICIPACION EN LAS COMUNIDADES EDUCATIVAS. DERS DE LOS NIÑOS A LA EDUCACION. NEGACION DE MATRICULA A MENOR EN JARDIN. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO DE PARTICIPACION EN COMUNIDAD EDUCATIVA",
+      "subtema": "Inconformidad de padres de menor con políticas de colegio"
+    },
+    {
+      "tema": "DERECHO A LA EDUCACION DEL NIÑO",
+      "subtema": "Afectación de la continuidad y permanencia, por inconformidad de los padres con políticas del colegio"
+    },
+    {
+      "tema": "ASOCIACION DE PADRES DE FAMILIA",
+      "subtema": "Incumplimiento de contrato educativo"
+    },
+    {
+      "tema": "DERECHO A LA EDUCACION DEL NIÑO",
+      "subtema": "Permanencia en sistema y plantel educativo"
+    },
+    {
+      "tema": "DERECHO DE PARTICIPACION EN COMUNIDAD EDUCATIVA",
+      "subtema": "Obligaciones de los padres"
+    },
+    {
+      "tema": "SECRETARIA DE EDUCACION",
+      "subtema": "Control de jardín infantil"
+    }
+  ]
+}

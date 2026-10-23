@@ -1,0 +1,152 @@
+{
+  "radicado": "SU562-99",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1999,
+  "fecha_creacion": "1999-08-04",
+  "magistrado_ponente": "Dr ALEJANDRO MARTINEZ CABALLERO",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "DERECHO A LA SALUD",
+  "subtema": "Fundamental por conexidad con la vida",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Ley 50 de 1990",
+    "Ley 95 de 1890",
+    "Ley 383 de 1997"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1999/SU562-99.htm",
+  "fecha_descarga": "2026-10-23T05:29:09.180601+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1999-08-04",
+  "fecha_publicacion": null,
+  "numero": "SU.562/99",
+  "tipo_cc": "SU",
+  "prov_id": "16041",
+  "tema_relatoria": "DER. A LA SEGURIDAD SOCIAL. DER. A LA SALUD. CONTINUIDAD EN EL SERVICIO PUBLICO DE SALUD. MORA EN EL PAGO DE APORTES EN SALUD. QUINTEX EMPRESA EN CONCORDATO. CONCEDIDA PARCIALMENTE.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Fundamental por conexidad con la vida"
+    },
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "No es de aplicación inmediata"
+    },
+    {
+      "tema": "PRINCIPIO DE CONTINUIDAD EN EL SERVICIO DE SALUD",
+      "subtema": "Mora en el pago de aportes por empleador"
+    },
+    {
+      "tema": "PRINCIPIO DE GARANTIA A LA SEGURIDAD SOCIAL",
+      "subtema": "Mora en pago de aportes por empleador"
+    },
+    {
+      "tema": "DERECHOS SOCIALES Y ECONOMICOS",
+      "subtema": "No son de aplicación inmediata"
+    },
+    {
+      "tema": "EMPLEADOR",
+      "subtema": "Mora de aportes en salud"
+    },
+    {
+      "tema": "ENTIDAD PROMOTORA DE SALUD",
+      "subtema": "Obligación de cobrar aportes al empleador"
+    },
+    {
+      "tema": "REGIMEN SUBSIDIADO DE SEGURIDAD SOCIAL EN SALUD",
+      "subtema": "Aplicación"
+    },
+    {
+      "tema": "TRABAJADOR INDEPENDIENTE",
+      "subtema": "Incumplimiento en pago de aportes en salud"
+    },
+    {
+      "tema": "SUSPENSION DE CONTRATO DE TRABAJO",
+      "subtema": "Ante incumplimiento del empleador del servicio de salud procede la tutela contra la EPS"
+    },
+    {
+      "tema": "TRABAJADOR ASALARIADO",
+      "subtema": "Suspensión de afiliación resulta desproporcionada para el trabajador debido al no pago de aportes en salud por empleador, según sentencia C-177/98"
+    },
+    {
+      "tema": "SUSPENSION DE CONTRATO DE TRABAJO",
+      "subtema": "Asunción servicio de salud por empleador por mora en aportes"
+    },
+    {
+      "tema": "SISTEMA GENERAL DE SEGURIDAD SOCIAL EN SALUD",
+      "subtema": "Sujeción a principios"
+    },
+    {
+      "tema": "DERECHO A LA SEGURIDAD SOCIAL EN SALUD",
+      "subtema": "Contenido constitucionalmente protegido"
+    },
+    {
+      "tema": "EMPLEADOR",
+      "subtema": "Sanciones por no pago de aportes en seguridad social"
+    },
+    {
+      "tema": "PRINCIPIO DE CONTINUIDAD DEL SISTEMA DE SEGURIDAD SOCIAL EN SALUD POR EMPLEADOR EN LIQUIDACION",
+      "subtema": "No suspensión"
+    },
+    {
+      "tema": "REGIMEN CONTRIBUTIVO DE SEGURIDAD SOCIAL EN SALUD",
+      "subtema": "Afectación del subsistema por mantenerse prestaciones con independencia del cumplimiento en cotizaciones"
+    },
+    {
+      "tema": "REGIMEN CONTRIBUTIVO DE SEGURIDAD SOCIAL EN SALUD",
+      "subtema": "Vinculación indefinida sin exigencia de pago actual de cotizaciones genera desigualdad"
+    },
+    {
+      "tema": "EMPLEADOR",
+      "subtema": "Responsabilidad por no descuento y giro de aportes en salud"
+    },
+    {
+      "tema": "PRINCIPIO DE CONTINUIDAD DEL SISTEMA DE SEGURIDAD SOCIAL EN SALUD POR EMPLEADOR EN CONCORDATO",
+      "subtema": "No suspensión"
+    },
+    {
+      "tema": "SALUD",
+      "subtema": "Servicio público esencial"
+    },
+    {
+      "tema": "SUSPENSION DE CONTRATO DE TRABAJO",
+      "subtema": "No pago de cotizaciones diferente a la retención no constituye delito"
+    },
+    {
+      "tema": "SUSPENSION DE CONTRATO DE TRABAJO",
+      "subtema": "Empleador debe cubrir totalidad de cotización a EPS"
+    },
+    {
+      "tema": "SUSPENSION DE CONTRATO DE TRABAJO",
+      "subtema": "Se mantiene prestación de seguridad social"
+    },
+    {
+      "tema": "SUSPENSION DE CONTRATO DE TRABAJO",
+      "subtema": "Se mantiene atención en salud de trabajadores"
+    },
+    {
+      "tema": "SISTEMA GENERAL DE SEGURIDAD SOCIAL EN SALUD",
+      "subtema": "Afiliación es al sistema y no a la EPS"
+    },
+    {
+      "tema": "SISTEMA GENERAL DE SEGURIDAD SOCIAL EN SALUD",
+      "subtema": "Carácter mixto para trabajadores asalariados o beneficiarios"
+    },
+    {
+      "tema": "SISTEMA GENERAL DE SEGURIDAD SOCIAL EN SALUD",
+      "subtema": "Sanciones por no pago de aportes"
+    },
+    {
+      "tema": "SISTEMA GENERAL DE SEGURIDAD SOCIAL EN SALUD",
+      "subtema": "Ausencia de cotización"
+    },
+    {
+      "tema": "TRABAJADOR DEPENDIENTE",
+      "subtema": "Incumplimiento en pago de aportes en salud por empleador"
+    }
+  ]
+}

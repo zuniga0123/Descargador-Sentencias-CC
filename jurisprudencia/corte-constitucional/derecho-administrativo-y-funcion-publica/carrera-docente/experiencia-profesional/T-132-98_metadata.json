@@ -1,0 +1,48 @@
+{
+  "radicado": "T-132-98",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1998,
+  "fecha_creacion": "1998-04-02",
+  "magistrado_ponente": "Dr ANTONIO BARRERA CARBONELL",
+  "area": "Derecho Administrativo y Función Pública",
+  "tema": "CARRERA DOCENTE",
+  "subtema": "Experiencia profesional",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Decreto 1706 de 1989",
+    "Ley 48 de 1993",
+    "Ley 30 de 1992"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1998/T-132-98.htm",
+  "fecha_descarga": "2026-10-23T05:31:42.830969+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1998-04-02",
+  "fecha_publicacion": null,
+  "numero": "T-132/98",
+  "tipo_cc": "T",
+  "prov_id": "14687",
+  "tema_relatoria": "CONCURSO DE MERITOS PARA CARGOS DE DOCENTES. FACTOR ORIGEN Y EXPERIENCIA DE LOS CONCURSANTES. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "CARRERA DOCENTE",
+      "subtema": "Experiencia profesional"
+    },
+    {
+      "tema": "DERECHO A LA IGUALDAD EN ACCESO A CARRERA DOCENTE",
+      "subtema": "Prerrogativa por origen de la persona"
+    },
+    {
+      "tema": "DERECHO A LA IGUALDAD",
+      "subtema": "Discriminación entre nacionales"
+    },
+    {
+      "tema": "IGUALDAD DE OPORTUNIDADES EN ACCESO A CARGOS PUBLICOS",
+      "subtema": "Prerrogativa por ser oriundo de una región"
+    }
+  ]
+}

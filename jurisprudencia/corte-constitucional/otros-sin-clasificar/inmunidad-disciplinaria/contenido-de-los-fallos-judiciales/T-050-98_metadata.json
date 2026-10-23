@@ -1,0 +1,57 @@
+{
+  "radicado": "T-050-98",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1998,
+  "fecha_creacion": "1998-03-03",
+  "magistrado_ponente": "Dr JOSE GREGORIO HERNANDEZ GALINDO",
+  "area": "Otros - Sin clasificar",
+  "tema": "INMUNIDAD DISCIPLINARIA",
+  "subtema": "Contenido de los fallos judiciales",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1998/T-050-98.htm",
+  "fecha_descarga": "2026-10-23T05:30:37.642526+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1998-03-03",
+  "fecha_publicacion": null,
+  "numero": "T-050/98",
+  "tipo_cc": "T",
+  "prov_id": "14594",
+  "tema_relatoria": "DER. DE ASOCIACION SINDICAL. DER. A LA IGUALDAD. DISCRIMINACION LABORAL POR AFILIACION A SINDICATO. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "INMUNIDAD DISCIPLINARIA",
+      "subtema": "Contenido de los fallos judiciales"
+    },
+    {
+      "tema": "PRINCIPIO DE AUTONOMIA FUNCIONAL DEL JUEZ",
+      "subtema": "No da lugar a responsabilidad disciplinaria"
+    },
+    {
+      "tema": "DERECHO DE ASOCIACIÓN SINDICAL",
+      "subtema": "Discriminación por fecha de entrada en vigencia del aumento salarial"
+    },
+    {
+      "tema": "MEDIO DE DEFENSA JUDICIAL",
+      "subtema": "Discriminación contra trabajadores sindicalizados por fecha de entrada en vigencia del aumento salarial"
+    },
+    {
+      "tema": "PACTO COLECTIVO Y CONVENCION COLECTIVA",
+      "subtema": "Discriminación por fecha de entrada en vigencia del aumento salarial"
+    },
+    {
+      "tema": "DERECHO A LA IGUALDAD",
+      "subtema": "Discriminación contra trabajadores sindicalizados por fecha de entrada en vigencia del aumento salarial"
+    },
+    {
+      "tema": "SALA DISCIPLINARIA DEL CONSEJO SUPERIOR O SECCIONAL DE LA JUDICATURA",
+      "subtema": "Competencia para fallar tutelas"
+    }
+  ]
+}

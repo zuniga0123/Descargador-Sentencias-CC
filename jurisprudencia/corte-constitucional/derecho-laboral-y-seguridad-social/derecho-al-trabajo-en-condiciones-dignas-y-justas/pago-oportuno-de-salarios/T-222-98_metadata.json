@@ -1,0 +1,41 @@
+{
+  "radicado": "T-222-98",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1998,
+  "fecha_creacion": "1998-05-18",
+  "magistrado_ponente": "Dr FABIO MORÓN DÍAZ",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "DERECHO AL TRABAJO EN CONDICIONES DIGNAS Y JUSTAS",
+  "subtema": "Pago oportuno de salarios",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1998/T-222-98.htm",
+  "fecha_descarga": "2026-10-23T05:46:41.028303+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1998-05-18",
+  "fecha_publicacion": null,
+  "numero": "T-222/98",
+  "tipo_cc": "T",
+  "prov_id": "14780",
+  "tema_relatoria": "DER. AL TRABAJO. DER. AL MINIMO VITAL. RETRASO EN EL PAGO DE SALARIOS. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO AL TRABAJO EN CONDICIONES DIGNAS Y JUSTAS",
+      "subtema": "Pago oportuno de salarios"
+    },
+    {
+      "tema": "MEDIO DE DEFENSA JUDICIAL INEFICAZ",
+      "subtema": "Pago oportuno de salarios"
+    },
+    {
+      "tema": "REMUNERACION MINIMA VITAL Y MOVIL",
+      "subtema": "Pago oportuno de salarios"
+    }
+  ]
+}

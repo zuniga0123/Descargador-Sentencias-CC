@@ -1,0 +1,46 @@
+{
+  "radicado": "T-798-98",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1998,
+  "fecha_creacion": "1998-12-14",
+  "magistrado_ponente": "Dr VLADIMIRO NARANJO MESA",
+  "area": "Otros - Sin clasificar",
+  "tema": "ACCESO A LA UNIVERSIDAD PUBLICA",
+  "subtema": "Cupos son bienes escasos",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 48 de 1993",
+    "Ley 115 de 1994"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1998/T-798-98.htm",
+  "fecha_descarga": "2026-10-23T05:45:06.919093+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1998-12-14",
+  "fecha_publicacion": null,
+  "numero": "T-798/98",
+  "tipo_cc": "T",
+  "prov_id": "15425",
+  "tema_relatoria": "DER. A LA EDUCACION. DER. A LA IGUALDAD. CUPOS EN LAS UNIVERSIDADES. UNIVERSIDAD SURCOLOMBIANA DE NEIVA. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCESO A LA UNIVERSIDAD PUBLICA",
+      "subtema": "Cupos son bienes escasos"
+    },
+    {
+      "tema": "DERECHO A LA IGUALDAD EN ACCESO A UNIVERSIDAD PUBLICA",
+      "subtema": "Puntaje adicional para quienes prestaron servicio militar e hijos de docentes"
+    },
+    {
+      "tema": "ACCESO A LA UNIVERSIDAD PUBLICA",
+      "subtema": "Inconstitucionalidad de puntaje adicional a bachilleres que prestaron servicio militar"
+    },
+    {
+      "tema": "ACCESO A LA UNIVERSIDAD PUBLICA",
+      "subtema": "Inconstitucionalidad de privilegios para hijos de docentes"
+    }
+  ]
+}

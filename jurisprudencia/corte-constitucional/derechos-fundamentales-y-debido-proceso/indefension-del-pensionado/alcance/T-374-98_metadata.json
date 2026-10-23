@@ -1,0 +1,58 @@
+{
+  "radicado": "T-374-98",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1998,
+  "fecha_creacion": "1998-07-22",
+  "magistrado_ponente": "Dr JOSE GREGORIO HERNANDEZ GALINDO",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "INDEFENSION DEL PENSIONADO",
+  "subtema": "Alcance",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Decreto Ley 1 de 1984"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1998/T-374-98.htm",
+  "fecha_descarga": "2026-10-23T05:35:45.353620+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1998-07-22",
+  "fecha_publicacion": null,
+  "numero": "T-374/98",
+  "tipo_cc": "T",
+  "prov_id": "14955",
+  "tema_relatoria": "DER. DE PETICION. SOLICITUD DE RECONOCIMIENTO DE PENSION DE JUBILACION. FEDERACION DE CAFETEROS. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "INDEFENSION DEL PENSIONADO",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "DERECHO DE PETICION ANTE ORGANIZACIONES PRIVADAS",
+      "subtema": "Inexistencia del derecho al sigilo patronal respecto de reclamaciones laborales"
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA PARTICULARES",
+      "subtema": "Procedencia excepcional"
+    },
+    {
+      "tema": "DERECHO DE PETICION ANTE ORGANIZACIONES PRIVADAS",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "DERECHO DE PETICION ANTE ORGANIZACIONES PRIVADAS",
+      "subtema": "Dignidad del trabajador hace exigible respuesta de particulares"
+    },
+    {
+      "tema": "DERECHO DE PETICION ANTE ORGANIZACIONES PRIVADAS",
+      "subtema": "Protección por reclamo de pensión legal"
+    },
+    {
+      "tema": "DERECHO A LA INFORMACIÓN",
+      "subtema": "Protección por sigilo patronal respecto de reclamaciones laborales"
+    }
+  ]
+}

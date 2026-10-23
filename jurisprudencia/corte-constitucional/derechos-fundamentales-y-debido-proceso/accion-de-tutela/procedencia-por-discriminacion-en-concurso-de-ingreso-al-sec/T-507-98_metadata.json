@@ -1,0 +1,54 @@
+{
+  "radicado": "T-507-98",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1998,
+  "fecha_creacion": "1998-09-17",
+  "magistrado_ponente": "Dr ANTONIO BARRERA CARBONELL",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCIÓN DE TUTELA",
+  "subtema": "Procedencia por discriminación en concurso de ingreso al sector educativo",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 48 de 1993"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1998/T-507-98.htm",
+  "fecha_descarga": "2026-10-23T05:38:24.455314+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1998-09-17",
+  "fecha_publicacion": null,
+  "numero": "T-507/98",
+  "tipo_cc": "T",
+  "prov_id": "15109",
+  "tema_relatoria": "CONCURSO PARA DOCENTES. DER. A LA IGUALDAD. DER. AL TRABAJO. DISCRIMINACION POR PREVALENCIA DEL ORIGEN DE LOS CONCURSANTES. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Procedencia por discriminación en concurso de ingreso al sector educativo"
+    },
+    {
+      "tema": "CARRERA DOCENTE",
+      "subtema": "Méritos y calidades de aspirantes"
+    },
+    {
+      "tema": "CONCURSO PUBLICO",
+      "subtema": "Condiciones"
+    },
+    {
+      "tema": "ACCESO A LA UNIVERSIDAD PUBLICA",
+      "subtema": "Cupos son bienes escasos"
+    },
+    {
+      "tema": "INAPLICACION DE RESOLUCION",
+      "subtema": "Prerrogativa en concurso por factor origen"
+    },
+    {
+      "tema": "DERECHO A LA IGUALDAD EN ACCESO A CARRERA DOCENTE",
+      "subtema": "Prerrogativa por ser oriundo de región"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "radicado": "T-027-98",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1998,
+  "fecha_creacion": "1998-02-16",
+  "magistrado_ponente": "Dr ANTONIO BARRERA CARBONELL",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCIÓN DE TUTELA",
+  "subtema": "Efectividad condicionada a decisión penal",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 11 de 1987"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1998/T-027-98.htm",
+  "fecha_descarga": "2026-10-23T05:30:09.017540+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1998-02-16",
+  "fecha_publicacion": null,
+  "numero": "T-027/98",
+  "tipo_cc": "T",
+  "prov_id": "14570",
+  "tema_relatoria": "DEBIDO PROCESO. CONDUCTA RENUENTE DEL JUEZ Y SU SECRETARIO EN COLABORAR CON LA JUSTICIA LABORAL PARA HACER EFECTIVA LA ACREENCIA LABORAL DEL DEMANDANTE. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Efectividad condicionada a decisión penal"
+    },
+    {
+      "tema": "VIA DE HECHO POR NO ACUMULACION DE EMBARGO EN PROCESO DE DIFERENTE JURISDICCION",
+      "subtema": null
+    },
+    {
+      "tema": "LEY PROCESAL",
+      "subtema": "Desconocimiento sutil"
+    },
+    {
+      "tema": "REVISION FALLO DE TUTELA",
+      "subtema": "Alcance"
+    }
+  ]
+}

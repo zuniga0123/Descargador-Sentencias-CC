@@ -1,0 +1,54 @@
+{
+  "radicado": "C-135-99",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1999,
+  "fecha_creacion": "1999-03-03",
+  "magistrado_ponente": "Dr FABIO MORÓN DÍAZ",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "LIBERTAD DE CONFIGURACIÓN LEGISLATIVA",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 144 de 1994",
+    "Ley 446 de 1998",
+    "Decreto 2651 de 1991",
+    "Ley 23 de 1991",
+    "Decreto 2279 de 1989",
+    "Ley 294 de 1996"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1999/C-135-99.htm",
+  "fecha_descarga": "2026-10-23T05:27:44.727946+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1999-03-03",
+  "fecha_publicacion": null,
+  "numero": "C-135/99",
+  "tipo_cc": "C",
+  "prov_id": "15580",
+  "tema_relatoria": "C.C.A. ART. 146 INCISO FINAL MODIFICADO POR LEY 446/98. ART. 48. INTERVENCION DE TERCEROS EN PROCESOS DE PERDIDA DE ENVESTIDURA. EXEQUIBLE.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "LIBERTAD DE CONFIGURACIÓN LEGISLATIVA",
+      "subtema": null
+    },
+    {
+      "tema": "DERECHO DE PARTICIPACIÓN POLÍTICA",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "PRINCIPIO DE IGUALDAD EN CONSTITUCIONALIDAD",
+      "subtema": null
+    },
+    {
+      "tema": "DERECHO A LA IGUALDAD",
+      "subtema": "Restricción constitucional"
+    },
+    {
+      "tema": "PERDIDA DE INVESTIDURA",
+      "subtema": "Inadmisibilidad de intervención de terceros"
+    }
+  ]
+}

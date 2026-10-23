@@ -1,0 +1,52 @@
+{
+  "radicado": "T-756-98",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1998,
+  "fecha_creacion": "1998-12-04",
+  "magistrado_ponente": "Dr FABIO MORON DIAZ",
+  "area": "Derecho a la Salud",
+  "tema": "MEDIO DE DEFENSA JUDICIAL",
+  "subtema": "Desembolso de valores que legalmente estaba o no obligado a pagar la empresa de medicina prepagada",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 74 de 1968",
+    "Decreto 1938 de 1994",
+    "Decreto 937 de 1989"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1998/T-756-98.htm",
+  "fecha_descarga": "2026-10-23T05:43:55.072649+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1998-12-04",
+  "fecha_publicacion": null,
+  "numero": "T-756/98",
+  "tipo_cc": "T",
+  "prov_id": "15379",
+  "tema_relatoria": "DER. A LA VIDA Y A LA SALUD. TRANSPLANTE DE MEDULA OSEA. TRATAMIENTO EN EL EXTERIOR. E.P.S. SALUD COLMENA. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "MEDIO DE DEFENSA JUDICIAL",
+      "subtema": "Desembolso de valores que legalmente estaba o no obligado a pagar la empresa de medicina prepagada"
+    },
+    {
+      "tema": "DERECHO A LA VIDA",
+      "subtema": "Comprende la salud e integridad física"
+    },
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Fundamental por conexidad"
+    },
+    {
+      "tema": "ESTADO SOCIAL DE DERECHO",
+      "subtema": "Atención en salud"
+    },
+    {
+      "tema": "VIDA",
+      "subtema": "Valor y derecho"
+    }
+  ]
+}

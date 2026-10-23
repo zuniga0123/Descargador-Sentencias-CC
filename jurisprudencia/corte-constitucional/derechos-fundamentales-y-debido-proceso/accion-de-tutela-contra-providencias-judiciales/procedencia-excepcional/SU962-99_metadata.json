@@ -1,0 +1,59 @@
+{
+  "radicado": "SU962-99",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1999,
+  "fecha_creacion": "1999-12-01",
+  "magistrado_ponente": "Dr FABIO MORON DIAZ",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+  "subtema": "Procedencia excepcional",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 36 de 1992",
+    "Decreto Ley 3130 de 1968",
+    "Ley 3130 de 1968",
+    "Decreto 3130 de 1968",
+    "Decreto 2591 de 1991",
+    "Ley 1689 de 1997",
+    "Ley 36 de 1992"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1999/SU962-99.htm",
+  "fecha_descarga": "2026-10-23T05:28:42.536651+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1999-12-01",
+  "fecha_publicacion": null,
+  "numero": "SU.962/99",
+  "tipo_cc": "SU",
+  "prov_id": "16463",
+  "tema_relatoria": "VIA DE HECHO EN MATERIA DE INTERPRETACION JUDICIAL. OBLIGATORIEDAD DE CONSULTA DE LAS SENTENCIAS PARCIAL O TOTAL ADVERSAS A COLPUERTOS Y FONCOLPUERTOS. DEBIDO PROCESO. RECURSO DE APELACION. CONCEDIDA PARC. NEGADA PARC.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Procedencia excepcional"
+    },
+    {
+      "tema": "CONSULTA EN MATERIA LABORAL",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "VIA DE HECHO EN MATERIA DE INTERPRETACION",
+      "subtema": "Presupuestos necesarios"
+    },
+    {
+      "tema": "CONSULTA EN MATERIA LABORAL",
+      "subtema": "Obligatoriedad cuando fuere adversa a la Nación"
+    },
+    {
+      "tema": "CONSULTA EN MATERIA LABORAL",
+      "subtema": "Obligatoriedad cuando fuere adversa a Foncolpuertos"
+    },
+    {
+      "tema": "VIA DE HECHO",
+      "subtema": "Alcance"
+    }
+  ]
+}

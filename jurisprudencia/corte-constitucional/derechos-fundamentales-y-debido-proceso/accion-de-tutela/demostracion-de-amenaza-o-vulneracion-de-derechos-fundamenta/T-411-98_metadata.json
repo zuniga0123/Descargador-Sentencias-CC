@@ -1,0 +1,47 @@
+{
+  "radicado": "T-411-98",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1998,
+  "fecha_creacion": "1998-08-12",
+  "magistrado_ponente": "Dr HERNANDO HERRERA VERGARA",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCIÓN DE TUTELA",
+  "subtema": "Demostración de amenaza o vulneración de derechos fundamentales",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Decreto 1412 de 1992",
+    "Decreto 1214 de 1990"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1998/T-411-98.htm",
+  "fecha_descarga": "2026-10-23T05:36:21.649650+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1998-08-12",
+  "fecha_publicacion": null,
+  "numero": "T-411/98",
+  "tipo_cc": "T",
+  "prov_id": "14995",
+  "tema_relatoria": "DER. A LA SEGURIDAD SOCIAL. DER. A LA SALUD. PRESTACIONES ASISTENCIALES MIN- DEFENSA. NO SE PROBO AMENAZA DE DERS. FUNDAMENTALES. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Demostración de amenaza o vulneración de derechos fundamentales"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Improcedencia por no demostración de relación contractual para atención en salud"
+    },
+    {
+      "tema": "DERECHO A LA SEGURIDAD SOCIAL",
+      "subtema": "Garantía irrenunciable de trabajadores"
+    },
+    {
+      "tema": "DERECHO A LA VIDA",
+      "subtema": "No demostración afectación por falta de intervención quirúrgica reconstructiva facial"
+    }
+  ]
+}

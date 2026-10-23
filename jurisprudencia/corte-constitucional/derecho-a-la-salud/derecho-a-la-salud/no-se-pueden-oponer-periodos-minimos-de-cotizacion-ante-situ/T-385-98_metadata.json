@@ -1,0 +1,47 @@
+{
+  "radicado": "T-385-98",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1998,
+  "fecha_creacion": "1998-07-30",
+  "magistrado_ponente": "Dr ALFREDO BELTRÁN SIERRA",
+  "area": "Derecho a la Salud",
+  "tema": "DERECHO A LA SALUD",
+  "subtema": "No se pueden oponer periodos mínimos de cotización ante situaciones de urgencia",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1998/T-385-98.htm",
+  "fecha_descarga": "2026-10-23T05:35:56.338840+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1998-07-30",
+  "fecha_publicacion": null,
+  "numero": "T-385/98",
+  "tipo_cc": "T",
+  "prov_id": "14968",
+  "tema_relatoria": "DER. A LA SALUD DEL MENOR. DEFORMACION DEL ORGANO VIRIL. TRATAMIENTO MEDICO POR SALUDCOOP E.P.S. ENFERMEDAD CONGENITA. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "No se pueden oponer periodos mínimos de cotización ante situaciones de urgencia"
+    },
+    {
+      "tema": "ENTIDAD PROMOTORA DE SALUD",
+      "subtema": "Periodo mínimo de cotización para servicios de alto costo"
+    },
+    {
+      "tema": "ENFERMEDADES CATASTROFICAS O RUINOSAS",
+      "subtema": "Inicio de tratamiento por EPS sin cumplir periodo mínimo de cotización"
+    },
+    {
+      "tema": "DERECHO A LA SALUD DE NIÑOS, NIÑAS Y ADOLESCENTES",
+      "subtema": "Inicio tratamiento de alto costo por EPS sin cumplir periodo mínimo de cotización"
+    },
+    {
+      "tema": "SUBCUENTA DEL FONDO DE SOLIDARIDAD Y GARANTIA DEL SISTEMA GENERAL DE SEGURIDAD SOCIAL EN SALUD",
+      "subtema": "Repetición de EPS por sobrecostos"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "radicado": "T-604-98",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1998,
+  "fecha_creacion": "1998-10-22",
+  "magistrado_ponente": "Dr ANTONIO BARRERA CARBONELL",
+  "area": "Otros - Sin clasificar",
+  "tema": "PRINCIPIO A TRABAJO IGUAL SALARIO IGUAL",
+  "subtema": "Factores de evaluación, ascenso y suspensión",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 31 de 1992"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1998/T-604-98.htm",
+  "fecha_descarga": "2026-10-23T05:40:09.285862+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1998-10-22",
+  "fecha_publicacion": null,
+  "numero": "T-604/98",
+  "tipo_cc": "T",
+  "prov_id": "15216",
+  "tema_relatoria": "DER. A LA IGUALDAD. DISCRIMINACION. PRINCIPIO A TRABAJO IGUAL SALARIO IGUAL. FUNCIONES DIFERENTES EN RELACION CON OTROS EMPLEADOS. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "PRINCIPIO A TRABAJO IGUAL SALARIO IGUAL",
+      "subtema": "Factores de evaluación, ascenso y suspensión"
+    },
+    {
+      "tema": "PRINCIPIO A TRABAJO IGUAL SALARIO IGUAL",
+      "subtema": "Inaplicación por ejercicio de funciones diferentes aunque sea igual la denominación"
+    },
+    {
+      "tema": "PRINCIPIO A TRABAJO IGUAL SALARIO IGUAL",
+      "subtema": "Alcance"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "radicado": "T-330-98",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1998,
+  "fecha_creacion": "1998-07-03",
+  "magistrado_ponente": "Dr FABIO MORON DIAZ",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "DERECHO A LA SEGURIDAD SOCIAL",
+  "subtema": "Fundamental por conexidad",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1998/T-330-98.htm",
+  "fecha_descarga": "2026-10-23T05:34:44.357784+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1998-07-03",
+  "fecha_publicacion": null,
+  "numero": "T-330/98",
+  "tipo_cc": "T",
+  "prov_id": "14903",
+  "tema_relatoria": "DER. A LA SEGURIDAD SOCIAL. CANCELACION DE MESADA PENSIONAL POR TELECOM. TUTELA TRANSITORIA. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA SEGURIDAD SOCIAL",
+      "subtema": "Fundamental por conexidad"
+    },
+    {
+      "tema": "MEDIO DE DEFENSA JUDICIAL",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "ACCION DE TUTELA TRANSITORIA",
+      "subtema": "Procedencia"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Mecanismo excepcional y subsidiario"
+    },
+    {
+      "tema": "DERECHO A LA SEGURIDAD SOCIAL DEL NIÑO",
+      "subtema": "Fundamental"
+    },
+    {
+      "tema": "DERECHO A LA SEGURIDAD SOCIAL DE PERSONA DE LA TERCERA EDAD",
+      "subtema": "Fundamental"
+    },
+    {
+      "tema": "DERECHO AL MINIMO VITAL DEL PENSIONADO",
+      "subtema": "Pago oportuno de mesadas"
+    },
+    {
+      "tema": "DERECHO A LA PENSION DE JUBILACION",
+      "subtema": "Falta de cotización del empleador a pesar de realizar descuentos"
+    },
+    {
+      "tema": "DERECHOS CIERTOS E INDISCUTIBLES",
+      "subtema": "Protección"
+    }
+  ]
+}

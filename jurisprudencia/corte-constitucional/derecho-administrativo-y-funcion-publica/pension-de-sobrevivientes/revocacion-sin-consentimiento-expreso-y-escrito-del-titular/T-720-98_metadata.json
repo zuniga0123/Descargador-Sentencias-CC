@@ -1,0 +1,53 @@
+{
+  "radicado": "T-720-98",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1998,
+  "fecha_creacion": "1998-11-26",
+  "magistrado_ponente": "Dr ALFREDO BELTRÁN SIERRA",
+  "area": "Derecho Administrativo y Función Pública",
+  "tema": "PENSIÓN DE SOBREVIVIENTES",
+  "subtema": "Revocación sin consentimiento expreso y escrito del titular",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1998/T-720-98.htm",
+  "fecha_descarga": "2026-10-23T05:43:15.404972+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1998-11-26",
+  "fecha_publicacion": null,
+  "numero": "T-720/98",
+  "tipo_cc": "T",
+  "prov_id": "15342",
+  "tema_relatoria": "REVOCATORIA DIRECTA DE ACTOS ADTIVOS. SUSPENSION DE PAGO DE PENSION DE SOBREVIVIENTE POR APARECER OTRA CONYUGE. TUTELA TRANSITORIA. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "PENSIÓN DE SOBREVIVIENTES",
+      "subtema": "Revocación sin consentimiento expreso y escrito del titular"
+    },
+    {
+      "tema": "REVOCACION DIRECTA DE ACTO ADMINISTRATIVO PARTICULAR Y CONCRETO",
+      "subtema": "Actuaciones ilegales o fraudulentas"
+    },
+    {
+      "tema": "ACTO ADMINISTRATIVO PARTICULAR Y CONCRETO",
+      "subtema": "Irrevocabilidad"
+    },
+    {
+      "tema": "ACTO ADMINISTRATIVO GENERAL",
+      "subtema": "Revocabilidad"
+    },
+    {
+      "tema": "DEBIDO PROCESO ADMINISTRATIVO",
+      "subtema": "Revocación unilateral de acto que reconoce situación particular y concreta"
+    },
+    {
+      "tema": "REVOCACION DIRECTA DE ACTO ADMINISTRATIVO PARTICULAR Y CONCRETO",
+      "subtema": "Consentimiento expreso y escrito del titular"
+    }
+  ]
+}

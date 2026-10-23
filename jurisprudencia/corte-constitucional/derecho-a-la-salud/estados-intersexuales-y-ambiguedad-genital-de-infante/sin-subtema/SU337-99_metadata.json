@@ -1,0 +1,178 @@
+{
+  "radicado": "SU337-99",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1999,
+  "fecha_creacion": "1999-05-12",
+  "magistrado_ponente": null,
+  "area": "Derecho a la Salud",
+  "tema": "ESTADOS INTERSEXUALES Y AMBIGÜEDAD GENITAL DE INFANTE",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 23 de 1991",
+    "Ley 12 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1999/SU337-99.htm",
+  "fecha_descarga": "2026-10-23T05:29:01.710534+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1999-05-12",
+  "fecha_publicacion": null,
+  "numero": "SU.337/99",
+  "tipo_cc": "SU",
+  "prov_id": "15795",
+  "tema_relatoria": "DER. A LA IDENTIDAD SEXUAL. DER. A LA IGUALDAD. DER. AL LIBRE DESARROLLO DE LA PERSONALIDAD. HERMAFRODITA. CONCEDIDA PARCIALMENTE.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ESTADOS INTERSEXUALES Y AMBIGÜEDAD GENITAL DE INFANTE",
+      "subtema": null
+    },
+    {
+      "tema": "CONSENTIMIENTO SUSTITUTO",
+      "subtema": "Problemas jurídicos"
+    },
+    {
+      "tema": "AUTONOMIA DEL PACIENTE",
+      "subtema": "Prevalencia"
+    },
+    {
+      "tema": "CONSENTIMIENTO INFORMADO DEL PACIENTE MENOR HERMAFRODITA",
+      "subtema": "Inexistencia de evidente riesgo contra la vida si no se practica operación"
+    },
+    {
+      "tema": "CONSENTIMIENTO INFORMADO DEL PACIENTE",
+      "subtema": "Pluralismo y dignidad"
+    },
+    {
+      "tema": "CONSENTIMIENTO INFORMADO DEL PACIENTE",
+      "subtema": "Exigencias cualificadas"
+    },
+    {
+      "tema": "INSTITUTO COLOMBIANO DE BIENESTAR FAMILIAR",
+      "subtema": "Coordinación de equipo interdisciplinario para acompañar a la menor y su madre respecto a cirugía y tratamientos hormonales"
+    },
+    {
+      "tema": "ESTADOS INTERSEXUALES",
+      "subtema": "Clasificación"
+    },
+    {
+      "tema": "EXPEDIENTE DE TUTELA",
+      "subtema": "Absoluta reserva para el caso"
+    },
+    {
+      "tema": "PRINCIPIO DE PUBLICIDAD DEL PROCESO",
+      "subtema": "Armonización con la intimidad del menor y su familia"
+    },
+    {
+      "tema": "MEDICINA",
+      "subtema": "Tensiones éticas y jurídicas"
+    },
+    {
+      "tema": "DERECHO A LA IDENTIDAD SEXUAL",
+      "subtema": "Contenido"
+    },
+    {
+      "tema": "HERMAFRODITA",
+      "subtema": "Intervención médica tiene impacto decisivo en la identidad sexual del paciente"
+    },
+    {
+      "tema": "TRATAMIENTO MEDICO DE LA AMBIGÜEDAD SEXUAL",
+      "subtema": "Fundamentos y características"
+    },
+    {
+      "tema": "TRATAMIENTO MEDICO DEL MENOR",
+      "subtema": "Alcances y límites de las posibilidades de decisión de los padres"
+    },
+    {
+      "tema": "SENTENCIA DE REVISION DE TUTELA",
+      "subtema": "Publicidad parcial para el caso"
+    },
+    {
+      "tema": "SEXUALIDAD",
+      "subtema": "Dimensiones sociales y sicológicas"
+    },
+    {
+      "tema": "CONSENTIMIENTO INFORMADO DEL PACIENTE",
+      "subtema": "Intervenciones experimentales"
+    },
+    {
+      "tema": "CONSENTIMIENTO INFORMADO DE PACIENTE MENOR HERMAFRODITA",
+      "subtema": "Edad"
+    },
+    {
+      "tema": "CONSENTIMIENTO SUSTITUTO PATERNO",
+      "subtema": "Límites"
+    },
+    {
+      "tema": "AUTONOMIA DEL PACIENTE",
+      "subtema": "Grado que se debe tener para aceptar o rechazar un tratamiento"
+    },
+    {
+      "tema": "AUTONOMIA DEL PACIENTE",
+      "subtema": "Prevalencia no es absoluta"
+    },
+    {
+      "tema": "CIENCIA MEDICA",
+      "subtema": "No es impermeable a la ética ni al derecho"
+    },
+    {
+      "tema": "CONSENTIMIENTO INFORMADO CUALIFICADO DEL PACIENTE",
+      "subtema": "Intervenciones hormonales y quirúrgicas"
+    },
+    {
+      "tema": "FAMILIA",
+      "subtema": "Privacidad médica"
+    },
+    {
+      "tema": "PRINCIPIOS DE AUTONOMIA Y BENEFICENCIA DEL PACIENTE",
+      "subtema": "Ponderación"
+    },
+    {
+      "tema": "PRIVACIDAD DEL HOGAR",
+      "subtema": "Interferencias judiciales"
+    },
+    {
+      "tema": "DERECHO A LA IDENTIDAD PERSONAL",
+      "subtema": "Contenido"
+    },
+    {
+      "tema": "HERMAFRODITA Y PSEUDOHERMAFRODITA",
+      "subtema": "Distinciones"
+    },
+    {
+      "tema": "HERMAFRODITISMO",
+      "subtema": "Complejidad del asunto"
+    },
+    {
+      "tema": "HERMAFRODITA",
+      "subtema": "Intervenciones hormonales y quirúrgicas"
+    },
+    {
+      "tema": "PRACTICA MEDICA",
+      "subtema": "Principios esenciales"
+    },
+    {
+      "tema": "PSEUDOHERMAFRODITISMO MASCULINO",
+      "subtema": "Complejidad del asunto"
+    },
+    {
+      "tema": "SENTENCIA DE REVISION DE TUTELA",
+      "subtema": "Supresión identificación del menor y progenitor"
+    },
+    {
+      "tema": "TRATAMIENTO MEDICO DEL MENOR",
+      "subtema": "Decisiones por padres y tutores"
+    },
+    {
+      "tema": "AUTONOMIA DEL PACIENTE MENOR DE EDAD",
+      "subtema": "Contenido"
+    },
+    {
+      "tema": "CONSENTIMIENTO INFORMADO DEL PACIENTE",
+      "subtema": "Características"
+    }
+  ]
+}

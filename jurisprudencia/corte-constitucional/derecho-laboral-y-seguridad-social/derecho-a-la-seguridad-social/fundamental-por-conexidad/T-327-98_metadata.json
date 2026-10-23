@@ -1,0 +1,66 @@
+{
+  "radicado": "T-327-98",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1998,
+  "fecha_creacion": "1998-07-03",
+  "magistrado_ponente": "Dr FABIO MORON DIAZ",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "DERECHO A LA SEGURIDAD SOCIAL",
+  "subtema": "Fundamental por conexidad",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 222 de 1983",
+    "Decreto 758 de 1990"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1998/T-327-98.htm",
+  "fecha_descarga": "2026-10-23T05:49:06.939666+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1998-07-03",
+  "fecha_publicacion": null,
+  "numero": "T-327/98",
+  "tipo_cc": "T",
+  "prov_id": "14900",
+  "tema_relatoria": "DER. A LA SEGURIDAD SOCIAL. DER. AL MINIMO VITAL DE LAS PERSONAS DE LA TERCERA EDAD. PAGO DE PENSION DE VEJEZ Y AFILIACION A SALUD. ASEADORA DE COLEGIO. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA SEGURIDAD SOCIAL",
+      "subtema": "Fundamental por conexidad"
+    },
+    {
+      "tema": "PENSION DE VEJEZ",
+      "subtema": "Asunción por patrono por no afiliación a seguridad social"
+    },
+    {
+      "tema": "DERECHO A LA SEGURIDAD SOCIAL DEL NIÑO",
+      "subtema": "Fundamental"
+    },
+    {
+      "tema": "DERECHO A LA SEGURIDAD SOCIAL DE PERSONA DE LA TERCERA EDAD",
+      "subtema": "Fundamental"
+    },
+    {
+      "tema": "PERJUICIO IRREMEDIABLE",
+      "subtema": "Asunción por patrono de pensión y salud del trabajador"
+    },
+    {
+      "tema": "ESTABLECIMIENTO EDUCATIVO",
+      "subtema": "Asunción pensión y salud del trabajador"
+    },
+    {
+      "tema": "PRINCIPIO DE PRIMACÍA DE LA REALIDAD SOBRE FORMALIDADES EN RELACIONES LABORALES",
+      "subtema": "Conservación de los elementos esenciales de un contrato"
+    },
+    {
+      "tema": "SISTEMA INTEGRAL DE SEGURIDAD SOCIAL",
+      "subtema": "Incumplimiento del patrono en la afiliación"
+    },
+    {
+      "tema": "SISTEMA INTEGRAL DE SEGURIDAD SOCIAL",
+      "subtema": "Obligación del patrono de afiliar a trabajadores"
+    }
+  ]
+}

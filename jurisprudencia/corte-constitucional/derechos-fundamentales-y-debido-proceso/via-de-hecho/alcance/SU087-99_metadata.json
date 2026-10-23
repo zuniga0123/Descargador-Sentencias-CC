@@ -1,0 +1,45 @@
+{
+  "radicado": "SU087-99",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1999,
+  "fecha_creacion": "1999-02-17",
+  "magistrado_ponente": "Dr JOSE GREGORIO HERNANDEZ GALINDO",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "VIA DE HECHO",
+  "subtema": "Alcance",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1999/SU087-99.htm",
+  "fecha_descarga": "2026-10-23T05:27:50.322105+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1999-02-17",
+  "fecha_publicacion": "1999-03-17",
+  "numero": "SU.087/99",
+  "tipo_cc": "SU",
+  "prov_id": "15531",
+  "tema_relatoria": "DEBIDO PROCESO. TUTELA CONTRA PROVIDENCIAS JUDICIALES. VIA DE HECHO. NO PRACTICA DE PRUEBAS. MEDIO DE DEFENSA JUDICIAL. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "VIA DE HECHO",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES",
+      "subtema": "Procedencia excepcional"
+    },
+    {
+      "tema": "DEBIDO PROCESO",
+      "subtema": "Práctica de la integridad de pruebas solicitadas y decretadas por el juez"
+    },
+    {
+      "tema": "VIA DE HECHO",
+      "subtema": "Improcedencia por existencia de mecanismo de defensa judicial"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "radicado": "T-570-98",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1998,
+  "fecha_creacion": "1998-10-13",
+  "magistrado_ponente": "Dr CARLOS GAVIRIA DÍAZ",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "JUEZ DE TUTELA",
+  "subtema": "No es válido ordenar a particulares desobedecer providencia judicial en firme",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 38 de 1989",
+    "Decreto 2591 de 1998"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1998/T-570-98.htm",
+  "fecha_descarga": "2026-10-23T05:39:43.831004+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1998-10-13",
+  "fecha_publicacion": null,
+  "numero": "T-570/98",
+  "tipo_cc": "T",
+  "prov_id": "15180",
+  "tema_relatoria": "RETRASO EN EL PAGO DE LA MESADA PENSIONAL. NO EXISTE VULNERACION DE DERS. FUNDAMENTALES. TUTELA TEMERARIA. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "JUEZ DE TUTELA",
+      "subtema": "No es válido ordenar a particulares desobedecer providencia judicial en firme"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Procedimiento preferente y sumario"
+    },
+    {
+      "tema": "ACCION DE TUTELA TEMERARIA",
+      "subtema": "Condena en costas"
+    },
+    {
+      "tema": "JUEZ DE TUTELA",
+      "subtema": "Verificación supuestos de hecho"
+    }
+  ]
+}

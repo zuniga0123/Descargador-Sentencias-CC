@@ -1,0 +1,53 @@
+{
+  "radicado": "T-484-98",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1998,
+  "fecha_creacion": "1998-09-09",
+  "magistrado_ponente": "Dr VLADIMIRO NARANJO MESA",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "ACCIÓN DE TUTELA",
+  "subtema": "Procedencia excepcional pago de acreencias laborales",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1998/T-484-98.htm",
+  "fecha_descarga": "2026-10-23T05:37:51.884137+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1998-09-09",
+  "fecha_publicacion": null,
+  "numero": "T-484/98",
+  "tipo_cc": "T",
+  "prov_id": "15078",
+  "tema_relatoria": "PROCEDENCIA EXCEPCIONAL DE LA TUTELA PARA EL PAGO DE OBLIGACIONES LABORALES. DER. AL MINIMO VITAL. PAGO DE SALARIOS ATRASADOS A DOCENTE. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Procedencia excepcional pago de acreencias laborales"
+    },
+    {
+      "tema": "DERECHO A LA SUBSISTENCIA DEL TRABAJADOR",
+      "subtema": "Pago oportuno de salarios"
+    },
+    {
+      "tema": "DISPONIBILIDAD PRESUPUESTAL",
+      "subtema": "Provisión de empleo remunerado"
+    },
+    {
+      "tema": "MUNICIPIO",
+      "subtema": "Afiliación de trabajador a la seguridad social"
+    },
+    {
+      "tema": "MEDIO DE DEFENSA JUDICIAL INEFICAZ",
+      "subtema": "Pago oportuno de salarios"
+    },
+    {
+      "tema": "MEDIO DE DEFENSA JUDICIAL",
+      "subtema": "Pago de salarios atrasados"
+    }
+  ]
+}

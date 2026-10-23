@@ -1,0 +1,45 @@
+{
+  "radicado": "T-632-98",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1998,
+  "fecha_creacion": "1998-11-04",
+  "magistrado_ponente": "Dr ANTONIO BARRERA CARBONELL",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCIÓN DE TUTELA",
+  "subtema": "Procedencia excepcional pago de acreencias laborales",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1998/T-632-98.htm",
+  "fecha_descarga": "2026-10-23T05:40:48.461345+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1998-11-04",
+  "fecha_publicacion": null,
+  "numero": "T-632/98",
+  "tipo_cc": "T",
+  "prov_id": "15247",
+  "tema_relatoria": "DER. DE PETICION. DER. A LA SALUD. MORA PATRONAL EN APORTES AL I.S.S. SUSPENSION DE ATENCION MEDICA. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Procedencia excepcional pago de acreencias laborales"
+    },
+    {
+      "tema": "DERECHO A LA SEGURIDAD SOCIAL EN SALUD",
+      "subtema": "Prestación del servicio no se afecta por mora patronal en aportes"
+    },
+    {
+      "tema": "DERECHO AL MINIMO VITAL DEL TRABAJADOR",
+      "subtema": "Pago oportuno de salarios"
+    },
+    {
+      "tema": "DERECHO DE PETICIÓN",
+      "subtema": "Pronta resolución"
+    }
+  ]
+}

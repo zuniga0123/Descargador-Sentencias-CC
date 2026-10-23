@@ -1,0 +1,45 @@
+{
+  "radicado": "T-011-98",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1998,
+  "fecha_creacion": "1998-01-29",
+  "magistrado_ponente": "Dr JOSE GREGORIO HERNANDEZ GALINDO",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "MEDIO DE DEFENSA JUDICIAL INEFICAZ",
+  "subtema": "Pago de cesantía parcial por afectación del mínimo vital",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1998/T-011-98.htm",
+  "fecha_descarga": "2026-10-23T05:29:47.777028+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1998-01-29",
+  "fecha_publicacion": null,
+  "numero": "T-011/98",
+  "tipo_cc": "T",
+  "prov_id": "14551",
+  "tema_relatoria": "PAGO EXCEPCIONAL DE ACREENCIAS LABORALES. DERE. AL MINIMO VITAL. PAGO DE CESANTIAS PARCIALES. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "MEDIO DE DEFENSA JUDICIAL INEFICAZ",
+      "subtema": "Pago de cesantía parcial por afectación del mínimo vital"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Procedencia excepcional pago de acreencias laborales"
+    },
+    {
+      "tema": "DERECHO AL MINIMO VITAL DEL TRABAJADOR",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "DERECHO DE PETICION FRENTE AL SILENCIO ADMINISTRATIVO NEGATIVO",
+      "subtema": "Debe resolver la solicitud"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "radicado": "T-213-98",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1998,
+  "fecha_creacion": "1998-05-14",
+  "magistrado_ponente": "Dr FABIO MORÓN DÍAZ",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "MEDIO DE DEFENSA JUDICIAL INEFICAZ",
+  "subtema": "Pago oportuno de salarios",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1998/T-213-98.htm",
+  "fecha_descarga": "2026-10-23T05:46:23.190792+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1998-05-14",
+  "fecha_publicacion": null,
+  "numero": "T-213/98",
+  "tipo_cc": "T",
+  "prov_id": "14772",
+  "tema_relatoria": "PROCEDENCIA EXCEPCIONAL DE LA TUTELA PARA PAGO DE ACREENCIAS LABORALES. DER. AL MINIMO VITAL. RETRASO EN EL PAGO DE SALARIOS A DOCENTE. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "MEDIO DE DEFENSA JUDICIAL INEFICAZ",
+      "subtema": "Pago oportuno de salarios"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Procedencia excepcional pago de acreencias laborales"
+    },
+    {
+      "tema": "DERECHO AL MINIMO VITAL DEL TRABAJADOR",
+      "subtema": "Pago de salarios atrasados con reajuste"
+    }
+  ]
+}

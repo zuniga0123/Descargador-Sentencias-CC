@@ -1,0 +1,73 @@
+{
+  "radicado": "SU646-99",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1999,
+  "fecha_creacion": "1999-09-01",
+  "magistrado_ponente": "Dr ANTONIO BARRERA CARBONELL",
+  "area": "Derecho Penal y Sistema Acusatorio",
+  "tema": "ACCIÓN DE TUTELA",
+  "subtema": "Subsidiariedad",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1999/SU646-99.htm",
+  "fecha_descarga": "2026-10-23T05:29:27.338437+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1999-09-01",
+  "fecha_publicacion": null,
+  "numero": "SU.646/99",
+  "tipo_cc": "SU",
+  "prov_id": "16131",
+  "tema_relatoria": "DEBIDO PROCESO. PRINCIPIO NO REFORMATIO IN PEJUS. AGRAVACION DE LA PENA. MEDIO DE DEFENSA JUDICIAL. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Subsidiariedad"
+    },
+    {
+      "tema": "CASACION",
+      "subtema": "Fines"
+    },
+    {
+      "tema": "JURISDICCION CONSTITUCIONAL",
+      "subtema": "Jueces en ejercicio de sus competencias"
+    },
+    {
+      "tema": "RECURSO DE CASACION PENAL",
+      "subtema": "Idoneidad para la protección de derechos fundamentales"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Procedencia"
+    },
+    {
+      "tema": "JUEZ ADMINISTRATIVO",
+      "subtema": "Garantía de derechos fundamentales"
+    },
+    {
+      "tema": "JUEZ PENAL",
+      "subtema": "Sometimiento al imperio de la Constitución y la ley"
+    },
+    {
+      "tema": "SALA DE CASACION PENAL DE LA CORTE SUPREMA DE JUSTICIA",
+      "subtema": "Garantía de derechos fundamentales"
+    },
+    {
+      "tema": "SALA DE CASACION PENAL DE LA CORTE SUPREMA DE JUSTICIA",
+      "subtema": "Pronunciamiento oficioso sobre violación de derechos fundamentales"
+    },
+    {
+      "tema": "RECURSO DE CASACION PENAL",
+      "subtema": "Envuelve el principio que prohibe la reformatio in pejus"
+    },
+    {
+      "tema": "SALA DE CASACION PENAL DE LA CORTE SUPREMA DE JUSTICIA",
+      "subtema": "Competencia originaria para ser juez constitucional en el caso concreto"
+    }
+  ]
+}
