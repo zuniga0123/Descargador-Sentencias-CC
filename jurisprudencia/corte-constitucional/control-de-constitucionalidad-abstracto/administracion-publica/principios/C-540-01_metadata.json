@@ -1,0 +1,830 @@
+{
+  "radicado": "C-540-01",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2001,
+  "fecha_creacion": "2001-05-22",
+  "magistrado_ponente": null,
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "ADMINISTRACION PUBLICA",
+  "subtema": "Principios",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 617 de 2000",
+    "Decreto 2067 de 1991",
+    "Ley 136 de 1994",
+    "Decreto 1421 de 1993",
+    "Ley 60 de 1993",
+    "Ley 177 de 1994",
+    "Ley 56 de 1993",
+    "Ley 100 de 1993",
+    "Ley 550 de 1999",
+    "Ley 393 de 1997",
+    "Ley 358 de 1997",
+    "Ley 3 de 1991",
+    "Ley 87 de 1993",
+    "Ley 99 de 1993",
+    "Ley 101 de 1993",
+    "Ley 166 de 1994",
+    "Ley 181 de 1995",
+    "Ley 190 de 1995",
+    "Ley 330 de 1996",
+    "Ley 397 de 1997",
+    "Ley 200 de 1995",
+    "Ley 3 de 1992",
+    "Decreto Ley 1421 de 1993",
+    "Ley 443 de 1998",
+    "Ley 489 de 1998",
+    "Decreto 111 de 1996",
+    "Ley 134 de 1994",
+    "Decreto Ley 1222 de 1986",
+    "Ley 179 de 1994",
+    "Ley 38 de 1989",
+    "Ley 270 de 1996",
+    "Decreto 1572 de 1998",
+    "Ley 225 de 1995",
+    "Decreto 568 de 1996"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2001/C-540-01.htm",
+  "fecha_descarga": "2026-10-23T02:32:34.238986+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2001-05-22",
+  "fecha_publicacion": null,
+  "numero": "C-540/01",
+  "tipo_cc": "C",
+  "prov_id": "19198",
+  "tema_relatoria": "EMPRESAS INDUSTRIALES Y COMERCIALES DEL ESTADO. LIQUIDACIÓN POR PÉRDIDAS BAJO PRESUPUESTOS EXIGENTES",
+  "resumen": "LEY 617 DE 2000. CATEGORIZACION DE ENTIDADES Y SANEAMIENTO FISCAL DE ENTIDADES TERRITORIALES. AJUSTE DEL PRESUPUESTO. LEY ORGANICA. DESCENTRALIZACION Y AUTONOMIA DE ENTIDADES TERRITORIALES. PRINCIPIO DE UNIDAD DE MATERIA. INHIBIDA EXEQUIBLE . EXEQUIBLE CONDICIONADA",
+  "titulaciones": [
+    {
+      "tema": "ADMINISTRACION PUBLICA",
+      "subtema": "Principios"
+    },
+    {
+      "tema": "APROPIACION PRESUPUESTAL",
+      "subtema": "Reducción o aplazamiento"
+    },
+    {
+      "tema": "AUTONOMIA DE ENTIDADES TERRITORIALES",
+      "subtema": "Afectación del núcleo esencial"
+    },
+    {
+      "tema": "AUTONOMIA DE ENTIDADES TERRITORIALES",
+      "subtema": "Límites al presupuesto"
+    },
+    {
+      "tema": "AUTONOMIA MUNICIPAL",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "AUTONOMIA PRESUPUESTAL DE ENTIDADES TERRITORIALES",
+      "subtema": "Política de saneamiento fiscal"
+    },
+    {
+      "tema": "COMISIONES CONSTITUCIONALES PERMANENTES",
+      "subtema": "Competencia para aprobación en primer debate"
+    },
+    {
+      "tema": "COMISIONES CONSTITUCIONALES PERMANENTES",
+      "subtema": "Temas comunes"
+    },
+    {
+      "tema": "COMISION PRIMERA CONSTITUCIONAL PERMANENTE",
+      "subtema": "Competencia"
+    },
+    {
+      "tema": "CONCEJAL",
+      "subtema": "Límites distintos al número de sesiones anualmente remuneradas"
+    },
+    {
+      "tema": "AUTONOMIA DE ENTIDADES TERRITORIALES",
+      "subtema": "Gastos de funcionamiento"
+    },
+    {
+      "tema": "AUTONOMIA DE ENTIDADES TERRITORIALES",
+      "subtema": "Ingreso de recursos los convierte en bienes y rentas exclusivos"
+    },
+    {
+      "tema": "AUTONOMIA PRESUPUESTAL DE ENTIDADES TERRITORIALES",
+      "subtema": "Sujeción a metas macroeconómicas y planes de financiamiento estatal"
+    },
+    {
+      "tema": "AUTONOMIA DE ENTIDADES TERRITORIALES",
+      "subtema": "Afectación del mínimo porcentaje en todas las secciones del presupuesto"
+    },
+    {
+      "tema": "AUTONOMIA DE ENTIDADES TERRITORIALES",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "AUTONOMIA DE ENTIDADES TERRITORIALES",
+      "subtema": "Necesidades de interés general"
+    },
+    {
+      "tema": "AUTONOMIA DE ENTIDADES TERRITORIALES",
+      "subtema": "Potestad de autonormarse"
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "Carga argumentativa"
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "Claridad en cargos"
+    },
+    {
+      "tema": "CONTRALOR MUNICIPAL",
+      "subtema": "Remuneración"
+    },
+    {
+      "tema": "AUTONOMIA DE ENTIDADES TERRITORIALES",
+      "subtema": "Ajustes del presupuesto"
+    },
+    {
+      "tema": "AUTONOMIA DE ENTIDADES TERRITORIALES",
+      "subtema": "Bienes y rentas de libre disposición"
+    },
+    {
+      "tema": "AUTONOMIA DE ENTIDADES TERRITORIALES",
+      "subtema": "Método de tabula rasa"
+    },
+    {
+      "tema": "AUTONOMIA DE ENTIDADES TERRITORIALES",
+      "subtema": "No disposición por legislador"
+    },
+    {
+      "tema": "AUTONOMIA DE ENTIDADES TERRITORIALES",
+      "subtema": "Pluralismo"
+    },
+    {
+      "tema": "AUTONOMIA DE ENTIDADES TERRITORIALES",
+      "subtema": "Recursos"
+    },
+    {
+      "tema": "AUTONOMIA DE ENTIDADES TERRITORIALES",
+      "subtema": "Vulneración del núcleo esencial"
+    },
+    {
+      "tema": "AUTONOMIA PRESUPUESTAL DE ENTIDADES TERRITORIALES",
+      "subtema": "Responsabilidad fiscal y macroeconómica del Gobierno"
+    },
+    {
+      "tema": "CONGRESO",
+      "subtema": "Especialización del trabajo legislativo"
+    },
+    {
+      "tema": "CONTROL DE CONSTITUCIONALIDAD DE NORMA LEGAL",
+      "subtema": "Rigor en comisión competente para primer debate"
+    },
+    {
+      "tema": "FINANZAS PUBLICAS",
+      "subtema": "Dirección"
+    },
+    {
+      "tema": "INHABILIDADES E INCOMPATIBILIDADES DEL SERVIDOR PUBLICO",
+      "subtema": "Previsión constitucional y legal"
+    },
+    {
+      "tema": "PLURALISMO Y TOTALITARISMO",
+      "subtema": "Oposición"
+    },
+    {
+      "tema": "ORGANIZACION TERRITORIAL",
+      "subtema": "Comisión competente"
+    },
+    {
+      "tema": "INCOMPATIBILIDADES DEL SERVIDOR PUBLICO",
+      "subtema": "Fecha de la inscripción"
+    },
+    {
+      "tema": "ESTADO DE DERECHO",
+      "subtema": "Inexistencia de poderes absolutos"
+    },
+    {
+      "tema": "EMPRESAS MONOPOLISTICAS DEL ESTADO",
+      "subtema": "Enajenación o liquidación por ineficiencia"
+    },
+    {
+      "tema": "EMPRESAS PRESTADORAS DEL SERVICIO DE SALUD",
+      "subtema": "Eficiencia"
+    },
+    {
+      "tema": "PRESUPUESTO ANUAL DE RENTAS Y GASTOS",
+      "subtema": "Ajustes"
+    },
+    {
+      "tema": "PRINCIPIO DE UNIDAD DE MATERIA",
+      "subtema": "Proposición integrada por dos elementos"
+    },
+    {
+      "tema": "PRINCIPIO DE CONSERVACION DEL DERECHO",
+      "subtema": "Duda sobre proceder del legislador"
+    },
+    {
+      "tema": "PRINCIPIO IGUAL TRABAJO IGUAL REMUNERACION",
+      "subtema": "Discriminación entre concejales por categoría municipal"
+    },
+    {
+      "tema": "PRINCIPIOS DE UNIDAD NACIONAL Y DE AUTONOMIA TERRITORIAL",
+      "subtema": "Definición de tensión"
+    },
+    {
+      "tema": "ENTIDADES TERRITORIALES",
+      "subtema": "Justificación del ajuste del presupuesto"
+    },
+    {
+      "tema": "ENTIDADES TERRITORIALES",
+      "subtema": "Ajuste referido a ejecución integral del presupuesto"
+    },
+    {
+      "tema": "LEY ORGANICA DEL PRESUPUESTO",
+      "subtema": "Condiciones para ejecución de presupuestos desequilibrados"
+    },
+    {
+      "tema": "LEY ORGANICA",
+      "subtema": "Finalidad"
+    },
+    {
+      "tema": "MONOPOLIO RENTISTICO",
+      "subtema": "Elementos de constitución"
+    },
+    {
+      "tema": "LEY ORGANICA DEL PRESUPUESTO",
+      "subtema": "Modificación"
+    },
+    {
+      "tema": "LEY ORGANICA DEL PRESUPUESTO",
+      "subtema": "Relación de finalidad y contenido"
+    },
+    {
+      "tema": "LEY ORGANICA DEL PRESUPUESTO",
+      "subtema": "Voluntad de aprobación"
+    },
+    {
+      "tema": "LEY ORGANICA",
+      "subtema": "Mayoría absoluta"
+    },
+    {
+      "tema": "LEY",
+      "subtema": "Vicio por no debate y aprobación en comisión respectiva"
+    },
+    {
+      "tema": "PRINCIPIO DE PUBLICIDAD EN PROCESO LEGISLATIVO",
+      "subtema": "Observaciones ciudadanas"
+    },
+    {
+      "tema": "PRINCIPIO DE SUBSIDIARIEDAD EN ENTIDADES TERRITORIALES",
+      "subtema": "Distribución de competencias"
+    },
+    {
+      "tema": "PRINCIPIO DE UNIDAD DE MATERIA",
+      "subtema": "Finalidad"
+    },
+    {
+      "tema": "PROYECTO DE LEY",
+      "subtema": "Flexibilidad en comisión competente para primer debate"
+    },
+    {
+      "tema": "PROYECTO DE LEY",
+      "subtema": "Observaciones ciudadanas"
+    },
+    {
+      "tema": "PROYECTO DE PRESUPUESTO DE RENTAS",
+      "subtema": "Ajustes"
+    },
+    {
+      "tema": "ENTIDAD DESCENTRALIZADA",
+      "subtema": "Ineficiencia por pérdidas"
+    },
+    {
+      "tema": "ENTIDADES TERRITORIALES",
+      "subtema": "Autorregulación de intereses propios"
+    },
+    {
+      "tema": "ENTIDADES TERRITORIALES",
+      "subtema": "Saneamiento del déficit fiscal"
+    },
+    {
+      "tema": "ENTIDAD DESCENTRALIZADA EN MONOPOLIO RENTISTICO",
+      "subtema": "No generación de rentas"
+    },
+    {
+      "tema": "ENTIDAD DESCENTRALIZADA",
+      "subtema": "Prohibición de transferencias"
+    },
+    {
+      "tema": "ENTIDADES TERRITORIALES",
+      "subtema": "Condición previa para asignación de competencias"
+    },
+    {
+      "tema": "ENTIDADES TERRITORIALES",
+      "subtema": "Programación y aprobación de presupuestos desequilibrados"
+    },
+    {
+      "tema": "ENTIDADES TERRITORIALES",
+      "subtema": "Saneamiento fiscal y financiero"
+    },
+    {
+      "tema": "EMPRESAS PRESTADORAS DEL SERVICIO DE SALUD",
+      "subtema": "Consecuencias por pérdidas en actividad económica"
+    },
+    {
+      "tema": "GASTOS DE FUNCIONAMIENTO",
+      "subtema": "Pagos de indemnización"
+    },
+    {
+      "tema": "INHABILIDADES E INCOMPATIBILIDADES DE AUTORIDADES TERRITORIALES",
+      "subtema": "Regulación legislativa ordinaria"
+    },
+    {
+      "tema": "INHABILIDADES PARA ALCALDE",
+      "subtema": "Término de no inscripción para Presidencia"
+    },
+    {
+      "tema": "LEY",
+      "subtema": "Inexequibilidad por no debate y aprobación en comisión respectiva"
+    },
+    {
+      "tema": "LEY ORGANICA DEL PRESUPUESTO",
+      "subtema": "Aplicación a los entes territoriales"
+    },
+    {
+      "tema": "LEY ORGANICA",
+      "subtema": "Claridad de propósitos"
+    },
+    {
+      "tema": "LEY ORGANICA",
+      "subtema": "Materias reservadas por el Constituyente"
+    },
+    {
+      "tema": "LEY ORGANICA DEL PRESUPUESTO",
+      "subtema": "Alcance en el orden territorial"
+    },
+    {
+      "tema": "LEY ORGANICA DEL PRESUPUESTO",
+      "subtema": "Subordinación de las aprobadas por asambleas y concejos"
+    },
+    {
+      "tema": "LEY ORGANICA",
+      "subtema": "Certificación sobre votación en plenarias"
+    },
+    {
+      "tema": "LEY ORGANICA",
+      "subtema": "Mayoría especial en trámite"
+    },
+    {
+      "tema": "JUICIO DE PROPORCIONALIDAD",
+      "subtema": "Elementos"
+    },
+    {
+      "tema": "PERSONERO MUNICIPAL",
+      "subtema": "Remuneración"
+    },
+    {
+      "tema": "PLURALISMO",
+      "subtema": "Acepciones"
+    },
+    {
+      "tema": "PROYECTO DE LEY",
+      "subtema": "Reparto a Comisión de materia predominante"
+    },
+    {
+      "tema": "UNIDAD ECONOMICA Y AUTONOMIA DE ENTIDADES TERRITORIALES",
+      "subtema": "Armonización"
+    },
+    {
+      "tema": "PROYECTO DE LEY",
+      "subtema": "Comisión respectiva"
+    },
+    {
+      "tema": "PROYECTO DE LEY",
+      "subtema": "Distribución temática aproximada para primer debate"
+    },
+    {
+      "tema": "PROYECTO DE LEY",
+      "subtema": "Materia no claramente adscrita"
+    },
+    {
+      "tema": "REGIMEN ECONOMICO Y DE LA HACIENDA PUBLICA",
+      "subtema": "Materias que comprende"
+    },
+    {
+      "tema": "SOCIEDAD DE ECONOMIA MIXTA",
+      "subtema": "Liquidación por pérdidas bajo presupuestos exigentes"
+    },
+    {
+      "tema": "MUNICIPIOS",
+      "subtema": null
+    },
+    {
+      "tema": "CONGRESO",
+      "subtema": "Distribución del trabajo"
+    },
+    {
+      "tema": "AUTONOMIA DE ENTIDADES TERRITORIALES",
+      "subtema": "Coexistencia del tema presupuestal y económico"
+    },
+    {
+      "tema": "AUTONOMIA DE ENTIDADES TERRITORIALES",
+      "subtema": "Componentes básicos del núcleo esencial"
+    },
+    {
+      "tema": "AUTONOMIA DE ENTIDADES TERRITORIALES",
+      "subtema": "Intervención legislativa no es absoluta"
+    },
+    {
+      "tema": "AUTONOMIA DE ENTIDADES TERRITORIALES",
+      "subtema": "Liquidación de empresas ineficientes"
+    },
+    {
+      "tema": "AUTONOMIA DE ENTIDADES TERRITORIALES",
+      "subtema": "Vulneración"
+    },
+    {
+      "tema": "AUTONOMIA DE ENTIDADES TERRITORIALES",
+      "subtema": "Administración de recursos"
+    },
+    {
+      "tema": "AUTONOMIA DE ENTIDADES TERRITORIALES",
+      "subtema": "Núcleo esencial"
+    },
+    {
+      "tema": "AUTONOMIA DE ENTIDADES TERRITORIALES",
+      "subtema": "Prohibición de transferencias a empresas"
+    },
+    {
+      "tema": "AUTONOMIA PRESUPUESTAL DE ENTIDADES TERRITORIALES",
+      "subtema": "Ambito de los ajustes financieros"
+    },
+    {
+      "tema": "AUTONOMIA DE ENTIDADES TERRITORIALES",
+      "subtema": "Ajustes del presupuesto por el poder central"
+    },
+    {
+      "tema": "AUTONOMIA DE ENTIDADES TERRITORIALES",
+      "subtema": "Origen de recursos"
+    },
+    {
+      "tema": "AUTONOMIA DE ENTIDADES TERRITORIALES",
+      "subtema": "Respeto del núcleo esencial por legislador"
+    },
+    {
+      "tema": "AUTONOMIA MUNICIPAL",
+      "subtema": "Determinación de gastos a recortar"
+    },
+    {
+      "tema": "AUTONOMIA PRESUPUESTAL DE ENTIDADES TERRITORIALES",
+      "subtema": "Límites al legislador"
+    },
+    {
+      "tema": "COMISION CUARTA CONSTITUCIONAL PERMANENTE",
+      "subtema": "Asuntos económicos, presupuestales y fiscales"
+    },
+    {
+      "tema": "COMISION CUARTA CONSTITUCIONAL PERMANENTE",
+      "subtema": "Competencia"
+    },
+    {
+      "tema": "COMISIONES CONSTITUCIONALES PERMANENTES",
+      "subtema": "Duda razonable sobre materia dominante"
+    },
+    {
+      "tema": "COMISIONES DE ASUNTOS ECONOMICOS",
+      "subtema": "Competencias"
+    },
+    {
+      "tema": "CONCEJAL",
+      "subtema": "Remuneración en porcentaje previsto para alcalde"
+    },
+    {
+      "tema": "CONCEJO MUNICIPAL",
+      "subtema": "Número diferente de sesiones según categoría municipal"
+    },
+    {
+      "tema": "COMISION PRIMERA CONSTITUCIONAL PERMANENTE",
+      "subtema": "Organización territorial"
+    },
+    {
+      "tema": "COMISIONES CONSTITUCIONALES PERMANENTES",
+      "subtema": "Competencias"
+    },
+    {
+      "tema": "COMISIONES CONSTITUCIONALES PERMANENTES",
+      "subtema": "Criterio de especialidad"
+    },
+    {
+      "tema": "COMISIONES CONSTITUCIONALES PERMANENTES",
+      "subtema": "Materia no claramente adscrita"
+    },
+    {
+      "tema": "COMISIONES CONSTITUCIONALES PERMANENTES",
+      "subtema": "Conexidad material temática"
+    },
+    {
+      "tema": "COMISIONES CONSTITUCIONALES PERMANENTES",
+      "subtema": "Duda sobre materia dominante para primer debate"
+    },
+    {
+      "tema": "CONCEJO MUNICIPAL",
+      "subtema": "Fijación de escalas de remuneración de categorías de empleo"
+    },
+    {
+      "tema": "CONCEJO MUNICIPAL",
+      "subtema": "Número de sesiones anualmente remuneradas"
+    },
+    {
+      "tema": "CONTROL DE CONSTITUCIONALIDAD",
+      "subtema": "Referente"
+    },
+    {
+      "tema": "CARRERA ADMINISTRATIVA",
+      "subtema": "Indemnización por supresión del cargo"
+    },
+    {
+      "tema": "AUTONOMIA DE ENTIDADES TERRITORIALES",
+      "subtema": "Fuentes exógenas y endógenas"
+    },
+    {
+      "tema": "AUTONOMIA DE ENTIDADES TERRITORIALES",
+      "subtema": "Injerencia del legislador en fuentes exógenas y endógenas"
+    },
+    {
+      "tema": "AUTONOMIA DE ENTIDADES TERRITORIALES",
+      "subtema": "Límites al legislador por el núcleo esencial"
+    },
+    {
+      "tema": "AUTONOMIA DE ENTIDADES TERRITORIALES",
+      "subtema": "Vulneración por reducción proporcional en todas las secciones del presupuesto"
+    },
+    {
+      "tema": "AUTONOMIA PRESUPUESTAL DE ENTIDADES TERRITORIALES",
+      "subtema": "Política de ajuste fiscal"
+    },
+    {
+      "tema": "MONOPOLIO RENTISTICO",
+      "subtema": "Finalidad"
+    },
+    {
+      "tema": "ORDEN TERRITORIAL",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "MONOPOLIO RENTISTICO",
+      "subtema": "Terminación"
+    },
+    {
+      "tema": "ORGANIZACION TERRITORIAL",
+      "subtema": "Contenido"
+    },
+    {
+      "tema": "PRINCIPIO DE UNIDAD DE MATERIA",
+      "subtema": "Deficiencias en formulación de cargos"
+    },
+    {
+      "tema": "PRINCIPIO DE UNIDAD DE MATERIA",
+      "subtema": "Fundamentación del cargo por violación"
+    },
+    {
+      "tema": "PRINCIPIO DE UNIDAD DE MATERIA",
+      "subtema": "Legitimidad del poder político"
+    },
+    {
+      "tema": "PRINCIPIO DE UNIDAD DE MATERIA",
+      "subtema": "Manifestaciones de la finalidad"
+    },
+    {
+      "tema": "PRINCIPIO DE UNIDAD DE MATERIA",
+      "subtema": "Razones por las cuales textos se violan"
+    },
+    {
+      "tema": "PRINCIPIO DE UNIDAD DE MATERIA",
+      "subtema": "Rigor del control constitucional"
+    },
+    {
+      "tema": "PRINCIPIO DE UNIDAD DE MATERIA",
+      "subtema": "Actos de control sobre iniciativa legislativa"
+    },
+    {
+      "tema": "PRINCIPIO DE UNIDAD DE MATERIA",
+      "subtema": "Concreción del principio democrático"
+    },
+    {
+      "tema": "ENTIDAD DESCENTRALIZADA DE ENTIDADES TERRITORIALES",
+      "subtema": "Prohibición de transferencias por ineficiencia"
+    },
+    {
+      "tema": "ENTIDADES TERRITORIALES",
+      "subtema": "Apoyo de empresas y sociedades de economía mixta"
+    },
+    {
+      "tema": "LEY ORGANICA DEL PRESUPUESTO",
+      "subtema": "Objeto de regulación"
+    },
+    {
+      "tema": "LEY ORGANICA",
+      "subtema": "Naturaleza jurídica y valor normativo"
+    },
+    {
+      "tema": "MONOPOLIO RENTISTICO DE ENTIDADES TERRITORIALES",
+      "subtema": "No subsidia indefinidamente actividades ineficientes"
+    },
+    {
+      "tema": "LEY",
+      "subtema": "Condiciones para contenido ordinario y orgánico"
+    },
+    {
+      "tema": "LEY",
+      "subtema": "Contenido de normas de diferente naturaleza"
+    },
+    {
+      "tema": "LEY",
+      "subtema": "Vicio de inconstitucionalidad"
+    },
+    {
+      "tema": "LEY",
+      "subtema": "Vicios en el trámite"
+    },
+    {
+      "tema": "PROYECTO DE LEY",
+      "subtema": "Criterio dominante para remisión a comisión competente"
+    },
+    {
+      "tema": "PROYECTO DE LEY",
+      "subtema": "Debate y aprobación en comisión respectiva"
+    },
+    {
+      "tema": "PROYECTO DE LEY",
+      "subtema": "Decisión razonable en duda sobre comisión competente"
+    },
+    {
+      "tema": "PROYECTO DE LEY",
+      "subtema": "Participación de cualquier miembro del Congreso"
+    },
+    {
+      "tema": "PROYECTO DE LEY",
+      "subtema": "Requisitos"
+    },
+    {
+      "tema": "EMPRESAS PRESTADORAS DEL SERVICIO DE SALUD",
+      "subtema": "Finalidad"
+    },
+    {
+      "tema": "EMPRESAS INDUSTRIALES Y COMERCIALES DEL ESTADO",
+      "subtema": "Viabilidad económica"
+    },
+    {
+      "tema": "ENTIDADES TERRITORIALES",
+      "subtema": "Ajustes del presupuesto"
+    },
+    {
+      "tema": "ENTIDAD DESCENTRALIZADA DE ENTIDADES TERRITORIALES",
+      "subtema": "Liquidación por ineficiencia"
+    },
+    {
+      "tema": "ENTIDADES TERRITORIALES",
+      "subtema": "Intervención legislativa en ordenación del gasto"
+    },
+    {
+      "tema": "EMPRESAS INDUSTRIALES Y COMERCIALES DEL ESTADO",
+      "subtema": "Liquidación por pérdidas bajo presupuestos exigentes"
+    },
+    {
+      "tema": "GASTO PUBLICO DE ENTIDADES TERRITORIALES",
+      "subtema": "Racionalidad y eficiencia"
+    },
+    {
+      "tema": "IGUALDAD DE CONCEJALES",
+      "subtema": "Discriminación en remuneración por categoría municipal"
+    },
+    {
+      "tema": "IGUALDAD DE CONCEJALES",
+      "subtema": "Número de sesiones que anualmente se remunera"
+    },
+    {
+      "tema": "INHABILIDADES DE GOBERNADOR",
+      "subtema": "Término de no inscripción para Congreso y Presidencia"
+    },
+    {
+      "tema": "INHABILIDADES PARA ALCALDE",
+      "subtema": "No ampliación por ley de término constitucional"
+    },
+    {
+      "tema": "INHABILIDADES PARA ALCALDE",
+      "subtema": "Término de no inscripción para Congreso"
+    },
+    {
+      "tema": "INHIBICION DE LA CORTE CONSTITUCIONAL",
+      "subtema": "Cargos deficientes"
+    },
+    {
+      "tema": "LEY EN MATERIA DE ORGANIZACION TERRITORIAL",
+      "subtema": "Criterio dominante"
+    },
+    {
+      "tema": "LEY ORGANICA DEL PRESUPUESTO",
+      "subtema": "Norma única"
+    },
+    {
+      "tema": "LEY ORGANICA",
+      "subtema": "Requisitos"
+    },
+    {
+      "tema": "LEY",
+      "subtema": "Integración de normas ordinarias y orgánicas"
+    },
+    {
+      "tema": "LEY ORGANICA DE ORDENAMIENTO TERRITORIAL",
+      "subtema": "Reserva"
+    },
+    {
+      "tema": "LEY ORGANICA",
+      "subtema": "Ausencia de propósito inequívoco de norma determinada"
+    },
+    {
+      "tema": "LEY ORGANICA",
+      "subtema": "Requisitos constitucionales especiales"
+    },
+    {
+      "tema": "INHABILIDADES DEL SERVIDOR PUBLICO",
+      "subtema": "No ampliación por ley de término constitucional"
+    },
+    {
+      "tema": "INHABILIDADES PARA ALCALDE",
+      "subtema": "Régimen no diferente para Alcalde de Bogotá"
+    },
+    {
+      "tema": "INHABILIDADES PARA ALCALDE",
+      "subtema": "Término de no inscripción para elección popular"
+    },
+    {
+      "tema": "INCOMPATIBILIDADES DEL GOBERNADOR",
+      "subtema": "Término de no inscripción para elección popular"
+    },
+    {
+      "tema": "INHABILIDADES DE GOBERNADOR",
+      "subtema": "No ampliación por ley de término constitucional"
+    },
+    {
+      "tema": "INHABILIDADES E INCOMPATIBILIDADES DEL SERVIDOR PUBLICO",
+      "subtema": "Sujeción de ley a la Constitución"
+    },
+    {
+      "tema": "ORGANIZACION TERRITORIAL",
+      "subtema": "Relación con lo presupuestal"
+    },
+    {
+      "tema": "PREVALENCIA DEL INTERES GENERAL",
+      "subtema": "Empresa estatal deficitaria"
+    },
+    {
+      "tema": "PODER LEGISLATIVO",
+      "subtema": "No es absoluto"
+    },
+    {
+      "tema": "PRINCIPIO DE UNIDAD DE MATERIA",
+      "subtema": "Doble carga argumentativa para el demandante"
+    },
+    {
+      "tema": "PRINCIPIO DE UNIDAD NACIONAL Y DE AUTONOMIA TERRITORIAL",
+      "subtema": "Primacía"
+    },
+    {
+      "tema": "PROYECTO DE LEY ESPECIFICO",
+      "subtema": "Improcedencia de interpretación inflexible"
+    },
+    {
+      "tema": "PROYECTO DE LEY",
+      "subtema": "Distribución del trabajo"
+    },
+    {
+      "tema": "PROYECTO DE LEY",
+      "subtema": "Duda sobre materia dominante para primer debate"
+    },
+    {
+      "tema": "PROYECTO DE LEY",
+      "subtema": "Especialización del trabajo legislativo"
+    },
+    {
+      "tema": "PROYECTO DE LEY",
+      "subtema": "Aprobación en primer debate en comisión respectiva"
+    },
+    {
+      "tema": "PROYECTO DE LEY",
+      "subtema": "Criterio de distribución en comisiones"
+    },
+    {
+      "tema": "PROCESO LEGISLATIVO",
+      "subtema": "No rigurosidad estricta en distribución del trabajo"
+    },
+    {
+      "tema": "REPUBLICA UNITARIA Y AUTONOMIA DE ENTIDADES TERRITORIALES",
+      "subtema": "Concepto"
+    },
+    {
+      "tema": "AUTONOMIA DE ENTIDADES TERRITORIALES",
+      "subtema": "Autogobierno y autogestión"
+    }
+  ]
+}

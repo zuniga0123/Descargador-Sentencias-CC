@@ -1,0 +1,82 @@
+{
+  "radicado": "C-555-01",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2001,
+  "fecha_creacion": "2001-05-31",
+  "magistrado_ponente": "Dr MARCO GERARDO MONROY CABRA",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "PRINCIPIO DE PUBLICIDAD EN DEBIDO PROCESO",
+  "subtema": "Oposición a decisiones",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 200 de 1995",
+    "Decreto 2067 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2001/C-555-01.htm",
+  "fecha_descarga": "2026-10-23T02:26:45.956080+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2001-05-31",
+  "fecha_publicacion": null,
+  "numero": "C-555/01",
+  "tipo_cc": "C",
+  "prov_id": "19221",
+  "tema_relatoria": "PRINCIPIO DE CONTRADICCION EN PROCESO DISCIPLINARIO. NOTIFICACIÓN PERSONAL O POR EDICTO",
+  "resumen": "LEY 200 DE 1995.ARTS. 8084130 Y 147 (P). CODIGO DISCIPLINARIO UNICO. DEBIDO PROCESO PRINCIPIO DE CONTRADICCION Y NOTIFICACION DE PROVIDENCIAS EN EL PROCESO DISCIPLINARIO.IMPOSICION DE SANCIONES A LOS SERVIDORES PUBLICOS. EXEQUIBLE . ESTESE C-430/97",
+  "titulaciones": [
+    {
+      "tema": "PRINCIPIO DE PUBLICIDAD EN DEBIDO PROCESO",
+      "subtema": "Oposición a decisiones"
+    },
+    {
+      "tema": "PRINCIPIO DE PUBLICIDAD EN PROCESO DISCIPLINARIO",
+      "subtema": "Notificación personal o por edicto"
+    },
+    {
+      "tema": "PRINCIPIO DE PUBLICIDAD EN PROCESO DISCIPLINARIO",
+      "subtema": "Notificaciones"
+    },
+    {
+      "tema": "DEBIDO PROCESO DISCIPLINARIO",
+      "subtema": "Garantía en etapas"
+    },
+    {
+      "tema": "PRINCIPIO DE CONTRADICCION EN PROCESO DISCIPLINARIO",
+      "subtema": "Notificación personal o por edicto"
+    },
+    {
+      "tema": "DEBIDO PROCESO DISCIPLINARIO",
+      "subtema": "Notificación personal de primera decisión"
+    },
+    {
+      "tema": "PRINCIPIO DE PUBLICIDAD EN PROCESO DISCIPLINARIO",
+      "subtema": "Conocimiento de decisiones"
+    },
+    {
+      "tema": "PROCESO DISCIPLINARIO",
+      "subtema": "Oportunidad para rendir exposición espontánea"
+    },
+    {
+      "tema": "LIBERTAD DE CONFIGURACION LEGISLATIVA EN PROCEDIMIENTO JUDICIAL",
+      "subtema": "Límites"
+    },
+    {
+      "tema": "LIBERTAD DE CONFIGURACION LEGISLATIVA EN PROCEDIMIENTOS",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "PRINCIPIO DE PUBLICIDAD EN PROCESO DISCIPLINARIO",
+      "subtema": "Comunicación al interesado"
+    },
+    {
+      "tema": "DERECHO DE CONTRADICCION EN PROCESO DISCIPLINARIO",
+      "subtema": "Oportunidad"
+    },
+    {
+      "tema": "PROCESO DISCIPLINARIO",
+      "subtema": "Oportunidad para controvertir la prueba"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "radicado": "C-091-01",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2001,
+  "fecha_creacion": "2001-01-31",
+  "magistrado_ponente": "Dra MARTHA VICTORIA SÁCHICA MÉNDEZ",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "BIENES CULTURALES",
+  "subtema": "Recuperación y devolución por hurto",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 587 de 2000",
+    "Decreto 2067 de 1991",
+    "Ley 397 de 1996",
+    "Ley 16 de 1992",
+    "Ley 63 de 1986",
+    "Ley 45 de 1983"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2001/C-091-01.htm",
+  "fecha_descarga": "2026-10-23T02:19:12.789971+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2001-01-31",
+  "fecha_publicacion": null,
+  "numero": "C-091/01",
+  "tipo_cc": "C",
+  "prov_id": "18563",
+  "tema_relatoria": "CONTROL DE CONSTITUCIONALIDAD DEL CONVENIO DE RECUPERACION DE BIENES CULTURALES ROBADOS CON ECUADOR",
+  "resumen": "LEY 587 DE 2000. CONVENIO ENTRE COLOMBIA Y EL ECUADOR PARA LA RECUPERACION Y DEVOLUCION DE BIENES CULTURALES ROBADOS. EXEQUIBLES.",
+  "titulaciones": [
+    {
+      "tema": "BIENES CULTURALES",
+      "subtema": "Recuperación y devolución por hurto"
+    },
+    {
+      "tema": "BIENES CULTURALES",
+      "subtema": "Exhibición por Estados"
+    },
+    {
+      "tema": "BIENES CULTURALES",
+      "subtema": "Comercio ilícito"
+    },
+    {
+      "tema": "CONVENIO DE RECUPERACION DE BIENES CULTURALES ROBADOS CON ECUADOR",
+      "subtema": "Objeto"
+    },
+    {
+      "tema": "PATRIMONIO CULTURAL",
+      "subtema": "Protección por Estados"
+    }
+  ]
+}

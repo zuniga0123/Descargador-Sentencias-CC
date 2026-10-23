@@ -1,0 +1,61 @@
+{
+  "radicado": "C-1025-01",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2001,
+  "fecha_creacion": "2001-09-26",
+  "magistrado_ponente": "Dr MANUEL JOSÉ CEPEDA ESPINOSA",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "ACTIVIDAD PORTUARIA",
+  "subtema": "Relación con actividad de remolque",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2067 de 1991",
+    "Decreto Ley 2324 de 1984",
+    "Ley 1 de 1991",
+    "Ley 633 de 2000",
+    "Ley 60 de 1962"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2001/C-1025-01.htm",
+  "fecha_descarga": "2026-10-23T02:30:37.775035+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2001-09-26",
+  "fecha_publicacion": null,
+  "numero": "C-1025/01",
+  "tipo_cc": "C",
+  "prov_id": "19762",
+  "tema_relatoria": "PRINCIPIO DE UNIDAD DE MATERIA EN ESTATUTO DE PUERTOS MARITIMOS. ACTIVIDAD DE REMOLQUE",
+  "resumen": "LEY 1 DE 1991. ART. 5 NUM. 5.9. ESTATUTO DE PUERTOS MARITIMOS. DEFINICIONES. EMPRESAS QUE SON OPERADORES PORTUARIOS. REMOLQUE. UNIDAD DE MATERIA. EXEQUIBLE.",
+  "titulaciones": [
+    {
+      "tema": "ACTIVIDAD PORTUARIA",
+      "subtema": "Relación con actividad de remolque"
+    },
+    {
+      "tema": "PRINCIPIO DE UNIDAD DE MATERIA EN CONTROL DE CONSTITUCIONALIDAD",
+      "subtema": "Implicaciones"
+    },
+    {
+      "tema": "PRINCIPIO DE UNIDAD DE MATERIA",
+      "subtema": "Relación entre tema de artículo y materia de la ley"
+    },
+    {
+      "tema": "PRINCIPIO DE UNIDAD DE MATERIA",
+      "subtema": "Conexión de tipo consecuencial"
+    },
+    {
+      "tema": "PRINCIPIO DE UNIDAD DE MATERIA",
+      "subtema": "Intensidad del control constitucional"
+    },
+    {
+      "tema": "PRINCIPIO DE UNIDAD DE MATERIA EN ESTATUTO DE PUERTOS MARITIMOS",
+      "subtema": "Actividad de remolque"
+    },
+    {
+      "tema": "PRINCIPIO DE UNIDAD DE MATERIA",
+      "subtema": "No rigidez"
+    }
+  ]
+}

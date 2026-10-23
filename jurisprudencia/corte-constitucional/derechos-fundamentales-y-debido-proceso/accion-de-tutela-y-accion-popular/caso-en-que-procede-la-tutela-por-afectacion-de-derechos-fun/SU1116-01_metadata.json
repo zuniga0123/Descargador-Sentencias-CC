@@ -1,0 +1,42 @@
+{
+  "radicado": "SU1116-01",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2001,
+  "fecha_creacion": "2001-10-24",
+  "magistrado_ponente": "Dr EDUARDO MONTEALEGRE LYNETT",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCION DE TUTELA Y ACCION POPULAR",
+  "subtema": "Caso en que procede la tutela por afectación de derechos fundamentales por existencia de aguas negras en vivienda",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 472 de 1998",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2001/SU1116-01.htm",
+  "fecha_descarga": "2026-10-23T02:37:11.761409+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2001-10-24",
+  "fecha_publicacion": null,
+  "numero": "SU.1116/01",
+  "tipo_cc": "SU",
+  "prov_id": "19874",
+  "tema_relatoria": "DERECHOS A LA VIDA UN AMBIENTE SANO Y SALUD. SOLICITUD CANALIZACION DE AGUAS LLUVIAS Y NEGRAS. AFECTACION DE DERECHOS COLECTIVOS. LEY 472 DE 1998. RELACION ENTRE ACCIONES POPULARES Y DE TUTELA. RESIDUALIDAD. ACCESO A SERVICIOS PUBLICOS COMO GARANTIA DE SA",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCION DE TUTELA Y ACCION POPULAR",
+      "subtema": "Caso en que procede la tutela por afectación de derechos fundamentales por existencia de aguas negras en vivienda"
+    },
+    {
+      "tema": "ACCION DE TUTELA PARA LA PROTECCION DE DERECHOS COLECTIVOS CUANDO EXISTE VULNERACION DE DERECHOS FUNDAMENTALES",
+      "subtema": "Requisitos de procedencia excepcional"
+    },
+    {
+      "tema": "ACCION DE TUTELA Y ACCION POPULAR",
+      "subtema": "Caso en que procede por afectación de derechos fundamentales por existencia de aguas negras en vivienda"
+    }
+  ]
+}

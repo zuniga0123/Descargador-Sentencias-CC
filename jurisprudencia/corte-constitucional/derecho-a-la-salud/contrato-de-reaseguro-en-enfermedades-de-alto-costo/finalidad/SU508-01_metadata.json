@@ -1,0 +1,52 @@
+{
+  "radicado": "SU508-01",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2001,
+  "fecha_creacion": "2001-05-17",
+  "magistrado_ponente": "Dr MARCO GERARDO MONROY CABRA",
+  "area": "Derecho a la Salud",
+  "tema": "CONTRATO DE REASEGURO EN ENFERMEDADES DE ALTO COSTO",
+  "subtema": "Finalidad",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 510 de 1999",
+    "Ley 100 de 1993",
+    "Decreto 663 de 1993"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2001/SU508-01.htm",
+  "fecha_descarga": "2026-10-23T02:37:26.781556+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2001-05-17",
+  "fecha_publicacion": null,
+  "numero": "SU.508/01",
+  "tipo_cc": "SU",
+  "prov_id": "19160",
+  "tema_relatoria": "DERECHO A LA SALUD SEGURIDAD SOCIAL. SOLICITA EL ACCIONANTE SE LE REINTEGRE INMEDIATAMENTE A EL Y A UN GRAN NUMERO DE PERSONAS LAS CANTIDADES CORRESPONDIENTES A INDEMNIZACION DESTINADA A ATENDER ENFERMEDADES DE ALTO COSTO. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "CONTRATO DE REASEGURO EN ENFERMEDADES DE ALTO COSTO",
+      "subtema": "Finalidad"
+    },
+    {
+      "tema": "CONTRATO DE REASEGURO",
+      "subtema": "No se puede pedir por tutela su cumplimiento"
+    },
+    {
+      "tema": "CONTRATO DE REASEGURO EN ENFERMEDADES DE ALTO COSTO",
+      "subtema": "Negativa para el pago de los dineros adeudados a EPS por ocurrencia del siniestro"
+    },
+    {
+      "tema": "COMPAÑIA DE SEGUROS ATLAS",
+      "subtema": "Proceso de liquidación"
+    },
+    {
+      "tema": "RECURSOS DE LA SEGURIDAD SOCIAL",
+      "subtema": "Naturaleza"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "radicado": "C-205-01",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2001,
+  "fecha_creacion": "2001-02-21",
+  "magistrado_ponente": "Dr JOSÉ GREGORIO HERNÁNDEZ GALINDO",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "MAGISTRADO DE TRIBUNAL",
+  "subtema": "Cargos de carrera",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2067 de 1991",
+    "Ley 58 de 1982",
+    "Ley 270 de 1996"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2001/C-205-01.htm",
+  "fecha_descarga": "2026-10-23T02:33:52.346766+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2001-02-21",
+  "fecha_publicacion": null,
+  "numero": "C-205/01",
+  "tipo_cc": "C",
+  "prov_id": "18711",
+  "tema_relatoria": "FALLO INHIBITORIO POR INEPTITUD DE DEMANDA DE INCONSTITUCIONALIDAD CONTRA NORMA DEL CÓDIGO CONTENCIOSO ADMINISTRATIVO",
+  "resumen": "CODIGO CONTENCIOSO ADMINISTRATIVO. ART. 109 INC. 2. CALIDADES DE LOS MAGISTRADOS. SISTEMA DE ELECCION Y TIEMPO DE SERVICIO. PERIODO. REMOCION POR FALTA DISCIPLINARIA O LLEGAR A LA EDAD DE RETIRO FORZOSO. SUSTRACCION DE MATERIA. INHIBIDA.",
+  "titulaciones": [
+    {
+      "tema": "MAGISTRADO DE TRIBUNAL",
+      "subtema": "Cargos de carrera"
+    },
+    {
+      "tema": "MAGISTRADO DE TRIBUNAL",
+      "subtema": "Sistema de elección y tiempo de servicios"
+    },
+    {
+      "tema": "INHIBICION DE LA CORTE CONSTITUCIONAL",
+      "subtema": "Sustitución normal"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "radicado": "T-726-01",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2001,
+  "fecha_creacion": "2001-07-09",
+  "magistrado_ponente": "Dr JAIME ARAUJO RENTERIA",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "ACCIÓN DE TUTELA",
+  "subtema": "Hecho superado por pago de mesadas pensionales",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2001/T-726-01.htm",
+  "fecha_descarga": "2026-10-23T02:13:15.781144+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2001-07-09",
+  "fecha_publicacion": null,
+  "numero": "T-726/01",
+  "tipo_cc": "T",
+  "prov_id": "19433",
+  "tema_relatoria": "DERECHO AL MINIMO VITAL Y SEGURIDAD SOCIAL. MORA EN EL PAGO DE MESADAS PENSIONALES. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Hecho superado por pago de mesadas pensionales"
+    },
+    {
+      "tema": "DERECHO A LA SEGURIDAD SOCIAL",
+      "subtema": "Fundamental por conexidad"
+    },
+    {
+      "tema": "DERECHO AL MINIMO VITAL DEL PENSIONADO",
+      "subtema": "Presunción de afectación por no pago oportuno de mesadas"
+    }
+  ]
+}

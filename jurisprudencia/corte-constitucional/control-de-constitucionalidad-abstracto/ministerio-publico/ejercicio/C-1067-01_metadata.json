@@ -1,0 +1,62 @@
+{
+  "radicado": "C-1067-01",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2001,
+  "fecha_creacion": "2001-10-10",
+  "magistrado_ponente": "Dr EDUARDO MONTEALEGRE LYNETT",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "MINISTERIO PUBLICO",
+  "subtema": "Ejercicio",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 136 de 1994",
+    "Ley 201 de 1995"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2001/C-1067-01.htm",
+  "fecha_descarga": "2026-10-23T02:24:24.519034+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2001-10-10",
+  "fecha_publicacion": null,
+  "numero": "C-1067/01",
+  "tipo_cc": "C",
+  "prov_id": "19814",
+  "tema_relatoria": "PERSONERO MUNICIPAL. CALIDADES SEGÚN CATEGORIZACIÓN",
+  "resumen": "LEY 136 DE 1994. ART. 173. ORGANIZACIÓN Y FUNCIONAMIENTO DE LOS MUNICIPIOS. CALIDADES PARA SER ELEGIDO PERSONERO SEGÚN LA CATEGORIZACION DE LOS MUNICIPIOS. EXEQUIBLE.",
+  "titulaciones": [
+    {
+      "tema": "MINISTERIO PUBLICO",
+      "subtema": "Ejercicio"
+    },
+    {
+      "tema": "PERSONERIA MUNICIPAL",
+      "subtema": "Naturaleza jurídica"
+    },
+    {
+      "tema": "PERSONERO MUNICIPAL",
+      "subtema": "No calidad de agente del Ministerio Público"
+    },
+    {
+      "tema": "PERSONERO MUNICIPAL",
+      "subtema": "Calidades según categorización"
+    },
+    {
+      "tema": "FUNCIONARIO JUDICIAL",
+      "subtema": "Servidor del orden nacional"
+    },
+    {
+      "tema": "PERSONERIA MUNICIPAL",
+      "subtema": "Categorización"
+    },
+    {
+      "tema": "PERSONERO MUNICIPAL Y FUNCIONARIO JUDICIAL",
+      "subtema": "Requisitos no uniformes"
+    },
+    {
+      "tema": "PERSONERO MUNICIPAL",
+      "subtema": "Servidor del orden local"
+    }
+  ]
+}

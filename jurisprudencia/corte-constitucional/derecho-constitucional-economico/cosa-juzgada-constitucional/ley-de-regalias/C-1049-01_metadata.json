@@ -1,0 +1,50 @@
+{
+  "radicado": "C-1049-01",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2001,
+  "fecha_creacion": "2001-10-04",
+  "magistrado_ponente": "Dr ALVARO TAFUR GALVIS",
+  "area": "Derecho Constitucional Económico",
+  "tema": "COSA JUZGADA CONSTITUCIONAL",
+  "subtema": "Ley de regalías",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 619 de 2000",
+    "Decreto 2067 de 1991",
+    "Ley 141 de 1944",
+    "Ley 141 de 1994",
+    "Ley 10 de 1961",
+    "Ley 5 de 1992"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2001/C-1049-01.htm",
+  "fecha_descarga": "2026-10-23T02:30:41.392398+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2001-10-04",
+  "fecha_publicacion": null,
+  "numero": "C-1049/01",
+  "tipo_cc": "C",
+  "prov_id": "19793",
+  "tema_relatoria": "COSA JUZGADA CONSTITUCIONAL EN LEY DE REGALÍAS",
+  "resumen": "LEY 619 DE 2000. ART. 5. MODIFICA LA LEY 141 DE 1994. DISTRIBUCION DE RECURSOS NATURALES NO RENOVABLES. PAGO DE REGALIAS. VICIOS DE PROCEDIMIENTO. COSA JUZGADA CONSTITUCIONAL. ESTESE A LO RESUELTO EN C-737/01",
+  "titulaciones": [
+    {
+      "tema": "COSA JUZGADA CONSTITUCIONAL",
+      "subtema": "Ley de regalías"
+    },
+    {
+      "tema": "SENTENCIA DE INEXEQUIBILIDAD DIFERIDA",
+      "subtema": "Improcedencia por inexistencia de condiciones para el caso"
+    },
+    {
+      "tema": "SENTENCIA DE EXEQUIBILIDAD TEMPORAL O INEXEQUIBILIDAD DIFERIDA",
+      "subtema": "Protección"
+    },
+    {
+      "tema": "SENTENCIA DE INEXEQUIBILIDAD DIFERIDA EN LEY DE REGALIAS",
+      "subtema": "Inexistencia de vacío por revivir normatividad anterior"
+    }
+  ]
+}

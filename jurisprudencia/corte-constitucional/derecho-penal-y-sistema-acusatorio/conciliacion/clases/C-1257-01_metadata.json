@@ -1,0 +1,56 @@
+{
+  "radicado": "C-1257-01",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2001,
+  "fecha_creacion": "2001-11-29",
+  "magistrado_ponente": "Dr JAIME CÓRDOBA TRIVIÑO",
+  "area": "Derecho Penal y Sistema Acusatorio",
+  "tema": "CONCILIACION",
+  "subtema": "Clases",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 640 de 2001",
+    "Decreto 2067 de 1991",
+    "Ley 446 de 1998",
+    "Ley 600 de 2000"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2001/C-1257-01.htm",
+  "fecha_descarga": "2026-10-23T02:25:04.994312+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2001-11-29",
+  "fecha_publicacion": null,
+  "numero": "C-1257/01",
+  "tipo_cc": "C",
+  "prov_id": "20030",
+  "tema_relatoria": "FALLO INHIBITORIO POR INEPTITUD DE DEMANDA DE INCONSTITUCIONALIDAD CONTRA NORMA DE LA LEY 640 DE 2001",
+  "resumen": "LEY 640 DE 200. ART. 18. CONCILIACION. CONTROL INSPECCION Y VIGILANCIA SOBRE CONCILIADORES Y CENTROS DE CONCILIACION Y/O ARBITRAJE EXCEPTO JUECES. FISCALES QUE ACTUEN COMO CONCILIADORES EN PROCESO PENAL. INHIBIDA.",
+  "titulaciones": [
+    {
+      "tema": "CONCILIACION",
+      "subtema": "Clases"
+    },
+    {
+      "tema": "CONCILIADOR",
+      "subtema": "Fiscales no sujetos a inspección, vigilancia y control"
+    },
+    {
+      "tema": "INHIBICION DE LA CORTE CONSTITUCIONAL",
+      "subtema": "Ausencia de cargos"
+    },
+    {
+      "tema": "CONCILIACION PENAL",
+      "subtema": "Regulación especial"
+    },
+    {
+      "tema": "CONCILIADOR",
+      "subtema": "Inspección, vigilancia y control del Ministerio de Justicia"
+    },
+    {
+      "tema": "CONCILIADOR",
+      "subtema": "Exclusión de jueces de inspección, vigilancia y control"
+    }
+  ]
+}

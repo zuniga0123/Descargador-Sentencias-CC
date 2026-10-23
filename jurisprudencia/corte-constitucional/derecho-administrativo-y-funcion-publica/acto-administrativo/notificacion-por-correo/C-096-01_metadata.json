@@ -1,0 +1,63 @@
+{
+  "radicado": "C-096-01",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2001,
+  "fecha_creacion": "2001-01-31",
+  "magistrado_ponente": "Dr ALVARO TAFUR GALVIS",
+  "area": "Derecho Administrativo y Función Pública",
+  "tema": "ACTO ADMINISTRATIVO",
+  "subtema": "Notificación por correo",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 624 de 1989",
+    "Decreto 2067 de 1991",
+    "Ley 527 de 1999"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2001/C-096-01.htm",
+  "fecha_descarga": "2026-10-23T02:35:13.735723+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2001-01-31",
+  "fecha_publicacion": null,
+  "numero": "C-096/01",
+  "tipo_cc": "C",
+  "prov_id": "18568",
+  "tema_relatoria": "ACTO ADMINISTRATIVO DE DIRECCION GENERAL DE IMPUESTOS NACIONALES. NOTIFICACIÓN POR CORREO",
+  "resumen": "DECRETO 624 DE 1989. ARTS. 564 565 (P.) 566 567 Y 568. ESTATUTO TRIBUTARIO DE LOS IMPUESTOS ADMINISTRADOS POR LA DIAN. DIRECCION PROCESAL. FORMAS DE NOTIFICACION DE ACTUACIONES DE LA ADMINISTRACION DE IMPUESTOS. INHIBIDA E INEXEQUIBLE.",
+  "titulaciones": [
+    {
+      "tema": "ACTO ADMINISTRATIVO",
+      "subtema": "Notificación por correo"
+    },
+    {
+      "tema": "PRINCIPIO DE PUBLICIDAD DE LA FUNCION ADMINISTRATIVA",
+      "subtema": "Notificación de actos de la administración"
+    },
+    {
+      "tema": "ACTO ADMINISTRATIVO DE DIRECCION GENERAL DE IMPUESTOS NACIONALES",
+      "subtema": "Notificación por correo"
+    },
+    {
+      "tema": "ACTO ADMINISTRATIVO",
+      "subtema": "Conocimiento real"
+    },
+    {
+      "tema": "ACTO ADMINISTRATIVO",
+      "subtema": "Notificación personal"
+    },
+    {
+      "tema": "DIRECCION GENERAL DE IMPUESTOS NACIONALES",
+      "subtema": "Notificación por correo"
+    },
+    {
+      "tema": "DERECHO DE DEFENSA DEL CONTRIBUYENTE",
+      "subtema": "Notificación por correo"
+    },
+    {
+      "tema": "INHIBICION DE LA CORTE CONSTITUCIONAL",
+      "subtema": "Razones de violación de normas constitucionales"
+    }
+  ]
+}

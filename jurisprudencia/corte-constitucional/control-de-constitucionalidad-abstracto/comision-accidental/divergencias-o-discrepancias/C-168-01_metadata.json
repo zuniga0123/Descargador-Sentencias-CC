@@ -1,0 +1,51 @@
+{
+  "radicado": "C-168-01",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2001,
+  "fecha_creacion": "2001-02-14",
+  "magistrado_ponente": "Dr FABIO MORON DIAZ",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "COMISION ACCIDENTAL",
+  "subtema": "Divergencias o discrepancias",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 105 de 1993",
+    "Decreto 2067 de 1991",
+    "Ley 5 de 1992"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2001/C-168-01.htm",
+  "fecha_descarga": "2026-10-23T02:19:27.498438+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2001-02-14",
+  "fecha_publicacion": null,
+  "numero": "C-168/01",
+  "tipo_cc": "C",
+  "prov_id": "18662",
+  "tema_relatoria": "OBJECION PRESIDENCIAL A REPOSICION DEL PARQUE AUTOMOTOR",
+  "resumen": "PROYECTO DE LEY 188 DE 1999 SENADO Y 123 DE 1999 CAMARA. MODIFICA EL ART. 6 DE LA LEY 105 DE 1993. REPOSICION PARQUE AUTOMOTOR DEL SERVICIO PUBLICO DE PASAJEROS Y/O MIXTO. VIDA UTIL. INEXEQUIBLE.",
+  "titulaciones": [
+    {
+      "tema": "COMISION ACCIDENTAL",
+      "subtema": "Divergencias o discrepancias"
+    },
+    {
+      "tema": "PROYECTO DE LEY",
+      "subtema": "Prohibición de consideración en más de dos legislaturas"
+    },
+    {
+      "tema": "OBJECION PRESIDENCIAL A REPOSICION DEL PARQUE AUTOMOTOR",
+      "subtema": null
+    },
+    {
+      "tema": "COMISION ACCIDENTAL",
+      "subtema": "Texto único"
+    },
+    {
+      "tema": "PROYECTO DE LEY",
+      "subtema": "Límite temporal"
+    }
+  ]
+}

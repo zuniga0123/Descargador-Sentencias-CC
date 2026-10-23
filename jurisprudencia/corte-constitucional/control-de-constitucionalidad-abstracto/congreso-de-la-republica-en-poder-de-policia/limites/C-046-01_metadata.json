@@ -1,0 +1,78 @@
+{
+  "radicado": "C-046-01",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2001,
+  "fecha_creacion": "2001-01-24",
+  "magistrado_ponente": "Dr ALVARO TAFUR GALVIS",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "CONGRESO DE LA REPUBLICA EN PODER DE POLICIA",
+  "subtema": "Límites",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 1355 de 1970",
+    "Decreto 2067 de 1991",
+    "Ley 32 de 1985",
+    "Decreto 355 de 1970",
+    "Ley 74 de 1968",
+    "Decreto 522 de 1971"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2001/C-046-01.htm",
+  "fecha_descarga": "2026-10-23T02:34:33.212382+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2001-01-24",
+  "fecha_publicacion": null,
+  "numero": "C-046/01",
+  "tipo_cc": "C",
+  "prov_id": "18503",
+  "tema_relatoria": "LIBERTAD DE CIRCULACION Y RESIDENCIA. RESTRICCIÓN SIN LÍMITE EN EL TIEMPO",
+  "resumen": "DECRETO 1335 DE 1970. ART. 204 NUMS. 2 Y 3. NORMAS SOBRE POLICIA. CODIGO NACIONAL DE POLICIA. CONTRAVENCIONES. COMPETENCIA DE ALCALDES E INSPECTORES DE POLICIA. DERECHO DE CIRCULACION Y RESIDENCIA. INEXEQUIBLE.",
+  "titulaciones": [
+    {
+      "tema": "CONGRESO DE LA REPUBLICA EN PODER DE POLICIA",
+      "subtema": "Límites"
+    },
+    {
+      "tema": "CONGRESO",
+      "subtema": "Restricción de libertades y derechos ciudadanos"
+    },
+    {
+      "tema": "MEDIDAS CORRECTIVAS",
+      "subtema": "Límite temporal"
+    },
+    {
+      "tema": "LIBERTAD DE CIRCULACION Y RESIDENCIA",
+      "subtema": "Restricción sin límite en el tiempo"
+    },
+    {
+      "tema": "CONTRAVENCION",
+      "subtema": "Promesa de residir en otra zona o barrio"
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "Formulación de cargos"
+    },
+    {
+      "tema": "MEDIDAS DE SEGURIDAD IMPRESCRIPTIBLES",
+      "subtema": "Prohibición"
+    },
+    {
+      "tema": "PENA DE DESTIERRO",
+      "subtema": "No lo es promesa de residir en otra zona o barrio"
+    },
+    {
+      "tema": "MOTIVO DE POLICIA",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "PENA DE DESTIERRO",
+      "subtema": "Prohibición"
+    },
+    {
+      "tema": "PROCESO POLICIVO",
+      "subtema": "Inexistencia de procedimiento específico para sanción"
+    }
+  ]
+}

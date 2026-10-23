@@ -1,0 +1,391 @@
+{
+  "radicado": "C-252-01",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2001,
+  "fecha_creacion": "2001-02-28",
+  "magistrado_ponente": null,
+  "area": "Derecho Penal y Sistema Acusatorio",
+  "tema": "ADMINISTRACION DE JUSTICIA",
+  "subtema": "Reforma de procedimientos",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 553 de 2000",
+    "Decreto 2067 de 1991",
+    "Ley 153 de 1887",
+    "Ley 600 de 2000",
+    "Ley 105 de 1931",
+    "Decreto 528 de 1964",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2001/C-252-01.htm",
+  "fecha_descarga": "2026-10-23T02:14:44.891820+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2001-02-28",
+  "fecha_publicacion": null,
+  "numero": "C-252/01",
+  "tipo_cc": "C",
+  "prov_id": "18778",
+  "tema_relatoria": "RECURSO DE CASACION PENAL. VULNERACIÓN OSTENSIBLE DE GARANTÍAS FUNDAMENTALES",
+  "resumen": "LEY 553 DE 2000. REFORMA EL CAPITULO VIII TITULO IV LIBRO 1 DEL DECRETO 2700 DE 1991. CODIGO DE PROCEDIMIENTO PENAL. RECURSO DE CASACION. PROCEDENCIA. OPORTUNIDAD. CALIFICACION DE LA DEMANDA. RESPUESTA INMEDIATA. LIMITACION. APLICACION. COMPETENCIA",
+  "titulaciones": [
+    {
+      "tema": "ADMINISTRACION DE JUSTICIA",
+      "subtema": "Reforma de procedimientos"
+    },
+    {
+      "tema": "DEBIDO PROCESO",
+      "subtema": "Fin esencial"
+    },
+    {
+      "tema": "CASACION EN EL PRINCIPIO DE CONSTITUCIONALIDAD",
+      "subtema": "Inserción"
+    },
+    {
+      "tema": "CASACION PENAL",
+      "subtema": "Fin esencial"
+    },
+    {
+      "tema": "CASACION",
+      "subtema": "Antecedentes"
+    },
+    {
+      "tema": "CASACION",
+      "subtema": "Control jurídico de sentencia"
+    },
+    {
+      "tema": "CASACION",
+      "subtema": "Suspensión de cumplimiento de sentencia"
+    },
+    {
+      "tema": "CASACION",
+      "subtema": "Objeto"
+    },
+    {
+      "tema": "CASACION PENAL",
+      "subtema": "Corrección previa a ejecutoria de decisión"
+    },
+    {
+      "tema": "CASACION",
+      "subtema": "No indispensable para debido proceso"
+    },
+    {
+      "tema": "CASACION E INSTANCIA",
+      "subtema": "Distinción"
+    },
+    {
+      "tema": "CASACION PENAL",
+      "subtema": "Establecimiento de condición de procedencia"
+    },
+    {
+      "tema": "CASACION",
+      "subtema": "Significado"
+    },
+    {
+      "tema": "COSA JUZGADA",
+      "subtema": "Límites"
+    },
+    {
+      "tema": "COSA JUZGADA EN CASACION PENAL",
+      "subtema": "Finalidad"
+    },
+    {
+      "tema": "PRESUNCION DE INOCENCIA",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "PREVALENCIA DEL DERECHO SUSTANCIAL",
+      "subtema": "Importancia de normas procedimentales"
+    },
+    {
+      "tema": "PRINCIPIO NON BIS IN IDEM Y CASACION PENAL",
+      "subtema": "Finalidades"
+    },
+    {
+      "tema": "PRINCIPIO DE FAVORABILIDAD PENAL",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "PROCESO",
+      "subtema": "Instancias"
+    },
+    {
+      "tema": "LIBERTAD",
+      "subtema": "Restricción excepcional"
+    },
+    {
+      "tema": "ERROR DE DERECHO",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "LIBERTAD DE CONFIGURACIÓN LEGISLATIVA",
+      "subtema": "Límites en formas propias de cada juicio"
+    },
+    {
+      "tema": "PROVIDENCIAS",
+      "subtema": "Fundamentación legal"
+    },
+    {
+      "tema": "RECURSO DE CASACION PENAL",
+      "subtema": "Vulneración ostensible de garantías fundamentales"
+    },
+    {
+      "tema": "DOCTRINA CONSTITUCIONAL",
+      "subtema": "Significado"
+    },
+    {
+      "tema": "ERROR DE DERECHO EN SENTENCIA",
+      "subtema": "Agravio de comunidad"
+    },
+    {
+      "tema": "INADMISION DEMANDA DE CASACION PENAL",
+      "subtema": "Motivación"
+    },
+    {
+      "tema": "IGUALDAD",
+      "subtema": "Acepciones"
+    },
+    {
+      "tema": "JURISPRUDENCIA",
+      "subtema": "Valor normativo"
+    },
+    {
+      "tema": "JUEZ",
+      "subtema": "Examen de conductas"
+    },
+    {
+      "tema": "PRESUNCION DE INOCENCIA EN CASACION PENAL",
+      "subtema": "Finalidad"
+    },
+    {
+      "tema": "PRECEDENTE JUDICIAL EN PENAL",
+      "subtema": "Valoración"
+    },
+    {
+      "tema": "RETROACTIVIDAD DE LA LEY",
+      "subtema": "Significado"
+    },
+    {
+      "tema": "SENTENCIA DE CONSTITUCIONALIDAD",
+      "subtema": "Corrección de línea doctrinaria en tutela"
+    },
+    {
+      "tema": "SENTENCIA",
+      "subtema": "Sujeción a ley y Constitución"
+    },
+    {
+      "tema": "PROVIDENCIAS JUDICIALES",
+      "subtema": "Motivación"
+    },
+    {
+      "tema": "SENTENCIA",
+      "subtema": "Presunción de veracidad y acierto"
+    },
+    {
+      "tema": "ACCION DE REVISION",
+      "subtema": "Objetivo"
+    },
+    {
+      "tema": "ADMINISTRACION DE JUSTICIA",
+      "subtema": "Límites a solución de problemas prácticos"
+    },
+    {
+      "tema": "CONDENA PENAL",
+      "subtema": "Efectos"
+    },
+    {
+      "tema": "CASACION PENAL",
+      "subtema": "Potestad para considerar causales distintas"
+    },
+    {
+      "tema": "CASACION",
+      "subtema": "Finalidad"
+    },
+    {
+      "tema": "CASACION",
+      "subtema": "No es instancia"
+    },
+    {
+      "tema": "CASACION PENAL",
+      "subtema": "Efectos de la regulación"
+    },
+    {
+      "tema": "CASACION PENAL",
+      "subtema": "No categoría del condenado"
+    },
+    {
+      "tema": "CASACION Y REVISION",
+      "subtema": "Distinción"
+    },
+    {
+      "tema": "CASACION PENAL",
+      "subtema": "Naturaleza"
+    },
+    {
+      "tema": "CASACION",
+      "subtema": "Cumplimiento de sentencia de segunda instancia"
+    },
+    {
+      "tema": "CASACION",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "CASACION",
+      "subtema": "Naturaleza"
+    },
+    {
+      "tema": "CASACION",
+      "subtema": "Objeto diferente a la instancia"
+    },
+    {
+      "tema": "ESTADO DE DERECHO",
+      "subtema": "Sujeción de conductas"
+    },
+    {
+      "tema": "PRECEDENTE JUDICIAL",
+      "subtema": "Respeto"
+    },
+    {
+      "tema": "PRECEDENTE JUDICIAL",
+      "subtema": "Valoración de punto específico"
+    },
+    {
+      "tema": "PRINCIPIO DE FAVORABILIDAD PENAL",
+      "subtema": "Contenido sustancial"
+    },
+    {
+      "tema": "PRINCIPIO DE UNIDAD DEL ORDENAMIENTO JURIDICO",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "ERROR IN IUDICANDO",
+      "subtema": "Significado"
+    },
+    {
+      "tema": "LIBERTAD EN CASACION PENAL",
+      "subtema": "Finalidad"
+    },
+    {
+      "tema": "LIBERTAD DE CONFIGURACIÓN LEGISLATIVA",
+      "subtema": "Formas propias de cada juicio"
+    },
+    {
+      "tema": "LIBERTAD DE CONFIGURACIÓN LEGISLATIVA",
+      "subtema": "Límites en modificación de instituciones jurídicas"
+    },
+    {
+      "tema": "LIBERTAD DE CONFIGURACION LEGISLATIVA EN CASACION PENAL",
+      "subtema": "Límites a modificación"
+    },
+    {
+      "tema": "RECHAZO DEMANDA DE CASACION PENAL",
+      "subtema": "Motivación"
+    },
+    {
+      "tema": "RECURSO DE CASACION PENAL",
+      "subtema": "Respuesta inmediata"
+    },
+    {
+      "tema": "ERROR IN PROCEDENDO",
+      "subtema": "Significado"
+    },
+    {
+      "tema": "DEBIDO PROCESO EN CASACION PENAL",
+      "subtema": "Finalidad"
+    },
+    {
+      "tema": "DEBIDO PROCESO",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "Perspectiva de análisis"
+    },
+    {
+      "tema": "DERECHO A LA IGUALDAD EN PROVIDENCIAS JUDICIALES",
+      "subtema": "Motivación"
+    },
+    {
+      "tema": "DEBIDO PROCESO",
+      "subtema": "Reformas de procedimientos judiciales"
+    },
+    {
+      "tema": "DEBIDO PROCESO",
+      "subtema": "Previa atribución de competencia"
+    },
+    {
+      "tema": "COSA JUZGADA",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "FUNCION JUDICIAL",
+      "subtema": "Control jurídico de conductas"
+    },
+    {
+      "tema": "JUEZ",
+      "subtema": "Eficiencia"
+    },
+    {
+      "tema": "JURISPRUDENCIA",
+      "subtema": "Acatamiento"
+    },
+    {
+      "tema": "LIBERTAD DE CONFIGURACION LEGISLATIVA EN CASACION",
+      "subtema": "Regulación de procedimientos y efectos"
+    },
+    {
+      "tema": "JUEZ DE INSTANCIA",
+      "subtema": "Control jurídico de conductas"
+    },
+    {
+      "tema": "PRINCIPIO DE FAVORABILIDAD PENAL EN CASACION",
+      "subtema": "Hechos con anterioridad a la vigencia"
+    },
+    {
+      "tema": "PRINCIPIO DE IGUALDAD EN LA APLICACION DE LA LEY",
+      "subtema": "Justificación de no aplicación de jurisprudencia"
+    },
+    {
+      "tema": "PRINCIPIO DE JURIDICIDAD EN DEBIDO PROCESO",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "PRECEDENTE JUDICIAL EN RECURSO DE CASACION PENAL",
+      "subtema": "Examen riguroso"
+    },
+    {
+      "tema": "SALA DE SELECCION DE TUTELA",
+      "subtema": "Objeto de la revisión eventual"
+    },
+    {
+      "tema": "SENTENCIA DE CONSTITUCIONALIDAD",
+      "subtema": "Visión del problema jurídico"
+    },
+    {
+      "tema": "SENTENCIA",
+      "subtema": "Cumplimiento"
+    },
+    {
+      "tema": "RECHAZO DEMANDA",
+      "subtema": "Motivación"
+    },
+    {
+      "tema": "SENTENCIA",
+      "subtema": "Significado"
+    },
+    {
+      "tema": "SENTENCIA PENAL INJUSTA",
+      "subtema": "No resarcimiento"
+    },
+    {
+      "tema": "ULTRAACTIVIDAD DE LA LEY",
+      "subtema": "Significado"
+    },
+    {
+      "tema": "UNIFICACION DE JURISPRUDENCIA",
+      "subtema": "Alcance"
+    }
+  ]
+}

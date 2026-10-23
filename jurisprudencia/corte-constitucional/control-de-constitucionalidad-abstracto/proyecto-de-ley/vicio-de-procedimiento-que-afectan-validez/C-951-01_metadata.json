@@ -1,0 +1,63 @@
+{
+  "radicado": "C-951-01",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2001,
+  "fecha_creacion": "2001-09-05",
+  "magistrado_ponente": "Dr EDUARDO MONTEALEGRE LYNETT",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "PROYECTO DE LEY",
+  "subtema": "Vicio de procedimiento que afectan validez",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 620 de 2000",
+    "Decreto 2067 de 1991",
+    "Ley 5 de 1992"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2001/C-951-01.htm",
+  "fecha_descarga": "2026-10-23T02:21:48.651439+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2001-09-05",
+  "fecha_publicacion": null,
+  "numero": "C-951/01",
+  "tipo_cc": "C",
+  "prov_id": "19684",
+  "tema_relatoria": "CONTROL DE CONSTITUCIONALIDAD DE LA CONVENCION INTERAMERICANA SOBRE RESTITUCION INTERNACIONAL DE MENORES",
+  "resumen": "LEY 620 DE 2000. CONVENCION INTERAMERICANA SOBRE RESTITUCION INTERNACIONAL DE MENORES. AMBITO DE APLICACION. AUTORIDAD CENTRAL. PROCEDIMIENTO. LOCALIZACION. DERECHO DE VISITA. VICIOS DE FORMA. INEXEQUIBLE E INHIBIDA.",
+  "titulaciones": [
+    {
+      "tema": "PROYECTO DE LEY",
+      "subtema": "Vicio de procedimiento que afectan validez"
+    },
+    {
+      "tema": "PROYECTO DE LEY",
+      "subtema": "Falta de publicación de ponencia para primer debate"
+    },
+    {
+      "tema": "CONVENCION INTERAMERICANA SOBRE RESTITUCION INTERNACIONAL DE MENORES",
+      "subtema": "Suscripción"
+    },
+    {
+      "tema": "INHIBICION SOBRE TRATADO INTERNACIONAL",
+      "subtema": "Inexequibilidad de ley aprobatoria"
+    },
+    {
+      "tema": "PROYECTO DE LEY",
+      "subtema": "Publicación con posterioridad a la aprobación en Comisión"
+    },
+    {
+      "tema": "LEY APROBATORIA DE TRATADO INTERNACIONAL",
+      "subtema": "Vicio de procedimiento"
+    },
+    {
+      "tema": "PROYECTO DE LEY",
+      "subtema": "Publicación previa de ponencia para primer debate"
+    },
+    {
+      "tema": "PROYECTO DE LEY",
+      "subtema": "Autorización por presidente de copia de ponencia y distribución previa"
+    }
+  ]
+}

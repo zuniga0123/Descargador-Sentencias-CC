@@ -1,0 +1,44 @@
+{
+  "radicado": "T-717-01",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2001,
+  "fecha_creacion": "2001-07-05",
+  "magistrado_ponente": "Dr EDUARDO MONTEALEGRE LYNETT",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "DERECHOS FUNDAMENTALES",
+  "subtema": "Vulneración cuando demora en emisión del bono impide acceso a pensión de jubilación",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 1513 de 1998",
+    "Ley 100 de 1993",
+    "Decreto 2337 de 1996",
+    "Decreto 1539 de 1998"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2001/T-717-01.htm",
+  "fecha_descarga": "2026-10-23T02:12:54.165869+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2001-07-05",
+  "fecha_publicacion": null,
+  "numero": "T-717/01",
+  "tipo_cc": "T",
+  "prov_id": "19420",
+  "tema_relatoria": "DERECHO A LA PENSION. MINIMO VITAL. SOLICITUD DEL BONO PENSIONAL. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHOS FUNDAMENTALES",
+      "subtema": "Vulneración cuando demora en emisión del bono impide acceso a pensión de jubilación"
+    },
+    {
+      "tema": "BONO PENSIONAL",
+      "subtema": "Pronta tramitación"
+    },
+    {
+      "tema": "BONO PENSIONAL",
+      "subtema": "Procedencia de tutela para reclamar la remisión"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "radicado": "C-431-01",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2001,
+  "fecha_creacion": "2001-05-02",
+  "magistrado_ponente": "Dr ALFREDO BELTRÁN SIERRA",
+  "area": "Derecho Penal y Sistema Acusatorio",
+  "tema": "NORMA ACUSADA",
+  "subtema": "Reproducción de norma constitucional",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 599 de 2000",
+    "Decreto 2067 de 1991",
+    "Acto Legislativo 1 de 1997",
+    "Ley 600 de 2000"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2001/C-431-01.htm",
+  "fecha_descarga": "2026-10-23T02:32:26.419597+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2001-05-02",
+  "fecha_publicacion": null,
+  "numero": "C-431/01",
+  "tipo_cc": "C",
+  "prov_id": "19063",
+  "tema_relatoria": "EXTRADICION. REPRODUCCIÓN DE NORMA CONSTITUCIONAL",
+  "resumen": "LEY 599 DE 2000. ART. 18 (P). CODIGO PENAL. EXTRADICION POR DELITOS COMETIDOS EN EL EXTERIOR. CONTENIDO MATERIAL. EXEQUIBLE.",
+  "titulaciones": [
+    {
+      "tema": "NORMA ACUSADA",
+      "subtema": "Reproducción de norma constitucional"
+    },
+    {
+      "tema": "CONTROL DE CONSTITUCIONALIDAD",
+      "subtema": "Reproducción de norma constitucional"
+    },
+    {
+      "tema": "EXTRADICION",
+      "subtema": "Reproducción de norma constitucional"
+    }
+  ]
+}

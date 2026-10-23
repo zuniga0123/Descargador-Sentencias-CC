@@ -1,0 +1,87 @@
+{
+  "radicado": "C-831-01",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2001,
+  "fecha_creacion": "2001-08-08",
+  "magistrado_ponente": "Dr ALVARO TAFUR GALVIS",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "INTERCAMBIO ELECTRONICO DE DATOS",
+  "subtema": "Adecuación de regímenes jurídicos",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 527 de 1999",
+    "Decreto 2067 de 1991",
+    "Ley 270 de 1996"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2001/C-831-01.htm",
+  "fecha_descarga": "2026-10-23T02:22:48.789761+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2001-08-08",
+  "fecha_publicacion": null,
+  "numero": "C-831/01",
+  "tipo_cc": "C",
+  "prov_id": "19555",
+  "tema_relatoria": "PRIVACION DE LA LIBERTAD O ALLANAMIENTO DE DOMICILIO. MANDAMIENTO JUDICIAL ESCRITO ES UNO DE LOS REQUISITOS",
+  "resumen": "LEY 527 DE 1999. ART. 6. ACCESO Y USO DE LOS MENSAJES DE DATOS. FAX. COMERCIO ELECTRONICO. FIRMAS DIGITALES. ENTIDADES DE CERTIFICACION. APLICACION DE LOS REQUISITOS JURIDICOS. INFORMACION POR ESCRITO DE UNA NORMA. RECONOCIMIENTO DE VALIDEZ. PRESUPUESTOS",
+  "titulaciones": [
+    {
+      "tema": "INTERCAMBIO ELECTRONICO DE DATOS",
+      "subtema": "Adecuación de regímenes jurídicos"
+    },
+    {
+      "tema": "MENSAJE DE DATOS EN ARRESTO O ALLANAMIENTO",
+      "subtema": "Equivalencia al escrito"
+    },
+    {
+      "tema": "PRIVACION DE LA LIBERTAD O ALLANAMIENTO DE DOMICILIO",
+      "subtema": "Mandamiento judicial escrito es uno de los requisitos"
+    },
+    {
+      "tema": "MENSAJE DE DATOS",
+      "subtema": "Acceso y uso"
+    },
+    {
+      "tema": "MENSAJE DE DATOS",
+      "subtema": "Equivalencia al escrito"
+    },
+    {
+      "tema": "DOCUMENTO ELECTRONICO",
+      "subtema": "Nivel de seguridad"
+    },
+    {
+      "tema": "INTERCAMBIO ELECTRONICO DE INFORMACION",
+      "subtema": "Regulación"
+    },
+    {
+      "tema": "COMERCIO ELECTRONICO",
+      "subtema": "Objeto"
+    },
+    {
+      "tema": "MENSAJE DE DATOS EN ACTUACION JUDICIAL",
+      "subtema": "Requisitos para validez"
+    },
+    {
+      "tema": "MENSAJE DE DATOS",
+      "subtema": "Equivalencia funcional"
+    },
+    {
+      "tema": "PRIVACION DE LA LIBERTAD O ALLANAMIENTO DE DOMICILIO",
+      "subtema": "Requisitos"
+    },
+    {
+      "tema": "DERECHOS FUNDAMENTALES",
+      "subtema": "Interpretación restrictiva de reserva de ley"
+    },
+    {
+      "tema": "DERECHO A LA LIBERTAD PERSONAL",
+      "subtema": "Requisitos para la privación"
+    },
+    {
+      "tema": "COSA JUZGADA CONSTITUCIONAL",
+      "subtema": "Inexistencia por diferencia de materia"
+    }
+  ]
+}

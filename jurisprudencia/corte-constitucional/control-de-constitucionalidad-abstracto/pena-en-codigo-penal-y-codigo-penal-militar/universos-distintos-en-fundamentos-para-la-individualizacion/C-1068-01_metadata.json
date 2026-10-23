@@ -1,0 +1,67 @@
+{
+  "radicado": "C-1068-01",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2001,
+  "fecha_creacion": "2001-10-10",
+  "magistrado_ponente": "Rodrigo Escobar Gil",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "PENA EN CODIGO PENAL Y CODIGO PENAL MILITAR",
+  "subtema": "Universos distintos en fundamentos para la individualización",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 599 de 2000",
+    "Decreto 2067 de 1991",
+    "Ley 522 de 1999"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2001/C-1068-01.htm",
+  "fecha_descarga": "2026-10-23T02:30:11.288419+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2001-10-10",
+  "fecha_publicacion": null,
+  "numero": "C-1068/01",
+  "tipo_cc": "C",
+  "prov_id": "19815",
+  "tema_relatoria": "PENA EN CODIGO PENAL Y CODIGO PENAL MILITAR. METODOLOGÍAS DISTINTAS EN INDIVIDUALIZACIÓN",
+  "resumen": "LEY 599 DE 2000. ART. 61. CODIGO PENAL. FUNDAMENTOS PARA LA INDIVIDUALIZACION DE LA PENA. GRADUACION. APLICACIÓN DE MINIMOS Y MAXIMOS. CODIGO PENAL MILITAR. DERECHO A LA IGUALDAD. TRATO DIFERENCIAL. EXEQUIBLE.",
+  "titulaciones": [
+    {
+      "tema": "PENA EN CODIGO PENAL Y CODIGO PENAL MILITAR",
+      "subtema": "Universos distintos en fundamentos para la individualización"
+    },
+    {
+      "tema": "CODIGO PENAL MILITAR",
+      "subtema": "Régimen completo y diferente al ordinario"
+    },
+    {
+      "tema": "CODIGO PENAL Y CODIGO PENAL MILITAR",
+      "subtema": "Distinción"
+    },
+    {
+      "tema": "CODIGO PENAL MILITAR",
+      "subtema": "Regulación especial"
+    },
+    {
+      "tema": "JURISDICCION PENAL MILITAR",
+      "subtema": "Régimen excepcional"
+    },
+    {
+      "tema": "PENA",
+      "subtema": "Metodología distinta en individualización"
+    },
+    {
+      "tema": "PENA EN CODIGO PENAL Y CODIGO PENAL MILITAR",
+      "subtema": "Metodologías distintas en individualización"
+    },
+    {
+      "tema": "PENA EN CODIGO PENAL Y CODIGO PENAL MILITAR",
+      "subtema": "Sistemas de graduación"
+    },
+    {
+      "tema": "JUSTICIA PENAL MILITAR",
+      "subtema": "Factores que delimitan la competencia"
+    }
+  ]
+}

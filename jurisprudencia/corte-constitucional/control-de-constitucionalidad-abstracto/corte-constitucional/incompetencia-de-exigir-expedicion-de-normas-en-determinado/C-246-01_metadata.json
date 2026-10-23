@@ -1,0 +1,73 @@
+{
+  "radicado": "C-246-01",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2001,
+  "fecha_creacion": "2001-02-27",
+  "magistrado_ponente": "Dr JOSÉ GREGORIO HERNÁNDEZ GALINDO",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "CORTE CONSTITUCIONAL",
+  "subtema": "Incompetencia de exigir expedición de normas en determinado sentido",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Decreto 2067 de 1991",
+    "Decreto 656 de 1994",
+    "Decreto 1888 de 1994",
+    "Ley 153 de 1887"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2001/C-246-01.htm",
+  "fecha_descarga": "2026-10-23T02:28:34.190840+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2001-02-27",
+  "fecha_publicacion": null,
+  "numero": "C-246/01",
+  "tipo_cc": "C",
+  "prov_id": "18767",
+  "tema_relatoria": "FALLO INHIBITORIO POR INEPTITUD DE DEMANDA DE INCONSTITUCIONALIDAD CONTRA NORMA DE LA LEY 100 DE 1993",
+  "resumen": "LEY 100 DE 1993. ARTS. 13 Y 32 LITS. C) (P.). SISTEMA DE SEGURIDAD SOCIAL INTEGRAL. CARACTERISTICAS DEL SISTEMA GENERAL DE PENSIONES Y DEL REGIMEN DE PRIMA MEDIA CON PRESTACION DEFINIDA. RECONOCIMIENTO Y PAGO. OPORTUNIDAD . INEPTITUD SUSTANCIAL DE LA DEMANDA",
+  "titulaciones": [
+    {
+      "tema": "CORTE CONSTITUCIONAL",
+      "subtema": "Incompetencia de exigir expedición de normas en determinado sentido"
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD POR OMISION LEGISLATIVA",
+      "subtema": "Procedencia"
+    },
+    {
+      "tema": "OMISION LEGISLATIVA",
+      "subtema": "No relación con norma acusada"
+    },
+    {
+      "tema": "OMISIÓN LEGISLATIVA RELATIVA",
+      "subtema": "Supuestos para su configuración"
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD POR OMISION LEGISLATIVA",
+      "subtema": "Vulneración de igualdad"
+    },
+    {
+      "tema": "CORTE CONSTITUCIONAL",
+      "subtema": "Incompetencia de ordenar aplicación por extensión de normas"
+    },
+    {
+      "tema": "CONTROL DE CONSTITUCIONALIDAD DE OMISION LEGISLATIVA RELATIVA",
+      "subtema": "Procedencia"
+    },
+    {
+      "tema": "OMISION LEGISLATIVA ABSOLUTA",
+      "subtema": "Término para pago de pensiones y prestaciones"
+    },
+    {
+      "tema": "OMISION LEGISLATIVA ABSOLUTA",
+      "subtema": "Incompetencia de la Corte Constitucional"
+    },
+    {
+      "tema": "INHIBICION DE LA CORTE CONSTITUCIONAL",
+      "subtema": "No existencia de norma"
+    }
+  ]
+}

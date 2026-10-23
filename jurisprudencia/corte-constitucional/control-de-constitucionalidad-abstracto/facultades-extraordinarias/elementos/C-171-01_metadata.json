@@ -1,0 +1,49 @@
+{
+  "radicado": "C-171-01",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2001,
+  "fecha_creacion": "2001-02-14",
+  "magistrado_ponente": "Dr CARLOS GAVIRIA DIAZ",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "FACULTADES EXTRAORDINARIAS",
+  "subtema": "Elementos",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 6 de 1992"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2001/C-171-01.htm",
+  "fecha_descarga": "2026-10-23T02:34:14.666701+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2001-02-14",
+  "fecha_publicacion": null,
+  "numero": "C-171/01",
+  "tipo_cc": "C",
+  "prov_id": "18665",
+  "tema_relatoria": "DIRECCION DE IMPUESTOS Y ADUANAS NACIONALES. REGLAMENTACIÓN Y GARANTÍA DE OBLIGACIONES TRIBUTARIAS",
+  "resumen": "LEY 6 DE 1992. ART. 50 QUE ADICIONO EL ART. 684-2 AL ESTATUTO TRIBUTARIO. EMISION TITULOS DE DEUDA PUBLICA INTERNA. AJUSTE PENSIONES DEL SECTOR PUBLICO. IMPLANTACION SISTEMAS TECNICOS DE CONTROL. DIAN. EXEQUIBLE.",
+  "titulaciones": [
+    {
+      "tema": "FACULTADES EXTRAORDINARIAS",
+      "subtema": "Elementos"
+    },
+    {
+      "tema": "TRIBUTO",
+      "subtema": "Regulación, reglamentación y garantía"
+    },
+    {
+      "tema": "DIRECCION DE IMPUESTOS Y ADUANAS NACIONALES",
+      "subtema": "Implantación de sistemas técnicos de control"
+    },
+    {
+      "tema": "DIRECCION DE IMPUESTOS Y ADUANAS NACIONALES",
+      "subtema": "Reglamentación y garantía de obligaciones tributarias"
+    },
+    {
+      "tema": "LEGISLADOR EN MATERIA TRIBUTARIA",
+      "subtema": "Regulación"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "radicado": "C-202-01",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2001,
+  "fecha_creacion": "2001-02-21",
+  "magistrado_ponente": "Dr ALVARO TAFUR GALVIS",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "LEY APROBATORIA DE TRATADO INTERNACIONAL",
+  "subtema": "Trámite",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2067 de 1991",
+    "Ley 596 de 2000",
+    "Ley 32 de 1985",
+    "Ley 30 de 1992",
+    "Ley 172 de 1994",
+    "Ley 147 de 1994"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2001/C-202-01.htm",
+  "fecha_descarga": "2026-10-23T02:20:07.977675+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2001-02-21",
+  "fecha_publicacion": null,
+  "numero": "C-202/01",
+  "tipo_cc": "C",
+  "prov_id": "18708",
+  "tema_relatoria": "CONTROL DE CONSTITUCIONALIDAD DEL CONVENIO DE RECONOCIMIENTO DE TITULOS DE EDUCACION SUPERIOR CON MEXICO",
+  "resumen": "LEY 596 DE 2000. CONVENIO DE RECONOCIMIENTO MUTUO DE CERTIFICADOS DE ESTUDIOS TITULOS Y GRADOS ACADEMICOS DE EDUCACION SUPERIOR ENTRE COLOMBIA Y MEXICO. EJERCICIO DE LA PROFESION. EXEQUIBLES.",
+  "titulaciones": [
+    {
+      "tema": "LEY APROBATORIA DE TRATADO INTERNACIONAL",
+      "subtema": "Trámite"
+    },
+    {
+      "tema": "CONVENIO DE RECONOCIMIENTO DE TITULOS DE EDUCACION SUPERIOR CON MEXICO",
+      "subtema": "Objeto"
+    },
+    {
+      "tema": "TRATADO INTERNACIONAL",
+      "subtema": "Representación sin plenos poderes"
+    }
+  ]
+}

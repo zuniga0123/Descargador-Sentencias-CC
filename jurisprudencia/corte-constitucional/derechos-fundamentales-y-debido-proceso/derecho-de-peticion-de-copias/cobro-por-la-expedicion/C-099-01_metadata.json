@@ -1,0 +1,64 @@
+{
+  "radicado": "C-099-01",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2001,
+  "fecha_creacion": "2001-01-31",
+  "magistrado_ponente": "Dr FABIO MORON DIAZ",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "DERECHO DE PETICION DE COPIAS",
+  "subtema": "Cobro por la expedición",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto Ley 1 de 1984",
+    "Ley 57 de 1985",
+    "Decreto 2067 de 1991",
+    "Ley 58 de 1984"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2001/C-099-01.htm",
+  "fecha_descarga": "2026-10-23T02:19:45.790656+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2001-01-31",
+  "fecha_publicacion": null,
+  "numero": "C-099/01",
+  "tipo_cc": "C",
+  "prov_id": "18571",
+  "tema_relatoria": "DERECHO DE PETICION DE COPIAS. COBRO POR LA EXPEDICIÓN",
+  "resumen": "DECRETO 01 DE 1984. ART. 24 SUBROGADO POR EL ART. 17 DE LA LEY 57 DE 1985. CODIGO CONTENCIOSO ADMINISTRATIVO. PAGO COPIAS DOCUMENTOS OFICIALES. EXEQUIBLE.",
+  "titulaciones": [
+    {
+      "tema": "DERECHO DE PETICION DE COPIAS",
+      "subtema": "Cobro por la expedición"
+    },
+    {
+      "tema": "PATRIMONIO DE ENTIDAD PUBLICA",
+      "subtema": "Preservación"
+    },
+    {
+      "tema": "RACIONALIZACION DE RECURSO PUBLICOS",
+      "subtema": "Razonabilidad y proporcional"
+    },
+    {
+      "tema": "CLAUSULA GENERAL DE COMPETENCIA LEGISLATIVA",
+      "subtema": "Definición de elementos para concreción de derechos"
+    },
+    {
+      "tema": "DERECHO DE PETICION DE COPIAS",
+      "subtema": "Pago cuando cantidad lo justifique"
+    },
+    {
+      "tema": "FACULTADES EXTRAORDINARIAS PARA EXPEDICION DE CODIGOS",
+      "subtema": "No aplicación retroactiva de prohibición"
+    },
+    {
+      "tema": "DERECHO DE PETICIÓN",
+      "subtema": "No es absoluto"
+    },
+    {
+      "tema": "FUNCION ADMINISTRATIVA",
+      "subtema": "Racionalización del ejercicio"
+    }
+  ]
+}

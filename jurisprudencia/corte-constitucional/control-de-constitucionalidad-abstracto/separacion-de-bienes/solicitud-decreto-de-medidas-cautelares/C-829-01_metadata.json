@@ -1,0 +1,55 @@
+{
+  "radicado": "C-829-01",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2001,
+  "fecha_creacion": "2001-08-08",
+  "magistrado_ponente": "Dr RODRIGO ESCOBAR GIL",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "SEPARACION DE BIENES",
+  "subtema": "Solicitud decreto de medidas cautelares",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2067 de 1991",
+    "Ley 28 de 1932",
+    "Ley 105 de 1931",
+    "Decreto 2282 de 1989",
+    "Decreto 1400 de 1970",
+    "Ley 153 de 1887",
+    "Ley 57 de 1887"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2001/C-829-01.htm",
+  "fecha_descarga": "2026-10-23T02:27:34.807612+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2001-08-08",
+  "fecha_publicacion": null,
+  "numero": "C-829/01",
+  "tipo_cc": "C",
+  "prov_id": "19553",
+  "tema_relatoria": "FALLO INHIBITORIO POR NORMA DEROGADA",
+  "resumen": "CODIGO CIVIL. ART. 201 (P.). PROCESO DE SEPARACION DE BIENES. MEDIDAS CAUTELARES A PETICION DE LA MUJER. INCAPACIDAD CIVIL DE LAS MUJERES CASADAS. CONTRADICCION DE LOS CONTENIDOS NORMATIVOS. DEROGATORIA POR REGULACION INTEGRAL DE UNA MATERIA. PRINCIPIO DE LEGALIDAD DEL PROCESO",
+  "titulaciones": [
+    {
+      "tema": "SEPARACION DE BIENES",
+      "subtema": "Solicitud decreto de medidas cautelares"
+    },
+    {
+      "tema": "PRINCIPIO DE LEGALIDAD DEL PROCESO",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "INHIBICION DE LA CORTE CONSTITUCIONAL",
+      "subtema": "Derogación tácita o integral de la materia"
+    },
+    {
+      "tema": "PROCEDIMIENTO",
+      "subtema": "Regulación legal integral"
+    },
+    {
+      "tema": "PROCESO",
+      "subtema": "Regulación legal integral"
+    }
+  ]
+}

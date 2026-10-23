@@ -1,0 +1,65 @@
+{
+  "radicado": "C-956-01",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2001,
+  "fecha_creacion": "2001-09-06",
+  "magistrado_ponente": "Dr EDUARDO MONTEALEGRE LYNETT",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "FUERZA PUBLICA",
+  "subtema": "Régimen prestacional especial",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Decreto 2067 de 1991",
+    "Ley 1214 de 1990",
+    "Ley 91 de 1989",
+    "Ley 71 de 1988",
+    "Decreto Ley 1214 de 1990",
+    "Decreto 1214 de 1990",
+    "Decreto 94 de 1989",
+    "Decreto Ley 94 de 1989"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2001/C-956-01.htm",
+  "fecha_descarga": "2026-10-23T02:21:52.367683+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2001-09-06",
+  "fecha_publicacion": null,
+  "numero": "C-956/01",
+  "tipo_cc": "C",
+  "prov_id": "19690",
+  "tema_relatoria": "SISTEMA INTEGRAL DE SEGURIDAD SOCIAL. NO APLICACIÓN A MIEMBROS DE FUERZAS MILITARES Y POLICÍA NACIONAL",
+  "resumen": "LEY 100 DE 1993. ART. 279 (P.). SISTEMA DE SEGURIDAD SOCIAL INTEGRAL NO APLICABLE A LOS MIEMBROS DE LAS FUERZAS MILITARES Y DE POLICIA NACIONAL. REGIMENES ESPECIALES. PRINCIPIO DE IGUALDAD. ASUNTO PROCESAL PREVIO. COSA JUZGADA MATERIAL. EXEQUIBLE",
+  "titulaciones": [
+    {
+      "tema": "FUERZA PUBLICA",
+      "subtema": "Régimen prestacional especial"
+    },
+    {
+      "tema": "SISTEMA GENERAL DE SEGURIDAD SOCIAL",
+      "subtema": "No se aplica a miembros de Fuerzas Militares ni Policía Nacional"
+    },
+    {
+      "tema": "FUERZA PUBLICA EN REGIMEN GENERAL DE SEGURIDAD SOCIAL",
+      "subtema": "Exclusión de miembros"
+    },
+    {
+      "tema": "REGIMEN DE SEGURIDAD SOCIAL",
+      "subtema": "Complejidad y diversos tipos de prestaciones"
+    },
+    {
+      "tema": "REGIMEN DE SEGURIDAD SOCIAL",
+      "subtema": "Estudio si regulación específica de prestación vulnera la igualdad"
+    },
+    {
+      "tema": "REGIMEN DE SEGURIDAD SOCIAL",
+      "subtema": "Requisitos para establecer diferencias entre el general y el especial"
+    },
+    {
+      "tema": "SEGURIDAD SOCIAL",
+      "subtema": "Regímenes especiales"
+    }
+  ]
+}

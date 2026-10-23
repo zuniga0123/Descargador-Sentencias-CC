@@ -1,0 +1,67 @@
+{
+  "radicado": "C-652-01",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2001,
+  "fecha_creacion": "2001-06-20",
+  "magistrado_ponente": "Dr JAIME CÓRDOBA TRIVIÑO",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "INHIBICION DE LA CORTE CONSTITUCIONAL",
+  "subtema": "Cargos referidos a norma acusada",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto Ley 1795 de 2000",
+    "Decreto 2067 de 1991",
+    "Ley 578 de 2000",
+    "Ley 352 de 1997",
+    "Decreto 94 de 1989",
+    "Ley 100 de 1993",
+    "Decreto 1211 de 1990",
+    "Decreto 41 de 1994",
+    "Decreto 1091 de 1995",
+    "Ley 20 de 1979",
+    "Decreto 1795 de 2000"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2001/C-652-01.htm",
+  "fecha_descarga": "2026-10-23T02:26:38.474153+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2001-06-20",
+  "fecha_publicacion": null,
+  "numero": "C-652/01",
+  "tipo_cc": "C",
+  "prov_id": "19347",
+  "tema_relatoria": "FALLO INHIBITORIO POR INEPTITUD DE DEMANDA DE INCONSTITUCIONALIDAD CONTRA NORMA DEL DECRETO LEY 1795 DE 2000",
+  "resumen": "DECRETO LEY 1795 DE 2000. SISTEMA DE SALUD DE LAS FUERZAS MILITARES Y DE LA POLICIA NACIONAL. BENEFICIOS DEL SISTEMA. FINANCIACION Y ADMINISTRACION. PAGOS COMPARTIDOS Y CUOTAS MODERADAS. HOSPITAL MILITAR CENTRAL. INHIBIDA.",
+  "titulaciones": [
+    {
+      "tema": "INHIBICION DE LA CORTE CONSTITUCIONAL",
+      "subtema": "Cargos referidos a norma acusada"
+    },
+    {
+      "tema": "ACCION PUBLICA DE INCONSTITUCIONALIDAD",
+      "subtema": "Requisitos"
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "Concepto de violación referido a norma acusada"
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "Correspondencia lógica entre requisitos"
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "Exigencias mínimas"
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "Exposición de motivos razonables"
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "No es oficiosa"
+    }
+  ]
+}

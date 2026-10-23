@@ -1,0 +1,51 @@
+{
+  "radicado": "C-144-01",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2001,
+  "fecha_creacion": "2001-02-07",
+  "magistrado_ponente": "Dr CARLOS GAVIRIA DIAZ",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "INASISTENCIA ALIMENTARIA EN MENOR",
+  "subtema": "Oficiosidad",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2737 de 1989",
+    "Decreto 100 de 1989",
+    "Decreto 2700 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2001/C-144-01.htm",
+  "fecha_descarga": "2026-10-23T02:19:42.178004+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2001-02-07",
+  "fecha_publicacion": null,
+  "numero": "C-144/01",
+  "tipo_cc": "C",
+  "prov_id": "18624",
+  "tema_relatoria": "INASISTENCIA ALIMENTARIA EN MENOR. CONCILIACIÓN",
+  "resumen": "DECRETO 2737 DE 1989. ART. 271. CODIGO DEL MENOR. INASISTENCIA ALIMENTARIA. MENOR COMO SUJETO PASIVO. QUERELLA Y OFICIOSIDAD. DESISTIMIENTO. CONCILIACION. INTERPRETACION NORMATIVA. EXEQUIBLE EXPRESION.",
+  "titulaciones": [
+    {
+      "tema": "INASISTENCIA ALIMENTARIA EN MENOR",
+      "subtema": "Oficiosidad"
+    },
+    {
+      "tema": "INASISTENCIA ALIMENTARIA EN MENOR",
+      "subtema": "Conciliación"
+    },
+    {
+      "tema": "INASISTENCIA ALIMENTARIA EN MENOR",
+      "subtema": "Desistimiento"
+    },
+    {
+      "tema": "INASISTENCIA ALIMENTARIA",
+      "subtema": "Querella y oficiosidad"
+    },
+    {
+      "tema": "INASISTENCIA ALIMENTARIA EN MENOR",
+      "subtema": "Presentación"
+    }
+  ]
+}

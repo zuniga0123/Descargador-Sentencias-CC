@@ -1,0 +1,42 @@
+{
+  "radicado": "C-011-01",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2001,
+  "fecha_creacion": "2001-01-17",
+  "magistrado_ponente": "Dr ALVARO TAFUR GALVIS",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "INHIBICION DE LA CORTE CONSTITUCIONAL",
+  "subtema": "Formulación aparente de cargos",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 14 de 1991",
+    "Decreto 2067 de 1991",
+    "Ley 142 de 1994",
+    "Decreto 1524 de 1994",
+    "Decreto 1982 de 1974",
+    "Ley 489 de 1998"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2001/C-011-01.htm",
+  "fecha_descarga": "2026-10-23T02:18:14.096514+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2001-01-17",
+  "fecha_publicacion": null,
+  "numero": "C-011/01",
+  "tipo_cc": "C",
+  "prov_id": "18454",
+  "tema_relatoria": "FALLO INHIBITORIO POR INEPTITUD DE DEMANDA DE INCONSTITUCIONALIDAD CONTRA NORMA DE LA LEY 14 DE 1991",
+  "resumen": "LEY 14 DE 1991. ART. 21. PARAG. UNICO. SERVICIO DE TELEVISON Y RADIODIFUSION OFICIAL. INGRESOS PARA INRAVISION Y ORGANIZACIONES REGIONALES. DESTINACION DE RECURSOS. INEPTITUD SUSTANTIVA DE LA DEMANDA. INHIBIDA.",
+  "titulaciones": [
+    {
+      "tema": "INHIBICION DE LA CORTE CONSTITUCIONAL",
+      "subtema": "Formulación aparente de cargos"
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "Recae sobre texto real y no deducido o implícito"
+    }
+  ]
+}

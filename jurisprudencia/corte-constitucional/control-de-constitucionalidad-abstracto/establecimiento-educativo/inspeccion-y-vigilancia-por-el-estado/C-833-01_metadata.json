@@ -1,0 +1,61 @@
+{
+  "radicado": "C-833-01",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2001,
+  "fecha_creacion": "2001-08-08",
+  "magistrado_ponente": "Dr ALFREDO BELTRÁN SIERRA",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "ESTABLECIMIENTO EDUCATIVO",
+  "subtema": "Inspección y vigilancia por el Estado",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2277 de 1979",
+    "Ley 115 de 1995",
+    "Decreto 2067 de 1991",
+    "Ley 115 de 1994",
+    "Ley 60 de 1993",
+    "Ley 200 de 1995",
+    "Decreto 1726 de 1995",
+    "Ley 8 de 1979",
+    "Decreto 2279 de 1979"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2001/C-833-01.htm",
+  "fecha_descarga": "2026-10-23T02:27:31.173065+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2001-08-08",
+  "fecha_publicacion": null,
+  "numero": "C-833/01",
+  "tipo_cc": "C",
+  "prov_id": "19557",
+  "tema_relatoria": "JUNTA SECCIONAL DE ESCALAFON DOCENTE. INEXISTENCIA DE FACULTADES DISCIPLINARIAS",
+  "resumen": "DECRETO 2277 DE 1979. ARTS. 14 17 Y 19 (PS.). EJERCICIO DE LA PROFESION DOCENTE. LEY 115 DE 1995. ARTS. 120 Y 122. LEY GENERAL DE EDUCACION. DECISIONES DE LA JUNTA NACIONAL DE ESCALAFON DOCENTE. CONFORMACION. REGIMEN DISCIPLINARIO. AUTONOMIA TERRITORIAL.",
+  "titulaciones": [
+    {
+      "tema": "ESTABLECIMIENTO EDUCATIVO",
+      "subtema": "Inspección y vigilancia por el Estado"
+    },
+    {
+      "tema": "EDUCACIÓN",
+      "subtema": "Inspección y vigilancia del Estado"
+    },
+    {
+      "tema": "DOCENTE",
+      "subtema": "Aplicación del CDU"
+    },
+    {
+      "tema": "JUNTAS DE ESCALAFON DOCENTE",
+      "subtema": "Presencia de delegado del Ministerio de Educación"
+    },
+    {
+      "tema": "INHIBICION DE LA CORTE CONSTITUCIONAL",
+      "subtema": "Inexistencia de norma"
+    },
+    {
+      "tema": "JUNTA SECCIONAL DE ESCALAFON DOCENTE",
+      "subtema": "Inexistencia de facultades disciplinarias"
+    }
+  ]
+}

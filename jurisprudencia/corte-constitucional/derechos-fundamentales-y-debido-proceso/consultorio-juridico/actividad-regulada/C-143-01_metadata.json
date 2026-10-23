@@ -1,0 +1,63 @@
+{
+  "radicado": "C-143-01",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2001,
+  "fecha_creacion": "2001-02-07",
+  "magistrado_ponente": "Dr JOSÉ GREGORIO HERNÁNDEZ GALINDO",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "CONSULTORIO JURIDICO",
+  "subtema": "Actividad regulada",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 583 de 2000",
+    "Decreto 2067 de 1991",
+    "Decreto 196 de 1971"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2001/C-143-01.htm",
+  "fecha_descarga": "2026-10-23T02:19:34.854085+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2001-02-07",
+  "fecha_publicacion": null,
+  "numero": "C-143/01",
+  "tipo_cc": "C",
+  "prov_id": "18623",
+  "tema_relatoria": "DERECHO DE ACCESO A LA ADMINISTRACION DE JUSTICIA. ACCESO SIN REPRESENTACIÓN DE ABOGADO",
+  "resumen": "LEY 583 DE 2000. ART. 1 (P.). MODIFICA ARTS. 30 Y 39 DEL DECRETO 196 DE 1971. CONSULTORIOS JURIDICOS FACULTADES DE DERECHO. OMISION Y HOMOLOGACION. LITIGIO EN CAUSA AJENA. TITULO DE IDONEIDAD PARA EL EJERCICIO DE LA ABOGACIA. FUNCION SOCIAL. EXEQUIBLE CON",
+  "titulaciones": [
+    {
+      "tema": "CONSULTORIO JURIDICO",
+      "subtema": "Actividad regulada"
+    },
+    {
+      "tema": "CONSULTORIO JURIDICO",
+      "subtema": "Posibilidad de litigar en causa ajena sin título"
+    },
+    {
+      "tema": "LIBERTAD DE CONFIGURACIÓN LEGISLATIVA",
+      "subtema": "Posibilidad de litigar en causa ajena sin título"
+    },
+    {
+      "tema": "ABOGACIA",
+      "subtema": "Ejercicio sin acreditación de título"
+    },
+    {
+      "tema": "ABOGACIA",
+      "subtema": "Función social"
+    },
+    {
+      "tema": "DERECHO DE ACCESO A LA ADMINISTRACIÓN DE JUSTICIA",
+      "subtema": "Acceso sin representación de abogado"
+    },
+    {
+      "tema": "CONSULTORIO JURIDICO",
+      "subtema": "No exigencia títulos de idoneidad"
+    },
+    {
+      "tema": "CONSULTORIO JURIDICO",
+      "subtema": "Actuación de persona no graduada"
+    }
+  ]
+}

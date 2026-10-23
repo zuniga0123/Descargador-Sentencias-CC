@@ -1,0 +1,56 @@
+{
+  "radicado": "C-403-01",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2001,
+  "fecha_creacion": "2001-04-19",
+  "magistrado_ponente": "Dr ALVARO TAFUR GALVIS",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "PROCESO DE LIQUIDACION FORZOSA ADMINISTRATIVA",
+  "subtema": "Bien objeto de protección",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 663 de 1993",
+    "Decreto 2067 de 1991",
+    "Ley 45 de 1923",
+    "Ley 57 de 1931"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2001/C-403-01.htm",
+  "fecha_descarga": "2026-10-23T02:15:18.341515+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2001-04-19",
+  "fecha_publicacion": null,
+  "numero": "C-403/01",
+  "tipo_cc": "C",
+  "prov_id": "19005",
+  "tema_relatoria": "PROCESO DE LIQUIDACION FORZOSA ADMINISTRATIVA. OPERACIÓN DE LA COMPENSACIÓN",
+  "resumen": "DECRETO 663 DE 1993. ART. 301. NUM. 2. ESTATUTO ORGANICO DEL SISTEMA FINANCIERO. COSA JUZGADA CONSTITUCIONAL Y SU INCIDENCIA EN EL PROCESO. IGUALDAD DE LOS ACREEDORES EN PROCESO LIQUIDATORIO. COMPENSACION. ESTESE A LO RESUELTO EN C-429/00",
+  "titulaciones": [
+    {
+      "tema": "PROCESO DE LIQUIDACION FORZOSA ADMINISTRATIVA",
+      "subtema": "Bien objeto de protección"
+    },
+    {
+      "tema": "PROCESO DE LIQUIDACION FORZOSA ADMINISTRATIVA",
+      "subtema": "Operación de la compensación"
+    },
+    {
+      "tema": "COSA JUZGADA ABSOLUTA Y COSA JUZGADA RELATIVA",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "COSA JUZGADA CONSTITUCIONAL",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "IGUALDAD DE ACREEDORES DE LIQUIDACION FORZOSA DE ENTIDAD FINANCIERA",
+      "subtema": "Prohibición de compensación automática y por fuera del mismo"
+    },
+    {
+      "tema": "PROCESO DE LIQUIDACION FORZOSA ADMINISTRATIVA",
+      "subtema": "Compensación facultativa"
+    }
+  ]
+}

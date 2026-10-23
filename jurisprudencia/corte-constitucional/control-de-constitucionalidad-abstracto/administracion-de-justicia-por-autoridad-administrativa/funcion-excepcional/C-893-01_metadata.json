@@ -1,0 +1,470 @@
+{
+  "radicado": "C-893-01",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2001,
+  "fecha_creacion": "2001-08-22",
+  "magistrado_ponente": null,
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "ADMINISTRACION DE JUSTICIA POR AUTORIDAD ADMINISTRATIVA",
+  "subtema": "Función excepcional",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 640 de 2001",
+    "Decreto 2067 de 1991",
+    "Ley 446 de 1998",
+    "Ley 640 de 2000",
+    "Ley 23 de 1991",
+    "Decreto 173 de 1993",
+    "Decreto 2158 de 1948",
+    "Decreto 4133 de 1948",
+    "Decreto 1818 de 1998",
+    "Decreto 2303 de 1989",
+    "Decreto 2591 de 1991",
+    "Decreto 1128 de 1999",
+    "Decreto 1169 de 1999",
+    "Ley 489 de 1998",
+    "Decreto 1890 de 1999",
+    "Decreto 2618 de 2000",
+    "Ley 497 de 1999",
+    "Decreto 1477 de 2000",
+    "Decreto 196 de 1971",
+    "Ley 583 de 2000",
+    "Ley 148 de 1999",
+    "Decreto 1021 de 1995",
+    "Decreto 477 de 1996",
+    "Ley 270 de 1996",
+    "Decreto 2700 de 1991",
+    "Decreto 2651 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2001/C-893-01.htm",
+  "fecha_descarga": "2026-10-23T02:29:45.449062+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2001-08-22",
+  "fecha_publicacion": null,
+  "numero": "C-893/01",
+  "tipo_cc": "C",
+  "prov_id": "19620",
+  "tema_relatoria": "CONCILIACION EXTRAJUDICIAL EN ASUNTOS DE LO CONTENCIOSO ADMINISTRATIVO. INCONSTITUCIONALIDAD POR DELEGACIÓN PERMANENTE",
+  "resumen": "LEY 640 DE 2001. ARTS. 12 23 28 30 35 Y 39 (PS.). CENTROS DE CONCILIACION EN MATERIA CONTENCIOSO ADMINISTRATIVO. REQUISITOS. CONCILIACION EXTRAJUDICIAL OBLIGATORIA Y PERMANENTE EN MATERIA LABORAL. PARTICIPACION DE LOS PARTICULARES EN FORMA TRANSITORIA.",
+  "titulaciones": [
+    {
+      "tema": "ADMINISTRACION DE JUSTICIA POR AUTORIDAD ADMINISTRATIVA",
+      "subtema": "Función excepcional"
+    },
+    {
+      "tema": "ADMINISTRACION DE JUSTICIA POR PARTICULARES",
+      "subtema": "Función transitoria habilitada por las partes"
+    },
+    {
+      "tema": "ADMINISTRACION DE JUSTICIA",
+      "subtema": "Competencia general"
+    },
+    {
+      "tema": "ADMINISTRACION DE JUSTICIA",
+      "subtema": "Función pública estatal de naturaleza esencial"
+    },
+    {
+      "tema": "ADMINISTRACION DE JUSTICIA",
+      "subtema": "Competencia permanente y ordinaria"
+    },
+    {
+      "tema": "ADMINISTRACION DE JUSTICIA POR PARTICULARES",
+      "subtema": "Función transitoria"
+    },
+    {
+      "tema": "ADMINISTRACION DE JUSTICIA POR PARTICULARES",
+      "subtema": "Reserva de ley"
+    },
+    {
+      "tema": "ADMINISTRACION DE JUSTICIA POR PARTICULARES",
+      "subtema": "Inconstitucionalidad por delegación permanente"
+    },
+    {
+      "tema": "ADMINISTRACION DE JUSTICIA",
+      "subtema": "Gratuidad"
+    },
+    {
+      "tema": "CONCILIACION EN CONVENCION COLECTIVA O LAUDO ARBITRAL",
+      "subtema": "Inconstitucionalidad de deber de incorporación"
+    },
+    {
+      "tema": "CONCILIACION EXTRAJUDICIAL OBLIGATORIA EN MATERIA LABORAL",
+      "subtema": "Constitucionalidad del requisito de procedibilidad"
+    },
+    {
+      "tema": "CONCILIACION LABORAL",
+      "subtema": "Voluntariedad"
+    },
+    {
+      "tema": "CONCILIACION",
+      "subtema": "Opción alterna para resolución de conflictos jurídicos"
+    },
+    {
+      "tema": "CONCILIACION",
+      "subtema": "Reducción del ámbito constitucional legítimo"
+    },
+    {
+      "tema": "CONCILIACION EN CONVENCION COLECTIVA O LAUDO ARBITRAL",
+      "subtema": "Obligación de presentación de fórmula de arreglo"
+    },
+    {
+      "tema": "CONCILIACION EXTRAJUDICIAL OBLIGATORIA",
+      "subtema": "Cumplimiento de presupuestos"
+    },
+    {
+      "tema": "CONCILIACION",
+      "subtema": "Acuerdo no obligatorio"
+    },
+    {
+      "tema": "CONCILIACION",
+      "subtema": "Mecanismo alterno de solución de conflictos"
+    },
+    {
+      "tema": "CONCILIACION",
+      "subtema": "Origen y aceptación"
+    },
+    {
+      "tema": "CONCILIADOR",
+      "subtema": "Selección por las partes en cada caso"
+    },
+    {
+      "tema": "CONCILIACION EXTRAJUDICIAL EN MATERIA LABORAL",
+      "subtema": "Inconstitucionalidad de requisito obligatorio de procedibilidad"
+    },
+    {
+      "tema": "CONCILIACION EXTRAJUDICIAL EN MATERIA LABORAL",
+      "subtema": "Obligatoriedad de intentar llegar al acuerdo"
+    },
+    {
+      "tema": "CONCILIACION EXTRAJUDICIAL OBLIGATORIA",
+      "subtema": "Infraestructura"
+    },
+    {
+      "tema": "CONCILIACION EXTRAJUDICIAL",
+      "subtema": "No concesión permanente de función"
+    },
+    {
+      "tema": "CONCILIACION EXTRAJUDICIAL",
+      "subtema": "Sustitución de vía gubernativa como requisito de procedibilidad"
+    },
+    {
+      "tema": "CONCILIACION",
+      "subtema": "Inconstitucionalidad por permanencia y onerosidad"
+    },
+    {
+      "tema": "CONCILIACION",
+      "subtema": "Procedimiento es obligatorio"
+    },
+    {
+      "tema": "CONCILIACION",
+      "subtema": "Tiempo para intentarse"
+    },
+    {
+      "tema": "CONCILIACION",
+      "subtema": "Voluntariedad"
+    },
+    {
+      "tema": "CONCILIADOR",
+      "subtema": "Disposición permanente a ser convocados en audiencia"
+    },
+    {
+      "tema": "CONCILIADOR",
+      "subtema": "Función transitoria"
+    },
+    {
+      "tema": "ACCESO A LA ADMINISTRACION DE JUSTICIA",
+      "subtema": "Presupuestos"
+    },
+    {
+      "tema": "ACCESO A LA ADMINISTRACION DE JUSTICIA EN CONCILIACION EXTRAJUDICIAL",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "ACCESO A LA ADMINISTRACION DE JUSTICIA",
+      "subtema": "No vulneración por distintos procedimientos de realización"
+    },
+    {
+      "tema": "CENTROS DE CONCILIACION",
+      "subtema": "Administración de justicia transitoria en cada caso"
+    },
+    {
+      "tema": "DERECHO DE ACCESO A LA ADMINISTRACIÓN DE JUSTICIA",
+      "subtema": "Fundamento último"
+    },
+    {
+      "tema": "MECANISMOS ALTERNATIVOS DE RESOLUCION DE CONFLICTOS",
+      "subtema": "Complementarios de la justicia formal"
+    },
+    {
+      "tema": "MECANISMOS ALTERNATIVOS DE RESOLUCION DE CONFLICTOS",
+      "subtema": "Regulación legal de conformidad con la Constitución"
+    },
+    {
+      "tema": "MECANISMOS ALTERNATIVOS DE RESOLUCION DE CONFLICTOS",
+      "subtema": "Voluntariedad"
+    },
+    {
+      "tema": "MECANISMOS ALTERNATIVOS DE RESOLUCION DE CONFLICTOS",
+      "subtema": "Reserva de ley"
+    },
+    {
+      "tema": "MECANISMOS ALTERNATIVOS DE RESOLUCION DE CONFLICTOS",
+      "subtema": "Problemas que presenta"
+    },
+    {
+      "tema": "LIBERTAD DE CONFIGURACION LEGISLATIVA DE FORMAS PROCESALES",
+      "subtema": "Diseño de estructura jurídica"
+    },
+    {
+      "tema": "DERECHO LABORAL",
+      "subtema": "Rasgos específicos"
+    },
+    {
+      "tema": "GOBIERNO",
+      "subtema": "Incompetencia de reglamentación por reserva de ley"
+    },
+    {
+      "tema": "JUSTICIA",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "JUSTICIA INFORMAL",
+      "subtema": "Complementaria de la formal"
+    },
+    {
+      "tema": "JUSTICIA INFORMAL",
+      "subtema": "Problemas que presenta"
+    },
+    {
+      "tema": "JUEZ",
+      "subtema": "Imparcialidad"
+    },
+    {
+      "tema": "POTESTAD REGLAMENTARIA",
+      "subtema": "Límites por reserva de ley"
+    },
+    {
+      "tema": "SISTEMA JUDICIAL",
+      "subtema": "Eficiencia"
+    },
+    {
+      "tema": "ADMINISTRACION DE JUSTICIA",
+      "subtema": "Modificación de cultura litigiosa"
+    },
+    {
+      "tema": "ADMINISTRACION DE JUSTICIA",
+      "subtema": "Problemas estructurales"
+    },
+    {
+      "tema": "ADMINISTRACION DE JUSTICIA POR PARTICULARES",
+      "subtema": "Términos que determine la ley"
+    },
+    {
+      "tema": "CONCILIACION EXTRAJUDICIAL EN MATERIA LABORAL",
+      "subtema": "Inconstitucionalidad por delegación permanente"
+    },
+    {
+      "tema": "CONCILIACION EXTRAJUDICIAL",
+      "subtema": "Conciliador es un particular distinto en cada caso"
+    },
+    {
+      "tema": "CONCILIACION EXTRAJUDICIAL",
+      "subtema": "Requisito de procedibilidad constituye un procedimiento de fácil acceso a la administración de justicia"
+    },
+    {
+      "tema": "CONCILIACION EXTRAJUDICIAL",
+      "subtema": "Suspensión de la prescripción o la caducidad"
+    },
+    {
+      "tema": "CONCILIACION",
+      "subtema": "Carácter potestativo y voluntario"
+    },
+    {
+      "tema": "CONCILIACION",
+      "subtema": "No requiere de grado superior de civilización y cultura para funcionamiento"
+    },
+    {
+      "tema": "CONCILIADOR Y ARBITRO",
+      "subtema": "Reserva de ley"
+    },
+    {
+      "tema": "CONCILIACION EXTRAJUDICIAL OBLIGATORIA EN MATERIA LABORAL",
+      "subtema": "Precedente jurisprudencial en materia de requisito de procedibilidad"
+    },
+    {
+      "tema": "CONCILIACION EXTRAJUDICIAL",
+      "subtema": "No es justicia comunitaria de tipo sancionador"
+    },
+    {
+      "tema": "CONCILIACION LABORAL",
+      "subtema": "Inconstitucionalidad por onerosidad"
+    },
+    {
+      "tema": "CONCILIACION",
+      "subtema": "Objeto"
+    },
+    {
+      "tema": "CONCILIACION",
+      "subtema": "Procedimiento y convenio"
+    },
+    {
+      "tema": "CONCILIACION EXTRAJUDICIAL EN DERECHO",
+      "subtema": "Inconstitucionalidad del requisito obligatorio de procedibilidad"
+    },
+    {
+      "tema": "CONCILIACION EXTRAJUDICIAL OBLIGATORIA",
+      "subtema": "No depende de grado de cultura o civilización"
+    },
+    {
+      "tema": "CONCILIACION EXTRAJUDICIAL",
+      "subtema": "Disponibilidad"
+    },
+    {
+      "tema": "CONCILIACION EXTRAJUDICIAL",
+      "subtema": "Regulación legal"
+    },
+    {
+      "tema": "CONCILIACION",
+      "subtema": "Medios materiales y personales suficientes"
+    },
+    {
+      "tema": "CONCILIACION",
+      "subtema": "Transitoriedad para el caso"
+    },
+    {
+      "tema": "CONCILIADOR Y ARBITRO",
+      "subtema": "Libertad de habilitación es de rango constitucional"
+    },
+    {
+      "tema": "CONCERTACION LABORAL",
+      "subtema": "Promoción y no obligación"
+    },
+    {
+      "tema": "CONCILIACION EN CONVENCION COLECTIVA O LAUDO ARBITRAL",
+      "subtema": "Inconstitucionalidad de obligatoriedad por potenciales beneficiarios"
+    },
+    {
+      "tema": "CONCILIACION EXTRAJUDICIAL EN MATERIA DE LO CONTENCIOSO ADMINISTRATIVO",
+      "subtema": "Inconstitucionalidad por delegación permanente"
+    },
+    {
+      "tema": "CONCILIACION EXTRAJUDICIAL EN MATERIA LABORAL",
+      "subtema": "Materias"
+    },
+    {
+      "tema": "CONCILIACION EXTRAJUDICIAL OBLIGATORIA EN MATERIA LABORAL",
+      "subtema": "Descongestión judicial"
+    },
+    {
+      "tema": "CONCILIACION EXTRAJUDICIAL OBLIGATORIA",
+      "subtema": "Observancia de trámite como requisito de procedibilidad"
+    },
+    {
+      "tema": "CONCILIACION PARA CONTROVERSIAS LABORALES",
+      "subtema": "Inconstitucionalidad de deber de incorporación"
+    },
+    {
+      "tema": "CONCILIACION",
+      "subtema": "Acepciones"
+    },
+    {
+      "tema": "CONCILIACION",
+      "subtema": "Materias"
+    },
+    {
+      "tema": "CONCILIACION",
+      "subtema": "Origen"
+    },
+    {
+      "tema": "CONFLICTO COLECTIVO DE TRABAJO",
+      "subtema": "Concertación y solución pacífica"
+    },
+    {
+      "tema": "ACCESO A LA ADMINISTRACION DE JUSTICIA",
+      "subtema": "No puede ser diferido ni obstaculizado por condición de procedibilidad"
+    },
+    {
+      "tema": "COSA JUZGADA CONSTITUCIONAL",
+      "subtema": "Contenido normativo sustancialmente diferente"
+    },
+    {
+      "tema": "DERECHO DE ACCESO A LA ADMINISTRACIÓN DE JUSTICIA",
+      "subtema": "Regulación legal"
+    },
+    {
+      "tema": "DERECHO DE LIBRE ACCESO A LA JURISDICCION",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "CENTROS DE CONCILIACION",
+      "subtema": "Parte operativa"
+    },
+    {
+      "tema": "CENTROS DE CONCILIACION EN MATERIA DE LO CONTENCIOSO ADMINISTRATIVO",
+      "subtema": "Incompetencia del Gobierno para reglamentar requisitos"
+    },
+    {
+      "tema": "CENTROS DE CONCILIACION",
+      "subtema": "Función"
+    },
+    {
+      "tema": "FACULTADES PARA TRANSIGIR Y CONCILIAR SOBRE DERECHOS INCIERTOS Y DISCUTIBLES",
+      "subtema": "Libertad"
+    },
+    {
+      "tema": "NOTARIO",
+      "subtema": "Falta de establecimiento de término para ejercicio de función"
+    },
+    {
+      "tema": "MECANISMOS ALTERNATIVOS DE RESOLUCION DE CONFLICTOS",
+      "subtema": "Libertad de regulación legislativa"
+    },
+    {
+      "tema": "MECANISMOS ALTERNATIVOS DE RESOLUCION DE CONFLICTOS",
+      "subtema": "Denominación"
+    },
+    {
+      "tema": "MECANISMOS ALTERNATIVOS DE RESOLUCION DE CONFLICTOS",
+      "subtema": "No imposición unilateral por el Estado"
+    },
+    {
+      "tema": "MECANISMOS ALTERNATIVOS DE RESOLUCION DE CONFLICTOS",
+      "subtema": "Procedimiento mínimo"
+    },
+    {
+      "tema": "MECANISMOS ALTERNATIVOS DE RESOLUCION DE CONFLICTOS",
+      "subtema": "Transitoriedad y alternatividad"
+    },
+    {
+      "tema": "MECANISMOS ALTERNATIVOS DE RESOLUCION DE CONFLICTOS",
+      "subtema": "Participación de la sociedad civil en asuntos que los afectan"
+    },
+    {
+      "tema": "DERECHO FUNDAMENTAL A LA ADMINISTRACION DE JUSTICIA",
+      "subtema": "Aplicación inmediata"
+    },
+    {
+      "tema": "DERECHO LABORAL",
+      "subtema": "Protección de derechos del trabajador"
+    },
+    {
+      "tema": "IGUALDAD DE OPORTUNIDADES EN ACCESO A LA ADMINISTRACION DE JUSTICIA",
+      "subtema": "Vulneración por onerosidad"
+    },
+    {
+      "tema": "NOTARIO",
+      "subtema": "Función conciliadora transitoria"
+    },
+    {
+      "tema": "PRINCIPIO DEMOCRATICO",
+      "subtema": "Reserva de ley"
+    },
+    {
+      "tema": "UNIDAD NORMATIVA",
+      "subtema": "Integración"
+    }
+  ]
+}

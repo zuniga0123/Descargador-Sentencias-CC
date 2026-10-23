@@ -1,0 +1,84 @@
+{
+  "radicado": "C-095-01",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2001,
+  "fecha_creacion": "2001-01-31",
+  "magistrado_ponente": "Dr JOSÉ GREGORIO HERNÁNDEZ GALINDO",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "DEBIDO PROCESO",
+  "subtema": "Garantías de legalidad",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2282 de 1989",
+    "Decreto 2067 de 1991",
+    "Ley 30 de 1987",
+    "Ley 270 de 1996"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2001/C-095-01.htm",
+  "fecha_descarga": "2026-10-23T02:19:05.441218+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2001-01-31",
+  "fecha_publicacion": null,
+  "numero": "C-095/01",
+  "tipo_cc": "C",
+  "prov_id": "18567",
+  "tema_relatoria": "INCIDENTE DE LEVANTAMIENTO DE EMBARGO Y SECUESTRO. CAUCIÓN PARA PAGO DE COSTAS Y MULTA",
+  "resumen": "CODIGO DE PROCEDIMIENTO CIVIL. ART. 687 NUM. 8 INC. 2 (P.). MODIFICADO POR EL ART. 1 NUM. 344 DEL DECRETO 2282 DE 1989. CAUCION PARA TRAMITAR INCIDENTE EN FAVOR DE TERCERO POSEEDOR. LEVANTAMIENTO DEL EMBARGO Y SECUESTRO DE BIENES. EXEQUIBLE.",
+  "titulaciones": [
+    {
+      "tema": "DEBIDO PROCESO",
+      "subtema": "Garantías de legalidad"
+    },
+    {
+      "tema": "DEBER PROCESAL",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "DERECHO DE ACCESO A LA ADMINISTRACIÓN DE JUSTICIA",
+      "subtema": "Recurso supeditado a factor económico"
+    },
+    {
+      "tema": "PROCESO",
+      "subtema": "Obligaciones y cargas"
+    },
+    {
+      "tema": "TERCERO POSEEDOR",
+      "subtema": "Carga procesal de prestar caución"
+    },
+    {
+      "tema": "AMPARO DE POBREZA",
+      "subtema": "Alegación ante carencia de recursos para caución"
+    },
+    {
+      "tema": "DERECHO DE ACCESO A LA ADMINISTRACIÓN DE JUSTICIA",
+      "subtema": "Obstrucción por factor económico"
+    },
+    {
+      "tema": "LIBERTAD DE CONFIGURACIÓN LEGISLATIVA",
+      "subtema": "Formas propias de cada juicio"
+    },
+    {
+      "tema": "DEBIDO PROCESO",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "DEBIDO PROCESO",
+      "subtema": "Formas propias de cada juicio"
+    },
+    {
+      "tema": "DEBIDO PROCESO",
+      "subtema": "Imposición de cargas"
+    },
+    {
+      "tema": "INCIDENTE DE LEVANTAMIENTO DE EMBARGO Y SECUESTRO",
+      "subtema": "Caución para pago de costas y multa"
+    },
+    {
+      "tema": "INCIDENTE",
+      "subtema": "Garantía"
+    }
+  ]
+}

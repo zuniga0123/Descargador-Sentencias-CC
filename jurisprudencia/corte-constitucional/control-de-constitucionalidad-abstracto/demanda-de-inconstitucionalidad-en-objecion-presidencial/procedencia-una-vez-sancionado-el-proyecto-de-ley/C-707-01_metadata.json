@@ -1,0 +1,42 @@
+{
+  "radicado": "C-707-01",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2001,
+  "fecha_creacion": "2001-07-05",
+  "magistrado_ponente": "Dr JAIME ARAUJO RENTERIA",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "DEMANDA DE INCONSTITUCIONALIDAD EN OBJECION PRESIDENCIAL",
+  "subtema": "Procedencia una vez sancionado el proyecto de ley",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 105 de 1993",
+    "Ley 336 de 1996"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2001/C-707-01.htm",
+  "fecha_descarga": "2026-10-23T02:17:40.563582+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2001-07-05",
+  "fecha_publicacion": null,
+  "numero": "C-707/01",
+  "tipo_cc": "C",
+  "prov_id": "19400",
+  "tema_relatoria": "DEMANDA DE INCONSTITUCIONALIDAD EN OBJECION PRESIDENCIAL. PROCEDENCIA UNA VEZ SANCIONADO EL PROYECTO DE LEY",
+  "resumen": "PROYECTO DE LEY No 016 DE 1999 SENADO Y 006 DE 1998 CAMARA. SE CREA EL FONDO NACIONAL PARA LA REPOSICION DEL PARQUE AUTOMOTOR DEL SERVICIO PUBLICO DE TRANSPORTE TERRESTRE Y SE DICTAN OTRAS DISPOSICIONES. DECLARAR CUMPLIDA LA EXIGENCIA CONSTITUCIONAL.",
+  "titulaciones": [
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD EN OBJECION PRESIDENCIAL",
+      "subtema": "Procedencia una vez sancionado el proyecto de ley"
+    },
+    {
+      "tema": "FONDO DE REPOSICION Y RENOVACION DEL PARQUE AUTOMOTOR",
+      "subtema": "Exclusión de disposiciones"
+    },
+    {
+      "tema": "SENTENCIA EN OBJECION PRESIDENCIAL",
+      "subtema": "Exclusión de disposiciones"
+    }
+  ]
+}

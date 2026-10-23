@@ -1,0 +1,78 @@
+{
+  "radicado": "SU509-01",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2001,
+  "fecha_creacion": "2001-05-17",
+  "magistrado_ponente": "Dr MARCO GERARDO MONROY CABRA",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCION DE TUTELA CONTRA ADMINISTRACION DE CONJUNTO RESIDENCIAL",
+  "subtema": "Procedencia",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 142 de 1994",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2001/SU509-01.htm",
+  "fecha_descarga": "2026-10-23T02:36:42.089262+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2001-05-17",
+  "fecha_publicacion": null,
+  "numero": "SU.509/01",
+  "tipo_cc": "SU",
+  "prov_id": "19161",
+  "tema_relatoria": "DERECHO A LA INTIMIDADVIVIENDA DIGNA Y LIBRE DESARROLLO DE LAS ACTIVIDADES PERSONALES Y FAMILIARES. MORA EN EL PAGO. PROCEDENCIA FORMAL DE LA ACCION DE TUTELA EN REGLAMENTOS DE COPROPIEDAD. CONCEDIDA PARCIAL.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCION DE TUTELA CONTRA ADMINISTRACION DE CONJUNTO RESIDENCIAL",
+      "subtema": "Procedencia"
+    },
+    {
+      "tema": "CONJUNTO RESIDENCIAL",
+      "subtema": "Suspensión de servicios por no pago de administración"
+    },
+    {
+      "tema": "CONJUNTO RESIDENCIAL",
+      "subtema": "Suspensión del uso de citófono"
+    },
+    {
+      "tema": "CONJUNTO RESIDENCIAL",
+      "subtema": "Medidas adoptadas por la administración respecto a sujetos especialmente protegidos"
+    },
+    {
+      "tema": "CONJUNTO RESIDENCIAL",
+      "subtema": "Conflictos económicos derivados de la aplicación del reglamento de propiedad horizontal"
+    },
+    {
+      "tema": "CONJUNTO RESIDENCIAL",
+      "subtema": "Publicación de listas de morosos"
+    },
+    {
+      "tema": "ADMINISTRADOR DE PROPIEDAD HORIZONTAL",
+      "subtema": "Debe resolver peticiones de los copropietarios"
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA ADMINISTRACION DE CONJUNTO RESIDENCIAL",
+      "subtema": "Casos en que procede respecto de reglamentos de copropiedad"
+    },
+    {
+      "tema": "CONJUNTO RESIDENCIAL",
+      "subtema": "Suspensión del servicio de correspondencia"
+    },
+    {
+      "tema": "CONJUNTO RESIDENCIAL",
+      "subtema": "Deudor moroso"
+    },
+    {
+      "tema": "CONJUNTO RESIDENCIAL",
+      "subtema": "Obstáculos para abrir la puerta de entrada a un condominio"
+    },
+    {
+      "tema": "CONJUNTO RESIDENCIAL",
+      "subtema": "Suspensión del servicio de gas"
+    }
+  ]
+}

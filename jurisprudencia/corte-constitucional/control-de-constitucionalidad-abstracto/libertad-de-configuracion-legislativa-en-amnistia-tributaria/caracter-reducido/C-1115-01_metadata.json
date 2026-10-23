@@ -1,0 +1,69 @@
+{
+  "radicado": "C-1115-01",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2001,
+  "fecha_creacion": "2001-10-24",
+  "magistrado_ponente": "Dr MARCO GERARDO MONROY CABRA",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "LIBERTAD DE CONFIGURACION LEGISLATIVA EN AMNISTIA TRIBUTARIA",
+  "subtema": "Carácter reducido",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 633 de 2000",
+    "Decreto 2067 de 1991",
+    "Ley 223 de 1995",
+    "Ley 633 de 2001",
+    "Ley 488 de 1998"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2001/C-1115-01.htm",
+  "fecha_descarga": "2026-10-23T02:24:08.876261+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2001-10-24",
+  "fecha_publicacion": null,
+  "numero": "C-1115/01",
+  "tipo_cc": "C",
+  "prov_id": "19873",
+  "tema_relatoria": "AMNISTIA TRIBUTARIA DE INTERES DE MORA. TASAS PARA LIQUIDACIÓN DE OBLIGACIONES CANCELADAS EN EFECTIVO",
+  "resumen": "LEY 633 DE 2000. ART. 100. NORMAS EN MATERIA TRIBUTARIA. TRATAMIENTO A LOS FONDOS OBLIGATORIOS PARA LA VIVIENDA DE INTERES SOCIAL Y FORTALECIMIENTO DE LAS FINANZAS DE LA RAMA JUDICIAL. LIQUIDACION INTERESES MORATORIOS DE OBLIGACIONES TRIBUTARIAS VENCIDAS.",
+  "titulaciones": [
+    {
+      "tema": "LIBERTAD DE CONFIGURACION LEGISLATIVA EN AMNISTIA TRIBUTARIA",
+      "subtema": "Carácter reducido"
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "Presentación en vigencia de norma"
+    },
+    {
+      "tema": "AMNISTIA TRIBUTARIA DE INTERES DE MORA",
+      "subtema": "Vulneración de la igualdad"
+    },
+    {
+      "tema": "AMNISTIA TRIBUTARIA DE INTERES DE MORA",
+      "subtema": "Tasas para liquidación de obligaciones canceladas en efectivo"
+    },
+    {
+      "tema": "NORMA ACUSADA",
+      "subtema": "Vigencia"
+    },
+    {
+      "tema": "NORMA ACUSADA",
+      "subtema": "Carácter transitorio"
+    },
+    {
+      "tema": "NORMA ACUSADA TRANSITORIA",
+      "subtema": "Pronunciamiento por pérdida de vigencia en trámite de la demanda"
+    },
+    {
+      "tema": "PRINCIPIO PERPETUATIO JURISDICTIONIS EN NORMA ACUSADA",
+      "subtema": "Pérdida de vigencia en trámite de la demanda"
+    },
+    {
+      "tema": "COSA JUZGADA RELATIVA",
+      "subtema": "Aplicación"
+    }
+  ]
+}

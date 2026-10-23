@@ -1,0 +1,54 @@
+{
+  "radicado": "C-1193-01",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2001,
+  "fecha_creacion": "2001-11-15",
+  "magistrado_ponente": "Dr Manuel Jose Cepeda Espinosa",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "DEMANDA DE INCONSTITUCIONALIDAD",
+  "subtema": "Elementos",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 600 de 2000",
+    "Decreto 2067 de 1991",
+    "Decreto 2067 de 2000",
+    "Decreto 1355 de 1970",
+    "Decreto 1222 de 1986",
+    "Decreto 2700 de 1991",
+    "Decreto 624 de 1989",
+    "Ley 546 de 1999",
+    "Ley 106 de 1993",
+    "Decreto Ley 1228 de 1995",
+    "Decreto 100 de 1980",
+    "Ley 61 de 1993",
+    "Ley 333 de 1996",
+    "Decreto 2067 de 2001"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2001/C-1193-01.htm",
+  "fecha_descarga": "2026-10-23T02:24:50.428496+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2001-11-15",
+  "fecha_publicacion": null,
+  "numero": "C-1193/01",
+  "tipo_cc": "C",
+  "prov_id": "19964",
+  "tema_relatoria": "FALLO INHIBITORIO POR INEPTITUD DE DEMANDA DE INCONSTITUCIONALIDAD CONTRA NORMA DE LA LEY 600 DE 2000",
+  "resumen": "LEY 600 DE 2000. ART. 404. CODIGO DE PROCEDIMIENTO PENAL. VARIACION DE LA CALIFICACION JURIDICA PROVISIONAL DE LA CONDUCTA PUNIBLE. FACULTAD DEL JUEZ DE DECLARAR LA NULIDAD DE LA RESOLUCION DE ACUSACION SI EL FISCAL NO ACCEDE A VARIAR LA CALIFICACION. INHIBICION",
+  "titulaciones": [
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "Elementos"
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "Fundamentación adecuada de cargos"
+    },
+    {
+      "tema": "INHIBICION DE LA CORTE CONSTITUCIONAL",
+      "subtema": "Cargos contra norma no acusada sobre la cual existe decisión"
+    }
+  ]
+}

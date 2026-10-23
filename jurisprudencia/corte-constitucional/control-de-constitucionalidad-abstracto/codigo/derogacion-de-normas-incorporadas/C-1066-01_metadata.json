@@ -1,0 +1,74 @@
+{
+  "radicado": "C-1066-01",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2001,
+  "fecha_creacion": "2001-10-10",
+  "magistrado_ponente": "Dr ALVARO TAFUR GALVIS",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "CODIGO",
+  "subtema": "Derogación de normas incorporadas",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 488 de 1998",
+    "Decreto 2067 de 1991",
+    "Ley 383 de 1997",
+    "Ley 223 de 1995",
+    "Ley 488 de 1999",
+    "Ley 599 de 2000",
+    "Ley 153 de 1887",
+    "Decreto 100 de 1980",
+    "Ley 633 de 2000",
+    "Ley 550 de 1999"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2001/C-1066-01.htm",
+  "fecha_descarga": "2026-10-23T02:22:30.394576+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2001-10-10",
+  "fecha_publicacion": null,
+  "numero": "C-1066/01",
+  "tipo_cc": "C",
+  "prov_id": "19813",
+  "tema_relatoria": "FALLO INHIBITORIO POR INEPTITUD DE DEMANDA DE INCONSTITUCIONALIDAD CONTRA NORMA DE LA LEY 488 DE 1998",
+  "resumen": "LEY 488 DE 1998. ARTS. 67 69 70 71 80 Y 131. CONTRABANDO Y EVASION FISCAL. FAVORECIMIENTO DE SERVIDOR PUBLICO. RESPONSABILIDAD PENAL. IVA. CREACION DE LA POLICIA FISCAL Y ADUANERA. DIAN. IMPUESTOS TERRITORIALES. MONOPOLIO DE LICORES DESTILADOS. LEGALIZACION",
+  "titulaciones": [
+    {
+      "tema": "CODIGO",
+      "subtema": "Derogación de normas incorporadas"
+    },
+    {
+      "tema": "CONTROL DE CONSTITUCIONALIDAD DE NORMA PENAL DEROGADA",
+      "subtema": "Producción de efectos por favorabilidad"
+    },
+    {
+      "tema": "NORMA PENAL DEROGADA",
+      "subtema": "Efectos"
+    },
+    {
+      "tema": "NORMA PENAL DEROGADA",
+      "subtema": "Aplicación por favorabilidad"
+    },
+    {
+      "tema": "NORMA ACUSADA",
+      "subtema": "Análisis de vigencia y continuación de producción de efectos"
+    },
+    {
+      "tema": "PRINCIPIO DE FAVORABILIDAD EN NORMA PENAL DEROGADA",
+      "subtema": "Control constitucional"
+    },
+    {
+      "tema": "PROCESO DE CONSTITUCIONALIDAD",
+      "subtema": "Finalidad"
+    },
+    {
+      "tema": "EXCEPCIÓN DE INCONSTITUCIONALIDAD",
+      "subtema": "Negativa de control abstracto"
+    },
+    {
+      "tema": "INHIBICION DE LA CORTE CONSTITUCIONAL",
+      "subtema": "Pérdida de vigencia de normas salvo continuación de producción de efectos"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "radicado": "C-198-01",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2001,
+  "fecha_creacion": "2001-02-21",
+  "magistrado_ponente": "Dr ALEJANDRO MARTÍNEZ CABALLERO",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "PRINCIPIO DE CONSECUTIVIDAD DE PROYECTO DE LEY",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2067 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2001/C-198-01.htm",
+  "fecha_descarga": "2026-10-23T02:34:07.275839+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2001-02-21",
+  "fecha_publicacion": null,
+  "numero": "C-198/01",
+  "tipo_cc": "C",
+  "prov_id": "18704",
+  "tema_relatoria": "OBJECION PRESIDENCIAL AL CODIGO DE ETICA DE OPTOMETRIA",
+  "resumen": "PROYECTO DE LEY 180 DE 1999 SENADO Y 108 DE 1999 CAMARA. CODIGO DE ETICA PROFESIONAL DE OPTOMETRIA. PROCEDIMIENTO DISCIPLINARIO. SANCIONES. FALTAS COMUNES. INTRODUCCION DE MODIFICACIONES ADICIONES O SUPRESIONES. CONFORMACION DE COMISIONES ACCIDENTALES.",
+  "titulaciones": [
+    {
+      "tema": "PRINCIPIO DE CONSECUTIVIDAD DE PROYECTO DE LEY",
+      "subtema": null
+    },
+    {
+      "tema": "COMISION ACCIDENTAL",
+      "subtema": "Competencia restrictiva"
+    },
+    {
+      "tema": "OBJECION PRESIDENCIAL AL CODIGO DE ETICA DE OPTOMETRIA",
+      "subtema": null
+    },
+    {
+      "tema": "COMISION ACCIDENTAL",
+      "subtema": "Objeto"
+    },
+    {
+      "tema": "COMISION ACCIDENTAL",
+      "subtema": "Texto no analizado en una Cámara"
+    },
+    {
+      "tema": "COMISION ACCIDENTAL",
+      "subtema": "Dinamización"
+    }
+  ]
+}

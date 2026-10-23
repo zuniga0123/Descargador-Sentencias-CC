@@ -1,0 +1,47 @@
+{
+  "radicado": "C-1113-01",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2001,
+  "fecha_creacion": "2001-10-24",
+  "magistrado_ponente": "Dr MARCO GERARDO MONROY CABRA",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "INHIBICION DE LA CORTE CONSTITUCIONAL",
+  "subtema": "Cargos que exceden ámbito normativo de disposición acusada",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 50 de 1990",
+    "Decreto 2067 de 1991",
+    "Ley 80 de 1993"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2001/C-1113-01.htm",
+  "fecha_descarga": "2026-10-23T02:35:47.325257+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2001-10-24",
+  "fecha_publicacion": null,
+  "numero": "C-1113/01",
+  "tipo_cc": "C",
+  "prov_id": "19871",
+  "tema_relatoria": "FALLO INHIBITORIO POR INEPTITUD DE DEMANDA DE INCONSTITUCIONALIDAD CONTRA NORMA DE LA LEY 50 DE 1990",
+  "resumen": "LEY 50 DE 1990. ART. 73 (P.). REFORMAS AL CODIGO SUSTANTIVO DEL TRABAJO. USUARIOS EN CONTRATOS CELEBRADOS CON EMPRESAS DE SERVICIOS TEMPORALES QUE LABORAN EN ENTIDADES TERRITORIALES. PERSONA NATURAL O JURIDICA. SERVIDORES PUBLICOS. INEPTITUD SUSTANTIVA DEMANDA",
+  "titulaciones": [
+    {
+      "tema": "INHIBICION DE LA CORTE CONSTITUCIONAL",
+      "subtema": "Cargos que exceden ámbito normativo de disposición acusada"
+    },
+    {
+      "tema": "INHIBICION DE LA CORTE CONSTITUCIONAL",
+      "subtema": "Hipótesis extraída erróneamente de disposición acusada"
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "Correspondencia entre el cargo y la norma"
+    },
+    {
+      "tema": "INHIBICION DE LA CORTE CONSTITUCIONAL",
+      "subtema": "Falta de correspondencia entre cargo y norma acusada"
+    }
+  ]
+}

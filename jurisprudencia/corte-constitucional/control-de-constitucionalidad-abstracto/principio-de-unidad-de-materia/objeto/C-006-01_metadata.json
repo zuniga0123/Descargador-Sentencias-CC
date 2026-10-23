@@ -1,0 +1,54 @@
+{
+  "radicado": "C-006-01",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2001,
+  "fecha_creacion": "2001-01-17",
+  "magistrado_ponente": "Dr EDUARDO MONTEALEGRE LYNETT",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "PRINCIPIO DE UNIDAD DE MATERIA",
+  "subtema": "Objeto",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 80 de 1993",
+    "Decreto 2067 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2001/C-006-01.htm",
+  "fecha_descarga": "2026-10-23T02:18:24.920760+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2001-01-17",
+  "fecha_publicacion": null,
+  "numero": "C-006/01",
+  "tipo_cc": "C",
+  "prov_id": "18449",
+  "tema_relatoria": "ESTATUTO GENERAL DE CONTRATACION DE LA ADMINISTRACION PUBLICA-MODIFICACIÓN DE SANCIONES DEL CÓDIGO PENAL",
+  "resumen": "LEY 80 DE 1993. ART. 57. ESTATUTO GENERAL DE CONTRATACION DE LA ADMINISTRACION PUBLICA. INFRACCION NORMAS DE CONTRATACION. INCREMENTO PUNITIVO. COSA JUZGADA RELATIVA. EXEQUIBLE.",
+  "titulaciones": [
+    {
+      "tema": "PRINCIPIO DE UNIDAD DE MATERIA",
+      "subtema": "Objeto"
+    },
+    {
+      "tema": "PRINCIPIO DE UNIDAD DE MATERIA",
+      "subtema": "Vulneración constituye un vicio material"
+    },
+    {
+      "tema": "PRINCIPIO DE UNIDAD DE MATERIA",
+      "subtema": "Conexidad objetiva y razonable"
+    },
+    {
+      "tema": "CONTRATACION ADMINISTRATIVA",
+      "subtema": "Incremento punitivo"
+    },
+    {
+      "tema": "PRINCIPIO DE UNIDAD DE MATERIA",
+      "subtema": "Acepción amplia y no rígida"
+    },
+    {
+      "tema": "ESTATUTO GENERAL DE CONTRATACION DE LA ADMINISTRACION PUBLICA",
+      "subtema": "Modificación de sanciones del Código Penal"
+    }
+  ]
+}

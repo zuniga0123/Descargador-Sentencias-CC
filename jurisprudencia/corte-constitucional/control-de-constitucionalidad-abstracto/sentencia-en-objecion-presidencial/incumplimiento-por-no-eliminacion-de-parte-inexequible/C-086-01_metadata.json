@@ -1,0 +1,51 @@
+{
+  "radicado": "C-086-01",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2001,
+  "fecha_creacion": "2001-01-31",
+  "magistrado_ponente": "Dra MARTHA VICTORIA SÁCHICA MÉNDEZ",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "SENTENCIA EN OBJECION PRESIDENCIAL",
+  "subtema": "Incumplimiento por no eliminación de parte inexequible",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 1950 de 1973",
+    "Decreto 2400 de 1986",
+    "Decreto 2400 de 1968"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2001/C-086-01.htm",
+  "fecha_descarga": "2026-10-23T02:19:16.382062+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2001-01-31",
+  "fecha_publicacion": null,
+  "numero": "C-086/01",
+  "tipo_cc": "C",
+  "prov_id": "18558",
+  "tema_relatoria": "SENTENCIA EN OBJECION PRESIDENCIAL. INCUMPLIMIENTO POR NO ELIMINACIÓN DE APARTE INEXEQUIBLE",
+  "resumen": "PROYECTO DE LEY 017 DE 1998 CAMARA Y 170 DE 1999 SENADO. MODIFICA Y ADICIONA EL ART. 122 DEL DECRETO 1950 DE 1973. EDAD DE RETIRO FORZOSO. DESEMPEÑO DE CARGOS PUBLICOS. NO CUMPLIMIENTO DEL ART. 167 DE LA CONSTITUCION POLITICA. VER SENTENCIA C-1488/2000",
+  "titulaciones": [
+    {
+      "tema": "SENTENCIA EN OBJECION PRESIDENCIAL",
+      "subtema": "Incumplimiento por no eliminación de parte inexequible"
+    },
+    {
+      "tema": "PRINCIPIO DEMOCRATICO DE REPRESENTACION",
+      "subtema": "Proceso de formación y aprobación de ley"
+    },
+    {
+      "tema": "RETIRO FORZOSO",
+      "subtema": "Regulación de excepción a edad"
+    },
+    {
+      "tema": "SENTENCIA EN OBJECION PRESIDENCIAL",
+      "subtema": "Ratificación de inexequibilidad"
+    },
+    {
+      "tema": "SENTENCIA EN OBJECION PRESIDENCIAL",
+      "subtema": "Incumplimiento por aprobación"
+    }
+  ]
+}

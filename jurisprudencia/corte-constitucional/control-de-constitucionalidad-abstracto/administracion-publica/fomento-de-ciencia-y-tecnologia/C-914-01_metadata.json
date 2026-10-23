@@ -1,0 +1,52 @@
+{
+  "radicado": "C-914-01",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2001,
+  "fecha_creacion": "2001-08-29",
+  "magistrado_ponente": "Dr ALVARO TAFUR GALVIS",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "ADMINISTRACION PUBLICA",
+  "subtema": "Fomento de ciencia y tecnología",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2067 de 1991",
+    "Ley 637 de 2001",
+    "Ley 397 de 1997",
+    "Ley 32 de 1985"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2001/C-914-01.htm",
+  "fecha_descarga": "2026-10-23T02:21:11.129556+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2001-08-29",
+  "fecha_publicacion": null,
+  "numero": "C-914/01",
+  "tipo_cc": "C",
+  "prov_id": "19640",
+  "tema_relatoria": "CONTROL DE CONSTITUCIONALIDAD DEL ACUERDO DEL CENTRO LATINOAMERICANO DE ADMINISTRACION PARA EL DESARROLLO Y SUS ESTATUTOS",
+  "resumen": "LEY 637 DE 2001. ACUERDO RELATIVO AL CENTRO LATINOAMERICANO DE ADMINISTRACION PARA EL DESARROLLO CLAD Y SUS ESTATUTOS. REFORMA DE LA ADMINISTRACION PUBLICA. EXEQUIBLES",
+  "titulaciones": [
+    {
+      "tema": "ADMINISTRACION PUBLICA",
+      "subtema": "Fomento de ciencia y tecnología"
+    },
+    {
+      "tema": "ACUERDO DEL CENTRO LATINOAMERICANO DE ADMINISTRACION PARA EL DESARROLLO Y SUS ESTATUTOS",
+      "subtema": "Finalidad"
+    },
+    {
+      "tema": "ADMINISTRACION PUBLICA",
+      "subtema": "Mejoramiento capacidad de gestión"
+    },
+    {
+      "tema": "ADMINISTRACION PUBLICA",
+      "subtema": "Modernización"
+    },
+    {
+      "tema": "ESTADO SOCIAL DE DERECHO",
+      "subtema": "Modernización y eficiencia de entes públicos"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "radicado": "C-783-01",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2001,
+  "fecha_creacion": "2001-07-25",
+  "magistrado_ponente": "Dr EDUARDO MONTEALEGRE LYNETT",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "COSA JUZGADA RELATIVA Y SENTENCIA DE CONSTITUCIONALIDAD CONDICIONADA",
+  "subtema": "Distinción",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2067 de 1991",
+    "Ley 226 de 1995"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2001/C-783-01.htm",
+  "fecha_descarga": "2026-10-23T02:14:06.762635+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2001-07-25",
+  "fecha_publicacion": "2001-08-15",
+  "numero": "C-783/01",
+  "tipo_cc": "C",
+  "prov_id": "19496",
+  "tema_relatoria": "ENAJENACION DE LA PROPIEDAD ACCIONARIA ESTATAL. DEMOCRATIZACION. LIMITACION DE LA NEGOCIABILIDAD DE ACCIONES. SANCIONES Y MULTAS. NULIDAD DE LOS CONTRATOS DE COMPRAVENTA DEL ESTADO. RESTITUCION.",
+  "resumen": "Demanda de inconstitucionalidad contra los artículos 14 y 15 (parciales) de la ley 226 de 1995, por la cual se desarrolla el artículo 60 de la Constitución Política en cuanto a la enajenación de la propiedad accionaria estatal, se toman medidas para su democratización y se dictan otras disposiciones. El actor alegó que el legislador no puede otorgar al Gobierno la posibilidad de establecer restricciones o limitaciones a la negociabilidad de acciones, porque ello no corresponde a una correcta interpretación del artículo 60 de la Constitución. Advirtió que, si bien es cierto que la Carta permite fijar condiciones especiales para el acceso y la democratización de la propiedad, no es dable inferir la facultad de limitación a los derechos de goce y disposición de un derecho como la propiedad. La Sala Plena de la Corporación encontró que frene a las normas censuradas operó el fenómeno de la cosa juzgada constitucional, en tanto en las Sentencia C-384/96 y C-343/96 analizó la constitucionalidad de las normas acusadas en esta oportunidad. Con base en lo anterior decidió ESTARSE A LO RESUELTO en los precitados fallos.",
+  "titulaciones": [
+    {
+      "tema": "COSA JUZGADA RELATIVA Y SENTENCIA DE CONSTITUCIONALIDAD CONDICIONADA",
+      "subtema": "Distinción"
+    },
+    {
+      "tema": "COSA JUZGADA CONSTITUCIONAL",
+      "subtema": "Alegación nulidad de contrato de acciones de entidades estatales"
+    },
+    {
+      "tema": "COSA JUZGADA CONSTITUCIONAL",
+      "subtema": "Medidas en enajenación de propiedad accionaria estatal"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "radicado": "C-502-01",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2001,
+  "fecha_creacion": "2001-05-16",
+  "magistrado_ponente": "Dr MARCO GERARDO MONROY CABRA",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "INHIBICION EN OBJECION PRESIDENCIAL",
+  "subtema": "Discrepancias entre las Cámaras",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2067 de 1991",
+    "Ley 152 de 1994",
+    "Ley 60 de 1993"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2001/C-502-01.htm",
+  "fecha_descarga": "2026-10-23T02:32:00.648574+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2001-05-16",
+  "fecha_publicacion": null,
+  "numero": "C-502/01",
+  "tipo_cc": "C",
+  "prov_id": "19147",
+  "tema_relatoria": "INHIBICION EN OBJECION PRESIDENCIAL. DISCREPANCIAS ENTRE LAS CÁMARAS",
+  "resumen": "PROYECTO DE LEY NO 231 DE 2000. SENADO NO.101 DE 1998. CAMARA. VINCULACION DE LA NACION A LA CONMEMORACION DE LOS CIENTO QUINCE AÑOS DE FUNDACION DEL MUNICIPIO DE BOLIVAR DEPARTAMENTO DEL VALLE DEL CAUCA. Y SE AUTORIZAN APROPIACIONES PRESUPUESTALES",
+  "titulaciones": [
+    {
+      "tema": "INHIBICION EN OBJECION PRESIDENCIAL",
+      "subtema": "Discrepancias entre las Cámaras"
+    },
+    {
+      "tema": "PROYECTO DE LEY OBJETADO",
+      "subtema": "Archivo por discrepancias de informes de Cámaras"
+    },
+    {
+      "tema": "OBJECION PRESIDENCIAL",
+      "subtema": "Trámite en el Congreso de la República"
+    },
+    {
+      "tema": "LEY ORGANICA",
+      "subtema": "Desconocimiento"
+    },
+    {
+      "tema": "OBJECION PRESIDENCIAL",
+      "subtema": "Procedimiento"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "radicado": "C-860-01",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2001,
+  "fecha_creacion": "2001-08-15",
+  "magistrado_ponente": "Dr EDUARDO MONTEALEGRE LYNETT",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "CAMBIO CLIMATICO GLOBAL",
+  "subtema": "Países desarrollados y en vía de desarrollo",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 164 de 1994",
+    "Ley 32 de 1985",
+    "Ley 629 de 2000"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2001/C-860-01.htm",
+  "fecha_descarga": "2026-10-23T02:27:46.111616+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2001-08-15",
+  "fecha_publicacion": null,
+  "numero": "C-860/01",
+  "tipo_cc": "C",
+  "prov_id": "19591",
+  "tema_relatoria": "CONTROL DE CONSTITUCIONALIDAD DEL PROTOCOLO DE KYOTO DE LA CONVENCION MARCO DE LAS NACIONES UNIDAS SOBRE EL CAMBIO CLIMATICO",
+  "resumen": "LEY 629 DE 2000. PROTOCOLO DE KYOTO DE LA CONVENCION MARCO DE LAS NACIONES UNIDAS SOBRE EL CAMBIO CLIMATICO. EFECTO INVERNADERO. ACCIONES INTERNACIONALES. OBLIGACIONES PARA LOS PAISES INDUSTRIALIZADOS Y EN VIA DE DESARROLLO. MECANISMOS DE COOPERACION FINANCIERA",
+  "titulaciones": [
+    {
+      "tema": "CAMBIO CLIMATICO GLOBAL",
+      "subtema": "Países desarrollados y en vía de desarrollo"
+    },
+    {
+      "tema": "PROTOCOLO DE KYOTO",
+      "subtema": "Obligaciones comunes y aplicables a países en vía de desarrollo"
+    },
+    {
+      "tema": "CAMBIO CLIMATICO GLOBAL",
+      "subtema": "Obligaciones comunes y aplicables a países en vía de desarrollo"
+    },
+    {
+      "tema": "PROTOCOLO DE KYOTO DE LA CONVENCION MARCO DE LAS NACIONES UNIDAD SOBRE EL CAMBIO CLIMATICO",
+      "subtema": "Mecanismo para un desarrollo limpio"
+    },
+    {
+      "tema": "PROTOCOLO DE KYOTO DE LA CONVENCION MARCO DE LAS NACIONES UNIDAS SOBRE EL CAMBIO CLIMATICO",
+      "subtema": "Mecanismos de cooperación financiera"
+    }
+  ]
+}

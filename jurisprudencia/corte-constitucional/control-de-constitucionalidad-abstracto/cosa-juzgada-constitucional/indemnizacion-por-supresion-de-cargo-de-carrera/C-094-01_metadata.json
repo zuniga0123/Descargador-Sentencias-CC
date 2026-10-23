@@ -1,0 +1,38 @@
+{
+  "radicado": "C-094-01",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2001,
+  "fecha_creacion": "2001-01-31",
+  "magistrado_ponente": "Dr ALVARO TAFUR GALVIS",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "COSA JUZGADA CONSTITUCIONAL",
+  "subtema": "Indemnización por supresión de cargo de carrera",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2067 de 1991",
+    "Ley 443 de 1998"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2001/C-094-01.htm",
+  "fecha_descarga": "2026-10-23T02:19:20.000776+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2001-01-31",
+  "fecha_publicacion": null,
+  "numero": "C-094/01",
+  "tipo_cc": "C",
+  "prov_id": "18566",
+  "tema_relatoria": "COSA JUZGADA CONSTITUCIONAL EN INDEMNIZACIÓN POR SUPRESIÓN DE CARGO DE CARRERA",
+  "resumen": "LEY 443 DE 1998. ART. 39 PARAG. 2 (P.). CARRERA ADMINISTRATIVA. DERECHOS DEL EMPLEADO EN CASO DE SUPRESION DEL CARGO. INDEMNIZACION. COSA JUZGADA MATERIAL. ESTESE A LO RESUELTO EN C-370/99",
+  "titulaciones": [
+    {
+      "tema": "COSA JUZGADA CONSTITUCIONAL",
+      "subtema": "Indemnización por supresión de cargo de carrera"
+    },
+    {
+      "tema": "INHIBICION DE LA CORTE CONSTITUCIONAL",
+      "subtema": "Ausencia de cargos"
+    }
+  ]
+}

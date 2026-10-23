@@ -1,0 +1,362 @@
+{
+  "radicado": "C-543-01",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2001,
+  "fecha_creacion": "2001-05-23",
+  "magistrado_ponente": null,
+  "area": "Derecho Constitucional Económico",
+  "tema": "AUXILIOS O DONACIONES",
+  "subtema": "Celebración de contratos con entidades privadas",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 9 de 1991",
+    "Ley 66 de 1942",
+    "Ley 11 de 1972",
+    "Decreto 2078 de 1940",
+    "Decreto 2067 de 1991",
+    "Decreto 2160 de 1986",
+    "Ley 42 de 1993",
+    "Decreto 444 de 1967",
+    "Decreto 111 de 1996",
+    "Ley 80 de 1993",
+    "Ley 489 de 1998",
+    "Ley 225 de 1994",
+    "Ley 101 de 1993",
+    "Ley 89 de 1993",
+    "Ley 272 de 1996",
+    "Ley 212 de 1995",
+    "Ley 117 de 1994",
+    "Ley 610 de 2000"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2001/C-543-01.htm",
+  "fecha_descarga": "2026-10-23T02:31:19.261519+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2001-05-23",
+  "fecha_publicacion": null,
+  "numero": "C-543/01",
+  "tipo_cc": "C",
+  "prov_id": "19200",
+  "tema_relatoria": "CONTRATO DE GESTION DE CONTRIBUCION PARAFISCAL. CLÁUSULA DE CADUCIDAD",
+  "resumen": "LEY 9 DE 1991. ARTS: 20 33 (P). LEY 66 DE 1942. ART.4. LEY 11 DE 1972. ART. 2. DECRETO 2078 DE 1940. ART.10. NORMAS A LAS QUE SE SUJETA EL GOBIERNO NACIONAL PARA REGULAR CAMBIOS INTERNACIONALES. PROTECCION A LA INDUSTRIA CAFETERA. DEROGACION DEL IMPUESTO",
+  "titulaciones": [
+    {
+      "tema": "AUXILIOS O DONACIONES",
+      "subtema": "Celebración de contratos con entidades privadas"
+    },
+    {
+      "tema": "AUXILIOS O DONACIONES",
+      "subtema": "Erogación fiscal a particular sin contraprestación"
+    },
+    {
+      "tema": "COMITES DEPARTAMENTALES Y MUNICIPALES DE CAFETEROS",
+      "subtema": "Inexistencia de donaciones"
+    },
+    {
+      "tema": "ACCION PUBLICA DE INCONSTITUCIONALIDAD",
+      "subtema": "Finalidad"
+    },
+    {
+      "tema": "CONTRIBUCION PARAFISCAL",
+      "subtema": "Competencia legislativa para señalar entidad administradora de recursos"
+    },
+    {
+      "tema": "CONTRIBUCION PARAFISCAL AGROPECUARIA",
+      "subtema": "Régimen aplicable sin perjuicio de contratos celebrados"
+    },
+    {
+      "tema": "CONTRIBUCION PARAFISCAL",
+      "subtema": "Celebración de contratos para recaudo, administración y ejecución"
+    },
+    {
+      "tema": "CONTRIBUCION PARAFISCAL",
+      "subtema": "Determinación de modalidad y mecanismos de gestión"
+    },
+    {
+      "tema": "CONTRIBUCION PARAFISCAL",
+      "subtema": "Manejo, administración y ejecución de recursos"
+    },
+    {
+      "tema": "CONTRIBUCION PARAFISCAL",
+      "subtema": "Particular encargado de administración de recursos"
+    },
+    {
+      "tema": "CONTRIBUCION PARAFISCAL",
+      "subtema": "Regímenes"
+    },
+    {
+      "tema": "AUXILIOS O DONACIONES A PARTICULARES",
+      "subtema": "Alcance de la prohibición"
+    },
+    {
+      "tema": "CONTRIBUCION PARAFISCAL",
+      "subtema": "Caducidad de contratos"
+    },
+    {
+      "tema": "CONTRATO DE GESTION DE CONTRIBUCION PARAFISCAL",
+      "subtema": "Previsión de objetivos constitucionales"
+    },
+    {
+      "tema": "CONTRIBUCION PARAFISCAL",
+      "subtema": "Competencia legislativa para autorizar contratos de administración de recursos"
+    },
+    {
+      "tema": "CONTRIBUCION PARAFISCAL",
+      "subtema": "Condiciones de celebración de contratos de gestión"
+    },
+    {
+      "tema": "CONTRIBUCION PARAFISCAL",
+      "subtema": "Fundamento constitucional"
+    },
+    {
+      "tema": "FEDERACION NACIONAL DE CAFETEROS Y GOBIERNO",
+      "subtema": "Contrato para la administración del Fondo"
+    },
+    {
+      "tema": "MONOPOLIO",
+      "subtema": "Inexistencia ante actividades propias del Estado"
+    },
+    {
+      "tema": "PRINCIPIO DE PARTICIPACION EN FUNCION ADMINISTRATIVA",
+      "subtema": "Ejercicio por particulares"
+    },
+    {
+      "tema": "DESCENTRALIZACION POR COLABORACION",
+      "subtema": "Apoyo de entidades privadas"
+    },
+    {
+      "tema": "DESCENTRALIZACION POR COLABORACION",
+      "subtema": "Recursos no transmutan por confiarse a entidades privadas"
+    },
+    {
+      "tema": "FUNCION ADMINISTRATIVA",
+      "subtema": "Atribución por ley a organización privada"
+    },
+    {
+      "tema": "FEDERACION NACIONAL DE CAFETEROS",
+      "subtema": "Carácter de rentas"
+    },
+    {
+      "tema": "FONDO NACIONAL DEL CAFE",
+      "subtema": "Transferencias y destinaciones"
+    },
+    {
+      "tema": "FUNCION ADMINISTRATIVA",
+      "subtema": "Atribución por convenio de ejercicio por particulares"
+    },
+    {
+      "tema": "FUNCION ADMINISTRATIVA",
+      "subtema": "Ejercicio por particulares a título gratuito remunerado"
+    },
+    {
+      "tema": "FEDERACION NACIONAL DE CAFETEROS",
+      "subtema": "Control fiscal"
+    },
+    {
+      "tema": "FEDERACION NACIONAL DE CAFETEROS",
+      "subtema": "Inexistencia de donaciones"
+    },
+    {
+      "tema": "FUNCION ADMINISTRATIVA POR ORGANIZACION PRIVADA",
+      "subtema": "Precisiones del régimen especial"
+    },
+    {
+      "tema": "FUNCION ADMINISTRATIVA",
+      "subtema": "Ejercicio por asociaciones o fundaciones de participación mixta"
+    },
+    {
+      "tema": "FONDO NACIONAL DEL CAFE",
+      "subtema": "Administración y gestión de recursos y bienes parafiscales"
+    },
+    {
+      "tema": "FONDO NACIONAL DEL CAFE",
+      "subtema": "Destinaciones específicas a fines determinados"
+    },
+    {
+      "tema": "FUNCION ADMINISTRATIVA",
+      "subtema": "Ejercicio por particulares"
+    },
+    {
+      "tema": "FUNCION ADMINISTRATIVA",
+      "subtema": "Límites a atribución por convenio de ejercicio por particulares"
+    },
+    {
+      "tema": "GESTION FISCAL DE CONTRIBUCION PARAFISCAL",
+      "subtema": "Administración por particular"
+    },
+    {
+      "tema": "GESTION FISCAL DE FEDERACION NACIONAL DE CAFETEROS",
+      "subtema": "Recursos encomendados contractualmente"
+    },
+    {
+      "tema": "RECURSOS PUBLICOS",
+      "subtema": "Manejo por entidades gremiales"
+    },
+    {
+      "tema": "CONTRIBUCION PARAFISCAL AGROPECUARIA",
+      "subtema": "Régimen aplicable sin perjuicio de derechos adquiridos"
+    },
+    {
+      "tema": "CONTRIBUCION PARAFISCAL",
+      "subtema": "Determinación legislativa de entidad privada para contrato"
+    },
+    {
+      "tema": "CONTRIBUCION PARAFISCAL",
+      "subtema": "Escogencia entre entidades con condiciones de representatividad"
+    },
+    {
+      "tema": "CONTRIBUCION PARAFISCAL AGROPECUARIA",
+      "subtema": "Parámetros del régimen aplicable a contratos para administración"
+    },
+    {
+      "tema": "CONTRIBUCION PARAFISCAL",
+      "subtema": "Autorización legislativa de celebración de contratos"
+    },
+    {
+      "tema": "CONTRIBUCION PARAFISCAL",
+      "subtema": "Celebración de contrato con entidad gremial determinada para gestión"
+    },
+    {
+      "tema": "CONTRIBUCION PARAFISCAL",
+      "subtema": "Determinación régimen aplicable a contratos para administración"
+    },
+    {
+      "tema": "CONTRATO DE GESTION DE CONTRIBUCION PARAFISCAL",
+      "subtema": "Cláusula de caducidad"
+    },
+    {
+      "tema": "CONTRIBUCION PARAFISCAL",
+      "subtema": "Administración por entidad gremial"
+    },
+    {
+      "tema": "CONTRIBUCION PARAFISCAL",
+      "subtema": "Autorización legislativa y decisión del Gobierno"
+    },
+    {
+      "tema": "CONTRIBUCION PARAFISCAL",
+      "subtema": "Características"
+    },
+    {
+      "tema": "CONTRIBUCION PARAFISCAL",
+      "subtema": "Institución que no cumple requisitos de representatividad"
+    },
+    {
+      "tema": "CONTRIBUCION PARAFISCAL",
+      "subtema": "No señalamiento legislativo de encargado de gestión"
+    },
+    {
+      "tema": "CONTRATO DE GESTION DE CONTRIBUCION PARAFISCAL",
+      "subtema": "Mecanismos de control"
+    },
+    {
+      "tema": "AUXILIOS O DONACIONES",
+      "subtema": "Ambito propio de la prohibición"
+    },
+    {
+      "tema": "ACCION PUBLICA DE INCONSTITUCIONALIDAD",
+      "subtema": "No satisfacción de intereses específicos"
+    },
+    {
+      "tema": "FEDERACION NACIONAL DE CAFETEROS Y GOBIERNO",
+      "subtema": "Modificaciones al contrato de administración"
+    },
+    {
+      "tema": "FEDERACION NACIONAL DE CAFETEROS",
+      "subtema": "Carácter de la administración de dineros del fondo"
+    },
+    {
+      "tema": "FEDERACION NACIONAL DE CAFETEROS",
+      "subtema": "Administración de recursos y no propiedad"
+    },
+    {
+      "tema": "ENTIDAD PRIVADA GREMIAL Y GOBIERNO",
+      "subtema": "Régimen aplicable"
+    },
+    {
+      "tema": "ENTIDAD PRIVADA GREMIAL Y GOBIERNO",
+      "subtema": "Sujeción de principios"
+    },
+    {
+      "tema": "FONDO NACIONAL DEL CAFE",
+      "subtema": "Patrimonio de origen parafiscal"
+    },
+    {
+      "tema": "FUNCION ADMINISTRATIVA POR ORGANIZACION PRIVADA",
+      "subtema": "Investidura"
+    },
+    {
+      "tema": "FUNCION ADMINISTRATIVA",
+      "subtema": "Aplicación de principios a contratos con entidad privada"
+    },
+    {
+      "tema": "FUNCION ADMINISTRATIVA",
+      "subtema": "Ejercicio de actividad por institución de iniciativa privada"
+    },
+    {
+      "tema": "FEDERACION NACIONAL DE CAFETEROS",
+      "subtema": "No propiedad sobre ingresos públicos"
+    },
+    {
+      "tema": "FONDO NACIONAL DEL CAFE",
+      "subtema": "Características patrimoniales de recursos"
+    },
+    {
+      "tema": "FONDO NACIONAL DEL CAFE",
+      "subtema": "Patrimonio de afectación"
+    },
+    {
+      "tema": "FUNCION ADMINISTRATIVA",
+      "subtema": "Condiciones para ejercicio por particulares"
+    },
+    {
+      "tema": "FUNCION ADMINISTRATIVA",
+      "subtema": "Gestión fiscal"
+    },
+    {
+      "tema": "FEDERACION NACIONAL DE CAFETEROS Y GOBIERNO",
+      "subtema": "Celebración de contratos"
+    },
+    {
+      "tema": "FEDERACION NACIONAL DE CAFETEROS",
+      "subtema": "Recaudación, administración y ejecución de recursos públicos"
+    },
+    {
+      "tema": "FONDO NACIONAL DEL CAFE",
+      "subtema": "No afectación de calidad de recursos"
+    },
+    {
+      "tema": "FUNCION ADMINISTRATIVA",
+      "subtema": "Supuestos para ejercicio por particulares"
+    },
+    {
+      "tema": "INHIBICION DE LA CORTE CONSTITUCIONAL",
+      "subtema": "Improcedencia por continuación de producción de efectos"
+    },
+    {
+      "tema": "INHIBICION DE LA CORTE CONSTITUCIONAL",
+      "subtema": "Improcedencia por duda en vigencia de norma"
+    },
+    {
+      "tema": "INHIBICION DE LA CORTE CONSTITUCIONAL",
+      "subtema": "Agotamiento de objeto de norma"
+    },
+    {
+      "tema": "INHIBICION DE LA CORTE CONSTITUCIONAL",
+      "subtema": "Improcedencia por incertidumbre sobre derogación tácita"
+    },
+    {
+      "tema": "PRESIDENTE DE LA REPUBLICA",
+      "subtema": "Celebración de contratos"
+    },
+    {
+      "tema": "SENTENCIA DE CONSTITUCIONALIDAD CONDICIONADA",
+      "subtema": "Aplicación"
+    },
+    {
+      "tema": "UNIDAD NORMATIVA",
+      "subtema": "Integración"
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "radicado": "C-200-01",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2001,
+  "fecha_creacion": "2001-02-21",
+  "magistrado_ponente": "Dr EDUARDO MONTEALEGRE LYNETT",
+  "area": "Derecho Administrativo y Función Pública",
+  "tema": "ACCESO A CARGOS PUBLICOS",
+  "subtema": "Requisitos negativos",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 136 de 1994",
+    "Ley 177 de 1994",
+    "Decreto 2067 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2001/C-200-01.htm",
+  "fecha_descarga": "2026-10-23T02:20:19.056750+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2001-02-21",
+  "fecha_publicacion": null,
+  "numero": "C-200/01",
+  "tipo_cc": "C",
+  "prov_id": "18706",
+  "tema_relatoria": "INHABILIDADES E INCOMPATIBILIDADES PARA ACCESO A CARGOS PUBLICOS. REGULACIÓN LEGISLATIVA AMPLIA",
+  "resumen": "LEY 136 DE 1994. ARTS. 96 Y 175 (PS.) Y LEY 177 DE 1994. ART. 5 (P.). ORGANIZACION Y FUNCIONAMIENTO DE LOS MUNICIPIOS. INHABILIDADES E INCOMPATIBILIDADES DE ALCALDES Y PERSONEROS MUNICIPALES. CARGOS DE ELECCION POPULAR. INVESTIDURA. ACCESO A LA FUNCION PUBLICA",
+  "titulaciones": [
+    {
+      "tema": "ACCESO A CARGOS PUBLICOS",
+      "subtema": "Requisitos negativos"
+    },
+    {
+      "tema": "TEST DE IGUALDAD EN INCOMPATIBILIDADES DE PERSONERO",
+      "subtema": null
+    },
+    {
+      "tema": "COSA JUZGADA CONSTITUCIONAL",
+      "subtema": "Incompatibilidades de alcaldes"
+    },
+    {
+      "tema": "FUNCIÓN PÚBLICA",
+      "subtema": "Regulación de requisitos para el desempeño"
+    },
+    {
+      "tema": "INCOMPATIBILIDADES",
+      "subtema": "Objeto"
+    },
+    {
+      "tema": "INCOMPATIBILIDADES PARA ACCESO A CARGOS PUBLICOS",
+      "subtema": "Causales similares para funciones diferentes"
+    },
+    {
+      "tema": "INCOMPATIBILIDADES DEL PERSONERO",
+      "subtema": "Regulación legislativa amplia"
+    },
+    {
+      "tema": "INCOMPATIBILIDADES DEL ALCALDE",
+      "subtema": "Extensión al personero"
+    },
+    {
+      "tema": "INHABILIDADES E INCOMPATIBILIDADES PARA ACCESO A CARGOS PUBLICOS",
+      "subtema": "Regulación legislativa amplia"
+    },
+    {
+      "tema": "COSA JUZGADA CONSTITUCIONAL",
+      "subtema": "Inhabilidades de alcaldes"
+    },
+    {
+      "tema": "INCOMPATIBILIDADES DEL PERSONERO",
+      "subtema": "Investidura"
+    },
+    {
+      "tema": "INCOMPATIBILIDADES DEL ALCALDE Y PERSONERO",
+      "subtema": "Causales iguales"
+    },
+    {
+      "tema": "TEST DE IGUALDAD",
+      "subtema": "Etapas"
+    }
+  ]
+}

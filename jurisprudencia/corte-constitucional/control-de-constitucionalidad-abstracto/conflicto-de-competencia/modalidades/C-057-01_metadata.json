@@ -1,0 +1,80 @@
+{
+  "radicado": "C-057-01",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2001,
+  "fecha_creacion": "2001-01-24",
+  "magistrado_ponente": "Dra MARTHA VICTORIA SÁCHICA MÉNDEZ",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "CONFLICTO DE COMPETENCIA",
+  "subtema": "Modalidades",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 228 de 1995",
+    "Decreto 2067 de 1991",
+    "Ley 270 de 1996",
+    "Decreto 261 de 2000"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2001/C-057-01.htm",
+  "fecha_descarga": "2026-10-23T02:34:36.823776+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2001-01-24",
+  "fecha_publicacion": null,
+  "numero": "C-057/01",
+  "tipo_cc": "C",
+  "prov_id": "18514",
+  "tema_relatoria": "SALA DISCIPLINARIA DEL CONSEJO SECCIONAL DE LA JUDICATURA. COLISIÓN DE COMPETENCIA ENTRE JUECES O FISCALES E INSPECTORES DE POLICÍA",
+  "resumen": "LEY 228 DE 1995. ART. 34. CONTRAVENCIONES ESPECIALES. COMPETENCIA PARA RESOLVER CONFLICTOS ENTRE JUECES O FISCALES E INSPECTORES DE POLICIA. INHIBIDA Y EXEQUIBLE.",
+  "titulaciones": [
+    {
+      "tema": "CONFLICTO DE COMPETENCIA",
+      "subtema": "Modalidades"
+    },
+    {
+      "tema": "LEY ESTATUTARIA DE ADMINISTRACION DE JUSTICIA",
+      "subtema": "Derogación tácita de normas"
+    },
+    {
+      "tema": "LIBERTAD DE CONFIGURACIÓN LEGISLATIVA",
+      "subtema": "Funcionario a resolver colisión de competencias"
+    },
+    {
+      "tema": "INHIBICION DE LA CORTE CONSTITUCIONAL",
+      "subtema": "Derogación de norma"
+    },
+    {
+      "tema": "JURISDICCION PENAL ORDINARIA",
+      "subtema": "Jueces y fiscales"
+    },
+    {
+      "tema": "CONFLICTO DE COMPETENCIA EN CONTRAVENCIONES ESPECIALES",
+      "subtema": "Jueces y fiscales"
+    },
+    {
+      "tema": "CORTE SUPREMA DE JUSTICIA",
+      "subtema": "Resolución de colisión de competencias"
+    },
+    {
+      "tema": "JUEZ PENAL DEL CIRCUITO",
+      "subtema": "Resolución de colisión de competencias"
+    },
+    {
+      "tema": "DEBIDO PROCESO",
+      "subtema": "Colisión de competencias"
+    },
+    {
+      "tema": "JUEZ PENAL DEL CIRCUITO",
+      "subtema": "Colisión de competencias entre jueces y fiscales"
+    },
+    {
+      "tema": "SALA DISCIPLINARIA DEL CONSEJO SUPERIOR DE LA JUDICATURA",
+      "subtema": "Resolución de colisión de competencias"
+    },
+    {
+      "tema": "SALA DISCIPLINARIA DEL CONSEJO SECCIONAL DE LA JUDICATURA",
+      "subtema": "Colisión de competencia entre jueces o fiscales e inspectores de policía"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "radicado": "C-303-01",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2001,
+  "fecha_creacion": "2001-03-22",
+  "magistrado_ponente": "Dr MARCO GERARDO MONROY CABRA",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "CIENCIA Y TECNOLOGIA",
+  "subtema": "Importancia",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2067 de 1991",
+    "Ley 604 de 2000"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2001/C-303-01.htm",
+  "fecha_descarga": "2026-10-23T02:28:19.375674+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2001-03-22",
+  "fecha_publicacion": null,
+  "numero": "C-303/01",
+  "tipo_cc": "C",
+  "prov_id": "18856",
+  "tema_relatoria": "CONTROL DE CONSTITUCIONALIDAD DEL CONVENIO BÁSICO DE COOPERACIÓN TÉCNICA Y CIENTÍFICA ENTRE LA REPÚBLICA DE COLOMBIA Y LA REPÚBLICA DE NICARAGUA",
+  "resumen": "LEY 604 DE 2000. CONVENIO BASICO DE COOPERACION TECNICA Y CIENTIFICA ENTRE COLOMBIA Y NICARAGUA. SOBERANIA NACIONAL. EQUIDAD. RECIPROCIDAD. CONVENIENCIA NACIONAL. FOMENTO DE PROGRAMAS Y PROYECTOS DEL ORDEN ECONOMICO Y SOCIAL. EXEQUIBLES.",
+  "titulaciones": [
+    {
+      "tema": "CIENCIA Y TECNOLOGIA",
+      "subtema": "Importancia"
+    },
+    {
+      "tema": "TRATADO INTERNACIONAL",
+      "subtema": "Representación sin plenos poderes"
+    },
+    {
+      "tema": "CONVENIO DE COOPERACION TECNICA Y CIENTIFICA CON NICARAGUA",
+      "subtema": "Objeto"
+    },
+    {
+      "tema": "LEY APROBATORIA DE TRATADO INTERNACIONAL",
+      "subtema": "Trámite"
+    },
+    {
+      "tema": "TRATADO INTERNACIONAL",
+      "subtema": "Condicionamiento de acuerdos complementarios"
+    }
+  ]
+}

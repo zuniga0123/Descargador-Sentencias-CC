@@ -1,0 +1,38 @@
+{
+  "radicado": "C-669-01",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2001,
+  "fecha_creacion": "2001-06-28",
+  "magistrado_ponente": "Dr JAIME ARAUJO RENTERIA",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "COSA JUZGADA CONSTITUCIONAL",
+  "subtema": "Habeas corpus",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2067 de 1991",
+    "Ley 600 de 2000",
+    "Decreto 1358 de 1964",
+    "Decreto 409 de 1971",
+    "Decreto 50 de 1987",
+    "Decreto 2700 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2001/C-669-01.htm",
+  "fecha_descarga": "2026-10-23T02:17:14.307559+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2001-06-28",
+  "fecha_publicacion": null,
+  "numero": "C-669/01",
+  "tipo_cc": "C",
+  "prov_id": "19364",
+  "tema_relatoria": "COSA JUZGADA CONSTITUCIONAL EN HABEAS CORPUS",
+  "resumen": "LEY 600 DE 2000. ARTS. 382, 384, 387, 389. CODIGO DE PROCEDIMIENTO PENAL. HABEAS CORPUS. IMPROCEDENCIA DE MEDIDAS RESTRICTIVAS DE LA LIBERTAD. COSA JUZGADA CONSTITUCIONAL. ESTESE C-620 DE 2001. INEXEQUIBLE.",
+  "titulaciones": [
+    {
+      "tema": "COSA JUZGADA CONSTITUCIONAL",
+      "subtema": "Habeas corpus"
+    }
+  ]
+}

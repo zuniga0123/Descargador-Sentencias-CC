@@ -1,0 +1,53 @@
+{
+  "radicado": "C-140-01",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2001,
+  "fecha_creacion": "2001-02-07",
+  "magistrado_ponente": "Dr ALEJANDRO MARTÍNEZ CABALLERO",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "FACULTADES EXTRAORDINARIAS",
+  "subtema": "Reformas de códigos que no afectan estructura",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2067 de 1991",
+    "Ley 489 de 1998",
+    "Ley 573 de 2000",
+    "Decreto 2150 de 1995",
+    "Decreto 254 de 2000"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2001/C-140-01.htm",
+  "fecha_descarga": "2026-10-23T02:19:38.523918+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2001-02-07",
+  "fecha_publicacion": null,
+  "numero": "C-140/01",
+  "tipo_cc": "C",
+  "prov_id": "18620",
+  "tema_relatoria": "LIQUIDACION DE ENTIDAD PUBLICA. IGUALDAD DE ACREEDORES",
+  "resumen": "DECRETO 254 DE 2000. ARTS. 2 LIT. B) Y PARAG. 2 Y 6 LITS. D) Y E). LIQUIDACION DE ENTIDADES PUBLICAS. INICIACION PROCESO DE LIQUIDACION. CANCELACION EMBARGOS DECRETADOS Y REGISTROS. FUNCIONES DEL LIQUIDADOR. PROHIBICION DE EXPEDIR CODIGOS CON BASE EN FACULTADES EXTRAORDINARIAS",
+  "titulaciones": [
+    {
+      "tema": "FACULTADES EXTRAORDINARIAS",
+      "subtema": "Reformas de códigos que no afectan estructura"
+    },
+    {
+      "tema": "FACULTADES EXTRAORDINARIAS",
+      "subtema": "Estudio previo"
+    },
+    {
+      "tema": "CODIGO",
+      "subtema": "Modificación por decreto ley"
+    },
+    {
+      "tema": "LIQUIDACION DE ENTIDAD PUBLICA",
+      "subtema": "Igualdad de acreedores"
+    },
+    {
+      "tema": "FACULTADES EXTRAORDINARIAS",
+      "subtema": "Prohibición de expedir códigos"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "radicado": "C-172-01",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2001,
+  "fecha_creacion": "2001-02-14",
+  "magistrado_ponente": "Dr ALEJANDRO MARTÍNEZ CABALLERO",
+  "area": "Derecho Constitucional Económico",
+  "tema": "AUTONOMIA LEGISLATIVA EN MATERIA TRIBUTARIA",
+  "subtema": "Procedimientos",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 488 de 1998",
+    "Decreto 2067 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2001/C-172-01.htm",
+  "fecha_descarga": "2026-10-23T02:20:22.781120+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2001-02-14",
+  "fecha_publicacion": null,
+  "numero": "C-172/01",
+  "tipo_cc": "C",
+  "prov_id": "18666",
+  "tema_relatoria": "IMPUESTO DE VEHICULO AUTOMOTOR. COMPETENCIA PARA ADMINISTRACIÓN Y RECAUDO",
+  "resumen": "LEY 488 DE 1998. ART. 147. NORMAS EN MATERIA TRIBUTARIA Y DISPOSICIONES FISCALES DE ENTIDADES TERRITORIALES. RECAUDO FISCALIZACION LIQUIDACION OFICIAL DISCUSION COBRO Y DEVOLUCION DEL IMPUESTO SOBRE VEHICULOS AUTOMOTORES. COMPETENCIA. AUTONOMIA MUNICIPAL.",
+  "titulaciones": [
+    {
+      "tema": "AUTONOMIA LEGISLATIVA EN MATERIA TRIBUTARIA",
+      "subtema": "Procedimientos"
+    },
+    {
+      "tema": "AUTONOMIA LEGISLATIVA EN MATERIA TRIBUTARIA",
+      "subtema": "Límites por autonomía territorial"
+    },
+    {
+      "tema": "AUTONOMIA LEGISLATIVA EN MATERIA TRIBUTARIA",
+      "subtema": "Administración y recaudo"
+    },
+    {
+      "tema": "IMPUESTO DE VEHICULO AUTOMOTOR",
+      "subtema": "Competencia para administración y recaudo"
+    },
+    {
+      "tema": "IMPUESTO DE VEHICULO AUTOMOTOR",
+      "subtema": "Porcentaje a municipios"
+    },
+    {
+      "tema": "IMPUESTO DE VEHICULO AUTOMOTOR",
+      "subtema": "Naturaleza"
+    },
+    {
+      "tema": "PRINCIPIO DE EFICACIA DEL TRIBUTO",
+      "subtema": "Objeto"
+    }
+  ]
+}

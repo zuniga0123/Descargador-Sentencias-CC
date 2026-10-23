@@ -1,0 +1,45 @@
+{
+  "radicado": "C-145-01",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2001,
+  "fecha_creacion": "2001-02-07",
+  "magistrado_ponente": "Dr EDUARDO MONTEALEGRE LYNETT",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "CONTRIBUYENTE",
+  "subtema": "Improcedencia de recurso por reclasificación del régimen",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 49 de 1990",
+    "Decreto 2067 de 1991",
+    "Decreto 624 de 1989",
+    "Decreto 432 de 1969",
+    "Decreto 2304 de 1989"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/2001/C-145-01.htm",
+  "fecha_descarga": "2026-10-23T02:35:20.956644+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "2001-02-07",
+  "fecha_publicacion": null,
+  "numero": "C-145/01",
+  "tipo_cc": "C",
+  "prov_id": "18625",
+  "tema_relatoria": "COSA JUZGADA CONSTITUCIONAL EN RECLASIFICACIÓN DEL RÉGIMEN SIMPLIFICADO AL COMÚN",
+  "resumen": "LEY 49 DE 1990. ART. 43 QUE ADICIONO EL ART. 508-1 DEL ESTATUTO TRIBUTARIO. REPATRIACION DE CAPITALES. ESTIMULO DEL MERCADO ACCIONARIO. RECLASIFICIACION DEL REGIMEN SIMPLIFICADO AL COMUN. COSA JUZGADA CONSTITUCIONAL. ESTESE SENTENCIA 85/91 C.S.J.",
+  "titulaciones": [
+    {
+      "tema": "CONTRIBUYENTE",
+      "subtema": "Improcedencia de recurso por reclasificación del régimen"
+    },
+    {
+      "tema": "COSA JUZGADA CONSTITUCIONAL",
+      "subtema": "Reclasificación del régimen simplificado al común"
+    },
+    {
+      "tema": "REGIMEN COMUN AL SIMPLIFICADO",
+      "subtema": "Improcedencia de recurso por reclasificación"
+    }
+  ]
+}
