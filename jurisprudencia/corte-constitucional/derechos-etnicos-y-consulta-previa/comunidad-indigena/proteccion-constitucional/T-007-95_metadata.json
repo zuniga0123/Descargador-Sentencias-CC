@@ -1,0 +1,55 @@
+{
+  "radicado": "T-007-95",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1995,
+  "fecha_creacion": "1995-01-16",
+  "magistrado_ponente": "Antonio Barrera Carbonell",
+  "area": "Derechos Étnicos y Consulta Previa",
+  "tema": "COMUNIDAD INDIGENA",
+  "subtema": "Protección constitucional",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2818 de 1991",
+    "Decreto Ley 1780 de 1991",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1995/T-007-95.htm",
+  "fecha_descarga": "2026-10-23T07:56:04.377597+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1995-01-16",
+  "fecha_publicacion": null,
+  "numero": "T-007/95",
+  "tipo_cc": "T",
+  "prov_id": "12322",
+  "tema_relatoria": "DER. AL TRABAJO. DER. A LA SALUD. DER. A LA EDUCACION. CUMPLIMIENTO DE CONVENIO. COMUNIDAD WAYUU. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "COMUNIDAD INDIGENA",
+      "subtema": "Protección constitucional"
+    },
+    {
+      "tema": "COMUNIDAD WAYUU",
+      "subtema": "Protección estatal"
+    },
+    {
+      "tema": "COMUNIDAD WAYUU",
+      "subtema": "Protección de derechos fundamentales"
+    },
+    {
+      "tema": "CONVENIO CON EL ESTADO",
+      "subtema": "Incumplimiento"
+    },
+    {
+      "tema": "MEDIO DE DEFENSA JUDICIAL",
+      "subtema": "Eficacia"
+    },
+    {
+      "tema": "PRINCIPIO DE DIVERSIDAD ETNICA Y CULTURAL",
+      "subtema": "Protección constitucional"
+    }
+  ]
+}

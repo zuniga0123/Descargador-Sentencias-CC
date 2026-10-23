@@ -1,0 +1,45 @@
+{
+  "radicado": "T-035-95",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1995,
+  "fecha_creacion": "1995-02-06",
+  "magistrado_ponente": null,
+  "area": "Otros - Sin clasificar",
+  "tema": "SERVICIO PUBLICO DE EDUCACION",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1995/T-035-95.htm",
+  "fecha_descarga": "2026-10-23T07:48:08.791703+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1995-02-06",
+  "fecha_publicacion": null,
+  "numero": "T-035/95",
+  "tipo_cc": "T",
+  "prov_id": "12353",
+  "tema_relatoria": "DER. A LA EDUCACION. REGLAMENTO INTERNO DE PLANTEL EDUCATIVO. BAJO PROMEDIO ESCOLAR. COLEGIO MARY MOUNT. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "SERVICIO PUBLICO DE EDUCACION",
+      "subtema": null
+    },
+    {
+      "tema": "COLEGIO MARYMOUNT",
+      "subtema": "Exigencias académicas"
+    },
+    {
+      "tema": "REGLAMENTO EDUCATIVO",
+      "subtema": null
+    },
+    {
+      "tema": "ESTUDIANTE",
+      "subtema": "Promedio de notas"
+    }
+  ]
+}

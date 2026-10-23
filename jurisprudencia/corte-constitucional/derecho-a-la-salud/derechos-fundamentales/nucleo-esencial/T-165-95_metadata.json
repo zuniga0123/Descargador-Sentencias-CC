@@ -1,0 +1,51 @@
+{
+  "radicado": "T-165-95",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1995,
+  "fecha_creacion": "1995-04-19",
+  "magistrado_ponente": "Dr VLADIMIRO NARANJO MESA Temas Derechos",
+  "area": "Derecho a la Salud",
+  "tema": "DERECHOS FUNDAMENTALES",
+  "subtema": "Núcleo esencial",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Ley 20 de 1987",
+    "Decreto 237 de 1987"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1995/T-165-95.htm",
+  "fecha_descarga": "2026-10-23T07:52:30.658287+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1995-04-19",
+  "fecha_publicacion": null,
+  "numero": "T-165/95",
+  "tipo_cc": "T",
+  "prov_id": "12501",
+  "tema_relatoria": "DER. A LA VIDA. DER. A LA SALUD. DER. A LA SEGURIDAD SOCIAL. TRASPLANTE DE MEDULA OSEA EN EL EXTERIOR. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHOS FUNDAMENTALES",
+      "subtema": "Núcleo esencial"
+    },
+    {
+      "tema": "DERECHO A LA VIDA",
+      "subtema": "Protección"
+    },
+    {
+      "tema": "DERECHO A LA VIDA DEL NIÑO",
+      "subtema": "Prevalencia"
+    },
+    {
+      "tema": "DERECHO A LA SALUD DE NIÑOS, NIÑAS Y ADOLESCENTES",
+      "subtema": "Atención médica en el exterior"
+    },
+    {
+      "tema": "DERECHO A LA SALUD DE NIÑOS, NIÑAS Y ADOLESCENTES",
+      "subtema": "Prevalencia"
+    }
+  ]
+}

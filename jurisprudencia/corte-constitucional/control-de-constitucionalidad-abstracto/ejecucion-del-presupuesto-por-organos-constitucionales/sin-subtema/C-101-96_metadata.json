@@ -1,0 +1,52 @@
+{
+  "radicado": "C-101-96",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1996,
+  "fecha_creacion": "1996-03-07",
+  "magistrado_ponente": "Dr EDUARDO CIFUENTES MUÑOZ",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "EJECUCION DEL PRESUPUESTO POR ORGANOS CONSTITUCIONALES",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 179 de 1994",
+    "Ley 38 de 1989",
+    "Decreto 360 de 1995",
+    "Ley 42 de 1993"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1996/C-101-96.htm",
+  "fecha_descarga": "2026-10-23T07:37:14.679575+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1996-03-07",
+  "fecha_publicacion": null,
+  "numero": "C-101/96",
+  "tipo_cc": "C",
+  "prov_id": "13116",
+  "tema_relatoria": "LEY 179/94. AT. 51 PARCIAL. MODIFICACIONES A LA LEY 38/89 ORGANICA DEL PRESUPUESTO. AUTONOMIA PRESUPUESTAL. EXEQUIBLE.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "EJECUCION DEL PRESUPUESTO POR ORGANOS CONSTITUCIONALES",
+      "subtema": null
+    },
+    {
+      "tema": "AUTONOMIA PRESUPUESTAL",
+      "subtema": null
+    },
+    {
+      "tema": "AUTONOMIA PRESUPUESTAL DE ORGANOS DEL ESTADO",
+      "subtema": "El legislador puede fijarla"
+    },
+    {
+      "tema": "OMISION LEGISLATIVA",
+      "subtema": "No deriva necesariamente en inconstitucionalidad"
+    },
+    {
+      "tema": "ORDENADOR DEL GASTO",
+      "subtema": "Concepto"
+    }
+  ]
+}

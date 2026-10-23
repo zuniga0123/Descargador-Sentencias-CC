@@ -1,0 +1,45 @@
+{
+  "radicado": "T-020-95",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1995,
+  "fecha_creacion": "1995-02-01",
+  "magistrado_ponente": "Alejandro Martinez Caballero",
+  "area": "Derecho de Familia y Derechos de Niños, Niñas y Adolescentes",
+  "tema": "MENOR ENFERMO",
+  "subtema": "Curación",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Decreto 770 de 1975",
+    "Decreto 2067 de 1991",
+    "Decreto 1938 de 1994",
+    "Decreto 888 de 1988"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1995/T-020-95.htm",
+  "fecha_descarga": "2026-10-23T07:50:01.396082+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1995-02-01",
+  "fecha_publicacion": null,
+  "numero": "T-020/95",
+  "tipo_cc": "T",
+  "prov_id": "12338",
+  "tema_relatoria": "PROTECCION DE LOS NIÑOS CON PARALISIS CEREBRAL Y SINDROME DE DAWN. INTERPRETACION JURIDICA DEL CONCEPTO DE CURACION. CONCEDIDA PARCIALMENTE.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "MENOR ENFERMO",
+      "subtema": "Curación"
+    },
+    {
+      "tema": "MENOR DE EDAD",
+      "subtema": "Protección"
+    },
+    {
+      "tema": "INSTITUTO DE SEGUROS SOCIALES",
+      "subtema": "Cobertura familiar"
+    }
+  ]
+}

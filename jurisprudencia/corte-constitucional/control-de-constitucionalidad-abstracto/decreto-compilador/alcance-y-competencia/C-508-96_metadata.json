@@ -1,0 +1,53 @@
+{
+  "radicado": "C-508-96",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1996,
+  "fecha_creacion": "1996-10-08",
+  "magistrado_ponente": "Dr ALEJANDRO MARTÍNEZ CABALLERO",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "DECRETO COMPILADOR",
+  "subtema": "Alcance y competencia",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 225 de 1995",
+    "Decreto 111 de 1996",
+    "Ley 38 de 1989",
+    "Ley 179 de 1994",
+    "Decreto 360 de 1995"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1996/C-508-96.htm",
+  "fecha_descarga": "2026-10-23T07:39:26.789582+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1996-10-08",
+  "fecha_publicacion": null,
+  "numero": "C-508/96",
+  "tipo_cc": "C",
+  "prov_id": "13566",
+  "tema_relatoria": "LEY 225/95. ART. 28. DEC. 111/96. ART. 106. LEY ORGANICA DE PRESUPUESTO. GASTOS DE FUNCIONAMIENTO DE CONTRALORIAS Y PERSONERIAS DISTRITALES Y MPALES. EXEQ.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DECRETO COMPILADOR",
+      "subtema": "Alcance y competencia"
+    },
+    {
+      "tema": "AUTONOMIA PRESUPUESTAL AMPLIADA",
+      "subtema": "Naturaleza"
+    },
+    {
+      "tema": "UNIDAD PRESUPUESTAL",
+      "subtema": null
+    },
+    {
+      "tema": "PRESUPUESTO PARA GASTOS DE FUNCIONAMIENTO MUNICIPAL",
+      "subtema": "Competencia legislativa para regulación"
+    },
+    {
+      "tema": "GASTOS DE FUNCIONAMIENTO DE CONTRALORIAS MUNICIPALES Y DISTRITALES",
+      "subtema": "Facultad legislativa para establecer límites"
+    }
+  ]
+}

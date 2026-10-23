@@ -1,0 +1,60 @@
+{
+  "radicado": "C-562-96",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1996,
+  "fecha_creacion": "1996-10-24",
+  "magistrado_ponente": "Dr ALEJANDRO MARTÍNEZ CABALLERO",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "ESCALAFON NACIONAL DOCENTE EN ZONA DE DIFICIL ACCESO",
+  "subtema": "Vinculación automática de bachilleres",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 115 de 1994",
+    "Decreto Ley 2150 de 1995",
+    "Ley 60 de 1993",
+    "Ley 190 de 1995",
+    "Decreto Ley 2277 de 1979",
+    "Ley 30 de 1992",
+    "Decreto 2150 de 1995",
+    "Ley 105 de 1993"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1996/C-562-96.htm",
+  "fecha_descarga": "2026-10-23T07:40:13.736830+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1996-10-24",
+  "fecha_publicacion": null,
+  "numero": "C-562/96",
+  "tipo_cc": "C",
+  "prov_id": "13630",
+  "tema_relatoria": "DEC. 2150/95. ART. 129 PARAGRAFO. LEY 115/94. ART. 105 PARCIAL. CARRERA ADTIVA. INGRESO AL ESCALAFON DOCENTE. EXEQUIBLE E INEXEQUIBLE.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ESCALAFON NACIONAL DOCENTE EN ZONA DE DIFICIL ACCESO",
+      "subtema": "Vinculación automática de bachilleres"
+    },
+    {
+      "tema": "IGUALDAD EN CARRERA DOCENTE EN ZONA DE DIFICIL ACCESO",
+      "subtema": "Vulneración"
+    },
+    {
+      "tema": "CARRERA DOCENTE EN ZONA DE DIFICIL ACCESO",
+      "subtema": "Incorporación excepcional de bachilleres"
+    },
+    {
+      "tema": "EXCESO DE FACULTADES EXTRAORDINARIAS",
+      "subtema": "Modificación vinculación personal docente"
+    },
+    {
+      "tema": "FACULTADES EXTRAORDINARIAS",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "TRATAMIENTO DIFERENCIADO",
+      "subtema": "Justificación condicionada"
+    }
+  ]
+}

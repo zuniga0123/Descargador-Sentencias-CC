@@ -1,0 +1,50 @@
+{
+  "radicado": "C-333-96",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1996,
+  "fecha_creacion": "1996-08-01",
+  "magistrado_ponente": "Dr ALEJANDRO MARTÍNEZ CABALLERO",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "RESPONSABILIDAD CONTRACTUAL DEL ESTADO",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 80 de 1993",
+    "Ley 104 de 1993"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1996/C-333-96.htm",
+  "fecha_descarga": "2026-10-23T07:41:38.380291+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1996-08-01",
+  "fecha_publicacion": null,
+  "numero": "C-333/96",
+  "tipo_cc": "C",
+  "prov_id": "13378",
+  "tema_relatoria": "LEY 80/93. ART. 50 PARCIAL. RESP. PATRIMONIAL DEL ESTADO. DAÑO Y CONDUCTA ANTIJURIDICA. RESP. CONTRACTUAL DEL ESTADO. EXEQUIBLE.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "RESPONSABILIDAD CONTRACTUAL DEL ESTADO",
+      "subtema": null
+    },
+    {
+      "tema": "RESPONSABILIDAD EXTRACONTRACTUAL",
+      "subtema": null
+    },
+    {
+      "tema": "RESPONSABILIDAD CONTRACTUAL",
+      "subtema": null
+    },
+    {
+      "tema": "DAÑO ANTIJURIDICO",
+      "subtema": "Concepto"
+    },
+    {
+      "tema": "RESPONSABILIDAD PATRIMONIAL DEL ESTADO",
+      "subtema": "Alcance"
+    }
+  ]
+}

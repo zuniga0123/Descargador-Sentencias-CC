@@ -1,0 +1,44 @@
+{
+  "radicado": "C-636-96",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1996,
+  "fecha_creacion": "1996-11-21",
+  "magistrado_ponente": "Dr HERNANDO HERRERA VERGARA",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "SALA DE CONSULTA Y SERVICIO CIVIL",
+  "subtema": "Funciones",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 1 de 1984",
+    "Ley 270 de 1996",
+    "Decreto 4120 de 1949",
+    "Decreto 2067 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1996/C-636-96.htm",
+  "fecha_descarga": "2026-10-23T07:38:32.052489+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1996-11-21",
+  "fecha_publicacion": null,
+  "numero": "C-636/96",
+  "tipo_cc": "C",
+  "prov_id": "13710",
+  "tema_relatoria": "DEC. 01/84. ART. 98 PARC. INTEGRACION Y ATRIBUCIONES DE LA SALA DE CONSULTA Y SERVICIO CIVIL. EXEQUIBLE SALVO UNA EXPRESION.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "SALA DE CONSULTA Y SERVICIO CIVIL",
+      "subtema": "Funciones"
+    },
+    {
+      "tema": "SALA DE CONSULTA Y SERVICIO CIVIL",
+      "subtema": "Integración y composición"
+    },
+    {
+      "tema": "SENTENCIA INHIBITORIA",
+      "subtema": "Carencia de objeto"
+    }
+  ]
+}

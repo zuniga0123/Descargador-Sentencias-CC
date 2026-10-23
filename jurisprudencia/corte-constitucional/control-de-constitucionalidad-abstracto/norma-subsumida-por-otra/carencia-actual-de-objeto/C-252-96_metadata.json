@@ -1,0 +1,41 @@
+{
+  "radicado": "C-252-96",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1996,
+  "fecha_creacion": "1996-06-06",
+  "magistrado_ponente": "Dr JOSE GREGORIO HERNANDEZ GALINDO",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "NORMA SUBSUMIDA POR OTRA",
+  "subtema": "Carencia actual de objeto",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 225 de 1995",
+    "Ley 179 de 1994",
+    "Ley 174 de 1994",
+    "Ley 38 de 1989",
+    "Decreto 2067 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1996/C-252-96.htm",
+  "fecha_descarga": "2026-10-23T07:35:06.046064+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1996-06-06",
+  "fecha_publicacion": null,
+  "numero": "C-252/96",
+  "tipo_cc": "C",
+  "prov_id": "13283",
+  "tema_relatoria": "LEY 179/94. ART. 12 PARCIAL. CONTRIBUCIONES PARAFISCALES. CARENCIA DE OBJETO. SENTENCIA INHIBITORIA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "NORMA SUBSUMIDA POR OTRA",
+      "subtema": "Carencia actual de objeto"
+    },
+    {
+      "tema": "DEFINICION LEGAL",
+      "subtema": "Carácter imperativo"
+    }
+  ]
+}

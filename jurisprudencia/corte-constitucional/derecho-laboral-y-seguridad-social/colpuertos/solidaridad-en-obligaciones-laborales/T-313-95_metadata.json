@@ -1,0 +1,64 @@
+{
+  "radicado": "T-313-95",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1995,
+  "fecha_creacion": "1995-07-19",
+  "magistrado_ponente": "Alejandro Martinez Caballero",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "COLPUERTOS",
+  "subtema": "Solidaridad en obligaciones laborales",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 36 de 1992",
+    "Decreto 2350 de 1944",
+    "Decreto 2351 de 1965",
+    "Ley 100 de 1993",
+    "Decreto 1848 de 1969",
+    "Ley 151 de 1959",
+    "Decreto 2591 de 1991",
+    "Decreto 1346 de 1994"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1995/T-313-95.htm",
+  "fecha_descarga": "2026-10-23T07:47:03.052486+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1995-07-19",
+  "fecha_publicacion": null,
+  "numero": "T-313/95",
+  "tipo_cc": "T",
+  "prov_id": "12674",
+  "tema_relatoria": "PENSION DE INVALIDEZ. REVISIONES MEDICAS. PENSIONES EXTRA-LEGALES EN COLPUERTOS. NEGADA",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "COLPUERTOS",
+      "subtema": "Solidaridad en obligaciones laborales"
+    },
+    {
+      "tema": "COLPUERTOS",
+      "subtema": null
+    },
+    {
+      "tema": "PENSIONES CONVENCIONALES",
+      "subtema": null
+    },
+    {
+      "tema": "PENSIÓN DE INVALIDEZ",
+      "subtema": "Fundamental"
+    },
+    {
+      "tema": "PENSIÓN DE INVALIDEZ",
+      "subtema": "Inexistencia de incapacidad"
+    },
+    {
+      "tema": "ENRIQUECIMIENTO SIN CAUSA",
+      "subtema": "Conducta ilícita"
+    },
+    {
+      "tema": "PENSIÓN DE INVALIDEZ",
+      "subtema": "Revisiones médicas"
+    }
+  ]
+}

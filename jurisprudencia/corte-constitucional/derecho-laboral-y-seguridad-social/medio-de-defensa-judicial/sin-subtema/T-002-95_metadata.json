@@ -1,0 +1,50 @@
+{
+  "radicado": "T-002-95",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1995,
+  "fecha_creacion": "1995-01-16",
+  "magistrado_ponente": "Dr JOSE GREGORIO HERNANDEZ GALINDO",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "MEDIO DE DEFENSA JUDICIAL",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 758 de 1990",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1995/T-002-95.htm",
+  "fecha_descarga": "2026-10-23T07:49:31.987123+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1995-01-16",
+  "fecha_publicacion": null,
+  "numero": "T-002/95",
+  "tipo_cc": "T",
+  "prov_id": "12317",
+  "tema_relatoria": "DER. A LA SEGURIDAD SOCIAL. DER. A LA SALUD. MEDIO DE DEFENSA JUDICIAL. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "MEDIO DE DEFENSA JUDICIAL",
+      "subtema": null
+    },
+    {
+      "tema": "DERECHO A LA SEGURIDAD SOCIAL",
+      "subtema": null
+    },
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": null
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Improcedencia"
+    },
+    {
+      "tema": "PENSIÓN DE INVALIDEZ",
+      "subtema": "No reconocimiento"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "radicado": "T-068-95",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1995,
+  "fecha_creacion": "1995-02-22",
+  "magistrado_ponente": "Hernando Herrera Vergara",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "FALLO DE TUTELA",
+  "subtema": "Revisión en el efecto devolutivo",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1995/T-068-95.htm",
+  "fecha_descarga": "2026-10-23T07:48:37.735240+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1995-02-22",
+  "fecha_publicacion": null,
+  "numero": "T-068/95",
+  "tipo_cc": "T",
+  "prov_id": "12392",
+  "tema_relatoria": "DEBIDO PROCESO. EFECTO DEVOLUTIVO DE LA APELACION DE SENTENCIAS DE TUTELA. FALLO DE TUTELA. CUMPLIMIENTO INMEDIATO. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "FALLO DE TUTELA",
+      "subtema": "Revisión en el efecto devolutivo"
+    },
+    {
+      "tema": "FALLO DE TUTELA",
+      "subtema": "Apelación en el efecto devolutivo"
+    },
+    {
+      "tema": "FALLO DE TUTELA",
+      "subtema": "Cumplimiento inmediato"
+    }
+  ]
+}

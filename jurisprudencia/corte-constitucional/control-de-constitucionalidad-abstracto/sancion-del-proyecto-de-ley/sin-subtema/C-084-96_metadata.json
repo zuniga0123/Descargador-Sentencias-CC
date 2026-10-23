@@ -1,0 +1,55 @@
+{
+  "radicado": "C-084-96",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1996,
+  "fecha_creacion": "1996-02-29",
+  "magistrado_ponente": "Dr CARLOS GAVIRIA DÍAZ",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "SANCION DEL PROYECTO DE LEY",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 192 de 1995",
+    "Decreto 2651 de 1991",
+    "Ley 57 de 1985"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1996/C-084-96.htm",
+  "fecha_descarga": "2026-10-23T07:37:03.806631+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1996-02-29",
+  "fecha_publicacion": null,
+  "numero": "C-084/96",
+  "tipo_cc": "C",
+  "prov_id": "13097",
+  "tema_relatoria": "LEY 192/95. ART. 2. VIGENCIA DE LA LEY. EXEQUIBLE.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "SANCION DEL PROYECTO DE LEY",
+      "subtema": null
+    },
+    {
+      "tema": "PROMULGACION DE LA LEY",
+      "subtema": null
+    },
+    {
+      "tema": "VIGENCIA DE LA LEY",
+      "subtema": null
+    },
+    {
+      "tema": "OBJECION PRESIDENCIAL",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "LEY",
+      "subtema": "Fijación de fecha en que empieza a regir"
+    },
+    {
+      "tema": "VIGENCIA DE LA LEY",
+      "subtema": "Señalamiento por el legislador"
+    }
+  ]
+}

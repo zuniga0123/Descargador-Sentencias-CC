@@ -1,0 +1,45 @@
+{
+  "radicado": "T-516-95",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1995,
+  "fecha_creacion": "1995-11-15",
+  "magistrado_ponente": "Dr FABIO MORON DIAZ",
+  "area": "Derecho Constitucional Económico",
+  "tema": "DEMANDA DE TUTELA",
+  "subtema": "Contrato de préstamo para vivienda",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1995/T-516-95.htm",
+  "fecha_descarga": "2026-10-23T07:50:19.756412+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1995-11-15",
+  "fecha_publicacion": null,
+  "numero": "T-516/95",
+  "tipo_cc": "T",
+  "prov_id": "12889",
+  "tema_relatoria": "DER. A LA VIVIENDA. IMPROCEDENCIA DE LA TUTELA EN EL CASO DE OBLIG. QUE SURGEN DE UN CONTRATO DE DER. PRIVADO. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DEMANDA DE TUTELA",
+      "subtema": "Contrato de préstamo para vivienda"
+    },
+    {
+      "tema": "TRANSACCION",
+      "subtema": "Pago de crédito para vivienda"
+    },
+    {
+      "tema": "DERECHO A LA VIVIENDA",
+      "subtema": "Renegociación de crédito"
+    },
+    {
+      "tema": "DERECHO A LA IGUALDAD",
+      "subtema": "Pago de crédito para vivienda"
+    }
+  ]
+}

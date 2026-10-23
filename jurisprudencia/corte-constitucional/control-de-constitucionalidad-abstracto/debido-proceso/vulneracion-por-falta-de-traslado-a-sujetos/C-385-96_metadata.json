@@ -1,0 +1,49 @@
+{
+  "radicado": "C-385-96",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1996,
+  "fecha_creacion": "1996-08-22",
+  "magistrado_ponente": "Dr ANTONIO BARRERA CARBONELL",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "DEBIDO PROCESO",
+  "subtema": "Vulneración por falta de traslado a sujetos",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 270 de 1996"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1996/C-385-96.htm",
+  "fecha_descarga": "2026-10-23T07:42:15.425758+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1996-08-22",
+  "fecha_publicacion": null,
+  "numero": "C-385/96",
+  "tipo_cc": "C",
+  "prov_id": "13438",
+  "tema_relatoria": "LEY 5/92. ARTS. 339 INC. 2; 340 PARCIAL 341342 Y 343. REGALMENTO DEL CONGRESO EN MATERIA DE INVESTIGACION. EXEQUIBLE. VER C-222/96 . INBITORIA 343.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DEBIDO PROCESO",
+      "subtema": "Vulneración por falta de traslado a sujetos"
+    },
+    {
+      "tema": "AUTO DE CIERRE DE INVESTIGACION",
+      "subtema": "Traslado"
+    },
+    {
+      "tema": "FUNCION JUDICIAL DEL CONGRESO DE LA REPUBLICA EN PROCESOS CONTRA ALTOS FUNCIONARIOS",
+      "subtema": null
+    },
+    {
+      "tema": "CAMARA DE REPRESENTANTES",
+      "subtema": "Cesación de procedimiento"
+    },
+    {
+      "tema": "AUTO DE CIERRE DE INVESTIGACION",
+      "subtema": "Improcedencia de recursos"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "radicado": "T-299-95",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1995,
+  "fecha_creacion": "1995-07-11",
+  "magistrado_ponente": "Alejandro Martinez Caballlero",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "PRINCIPIO DE LA BUENA FE",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Decreto 966 de 1967"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1995/T-299-95.htm",
+  "fecha_descarga": "2026-10-23T07:46:37.314489+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1995-07-11",
+  "fecha_publicacion": null,
+  "numero": "T-299/95",
+  "tipo_cc": "T",
+  "prov_id": "12651",
+  "tema_relatoria": "DER. DE PETICION. CERTIFICACION POR EL MIN. DE DEFENSA SOBRE EL TIEMPO DE SERVICIO MILITAR PRESTADO. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "PRINCIPIO DE LA BUENA FE",
+      "subtema": null
+    },
+    {
+      "tema": "DERECHO DE PETICIÓN",
+      "subtema": "Pronta resolución"
+    },
+    {
+      "tema": "FUNCION ADMINISTRATIVA",
+      "subtema": "Eficacia"
+    },
+    {
+      "tema": "DERECHO A OBTENER COPIAS",
+      "subtema": null
+    },
+    {
+      "tema": "DERECHO DE ACCESO A DOCUMENTOS PUBLICOS",
+      "subtema": null
+    },
+    {
+      "tema": "DERECHO DE PETICIÓN",
+      "subtema": null
+    },
+    {
+      "tema": "NEGLIGENCIA ADMINISTRATIVA",
+      "subtema": "No expedición de certificación"
+    },
+    {
+      "tema": "SERVICIO MILITAR",
+      "subtema": "Certificación de tiempo"
+    }
+  ]
+}

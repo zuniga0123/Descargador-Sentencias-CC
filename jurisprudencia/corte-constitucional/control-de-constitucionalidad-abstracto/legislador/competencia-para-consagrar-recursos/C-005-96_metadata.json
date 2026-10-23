@@ -1,0 +1,68 @@
+{
+  "radicado": "C-005-96",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1996,
+  "fecha_creacion": "1996-01-18",
+  "magistrado_ponente": "Dr JOSE GREGORIO HERNANDEZ GALINDO",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "LEGISLADOR",
+  "subtema": "Competencia para consagrar recursos",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 153 de 1887",
+    "Ley 57 de 1887",
+    "Ley 14 de 1988",
+    "Decreto 2067 de 1991",
+    "Decreto Ley 2304 de 1989",
+    "Ley 11 de 1975",
+    "Decreto 1 de 1984",
+    "Decreto 528 de 1964",
+    "Ley 96 de 1985",
+    "Decreto Ley 2288 de 1989",
+    "Decreto 2304 de 1984",
+    "Decreto 2304 de 1989",
+    "Decreto 2288 de 1989",
+    "Ley 14 de 1989",
+    "Decreto Ley 1 de 1984",
+    "Decreto 597 de 1988"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1996/C-005-96.htm",
+  "fecha_descarga": "2026-10-23T07:35:28.404617+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1996-01-18",
+  "fecha_publicacion": null,
+  "numero": "C-005/96",
+  "tipo_cc": "C",
+  "prov_id": "13012",
+  "tema_relatoria": "LEY 14/88. ART. 6 INC. 2. IMPROCEDENCIA DE RECURSOS ANTE LA SALA PLENA CONTRA LAS SENTENCIAS DE LA SECCION QUINTA DEL CONSEJO DE ESTADO. INEXEQUIBLE.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "LEGISLADOR",
+      "subtema": "Competencia para consagrar recursos"
+    },
+    {
+      "tema": "PRINCIPIO DE IGUALDAD",
+      "subtema": "Discriminaciones legales injustificadas"
+    },
+    {
+      "tema": "NORMA COMPLEMENTARIA",
+      "subtema": null
+    },
+    {
+      "tema": "PREVALENCIA DE LEY POSTERIOR",
+      "subtema": null
+    },
+    {
+      "tema": "PREVALENCIA DE LEY ESPECIAL",
+      "subtema": null
+    },
+    {
+      "tema": "RECURSO DE SUPLICA CONTRA SENTENCIA DE SECCION QUINTA DEL CONSEJO DE ESTADO",
+      "subtema": "Procedencia"
+    }
+  ]
+}

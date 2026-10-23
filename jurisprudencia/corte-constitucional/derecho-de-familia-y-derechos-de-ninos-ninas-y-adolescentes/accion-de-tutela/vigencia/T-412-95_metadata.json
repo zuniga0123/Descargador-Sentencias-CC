@@ -1,0 +1,59 @@
+{
+  "radicado": "T-412-95",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1995,
+  "fecha_creacion": "1995-09-14",
+  "magistrado_ponente": "Alejandro Martinez Caballero",
+  "area": "Derecho de Familia y Derechos de Niños, Niñas y Adolescentes",
+  "tema": "ACCIÓN DE TUTELA",
+  "subtema": "Vigencia",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2737 de 1989",
+    "Decreto 2591 de 1991",
+    "Ley 57 de 1985"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1995/T-412-95.htm",
+  "fecha_descarga": "2026-10-23T07:53:10.322390+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1995-09-14",
+  "fecha_publicacion": null,
+  "numero": "T-412/95",
+  "tipo_cc": "T",
+  "prov_id": "12779",
+  "tema_relatoria": "PROCESO DE ADOPCION. DECLARATORIA DE ABANDONO. RESERVA DE DOCUMENTOS. PROCEDIMIENTO ANTERIOR A LA CONSTITUCION DEL 91. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Vigencia"
+    },
+    {
+      "tema": "INTERÉS SUPERIOR DE LOS NIÑOS, NIÑAS Y ADOLESCENTES",
+      "subtema": null
+    },
+    {
+      "tema": "MEDIDAS PROVISIONALES PARA PROTEGER UN DERECHO",
+      "subtema": null
+    },
+    {
+      "tema": "PROCESO DE ADOPCION",
+      "subtema": null
+    },
+    {
+      "tema": "DECLARACION DE ABANDONO",
+      "subtema": null
+    },
+    {
+      "tema": "DOCUMENTO RESERVADO",
+      "subtema": "Trámite de adopción"
+    },
+    {
+      "tema": "DERECHO A LA INTIMIDAD PERSONAL Y FAMILIAR",
+      "subtema": "Menor dado en adopción"
+    }
+  ]
+}

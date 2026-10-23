@@ -1,0 +1,37 @@
+{
+  "radicado": "T-176-95",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1995,
+  "fecha_creacion": "1995-04-24",
+  "magistrado_ponente": "Dr EDUARDO CIFUENTES MUÑOZ Temas",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "CADUCIDAD DEL DATO",
+  "subtema": "Límite temporal",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1995/T-176-95.htm",
+  "fecha_descarga": "2026-10-23T07:52:45.051989+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1995-04-24",
+  "fecha_publicacion": null,
+  "numero": "T-176/95",
+  "tipo_cc": "T",
+  "prov_id": "12513",
+  "tema_relatoria": "HABEAS DATA. CADUCIDAD DEL DATO- TERMINO DE VIGENCIA. DATACREDITO. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "CADUCIDAD DEL DATO",
+      "subtema": "Límite temporal"
+    },
+    {
+      "tema": "HABEAS DATA",
+      "subtema": "Vulneración"
+    }
+  ]
+}

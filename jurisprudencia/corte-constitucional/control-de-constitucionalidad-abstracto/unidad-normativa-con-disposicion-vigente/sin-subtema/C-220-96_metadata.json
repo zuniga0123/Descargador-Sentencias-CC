@@ -1,0 +1,49 @@
+{
+  "radicado": "C-220-96",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1996,
+  "fecha_creacion": "1996-05-16",
+  "magistrado_ponente": "Dr CARLOS GAVIRIA DIAZ",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "UNIDAD NORMATIVA CON DISPOSICION VIGENTE",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 14 de 1983",
+    "Ley 75 de 1986",
+    "Decreto 1333 de 1986",
+    "Decreto Ley 1333 de 1986",
+    "Ley 97 de 1913"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1996/C-220-96.htm",
+  "fecha_descarga": "2026-10-23T07:34:14.916391+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1996-05-16",
+  "fecha_publicacion": null,
+  "numero": "C-220/96",
+  "tipo_cc": "C",
+  "prov_id": "13248",
+  "tema_relatoria": "LEY 14/83. ART. 36 PARCIAL. FISCOS DE ENTIDADES TERRITORIALES. EXEQUIBLE.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "UNIDAD NORMATIVA CON DISPOSICION VIGENTE",
+      "subtema": null
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD CONTRA NORMAS QUE REGIAN ANTES DE SER INCORPORADAS A UN CODIGO",
+      "subtema": "Cambio de jurisprudencia"
+    },
+    {
+      "tema": "PRINCIPIO DE LEGALIDAD DEL TRIBUTO",
+      "subtema": "No se vulnera con expresión \"análogas\""
+    },
+    {
+      "tema": "IMPUESTO DE INDUSTRIA Y COMERCIO",
+      "subtema": "Naturaleza"
+    }
+  ]
+}

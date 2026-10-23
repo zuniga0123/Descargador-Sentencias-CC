@@ -1,0 +1,46 @@
+{
+  "radicado": "T-212-95",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1995,
+  "fecha_creacion": "1995-05-15",
+  "magistrado_ponente": null,
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "DEBIDO PROCESO",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 81 de 1993"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1995/T-212-95.htm",
+  "fecha_descarga": "2026-10-23T07:47:32.514564+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1995-05-15",
+  "fecha_publicacion": null,
+  "numero": "T-212/95",
+  "tipo_cc": "T",
+  "prov_id": "12553",
+  "tema_relatoria": "DEBIDO PROCESO. SUSTENTACION DE LA APELACION EN EL PROCESO PENAL. PENA PRIVATIVA DE LA LIBERTAD. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DEBIDO PROCESO",
+      "subtema": null
+    },
+    {
+      "tema": "VIA DE HECHO",
+      "subtema": null
+    },
+    {
+      "tema": "PRINCIPIO DE LA DOBLE INSTANCIA",
+      "subtema": null
+    },
+    {
+      "tema": "RECURSO DE APELACION",
+      "subtema": "Sustentación"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "radicado": "T-440-95",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1995,
+  "fecha_creacion": "1995-10-02",
+  "magistrado_ponente": "Antonio Barrera Carbonell",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "DERECHO A LA IGUALDAD",
+  "subtema": "Protección constitucional",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 182 de 1948",
+    "Ley 16 de 1985"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1995/T-440-95.htm",
+  "fecha_descarga": "2026-10-23T07:56:40.724450+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1995-10-02",
+  "fecha_publicacion": null,
+  "numero": "T-440/95",
+  "tipo_cc": "T",
+  "prov_id": "12807",
+  "tema_relatoria": "CONTROVERSIAS SOBRE PROPIEDAD HORIZONTAL. CONSTRUCCION DE OBRAS EN EL PEÑON. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA IGUALDAD",
+      "subtema": "Protección constitucional"
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA JUNTA DIRECTIVA CONDOMINIO CAMPESTRE EL PEÑON",
+      "subtema": "Improcedencia"
+    },
+    {
+      "tema": "DERECHO A LA PROPIEDAD",
+      "subtema": "Fundamental por conexidad"
+    }
+  ]
+}

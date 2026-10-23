@@ -1,0 +1,49 @@
+{
+  "radicado": "T-003-95",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1995,
+  "fecha_creacion": "1995-01-16",
+  "magistrado_ponente": "Dr JOSE GREGORIO HERNANDEZ GALINDO",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCION DE TUTELA CONTRA EL RUIDO",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1995/T-003-95.htm",
+  "fecha_descarga": "2026-10-23T07:49:35.620597+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1995-01-16",
+  "fecha_publicacion": null,
+  "numero": "T-003/95",
+  "tipo_cc": "T",
+  "prov_id": "12318",
+  "tema_relatoria": "TUTELA CONTRA PARTICULARES. LIMITES A LA LIBERTAD DE CULTOS. DER. A LA TRANQUILIDAD. IGLESIA EVANGELICA. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCION DE TUTELA CONTRA EL RUIDO",
+      "subtema": null
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA PARTICULARES",
+      "subtema": null
+    },
+    {
+      "tema": "DERECHO A LA TRANQUILIDAD",
+      "subtema": "Vulneración"
+    },
+    {
+      "tema": "LIBERTAD DE CULTOS",
+      "subtema": "Límites"
+    },
+    {
+      "tema": "INTERES GENERAL",
+      "subtema": "Vulneración"
+    }
+  ]
+}

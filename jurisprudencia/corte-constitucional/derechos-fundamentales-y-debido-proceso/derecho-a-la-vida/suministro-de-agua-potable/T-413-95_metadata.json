@@ -1,0 +1,45 @@
+{
+  "radicado": "T-413-95",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1995,
+  "fecha_creacion": "1995-09-13",
+  "magistrado_ponente": "Alejandro Martinez Caballero",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "DERECHO A LA VIDA",
+  "subtema": "Suministro de agua potable",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1995/T-413-95.htm",
+  "fecha_descarga": "2026-10-23T07:53:13.907313+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1995-09-13",
+  "fecha_publicacion": null,
+  "numero": "T-413/95",
+  "tipo_cc": "T",
+  "prov_id": "12777",
+  "tema_relatoria": "SERVICIOS PUBLICOS DOMICILIARIOS. AGUA POTABLE. PREFERENCIA PARA EL USO DOMESTICO. FONTANEROS. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA VIDA",
+      "subtema": "Suministro de agua potable"
+    },
+    {
+      "tema": "SERVICIO PUBLICO DE ACUEDUCTO",
+      "subtema": "Prioridad para consumo humano"
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA PARTICULARES",
+      "subtema": "Suministro de agua potable"
+    },
+    {
+      "tema": "FONTANERO",
+      "subtema": "Operador del servicio público"
+    }
+  ]
+}

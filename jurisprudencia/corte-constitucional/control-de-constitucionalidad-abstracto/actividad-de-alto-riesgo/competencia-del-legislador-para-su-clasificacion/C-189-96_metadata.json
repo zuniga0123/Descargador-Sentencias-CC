@@ -1,0 +1,46 @@
+{
+  "radicado": "C-189-96",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1996,
+  "fecha_creacion": "1996-05-08",
+  "magistrado_ponente": "Dr JORGE ARANGO MEJÍA",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "ACTIVIDAD DE ALTO RIESGO",
+  "subtema": "Competencia del legislador para su clasificación",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 1266 de 1994",
+    "Ley 100 de 1993"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1996/C-189-96.htm",
+  "fecha_descarga": "2026-10-23T07:43:50.650955+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1996-05-08",
+  "fecha_publicacion": null,
+  "numero": "C-189/96",
+  "tipo_cc": "C",
+  "prov_id": "13216",
+  "tema_relatoria": "DECS. 1281/94 ART. 1 1282/94 ART. 8 1295/94 ART. 28. ACTIV. DE ALTO RIESGO PARA LA SALUD DEL TRABAJADOR. PENSIONES PARA AVIADORES CIVILES. EXEQUIBLES.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACTIVIDAD DE ALTO RIESGO",
+      "subtema": "Competencia del legislador para su clasificación"
+    },
+    {
+      "tema": "OMISION POR INCONSTITUCIONALIDAD",
+      "subtema": "Improcedencia"
+    },
+    {
+      "tema": "PENSIONES DE AVIADORES",
+      "subtema": "Régimen"
+    },
+    {
+      "tema": "SENTENCIA DE CONSTITUCIONALIDAD CONDICIONADA",
+      "subtema": "Fundamento"
+    }
+  ]
+}

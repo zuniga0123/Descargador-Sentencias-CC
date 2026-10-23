@@ -1,0 +1,54 @@
+{
+  "radicado": "T-437-95",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1995,
+  "fecha_creacion": "1995-09-29",
+  "magistrado_ponente": null,
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "DERECHO A LA SUBSISTENCIA",
+  "subtema": "Pago oportuno de pensiones",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Decreto 306 de 1992"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1995/T-437-95.htm",
+  "fecha_descarga": "2026-10-23T07:53:50.045933+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1995-09-29",
+  "fecha_publicacion": null,
+  "numero": "T-437/95",
+  "tipo_cc": "T",
+  "prov_id": "12804",
+  "tema_relatoria": "DER. DE PETICION. RELIQUIDACION Y PAGO DE MESADAS ATRASADAS DE PENSIONES DE JUBILACION. CAJANAL. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA SUBSISTENCIA",
+      "subtema": "Pago oportuno de pensiones"
+    },
+    {
+      "tema": "MEDIO DE DEFENSA JUDICIAL INEFICAZ",
+      "subtema": "Pago oportuno de mesadas pensionales"
+    },
+    {
+      "tema": "DERECHOS DE PERSONA DE LA TERCERA EDAD",
+      "subtema": "Pago oportuno de pensiones"
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Carencia actual de objeto"
+    },
+    {
+      "tema": "MESADA PENSIONAL",
+      "subtema": "Pago oportuno"
+    },
+    {
+      "tema": "DERECHO DE PETICIÓN",
+      "subtema": "Pronta resolución"
+    }
+  ]
+}

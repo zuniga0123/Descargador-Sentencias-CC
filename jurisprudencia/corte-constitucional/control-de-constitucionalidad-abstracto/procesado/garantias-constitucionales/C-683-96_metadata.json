@@ -1,0 +1,54 @@
+{
+  "radicado": "C-683-96",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1996,
+  "fecha_creacion": "1996-12-05",
+  "magistrado_ponente": "Dr FABIO MORON DIAZ",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "PROCESADO",
+  "subtema": "Garantías constitucionales",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2271 de 1991",
+    "Decreto 1199 de 1987",
+    "Decreto 2790 de 1990",
+    "Decreto 99 de 1991",
+    "Decreto 2110 de 1992",
+    "Decreto 2120 de 1992"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1996/C-683-96.htm",
+  "fecha_descarga": "2026-10-23T07:39:01.377676+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1996-12-05",
+  "fecha_publicacion": null,
+  "numero": "C-683/96",
+  "tipo_cc": "C",
+  "prov_id": "13759",
+  "tema_relatoria": "DEC. LEGISL. 1199/87. DEC. 2790/90. ART. 1. DEC. 2110/92. ART. 89. RECOMPENSAS POR INFORMES PARA HACER EFECTIVO ORDENES DE CAPTURA. EXEQ. INHIBITORIA ART. 89.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "PROCESADO",
+      "subtema": "Garantías constitucionales"
+    },
+    {
+      "tema": "RECOMPENSAS POR EL ESTADO",
+      "subtema": "Protección de derechos"
+    },
+    {
+      "tema": "CORTE CONSTITUCIONAL",
+      "subtema": "Incompetencia"
+    },
+    {
+      "tema": "PRESUNCION DE INOCENCIA DEL PROCESADO",
+      "subtema": "Aviso publicitario estatal"
+    },
+    {
+      "tema": "RECOMPENSAS POR EL ESTADO",
+      "subtema": "Vulneración de derechos"
+    }
+  ]
+}

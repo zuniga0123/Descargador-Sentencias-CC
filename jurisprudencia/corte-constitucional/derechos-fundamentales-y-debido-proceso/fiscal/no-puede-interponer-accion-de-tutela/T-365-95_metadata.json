@@ -1,0 +1,37 @@
+{
+  "radicado": "T-365-95",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1995,
+  "fecha_creacion": "1995-08-14",
+  "magistrado_ponente": "Antonio Barrera Carbonell",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "FISCAL",
+  "subtema": "No puede interponer acción de tutela",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 81 de 1983"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1995/T-365-95.htm",
+  "fecha_descarga": "2026-10-23T07:55:09.828805+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1995-08-14",
+  "fecha_publicacion": null,
+  "numero": "T-365/95",
+  "tipo_cc": "T",
+  "prov_id": "12723",
+  "tema_relatoria": "FALTA DE LEGITIMACION DE LA FISCALIA PARA INTENTAR ACCION DE TUTELA. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "FISCAL",
+      "subtema": "No puede interponer acción de tutela"
+    },
+    {
+      "tema": "LEGITIMACIÓN POR ACTIVA EN TUTELA",
+      "subtema": null
+    }
+  ]
+}

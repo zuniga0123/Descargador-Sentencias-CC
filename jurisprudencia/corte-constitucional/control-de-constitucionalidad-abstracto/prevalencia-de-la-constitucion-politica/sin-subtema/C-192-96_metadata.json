@@ -1,0 +1,61 @@
+{
+  "radicado": "C-192-96",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1996,
+  "fecha_creacion": "1996-05-08",
+  "magistrado_ponente": "Dr JORGE ARANGO MEJIA",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "PREVALENCIA DE LA CONSTITUCION POLITICA",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2282 de 1989"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1996/C-192-96.htm",
+  "fecha_descarga": "2026-10-23T07:33:56.612416+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1996-05-08",
+  "fecha_publicacion": null,
+  "numero": "C-192/96",
+  "tipo_cc": "C",
+  "prov_id": "13219",
+  "tema_relatoria": "C.P.C. ART. 554 INC. 3 PARCIAL. REQUISITOS DE LA DEMANDA PARA EL PAGO DE OBLIGACIONES. EXEQUIBLE.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "PREVALENCIA DE LA CONSTITUCION POLITICA",
+      "subtema": null
+    },
+    {
+      "tema": "ACCION HIPOTECARIA",
+      "subtema": "Tercer poseedor demandado"
+    },
+    {
+      "tema": "PROCESO EJECUTIVO",
+      "subtema": "Acciones del acreedor hipotecario"
+    },
+    {
+      "tema": "HIPOTECA",
+      "subtema": "Acción real"
+    },
+    {
+      "tema": "ACCION HIPOTECARIA",
+      "subtema": "Subrogación"
+    },
+    {
+      "tema": "INTERPRETACION CONSTITUCIONAL",
+      "subtema": "Opción por el mejor desarrollo de principios, valores y derechos"
+    },
+    {
+      "tema": "PROCESO DE EJECUCION CON TITULO PRENDARIO O HIPOTECARIO",
+      "subtema": "Deudor principal"
+    },
+    {
+      "tema": "PROCESO EJECUTIVO",
+      "subtema": "Concurrencia del deudor"
+    }
+  ]
+}

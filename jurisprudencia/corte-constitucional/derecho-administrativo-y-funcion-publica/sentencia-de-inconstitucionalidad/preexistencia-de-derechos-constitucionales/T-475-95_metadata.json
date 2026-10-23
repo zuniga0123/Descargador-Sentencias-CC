@@ -1,0 +1,51 @@
+{
+  "radicado": "T-475-95",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1995,
+  "fecha_creacion": "1995-10-19",
+  "magistrado_ponente": "Fabio Moron Diaz",
+  "area": "Derecho Administrativo y Función Pública",
+  "tema": "SENTENCIA DE INCONSTITUCIONALIDAD",
+  "subtema": "Preexistencia de derechos constitucionales",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Decreto 1222 de 1993",
+    "Ley 27 de 1992"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1995/T-475-95.htm",
+  "fecha_descarga": "2026-10-23T07:54:15.454866+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1995-10-19",
+  "fecha_publicacion": null,
+  "numero": "T-475/95",
+  "tipo_cc": "T",
+  "prov_id": "12844",
+  "tema_relatoria": "CONCURSO DE MERITOS. CARRERA ADMINISTRATIVA. NOMBRAMIENTO DE QUIEN OBTUVO EL PRIMER PUESTO. MEDIO DE DEFENSA JUDICIAL. I.C.B.F. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "SENTENCIA DE INCONSTITUCIONALIDAD",
+      "subtema": "Preexistencia de derechos constitucionales"
+    },
+    {
+      "tema": "CONCURSO DE MERITOS",
+      "subtema": "Nombramiento de quien obtuvo el primer puesto"
+    },
+    {
+      "tema": "DERECHO AL TRABAJO",
+      "subtema": "Nombramiento de quien obtuvo el primero puesto"
+    },
+    {
+      "tema": "MEDIO DE DEFENSA JUDICIAL INEFICAZ",
+      "subtema": "Nombramiento de quien obtuvo el primer puesto"
+    },
+    {
+      "tema": "DERECHO A LA IGUALDAD",
+      "subtema": "Nombramiento de quien obtuvo el primer puesto"
+    }
+  ]
+}

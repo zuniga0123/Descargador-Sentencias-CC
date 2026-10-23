@@ -1,0 +1,57 @@
+{
+  "radicado": "T-321-95",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1995,
+  "fecha_creacion": "1995-07-24",
+  "magistrado_ponente": "Antonio Barrera Carbonell",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "JURISDICCION CONTENCIOSO ADMINISTRATIVA",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2651 de 1991",
+    "Decreto 2591 de 1991",
+    "Ley 9 de 1989",
+    "Ley 30 de 1986",
+    "Ley 23 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1995/T-321-95.htm",
+  "fecha_descarga": "2026-10-23T07:47:10.622104+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1995-07-24",
+  "fecha_publicacion": null,
+  "numero": "T-321/95",
+  "tipo_cc": "T",
+  "prov_id": "12677",
+  "tema_relatoria": "DEBIDO PROCESO ADTIVO. ACTUACIONES POLICIVAS. VIA DE HECHO. DEMOLICION DE OBRAS EN SUBA. CONCEDIDA PARCIALMENTE.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "JURISDICCION CONTENCIOSO ADMINISTRATIVA",
+      "subtema": null
+    },
+    {
+      "tema": "ACTO ADMINISTRATIVO",
+      "subtema": null
+    },
+    {
+      "tema": "DEBIDO PROCESO",
+      "subtema": "Vulneración"
+    },
+    {
+      "tema": "DEMOLICION DE OBRAS",
+      "subtema": null
+    },
+    {
+      "tema": "PROCESO ADMINISTRATIVO POLICIVO",
+      "subtema": null
+    },
+    {
+      "tema": "VIA DE HECHO",
+      "subtema": "Inobservancia de normas"
+    }
+  ]
+}

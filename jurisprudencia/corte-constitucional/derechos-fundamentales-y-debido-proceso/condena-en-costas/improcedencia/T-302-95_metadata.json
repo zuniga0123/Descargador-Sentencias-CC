@@ -1,0 +1,42 @@
+{
+  "radicado": "T-302-95",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1995,
+  "fecha_creacion": "1995-07-11",
+  "magistrado_ponente": "Dr HERNANDO HERRERA VERGARA",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "CONDENA EN COSTAS",
+  "subtema": "Improcedencia",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Decreto 2304 de 1989"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1995/T-302-95.htm",
+  "fecha_descarga": "2026-10-23T07:46:44.607118+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1995-07-11",
+  "fecha_publicacion": null,
+  "numero": "T-302/95",
+  "tipo_cc": "T",
+  "prov_id": "12654",
+  "tema_relatoria": "DER. DE PETICION. SOLICITUD DE AUXILIO FUNERARIO. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "CONDENA EN COSTAS",
+      "subtema": "Improcedencia"
+    },
+    {
+      "tema": "AUXILIO FUNERARIO",
+      "subtema": "Improcedencia de ordenar pago por tutela"
+    },
+    {
+      "tema": "DERECHO DE PETICIÓN",
+      "subtema": "Pronta resolución"
+    }
+  ]
+}

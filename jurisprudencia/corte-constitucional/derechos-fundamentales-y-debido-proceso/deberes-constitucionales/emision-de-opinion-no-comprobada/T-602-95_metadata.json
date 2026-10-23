@@ -1,0 +1,69 @@
+{
+  "radicado": "T-602-95",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1995,
+  "fecha_creacion": "1995-12-12",
+  "magistrado_ponente": "Dr CARLOS GAVIRIA DIAZ",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "DEBERES CONSTITUCIONALES",
+  "subtema": "Emisión de opinión no comprobada",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1995/T-602-95.htm",
+  "fecha_descarga": "2026-10-23T07:51:14.113600+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1995-12-12",
+  "fecha_publicacion": null,
+  "numero": "T-602/95",
+  "tipo_cc": "T",
+  "prov_id": "12983",
+  "tema_relatoria": "DER. A LA HONRA. DER. AL BUEN NOMBRE. RECTIFICACION DE INFORMACION. T.V. HOY. DATOS Y MENSAJES. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DEBERES CONSTITUCIONALES",
+      "subtema": "Emisión de opinión no comprobada"
+    },
+    {
+      "tema": "DERECHO AL BUEN NOMBRE",
+      "subtema": "Emisión de opinión no comprobada"
+    },
+    {
+      "tema": "PERIODISMO",
+      "subtema": "Responsabilidad social"
+    },
+    {
+      "tema": "PRINCIPIO DE LA BUENA FE",
+      "subtema": "Emisión de información no comprobada"
+    },
+    {
+      "tema": "MEDIO DE DEFENSA JUDICIAL",
+      "subtema": "Inexistencia por emisión de opinión no comprobada"
+    },
+    {
+      "tema": "MEDIOS DE COMUNICACIÓN",
+      "subtema": "Responsabilidad social"
+    },
+    {
+      "tema": "LIBERTAD DE OPINION",
+      "subtema": "Límites al periodista"
+    },
+    {
+      "tema": "LIBERTAD DE EXPRESIÓN",
+      "subtema": "Prevalencia limitada"
+    },
+    {
+      "tema": "DERECHO A LA HONRA",
+      "subtema": "Emisión de opinión no comprobada"
+    },
+    {
+      "tema": "DERECHO DE RECTIFICACION",
+      "subtema": "Información falsa de noticiero TV HOY"
+    }
+  ]
+}

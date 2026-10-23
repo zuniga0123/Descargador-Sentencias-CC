@@ -1,0 +1,39 @@
+{
+  "radicado": "C-512-96",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1996,
+  "fecha_creacion": "1996-10-08",
+  "magistrado_ponente": "Dr JORGE ARANGO MEJÍA",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "ACCION DE REINTEGRO",
+  "subtema": "Alcance para administradores y revisores fiscales",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 222 de 1995",
+    "Ley 50 de 1990",
+    "Decreto Ley 2351 de 1965"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1996/C-512-96.htm",
+  "fecha_descarga": "2026-10-23T07:39:33.964748+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1996-10-08",
+  "fecha_publicacion": null,
+  "numero": "C-512/96",
+  "tipo_cc": "C",
+  "prov_id": "13570",
+  "tema_relatoria": "LEY 222/95. ART. 232. IMPROCEDENCIA DE LA ACCION DE REINTEGRO. EXEQUIBLE. ESTARSE A LO RESUELTO EN LA SENT. C-434/96 .",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCION DE REINTEGRO",
+      "subtema": "Alcance para administradores y revisores fiscales"
+    },
+    {
+      "tema": "LIBRE REMOCION",
+      "subtema": "Administradores y revisores fiscales"
+    }
+  ]
+}

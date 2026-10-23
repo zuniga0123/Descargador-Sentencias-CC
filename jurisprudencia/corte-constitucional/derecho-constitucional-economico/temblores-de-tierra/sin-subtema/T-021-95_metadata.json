@@ -1,0 +1,53 @@
+{
+  "radicado": "T-021-95",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1995,
+  "fecha_creacion": "1995-02-01",
+  "magistrado_ponente": "Alejandro Martinez Caballero",
+  "area": "Derecho Constitucional Económico",
+  "tema": "TEMBLORES DE TIERRA",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 95 de 1890",
+    "Ley 9 de 1989",
+    "Decreto 919 de 1989",
+    "Ley 78 de 1987"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1995/T-021-95.htm",
+  "fecha_descarga": "2026-10-23T07:50:05.101894+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1995-02-01",
+  "fecha_publicacion": null,
+  "numero": "T-021/95",
+  "tipo_cc": "T",
+  "prov_id": "12339",
+  "tema_relatoria": "DER. A LA VIVIENDA DIGNA. ZONAS DE ALTO RIESGO. DESPLAZAMIENTO DE TIERRA Y SU INCIDENCIA EN EL CAMPO JURIDICO. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "TEMBLORES DE TIERRA",
+      "subtema": null
+    },
+    {
+      "tema": "DERECHO A LA VIVIENDA DIGNA",
+      "subtema": "Conexidad"
+    },
+    {
+      "tema": "PRINCIPIO DE SOLIDARIDAD",
+      "subtema": null
+    },
+    {
+      "tema": "DISTRITO CAPITAL",
+      "subtema": "Responsabilidad por deslizamientos de tierra"
+    },
+    {
+      "tema": "ZONAS DE ALTO RIESGO",
+      "subtema": "Deber del estado de adquirir inmuebles"
+    }
+  ]
+}

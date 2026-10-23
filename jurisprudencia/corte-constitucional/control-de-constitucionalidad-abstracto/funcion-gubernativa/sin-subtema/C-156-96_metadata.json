@@ -1,0 +1,48 @@
+{
+  "radicado": "C-156-96",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1996,
+  "fecha_creacion": "1996-04-18",
+  "magistrado_ponente": "Dr JOSE GREGORIO HERNANDEZ GALINDO",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "FUNCION GUBERNATIVA",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 199 de 1995",
+    "Decreto 2067 de 1991",
+    "Ley 134 de 1994",
+    "Decreto Ley 2629 de 1994"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1996/C-156-96.htm",
+  "fecha_descarga": "2026-10-23T07:33:38.106592+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1996-04-18",
+  "fecha_publicacion": null,
+  "numero": "C-156/96",
+  "tipo_cc": "C",
+  "prov_id": "13179",
+  "tema_relatoria": "LEY 199/95. ARTS. 2 PARCIAL 5 PARCIAL Y 21. FUNCIONES DEL MINISTERIO DEL INTERIOR. EXEQUIBLES SALVO UNA EXPRESION DEL ART. 21.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "FUNCION GUBERNATIVA",
+      "subtema": null
+    },
+    {
+      "tema": "MINISTERIO DE INTERIOR",
+      "subtema": "Funciones"
+    },
+    {
+      "tema": "LEY ESTATUTARIA",
+      "subtema": "Trámite para modificación"
+    },
+    {
+      "tema": "FUNCION ELECTORAL",
+      "subtema": "Independencia"
+    }
+  ]
+}

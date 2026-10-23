@@ -1,0 +1,45 @@
+{
+  "radicado": "C-446-96",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1996,
+  "fecha_creacion": "1996-09-19",
+  "magistrado_ponente": "Dr HERNANDO HERRERA VERGARA",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "LEY ORGANICA DEL PRESUPUESTO",
+  "subtema": "Derogación de normas",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 179 de 1994",
+    "Ley 38 de 1989",
+    "Ley 100 de 1993",
+    "Decreto 111 de 1996",
+    "Decreto 2067 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1996/C-446-96.htm",
+  "fecha_descarga": "2026-10-23T07:41:08.908378+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1996-09-19",
+  "fecha_publicacion": null,
+  "numero": "C-446/96",
+  "tipo_cc": "C",
+  "prov_id": "13501",
+  "tema_relatoria": "LEY 179/94. ART. 71 INC. 2 PARCIAL POR LA CUAL SE INTRODUCEN MODIFICACIONES A LA LEY 38/89 ORGANICA DEL PRESUPUESTO. EXEQUIBLE.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "LEY ORGANICA DEL PRESUPUESTO",
+      "subtema": "Derogación de normas"
+    },
+    {
+      "tema": "PRINCIPIO DE UNIDAD DE MATERIA",
+      "subtema": "Finalidad"
+    },
+    {
+      "tema": "LEY ORGANICA DEL PRESUPUESTO",
+      "subtema": "Condicionamiento de otras leyes"
+    }
+  ]
+}

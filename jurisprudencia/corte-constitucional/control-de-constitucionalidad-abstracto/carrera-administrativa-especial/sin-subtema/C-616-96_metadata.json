@@ -1,0 +1,53 @@
+{
+  "radicado": "C-616-96",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1996,
+  "fecha_creacion": "1996-11-13",
+  "magistrado_ponente": "Dr VLADIMIRO NARANJO MESA",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "CARRERA ADMINISTRATIVA ESPECIAL",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 10 de 1992",
+    "Ley 2126 de 1992",
+    "Ley 61 de 1987",
+    "Decreto 1042 de 1978",
+    "Decreto Ley 10 de 1992"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1996/C-616-96.htm",
+  "fecha_descarga": "2026-10-23T07:42:48.483631+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1996-11-13",
+  "fecha_publicacion": null,
+  "numero": "C-616/96",
+  "tipo_cc": "C",
+  "prov_id": "13686",
+  "tema_relatoria": "DEC. 10/92. ARTS. 612 Y 40 PARCIALES. CARGOS DE CARRERA DIPLOMATICA Y CONSULAR. EXEQUIBLE E INEXEQUIBLE. VER C-195/94 .",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "CARRERA ADMINISTRATIVA ESPECIAL",
+      "subtema": null
+    },
+    {
+      "tema": "CARRERA DIPLOMATICA Y CONSULAR",
+      "subtema": "Principio de alternación"
+    },
+    {
+      "tema": "CARRERA DIPLOMATICA Y CONSULAR",
+      "subtema": "Carácter especial"
+    },
+    {
+      "tema": "MINISTERIO DE RELACIONES EXTERIORES",
+      "subtema": "Naturaleza de los cargos"
+    },
+    {
+      "tema": "SENTENCIA INHIBITORIA",
+      "subtema": "Carencia de objeto"
+    }
+  ]
+}

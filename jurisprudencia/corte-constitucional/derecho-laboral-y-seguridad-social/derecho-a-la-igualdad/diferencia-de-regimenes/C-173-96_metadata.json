@@ -1,0 +1,45 @@
+{
+  "radicado": "C-173-96",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1996,
+  "fecha_creacion": "1996-04-29",
+  "magistrado_ponente": "Dr CARLOS GAVIRIA DIAZ",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "DERECHO A LA IGUALDAD",
+  "subtema": "Diferencia de regímenes",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1996/C-173-96.htm",
+  "fecha_descarga": "2026-10-23T07:33:41.835831+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1996-04-29",
+  "fecha_publicacion": null,
+  "numero": "C-173/96",
+  "tipo_cc": "C",
+  "prov_id": "13186",
+  "tema_relatoria": "LEY 100/93. ART. 279 PARCIAL EXCEPCIONES AL SISTEMA DE SEGURIDAD SOCIAL. TRABAJADORES DE ECOPETROL. EXEQUIBLE.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA IGUALDAD",
+      "subtema": "Diferencia de regímenes"
+    },
+    {
+      "tema": "ECOPETROL",
+      "subtema": "Régimen pensional"
+    },
+    {
+      "tema": "TRABAJADOR DE ECOPETROL",
+      "subtema": "No se le aplica régimen de ley 100 de 1993"
+    },
+    {
+      "tema": "TRABAJADOR DE ECOPETROL",
+      "subtema": "Diferencia de regímenes"
+    }
+  ]
+}

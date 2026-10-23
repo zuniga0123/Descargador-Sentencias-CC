@@ -1,0 +1,61 @@
+{
+  "radicado": "T-456-95",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1995,
+  "fecha_creacion": "1995-10-09",
+  "magistrado_ponente": "Alejandro Martinez Caballero",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCION DE TUTELA CONTRA EL RUIDO",
+  "subtema": "Prevención",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1995/T-456-95.htm",
+  "fecha_descarga": "2026-10-23T07:56:55.097571+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1995-10-09",
+  "fecha_publicacion": null,
+  "numero": "T-456/95",
+  "tipo_cc": "T",
+  "prov_id": "12824",
+  "tema_relatoria": "TUTELA CONTRA EL RUIDO. ESTABLECIMIENTOS COMERCIALES EN EDIFICIO DE APARTAMENTOS. CONCEDIDA PARCIALMENTE.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCION DE TUTELA CONTRA EL RUIDO",
+      "subtema": "Prevención"
+    },
+    {
+      "tema": "ACCION DE TUTELA TEMERARIA",
+      "subtema": "Inexistencia por diferentes actores"
+    },
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": "Vulneración por ruido"
+    },
+    {
+      "tema": "DERECHO A LA INTIMIDAD PERSONAL Y FAMILIAR",
+      "subtema": "Vulneración por ruido"
+    },
+    {
+      "tema": "ACCION DE TUTELA INTERPUESTA POR MENOR",
+      "subtema": null
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA EL RUIDO",
+      "subtema": "Límite de decibeles"
+    },
+    {
+      "tema": "COMPETENCIA DEL JUEZ DE TUTELA",
+      "subtema": "Licencia de establecimiento"
+    },
+    {
+      "tema": "DERECHO A LA TRANQUILIDAD",
+      "subtema": "Vulneración por ruido"
+    }
+  ]
+}

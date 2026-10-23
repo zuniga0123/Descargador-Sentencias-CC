@@ -1,0 +1,47 @@
+{
+  "radicado": "C-255-96",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1996,
+  "fecha_creacion": "1996-06-06",
+  "magistrado_ponente": "Dr ALEJANDRO MARTÍNEZ CABALLERO",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "CONVENCION DE VIENA",
+  "subtema": "Vicio subsanable",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 194 de 1995",
+    "Decreto 2067 de 1991",
+    "Ley 32 de 1985"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1996/C-255-96.htm",
+  "fecha_descarga": "2026-10-23T07:35:13.635840+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1996-06-06",
+  "fecha_publicacion": null,
+  "numero": "C-255/96",
+  "tipo_cc": "C",
+  "prov_id": "13286",
+  "tema_relatoria": "REVISION DE LA CONVENCION DE VIENA SOBRE EL DER. DE LOS TRATADOS ENTRE ESTADOS Y ORG. INNALES. LEY 194/95. INEXEQUIBLE Y SENT INHIBITORIA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "CONVENCION DE VIENA",
+      "subtema": "Vicio subsanable"
+    },
+    {
+      "tema": "LEY APROBATORIA DE TRATADO INTERNACIONAL",
+      "subtema": "Inexequibilidad"
+    },
+    {
+      "tema": "LEY APROBATORIA DE TRATADO INTERNACIONAL",
+      "subtema": "Falta de corrección del vicio subsanable"
+    },
+    {
+      "tema": "TRATADO INTERNACIONAL",
+      "subtema": "Texto incompleto"
+    }
+  ]
+}

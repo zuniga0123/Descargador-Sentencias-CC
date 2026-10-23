@@ -1,0 +1,79 @@
+{
+  "radicado": "C-222-96",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1996,
+  "fecha_creacion": "1996-05-16",
+  "magistrado_ponente": null,
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "FUNCION JUDICIAL DEL CONGRESO DE LA REPUBLICA",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2067 de 1991",
+    "Ley 5 de 1992",
+    "Ley 270 de 1996"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1996/C-222-96.htm",
+  "fecha_descarga": "2026-10-23T07:34:18.678800+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1996-05-16",
+  "fecha_publicacion": null,
+  "numero": "C-222/96",
+  "tipo_cc": "C",
+  "prov_id": "13250",
+  "tema_relatoria": "LEY 5/92. ARTS. 312330331.338341342343345 Y 346 TODOS PARCIALMENTE. COMISION DE ACUSACIONES. EXEQUIBLES SALVO ART 346. SENT INHIBITORIA SOBRE ART. 312.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "FUNCION JUDICIAL DEL CONGRESO DE LA REPUBLICA",
+      "subtema": null
+    },
+    {
+      "tema": "COMISION DE INSTRUCCION",
+      "subtema": "Función judicial"
+    },
+    {
+      "tema": "COMISION DE INSTRUCCION",
+      "subtema": "Procedimiento"
+    },
+    {
+      "tema": "COMISION DE INVESTIGACION Y ACUSACION",
+      "subtema": "Competencia para recibir denuncia"
+    },
+    {
+      "tema": "FUERO CONSTITUCIONAL DEL PRESIDENTE DE LA REPUBLICA",
+      "subtema": null
+    },
+    {
+      "tema": "COMISION DE INVESTIGACION Y ACUSACION",
+      "subtema": "Función judicial"
+    },
+    {
+      "tema": "COMISION DE INVESTIGACION Y ACUSACION",
+      "subtema": "Denominación"
+    },
+    {
+      "tema": "COMISION DE INVESTIGACION Y ACUSACION",
+      "subtema": "Procedimiento"
+    },
+    {
+      "tema": "COMISION DE INSTRUCCION",
+      "subtema": "No es competente para rechazar y archivar la acusación"
+    },
+    {
+      "tema": "PRINCIPIO DE SEPARACION DE FUNCIONES ENTRE ORGANOS DEL ESTADO",
+      "subtema": null
+    },
+    {
+      "tema": "CAMARA DE REPRESENTANTES",
+      "subtema": "Competencia para investigar y acusar al Presidente de la República"
+    },
+    {
+      "tema": "CORTE SUPREMA DE JUSTICIA",
+      "subtema": "Competencia para juzgar altos funcionarios"
+    }
+  ]
+}

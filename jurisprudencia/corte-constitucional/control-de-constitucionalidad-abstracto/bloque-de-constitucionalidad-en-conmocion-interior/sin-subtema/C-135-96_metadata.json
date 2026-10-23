@@ -1,0 +1,66 @@
+{
+  "radicado": "C-135-96",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1996,
+  "fecha_creacion": "1996-04-09",
+  "magistrado_ponente": null,
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "BLOQUE DE CONSTITUCIONALIDAD EN CONMOCION INTERIOR",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 137 de 1994",
+    "Ley 40 de 1993",
+    "Decreto 1900 de 1995",
+    "Decreto 2238 de 1995",
+    "Decreto 2790 de 1990",
+    "Decreto 2271 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1996/C-135-96.htm",
+  "fecha_descarga": "2026-10-23T07:33:15.827298+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1996-04-09",
+  "fecha_publicacion": null,
+  "numero": "C-135/96",
+  "tipo_cc": "C",
+  "prov_id": "13156",
+  "tema_relatoria": "DEC. LEGISLATIVO 2238/95. SECUESTRO. GRUPOS GAULA. CONMOCION INTERIOR.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "BLOQUE DE CONSTITUCIONALIDAD EN CONMOCION INTERIOR",
+      "subtema": null
+    },
+    {
+      "tema": "CONMOCION INTERIOR",
+      "subtema": "Temas que son materia de ley"
+    },
+    {
+      "tema": "CONMOCION INTERIOR",
+      "subtema": "Suspensión de normas incompatibles"
+    },
+    {
+      "tema": "CONMOCION INTERIOR",
+      "subtema": "Conexidad"
+    },
+    {
+      "tema": "CONMOCION INTERIOR",
+      "subtema": "Declaración y prórroga no sujetas a control constitucional"
+    },
+    {
+      "tema": "ESTADOS DE EXCEPCION",
+      "subtema": "Poderes del gobierno"
+    },
+    {
+      "tema": "PROGRAMA PRESIDENCIAL PARA LA LUCHA CONTRA EL SECUESTRO",
+      "subtema": "Superposición de funciones"
+    },
+    {
+      "tema": "DECRETO LEGISLATIVO",
+      "subtema": "No pueden derogar leyes"
+    }
+  ]
+}

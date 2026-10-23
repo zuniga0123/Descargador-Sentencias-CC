@@ -1,0 +1,44 @@
+{
+  "radicado": "C-509-96",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1996,
+  "fecha_creacion": "1996-10-08",
+  "magistrado_ponente": "Dr VLADIMIRO NARANJO MESA",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "DECLARACIÓN DE INEXEQUIBILIDAD",
+  "subtema": "Requisito",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2150 de 1995",
+    "Decreto 2067 de 1991",
+    "Ley 45 de 1990",
+    "Ley 42 de 1993"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1996/C-509-96.htm",
+  "fecha_descarga": "2026-10-23T07:39:30.385799+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1996-10-08",
+  "fecha_publicacion": null,
+  "numero": "C-509/96",
+  "tipo_cc": "C",
+  "prov_id": "13567",
+  "tema_relatoria": "DEC. 2150/95. ARTS. 22 Y 28. INFORMES SOLICITADOS A ENTIDADES PUBLICAS. POSESION DE PARTICULARES ANTE ORG. DE CONTROL.. SENT. INHIBITORIA ART.28. VER C-490/96",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DECLARACIÓN DE INEXEQUIBILIDAD",
+      "subtema": "Requisito"
+    },
+    {
+      "tema": "COSA JUZGADA CONSTITUCIONAL",
+      "subtema": "Regulación trámites innecesarios"
+    },
+    {
+      "tema": "DEMANDA DE INCONSTITUCIONALIDAD",
+      "subtema": "Ineptitud sustantiva"
+    }
+  ]
+}

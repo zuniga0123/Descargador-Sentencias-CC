@@ -1,0 +1,62 @@
+{
+  "radicado": "T-001-95",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1995,
+  "fecha_creacion": "1995-01-16",
+  "magistrado_ponente": "Dr JOSE GREGORIO HERNANDEZ GALINDO",
+  "area": "Derecho a la Salud",
+  "tema": "DERECHO A LA SEGURIDAD SOCIAL DEL NIÑO",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Decreto 770 de 1975",
+    "Decreto 2591 de 1991",
+    "Ley 12 de 1991",
+    "Decreto Ley 1298 de 1994",
+    "Decreto 1938 de 1994"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1995/T-001-95.htm",
+  "fecha_descarga": "2026-10-23T07:49:28.375278+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1995-01-16",
+  "fecha_publicacion": null,
+  "numero": "T-001/95",
+  "tipo_cc": "T",
+  "prov_id": "12316",
+  "tema_relatoria": "DERS. DE LOS NIÑOS. RECUPERACION DE LA SALUD. ATENCION POR EL I.S.S. MENOR CON HEMOFILIA. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA SEGURIDAD SOCIAL DEL NIÑO",
+      "subtema": null
+    },
+    {
+      "tema": "MENOR ENFERMO",
+      "subtema": "Protección"
+    },
+    {
+      "tema": "PLAN OBLIGATORIO DE SALUD",
+      "subtema": "Beneficiarios"
+    },
+    {
+      "tema": "TRATAMIENTO MEDICO",
+      "subtema": null
+    },
+    {
+      "tema": "DERECHO A LA SALUD",
+      "subtema": null
+    },
+    {
+      "tema": "INSTITUTO DE SEGUROS SOCIALES",
+      "subtema": "Asistencia médica de menor"
+    },
+    {
+      "tema": "TRATAMIENTO MEDICO",
+      "subtema": "Interrupción"
+    }
+  ]
+}

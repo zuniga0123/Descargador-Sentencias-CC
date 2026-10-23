@@ -1,0 +1,54 @@
+{
+  "radicado": "T-476-95",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1995,
+  "fecha_creacion": "1995-10-19",
+  "magistrado_ponente": null,
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "DERECHO A LA EDUCACIÓN",
+  "subtema": "Presentación personal",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 115 de 1994"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1995/T-476-95.htm",
+  "fecha_descarga": "2026-10-23T07:54:19.065753+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1995-10-19",
+  "fecha_publicacion": null,
+  "numero": "T-476/95",
+  "tipo_cc": "T",
+  "prov_id": "12845",
+  "tema_relatoria": "DER. AL LIBRE DESARROLLO DE LA PERSONALIDAD. DER. A LA EDUCACION. CABELLOS LARGOS. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO A LA EDUCACIÓN",
+      "subtema": "Presentación personal"
+    },
+    {
+      "tema": "DEBIDO PROCESO",
+      "subtema": "Suspensión de alumno"
+    },
+    {
+      "tema": "DERECHO AL LIBRE DESARROLLO DE LA PERSONALIDAD",
+      "subtema": "Corte de cabello"
+    },
+    {
+      "tema": "DEMANDA DE TUTELA",
+      "subtema": "Prevención"
+    },
+    {
+      "tema": "DERECHO A LA EDUCACIÓN",
+      "subtema": "Finalidad"
+    },
+    {
+      "tema": "DEMANDA DE TUTELA",
+      "subtema": "Hecho consumado"
+    }
+  ]
+}

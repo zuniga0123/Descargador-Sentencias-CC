@@ -1,0 +1,47 @@
+{
+  "radicado": "T-121-95",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1995,
+  "fecha_creacion": "1995-03-21",
+  "magistrado_ponente": "Dr JOSE GREGORIO HERNANDEZ GALINDO",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "DERECHO DE PETICIÓN",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Decreto 1242 de 1993",
+    "Ley 65 de 1993"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1995/T-121-95.htm",
+  "fecha_descarga": "2026-10-23T07:51:47.061553+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1995-03-21",
+  "fecha_publicacion": null,
+  "numero": "T-121/95",
+  "tipo_cc": "T",
+  "prov_id": "12449",
+  "tema_relatoria": "DER. DE PETICION. TRASLADO DE RECLUSO. INPEC. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO DE PETICIÓN",
+      "subtema": null
+    },
+    {
+      "tema": "DERECHO DE PETICIÓN",
+      "subtema": "Casos en que se presenta abuso"
+    },
+    {
+      "tema": "DIRECTOR DEL INSTITUTO NACIONAL PENITENCIARIO Y CARCELARIO",
+      "subtema": "Facultades"
+    },
+    {
+      "tema": "TRASLADO DE INTERNO",
+      "subtema": "Improcedencia por afectar garantía de comparecencia en el juicio penal"
+    }
+  ]
+}

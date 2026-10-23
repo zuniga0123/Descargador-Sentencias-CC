@@ -1,0 +1,58 @@
+{
+  "radicado": "T-022-95",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1995,
+  "fecha_creacion": "1995-02-01",
+  "magistrado_ponente": "Dr JOSE GREGORIO HERNANDEZ GALINDO",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "DEMANDA DE TUTELA",
+  "subtema": "Improcedencia de rechazo in limine",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Decreto 1211 de 1990"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1995/T-022-95.htm",
+  "fecha_descarga": "2026-10-23T07:50:08.733842+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1995-02-01",
+  "fecha_publicacion": null,
+  "numero": "T-022/95",
+  "tipo_cc": "T",
+  "prov_id": "12340",
+  "tema_relatoria": "DER. A LA INTIMIDAD. SUSTITUCION PENSIONAL. IMPROCEDENCIA DE SUSPENSION DE UN ACTO ADTIVO POR TUTELA. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DEMANDA DE TUTELA",
+      "subtema": "Improcedencia de rechazo in limine"
+    },
+    {
+      "tema": "SUSTITUCIÓN PENSIONAL",
+      "subtema": "Improcedencia por no cohabitar"
+    },
+    {
+      "tema": "JURISDICCION CONTENCIOSO ADMINISTRATIVA",
+      "subtema": null
+    },
+    {
+      "tema": "ACTO ADMINISTRATIVO",
+      "subtema": null
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Subsidiariedad"
+    },
+    {
+      "tema": "DERECHO DE PETICIÓN",
+      "subtema": "Término para resolver"
+    },
+    {
+      "tema": "SUSPENSION DE ACTO ADMINISTRATIVO POR TUTELA",
+      "subtema": "Improcedencia"
+    }
+  ]
+}

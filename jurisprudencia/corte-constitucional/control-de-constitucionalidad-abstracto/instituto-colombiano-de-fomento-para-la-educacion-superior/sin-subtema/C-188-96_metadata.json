@@ -1,0 +1,62 @@
+{
+  "radicado": "C-188-96",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1996,
+  "fecha_creacion": "1996-05-08",
+  "magistrado_ponente": "Dr FABIO MORON DIAZ",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "INSTITUTO COLOMBIANO DE FOMENTO PARA LA EDUCACION SUPERIOR",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 30 de 1992",
+    "Decreto 2067 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1996/C-188-96.htm",
+  "fecha_descarga": "2026-10-23T07:33:49.170018+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1996-05-08",
+  "fecha_publicacion": null,
+  "numero": "C-188/96",
+  "tipo_cc": "C",
+  "prov_id": "13215",
+  "tema_relatoria": "LEY 30/92. ARTS 35 Y 40. INTEGRACION DEL CESU Y LA JUNTA DIRECTIVA DEL ICFES. EXEQUIBLES.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "INSTITUTO COLOMBIANO DE FOMENTO PARA LA EDUCACION SUPERIOR",
+      "subtema": null
+    },
+    {
+      "tema": "INSTITUTO DE EDUCACION SUPERIOR",
+      "subtema": "Organismos técnicos y de administración"
+    },
+    {
+      "tema": "INCONSTITUCIONALIDAD POR OMISION",
+      "subtema": "Improcedencia"
+    },
+    {
+      "tema": "EDUCACION SUPERIOR",
+      "subtema": "Regulación"
+    },
+    {
+      "tema": "CESU",
+      "subtema": null
+    },
+    {
+      "tema": "AUTONOMÍA UNIVERSITARIA",
+      "subtema": "Alcance"
+    },
+    {
+      "tema": "CESU",
+      "subtema": "Naturaleza"
+    },
+    {
+      "tema": "INSTITUCION DE EDUCACION SUPERIOR",
+      "subtema": "Organismos de apoyo"
+    }
+  ]
+}

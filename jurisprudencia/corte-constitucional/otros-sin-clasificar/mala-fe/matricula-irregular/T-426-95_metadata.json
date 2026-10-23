@@ -1,0 +1,47 @@
+{
+  "radicado": "T-426-95",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1995,
+  "fecha_creacion": "1995-09-27",
+  "magistrado_ponente": null,
+  "area": "Otros - Sin clasificar",
+  "tema": "MALA FE",
+  "subtema": "Matrícula irregular",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2225 de 1993",
+    "Decreto 2591 de 1991",
+    "Ley 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1995/T-426-95.htm",
+  "fecha_descarga": "2026-10-23T07:53:31.899214+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1995-09-27",
+  "fecha_publicacion": null,
+  "numero": "T-426/95",
+  "tipo_cc": "T",
+  "prov_id": "12792",
+  "tema_relatoria": "DER. A LA EDUCACION. PERDIDA DE HABILITACION. IMPROCEDENCIA DE LA REHABILITACION. MATRICULA IRREGULAR. COLEGIO STO TOMAS. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "MALA FE",
+      "subtema": "Matrícula irregular"
+    },
+    {
+      "tema": "NEGLIGENCIA DE LOS PADRES",
+      "subtema": "Suministro de información educativa"
+    },
+    {
+      "tema": "DERECHO A LA EDUCACIÓN",
+      "subtema": "Validación del año lectivo"
+    },
+    {
+      "tema": "DERECHO A LA EDUCACIÓN",
+      "subtema": "Pérdida de año"
+    }
+  ]
+}

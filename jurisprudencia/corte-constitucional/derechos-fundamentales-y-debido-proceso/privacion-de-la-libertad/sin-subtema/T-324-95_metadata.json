@@ -1,0 +1,56 @@
+{
+  "radicado": "T-324-95",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1995,
+  "fecha_creacion": "1995-07-26",
+  "magistrado_ponente": "Alejandro Martínez Caballero",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "PRIVACION DE LA LIBERTAD",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 81 de 1993",
+    "Decreto 2271 de 1991",
+    "Decreto 2591 de 1991",
+    "Ley 30 de 1986"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1995/T-324-95.htm",
+  "fecha_descarga": "2026-10-23T07:47:14.277589+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1995-07-26",
+  "fecha_publicacion": null,
+  "numero": "T-324/95",
+  "tipo_cc": "T",
+  "prov_id": "12680",
+  "tema_relatoria": "DEBIDO PROCESO. NOTIFICACION PERSONAL DE LA TUTELA A LAS PERSONAS PRIVADAS DE LA LIBERTAD. CARCEL DE BELLAVISTA. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "PRIVACION DE LA LIBERTAD",
+      "subtema": null
+    },
+    {
+      "tema": "DEBIDO PROCESO",
+      "subtema": "Vulneración"
+    },
+    {
+      "tema": "DERECHOS DEL INTERNO A LA NOTIFICACION PERSONAL",
+      "subtema": null
+    },
+    {
+      "tema": "HABEAS CORPUS",
+      "subtema": null
+    },
+    {
+      "tema": "TERMINO PROCESAL",
+      "subtema": "Cumplimiento"
+    },
+    {
+      "tema": "TERMINO JUDICIAL",
+      "subtema": "Cumplimiento"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "radicado": "T-173-95",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1995,
+  "fecha_creacion": "1995-04-24",
+  "magistrado_ponente": "Dr Carlos Gaviria Díaz",
+  "area": "Otros - Sin clasificar",
+  "tema": "DERECHO DE ASOCIACIÓN SINDICAL",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 26 de 1976",
+    "Decreto 2591 de 1991",
+    "Ley 50 de 1990"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1995/T-173-95.htm",
+  "fecha_descarga": "2026-10-23T07:52:37.881726+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1995-04-24",
+  "fecha_publicacion": null,
+  "numero": "T-173/95",
+  "tipo_cc": "T",
+  "prov_id": "12510",
+  "tema_relatoria": "DER. DE ASOCIACION SINDICAL. LIBERTAD DE TRABAJO. SOLICITUD DE AFILIACION A SINDICATO. SINTRACOMFAORIENTE. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO DE ASOCIACIÓN SINDICAL",
+      "subtema": null
+    },
+    {
+      "tema": "LIBERTAD DE ASOCIACION",
+      "subtema": null
+    },
+    {
+      "tema": "LIBERTAD DE TRABAJO",
+      "subtema": null
+    },
+    {
+      "tema": "LIBERTAD DE ASOCIACION SINDICAL",
+      "subtema": null
+    },
+    {
+      "tema": "DERECHO DE AFILIACION A SINDICATOS",
+      "subtema": "Requisitos"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "radicado": "C-596-96",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1996,
+  "fecha_creacion": "1996-11-06",
+  "magistrado_ponente": "Dr HERNANDO HERRERA VERGARA",
+  "area": "Derecho Constitucional Económico",
+  "tema": "IMPUESTO SOBRE LA RENTA Y COMPLEMENTARIOS DE REMESAS",
+  "subtema": "Deducción pagos a casas matrices",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 223 de 1995",
+    "Ley 223 de 1993",
+    "Decreto 624 de 1989",
+    "Decreto 2067 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1996/C-596-96.htm",
+  "fecha_descarga": "2026-10-23T07:40:24.798147+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1996-11-06",
+  "fecha_publicacion": null,
+  "numero": "C-596/96",
+  "tipo_cc": "C",
+  "prov_id": "13670",
+  "tema_relatoria": "LEY 223/95. ART. 85 PARCIAL. NORMAS SOBRE RACIONALIZACION TRIBUTARIA. PAGOS DE LA CASA MATRIZ. EXEQUIBLE.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "IMPUESTO SOBRE LA RENTA Y COMPLEMENTARIOS DE REMESAS",
+      "subtema": "Deducción pagos a casas matrices"
+    },
+    {
+      "tema": "INGRESOS DE FUENTE EXTRANJERA",
+      "subtema": "No deducible de renta"
+    },
+    {
+      "tema": "IMPUESTO SOBRE LA RENTA Y COMPLEMENTARIOS DE REMESAS",
+      "subtema": "Deducción por rentas de fuente colombiana"
+    },
+    {
+      "tema": "INGRESOS DE FUENTE NACIONAL",
+      "subtema": "Deducibles de renta"
+    }
+  ]
+}

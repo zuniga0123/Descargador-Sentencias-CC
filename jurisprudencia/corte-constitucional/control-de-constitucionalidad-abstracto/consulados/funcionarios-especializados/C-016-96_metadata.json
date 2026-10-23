@@ -1,0 +1,40 @@
+{
+  "radicado": "C-016-96",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1996,
+  "fecha_creacion": "1996-01-23",
+  "magistrado_ponente": "Dr FABIO MORON DIAZ",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "CONSULADOS",
+  "subtema": "Funcionarios especializados",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 76 de 1993",
+    "Decreto 2067 de 1991",
+    "Decreto 2126 de 1992",
+    "Decreto 2126 de 1993"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1996/C-016-96.htm",
+  "fecha_descarga": "2026-10-23T07:35:42.934177+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1996-01-23",
+  "fecha_publicacion": null,
+  "numero": "C-016/96",
+  "tipo_cc": "C",
+  "prov_id": "13023",
+  "tema_relatoria": "LEY 76/93. ART. 1. SERVICIO CONSULAR DE LA REPUBLICA. PROTECCION A LOS COLOMBIANOS. EXEQUIBLE.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "CONSULADOS",
+      "subtema": "Funcionarios especializados"
+    },
+    {
+      "tema": "COLOMBIANOS RESIDENTES EN EL EXTERIOR",
+      "subtema": "Protección"
+    }
+  ]
+}

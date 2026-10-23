@@ -1,0 +1,45 @@
+{
+  "radicado": "T-063-95",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1995,
+  "fecha_creacion": "1995-02-22",
+  "magistrado_ponente": "Dr JOSE GREGORIO HERNANDEZ GALINDO",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "DERECHO AL TRABAJO EN CONDICIONES DIGNAS Y JUSTAS",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1995/T-063-95.htm",
+  "fecha_descarga": "2026-10-23T07:45:05.394568+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1995-02-22",
+  "fecha_publicacion": "1995-01-25",
+  "numero": "T-063/95",
+  "tipo_cc": "T",
+  "prov_id": "12387",
+  "tema_relatoria": "DER. DEL TRABAJADOR AL PAGO OPORTUNO DE SU REMUNERACION. EJECUCION PRESUPUESTAL. DOCENTE. CONCEDIDA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DERECHO AL TRABAJO EN CONDICIONES DIGNAS Y JUSTAS",
+      "subtema": null
+    },
+    {
+      "tema": "DERECHO AL PAGO OPORTUNO DEL SALARIO",
+      "subtema": null
+    },
+    {
+      "tema": "ACCION DE TUTELA CONTRA AUTORIDAD PUBLICA POR OMISION",
+      "subtema": "Mora en pago de salario"
+    },
+    {
+      "tema": "EXCEPCIÓN DE INCONSTITUCIONALIDAD",
+      "subtema": "Procedencia"
+    }
+  ]
+}

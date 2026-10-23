@@ -1,0 +1,48 @@
+{
+  "radicado": "C-250-96",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1996,
+  "fecha_creacion": "1996-06-06",
+  "magistrado_ponente": "Dr HERNANDO HERRERA VERGARA",
+  "area": "Derecho Constitucional Económico",
+  "tema": "EXPROPIACION POR RAZONES DE EQUIDAD",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 80 de 1993",
+    "Decreto 2067 de 1991",
+    "Ley 105 de 1993",
+    "Decreto 2655 de 1988"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1996/C-250-96.htm",
+  "fecha_descarga": "2026-10-23T07:34:58.779746+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1996-06-06",
+  "fecha_publicacion": null,
+  "numero": "C-250/96",
+  "tipo_cc": "C",
+  "prov_id": "13281",
+  "tema_relatoria": "LA CLAUSULA DE REVERSION EN LOS CONTRATOS DE EXPLOTACION O CONCESION DE BIENES ESTATALES. EXEQUIBLE.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "EXPROPIACION POR RAZONES DE EQUIDAD",
+      "subtema": null
+    },
+    {
+      "tema": "CLAUSULA DE REVERSION",
+      "subtema": null
+    },
+    {
+      "tema": "CONTRATO DE CONCESIÓN",
+      "subtema": null
+    },
+    {
+      "tema": "CONTRATO DE CONCESIÓN",
+      "subtema": "Concepto"
+    }
+  ]
+}

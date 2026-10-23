@@ -1,0 +1,62 @@
+{
+  "radicado": "T-441-95",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1995,
+  "fecha_creacion": "1995-10-02",
+  "magistrado_ponente": "Dr Carlos Gaviria Díaz",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ARCHIPIELAGO DE SAN ANDRES",
+  "subtema": "Control poblacional",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2762 de 1991",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1995/T-441-95.htm",
+  "fecha_descarga": "2026-10-23T07:53:57.228299+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1995-10-02",
+  "fecha_publicacion": null,
+  "numero": "T-441/95",
+  "tipo_cc": "T",
+  "prov_id": "12808",
+  "tema_relatoria": "COSTAS POR MAL USO DE TUTELA. USO DE MENORES PARA VIOLAR LA LEY. DESATENCION DE LA ORDEN DE LA OFICINA DE CIRCULACION Y RESIDENCIA DE SAN ANDRES. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ARCHIPIELAGO DE SAN ANDRES",
+      "subtema": "Control poblacional"
+    },
+    {
+      "tema": "DERECHOS DE LA NIÑEZ",
+      "subtema": "Prevención a los padres"
+    },
+    {
+      "tema": "ABUSO DEL DERECHO POR LOS PADRES",
+      "subtema": "Control poblacional"
+    },
+    {
+      "tema": "ACCION DE TUTELA TEMERARIA",
+      "subtema": null
+    },
+    {
+      "tema": "COSTAS",
+      "subtema": null
+    },
+    {
+      "tema": "DERECHO A LA EDUCACIÓN",
+      "subtema": "Límite por control poblacional"
+    },
+    {
+      "tema": "DERECHO A LA FAMILIA",
+      "subtema": "Límite por control poblacional"
+    },
+    {
+      "tema": "DERECHOS DEL MENOR",
+      "subtema": "Protección"
+    }
+  ]
+}

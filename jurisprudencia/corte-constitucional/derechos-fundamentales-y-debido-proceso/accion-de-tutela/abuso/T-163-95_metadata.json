@@ -1,0 +1,41 @@
+{
+  "radicado": "T-163-95",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1995,
+  "fecha_creacion": "1995-04-17",
+  "magistrado_ponente": "Dr JOSE GREGORIO HERNANDEZ GALINDO",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "ACCIÓN DE TUTELA",
+  "subtema": "Abuso",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1995/T-163-95.htm",
+  "fecha_descarga": "2026-10-23T07:52:27.032722+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1995-04-17",
+  "fecha_publicacion": null,
+  "numero": "T-163/95",
+  "tipo_cc": "T",
+  "prov_id": "12499",
+  "tema_relatoria": "USO INDEBIDO DE LA ACCION DE TUTELA. PAGO DE HONORARIOS DE ABOGADO. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Abuso"
+    },
+    {
+      "tema": "MEDIO DE DEFENSA JUDICIAL",
+      "subtema": null
+    },
+    {
+      "tema": "HONORARIOS",
+      "subtema": "Pago"
+    }
+  ]
+}

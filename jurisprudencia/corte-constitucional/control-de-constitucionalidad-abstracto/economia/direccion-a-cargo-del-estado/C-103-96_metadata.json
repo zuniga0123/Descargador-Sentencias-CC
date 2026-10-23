@@ -1,0 +1,50 @@
+{
+  "radicado": "C-103-96",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1996,
+  "fecha_creacion": "1996-03-07",
+  "magistrado_ponente": "Dr FABIO MORON DIAZ",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "ECONOMIA",
+  "subtema": "Dirección a cargo del Estado",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 152 de 1994",
+    "Decreto 2067 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1996/C-103-96.htm",
+  "fecha_descarga": "2026-10-23T07:37:18.449431+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1996-03-07",
+  "fecha_publicacion": null,
+  "numero": "C-103/96",
+  "tipo_cc": "C",
+  "prov_id": "13118",
+  "tema_relatoria": "O.P. PROYECTO DE LEY N°88/93 SENADO Y 206/93 CAMARA. SE CREA EL CONSEJO NAL DE CONCERTACION ECONOMICA JAIME CARVAJAL SINISTERRA. INEXEQUIBLE.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "ECONOMIA",
+      "subtema": "Dirección a cargo del Estado"
+    },
+    {
+      "tema": "PROYECTO DE LEY",
+      "subtema": "Objeción presidencial"
+    },
+    {
+      "tema": "CONSEJO NACIONAL PERMANENTE DE CONCERTACION ECONOMICA",
+      "subtema": "Inconstitucionalidad"
+    },
+    {
+      "tema": "MECANISMOS DE PARTICIPACION CIUDADANA",
+      "subtema": "Regulación por ley estatutaria"
+    },
+    {
+      "tema": "PARTICIPACION CIUDADANA",
+      "subtema": "Principio fundante del Estado"
+    }
+  ]
+}

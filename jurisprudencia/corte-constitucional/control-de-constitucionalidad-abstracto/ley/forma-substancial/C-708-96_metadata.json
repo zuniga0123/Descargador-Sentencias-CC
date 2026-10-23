@@ -1,0 +1,51 @@
+{
+  "radicado": "C-708-96",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1996,
+  "fecha_creacion": "1996-12-09",
+  "magistrado_ponente": "Dr VLADIMIRO NARANJO MESA",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "LEY",
+  "subtema": "Forma substancial",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2150 de 1995",
+    "Ley 2067 de 1991",
+    "Ley 2150 de 1995"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1996/C-708-96.htm",
+  "fecha_descarga": "2026-10-23T07:42:33.642184+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1996-12-09",
+  "fecha_publicacion": null,
+  "numero": "C-708/96",
+  "tipo_cc": "C",
+  "prov_id": "13778",
+  "tema_relatoria": "PROYECTO DE LEY N° 232/96 SENADO Y 300/96. CAMARA. SE DEROGA EL DEC. 2150/95. INEXEQUIBLE.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "LEY",
+      "subtema": "Forma substancial"
+    },
+    {
+      "tema": "PROYECTO DE LEY",
+      "subtema": "Cómputo del plazo constitucional"
+    },
+    {
+      "tema": "INEXEQUIBILIDAD DE PROYECTO DE LEY",
+      "subtema": "Vicios de forma"
+    },
+    {
+      "tema": "OBJECION PRESIDENCIAL",
+      "subtema": "Vicio de forma"
+    },
+    {
+      "tema": "PROYECTO DE LEY",
+      "subtema": "Días comunes"
+    }
+  ]
+}

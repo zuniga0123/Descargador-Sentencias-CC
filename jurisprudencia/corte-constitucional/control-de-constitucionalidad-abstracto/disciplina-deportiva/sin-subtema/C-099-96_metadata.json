@@ -1,0 +1,46 @@
+{
+  "radicado": "C-099-96",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1996,
+  "fecha_creacion": "1996-03-07",
+  "magistrado_ponente": "Dr VLADIMIRO NARANJO MESA",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "DISCIPLINA DEPORTIVA",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 49 de 1993",
+    "Decreto 2067 de 1991",
+    "Decreto 2471 de 1994",
+    "Ley 181 de 1995",
+    "Decreto 1228 de 1995",
+    "Decreto 2845 de 1984"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1996/C-099-96.htm",
+  "fecha_descarga": "2026-10-23T07:32:32.154494+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1996-03-07",
+  "fecha_publicacion": null,
+  "numero": "C-099/96",
+  "tipo_cc": "C",
+  "prov_id": "13114",
+  "tema_relatoria": "LEY 49/93. QART. 56. REGIMEN DISCIPLINARIO DEL DEPORTE. UNIDAD DE MATERIA LEGISLATIVA. EXEQUIBLE.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DISCIPLINA DEPORTIVA",
+      "subtema": null
+    },
+    {
+      "tema": "PRINCIPIO DE UNIDAD DE MATERIA",
+      "subtema": null
+    },
+    {
+      "tema": "ORGANISMOS DEPORTIVOS",
+      "subtema": "Funciones de inspección, vigilancia y control"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "radicado": "T-098-95",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1995,
+  "fecha_creacion": "1995-03-03",
+  "magistrado_ponente": "Dr JOSE GREGORIO HERNANDEZ GALINDO",
+  "area": "Derecho de Familia y Derechos de Niños, Niñas y Adolescentes",
+  "tema": "IGUALDAD DE SEXOS",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Ley 1421 de 1993",
+    "Decreto 2591 de 1991"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1995/T-098-95.htm",
+  "fecha_descarga": "2026-10-23T07:49:10.283402+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1995-03-03",
+  "fecha_publicacion": null,
+  "numero": "T-098/95",
+  "tipo_cc": "T",
+  "prov_id": "12426",
+  "tema_relatoria": "OBLIGACIONES ECONOMICAS Y MORALES DE LOS PADRES. MEDIO DE DEFENSA JUDICIAL. NEGADA.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "IGUALDAD DE SEXOS",
+      "subtema": null
+    },
+    {
+      "tema": "MEDIO DE DEFENSA JUDICIAL",
+      "subtema": null
+    },
+    {
+      "tema": "MALTRATO CONYUGAL",
+      "subtema": null
+    },
+    {
+      "tema": "VIOLENCIA INTRAFAMILIAR",
+      "subtema": null
+    },
+    {
+      "tema": "DERECHO A LA INTEGRIDAD PERSONAL",
+      "subtema": null
+    },
+    {
+      "tema": "ALIMENTOS",
+      "subtema": null
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Improcedencia"
+    },
+    {
+      "tema": "JUEZ DE TUTELA",
+      "subtema": "Límites"
+    },
+    {
+      "tema": "PADRES DE FAMILIA",
+      "subtema": "Obligaciones con los hijos"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "radicado": "C-634-96",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1996,
+  "fecha_creacion": "1996-11-21",
+  "magistrado_ponente": "Dr FABIO MORON DIAZ",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "DEROGACION DE LA LEY",
+  "subtema": "Naturaleza",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto Ley 410 de 1971",
+    "Decreto Ley 2273 de 1989",
+    "Ley 81 de 1993",
+    "Decreto 2273 de 1989",
+    "Ley 222 de 1995"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1996/C-634-96.htm",
+  "fecha_descarga": "2026-10-23T07:43:10.286657+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1996-11-21",
+  "fecha_publicacion": null,
+  "numero": "C-634/96",
+  "tipo_cc": "C",
+  "prov_id": "13708",
+  "tema_relatoria": "DEC. 410/71. ART. 2003. COD. DE COMERCIO. DEC. 2273/89. ART. 3 N° 2 PARCIAL. COMPETENCIA DE LOS JUZGADOS CIVILES DEL CIRCUITO ESPECIALIZADOS. INHIBITORIA",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "DEROGACION DE LA LEY",
+      "subtema": "Naturaleza"
+    },
+    {
+      "tema": "SENTENCIA INHIBITORIA",
+      "subtema": "Derogación de norma demandada"
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "radicado": "C-070-96",
+  "corte": "Corte Constitucional",
+  "sala": "PLENA",
+  "sub_sala": "PLENA",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1996,
+  "fecha_creacion": "1996-02-22",
+  "magistrado_ponente": "Dr EDUARDO CIFUENTES MUÑOZ",
+  "area": "Control de Constitucionalidad Abstracto",
+  "tema": "NORMA INEFICAZ",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto Ley 100 de 1980",
+    "Ley 100 de 1980",
+    "Ley 23 de 1991",
+    "Ley 190 de 1995"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1996/C-070-96.htm",
+  "fecha_descarga": "2026-10-23T07:32:06.436882+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1996-02-22",
+  "fecha_publicacion": null,
+  "numero": "C-070/96",
+  "tipo_cc": "C",
+  "prov_id": "13077",
+  "tema_relatoria": "C.P. ART. 372 N°1. DELITOS CONTRA EL PATRIMONIO ECONOMICO. PERDIDA DEL VALOR DEL DINERO EN MATERIA PENAL. EXEQUIBLE.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "NORMA INEFICAZ",
+      "subtema": null
+    },
+    {
+      "tema": "PRINCIPIO DE ANTIJURIDICIDAD",
+      "subtema": null
+    },
+    {
+      "tema": "PRINCIPIO DE PROPORCIONALIDAD",
+      "subtema": null
+    },
+    {
+      "tema": "SENTENCIA DE CONSTITUCIONALIDAD CONDICIONADA",
+      "subtema": null
+    },
+    {
+      "tema": "PRINCIPIO DE PROPORCIONALIDAD DE LA LEY PENAL",
+      "subtema": null
+    },
+    {
+      "tema": "TIPICIDAD",
+      "subtema": "Límite constitucional"
+    },
+    {
+      "tema": "PRINCIPIO DE CONSERVACION DEL DERECHO",
+      "subtema": null
+    },
+    {
+      "tema": "INTERPRETACION CONSTITUCIONAL",
+      "subtema": null
+    },
+    {
+      "tema": "DOSIMETRIA PENAL",
+      "subtema": null
+    },
+    {
+      "tema": "SENTENCIA INTEGRADORA",
+      "subtema": null
+    },
+    {
+      "tema": "CORTE CONSTITUCIONAL",
+      "subtema": "No tiene competencia para modificar normas"
+    },
+    {
+      "tema": "DELITOS CONTRA EL PATRIMONIO ECONOMICO",
+      "subtema": "Cuantía agravante"
+    },
+    {
+      "tema": "DOSIMETRIA PENAL",
+      "subtema": "Actualización de cuantía"
+    },
+    {
+      "tema": "RESPONSABILIDAD OBJETIVA",
+      "subtema": "Proscripción"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "radicado": "T-067-95",
+  "corte": "Corte Constitucional",
+  "sala": "REVISION",
+  "sub_sala": "REVISION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 1995,
+  "fecha_creacion": "1995-02-22",
+  "magistrado_ponente": "Dr HERNANDO HERRERA VERGARA",
+  "area": "Derechos Fundamentales y Debido Proceso",
+  "tema": "REINTEGRO AL CARGO",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": null,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 50 de 1990",
+    "Decreto Ley 2351 de 1965",
+    "Ley 48 de 1968",
+    "Decreto 2351 de 1965"
+  ],
+  "doc_id_origen": "https://www.corteconstitucional.gov.co/relatoria/1995/T-067-95.htm",
+  "fecha_descarga": "2026-10-23T07:48:34.140649+00:00",
+  "fuente_clasificacion": "relatoria_oficial",
+  "fecha_providencia": "1995-02-22",
+  "fecha_publicacion": null,
+  "numero": "T-067/95",
+  "tipo_cc": "T",
+  "prov_id": "12391",
+  "tema_relatoria": "DER. AL TRABAJO. ACCION DE REINTEGRO. ACCESO A LA ADMON DE JUSTICIA. LLOREDA GRASAS S.A. CONCEDIDA PARCIALMENTE.",
+  "resumen": null,
+  "titulaciones": [
+    {
+      "tema": "REINTEGRO AL CARGO",
+      "subtema": null
+    },
+    {
+      "tema": "ACCIÓN DE TUTELA",
+      "subtema": "Improcedencia"
+    },
+    {
+      "tema": "MEDIO DE DEFENSA JUDICIAL",
+      "subtema": null
+    },
+    {
+      "tema": "DERECHO DE ACCESO A LA ADMINISTRACIÓN DE JUSTICIA",
+      "subtema": null
+    },
+    {
+      "tema": "PRESTACIONES SOCIALES",
+      "subtema": "Pago"
+    },
+    {
+      "tema": "PROCESO LABORAL",
+      "subtema": "Indemnización compensatoria"
+    },
+    {
+      "tema": "SENTENCIA",
+      "subtema": "Cumplimiento"
+    }
+  ]
+}
